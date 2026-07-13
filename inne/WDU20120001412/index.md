@@ -8,10 +8,10 @@ pos: 1412
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, 14 grudnia 2012 ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ 4 grudnia 2012 sprawie Monitorowania Ruchu Statków Przekazywania Informacji Na podstawie art. 91 ust. 2 ustawy 18 sierpnia 2011 bezpieczeństwie morskim U. Nr 228, poz. 1368 oraz 2012 poz. 1068) zarządza się, co następuje:
+# DZIENNIK USTAW l RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 grudnia 2012 v r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,95 +25,164 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001412) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1412/text.pdf) |
 
-1. Rozporządzenie określa:
-1) sposób funkcjonowania organizację SafeSeaNet;
-2) zakres zadań Służby Kontroli Ruchu Statków, zwanej dalej „Służbą VTS”;
-3) sposób przekazywania statkach, których mowa art. 90 ust. 1 ustawy 18 sierpnia 2011 bezpieczeństwie morskim, zwanej dalej „ustawą”, oraz podmioty, którym przekazuje się te informacje;
-4) sposób rozpowszechniania zdarzeniach, których mowa art. 88 ust. 1 ustawy, oraz statkach, których mowa art. 90 ust. 1 ustawy;
-5) wymagania wobec systemów teleinformatycznych działających ramach SafeSeaNet.
-2. Użyte rozporządzeniu określenia oznaczają:
-1) krajowy system system utworzony przez państwo członkowskie potrzeby morskiej;
-2) centralny system system morskiej zarządzany, nadzorowany rozwijany przez Komisję Europejską oraz utrzymywany działaniu przez EMSA, działający jako punkt węzłowy posiadający interfejs wszystkich krajowych systemów umożliwiający wymianę danych pomiędzy tymi systemami;
-3) system Unii Europejskiej europejski system morskiej pomiędzy państwami członkowskimi składający się sieci krajowych systemów połączonych za pośrednictwem centralnego systemu
-5) krajowy użytkownik podmiot uprawniony otrzymywania lub dostarczania SafeSeaNet;
-6) państwo członkowskie państwo członkowskie Unii Europejskiej oraz państwo członkowskie Europejskiego Porozumienia Wolnym Handlu (EFTA) stronę umowy Europejskim Obszarze Gospodarczym;
-7) dokument IFCD (Interface and Functionalities Control Document) opracowany przez Komisję Europejską we współpracy państwami członkowskimi dokument dotyczący interfejsu kontroli funkcjonalności, określający szczegółowe wymogi zakresie funkcjonowania, standardów technicznych procedur działania krajowych systemów centralnego systemu SafeSeaNet;
-8) alert sygnał zagrożeniu bądź naruszeniu ochrony statku, którym mowa art. 3 ust. 1 pkt 11 ustawy 4 września 2008 ochronie żeglugi portów morskich U. Nr 171, poz. 1055).
-3. 1. Narodowy System utrzymuje się działaniu ciągłym, a jego skład wchodzą:
-1) infrastruktura techniczna;
-2) Koordynator SafeSeaNet;
-3) krajowi użytkownicy SafeSeaNet.
-2. Elementami infrastruktury technicznej, której mowa ust. 1 pkt 1, są:
-1) podsystem monitorowania ruchu statków, składający się:
-a) radarów brzegowych bliskiego dalekiego zasięgu,
-b) ze stacji brzegowych Automatycznej Identyfikacji (AIS),
-c) Identyfikacji Śledzenia Dalekiego Zasięgu (LRIT);
-2) podsystem przekazywania informacji, składający się z:
-a) systemu kontrolno-informacyjnego dla portów polskich (PHICS), wyłączeniem komponentu STCW zawierającego bazę dokumentów marynarzy,
-b) systemu bezpieczeństwa żeglugi (SWIBŻ).
-4. 1. Koordynator pełni rolę krajowego organu National Competent Authority (NCA), którym mowa dokumencie IFCD.
-2. Koordynator wyznacza utrzymuje Służbę Koordynatora SafeSeaNet, działającą całą dobę, przez 7 dni tygodniu.
-3. Do zadań Służby Koordynatora należy:
-1) udzielanie użytkownikom systemu Unii Europejskiej;
-2) niezwłoczne informowanie krajowych użytkowników SafeSeaNet, przypadku otrzymania systemu Unii Europejskiej, statkach lub zdarzeniach, stanowiących potencjalne niebezpieczeństwo dla żeglugi lub zagrożenie dla bezpieczeństwa morzu, bezpieczeństwa ludzi lub morskiego, których skutki mogą rozciągać się polskie obszary morskie;
-3) niezwłoczne informowanie użytkowników systemu Unii Europejskiej przypadku otrzymania statkach, których mowa art. 90 ust. 1 ustawy, lub zdarzeniach, których mowa art. 88 ust. 1 ustawy, których
-4) Centrum Operacji Morskich Marynarki Wojennej;
-5) Straży Granicznej;
-6) Służbie Celnej;
-7) organom administracji rybołówstwa morskiego;
-8) wojewodzie pomorskiemu, warmińsko-mazurskiemu zachodniopomorskiemu;
-9) podmiotom zarządzającym portami lub przystaniami morskimi;
-10) pilotom morskim;
-11) Państwowej Inspekcji Sanitarnej;
-12) podmiotom właściwym sprawach bezpieczeństwa państwa oraz bezpieczeństwa porządku publicznego, a także podmiotom właściwym sprawach zarządzania kryzysowego.
-2. Prawa dostępu systemu kontrolno-informacyjnego dla portów polskich (PHICS) udziela się kapitanom armatorom statków oraz przedstawicielom kapitanów statków działającym ich imieniu.
-3. Prawa dostępu podsystemów przekazywania udziela się wniosek złożony dyrektora właściwego urzędu morskiego.
-4. Wzory wniosków, których mowa ust. 3, znajdują się stronie internetowej Urzędu Morskiego Gdyni .
-5. Koordynator może upoważnić administratorów podsystemów przekazywania udzielania praw dostępu tych podsystemów.
-6. Dyrektorzy urzędów morskich, zakresie swojej właściwości terytorialnej, współpracują Koordynatorem SafeSeaNet celu zapewnienia właściwego funkcjonowania operacyjnego technicznego poprzez:
-1) zapewnienie całodobowej, działającej przez 7 dni tygodniu Służby VTS, odpowiedzialnej za monitorowanie ruchu statków przekazywanie informacji;
-2) zapewnienie całodobowego obiegu przekazywania za pomocą oraz nadzoru podejmowania działań korygujących mających celu zapewnienie przekazywania prawidłowych centralnego systemu SafeSeaNet;
-3) ustanowienie regulaminu szczegółowych procedur działania Służby VTS, uwzględnieniem wytycznych Międzynarodowej Organizacji Morskiej (IMO) Międzynarodowego Stowarzyszenia Służb Oznakowania Nawigacyjnego (IALA) ;
-4) utrzymanie działaniu ciągłym zapewnienie wymaganej dostępności elementów podsystemu monitorowania ruchu statków, których mowa 3 ust. 2 pkt 1;
-5) zarządzanie podsystemami przekazywania informacji, których mowa 3 ust. 2 pkt 2, ich eksploatowanie;
-6) przyjmowanie, od podmiotów działających obszarze właściwości terytorialnej dyrektora urzędu morskiego, wniosków, których mowa 5 ust. 3, przesyłanie tych wniosków Koordynatora SafeSeaNet, celu udzielenia prawa dostępu systemu bezpieczeństwa żeglugi (SWIBŻ);
-7) udzielanie prawa dostępu systemu kontrolno-informacyjnego dla portów polskich (PHICS) podmiotom, których mowa 5 ust. 2, oraz przyjmowanie od pozostałych podmiotów, działających obszarze właściwości terytorialnej lają roczne plany współpracy, zgodnie przepisami sprawie współpracy urzędów morskich Marynarką Wojenną.
-9. Służba VTS, obszarze swego działania, pełni następujące zadania:
-1) prowadzi kontrolę zarządzanie ruchem statków poprzez wydawanie instrukcji, zaleceń nakazów;
-2) prowadzi nadzór nad przestrzeganiem przez statki przepisów ruchu wyznaczonych trasach przepływu, systemach rozgraniczenia ruchu zgłaszania pozycji statku;
-3) rozpowszechnia drogą radiową informacje nawigacyjne hydrologiczno-meteorologiczne zgodnie wytycznymi Międzynarodowej Organizacji Morskiej (IMO);
-4) świadczy serwis asysty morskiej zgodnie wytycznymi Międzynarodowej Organizacji Morskiej ;
-5) utrzymuje łączność kapitanem, armatorem statku lub właścicielem przewożonych przez statek towarów niebezpiecznych, którym mowa art. 88 ustawy lub art. 27 pkt 1 ustawy 16 marca 1995 zapobieganiu zanieczyszczaniu morza przez statki U. 2012 poz. 1244);
-6) rozpowszechnia drogą radiową ostrzeżenia nawigacyjne statkach, których mowa art. 90 ust. 1 ustawy, lub zdarzeniach, których mowa art. 88 ust. 1 ustawy;
-7) monitoruje ruch statków, których mowa art. 90 ust. 1 ustawy, lub zdarzenia, których mowa art. 88 ust. 1 ustawy;
-8) realizuje zadania określone planie udzielenia statkom znajdującym się niebezpieczeństwie schronienia polskich obszarach morskich, którym mowa art. 94 ust. 2 ustawy;
-9) realizuje stosunku statków obiektów portowych zadania regionalnego punktu kontaktowego, których mowa art. 6 ust. 2 ustawy 4 września 2008 ochronie żeglugi portów morskich;
-10) dostarcza informacje za pomocą krajowym użytkownikom SafeSeaNet.
-10. 1. Służba VTS, przypadku otrzymania statkach, których mowa art. 90 ust. 1 ustawy, lub zdarzeniach, których mowa art. 88 ust. 1 ustawy:
-1) niezwłocznie przekazuje tę informację:
-a) właściwemu dyrektorowi urzędu morskiego,
-b) właściwym krajowym użytkownikom SafeSeaNet, za pomocą systemu bezpieczeństwa żeglugi (SWIBŻ),
-c) ministrowi właściwemu spraw gospodarki morskiej, za pośrednictwem Służby Koordynatora SafeSeaNet;
-2) pobiera informacje tych statkach systemu Unii Europejskiej, za pośrednictwem systemu informacji bezpieczeństwa żeglugi (SWIBŻ);
-3) jeżeli skutki potencjalnego niebezpieczeństwa rozciągają się inne państwo członkowskie, niezwłocznie informuje właściwe organy państw członkowskich położonych wzdłuż planowanej trasy tych statków za pośrednictwem Służby Koordynatora SafeSeaNet, za pomocą systemu bezpieczeństwa żeglugi (SWIBŻ).
-2. Służba SAR, przypadku otrzymania statkach, których mowa art. 90 ust. 1 pkt 1 ustawy, niezwłocznie przekazuje tę informację właściwej Służbie VTS za pomocą systemu bezpieczeństwa żeglugi (SWIBŻ).
-3. Armator, kapitan lub przedstawiciel kapitana statku zmierzającego portu polskiego przekazuje informacje zgodnie z:
-1) art. 87 ustawy,
-6. Kapitan portu przekazuje organowi inspekcyjnemu informacje dotyczące aktualnego czasu przybycia wypłynięcia każdego statku zawijającego jego portu lub kotwicowisko, wraz identyfikatorem danego portu, za pomocą systemu bezpieczeństwa żeglugi (SWIBŻ).
-7. Pilot morski przekazuje informacje, których mowa art. 55 ust. 1 ustawy, miarę możliwości za pomocą systemu bezpieczeństwa żeglugi (SWIBŻ).
-8. Podmiot zarządzający portem lub przystanią morską przekazuje informacje, których mowa art. 55 ust. 2 ustawy, miarę możliwości za pomocą systemu bezpieczeństwa żeglugi (SWIBŻ).
-9. Organ inspekcyjny przekazuje właściwej Służbie VTS informacje statkach, których mowa art. 90 ust. 1 pkt 4 ustawy, za pomocą systemu bezpieczeństwa żeglugi (SWIBŻ).
-10. Morskie Ratownicze Centrum Koordynacyjne ramach realizacji zadań punktu odbioru alertu, których mowa art. 6 ust. 3 ustawy 4 września 2008 ochronie żeglugi portów morskich, przekazuje właściwe informacje związane alertem za pomocą systemu bezpieczeństwa żeglugi (SWIBŻ).
-11. 1. Systemy teleinformatyczne działające ramach powinny:
-1) mieć dostępność nie mniejszą niż określona dokumencie IFCD;
-2) zapewniać możliwość archiwizowania odzyskiwania danych dotyczących okresu określonego dokumencie IFCD;
-3) umożliwiać przekazywanie 24 godziny dobę, przez 7 dni tygodniu;
-4) umożliwiać przekazywanie, niezwłocznie po otrzymaniu żądania, właściwym organom państw członkowskich, informacji statku ładunkach niebezpiecznych lub zanieczyszczających przewożonych pokładzie statku;
-5) stale utrzymywać właściwy poziom bezpieczeństwa teleinformatycznego;
-6) zapewniać dostęp tylko uprawnionym użytkownikom.
-2. W razie awarii lub planowanych przerw pracy zapewnia się wymianę przy użyciu telefonu, faksu lub poczty elektronicznej.
-3. W celu regularnego sprawdzania funkcjonowania wszystkich podsystemów dyrektorzy właściwych urzędów morskich przeprowadzają okresowe inspekcje techniczne oraz podejmują czynności niezbędne zapewnienia jego ciągłego działania.
-12. Podmioty, których mowa 5 ust. 1 2, którym przed dniem wejścia życie rozporządzenia udzielono prawa dostępu SafeSeaNet, zachowują to prawo.
-13. Rozporządzenie wchodzi życie po upływie 14 dni od ogłoszenia.
-Minister Transportu, Budownictwa Gospodarki Morskiej: S. Nowak
+Poz. 1412 o ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 4 grudnia g 2012 r.
+w sprawie Narodowego Systemu Monitorowania Ruchu Statków i Przekazywania Informacji Na podstawie art. 91 ust. 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. Nr 228, poz. 1368 oraz z 2012 r. poz. 1068) zarządza się, co następuje: .
+
+**§ 1.** Rozporządzenie określa: l
+
+- **1)** sposób funkcjonowania i organizację Narodowego Systemu SafeSeaNet;
+- **2)** zakres zadań Służby Kontroli Ruchu Statków, c zwanej dalej „Służbą VTS”;
+- **3)** sposób przekazywania informacji o statkach, o których mowa w art. 90 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, zwanej dalej „ustawą”, oraz podmioty, którym przekazuje się te informacje;
+- **4)** sposób rozpowszechniania informacji r o zdarzeniach, o których mowa w art. 88 ust. 1 ustawy, oraz o statkach, o których mowa w art. 90 ust. 1 ustawy;
+- **5)** wymagania wobec systemów . teleinformatycznych działających w ramach Narodowego Systemu SafeSeaNet.
+
+**§ 2.** Użyte w rozporządzeniu określenia oznaczają: w
+
+- **1)** krajowy system SafeSeaNet – system utworzony przez państwo członkowskie na potrzeby wymiany informacji morskiej;
+- **2)** centralny system SafeSeaNet – system wymiany informacji morskiej zarządzany, nadzorowany i rozwijany przez Komisję Europejską oraz utrzymywany w działaniu przez EMSA, działający jako punkt węzłowy posiadający interfejs do wszystkich krajowych systemów SafeSeaNet i umożliwiający wymianę danych pomiędzy tymi systemami;
+- **3)** system SafeSeaNet Unii Europejskiej – europejski system wymiany informacji morskiej pomiędzy państwami członkowskimi składający się z sieci krajowych systemów SafeSeaNet połączonych za pośrednictwem centralnego systemu w SafeSeaNet, opracowany w celu ułatwienia wymiany danych istotnych dla bezpieczeństwa morskiego, ochrony statków i obiektów portowych, ochrony środowiska morskiego, efektywności ruchu statków i transportu morskiego, w postaci elektronicznej;
+- **4)** N arodowy System SafeSeaNet – krajowy system SafeSeaNet utworzony w Rzeczypospolitej Polskiej, będący Narodowym Systemem Monitorowania Ruchu Statków i Przekazywania Informacji, o którym . mowa w art. 91 ustawy;
+- **5)** k rajowy użytkownik SafeSeaNet – podmiot uprawniony do otrzymywania lub dostarczania informacji do Narodowego Systemu SafeSeaNet; v
+- **6)** p aństwo członkowskie – państwo członkowskie Unii Europejskiej oraz państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
+- **7)** d okument IFCD (Interface and Functionalities Control Document) o – opracowany przez Komisję Europejską we współpracy z państwami członkowskimi dokument dotyczący interfejsu i kontroli funkcjonalności, określający szczegółowe wymogi w zakresie funkcjonowania, standardów technicznych i procedur działania krajowych systemów SafeSeaNet i centralnego systemu SafeSeaNet;
+- **8)** alert – sygnał o zagrożeniu bądź naruszeniu ochrony statku, g o którym mowa w art. 3 ust. 1 pkt 11 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. Nr 171, poz. 1055).
+
+**§ 3.**
+
+1. Narodowy System SafeSeaNet utrzymuje się w działaniu ciągłym, a w jego skład wchodzą:
+
+- **1)** infrastruktura techniczna; .
+- **2)** Koordynator SafeSeaNet;
+- **3)** krajowi użytkownicy SafeSeaNet. l
+
+2. Elementami infrastruktury technicznej, c o której mowa w ust. 1 pkt 1, są:
+
+- **1)** podsystem monitorowania ruchu statków, składający się:
+    - **a)** z radarów brzegowych bliskiego i dalekiego zasięgu,
+    - **b)** ze stacji brzegowych Systemu r Automatycznej Identyfikacji (AIS),
+    - **c)** z Systemu Identyfikacji i Śledzenia Dalekiego Zasięgu (LRIT);
+
+- **2)** podsystem przekazywania . informacji, składający się z:
+    - **a)** systemu kontrolno-informacyjnego dla portów polskich (PHICS), z wyłączeniem komponentu STCW zawierającego bazę dokumentów w marynarzy,
+    - **b)** systemu wymiany informacji bezpieczeństwa żeglugi (SWIBŻ).
+
+**§ 4.**
+
+1. Koordynator SafeSeaNet pełni rolę krajowego organu National Competent Authority (NCA), o którym mowa w dokumencie IFCD.
+
+2. Koordynator SafeSeaNet wyznacza i utrzymuje Służbę Koordynatora SafeSeaNet, działającą całą dobę, przez 7 dni w tygodniu. w
+
+3. Do zadań Służby Koordynatora SafeSeaNet należy:
+
+- **1)** udzielanie informacji użytkownikom systemu SafeSeaNet Unii Europejskiej;
+- **2)** niezwłoczne informowanie krajowych użytkowników SafeSeaNet, w przypadku otrzymania informacji z systemu w SafeSeaNet Unii Europejskiej, o statkach lub zdarzeniach, stanowiących potencjalne niebezpieczeństwo dla żeglugi lub zagrożenie dla bezpieczeństwa na morzu, bezpieczeństwa ludzi lub środowiska morskiego, których skutki mogą rozciągać się na polskie obszary morskie;
+- **3)** niezwłoczne informowanie użytkowników systemu SafeSeaNet Unii Europejskiej w przypadku otrzymania informacji o statkach, o których mowa w art. 90 ust. 1 ustawy, lub zdarzeniach, o których mowa w art. 88 ust. 1 ustawy, których skutki mogą rozciągać się na obszary morskie państw członkowskich;
+- **4)** niezwłoczne informowanie ministra właściwego do spraw gospodarki morskiej o każdym przypadku otrzymania informacji, o których mowa w pkt 2 i 3.
+
+**§ 5.**
+
+1. Prawa dostępu do Narodowego Systemu SafeSeaNet udziela się ministrowi właściwemu do spraw gospodarki morskiej i następującym krajowym użytkownikom SafeSeaNet:
+
+- **1)** dyrektorom urzędów morskich;
+- **2)** Morskiej Służbie Poszukiwania i Ratownictwa, zwanej dalej „Służbą SAR”;
+- **3)** Biuru Hydrograficznemu Marynarki Wojennej;
+- **4)** Centrum Operacji Morskich Marynarki Wojennej; v
+- **5)** Straży Granicznej;
+- **6)** Służbie Celnej;
+- **7)** organom administracji rybołówstwa morskiego; o
+- **8)** wojewodzie pomorskiemu, warmińsko-mazurskiemu i zachodniopomorskiemu;
+- **9)** podmiotom zarządzającym portami lub przystaniami morskimi;
+- **10)** pilotom morskim; g
+- **11)** Państwowej Inspekcji Sanitarnej;
+- **12)** podmiotom właściwym w sprawach bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego, a także podmiotom właściwym w sprawach zarządzania kryzysowego. .
+
+2. Prawa dostępu do systemu kontrolno-informacyjnego dla portów polskich (PHICS) udziela się kapitanom i armatorom statków oraz przedstawicielom kapitanów statków działającym w ich imieniu. l
+
+3. Prawa dostępu do podsystemów przekazywania informacji Narodowego Systemu SafeSeaNet udziela się na wniosek złożony do dyrektora właściwego urzędu c morskiego.
+
+4. Wzory wniosków, o których mowa w ust. 3, znajdują się na stronie internetowej Urzędu Morskiego w Gdyni .
+
+5. Koordynator SafeSeaNet może upoważnić administratorów podsystemów przekazywania informacji Narodowego Systemu SafeSeaNet do udzielania r praw dostępu do tych podsystemów.
+
+**§ 6.** Dyrektorzy urzędów morskich, w zakresie swojej właściwości terytorialnej, współpracują z Koordynatorem SafeSeaNet w celu zapewnienia właściwego . funkcjonowania operacyjnego i technicznego Narodowego Systemu SafeSeaNet poprzez:
+
+- **1)** zapewnienie w całodobowej, działającej przez 7 dni w tygodniu Służby VTS, odpowiedzialnej za monitorowanie ruchu statków i przekazywanie informacji;
+- **2)** zapewnienie całodobowego obiegu i przekazywania informacji za pomocą Narodowego Systemu SafeSeaNet oraz nadzoru i podejmowania działań korygujących mających na celu zapewnienie przekazywania prawidłowych informacji do centralnego systemu SafeSeaNet;
+- **3)** ustanowienie regulaminu i szczegółowych procedur działania Służby VTS, z uwzględnieniem wytycznych Międzynarodowej Organizacji Morskiej (IMO) i Międzynarodowego Stowarzyszenia Służb Oznakowania Nawigacyjnego (IALA) ;
+- **4)** utrzymanie w działaniu ciągłym i zapewnienie wymaganej dostępności elementów podsystemu monitorowania ruchu statków, o których mowa w § 3 ust. 2 pkt 1;
+- **5)** zarządzanie podsystemami przekazywania informacji, o których mowa w § 3 ust. 2 pkt 2, i ich eksploatowanie; w 6) p rzyjmowanie, od podmiotów działających w obszarze właściwości terytorialnej dyrektora urzędu morskiego, wniosków, o których mowa w § 5 ust. 3, i przesyłanie tych wniosków do Koordynatora SafeSeaNet, w celu udzielenia prawa dostępu do systemu wymiany informacji bezpieczeństwa żeglugi (SWIBŻ);
+- **7)** u dzielanie prawa dostępu do systemu kontrolno-informacyjnego dla portów polskich (PHICS) podmiotom, o których mowa w § 5 ust. 2, oraz przyjmowanie od pozostałych podmiotów, działających w obszarze właściwości terytorialnej dyrektora urzędu morskiego, wniosków i przesyłanie tych wniosków do Koordynatora SafeSeaNet lub upoważnionego przez niego administratora podsystemu przekazywania informacji krajowego systemu SafeSeaNet.
+
+**§ 7.** Służba SAR uczestniczy w Narodowym Systemie SafeSeaNet w zakresie wymiany informacji o zagrożeniu życia ludzkiego na morzu, zagrożeniu zanieczyszczeniem środowiska morskiego i informacji związanych z odebranym alertem.
+
+**§ 8.**
+
+1. Biuro Hydrograficzne Marynarki Wojennej uczestniczy w Narodowym Systemie SafeSeaNet jako Krajowy Koordynator Ostrzeżeń Nawigacyjnych oraz w zakresie wymiany informacji kartograficznej, hydrograficznej i nautycznej.
+
+2. Szczegóły współpracy między Biurem Hydrograficznym Marynarki Wojennej i dyrektorami urzędów morskich określają roczne plany współpracy, zgodnie z przepisami w sprawie współpracy urzędów morskich z Marynarką Wojenną.
+
+**§ 9.** Służba VTS, w obszarze swego działania, pełni następujące zadania:
+
+- **1)** prowadzi kontrolę i zarządzanie ruchem statków poprzez wydawanie instrukcji, zaleceń i nakazów;
+- **2)** prowadzi nadzór nad przestrzeganiem przez statki przepisów ruchu na wyznaczonych trasach przepływu, w systemach rozgraniczenia ruchu i zgłaszania pozycji statku; o
+- **3)** rozpowszechnia drogą radiową informacje nawigacyjne i hydrologiczno-meteorologiczne zgodnie z wytycznymi Międzynarodowej Organizacji Morskiej (IMO);
+- **4)** świadczy serwis asysty morskiej zgodnie z wytycznymi Międzynarodowej Organizacji Morskiej ; g
+- **5)** utrzymuje łączność z kapitanem, armatorem statku lub właścicielem przewożonych przez statek towarów niebezpiecznych, o którym mowa w art. 88 ustawy lub w art. 27 pkt 1 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki (Dz. U. z 2012 r. poz. 1244);
+- **6)** r ozpowszechnia drogą radiową ostrzeżenia nawigacyjne . o statkach, o których mowa w art. 90 ust. 1 ustawy, lub zdarzeniach, o których mowa w art. 88 ust. 1 ustawy;
+- **7)** m onitoruje ruch statków, o których mowa w art. l 90 ust. 1 ustawy, lub zdarzenia, o których mowa w art. 88 ust. 1 ustawy;
+- **8)** r ealizuje zadania określone w planie udzielenia statkom znajdującym się w niebezpieczeństwie schronienia na polskich obszarach morskich, o którym mowa c w art. 94 ust. 2 ustawy;
+- **9)** r ealizuje w stosunku do statków i obiektów portowych zadania regionalnego punktu kontaktowego, o których mowa w art. 6 ust. 2 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich;
+- **10)** dostarcza informacje za pomocą r Narodowego Systemu SafeSeaNet krajowym użytkownikom SafeSeaNet.
+
+**§ 10.**
+
+1. Służba VTS, w przypadku otrzymania informacji o statkach, o których mowa w art. 90 ust. 1 ustawy, lub zdarzeniach, o których mowa w art. 88 ust. 1 ustawy: .
+
+- **1)** niezwłocznie przekazuje tę informację:
+    - **a)** właściwemu w dyrektorowi urzędu morskiego,
+    - **b)** w łaściwym krajowym użytkownikom SafeSeaNet, za pomocą systemu wymiany informacji bezpieczeństwa żeglugi (SWIBŻ),
+    - **c)** m inistrowi właściwemu do spraw gospodarki morskiej, za pośrednictwem Służby Koordynatora SafeSeaNet;
+
+- **2)** p obiera informacje o tych statkach z systemu SafeSeaNet Unii Europejskiej, za pośrednictwem systemu wymiany informacji bezpieczeństwa żeglugi (SWIBŻ);
+- **3)** j eżeli skutki potencjalnego niebezpieczeństwa rozciągają się na inne państwo członkowskie, niezwłocznie informuje właściwe organy państw członkowskich położonych wzdłuż planowanej trasy tych statków za pośrednictwem Służby Koordynatora SafeSeaNet, za pomocą systemu wymiany informacji bezpieczeństwa żeglugi (SWIBŻ).
+
+2. Służba SAR, w przypadku otrzymania informacji o statkach, o których mowa w art. 90 ust. 1 pkt 1 ustawy, niezwłocznie przekazuje tę informację właściwej Służbie VTS za pomocą systemu wymiany informacji bezpieczeństwa żegluw gi (SWIBŻ).
+
+3. Armator, kapitan lub przedstawiciel kapitana statku zmierzającego do portu polskiego przekazuje informacje zgodnie z:
+
+- **1)** art. 87 ustawy,
+- **2)** art. 43 ust. 1 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich – za pomocą systemu kontrolno-informacyjnego dla portów polskich (PHICS).
+
+4. Armator statku przewożącego ładunki niebezpieczne lub zanieczyszczające przekazuje informacje, zgodnie z art. 10a ust. 1 ustawy z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki, za pomocą systemu kontrolno-informacyjnego dla portów polskich (PHICS).
+
+5. Armator, kapitan lub przedstawiciel kapitana statku, o którym mowa w art. 41 ust. 2 ustawy, przekazuje informacje o statku zgodnie z tym artykułem, za pomocą systemu kontrolno-informacyjnego dla portów . polskich (PHICS).
+
+6. Kapitan portu przekazuje organowi inspekcyjnemu informacje dotyczące aktualnego czasu przybycia i wypłynięcia każdego statku zawijającego do jego portu lub na kotwicowisko, wraz z identyfikatorem danego portu, za pomocą systemu wymiany informacji bezpieczeństwa żeglugi (SWIBŻ).
+
+7. Pilot morski przekazuje informacje, o których mowa w art. 55 ust. 1 ustawy, w miarę możliwości za pomocą systemu wymiany informacji bezpieczeństwa żeglugi (SWIBŻ). o
+
+8. Podmiot zarządzający portem lub przystanią morską przekazuje informacje, o których mowa w art. 55 ust. 2 ustawy, w miarę możliwości za pomocą systemu wymiany informacji bezpieczeństwa żeglugi (SWIBŻ).
+
+9. Organ inspekcyjny przekazuje właściwej Służbie VTS informacje o statkach, o których mowa w art. 90 ust. 1 pkt 4 ustawy, za pomocą systemu wymiany informacji bezpieczeństwa g żeglugi (SWIBŻ).
+
+10. Morskie Ratownicze Centrum Koordynacyjne w ramach realizacji zadań punktu odbioru alertu, o których mowa w art. 6 ust. 3 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich, przekazuje właściwe informacje związane z alertem za pomocą systemu wymiany informacji bezpieczeństwa żeglugi (SWIBŻ). .
+
+**§ 11.**
+
+1. Systemy teleinformatyczne działające w ramach Narodowego Systemu SafeSeaNet powinny:
+
+- **1)** mieć dostępność nie mniejszą niż określona w l dokumencie IFCD;
+- **2)** zapewniać możliwość archiwizowania c i odzyskiwania danych dotyczących okresu określonego w dokumencie IFCD;
+- **3)** umożliwiać przekazywanie informacji 24 godziny na dobę, przez 7 dni w tygodniu;
+- **4)** umożliwiać przekazywanie, niezwłocznie po otrzymaniu żądania, właściwym organom państw członkowskich, informacji o statku i ładunkach niebezpiecznych lub zanieczyszczających przewożonych na pokładzie statku; r
+- **5)** stale utrzymywać właściwy poziom bezpieczeństwa teleinformatycznego;
+- **6)** zapewniać dostęp tylko uprawnionym . użytkownikom.
+
+2. W razie awarii lub planowanych przerw w pracy zapewnia się wymianę informacji przy użyciu telefonu, faksu lub poczty elektronicznej. w
+
+3. W celu regularnego sprawdzania funkcjonowania wszystkich podsystemów Narodowego Systemu SafeSeaNet dyrektorzy właściwych urzędów morskich przeprowadzają okresowe inspekcje techniczne oraz podejmują czynności niezbędne do zapewnienia jego ciągłego działania.
+
+**§ 12.** Podmioty, o których mowa w § 5 ust. 1 i 2, którym przed dniem wejścia w życie rozporządzenia udzielono prawa dostępu w do Narodowego Systemu SafeSeaNet, zachowują to prawo.
+
+**§ 13.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak w
 

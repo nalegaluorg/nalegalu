@@ -8,12 +8,10 @@ pos: 310
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o kołach gospodyń wiejskich
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 6 marca 2025 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kołach gospodyń wiejskich
 
 | Pole | Wartość |
 |---|---|
@@ -31,15 +29,10 @@ source: "isap-pdf"
 1) ustawą z dnia 11 października 2024 r. o zmianie ustawy o kołach gospodyń wiejskich oraz ustawy o społeczno-zawodowych organizacjach rolników (Dz. U. poz. 1560),
 2) ustawą z dnia 8 listopada 2024 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o kołach gospodyń wiejskich (Dz. U. poz. 1761) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 marca 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 3–6 ustawy z dnia 11 października 2024 r. o zmianie ustawy o kołach gospodyń wiejskich oraz ustawy o społeczno-zawodowych organizacjach rolników (Dz. U. poz. 1560), które stanowią: „Art. 3. Do postępowań w sprawie wpisu do Krajowego Rejestru Kół Gospodyń Wiejskich wszczętych i niezakończonych ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 4.** Koło gospodyń wiejskich wpisane do Krajowego Rejestru Kół Gospodyń Wiejskich przed dniem wejścia w życie niniejszej ustawy, które jest zrzeszone w gminnym związku rolników, kółek i organizacji rolniczych, wojewódzkim związku rolników, kółek i organizacji rolniczych albo Krajowym Związku Rolników, Kółek i Organizacji Rolniczych, o których mowa w ustawie z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników (Dz. U. z 2024 r. poz. 263 i 1560), przekazuje kierownikowi biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwemu ze względu na siedzibę tego koła informację o zrzeszeniu w tym związku w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 5.** Przepisów art. 34 ust. 8 ustawy zmienianej w art. 1 nie stosuje się do kół gospodyń wiejskich wpisanych do Krajowego Rejestru Kół Gospodyń Wiejskich przed dniem wejścia w życie niniejszej ustawy.
-
-**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
-
-**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r., z wyjątkiem art. 3, który wchodzi w życie z dniem 1 stycznia 2025 r.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 9 listopada 2018 r. o kołach gospodyń wiejskich
+1) art. 3–6 ustawy z dnia 11 października 2024 r. o zmianie ustawy o kołach gospodyń wiejskich oraz ustawy o społeczno-zawodowych organizacjach rolników (Dz. U. poz. 1560), które stanowią: „ Art. 3. Do postępowań w sprawie wpisu do Krajowego Rejestru Kół Gospodyń Wiejskich wszczętych i niezakończonych ostateczną decyzją przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą. Art. 4. Koło gospodyń wiejskich wpisane do Krajowego Rejestru Kół Gospodyń Wiejskich przed dniem wejścia w życie niniejszej ustawy, które jest zrzeszone w gminnym związku rolników, kółek i organizacji rolniczych, wojewódzkim związku rolników, kółek i organizacji rolniczych albo Krajowym Związku Rolników, Kółek i Organizacji Rolniczych, o których mowa w ustawie z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników (Dz. U. z 2024 r. poz. 263 i 1560), przekazuje kierownikowi biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwemu ze względu na siedzibę tego koła informację o zrzeszeniu w tym związku w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy. Art. 5. Przepisów art. 34 ust. 8 ustawy zmienianej w art. 1 nie stosuje się do kół gospodyń wiejskich wpisanych do Krajowego Rejestru Kół Gospodyń Wiejskich przed dniem wejścia w życie niniejszej ustawy. Art. 6. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+2) art. 3 i art. 4 ustawy z dnia 8 listopada 2024 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o kołach gospodyń wiejskich (Dz. U. poz. 1761), które stanowią: „ Art. 3. W roku 2025 wysokość limitu przychodów, o których mowa w art. 10a ust. 1 pkt 5 ustawy zmienianej w art. 1 oraz art. 24 ust. 1 pkt 3 ustawy zmienianej w art. 2, wynosi 1 000 000 zł. Art. 4. Ustawa wchodzi w życie z dniem 1 stycznia 2026 r., z wyjątkiem art. 3, który wchodzi w życie z dniem 1 stycznia 2025 r.”. Marszałek Sejmu: S. Hołownia
+USTAWA z dnia 9 listopada 2018 r.
+o kołach gospodyń wiejskich
 
 **Art. 1.** Ustawa określa formy i zasady dobrowolnego zrzeszania się w kołach gospodyń wiejskich, tryb ich zakładania oraz organizację kół gospodyń wiejskich działających na terytorium Rzeczypospolitej Polskiej.
 
@@ -135,7 +128,7 @@ source: "isap-pdf"
 
 1. Do czasu rejestracji koła gospodyń wiejskich, a następnie do czasu wyboru zgodnie ze statutem jego organów, w imieniu koła działa komitet założycielski.
 
-2. Za czynności dokonane w imieniu koła gospodyń wiejskich przed jego rejestracją członkowie komitetu założycielskiego odpowiadają wobec osób trzecich solidarnie, zaś za zobowiązania wynikające z tych czynności po rejestracji koła odpowiada koło tak, jak za zobowiązania zaciągnięte przez siebie, z tym że członkowie komitetu założycielskiego odpowiadają za nie wobec koła według przepisów prawa cywilnego.
+2. Za czynności dokonane w imieniu koła gospodyń wiejskich przed jego rejestracją członkowie komitetu założycielskiego odpowiadają wobec osób trzecich solidarnie, zaś za zobowiązania wynikające z tych czynności po rejestracji koła – odpowiada koło tak, jak za zobowiązania zaciągnięte przez siebie, z tym że członkowie komitetu założycielskiego odpowiadają za nie wobec koła według przepisów prawa cywilnego.
 
 3. Koło gospodyń wiejskich jest obowiązane do wyboru zarządu koła gospodyń wiejskich, zwanego dalej „zarządem koła”, w terminie 3 miesięcy od dnia dokonania wpisu do rejestru.
 
@@ -145,10 +138,10 @@ source: "isap-pdf"
 
 **Art. 8.**
 
-1. Zarząd koła, a w przypadku gdy zarząd koła nie został wybrany komitet założycielski, składa do kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwego ze względu na siedzibę tego koła wniosek o wpis koła gospodyń wiejskich do rejestru, dołączając do tego wniosku:
+1. Zarząd koła, a w przypadku gdy zarząd koła nie został wybrany – komitet założycielski, składa do kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwego ze względu na siedzibę tego koła wniosek o wpis koła gospodyń wiejskich do rejestru, dołączając do tego wniosku:
 
 - **1)** statut koła lub oświadczenie o przyjęciu przez koło wzorcowego statutu;
-- **2)** uchwałę o wyborze zarządu koła, a w przypadku gdy zarząd koła nie został wybrany uchwałę założycieli koła o wyborze komitetu założycielskiego;
+- **2)** uchwałę o wyborze zarządu koła, a w przypadku gdy zarząd koła nie został wybrany – uchwałę założycieli koła o wyborze komitetu założycielskiego;
 - **3)** uchwałę założycieli koła o przyjęciu statutu.
 
 2. Wniosek, o którym mowa w ust. 1, zawiera w szczególności:
@@ -158,7 +151,7 @@ source: "isap-pdf"
 - **3)** oświadczenia założycieli koła o woli wejścia w skład jego członków oraz o miejscu zamieszkania na terenie działalności koła;
 - **4)** adres do doręczeń;
 - **5)** informacje o osobie albo osobach umocowanych do reprezentacji koła i sposobie tej reprezentacji;
-- **6)** własnoręczne podpisy członków zarządu koła, a gdy zarząd koła nie został wybrany osób wybranych w skład komitetu założycielskiego;
+- **6)** własnoręczne podpisy członków zarządu koła, a gdy zarząd koła nie został wybrany – osób wybranych w skład komitetu założycielskiego;
 - **7)** informację, czy koło jest zrzeszone w gminnym związku rolników, kółek i organizacji rolniczych, wojewódzkim związku rolników, kółek i organizacji rolniczych albo Krajowym Związku Rolników, Kółek i Organizacji Rolniczych, o których mowa w ustawie z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników (Dz. U. z 2024 r. poz. 263 i 1560).
 
 3. Wniosek, o którym mowa w ust. 1, składa się na formularzu opracowanym i udostępnionym przez Agencję Restrukturyzacji i Modernizacji Rolnictwa.
@@ -201,6 +194,14 @@ source: "isap-pdf"
 
 **Art. 13.** Rejestr zawiera dane i informacje zawarte we wniosku o wpis koła do rejestru oraz inne dane dotyczące koła zamieszczone według następującego porządku:
 
+- **1)** data wpisu do rejestru i daty wpisów późniejszych zmian danych zawartych we wniosku o wpis koła do rejestru, w tym zmian statutu koła;
+- **2)** nazwa koła, adres siedziby koła, numer identyfikacyjny koła w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli numer taki został nadany, oraz numer identyfikacji podatkowej (NIP) koła;
+- **3)** lista założycieli koła;
+- **4)** informacja o osobie lub osobach umocowanych do reprezentacji koła oraz o sposobie tej reprezentacji;
+- **5)** informacja o oświadczeniach założycieli koła zawartych we wniosku o wpis koła do rejestru;
+- **6)** lista członków koła zawierająca miejsce stałego zamieszkania oraz numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludności (PESEL) członka, a w przypadku osoby nieposiadającej obywatelstwa polskiego – z kodem kraju tej osoby oraz numerem jej paszportu lub innego dokumentu stwierdzającego jej tożsamość;
+- **7)** informację o zrzeszeniu koła w gminnym związku rolników, kółek i organizacji rolniczych, wojewódzkim związku rolników, kółek i organizacji rolniczych albo Krajowym Związku Rolników, Kółek i Organizacji Rolniczych, o których mowa w ustawie z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników – o ile koło jest zrzeszone w takim związku.
+
 **Art. 14.**
 
 1. Zebranie członków jest najwyższym organem koła gospodyń wiejskich. W sprawach, w których statut nie określa właściwości organów koła, podejmowanie uchwał należy do zebrania członków.
@@ -208,6 +209,17 @@ source: "isap-pdf"
 2. Każdy członek ma jeden głos na zebraniu członków.
 
 **Art. 15.** Do wyłącznej właściwości zebrania członków koła gospodyń wiejskich należy:
+
+- **1)** wybór zarządu koła;
+- **2)** uchwalanie kierunków działalności koła;
+- **3)** rozpatrywanie i zatwierdzanie sprawozdań merytorycznych i finansowych oraz podejmowanie uchwał co do wniosków członków lub zarządu koła w tych sprawach i udzielanie absolutorium członkom zarządu koła;
+- **4)** podejmowanie uchwał w sprawie sposobu pokrycia strat netto;
+- **5)** podejmowanie uchwał w sprawie zbycia nieruchomości lub innej wyodrębnionej jednostki organizacyjnej;
+- **6)** podejmowanie uchwał w sprawie przystępowania do innych organizacji społecznych lub gospodarczych oraz występowania z nich;
+- **7)** oznaczanie najwyższej sumy zobowiązań, jaką koło może zaciągnąć;
+- **8)** podejmowanie uchwał w sprawie zrzeszania się w związek, podziału oraz likwidacji koła;
+- **9)** uchwalanie zmian statutu koła;
+- **10)** bieżący nadzór i kontrola działalności koła.
 
 **Art. 16.**
 
@@ -309,7 +321,7 @@ source: "isap-pdf"
 
 - **1)** (uchylony)
 - **2)** nie posiadają statusu organizacji pożytku publicznego;
-- **2a)** nie prowadzą działalności gospodarczej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222);
+- **2a)** nie prowadzą działalności gospodarczej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222);
 - **3)** w roku poprzedzającym rok podatkowy osiągnęły przychody wyłącznie z tytułów, o których mowa w pkt 1, w wysokości nieprzekraczającej 100 000 zł.
 - **3)** w roku poprzedzającym rok podatkowy osiągnęły przychody w wysokości nieprzekraczającej 1 000 000 zł, nie wliczając wartości darowizn rzeczowych przeznaczonych na prowadzenie działalności statutowej.
 
@@ -400,7 +412,7 @@ source: "isap-pdf"
 
 4. Jeżeli likwidacja koła gospodyń wiejskich nie zostanie zakończona w terminie roku od dnia jej zarządzenia, likwidatorzy przedstawiają przyczyny niezakończenia likwidacji dyrektorowi oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa właściwemu ze względu na siedzibę koła gospodyń wiejskich, który występuje do sądu właściwego ze względu na siedzibę tego koła o przedłużenie terminu likwidacji lub o zarządzenie zmiany likwidatorów.
 
-4a. Do postępowania sądowego w sprawach określonych w ust. 4, w art. 27 ust. 3 i 5 oraz w art. 27a ust. 2 stosuje się przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841) o postępowaniu nieprocesowym.
+4a. Do postępowania sądowego w sprawach określonych w ust. 4, w art. 27 ust. 3 i 5 oraz w art. 27a ust. 2 stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841) o postępowaniu nieprocesowym.
 
 5. Likwidatorem nie może zostać pracownik Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
@@ -410,13 +422,15 @@ source: "isap-pdf"
 
 1. Po wykreśleniu koła gospodyń wiejskich z rejestru likwidator odpowiada wobec wierzycieli koła gospodyń wiejskich za wyrządzone im szkody przez niedopełnienie swoich ustawowych obowiązków.
 
-2. Przepis ust. 1 stosuje się odpowiednio do członków ostatniego zarządu koła wykreślonego z rejestru. Art. 28–33. (pominięte)
+2. Przepis ust. 1 stosuje się odpowiednio do członków ostatniego zarządu koła wykreślonego z rejestru.
+
+**Art. 28–33.** (pominięte)
 
 **Art. 34.**
 
 1. Działające w dniu wejścia w życie ustawy koła gospodyń wiejskich mogą dostosować statuty do wymagań ustalonych w ustawie i wystąpić z wnioskiem o dokonanie wpisu koła gospodyń wiejskich do rejestru zgodnie z przepisami ustawy.
 
-2. W okresie miesiąca od dnia wejścia w życie niniejszej ustawy, koła gospodyń wiejskich działające na podstawie przepisów dotychczasowych, w szczególności na podstawie ustawy z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników oraz na podstawie ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), przy rejestracji w oparciu o przepisy niniejszej ustawy mają prawo pierwszeństwa przed kołami, które miałyby zostać utworzone na podstawie przepisów niniejszej ustawy na terenie tych samych wsi.
+2. W okresie miesiąca od dnia wejścia w życie niniejszej ustawy, koła gospodyń wiejskich działające na podstawie przepisów dotychczasowych, w szczególności na podstawie ustawy z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników oraz na podstawie ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), przy rejestracji w oparciu o przepisy niniejszej ustawy mają prawo pierwszeństwa przed kołami, które miałyby zostać utworzone na podstawie przepisów niniejszej ustawy na terenie tych samych wsi.
 
 3. Jeżeli w okresie miesiąca od dnia wejścia w życie niniejszej ustawy zostanie złożony wniosek o wpis do rejestru koła gospodyń wiejskich, które miałoby zostać utworzone na podstawie przepisów niniejszej ustawy, a Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa ustali, że na terenie tej samej wsi utworzono już koło gospodyń wiejskich na podstawie przepisów dotychczasowych, wówczas postępowanie o wpis do rejestru koła, które miałoby zostać utworzone na podstawie przepisów niniejszej ustawy, zawiesza się do chwili złożenia wniosku o wpis do rejestru koła działającego na podstawie przepisów dotychczasowych albo złożenia oświadczenia przez to koło o rezygnacji z prawa pierwszeństwa, nie dłużej jednak niż do upływu miesiąca od dnia wejścia w życie niniejszej ustawy.
 
@@ -531,18 +545,120 @@ source: "isap-pdf"
 **Art. 36c.**
 
 - **20)** 1. Maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy w latach 2024–2033 wynosi łącznie 1 750 000 000 zł, przy czym:
-- **1)** w 2024 r. 157 000 000 zł;
-- **2)** w 2025 r. 177 000 000 zł;
-- **3)** w 2026 r. 177 000 000 zł;
-- **4)** w 2027 r. 177 000 000 zł;
-- **5)** w 2028 r. 177 000 000 zł;
-- **6)** w 2029 r. 177 000 000 zł;
-- **7)** w 2030 r. 177 000 000 zł;
-- **8)** w 2031 r. 177 000 000 zł;
-- **9)** w 2032 r. 177 000 000 zł;
-- **10)** w 2033 r. 177 000 000 zł.
+- **1)** w 2024 r. – 157 000 000 zł;
+- **2)** w 2025 r. – 177 000 000 zł;
+- **3)** w 2026 r. – 177 000 000 zł;
+- **4)** w 2027 r. – 177 000 000 zł;
+- **5)** w 2028 r. – 177 000 000 zł;
+- **6)** w 2029 r. – 177 000 000 zł;
+- **7)** w 2030 r. – 177 000 000 zł;
+- **8)** w 2031 r. – 177 000 000 zł;
+- **9)** w 2032 r. – 177 000 000 zł;
+- **10)** w 2033 r. – 177 000 000 zł.
 
 2. Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, w danym roku oraz w przypadku zagrożenia przekroczenia tego limitu wdraża mechanizm korygujący określony w art. 23a ust. 5.
 
-**Art. 37.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia . WZORCOWY STATUT KOŁA GOSPODYŃ WIEJSKICH § 1. Koło gospodyń wiejskich w [nazwa miejscowości] (dalej także: „Koło”) jest dobrowolną, niezależną od administracji rządowej i jednostek samorządu terytorialnego, samorządną, społeczną organizacją mieszkańców wsi, wspierającą rozwój przedsiębiorczości na wsi i aktywnie działającą na rzecz środowisk wiejskich.
+**Art. 37.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia . WZORCOWY STATUT KOŁA GOSPODYŃ WIEJSKICH
+
+§ 1. Koło gospodyń wiejskich w [nazwa miejscowości] (dalej także: „Koło”) jest dobrowolną, niezależną od administracji rządowej i jednostek samorządu terytorialnego, samorządną, społeczną organizacją mieszkańców wsi, wspierającą rozwój przedsiębiorczości na wsi i aktywnie działającą na rzecz środowisk wiejskich.
+
+§ 2. 1. Siedzibą Koła jest [nazwa miejscowości]. 2. Koło może prowadzić działalność także poza swoją siedzibą, w tym na terytorium Rzeczypospolitej Polskiej oraz poza jej granicami. 3. Koło może zrzeszać się z innymi kołami gospodyń wiejskich i tworzyć związki kół gospodyń wiejskich. 4. Koło może posługiwać się nazwą [„nazwa Koła”].
+
+§ 3. Celem Koła jest:
+
+- **1)** prowadzenie działalności społeczno-wychowawczej i oświatowo-kulturalnej w środowiskach wiejskich;
+- **2)** prowadzenie działalności na rzecz wszechstronnego rozwoju obszarów wiejskich;
+- **3)** wspieranie rozwoju przedsiębiorczości kobiet;
+- **4)** inicjowanie i prowadzenie działań na rzecz poprawy warunków życia i pracy kobiet na wsi;
+- **5)** upowszechnianie i rozwój form współdziałania, gospodarowania i racjonalnych metod prowadzenia gospodarstw domowych;
+- **6)** reprezentowanie interesów środowiska kobiet wiejskich wobec organów administracji publicznej;
+- **7)** rozwój kultury ludowej, w tym w szczególności kultury lokalnej i regionalnej;
+- **8)** wykonywanie innych zadań związanych ze wspieraniem rozwoju przedsiębiorczości na wsi i podejmowaniem działań na rzecz środowisk wiejskich.
+
+§ 4. 1. Koło realizuje swoje cele ze środków pochodzących ze składek członkowskich, dotacji z budżetu państwa lub jednostek samorządu terytorialnego, darowizn, spadków, zapisów, dochodów z własnej działalności, dochodów z majątku koła oraz z ofiarności publicznej. 2. Koło może prowadzić działalność zarobkową i uzyskiwać przychody z tytułu:
+
+- **1)** sprzedaży wyrobów sztuki ludowej, w tym rękodzieła i rzemiosła ludowego i artystycznego, lub żywności regionalnej;
+- **2)** sprzedaży, najmu lub dzierżawy składników majątkowych;
+- **3)** tytułu odsetek od środków pieniężnych na rachunkach bankowych lub rachunkach w spółdzielczych kasach oszczędnościowo-kredytowych, prowadzonych w związku z wykonywaną działalnością, w tym także odsetek od lokat terminowych oraz innych form oszczędzania, przechowywania lub inwestowania tworzonych na tych rachunkach.
+
+§ 5. 1. Członkami Koła mogą być osoby, których miejscem zamieszkania jest [nazwa miejscowości], które ukończyły 18 lat, jeśli zadeklarują czynny udział w realizacji celów Koła. 2. Za zgodą rodziców lub opiekunów ustawowych w działalności koła mogą brać także osoby, które ukończyły lat 13. Osoby te mogą również tworzyć młodzieżowe i dziecięce organizacje wspomagające realizację celów Koła. 3. Przyjęcie w poczet członków Koła następuje po złożeniu deklaracji członkowskiej oraz podjęciu uchwały Zarządu Koła. 4. Członkostwo w Kole ustaje wskutek:
+
+- **1)** śmierci członka;
+- **2)** wystąpienia z Koła;
+- **3)** wykluczenia członka Koła. 5. Każdy członek Koła ma prawo do:
+- **1)** udziału w pracach Koła;
+- **2)** czynnego i biernego udziału w wyborach do organów Koła;
+- **3)** uczestnictwa w obradach kolegialnych organów Koła, w skład których wchodzi dany członek. 6. Każdy członek Koła ma obowiązek:
+- **1)** udziału w pracach Koła;
+- **2)** uiszczania składek członkowskich, w wysokości i terminach określonych uchwałą Zebrania Członków;
+- **3)** przestrzegania niniejszego statutu oraz uchwał organów Koła;
+- **4)** dbania o mienie Koła.
+
+§ 6. Zebranie Członków Koła może ustanowić obowiązek ponoszenia przez członków Koła składki członkowskiej. Uchwała powinna określać wysokość składki oraz termin jej uiszczania.
+
+§ 7. 1. Organami Koła są:
+
+- **1)** Zebranie Członków;
+- **2)** Zarząd Koła. 2. Zebranie Członków Koła może powołać Komisję Rewizyjną. 3. Uchwały kolegialnych organów Koła odbywają się w głosowaniu jawnym i zapadają zwykłą większością głosów. Na wniosek każdego członka organu zarządza się głosowanie tajne.
+
+§ 8. 1. Zebranie Członków Koła jest najwyższym organem Koła. 2. W skład Zebrania Członków Koła wchodzą wszyscy członkowie Koła, których nie zawieszono w prawach członka. 3. Do właściwości Zebrania Członków Koła należą:
+
+- **1)** rozpatrywanie i zatwierdzanie sprawozdań Zarządu Koła;
+- **2)** wysłuchanie sprawozdania Komisji Rewizyjnej, jeżeli została powołana;
+- **3)** udzielanie absolutorium Zarządowi Koła;
+- **4)** uchwalanie kierunków działalności, programu działania i budżetu Koła;
+- **5)** wybór Zarządu Koła i Komisji Rewizyjnej;
+- **6)** uchwalenie statutu Koła lub jego zmiany;
+- **7)** ustalanie wysokości i terminów uiszczania składki członkowskiej;
+- **8)** podejmowanie uchwał w sprawach majątkowych przekraczających zakres zwykłego zarządu, w szczególności nabycia i zbycia nieruchomości lub innej wyodrębnionej jednostki organizacyjnej oraz ich obciążenia;
+- **9)** rozpatrywanie odwołań od decyzji Zarządu Koła oraz innych spraw i wniosków zgłoszonych przez członków Koła;
+- **10)** podjęcie uchwały o zgodzie na zrzeszenie się w związek kół gospodyń wiejskich oraz w innych organizacjach społecznych lub gospodarczych;
+- **11)** podjęcie uchwały o wystąpieniu ze związku kół gospodyń wiejskich lub z innych organizacji społecznych lub gospodarczych;
+- **12)** podejmowanie uchwał w sprawie sposobu pokrycia strat netto z prowadzonej przez koło działalności, w tym działalności zarobkowej;
+- **13)** oznaczanie maksymalnej wysokości jednorazowego zobowiązania oraz najwyższej sumy zobowiązań, jaką Koło może zaciągnąć;
+- **14)** podejmowanie uchwał w sprawie połączenia się, podziału oraz likwidacji Koła;
+- **15)** bieżący nadzór i kontrola działalności Koła. 4. Uchwały w sprawach:
+- **1)** nabycia, zbycia lub obciążenia nieruchomości Koła,
+- **2)** rozwiązania Koła – podejmowane są większością 2/3 głosów.
+
+§ 9. 1. Zarząd Koła zwołuje Zwyczajne Zebranie Członków Koła co najmniej raz w roku, nie później niż na dzień 30 czerwca każdego roku kalendarzowego. 2. Zarząd Koła zwołuje Nadzwyczajne Zebranie Członków Koła:
+
+- **1)** z własnej inicjatywy;
+- **2)** na wniosek co najmniej trzech Członków Koła;
+- **3)** na wniosek Komisji Rewizyjnej. 3. O zebraniu Zarząd Koła zawiadamia członków Koła najpóźniej na 14 dni przed terminem zebrania, przesyłając im proponowany porządek obrad. Jeżeli zebranie zwołane jest na wniosek, termin powinien zostać wyznaczony na dzień przypadający najpóźniej w ciągu trzech tygodni od daty wpłynięcia wniosku. 4. Dla ważności uchwał Zebrania konieczny jest udział co najmniej 1/2 członków Koła. 5. W razie nieodbycia się Zebrania w pierwszym terminie z powodu braku wymaganej liczby członków, Zarząd zwołuje ponowne Zebranie według tego samego porządku obrad. Zebranie zwołane w drugim terminie podejmuje uchwały bez względu na liczbę obecnych członków, z wyjątkiem uchwał w sprawach zmian w statucie oraz określonych w § 8 ust. 4.
+
+§ 10. 1. W skład Zarządu Koła wchodzą trzy osoby wybierane przez Zebranie Członków na 3-letnią kadencję. 2. W każdym czasie przed upływem kadencji członek Zarządu Koła może zostać odwołany ze składu Zarządu Koła przez Zebranie Członków.
+
+§ 11. Do zadań Zarządu Koła należy:
+
+- **1)** reprezentacja Koła na zewnątrz;
+- **2)** realizowanie celów i zadań Koła;
+- **3)** zwoływanie Zebrania Członków Koła;
+- **4)** składanie corocznych sprawozdań merytorycznych i finansowych Zebraniu Członków Koła;
+- **5)** przyjmowanie w poczet członków Koła;
+- **6)** dbanie o terminowość wpłat składek członkowskich;
+- **7)** prowadzenie listy członków Koła;
+- **8)** zawieszanie w prawach członka Koła;
+- **9)** wykluczanie z Koła;
+- **10)** zaciąganie w imieniu Koła bez zgody Zebrania Członków Koła zobowiązań do wysokości 10 000 zł lub innej wysokości określonej przez Zebranie Członków Koła;
+- **11)** zaciąganie w imieniu Koła za zgodą Zebrania Członków Koła innych zobowiązań;
+- **12)** dysponowanie majątkiem Koła.
+
+§ 12. 1. Uchwały Zarządu Koła są ostateczne, o ile nie przysługuje od nich odwołanie do Zebrania Członków Koła. 2. Odwołanie od uchwały Zarządu Koła zainteresowany członek Koła może wnieść najpóźniej na najbliższym Zebraniu Członków Koła. Do czasu rozpatrzenia odwołania uchwała Zarządu Koła nie wywiera skutków. Uchwała Zebrania Członków Koła jest ostateczna.
+
+§ 13. 1. Członek Koła może zostać zawieszony w prawach członka, jeżeli:
+
+- **1)** zalega z płatnością składek członkowskich za co najmniej dwa pełne okresy;
+- **2)** nie przestrzega postanowień statutu lub uchwał organów Koła;
+- **3)** nie bierze udziału w pracach Koła. 2. Członek Koła może zostać wykluczony, jeżeli pomimo zawieszenia go w prawach członka i wezwania przez Zarząd Koła do realizacji obowiązków, w dalszym ciągu ich nie wykonuje – w terminie miesiąca od dnia wezwania.
+
+§ 14. Koło reprezentuje na zewnątrz co najmniej dwóch członków Zarządu działających łącznie.
+
+§ 15. 1. Zysk netto z działalności zarobkowej Koła może zostać przeznaczony:
+
+- **1)** na cele statutowe Koła;
+- **2)** na tworzenie kapitałów własnych Koła. 2. Strata netto może zostać pokryta z kapitałów własnych Koła.
+
+§ 16. 1. Koło może zostać zlikwidowane uchwałą Zebrania Członków Koła. 2. W razie podjęcia uchwały o likwidacji Koła, Zebranie Członków Koła wyznacza likwidatora Koła lub powierza tę funkcję jednemu z członków Zarządu Koła. 3. Majątek pozostały po likwidacji Koła staje się własnością Członków Koła w dniu likwidacji.
+
 

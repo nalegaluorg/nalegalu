@@ -70,12 +70,7 @@ source: pdf
 **Art. 9.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz.U. Nr 88, poz. 439) wprowadza się następujące zmiany:
 
 - **1)** w art. 20 ust. 1 otrzymuje brzmienie: "1. Badania statystyczne statystyki publicznej prowadzi Prezes Głównego Urzędu Statystycznego.";
-- **2)** art. 23 otrzymuje brzmienie: "Art. 23. 1. Centralnym organem administracji rządowej właściwym w sprawach statystyki jest Prezes Głównego Urzędu Statystycznego wykonujący swoje zadania przy pomocy służb statystyki publicznej.
-
-2. Nadzór nad Prezesem Głównego Urzędu Statystycznego sprawuje Prezes Rady Ministrów.
-
-3. Organizację Głównego Urzędu Statystycznego określa statut nadany, w drodze rozporządzenia, przez Prezesa Rady Ministrów.";
-
+- **2)** art. 23 otrzymuje brzmienie: "Art. 23. 1. Centralnym organem administracji rządowej właściwym w sprawach statystyki jest Prezes Głównego Urzędu Statystycznego wykonujący swoje zadania przy pomocy służb statystyki publicznej. 2. Nadzór nad Prezesem Głównego Urzędu Statystycznego sprawuje Prezes Rady Ministrów. 3. Organizację Głównego Urzędu Statystycznego określa statut nadany, w drodze rozporządzenia, przez Prezesa Rady Ministrów.";
 - **3)** w art. 24 skreśla się ust. 1;
 - **4)** w art. 37 w pkt 1 wyrazy "po uzgodnieniu z Głównym Urzędem Statystycznym" zastępuje się wyrazami "po uzgodnieniu z Prezesem Głównego Urzędu Statystycznego";
 - **5)** w art. 2 w pkt 3 i 10, w art. 15 w ust. 3 w pkt 1, w art. 20 w ust. 2 w pkt 2 i w ust. 3 w pkt 2, w art. 22, w art. 25 w ust. 1, w art. 28 w ust. 1, w art. 41, w art. 47 w ust. 1, w art. 62 w ust. 1 i 5 oraz w art. 65 użyte w różnych przypadkach wyrazy "Główny Urząd Statystyczny" zastępuje się użytymi w odpowiednich przypadkach wyrazami "Prezes Głównego Urzędu Statystycznego".
@@ -83,8 +78,8 @@ source: pdf
 **Art. 10.** W ustawie z dnia 30 maja 1996 r. o rezerwach państwowych oraz zapasach obowiązkowych paliw (Dz.U. Nr 90, poz. 404) wprowadza się następujące zmiany:
 
 - **1)** użyte w różnych przypadkach wyrazy "Minister Przemysłu i Handlu" zastępuje się użytymi w tych samych przypadkach wyrazami "Minister Gospodarki";
-- **2)** w art. 6: 9 koordynuje Minister Gospodarki.",
-    - **a)** ust. 1 otrzymuje brzmienie: "1. Wykonywanie zadań w zakresie rezerw przez organy wymienione w art.
+- **2)** w art. 6:
+    - **a)** ust. 1 otrzymuje brzmienie: "1. Wykonywanie zadań w zakresie rezerw przez organy wymienione w art. 9 koordynuje Minister Gospodarki.",
     - **b)** w ust. 2: - zdanie pierwsze otrzymuje brzmienie: "Do zakresu koordynacji zadań, o którym mowa w ust. 1, należy w szczególności:", - w pkt 2 wyrazy "w art. 4" zastępuje się wyrazami "w art. 9".
 
 **Art. 11.** W ustawie z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz.U. Nr 90, poz. 405) wprowadza się następujące zmiany:
@@ -94,29 +89,8 @@ source: pdf
 - **3)** w art. 10 pkt 2 otrzymuje brzmienie: "2) Rada Nadzorcza Agencji.";
 - **4)** w art. 11 ust. 1 otrzymuje brzmienie: "1. Prezesa Agencji powołuje i odwołuje Prezes Rady Ministrów na wniosek Ministra Skarbu Państwa, zgłoszony w porozumieniu z Ministrem Obrony Narodowej.";
 - **5)** w art. 14 ust. 4 otrzymuje brzmienie: "4. Minister Skarbu Państwa przedstawia Sejmowi Rzeczypospolitej Polskiej roczne sprawozdanie z działalności Agencji.";
-- **6)** art. 15 otrzymuje brzmienie: "Art. 15. 1. Rada Nadzorcza Agencji składa się z siedmiu członków powoływanych i odwoływanych przez Prezesa Rady Ministrów. Powołanie następuje spośród kandydatów zgłoszonych przez Ministra Skarbu Państwa w porozumieniu z Ministrem Obrony Narodowej. Minister Skarbu Państwa w porozumieniu z Ministrem Obrony Narodowej może wystąpić o odwołanie Rady Nadzorczej Agencji lub poszczególnych jej członków w okresie trwania kadencji.
-
-2. W skład Rady Nadzorczej Agencji wchodzi po trzech przedstawicieli Ministra Skarbu Państwa i Ministra Obrony Narodowej oraz jeden przedstawiciel Ministra Finansów.
-
-3. Przewodniczącego Rady Nadzorczej Agencji powołuje i odwołuje na okres kadencji Prezes Rady Ministrów na wniosek Ministra Skarbu Państwa, zgłoszony w porozumieniu z Ministrem Obrony Narodowej spośród osób, o których mowa w ust. 2.
-
-4. Kadencja Rady Nadzorczej trwa cztery lata.";
-
-- **7)** art. 16 otrzymuje brzmienie: "Art. 16. 1. Rada Nadzorcza Agencji sprawuje stały nadzór nad działalnością Agencji.
-
-2. Do obowiązków Rady Nadzorczej Agencji należy w szczególności:
-
-- **1)** opiniowanie rocznego planu finansowego i rocznego sprawozdania finansowego Agencji,
-- **2)** podejmowanie uchwał w sprawie udzielenia Prezesowi Agencji pokwitowania z wykonania obowiązków w okresie objętym rocznym sprawozdaniem finansowym.
-
-3. Rada Nadzorcza Agencji może żądać przedstawienia dokumentów i wyjaśnień w każdej sprawie pozostającej w zakresie działalności Agencji.
-
-4. Rada Nadzorcza Agencji przedstawia opinie, o których mowa w ust. 2 pkt 1, Ministrowi Skarbu Państwa i Ministrowi Obrony Narodowej.
-
-5. Prezes Rady Ministrów może, w terminie jednego miesiąca od powiadomienia o nieudzieleniu Prezesowi Agencji pokwitowania z wykonania obowiązków, odwołać Prezesa Agencji. W tym przypadku przepisu art. 11 ust. 1 nie stosuje się.
-
-6. Rada Nadzorcza Agencji wykonuje swoje czynności zbiorowo. Może jednak delegować swoich członków do indywidualnego wykonania poszczególnych czynności nadzorczych.";
-
+- **6)** art. 15 otrzymuje brzmienie: "Art. 15. 1. Rada Nadzorcza Agencji składa się z siedmiu członków powoływanych i odwoływanych przez Prezesa Rady Ministrów. Powołanie następuje spośród kandydatów zgłoszonych przez Ministra Skarbu Państwa w porozumieniu z Ministrem Obrony Narodowej. Minister Skarbu Państwa w porozumieniu z Ministrem Obrony Narodowej może wystąpić o odwołanie Rady Nadzorczej Agencji lub poszczególnych jej członków w okresie trwania kadencji. 2. W skład Rady Nadzorczej Agencji wchodzi po trzech przedstawicieli Ministra Skarbu Państwa i Ministra Obrony Narodowej oraz jeden przedstawiciel Ministra Finansów. 3. Przewodniczącego Rady Nadzorczej Agencji powołuje i odwołuje na okres kadencji Prezes Rady Ministrów na wniosek Ministra Skarbu Państwa, zgłoszony w porozumieniu z Ministrem Obrony Narodowej spośród osób, o których mowa w ust. 2. 4. Kadencja Rady Nadzorczej trwa cztery lata.";
+- **7)** art. 16 otrzymuje brzmienie: "Art. 16. 1. Rada Nadzorcza Agencji sprawuje stały nadzór nad działalnością Agencji. 2. Do obowiązków Rady Nadzorczej Agencji należy w szczególności: 1) opiniowanie rocznego planu finansowego i rocznego sprawozdania finansowego Agencji, 2) podejmowanie uchwał w sprawie udzielenia Prezesowi Agencji pokwitowania z wykonania obowiązków w okresie objętym rocznym sprawozdaniem finansowym. 3. Rada Nadzorcza Agencji może żądać przedstawienia dokumentów i wyjaśnień w każdej sprawie pozostającej w zakresie działalności Agencji. 4. Rada Nadzorcza Agencji przedstawia opinie, o których mowa w ust. 2 pkt 1, Ministrowi Skarbu Państwa i Ministrowi Obrony Narodowej. 5. Prezes Rady Ministrów może, w terminie jednego miesiąca od powiadomienia o nieudzieleniu Prezesowi Agencji pokwitowania z wykonania obowiązków, odwołać Prezesa Agencji. W tym przypadku przepisu art. 11 ust. 1 nie stosuje się. 6. Rada Nadzorcza Agencji wykonuje swoje czynności zbiorowo. Może jednak delegować swoich członków do indywidualnego wykonania poszczególnych czynności nadzorczych.";
 - **8)** w art. 17 w ust. 2 wyrazy "Rady Agencji" zastępuje się wyrazami "Rady Nadzorczej Agencji";
 - **9)** w art. 19 w ust. 3 po wyrazach "Obrony Narodowej" dodaje się wyrazy "albo innego organu wojskowego działającego z jego upoważnienia";
 - **10)** w art. 20 ust. 3 otrzymuje brzmienie: "3. Minister Skarbu Państwa, w porozumieniu z Ministrem Obrony Narodowej, określa, w drodze rozporządzenia, szczegółowe warunki i tryb prowadzenia ewidencji, jej udostępniania i wydawania wyciągów.";
@@ -147,58 +121,23 @@ source: pdf
 
 - **1)** użyte w różnych przypadkach wyrazy "Minister Przekształceń Własnościowych" zastępuje się użytymi w tych samych przypadkach wyrazami "Minister Skarbu Państwa";
 - **2)** w art. 1 skreśla się ust. 3;
-- **3)** po art. 1 dodaje się art. 1a w brzmieniu: "Art. 1a. 1. Rada Ministrów określa, w drodze rozporządzenia, przedsiębiorstwa państwowe oraz jednoosobowe spółki Skarbu Państwa o szczególnym znaczeniu dla gospodarki państwa.
-
-2. Prywatyzacja przedsiębiorstw i spółek, o których mowa w ust. 1, wymaga zgody Rady Ministrów.
-
-3. Do spółek, o których mowa w ust. 1, stosuje się przepisy Kodeksu handlowego, z wyłączeniem art. 310 i art. 379 § 2, ze zmianami wynikającymi z przepisów niniejszego artykułu.
-
-4. Składy rad nadzorczych i statuty spółek, o których mowa w ust. 1, wymagają uzgodnienia z ministrem właściwym ze względu na przedmiot działania spółki, przy czym przynajmniej połowa reprezentantów Skarbu Państwa w składzie rady nadzorczej jest powoływana spośród kandydatów przedstawionych przez właściwego ministra. Rada Ministrów określi, w drodze rozporządzenia, właściwość poszczególnych ministrów.
-
-5. Zarząd w spółkach, o których mowa w ust. 1, powołuje i odwołuje rada nadzorcza.
-
-6. Przepis ust. 4 nie narusza wynikających z niniejszej ustawy uprawnień pracowników do udziału w radzie nadzorczej.";
-
+- **3)** po art. 1 dodaje się art. 1a w brzmieniu: "Art. 1a. 1. Rada Ministrów określa, w drodze rozporządzenia, przedsiębiorstwa państwowe oraz jednoosobowe spółki Skarbu Państwa o szczególnym znaczeniu dla gospodarki państwa. 2. Prywatyzacja przedsiębiorstw i spółek, o których mowa w ust. 1, wymaga zgody Rady Ministrów. 3. Do spółek, o których mowa w ust. 1, stosuje się przepisy Kodeksu handlowego, z wyłączeniem art. 310 i art. 379 § 2, ze zmianami wynikającymi z przepisów niniejszego artykułu. 4. Składy rad nadzorczych i statuty spółek, o których mowa w ust. 1, wymagają uzgodnienia z ministrem właściwym ze względu na przedmiot działania spółki, przy czym przynajmniej połowa reprezentantów Skarbu Państwa w składzie rady nadzorczej jest powoływana spośród kandydatów przedstawionych przez właściwego ministra. Rada Ministrów określi, w drodze rozporządzenia, właściwość poszczególnych ministrów. 5. Zarząd w spółkach, o których mowa w ust. 1, powołuje i odwołuje rada nadzorcza. 6. Przepis ust. 4 nie narusza wynikających z niniejszej ustawy uprawnień pracowników do udziału w radzie nadzorczej.";
 - **4)** w art. 2 w pkt 5 w lit. b) po wyrazach "poz. 405" dodaje się wyrazy ", Nr 106, poz. 496 i Nr 118, poz. 561)";
 - **5)** w art. 8 skreśla się wyrazy "stosując odpowiednio przepisy obowiązujące przedsiębiorstwa państwowe";
 - **6)** w art. 9:
     - **a)** w ust. 1 skreśla się wyrazy "i reprezentuje w spółce Skarb Państwa";
-    - **b)** dodaje się ust. 4 w brzmieniu: "4. Skarb Państwa reprezentuje, w odniesieniu do spółki powstałej w wyniku przekształcenia przedsiębiorstwa państwowego:
+    - **b)** dodaje się ust. 4 w brzmieniu: "4. Skarb Państwa reprezentuje, w odniesieniu do spółki powstałej w wyniku przekształcenia przedsiębiorstwa państwowego: 1) Minister Skarbu Państwa, 2) Agencja Prywatyzacji, o ile na podstawie przepisów odrębnych została upoważniona do dokonania prywatyzacji przedsiębiorstwa państwowego.";
 
-- **1)** Minister Skarbu Państwa,
-- **2)** Agencja Prywatyzacji, o ile na podstawie przepisów odrębnych została upoważniona do dokonania prywatyzacji przedsiębiorstwa państwowego.";
 - **7)** w Dziale IV dodaje się art. 31a w brzmieniu: "Art. 31a. Akcje w imieniu Skarbu Państwa zbywa Minister Skarbu Państwa lub Agencja Prywatyzacji.";
 - **8)** w art. 32 ust. 3 otrzymuje brzmienie: "3. Minister Skarbu Państwa lub Agencja Prywatyzacji przed zaoferowaniem akcji do zbycia może zobowiązać spółkę do wprowadzenia w jej przedsiębiorstwie zmian wynikających z wymogów ochrony środowiska, a w szczególności wynikających z analizy, o której mowa w ust. 1.";
 - **9)** po art. 35 dodaje się art. 35a w brzmieniu: "Art. 35a. Agencja Prywatyzacji przekazuje prawa z akcji Ministrowi Skarbu Państwa, jeżeli akcje te nie zostały nabyte przez osoby trzecie w ciągu trzech miesięcy od upływu terminu do ich udostępnienia, ustalonego dla danej spółki przez Ministra Skarbu Państwa.";
-- **10)** po art. 52 dodaje się art. 52a w brzmieniu: "Art. 52a. 1. Prawa i obowiązki Skarbu Państwa wynikające z umów, o których mowa w art. 52, wykonuje Minister Skarbu Państwa.
-
-2. Organ założycielski, który w imieniu Skarbu Państwa zawarł umowę, o której mowa w ust. 1, niezwłocznie po jej zawarciu przekazuje Ministrowi Skarbu Państwa niezbędne dokumenty i informacje do wykonywania przez niego praw i obowiązków Skarbu Państwa wynikających z tej umowy.";
-
+- **10)** po art. 52 dodaje się art. 52a w brzmieniu: "Art. 52a. 1. Prawa i obowiązki Skarbu Państwa wynikające z umów, o których mowa w art. 52, wykonuje Minister Skarbu Państwa. 2. Organ założycielski, który w imieniu Skarbu Państwa zawarł umowę, o której mowa w ust. 1, niezwłocznie po jej zawarciu przekazuje Ministrowi Skarbu Państwa niezbędne dokumenty i informacje do wykonywania przez niego praw i obowiązków Skarbu Państwa wynikających z tej umowy.";
 - **11)** Tytuł działu VII otrzymuje brzmienie "Przepisy szczególne, przejściowe i końcowe";
 - **12)** w art. 68:
     - **a)** dotychczasową treść oznacza się jako ust. 1,
-    - **b)** dodaje się ust. 2 i 3 w brzmieniu: "2. Przewidziane w ustawie kompetencje Ministra Skarbu Państwa, Agencji Prywatyzacji lub organu założycielskiego wykonuje wobec prywatyzowanego przedsiębiorstwa komunalnego zarząd gminy albo zarząd związku komunalnego z zastrzeżeniem kompetencji rady gminy albo zgromadzenia związku.
+    - **b)** dodaje się ust. 2 i 3 w brzmieniu: "2. Przewidziane w ustawie kompetencje Ministra Skarbu Państwa, Agencji Prywatyzacji lub organu założycielskiego wykonuje wobec prywatyzowanego przedsiębiorstwa komunalnego zarząd gminy albo zarząd związku komunalnego z zastrzeżeniem kompetencji rady gminy albo zgromadzenia związku. 3. Gmina albo związek komunalny może, na podstawie porozumienia z Agencją Prywatyzacji, przekazać prowadzenie czynności związanych z prywatyzacją przedsiębiorstwa komunalnego tej Agencji. Zawarcie porozumienia wymaga uchwały rady gminy albo zgromadzenia związku.";
 
-3. Gmina albo związek komunalny może, na podstawie porozumienia z Agencją Prywatyzacji, przekazać prowadzenie czynności związanych z prywatyzacją przedsiębiorstwa komunalnego tej Agencji. Zawarcie porozumienia wymaga uchwały rady gminy albo zgromadzenia związku.";
-
-- **13)** po art. 69 dodaje się art. 69a-69d w brzmieniu: "Art. 69a. Przepisy art. 1a stosuje się również do spółek, których jedynym akcjonariuszem jest Skarb Państwa, powstałych w trybie innym niż przewidziany w niniejszej ustawie.
-
-**Art. 69b.** Do zbycia należących do Skarbu Państwa wszelkich akcji w spółkach mają zastosowanie przepisy art. 33.
-
-**Art. 69c.**
-
-1. Akcje w spółkach, obejmowane w imieniu Skarbu Państwa w wyniku prywatyzacji przedsiębiorstw państwowych w drodze ich likwidacji lub w innym trybie przez organy inne niż Minister Skarbu Państwa, podlegają, z zastrzeżeniem art. 9 ust. 4, niezwłocznemu przekazaniu temu ministrowi.
-
-2. Wraz z przekazaniem akcji, o których mowa w ust. 1, podlegają przekazaniu Ministrowi Skarbu Państwa dokumenty i niezbędne do wykonywania praw z akcji informacje dotyczące poszczególnych spółek.
-
-3. W spółkach, o których mowa w ust. 1, kandydatów na reprezentujących Skarb Państwa członków rad nadzorczych, w okresie dwóch lat od objęcia praw z akcji, zgłasza Minister Skarbu Państwa w porozumieniu z organami, które te prawa przekazały.
-
-**Art. 69d.**
-
-1. Spółki, o których mowa w art. 1a, dostosują swoje statuty do przepisów ustawy w terminie 6 miesięcy od dnia jej wejścia w życie.
-
-2. Składy władz spółek, o których mowa w ust. 1, powinny być powołane, na zasadach i w trybie określonych w art. 1a, po dostosowaniu statutów, o których mowa w ust. 1 - nie później niż w terminie 6 miesięcy od dnia wejścia w życie ustawy. W razie bezskutecznego upływu tego terminu, mandaty członków rad nadzorczych wygasają z mocy prawa.";
-
+- **13)** po art. 69 dodaje się art. 69a-69d w brzmieniu: "Art. 69a. Przepisy art. 1a stosuje się również do spółek, których jedynym akcjonariuszem jest Skarb Państwa, powstałych w trybie innym niż przewidziany w niniejszej ustawie. Art. 69b. Do zbycia należących do Skarbu Państwa wszelkich akcji w spółkach mają zastosowanie przepisy art. 33. Art. 69c. 1. Akcje w spółkach, obejmowane w imieniu Skarbu Państwa w wyniku prywatyzacji przedsiębiorstw państwowych w drodze ich likwidacji lub w innym trybie przez organy inne niż Minister Skarbu Państwa, podlegają, z zastrzeżeniem art. 9 ust. 4, niezwłocznemu przekazaniu temu ministrowi. 2. Wraz z przekazaniem akcji, o których mowa w ust. 1, podlegają przekazaniu Ministrowi Skarbu Państwa dokumenty i niezbędne do wykonywania praw z akcji informacje dotyczące poszczególnych spółek. 3. W spółkach, o których mowa w ust. 1, kandydatów na reprezentujących Skarb Państwa członków rad nadzorczych, w okresie dwóch lat od objęcia praw z akcji, zgłasza Minister Skarbu Państwa w porozumieniu z organami, które te prawa przekazały. Art. 69d. 1. Spółki, o których mowa w art. 1a, dostosują swoje statuty do przepisów ustawy w terminie 6 miesięcy od dnia jej wejścia w życie. 2. Składy władz spółek, o których mowa w ust. 1, powinny być powołane, na zasadach i w trybie określonych w art. 1a, po dostosowaniu statutów, o których mowa w ust. 1 - nie później niż w terminie 6 miesięcy od dnia wejścia w życie ustawy. W razie bezskutecznego upływu tego terminu, mandaty członków rad nadzorczych wygasają z mocy prawa.";
 - **14)** w art. 77 wyrazy "po upływie 3 miesięcy od dnia ogłoszenia" zastępuje się wyrazami "po upływie 6 miesięcy od dnia ogłoszenia".
 
 **Art. 18.** Do czasu wydania przepisów wykonawczych, o których mowa w:

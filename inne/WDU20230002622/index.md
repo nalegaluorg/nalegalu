@@ -30,67 +30,120 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 października 2021 r. zmieniającego rozporządzenie w sprawie wymagań technicznych dla dokumentów elektronicznych zawierających akty normatywne i inne akty prawne, dzienników urzędowych wydawanych w postaci elektronicznej oraz środków komunikacji elektronicznej i informatycznych nośników danych (Dz. U. poz. 1895), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 27 grudnia 2011 r.
 w sprawie wymagań technicznych dla dokumentów elektronicznych zawierających akty normatywne i inne akty prawne, dzienników urzędowych wydawanych w postaci elektronicznej oraz środków komunikacji elektronicznej i informatycznych nośników danych Na podstawie art. 28c ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wymagania techniczne dla:
-1) dokumentów elektronicznych zawierających akty normatywne i inne akty prawne kierowane do ogłoszenia w dziennikach urzędowych;
-2) dzienników urzędowych wydawanych w postaci elektronicznej;
-3) środków komunikacji elektronicznej i informatycznych nośników danych używanych do udostępniania dzienników urzędowych oraz zbiorów aktów prawa miejscowego stanowionych przez powiat lub gminę lub zawartych w nich aktów normatywnych i innych aktów prawnych.
-§ 2. Użyte w rozporządzeniu określenia oznaczają:
-1) adres względny – adres określający położenie dokumentu elektronicznego względem katalogu głównego zawierającego akt podlegający ogłoszeniu w postaci zbioru dokumentów elektronicznych;
-2) metadane – zestaw logicznie powiązanych z dokumentem elektronicznym usystematyzowanych informacji opisujących ten dokument, ułatwiających jego wyszukiwanie, kontrolę, zrozumienie i długotrwałe przechowanie oraz zarządzanie nim;
-3) wzór aktu – wzór dokumentu elektronicznego przekazywany do centralnego repozytorium wzorów dokumentów elektronicznych w rozumieniu art. 19b ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123, 1234 i 1703), zawierający:
-a) określenie struktury aktu prawnego zdefiniowanej w formacie XSD (schemacie XML),
-b) ustalenie sposobu wizualizacji aktu prawnego, w rozumieniu przepisów wydanych na podstawie art. 16 ust. 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, zdefiniowane w szablonie wizualizacji określonym w formacie XSL,
-c) metadane opisujące wzór aktu zapisany w formacie XML.
-§ 3. 1. Dokumenty elektroniczne zawierające akty normatywne i inne akty prawne, podlegające ogłoszeniu na podstawie ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych, zwane dalej „aktami podlegającymi ogłoszeniu”, sporządza się w formacie XML.
+
+**§ 1.** Rozporządzenie określa wymagania techniczne dla:
+
+- **1)** dokumentów elektronicznych zawierających akty normatywne i inne akty prawne kierowane do ogłoszenia w dziennikach urzędowych;
+- **2)** dzienników urzędowych wydawanych w postaci elektronicznej;
+- **3)** środków komunikacji elektronicznej i informatycznych nośników danych używanych do udostępniania dzienników urzędowych oraz zbiorów aktów prawa miejscowego stanowionych przez powiat lub gminę lub zawartych w nich aktów normatywnych i innych aktów prawnych.
+
+**§ 2.** Użyte w rozporządzeniu określenia oznaczają:
+
+- **1)** adres względny – adres określający położenie dokumentu elektronicznego względem katalogu głównego zawierającego akt podlegający ogłoszeniu w postaci zbioru dokumentów elektronicznych;
+- **2)** metadane – zestaw logicznie powiązanych z dokumentem elektronicznym usystematyzowanych informacji opisujących ten dokument, ułatwiających jego wyszukiwanie, kontrolę, zrozumienie i długotrwałe przechowanie oraz zarządzanie nim;
+- **3)** wzór aktu – wzór dokumentu elektronicznego przekazywany do centralnego repozytorium wzorów dokumentów elektronicznych w rozumieniu art. 19b ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123, 1234 i 1703), zawierający:
+    - **a)** określenie struktury aktu prawnego zdefiniowanej w formacie XSD (schemacie XML),
+    - **b)** ustalenie sposobu wizualizacji aktu prawnego, w rozumieniu przepisów wydanych na podstawie art. 16 ust. 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, zdefiniowane w szablonie wizualizacji określonym w formacie XSL,
+    - **c)** metadane opisujące wzór aktu zapisany w formacie XML.
+
+**§ 3.**
+
+1. Dokumenty elektroniczne zawierające akty normatywne i inne akty prawne, podlegające ogłoszeniu na podstawie ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych, zwane dalej „aktami podlegającymi ogłoszeniu”, sporządza się w formacie XML.
+
 2. Dokumenty elektroniczne, o których mowa w ust. 1, są zgodne z wzorami aktów ogłoszonymi w centralnym repozytorium wzorów dokumentów elektronicznych oraz na stronie internetowej, o której mowa w § 7 ust. 4.
+
 3. Wzory aktów podlegających ogłoszeniu ustala Prezes Rady Ministrów.
+
 4. Informacja o ogłoszeniu nowego wzoru aktu w centralnym repozytorium wzorów dokumentów elektronicznych jest niezwłocznie udostępniana w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
+
 5. Organ upoważniony do wydania aktu podlegającego ogłoszeniu wprowadza do stosowania wzory aktów nie później niż w terminie 6 miesięcy od dnia ich ogłoszenia w centralnym repozytorium wzorów dokumentów elektronicznych.
-§ 4. 1. Struktura aktu prawnego zdefiniowana w schemacie XML jest zgodna ze strukturą aktów podlegających ogłoszeniu określoną w rozporządzeniu Prezesa Rady Ministrów z dnia 20 czerwca 2002 r. w sprawie „Zasad techniki prawodawczej” (Dz. U. z 2016 r. poz. 283).
+
+**§ 4.**
+
+1. Struktura aktu prawnego zdefiniowana w schemacie XML jest zgodna ze strukturą aktów podlegających ogłoszeniu określoną w rozporządzeniu Prezesa Rady Ministrów z dnia 20 czerwca 2002 r. w sprawie „Zasad techniki prawodawczej” (Dz. U. z 2016 r. poz. 283).
+
 2. W skład schematu XML wchodzą w szczególności znaczniki XML zawierające mechanizmy do przedstawienia:
-1) budowy aktu podlegającego ogłoszeniu, w szczególności podziału na jednostki redakcyjne i ich systematyzacji;
-2) zawartości tekstowej poszczególnych jednostek systematyzacyjnych i ich nazw, o ile są tytułowane;
-3) włączonych w treść aktu podlegającego ogłoszeniu elementów zewnętrznych przechowywanych w osobnych dokumentach elektronicznych, w szczególności obrazów, znaków graficznych, map, wykresów, zwanych dalej „elementami zewnętrznymi”.
+
+- **1)** budowy aktu podlegającego ogłoszeniu, w szczególności podziału na jednostki redakcyjne i ich systematyzacji;
+- **2)** zawartości tekstowej poszczególnych jednostek systematyzacyjnych i ich nazw, o ile są tytułowane;
+- **3)** włączonych w treść aktu podlegającego ogłoszeniu elementów zewnętrznych przechowywanych w osobnych dokumentach elektronicznych, w szczególności obrazów, znaków graficznych, map, wykresów, zwanych dalej „elementami zewnętrznymi”.
+
 3. Mechanizmy do przedstawienia elementów zewnętrznych przyjmują postać adresów względnych wobec katalogu zawierającego akty podlegające ogłoszeniu.
+
 4. Elementy zewnętrzne są włączone do aktu podlegającego ogłoszeniu w postaci umożliwiającej osiągnięcie jakości prezentacji niepozostawiającej wątpliwości co do ich zawartości.
-§ 5. 1. Załącznik do aktu podlegającego ogłoszeniu może być przekazany do ogłoszenia w postaci:
-1) pliku XML o strukturze specyficznej dla danego rodzaju załącznika wraz ze schematem zdefiniowanym w formacie XSD oraz wygenerowaną na podstawie tego pliku wizualizacją w formacie PDF zgodnym z minimalnymi wymaganiami dla systemów teleinformatycznych określonymi w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, zwanymi dalej „minimalnymi wymaganiami dla systemów teleinformatycznych”;
-2) pliku XML w jednym z formatów określonych w minimalnych wymaganiach dla systemów teleinformatycznych, którego postać:
-a) umożliwia konwersję do pliku PDF,
-b) umożliwia, bez konieczności dokonywania zmian w dokumencie, wydruk treści w formacie A4 w jakości prezentacji niepozostawiającej wątpliwości co do treści dokumentu;
-3) pliku PDF generowanego w sposób umożliwiający przeszukiwanie tekstu dokumentu, którego postać umożliwia, bez konieczności dokonywania zmian w dokumencie, wydruk treści w formacie A4 w jakości prezentacji niepozostawiającej wątpliwości co do treści dokumentu.
+
+**§ 5.**
+
+1. Załącznik do aktu podlegającego ogłoszeniu może być przekazany do ogłoszenia w postaci:
+
+- **1)** pliku XML o strukturze specyficznej dla danego rodzaju załącznika wraz ze schematem zdefiniowanym w formacie XSD oraz wygenerowaną na podstawie tego pliku wizualizacją w formacie PDF zgodnym z minimalnymi wymaganiami dla systemów teleinformatycznych określonymi w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, zwanymi dalej „minimalnymi wymaganiami dla systemów teleinformatycznych”;
+- **2)** pliku XML w jednym z formatów określonych w minimalnych wymaganiach dla systemów teleinformatycznych, którego postać:
+    - **a)** umożliwia konwersję do pliku PDF,
+    - **b)** umożliwia, bez konieczności dokonywania zmian w dokumencie, wydruk treści w formacie A4 w jakości prezentacji niepozostawiającej wątpliwości co do treści dokumentu;
+
+- **3)** pliku PDF generowanego w sposób umożliwiający przeszukiwanie tekstu dokumentu, którego postać umożliwia, bez konieczności dokonywania zmian w dokumencie, wydruk treści w formacie A4 w jakości prezentacji niepozostawiającej wątpliwości co do treści dokumentu.
+
 2. W uzasadnionych przypadkach załączniki, o których mowa w ust. 1 pkt 2 i 3, mogą być przekazane w innym formacie arkusza, który został uprzednio uzgodniony z organem wydającym dziennik urzędowy.
+
 3. Mechanizmy do przedstawienia załączników, o których mowa w ust. 1, przyjmują postać adresów względnych wobec katalogu zawierającego akty podlegające ogłaszaniu.
+
 4. Dopuszczalna wielkość załącznika wynosi 20 MB.
+
 5. W uzasadnionych przypadkach możliwe jest przekazywanie większych załączników o wielkości uprzednio uzgodnionej z organem wydającym dziennik urzędowy.
+
 6. Załączniki posiadają nagłówek zgodny ze standardem wizualizacji określonym w załączniku nr 1 do rozporządzenia.
-§ 6. 1. Dokumenty elektroniczne, o których mowa w § 3 ust. 1, wraz z załącznikami oraz elementami zewnętrznymi są opatrywane przez organ upoważniony do wydania aktu podlegającego ogłoszeniu kwalifikowanym podpisem elektronicznym zgodnym z formatem XML Advanced Electronic Signatures (XAdES).
+
+**§ 6.**
+
+1. Dokumenty elektroniczne, o których mowa w § 3 ust. 1, wraz z załącznikami oraz elementami zewnętrznymi są opatrywane przez organ upoważniony do wydania aktu podlegającego ogłoszeniu kwalifikowanym podpisem elektronicznym zgodnym z formatem XML Advanced Electronic Signatures (XAdES).
+
 2. Załącznik do aktu podlegającego ogłoszeniu może być opatrzony kwalifikowanym podpisem elektronicznym zgodnym z formatem PDF Advanced Electronic Signatures (PAdES) po uprzednim uzgodnieniu z organem wydającym dziennik urzędowy.
+
 3. Kwalifikowany podpis elektroniczny składa się zgodnie z wymogami określonymi w przepisach rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r. w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylającego dyrektywę 1999/93/WE (Dz. Urz. UE L 257 z 28.08.2014, str. 73).
-§ 7. 1. Strona główna dziennika urzędowego zawiera wyłącznie informacje związane z aktami podlegającymi ogłoszeniu, w szczególności:
-1) nazwę dziennika urzędowego;
-2) godło Rzeczypospolitej Polskiej;
-3) nazwę organu wydającego dziennik urzędowy;
-4) odnośniki do poszczególnych pozycji;
-5) odnośniki do narzędzi służących do wyszukiwania ogłoszonych aktów podlegających ogłoszeniu;
-6) informację o dostępie i sposobie zabezpieczania.
+
+**§ 7.**
+
+1. Strona główna dziennika urzędowego zawiera wyłącznie informacje związane z aktami podlegającymi ogłoszeniu, w szczególności:
+
+- **1)** nazwę dziennika urzędowego;
+- **2)** godło Rzeczypospolitej Polskiej;
+- **3)** nazwę organu wydającego dziennik urzędowy;
+- **4)** odnośniki do poszczególnych pozycji;
+- **5)** odnośniki do narzędzi służących do wyszukiwania ogłoszonych aktów podlegających ogłoszeniu;
+- **6)** informację o dostępie i sposobie zabezpieczania.
+
 2. Organ wydający dziennik urzędowy umieszcza na stronie głównej dziennika urzędowego:
-1) odnośniki do certyfikatów osób upoważnionych do podpisywania aktów podlegających ogłoszeniu;
-2) odnośniki do aplikacji służących do weryfikacji podpisów, o których mowa w pkt 1;
-3) inne informacje, odnośnie do których obowiązek zamieszczenia wynika z odrębnych przepisów.
+
+- **1)** odnośniki do certyfikatów osób upoważnionych do podpisywania aktów podlegających ogłoszeniu;
+- **2)** odnośniki do aplikacji służących do weryfikacji podpisów, o których mowa w pkt 1;
+- **3)** inne informacje, odnośnie do których obowiązek zamieszczenia wynika z odrębnych przepisów.
+
 3. Organ wydający dziennik urzędowy umieszcza odnośnik do strony głównej dziennika urzędowego na podmiotowej stronie Biuletynu Informacji Publicznej, o której mowa w art. 9 ust. 2 ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902).
+
 4. Rządowe Centrum Legislacji umieszcza na stronie internetowej www.dziennikiurzedowe.gov.pl odnośniki do stron głównych dzienników urzędowych, o których mowa w ust. 3.
-§ 8. 1. Akty podlegające ogłoszeniu ogłasza się w formacie PDF albo w formacie XML, o którym mowa w § 3, w sposób umożliwiający wizualizację treści w postaci pliku PDF.
+
+**§ 8.**
+
+1. Akty podlegające ogłoszeniu ogłasza się w formacie PDF albo w formacie XML, o którym mowa w § 3, w sposób umożliwiający wizualizację treści w postaci pliku PDF.
+
 2. Autentyczność i integralność dzienników urzędowych, zbiorów aktów prawa miejscowego stanowionych przez powiat lub gminę oraz innych aktów podlegających ogłoszeniu jest zagwarantowana kwalifikowanym podpisem elektronicznym organu lub osoby upoważnionej przez organ wydający dziennik urzędowy.
-§ 9. Do udostępniania dzienników urzędowych, zbiorów aktów prawa miejscowego stanowionych przez powiat lub gminę oraz innych aktów podlegających ogłoszeniu są używane:
-1) środki komunikacji elektronicznej spełniające wymagania określone w minimalnych wymaganiach dla systemów teleinformatycznych;
-2) informatyczne nośniki danych spełniające wymagania określone w przepisach wydanych na podstawie art. 5 ust. 2c i ust. 3 pkt 5 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164).
-§ 10. Do czasu stosowania wzoru aktu, o którym mowa w § 3 ust. 2:
-1) czynność ogłaszania aktów podlegających ogłoszeniu, o której mowa w § 8 ust. 1, realizowana jest wyłącznie przy użyciu formatu PDF;
-2) stosuje się wymagania dotyczące sporządzania aktów podlegających ogłoszeniu w postaci dokumentów elektronicznych określone w załączniku nr 3 do rozporządzenia.
-§ 11. Do czasu wejścia w życie przepisów wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne stosuje się wymagania dotyczące formatów danych oraz środków komunikacji elektronicznej określone w załączniku nr 4 do rozporządzenia.
-§ 12. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2012 r.
-STANDARD WIZUALIZACJI NAGŁÓWKA ZAŁĄCZNIKÓW
+
+**§ 9.** Do udostępniania dzienników urzędowych, zbiorów aktów prawa miejscowego stanowionych przez powiat lub gminę oraz innych aktów podlegających ogłoszeniu są używane:
+
+- **1)** środki komunikacji elektronicznej spełniające wymagania określone w minimalnych wymaganiach dla systemów teleinformatycznych;
+- **2)** informatyczne nośniki danych spełniające wymagania określone w przepisach wydanych na podstawie art. 5 ust. 2c i ust. 3 pkt 5 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164).
+
+**§ 10.** Do czasu stosowania wzoru aktu, o którym mowa w § 3 ust. 2:
+
+- **1)** czynność ogłaszania aktów podlegających ogłoszeniu, o której mowa w § 8 ust. 1, realizowana jest wyłącznie przy użyciu formatu PDF;
+- **2)** stosuje się wymagania dotyczące sporządzania aktów podlegających ogłoszeniu w postaci dokumentów elektronicznych określone w załączniku nr 3 do rozporządzenia.
+
+**§ 11.** Do czasu wejścia w życie przepisów wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne stosuje się wymagania dotyczące formatów danych oraz środków komunikacji elektronicznej określone w załączniku nr 4 do rozporządzenia.
+
+**§ 12.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2012 r. STANDARD WIZUALIZACJI NAGŁÓWKA ZAŁĄCZNIKÓW
+
+## Załącznik
+
 § 1. Załącznik wizualizuje się w postaci stron w formacie A4 (210 mm × 297 mm).
 § 2. Marginesy na każdej stronie wizualizowanego załącznika mają następujące wymiary:
 1) wewnętrzny – 18 mm;

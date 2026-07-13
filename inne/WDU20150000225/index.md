@@ -8,10 +8,10 @@ pos: 225
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 18 lutego 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 225 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 9 lutego 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,116 +25,262 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000225) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/225/text.pdf) |
 
-225 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH dnia 9 lutego 2015 r.
-sprawie sposobu prowadzenia rejestru oraz akt zbiorowych rejestracji Na podstawie art. 27 ust. 4 ustawy dnia 28 listopada 2014 r. Prawo o aktach (Dz. U. poz. 1741 i 1888) zarządza się, co następuje:
-1) prowadzenia rejestru cywilnego;
-2) oznaczania aktów cywilnego;
-3) prowadzenia akt zbiorowych rejestracji cywilnego;
-4) zabezpieczania akt zbiorowych rejestracji niesporządzonych formie dokumentu elektronicznego przypadku, o którym mowa art. 27 ust. 3 ustawy dnia 28 listopada 2014 r. Prawo o aktach cywilnego, zwanej dalej „ustawą”.
-2. Oznaczenie numeru domu można zamieścić małymi literami.
-§ 3. Sporządzenie aktu urodzenia, aktu małżeństwa albo aktu zgonu wymaga uwierzytelnienia przez właściwego kierownika urzędu przez złożenie podpisu elektronicznego weryfikowanego za pomocą certyfikatu wydanego przez ministra właściwego do spraw wewnętrznych, zwane dalej „złożeniem podpisu”.
-Złożenie podpisu odbywa się wykorzystaniem karty mikroprocesorowej zabezpieczonej kodem PIN.
-§ 4. 1. Daty i godziny wpisuje się i przechowuje formacie daty właściwym dla zapisu daty lub daty i godziny systemie teleinformatycznym.
-2. Datę urodzenia, zawarcia małżeństwa, zgonu lub znalezienia zwłok zamieszcza się akcie słownie oraz nawiasie cyframi arabskimi formacie daty: dd.mm.rrrr. W zapisie słownym wyrazy oddziela się spacją, nie zamieszcza się wyrazu „rok”, a nazwa miesiąca podlega deklinacji.
-4. Jeżeli dokumentach stanowiących podstawę sporządzenia aktu zgonu jako datę zgonu podano okres zdarzenia (datę opisową), to akcie zgonu jako datę zgonu zamieszcza się ten okres za pomocą przedziału dat wyrażonego jako data początkowa oraz data końcowa okresu, którym nastąpiło to zdarzenie.
-5. W przypadku gdy nie jest możliwe ustalenie daty urodzenia rodziców dziecka, daty urodzenia osób, które zawarły małżeństwo, daty urodzenia osoby zmarłej, akcie zamieszcza się wiek osoby, jeżeli jest znany.
-6. Godzinę zgonu albo godzinę znalezienia zwłok zamieszcza się akcie zgonu formacie daty: hh:mm.
-§ 5. 1. Imiona i nazwiska osób zamieszcza się akcie pełnym brzmieniu.
-2. Imiona i nazwiska osób należących do mniejszości narodowych i etnicznych zapisane alfabecie innym niż alfabet łaciński zamieszcza się uwzględnieniem sposobu transliteracji określonego rozporządzeniu Ministra Spraw Wewnętrznych i Administracji dnia 30 maja 2005 r. sprawie sposobu transliteracji imion i nazwisk osób należących do mniejszości narodowych i etnicznych zapisanych alfabecie innym niż alfabet łaciński (Dz. U. Nr 102, poz. 855).
-3. W treści aktu imię (imiona) zamieszcza się polach przeznaczonych na zamieszczenie odpowiednio: imienia pierwszego, imienia drugiego, imienia kolejnego.
-4. W akcie polach przeznaczonych na zamieszczenie imienia i nazwiska kierownika urzędu cywilnego, który zarejestrował zdarzenie, zamieszcza się imię i nazwisko kierownika urzędu sporządzającego akt na podstawie złożonego podpisu.
-§ 6. Informację o złożeniu zgodnych oświadczeń o wstąpieniu związek małżeński zamieszcza się akcie małżeństwa przez oznaczenie pola wyboru: „Osoby złożyły zgodne oświadczenia o wstąpieniu związek małżeński”.
-§ 7. W przypadku gdy nie jest możliwe ustalenie danych podlegających zamieszczeniu akcie cywilnego, pola nie wypełnia się.
-§ 8. Przy akcie zamieszcza się dane, których nie zawiera akt cywilnego, a które są niezbędne do wydania wielojęzycznego odpisu skróconego rozumieniu Konwencji nr 16 dotyczącej wydawania wielojęzycznych odpisów skróconych aktów cywilnego, sporządzonej Wiedniu dnia 8 września 1976 r. (Dz. U. 2004 r. Nr 166, poz. 1735), zwanego dalej „odpisem wielojęzycznym”.
-§ 9. W przypadku zmiany numeru PESEL trybie przewidzianym art. 19 ustawy dnia 24 września 2010 r.
-o ewidencji ludności (Dz. U. Nr 217, poz. 1427, późn. zm. ) cywilnego, miejsce dotychczas przechowywanego numeru PESEL, zamieszcza się przy aktach danej osoby nowy numer PESEL.
-§ 10. Dokonanie wpisu uznań wymaga uwierzytelnienia przez właściwego kierownika urzędu cywilnego przez złożenie podpisu.
-§ 11. 1. Jeżeli przed kierownikiem urzędu zostało złożone oświadczenie mężczyzny konieczne do uznania ojcostwa, a matka dziecka nie potwierdziła jednocześnie, że ojcem dziecka jest ten mężczyzna, informację o tym zamieszcza się uznań.
-2. Jeżeli matka dziecka nie potwierdziła terminie, o którym mowa art. 73 § 1 ustawy dnia 25 lutego 1964 r.
-Kodeks rodzinny i opiekuńczy (Dz. U. 2012 r. poz. 788, późn. zm. ), że mężczyzna, który złożył oświadczenie konieczne do uznania ojcostwa dziecka, jest ojcem dziecka, uznań rejestruje się informację oznaczającą brak ważności uznania ojcostwa dziecka.
-§ 12. Dołączenie wzmianki dodatkowej do aktu urodzenia, aktu małżeństwa albo aktu zgonu wymaga uwierzytelnienia przez właściwego kierownika urzędu przez złożenie podpisu.
-§ 13. Dołączenie do aktu wzmianki dodatkowej wymaga określenia rodzaju i nazwy tej wzmianki oraz wskazania podstawy jej dołączenia.
-§ 14. 1. Jeżeli do aktu dołącza się wzmiankę dodatkową wpływającą na treść aktu cywilnego, zamieszcza się niej dane zawarte treści aktu cywilnego, które podlegają zmianie, chyba że wzmianka dodatkopodstawie nazwy tej wzmianki dodatkowej zamieszcza się informację dotyczącą ważności aktu cywilnego.
-3. Jeżeli do aktu dołącza się wzmiankę dodatkową unieważniającą inną wzmiankę dodatkową, należy wybrać wzmiankę dodatkową dołączoną do aktu cywilnego, która podlega unieważnieniu.
-§ 15. 1. Wzmianka dodatkowa dołączona do aktu zawiera:
-1) część, która może być edytowana podczas sporządzania wzmianki dodatkowej, zamieszczoną informacją o dokumentach lub czynnościach stanowiących podstawę dołączenia wzmianki dodatkowej oraz o organie, którego rezultatem działania jest ta wzmianka dodatkowa;
-2) część nieedytowalną danymi zamieszczanymi miejsce dotychczasowych danych;
-3) dodatkową część edytowalną przeznaczoną do zamieszczenia informacji niezawartych częściach, o których mowa pkt 1 i 2;
-4) imię i nazwisko kierownika urzędu cywilnego, który dołącza do aktu wzmiankę dodatkową, ustalone na podstawie złożonego podpisu.
-2. Wzmianka dodatkowa wpływająca na ważność aktu oraz wzmianki dodatkowe dołączane do aktu małżeństwa, o których mowa § 14 ust. 1, nie zawierają części, o której mowa ust. 1 pkt 2.
-§ 16. 1. Zamieszczenie przypisku przy akcie odbywa się przez wybranie odpowiedniej treści przypisku.
-2. Jeżeli dokumentach stanowiących podstawę dokonania przypisku jako datę zgonu podano okres zdarzenia (datę opisową), to przypisku zamieszczanym przy akcie jako datę zgonu zamieszcza się ten okres za pomocą przedziału dat wyrażonego jako data początkowa oraz data końcowa okresu, którym nastąpił zgon.
-§ 17. W przypadku zamieszczenia przypisku przy niewłaściwym akcie kierownik urzędu cywilnego właściwy do sporządzenia aktu cywilnego, przy którym został zamieszczony przypisek, usuwa ten przypisek.
-§ 18. Po przekazaniu przez podmiot wykonujący działalność leczniczą karty urodzenia albo karty martwego urodzenia niezwłocznie rejestruje się datę, do której powinno nastąpić zgłoszenie urodzenia dziecka na podstawie daty sporządzenia karty urodzenia albo karty martwego urodzenia.
-§ 19. Na podstawie przyjętego przez kierownika urzędu lub otrzymanego od konsula zapewnienia, że osoby zamierzające zawrzeć małżeństwo nie wiedzą o istnieniu okoliczności wyłączających zawarcie tego małżeństwa, o którym mowa art. 76 ustawy, rejestruje się datę, do której to zapewnienie jest ważne.
-§ 20. 1. Akty sporządza się rocznikach.
-2. W cywilnego, oddzielnie dla każdego roku kalendarzowego, otwiera się rocznik urodzeń, rocznik małżeństw oraz rocznik zgonów.
-§ 21. 1. Roczniki są otwierane początkiem roku kalendarzowego.
-2. Rocznikowi, chwilą jego otwarcia cywilnego, jest nadawane oznaczenie, które składa się kolejno z:
-1) siedmioznakowego identyfikatora miejscowości, której ma siedzibę urząd właściwy dla okręgu rejestracji cywilnego, zgodnego krajowym rejestrem urzędowym podziału terytorialnego kraju;
-2) dwuznakowego rozszerzenia identyfikatora, o którym mowa pkt 1, umożliwiającego identyfikację urzędu ramach gminy;
-3) dwuznakowego symbolu rodzaju aktów cywilnego, których dotyczy dany rocznik;
-4) oznaczenia roku, którego dotyczy dany rocznik;
-5) dwuznakowego dodatkowego symbolu cyfrowego.
-2. Otwarcie oraz zamknięcie rocznika, o którym mowa ust. 1, wymaga uwierzytelnienia przez kierownika urzędu przez złożenie podpisu.
-§ 24. 1. Akty przeniesione do rejestru na podstawie art. 124 lub art. 145 ust. 13 ustawy przechowuje się księgach cywilnego.
-2. Kierownik urzędu cywilnego, który dokonuje przeniesienia aktu cywilnego, otwiera księgę celu umieszczenia niej aktów przeniesionych dotychczasowej księgi cywilnego.
-§ 25. Otwarcie księgi następuje przed przeniesieniem pierwszego aktu dotychczasowej księgi cywilnego, a zamknięcie po przeniesieniu wszystkich aktów danej księgi do rejestru lub po upływie okresów przechowywania przewidzianych dla danego rodzaju ksiąg, określonych art. 128 ustawy.
-§ 26. Otwarcie oraz zamknięcie księgi wymaga uwierzytelnienia przez kierownika urzędu przez złożenie podpisu.
-§ 27. 1. Do oznaczania ksiąg stosuje się odpowiednio przepis § 21 ust. 2.
-2. W przypadku przeniesienia aktów więcej niż jednej księgi danego rodzaju danym roku odróżnienia tych ksiąg dokonuje się przez zmianę dwuznakowego dodatkowego symbolu cyfrowego, o którym mowa § 21 ust. 2 pkt 5.
-§ 28. Oznaczenie urzędu zawiera jego pełną nazwę, bez stosowania skrótów, wraz identyfikatorem miejscowości, której ma siedzibę urząd właściwy dla okręgu rejestracji cywilnego, zgodnym krajowym rejestrem urzędowego podziału terytorialnego kraju oraz dodatkowym dwuznakowym symbolem, który pozwala na odróżnianie urzędów cywilnego. Przy oznaczaniu urzędu cywilnego, podaje się dodatkowo identyfikator gminy stanowiącej okręg rejestracji cywilnego.
-§ 29. Po oznaczeniu urzędu otwiera się roczniki cywilnego, o których mowa § 20 ust. 2.
-§ 30. W przypadku gdy została określona właściwość urzędu dla więcej niż jednego okręgu rejestracji cywilnego, oznaczenie urzędu zawiera dodatkowo identyfikatory innych gmin, które po zmianie okręgu rejestracji pozostają we właściwości danego urzędu cywilnego.
-§ 31. W przypadku gdy została określona właściwość urzędu dla więcej niż jednego okręgu rejestracji cywilnego, dla gminy, która przestała stanowić odrębny okręg rejestracji cywilnego, status roczników otwartych na dany rok kalendarzowy zmienia się na zamknięty. Zamknięcie rocznika wymaga wpisania powodu oraz uwierzytelnienia przez kierownika urzędu gminie, która przestała stanowić odrębny okręg rejestracji cywilnego, poprzez złożenie podpisu.
-§ 32. 1. W przypadku gdy została określona właściwość urzędu dla więcej niż jednego okręgu rejestracji cywilnego, status urzędów właściwych dla gmin, które przestały stanowić odrębny okręg rejestracji cywilnego, zmienia się na zamknięty oraz zmienia się dane urzędu cywilnego, który będzie właściwy dla więcej niż jednego okręgu rejestracji cywilnego. Przepis § 30 stosuje się odpowiednio.
-2. W przypadku, o którym mowa ust. 1 zdanie pierwsze, dokonuje się przeniesienia roczników i ksiąg urzędów cywilnego, których status został zmieniony na zamknięty, do urzędu cywilnego, który będzie właściwy dla więcej niż jednego okręgu rejestracji cywilnego.
-§ 33. Po przeniesieniu rocznika albo księgi jest przechowywana informacja o urzędzie cywilnego, którego nastąpiło przeniesienie tego rocznika albo tej księgi.
-§ 34. W kierownik urzędu zleca właściwemu kierownikowi urzędu fikowanym za pomocą ważnego kwalifikowanego certyfikatu, przekazuje się ją tej formie.
-§ 36. 1. Datę sporządzenia dokumentu wydawanego rejestru zamieszcza się tym dokumencie cyframi arabskimi formacie daty: dd.mm.rrrr.
-2. Jeżeli ustawa określa termin ważności dokumentu wydawanego rejestru cywilnego, datę ważności tego dokumentu zamieszcza się cyframi arabskimi formacie daty: dd.mm.rrrr.
-3. W przypadku wydawania rejestru zaświadczenia o zamieszczonych lub niezamieszczonych danych dotyczących wskazanej osoby, datę urodzenia, datę zawarcia małżeństwa lub datę zgonu zamieszcza się tym zaświadczeniu zgodnie zapisem wynikającym aktu cywilnego.
-4. W przypadku wydawania odpisu skróconego aktu albo zaświadczeń rejestru daty tych dokumentach zamieszcza się cyframi arabskimi, formacie daty: dd.mm.rrrr.
+w sprawie sposobu prowadzenia rejestru stanu cywilnego oraz akt zbiorowych rejestracji stanu cywilnego Na podstawie art. 27 ust. 4 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. poz. 1741 i 1888) zarządza się, co następuje:
+
+#### Rozdział 1 Przepis ogólny
+
+**§ 1.** Rozporządzenie określa sposób:
+
+- **1)** prowadzenia rejestru stanu cywilnego;
+- **2)** oznaczania w rejestrze stanu cywilnego aktów stanu cywilnego;
+- **3)** prowadzenia akt zbiorowych rejestracji stanu cywilnego;
+- **4)** zabezpieczania akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego w przypadku, o którym mowa w art. 27 ust. 3 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego, zwanej dalej „ustawą”.
+
+#### Rozdział 2 Sposób prowadzenia rejestru stanu cywilnego
+
+**§ 2.**
+
+1. Wpisów w rejestrze stanu cywilnego dokonuje się w alfabecie łacińskim rozszerzonym, wielkimi literami.
+
+2. Oznaczenie numeru domu w rejestrze stanu cywilnego można zamieścić małymi literami.
+
+**§ 3.** Sporządzenie aktu urodzenia, aktu małżeństwa albo aktu zgonu w rejestrze stanu cywilnego wymaga uwierzytelnienia przez właściwego kierownika urzędu stanu cywilnego przez złożenie podpisu elektronicznego weryfikowanego za pomocą certyfikatu wydanego przez ministra właściwego do spraw wewnętrznych, zwane dalej „złożeniem podpisu”. Złożenie podpisu odbywa się z wykorzystaniem karty mikroprocesorowej zabezpieczonej kodem PIN.
+
+**§ 4.**
+
+1. Daty i godziny w rejestrze stanu cywilnego wpisuje się i przechowuje w formacie daty właściwym dla zapisu daty lub daty i godziny w systemie teleinformatycznym.
+
+2. Datę urodzenia, zawarcia małżeństwa, zgonu lub znalezienia zwłok zamieszcza się w akcie stanu cywilnego słownie oraz w nawiasie cyframi arabskimi w formacie daty: dd.mm.rrrr. W zapisie słownym wyrazy oddziela się spacją, nie zamieszcza się wyrazu „rok”, a nazwa miesiąca podlega deklinacji.
+
+3. Daty inne niż data urodzenia, zawarcia małżeństwa, zgonu lub znalezienia zwłok zamieszcza się w akcie stanu cywilnego cyframi arabskimi, z wyjątkiem nazwy miesiąca, która jest zapisywana słownie i podlega deklinacji. Pierwsze dziewięć dni miesiąca oznacza się cyframi od 1 do 9, a rok zamieszcza się w formacie daty: rrrr. Części daty oznaczające dzień, miesiąc i rok oddziela się spacją.
+
+4. Jeżeli w dokumentach stanowiących podstawę sporządzenia aktu zgonu jako datę zgonu podano okres zdarzenia (datę opisową), to w akcie zgonu jako datę zgonu zamieszcza się ten okres za pomocą przedziału dat wyrażonego jako data początkowa oraz data końcowa okresu, w którym nastąpiło to zdarzenie.
+
+5. W przypadku gdy nie jest możliwe ustalenie daty urodzenia rodziców dziecka, daty urodzenia osób, które zawarły małżeństwo, daty urodzenia osoby zmarłej, w akcie stanu cywilnego zamieszcza się wiek osoby, jeżeli jest znany.
+
+6. Godzinę zgonu albo godzinę znalezienia zwłok zamieszcza się w akcie zgonu w formacie daty: hh:mm.
+
+**§ 5.**
+
+1. Imiona i nazwiska osób zamieszcza się w akcie stanu cywilnego w pełnym brzmieniu.
+
+2. Imiona i nazwiska osób należących do mniejszości narodowych i etnicznych zapisane w alfabecie innym niż alfabet łaciński zamieszcza się z uwzględnieniem sposobu transliteracji określonego w rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 maja 2005 r. w sprawie sposobu transliteracji imion i nazwisk osób należących do mniejszości narodowych i etnicznych zapisanych w alfabecie innym niż alfabet łaciński (Dz. U. Nr 102, poz. 855).
+
+3. W treści aktu stanu cywilnego imię (imiona) zamieszcza się w polach przeznaczonych na zamieszczenie odpowiednio: imienia pierwszego, imienia drugiego, imienia kolejnego.
+
+4. W akcie stanu cywilnego w polach przeznaczonych na zamieszczenie imienia i nazwiska kierownika urzędu stanu cywilnego, który zarejestrował zdarzenie, zamieszcza się imię i nazwisko kierownika urzędu stanu cywilnego sporządzającego akt stanu cywilnego w rejestrze stanu cywilnego na podstawie złożonego podpisu.
+
+**§ 6.** Informację o złożeniu zgodnych oświadczeń o wstąpieniu w związek małżeński zamieszcza się w akcie małżeństwa przez oznaczenie pola wyboru: „Osoby złożyły zgodne oświadczenia o wstąpieniu w związek małżeński”.
+
+**§ 7.** W przypadku gdy nie jest możliwe ustalenie danych podlegających zamieszczeniu w akcie stanu cywilnego, pola nie wypełnia się.
+
+**§ 8.** Przy akcie stanu cywilnego zamieszcza się dane, których nie zawiera akt stanu cywilnego, a które są niezbędne do wydania wielojęzycznego odpisu skróconego w rozumieniu Konwencji nr 16 dotyczącej wydawania wielojęzycznych odpisów skróconych aktów stanu cywilnego, sporządzonej w Wiedniu dnia 8 września 1976 r. (Dz. U. z 2004 r. Nr 166, poz. 1735), zwanego dalej „odpisem wielojęzycznym”.
+
+**§ 9.** W przypadku zmiany numeru PESEL w trybie przewidzianym w art. 19 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. Nr 217, poz. 1427, z późn. zm. ) w rejestrze stanu cywilnego, w miejsce dotychczas przechowywanego numeru PESEL, zamieszcza się przy aktach stanu cywilnego danej osoby nowy numer PESEL.
+
+**§ 10.** Dokonanie wpisu w rejestrze uznań wymaga uwierzytelnienia przez właściwego kierownika urzędu stanu cywilnego przez złożenie podpisu.
+
+**§ 11.**
+
+1. Jeżeli przed kierownikiem urzędu stanu cywilnego zostało złożone oświadczenie mężczyzny konieczne do uznania ojcostwa, a matka dziecka nie potwierdziła jednocześnie, że ojcem dziecka jest ten mężczyzna, informację o tym zamieszcza się w rejestrze uznań.
+
+2. Jeżeli matka dziecka nie potwierdziła w terminie, o którym mowa w art. 73 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2012 r. poz. 788, z późn. zm. ), że mężczyzna, który złożył oświadczenie konieczne do uznania ojcostwa dziecka, jest ojcem dziecka, w rejestrze uznań rejestruje się informację oznaczającą brak ważności uznania ojcostwa dziecka.
+
+**§ 12.** Dołączenie w rejestrze stanu cywilnego wzmianki dodatkowej do aktu urodzenia, aktu małżeństwa albo aktu zgonu wymaga uwierzytelnienia przez właściwego kierownika urzędu stanu cywilnego przez złożenie podpisu.
+
+**§ 13.** Dołączenie do aktu stanu cywilnego wzmianki dodatkowej wymaga określenia w rejestrze stanu cywilnego rodzaju i nazwy tej wzmianki oraz wskazania podstawy jej dołączenia.
+
+**§ 14.**
+
+1. Jeżeli do aktu stanu cywilnego dołącza się wzmiankę dodatkową wpływającą na treść aktu stanu cywilnego, zamieszcza się w niej dane zawarte w treści aktu stanu cywilnego, które podlegają zmianie, chyba że wzmianka dodatkowa dołączana do aktu małżeństwa dotyczy ustania małżeństwa przez śmierć, rozwiązania małżeństwa przez rozwód, unieważnienia małżeństwa, stwierdzenia nieistnienia małżeństwa, separacji, zniesienia separacji.
+
+2. Jeżeli do aktu stanu cywilnego dołącza się wzmiankę dodatkową wpływającą na ważność aktu stanu cywilnego, na podstawie nazwy tej wzmianki dodatkowej zamieszcza się informację dotyczącą ważności aktu stanu cywilnego.
+
+3. Jeżeli do aktu stanu cywilnego dołącza się wzmiankę dodatkową unieważniającą inną wzmiankę dodatkową, należy wybrać wzmiankę dodatkową dołączoną do aktu stanu cywilnego, która podlega unieważnieniu.
+
+**§ 15.**
+
+1. Wzmianka dodatkowa dołączona do aktu stanu cywilnego w rejestrze stanu cywilnego zawiera:
+
+- **1)** część, która może być edytowana podczas sporządzania wzmianki dodatkowej, z zamieszczoną informacją o dokumentach lub czynnościach stanowiących podstawę dołączenia wzmianki dodatkowej oraz o organie, którego rezultatem działania jest ta wzmianka dodatkowa;
+- **2)** część nieedytowalną z danymi zamieszczanymi w miejsce dotychczasowych danych;
+- **3)** dodatkową część edytowalną przeznaczoną do zamieszczenia informacji niezawartych w częściach, o których mowa w pkt 1 i 2;
+- **4)** imię i nazwisko kierownika urzędu stanu cywilnego, który dołącza do aktu stanu cywilnego wzmiankę dodatkową, ustalone na podstawie złożonego podpisu.
+
+2. Wzmianka dodatkowa wpływająca na ważność aktu stanu cywilnego oraz wzmianki dodatkowe dołączane do aktu małżeństwa, o których mowa w § 14 ust. 1, nie zawierają części, o której mowa w ust. 1 pkt 2.
+
+**§ 16.**
+
+1. Zamieszczenie przypisku przy akcie stanu cywilnego w rejestrze stanu cywilnego odbywa się przez wybranie w rejestrze stanu cywilnego odpowiedniej treści przypisku.
+
+2. Jeżeli w dokumentach stanowiących podstawę dokonania przypisku jako datę zgonu podano okres zdarzenia (datę opisową), to w przypisku zamieszczanym przy akcie stanu cywilnego jako datę zgonu zamieszcza się ten okres za pomocą przedziału dat wyrażonego jako data początkowa oraz data końcowa okresu, w którym nastąpił zgon.
+
+**§ 17.** W przypadku zamieszczenia przypisku przy niewłaściwym akcie stanu cywilnego kierownik urzędu stanu cywilnego właściwy do sporządzenia aktu stanu cywilnego, przy którym został zamieszczony przypisek, usuwa w rejestrze stanu cywilnego ten przypisek.
+
+**§ 18.** Po przekazaniu przez podmiot wykonujący działalność leczniczą karty urodzenia albo karty martwego urodzenia w rejestrze stanu cywilnego niezwłocznie rejestruje się datę, do której powinno nastąpić zgłoszenie urodzenia dziecka na podstawie daty sporządzenia karty urodzenia albo karty martwego urodzenia.
+
+**§ 19.** Na podstawie przyjętego przez kierownika urzędu stanu cywilnego lub otrzymanego od konsula zapewnienia, że osoby zamierzające zawrzeć małżeństwo nie wiedzą o istnieniu okoliczności wyłączających zawarcie tego małżeństwa, o którym mowa w art. 76 ustawy, w rejestrze stanu cywilnego rejestruje się datę, do której to zapewnienie jest ważne.
+
+**§ 20.**
+
+1. Akty stanu cywilnego w rejestrze stanu cywilnego sporządza się w rocznikach.
+
+2. W rejestrze stanu cywilnego, oddzielnie dla każdego roku kalendarzowego, otwiera się rocznik urodzeń, rocznik małżeństw oraz rocznik zgonów.
+
+**§ 21.**
+
+1. Roczniki są otwierane w rejestrze stanu cywilnego z początkiem roku kalendarzowego.
+
+2. Rocznikowi, z chwilą jego otwarcia w rejestrze stanu cywilnego, jest nadawane oznaczenie, które składa się kolejno z:
+
+- **1)** siedmioznakowego identyfikatora miejscowości, w której ma siedzibę urząd stanu cywilnego właściwy dla okręgu rejestracji stanu cywilnego, zgodnego z krajowym rejestrem urzędowym podziału terytorialnego kraju;
+- **2)** dwuznakowego rozszerzenia identyfikatora, o którym mowa w pkt 1, umożliwiającego identyfikację urzędu stanu cywilnego w ramach gminy;
+- **3)** dwuznakowego symbolu rodzaju aktów stanu cywilnego, których dotyczy dany rocznik;
+- **4)** oznaczenia roku, którego dotyczy dany rocznik;
+- **5)** dwuznakowego dodatkowego symbolu cyfrowego.
+
+**§ 22.**
+
+1. Roczniki są zamykane w rejestrze stanu cywilnego z końcem roku kalendarzowego.
+
+2. Zamknięcie rocznika powoduje brak możliwości sporządzenia w danym roku aktu stanu cywilnego w rejestrze stanu cywilnego.
+
+**§ 23.**
+
+1. W przypadku gdy otwarcie albo zamknięcie rocznika w rejestrze stanu cywilnego nie nastąpi w sposób przewidziany odpowiednio w § 21 ust. 1 albo § 22 ust. 1, otwarcia albo zamknięcia rocznika dokonuje właściwy kierownik urzędu stanu cywilnego, wpisując w rejestrze stanu cywilnego powód otwarcia albo zamknięcia rocznika.
+
+2. Otwarcie oraz zamknięcie rocznika, o którym mowa w ust. 1, wymaga uwierzytelnienia przez kierownika urzędu stanu cywilnego przez złożenie podpisu.
+
+**§ 24.**
+
+1. Akty stanu cywilnego przeniesione do rejestru stanu cywilnego na podstawie art. 124 lub art. 145 ust. 13 ustawy przechowuje się w rejestrze stanu cywilnego w księgach stanu cywilnego.
+
+2. Kierownik urzędu stanu cywilnego, który dokonuje przeniesienia aktu stanu cywilnego, otwiera w rejestrze stanu cywilnego księgę stanu cywilnego w celu umieszczenia w niej aktów przeniesionych z dotychczasowej księgi stanu cywilnego.
+
+**§ 25.** Otwarcie księgi stanu cywilnego następuje przed przeniesieniem pierwszego aktu stanu cywilnego z dotychczasowej księgi stanu cywilnego, a zamknięcie po przeniesieniu wszystkich aktów stanu cywilnego z danej księgi stanu cywilnego do rejestru stanu cywilnego lub po upływie okresów przechowywania przewidzianych dla danego rodzaju ksiąg, określonych w art. 128 ustawy.
+
+**§ 26.** Otwarcie oraz zamknięcie księgi stanu cywilnego w rejestrze stanu cywilnego wymaga uwierzytelnienia przez kierownika urzędu stanu cywilnego przez złożenie podpisu.
+
+**§ 27.**
+
+1. Do oznaczania w rejestrze stanu cywilnego ksiąg stanu cywilnego stosuje się odpowiednio przepis § 21 ust. 2.
+
+2. W przypadku przeniesienia aktów stanu cywilnego z więcej niż jednej księgi stanu cywilnego danego rodzaju w danym roku odróżnienia tych ksiąg w rejestrze stanu cywilnego dokonuje się przez zmianę dwuznakowego dodatkowego symbolu cyfrowego, o którym mowa w § 21 ust. 2 pkt 5.
+
+**§ 28.** Oznaczenie urzędu stanu cywilnego w rejestrze stanu cywilnego zawiera jego pełną nazwę, bez stosowania skrótów, wraz z identyfikatorem miejscowości, w której ma siedzibę urząd stanu cywilnego właściwy dla okręgu rejestracji stanu cywilnego, zgodnym z krajowym rejestrem urzędowego podziału terytorialnego kraju oraz dodatkowym dwuznakowym symbolem, który pozwala na odróżnianie urzędów stanu cywilnego w rejestrze stanu cywilnego. Przy oznaczaniu urzędu stanu cywilnego w rejestrze stanu cywilnego, podaje się dodatkowo identyfikator gminy stanowiącej okręg rejestracji stanu cywilnego.
+
+**§ 29.** Po oznaczeniu urzędu stanu cywilnego w rejestrze stanu cywilnego otwiera się roczniki stanu cywilnego, o których mowa w § 20 ust. 2.
+
+**§ 30.** W przypadku gdy została określona właściwość urzędu stanu cywilnego dla więcej niż jednego okręgu rejestracji stanu cywilnego, oznaczenie urzędu stanu cywilnego zawiera dodatkowo identyfikatory innych gmin, które po zmianie okręgu rejestracji stanu cywilnego pozostają we właściwości danego urzędu stanu cywilnego.
+
+**§ 31.** W przypadku gdy została określona właściwość urzędu stanu cywilnego dla więcej niż jednego okręgu rejestracji stanu cywilnego, w rejestrze stanu cywilnego dla gminy, która przestała stanowić odrębny okręg rejestracji stanu cywilnego, status roczników otwartych na dany rok kalendarzowy zmienia się na zamknięty. Zamknięcie rocznika wymaga wpisania w rejestrze stanu cywilnego powodu oraz uwierzytelnienia przez kierownika urzędu stanu cywilnego w gminie, która przestała stanowić odrębny okręg rejestracji stanu cywilnego, poprzez złożenie podpisu.
+
+**§ 32.**
+
+1. W przypadku gdy została określona właściwość urzędu stanu cywilnego dla więcej niż jednego okręgu rejestracji stanu cywilnego, w rejestrze stanu cywilnego status urzędów stanu cywilnego właściwych dla gmin, które przestały stanowić odrębny okręg rejestracji stanu cywilnego, zmienia się na zamknięty oraz zmienia się dane urzędu stanu cywilnego, który będzie właściwy dla więcej niż jednego okręgu rejestracji stanu cywilnego. Przepis § 30 stosuje się odpowiednio.
+
+2. W przypadku, o którym mowa w ust. 1 zdanie pierwsze, w rejestrze stanu cywilnego dokonuje się przeniesienia roczników i ksiąg stanu cywilnego z urzędów stanu cywilnego, których status został zmieniony na zamknięty, do urzędu stanu cywilnego, który będzie właściwy dla więcej niż jednego okręgu rejestracji stanu cywilnego.
+
+**§ 33.** Po przeniesieniu rocznika albo księgi stanu cywilnego w rejestrze stanu cywilnego jest przechowywana informacja o urzędzie stanu cywilnego, z którego nastąpiło przeniesienie tego rocznika albo tej księgi.
+
+**§ 34.** W rejestrze stanu cywilnego kierownik urzędu stanu cywilnego zleca właściwemu kierownikowi urzędu stanu cywilnego przeniesienie aktu stanu cywilnego do rejestru stanu cywilnego w przypadkach, o których mowa w art. 125 ust. 2 ustawy.
+
+**§ 35.** Decyzję o zmianie imienia lub nazwiska, o której mowa w ustawie z dnia 17 października 2008 r. o zmianie imienia i nazwiska (Dz. U. Nr 220, poz. 1414, z 2010 r. Nr 217, poz. 1427 oraz z 2014 r. poz. 1741), przekazuje się w rejestrze stanu cywilnego do właściwych kierowników urzędów stanu cywilnego jako odwzorowanie cyfrowe, a jeżeli decyzja została wydana w formie dokumentu elektronicznego opatrzonego bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu, przekazuje się ją w tej formie.
+
+**§ 36.**
+
+1. Datę sporządzenia dokumentu wydawanego z rejestru stanu cywilnego zamieszcza się w tym dokumencie cyframi arabskimi w formacie daty: dd.mm.rrrr.
+
+2. Jeżeli ustawa określa termin ważności dokumentu wydawanego z rejestru stanu cywilnego, datę ważności tego dokumentu zamieszcza się cyframi arabskimi w formacie daty: dd.mm.rrrr.
+
+3. W przypadku wydawania z rejestru stanu cywilnego zaświadczenia o zamieszczonych lub niezamieszczonych w rejestrze stanu cywilnego danych dotyczących wskazanej osoby, datę urodzenia, datę zawarcia małżeństwa lub datę zgonu zamieszcza się w tym zaświadczeniu zgodnie z zapisem wynikającym z aktu stanu cywilnego.
+
+4. W przypadku wydawania odpisu skróconego aktu stanu cywilnego albo zaświadczeń z rejestru stanu cywilnego daty w tych dokumentach zamieszcza się cyframi arabskimi, w formacie daty: dd.mm.rrrr.
+
 5. Przepisów ust. 1–4 nie stosuje się do wydawania odpisów wielojęzycznych.
-§ 37. W przypadku wydawania odpisu aktu rejestru cywilnego, rubrykach przeznaczonych na zamieszczenie informacji o urzędzie i województwie zamieszcza się dane właściwe dla kierownika urzędu właściwego do przechowywania aktu cywilnego.
-§ 38. 1. W przypadku wydawania odpisu skróconego aktu rejestru nazwę miejsca zdarzenia zamieszcza się odpisie skróconym aktu brzmieniu aktualnie obowiązującym, na podstawie uprzednio dołączonej wzmianki dodatkowej o zmianie nazwy miejscowości.
-2. Na wniosek podmiotu, o którym mowa art. 45 ustawy, odpisie skróconym aktu wydawanym rejestru obok aktualnego brzmienia nazwy miejscowości, której nastąpiło urodzenie, zostało zawarte małżeństwo albo nastąpił zgon, albo znaleziono zwłoki, zamieszcza się nawiasie nazwę miejscowości chwili sporządzenia aktu cywilnego, jeżeli jest ona inna od aktualnego brzmienia nazwy tej miejscowości.
-§ 39. Przy wydawaniu odpisu aktu rejestru rubryki odpisu, które odpowiadają niewypełnionemu polu akcie cywilnego, oznacza się myślnikiem.
-§ 40. 1. Po sporządzeniu aktu lub dołączeniu do aktu wzmianki dodatkowej rejestr przechowuje aktualne dane niezbędne do wydania odpisu skróconego aktu cywilnego, tym odpisu wielojęzycznego.
-2. Przy wydawaniu odpisu aktu rejestru nie ma możliwości wprowadzania zmian treści odpisu, wyjątkiem:
-1) informacji o odpisie dotyczącej opłaty skarbowej zakresie wysokości uiszczonej opłaty;
-2) adnotacji o ustaniu małżeństwa, jego unieważnieniu, ustaleniu nieistnienia małżeństwa, o separacji lub o zniesieniu separacji odpisie skróconym aktu małżeństwa;
-3) innych danych aktu umieszczonych odpisie wielojęzycznym aktu urodzenia lub odpisie wielojęzycznym aktu małżeństwa.
-§ 41. W przechowuje się informacje o odpisach skróconych aktów wydanych rejestru cywilnego, tym odpisach wielojęzycznych, szczególności informację o treści odpisu, dacie jego wydania, kierowniku urzędu cywilnego, który wydał odpis, lub osobie upoważnionej do wydania odpisu wraz nazwą urzędu właściwego dla kierownika urzędu lub osoby upoważnionej do wydania odpisu, a także informacje o odpisach zupełnych aktów wydanych rejestru cywilnego.
-4) czteroznakowego oznaczenia roku, którym akt jest sporządzany;
-5) sześcioznakowego numeru aktu.
-3. Z chwilą przeniesienia aktu do rejestru na podstawie art. 124 lub art. 145 ust. 13 ustawy, jest nadawane nowe oznaczenie tego aktu. Przepisy ust. 1 i 2 stosuje się odpowiednio.
-2. Akta zbiorowe rejestracji niesporządzone formie dokumentu elektronicznego oznacza się dodatkowo datą sporządzenia aktu cywilnego, którego dotyczą, i prowadzi się je porządku chronologicznym.
-§ 44. 1. Akta zbiorowe rejestracji sporządzone formie dokumentu elektronicznego, akta zbiorowe rejestracji zamieszczone jako odwzorowanie cyfrowe oraz opisy dokumentów niesporządzonych formie dokumentów elektronicznych zamieszcza się przy akcie porządku chronologicznym.
-2. Dla zamieszczonych przy akcie akt zbiorowych rejestracji sporządzonych formie dokumentu elektronicznego, akt zbiorowych rejestracji zamieszczonych jako odwzorowanie cyfrowe oraz opisów dokumentów niesporządzonych formie dokumentów elektronicznych przechowuje się informacje o:
-1) postaci dokumentu;
-2) rodzaju dokumentu;
-3) dacie i oznaczeniu dokumentu;
-4) nazwie organu, który sporządził dokument;
-5) dacie i osobie, która zamieściła dokument przy akcie cywilnego;
-6) oznaczeniu aktu cywilnego, którego dokument dotyczy.
-§ 45. Akta zbiorowe rejestracji zamieszcza się chwilą sporządzenia aktu lub po jego sporządzeniu po dołączeniu wzmianki dodatkowej do aktu albo zamieszczeniu przypisku przy akcie.
-§ 46. 1. W przypadku gdy wzmianka dodatkowa jest dołączana do aktu na podstawie innego aktu sporządzonego cywilnego, nie wymaga się gromadzenia aktach zbiorowych odpisu aktu cywilnego, który stanowił podstawę tej wzmianki dodatkowej.
-2. W przypadku gdy przypisek jest zamieszczany przy akcie wyniku sporządzenia aktu cywilnego lub dołączenia wzmianki dodatkowej do aktu cywilnego, nie wymaga się gromadzenia aktach zbiorowych dokumentu stanowiącego podstawę przypisku.
-3. W przypadkach, o których mowa ust. 1 i 2, aktach zbiorowych rejestracji cywilnego, dotyczących danego aktu cywilnego, gromadzi się adnotację zawierającą oznaczenie innego aktu cywilnego. Adnotacji nie zamieszcza się, jeżeli treści wzmianki dodatkowej albo przypisku wynika to oznaczenie.
-§ 47. Dokument zamieszczony omyłkowo aktach zbiorowych rejestracji cywilnego przy niewłaściwym akcie podlega usunięciu tych akt zbiorowych i dołączeniu do właściwych akt zbiorowych.
-elektronicznego, wynoszonych poza urząd § 48. 1. Wyniesienie poza urząd akt zbiorowych rejestracji niesporządzonych formie dokumentu elektronicznego, przypadku zgody wojewody, odbywa się przez przekazanie akt zbiorowych przez upoważnionego pracownika albo przez nadanie jako przesyłki poleconej polskiej placówce pocztowej operatora wyznaczonego rozumieniu ustawy dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. poz. 1529).
-2. W przypadku, o którym mowa ust. 1, akta zbiorowe rejestracji niesporządzone formie dokumentu elektronicznego umieszcza się opakowaniu wykonanym materiałów chroniących przed uszkodzeniem mechanicznym, chemicznym lub biologicznym, zapewniającym zabezpieczenie dokumentów sposób uniemożliwiający dostęp do nich osób nieuprawnionych.
-3. Przepisów ust. 1 i 2 nie stosuje się do wynoszenia poza urząd akt zbiorowych rejestracji niesporządzonych formie dokumentu elektronicznego przypadku niebezpieczeństwa zagrażającego tym aktom. W takim przypadku akta zbiorowe umieszcza się opakowaniu wykonanym materiałów chroniących przed uszkodzeniem mechanicznym, chemicznym lub biologicznym, zapewniającym zabezpieczenie dokumentów sposób uniemożliwiający dostęp do nich osób nieuprawnionych, niezwłocznie po ustaniu niebezpieczeństwa lub przeniesieniu akt zbiorowych poza obszar jego oddziaływania.
-Minister Spraw Wewnętrznych: wz. P. Stachańczyk
 
-#### Rozdział 1 Przepis ogólny § 1. Rozporządzenie określa sposób:
+**§ 37.** W przypadku wydawania odpisu aktu stanu cywilnego z rejestru stanu cywilnego, w rubrykach przeznaczonych na zamieszczenie informacji o urzędzie stanu cywilnego i województwie zamieszcza się dane właściwe dla kierownika urzędu stanu cywilnego właściwego do przechowywania aktu stanu cywilnego w rejestrze stanu cywilnego.
 
-#### Rozdział 2 Sposób prowadzenia rejestru § 2. 1. Wpisów dokonuje się alfabecie łacińskim rozszerzonym, wielkimi literami.
+**§ 38.**
 
-#### Rozdział 3 Sposób oznaczania aktów § 42. 1. Oznaczenie aktu jest nadawane przez system teleinformatyczny, którym jest prowadzony rejestr cywilnego, chwilą sporządzenia aktu urodzenia, aktu małżeństwa albo aktu zgonu.
+1. W przypadku wydawania odpisu skróconego aktu stanu cywilnego z rejestru stanu cywilnego nazwę miejsca zdarzenia zamieszcza się w odpisie skróconym aktu stanu cywilnego w brzmieniu aktualnie obowiązującym, na podstawie uprzednio dołączonej wzmianki dodatkowej o zmianie nazwy miejscowości.
 
-#### Rozdział 4 Sposób prowadzenia akt zbiorowych rejestracji § 43. 1. Akta zbiorowe rejestracji cywilnego, niezależnie od postaci, której są sporządzone, opatruje się oznaczeniem nadanym aktowi cywilnego, którego dotyczą.
+2. Na wniosek podmiotu, o którym mowa w art. 45 ustawy, w odpisie skróconym aktu stanu cywilnego wydawanym z rejestru stanu cywilnego obok aktualnego brzmienia nazwy miejscowości, w której nastąpiło urodzenie, zostało zawarte małżeństwo albo nastąpił zgon, albo znaleziono zwłoki, zamieszcza się w nawiasie nazwę miejscowości z chwili sporządzenia aktu stanu cywilnego, jeżeli jest ona inna od aktualnego brzmienia nazwy tej miejscowości.
 
-#### Rozdział 6 Przepis końcowy § 49. Rozporządzenie wchodzi życie dniem 1 marca 2015 r.
+**§ 39.** Przy wydawaniu odpisu aktu stanu cywilnego z rejestru stanu cywilnego rubryki odpisu, które odpowiadają niewypełnionemu polu w akcie stanu cywilnego, oznacza się myślnikiem.
+
+**§ 40.**
+
+1. Po sporządzeniu aktu stanu cywilnego lub dołączeniu do aktu wzmianki dodatkowej rejestr stanu cywilnego przechowuje aktualne dane niezbędne do wydania odpisu skróconego aktu stanu cywilnego, w tym odpisu wielojęzycznego.
+
+2. Przy wydawaniu odpisu aktu stanu cywilnego z rejestru stanu cywilnego nie ma możliwości wprowadzania zmian w treści odpisu, z wyjątkiem:
+
+- **1)** informacji o odpisie dotyczącej opłaty skarbowej w zakresie wysokości uiszczonej opłaty;
+- **2)** adnotacji o ustaniu małżeństwa, jego unieważnieniu, ustaleniu nieistnienia małżeństwa, o separacji lub o zniesieniu separacji w odpisie skróconym aktu małżeństwa;
+- **3)** innych danych z aktu stanu cywilnego umieszczonych w odpisie wielojęzycznym aktu urodzenia lub odpisie wielojęzycznym aktu małżeństwa.
+
+**§ 41.** W rejestrze stanu cywilnego przechowuje się informacje o odpisach skróconych aktów stanu cywilnego wydanych z rejestru stanu cywilnego, w tym odpisach wielojęzycznych, w szczególności informację o treści odpisu, dacie jego wydania, kierowniku urzędu stanu cywilnego, który wydał odpis, lub osobie upoważnionej do wydania odpisu wraz z nazwą urzędu stanu cywilnego właściwego dla kierownika urzędu stanu cywilnego lub osoby upoważnionej do wydania odpisu, a także informacje o odpisach zupełnych aktów stanu cywilnego wydanych z rejestru stanu cywilnego.
+
+#### Rozdział 3 Sposób oznaczania aktów stanu cywilnego w rejestrze stanu cywilnego
+
+**§ 42.**
+
+1. Oznaczenie aktu stanu cywilnego jest nadawane przez system teleinformatyczny, w którym jest prowadzony rejestr stanu cywilnego, z chwilą sporządzenia aktu urodzenia, aktu małżeństwa albo aktu zgonu.
+
+2. Oznaczenie aktu stanu cywilnego składa się kolejno z:
+
+- **1)** siedmioznakowego identyfikatora miejscowości, w której ma siedzibę urząd stanu cywilnego właściwy dla okręgu rejestracji stanu cywilnego, zgodnego z krajowym rejestrem urzędowym podziału terytorialnego kraju;
+- **2)** dwuznakowego rozszerzenia identyfikatora, o którym mowa w pkt 1, umożliwiającego identyfikację urzędu stanu cywilnego w ramach gminy;
+- **3)** dwuznakowego symbolu rodzaju aktu stanu cywilnego;
+- **4)** czteroznakowego oznaczenia roku, w którym akt jest sporządzany;
+- **5)** sześcioznakowego numeru aktu.
+
+3. Z chwilą przeniesienia aktu stanu cywilnego do rejestru stanu cywilnego na podstawie art. 124 lub art. 145 ust. 13 ustawy, jest nadawane w rejestrze stanu cywilnego nowe oznaczenie tego aktu. Przepisy ust. 1 i 2 stosuje się odpowiednio.
+
+#### Rozdział 4 Sposób prowadzenia akt zbiorowych rejestracji stanu cywilnego
+
+**§ 43.**
+
+1. Akta zbiorowe rejestracji stanu cywilnego, niezależnie od postaci, w której są sporządzone, opatruje się oznaczeniem nadanym aktowi stanu cywilnego, którego dotyczą.
+
+2. Akta zbiorowe rejestracji stanu cywilnego niesporządzone w formie dokumentu elektronicznego oznacza się dodatkowo datą sporządzenia aktu stanu cywilnego, którego dotyczą, i prowadzi się je w porządku chronologicznym.
+
+**§ 44.**
+
+1. Akta zbiorowe rejestracji stanu cywilnego sporządzone w formie dokumentu elektronicznego, akta zbiorowe rejestracji stanu cywilnego zamieszczone jako odwzorowanie cyfrowe oraz opisy dokumentów niesporządzonych w formie dokumentów elektronicznych zamieszcza się w rejestrze stanu cywilnego przy akcie stanu cywilnego w porządku chronologicznym.
+
+2. Dla zamieszczonych przy akcie stanu cywilnego akt zbiorowych rejestracji stanu cywilnego sporządzonych w formie dokumentu elektronicznego, akt zbiorowych rejestracji stanu cywilnego zamieszczonych jako odwzorowanie cyfrowe oraz opisów dokumentów niesporządzonych w formie dokumentów elektronicznych przechowuje się w rejestrze stanu cywilnego informacje o:
+
+- **1)** postaci dokumentu;
+- **2)** rodzaju dokumentu;
+- **3)** dacie i oznaczeniu dokumentu;
+- **4)** nazwie organu, który sporządził dokument;
+- **5)** dacie i osobie, która zamieściła dokument przy akcie stanu cywilnego;
+- **6)** oznaczeniu aktu stanu cywilnego, którego dokument dotyczy.
+
+**§ 45.** Akta zbiorowe rejestracji stanu cywilnego zamieszcza się w rejestrze stanu cywilnego z chwilą sporządzenia aktu stanu cywilnego lub po jego sporządzeniu po dołączeniu wzmianki dodatkowej do aktu stanu cywilnego albo zamieszczeniu przypisku przy akcie.
+
+**§ 46.**
+
+1. W przypadku gdy wzmianka dodatkowa jest dołączana do aktu stanu cywilnego na podstawie innego aktu stanu cywilnego sporządzonego w rejestrze stanu cywilnego, nie wymaga się gromadzenia w aktach zbiorowych odpisu aktu stanu cywilnego, który stanowił podstawę tej wzmianki dodatkowej.
+
+2. W przypadku gdy przypisek jest zamieszczany przy akcie stanu cywilnego w wyniku sporządzenia aktu stanu cywilnego w rejestrze stanu cywilnego lub dołączenia wzmianki dodatkowej do aktu stanu cywilnego, nie wymaga się gromadzenia w aktach zbiorowych dokumentu stanowiącego podstawę przypisku.
+
+3. W przypadkach, o których mowa w ust. 1 i 2, w aktach zbiorowych rejestracji stanu cywilnego, dotyczących danego aktu stanu cywilnego, gromadzi się adnotację zawierającą oznaczenie innego aktu stanu cywilnego w rejestrze stanu cywilnego. Adnotacji nie zamieszcza się, jeżeli z treści wzmianki dodatkowej albo przypisku wynika to oznaczenie.
+
+**§ 47.** Dokument zamieszczony omyłkowo w rejestrze stanu cywilnego w aktach zbiorowych rejestracji stanu cywilnego przy niewłaściwym akcie stanu cywilnego podlega usunięciu z tych akt zbiorowych i dołączeniu do właściwych akt zbiorowych.
+
+#### Rozdział 5 Sposób zabezpieczania akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego, wynoszonych poza urząd stanu cywilnego
+
+**§ 48.**
+
+1. Wyniesienie poza urząd stanu cywilnego akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego, w przypadku zgody wojewody, odbywa się przez przekazanie akt zbiorowych przez upoważnionego pracownika albo przez nadanie jako przesyłki poleconej w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529).
+
+2. W przypadku, o którym mowa w ust. 1, akta zbiorowe rejestracji stanu cywilnego niesporządzone w formie dokumentu elektronicznego umieszcza się w opakowaniu wykonanym z materiałów chroniących przed uszkodzeniem mechanicznym, chemicznym lub biologicznym, zapewniającym zabezpieczenie dokumentów w sposób uniemożliwiający dostęp do nich osób nieuprawnionych.
+
+3. Przepisów ust. 1 i 2 nie stosuje się do wynoszenia poza urząd stanu cywilnego akt zbiorowych rejestracji stanu cywilnego niesporządzonych w formie dokumentu elektronicznego w przypadku niebezpieczeństwa zagrażającego tym aktom. W takim przypadku akta zbiorowe umieszcza się w opakowaniu wykonanym z materiałów chroniących przed uszkodzeniem mechanicznym, chemicznym lub biologicznym, zapewniającym zabezpieczenie dokumentów w sposób uniemożliwiający dostęp do nich osób nieuprawnionych, niezwłocznie po ustaniu niebezpieczeństwa lub przeniesieniu akt zbiorowych poza obszar jego oddziaływania.
+
+#### Rozdział 6 Przepis końcowy
+
+**§ 49.** Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r. Minister Spraw Wewnętrznych: wz. P. Stachańczyk
 

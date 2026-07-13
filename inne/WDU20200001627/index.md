@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie Rejestru Hipercholesterolemii Rodzinnej Na podstawie art. 20 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2020 r.
 poz. 702 i 1493) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 8 stycznia 2020 r. w sprawie Rejestru Hipercholesterolemii Rodzinnej (Dz. U. poz. 83) po § 5 dodaje się § 5a w brzmieniu: „§ 5a. Dane i identyfikatory, o których mowa w § 4, obejmujące okres od dnia 1 stycznia 2010 r. do dnia wejścia w życie rozporządzenia, zostaną przekazane do rejestru przez Uniwersyteckie Centrum Kliniczne w Gdańsku nie później niż do dnia 31 grudnia 2022 r.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 8 stycznia 2020 r. w sprawie Rejestru Hipercholesterolemii Rodzinnej (Dz. U. poz. 83) po § 5 dodaje się § 5a w brzmieniu: „§ 5a. Dane i identyfikatory, o których mowa w § 4, obejmujące okres od dnia 1 stycznia 2010 r. do dnia wejścia w życie rozporządzenia, zostaną przekazane do rejestru przez Uniwersyteckie Centrum Kliniczne w Gdańsku nie później niż do dnia 31 grudnia 2022 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: A. Niedzielski
 

@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001469) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1469/text.pdf) |
 
 w sprawie reorganizacji Instytutu Chemicznej Przeróbki Węgla Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2016 r. poz. 371, 1079 i 1311) zarządza się, co następuje:
-§ 1. Nadzór nad Instytutem Chemicznej Przeróbki Węgla z siedzibą w Zabrzu, numer identyfikacyjny REGON 000025945, NIP 648-000-87-65 , sprawuje minister właściwy do spraw gospodarki złożami kopalin.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: B. Szydło
+
+**§ 1.** Nadzór nad Instytutem Chemicznej Przeróbki Węgla z siedzibą w Zabrzu, numer identyfikacyjny REGON 000025945, NIP 648-000-87-65 , sprawuje minister właściwy do spraw gospodarki złożami kopalin.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

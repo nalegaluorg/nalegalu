@@ -26,13 +26,19 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000437) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/437/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 8 września 2015 r. w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. z 2020 r. poz. 320) w § 24:
-1) w ust. 1 wyrazy „14 dni” zastępuje się wyrazami „5 dni roboczych”;
-2) w ust. 6 wyrazy „14 dni” zastępuje się wyrazami „7 dni”.
-§ 2. 1. Na wniosek świadczeniodawcy, w okresie, o którym mowa w art. 36 ust. 1 ustawy z dnia 2 marca 2020 r.
-o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374), należność, o której mowa w § 18 ust. 2 rozporządzenia zmienianego w § 1, może być ustalona jako iloczyn odwrotności liczby okresów sprawozdawczych w okresie rozliczeniowym i kwoty zobowiązania dla danego zakresu świadczeń.
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 8 września 2015 r. w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. z 2020 r. poz. 320) w § 24:
+
+- **1)** w ust. 1 wyrazy „14 dni” zastępuje się wyrazami „5 dni roboczych”;
+- **2)** w ust. 6 wyrazy „14 dni” zastępuje się wyrazami „7 dni”.
+
+**§ 2.**
+
+1. Na wniosek świadczeniodawcy, w okresie, o którym mowa w art. 36 ust. 1 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374), należność, o której mowa w § 18 ust. 2 rozporządzenia zmienianego w § 1, może być ustalona jako iloczyn odwrotności liczby okresów sprawozdawczych w okresie rozliczeniowym i kwoty zobowiązania dla danego zakresu świadczeń.
+
 2. Podstawą wypłaty należności, o której mowa w ust. 1, jest rachunek składany w oddziale wojewódzkim Narodowego Funduszu Zdrowia, w terminie do 10. dnia miesiąca, za miesiąc poprzedni.
+
 3. Dyrektor oddziału wojewódzkiego Narodowego Funduszu Zdrowia jest obowiązany do rozliczenia, w terminie do zakończenia okresu rozliczeniowego określonego w umowie o udzielanie świadczeń opieki zdrowotnej, środków wynikających z wypłaty świadczeniodawcy należności, o których mowa w ust. 1, zgodnie z przepisami § 18 rozporządzenia zmienianego w § 1.
-§ 3. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Minister Zdrowia: wz. J. Szczurek-Żelazko
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem ogłoszenia. Minister Zdrowia: wz. J. Szczurek-Żelazko
 

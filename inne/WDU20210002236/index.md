@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie składu oraz oznakowania suplementów diety Na podstawie art. 27 ust. 6 i 7 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U.
 z 2020 r. poz. 2021) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 9 października 2007 r. w sprawie składu oraz oznakowania suplementów diety (Dz. U. z 2018 r. poz. 1951) w załączniku nr 2 do rozporządzenia wprowadza się następujące zmiany:
-1) w ust. 1 w pkt 7 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „d) chlorek rybozydu nikotynamidu;”;
-2) w ust. 2 po pkt 41 dodaje się pkt 41a w brzmieniu: „41a) cytrynian jabłczan magnezu;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. W. Kraska
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 9 października 2007 r. w sprawie składu oraz oznakowania suplementów diety (Dz. U. z 2018 r. poz. 1951) w załączniku nr 2 do rozporządzenia wprowadza się następujące zmiany:
+
+- **1)** w ust. 1 w pkt 7 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „d) chlorek rybozydu nikotynamidu;”;
+- **2)** w ust. 2 po pkt 41 dodaje się pkt 41a w brzmieniu: „41a) cytrynian jabłczan magnezu;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. W. Kraska
 

@@ -26,11 +26,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001538) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1538/text.pdf) |
 
 zmieniające rozporządzenie w sprawie świadectw służby i opinii o służbie funkcjonariuszy Straży Granicznej Na podstawie art. 50 ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088 i 1489) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2002 r. w sprawie świadectw służby i opinii o służbie funkcjonariuszy Straży Granicznej (Dz. U. z 2018 r. poz. 1610) w § 2:
-1) w pkt 3:
-a) w lit. a po wyrazach „Komendanta Głównego Straży Granicznej – w stosunku do” dodaje się wyrazy „Rektora-Komendanta Wyższej Szkoły Straży Granicznej,”,
-b) po lit. a dodaje się lit. aa w brzmieniu: „aa) Rektora-Komendanta Wyższej Szkoły Straży Granicznej – w stosunku do funkcjonariuszy pełniących służbę w Wyższej Szkole Straży Granicznej,”;
-2) w pkt 4 po wyrazach „Komendzie Głównej Straży Granicznej,” dodaje się wyrazy „Wyższej Szkole Straży Granicznej,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2002 r. w sprawie świadectw służby i opinii o służbie funkcjonariuszy Straży Granicznej (Dz. U. z 2018 r. poz. 1610) w § 2:
+
+- **1)** w pkt 3:
+    - **a)** w lit. a po wyrazach „Komendanta Głównego Straży Granicznej – w stosunku do” dodaje się wyrazy „Rektora-Komendanta Wyższej Szkoły Straży Granicznej,”,
+    - **b)** po lit. a dodaje się lit. aa w brzmieniu: „aa) Rektora-Komendanta Wyższej Szkoły Straży Granicznej – w stosunku do funkcjonariuszy pełniących służbę w Wyższej Szkole Straży Granicznej,”;
+
+- **2)** w pkt 4 po wyrazach „Komendzie Głównej Straży Granicznej,” dodaje się wyrazy „Wyższej Szkole Straży Granicznej,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2023 r. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

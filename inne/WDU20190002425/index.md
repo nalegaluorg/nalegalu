@@ -32,10 +32,15 @@ zmieniającym rozporządzenie w sprawie opłaty za ustalanie wskaźnika ryzyka (
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 21 grudnia 2018 r. zmieniającego rozporządzenie w sprawie opłaty za ustalanie wskaźnika ryzyka (Dz. U. poz. 2490), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.”. Minister Finansów: T. Kościński
 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 30 stycznia 2018 r.
 w sprawie opłaty za ustalanie wskaźnika ryzyka Na podstawie art. 119zo § 11 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, z późn. zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wysokość i terminy wnoszenia opłaty, o której mowa w art. 119zo § 10 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, zwanej dalej „opłatą”.
-§ 2. Opłatę określa się w rocznej wysokości 0,35 zł, bez kwoty podatku od towarów i usług, za każdy rachunek podmiotu kwalifikowanego.
-§ 3. Opłata jest wnoszona z góry:
-1) do dnia 31 stycznia roku, za który opłata jest wnoszona – w przypadku opłaty wnoszonej za rok kalendarzowy w odniesieniu do rachunku, którego uwzględnianie przy ustalaniu wskaźnika ryzyka rozpoczęto i nie zakończono przed dniem 1 stycznia roku, za który wskaźnik jest ustalany;
-2) w terminie 30 dni, licząc od pierwszego dnia miesiąca następującego po miesiącu, w którym rozpoczęto ustalanie wskaźnika ryzyka – w przypadku opłaty wnoszonej w wysokości proporcjonalnej do liczby miesięcy, w których wskaźnik ryzyka jest ustalany, w odniesieniu do rachunku, którego uwzględnianie przy ustalaniu wskaźnika ryzyka rozpoczęto po dniu 31 grudnia roku kalendarzowego poprzedzającego rok, za który wskaźnik jest ustalany.
-§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
+
+**§ 1.** Rozporządzenie określa wysokość i terminy wnoszenia opłaty, o której mowa w art. 119zo § 10 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, zwanej dalej „opłatą”.
+
+**§ 2.** Opłatę określa się w rocznej wysokości 0,35 zł, bez kwoty podatku od towarów i usług, za każdy rachunek podmiotu kwalifikowanego.
+
+**§ 3.** Opłata jest wnoszona z góry:
+
+- **1)** do dnia 31 stycznia roku, za który opłata jest wnoszona – w przypadku opłaty wnoszonej za rok kalendarzowy w odniesieniu do rachunku, którego uwzględnianie przy ustalaniu wskaźnika ryzyka rozpoczęto i nie zakończono przed dniem 1 stycznia roku, za który wskaźnik jest ustalany;
+- **2)** w terminie 30 dni, licząc od pierwszego dnia miesiąca następującego po miesiącu, w którym rozpoczęto ustalanie wskaźnika ryzyka – w przypadku opłaty wnoszonej w wysokości proporcjonalnej do liczby miesięcy, w których wskaźnik ryzyka jest ustalany, w odniesieniu do rachunku, którego uwzględnianie przy ustalaniu wskaźnika ryzyka rozpoczęto po dniu 31 grudnia roku kalendarzowego poprzedzającego rok, za który wskaźnik jest ustalany.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 

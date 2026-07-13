@@ -35,13 +35,12 @@ source: pdf
 
 **Art. 2.** W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2001 r. Nr 4, poz. 25, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: Nr 16, poz. 93, z późn. zm. ),”;
+- **1)** w art. 2:
     - **a)** pkt 1 otrzymuje brzmienie: „1) przedsiębiorcy – należy przez to rozumieć przedsiębiorcę w rozumieniu przepisów o swobodzie działalności gospodarczej,”,
-    - **b)** pkt 6 otrzymuje brzmienie: „6) konsumencie – należy przez to rozumieć konsumenta w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U.
+    - **b)** pkt 6 otrzymuje brzmienie: „6) konsumencie – należy przez to rozumieć konsumenta w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm. ),”;
 
 - **2)** w art. 3 w ust. 1 pkt 1a otrzymuje brzmienie: „1a) kontrola wyrobów wprowadzonych do obrotu w zakresie zgodności z zasadniczymi lub innymi wymaganiami określonymi w przepisach odrębnych z wyłączeniem produktów podlegających nadzorowi innych właściwych organów,”;
-- **3)** art. 5 otrzymuje brzmienie: „Art. 5. 1. Zadania Inspekcji określone w art. 1 ust. 1 i art. 3 ust. 1 wykonują:
-- **1)** Prezes Urzędu Ochrony Konkurencji i Konsumentów, zwany dalej „Prezesem Urzędu”,
+- **3)** art. 5 otrzymuje brzmienie: „Art. 5. 1. Zadania Inspekcji określone w art. 1 ust. 1 i art. 3 ust. 1 wykonują: 1) Prezes Urzędu Ochrony Konkurencji i Konsumentów, zwany dalej „Prezesem Urzędu”,
 - **2)** wojewoda przy pomocy wojewódzkiego inspektora inspekcji handlowej, zwanego dalej „wojewódzkim inspektorem”, jako kierownika wojewódzkiej Inspekcji Handlowej wchodzącej w skład zespolonej administracji rządowej w województwie.
 
 2. W postępowaniu administracyjnym w sprawach związanych z wykonywaniem zadań i kompetencji Inspekcji organem właściwym jest wojewódzki inspektor, jeżeli przepisy odrębne nie stanowią inaczej. Organem wyższego stopnia jest Prezes Urzędu.”;
@@ -50,12 +49,7 @@ source: pdf
 - **5)** art. 7 otrzymuje brzmienie: „Art. 7. Prezes Urzędu kieruje działalnością Inspekcji przy pomocy Urzędu Ochrony Konkurencji i Konsumentów.”;
 - **6)** użyte w art. 8 w ust. 1 i 2, w art. 10 w ust. 1 w zdaniu wstępnym, w art. 11 w ust. 1, w art. 22a w ust. 7 i 8 oraz w art. 23 w różnych przypadkach wyrazy „Główny Inspektor” zastępuje się użytymi w odpowiednich przypadkach wyrazami „Prezes Urzędu”;
 - **7)** w art. 8 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Prezes Urzędu może zwrócić się do wojewody o odwołanie wojewódzkiego inspektora lub jego zastępcy. Przepisu ust. 1 nie stosuje się.”;
-- **8)** w art. 9 ust. 2 i 3 otrzymują brzmienie: „2. Prezes Urzędu może zlecić wojewódzkiemu inspektorowi przeprowadzenie dodatkowej kontroli, jeżeli jest to niezbędne do zbadania:
-- **1)** zjawisk lub procesów gospodarczych zachodzących na rynku,
-- **2)** zgodności wyrobu z zasadniczymi lub innymi wymaganiami albo zgodności produktu z ogólnymi wymaganiami bezpieczeństwa określonymi w odrębnych ustawach.
-
-3. Prezes Urzędu opracowuje kierunki działania Inspekcji oraz okresowe plany kontroli.”;
-
+- **8)** w art. 9 ust. 2 i 3 otrzymują brzmienie: „2. Prezes Urzędu może zlecić wojewódzkiemu inspektorowi przeprowadzenie dodatkowej kontroli, jeżeli jest to niezbędne do zbadania: 1) zjawisk lub procesów gospodarczych zachodzących na rynku, 2) zgodności wyrobu z zasadniczymi lub innymi wymaganiami albo zgodności produktu z ogólnymi wymaganiami bezpieczeństwa określonymi w odrębnych ustawach. 3. Prezes Urzędu opracowuje kierunki działania Inspekcji oraz okresowe plany kontroli.”;
 - **9)** w art. 10:
     - **a)** uchyla się pkt 7,
     - **b)** po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) współpraca z Szefem Krajowego Centrum Informacji Kryminalnych w zakresie niezbędnym do realizacji jego zadań ustawowych,”,
@@ -83,26 +77,7 @@ source: pdf
     - **a)** ust. 1 otrzymuje brzmienie: „1. System kontroli wyrobów tworzą organy wymienione w ust. 2 i 3, zwane dalej „organami wyspecjalizowanymi.”,
     - **b)** w ust. 3 pkt 1 otrzymuje brzmienie: „1) Prezes Urzędu Ochrony Konkurencji i Konsumentów, zwany dalej „Prezesem UOKiK”;”;
 
-- **2)** art. 39 otrzymuje brzmienie: „Art. 39. 1. Prezes UOKiK jest także organem monitorującym funkcjonowanie systemu kontroli wyrobów.
-
-2. Do zadań Prezesa UOKiK należy:
-
-- **1)** współpraca z organami wyspecjalizowanymi;
-- **2)** przekazywanie organom wyspecjalizowanym informacji wskazujących, że wyrób wprowadzony do obrotu lub oddany do użytku nie spełnia zasadniczych lub innych wymagań;
-- **3)** prowadzenie rejestru wyrobów niezgodnych z zasadniczymi lub innymi wymaganiami, zwanego dalej „rejestrem”, oraz gromadzenie informacji dotyczących kontroli wyrobów wprowadzonych do obrotu lub oddanych do użytku;
-- **4)** przygotowywanie, zgodnie z odrębnymi przepisami, okresowych planów kontroli przeprowadzanych przez Inspekcję Handlową.
-
-3. Do zadań organów wyspecjalizowanych, o których mowa w art. 38 ust. 2 pkt 2-9 oraz ust. 3 pkt 2-9 należy także:
-
-- **1)** informowanie Prezesa UOKiK o wynikach przeprowadzonych kontroli w zakresie spełnienia przez wyroby zasadniczych lub innych wymagań;
-- **2)** przekazywanie Prezesowi UOKiK informacji o wszczęciu i zakończeniu postępowań w zakresie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi lub innymi wymaganiami;
-- **3)** niezwłoczne przekazywanie Prezesowi UOKiK kopii wydanych decyzji;
-- **4)** współpraca z Prezesem UOKiK;
-- **5)** przedstawianie Prezesowi UOKiK okresowych planów kontroli wyrobów wprowadzonych do obrotu lub oddanych do użytku;
-- **6)** sporzą dzanie i przekazywanie Prezesowi UOKiK rocznych sprawozdań z przeprowadzanych kontroli.
-
-4. Prezes UOKiK może zgłaszać uwagi do planów, o których mowa w ust. 3 pkt 5.”;
-
+- **2)** art. 39 otrzymuje brzmienie: „Art. 39. 1. Prezes UOKiK jest także organem monitorującym funkcjonowanie systemu kontroli wyrobów. 2. Do zadań Prezesa UOKiK należy: 1) współpraca z organami wyspecjalizowanymi; 2) przekazywanie organom wyspecjalizowanym informacji wskazujących, że wyrób wprowadzony do obrotu lub oddany do użytku nie spełnia zasadniczych lub innych wymagań; 3) prowadzenie rejestru wyrobów niezgodnych z zasadniczymi lub innymi wymaganiami, zwanego dalej „rejestrem”, oraz gromadzenie informacji dotyczących kontroli wyrobów wprowadzonych do obrotu lub oddanych do użytku; 4) przygotowywanie, zgodnie z odrębnymi przepisami, okresowych planów kontroli przeprowadzanych przez Inspekcję Handlową. 3. Do zadań organów wyspecjalizowanych, o których mowa w art. 38 ust. 2 pkt 2-9 oraz ust. 3 pkt 2-9 należy także: 1) informowanie Prezesa UOKiK o wynikach przeprowadzonych kontroli w zakresie spełnienia przez wyroby zasadniczych lub innych wymagań; 2) przekazywanie Prezesowi UOKiK informacji o wszczęciu i zakończeniu postępowań w zakresie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi lub innymi wymaganiami; 3) niezwłoczne przekazywanie Prezesowi UOKiK kopii wydanych decyzji; 4) współpraca z Prezesem UOKiK; 5) przedstawianie Prezesowi UOKiK okresowych planów kontroli wyrobów wprowadzonych do obrotu lub oddanych do użytku; 6) sporzą dzanie i przekazywanie Prezesowi UOKiK rocznych sprawozdań z przeprowadzanych kontroli. 4. Prezes UOKiK może zgłaszać uwagi do planów, o których mowa w ust. 3 pkt 5.”;
 - **3)** w art. 39b ust. 1 otrzymuje brzmienie: „1. Prezes UOKiK, jako organ monitorujący, gromadzi informacje dotyczące systemu, w szczególności dotyczące wyników kontroli i prowadzonych postępowań.”;
 - **4)** w art. 40 ust. 1 otrzymuje brzmienie: „1. Organy wyspecjalizowane prowadzą kontrolę spełniania przez wyroby zasadniczych lub innych wymagań, zwaną dalej „kontrolą”, z urzędu lub na wniosek Prezesa UOKiK działającego jako organ monitorujący.”;
 - **5)** art. 44 otrzymuje brzmienie: „Art. 44. Prezes UOKiK, jako organ monitorujący, niezwłocznie informuje Komisję Europejską o decyzjach, o których mowa w art. 41c ust. 3 pkt 1-3 oraz ust. 5.”.
@@ -128,26 +103,7 @@ source: pdf
 - **2)** art. 13 otrzymuje brzmienie: „Art. 13. Zarządzający może wyznaczyć do kontroli dodatkowe stacje paliwowe, stacje zakładowe, hurtownie paliw lub przedsiębiorców poza minimalnymi liczbami określonymi zgodnie z art. 12 ust. 2 pkt 6-10, lub rolników wytwarzających biopaliwa ciekłe na własny użytek, w przypadku uzyskania informacji o niewłaściwej jakości paliw lub zaistnienia okoliczności wskazujących na możliwość wystąpienia niewłaściwej jakości paliw.”;
 - **3)** w art. 16 ust. 3 otrzymuje brzmienie: „3. Kontrolę, o której mowa w ust. 1, inspektor podejmuje u przedsiębiorcy wskazanego przez Zarządzającego.”;
 - **4)** w art. 18 ust. 1 otrzymuje brzmienie: „1. Zarządzający może zawierać umowy z akredytowanym laboratorium lub innym podmiotem na pobieranie próbek paliwa, jeżeli do ich pobrania są potrzebne specjalistyczne umiejętności lub specjalistyczny sprzęt techniczny.”;
-- **5)** art. 23 i 24 otrzymują brzmienie: „Art. 23. 1. W przypadku stwierdzenia, w wyniku kontroli, niewłaściwej jakości paliwa Zarządzający niezwłocznie wyznacza, z zastrzeżeniem ust. 2, przedsiębiorcę, który dostarczył paliwo do przedsiębiorcy, u którego stwierdzono paliwo niewłaściwej jakości, w celu przeprowadzenia kontroli.
-
-2. W przypadku braku stacjonarnego zbiornika paliwa u przedsiębiorcy będącego bezpośrednim dostawcą paliwa do przedsiębiorcy, u którego stwierdzono paliwo niespełniające wymagań jakościowych określonych w ustawie, inspektor podejmuje czynności kontrolne w celu ustalenia innego przedsiębiorcy, od którego pochodzi zakwestionowane paliwo, a posiadającego stacjonarny zbiornik.
-
-**Art. 24.**
-
-1. Jeżeli przeprowadzone badania wykazały, że paliwo nie spełnia wymagań jakościowych określonych w ustawie, Zarządzający zobowiązuje kontrolowanego, w drodze decyzji, do uiszczenia kwoty stanowiącej równowartość kosztów przeprowadzonych badań.
-
-2. W przypadku, o którym mowa w art. 22 ust. 3, wojewódzki inspektor Inspekcji Handlowej pobiera od kontrolowanego zaliczkę w wysokości kosztów badania próbki kontrolnej.
-
-3. Jeżeli badanie próbki kontrolnej nie wykaże naruszenia wymagań jakościowych określonych w przepisach wydanych na podstawie art. 3 ust. 2 albo art. 4 ust. 2, albo art. 5 ust. 2, albo art. 6 ust. 3, uznaje się, że badane paliwo spełnia te wymagania. W takim przypadku zwraca się kontrolowanemu zaliczkę, o której mowa w ust. 2.
-
-4. Zarządzający ustala wysokość należności pieniężnej, o której mowa w ust. 1, na podstawie faktury wystawionej przez kierownika akredytowanego laboratorium, w którym wykonano badania próbki, a w przypadku gdy badania próbki wykonano w laboratorium prowadzonym przez Inspekcję Handlową – na podstawie ustaleń kierownika tego laboratorium.
-
-5. Kontrolowany jest obowiązany uiścić należność pieniężną, o której mowa w ust. 1, na rachunek Urzędu Ochrony Konkurencji i Konsumentów.
-
-6. Wpływy z tytułu należności, o których mowa w ust. 1, stanowią dochód budżetu państwa.
-
-7. Należności, o których mowa w ust. 1, podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.”;
-
+- **5)** art. 23 i 24 otrzymują brzmienie: „Art. 23. 1. W przypadku stwierdzenia, w wyniku kontroli, niewłaściwej jakości paliwa Zarządzający niezwłocznie wyznacza, z zastrzeżeniem ust. 2, przedsiębiorcę, który dostarczył paliwo do przedsiębiorcy, u którego stwierdzono paliwo niewłaściwej jakości, w celu przeprowadzenia kontroli. 2. W przypadku braku stacjonarnego zbiornika paliwa u przedsiębiorcy będącego bezpośrednim dostawcą paliwa do przedsiębiorcy, u którego stwierdzono paliwo niespełniające wymagań jakościowych określonych w ustawie, inspektor podejmuje czynności kontrolne w celu ustalenia innego przedsiębiorcy, od którego pochodzi zakwestionowane paliwo, a posiadającego stacjonarny zbiornik. Art. 24. 1. Jeżeli przeprowadzone badania wykazały, że paliwo nie spełnia wymagań jakościowych określonych w ustawie, Zarządzający zobowiązuje kontrolowanego, w drodze decyzji, do uiszczenia kwoty stanowiącej równowartość kosztów przeprowadzonych badań. 2. W przypadku, o którym mowa w art. 22 ust. 3, wojewódzki inspektor Inspekcji Handlowej pobiera od kontrolowanego zaliczkę w wysokości kosztów badania próbki kontrolnej. 3. Jeżeli badanie próbki kontrolnej nie wykaże naruszenia wymagań jakościowych określonych w przepisach wydanych na podstawie art. 3 ust. 2 albo art. 4 ust. 2, albo art. 5 ust. 2, albo art. 6 ust. 3, uznaje się, że badane paliwo spełnia te wymagania. W takim przypadku zwraca się kontrolowanemu zaliczkę, o której mowa w ust. 2. 4. Zarządzający ustala wysokość należności pieniężnej, o której mowa w ust. 1, na podstawie faktury wystawionej przez kierownika akredytowanego laboratorium, w którym wykonano badania próbki, a w przypadku gdy badania próbki wykonano w laboratorium prowadzonym przez Inspekcję Handlową – na podstawie ustaleń kierownika tego laboratorium. 5. Kontrolowany jest obowiązany uiścić należność pieniężną, o której mowa w ust. 1, na rachunek Urzędu Ochrony Konkurencji i Konsumentów. 6. Wpływy z tytułu należności, o których mowa w ust. 1, stanowią dochód budżetu państwa. 7. Należności, o których mowa w ust. 1, podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.”;
 - **6)** w art. 25 ust. 1 otrzymuje brzmienie: „1. Akredytowane laboratoria, które nie są prowadzone przez Inspekcję Handlową, przeprowadzają badania pobranych próbek na podstawie umowy zawartej z Zarządzającym, a badania próbek kontrolnych na podstawie umowy zawartej z wojewódzkim inspektorem Inspekcji Handlowej.”;
 - **7)** w art. 27 ust. 1 otrzymuje brzmienie: „1. Kierownik akredytowanego laboratorium jest obowiązany do przekazania właściwemu wojewódzkiemu inspektorowi Inspekcji Handlowej oraz Zarządzającemu, niezwłocznie po zakończeniu badań, protokołu zawierającego wyniki badań próbek z ich analizą.”;
 - **8)** w art. 28 ust. 2 otrzymuje brzmienie: „2. Wojewódzki inspektor Inspekcji Handlowej przekazuje Zarządzającemu dokumenty, o których mowa w ust. 1, zgodnie z wytycznymi zawartymi w programach kontroli, o których mowa w art. 12 ust. 2 pkt 11.”.

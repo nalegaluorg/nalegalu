@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001421) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1421/text.pdf) |
 
 zmieniające rozporządzenie w sprawie flagi oraz oznakowania jednostek pływających i statków powietrznych Policji Na podstawie art. 22b ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 18 kwietnia 2005 r. w sprawie flagi oraz oznakowania jednostek pływających i statków powietrznych Policji (Dz. U. poz. 724 oraz z 2008 r. poz. 700) w załączniku nr 2 do rozporządzenia w tabeli w wierszu oznaczonym lp. 19 w kolumnie drugiej wyrazy „Wyższa Szkoła Policji w Szczytnie” zastępuje się wyrazami „Akademia Policji w Szczytnie”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 18 kwietnia 2005 r. w sprawie flagi oraz oznakowania jednostek pływających i statków powietrznych Policji (Dz. U. poz. 724 oraz z 2008 r. poz. 700) w załączniku nr 2 do rozporządzenia w tabeli w wierszu oznaczonym lp. 19 w kolumnie drugiej wyrazy „Wyższa Szkoła Policji w Szczytnie” zastępuje się wyrazami „Akademia Policji w Szczytnie”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

@@ -37,9 +37,8 @@ source: pdf
 - **3)** skreśla się art. 4;
 - **4)** w art. 5:
     - **a)** zdanie wstępne otrzymuje brzmienie: „W celu wykonania zadań i kompetencji określonych w Konstytucji Rzeczypospolitej Polskiej i ustawach, Prezes Rady Ministrów może w szczególności:”,
-    - **b)** pkt 4 i 5 otrzymują brzmienie: „4) zwoływać, brać udział i przewodniczyć posiedzeniom organów pomocniczych Rady Ministrów lub Prezesa Rady Ministrów, bez względu na ich skład i zakres działania,
+    - **b)** pkt 4 i 5 otrzymują brzmienie: „4) zwoływać, brać udział i przewodniczyć posiedzeniom organów pomocniczych Rady Ministrów lub Prezesa Rady Ministrów, bez względu na ich skład i zakres działania, 5) zwoływać posiedzenia, z udziałem właściwych ministrów, kierowników urzędów centralnych lub wojewodów i im przewodniczyć,”;
 
-- **5)** zwoływać posiedzenia, z udziałem właściwych ministrów, kierowników urzędów centralnych lub wojewodów i im przewodniczyć,”;
 - **5)** w art. 6 skreśla się ust. 3;
 - **6)** w art. 7 w ust. 1 wyraz „konstytucji” zastępuje się wyrazami „Konstytucji Rzeczypospolitej Polskiej”;
 - **7)** w art. 10:
@@ -48,75 +47,18 @@ source: pdf
     - **c)** dodaje się ust. 5 w brzmieniu: „5. W celu sfinansowania działalności ustanowionego pełnomocnika Rządu, Prezes Rady Ministrów może, w drodze rozporządzenia, dokonywać przeniesienia planowanych dochodów i wydatków budżetowych między częściami budżetu państwa, z zachowaniem przeznaczenia środków publicznych, wynikającego z ustawy budżetowej.”;
 
 - **8)** skreśla się art. 11;
-- **9)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Prezes Rady Ministrów, z własnej inicjatywy lub na wniosek członka Rady Ministrów, może, w drodze zarządzenia, tworzyć organy pomocnicze Rady Ministrów lub Prezesa Rady Ministrów, a w szczególności:
-- **1)** stały komitet lub komitety Rady Ministrów w celu inicjowania, przygotowania i uzgadniania rozstrzygnięć albo stanowisk Rady Ministrów lub Prezesa Rady Ministrów w sprawach należących do zadań i kompetencji tych organów,
-- **2)** komitety do rozpatrywania określonych kategorii spraw lub określonej sprawy,
-- **3)** rady i zespoły opiniodawcze lub doradcze w sprawach należących do zadań i kompetencji Rady Ministrów lub Prezesa Rady Ministrów.
-
-2. Prezes Rady Ministrów, tworząc organy pomocnicze, o których mowa w ust. 1, określi ich nazwę, skład, zakres działania oraz tryb postępowania.”;
-
+- **9)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Prezes Rady Ministrów, z własnej inicjatywy lub na wniosek członka Rady Ministrów, może, w drodze zarządzenia, tworzyć organy pomocnicze Rady Ministrów lub Prezesa Rady Ministrów, a w szczególności: 1) stały komitet lub komitety Rady Ministrów w celu inicjowania, przygotowania i uzgadniania rozstrzygnięć albo stanowisk Rady Ministrów lub Prezesa Rady Ministrów w sprawach należących do zadań i kompetencji tych organów, 2) komitety do rozpatrywania określonych kategorii spraw lub określonej sprawy, 3) rady i zespoły opiniodawcze lub doradcze w sprawach należących do zadań i kompetencji Rady Ministrów lub Prezesa Rady Ministrów. 2. Prezes Rady Ministrów, tworząc organy pomocnicze, o których mowa w ust. 1, określi ich nazwę, skład, zakres działania oraz tryb postępowania.”;
 - **10)** art. 12a otrzymuje brzmienie: „Art. 12a. Rada Ministrów może, w drodze rozporządzenia, tworzyć komisje do opracowania projektów kodyfikacji określonych dziedzin prawa, uwzględniając dorobek nauki i doświadczenia praktyki. Rada Ministrów wydając rozporządzenie określi nazwę i przedmiot działania komisji oraz jej skład i tryb postępowania.”;
 - **11)** w art. 13 w ust. 1 dodaje się drugie zdanie w brzmieniu: „Rada Ministrów wydając rozporządzenie określi nazwę i przedmiot działania komisji wspólnej oraz jej skład i tryb postępowania.”;
-- **12)** w art. 14 dodaje się ust. 5 i 6 w brzmieniu: „5. Prezes Rady Ministrów wydając rozporządzenie, o którym mowa w ust. 4 pkt 1, określi w szczególności elementy metodyki przygotowania i sposób redagowania projektów ustaw i rozporządzeń oraz innych normatywnych aktów prawnych, a także warunki, jakim powinny odpowiadać uzasadnienia projektów normatywnych aktów prawnych, jak również reguły przeprowadzania zmian w systemie prawa. Stosowanie zasad techniki prawodawczej powinno zapewnić w szczególności spójność i kompletność systemu prawa oraz przejrzystość tekstów normatywnych aktów prawnych, z uwzględnieniem dorobku nauki i doświadczeń praktyki.
-
-6. Prezes Rady Ministrów wydając rozporządzenie, o którym mowa w ust. 4 pkt 2, określi normatywne akty prawne podlegające rejestracji, organ prowadzący rejestr oraz sposób jego prowadzenia, z uwzględnieniem dorobku nauki i doświadczeń praktyki.”;
-
+- **12)** w art. 14 dodaje się ust. 5 i 6 w brzmieniu: „5. Prezes Rady Ministrów wydając rozporządzenie, o którym mowa w ust. 4 pkt 1, określi w szczególności elementy metodyki przygotowania i sposób redagowania projektów ustaw i rozporządzeń oraz innych normatywnych aktów prawnych, a także warunki, jakim powinny odpowiadać uzasadnienia projektów normatywnych aktów prawnych, jak również reguły przeprowadzania zmian w systemie prawa. Stosowanie zasad techniki prawodawczej powinno zapewnić w szczególności spójność i kompletność systemu prawa oraz przejrzystość tekstów normatywnych aktów prawnych, z uwzględnieniem dorobku nauki i doświadczeń praktyki. 6. Prezes Rady Ministrów wydając rozporządzenie, o którym mowa w ust. 4 pkt 2, określi normatywne akty prawne podlegające rejestracji, organ prowadzący rejestr oraz sposób jego prowadzenia, z uwzględnieniem dorobku nauki i doświadczeń praktyki.”;
 - **13)** w art. 14c:
     - **a)** w ust. 1: - w pkt 2 dodaje się na końcu wyrazy „w tym sporządzania ocen skutków społeczno-gospodarczych projektowanych regulacji,”, - w pkt 3 dodaje się na końcu wyrazy „w tym poprzez ich ocenę pod względem prawnym i redakcyjnym przez Komisję Prawniczą prowadzoną przez Centrum,”,
     - **b)** skreśla się ust. 2 i oznaczenie ust. 1;
 
 - **14)** art. 14d otrzymuje brzmienie: „Art. 14d. Centrum współdziała z jednostkami naukowymi w rozumieniu art. 3 pkt 4 ustawy z dnia 12 stycznia 1991 r. o Komitecie Badań Naukowych (Dz.U. z 2001 r. Nr 33, poz. 389) oraz innymi jednostkami organizacyjnymi prowadzącymi działalność związaną z zadaniami Centrum.”;
-- **15)** art. 14i otrzymuje brzmienie: „Art. 14i. 1. Prezes Rady Ministrów, w drodze zarządzenia, nadaje Centrum statut, w którym określa jego organizację wewnętrzną.
-
-2. Prezes Centrum nadaje Centrum regulamin organizacyjny, który określa zakres zadań i tryb pracy jego komórek organizacyjnych.
-
-3. Prezes Centrum może tworzyć i znosić stałe lub doraźne komisje oraz rady i zespoły opiniodawcze lub doradcze w sprawach należących do zakresu działania Centrum, określając ich nazwę, cel utworzenia, zakres zadań, skład i tryb pracy.”;
-
-- **16)** po art. 14i dodaje się art. 14j-14o w brzmieniu: „Art. 14j. Przy Prezesie Rady Ministrów działa Rządowe Centrum Studiów Strategicznych jako państwowa jednostka organizacyjna podległa Prezesowi Rady Ministrów.
-
-**Art. 14k.**
-
-1. Rządowe Centrum Studiów Strategicznych, zwane dalej „RCSS”, prowadzi prace służące Prezesowi Rady Ministrów, w tym związane z pracami Rady Ministrów, do programowania strategicznego oraz prognozowania rozwoju gospodarczego i społecznego.
-
-2. Do zadań RCSS należy w szczególności:
-
-- **1)** przygotowywanie prognoz oraz długookresowych strategicznych programów rozwoju gospodarczego i społecznego,
-- **2)** przygotowywanie koncepcji i programów polityki zagospodarowania przestrzennego kraju oraz długofalowych strategii rozwoju regionalnego kraju,
-- **3)** opracowywanie ocen międzynarodowych uwarunkowań sytuacji kraju oraz długofalowych koncepcji polityki zagranicznej,
-- **4)** opracowywanie ocen funkcjonalności struktur państwa i sprawności ich działania,
-- **5)** analizowanie zgodności przebiegu realizacji programów krótkookresowych i średniookresowych ze strategicznymi programami długookresowymi oraz opracowywanie informacji o stwierdzonych niezgodnościach,
-- **6)** analizowanie zgodności przebiegu realizacji programów wojewódzkich z narodową strategią rozwoju regionalnego i długofalową strategią rozwoju regionalnego kraju oraz opracowywanie informacji o stwierdzonych niezgodnościach,
-- **7)** sporządzanie ocen skutków społeczno-gospodarczych projektowanych regulacji,
-- **8)** przygotowywanie innych analiz, prognoz, koncepcji, programów i ocen, zleconych przez Prezesa Rady Ministrów.
-
-**Art. 14l.** RCSS współdziała z jednostkami naukowymi w rozumieniu art. 3 pkt 4 ustawy o Komitecie Badań Naukowych oraz innymi jednostkami organizacyjnymi prowadzącymi działalność związaną z zadaniami RCSS.
-
-**Art. 14m.**
-
-1. RCSS kieruje Prezes przy pomocy wiceprezesów oraz dyrektorów komórek organizacyjnych RCSS.
-
-2. Prezesa RCSS powołuje i odwołuje Prezes Rady Ministrów.
-
-3. Wiceprezesów RCSS powołuje i odwołuje Prezes Rady Ministrów na wniosek Prezesa RCSS.
-
-**Art. 14n.**
-
-1. RCSS prowadzi gospodarkę finansową na zasadach określonych w przepisach o finansach publicznych dla jednostek budżetowych.
-
-2. Prezes RCSS dysponuje środkami budżetu państwa przeznaczonymi na finansowanie RCSS.
-
-**Art. 14o.**
-
-1. Prezes Rady Ministrów, w drodze zarządzenia, nadaje RCSS statut, który określa jego organizację wewnętrzną.
-
-2. Prezes RCSS nadaje RCSS regulamin organizacyjny, który określa zakres zadań i tryb pracy jego komórek organizacyjnych.
-
-3. Prezes RCSS może tworzyć i znosić stałe lub doraźne komisje oraz rady i zespoły opiniodawcze lub doradcze w sprawach należących do zakresu działania RCSS, określając ich nazwę, cel utworzenia, zakres zadań, skład i tryb pracy.”;
-
-- **17)** art. 15 otrzymuje brzmienie: „Art. 15. 1. W celu sfinansowania działalności organów pomocniczych, komisji i komisji wspólnych, o których mowa w art. 12, 12a i 13, Prezes Rady Ministrów może, w drodze rozporządzenia, dokonywać przeniesienia planowanych dochodów i wydatków budżetowych między częściami budżetu państwa, z zachowaniem przeznaczenia środków publicznych, wynikającego z ustawy budżetowej.
-
-2. Rada Ministrów określi, w drodze rozporządzenia, sposób finansowania i obsługi organów pomocniczych, komisji i komisji wspólnych, o których mowa w art. 12, 12a i 13.”;
-
+- **15)** art. 14i otrzymuje brzmienie: „Art. 14i. 1. Prezes Rady Ministrów, w drodze zarządzenia, nadaje Centrum statut, w którym określa jego organizację wewnętrzną. 2. Prezes Centrum nadaje Centrum regulamin organizacyjny, który określa zakres zadań i tryb pracy jego komórek organizacyjnych. 3. Prezes Centrum może tworzyć i znosić stałe lub doraźne komisje oraz rady i zespoły opiniodawcze lub doradcze w sprawach należących do zakresu działania Centrum, określając ich nazwę, cel utworzenia, zakres zadań, skład i tryb pracy.”;
+- **16)** po art. 14i dodaje się art. 14j-14o w brzmieniu: „Art. 14j. Przy Prezesie Rady Ministrów działa Rządowe Centrum Studiów Strategicznych jako państwowa jednostka organizacyjna podległa Prezesowi Rady Ministrów. Art. 14k. 1. Rządowe Centrum Studiów Strategicznych, zwane dalej „RCSS”, prowadzi prace służące Prezesowi Rady Ministrów, w tym związane z pracami Rady Ministrów, do programowania strategicznego oraz prognozowania rozwoju gospodarczego i społecznego. 2. Do zadań RCSS należy w szczególności: 1) przygotowywanie prognoz oraz długookresowych strategicznych programów rozwoju gospodarczego i społecznego, 2) przygotowywanie koncepcji i programów polityki zagospodarowania przestrzennego kraju oraz długofalowych strategii rozwoju regionalnego kraju, 3) opracowywanie ocen międzynarodowych uwarunkowań sytuacji kraju oraz długofalowych koncepcji polityki zagranicznej, 4) opracowywanie ocen funkcjonalności struktur państwa i sprawności ich działania, 5) analizowanie zgodności przebiegu realizacji programów krótkookresowych i średniookresowych ze strategicznymi programami długookresowymi oraz opracowywanie informacji o stwierdzonych niezgodnościach, 6) analizowanie zgodności przebiegu realizacji programów wojewódzkich z narodową strategią rozwoju regionalnego i długofalową strategią rozwoju regionalnego kraju oraz opracowywanie informacji o stwierdzonych niezgodnościach, 7) sporządzanie ocen skutków społeczno-gospodarczych projektowanych regulacji, 8) przygotowywanie innych analiz, prognoz, koncepcji, programów i ocen, zleconych przez Prezesa Rady Ministrów. Art. 14l. RCSS współdziała z jednostkami naukowymi w rozumieniu art. 3 pkt 4 ustawy o Komitecie Badań Naukowych oraz innymi jednostkami organizacyjnymi prowadzącymi działalność związaną z zadaniami RCSS. Art. 14m. 1. RCSS kieruje Prezes przy pomocy wiceprezesów oraz dyrektorów komórek organizacyjnych RCSS. 2. Prezesa RCSS powołuje i odwołuje Prezes Rady Ministrów. 3. Wiceprezesów RCSS powołuje i odwołuje Prezes Rady Ministrów na wniosek Prezesa RCSS. Art. 14n. 1. RCSS prowadzi gospodarkę finansową na zasadach określonych w przepisach o finansach publicznych dla jednostek budżetowych. 2. Prezes RCSS dysponuje środkami budżetu państwa przeznaczonymi na finansowanie RCSS. Art. 14o. 1. Prezes Rady Ministrów, w drodze zarządzenia, nadaje RCSS statut, który określa jego organizację wewnętrzną. 2. Prezes RCSS nadaje RCSS regulamin organizacyjny, który określa zakres zadań i tryb pracy jego komórek organizacyjnych. 3. Prezes RCSS może tworzyć i znosić stałe lub doraźne komisje oraz rady i zespoły opiniodawcze lub doradcze w sprawach należących do zakresu działania RCSS, określając ich nazwę, cel utworzenia, zakres zadań, skład i tryb pracy.”;
+- **17)** art. 15 otrzymuje brzmienie: „Art. 15. 1. W celu sfinansowania działalności organów pomocniczych, komisji i komisji wspólnych, o których mowa w art. 12, 12a i 13, Prezes Rady Ministrów może, w drodze rozporządzenia, dokonywać przeniesienia planowanych dochodów i wydatków budżetowych między częściami budżetu państwa, z zachowaniem przeznaczenia środków publicznych, wynikającego z ustawy budżetowej. 2. Rada Ministrów określi, w drodze rozporządzenia, sposób finansowania i obsługi organów pomocniczych, komisji i komisji wspólnych, o których mowa w art. 12, 12a i 13.”;
 - **18)** skreśla się art. 16;
 - **19)** w art. 18 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Sekretarz Rady Ministrów uczestniczy w rozpatrywaniu spraw przez Radę Ministrów.”;
 - **20)** skreśla się art. 20 i 21;
@@ -154,29 +96,9 @@ source: pdf
 
 - **2)** w art. 6 ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw administracji publicznej sprawuje nadzór nad Prezesem Urzędu Zamówień Publicznych i Prezesem Wyższego Urzędu Górniczego oraz na podstawie kryterium zgodności z prawem nad działalnością regionalnych izb obrachunkowych.”;
 - **3)** w art. 9 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw gospodarki sprawuje nadzór nad Prezesem Głównego Urzędu Miar i Prezesem Urzędu Regulacji Energetyki oraz nad działalnością Urzędu Patentowego Rzeczypospolitej Polskiej.”;
-- **4)** art. 9a otrzymuje brzmienie: „Art. 9a. 1. Dział budownictwo, gospodarka przestrzenna i mieszkaniowa obejmuje sprawy:
-- **1)** architektury,
-- **2)** geodezji i kartografii,
-- **3)** budownictwa,
-- **4)** nadzoru architektoniczno-budowlanego,
-- **5)** zagospodarowania przestrzennego,
-- **6)** wspierania mieszkalnictwa,
-- **7)** gospodarki nieruchomościami, jeżeli odrębne ustawy nie stanowią inaczej,
-- **8)** polityki miejskiej,
-- **9)** rządowych programów rozwoju infrastruktury komunalnej,
-- **10)** ogródków działkowych.
-
-2. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej sprawuje nadzór nad Głównym Geodetą Kraju, Głównym Inspektorem Nadzoru Budowlanego oraz Prezesem Urzędu Mieszkalnictwa i Rozwoju Miast.”;
-
+- **4)** art. 9a otrzymuje brzmienie: „Art. 9a. 1. Dział budownictwo, gospodarka przestrzenna i mieszkaniowa obejmuje sprawy: 1) architektury, 2) geodezji i kartografii, 3) budownictwa, 4) nadzoru architektoniczno-budowlanego, 5) zagospodarowania przestrzennego, 6) wspierania mieszkalnictwa, 7) gospodarki nieruchomościami, jeżeli odrębne ustawy nie stanowią inaczej, 8) polityki miejskiej, 9) rządowych programów rozwoju infrastruktury komunalnej, 10) ogródków działkowych. 2. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej sprawuje nadzór nad Głównym Geodetą Kraju, Głównym Inspektorem Nadzoru Budowlanego oraz Prezesem Urzędu Mieszkalnictwa i Rozwoju Miast.”;
 - **5)** w art. 12 dodaje się ust. 3 w brzmieniu: „3. Minister właściwy do spraw instytucji finansowych sprawuje nadzór nad działalnością Komisji Papierów Wartościowych i Giełd.”;
-- **6)** po art. 12 dodaje się art. 12a w brzmieniu: „Art. 12a. Dział informatyzacja obejmuje sprawy:
-- **1)** infrastruktury informatycznej oraz systemów i sieci teleinformatycznych,
-- **2)** technologii i technik informacyjnych oraz standardów informatycznych,
-- **3)** informatyzacji administracji rządowej i samorządowej,
-- **4)** wspierania inwestycji w dziedzinie informatyki,
-- **5)** edukacji informacyjnej oraz usług teleinformatycznych i multimedialnych,
-- **6)** zastosowań informatyki w społeczeństwie informacyjnym, w szczególności w gospodarce, bankowości i edukacji,
-- **7)** realizacji zobowiązań międzynarodowych Rzeczypospolitej Polskiej w dziedzinie informatyzacji.”;
+- **6)** po art. 12 dodaje się art. 12a w brzmieniu: „Art. 12a. Dział informatyzacja obejmuje sprawy: 1) infrastruktury informatycznej oraz systemów i sieci teleinformatycznych, 2) technologii i technik informacyjnych oraz standardów informatycznych, 3) informatyzacji administracji rządowej i samorządowej, 4) wspierania inwestycji w dziedzinie informatyki, 5) edukacji informacyjnej oraz usług teleinformatycznych i multimedialnych, 6) zastosowań informatyki w społeczeństwie informacyjnym, w szczególności w gospodarce, bankowości i edukacji, 7) realizacji zobowiązań międzynarodowych Rzeczypospolitej Polskiej w dziedzinie informatyzacji.”;
 - **7)** w art. 16 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Minister właściwy do spraw łączności sprawuje nadzór nad Prezesem Urzędu Regulacji Telekomunikacji.”;
 - **8)** skreśla się art. 17;
 - **9)** w art. 18 skreśla się ust. 3;
@@ -208,12 +130,7 @@ source: pdf
 
 **Art. 8.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz.U. z 2001 r. Nr 57, poz. 603, Nr 115, poz. 1229 i Nr 122, poz. 1323 i Nr 154, poz. 1793) wprowadza się następujące zmiany:
 
-- **1)** art. 7 otrzymuje brzmienie: „Art. 7. 1. Agencja działa na podstawie ustawy oraz statutu.
-
-2. Minister właściwy do spraw Skarbu Państwa, w drodze zarządzenia, nadaje Agencji statut, który określa jej organizację wewnętrzną.
-
-3. Minister właściwy do spraw Skarbu Państwa określa, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Agencji, uwzględniając w szczególności zakres zadań realizowanych przez Agencję.”;
-
+- **1)** art. 7 otrzymuje brzmienie: „Art. 7. 1. Agencja działa na podstawie ustawy oraz statutu. 2. Minister właściwy do spraw Skarbu Państwa, w drodze zarządzenia, nadaje Agencji statut, który określa jej organizację wewnętrzną. 3. Minister właściwy do spraw Skarbu Państwa określa, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Agencji, uwzględniając w szczególności zakres zadań realizowanych przez Agencję.”;
 - **2)** w art. 9:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Prezesa Agencji powołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw Skarbu Państwa, zgłoszony po porozumieniu z ministrem właściwym do spraw rozwoju wsi. Prezesa Agencji odwołuje Prezes Rady Ministrów.”,
     - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wiceprezesa Agencji powołuje i odwołuje minister właściwy do spraw Skarbu Państwa na wniosek Prezesa Agencji.”;
@@ -231,9 +148,7 @@ source: pdf
 - **1)** w art. 3:
     - **a)** w ust. 1 wyraz „państwowej” zastępuje się wyrazem „rządowej”,
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Nadzór nad Prezesem Urzędu sprawuje minister właściwy do spraw gospodarki.”,
-    - **c)** ust. 2 i 3 otrzymują brzmienie: „2. Prezesa Urzędu powołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw gospodarki. Prezesa Urzędu odwołuje Prezes Rady Ministrów.
-
-3. Wiceprezesów Urzędu powołuje i odwołuje minister właściwy do spraw gospodarki na wniosek Prezesa Urzędu.”;
+    - **c)** ust. 2 i 3 otrzymują brzmienie: „2. Prezesa Urzędu powołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw gospodarki. Prezesa Urzędu odwołuje Prezes Rady Ministrów. 3. Wiceprezesów Urzędu powołuje i odwołuje minister właściwy do spraw gospodarki na wniosek Prezesa Urzędu.”;
 
 - **2)** w art. 5:
     - **a)** w ust. 1 wyrazy „Rada Ministrów” zastępuje się wyrazami „Minister właściwy do spraw gospodarki”,
@@ -267,9 +182,7 @@ source: pdf
 
 - **1)** w art. 8:
     - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Nadzór nad Prezesem Urzędu sprawuje minister właściwy do spraw administracji publicznej.”,
-    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Prezesa Urzędu powołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw administracji publicznej. Prezesa Urzędu odwołuje Prezes Rady Ministrów.
-
-3. Wiceprezesa Urzędu powołuje i odwołuje minister właściwy do spraw administracji publicznej na wniosek Prezesa Urzędu.”;
+    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Prezesa Urzędu powołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw administracji publicznej. Prezesa Urzędu odwołuje Prezes Rady Ministrów. 3. Wiceprezesa Urzędu powołuje i odwołuje minister właściwy do spraw administracji publicznej na wniosek Prezesa Urzędu.”;
 
 - **2)** art. 12 otrzymuje brzmienie: „Art. 12. Minister właściwy do spraw administracji publicznej, w drodze zarządzenia, nadaje Urzędowi statut, określający jego organizację wewnętrzną.”;
 - **3)** użyte w art. 10 w ust. 2, w art. 14a w ust. 6, w art. 25 w ust. 3 i w art. 92 w ust. 1 w różnych przypadkach wyrazy „Prezes Rady Ministrów” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw administracji publicznej”;
@@ -296,19 +209,14 @@ source: pdf
     - **b)** dodaje się ust. 1a w brzmieniu: „1a. Minister Obrony Narodowej, w drodze zarządzenia, nadaje Agencji statut, który określa jej organizację wewnętrzną.”;
 
 - **5)** w art. 11:
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Organem nadzorczym Agencji jest Rada Nadzorcza, zwana dalej „Radą”, w skład której wchodzi przewodniczący i czterech członków, w tym przedstawiciele Ministra Obrony Narodowej, ministra właściwego do spraw Skarbu Państwa oraz ministra właściwego do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej.
-
-2. Przewodniczącego Rady oraz jej członków powołuje, na okres trzech lat, Minister Obrony Narodowej po porozumieniu z ministrem właściwym do spraw Skarbu Państwa. W szczególnie uzasadnionych przypadkach, Minister Obrony Narodowej po porozumieniu z ministrem właściwym do spraw Skarbu Państwa, może odwołać Radę Nadzorczą Agencji, Przewodniczącego Rady lub poszczególnych jej członków w czasie trwania kadencji.”,
-
-- **b)** w ust. 3 w pkt 4 kropkę zastępuje się przecinkiem i dodaje się pkt 5 i 6 w brzmieniu: „5) wybiera biegłego rewidenta do przeprowadzenia badania sprawozdania finansowego Agencji,
-- **6)** podejmuje uchwały w sprawie udzielenia Prezesowi Agencji absolutorium z wykonania obowiązków w okresie objętym rocznym sprawozdaniem finansowym.”,
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Organem nadzorczym Agencji jest Rada Nadzorcza, zwana dalej „Radą”, w skład której wchodzi przewodniczący i czterech członków, w tym przedstawiciele Ministra Obrony Narodowej, ministra właściwego do spraw Skarbu Państwa oraz ministra właściwego do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej. 2. Przewodniczącego Rady oraz jej członków powołuje, na okres trzech lat, Minister Obrony Narodowej po porozumieniu z ministrem właściwym do spraw Skarbu Państwa. W szczególnie uzasadnionych przypadkach, Minister Obrony Narodowej po porozumieniu z ministrem właściwym do spraw Skarbu Państwa, może odwołać Radę Nadzorczą Agencji, Przewodniczącego Rady lub poszczególnych jej członków w czasie trwania kadencji.”,
+    - **b)** w ust. 3 w pkt 4 kropkę zastępuje się przecinkiem i dodaje się pkt 5 i 6 w brzmieniu: „5) wybiera biegłego rewidenta do przeprowadzenia badania sprawozdania finansowego Agencji, 6) podejmuje uchwały w sprawie udzielenia Prezesowi Agencji absolutorium z wykonania obowiązków w okresie objętym rocznym sprawozdaniem finansowym.”,
     - **c)** dodaje się ust. 4 w brzmieniu: „4. Minister Obrony Narodowej w terminie 30 dni od dnia zawiadomienia o nieudzieleniu absolutorium, o którym mowa w ust. 3 pkt 6, odwołuje Prezesa Agencji.”;
 
 - **6)** w art. 12:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Agencją kieruje Prezes powoływany i odwoływany przez Ministra Obrony Narodowej po porozumieniu z ministrem właściwym do spraw Skarbu Państwa.”,
-    - **b)** w ust. 2 pkt 3 i 4 otrzymują brzmienie: „3) w porozumieniu z Ministrem Obrony Narodowej ustalanie rocznego planu finansowego Agencji, kierunków rozdysponowania środków finansowych, a także występowanie z wnioskami do Ministra Obrony Narodowej w sprawie wysokości dotacji budżetowej na realizację zadań określonych w art. 19 ust. 2 pkt 4,
+    - **b)** w ust. 2 pkt 3 i 4 otrzymują brzmienie: „3) w porozumieniu z Ministrem Obrony Narodowej ustalanie rocznego planu finansowego Agencji, kierunków rozdysponowania środków finansowych, a także występowanie z wnioskami do Ministra Obrony Narodowej w sprawie wysokości dotacji budżetowej na realizację zadań określonych w art. 19 ust. 2 pkt 4, 4) przedstawianie Radzie Nadzorczej, Ministrowi Obrony Narodowej oraz ministrowi właściwemu do spraw Skarbu Państwa sprawozdania z rocznej działalności Agencji.”;
 
-- **4)** przedstawianie Radzie Nadzorczej, Ministrowi Obrony Narodowej oraz ministrowi właściwemu do spraw Skarbu Państwa sprawozdania z rocznej działalności Agencji.”;
 - **7)** w art. 19 w ust. 6 wyrazy „Minister właściwy do spraw Skarbu Państwa, w porozumieniu z Ministrem Obrony Narodowej” zastępuje się wyrazami „Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw Skarbu Państwa”;
 - **8)** w art. 41 skreśla się ust. 4;
 - **9)** skreśla się art. 84.
@@ -326,9 +234,7 @@ source: pdf
 
 **Art. 19.** W ustawie z dnia 14 grudnia 1995 r. o urzędzie Ministra Obrony Narodowej (Dz.U. z 1996 r. Nr 10, poz. 56 i Nr 102, poz. 474, z 1997 r. Nr 121, poz. 770 i Nr 141, poz. 944, z 1999 r. Nr 11, poz. 95 oraz z 2001 r. Nr 123, poz. 1353) wprowadza się następujące zmiany:
 
-- **1)** w art. 5 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Minister Obrony Narodowej, na zasadach określonych w odrębnych ustawach, sprawuje nadzór nad działalnością:
-- **1)** Agencji Mienia Wojskowego,
-- **2)** Wojskowej Agencji Mieszkaniowej.”;
+- **1)** w art. 5 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Minister Obrony Narodowej, na zasadach określonych w odrębnych ustawach, sprawuje nadzór nad działalnością: 1) Agencji Mienia Wojskowego, 2) Wojskowej Agencji Mieszkaniowej.”;
 - **2)** w art. 10 ust. 2 otrzymuje brzmienie: „2. Prezes Rady Ministrów, w drodze zarządzenia, nadaje statut Ministerstwu Obrony Narodowej, w którym określa jego organizację wewnętrzną.”.
 
 **Art. 20.** W ustawie z dnia 26 kwietnia 1996 r. o Służbie Więziennej (Dz.U. Nr 61, poz. 283 i Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554 i Nr 133, poz. 883, z 1999 r. Nr 110, poz. 1255, z 2000 r. Nr 2, poz. 5 oraz z 2001 r. Nr 81, poz. 877, Nr 106, poz. 1149 i Nr 110, poz. 1189) w art. 95 wprowadza się następujące zmiany:
@@ -338,44 +244,22 @@ source: pdf
 
 **Art. 21.** W ustawie z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz.U. Nr 90, poz. 405 i Nr 156, poz. 775, z 1997 r. Nr 80, poz. 509 i Nr 121, poz. 770 oraz z 2000 r. Nr 48, poz. 550 i Nr 95, poz. 1041) wprowadza się następujące zmiany:
 
-- **1)** po art. 4a dodaje się art. 4b w brzmieniu: „Art. 4b. 1. Minister Obrony Narodowej albo, z jego upoważnienia, inny organ wojskowy, może nieodpłatnie przekazać, bez pośrednictwa Agencji Mienia Wojskowego, mienie ruchome Skarbu Państwa, o którym mowa w art. 1 pkt 1:
-- **1)** muzeom oraz państwowym szkołom wyższym i państwowym wyższym szkołom zawodowym - na cele muzealne, wystawiennicze lub szkoleniowe,
-- **2)** stowarzyszeniom i fundacjom prowadzącym działalność związaną z obronnością Państwa - na cele ich działalności statutowej.
-
-2. Przekazanie mienia, o którym mowa w ust. 1, następuje w formie protokołu zdawczo-odbiorczego, z dniem jego podpisania.
-
-3. Minister Obrony Narodowej określi, w drodze rozporządzenia, szczegółowy tryb przekazywania mienia, o którym mowa w ust.
-
-1. ”;
-
+- **1)** po art. 4a dodaje się art. 4b w brzmieniu: „Art. 4b. 1. Minister Obrony Narodowej albo, z jego upoważnienia, inny organ wojskowy, może nieodpłatnie przekazać, bez pośrednictwa Agencji Mienia Wojskowego, mienie ruchome Skarbu Państwa, o którym mowa w art. 1 pkt 1: 1) muzeom oraz państwowym szkołom wyższym i państwowym wyższym szkołom zawodowym - na cele muzealne, wystawiennicze lub szkoleniowe, 2) stowarzyszeniom i fundacjom prowadzącym działalność związaną z obronnością Państwa - na cele ich działalności statutowej. 2. Przekazanie mienia, o którym mowa w ust. 1, następuje w formie protokołu zdawczo-odbiorczego, z dniem jego podpisania. 3. Minister Obrony Narodowej określi, w drodze rozporządzenia, szczegółowy tryb przekazywania mienia, o którym mowa w ust. 1.”;
 - **2)** w art. 5 ust. 2 otrzymuje brzmienie: „2. Nadzór nad działalnością Agencji sprawuje Minister Obrony Narodowej.”;
 - **3)** w art. 7 dodaje się ust. 3 w brzmieniu: „3. Agencja może prowadzić na rzecz urzędu obsługującego Ministra Obrony Narodowej oraz jednostek organizacyjnych podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej postępowania o zamówienia publiczne, o których mowa w art. 4b ust. 1 pkt 2-5 ustawy z dnia 10 czerwca 1994 r. o zamówieniach publicznych (Dz.U. z 1998 r. Nr 119, poz. 773, z 1999 r. Nr 45, poz. 437, z 2000 r. Nr 12, poz. 136, Nr 93, poz. 1027 i Nr 110, poz. 1167 oraz z 2001 r. Nr 56, poz. 580, Nr 76, poz. 813, Nr 113, poz. 1208, Nr 128, poz. 1403 i Nr 154, poz. 1800), w zakresie dostaw i usług.”;
-- **4)** art. 9 otrzymuje brzmienie: „Art. 9. 1. Agencja działa na podstawie ustawy i statutu.
-
-2. Minister Obrony Narodowej, w drodze zarządzenia, nadaje Agencji statut, który określa jej organizację wewnętrzną.”;
-
+- **4)** art. 9 otrzymuje brzmienie: „Art. 9. 1. Agencja działa na podstawie ustawy i statutu. 2. Minister Obrony Narodowej, w drodze zarządzenia, nadaje Agencji statut, który określa jej organizację wewnętrzną.”;
 - **5)** w art. 11 ust. 1 otrzymuje brzmienie: „1. Prezesa Agencji powołuje i odwołuje Minister Obrony Narodowej po porozumieniu z ministrem właściwym do spraw Skarbu Państwa.”;
 - **6)** w art. 14 ust. 4 otrzymuje brzmienie: „4. Minister Obrony Narodowej przedstawia Sejmowi Rzeczypospolitej Polskiej roczne sprawozdanie z działalności Agencji.”;
-- **7)** w art. 15 ust. 1-3 otrzymują brzmienie: „1. Rada Nadzorcza Agencji składa się z pięciu członków powoływanych przez Ministra Obrony Narodowej po porozumieniu z ministrem właściwym do spraw Skarbu Państwa. W szczególnie uzasadnionych przypadkach, Minister Obrony Narodowej po porozumieniu z ministrem właściwym do spraw Skarbu Państwa może odwołać Radę Nadzorczą Agencji, Przewodniczącego Rady Nadzorczej Agencji lub poszczególnych jej członków w czasie trwania kadencji.
-
-2. W skład Rady Nadzorczej Agencji wchodzi trzech przedstawicieli Ministra Obrony Narodowej oraz po jednym przedstawicielu ministra właściwego do spraw Skarbu Państwa i ministra właściwego do spraw finansów publicznych.
-
-3. Przewodniczącego Rady Nadzorczej Agencji powołuje i odwołuje na okres kadencji Minister Obrony Narodowej po porozumieniu z ministrem właściwym do spraw Skarbu Państwa spośród osób, o których mowa w ust. 2.”;
-
+- **7)** w art. 15 ust. 1-3 otrzymują brzmienie: „1. Rada Nadzorcza Agencji składa się z pięciu członków powoływanych przez Ministra Obrony Narodowej po porozumieniu z ministrem właściwym do spraw Skarbu Państwa. W szczególnie uzasadnionych przypadkach, Minister Obrony Narodowej po porozumieniu z ministrem właściwym do spraw Skarbu Państwa może odwołać Radę Nadzorczą Agencji, Przewodniczącego Rady Nadzorczej Agencji lub poszczególnych jej członków w czasie trwania kadencji. 2. W skład Rady Nadzorczej Agencji wchodzi trzech przedstawicieli Ministra Obrony Narodowej oraz po jednym przedstawicielu ministra właściwego do spraw Skarbu Państwa i ministra właściwego do spraw finansów publicznych. 3. Przewodniczącego Rady Nadzorczej Agencji powołuje i odwołuje na okres kadencji Minister Obrony Narodowej po porozumieniu z ministrem właściwym do spraw Skarbu Państwa spośród osób, o których mowa w ust. 2.”;
 - **8)** w art. 16:
     - **a)** w ust. 2: - w pkt 2 wyraz „pokwitowania” zastępuje się wyrazem „absolutorium” oraz kropkę zastępuje się przecinkiem, - dodaje się pkt 3 w brzmieniu: „3) wybór biegłego rewidenta do przeprowadzenia badania sprawozdania finansowego Agencji.”,
-    - **b)** ust. 4 i 5 otrzymują brzmienie: „4. Rada Nadzorcza Agencji przedstawia opinie, o których mowa w ust. 2 pkt 1, Ministrowi Obrony Narodowej i ministrowi właściwemu do spraw Skarbu Państwa.
-
-5. Minister Obrony Narodowej w terminie 30 dni od dnia zawiadomienia o nieudzieleniu Prezesowi Agencji absolutorium, o którym mowa w ust. 2 pkt 2, odwołuje Prezesa Agencji.”;
+    - **b)** ust. 4 i 5 otrzymują brzmienie: „4. Rada Nadzorcza Agencji przedstawia opinie, o których mowa w ust. 2 pkt 1, Ministrowi Obrony Narodowej i ministrowi właściwemu do spraw Skarbu Państwa. 5. Minister Obrony Narodowej w terminie 30 dni od dnia zawiadomienia o nieudzieleniu Prezesowi Agencji absolutorium, o którym mowa w ust. 2 pkt 2, odwołuje Prezesa Agencji.”;
 
 - **9)** w art. 18 ust. 4 otrzymuje brzmienie: „4. Minister Obrony Narodowej może przekazać Agencji do zagospodarowania lotniska wojskowe i porty wojenne współużytkowane przez podmioty inne niż jednostki organizacyjne podporządkowane lub nadzorowane przez Ministra Obrony Narodowej, po uzyskaniu opinii ministra właściwego do spraw transportu.”;
 - **10)** w art. 19 ust. 3 otrzymuje brzmienie: „3. Na wniosek Ministra Obrony Narodowej albo innego organu wojskowego działającego z jego upoważnienia właściwy miejscowo ze względu na położenie nieruchomości starosta, wykonujący zadania z zakresu administracji rządowej, stwierdza, w drodze decyzji, wygaśnięcie trwałego zarządu jednostki organizacyjnej podporządkowanej lub nadzorowanej przez Ministra Obrony Narodowej w stosunku do przekazanej nieruchomości, z dniem podpisania protokołu, o którym mowa w ust. 1.”;
 - **11)** w art. 20 w ust. 3 wyrazy „Minister Skarbu Państwa, w porozumieniu z Ministrem Obrony Narodowej” zastępuje się wyrazami „Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw Skarbu Państwa.”;
 - **12)** w art. 22 ust. 1 otrzymuje brzmienie: „1. Minister Obrony Narodowej albo, z jego upoważnienia, inny organ wojskowy może, na podstawie umowy, użyczyć Agencji nieruchomości lub ich części będące w trwałym zarządzie jednostek organizacyjnych podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej, niewykorzystywanych przez te jednostki do realizacji ich zadań, a niezbędnych do celów obronności lub bezpieczeństwa państwa. Agencja może, przez czas trwania umowy użyczenia zagospodarować użyczone mienie, oddając je w najem lub dzierżawę.”;
-- **13)** w art. 23 ust. 2 i 3 otrzymują brzmienie: „2. Nieruchomości Skarbu Państwa mogą być przekazane przez Agencję, w drodze umowy, na własność jednostce samorządu terytorialnego na cele związane z inwestycjami infrastrukturalnymi służącymi wykonywaniu zadań własnych.
-
-3. Zasady gospodarowania nieruchomościami regulują przepisy o gospodarce nieruchomościami, z tym że decyzje w sprawie oddania nieruchomości w trwały zarząd wydaje Prezes Agencji. Od decyzji wydanej przez Prezesa Agencji służy odwołanie do Ministra Obrony Narodowej.”;
-
+- **13)** w art. 23 ust. 2 i 3 otrzymują brzmienie: „2. Nieruchomości Skarbu Państwa mogą być przekazane przez Agencję, w drodze umowy, na własność jednostce samorządu terytorialnego na cele związane z inwestycjami infrastrukturalnymi służącymi wykonywaniu zadań własnych. 3. Zasady gospodarowania nieruchomościami regulują przepisy o gospodarce nieruchomościami, z tym że decyzje w sprawie oddania nieruchomości w trwały zarząd wydaje Prezes Agencji. Od decyzji wydanej przez Prezesa Agencji służy odwołanie do Ministra Obrony Narodowej.”;
 - **14)** w art. 25 w ust. 2 wyrazy „przepisach o gospodarce gruntami i wywłaszczaniu nieruchomości” zastępuje się wyrazami „przepisach o gospodarce nieruchomościami”;
 - **15)** w art. 27 ust. 2 otrzymuje brzmienie: „2. Minister Obrony Narodowej, przekazując Agencji mienie zgodnie z art. 18 ust. 3, udziela jej w danym roku budżetowym dotacji w wysokości równej środkom finansowym na utrzymanie tego mienia zamieszczonym w części budżetu państwa, której dysponentem jest Minister Obrony Narodowej.”;
 - **16)** w art. 29 w ust. 1 skreśla się pkt 4;
@@ -437,16 +321,12 @@ source: pdf
 
 **Art. 29.** W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz.U. Nr 140, poz. 938, z 1998 r. Nr 160, poz. 1063, z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252 oraz z 2001 r. Nr 8, poz. 64, Nr 110, poz. 1189 i Nr 154, poz. 1784) w art. 22 skreśla się wyrazy „i Rady Ministrów”.
 
-**Art. 30.** W ustawie z dnia 18 grudnia 1998 r. o wspieraniu przedsięwzięć termomodernizacyjnych (Dz.U. Nr 162, poz. 1121, z 2000 r. Nr 48, poz. 550 oraz z 2001 r. Nr 76, poz. 808) art. 8 otrzymuje brzmienie: „Art. 8. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia:
-
-- **1)** szczegółowy zakres i formy audytu energetycznego oraz algorytm oceny opłacalności przedsięwzięcia termomodernizacyjnego, a także wzory kart audytu energetycznego,
-- **2)** szczegółowe zasady i tryb weryfikacji audytu energetycznego oraz szczegółowe warunki, jakie powinny spełniać podmioty, którym Bank Gospodarstwa Krajowego może zlecać wykonanie weryfikacji audytów energetycznych mając na uwadze zapewnienie właściwej jakości ich weryfikacji.”.
+**Art. 30.** W ustawie z dnia 18 grudnia 1998 r. o wspieraniu przedsięwzięć termomodernizacyjnych (Dz.U. Nr 162, poz. 1121, z 2000 r. Nr 48, poz. 550 oraz z 2001 r. Nr 76, poz. 808) art. 8 otrzymuje brzmienie: „Art. 8. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia: 1) szczegółowy zakres i formy audytu energetycznego oraz algorytm oceny opłacalności przedsięwzięcia termomodernizacyjnego, a także wzory kart audytu energetycznego, 2) szczegółowe zasady i tryb weryfikacji audytu energetycznego oraz szczegółowe warunki, jakie powinny spełniać podmioty, którym Bank Gospodarstwa Krajowego może zlecać wykonanie weryfikacji audytów energetycznych mając na uwadze zapewnienie właściwej jakości ich weryfikacji.”.
 
 **Art. 31.** W ustawie z dnia 18 grudnia 1998 r. o służbie cywilnej (Dz.U. z 1999 r. Nr 49, poz. 483, Nr 70, poz. 778 i Nr 110, poz. 1255 oraz z 2001 r. Nr 102, poz. 1116, Nr 111, poz. 1194 i Nr 128, poz. 1403) wprowadza się następujące zmiany:
 
 - **1)** w art. 13 w ust. 2 wyrazy „w drodze rozporządzenia” zastępuje się wyrazami „w drodze zarządzenia”;
-- **2)** w art. 21 dodaje się ust. 3 w brzmieniu: „3. Nabór kandydatów do korpusu służby cywilnej na stanowiska pracy związane z obronnością kraju odbywa się z uwzględnieniem pierwszeństwa w zatrudnieniu przysługującego osobom zwolnionym z zawodowej służby wojskowej, o których mowa w art. 88 ust. 1 ustawy z dnia 30 czerwca 1970 r. o służbie wojskowej żołnierzy zawodowych (Dz.U. z 1997 r. Nr 10, poz. 55, Nr 28, poz. 153, Nr 106, poz. 678, Nr 107, poz. 688, Nr 117, poz. 753, Nr 121, poz. 770 i Nr 141, poz. 944, z 1998 r. Nr 162, poz. 1117, z 1999 r. Nr 1, poz. 7 oraz z 2001 r. Nr 85, poz. 925, Nr 88, poz. 961 i Nr 154, poz.
-- **1800)** .”;
+- **2)** w art. 21 dodaje się ust. 3 w brzmieniu: „3. Nabór kandydatów do korpusu służby cywilnej na stanowiska pracy związane z obronnością kraju odbywa się z uwzględnieniem pierwszeństwa w zatrudnieniu przysługującego osobom zwolnionym z zawodowej służby wojskowej, o których mowa w art. 88 ust. 1 ustawy z dnia 30 czerwca 1970 r. o służbie wojskowej żołnierzy zawodowych (Dz.U. z 1997 r. Nr 10, poz. 55, Nr 28, poz. 153, Nr 106, poz. 678, Nr 107, poz. 688, Nr 117, poz. 753, Nr 121, poz. 770 i Nr 141, poz. 944, z 1998 r. Nr 162, poz. 1117, z 1999 r. Nr 1, poz. 7 oraz z 2001 r. Nr 85, poz. 925, Nr 88, poz. 961 i Nr 154, poz. 1800).”;
 - **3)** w art. 41 w ust. 1 w pkt 1 i w art. 105 skreśla się wyrazy „Sekretarza Rady Ministów,”;
 - **4)** w art. 59 w ust. 5 i w art. 114 w ust. 2 skreśla się wyrazy „Sekretarza Rady Ministrów,”;
 - **5)** w art. 64 w ust. 2 i w art. 117 w ust. 1 skreśla się wyrazy „Sekretarza Rady Ministrów,”;
@@ -454,14 +334,7 @@ source: pdf
 - **7)** w art. 90 w ust. 5 wyrazy „Szefowi Służby Cywilnej, zastępcy Szefa Służby Cywilnej oraz Sekretarzowi Rady Ministrów” zastępuje się wyrazami „Szefowi Służby Cywilnej oraz zastępcy Szefa Służby Cywilnej”;
 - **8)** w art. 106 w ust. 2 i w art. 108 w ust. 4 skreśla się wyrazy „Sekretarza Rady Ministrów,”;
 - **9)** w art. 117 w ust. 2 skreśla się wyrazy „Sekretarza Rady Ministrów,”;
-- **10)** po art. 144 dodaje się art. 144a w brzmieniu: „Art. 144a. 1. W okresie do dnia 31 grudnia 2002 r., jeżeli jest to uzasadnione potrzebami urzędu, Szef Służby Cywilnej na wniosek dyrektora generalnego urzędu może w każdym czasie obsadzić wolne stanowiska, o których mowa w art. 41 ust. 1 pkt 2, przez osoby nie będące członkami korpusu służby cywilnej, spełniające warunki określone w art. 4.
-
-2. W odniesieniu do stanowisk, o których mowa w art. 41 ust. 1 pkt 1, jeżeli jest to uzasadnione potrzebami urzędu, umowę o pracę z osobami spełniającymi warunki określone w art. 4 zawiera Prezes Rady Ministrów na wniosek właściwego ministra, kierownika urzędu centralnego lub wojewody, przedstawiony po zasięgnięciu opinii Szefa Służby Cywilnej.
-
-3. W sytuacjach określonych w ust. 1 lub 2 stosuje się odpowiednio wymagania art. 22.
-
-4. Z osobą nie będącą członkiem korpusu służby cywilnej, której powierzono pełnienie obowiązków zgodnie z ust. 1 lub 2, zawiera się umowę o pracę na czas określony, do dnia obsadzenia tego stanowiska w drodze konkursu, nie dłużej jednak niż na sześć miesięcy. Wcześniejsze cofnięcie powierzenia obowiązków ma skutki wypowiedzenia stosunku pracy przez pracodawcę.”;
-
+- **10)** po art. 144 dodaje się art. 144a w brzmieniu: „Art. 144a. 1. W okresie do dnia 31 grudnia 2002 r., jeżeli jest to uzasadnione potrzebami urzędu, Szef Służby Cywilnej na wniosek dyrektora generalnego urzędu może w każdym czasie obsadzić wolne stanowiska, o których mowa w art. 41 ust. 1 pkt 2, przez osoby nie będące członkami korpusu służby cywilnej, spełniające warunki określone w art. 4. 2. W odniesieniu do stanowisk, o których mowa w art. 41 ust. 1 pkt 1, jeżeli jest to uzasadnione potrzebami urzędu, umowę o pracę z osobami spełniającymi warunki określone w art. 4 zawiera Prezes Rady Ministrów na wniosek właściwego ministra, kierownika urzędu centralnego lub wojewody, przedstawiony po zasięgnięciu opinii Szefa Służby Cywilnej. 3. W sytuacjach określonych w ust. 1 lub 2 stosuje się odpowiednio wymagania art. 22. 4. Z osobą nie będącą członkiem korpusu służby cywilnej, której powierzono pełnienie obowiązków zgodnie z ust. 1 lub 2, zawiera się umowę o pracę na czas określony, do dnia obsadzenia tego stanowiska w drodze konkursu, nie dłużej jednak niż na sześć miesięcy. Wcześniejsze cofnięcie powierzenia obowiązków ma skutki wypowiedzenia stosunku pracy przez pracodawcę.”;
 - **11)** w art. 145:
     - **a)** w ust.1 skreśla się wyrazy „ , Sekretarza Rady Ministrów”,
     - **b)** w ust. 2 skreśla się wyrazy „oraz Sekretarza Rady Ministrów”,
@@ -469,10 +342,7 @@ source: pdf
 
 **Art. 32.** W ustawie z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz.U. Nr 11, poz. 95, z 2000 r. Nr 12, poz. 136 i Nr 39, poz. 462 oraz z 2001 r. Nr 22, poz. 247, Nr 27, poz. 298, Nr 56, poz. 580, Nr 110, poz. 1189 i Nr 123, poz. 1353) w załączniku nr 1 w części II wprowadza się następujące zmiany:
 
-- **1)** pkt 28 i 29 otrzymują brzmienie: „28. Szczegółowa struktura organizacyjna i etatowa jednostek organizacyjnych Urzędu Ochrony Państwa, Wojskowych Służb Informacyjnych, Policji, Żandarmerii Wojskowej, Straży Granicznej, Biura Ochrony Rządu i Krajowego Centrum Informacji Kryminalnych, chyba że zawierają informacje oznaczone wyższą klauzulą tajności.
-
-29. System ewidencji danych o funkcjonariuszach, żołnierzach i pracownikach Urzędu Ochrony Państwa, Wojskowych Służb Informacyjnych, Policji, Żandarmerii Wojskowej, Straży Granicznej, Biura Ochrony Rządu i Krajowego Centrum Informacji Kryminalnych oraz dane z tej ewidencji, chyba, że zawierają informacje oznaczone wyższą klauzulą tajności.”;
-
+- **1)** pkt 28 i 29 otrzymują brzmienie: „28. Szczegółowa struktura organizacyjna i etatowa jednostek organizacyjnych Urzędu Ochrony Państwa, Wojskowych Służb Informacyjnych, Policji, Żandarmerii Wojskowej, Straży Granicznej, Biura Ochrony Rządu i Krajowego Centrum Informacji Kryminalnych, chyba że zawierają informacje oznaczone wyższą klauzulą tajności. 29. System ewidencji danych o funkcjonariuszach, żołnierzach i pracownikach Urzędu Ochrony Państwa, Wojskowych Służb Informacyjnych, Policji, Żandarmerii Wojskowej, Straży Granicznej, Biura Ochrony Rządu i Krajowego Centrum Informacji Kryminalnych oraz dane z tej ewidencji, chyba, że zawierają informacje oznaczone wyższą klauzulą tajności.”;
 - **2)** w pkt 33 po wyrazie „Policji,” dodaje się wyrazy „Żandarmerii Wojskowej,”.
 
 **Art. 33.** W ustawie z dnia 12 maja 2000 r. o zasadach wspierania rozwoju regionalnego (Dz.U. Nr 48, poz. 550, Nr 95, poz. 1041 i Nr 109, poz. 1158 oraz z 2001 r. Nr 45, poz. 497, Nr 100, poz. 1085 i Nr 111, poz. 1197) wprowadza się następujące zmiany:

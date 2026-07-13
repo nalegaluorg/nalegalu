@@ -8,10 +8,10 @@ pos: 1172
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
+# RZECZYPOSPOLITEJ POLSKIEJ Nr 166 1172
 
 | Pole | Wartość |
 |---|---|
@@ -25,1120 +25,363 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071661172) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1172/text.pdf) |
 
-” ,
-b)
-ust. 2 otrzymuje brzmienie:
-„
-2.
-Koszty leczenia uzdrowiskowego świadczeniobiorcy, o którym mowa w ust. 1 pkt 1 i w ust. 1a, ponosi oddział wojewódzki Funduszu właściwy ze względu na miejsce jego zamieszkania, a jeżeli nie można ustalić miejsca zamieszkania – oddział wojewódzki Funduszu właściwy ze względu na miejsce wystawienia skierowania, o którym mowa w art. 33 ust. 1.
-” ;
-56)
-w art. 109:
-a)
-ust. 3 otrzymuje brzmienie:
-„
-3.
-Wniosek o rozpatrzenie sprawy, o której mowa w ust. 1, zgłasza ubezpieczony, a w zakresie objęcia ubezpieczeniem zdrowotnym wniosek może zgłosić w szczególności Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego lub członek rodziny ubezpieczonego, także w zakresie dotyczącym objęcia ubezpieczeniem w okresie poprzedzającym złożenie wniosku.
-” ,
-b)
-dodaje się ust. 6 w brzmieniu:
-„
-6.
-W sprawach, o których mowa w ust. 1, w zakresie nieregulowanym niniejszą ustawą, stosuje się przepisy Kodeksu postępowania administracyjnego.
-” ;
-57)
-w art. 112:
-a)
-w ust. 1:
-– pkt 1 i 2 otrzymują brzmienie: „ 1) świadczeniodawcami, którzy zawarli umowy o udzielanie świadczeń opieki zdrowotnej lub ubiegają się o zawarcie takich umów; 2) właścicielami, pracownikami lub osobami współpracującymi ze świadczeniodawcami, którzy zawarli umowy o udzielanie świadczeń opieki zdrowotnej lub ubiegają się o zawarcie takich umów; ” ,
-– dodaje się pkt 8 i 9 w brzmieniu: „ 8) posłami, posłami do Parlamentu Europejskiego albo senatorami; 9) członkami Rady Funduszu oraz rad oddziałów wojewódzkich Funduszu. ” ,
-b)
-ust. 2 otrzymuje brzmienie:
-„
-2.
-Pracownicy Funduszu nie mogą bez zgody Prezesa Funduszu:
-1)
-podejmować zatrudnienia u innego pracodawcy;
-2)
-wykonywać działalności gospodarczej.
-” ;
-58)
-w art. 116 w ust. 1 pkt 5 otrzymuje brzmienie:
-„
-5)
-dotacje, w tym dotacje celowe przeznaczone na finansowanie zadania, o którym mowa w art. 97 ust. 3 pkt 2a, 3 i 3b;
-” ;
-59)
-w art. 117 w ust. 1 pkt 4 otrzymuje brzmienie:
-„
-4)
-koszt zadania, o którym mowa w art. 97 ust. 3 pkt 2a, 3 i 3b;
-” ;
-60)
-art. 118 otrzymuje brzmienie:
-„
-
-**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm.) wprowadza się następujące zmiany:
-
-**Art. 3.**
-
-1. Ubezpieczonymi są:
-
-- **1)** osoby posiadające obywatelstwo państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA), zamieszkujące na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA),
-- **2)** osoby nieposiadające obywatelstwa państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA), przebywające na terytorium Rzeczypospolitej Polskiej na podstawie wizy pobytowej w celu wykonywania pracy, zezwolenia na zamieszkanie na czas oznaczony, zezwolenia na osiedlenie się, zezwolenia na pobyt rezydenta długoterminowego Wspólnot Europejskich, zgody na pobyt tolerowany lub posiadające status uchodźcy nadany w Rzeczypospolitej Polskiej albo korzystające z ochrony czasowej na jej terytorium,
-- **3)** osoby nieposiadające obywatelstwa państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA), legalnie zamieszkujące na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) jeżeli podlegają zgodnie z art. 66 obowiązkowi ubezpieczenia zdrowotnego albo ubezpieczają się dobrowolnie na zasadach określonych w art. 68;
-- **4)** osoby posiadające obywatelstwo państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA), niezamieszkujące na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA), jeżeli podlegają obowiązkowi ubezpieczenia zdrowotnego na terytorium Rzeczypospolitej Polskiej i są objęte: ubezpieczeniami emerytalnym i rentowymi na podstawie przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.), ubezpieczeniem społecznym rolników na podstawie przepisów ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 1998 r. Nr 7, poz. 25, z późn. zm.).
-    - **a)**
-    - **b)**
-
-2. Ubezpieczonymi są także:
-
-- **1)** studenci i uczestnicy studiów doktoranckich, którzy studiują w Rzeczypospolitej Polskiej, oraz absolwenci, którzy odbywają w Rzeczypospolitej Polskiej obowiązkowy staż, nieposiadający obywatelstwa państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) i niebędący osobami, o których mowa w ust. 1 pkt 3,
-- **2)** członkowie zakonów oraz alumni wyższych seminariów duchownych i teologicznych, postulanej, nowicjusze i junioryści zakonów i ich odpowiednicy nieposiadający obywatelstwa państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) i niebędący osobami, o których mowa w ust. 1 pkt 3, a przebywający na terytorium Rzeczypospolitej Polskiej na podstawie wizy, zezwolenia na zamieszkanie na czas oznaczony, zezwolenia na osiedlenie się, zezwolenia na pobyt rezydenta długoterminowego Wspólnot Europejskich, zgody na pobyt tolerowany lub posiadający status uchodźcy nadany w Rzeczypospolitej Polskiej albo korzystający z ochrony czasowej na jej terytorium,
-- **3)** odbywający staż adaptacyjny,
-- **4)** odbywający kursy języka polskiego oraz kursy przygotowawcze do podjęcia nauki w języku polskim, o których mowa w przepisach o szkolnictwie wyższym, nieposiadający obywatelstwa państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) i niebędący osobami, o których mowa w ust. 1 pkt 3 jeżeli ubezpieczają się dobrowolnie na zasadach określonych w art. 68;
-- **5)** członkowie rodzin osób, o których mowa w ust. 1 pkt 1 i 3, zamieszkujący na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA), jeżeli nie są osobami podlegającymi obowiązkowi ubezpieczenia zdrowotnego, o których mowa w art. 66 ust. 1, z zastrzeżeniem art. 66 ust. 2 i 3, ani nie są osobami uprawnionymi do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji;
-- **6)** członkowie rodzin osób, o których mowa w ust. 1 pkt 2, zamieszkujący na terytorium Rzeczypospolitej Polskiej, jeżeli nie są osobami podlegającymi obowiązkowi ubezpieczenia zdrowotnego, o których mowa w art. 66 ust. 1, z zastrzeżeniem art. 66 ust. 2 i 3. ” ;
-- **3)** w art. 5: pkt 13 otrzymuje brzmienie: „
-    - **a)**
+USTAWA z dnia 24 sierpnia 2007 r.
+o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
 
-- **13)** lekarz podstawowej opieki zdrowotnej lekarza: posiadającego tytuł specjalisty w dziedzinie medycyny rodzinnej lub odbywającego szkolenie specjalizacyjne w dziedzinie medycyny rodzinnej, lub posiadającego specjalizację II stopnia w dziedzinie medycyny ogólnej udzielającego świadczeń w zakresie podstawowej opieki zdrowotnej, z którym Fundusz zawarł umowę o udzielanie świadczeń opieki zdrowotnej albo który jest zatrudniony lub wykonuje zawód u świadczeniodawcy, z którym Fundusz zawarł umowę o udzielanie świadczeń podstawowej opieki zdrowotnej; ” , po pkt 14 dodaje się pkt 14a w brzmieniu: „
-    - **a)**
-    - **b)**
-    - **c)**
-    - **b)**
+**Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. Ń3) inne, niż wymienione wpkt 1i2, osoby posiao świadczeniach opieki zdrowotnej finansowanych ze dające obywatelstwo polskie i posiadające środków publicznych (Dz. U. Nr 210, poz. 2135, zpóên. miejsce zamieszkania na terytorium Rzeczypozm. ) wprowadza się następujące zmiany: spolitej Polskiej, które nie ukończyły 18. roku życia lub są wokresie ciąży, porodu ipołogu”;
 
-- **14a)** migracja ubezpieczonych – korzystanie przez ubezpieczonych oraz osoby uprawnione do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, zarejestrowanych w danym oddziale wojewódzkim Funduszu, ze świadczeń opieki zdrowotnej udzielanych przez świadczeniodawców, którzy zawarli umowy o udzielanie świadczeń opieki zdrowotnej z innymi oddziałami wojewódzkimi Funduszu, lub nabywanie przez ubezpieczonych oraz osoby uprawnione do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, zarejestrowanych w danym oddziale wojewódzkim Funduszu, leków i wyrobów medycznych, bezpłatnie, za opłatą ryczałtową albo za częściową odpłatnością, w aptekach działających na terytorium innych oddziałów wojewódzkich Funduszu; ” , po pkt 15 dodaje się pkt 15a w brzmieniu: „
-    - **c)**
+- **1)** wart. 2wust. 1po pkt 2dodaje się pkt 3wbrzmieniu: 2) art. 3 otrzymuje brzmienie: ——————— Dziennik Ustaw Nr 166 — 11942 — Poz. 1172 ŃArt. 3. 1. Ubezpieczonymi są: a) ubezpieczeniami emerytalnym i rentowymi na podstawie przepi1) osoby posiadające obywatelstwo sów ustawy z dnia 13 paêdziernipaństwa członkowskiego Unii Euro- ka1998 r. o systemie ubezpieczeń pejskiej lub państwa członkowskie- społecznych (Dz. U. z 2007 r. Nr 11, go Europejskiego Porozumienia poz. 74, z póên. zm. ), o Wolnym Handlu (EFTA), zamieszkujące na terytorium państwa człon- b) ubezpieczeniem społecznym rolnikowskiego Unii Europejskiej lub ków na podstawie przepisów ustapaństwa członkowskiego Europej- wy z dnia 20 grudnia 1990 r. skiego Porozumienia o Wolnym oubezpieczeniu społecznym rolniHandlu (EFTA), ków (Dz. U. z 1998 r. Nr 7, poz. 25,
+- **2)** osoby nieposiadające obywatelstwa z póên. zm. ). państwa członkowskiego Unii Europejskiej lub państwa członkowskiego 2. Ubezpieczonymi są także: Europejskiego Porozumienia o Wol- 1) studenci i uczestnicy studiów doktonym Handlu (EFTA), przebywające na ranckich, którzy studiują wRzeczypoterytorium Rzeczypospolitej Polskiej spolitej Polskiej, oraz absolwenci, na podstawie wizy pobytowej w celu którzy odbywają w Rzeczypospolitej wykonywania pracy, zezwolenia na Polskiej obowiązkowy staż, nieposiazamieszkanie na czas oznaczony, ze- dający obywatelstwa państwa członzwolenia na osiedlenie się, zezwole- kowskiego Unii Europejskiej lub pańnia na pobyt rezydenta długotermino- stwa członkowskiego Europejskiego wego Wspólnot Europejskich, zgody na pobyt tolerowany lub posiadające Porozumienia o Wolnym Handlu status uchodêcy nadany w Rzeczypo- (EFTA) i niebędący osobami, o któspolitej Polskiej albo korzystające rych mowa w ust. 1 pkt 3, zochrony czasowej na jej terytorium, 2) członkowie zakonów oraz alumni
+- **3)** osoby nieposiadające obywatelstwa wyższych seminariów duchownych państwa członkowskiego Unii Euro- i teologicznych, postulanci, nowicjupejskiej lub państwa członkowskiego sze i junioryści zakonów i ich odpoEuropejskiego Porozumienia o Wol- wiednicy nieposiadający obywatelnym Handlu (EFTA), legalnie za- stwa państwa członkowskiego Unii mieszkujące na terytorium innego niż Europejskiej lub państwa członkowRzeczpospolita Polska państwa człon- skiego Europejskiego Porozumienia kowskiego Unii Europejskiej lub pań- oWolnym Handlu (EFTA) iniebędący stwa członkowskiego Europejskiego osobami, o których mowa w ust.1 Porozumienia o Wolnym Handlu pkt 3, a przebywający na terytorium (EFTA) Rzeczypospolitej Polskiej na podsta— jeżeli podlegają zgodnie zart. 66 obo- wie wizy, zezwolenia na zamieszkanie wiązkowi ubezpieczenia zdrowotnego na czas oznaczony, zezwolenia na albo ubezpieczają się dobrowolnie na osiedlenie się, zezwolenia na pobyt zasadach określonych w art. 68; rezydenta długoterminowego Wspól4) osoby posiadające obywatelstwo not Europejskich, zgody na pobyt topaństwa członkowskiego Unii Euro- lerowany lub posiadający status pejskiej lub państwa członkowskie- uchodêcy nadany w Rzeczypospolitej go Europejskiego Porozumienia Polskiej albo korzystający z ochrony o Wolnym Handlu (EFTA), nieza- czasowej na jej terytorium, mieszkujące na terytorium państwa 3) odbywający staż adaptacyjny, członkowskiego Unii Europejskiej lub państwa członkowskiego Euro- 4) odbywający kursy języka polskiego pejskiego Porozumienia o Wolnym oraz kursy przygotowawcze do podHandlu (EFTA), jeżeli podlegają obo- jęcia nauki w języku polskim, o któwiązkowi ubezpieczenia zdrowotne- rych mowa w przepisach o szkolnicgo na terytorium Rzeczypospolitej twie wyższym, nieposiadający obyPolskiej i są objęte: watelstwa państwa członkowskiego ——————— Dziennik Ustaw Nr 166 — 11943 — Poz. 1172 Unii Europejskiej lub państwa człon- czeń opieki zdrowotnej na podstawie kowskiego Europejskiego Porozu- przepisów o koordynacji, zarejestrowamienia o Wolnym Handlu (EFTA) nych w danym oddziale wojewódzkim i niebędący osobami, o których mo- Funduszu, leków iwyrobów medycznych, wa w ust. 1 pkt 3 bezpłatnie, za opłatą ryczałtową albo za — jeżeli ubezpieczają się dobrowolnie częściową odpłatnością, waptekach dziana zasadach określonych w art. 68; łających na terytorium innych oddziałów wojewódzkich Funduszu;”,
+- **5)** członkowie rodzin osób, o których mowa w ust. 1 pkt 1 i 3, zamieszkują- c) po pkt 15 dodaje się pkt 15a w brzmieniu: cy na terytorium państwa członkow- Ń15a) Narodowy Rachunek Zdrowia — zestaskiego Unii Europejskiej lub państwa wienie wszystkich wydatków na ochronę członkowskiego Europejskiego Poro- zdrowia, uwzględniające êródła finansozumienia o Wolnym Handlu (EFTA), wania ochrony zdrowia, dostawców jeżeli nie są osobami podlegający- usług medycznych oraz funkcje tych mi obowiązkowi ubezpieczenia zdro- usług, oparte na zasadach przejrzystości wotnego, o których mowa w art. 66 i rzetelności gromadzonych danych;”, ust.1, zzastrzeżeniem art. 66 ust.2i3, ani nie są osobami uprawnionymi do d) pkt 20 otrzymuje brzmienie: świadczeń opieki zdrowotnej na podstawie przepisów okoordynacji; Ń20) osoba pobierająca emeryturę lub rentę — osobę objętą zaopatrzeniem emerytal6) członkowie rodzin osób, o których nym lub rentowym, pobierającą rentę somowa w ust. 1 pkt 2, zamieszkujący cjalną albo rentę strukturalną na podstana terytorium Rzeczypospolitej Pol- wie ustawy zdnia 26 kwietnia 2001 r. orenskiej, jeżeli nie są osobami podlega- tach strukturalnych w rolnictwie (Dz. U. jącymi obowiązkowi ubezpieczenia Nr 52, poz. 539, z 2003 r. Nr 229, poz. 2273 zdrowotnego, o których mowa oraz z 2004 r. Nr 91, poz. 873) lub ustawy w art.66 ust. 1, z zastrzeżeniem z dnia 28 listopada 2003 r. o wspieraniu art.66 ust. 2 i 3.”; rozwoju obszarów wiejskich ze środków
+- **3)** w art. 5: pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Ń13) lekarz podstawowej opieki zdrowotnej zm. ), oraz osobę otrzymującą emeryturę — lekarza: lub rentę z zagranicy;”, zdrowia pracujących, środowiska naucza- w sprawie wykonywania rozporządzenia nia i wychowania, zachowawczego, pro- (EWG) nr 1408/71 w sprawie stosowania mocji zdrowia i edukacji zdrowotnej lub systemów zabezpieczenia społecznego do odbywa szkolenie specjalizacyjne w dzie- pracowników najemnych, osób prowadządzinie pielęgniarstwa: rodzinnego, pedia- cych działalność na własny rachunek i do trycznego, opieki długoterminowej, środo- członków ich rodzin przemieszczających wiska nauczania iwychowania, zachowaw- się we Wspólnocie oraz rozporządzeniu czego, promocji zdrowia i edukacji zdro- Rady (WE) nr 859/2003 z dnia 14 maja wotnej lub odbywa kurs kwalifikacyjny 2003r. rozszerzającym przepisy rozporząw dziedzinie pielęgniarstwa: rodzinnego, dzenia (EWG) nr 1408/71 i rozporządzenia pediatrycznego, opieki długoterminowej, (EWG) nr 574/72 na obywateli państw trześrodowiska nauczania i wychowania, za- cich, którzy nie są jeszcze objęci tymi przechowawczego, promocji zdrowia iedukacji pisami wyłącznie ze względu na ich obyzdrowotnej lub posiada tytuł zawodowy watelstwo oraz decyzje wydane na podstamagistra pielęgniarstwa oraz co najmniej wie przepisów powyższych rozporządzeń;”, trzyletni staż pracy w podstawowej opiece zdrowotnej, będącą świadczeniodawcą, i) w pkt 41 lit. c otrzymuje brzmienie: zktórym Fundusz zawarł umowę oudziela- Ńc) państwową jednostkę budżetową, o której nie świadczeń opieki zdrowotnej, albo któ- mowa w art. 20 ust. 1 ustawy z dnia ra jest zatrudniona lub wykonuje zawód 30czerwca 2005 r. o finansach publicznych uświadczeniodawcy, zktórym Fundusz za- (Dz. U. Nr 249, poz. 2104, z póên. zm. ), twowarł umowę oudzielanie świadczeń opieki rzoną i nadzorowaną przez Ministra Obrony zdrowotnej;”, Narodowej, ministra właściwego do spraw sko-rodzinnego oraz promocji zdrowia i edukacji zdrowotnej lub ukończyła kurs 4) art. 10 otrzymuje brzmienie: kwalifikacyjny w dziedzinie pielęgniarstwa ŃArt. 10. 1. Do zadań wojewody wzakresie zapewrodzinnego, środowiskowego, środowi- nienia równego dostępu do świadczeń skowo-rodzinnego, promocji zdrowia opieki zdrowotnej należy w szczególi edukacji zdrowotnej lub odbywa szkole- ności: nie specjalizacyjne wdziedzinie pielęgniarstwa: rodzinnego lub promocji zdrowia 1) ocena zabezpieczenia opieki zdroi edukacji zdrowotnej, lub odbywa kurs wotnej na terenie województwa; kwalifikacyjny wdziedzinie pielęgniarstwa: 2) ocena realizacji zadań z zakresu rodzinnego lub promocji zdrowia i eduka- administracji rządowej realizowanych cji zdrowotnej lub posiada tytuł zawodowy przez jednostki samorządu terytorialmagistra położnictwa oraz co najmniej nego; trzyletni staż pracy w podstawowej opiece zdrowotnej udzielającą świadczeń w ra- 3) przekazywanie ministrowi właścimach podstawowej opieki zdrowotnej, bę- wemu do spraw zdrowia, do dnia dącą świadczeniodawcą, zktórym Fundusz 15lutego każdego roku, rocznych inzawarł umowę o udzielanie świadczeń formacji o zrealizowanych w ubieopieki zdrowotnej albo która jest zatrud- głym roku programach zdrowotniona lub wykonuje zawód u świadczenio- nych oraz o programach zdrowotdawcy, z którym Fundusz zawarł umowę nych planowanych na ten rok. oudzielanie świadczeń opieki zdrowotnej;”, ———————
+    - **a)** pkt 13 otrzymuje brzmienie: Rolnej (Dz. U. Nr 229, poz. 2273, z póên.
+    - **a)** posiadającego tytuł specjalisty w dzie- e) pkt 23 otrzymuje brzmienie: dzinie medycyny rodzinnej lub Ń23) osoba uprawniona do świadczeń opieki
+    - **b)** odbywającego szkolenie specjalizacyjne zdrowotnej na podstawie przepisów o kow dziedzinie medycyny rodzinnej, lub ordynacji — osobę, która nie jest ubezpiec) posiadającego specjalizację II stopnia czona w Funduszu i posiada prawo do w dziedzinie medycyny ogólnej świadczeń opieki zdrowotnej na podstawie ustawodawstwa innego niż Rzeczpospolita — udzielającego świadczeń w zakresie Polska państwa członkowskiego Unii Europodstawowej opieki zdrowotnej, z którym pejskiej lub państwa członkowskiego EuroFundusz zawarł umowę o udzielanie pejskiego Porozumienia oWolnym Handlu świadczeń opieki zdrowotnej albo który (EFTA), a której przysługują na terytorium jest zatrudniony lub wykonuje zawód Rzeczypospolitej Polskiej świadczenia uświadczeniodawcy, zktórym Fundusz za- opieki zdrowotnej z ubezpieczenia zdrowarł umowę o udzielanie świadczeń pod- wotnego na podstawie przepisów o koorstawowej opieki zdrowotnej;”, dynacji;”,
+    - **b)** po pkt 14 dodaje się pkt 14a w brzmieniu:
+    - **f)** pkt 25 otrzymuje brzmienie: Ń14a) migracja ubezpieczonych — korzystanie przez ubezpieczonych oraz osoby upraw- Ń25) pielęgniarka podstawowej opieki zdrowotnione do świadczeń opieki zdrowotnej na nej — pielęgniarkę, która ukończyła szkolepodstawie przepisów okoordynacji, zare- nie specjalizacyjne wdziedzinie pielęgniarjestrowanych w danym oddziale woje- stwa: rodzinnego, pediatrycznego, środowódzkim Funduszu, ze świadczeń opieki wiskowego, środowiskowo-rodzinnego, zdrowotnej udzielanych przez świadcze- przewlekle chorych i niepełnosprawnych, niodawców, którzy zawarli umowy ——————— oudzielanie świadczeń opieki zdrowotnej z innymi oddziałami wojewódzkimi Funduszu, lub nabywanie przez ubezpieczonych oraz osoby uprawnione do świadDziennik Ustaw Nr 166 — 11944 — Poz. 1172 opieki długoterminowej, w ochronie zdro- świadczeń zdrowotnych, określone w rozwia pracujących, środowiska nauczania porządzeniu Rady (EWG) nr 1408/71 z dnia i wychowania, zachowawczego, promocji 14 czerwca 1971 r. w sprawie stosowania zdrowia iedukacji zdrowotnej lub ukończy- systemów zabezpieczenia społecznego do ła kurs kwalifikacyjny w dziedzinie pielę- pracowników najemnych, osób prowadzągniarstwa: rodzinnego, pediatrycznego, cych działalność na własny rachunek i do środowiskowego, środowiskowo-rodzin- członków ich rodzin przemieszczających nego, przewlekle chorych iniepełnospraw- się we Wspólnocie i rozporządzeniu Rady nych, opieki długoterminowej, w ochronie (EWG) nr 574/72 z dnia 21 marca 1972 r.
+    - **g)** pkt 28 otrzymuje brzmienie: wewnętrznych, Ministra Sprawiedliwości lub Szefa Agencji Bezpieczeństwa WeŃ28) położna podstawowej opieki zdrowotnej wnętrznego, posiadającą w strukturze orga— położną, która ukończyła szkolenie spe- nizacyjnej ambulatorium, ambulatorium cjalizacyjne w dziedzinie pielęgniarstwa: z izbą chorych lub lekarza podstawowej rodzinnego, środowiskowego, środowi- opieki zdrowotnej,”;
+    - **h)** pkt 32 otrzymuje brzmienie: Ń32) przepisy o koordynacji — przepisy o koordynacji systemów zabezpieczenia społecznego w zakresie udzielania rzeczowych Dziennik Ustaw Nr 166 — 11945 — Poz. 1172
 
-- **15a)** Narodowy Rachunek Zdrowia – zestawienie wszystkich wydatków na ochronę zdrowia, uwzględniające źródła finansowania ochrony zdrowia, dostawców usług medycznych oraz funkcje tych usług, oparte na zasadach przejrzystości i rzetelności gromadzonych danych; ” , pkt 20 otrzymuje brzmienie: „
-    - **d)**
+2. Informacje o programach zdrowotnych, ustawy zdnia 29 czerwca 1995 r. ostatystyo których mowa w ust. 1 pkt 3, ce publicznej (Dz. U. Nr 88, poz. 439, art.7ust.1pkt 1, art.8pkt1iart.9pkt1, z póên. zm. ). zawierają wszczególności: 1c. Zakład Ubezpieczeń Społecznych, Kasa
 
-- **20)** osoba pobierająca emeryturę lub rentę – osobę objętą zaopatrzeniem emerytalnym lub rentowym, pobierającą rentę socjalną albo rentę strukturalną na podstawie ustawy z dnia 26 kwietnia 2001 r. o rentach strukturalnych w rolnictwie (Dz. U. Nr 52, poz. 539, z 2003 r. Nr 229, poz. 2273 oraz z 2004 r. Nr 91, poz. 873) lub ustawy z dnia 28 listopada 2003 r. o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej (Dz. U. Nr 229, poz. 2273, z późn. zm.), oraz osobę otrzymującą emeryturę lub rentę z zagranicy; ” , pkt 23 otrzymuje brzmienie: „
-    - **e)**
+- **1)** nazwę programu zdrowotnego; Rolniczego Ubezpieczenia Społecznego, Główny Urząd Statystyczny, organy admi2) określenie jednostki samorządu te- nistracji rządowej, organy jednostek samorytorialnego opracowującej, wdra- rządu terytorialnego, świadczeniodawcy żającej, realizującej i finansującej oraz inne instytucje podejmujące czynnoprogram zdrowotny; ści w zakresie organizowania, finansowa3) rodzaj i zakres świadczeń opieki nia i udzielania świadczeń opieki zdrowotzdrowotnej udzielanych w ramach nej finansowanych ze środków publicznych programu zdrowotnego. udzielają nieodpłatnie informacji koniecznych do obliczeń, o których mowa
 
-- **23)** osoba uprawniona do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji – osobę, która nie jest ubezpieczona w Funduszu i posiada prawo do świadczeń opieki zdrowotnej na podstawie ustawodawstwa innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA), a której przysługują na terytorium Rzeczypospolitej Polskiej świadczenia opieki zdrowotnej z ubezpieczenia zdrowotnego na podstawie przepisów o koordynacji; ” , pkt 25 otrzymuje brzmienie: „
-    - **f)**
+3. Minister właściwy do spraw zdrowia w ust.1a. określi, w drodze rozporządzenia, spo- 1d. Na potrzeby obliczeń, o których mowa sób oraz terminy przekazywania infor- w ust. 1a, przez świadczenia opieki zdromacji oprogramach zdrowotnych oraz wotnej udzielane w ramach ubezpieczenia wzór dokumentu zawierającego te in- zdrowotnego należy rozumieć wszystkie formacje, biorąc pod uwagę zakres da- świadczenia opieki zdrowotnej, których nych określonych w ust. 2.”; koszt został poniesiony przez jednostki należące do sektora finansów publicznych,
 
-- **25)** pielęgniarka podstawowej opieki zdrowotnej – pielęgniarkę, która ukończyła szkolenie specjalizacyjne w dziedzinie pielęgniarstwa: rodzinnego, pediatrycznego, środowiskowego, środowiskowo-rodzinnego, przewlekle chorych i niepełnosprawnych, opieki długoterminowej, w ochronie zdrowia pracujących, środowiska nauczania i wychowania, zachowawczego, promocji zdrowia i edukacji zdrowotnej lub ukończyła kurs kwalifikacyjny w dziedzinie pielęgniarstwa: rodzinnego, pediatrycznego, środowiskowego, środowiskowo-rodzinnego, przewlekle chorych i niepełnosprawnych, opieki długoterminowej, w ochronie zdrowia pracujących, środowiska nauczania i wychowania, zachowawczego, promocji zdrowia i edukacji zdrowotnej lub odbywa szkolenie specjalizacyjne w dziedzinie pielęgniarstwa: rodzinnego, pediatrycznego, opieki długoterminowej, środowiska nauczania i wychowania, zachowawczego, promocji zdrowia i edukacji zdrowotnej lub odbywa kurs kwalifikacyjny w dziedzinie pielęgniarstwa: rodzinnego, pediatrycznego, opieki długoterminowej, środowiska nauczania i wychowania, zachowawczego, promocji zdrowia i edukacji zdrowotnej lub posiada tytuł zawodowy magistra pielęgniarstwa oraz co najmniej trzyletni staż pracy w podstawowej opiece zdrowotnej, będącą świadczeniodawcą, z którym Fundusz zawarł umowę o udzielanie świadczeń opieki zdrowotnej, albo która jest zatrudniona lub wykonuje zawód u świadczeniodawcy, z którym Fundusz zawarł umowę o udzielanie świadczeń opieki zdrowotnej; ” , pkt 28 otrzymuje brzmienie: „
-    - **g)**
+- **5)** w art. 11: wymienione w przepisach o finansach publicznych.”, wego do spraw zdrowia, w tym medycznych czynności ratunkowych wyko- 6) w art. 12: nywanych przez lotnicze zespoły ratow- a) wprowadzenie do wyliczenia otrzymuje brzmienictwa medycznego, o których mowa nie: w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycz- ŃPrzepisy ustawy nie naruszają przepisów nym, w stosunku do osób uprawnio- o świadczeniach opieki zdrowotnej udzielanych nych do świadczeń opieki zdrowotnej bezpłatnie bez względu na uprawnienia z tytułu na podstawie przepisów o koordy- ubezpieczenia zdrowotnego przez zakłady opienacji;”, ki zdrowotnej na podstawie:”, — pkt 9 otrzymuje brzmienie: b) uchyla się pkt 1; Ń9) przedkładanie Sejmowi Rzeczypospolitej 7) po art. 12 dodaje się art. 12a w brzmieniu: Polskiej do dnia 31 sierpnia następnego ŃArt. 12a. Przepisów ustawy, z wyłączeniem przeroku sprawozdania rocznego z działalno- pisów określających zasady itryb finanści Funduszu przygotowanego w trybie, sowania z budżetu państwa świadczeń o którym mowa w art. 187.”, opieki zdrowotnej oraz przepisów określających prawo do świadczeń opieki
+    - **a)** w ust. 1:
+    - **c)** w ust. 2 pkt 2 otrzymuje brzmienie: — po pkt 4 dodaje się pkt 4a w brzmieniu: Ń2) zatwierdzanie sprawozdania finansowego Ń4a) finansowanie świadczeń wysokospecja- Funduszu, po zasięgnięciu opinii ministra listycznych w zakresie i na zasadach właściwego do spraw zdrowia, oraz przedokreślonych wprzepisach wydanych na kładanie sprawozdania wraz z opinią minipodstawie art. 15 ust. 3 oraz innych stra właściwego do spraw zdrowia Sejmowi świadczeń opieki zdrowotnej finanso- Rzeczypospolitej Polskiej do dnia 31 sierpwanych z budżetu państwa, z części po- nia roku następującego po roku, którego to zostającej wdyspozycji ministra właści- sprawozdanie dotyczy.”;
+    - **b)** po ust. 1 dodaje się ust. 1a—1d w brzmieniu: zdrowotnej na podstawie przepisów o koordynacji, nie stosuje się wobec Ń1a. Minister właściwy do spraw zdrowia obli- osób, którym świadczenia zdrowotne są cza średnie koszty, o których mowa udzielane bezpłatnie, bez względu na w art.94 i 95 rozporządzenia Rady (EWG) ——————— nr 574/72, uwzględniając w szczególności Narodowy Rachunek Zdrowia.
 
-- **28)** położna podstawowej opieki zdrowotnej – położną, która ukończyła szkolenie specjalizacyjne w dziedzinie pielęgniarstwa: rodzinnego, środowiskowego, środowisko-rodzinnego oraz promocji zdrowia i edukacji zdrowotnej lub ukończyła kurs kwalifikacyjny w dziedzinie pielęgniarstwa rodzinnego, środowiskowego, środowiskowo-rodzinnego, promocji zdrowia i edukacji zdrowotnej lub odbywa szkolenie specjalizacyjne w dziedzinie pielęgniarstwa: rodzinnego lub promocji zdrowia i edukacji zdrowotnej, lub odbywa kurs kwalifikacyjny w dziedzinie pielęgniarstwa: rodzinnego lub promocji zdrowia i edukacji zdrowotnej lub posiada tytuł zawodowy magistra położnictwa oraz co najmniej trzyletni staż pracy w podstawowej opiece zdrowotnej udzielającą świadczeń w ramach podstawowej opieki zdrowotnej, będącą świadczeniodawcą, z którym Fundusz zawarł umowę o udzielanie świadczeń opieki zdrowotnej albo która jest zatrudniona lub wykonuje zawód u świadczeniodawcy, z którym Fundusz zawarł umowę o udzielanie świadczeń opieki zdrowotnej; ” , pkt 32 otrzymuje brzmienie: „
-    - **h)**
+1b. Narodowy Rachunek Zdrowia opracowywany jest na podstawie badań prowadzonych na zasadzie obowiązku w rozumieniu Dziennik Ustaw Nr 166 — 11946 — Poz. 1172 uprawnienia z tytułu ubezpieczenia b) ust. 4 otrzymuje brzmienie: zdrowotnego, na podstawie art. 102 Ń4. Koszty badania, wydania orzeczenia lub zapkt1iart. 115 § 1ustawy zdnia 6czerw- świadczenia, związanego z orzekaniem ca 1997 r. — Kodeks karny wykonawczy o niezdolności do pracy dla celów rento(Dz. U. Nr 90, poz. 557, z póên. zm. ).”; wych, ustalaniem uprawnień w ramach ubezpieczeń społecznych, są finansowane
 
-- **32)** przepisy o koordynacji – przepisy o koordynacji systemów zabezpieczenia społecznego w zakresie udzielania rzeczowych świadczeń zdrowotnych, określone w rozporządzeniu Rady (EWG) nr 1408/71 z dnia 14 czerwca 1971 r. w sprawie stosowania systemów zabezpieczenia społecznego do pracowników najemnych, osób prowadzących działalność na własny rachunek i do członków ich rodzin przemieszczających się we Wspólnocie i rozporządzeniu Rady (EWG) nr 574/72 z dnia 21 marca 1972 r. w sprawie wykonywania rozporządzenia (EWG) nr 1408/71 w sprawie stosowania systemów zabezpieczenia społecznego do pracowników najemnych, osób prowadzących działalność na własny rachunek i do członków ich rodzin przemieszczających się we Wspólnocie oraz rozporządzeniu Rady (WE) nr 859/2003 z dnia 14 maja 2003 r. rozszerzającym przepisy rozporządzenia (EWG) nr 1408/71 i rozporządzenia (EWG) nr 574/72 na obywateli państw trzecich, którzy nie są jeszcze objęci tymi przepisami wyłącznie ze względu na ich obywatelstwo oraz decyzje wydane na podstawie przepisów powyższych rozporządzeń; ” , w pkt 41 lit. c otrzymuje brzmienie: „ państwową jednostkę budżetową, o której mowa w art. 20 ust. 1 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm.), tworzoną i nadzorowaną przez Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, Ministra Sprawiedliwości lub Szefa Agencji Bezpieczeństwa Wewnętrznego, posiadającą w strukturze organizacyjnej ambulatorium, ambulatorium z izbą chorych lub lekarza podstawowej opieki zdrowotnej, ” ;
-    - **i)**
-    - **c)**
+- **8)** art. 13 otrzymuje brzmienie: przez podmiot, na którego zlecenie zostaje ŃArt. 13. Âwiadczenia opieki zdrowotnej udzielane przeprowadzone badanie, wydane orzeczeświadczeniobiorcom innym niż ubezpie- nie lub zaświadczenie.”; czeni są finansowane zbudżetu państwa, 12) w art. 21: chyba że przepisy odrębne stanowią inaczej.”; a) ust. 1 otrzymuje brzmienie: Ń1. Listy oczekujących na udzielenie świadcze9) po art. 13 dodaje się art. 13a w brzmieniu: nia podlegają okresowej, co najmniej raz ŃArt. 13a. Rada Ministrów określi, w drodze roz- w miesiącu, ocenie: porządzenia, sposób i tryb finansowa- 1) zespołu oceny przyjęć powołanego przez nia zbudżetu państwa świadczeń opieki świadczeniodawcę, który zawarł umowę zdrowotnej: o udzielanie świadczeń opieki zdrowotnej
+- **1)** udzielanych świadczeniobiorcom, — w przypadku szpitali; o których mowa w art. 2 ust. 1 pkt 3, 2) kierownika świadczeniodawcy, który za2) o których mowa w art. 12 pkt 2—5 warł umowę oudzielanie świadczeń opiei w art. 12a ki zdrowotnej — w przypadku świadczeń specjalistycznych w ambulatoryjnej opie— uwzględniając zasady i sposób wy- ce zdrowotnej; datkowania środków publicznych.”; 3) świadczeniodawcy — wprzypadku innym
+- **10)** w art. 15 w ust. 2: niż określone w pkt 1 i 2.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu:
+    - **a)** pkt 13 otrzymuje brzmienie: Ń2a. W przypadku gdy zespół oceny przyjęć Ń13) świadczenia pielęgnacyjne i opiekuńcze;”, działa przy publicznym zakładzie opieki
+    - **b)** po pkt 13 dodaje się pkt 13a w brzmieniu: zdrowotnej, rada społeczna, októrej mowa w art. 44b i 44c ustawy z dnia 30 sierpnia Ń13a) opiekę paliatywną i hospicyjną;”; 1991 r. o zakładach opieki zdrowotnej, może wyznaczyć do zespołu oceny przyjęć
 
-- **4)** art. 10 otrzymuje brzmienie: „
+- **11)** w art. 16: swojego przedstawiciela wykonującego zaa) w ust. 1 pkt 1 otrzymuje brzmienie: wód medyczny i niebędącego zatrudnionym w tym zakładzie.”, Ń1) orzeczenia o zdolności do prowadzenia pojazdów mechanicznych oraz inne orzeczenia c) ust. 3 otrzymuje brzmienie: i zaświadczenia lekarskie wydawane na ży- Ń3. Âwiadczeniodawca, o którym mowa czenie świadczeniobiorcy, jeżeli nie są one w ust.1 pkt 1, wyznacza przewodniczącego związane zdalszym leczeniem, rehabilitacją, zespołu spośród osób, o których mowa niezdolnością do pracy, kontynuowaniem wust. 2, atakże określa tryb pracy zespołu.”, nauki, uczestnictwem dzieci, uczniów, słuchaczy zakładów kształcenia nauczycieli d) w ust. 4 wprowadzenie do wyliczenia otrzymuistudentów wzajęciach sportowych iwzor- je brzmienie: ganizowanym wypoczynku, a także jeżeli ŃDo zadań zespołu oceny przyjęć, kierownika nie są wydawane dla celów pomocy spo- świadczeniodawcy albo świadczeniodawcy, łecznej, orzecznictwa o niepełnosprawności o którym mowa w ust. 1 pkt 3, należy przeprolub uzyskania zasiłku pielęgnacyjnego;”, wadzanie oceny list oczekujących na udzielenie świadczenia pod względem:”, ———————
+    - **e)** ust. 5—7 otrzymują brzmienie: Ń5. Zespół oceny przyjęć sporządza każdorazowo raport z oceny i przedstawia go świadczeniodawcy, októrym mowa wust. 1pkt 1.
 
-**Art. 10.**
+6. Jeżeli u świadczeniodawcy, o którym mowa w ust. 1 pkt 1, nie udziela świadczeń lekarz specjalista w specjalności zabiegowej, to wskład zespołu oceny przyjęć wchodzą osoby, o których mowa w ust. 2 pkt 2 i 3. Dziennik Ustaw Nr 166 — 11947 — Poz. 1172
 
-1. Do zadań wojewody w zakresie zapewnienia równego dostępu do świadczeń opieki zdrowotnej należy w szczególności:
+7. Jeżeli w zakładzie opieki zdrowotnej będą- członkowskim Europejskiego Porocym świadczeniodawcą, o którym mowa zumienia o Wolnym Handlu (EFTA) w ust. 1 pkt 1, działa zespół zarządzania ja- — najtańszym środkiem komunikakością, spełniający warunki określone cji możliwym do zastosowania w ust. 2, wykonuje on zadania, o których w aktualnym stanie zdrowia, mowa w ust. 4 i 5.”; w przypadkach uzasadnionych sta13) w art. 23 ust. 1 otrzymuje brzmienie: nem zdrowia;
 
-- **1)** ocena zabezpieczenia opieki zdrowotnej na terenie województwa;
-- **2)** ocena realizacji zadań z zakresu administracji rządowej realizowanych przez jednostki samorządu terytorialnego;
-- **3)** przekazywanie ministrowi właściwemu do spraw zdrowia, do dnia 15 lutego każdego roku, rocznych informacji o zrealizowanych w ubiegłym roku programach zdrowotnych oraz o programach zdrowotnych planowanych na ten rok.
+- **2)** do miejsca leczenia lub zamieszkaŃ1. Âwiadczeniodawca, o którym mowa w art. 20 nia w kraju — najtańszym środkiem ust. 1, przekazuje co miesiąc, oddziałowi woje- komunikacji możliwym do zastosowódzkiemu Funduszu właściwemu ze względu wania w aktualnym stanie zdrowia, na miejsce udzielania świadczenia, informację gdy przewidywane koszty leczenia zawierającą: za granicą przewyższają koszty
+- **1)** liczbę oczekujących i średni czas oczekiwa- transportu i leczenia w kraju. nia obliczony w sposób określony w przepisach wydanych na podstawie art. 190 ust. 1; 4. Decyzje, o których mowa w ust. 2 i 3,
+- **2)** listy oczekujących na udzielanie świadczeń są ostateczne. Od tych decyzji przysłuwysokospecjalistycznych, na podstawie guje skarga do sądu administracyjneumowy z Funduszem, obejmujące zakres go. przedmiotowy świadczeń oraz dane określo- 5. Minister właściwy do spraw zdrowia, ne w przepisach wydanych na podstawie po zasięgnięciu opinii Prezesa Funduart. 190 ust. 1.”; szu i Naczelnej Rady Lekarskiej, okreś14) art. 25 otrzymuje brzmienie: li, w drodze rozporządzenia, sposób i kryteria ustalania dopuszczalnego ŃArt. 25. 1. Fundusz finansuje koszty leczenia lub czasu oczekiwania na wybrane świadbadań diagnostycznych poza granica- czenia opieki zdrowotnej, uwzględniami kraju, udzielonych zgodnie zprzepi- jąc aktualną, opartą na potwierdzosami o koordynacji, oraz wynikające nych dowodach naukowych, wiedzę z art. 26. i praktykę medyczną, kierując się po2. Prezes Funduszu wydaje świadczenio- trzebą właściwej realizacji przepisów biorcy, osobie uprawnionej do świad- o koordynacji.”; czeń opieki zdrowotnej na podstawie przepisów o koordynacji lub osobie, 15) art. 26 otrzymuje brzmienie: o której mowa w art. 12a, zwanym ŃArt. 26. 1. Prezes Funduszu może na wniosek dalej Ńwnioskodawcą”, na wniosek wnioskodawcy, o którym mowa wnioskodawcy, jego przedstawiciela wart.25, jego przedstawiciela ustawoustawowego lub małżonka, instytucji wego lub małżonka, skierować wnioswłaściwej, instytucji miejsca zamiesz- kodawcę do przeprowadzenia poza kania, instytucji miejsca pobytu lub in- granicami kraju leczenia lub badań stytucji łącznikowej w innym państwie diagnostycznych, których nie przeproczłonkowskim Unii Europejskiej lub w państwie członkowskim Europej- wadza się wkraju, kierując się niezbędskiego Porozumienia o Wolnym Han- nością udzielenia takiego świadczenia dlu (EFTA), zwanym dalej Ńpodmiotem w celu ratowania życia lub poprawy uprawnionym”, zgodę na przeprowa- stanu zdrowia wnioskodawcy. dzenie leczenia lub badań diagnostycz- 2. W przypadkach określonych w ust.1 nych albo kontynuację leczenia lub ba- Prezes Funduszu może wydać wniosdań diagnostycznych w innym pań- kodawcy, na jego wniosek albo na stwie członkowskim Unii Europejskiej wniosek jego przedstawiciela ustawolub wpaństwie członkowskim Europej- wego lub małżonka, zgodę na pokrycie skiego Porozumienia o Wolnym Han- kosztów transportu do miejsca udziedlu (EFTA), w przypadkach o których mowa w przepisach o koordynacji. lenia świadczeń w państwie niebędącym państwem członkowskim Unii
 
-2. Informacje o programach zdrowotnych, o których mowa w ust. 1 pkt 3, art. 7 ust. 1 pkt 1, art. 8 pkt 1 i art. 9 pkt 1, zawierają w szczególności:
+3. Prezes Funduszu lub dyrektor oddziału Europejskiej lub państwem członkowwojewódzkiego Funduszu może wy- skim Europejskiego Porozumienia dać wnioskodawcy, na wniosek pod- o Wolnym Handlu (EFTA) lub do miejmiotu uprawnionego, zgodę na pokry- sca leczenia lub zamieszkania w kraju, cie kosztów transportu: najtańszym środkiem komunikacji
 
-- **1)** nazwę programu zdrowotnego;
-- **2)** określenie jednostki samorządu terytorialnego opracowującej, wdrażającej, realizującej i finansującej program zdrowotny;
-- **3)** rodzaj i zakres świadczeń opieki zdrowotnej udzielanych w ramach programu zdrowotnego.
+- **1)** do miejsca udzielenia świadczeń możliwym do zastosowania w aktualw innym państwie członkowskim nym stanie zdrowia, w przypadkach Unii Europejskiej lub państwie uzasadnionych stanem zdrowia. Dziennik Ustaw Nr 166 — 11948 — Poz. 1172
 
-3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób oraz terminy przekazywania informacji o programach zdrowotnych oraz wzór dokumentu zawierającego te informacje, biorąc pod uwagę zakres danych określonych w ust. 2. ” ;
+3. Decyzje, o których mowa w ust. 1 i 2, właściwego do spraw zdrowia, zapotrzebosą ostateczne. Od tych decyzji przysłu- wania, októrym mowa wart. 4ust. 2ustaguje skarga do sądu administracyj- wy z dnia 6 września 2001 r. — Prawo farnego. maceutyczne.”,
 
-- **5)** w art. 11: w ust. 1: – po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) finansowanie świadczeń wysokospecjalistycznych w zakresie i na zasadach określonych w przepisach wydanych na podstawie art. 15 ust. 3 oraz innych świadczeń opieki zdrowotnej finansowanych z budżetu państwa, z części pozostającej w dyspozycji ministra właściwego do spraw zdrowia, w tym medycznych czynności ratunkowych wykonywanych przez lotnicze zespoły ratownictwa medycznego, o których mowa w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, w stosunku do osób uprawnionych do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji; ” , – pkt 9 otrzymuje brzmienie: „ 9) przedkładanie Sejmowi Rzeczypospolitej Polskiej do dnia 31 sierpnia następnego roku sprawozdania rocznego z działalności Funduszu przygotowanego w trybie, o którym mowa w art. 187. ” , po ust. 1 dodaje się ust. 1a-1d w brzmieniu: „
-    - **a)**
-    - **b)**
+4. Koszty leczenia, badań diagnostycz- c) ust. 5 i 6 otrzymują brzmienie: nych lub transportu wynikające Ń5. Minister właściwy do spraw zdrowia, po zaz ust.1 i 2 są finansowane z budżetu sięgnięciu opinii Prezesa Funduszu, Naczelpaństwa.”; nej Rady Lekarskiej i Naczelnej Rady Aptekarskiej, określi, w drodze rozporządzenia:
 
-1a. Minister właściwy do spraw zdrowia oblicza średnie koszty, o których mowa w art. 94 i 95 rozporządzenia Rady (EWG) nr 574/72, uwzględniając w szczególności Narodowy Rachunek Zdrowia.
+- **16)** po art. 26 dodaje się art. 26a w brzmieniu:
+- **1)** wykaz leków podstawowych i uzupełniaŃArt. 26a. Minister właściwy do spraw zdrowia po jących, zasięgnięciu opinii ministra właściwego 2) wysokość opłaty ryczałtowej za leki poddo spraw wewnętrznych oraz Prezesa stawowe i recepturowe, Funduszu, określi, w drodze rozporządzenia: 3) wysokość odpłatności za leki uzupełniające,
+- **1)** tryb składania i rozpatrywania oraz 4) wykaz leków, które mogą być traktowane wzór wniosku, o którym mowa jako surowce farmaceutyczne przy spow art.25 ust. 2 i 3 oraz w art. 26 rządzaniu leków recepturowych, ust.1 i 2, 5) ilość leku recepturowego, którego dotyczy
+- **2)** tryb pokrywania kosztów, o których opłata ryczałtowa, oraz sposób obliczania mowa w art. 25 ust. 3 i art. 26 kosztu sporządzania leku recepturowego ust.1 i 2 — biorąc pod uwagę stanowiska wyrażone — mając na względzie dobro wniosko- przez Zespół do Spraw Gospodarki Lekami, dawcy oraz zasadność i skuteczność ta- o którym mowa w art. 7 ustawy z dnia 5 lipkiego leczenia lub badania diagnostycz- ca 2001 r. o cenach (Dz. U. Nr 97, poz. 1050, nego poza granicami kraju, a także go- z póên. zm. ), zwany dalej ŃZespołem”, spodarność i celowość wydatkowania a także konieczność zapewnienia ochrony środków publicznych.”; zdrowia społeczeństwa, dostępność do leków oraz bezpieczeństwo ich stosowania,
+- **17)** w art. 36: znaczenie leku wzwalczaniu chorób oznacznym zagrożeniu epidemiologicznym icywilia) ust. 4 otrzymuje brzmienie: zacyjnym, wpływ leku na bezpośrednie koszty leczenia, atakże możliwości płatnicze Ń4. Leki nieposiadające pozwolenia na dopusz- podmiotu zobowiązanego do finansowania czenie do obrotu na terytorium Rzeczypo- świadczeń ze środków publicznych. spolitej Polskiej i sprowadzone z zagranicy na warunkach i w trybie określonych 6. Wykazy, o których mowa w ust. 5 pkt 1, są w art. 4 ustawy z dnia 6 września 2001 r. aktualizowane nie rzadziej niż co 90 dni, je— Prawo farmaceutyczne mogą być wyda- żeli wpłynął co najmniej jeden kompletny wane po wniesieniu przez świadczeniobior- wniosek, o którym mowa w art. 39 ust. 1, cę opłaty ryczałtowej za opakowanie jed- który nie został rozpatrzony negatywnie.”; nostkowe, pod warunkiem wydania zgody 18) w art. 37 ust. 2 i 3 otrzymują brzmienie: na refundację leku przez Prezesa Funduszu, który uwzględnia w szczególności jego sku- Ń2. Minister właściwy do spraw zdrowia, po zasięteczność kliniczną, bezpieczeństwo i cenę gnięciu opinii Prezesa Funduszu, Naczelnej Rawporównaniu zlekami otym samym wska- dy Lekarskiej i Naczelnej Rady Aptekarskiej, zaniu terapeutycznym, posiadającymi po- określi, w drodze rozporządzenia: zwolenie na dopuszczenie do obrotu na te- 1) wykaz chorób, o których mowa w ust. 1, rytorium Rzeczypospolitej Polskiej.”,
+- **2)** dla każdej z chorób, o których mowa rym mowa wart. 39 ust. 1, który nie został rozpatrzony negatywnie.”; 20) w art. 39:
+    - **b)** po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: w ust. 1, wykaz leków i wyrobów medycznych, które ze względu na choroby określoŃ4a. Prezes Funduszu rozpatruje wystąpienie ne w wykazie, o którym mowa w pkt 1, są orefundację leku, októrym mowa wust. 4, przepisywane bezpłatnie, za opłatą ryczałtowterminie nie dłuższym niż 30 dni od dnia wą lub za częściową odpłatnością wystąpienia o refundację tego leku przez — biorąc pod uwagę stanowiska wyrażone wystawiającego zapotrzebowanie lub przez Zespół, atakże konieczność zapewnienia świadczeniobiorcę. ochrony zdrowia społeczeństwa, dostępność 4b. Wystąpieniem o refundację leku, o którym ——————— mowa w ust. 4, jest złożenie przez wystawiającego zapotrzebowanie lub świadczeniobiorcę, potwierdzonego przez ministra Dziennik Ustaw Nr 166 — 11949 — Poz. 1172 do leków i wyrobów medycznych, bezpieczeń- 2) wykazie leków i wyrobów medycznych, stwo ich stosowania oraz możliwości płatnicze o którym mowa w art. 37 ust. 2 pkt 2 podmiotu zobowiązanego do finansowania — uwzględniając w szczególności skuteczświadczeń ze środków publicznych. ność ibezpieczeństwo ich stosowania, atak3. Wykazy, októrych mowa wust. 2, są aktualizo- że możliwości płatnicze podmiotu zobowiąwane nie rzadziej niż co 90 dni, jeżeli wpłynął zanego do finansowania świadczeń ze środco najmniej jeden kompletny wniosek, o któ- ków publicznych.”;
+    - **a)** ust. 1 otrzymuje brzmienie:
 
-1b. Narodowy Rachunek Zdrowia opracowywany jest na podstawie badań prowadzonych na zasadzie obowiązku w rozumieniu ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. Nr 88, poz. 439, z późn. zm.).
+- **19)** w art. 38: Ń1. Podmiot odpowiedzialny, przedstawiciel sanego leku. 1b. Wnioski są rozpatrywane według kolejno4b. Przepis ust. 4 i 4a stosuje się odpowiednio ści ich wpływu. do wyrobów medycznych.”, 1c. Minister właściwy do spraw zdrowia, ustac) ust. 5 i 6 otrzymują brzmienie: lając wykazy, o których mowa w art. 36 ust.5pkt 1iart. 37 ust. 2pkt 2, może dokoŃ5. Jeżeli w wykazach, o których mowa nywać, w drodze decyzji, weryfikacji pod wart.36 ust. 5pkt 1iart. 37 ust. 2pkt 2, za- względem zasadności pozostawania leku mieszczono lek o nazwie międzynarodowej lub wyrobu medycznego w określonym lub własnej, apteka może wydać, na zasa- wykazie, na podstawie kryteriów, októrych dach określonych w art. 36 ust. 1, art. 37 mowa w ust. 2 pkt 3—10, 12 i 13. ust. 1iart. 43—46, również inny lek dopuszczony do obrotu, niezamieszczony w tych 1d. Decyzja ministra właściwego do spraw wykazach, a o tej samej nazwie międzyna- zdrowia, októrej mowa wust. 1c, jest ostarodowej lub własnej, tej samej dawce, wiel- teczna. Od decyzji przysługuje skarga do kości opakowania i drodze podania, pod sądu administracyjnego. warunkiem że jego cena nie jest wyższa od 1e. Dokonanie weryfikacji, o której mowa limitu ceny, a jeżeli limit nie został ustalony w ust. 1c, stanowi podstawę aktualizacji — od ceny leku zamieszczonego w wyka- wykazów, o których mowa w art. 36 ust.5 zach. pkt 1 i art. 37 ust. 2 pkt 2.
+    - **a)** ust. 4 otrzymuje brzmienie: podmiotu odpowiedzialnego oraz importer Ń4. Apteka ma obowiązek poinformować świad- równoległy, w rozumieniu ustawy z dnia czeniobiorcę o możliwości nabycia leku, in- 6września 2001 r. — Prawo farmaceutyczne, nego niż lek przepisany na recepcie, otej sa- atakże wytwórca wyrobów medycznych, jemej nazwie międzynarodowej, dawce, po- go autoryzowany przedstawiciel albo imstaci farmaceutycznej lub postaci farmaceu- porter, w rozumieniu ustawy z dnia tycznej zbliżonej, która nie powoduje po- 20 kwietnia 2004 r. owyrobach medycznych wstania różnic terapeutycznych, i o tym sa- (Dz. U. Nr 93, poz. 896 oraz z 2005 r. Nr 64, mym wskazaniu terapeutycznym, którego poz. 565), zwani dalej Ńwnioskodawcą”, mocena nie przekracza limitu ceny. Apteka ma że przez pierwszych siedem dni każdego obowiązek posiadać ten lek.”, kwartału składać do ministra właściwego do spraw zdrowia wniosek o umieszczenie leb) po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: ków lub wyrobów medycznych wwykazach, Ń4a. Apteka ma obowiązek na żądanie świad- októrych mowa wart. 36 ust. 5pkt 1iart. 37 czeniobiorcy wydać lek, którego cena jest ust. 2 pkt 2.”, niższa niż cena leku przepisanego na re- b) po ust. 1 dodaje się ust. 1a—1g w brzmieniu: cepcie. Nie dotyczy to sytuacji, w której wystawiający receptę dokonał odpowied- Ń1a. W przypadku złożenia wniosku w terminie niej adnotacji na druku recepty, wskazując póêniejszym niż określony w ust. 1, wniosna niemożność dokonania zamiany przepi- ek ten jest zwracany wnioskodawcy.
 
-1c. Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego, Główny Urząd Statystyczny, organy administracji rządowej, organy jednostek samorządu terytorialnego, świadczeniodawcy oraz inne instytucje podejmujące czynności w zakresie organizowania, finansowania i udzielania świadczeń opieki zdrowotnej finansowanych ze środków publicznych udzielają nieodpłatnie informacji koniecznych do obliczeń, o których mowa w ust. 1a.
+6. Minister właściwy do spraw zdrowia, po za- 1f. Po rozpatrzeniu wniosków, októrych mowa sięgnięciu opinii Prezesa Funduszu, Naczel- w ust. 1, minister właściwy do spraw zdronej Rady Lekarskiej i Naczelnej Rady Apte- wia zamieszcza na stronie internetowej karskiej, określi, wdrodze rozporządzenia, li- urzędu obsługującego ministra właściwemity cen leków posiadających tę samą na- go do spraw zdrowia wysokość limitów zwę międzynarodową oraz leków o różnych cen leków iwyrobów medycznych wwykanazwach międzynarodowych, ale o podob- zach, o których mowa w art. 36 ust.5 nym działaniu terapeutycznym, a także wy- pkt1 i art. 37 ust. 2 pkt 2. robów medycznych wymienionych w: 1g. Wnioskodawca może, w terminie 7 dni od
 
-1d. Na potrzeby obliczeń, o których mowa w ust. 1a, przez świadczenia opieki zdrowotnej udzielane w ramach ubezpieczenia zdrowotnego należy rozumieć wszystkie świadczenia opieki zdrowotnej, których koszt został poniesiony przez jednostki należące do sektora finansów publicznych, wymienione w przepisach o finansach publicznych. ” , w ust. 2 pkt 2 otrzymuje brzmienie: „
+- **1)** wykazach leków podstawowych i uzupeł- dnia zamieszczenia na stronie internetowej niających, októrych mowa wart. 36 ust.5 urzędu obsługującego ministra właściwepkt 1, go do spraw zdrowia wysokości limitów Dziennik Ustaw Nr 166 — 11950 — Poz. 1172 cen leków iwyrobów medycznych wwyka- 2c. Opłaty, o których mowa w ust. 2a i 2b, są zach, o których mowa w art. 36 ust. 5 wnoszone na rachunek urzędu obsługująpkt1 i art. 37 ust. 2 pkt 2, zaproponować cego ministra właściwego do spraw zdrocenę niższą niż cena określona we wnios- wia i stanowią dochód budżetu państwa.”, ku, o której mowa w ust. 2 pkt 3.”,
+    - **e)** ust. 3 otrzymuje brzmienie:
+    - **c)** ust. 2 otrzymuje brzmienie: Ń3. Wnioski określone w ust. 1 rozpatruje ZeŃ2. Wniosek, o którym mowa w ust. 1, zawiera: spół.”,
 
-- **c)**
-- **2)** zatwierdzanie sprawozdania finansowego Funduszu, po zasięgnięciu opinii ministra właściwego do spraw zdrowia, oraz przedkładanie sprawozdania wraz z opinią ministra właściwego do spraw zdrowia Sejmowi Rzeczypospolitej Polskiej do dnia 31 sierpnia roku następującego po roku, którego to sprawozdanie dotyczy. ” ;
-- **6)** w art. 12: wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przepisy ustawy nie naruszają przepisów o świadczeniach opieki zdrowotnej udzielanych bezpłatnie bez względu na uprawnienia z tytułu ubezpieczenia zdrowotnego przez zakłady opieki zdrowotnej na podstawie: ” , uchyla się pkt 1;
-    - **a)**
-    - **b)**
+- **1)** oznaczenie (firmę) wnioskodawcy, jego siedzibę i adres; f) uchyla się ust. 5,
+- **2)** nazwę oraz szczegółowe informacje do- g) ust. 6 i 7 otrzymują brzmienie: tyczące leku lub wyrobu medycznego; Ń6. Wniosek rozpatruje się wciągu 90 dni, licząc
+- **3)** proponowaną cenę; od dnia jego złożenia, ztym że wprzypadku
+- **4)** średnią cenę sprzedaży w Rzeczypospo- konieczności uzupełnienia danych niezbędlitej Polskiej w ciągu ostatnich dwóch nych do umieszczenia danego leku iwyrobu lat, w podziale na poszczególne lata, je- medycznego we właściwym wykazie termin żeli dotyczy; ten ulega zawieszeniu do dnia otrzymania
+- **5)** ceny w innych państwach członkow- uzupełnienia danych. W przypadku gdy skich Unii Europejskiej; wniosek nie zawiera wymaganych danych,
+- **6)** wielkość realizowanych dostaw w okre- minister właściwy do spraw zdrowia niesie poprzedzającym złożenie wniosku, zwłocznie informuje wnioskodawcę o kojeżeli dotyczy; nieczności ich uzupełnienia w wyznaczo7) udowodnioną dostępność do leku lub nym terminie. wyrobu medycznego w chwili składania 7. W przypadku gdy procedura umieszczenia wniosku; leku lub wyrobu medycznego w wykazach,
+- **8)** zobowiązanie do zapewnienia ciągłości októrych mowa wart. 36 ust. 5pkt 1iart. 37 dostaw, w przypadku umieszczenia leku ust. 2pkt 2, występuje łącznie zrozpatrywalub wyrobu medycznego w wykazach, niem informacji lub wniosku o ustalenie ceo których mowa w art. 36 ust. 5 ny urzędowej, o których mowa w art.6 pkt1 i art. 37 ust. 2 pkt 2; ust.1ustawy zdnia 5lipca 2001 r. ocenach,
+- **9)** dzienny koszt terapii; łączny termin rozpatrywania wniosków lub
+- **10)** średni koszt i czas standardowej terapii; informacji nie powinien przekroczyć 180 dni.
+- **11)** numer pozwolenia oraz kopię decyzji W przypadku konieczności uzupełnienia dadopuszczenia do obrotu, jeżeli dotyczy; nych niezbędnych do rozpatrzenia wnios12) uzasadnienie wniosku i proponowanej ków łącznie lub w przypadku zwrócenia się ceny; wnioskodawcy do ministra właściwego do
+- **13)** analizę skuteczności klinicznej iefektyw- spraw zdrowia o ponowne rozpatrzenie ności kosztowej oraz analizę wpływu na wniosku, októrym mowa wust. 1, bieg tego ogólne koszty refundacji dla leku, które- terminu ulega zawieszeniu odpowiednio do go substancja czynna nie jest umiesz- dnia otrzymania uzupełnienia danych albo czona w wykazach, o których mowa do dnia otrzymania wniosku oponowne rozwart. 36 ust. 5pkt 1iart. 37 ust. 2pkt 2, patrzenie albo upływu terminu do złożenia oraz analizę wpływu na ogólne koszty tego wniosku.”, refundacji dla leku, którego substancja h) po ust. 7 dodaje się ust. 7a i 7b w brzmieniu: czynna jest umieszczona w wykazach, o których mowa w art. 36 ust.5 Ń7a. W przypadku złożenia w okresie, w jakim pkt1 i art. 37 ust. 2 pkt 2, i dla jego od- dany wniosek o ustalenie ceny urzędowej powiednika.”, powinien być rozpatrzony, wniosków w liczbie przekraczającej 10 % przeciętnej Dziennik Ustaw Nr 166 — 11951 — Poz. 1172 7b. Jeżeli wniosek w sprawie zmiany ceny dla 4) wyjazdach krajowych lub zagraleku lub wyrobu medycznego znajdujące- nicznych, jeżeli ich koszt nie został go się w wykazach, o których mowa pokryty przez zgłaszającego inforwart.36 ust. 5pkt 1iart. 37 ust. 2pkt 2, nie macje lub jego małżonka albo inzostanie rozpatrzony w terminie, o którym stytucje ich zatrudniające; mowa w ust. 6, z uwzględnieniem ust. 7a, 5) innych uzyskanych korzyściach, to wnioskowaną cenę uwzględnia się o wartościach większych niż wskaw przepisach wydanych na podstawie zane w pkt 3, niezwiązanych z zajart. 5 ust. 4 ustawy z dnia 5 lipca 2001 r. mowaniem stanowisk lub wykonyocenach, zgodnie zart. 5ust. 4c tej ustawy.”, waniem zajęć albo pracy zawodowej, o których mowa w pkt 1. dania oraz format przekazywanych danych, 5. Przy podawaniu informacji zgłaszająz uwzględnieniem przepisów ust. 2, mając cy informacje jest obowiązany zachona względzie zapewnienie jednolitości za- wać największą staranność ikierować kresu i rodzaju danych.”; się swoją najlepszą wiedzą.
+    - **d)** po ust. 2 dodaje się ust. 2a—2c w brzmieniu: liczby wniosków będących podstawą ustaŃ2a. Złożenie wniosku, októrym mowa wust. 1, lenia poprzednich wykazów cen urzędopodlega opłacie wkwocie 400zł, która jest wych, o których mowa w art. 5 ust. 4 waloryzowana w każdym roku prognozo- pkt 1ustawy zdnia 5lipca 2001 r. ocenach, wanym średniorocznym wskaênikiem cen termin jego rozpatrzenia może być jednotowarów i usług ogółem, przyjętym razowo przedłużony o 60 dni. W takim w ustawie budżetowej. przypadku Zespół niezwłocznie informuje 2b. Uzupełnienie wniosku, o którym mowa wnioskodawcę o przedłużeniu terminu, w ust. 1, podlega opłacie w kwocie 200 zł, o którym mowa w ust. 6. Podstawą ustalektóra jest waloryzowana w każdym roku nia przeciętnej liczby wniosków jest średprognozowanym średniorocznym wskaêni- nia liczba wniosków będących podstawą kiem cen towarów i usług ogółem, przyję- ustalenia trzech poprzednich wykazów cen tym w ustawie budżetowej. urzędowych.
+    - **i)** uchyla się ust. 8, 4. Do Rejestru należy także zgłaszać informacje oudziale worganach fundaj) ust. 9 otrzymuje brzmienie: cji, spółek handlowych lub spółdzielŃ9. Minister właściwy do spraw zdrowia określi, ni, nawet wówczas, gdy z tego tytułu w drodze rozporządzenia, wzór wniosku, nie pobiera się żadnych świadczeń o którym mowa w ust. 1, sposób jego skła- pieniężnych.
 
-- **7)** po art. 12 dodaje się art. 12a w brzmieniu: „
+- **21)** po art. 39 dodaje się art. 39a—39c w brzmieniu: 6. Informacje do Rejestru są zgłaszane za każdy rok kalendarzowy do dnia ŃArt. 39a. 1. Tworzy się Rejestr Korzyści, zwany 31stycznia roku następnego. dalej ŃRejestrem”.
 
-**Art. 12a.** Przepisów ustawy, z wyłączeniem przepisów określających zasady i tryb finansowania z budżetu państwa świadczeń opieki zdrowotnej oraz przepisów określających prawo do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, nie stosuje się wobec osób, którym świadczenia zdrowotne są udzielane bezpłatnie, bez względu na uprawnienia z tytułu ubezpieczenia zdrowotnego, na podstawie art. 102 pkt 1 i art. 115 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm.). ” ;
+7. Wszystkie zmiany informacji objętych
 
-**Art. 13.** Świadczenia opieki zdrowotnej udzielane świadczeniobiorcom innym niż ubezpieczeni są finansowane z budżetu państwa, chyba że przepisy odrębne stanowią inaczej. ” ;
+2. W Rejestrze ujawniane są korzyści Rejestrem należy zgłosić nie póêniej uzyskiwane przez członków grup i ze- niż wterminie 30 dni od dnia zaistniespołów biorących udział w pracach nia okoliczności powodujących obonad przygotowaniem wykazów, októ- wiązek zmiany informacji objętych rych mowa w art. 36 ust. 5 pkt 1 Rejestrem. i art. 37 ust. 2 pkt 2. 8. Nowo powołani członkowie grup ize3. Do Rejestru należy zgłaszać informa- społów, o których mowa w ust. 2, cje o: zgłaszają informacje, októrych mowa
 
-**Art. 25.**
+- **1)** wszystkich pełnionych i zajmowa- wust. 3i4, wterminie 30 dni od dnia ich powołania, za okres 12 miesięcy nych stanowiskach izajęciach, zty- poprzedzających dzień powołania. tułu których pobiera się wynagrodzenie, oraz pracy zawodowej wy- 9. Rejestr jest jawny. Rejestr prowadzi konywanej na własny rachunek; minister właściwy do spraw zdrowia.
+- **2)** faktach materialnego wspierania 10. Minister właściwy do spraw zdrowia działalności publicznej prowadzo- raz w roku podaje do publicznej wianej przez zgłaszającego informacje; domości w Biuletynie Informacji
+- **3)** darowiênie, jeżeli jej wartość prze- Publicznej informacje objęte Rejestrem. kracza 20 % przeciętnego wyna- 11. W przypadku niezgłoszenia informagrodzenia w gospodarce narodo- cji do Rejestru w terminie, o którym wej w poprzednim roku kalenda- mowa w ust. 6 albo ust. 8, lub nierzowym ogłaszanego przez Preze- zgłoszenia zmian danych objętych sa Głównego Urzędu Statystyczne- Rejestrem w terminie, o którym mogo na podstawie art. 20 pkt 1 lit. a wa w ust. 7, członka grupy albo zeustawy z dnia 17 grudnia 1998 r. społu, o których mowa w ust. 2, odo emeryturach i rentach z Fundu- wołuje się niezwłocznie. szu Ubezpieczeń Społecznych 12. Informacje, o których mowa w ust.3 (Dz.U. z 2004 r. Nr 39, poz. 353, i 4, obejmują również informacje z póên. zm. ); o korzyściach uzyskanych przez mał——————— żonka członka grupy albo zespołu, o których mowa w ust. 2.
 
-1. Fundusz finansuje koszty leczenia lub badań diagnostycznych poza granicami kraju, udzielonych zgodnie z przepisami o koordynacji, oraz wynikające z art. 26.
+13. Informacje, o których mowa w ust.3 i 4, są przechowywane w Rejestrze przez 10 lat od dnia powołania członka grupy albo zespołu, o których mowa w ust. 2. Dziennik Ustaw Nr 166 — 11952 — Poz. 1172
 
-2. Prezes Funduszu wydaje świadczeniobiorcy, osobie uprawnionej do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji lub osobie, o której mowa w art. 12a, zwanym dalej „wnioskodawcą”, na wniosek wnioskodawcy, jego przedstawiciela ustawowego lub małżonka, instytucji właściwej, instytucji miejsca zamieszkania, instytucji miejsca pobytu lub instytucji łącznikowej w innym państwie członkowskim Unii Europejskiej lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA), zwanym dalej „podmiotem uprawnionym”, zgodę na przeprowadzenie leczenia lub badań diagnostycznych albo kontynuację leczenia lub badań diagnostycznych w innym państwie członkowskim Unii Europejskiej lub w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA), w przypadkach o których mowa w przepisach o koordynacji.
+**Art. 39b.**
 
-3. Prezes Funduszu lub dyrektor oddziału wojewódzkiego Funduszu może wydać wnioskodawcy, na wniosek podmiotu uprawnionego, zgodę na pokrycie kosztów transportu:
+1. Osoby niebędące członkami grup lub 2. Osoba przedstawiająca receptę do rezespołów, o których mowa w art. 39a alizacji jest obowiązana do okazania ust. 2, przed przyjęciem zlecenia na dokumentu, o którym mowa w ust. 1. przygotowanie ekspertyzy albo innego opracowania dla grupy lub zespo- 3. Osoba realizująca receptę jest obowiąłu, są obowiązane każdorazowo do zana do odnotowania na rewersie rezłożenia do Rejestru oświadczenia za- cepty numeru irodzaju dokumentu powierającego informacje, o których twierdzającego uprawnienia, októrych mowa wart. 39a ust. 3i4, za ostatnie mowa w ust. 1. 12 miesięcy poprzedzających złożenie 4. Minister właściwy do spraw zdrowia, oświadczenia. po zasięgnięciu opinii Prezesa Fundu2. Zlecenia można udzielić wyłącznie szu, Naczelnej Rady Lekarskiej i Naosobie, która złożyła oświadczenie, czelnej Rady Aptekarskiej, określi, o którym mowa w ust. 1. w drodze rozporządzenia, wykaz le3. Do osób, o których mowa w ust. 1, ków, które świadczeniobiorca posiadaprzepisy art. 39a ust. 5, 10, 12 i13 sto- jący tytuł ŃZasłużonego Honorowego suje się odpowiednio. Dawcy Krwi” lub ŃZasłużonego Dawcy Przeszczepu” może stosować w związArt. 39c. Minister właściwy do spraw zdrowia ku z oddawaniem krwi lub w związku określi, w drodze rozporządzenia: z oddawaniem szpiku lub innych rege1) wzór zgłoszenia do Rejestru informa- nerujących się komórek i tkanek albo cji, októrych mowa wart. 39a ust.3i4, narządów, uwzględniając w szczegól2) wzór oświadczenia, o którym mowa ności konieczność zapewnienia ochrow art. 39b ust. 1, ny jego zdrowia, dostępność do leków,
 
-- **1)** do miejsca udzielenia świadczeń w innym państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – najtańszym środkiem komunikacji możliwym do zastosowania w aktualnym stanie zdrowia, w przypadkach uzasadnionych stanem zdrowia;
-- **2)** do miejsca leczenia lub zamieszkania w kraju – najtańszym środkiem komunikacji możliwym do zastosowania w aktualnym stanie zdrowia, gdy przewidywane koszty leczenia za granicą przewyższają koszty transportu i leczenia w kraju.
+- **3)** sposób prowadzenia i wzór Rejestru bezpieczeństwo ich stosowania oraz możliwości płatnicze podmiotu zobo— mając na uwadze zakres niezbędnych wiązanego do finansowania świadczeń danych zawartych w Rejestrze lub opieki zdrowotnej ze środków publiczoświadczeniu.”; nych.”;
+- **22)** art. 43 otrzymuje brzmienie:
+- **23)** w art. 44 dodaje się ust. 5 w brzmieniu: ŃArt. 43. 1. Âwiadczeniobiorcy, który posiada tytuł ŃZasłużonego Honorowego Dawcy Ń5. Osoba realizująca receptę jest obowiązana odKrwi” lub ŃZasłużonego Dawcy Prze- notować na rewersie recepty numer i rodzaj szczepu” i przedstawi legitymację dokumentu potwierdzającego uprawnienia, ŃZasłużonego Honorowego Dawcy o których mowa w ust. 1.”; Krwi” lub ŃZasłużonego Dawcy Przeszczepu”, przysługuje bezpłatne, do wy- 24) w art. 45 dodaje się ust. 5a w brzmieniu: sokości limitu, októrym mowa wart. 38 Ń5a. Osoba realizująca receptę jest obowiązana ust. 1, zaopatrzenie w leki objęte wykazami: odnotować na rewersie recepty numer i rodzaj dokumentu potwierdzającego uprawnie1) leków podstawowych i uzupełniają- nia, o których mowa w ust. 1.”; cych, o których mowa w art. 36 ust.5 pkt 1, 25) w art. 46:
+- **2)** leków, które świadczeniobiorca posiadający tytuł ŃZasłużonego Hono- a) ust. 1 otrzymuje brzmienie: rowego Dawcy Krwi” lub ŃZasłużo- Ń1. Inwalidom wojennym oraz osobom reprenego Dawcy Przeszczepu” może sto- sjonowanym, ich małżonkom pozostającym sować w związku z oddawaniem na ich wyłącznym utrzymaniu oraz wdokrwi lub w związku z oddawaniem wom i wdowcom po poległych żołnierzach szpiku lub innych regenerujących i zmarłych inwalidach wojennych oraz ososię komórek i tkanek albo narządów bach represjonowanych, uprawnionym do — na podstawie recepty wystawionej renty rodzinnej, przysługuje bezpłatne zaprzez lekarza ubezpieczenia zdrowotne- opatrzenie w leki oznaczone symbolami go albo felczera ubezpieczenia zdrowot- ŃRp” lub ŃRpz”, dopuszczone do obrotu na nego lub lekarza albo felczera niebędą- terytorium Rzeczypospolitej Polskiej.”, cego lekarzem albo felczerem ubezpie- b) dodaje się ust. 6 w brzmieniu: czenia zdrowotnego, jeżeli posiada uprawnienia do wykonywania zawodu Ń6. Osoba realizująca receptę jest obowiązana oraz zawarł z oddziałem wojewódzkim do odnotowania na rewersie recepty numeFunduszu umowę upoważniającą go do ru i rodzaju dokumentu potwierdzającego wystawiania takich recept. uprawnienia, o których mowa w ust. 1.”; Dziennik Ustaw Nr 166 — 11953 — Poz. 1172
+- **26)** po art. 47b dodaje się art. 47c w brzmieniu: 6. Karta ubezpieczenia zdrowotnego jest wydawana bezpłatnie. W przypadku ŃArt. 47c. Osoby, o których mowa w art. 43 ust. 1, utraty karty ubezpieczenia zdrowotneinwalidzi wojenni i wojskowi oraz kom- go za wydanie nowej karty pobiera się batanci mają prawo do korzystania poza opłatę w wysokości 1,5 % minimalnekolejnością ze świadczeń opieki zdro- go wynagrodzenia. wotnej oraz z usług farmaceutycznych udzielanych w aptekach.”; 7. Dyrektor oddziału wojewódzkiego Funduszu może, wszczególnie uzasad27) w art. 48 ust. 4 i 5 otrzymują brzmienie: nionych przypadkach, zwolnić ubezŃ4. W przypadku programów zdrowotnych reali- pieczonego z obowiązku ponoszenia zowanych przez inne niż Fundusz podmioty, opłaty, o której mowa w ust. 6. Przepio których mowa w ust. 1, wyboru realizatora sy art. 109 i 110 stosuje się odpowiedprogramu zdrowotnego dokonuje się wdrodze nio. konkursu ofert, z zastrzeżeniem odrębnych 8. W przypadku posługiwania się kartą przepisów. ubezpieczenia zdrowotnego lub innym
 
-4. Decyzje, o których mowa w ust. 2 i 3, są ostateczne. Od tych decyzji przysługuje skarga do sądu administracyjnego.
+5. O przeprowadzeniu konkursu ofert, o którym dokumentem potwierdzającym prawo mowa w ust. 4, podmiot, o którym mowa do świadczeń opieki zdrowotnej przez wust. 1, ogłasza wswojej siedzibie ina swojej osobę, która utraciła to prawo w okrestronie internetowej co najmniej na 15 dni sie ważności karty lub dokumentu, przed upływem wyznaczonego terminu skła- osoba ta jest obowiązana do zwrotu dania ofert.”; poniesionych przez Fundusz kosztów świadczeń opieki zdrowotnej udzielo28) art. 49 otrzymuje brzmienie: nych po utracie prawa do tych świadczeń. ŃArt. 49. 1. Dokumentem potwierdzającym prawo ubezpieczonego do świadczeń opieki 9. Rada Ministrów określi, w drodze rozzdrowotnej oraz umożliwiającym po- porządzenia: twierdzanie wykonania świadczeń 1) wzór karty ubezpieczenia zdrowotopieki zdrowotnej jest karta ubezpie- nego oraz sposób jej wykonania, czenia zdrowotnego. uwzględniając przepisy Unii Euro2. Karta ubezpieczenia zdrowotnego jest pejskiej w sprawie wzoru Europejkartą typu elektronicznego. skiej Karty Ubezpieczenia Zdrowotnego,
 
-5. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu i Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia, sposób i kryteria ustalania dopuszczalnego czasu oczekiwania na wybrane świadczenia opieki zdrowotnej, uwzględniając aktualną, opartą na potwierdzonych dowodach naukowych, wiedzę i praktykę medyczną, kierując się potrzebą właściwej realizacji przepisów o koordynacji. ” ;
+3. Karta ubezpieczenia zdrowotnego za- 2) wzór wniosku owydanie karty ubezwiera wszczególności następujące da- pieczenia zdrowotnego, ne:
 
-- **15)** art. 26 otrzymuje brzmienie: „
+- **3)** szczegółowy zakres danych zawar1) imię (imiona) i nazwisko; tych na karcie ubezpieczenia zdro2) datę urodzenia; wotnego oraz ich format,
+- **4)** tryb wydawania i anulowania karty
+- **3)** numer PESEL, awprzypadku niepo- ubezpieczenia zdrowotnego siadania numeru PESEL — numer paszportu lub innego dokumentu — uwzględniając konieczność identyfipotwierdzającego tożsamość; kacji ubezpieczonych, potwierdzania prawa ubezpieczonych do świadczeń
+- **4)** numer identyfikacyjny instytucji opieki zdrowotnej i elektronicznego ubezpieczenia zdrowotnego; potwierdzania wykonanych świad5) dwuznakowy kod ISO 3166-1 dla czeń, konieczność zapewnienia przejRzeczypospolitej Polskiej; rzystości danych zawartych na karcie ubezpieczenia zdrowotnego oraz
+- **6)** datę ważności karty; sprawność postępowania w sprawie
+- **7)** numer identyfikacyjny karty. wydawania i anulowania karty ubezpieczenia zdrowotnego.
 
-**Art. 26.**
+4. Funkcję karty ubezpieczenia zdrowotnego może pełnić również inny doku- 10. Rozporządzenie, o którym mowa ment typu elektronicznego, oile zawie- w ust. 9, może także określać dokura dane wskazane w ust. 3 pkt 1—3 menty mogące pełnić funkcję karty oraz spełnia funkcje, o których mowa ubezpieczenia zdrowotnego, uwzględw ust. 1. niając możliwość potwierdzenia przez te dokumenty prawa do świadczeń
 
-1. Prezes Funduszu może na wniosek wnioskodawcy, o którym mowa w art. 25, jego przedstawiciela ustawowego lub małżonka, skierować wnioskodawcę do przeprowadzenia poza granicami kraju leczenia lub badań diagnostycznych, których nie przeprowadza się w kraju, kierując się niezbędnością udzielenia takiego świadczenia w celu ratowania życia lub poprawy stanu zdrowia wnioskodawcy.
+5. Karta ubezpieczenia zdrowotnego mo- opieki zdrowotnej oraz funkcję poże pełnić funkcję Europejskiej Karty twierdzenia udzielenia tych świadUbezpieczenia Zdrowotnego. czeń.”; Dziennik Ustaw Nr 166 — 11954 — Poz. 1172
 
-2. W przypadkach określonych w ust. 1 Prezes Funduszu może wydać wnioskodawcy, na jego wniosek albo na wniosek jego przedstawiciela ustawowego lub małżonka, zgodę na pokrycie kosztów transportu do miejsca udzielenia świadczeń w państwie niebędącym państwem członkowskim Unii Europejskiej lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) lub do miejsca leczenia lub zamieszkania w kraju, najtańszym środkiem komunikacji możliwym do zastosowania w aktualnym stanie zdrowia, w przypadkach uzasadnionych stanem zdrowia.
+- **29)** art. 51 otrzymuje brzmienie: 2. Decyzja, o której mowa w ust. 1, poŃArt. 51. 1. Wcelu potwierdzenia prawa do świad- winna zawierać numer PESEL świadczeń opieki zdrowotnej przysługują- czeniobiorcy. cych świadczeniobiorcy lub osobie 3. Decyzję, októrej mowa wust. 1, wydauprawnionej do świadczeń opieki je się po: zdrowotnej na podstawie przepisów 1) przedłożeniu przez świadczeniobioro koordynacji, zgodnie z przepisami cę, o którym mowa w ust. 1, dokuo koordynacji, na terytorium innego mentów potwierdzających: niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub a) posiadanie obywatelstwa polpaństwa członkowskiego Europejskie- skiego, go Porozumienia o Wolnym Handlu b) zamieszkiwanie na terytorium (EFTA), oddział wojewódzki Funduszu Rzeczypospolitej Polskiej; wydaje Europejską Kartę Ubezpieczenia Zdrowotnego lub zaświadczenie 2) przeprowadzeniu rodzinnego wyo prawie do tych świadczeń. wiadu środowiskowego;
 
-3. Decyzje, o których mowa w ust. 1 i 2, są ostateczne. Ód tych decyzji przysługuje skarga do sądu administracyjnego.
+2. Europejską Kartę Ubezpieczenia Zdro- 3) stwierdzeniu spełniania kryterium wotnego i zaświadczenie, o którym dochodowego, o którym mowa mowa w ust. 1, wydaje się na zasa- w art. 8 ustawy z dnia 12 marca dach i w zakresie określonych w prze- 2004r. o pomocy społecznej; pisach o koordynacji. 4) stwierdzeniu braku okoliczności,
 
-4. Koszty leczenia, badań diagnostycznych lub transportu wynikające z ust. 1 i 2 są finansowane z budżetu państwa. ” ;
+3. Zaświadczenie określone w ust. 1 dla o której mowa w art. 12 ustawy osób, o których mowa w art. 66 z dnia 12 marca 2004 r. o pomocy ust. 1 pkt 16 i art. 67 ust. 7, zamieszka- społecznej, wwyniku przeprowadzełych na terytorium innego niż Rzeczpo- nia rodzinnego wywiadu środowispolita Polska państwa członkowskie- skowego, októrym mowa wpkt2. go Unii Europejskiej lub państwa 4. Decyzję, októrej mowa wust. 1, wydaczłonkowskiego Europejskiego Poro- je się na wniosek świadczeniobiorcy, zumienia o Wolnym Handlu (EFTA), a w przypadku stanu nagłego — na wydaje Mazowiecki Oddział Woje- wniosek świadczeniodawcy udzielająwódzki Funduszu. cego świadczenia opieki zdrowotnej,
 
-- **16)** po art. 26 dodaje się art. 26a w brzmieniu: „ Minister właściwy do spraw zdrowia po zasięgnięciu opinii ministra właściwego do spraw wewnętrznych oraz Prezesa Funduszu, określi, w drodze rozporządzenia:
-- **1)** tryb składania i rozpatrywania oraz wzór wniosku, o którym mowa w art. 25 ust. 2 i 3 oraz w art. 26 ust. 1 i 2,
-- **2)** tryb pokrywania kosztów, o których mowa w art. 25 ust. 3 i art. 26 ust. 1 i 2 mając na względzie dobro wnioskodawcy oraz zasadność i skuteczność takiego leczenia lub badania diagnostycznego poza granicami kraju, a także gospodarność i celowość wydatkowania środków publicznych. ” ;
-- **17)** w art. 36: ust. 4 otrzymuje brzmienie: „
-    - **a)**
+4. Przepisy wydane na podstawie art. 49 złożony niezwłocznie po udzieleniu ust. 9 pkt 4 stosuje się odpowiednio.”; świadczenia.
 
-4. Leki nieposiadające pozwolenia na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej i sprowadzone z zagranicy na warunkach i w trybie określonych w art. 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne mogą być wydawane po wniesieniu przez świadczeniobiorcę opłaty ryczałtowej za opakowanie jednostkowe, pod warunkiem wydania zgody na refundację leku przez Prezesa Funduszu, który uwzględnia w szczególności jego skuteczność kliniczną, bezpieczeństwo i cenę w porównaniu z lekami o tym samym wskazaniu terapeutycznym, posiadającymi pozwolenie na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej. ” , po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „
+5. Wójt (burmistrz, prezydent) gminy wła30) art. 53 otrzymuje brzmienie: ściwej ze względu na miejsce zamieszŃArt. 53. 1. Dokumentem potwierdzającym prawo kania świadczeniobiorcy może wszcząć do świadczeń opieki zdrowotnej osoby postępowanie w celu wydania decyzji, uprawnionej do świadczeń opieki októrej mowa wust. 1, również zurzęzdrowotnej na podstawie przepisów du lub na wniosek właściwego oddziao koordynacji jest poświadczenie wy- łu wojewódzkiego Funduszu. dawane przez Fundusz lub dokument 6. W przypadku wydania decyzji, o której potwierdzający prawo do tych świad- mowa w ust. 1, z urzędu lub na wniosczeń, wystawiony przez zagraniczną ek właściwego oddziału wojewódzkieinstytucję właściwą. go Funduszu wójt (burmistrz, prezy2. Jeżeli poświadczenie albo dokument, dent) gminy właściwej ze względu na o których mowa w ust. 1, nie zostaną miejsce zamieszkania świadczeniobiorprzedstawione w przypadku: cy jest obowiązany dostarczyć nie1) stanu nagłego, zwłocznie kopię tej decyzji właściwemu oddziałowi wojewódzkiemu Funduszu.
 
-- **b)**
+- **2)** porodu 7. Prawo do świadczeń opieki zdrowotnej — przepisy art. 50 ust. 2—4, 6, 8i9sto- na podstawie decyzji, o której mowa suje się odpowiednio.”; wust. 1, przysługuje przez okres 90 dni od dnia określonego wdecyzji, którym
+- **31)** art. 54 otrzymuje brzmienie: jest: ŃArt. 54. 1. Dokumentem potwierdzającym prawo 1) dzień złożenia wniosku, do świadczeń opieki zdrowotnej świadczeniobiorcy, o którym mowa 2) w przypadku udzielania świadczeń w art. 2 ust. 1 pkt 2, jest decyzja wójta wstanie nagłym — dzień udzielenia (burmistrza, prezydenta) gminy wła- świadczenia ściwej ze względu na miejsce zamiesz- — chyba że w tym okresie świadczekania świadczeniobiorcy, potwierdza- niobiorca zostanie objęty ubezpieczejąca to prawo. niem zdrowotnym. Dziennik Ustaw Nr 166 — 11955 — Poz. 1172
 
-4a. Prezes Funduszu rozpatruje wystąpienie o refundację leku, o którym mowa w ust. 4, w terminie nie dłuższym niż 30 dni od dnia wystąpienia o refundację tego leku przez wystawiającego zapotrzebowanie lub świadczeniobiorcę.
+8. W przypadku wydania decyzji, o której 1) od poziomu obrotu lekami lub wymowa w ust. 1, z urzędu przez wójta robami medycznymi podlegający(burmistrza, prezydenta) gminy wła- mi refundacji ze środków publiczściwej ze względu na miejsce zamiesz- nych; kania świadczeniobiorcy, prawo do 2) od takich działań tych osób, które świadczeń opieki zdrowotnej przysłu- prowadzą do zwiększenia poziomu guje od dnia określonego w decyzji sprzedaży leków lub wyrobów meprzez okres 90 dni od tego dnia. dycznych podlegających refunda9. Wójt (burmistrz, prezydent) gminy cji ze środków publicznych. właściwej ze względu na miejsce zamieszkania świadczeniobiorcy, o któ- 2. Lekarz ubezpieczenia zdrowotnego, rym mowa wart. 7ust. 2, niezwłocznie felczer ubezpieczenia zdrowotnego stwierdza wygaśnięcie decyzji, októrej oraz lekarz lub felczer niebędący lekamowa w ust. 1, w przypadku gdy rzem albo felczerem ubezpieczenia wokresie, októrym mowa wust. 7i8: zdrowotnego, którzy posiadają uprawnienia do wykonywania zawo1) świadczeniobiorca zostanie objęty du oraz zawarli z oddziałem wojeubezpieczeniem zdrowotnym lub wódzkim Funduszu umowę upoważ2) wprzypadku wystąpienia okoliczno- niającą do wystawiania recept na leki ści, o których mowa w ust. 10. podlegające refundacji ze środków
 
-4b. Wystąpieniem o refundację leku, o którym mowa w ust. 4, jest złożenie przez wystawiającego zapotrzebowanie lub świadczeniobiorcę, potwierdzonego przez ministra właściwego do spraw zdrowia, zapotrzebowania, o którym mowa w art. 4 ust. 2 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne. ” , ust. 5 i 6 otrzymują brzmienie: „
+10. Âwiadczeniobiorca, o którym mowa publicznych, nie mogą żądać lub w art. 7 ust. 2, jest obowiązany nie- przyjmować nieuzasadnionej korzyści zwłocznie poinformować wójta (bur- majątkowej dla siebie lub osoby trzemistrza, prezydenta) gminy właściwej ciej, w zamian za wykonanie lub poze względu na swoje miejsce zamiesz- wstrzymanie się od wykonania obokania o: wiązku służbowego, które prowadzą do zwiększenia poziomu sprzedaży
 
-- **c)**
+- **1)** każdej zmianie w sytuacji dochodo- leków lub wyrobów medycznych wej lub majątkowej; podlegających refundacji ze środków
+- **2)** objęciu ubezpieczeniem zdrowot- publicznych. nym.
 
-5. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej i Naczelnej Rady Aptekarskiej, określi, w drodze rozporządzenia:
+3. Osoby zaopatrujące świadczeniodaw11. Wójt (burmistrz, prezydent) gminy cę w leki i wyroby medyczne oraz właściwej ze względu na miejsce za- świadczeniodawcy nie mogą żądać mieszkania świadczeniobiorcy może lub przyjmować nieuzasadnionej koupoważnić kierownika ośrodka pomo- rzyści majątkowej dla siebie lub osocy społecznej do załatwiania spraw by trzeciej, w zamian za wykonanie i wydawania decyzji w jego imieniu lub powstrzymanie się od wykonania dotyczących potwierdzania prawa do obowiązku służbowego, jeżeli jej uzyświadczeń opieki zdrowotnej. skanie jest uzależnione od zakupu le12. Przepisów ust. 1—11 nie stosuje się do ku lub wyrobu medycznego podlegamedycznych czynności ratunkowych jącego finansowaniu ze środków puudzielanych świadczeniobiorcom innym blicznych. niż ubezpieczeni przez jednostki syste- 4. Zabrania się oferowania, obiecywamu, o których mowa w art. 32 ust.1 nia lub udzielania korzyści, o których pkt 2 ustawy z dnia 8 września2006 r. mowa w ust. 1—3. o Państwowym Ratownictwie Medycznym, wwarunkach pozaszpitalnych.”; Art. 63b. 1. Kierownik apteki jest obowiązany, w ramach kontroli, o której mowa
 
-- **1)** wykaz leków podstawowych i uzupełniających,
-- **2)** wysokość opłaty ryczałtowej za leki podstawowe i recepturowe,
-- **3)** wysokość odpłatności za leki uzupełniające,
-- **4)** wykaz leków, które mogą być traktowane jako surowce farmaceutyczne przy sporządzaniu leków recepturowych,
-- **5)** ilość leku recepturowego, którego dotyczy opłata ryczałtowa, oraz sposób obliczania kosztu sporządzania leku recepturowego biorąc pod uwagę stanowiska wyrażone przez Zespół do Spraw Gospodarki Lekami, o którym mowa w art. 7 ustawy z dnia 5 lipca 2001 r. o cenach (Dz. U. Nr 97, poz. 1050, z późn. zm.), zwany dalej „Zespołem”, a także konieczność zapewnienia ochrony zdrowia społeczeństwa, dostępność do leków oraz bezpieczeństwo ich stosowania, znaczenie leku w zwalczaniu chorób o znacznym zagrożeniu epidemiologicznym i cywilizacyjnym, wpływ leku na bezpośrednie koszty leczenia, a także możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych.
+- **32)** w art. 57 w ust. 2 pkt 10 otrzymuje brzmienie: w art. 189, udostępnić podmiotowi Ń10) dla inwalidów wojennych iwojskowych, osób zobowiązanemu do finansowania represjonowanych oraz kombatantów;”; świadczeń opieki zdrowotnej ze środków publicznych, w terminie określo33) po art. 63 dodaje się art. 63a—63c w brzmieniu: nym przez ten podmiot, informacje o treści każdej umowy, w tym także ŃArt. 63a. 1. Osoby prowadzące obrót lekami lub uzgodnienia dokonanego w jakiejkolwyrobami medycznymi oraz osoby wiek formie, pomiędzy apteką a hurświadczące usługi farmaceutyczne townią farmaceutyczną, których cenie mogą żądać lub przyjmować nie- lem jest nabycie leków lub wyrobów uzasadnionej korzyści majątkowej dla medycznych. siebie lub osoby trzeciej, wzamian za wykonanie lub powstrzymanie się od 2. W razie stwierdzenia, na podstawie wykonania obowiązku służbowego, informacji, o których mowa w ust. 1, jeżeli jej uzyskanie jest uzależnione naruszenia przepisów art. 63a podbezpośrednio lub pośrednio: miot zobowiązany do finansowania Dziennik Ustaw Nr 166 — 11956 — Poz. 1172 świadczeń ze środków publicznych do finansowania świadczeń ze środków niezwłocznie powiadamia o tym wo- publicznych może zlecić, w razie potrzeby, jewódzkiego inspektora farmaceu- osobie posiadającej wykształcenie medycztycznego i Głównego Inspektora Far- ne odpowiadające zakresowi prowadzonej maceutycznego. kontroli, awprzypadku konieczności zbada3. Podmiot realizujący zaopatrzenie nia lub rozstrzygnięcia określonych zagadw zakresie środków pomocniczych nień wymagających specjalnych kwalifikacji i wyrobów medycznych będących — powołać specjalistę w danej dziedzinie.”, przedmiotami ortopedycznymi jest c) po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: obowiązany, w ramach kontroli, Ń5a. Osoba przeprowadzająca kontrolę, zwana o której mowa w art. 64, udostępnić dalej Ńkontrolerem”, może sporządzać lub podmiotowi zobowiązanemu do zażądać od świadczeniodawcy sporządzefinansowania świadczeń ze środków nia niezbędnych odpisów lub wyciągów publicznych, w terminie określonym zdokumentów, jak również zestawień iobprzez ten podmiot, informacje otreści liczeń sporządzanych na podstawie dokukażdej umowy, wtym także uzgodnie- mentów. nia dokonanego w jakiejkolwiek formie, pomiędzy podmiotem adostaw- 5b. Zgodność z oryginałami dokumentów, odcą, których celem jest nabycie środ- pisów i wyciągów oraz zestawień i oblików pomocniczych i wyrobów me- czeń, októrych mowa wart. 5a, potwierdza dycznych będących przedmiotami or- świadczeniodawca lub osoba przez niego topedycznymi. upoważniona. W przypadku odmowy, potwierdzenia dokonuje kontroler.”,
 
-6. Wykazy, o których mowa w ust. 5 pkt 1, są aktualizowane nie rzadziej niż co 90 dni, jeżeli wpłynął co najmniej jeden kompletny wniosek, o którym mowa w art. 39 ust. 1, który nie został rozpatrzony negatywnie. ” ;
+**Art. 63c.**
 
-- **18)** w art. 37 ust. 2 i 3 otrzymują brzmienie: „
+1. Przedsiębiorca zajmujący się wytwarzaniem lub obrotem lekami lub wy- d) ust. 6 otrzymuje brzmienie: robami medycznymi podlegającymi Ń6. Z przebiegu przeprowadzonej kontroli sporefundacji ze środków publicznych rządza się protokół, który jest podpisywany nie może: przez kontrolera i świadczeniodawcę.”,
 
-2. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej i Naczelnej Rady Aptekarskiej, określi, w drodze rozporządzenia:
+- **1)** różnicować cen tych leków lub wy- e) po ust. 6 dodaje się ust. 6a—6f w brzmieniu: robów medycznych w umowach z hurtowniami farmaceutycznymi, Ń6a. Âwiadczeniodawca może w terminie 7 dni w tym także stosować uciążliwych od dnia otrzymania protokołu kontroli zgłolub niejednolitych warunków tych sić na piśmie zastrzeżenia do tego protokołu. umów; 6b. Zastrzeżenia do protokołu kontroli rozpa2) uzależniać zawarcia umowy od truje kontroler wterminie 14 dni. Kontroler przyjęcia lub spełnienia przez hur- dokonuje ich analizy i w miarę potrzeby townię farmaceutyczną innego podejmuje dodatkowe czynności kontrolświadczenia, niemającego rzeczo- ne, awprzypadku stwierdzenia zasadności wego ani zwyczajowego związku zastrzeżeń zmienia lub uzupełnia odpoz przedmiotem umowy. wiednią część protokołu kontroli.
 
-- **1)** wykaz chorób, o których mowa w ust. 1,
-- **2)** dla każdej z chorób, o których mowa w ust. 1, wykaz leków i wyrobów medycznych, które ze względu na choroby określone w wykazie, o którym mowa w pkt 1, są przepisywane bezpłatnie, za opłatą ryczałtową lub za częściową odpłatnością biorąc pod uwagę stanowiska wyrażone przez Zespół, a także konieczność zapewnienia ochrony zdrowia społeczeństwa, dostępność do leków i wyrobów medycznych, bezpieczeństwo ich stosowania oraz możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych.
+6c. W razie nieuwzględnienia zastrzeżeń w ca2. Czynności prawne sprzeczne z ust. 1 łości lub w części kontroler niezwłocznie są w całości lub w odpowiedniej czę- przekazuje na piśmie swoje stanowisko ści nieważne. zgłaszającemu zastrzeżenia.
 
-3. Wykazy, o których mowa w ust. 2, są aktualizowane nie rzadziej niż co 90 dni, jeżeli wpłynął co najmniej jeden kompletny wniosek, o którym mowa w art. 39 ust. 1, który nie został rozpatrzony negatywnie. ” ;
+3. Przepisy ust. 1 i 2 stosuje się do 6d. Âwiadczeniodawca może odmówić podpiumów zawieranych pomiędzy pod- sania protokołu, składając wterminie 7dni miotem realizującym zaopatrzenie od dnia jego otrzymania pisemne wyjaw zakresie środków pomocniczych śnienie tej odmowy. i wyrobów medycznych będących 6e. O odmowie podpisania protokołu kontroli przedmiotami ortopedycznymi do- i złożeniu wyjaśnienia kontroler czyni stawcom tych środków i wyrobów.”; wzmiankę w protokole.
 
-- **19)** w art. 38: ust. 4 otrzymuje brzmienie: „
-    - **a)**
+- **34)** w art. 64: 6f. Odmowa podpisania protokołu przez
+    - **a)** wust. 1wpkt 4kropkę zastępuje się średnikiem świadczeniodawcę nie stanowi przeszkody i dodaje pkt 5 w brzmieniu: do podpisania protokołu przez kontrolera i realizacji ustaleń kontroli.”, Ń5) dokumentacji medycznej dotyczącej świadczeń opieki zdrowotnej finansowanych ze f) ust. 7 otrzymuje brzmienie: środków publicznych.”, Ń7. Podmiot zobowiązany do finansowania świadczeń ze środków publicznych sporząb) ust. 4 otrzymuje brzmienie: dza wystąpienie pokontrolne zawierające Ń4. Kontrolę dokumentacji medycznej oraz jako- ocenę działalności kontrolowanego świadści i zasadności udzielanych świadczeń czeniodawcy izalecenia pokontrolne wrazie opieki zdrowotnej podmiot zobowiązany stwierdzenia nieprawidłowości.”, Dziennik Ustaw Nr 166 — 11957 — Poz. 1172
+    - **g)** ust. 9 otrzymuje brzmienie: 38) w art. 73: Ń9. Âwiadczeniodawca jest obowiązany, wtermi- a) pkt 17 otrzymuje brzmienie: nie 14 dni od dnia otrzymania wystąpienia pokontrolnego albo od dnia otrzymania infor- Ń17) osób, o których mowa w art. 66 ust. 1 macji o nieuwzględnieniu zastrzeżeń, do po- pkt 35, powstaje z dniem powołania na informowania podmiotu zobowiązanego do członka rady nadzorczej, a wygasa w dniu finansowania świadczeń ze środków publicz- zaprzestania pełnienia tej funkcji;”, nych o sposobie wykonania zaleceń pokon- b) po pkt 17 dodaje się pkt 17a w brzmieniu: trolnych oraz o podjętych działaniach lub Ń17a) ławników sądowych, o których mowa przyczynach niepodjęcia tych działań.”; wart. 66 ust. 1pkt 15a, powstaje zdniem
 
-4. Apteka ma obowiązek poinformować świadczeniobiorcę o możliwości nabycia leku, innego niż lek przepisany na recepcie, o tej samej nazwie międzynarodowej, dawce, postaci farmaceutycznej lub postaci farmaceutycznej zbliżonej, która nie powoduje powstania różnic terapeutycznych, i o tym samym wskazaniu terapeutycznym, którego cena nie przekracza limitu ceny. Apteka ma obowiązek posiadać ten lek. ” , po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „
+- **35)** w art. 66: wyboru na stanowisko ławnika sądowego, a wygasa z dniem upływu kadencji Ń15a) ławnicy sądowi niepodlegający obo- 39) w art. 75: wiązkowi ubezpieczenia zdrowotnego a) po ust. 3 dodaje się ust. 3a w brzmieniu: z innego tytułu;”, — pkt 34 otrzymuje brzmienie: Ń3a. Osoby, o których mowa w art. 66 ust. 1 pkt 15a, zgłasza do ubezpieczenia zdrowotŃ34) rolnicy iich domownicy, którzy nie pod- nego sąd, w którym ławnik pełni swoją legają ubezpieczeniu społecznemu rol- funkcję.”, ników z mocy ustawy z dnia 20 grudnia 1990 r. oubezpieczeniu społecznym rol- b) ust. 17 otrzymuje brzmienie: ników, niepodlegający obowiązkowi Ń17. Osoby, o których mowa w art. 66 ust. 1 ubezpieczenia zdrowotnego na podsta- pkt 35, zgłasza do ubezpieczenia zdrowotwie pkt 1—33 i 35;”, nego podmiot, w którym działa rada nad— pkt 35 otrzymuje brzmienie: zorcza.”; Ń35) członkowie rad nadzorczych posiadają- 40) w art. 77: cy miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej.”, a) wust. 2po pkt 4dodaje się pkt 4a wbrzmieniu: nik przebywający na urlopie bezpłatnym lub 41) w art. 80 ust. 2 i 3 otrzymują brzmienie: osoba niewymieniona w art. 66 ust. 1, do której ma zastosowanie art. 13 ust. 2 lit. f rozpo- Ń2. Rolnik prowadzący działalność wzakresie dziarządzenia Rady (EWG) nr 1408/71 w sprawie łów specjalnych produkcji rolnej wrozumieniu stosowania systemów zabezpieczenia społecz- ustawy zdnia 20 grudnia 1990 r. oubezpieczenego do pracowników najemnych, osób pro- niu społecznym rolników opłaca ponadto wadzących działalność na własny rachunek składki na ubezpieczenie zdrowotne od deklai do członków ich rodzin przemieszczających rowanej podstawy wymiaru składki: się we Wspólnocie (Dz. Urz. WE L 149 1) odpowiadającej dochodowi ustalonemu dla z05.07.1971, str. 2, zpóên. zm.; Dz. Urz. UE Pol- opodatkowania podatkiem dochodowym od skie wydanie specjalne, rozdz. 5, t. 1, str. 35), osób fizycznych, wkwocie nie niższej jednak może ubezpieczyć się dobrowolnie na podsta- niż kwota odpowiadająca wysokości miniwie pisemnego wniosku złożonego w Fundu- malnego wynagrodzenia; szu, jeżeli ma miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej.”; 2) odpowiadającej minimalnemu wynagrodzeniu, w przypadku prowadzenia działalności
+    - **a)** w ust. 1: lub wcześniejszego wygaśnięcia manda— po pkt 15 dodaje się pkt 15a w brzmieniu: tu.”;
+    - **b)** ust. 2 otrzymuje brzmienie: Ń4a) płeć;”, Ń2. Status członka rodziny osoby ubezpieczonej b) w ust. 3 wprowadzenie do wyliczenia otrzymuoraz status członka rodziny będącego osobą je brzmienie: uprawnioną do świadczeń opieki zdrowot- ŃW przypadku zgłoszenia do ubezpieczenia nej na podstawie przepisów o koordynacji zdrowotnego członków rodzin, októrych mowa zwalnia z obowiązku ubezpieczenia zdro- wart. 3ust. 2pkt 5i6, podmiot obowiązany do wotnego osoby, o których mowa w ust. 1 zgłoszenia ubezpieczonego przesyła odpowiedpkt 17—20, 26—28, 30 i 33.”; nio do Zakładu Ubezpieczeń Społecznych albo do Kasy Rolniczego Ubezpieczenia Społeczne36) w art. 68 ust. 1 otrzymuje brzmienie: go dane wymienione w ust. 2 oraz następujące Ń1. Osoba niewymieniona wart. 66 ust. 1, pracow- dane dotyczące członka rodziny:”;
 
-- **b)**
+- **37)** w art. 69 ust. 3 otrzymuje brzmienie: niepodlegającej opodatkowaniu podatkiem Ń3. Pracownik korzystający z urlopu bezpłatnego dochodowym od osób fizycznych. traci prawo do świadczeń z ubezpieczenia 3. Podstawą wymiaru składki dla rolnika, o któzdrowotnego po upływie 30 dni od dnia rozpo- rym mowa w art. 66 ust. 1 pkt 34, oraz dla doczęcia urlopu.”; mowników, o których mowa w art. 66 Dziennik Ustaw Nr 166 — 11958 — Poz. 1172 ust. 1 pkt1 lit. b i pkt 34, jest kwota odpowia- 46) w art. 85: dająca wysokości minimalnego wynagrodze- a) ust. 16 otrzymuje brzmienie: nia.”; Ń16. Za członka rady nadzorczej składkę jako
+- **42)** w art. 81 w ust. 8: płatnik oblicza, pobiera zdochodu ubezpieczonego i odprowadza podmiot, w którym ranego zasiłku dla bezrobotnych lub stypendium, a w przypadku niepobierania przez 47) w art. 87: bezrobotnego zasiłku lub stypendium a) ust. 7 otrzymuje brzmienie: — kwota odpowiadająca wysokości zasiłku Ń7. Zakład Ubezpieczeń Społecznych iKasa Roldla bezrobotnych;”, niczego Ubezpieczenia Społecznego przekac) pkt 6 otrzymuje brzmienie: zują do centrali Funduszu dane o ubezpieczonych oraz zgłoszonych do ubezpieczenia Ń6) osób, októrych mowa wart. 66 ust. 1pkt 25, zdrowotnego członkach rodzin ubezpieczojest kwota zasiłku przedemerytalnego lub nych, określone w art. 188 ust. 4 pkt 1, świadczenia przedemerytalnego, a w przy- 7—9 i 13, oraz o opłaconych za nich składpadku niepobierania zasiłku przedemerytal- kach na ubezpieczenie zdrowotne, przekazanego lub świadczenia przedemerytalnego ne w zgłoszeniu, o którym mowa w art. 77 — kwota odpowiadająca wysokości świad- ust. 1 i 3, i w imiennym raporcie miesięczczenia przedemerytalnego;”, nym, oraz o odsetkach za zwłokę, nie póêniej niż w ciągu 15 dni roboczych od dnia Ń10a. Do 10. dnia każdego miesiąca organ pro44) w art. 83 uchyla się ust. 4—6; wadzący centralną ewidencję PESEL przekazuje do centrali Funduszu w formie
+    - **a)** po pkt 1 dodaje się pkt 1a w brzmieniu: działa rada nadzorcza.”, Ń1a) osób, o których mowa w art. 66 ust. 1 b) dodaje się ust. 17 w brzmieniu: pkt 15a, jest kwota uzyskiwanej diety;”, Ń17. Za osobę, o której mowa w art. 66
+    - **b)** pkt 5 otrzymuje brzmienie: ust.1 pkt15a, składkę jako płatnik oblicza, Ń5) osób, októrych mowa wart. 66 ust. 1pkt 24, pobiera z dochodu ubezpieczonego i odjest kwota odpowiadająca wysokości pobie- prowadza sąd, wktórym ławnik pełni swoją funkcję.”;
+    - **d)** pkt 12 otrzymuje brzmienie: wpływu składek iodsetek oraz dokumentów Ń12) osób, o których mowa w art. 66 ust. 1 umożliwiających ustalenie ich wysokości pkt 35, jest kwota przychodu wrozumieniu i rozdzielenie ich na ubezpieczonych.”, przepisów o podatku dochodowym od b) ust. 9 otrzymuje brzmienie: osób fizycznych otrzymywanego z tytułu pełnionej funkcji.”; Ń9. Zakład Ubezpieczeń Społecznych iKasa Rolniczego Ubezpieczenia Społecznego przeka43) w art. 82 ust. 2 otrzymuje brzmienie: zują do centrali Funduszu dane, o których mowa wart. 188 ust. 4pkt 1, 3, 4, 7—10 i13, Ń2. Wprzypadku gdy wramach jednego ztytułów zawarte w zgłoszeniu, o którym mowa do objęcia obowiązkiem ubezpieczenia zdro- w art.77 ust. 1 i 3, po przeprowadzeniu ich wotnego wymienionych w art. 66 ust. 1 ubez- weryfikacji polegającej na stwierdzeniu ich pieczony uzyskuje więcej niż jeden przychód, zgodności z danymi objętymi ewidencją składka na ubezpieczenie zdrowotne jest opła- PESEL.”, cana od każdego z uzyskanych przychodów c) po ust. 10 dodaje się ust. 10a i10b wbrzmieniu: odrębnie.”;
 
-4a. Apteka ma obowiązek na żądanie świadczeniobiorcy wydać lek, którego cena jest niższa niż cena leku przepisanego na recepcie. Nie dotyczy to sytuacji, w której wystawiający receptę dokonał odpowiedniej adnotacji na druku recepty, wskazując na niemożność dokonania zamiany przepisanego leku.
+- **45)** w art. 84 dodaje się ust. 3 w brzmieniu: elektronicznej: Ń3. Przy opłacaniu składki na ubezpieczenie zdro- 1) zbiór nowo nadanych w poprzednim wotne ubezpieczony wymieniony w ust. 2 po- miesiącu numerów PESEL i odpowiadaje: dające im: imiona, nazwiska i nazwiska rodowe oraz wskazanie rodzaju inume1) nazwisko i imię; ru dokumentu potwierdzającego tożsa2) adres zamieszkania; mość danej osoby;
+- **3)** numer PESEL, a w przypadku jego nienada- 2) zbiór zawierający numery PESEL i odnia — numer i serię innego dokumentu po- powiadające im imiona, nazwiska i natwierdzającego tożsamość ubezpieczonego zwiska rodowe osób, których zgon zowymienionego w ust. 2 lub numer doku- stał zgłoszony wpoprzednim miesiącu; mentu potwierdzającego jego prawo do 3) informacje o zmianie danych objętych świadczeń opieki zdrowotnej na podstawie zbiorami, o których mowa w pkt 1 i 2. przepisów okoordynacji i, jeżeli nadano, nu- 10b. Format przekazywanych danych, o któmer NIP; rych mowa w ust. 10a, uzgadnia organ
+- **4)** okres, którego dotyczy składka na ubezpie- prowadzący ewidencję numerów PESEL czenie zdrowotne.”; i Fundusz.”; Dziennik Ustaw Nr 166 — 11959 — Poz. 1172
+- **48)** w art. 97: medycznego, Fundusz powiadamia właściwego wojewodę o należnościach przysłua) w ust. 3: gujących mu z tego tytułu. Ârodki zwróco— po pkt 2 dodaje się pkt 2a w brzmieniu: ne przez instytucję państwa członkowskiego Unii Europejskiej lub państwa członŃ2a) finansowanie świadczeń opieki zdro- kowskiego Europejskiego Porozumienia wotnej udzielanych osobom, o których o Wolnym Handlu (EFTA) Fundusz przekamowa wart. 12 pkt 2—4i6oraz wart. 2 zuje na rachunek urzędu właściwego wojeust. 1 pkt 3;”, wody w terminie 14 dni od dnia zidentyfi— po pkt 3a dodaje się pkt 3b w brzmieniu: kowania podstawy zwrotu. Przepisu nie stosuje się do lotniczych zespołów ratowŃ3b) finansowanie świadczeń opieki zdro- nictwa medycznego, o których mowa wotnej określonych w art. 26;”, w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym.”,
+    - **b)** po ust. 3 dodaje ust. 3a—3c w brzmieniu:
+    - **c)** ust. 8 otrzymuje brzmienie: Ń3a. Do zadań Funduszu należy rozliczanie z in- Ń8. Fundusz otrzymuje dotację z budżetu państytucjami właściwymi lub instytucjami stwa na sfinansowanie kosztów realizacji zamiejsca zamieszkania w państwach człon- dania, októrym mowa wust. 3pkt 2a, 3i3b, kowskich Unii Europejskiej lub państwach uwzględniającą koszty administracyjne, członkowskich Europejskiego Porozumie- z zastrzeżeniem ust. 9.”, nia o Wolnym Handlu (EFTA):
+    - **d)** dodaje się ust. 9 w brzmieniu:
 
-4b. Przepis ust. 4 i 4a stosuje się odpowiednio do wyrobów medycznych. ” , ust. 5 i 6 otrzymują brzmienie: „
+- **1)** kosztów świadczeń opieki zdrowotnej Ń9. Fundusz otrzymuje dotację z budżetu pańfinansowanych zbudżetu państwa zczę- stwa na sfinansowanie kosztów realizacji zaści pozostającej w dyspozycji ministra dań, októrych mowa wust. 3pkt 3, zwyjątwłaściwego do spraw zdrowia, o któ- kiem kosztów, o których mowa w art. 117 rych mowa w art. 11 ust. 1 pkt 4a, ust. 1 pkt 1a.”;
+- **2)** kosztów medycznych czynności ratun- 49) w art. 99: kowych wykonanych przez zespoły ratownictwa medycznego, o których mo- a) w ust. 1: wa w ustawie z dnia 8 września 2006 r. — wprowadzenie do wyliczenia otrzymuje o Państwowym Ratownictwie Medycz- brzmienie: nym, z wyłączeniem kosztów medycz- ŃRada Funduszu składa się z dziesięciu osób nych czynności ratunkowych wykony- powoływanych przez Prezesa Rady Miniwanych przez lotnicze zespoły ratownic- strów, przy czym:”, twa medycznego — wpkt 6kropkę zastępuje się średnikiem ido— w stosunku do osób uprawnionych do daje pkt 7 w brzmieniu: tych świadczeń na podstawie przepisów Ń7) jednego członka powołuje się spośród kano koordynacji. dydatów wskazanych przez ministra właściwego do spraw finansów publicznych.”, 3b. Minister właściwy do spraw zdrowia, po b) ust. 6 otrzymuje brzmienie: ostatecznym rozliczeniu ze świadczeniodawcą świadczeń, o których mowa Ń6. Członkowie Rady Funduszu nie mogą być w art.11 ust. 1 pkt 4a, obciąża Fundusz jednocześnie: kosztami tych świadczeń oraz przekazuje 1) pracownikami Funduszu; niezbędną dokumentację dotyczącą udzie- 2) świadczeniodawcami; lonych świadczeń wraz zkopią dokumentu 3) właścicielami apteki, hurtowni farmaceupotwierdzającego prawo do tych świad- tycznej lub podmiotu wytwarzającego czeń na podstawie przepisów o koordyna- produkty lecznicze i wyroby medyczne; cji. Ârodki zwrócone przez instytucję pań- 4) posiadaczami akcji lub udziałów w spółstwa członkowskiego Unii Europejskiej lub kach prowadzących podmioty, o których państwa członkowskiego Europejskiego mowa w pkt 2 i 3; Porozumienia o Wolnym Handlu (EFTA) 5) osobami, o których mowa w art. 112 Fundusz przekazuje na rachunek urzędu ust.1 pkt 2—8.”; ministra właściwego do spraw zdrowia wterminie 14 dni od dnia zidentyfikowania 50) w art. 100 w ust. 1: podstawy zwrotu.
+    - **a)** pkt 5 otrzymuje brzmienie: 3c. W przypadku rozliczania przez Fundusz Ń5) podejmowanie uchwał w sprawach dotykosztów medycznych czynności ratunko- czących majątku Funduszu iinwestycji przewych udzielonych osobom uprawnionym kraczających zakres upoważnienia statutodo tych świadczeń na podstawie przepisów wego dla Prezesa Funduszu oraz nabywao koordynacji przez zespoły ratownictwa nia, zbywania i obciążania nieruchomości Dziennik Ustaw Nr 166 — 11960 — Poz. 1172 stanowiących własność Funduszu, a także b) po ust. 6 dodaje się ust. 6a w brzmieniu: podejmowanie uchwał w sprawach, o któ- Ń6a. Do głównego księgowego Funduszu stosuje rych mowa w art. 129 ust. 2;”, się odpowiednio przepisy ust. 6pkt 2—5.”;
+    - **b)** po pkt 6 dodaje się pkt 6a w brzmieniu:
 
-- **c)**
+- **53)** w art. 106 ust. 7 otrzymuje brzmienie: Ń6a) dokonywanie wyboru biegłego rewidenta do badania sprawozdania finansowego Ń7. Członkowie rady oddziału wojewódzkiego FunFunduszu;”; duszu nie mogą być jednocześnie:
+- **1)** dyrektorami oddziałów wojewódzkich Fun51) w art. 102: duszu oraz pracownikami oddziału wojea) ust. 3 otrzymuje brzmienie: wódzkiego Funduszu;
+- **2)** Prezesem Funduszu; Ń3. W przypadku rażącego naruszenia obowiązków ustawowych Prezes Rady Ministrów, na 3) zastępcą Prezesa Funduszu; wniosek ministra właściwego do spraw 4) pracownikami centrali Funduszu; zdrowia, może odwołać Prezesa Funduszu 5) świadczeniodawcami; bez zasięgania opinii, o której mowa 6) właścicielami lub pracownikami apteki, hurw ust. 2. W takim przypadku Prezes Rady towni farmaceutycznej lub podmiotu wyMinistrów powierza kierowanie Funduszem twarzającego produkty lecznicze i wyroby jednemu z zastępców Prezesa Funduszu medyczne; i niezwłocznie informuje o odwołaniu Radę 7) posiadaczami akcji lub udziałów współkach Funduszu, przedstawiając jej uzasadnie- prowadzących podmioty, o których mowa nie.”, w pkt 5 i 6; Ń4) przygotowywanie i przedstawianie Ra- 54) w art. 107: dzie Funduszu corocznych prognoz, a) ust. 1 otrzymuje brzmienie: o których mowa w art. 120 ust. 1 i 3;”, Ń1. Dyrektor oddziału wojewódzkiego Funduszu — pkt 11 otrzymuje brzmienie: kieruje oddziałem wojewódzkim Funduszu Ń11) sporządzanie okresowych i rocznych ireprezentuje Fundusz na zewnątrz wzakresprawozdań zdziałalności Funduszu, za- sie właściwości danego oddziału.”, wierających w szczególności informację b) w ust. 5: odostępności do świadczeń opieki zdrowotnej finansowanych ze środków Fun- — pkt 3 otrzymuje brzmienie: duszu;”, Ń3) przygotowanie i przedstawienie radzie — po pkt 21 dodaje się pkt 21a w brzmieniu: oddziału wojewódzkiego Funduszu projektu planu finansowego oddziału wojeŃ21a) przeprowadzanie kontroli, o której mo- wódzkiego Funduszu na rok następny;”, wa w art. 64 i 189, jeżeli z uzyskanych informacji wynika konieczność prze- — dodaje się pkt 20 w brzmieniu: prowadzenia takiej kontroli;”; Ń20) zawieranie umów dobrowolnego ubezpieczenia zdrowotnego, októrym mowa
+    - **b)** w ust. 5: 8) osobami, o których mowa w art. 112 ust.1 — pkt 4 otrzymuje brzmienie: pkt 2—8.”;
 
-5. Jeżeli w wykazach, o których mowa w art. 36 ust. 5 pkt 1 i art. 37 ust. 2 pkt 2, zamieszczono lek o nazwie międzynarodowej lub własnej, apteka może wydać, na zasadach określonych w art. 36 ust. 1, art. 37 ust. 1 i art. 43–46, również inny lek dopuszczony do obrotu, niezamieszczony w tych wykazach, a o tej samej nazwie międzynarodowej lub własnej, tej samej dawce, wielkości opakowania i drodze podania, pod warunkiem że jego cena nie jest wyższa od limitu ceny, a jeżeli limit nie został ustalony – od ceny leku zamieszczonego w wykazach.
+- **52)** w art. 103: w art. 68.”,
+    - **a)** ust. 6 otrzymuje brzmienie: c) ust. 6 otrzymuje brzmienie: Ń6. Prezes Funduszu i jego zastępcy nie mogą Ń6. Dyrektor oddziału wojewódzkiego Funduszu być jednocześnie: nie może być jednocześnie:
 
-6. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej i Naczelnej Rady Aptekarskiej, określi, w drodze rozporządzenia, limity cen leków posiadających tę samą nazwę międzynarodową oraz leków o różnych nazwach międzynarodowych, ale o podobnym działaniu terapeutycznym, a także wyrobów medycznych wymienionych w:
+- **1)** członkami Rady Funduszu irady oddziału 1) Prezesem Funduszu albo jego zastępcą: wojewódzkiego Funduszu; 2) głównym księgowym Funduszu;
+- **2)** pracownikami oddziałów wojewódzkich Funduszu; 3) pracownikiem centrali Funduszu;
+- **3)** świadczeniodawcami; 4) świadczeniodawcą;
+- **4)** właścicielami lub pracownikami apteki, 5) właścicielem lub pracownikiem apteki, hurtowni farmaceutycznej lub podmiotu hurtowni farmaceutycznej lub podmiotu wytwarzającego produkty lecznicze i wy- wytwarzającego produkty lecznicze i wyroby medyczne; roby medyczne;
+- **5)** posiadaczami akcji lub udziałów w spół- 6) posiadaczem akcji lub udziałów w spółkach prowadzących podmioty będące kach prowadzących podmioty będące świadczeniodawcami oraz podmiotami, świadczeniodawcami oraz podmiotami, o których mowa w pkt 4; o których mowa w pkt 5;
+- **6)** osobami, októrych mowa wart. 112 ust.1 7) osobą, o której mowa w art. 112 ust. 1 pkt 2—8.”, pkt 2—9.”; Dziennik Ustaw Nr 166 — 11961 — Poz. 1172
+- **55)** w art. 108: b) ust. 2 otrzymuje brzmienie: umowę o udzielanie świadczeń opieki 2) wykonywać działalności gospodarczej.”; zdrowotnej, koszty świadczeń opieki zdrowotnej udzielonych na terenie danego wo- 58) w art. 116 w ust. 1 pkt 5 otrzymuje brzmienie: jewództwa osobom, o których mowa Ń5) dotacje, w tym dotacje celowe przeznaczone w art. 12 pkt 2—4 i 6 oraz w art. 2 ust. 1 na finansowanie zadania, o którym mowa pkt 3, z zastrzeżeniem ust. 2.”, w art. 97 ust. 3 pkt 2a, 3 i 3b;”; duszu właściwy ze względu na miejsce jego 60) art. 118 otrzymuje brzmienie: zamieszkania, a jeżeli nie można ustalić miejsca zamieszkania — oddział wojewódz- ŃArt. 118. 1. Prezes Funduszu sporządza corocznie ki Funduszu właściwy ze względu na miej- plan finansowy Funduszu zrównowasce wystawienia skierowania, o którym mo- żony w zakresie przychodów i koszwa w art. 33 ust. 1.”; tów.
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: Ń2. Pracownicy Funduszu nie mogą bez zgody Ń1a. Oddział wojewódzki Funduszu finansuje Prezesa Funduszu: świadczeniodawcy, mającemu siedzibę na 1) podejmować zatrudnienia u innego praterenie województwa, z którym zawarto codawcy;
+    - **b)** ust. 2 otrzymuje brzmienie: 59) w art. 117 w ust. 1 pkt 4 otrzymuje brzmienie: Ń2. Koszty leczenia uzdrowiskowego świadczeniobiorcy, o którym mowa w ust. 1 pkt 1 Ń4) koszt zadania, o którym mowa w art. 97 ust. 3 i w ust. 1a, ponosi oddział wojewódzki Fun- pkt 2a, 3 i 3b;”;
 
-- **1)** wykazach leków podstawowych i uzupełniających, o których mowa w art. 36 ust. 5 pkt 1,
-- **2)** wykazie leków i wyrobów medycznych, o którym mowa w art. 37 ust. 2 pkt 2 uwzględniając w szczególności skuteczność i bezpieczeństwo ich stosowania, a także możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych. ” ;
-- **20)** w art. 39: ust. 1 otrzymuje brzmienie: „
-    - **a)**
+- **56)** w art. 109: 2. W planie finansowym Funduszu Prezes Funduszu określa wysokość:
+    - **a)** ust. 3 otrzymuje brzmienie: 1) planowanych kosztów dla centrali, Ń3. Wniosek orozpatrzenie sprawy, októrej mo- w tym: wa w ust. 1, zgłasza ubezpieczony, a w za- a) kosztów finansowania działalkresie objęcia ubezpieczeniem zdrowotnym ności centrali, wniosek może zgłosić w szczególności Zakład Ubezpieczeń Społecznych, Kasa Rolni- b) rezerwy na koszty realizacji zaczego Ubezpieczenia Społecznego lub czło- dań wynikających z przepisów nek rodziny ubezpieczonego, także w zakre- o koordynacji, sie dotyczącym objęcia ubezpieczeniem c) rezerwy na koszty świadczeń, w okresie poprzedzającym złożenie wnio- októrych mowa wart. 117 ust. 1 sku.”, pkt 1a;
+    - **b)** dodaje się ust. 6 w brzmieniu: 2) planowanych kosztów poszczególnych oddziałów wojewódzkich Ń6. Wsprawach, októrych mowa wust. 1, wza- Funduszu, w tym: kresie nieregulowanym niniejszą ustawą, a) kosztów finansowania działalstosuje się przepisy Kodeksu postępowania ności poszczególnych oddziaadministracyjnego.”; łów;
 
-1. Podmiot odpowiedzialny, przedstawiciel podmiotu odpowiedzialnego oraz importer równoległy, w rozumieniu ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, a także wytwórca wyrobów medycznych, jego autoryzowany przedstawiciel albo importer, w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o wyrobach medycznych (Dz. U. Nr 93, poz. 896 oraz z 2005 r. Nr 64, poz. 565), zwani dalej „wnioskodawcą”, może przez pierwszych siedem dni każdego kwartału składać do ministra właściwego do spraw zdrowia wniosek o umieszczenie leków lub wyrobów medycznych w wykazach, o których mowa w art. 36 ust. 5 pkt 1 i art. 37 ust. 2 pkt 2. ” , po ust. 1 dodaje się ust. 1a-1g w brzmieniu: „
+- **57)** w art. 112: b) rezerwy na koszty świadczeń — pkt 1 i 2 otrzymują brzmienie: 3) łącznych przychodów i kosztów Ń1) świadczeniodawcami, którzy zawarli Funduszu. umowy o udzielanie świadczeń opieki zdrowotnej lub ubiegają się o zawarcie 3. Planowane środki na pokrycie kosztakich umów; tów finansowania przez oddziały wojewódzkie Funduszu świadczeń opie2) właścicielami, pracownikami lub osoba- ki zdrowotnej dla ubezpieczonych, mi współpracującymi ze świadczenio- z wyłączeniem środków odpowiadadawcami, którzy zawarli umowy oudzie- jących przychodom wymienionym lanie świadczeń opieki zdrowotnej lub w art. 125, są dzielone pomiędzy odubiegają się o zawarcie takich umów;”, działy wojewódzkie Funduszu, przy — dodaje się pkt 8 i 9 w brzmieniu: czym: Ń8) posłami, posłami do Parlamentu Euro- 1) podstawą podziału środków jest pejskiego albo senatorami; liczba ubezpieczonych zarejestrowanych w oddziale wojewódzkim
+    - **a)** w ust. 1: opieki zdrowotnej wramach migracji ubezpieczonych;
 
-- **b)**
+- **9)** członkami Rady Funduszu oraz rad od- Funduszu, z uwzględnieniem ryzydziałów wojewódzkich Funduszu.”, ka zdrowotnego przypisanego Dziennik Ustaw Nr 166 — 11962 — Poz. 1172 ubezpieczonym należącym do da- 3. Prezes Funduszu w porozumieniu nej grupy wydzielonej według z ministrem właściwym do spraw struktury wieku i płci, w porówna- finansów publicznych oraz ministrem niu z grupą odniesienia; właściwym do spraw zdrowia w ter2) wysokość środków określonych minie do dnia 30 czerwca sporządza wpkt 1koryguje się przez uwzględ- coroczną prognozę kosztów na kolejnienie: ne 3 lata na podstawie informacji przekazanych przez dyrektorów oda) wskaênika wynikającego ze zróż- działów wojewódzkich Funduszu. nicowania kosztu jednostkowego świadczenia opieki zdrowotnej, 4. Prezes Funduszu w terminie do dnia 5 lipca informuje dyrektorów oddziab) wskaênika wynikającego zliczby łów wojewódzkich Funduszu o przeirodzaju świadczeń wysokospe- widywanych kosztach oddziałów wocjalistycznych wykonanych dla jewódzkich Funduszu. ubezpieczonych zarejestrowanych w danym oddziale woje- 5. Dyrektorzy oddziałów wojewódzkich wódzkim Funduszu przez świad- przekazują Prezesowi Funduszu czeniodawców mających umo- w terminie do dnia 10 lipca projekty wy oudzielanie świadczeń opie- planów finansowych oddziałów woki zdrowotnej zawarte z tym od- jewódzkich Funduszu. działem wojewódzkim Fundu- 6. Prognozy, o których mowa w ust. 1 szu, w relacji do liczby tych i 3, oraz projekty planów, o których świadczeń ogółem w roku po- mowa w ust. 5, są podstawą do spoprzedzającym rok, wktórym ten rządzenia projektu planu finansoweplan jest tworzony. go na rok następny.
 
-1a. W przypadku złożenia wniosku w terminie późniejszym niż określony w ust. 1, wniosek ten jest zwracany wnioskodawcy.
+4. Planowane koszty finansowania 7. Zakład Ubezpieczeń Społecznych, Kaświadczeń opieki zdrowotnej przez da- sa Rolniczego Ubezpieczenia Spony oddział wojewódzki Funduszu nie łecznego, organy administracji rządomogą być niższe niż wysokość kosz- wej, jednostki samorządu terytorialtów finansowania świadczeń opieki nego, świadczeniodawcy oraz inne zdrowotnej dla danego oddziału wro- instytucje udzielają nieodpłatnie Funku poprzednim, zaplanowanych duszowi informacji koniecznych do wplanie finansowym, októrym mowa sporządzenia prognoz, o których mowart. 121 ust. 3i5oraz art. 123 ust. 3. wa w ust. 1 i 3.”;
 
-1b. Wnioski są rozpatrywane według kolejności ich wpływu.
+5. W planie finansowym, o którym mo- 62) art. 121 otrzymuje brzmienie: wa w art. 121 ust. 3 i 5 oraz art. 123 ust. 3, tworzy się rezerwę ogólną ŃArt. 121. 1. Prezes Funduszu opracowuje projekt w wysokości 1 % planowanych na- planu finansowego Funduszu iprzedleżnych przychodów z tytułu składek stawia go, w celu zaopiniowania, na ubezpieczenie zdrowotne. w terminie do dnia 15 lipca roku po6. Przepisów ust. 3 i 4 nie stosuje się przedzającego rok, którego dotyczy w zakresie środków przekazywanych ten plan: Funduszowi z budżetu państwa na 1) Radzie Funduszu; podstawie przepisów ustawy z dnia 2) komisji właściwej do spraw finan8września 2006 r. oPaństwowym Ra- sów publicznych oraz komisji włatownictwie Medycznym.”; ściwej do spraw zdrowia Sejmu
 
-1c. Minister właściwy do spraw zdrowia, ustalając wykazy, o których mowa w art. 36 ust. 5 pkt 1 i art. 37 ust. 2 pkt 2, może dokonywać, w drodze decyzji, weryfikacji pod względem zasadności pozostawania leku lub wyrobu medycznego w określonym wykazie, na podstawie kryteriów, o których mowa w ust. 2 pkt 3–10, 12 i 13.
+- **61)** art. 120 otrzymuje brzmienie: Rzeczypospolitej Polskiej. ŃArt. 120. 1. Prezes Funduszu w porozumieniu 2. Niewydanie opinii, o których mowa z ministrem właściwym do spraw w ust. 1, w terminie 14 dni od dnia finansów publicznych oraz z mini- otrzymania projektu planu finansostrem właściwym do spraw zdrowia wego jest równoznaczne zwydaniem w terminie do dnia 15 czerwca spo- pozytywnej opinii. rządza coroczną prognozę przycho- 3. Prezes Funduszu po rozpatrzeniu opidów na kolejne 3 lata. nii, októrych mowa wust. 1, jeżeli zo2. Dyrektorzy oddziałów wojewódzkich stały wydane, sporządza plan finanFunduszu przekazują informację doty- sowy Funduszu i przekazuje go wraz czącą prognozowanych kosztów od- z tymi opiniami w terminie do dnia działów w terminie do dnia 20 czerw- 1 sierpnia roku poprzedzającego rok, ca na podstawie prognozy, o której którego dotyczy ten plan, ministrowi mowa wust. 1. właściwemu do spraw zdrowia. Dziennik Ustaw Nr 166 — 11963 — Poz. 1172
 
-1d. Decyzja ministra właściwego do spraw zdrowia, o której mowa w ust. 1c, jest ostateczna. Od decyzji przysługuje skarga do sądu administracyjnego.
+4. Minister właściwy do spraw zdrowia 5. Dyrektor oddziału wojewódzkiego w porozumieniu z ministrem właści- Funduszu, po poinformowaniu Prezewym do spraw finansów publicznych sa Funduszu, może dokonać przesuzatwierdza plan finansowy Funduszu nięcia kosztów w ramach kosztów w terminie do dnia 14 sierpnia roku przeznaczonych na świadczenia opiepoprzedzającego rok, którego doty- ki zdrowotnej oraz uruchomić rezerczy ten plan. wę, o której mowa w art. 118 ust. 2 pkt 2 lit. b, w planie finansowym od5. W przypadku gdy Prezes Funduszu działu wojewódzkiego Funduszu. nie przekaże w terminie, o którym mowa w ust. 3, planu finansowego 6. Prezes Funduszu podejmuje decyzję Funduszu, minister właściwy do o uruchomieniu rezerwy ogólnej po spraw zdrowia w porozumieniu z mi- uzyskaniu pozytywnych opinii mininistrem właściwym do spraw finan- stra właściwego do spraw zdrowia sów publicznych ustala, w drodze za- oraz ministra właściwego do spraw rządzenia, plan finansowy Funduszu finansów publicznych. do dnia 14 sierpnia roku poprzedzającego rok, którego dotyczy ten plan.”; 7. Prezes Funduszu podejmuje decyzje ouruchomieniu rezerw, októrych mo63) art. 124 otrzymuje brzmienie: wa w art. 118 ust. 2 pkt 1 lit. b i c, po poinformowaniu ministra właściwego ŃArt. 124. 1. Zmiany planu finansowego Funduszu do spraw zdrowia iministra właściwemożna dokonać w przypadku zaist- go do spraw finansów publicznych. nienia sytuacji, których nie można by- 8. Zmian planu finansowego Funduszu, ło przewidzieć wchwili zatwierdzenia októrych mowa wust. 1—3, dokonualbo ustalenia planu. je się zgodnie z zasadami określony2. Zmiany planu finansowego Fundu- mi w art. 118. szu zatwierdzonego w trybie, o którym mowa wart. 121 ust. 4, może do- 9. Do zmian planu finansowego, o któkonać Prezes Funduszu. Przepisy rych mowa wust. 4—7, oraz do zmiaart. 121 ust. 1—4 stosuje się odpo- ny planu finansowego wynikającej wiednio. z art. 129 ust. 3 i 4 nie stosuje się przepisów art. 118 ust. 3oraz art. 121.
 
-1e. Dokonanie weryfikacji, o której mowa w ust. 1c, stanowi podstawę aktualizacji wykazów, o których mowa w art. 36 ust. 5 pkt 1 i art. 37 ust. 2 pkt 2.
+3. Zmiany planu finansowego Funduszu ustalonego zgodnie z art. 121 10. W przypadku gdy w danym roku obust. 5albo art. 123 ust. 3może doko- rotowym wysokość kosztów, o któnać minister właściwy do spraw zdro- rych mowa w art. 117 ust. 1 pkt 1a, wia wporozumieniu zministrem wła- jest wyższa od wysokości rezerwy, ściwym do spraw finansów publicz- o której mowa w art. 118 ust. 2 pkt 1 nych na uzasadniony wniosek Preze- lit. c, różnica jest pokrywana z rezersa Funduszu. Do wniosku o zmianę wy ogólnej Funduszu. planu dołącza się opinię Rady Fundu- 11. W przypadku gdy w danym roku obszu, opinie komisji właściwej do rotowym wysokość kosztów, o któspraw finansów publicznych oraz ko- rych mowa w art. 117 ust. 1 pkt 1a, misji właściwej do spraw zdrowia jest niższa od wysokości rezerwy, Sejmu Rzeczypospolitej Polskiej. o której mowa w art. 118 ust. 2 pkt 1
 
-1f. Po rozpatrzeniu wniosków, o których mowa w ust. 1, minister właściwy do spraw zdrowia zamieszcza na stronie internetowej urzędu obsługującego ministra właściwego do spraw zdrowia wysokość limitów cen leków i wyrobów medycznych w wykazach, o których mowa w art. 36 ust. 5 pkt 1 i art. 37 ust. 2 pkt 2.
+4. Prezes Funduszu, po poinformowa- lit. c, różnicę przeznacza się na poniu ministra właściwego do spraw większenie wysokości tej rezerwy zdrowia i ministra właściwego do w następnym roku obrotowym.”; spraw finansów publicznych, może 64) art. 125 otrzymuje brzmienie: dokonać przesunięcia kosztów w planie finansowym centrali Funduszu ŃArt. 125. Przychody Funduszu: oraz przesunięcia kosztów w ramach 1) nieujęte wplanie finansowym ustalokosztów administracyjnych w planie nym zgodnie z art. 121 ust. 3, ust. 5 finansowym Funduszu, a także doko- albo z art. 123 ust. 3: nać zmiany planu finansowego w zakresie środków przekazywanych Na- a) z tytułu nadwyżki przychodów nad rodowemu Funduszowi Zdrowia kosztami korygującymi koszty z budżetu państwa na podstawie świadczeń opieki zdrowotnej z lat przepisów ustawy z dnia 8 września ubiegłych, 2006 r. o Państwowym Ratownictwie b) z tytułu nadwyżki przychodów nad Medycznym. kosztami zdziałalności finansowej, Dziennik Ustaw Nr 166 — 11964 — Poz. 1172
 
-1g. Wnioskodawca może, w terminie 7 dni od dnia zamieszczenia na stronie internetowej urzędu obsługującego ministra właściwego do spraw zdrowia wysokości limitów cen leków i wyrobów medycznych w wykazach, o których mowa w art. 36 ust. 5 pkt 1 i art. 37 ust. 2 pkt 2, zaproponować cenę niższą niż cena określona we wniosku, o której mowa w ust. 2 pkt 3. ” , ust. 2 otrzymuje brzmienie: „
+- **2)** pochodzące zdotacji przeznaczonych 5. Wprzypadku, októrym mowa wust. 3, na finansowanie świadczeń opieki oraz wprzypadku przeznaczenia rezerzdrowotnej wy, o której mowa w art. 118 ust. 2 — w części dotyczącej oddziału woje- pkt 1 lit. c, zgodnie z art. 124 ust. 11, wódzkiego Funduszu przeznacza się na przepisu art. 118 ust. 1nie stosuje się. pokrycie kosztów świadczeń opieki 6. Przy stosowaniu art. 118 ust. 4do plazdrowotnej w tym oddziale wojewódz- nu finansowego na rok następny nie kim Funduszu.”; uwzględnia się środków przekaza65) art. 126 otrzymuje brzmienie: nych oddziałom wojewódzkim Funduszu zgodnie z ust. 3 i 4 oraz środŃArt. 126. 1. Dyrektor oddziału wojewódzkiego ków przekazanych oddziałom wojeFunduszu sporządza roczne sprawoz- wódzkim Funduszu przy uruchomiedanie zwykonania planu finansowego oddziału wojewódzkiego Funduszu. niu rezerwy, októrej mowa wart. 118 ust. 2 pkt 1 lit. c.”;
 
-- **c)**
+2. Sprawozdanie, o którym mowa wust. 1, podlega zatwierdzeniu przez 67) w art. 130: radę oddziału wojewódzkiego Funduszu po przeprowadzeniu badania a) ust. 1 otrzymuje brzmienie: sprawozdania, o którym mowa Ń1. Prezes Funduszu, na podstawie sprawozwart. 128 ust. 4, przez biegłego rewi- dań, o których mowa w art. 126, sporządza denta.”; roczne sprawozdanie z wykonania planu finansowego Funduszu, nie póêniej niż
 
-2. Wniosek, o którym mowa w ust. 1, zawiera:
+- **66)** art. 129 otrzymuje brzmienie: w ciągu 6 miesięcy od zakończenia roku, ŃArt. 129. 1. Zatwierdzony zysk netto za dany rok którego dotyczy sprawozdanie.”, obrotowy przeznacza się na:
+    - **b)** dodaje się ust. 4 w brzmieniu:
 
-- **1)** oznaczenie (firmę) wnioskodawcy, jego siedzibę i adres;
-- **2)** nazwę oraz szczegółowe informacje dotyczące leku lub wyrobu medycznego;
-- **3)** proponowaną cenę;
-- **4)** średnią cenę sprzedaży w Rzeczypospolitej Polskiej w ciągu ostatnich dwóch lat, w podziale na poszczególne lata, jeżeli dotyczy;
-- **5)** ceny w innych państwach członkowskich Unii Europejskiej;
-- **6)** wielkość realizowanych dostaw w okresie poprzedzającym złożenie wniosku, jeżeli dotyczy;
-- **7)** udowodnioną dostępność do leku lub wyrobu medycznego w chwili składania wniosku;
-- **8)** zobowiązanie do zapewnienia ciągłości dostaw, w przypadku umieszczenia leku lub wyrobu medycznego w wykazach, o których mowa w art. 36 ust. 5 pkt 1 i art. 37 ust. 2 pkt 2;
-- **9)** dzienny koszt terapii;
-- **10)** średni koszt i czas standardowej terapii;
-- **11)** numer pozwolenia oraz kopię decyzji dopuszczenia do obrotu, jeżeli dotyczy;
-- **12)** uzasadnienie wniosku i proponowanej ceny;
-- **13)** analizę skuteczności klinicznej i efektywności kosztowej oraz analizę wpływu na ogólne koszty refundacji dla leku, którego substancja czynna nie jest umieszczona w wykazach, o których mowa w art. 36 ust. 5 pkt 1 i art. 37 ust. 2 pkt 2, oraz analizę wpływu na ogólne koszty refundacji dla leku, którego substancja czynna jest umieszczona w wykazach, o których mowa w art. 36 ust. 5 pkt 1 i art. 37 ust. 2 pkt 2, i dla jego odpowiednika. ” , po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „
-    - **d)**
+- **1)** pokrycie strat z lat ubiegłych; Ń4. Niewydanie opinii, októrych mowa wust. 3,
+- **2)** fundusz zapasowy. w terminie 14 dni od dnia otrzymania pro2. O pokryciu straty netto albo przezna- jektu sprawozdania jest równoznaczne zwyczeniu zysku netto decyduje Rada Fun- daniem opinii pozytywnych.”; duszu, w drodze uchwały, z uwzględnieniem pierwszeństwa pokrycia strat 68) w art. 135 ust. 2 otrzymuje brzmienie: z lat ubiegłych. Uchwała Rady Funduszu może być podjęta po uzyskaniu Ń2. Fundusz realizuje zasadę jawności umów przez pozytywnej opinii ministra właściwe- zamieszczenie na swojej stronie internetowej go do spraw finansów publicznych informacji o każdej zawartej umowie, oraz ministra właściwego do spraw z uwzględnieniem maksymalnej kwoty zobozdrowia odnośnie do sposobu podzia- wiązania Funduszu wobec świadczeniodawcy łu zysku netto lub pokrycia straty netto. wynikającej z zawartej umowy, rodzaju, liczby
 
-2a. Złożenie wniosku, o którym mowa w ust. 1, podlega opłacie w kwocie 400 zł, która jest waloryzowana w każdym roku prognozowanym średniorocznym wskaźnikiem cen towarów i usług ogółem, przyjętym w ustawie budżetowej.
+3. W przypadku przyjęcia przez Radę iceny zakupionych świadczeń albo rodzaju zaFunduszu uchwały przewidującej kupionych świadczeń, liczby jednostek rozliprzeznaczenie zysku netto za dany czeniowych (miara przyjęta do określenia warrok obrotowy na fundusz zapasowy tości świadczenia opieki zdrowotnej wokreśloPrezes Funduszu może dokonać nym zakresie lub rodzaju, w szczególności: zmiany planu finansowego na rok, punkt, porada, osobodzień) wyrażających warw którym dokonuje się podziału zy- tość świadczenia oraz cenę jednostki rozliczesku, przewidującej zwiększenie pla- niowej, a także maksymalnej kwoty zobowiąnowanych kosztów świadczeń opieki zania Funduszu wobec świadczeniodawcy wyzdrowotnej o kwotę nie większą niż nikającej ze wszystkich zawartych umów.”; wysokość funduszu zapasowego. W tym przypadku przepisu art. 118 69) w art. 136: ust. 1 nie stosuje się.
 
-2b. Uzupełnienie wniosku, o którym mowa w ust. 1, podlega opłacie w kwocie 200 zł, która jest waloryzowana w każdym roku prognozowanym średniorocznym wskaźnikiem cen towarów i usług ogółem, przyjętym w ustawie budżetowej.
+- **a)** pkt 3 otrzymuje brzmienie:
 
-2c. Opłaty, o których mowa w ust. 2a i 2b, są wnoszone na rachunek urzędu obsługującego ministra właściwego do spraw zdrowia i stanowią dochód budżetu państwa. ” , ust. 3 otrzymuje brzmienie: „
+4. W przypadku zmiany planu finansowego Funduszu, o której mowa Ń3) wykaz podwykonawców oraz wymagania w ust. 3, przy ustalaniu wysokości dla nich inne niż techniczne i sanitarne, środków przekazywanych poszcze- określone w odrębnych przepisach;”, gólnym oddziałom wojewódzkim b) pkt 7 otrzymuje brzmienie: Funduszu na finansowanie świadczeń opieki zdrowotnej uwzględnia Ń7) postanowienie o rozwiązaniu umowy, które się wyniki finansowe oddziałów wo- może nastąpić za uprzednim nie krótszym jewódzkich Funduszu za dany rok ob- niż 3 miesiące okresem wypowiedzenia, rotowy. chyba że strony postanowią inaczej;”; Dziennik Ustaw Nr 166 — 11965 — Poz. 1172
 
-- **e)**
+- **70)** po art. 136a dodaje się art. 136b w brzmieniu: e) ust. 10 otrzymuje brzmienie: ŃArt. 136b. 1. Âwiadczeniodawca udzielający świad- Ń10. W przypadku nieuzgodnienia projektu, czeń opieki zdrowotnej podlega obo- októrym mowa wust. 1, wterminie, októwiązkowi ubezpieczenia odpowie- rym mowa w ust. 6, minister właściwy do dzialności cywilnej za szkody wyrzą- spraw zdrowia określi, w drodze rozporządzone przy udzielaniu świadczeń opie- dzenia, ogólne warunki umów oudzielanie ki zdrowotnej wykonywanych na pod- świadczeń opieki zdrowotnej, kierując się dobrem świadczeniobiorców oraz konieczstawie umowy oudzielanie świadczeń nością zapewnienia właściwej realizacji opieki zdrowotnej. umów, a także biorąc pod uwagę treść
 
-3. Wnioski określone w ust. 1 rozpatruje Zespół. ” , uchyla się ust. 5, ust. 6 i 7 otrzymują brzmienie: „
+2. Minister właściwy do spraw instytu- ustalonych warunków projektu przekazacji finansowych w porozumieniu nych przez Prezesa Funduszu ministrowi z ministrem właściwym do spraw właściwemu do spraw zdrowia.”, zdrowia, po zasięgnięciu opinii sa- f) ust. 12 otrzymuje brzmienie: morządów zawodów medycznych Ń12. W przypadku, o którym mowa w ust. 9, oraz Polskiej Izby Ubezpieczeń, zmiana ogólnych warunków umów określi, w drodze rozporządzenia, o udzielanie świadczeń opieki zdrowotnej szczegółowy zakres ubezpieczenia dokonywana jest w trybie określonym obowiązkowego, o którym mowa w ust. 1—9, nie częściej niż raz na 2 lata, wust. 1, termin powstania obowiąz- z wyjątkiem zaistnienia istotnej zmiany ku ubezpieczenia oraz minimalną uwarunkowań społeczno-gospodarczych sumę gwarancyjną, biorąc w szcze- udzielania świadczeń opieki zdrowotnej gólności pod uwagę specyfikę wy- lub stwierdzonych nieprawidłowości w rekonywanego zawodu oraz zakres alizacji tych umów wynikających z przepiwykonywanych zadań.”; sów wydanych na podstawie ust. 9.”;
 
-- **f)**
-- **g)**
+- **71)** w art. 137: 72) w art. 146 dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2 i 3 w brzmieniu: świadczeń opieki zdrowotnej, sposób wyce- 3. Opinia, o której mowa w ust. 2, jest przekazyny, sposób finansowania oraz warunki ich wana przez konsultanta krajowego Prezesowi udzielania.”, Funduszu w wyznaczonym przez niego termib) po ust. 1 dodaje się ust. 1a w brzmieniu: nie, nie krótszym jednak niż 14 dni. Nieprzedłożenie opinii wtym terminie jest równoznaczŃ1a. Projekt, o którym mowa w ust. 1, nie doty- ne z wydaniem opinii pozytywnej.”; czy ustalania standardów postępowania iprocedur medycznych, które są określane 73) w art. 149 ust. 1 otrzymuje brzmienie: przez ministra właściwego do spraw zdro- Ń1. Odrzuca się ofertę: wia na podstawie odrębnych przepisów.”,
+    - **a)** ust. 1 otrzymuje brzmienie: Ń2. Prezes Funduszu przed określeniem przedmioŃ1. Prezes Funduszu, uwzględniając przepisy ni- tu postępowania w sprawie zawarcia umowy niejszego działu oraz przepisy odrębne, oudzielanie świadczeń opieki zdrowotnej, kryprzygotowuje projekt ogólnych warunków teriów oceny ofert i warunków wymaganych umów o udzielanie świadczeń opieki zdro- od świadczeniodawców zasięga opinii właściwotnej zawierający w szczególności rodzaje wych konsultantów krajowych.
 
-6. Wniosek rozpatruje się w ciągu 90 dni, licząc od dnia jego złożenia, z tym że w przypadku konieczności uzupełnienia danych niezbędnych do umieszczenia danego leku i wyrobu medycznego we właściwym wykazie termin ten ulega zawieszeniu do dnia otrzymania uzupełnienia danych. W przypadku gdy wniosek nie zawiera wymaganych danych, minister właściwy do spraw zdrowia niezwłocznie informuje wnioskodawcę o konieczności ich uzupełnienia w wyznaczonym terminie.
+- **1)** złożoną przez świadczeniodawcę po termic) ust. 2 otrzymuje brzmienie: nie; Ń2. Prezes Funduszu nie póêniej niż do dnia 2) zawierającą nieprawdziwe informacje; 15 kwietnia przesyła projekt, o którym mo- 3) jeżeli świadczeniodawca nie określił przedwa wust. 1, Naczelnej Radzie Lekarskiej, Na- miotu oferty lub nie podał proponowanej czelnej Radzie Pielęgniarek i Położnych i re- liczby lub ceny świadczeń opieki zdrowotnej; prezentatywnym organizacjom świadcze- 4) jeżeli zawiera rażąco niską cenę wstosunku niodawców.”, do przedmiotu zamówienia;
+- **5)** jeżeli jest nieważna na podstawie odrębd) ust. 6 otrzymuje brzmienie: nych przepisów; Ń6. Projekt, o którym mowa w ust. 1, podlega 6) jeżeli świadczeniodawca złożył ofertę alteruzgodnieniu zpodmiotami, októrych mowa natywną; w ust. 2, w trybie negocjacji nie póêniej niż 7) jeżeli oferent lub oferta nie spełniają wymado dnia 31 maja. Projekt uważa się za uzgod- ganych warunków określonych wprzepisach niony, jeżeli przedstawiciele wszystkich prawa oraz warunków określonych przez stron biorących udział w negocjacjach złożą Prezesa Funduszu na podstawie art. 146 pod nim własnoręczne podpisy.”, ust. 1 pkt 3; Dziennik Ustaw Nr 166 — 11966 — Poz. 1172
+- **8)** złożoną przez świadczeniodawcę, z którym 4. Od decyzji dyrektora oddziału wojezostała rozwiązana przez oddział wojewódz- wódzkiego Funduszu przysługuje odki Funduszu prowadzący postępowanie wołanie do Prezesa Funduszu. Odwoumowa o udzielanie świadczeń opieki zdro- łanie wnosi się za pośrednictwem dywotnej w określonym rodzaju lub zakresie rektora właściwego oddziału wojew trybie natychmiastowym z przyczyn leżą- wódzkiego Funduszu. cych po stronie świadczeniodawcy.”; 5. Âwiadczeniodawca wnosi odwołanie,
+- **74)** w art. 150 ust. 1 otrzymuje brzmienie: o którym mowa w ust. 4, w terminie 7 dni od dnia otrzymania decyzji dyŃ1. Dyrektor oddziału wojewódzkiego Funduszu rektora oddziału wojewódzkiego Fununieważnia postępowanie w sprawie zawarcia duszu. umowy o udzielanie świadczeń opieki zdrowotnej, gdy: 6. Prezes Funduszu rozpatruje odwołanie, októrym mowa wust. 4, wtermi1) nie wpłynęła żadna oferta; nie 30 dni od dnia jego otrzymania
+- **2)** wpłynęła jedna oferta niepodlegająca od- i wydaje decyzję administracyjną rzuceniu, z zastrzeżeniem ust. 2; wsprawie. Decyzja Prezesa Funduszu podlega natychmiastowemu wyko3) odrzucono wszystkie oferty; naniu.
+- **4)** kwota najkorzystniejszej oferty przewyższa kwotę, którą Fundusz przeznaczył na finan- 7. W przypadku uwzględnienia odwołasowanie świadczeń opieki zdrowotnej wda- nia, o którym mowa w ust. 4, przenym postępowaniu; prowadza się ponownie postępowanie w sprawie zawarcia umowy
+- **5)** nastąpiła istotna zmiana okoliczności powo- o udzielanie świadczeń opieki zdrodująca, że prowadzenie postępowania lub wotnej. Do ponownie przeprowadzazawarcie umowy nie leży w interesie ubez- nego postępowania stosuje się odpopieczonych, czego nie można było wcze- wiednio art. 144 pkt 1 oraz art. 145. śniej przewidzieć.”;
 
-7. W przypadku gdy procedura umieszczenia leku lub wyrobu medycznego w wykazach, o których mowa w art. 36 ust. 5 pkt 1 i art. 37 ust. 2 pkt 2, występuje łącznie z rozpatrywaniem informacji lub wniosku o ustalenie ceny urzędowej, o których mowa w art. 6 ust. 1 ustawy z dnia 5 lipca 2001 r. o cenach, łączny termin rozpatrywania wniosków lub informacji nie powinien przekroczyć 180 dni. W przypadku konieczności uzupełnienia danych niezbędnych do rozpatrzenia wniosków łącznie lub w przypadku zwrócenia się wnioskodawcy do ministra właściwego do spraw zdrowia o ponowne rozpatrzenie wniosku, o którym mowa w ust. 1, bieg tego terminu ulega zawieszeniu odpowiednio do dnia otrzymania uzupełnienia danych albo do dnia otrzymania wniosku o ponowne rozpatrzenie albo upływu terminu do złożenia tego wniosku. ” , po ust. 7 dodaje się ust. 7a i 7b w brzmieniu: „
+8. Od decyzji, o której mowa w ust. 6,
 
-- **h)**
+- **75)** w art. 153 ust. 3 otrzymuje brzmienie: świadczeniodawcy przysługuje skarga do sądu administracyjnego.”; Ń3. Komisja rozpatruje irozstrzyga protest wciągu 7 dni od dnia jego otrzymania i udziela pisem- 77) w art. 158 ust. 2 otrzymuje brzmienie: nej odpowiedzi składającemu protest. Nie- Ń2. W przypadku konieczności wprowadzenia uwzględnienie protestu wymaga uzasadnie- zmian, októrych mowa wust. 1, umowa wnonia.”; wym brzmieniu obowiązuje do czasu zapew76) art. 154 otrzymuje brzmienie: nienia świadczeń na podstawie nowego postępowania w sprawie zawarcia umowy.”; ŃArt. 154. 1. Âwiadczeniodawca biorący udział w postępowaniu może wnieść do dy- 78) w art. 161: rektora oddziału wojewódzkiego Fun- a) ust. 2 otrzymuje brzmienie: duszu, wterminie 7dni od dnia ogłoszenia o rozstrzygnięciu postępowa- Ń2. Zażalenie, o którym mowa w ust. 1, składa nia, odwołanie dotyczące rozstrzy- się wraz zuzasadnieniem za pośrednictwem gnięcia postępowania. Odwołanie właściwego miejscowo oddziału wojewódzwniesione po terminie nie podlega kiego Funduszu w terminie 14 dni od dnia rozpatrzeniu. dokonania czynności przez dyrektora oddziału wojewódzkiego Funduszu.”,
 
-7a. W przypadku złożenia w okresie, w jakim dany wniosek o ustalenie ceny urzędowej powinien być rozpatrzony, wniosków w liczbie przekraczającej 10% przeciętnej liczby wniosków będących podstawą ustalenia poprzednich wykazów cen urzędowych, o których mowa w art. 5 ust. 4 pkt 1 ustawy z dnia 5 lipca 2001 r. o cenach, termin jego rozpatrzenia może być jednorazowo przedłużony o 60 dni. W takim przypadku Zespół niezwłocznie informuje wnioskodawcę o przedłużeniu terminu, o którym mowa w ust. 6. Podstawą ustalenia przeciętnej liczby wniosków jest średnia liczba wniosków będących podstawą ustalenia trzech poprzednich wykazów cen urzędowych.
+2. Odwołanie rozpatrywane jest w ter- b) po ust. 2 dodaje się ust. 2a w brzmieniu: minie 7 dni od dnia jego otrzymania. Wniesienie odwołania wstrzymuje Ń2a. Prezes Funduszu, uwzględniając zażalenie zawarcie umowy o udzielanie świad- wczęści lub wcałości, nakłada na dyrektoczeń opieki zdrowotnej do czasu jego ra oddziału wojewódzkiego Funduszu oborozpatrzenia. wiązek usunięcia stwierdzonych nieprawidłowości, w szczególności poprzez uchyle3. Po rozpatrzeniu odwołania dyrektor nie czynności, której dotyczy zażalenie, oddziału wojewódzkiego Funduszu i zawiadamia świadczeniodawcę w termiwydaje decyzję administracyjną nie 7 dni o uwzględnieniu zażalenia.”, uwzględniającą lub oddalającą odwołanie. Decyzja jest zamieszczana c) ust. 3 otrzymuje brzmienie: wterminie 2dni od dnia jej wydania, Ń3. W przypadku nieuwzględnienia zażalenia na tablicy ogłoszeń oraz na stronie przez Prezesa Funduszu wczęści lub całości, internetowej właściwego oddziału świadczeniodawcy przysługuje wniosek wojewódzkiego Funduszu. o ponowne rozpatrzenie.”, Dziennik Ustaw Nr 166 — 11967 — Poz. 1172 duszu w terminie 14 dni od dnia otrzyma- 2. W przypadku naruszenia prawa lub nia stanowiska Prezesa na złożone przez interesów świadczeniobiorców, atakświadczeniodawcę zażalenie. że w przypadku odmowy udzielenia 3b. Wniosek oponowne rozpatrzenie rozpatry- wyjaśnień iinformacji, októrych mowany jest przez Prezesa Funduszu wtermi- wa w art. 165 ust. 1 pkt 5, minister nie 14 dni od dnia jego otrzymania. właściwy do spraw zdrowia może na3c. Zażalenie na ponowne rozpatrzenie wnio- łożyć na aptekę karę pieniężną w wysku nie przysługuje.”; sokości do trzykrotnego przeciętnego wynagrodzenia.”;
 
-7b. Jeżeli wniosek w sprawie zmiany ceny dla leku lub wyrobu medycznego znajdującego się w wykazach, o których mowa w art. 36 ust. 5 pkt 1 i art. 37 ust. 2 pkt 2, nie zostanie rozpatrzony w terminie, o którym mowa w ust. 6, z uwzględnieniem ust. 7a, to wnioskowaną cenę uwzględnia się w przepisach wydanych na podstawie art. 5 ust. 4 ustawy z dnia 5 lipca 2001 r. o cenach, zgodnie z art. 5 ust. 4c tej ustawy. ” , uchyla się ust. 8, ust. 9 otrzymuje brzmienie: „
+- **d)** po ust. 3 dodaje się ust. 3a—3c w brzmieniu: w którym nałożono karę, niezależnie Ń3a. Wniosek, o którym mowa w ust. 3, świad- od innych środków nadzoru przewiczeniodawca może złożyć do Prezesa Fun- dzianych przepisami prawa.
+- **79)** w art. 165: 81) w art. 170 dotychczasowe brzmienie oznacza się Ń3. W razie stwierdzenia, na podstawie uzyska- 82) art. 171 otrzymuje brzmienie: nych informacji, wyjaśnień i dokumentów, o których mowa w ust. 1, przypadków naru- ŃArt. 171. 1. Wprzypadku stwierdzenia na podstaszeń prawa, statutu Funduszu lub interesu wie uzyskanych informacji, wyjaśświadczeniobiorców minister właściwy do nień lub dokumentów, o których mospraw zdrowia powiadamia odpowiednio wa w art. 165 ust. 1 pkt 1—4, rażąceFundusz, świadczeniodawcę, podmiot, októ- go naruszenia prawa lub rażącego rym mowa wart. 163 ust. 1pkt 3, lub aptekę naruszenia interesu świadczeniobioro stwierdzonych nieprawidłowościach oraz ców przez świadczeniodawcę lub wydaje zalecenia mające na celu usunięcie podmiot, o którym mowa w art. 163 stwierdzonych nieprawidłowości i dostoso- ust. 1 pkt 3, minister właściwy do wanie działalności powiadamianego pod- spraw zdrowia może nałożyć na te miotu do przepisów prawa, wyznaczając ter- podmioty karę pieniężną w wysokomin do usunięcia stwierdzonych nieprawi- ści do miesięcznej wartości umowy dłowości i dostosowania działalności do łączącej te podmioty z Funduszem, przepisów prawa.”, której dotyczą nieprawidłowości. niobiorców, a także w przypadku od- 83) art. 172 otrzymuje brzmienie: mowy udzielenia wyjaśnień iinformacji, o których mowa w art. 128 ust. 5 ŃArt. 172. W przypadkach określonych w art. 170 i w art. 165 ust. 1 pkt 1—4, minister ust. 1 i art. 171 minister właściwy do właściwy do spraw zdrowia może na- spraw zdrowia może wystąpić do dyrekłożyć na Prezesa Funduszu lub zastęp- tora oddziału wojewódzkiego Funduszu cę Prezesa Funduszu albo dyrektora o rozwiązanie umowy ze świadczeniooddziału wojewódzkiego Funduszu, dawcą albo podmiotem, o którym moodpowiedzialnego za te naruszenia wa w art. 163 ust. 1 pkt 3.”; lub nieudzielanie wyjaśnień iinformacji, karę pieniężną w wysokości do 84) w art. 173: trzykrotnego miesięcznego wynagrodzenia tej osoby, wyliczonego na pod- a) wust. 1wpkt 3kropkę zastępuje się średnikiem stawie wynagrodzenia za ostatnie i dodaje pkt 4 w brzmieniu: 3 miesiące poprzedzające miesiąc, Ń4) aptek, w zakresie refundacji leków.”, Dziennik Ustaw Nr 166 — 11968 — Poz. 1172 wskazuje osobę upoważnioną do przepro- 2. Minister właściwy do spraw zdrowia wadzenia kontroli, zwaną dalej Ńkontrole- przedstawia Sejmowi Rzeczypospolirem”.”, tej Polskiej, nie póêniej niż do dnia
+    - **a)** w ust. 1 dodaje się pkt 5 w brzmieniu: jako ust. 1 i dodaje się ust. 2 w brzmieniu: Ń5) żądania udostępnienia przez podmiot, októ- Ń2. Wrazie nieusunięcia przez aptekę wwyznaczorym mowa w art. 163 ust. 1 pkt 4, wszelkich nym terminie stwierdzonych nieprawidłowości informacji, dokumentów i wyjaśnień doty- minister właściwy do spraw zdrowia może naczących refundacji leków.”, łożyć na aptekę karę pieniężną wwysokości do
+    - **b)** ust. 3 otrzymuje brzmienie: trzykrotnego przeciętnego wynagrodzenia.”;
+    - **c)** ust. 5 otrzymuje brzmienie: 2. Wprzypadku stwierdzenia na podstaŃ5. W terminie 3 dni od dnia upływu terminu wie uzyskanych informacji, wyjaśwyznaczonego do usunięcia nieprawidło- nień lub dokumentów, o których mowości Fundusz, świadczeniodawca, pod- wa w art. 165 ust. 1 pkt 5, rażącego miot, októrym mowa wart. 163 ust. 1pkt 3, naruszenia prawa lub rażącego narulub apteka informuje pisemnie ministra wła- szenia interesu świadczeniobiorców ściwego do spraw zdrowia o sposobie usu- przez aptekę minister właściwy do nięcia nieprawidłowości.”; spraw zdrowia może nałożyć na apte80) art. 167 otrzymuje brzmienie: kę karę pieniężną w wysokości do ŃArt. 167. 1. Wprzypadku naruszenia prawa, statu- sześciokrotnego przeciętnego wynatu Funduszu lub interesów świadcze- grodzenia.”;
+    - **b)** ust. 3 otrzymuje brzmienie: póêniej niż do dnia 30 czerwca roku Ń3. Minister właściwy do spraw zdrowia wupo- następnego, przyjęte przez Radę Funważnieniu do przeprowadzenia kontroli duszu roczne sprawozdanie z działalokreśla przedmiot i zakres kontroli oraz ności Funduszu.
+    - **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: 31 sierpnia roku następnego, roczne sprawozdanie z działalności FunduŃ4a. Kontrolerzy, w zakresie ustalonym w upo- szu, o którym mowa w ust. 1, po zaważnieniu ministra właściwego do spraw opiniowaniu tego sprawozdania zdrowia, mają prawo do: przez ministra właściwego do spraw
 
-- **i)**
-- **j)**
+- **1)** wstępu do wszystkich pomieszczeń kon- finansów publicznych, wraz ze swoim trolowanego podmiotu; stanowiskiem w sprawie tego sprawozdania.”;
+- **2)** swobodnego dostępu do:
+    - **a)** oddzielnego pomieszczenia biurowe- 88) w art. 188: go, przeznaczonego wyłącznie na po- a) wust. 1wprowadzenie do wyliczenia otrzymuje trzeby wykonywania zadań przez brzmienie: kontrolera, ŃFundusz jest uprawniony do przetwarzania dab) środków łączności; nych osobowych ubezpieczonych w celu:”,
 
-9. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w ust. 1, sposób jego składania oraz format przekazywanych danych, z uwzględnieniem przepisów ust. 2, mając na względzie zapewnienie jednolitości zakresu i rodzaju danych. ” ;
+- **3)** wglądu do wszelkich dokumentów kontrolowanego podmiotu oraz żądania b) po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: sporządzenia kopii, odpisów iwyciągów Ń1a. Fundusz jest uprawniony do przetwarzania z tych dokumentów; danych osobowych osób, o których mowa
+- **4)** wglądu do danych zawartych w syste- w art. 2 ust. 1 pkt 2, w celu: mie informatycznym kontrolowanego 1) rozliczania ze świadczeniodawcami; podmiotu oraz żądania sporządzenia ko- 2) rozliczania dotacji, o której mowa pii lub wyciągów z tych danych, w tym w art. 116 ust. 1 pkt 5; w formie elektronicznej;
+- **3)** kontroli przestrzegania zasad legalno5) żądania wyjaśnień ustnych lub pisem- ści, gospodarności, rzetelności i celonych od osób pozostających w stosun- wości finansowania udzielanych świadku pracy, zlecenia lub innym stosunku czeń opieki zdrowotnej; prawnym o podobnym charakterze z kontrolowanym podmiotem, w tym 4) kontroli rodzaju, zakresu i przyczyny w formie elektronicznej; udzielanych świadczeń opieki zdrowotnej.
+- **6)** żądania przekazania niezbędnych danych lub sporządzenia zestawień da- 1b. Fundusz jest uprawniony do przetwarzania nych, w tym w formie elektronicznej; danych osobowych osób, o których mowa wart. 2ust. 1pkt 3, wcelu rozliczania kosz7) zabezpieczenia dokumentów i innych tów refundacji leków.”, dowodów.”,
+    - **c)** wust. 2wprowadzenie do wyliczenia otrzymuje
+    - **d)** uchyla się ust. 10; brzmienie:
 
-- **21)** po art. 39 dodaje się art. 39a-39c w brzmieniu: „
+- **85)** po art. 179 dodaje się art. 179a w brzmieniu: ŃFundusz jest uprawniony do przetwarzania danych osobowych osób uprawnionych do świadŃArt. 179a. Przepisy art. 173—179 stosuje się do czeń opieki zdrowotnej na podstawie przepisów kontroli przeprowadzanych przez mini- o koordynacji oraz umów międzynarodowych stra właściwego do spraw finansów w celu:”, publicznych.”;
+    - **d)** po ust. 2 dodaje się ust. 2a w brzmieniu:
 
-**Art. 39a.**
+- **86)** w art. 181 ust. 2 otrzymuje brzmienie: Ń2a. Fundusz jest uprawniony do uzyskiwania Ń2. Wsprawach, októrych mowa wart. 163 ust. 2, i przetwarzania danych osobowych związaart. 164, art. 165 ust. 3, art. 167, art. 170 i 171, nych zrealizacją zadań określonych wart. 97 minister właściwy do spraw zdrowia wydaje ust. 3pkt 2i3a.”, decyzje administracyjne.”;
+    - **e)** w ust. 3:
 
-1. Tworzy się Rejestr Korzyści, zwany dalej „Rejestrem”.
+- **87)** art. 187 otrzymuje brzmienie: — wprowadzenie do wyliczenia otrzymuje ŃArt. 187. 1. Prezes Funduszu przedstawia corocz- brzmienie: nie ministrowi właściwemu do spraw ŃMinister właściwy do spraw zdrowia jest zdrowia oraz ministrowi właściwemu uprawniony do przetwarzania danych osodo spraw finansów publicznych, nie bowych:”, Dziennik Ustaw Nr 166 — 11969 — Poz. 1172 — dodaje się pkt 3 w brzmieniu: 90) w art. 190: Ń3) osób, o których mowa w art. 2 ust. 1 a) ust. 1 otrzymuje brzmienie: pkt 2i3, wcelu, októrym mowa wust. 1 Ń1. Minister właściwy do spraw zdrowia, po zapkt 4—8.”, sięgnięciu opinii Prezesa Głównego Urzędu Ń22) data zgłoszenia do ubezpieczenia zdrowotnego; 91) po art. 192 dodaje się art. 192a w brzmieniu:
+    - **f)** w ust. 4: Statystycznego, Prezesa Funduszu, Naczel— uchyla się pkt 6, nej Rady Lekarskiej i Naczelnej Rady Pielęgniarek i Położnych, określi, w drodze roz— pkt 15 i 16 otrzymują brzmienie: porządzenia, zakres niezbędnych informacji Ń15) rodzaj uprawnień oraz numer i termin gromadzonych przez świadczeniodawców, ważności dokumentu potwierdzającego w tym sposób obliczania średniego czasu uprawnienia osób, o których mowa oczekiwania na udzielenie świadczenia opiew art. 43 ust. 1, art. 44 ust. 1, art. 45 ki zdrowotnej, szczegółowy sposób rejestroust. 1 iart. 46 ust. 1, atakże osób posia- wania tych informacji oraz ich przekazywadających na podstawie odrębnych prze- nia ministrowi właściwemu do spraw zdropisów szersze uprawnienia do świad- wia, Funduszowi lub innemu podmiotowi czeń opieki zdrowotnej niż wynikające zobowiązanemu do finansowania świadz ustawy; czeń ze środków publicznych, w tym także rodzaje wykorzystywanych nośników infor16) dotyczące udzielonych świadczeń opieki macji oraz wzory dokumentów, biorąc pod zdrowotnej świadczeniobiorcom, o któ- uwagę zakres zadań wykonywanych przez rych mowa wart. 2ust. 1pkt 3;”, te podmioty oraz uwzględniając potrzebę — w pkt 21 kropkę zastępuje się średnikiem ochrony danych osobowych.”, i dodaje pkt 22—27 w brzmieniu: b) uchyla się ust. 4;
 
-2. W Rejestrze ujawniane są korzyści uzyskiwane przez członków grup i zespołów biorących udział w pracach nad przygotowaniem wykazów, o których mowa w art. 36 ust. 5 pkt 1 i art. 37 ust. 2 pkt 2.
+- **23)** data wyrejestrowania z ubezpieczenia ŃArt. 192a. Wcelu potwierdzenia udzielenia świadzdrowotnego; czeń opieki zdrowotnej, Fundusz może zwrócić się do świadczeniobiorcy o in24) okres, za który opłacono składkę na formację w zakresie udzielonych mu ubezpieczenie zdrowotne; świadczeń opieki zdrowotnej.”;
+- **25)** dane o płatniku składki na ubezpieczenie zdrowotne; 92) wdziale IX dodaje się art. 192b i192c wbrzmieniu:
+- **26)** typ dokumentu uprawniającego do ŃArt. 192b. 1. Kto, prowadząc obrót lekami lub wyświadczeń opieki zdrowotnej; robami medycznymi albo świadcząc
+- **27)** data zgonu.”; usługi farmaceutyczne, albo posiadając upoważnienie do wystawiania
+- **89)** po art. 188 dodaje się art. 188a w brzmieniu: recept na leki podlegające refundacji ze środków publicznych lub mając, ŃArt. 188a. W celu realizacji zadań określonych z racji zajmowanego stanowiska lub wustawie Fundusz jest uprawniony do pełnionej funkcji, istotny wpływ na przetwarzania następujących danych podejmowanie decyzji związanych osobowych osób udzielających świad- z zaopatrzeniem świadczeniodawcy czeń na podstawie umów o udzielanie w leki lub wyroby medyczne, żąda świadczeń opieki zdrowotnej oraz ubie- lub przyjmuje nieuzasadnioną kogających się ozawarcie takich umów: rzyść majątkową dla siebie lub oso1) nazwisko i imię (imiona); by trzeciej, albo jej obietnicę w zamian za wykonanie lub powstrzyma2) nazwisko rodowe; nie się od wykonania obowiązku
+- **3)** numer PESEL, a w przypadku jego służbowego, które prowadzi do niebraku — numer dokumentu po- uzasadnionego wzrostu poziomu twierdzającego tożsamość; sprzedaży leków lub wyrobów me4) numer prawa wykonywania zawodu dycznych podlegających refundacji — w przypadku osób, którym nada- ze środków publicznych, no ten numer; podlega karze pozbawienia wol5) dotyczących kompetencji zawodo- ności od 3 miesięcy do lat 5. wych istotnych z punktu widzenia 2. Tej samej karze podlega, kto wprzyudzielania świadczeń opieki zdro- padkach określonych wust. 1oferuwotnej na podstawie umowy z Fun- je, udziela lub obiecuje udzielić koduszem.”; rzyści majątkowej. Dziennik Ustaw Nr 166 — 11970 — Poz. 1172
 
-3. Do Rejestru należy zgłaszać informacje o:
+3. Wprzypadku mniejszej wagi spraw- b) w pkt 9 dodaje się lit. o—t w brzmieniu: ca czynu określonego w ust. 1 lub 2 Ńo) raka jelita grubego wcelu przedoperacyjnej podlega grzywnie, karze ograni- oceny zaawansowania i wczesnego rozpoczenia wolności albo pozbawie- znania nawrotu, nia wolności do lat 2. p) raka przełyku celem oceny zaawansowania
 
-- **1)** wszystkich pełnionych i zajmowanych stanowiskach i zajęciach, z tytułu których pobiera się wynagrodzenie, oraz pracy zawodowej wykonywanej na własny rachunek;
-- **2)** faktach materialnego wspierania działalności publicznej prowadzonej przez zgłaszającego informacje;
-- **3)** darowiźnie, jeżeli jej wartość przekracza 20% przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. Nr 39, poz. 353, z późn. zm.);
-- **4)** wyjazdach krajowych lub zagranicznych, jeżeli ich koszt nie został pokryty przez zgłaszającego informacje lub jego małżonka albo instytucje ich zatrudniające;
-- **5)** innych uzyskanych korzyściach, o wartościach większych niż wskazane w pkt 3, niezwiązanych z zajmowaniem stanowisk lub wykonywaniem zajęć albo pracy zawodowej, o których mowa w pkt 1.
+4. Nie podlega karze sprawca prze- przed leczeniem i wczesnego wykrycia stępstwa określonego w ust. 2 al- wznowy, bo 3 w związku z ust. 2, jeżeli ko- r) nowotworów głowy iszyi wcelu wczesnego rzyść majątkowa albo jej obietnica rozpoznania nawrotu, zostały przyjęte, asprawca zawiado- s) złośliwych guzów mózgu celem wczesnego mił otym fakcie organ powołany do rozpoznania nawrotu dla określenia miejsca ścigania przestępstw i ujawnił biopsji, wszystkie istotne okoliczności prze- t) czerniaka w celu kwalifikacji do operacji gustępstwa, zanim organ ten onim się za pojedynczego, jeżeli w skali Clarka grudowiedział. bość zmiany przekracza 1,5 mm.”.
 
-4. Do Rejestru należy także zgłaszać informacje o udziale w organach fundacji, spółek handlowych lub spółdzielni, nawet wówczas, gdy z tego tytułu nie pobiera się żadnych świadczeń pieniężnych.
+**Art. 192c.**
 
-5. Przy podawaniu informacji zgłaszający informacje jest obowiązany zachować największą staranność i kierować się swoją najlepszą wiedzą.
+1. Kto zajmując się wytwarzaniem lub obrotem lekami lub wyrobami me- Art. 2. Wustawie zdnia 24 stycznia 1991 r. okombatantach oraz niektórych osobach będących ofiarami dycznymi podlegającymi refundacji represji wojennych i okresu powojennego (Dz. U. ze środków publicznych różnicuje z 2002 r. Nr 42, poz. 371, z póên. zm. ) art. 18 otrzyceny tych leków iwyrobów medycz- muje brzmienie: nych wumowach zhurtowniami farmaceutycznymi, wtym także stosuje ŃArt. 18. Kombatanci iinne osoby uprawnione korzyuciążliwe lub niejednolite warunki stają z pierwszeństwa do środowiskowej tych umów lub uzależnia zawarcie opieki socjalnej w miejscu zamieszkania, umowy od przyjęcia lub spełnienia wuzyskaniu miejsc wdomach pomocy spoprzez hurtownię farmaceutyczną in- łecznej, wszczególności wdomach przeznanego świadczenia, niemającego rze- czonych dla kombatantów.”. czowego ani zwyczajowego związku Art. 3. W ustawie z dnia 30 sierpnia 1991 r. o zaz przedmiotem umowy, kładach opieki zdrowotnej (Dz. U. z 2007 r. Nr 14, podlega karze pozbawienia wol- poz. 89 iNr 123, poz. 849) wprowadza się następujące ności od 3 miesięcy do lat 5. zmiany:
 
-6. Informacje do Rejestru są zgłaszane za każdy rok kalendarzowy do dnia 31 stycznia roku następnego.
+2. Tej samej karze podlega, kto w wy- 1) w art. 54: padkach określonych wust. 1oferu- a) ust. 2 otrzymuje brzmienie: je, udziela lub obiecuje udzielić ko- Ń2. Zadania, o których mowa w ust. 1 pkt 1, 2 rzyści majątkowej. i 5, mogą być finansowane ze środków
 
-7. Wszystkie zmiany informacji objętych Rejestrem należy zgłosić nie później niż w terminie 30 dni od dnia zaistnienia okoliczności powodujących obowiązek zmiany informacji objętych Rejestrem.
+3. Wprzypadku mniejszej wagi spraw- publicznych pozostających wdyspozycji mica czynu określonego w ust. 1 lub 2 nistra właściwego do spraw zdrowia, podmiotu, który utworzył zakład, oraz jednostki podlega grzywnie, karze ograni- samorządu terytorialnego lub innych podczenia wolności albo pozbawie- miotów uprawnionych na podstawie odrębnia wolności do lat 2. nych przepisów.”,
 
-8. Nowo powołani członkowie grup i zespołów, o których mowa w ust. 2, zgłaszają informacje, o których mowa w ust. 3 i 4, w terminie 30 dni od dnia ich powołania, za okres 12 miesięcy poprzedzających dzień powołania.
+4. Nie podlega karze sprawca prze- b) po ust. 2a dodaje się ust. 2b w brzmieniu: stępstwa określonego w ust. 2 al- Ń2b. Umowy, o których mowa w ust. 1 pkt 1, bo 3 w związku z ust. 2, jeżeli ko- mogą być również zawierane przez zakład rzyść majątkowa albo jej obietnica ubezpieczeń działający na podstawie ustazostały przyjęte, asprawca zawiado- wy z dnia 22 maja 2003 r. o działalności mił otym fakcie organ powołany do ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, ścigania przestępstw i ujawnił zpóên. zm. ).”; wszystkie istotne okoliczności prze- ——————— stępstwa, zanim organ ten onim się dowiedział.”;
 
-9. Rejestr jest jawny. Rejestr prowadzi minister właściwy do spraw zdrowia.
+- **93)** w załączniku w ust. 2:
+    - **a)** w pkt 1 lit. a otrzymuje brzmienie: Ńa) leczenie padaczki za pomocą implantacji stymulatora nerwu błędnego, z wyjątkiem przypadków, gdy jest to jedyna możliwa do zastosowania metoda terapeutyczna,”, Dziennik Ustaw Nr 166 — 11971 — Poz. 1172
 
-10. Minister właściwy do spraw zdrowia raz w roku podaje do publicznej wiadomości w Biuletynie Informacji Publicznej informacje objęte Rejestrem.
+- **2)** w art. 67 dodaje się ust. 6—10 w brzmieniu: ków publicznych w rozumieniu przepisów ustaŃ6. Wrazie poinformowania przez ministra właści- wy z dnia 27 sierpnia 2004 r. o świadczeniach wego do spraw zdrowia owystąpieniu okolicz- opieki zdrowotnej finansowanych ze środków ności zagrażających zapewnieniu dostępu publicznych (Dz. U. Nr 210, poz. 2135, z póên. do określonych świadczeń opieki zdrowotnej zm. ) lub urzędach te podmioty obsługujących, finansowanych ze środków publicznych pod- w ramach którego wykonuje się czynności zwiąmiot sprawujący nadzór nakłada na zakład zane z przygotowywaniem, organizowaniem lub opieki zdrowotnej obowiązek podjęcia wokreś- nadzorem nad udzielaniem świadczeń opieki lonym czasie działań zmierzających do zapew- zdrowotnej. nienia dostępu do tych świadczeń.
 
-11. W przypadku niezgłoszenia informacji do Rejestru w terminie, o którym mowa w ust. 6 albo ust. 8, lub niezgłoszenia zmian danych objętych Rejestrem w terminie, o którym mowa w ust. 7, członka grupy albo zespołu, o których mowa w ust. 2, odwołuje się niezwłocznie.
+**Art. 6.** Wustawie zdnia 22 sierpnia 1997 r. opublicz7. Podmiot sprawujący nadzór informuje mini- nej służbie krwi (Dz. U. Nr 106, poz. 681, z1998 r. Nr 117, stra właściwego do spraw zdrowia oraz dyrek- poz. 756, z 2001 r. Nr 126, poz. 1382 oraz z 2003 r. tora oddziału wojewódzkiego Narodowego Nr 223, poz. 2215)uchyla się art. 10. Funduszu Zdrowia właściwego ze względu na siedzibę zakładu opieki zdrowotnej o podję- Art. 7. W ustawie z dnia 5 lipca 2001 r. o cenach tych działaniach i stanie ich realizacji. (Dz. U. Nr 97, poz. 1050, zpóên. zm. ) wprowadza się 8. Wynagrodzenie za udzielanie świadczeń, októ- następujące zmiany: rych mowa w ust. 6, jest ustalane na poziomie 1) w art. 5: wynagrodzenia wynikającego zumów oudzielanie świadczeń opieki zdrowotnej w danym a) ust. 4 otrzymuje brzmienie: rodzaju świadczeń wpoprzednim roku. Ń4. Minister właściwy do spraw zdrowia w poro9. W celu uzyskania wynagrodzenia, o którym zumieniu z ministrem właściwym do spraw mowa w ust. 8, świadczeniodawca składa finansów publicznych, po zasięgnięciu opinii wniosek do oddziału wojewódzkiego Narodo- Prezesa Narodowego Funduszu Zdrowia, wego Funduszu Zdrowia wraz z wykazem określi, w drodze rozporządzenia, wykaz zaudzielonych świadczeń opieki zdrowotnej. wierający ceny urzędowe hurtowe idetaliczne wodniesieniu do produktów leczniczych iwy10. Koszty świadczeń opieki zdrowotnej, októrych robów medycznych określonych w ust. 1, mowa w ust. 6, pokrywa oddział wojewódzki biorąc pod uwagę stanowiska wyrażone przez Narodowego Funduszu Zdrowia, do wysoko- Zespół, októrym mowa wart. 7ust. 1, atakści środków przeznaczonych na ten cel w pla- że mając na względzie równoważenie interenie finansowym.”. sów konsumentów i przedsiębiorców zajmuArt. 4. Wustawie zdnia 29 czerwca 1995 r. ostaty- jących się wytwarzaniem iobrotem tymi prostyce publicznej (Dz. U. Nr 88, poz. 439, zpóên. zm. ) duktami i wyrobami oraz biorąc pod uwagę wart. 25 wust. 1po pkt 3dodaje się pkt 3a wbrzmie- możliwości płatnicze Narodowego Funduszu niu: Zdrowia, w oparciu o kryteria ustalone wart. 7 ust. 3.”, Ń3a) coroczne sporządzanie i publikowanie w Dzien- b) po ust. 4 dodaje się ust. 4a—4c w brzmieniu: niku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski” Narodowego Rachunku Zdrowia,”. Ń4a. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do
 
-12. Informacje, o których mowa w ust. 3 i 4, obejmują również informacje o korzyściach uzyskanych przez małżonka członka grupy albo zespołu, o których mowa w ust. 2.
+**Art. 5.** W ustawie z dnia 5 grudnia 1996 r. o zawo- spraw finansów publicznych, po zasięgniędach lekarza ilekarza dentysty (Dz. U. z2005 r. Nr 226, ciu opinii Prezesa Narodowego Funduszu poz. 1943, z póên. zm. ) w art. 2 ust. 3 otrzymuje Zdrowia, określi, w drodze rozporządzenia, brzmienie: wykaz cen urzędowych hurtowych wodniesieniu do produktów leczniczych iwyrobów Ń3. Za wykonywanie zawodu lekarza uważa się tak- medycznych określonych w ust. 2, jeżeli że prowadzenie przez lekarza prac badawczych nabywane są przez zakłady lecznictwa w dziedzinie nauk medycznych lub promocji zamkniętego na zasadach określonych zdrowia, nauczanie zawodu lekarza lub zatrud- wart. 42 ust. 1pkt 1a ustawy zdnia 6wrześnienie w podmiotach zobowiązanych do finansowania świadczeń opieki zdrowotnej ze środ- ——————— ——————— Dziennik Ustaw Nr 166 — 11972 — Poz. 1172 nia 2001 r. — Prawo farmaceutyczne małżonkowie, zstępni iwstępni wlinii prostej (Dz. U. z 2004 r. Nr 53, poz. 533, z póên. oraz osoby, z którymi członkowie Zespołu zm. ) lub bezpośrednio z hurtowni farma- pozostają w stosunkach osobistych tego roceutycznej, mając na względzie równowa- dzaju, że mogłyby wywołać wątpliwości co żenie interesów konsumentów i przedsię- do ich bezstronności, oraz osoby niebędące biorców zajmujących się wytwarzaniem członkami Zespołu, którym zlecono przygoiobrotem tymi produktami iwyrobami oraz towanie ekspertyz i innych opracowań dla biorąc pod uwagę możliwości płatnicze Na- Zespołu, nie mogą być właścicielami, posiarodowego Funduszu Zdrowia, w oparciu dać akcji lub udziałów oraz zasiadać w orgaokryteria ustalone wart. 7ust. 3 pkt 1—8. nach spółek i przedsiębiorstw zajmujących się wytwarzaniem i obrotem produktami 4b. Wykaz, o którym mowa w ust. 4, jest aktu- leczniczymi iwyrobami medycznymi.”, alizowany nie rzadziej niż co 90 dni, jeżeli wpłynął co najmniej jeden kompletny wnio- b) po ust. 7 dodaje się ust. 7a—7c w brzmieniu: sek, októrym mowa wart. 6ust. 1pkt 2. Ń7a. Rozpatrując ponownie wniosek lub infor4c. W przypadku zaistnienia okoliczności, mację, októrych mowa wart. 6ust. 1, oraz o których mowa w art. 39 ust. 7b ustawy wniosek, o którym mowa w art. 39 ust. 1 z dnia 27 sierpnia 2004 r. o świadczeniach ustawy z dnia 27 sierpnia 2004 r. o świadopieki zdrowotnej finansowanych ze środ- czeniach opieki zdrowotnej finansowanych ków publicznych, minister właściwy do ze środków publicznych, minister właściwy spraw zdrowia podejmuje niezwłocznie do spraw zdrowia może: czynności w zakresie aktualizacji wykazu, 1) ustalić ceny urzędowe leku albo wyrobu o którym mowa w ust. 4.”; medycznego, umieszczając go w wyka2) wart. 6po ust. 1dodaje się ust. 1a—1c wbrzmieniu: zach, o których mowa w art. 5 ust. 1,
 
-13. Informacje, o których mowa w ust. 3 i 4, są przechowywane w Rejestrze przez 10 lat od dnia powołania członka grupy albo zespołu, o których mowa w ust. 2.
+- **2)** odmówić ustalenia cen urzędowych leŃ1a. Złożenie wniosku lub informacji, o których ku albo wyrobu medycznego inie umiemowa w ust. 1, podlega opłacie w kwocie ścić go w wykazach, o których mowa 400zł, która jest waloryzowana wkażdym ro- w art. 5 ust. 1, biorąc pod uwagę możliku prognozowanym średniorocznym wskaê- wości płatnicze podmiotu zobowiązanenikiem cen towarów iusług konsumpcyjnych go do finansowania świadczeń ze środogółem, przyjętym w ustawie budżetowej. ków publicznych oraz kryteria, októrych 1b. Uzupełnienie wniosku lub informacji, o któ- mowa w art. 7 ust. 3, rych mowa w ust. 1, podlega opłacie w kwo- 3) zmienić ceny urzędowe leku albo wyrocie 200 zł, która jest waloryzowana w każdym bu medycznego znajdującego się na wyroku prognozowanym średniorocznym wskaê- kazach, októrych mowa wart. 5 ust. 1, nikiem cen towarów i usług konsumpcyjnych ogółem, przyjętym wustawie budżetowej. 4) odmówić zmiany cen urzędowych leku albo wyrobu medycznego znajdującego 1c. Opłaty, o których mowa w ust. 1a i 1b, są się na wykazach, o których mowa wnoszone na rachunek urzędu obsługujące- wart. 5 ust. 1, biorąc pod uwagę możligo ministra właściwego do spraw zdrowia wości płatnicze podmiotu zobowiązanei stanowią dochód budżetu państwa.”; go do finansowania świadczeń ze środków publicznych oraz kryteria, októrych
+- **3)** w art. 7: mowa w art. 7 ust. 3. wia, ministra właściwego do spraw finansów 7c. Od decyzji ministra właściwego do spraw publicznych i ministra właściwego do spraw zdrowia, o której mowa w ust. 7b, przysługospodarki. W pracach Zespołu mogą guje skarga do sądu administracyjnego.”. uczestniczyć trzej przedstawiciele Narodowego Funduszu Zdrowia, wyłonieni w trybie Art. 8. W ustawie z dnia 6 września 2001 r. — Praokreślonym wprzepisach wydanych na pod- wo farmaceutyczne (Dz. U. z 2004 r. Nr 53, poz. 533, stawie ust. 8 pkt 4. Członkowie Zespołu, ich z póên. zm. ) wprowadza się następujące zmiany: ——————— ——————— Dziennik Ustaw Nr 166 — 11973 — Poz. 1172
+    - **a)** ust. 2 otrzymuje brzmienie: 7b. Minister właściwy do spraw zdrowia wyŃ2. Wskład Zespołu wchodzi po trzech przedsta- daje decyzję wprzypadku, októrym mowa wicieli ministra właściwego do spraw zdro- w ust. 7a pkt 2 i 4.
 
-1. Osoby niebędące członkami grup lub zespołów, o których mowa w art. 39a ust. 2, przed przyjęciem zlecenia na przygotowanie ekspertyzy albo innego opracowania dla grupy lub zespołu, są obowiązane każdorazowo do złożenia do Rejestru oświadczenia zawierającego informacje, o których mowa w art. 39a ust. 3 i 4, za ostatnie 12 miesięcy poprzedzających złożenie oświadczenia.
+- **1)** w art. 28 ust. 1 otrzymuje brzmienie: sach art. 25 i 26 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą. Ń1. Produkt leczniczy dopuszczony do obrotu na podstawie pozwolenia, októrym mowa wart. 7 2. W przypadku określonym w ust. 1 przez wymaust. 2, podlega wpisowi do Rejestru Produktów gane zgodnie z przepisami art. 26 ustawy, o której Leczniczych Dopuszczonych do Obrotu na tery- mowa w art. 1, w brzmieniu dotychczasowym, uzytorium Rzeczypospolitej Polskiej, zwanego dalej skanie zgody ministra właściwego do spraw zdrowia, ŃRejestrem”.”; rozumie się uzyskanie zgody Prezesa Narodowego
+- **2)** w art. 103 w ust. 2 po pkt 4 dodaje się pkt 4a Funduszu Zdrowia. Ilekroć w treści wniosku mowa w brzmieniu: jest o ministrze właściwym do spraw zdrowia rozumie się przez to Prezesa Narodowego Funduszu ZdroŃ4a) apteka przekazuje, z wyłączeniem Inspekcji wia. Farmaceutycznej i Narodowego Funduszu Zdrowia, dane umożliwiające identyfikację 3. Wnioski, o których mowa w ust. 1, złożone do indywidualnego pacjenta, lekarza lub świad- ministra właściwego do spraw zdrowia inierozpatrzoczeniodawcy.”. ne przed dniem 31 grudnia 2007 r. zostaną niezwłocznie przekazane do rozpatrzenia przez Prezesa NarodoArt. 9. W ustawie z dnia 28 paêdziernika 2002 r. wego Funduszu Zdrowia. oodpowiedzialności podmiotów zbiorowych za czyny zabronione pod groêbą kary (Dz. U. Nr 197, poz. 1661, Art. 13. 1. Wnioskodawcy, októrych mowa wart. 39 z póên. zm. ) w art. 16 w ust. 1 pkt 3 otrzymuje ust. 1 ustawy, o której mowa w art. 1, w brzmieniu brzmienie: nadanym niniejszą ustawą, którzy złożyli wnioski przed dniem wejścia w życie niniejszej ustawy, są obowiązaŃ3) łapownictwa i płatnej protekcji, określone w: ni w terminie 60 dni od dnia wejścia w życie niniejszej
+    - **a)** art. 228—230a, art. 250a, art. 296a i art. 296b ustawy do uzupełnienia wniosków odane wymienione Kodeksu karnego, w art. 39 ust. 2 pkt 7, 8 i 11 ustawy, o której mowa wart. 1, wbrzmieniu nadanym niniejszą ustawą.
+    - **b)** art. 192b i art. 192c ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2. W przypadku nieuzupełnienia wniosków w terNr 210, poz. 2135, zpóên. zm. );”. minie określonym w ust. 1 stosuje się przepis art. 39 ust. 4 ustawy, o której mowa w art. 1.
 
-2. Zlecenia można udzielić wyłącznie osobie, która złożyła oświadczenie, o którym mowa w ust. 1.
+**Art. 10.** Wustawie zdnia 8września 2006 r. oPaństwowym Ratownictwie Medycznym (Dz. U. Nr 191, 3. Wnioski, o których mowa w ust. 1, uzupełnione poz. 1410 oraz z 2007 r. Nr 89, poz. 590) uchyla się o dane wymienione w art. 39 ust. 2 pkt 7, 8 i 11 ustaart. 7. wy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, są traktowane jako wnioski złożone pierwszego roboczego dnia pierwszego kwartału naArt. 11. W ustawie z dnia 29 czerwca 2007 r. stępującego po dniu wejścia wżycie niniejszej ustawy. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o ubezpieczeniach obowiązkowych, Ubezpieczenio- 4. Przepisów art. 39 ust. 2a—2c ustawy, o której wym Funduszu Gwarancyjnym iPolskim Biurze Ubez- mowa w art. 1, w brzmieniu nadanym niniejszą ustapieczycieli Komunikacyjnych (Dz. U. Nr 133, poz. 922) wą, nie stosuje się do wniosków złożonych przed w art. 1 uchyla się pkt 2 oraz pkt 5—7. dniem wejścia w życie niniejszej ustawy oraz do ich uzupełnień, o których mowa w ust. 1.
 
-3. Do osób, o których mowa w ust. 1, przepisy art. 39a ust. 5, 10, 12 i 13 stosuje się odpowiednio. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+**Art. 12.**
 
-- **1)** wzór zgłoszenia do Rejestru informacji, o których mowa w art. 39a ust. 3 i 4,
-- **2)** wzór oświadczenia, o którym mowa w art. 39b ust. 1,
-- **3)** sposób prowadzenia i wzór Rejestru – mając na uwadze zakres niezbędnych danych zawartych w Rejestrze lub oświadczeniu. ” ;
-- **22)** art. 43 otrzymuje brzmienie: „
+1. Wnioski złożone do dnia 31 grudnia 2007 r. zgodnie zprzepisami art. 25 i26 ustawy, októ- Art. 14. 1. Lekarz: rej mowa wart. 1, wbrzmieniu dotychczasowym, roz- 1) który posiada specjalizację I stopnia w dziedzinie patrywane są zgodnie z trybem określonym w przepi- medycyny ogólnej lub specjalizację I lub II stopnia ——————— lub tytuł specjalisty wdziedzinie chorób wewnętrznych, lub specjalizację Ilub II stopnia lub tytuł specjalisty wdziedzinie pediatrii,
 
-**Art. 43.**
+- **2)** inny niż wymieniony w pkt 1, udzielający nieprzerwanie przed dniem wejścia w życie niniejszej ustawy, przez okres nie krótszy niż 10 lat, świadczeń zdrowotnych w zakresie podstawowej opieki zdrowotnej — zachowuje po dniu wejścia w życie niniejszej ustawy prawo do udzielania świadczeń zdrowotnych w zakresie podstawowej opieki zdrowotnej. Dziennik Ustaw Nr 166 — 11974 — Poz. 1172
 
-1. Świadczeniobiorcy, który posiada tytuł „Zasłużonego Honorowego Dawcy Krwi” lub „Zasłużonego Dawcy Przeszczepu” i przedstawi legitymację „Zasłużonego Honorowego Dawcy Krwi” lub „Zasłużonego Dawcy Przeszczepu”, przysługuje bezpłatne, do wysokości limitu, o którym mowa w art. 38 ust. 1, zaopatrzenie w leki objęte wykazami:
+2. Przerwania udzielania świadczeń nie stanowi: Art. 17. Wyboru członka Rady Narodowego Funduszu Zdrowia, o którym mowa w art. 99 ust. 1 pkt 7
 
-- **1)** leków podstawowych i uzupełniających, o których mowa w art. 36 ust. 5 pkt 1,
-- **2)** leków, które świadczeniobiorca posiadający tytuł „Zasłużonego Honorowego Dawcy Krwi” lub „Zasłużonego Dawcy Przeszczepu” może stosować w związku z oddawaniem krwi lub w związku z oddawaniem szpiku lub innych regenerujących się komórek i tkanek albo narządów na podstawie recepty wystawionej przez lekarza ubezpieczenia zdrowotnego albo felczera ubezpieczenia zdrowotnego lub lekarza albo felczera niebędącego lekarzem albo felczerem ubezpieczenia zdrowotnego, jeżeli posiada uprawnienia do wykonywania zawodu oraz zawarł z oddziałem wojewódzkim Funduszu umowę upoważniającą go do wystawiania takich recept.
+- **1)** nieudzielanie świadczeń podstawowej opieki zdro- ustawy, októrej mowa wart. 1, po raz pierwszy dokowotnej przez okres krótszy niż 6 miesięcy; nuje się w terminie 30 dni od dnia wejścia w życie ni2) nieudzielanie świadczeń podstawowej opieki niejszej ustawy. zdrowotnej przez okres dłuższy niż wskazany w pkt 1 w przypadkach pobierania świadczeń, Art. 18. Dotychczasowe przepisy wykonawcze wyoktórych mowa wart. 2ustawy zdnia 25 czerwca dane na podstawie: 1999 r. oświadczeniach pieniężnych zubezpiecze- 1) art. 13 ust. 4, art. 36 ust. 5, art. 37 ust. 2, art. 38 nia społecznego w razie choroby i macierzyństwa ust. 6, art. 39 ust. 9, art. 49 ust. 5, art. 137 ust. 10 (Dz. U. z 2005 r. Nr 31, poz. 267, z 2006 r. Nr 221, i art. 190 ust. 1 ustawy z dnia 27 sierpnia 2004 r. poz. 1615 oraz z 2007 r. Nr 47, poz. 318 i Nr 115, oświadczeniach opieki zdrowotnej finansowanych poz. 792). ze środków publicznych zachowują moc do dnia wejścia wżycie nowych przepisów wykonawczych
 
-2. Osoba przedstawiająca receptę do realizacji jest obowiązana do okazania dokumentu, o którym mowa w ust. 1.
+3. Lekarz, który nie posiada wymaganego okresu wydanych na podstawie art. 13a, art. 36 ust. 5, doświadczenia zawodowego określonego w ust. 1 art. 37 ust. 2, art. 38 ust. 6, art. 39 ust. 9, art. 49 pkt 2, aktóry wdniu wejścia wżycie niniejszej ustawy ust. 9, art. 137 ust. 10 iart. 190 ust. 1ustawy zdnia udzielał świadczeń zdrowotnych w zakresie podsta- 27 sierpnia 2004 r. o świadczeniach opieki zdrowowej opieki zdrowotnej na podstawie zawartej zNa- wotnej finansowanych ze środków publicznych, rodowym Funduszem Zdrowia umowy o udzielanie w brzmieniu nadanym niniejszą ustawą, świadczeń opieki zdrowotnej albo będąc zatrudnionym lub wykonując zawód uświadczeniodawcy, zktó- 2) art. 5 ust. 4 ustawy z dnia 5 lipca 2001 r. o cenach rym Narodowy Fundusz Zdrowia zawarł umowę zachowują moc do czasu wejścia w życie nowych o udzielanie świadczeń podstawowej opieki zdrowot- przepisów wykonawczych wydanych na podstanej, zachowuje prawo do udzielania świadczeń zdro- wie art. 5 ust. 4 i 4a ustawy z dnia 5 lipca 2001 r. wotnych w zakresie podstawowej opieki zdrowotnej o cenach, w brzmieniu nadanym niniejszą ustawą do dnia 31 grudnia 2017 r. — nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-3. Osoba realizująca receptę jest obowiązana do odnotowania na rewersie recepty numeru i rodzaju dokumentu potwierdzającego uprawnienia, o których mowa w ust. 1.
-
-4. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej i Naczelnej Rady Aptekarskiej, określi, w drodze rozporządzenia, wykaz leków, które świadczeniobiorca posiadający tytuł „Zasłużonego Honorowego Dawcy Krwi” lub „Zasłużonego Dawcy Przeszczepu” może stosować w związku z oddawaniem krwi lub w związku z oddawaniem szpiku lub innych regenerujących się komórek i tkanek albo narządów, uwzględniając w szczególności konieczność zapewnienia ochrony jego zdrowia, dostępność do leków, bezpieczeństwo ich stosowania oraz możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń opieki zdrowotnej ze środków publicznych. ” ;
-
-- **23)** w art. 44 dodaje się ust. 5 w brzmieniu: „
-
-5. Osoba realizująca receptę jest obowiązana odnotować na rewersie recepty numer i rodzaj dokumentu potwierdzającego uprawnienia, o których mowa w ust. 1. ” ;
-
-- **24)** w art. 45 dodaje się ust. 5a w brzmieniu: „
-
-5a. Osoba realizująca receptę jest obowiązana odnotować na rewersie recepty numer i rodzaj dokumentu potwierdzającego uprawnienia, o których mowa w ust. 1. ” ;
-
-- **25)** w art. 46: ust. 1 otrzymuje brzmienie: „
-    - **a)**
-
-1. Inwalidom wojennym oraz osobom represjonowanym, ich małżonkom pozostającym na ich wyłącznym utrzymaniu oraz wdowom i wdowcom po poległych żołnierzach i zmarłych inwalidach wojennych oraz osobach represjonowanych, uprawnionym do renty rodzinnej, przysługuje bezpłatne zaopatrzenie w leki oznaczone symbolami „Rp” lub „Rpz”, dopuszczone do obrotu na terytorium Rzeczypospolitej Polskiej. ” , dodaje się ust. 6 w brzmieniu: „
-
-- **b)**
-
-6. Osoba realizująca receptę jest obowiązana do odnotowania na rewersie recepty numeru i rodzaju dokumentu potwierdzającego uprawnienia, o których mowa w ust. 1. ” ;
-
-- **26)** po art. 47b dodaje się art. 47c w brzmieniu: „
-
-**Art. 47c.** Osoby, o których mowa w art. 43 ust. 1, inwalidzi wojenni i wojskowi oraz kombatanci mają prawo do korzystania poza kolejnością ze świadczeń opieki zdrowotnej oraz z usług farmaceutycznych udzielanych w aptekach. ” ;
-
-**Art. 49.**
-
-1. Dokumentem potwierdzającym prawo ubezpieczonego do świadczeń opieki zdrowotnej oraz umożliwiającym potwierdzanie wykonania świadczeń opieki zdrowotnej jest karta ubezpieczenia zdrowotnego.
-
-2. Karta ubezpieczenia zdrowotnego jest kartą typu elektronicznego.
-
-3. Karta ubezpieczenia zdrowotnego zawiera w szczególności następujące dane:
-
-- **1)** imię (imiona) i nazwisko;
-- **2)** datę urodzenia;
-- **3)** numer PESEL, a w przypadku nieposiadania numeru PESEL – numer paszportu lub innego dokumentu potwierdzającego tożsamość;
-- **4)** numer identyfikacyjny instytucji ubezpieczenia zdrowotnego;
-- **5)** dwuznakowy kod ISO 3166–1 dla Rzeczypospolitej Polskiej;
-- **6)** datę ważności karty;
-- **7)** numer identyfikacyjny karty.
-
-4. Funkcję karty ubezpieczenia zdrowotnego może pełnić również inny dokument typu elektronicznego, o ile zawiera dane wskazane w ust. 3 pkt 1–3 oraz spełnia funkcje, o których mowa w ust. 1.
-
-5. Karta ubezpieczenia zdrowotnego może pełnić funkcję Europejskiej Karty Ubezpieczenia Zdrowotnego.
-
-6. Karta ubezpieczenia zdrowotnego jest wydawana bezpłatnie. W przypadku utraty karty ubezpieczenia zdrowotnego za wydanie nowej karty pobiera się opłatę w wysokości 1,5% minimalnego wynagrodzenia.
-
-7. Dyrektor oddziału wojewódzkiego Funduszu może, w szczególnie uzasadnionych przypadkach, zwolnić ubezpieczonego z obowiązku ponoszenia opłaty, o której mowa w ust. 6. Przepisy art. 109 i 110 stosuje się odpowiednio.
-
-8. W przypadku posługiwania się kartą ubezpieczenia zdrowotnego lub innym dokumentem potwierdzającym prawo do świadczeń opieki zdrowotnej przez osobę, która utraciła to prawo w okresie ważności karty lub dokumentu, osoba ta jest obowiązana do zwrotu poniesionych przez Fundusz kosztów świadczeń opieki zdrowotnej udzielonych po utracie prawa do tych świadczeń.
-
-9. Rada Ministrów określi, w drodze rozporządzenia:
-
-- **1)** wzór karty ubezpieczenia zdrowotnego oraz sposób jej wykonania, uwzględniając przepisy Unii Europejskiej w sprawie wzoru Europejskiej Karty Ubezpieczenia Zdrowotnego,
-- **2)** wzór wniosku o wydanie karty ubezpieczenia zdrowotnego,
-- **3)** szczegółowy zakres danych zawartych na karcie ubezpieczenia zdrowotnego oraz ich format,
-- **4)** tryb wydawania i anulowania karty ubezpieczenia zdrowotnego uwzględniając konieczność identyfikacji ubezpieczonych, potwierdzania prawa ubezpieczonych do świadczeń opieki zdrowotnej i elektronicznego potwierdzania wykonanych świadczeń, konieczność zapewnienia przejrzystości danych zawartych na karcie ubezpieczenia zdrowotnego oraz sprawność postępowania w sprawie wydawania i anulowania karty ubezpieczenia zdrowotnego.
-
-10. Rozporządzenie, o którym mowa w ust. 9, może także określać dokumenty mogące pełnić funkcję karty ubezpieczenia zdrowotnego, uwzględniając możliwość potwierdzenia przez te dokumenty prawa do świadczeń opieki zdrowotnej oraz funkcję potwierdzenia udzielenia tych świadczeń. ” ;
-
-- **29)** art. 51 otrzymuje brzmienie: „
-
-**Art. 51.**
-
-1. W celu potwierdzenia prawa do świadczeń opieki zdrowotnej przysługujących świadczeniobiorcy lub osobie uprawnionej do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, zgodnie z przepisami o koordynacji, na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA), oddział wojewódzki Funduszu wydaje Europejską Kartę Ubezpieczenia Zdrowotnego lub zaświadczenie o prawie do tych świadczeń.
-
-2. Europejską Kartę Ubezpieczenia Zdrowotnego i zaświadczenie, o którym mowa w ust. 1, wydaje się na zasadach i w zakresie określonych w przepisach o koordynacji.
-
-3. Zaświadczenie określone w ust. 1 dla osób, o których mowa w art. 66 ust. 1 pkt 16 i art. 67 ust. 7, zamieszkałych na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA), wydaje Mazowiecki Oddział Wojewódzki Funduszu.
-
-4. Przepisy wydane na podstawie art. 49 ust. 9 pkt 4 stosuje się odpowiednio. ” ;
-
-- **30)** art. 53 otrzymuje brzmienie: „
-
-**Art. 53.**
-
-1. Dokumentem potwierdzającym prawo do świadczeń opieki zdrowotnej osoby uprawnionej do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji jest poświadczenie wydawane przez Fundusz lub dokument potwierdzający prawo do tych świadczeń, wystawiony przez zagraniczną instytucję właściwą.
-
-2. Jeżeli poświadczenie albo dokument, o których mowa w ust. 1, nie zostaną przedstawione w przypadku:
-
-- **1)** stanu nagłego,
-- **2)** porodu przepisy art. 50 ust. 2–4, 6, 8 i 9 stosuje się odpowiednio. ” ;
-- **31)** art. 54 otrzymuje brzmienie: „
-
-**Art. 54.**
-
-1. Dokumentem potwierdzającym prawo do świadczeń opieki zdrowotnej świadczeniobiorcy, o którym mowa w art. 2 ust. 1 pkt 2, jest decyzja wójta (burmistrza, prezydenta) gminy właściwej ze względu na miejsce zamieszkania świadczeniobiorcy, potwierdzająca to prawo.
-
-2. Decyzja, o której mowa w ust. 1, powinna zawierać numer PESEL świadczeniobiorcy.
-
-3. Decyzję, o której mowa w ust. 1, wydaje się po:
-
-- **1)** przedłożeniu przez świadczeniobiorcę, o którym mowa w ust. 1, dokumentów potwierdzających: posiadanie obywatelstwa polskiego, zamieszkiwanie na terytorium Rzeczypospolitej Polskiej;
-    - **a)**
-    - **b)**
-
-- **2)** przeprowadzeniu rodzinnego wywiadu środowiskowego;
-- **3)** stwierdzeniu spełniania kryterium dochodowego, o którym mowa w art. 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej;
-- **4)** stwierdzeniu braku okoliczności, o której mowa w art. 12 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, w wyniku przeprowadzenia rodzinnego wywiadu środowiskowego, o którym mowa w pkt 2.
-
-4. Decyzję, o której mowa w ust. 1, wydaje się na wniosek świadczeniobiorcy, a w przypadku stanu nagłego – na wniosek świadczeniodawcy udzielającego świadczenia opieki zdrowotnej, złożony niezwłocznie po udzieleniu świadczenia.
-
-5. Wójt (burmistrz, prezydent) gminy właściwej ze względu na miejsce zamieszkania świadczeniobiorcy może wszcząć postępowanie w celu wydania decyzji, o której mowa w ust. 1, również z urzędu lub na wniosek właściwego oddziału wojewódzkiego Funduszu.
-
-6. W przypadku wydania decyzji, o której mowa w ust. 1, z urzędu lub na wniosek właściwego oddziału wojewódzkiego Funduszu wójt (burmistrz, prezydent) gminy właściwej ze względu na miejsce zamieszkania świadczeniobiorcy jest obowiązany dostarczyć niezwłocznie kopię tej decyzji właściwemu oddziałowi wojewódzkiemu Funduszu.
-
-7. Prawo do świadczeń opieki zdrowotnej na podstawie decyzji, o której mowa w ust. 1, przysługuje przez okres 90 dni od dnia określonego w decyzji, którym jest:
-
-- **1)** dzień złożenia wniosku,
-- **2)** w przypadku udzielania świadczeń w stanie nagłym – dzień udzielenia świadczenia chyba że w tym okresie świadczeniobiorca zostanie objęty ubezpieczeniem zdrowotnym.
-
-8. W przypadku wydania decyzji, o której mowa w ust. 1, z urzędu przez wójta (burmistrza, prezydenta) gminy właściwej ze względu na miejsce zamieszkania świadczeniobiorcy, prawo do świadczeń opieki zdrowotnej przysługuje od dnia określonego w decyzji przez okres 90 dni od tego dnia.
-
-9. Wójt (burmistrz, prezydent) gminy właściwej ze względu na miejsce zamieszkania świadczeniobiorcy, o którym mowa w art. 7 ust. 2, niezwłocznie stwierdza wygaśnięcie decyzji, o której mowa w ust. 1, w przypadku gdy w okresie, o którym mowa w ust. 7 i 8:
-
-- **1)** świadczeniobiorca zostanie objęty ubezpieczeniem zdrowotnym lub
-- **2)** w przypadku wystąpienia okoliczności, o których mowa w ust. 10.
-
-10. Świadczeniobiorca, o którym mowa w art. 7 ust. 2, jest obowiązany niezwłocznie poinformować wójta (burmistrza, prezydenta) gminy właściwej ze względu na swoje miejsce zamieszkania o:
-
-- **1)** każdej zmianie w sytuacji dochodowej lub majątkowej;
-- **2)** objęciu ubezpieczeniem zdrowotnym.
-
-11. Wójt (burmistrz, prezydent) gminy właściwej ze względu na miejsce zamieszkania świadczeniobiorcy może upoważnić kierownika ośrodka pomocy społecznej do załatwiania spraw i wydawania decyzji w jego imieniu dotyczących potwierdzania prawa do świadczeń opieki zdrowotnej.
-
-12. Przepisów ust. 1–11 nie stosuje się do medycznych czynności ratunkowych udzielanych świadczeniobiorcom innym niż ubezpieczeni przez jednostki systemu, o których mowa w art. 32 ust. 1 pkt 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, w warunkach pozaszpitalnych. ” ;
-
-- **32)** w art. 57 w ust. 2 pkt 10 otrzymuje brzmienie: „
-- **10)** dla inwalidów wojennych i wojskowych, osób represjonowanych oraz kombatantów; ” ;
-- **33)** po art. 63 dodaje się art. 63a-63c w brzmieniu: „
-
-**Art. 63a.**
-
-1. Osoby prowadzące obrót lekami lub wyrobami medycznymi oraz osoby świadczące usługi farmaceutyczne nie mogą żądać lub przyjmować nieuzasadnionej korzyści majątkowej dla siebie lub osoby trzeciej, w zamian za wykonanie lub powstrzymanie się od wykonania obowiązku służbowego, jeżeli jej uzyskanie jest uzależnione bezpośrednio lub pośrednio:
-
-- **1)** od poziomu obrotu lekami lub wyrobami medycznymi podlegającymi refundacji ze środków publicznych;
-- **2)** od takich działań tych osób, które prowadzą do zwiększenia poziomu sprzedaży leków lub wyrobów medycznych podlegających refundacji ze środków publicznych.
-
-2. Lekarz ubezpieczenia zdrowotnego, felczer ubezpieczenia zdrowotnego oraz lekarz lub felczer niebędący lekarzem albo felczerem ubezpieczenia zdrowotnego, którzy posiadają uprawnienia do wykonywania zawodu oraz zawarli z oddziałem wojewódzkim Funduszu umowę upoważniającą do wystawiania recept na leki podlegające refundacji ze środków publicznych, nie mogą żądać lub przyjmować nieuzasadnionej korzyści majątkowej dla siebie lub osoby trzeciej, w zamian za wykonanie lub powstrzymanie się od wykonania obowiązku służbowego, które prowadzą do zwiększenia poziomu sprzedaży leków lub wyrobów medycznych podlegających refundacji ze środków publicznych.
-
-3. Osoby zaopatrujące świadczeniodawcę w leki i wyroby medyczne oraz świadczeniodawcy nie mogą żądać lub przyjmować nieuzasadnionej korzyści majątkowej dla siebie lub osoby trzeciej, w zamian za wykonanie lub powstrzymanie się od wykonania obowiązku służbowego, jeżeli jej uzyskanie jest uzależnione od zakupu leku lub wyrobu medycznego podlegającego finansowaniu ze środków publicznych.
-
-4. Zabrania się oferowania, obiecywania lub udzielania korzyści, o których mowa w ust. 1–3.
-
-1. Kierownik apteki jest obowiązany, w ramach kontroli, o której mowa w art. 189, udostępnić podmiotowi zobowiązanemu do finansowania świadczeń opieki zdrowotnej ze środków publicznych, w terminie określonym przez ten podmiot, informacje o treści każdej umowy, w tym także uzgodnienia dokonanego w jakiejkolwiek formie, pomiędzy apteką a hurtownią farmaceutyczną, których celem jest nabycie leków lub wyrobów medycznych.
-
-2. W razie stwierdzenia, na podstawie informacji, o których mowa w ust. 1, naruszenia przepisów art. 63a podmiot zobowiązany do finansowania świadczeń ze środków publicznych niezwłocznie powiadamia o tym wojewódzkiego inspektora farmaceutycznego i Głównego Inspektora Farmaceutycznego.
-
-3. Podmiot realizujący zaopatrzenie w zakresie środków pomocniczych i wyrobów medycznych będących przedmiotami ortopedycznymi jest obowiązany, w ramach kontroli, o której mowa w art. 64, udostępnić podmiotowi zobowiązanemu do finansowania świadczeń ze środków publicznych, w terminie określonym przez ten podmiot, informacje o treści każdej umowy, w tym także uzgodnienia dokonanego w jakiejkolwiek formie, pomiędzy podmiotem a dostawcą, których celem jest nabycie środków pomocniczych i wyrobów medycznych będących przedmiotami ortopedycznymi.
-
-1. Przedsiębiorca zajmujący się wytwarzaniem lub obrotem lekami lub wyrobami medycznymi podlegającymi refundacji ze środków publicznych nie może:
-
-- **1)** różnicować cen tych leków lub wyrobów medycznych w umowach z hurtowniami farmaceutycznymi, w tym także stosować uciążliwych lub niejednolitych warunków tych umów;
-- **2)** uzależniać zawarcia umowy od przyjęcia lub spełnienia przez hurtownię farmaceutyczną innego świadczenia, niemającego rzeczowego ani zwyczajowego związku z przedmiotem umowy.
-
-2. Czynności prawne sprzeczne z ust. 1 są w całości lub w odpowiedniej części nieważne.
-
-3. Przepisy ust. 1 i 2 stosuje się do umów zawieranych pomiędzy podmiotem realizującym zaopatrzenie w zakresie środków pomocniczych i wyrobów medycznych będących przedmiotami ortopedycznymi dostawcom tych środków i wyrobów. ” ;
-
-- **34)** w art. 64: w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje pkt 5 w brzmieniu: „
-    - **a)**
-
-- **5)** dokumentacji medycznej dotyczącej świadczeń opieki zdrowotnej finansowanych ze środków publicznych. ” , ust. 4 otrzymuje brzmienie: „
-    - **b)**
-
-4. Kontrolę dokumentacji medycznej oraz jakości i zasadności udzielanych świadczeń opieki zdrowotnej podmiot zobowiązany do finansowania świadczeń ze środków publicznych może zlecić, w razie potrzeby, osobie posiadającej wykształcenie medyczne odpowiadające zakresowi prowadzonej kontroli, a w przypadku konieczności zbadania lub rozstrzygnięcia określonych zagadnień wymagających specjalnych kwalifikacji – powołać specjalistę w danej dziedzinie. ” , po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „
-
-- **c)**
-
-5a. Osoba przeprowadzająca kontrolę, zwana dalej „kontrolerem”, może sporządzać lub zażądać od świadczeniodawcy sporządzenia niezbędnych odpisów lub wyciągów z dokumentów, jak również zestawień i obliczeń sporządzanych na podstawie dokumentów.
-
-5b. Zgodność z oryginałami dokumentów, odpisów i wyciągów oraz zestawień i obliczeń, o których mowa w art. 5a, potwierdza świadczeniodawca lub osoba przez niego upoważniona. W przypadku odmowy, potwierdzenia dokonuje kontroler. ” , ust. 6 otrzymuje brzmienie: „
-
-- **d)**
-
-6. Z przebiegu przeprowadzonej kontroli sporządza się protokół, który jest podpisywany przez kontrolera i świadczeniodawcę. ” , po ust. 6 dodaje się ust. 6a-6f w brzmieniu: „
-
-- **e)**
-
-6a. Świadczeniodawca może w terminie 7 dni od dnia otrzymania protokołu kontroli zgłosić na piśmie zastrzeżenia do tego protokołu.
-
-6b. Zastrzeżenia do protokołu kontroli rozpatruje kontroler w terminie 14 dni. Kontroler dokonuje ich analizy i w miarę potrzeby podejmuje dodatkowe czynności kontrolne, a w przypadku stwierdzenia zasadności zastrzeżeń zmienia lub uzupełnia odpowiednią część protokołu kontroli.
-
-6c. W razie nieuwzględnienia zastrzeżeń w całości lub w części kontroler niezwłocznie przekazuje na piśmie swoje stanowisko zgłaszającemu zastrzeżenia.
-
-6d. Świadczeniodawca może odmówić podpisania protokołu, składając w terminie 7 dni od dnia jego otrzymania pisemne wyjaśnienie tej odmowy.
-
-6e. O odmowie podpisania protokołu kontroli i złożeniu wyjaśnienia kontroler czyni wzmiankę w protokole.
-
-6f. Odmowa podpisania protokołu przez świadczeniodawcę nie stanowi przeszkody do podpisania protokołu przez kontrolera i realizacji ustaleń kontroli. ” , ust. 7 otrzymuje brzmienie: „
-
-- **f)**
-
-7. Podmiot zobowiązany do finansowania świadczeń ze środków publicznych sporządza wystąpienie pokontrolne zawierające ocenę działalności kontrolowanego świadczeniodawcy i zalecenia pokontrolne w razie stwierdzenia nieprawidłowości. ” , ust. 9 otrzymuje brzmienie: „
-
-- **g)**
-
-9. Świadczeniodawca jest obowiązany, w terminie 14 dni od dnia otrzymania wystąpienia pokontrolnego albo od dnia otrzymania informacji o nieuwzględnieniu zastrzeżeń, do poinformowania podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych o sposobie wykonania zaleceń pokontrolnych oraz o podjętych działaniach lub przyczynach niepodjęcia tych działań. ” ;
-
-- **35)** w art. 66: w ust. 1: – po pkt 15 dodaje się pkt 15a w brzmieniu: „ 15a) ławnicy sądowi niepodlegający obowiązkowi ubezpieczenia zdrowotnego z innego tytułu; ” , – pkt 34 otrzymuje brzmienie: „ 34) rolnicy i ich domownicy, którzy nie podlegają ubezpieczeniu społecznemu rolników z mocy ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, niepodlegający obowiązkowi ubezpieczenia zdrowotnego na podstawie pkt 1–33 i 35; ” , – pkt 35 otrzymuje brzmienie: „ 35) członkowie rad nadzorczych posiadający miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej. ” , ust. 2 otrzymuje brzmienie: „
-    - **a)**
-    - **b)**
-
-2. Status członka rodziny osoby ubezpieczonej oraz status członka rodziny będącego osobą uprawnioną do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji zwalnia z obowiązku ubezpieczenia zdrowotnego osoby, o których mowa w ust. 1 pkt 17–20, 26–28, 30 i 33. ” ;
-
-- **36)** w art. 68 ust. 1 otrzymuje brzmienie: „
-
-1. Osoba niewymieniona w art. 66 ust. 1, pracownik przebywający na urlopie bezpłatnym lub osoba niewymieniona w art. 66 ust. 1, do której ma zastosowanie art. 13 ust. 2 lit. f rozporządzenia Rady (EWG) nr 1408/71 w sprawie stosowania systemów zabezpieczenia społecznego do pracowników najemnych, osób prowadzących działalność na własny rachunek i do członków ich rodzin przemieszczających się we Wspólnocie (Dz. Urz. WE L 149 z 05.07.1971, str. 2, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 1, str. 35), może ubezpieczyć się dobrowolnie na podstawie pisemnego wniosku złożonego w Funduszu, jeżeli ma miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej. ” ;
-
-- **37)** w art. 69 ust. 3 otrzymuje brzmienie: „
-
-3. Pracownik korzystający z urlopu bezpłatnego traci prawo do świadczeń z ubezpieczenia zdrowotnego po upływie 30 dni od dnia rozpoczęcia urlopu. ” ;
-
-- **38)** w art. 73: pkt 17 otrzymuje brzmienie: „
-    - **a)**
-
-- **17)** osób, o których mowa w art. 66 ust. 1 pkt 35, powstaje z dniem powołania na członka rady nadzorczej, a wygasa w dniu zaprzestania pełnienia tej funkcji; ” , po pkt 17 dodaje się pkt 17a w brzmieniu: „
-    - **b)**
-
-- **17a)** ławników sądowych, o których mowa w art. 66 ust. 1 pkt 15a, powstaje z dniem wyboru na stanowisko ławnika sądowego, a wygasa z dniem upływu kadencji lub wcześniejszego wygaśnięcia mandatu. ” ;
-- **39)** w art. 75: po ust. 3 dodaje się ust. 3a w brzmieniu: „
-    - **a)**
-
-3a. Osoby, o których mowa w art. 66 ust. 1 pkt 15a, zgłasza do ubezpieczenia zdrowotnego sąd, w którym ławnik pełni swoją funkcję. ” , ust. 17 otrzymuje brzmienie: „
-
-- **b)**
-
-17. Osoby, o których mowa w art. 66 ust. 1 pkt 35, zgłasza do ubezpieczenia zdrowotnego podmiot, w którym działa rada nadzorcza. ” ;
-
-- **40)** w art. 77: w ust. 2 po pkt 4 dodaje się pkt 4a w brzmieniu: „
-    - **a)**
-
-- **4a)** płeć; ” , w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku zgłoszenia do ubezpieczenia zdrowotnego członków rodzin, o których mowa w art. 3 ust. 2 pkt 5 i 6, podmiot obowiązany do zgłoszenia ubezpieczonego przesyła odpowiednio do Zakładu Ubezpieczeń Społecznych albo do Kasy Rolniczego Ubezpieczenia Społecznego dane wymienione w ust. 2 oraz następujące dane dotyczące członka rodziny: ” ;
-    - **b)**
-
-- **41)** w art. 80 ust. 2 i 3 otrzymują brzmienie: „
-
-2. Rolnik prowadzący działalność w zakresie działów specjalnych produkcji rolnej w rozumieniu ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników opłaca ponadto składki na ubezpieczenie zdrowotne od deklarowanej podstawy wymiaru składki:
-
-- **1)** odpowiadającej dochodowi ustalonemu dla opodatkowania podatkiem dochodowym od osób fizycznych, w kwocie nie niższej jednak niż kwota odpowiadająca wysokości minimalnego wynagrodzenia;
-- **2)** odpowiadającej minimalnemu wynagrodzeniu, w przypadku prowadzenia działalności niepodlegającej opodatkowaniu podatkiem dochodowym od osób fizycznych.
-
-3. Podstawą wymiaru składki dla rolnika, o którym mowa w art. 66 ust. 1 pkt 34, oraz dla domowników, o których mowa w art. 66 ust. 1 pkt 1 lit. b i pkt 34, jest kwota odpowiadająca wysokości minimalnego wynagrodzenia. ” ;
-
-- **42)** w art. 81 w ust. 8: po pkt 1 dodaje się pkt 1a w brzmieniu: „
-    - **a)**
-
-- **1a)** osób, o których mowa w art. 66 ust. 1 pkt 15a, jest kwota uzyskiwanej diety; ” , pkt 5 otrzymuje brzmienie: „
-    - **b)**
-
-- **5)** osób, o których mowa w art. 66 ust. 1 pkt 24, jest kwota odpowiadająca wysokości pobieranego zasiłku dla bezrobotnych lub stypendium, a w przypadku niepobierania przez bezrobotnego zasiłku lub stypendium kwota odpowiadająca wysokości zasiłku dla bezrobotnych; ” , pkt 6 otrzymuje brzmienie: „
-    - **c)**
-
-- **6)** osób, o których mowa w art. 66 ust. 1 pkt 25, jest kwota zasiłku przedemerytalnego lub świadczenia przedemerytalnego, a w przypadku niepobierania zasiłku przedemerytalnego lub świadczenia przedemerytalnego kwota odpowiadająca wysokości świadczenia przedemerytalnego; ” , pkt 12 otrzymuje brzmienie: „
-    - **d)**
-
-- **12)** osób, o których mowa w art. 66 ust. 1 pkt 35, jest kwota przychodu w rozumieniu przepisów o podatku dochodowym od osób fizycznych otrzymywanego z tytułu pełnionej funkcji. ” ;
-- **43)** w art. 82 ust. 2 otrzymuje brzmienie: „
-
-2. W przypadku gdy w ramach jednego z tytułów do objęcia obowiązkiem ubezpieczenia zdrowotnego wymienionych w art. 66 ust. 1 ubezpieczony uzyskuje więcej niż jeden przychód, składka na ubezpieczenie zdrowotne jest opłacana od każdego z uzyskanych przychodów odrębnie. ” ;
-
-- **44)** w art. 83 uchyla się ust. 4–6;
-- **45)** w art. 84 dodaje się ust. 3 w brzmieniu: „
-
-3. Przy opłacaniu składki na ubezpieczenie zdrowotne ubezpieczony wymieniony w ust. 2 podaje:
-
-- **1)** nazwisko i imię;
-- **2)** adres zamieszkania;
-- **3)** numer PESEL, a w przypadku jego nienadania – numer i serię innego dokumentu potwierdzającego tożsamość ubezpieczonego wymienionego w ust. 2 lub numer dokumentu potwierdzającego jego prawo do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji i, jeżeli nadano, numer NIP;
-- **4)** okres, którego dotyczy składka na ubezpieczenie zdrowotne. ” ;
-- **46)** w art. 85: ust. 16 otrzymuje brzmienie: „
-    - **a)**
-
-16. Za członka rady nadzorczej składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza podmiot, w którym działa rada nadzorcza. ” , dodaje się ust. 17 w brzmieniu: „
-
-- **b)**
-
-17. Za osobę, o której mowa w art. 66 ust. 1 pkt 15a, składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza sąd, w którym ławnik pełni swoją funkcję. ” ;
-
-- **47)** w art. 87: ust. 7 otrzymuje brzmienie: „
-    - **a)**
-
-7. Zakład Ubezpieczeń Społecznych i Kasa Rolniczego Ubezpieczenia Społecznego przekazują do centrali Funduszu dane o ubezpieczonych oraz zgłoszonych do ubezpieczenia zdrowotnego członkach rodzin ubezpieczonych, określone w art. 188 ust. 4 pkt 1, 7–9 i 13, oraz o opłaconych za nich składkach na ubezpieczenie zdrowotne, przekazane w zgłoszeniu, o którym mowa w art. 77 ust. 1 i 3, i w imiennym raporcie miesięcznym, oraz o odsetkach za zwłokę, nie później niż w ciągu 15 dni roboczych od dnia wpływu składek i odsetek oraz dokumentów umożliwiających ustalenie ich wysokości i rozdzielenie ich na ubezpieczonych. ” , ust. 9 otrzymuje brzmienie: „
-
-- **b)**
-
-9. Zakład Ubezpieczeń Społecznych i Kasa Rolniczego Ubezpieczenia Społecznego przekazują do centrali Funduszu dane, o których mowa w art. 188 ust. 4 pkt 1, 3, 4, 7–10 i 13, zawarte w zgłoszeniu, o którym mowa w art. 77 ust. 1 i 3, po przeprowadzeniu ich weryfikacji polegającej na stwierdzeniu ich zgodności z danymi objętymi ewidencją PESEL ” , po ust. 10 dodaje się ust. 10a i 10b w brzmieniu: „
-
-- **c)**
-
-10a. Do 10. dnia każdego miesiąca organ prowadzący centralną ewidencję PESEL przekazuje do centrali Funduszu w formie elektronicznej:
-
-- **1)** zbiór nowo nadanych w poprzednim miesiącu numerów PESEL i odpowiadające im: imiona, nazwiska i nazwiska rodowe oraz wskazanie rodzaju i numeru dokumentu potwierdzającego tożsamość danej osoby;
-- **2)** zbiór zawierający numery PESEL i odpowiadające im imiona, nazwiska i nazwiska rodowe osób, których zgon został zgłoszony w poprzednim miesiącu;
-- **3)** informacje o zmianie danych objętych zbiorami, o których mowa w pkt 1 i 2.
-
-10b. Format przekazywanych danych, o których mowa w ust. 10a, uzgadnia organ prowadzący ewidencję numerów PESEL i Fundusz. ” ;
-
-- **48)** w art. 97: w ust. 3: – po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) finansowanie świadczeń opieki zdrowotnej udzielanych osobom, o których mowa w art. 12 pkt 2–4 i 6 oraz w art. 2 ust. 1 pkt 3; ” , – po pkt 3a dodaje się pkt 3b w brzmieniu: „ 3b) finansowanie świadczeń opieki zdrowotnej określonych w art. 26; ” , po ust. 3 dodaje ust. 3a-3c w brzmieniu: „
-    - **a)**
-    - **b)**
-
-3a. Do zadań Funduszu należy rozliczanie z instytucjami właściwymi lub instytucjami miejsca zamieszkania w państwach członkowskich Unii Europejskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA):
-
-- **1)** kosztów świadczeń opieki zdrowotnej finansowanych z budżetu państwa z części pozostającej w dyspozycji ministra właściwego do spraw zdrowia, o których mowa w art. 11 ust. 1 pkt 4a,
-- **2)** kosztów medycznych czynności ratunkowych wykonanych przez zespoły ratownictwa medycznego, o których mowa w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, z wyłączeniem kosztów medycznych czynności ratunkowych wykonywanych przez lotnicze zespoły ratownictwa medycznego w stosunku do osób uprawnionych do tych świadczeń na podstawie przepisów o koordynacji.
-
-3b. Minister właściwy do spraw zdrowia, po ostatecznym rozliczeniu ze świadczeniodawcą świadczeń, o których mowa w art. 11 ust. 1 pkt 4a, obciąża Fundusz kosztami tych świadczeń oraz przekazuje niezbędną dokumentację dotyczącą udzielonych świadczeń wraz z kopią dokumentu potwierdzającego prawo do tych świadczeń na podstawie przepisów o koordynacji. Środki zwrócone przez instytucję państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) Fundusz przekazuje na rachunek urzędu ministra właściwego do spraw zdrowia w terminie 14 dni od dnia zidentyfikowania podstawy zwrotu.
-
-3c. W przypadku rozliczania przez Fundusz kosztów medycznych czynności ratunkowych udzielonych osobom uprawnionym do tych świadczeń na podstawie przepisów o koordynacji przez zespoły ratownictwa medycznego, Fundusz powiadamia właściwego wojewodę o należnościach przysługujących mu z tego tytułu. Środki zwrócone przez instytucję państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) Fundusz przekazuje na rachunek urzędu właściwego wojewody w terminie 14 dni od dnia zidentyfikowania podstawy zwrotu. Przepisu nie stosuje się do lotniczych zespołów ratownictwa medycznego, o których mowa w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym. ” , ust. 8 otrzymuje brzmienie: „
-
-- **c)**
-
-8. Fundusz otrzymuje dotację z budżetu państwa na sfinansowanie kosztów realizacji zadania, o którym mowa w ust. 3 pkt 2a, 3 i 3b, uwzględniającą koszty administracyjne, z zastrzeżeniem ust. 9. ” , dodaje się ust. 9 w brzmieniu: „
-
-- **d)**
-
-9. Fundusz otrzymuje dotację z budżetu państwa na sfinansowanie kosztów realizacji zadań, o których mowa w ust. 3 pkt 3, z wyjątkiem kosztów, o których mowa w art. 117 ust. 1 pkt 1a. ” ;
-
-- **49)** w art. 99: w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Rada Funduszu składa się z dziesięciu osób powoływanych przez Prezesa Rady Ministrów, przy czym: ” , – w pkt 6 kropkę zastępuje się średnikiem i dodaje pkt 7 w brzmieniu: „ 7) jednego członka powołuje się spośród kandydatów wskazanych przez ministra właściwego do spraw finansów publicznych. ” , ust. 6 otrzymuje brzmienie: „
-    - **a)**
-    - **b)**
-
-6. Członkowie Rady Funduszu nie mogą być jednocześnie:
-
-- **1)** pracownikami Funduszu;
-- **2)** świadczeniodawcami;
-- **3)** właścicielami apteki, hurtowni farmaceutycznej lub podmiotu wytwarzającego produkty lecznicze i wyroby medyczne;
-- **4)** posiadaczami akcji lub udziałów w spółkach prowadzących podmioty, o których mowa w pkt 2 i 3;
-- **5)** osobami, o których mowa w art. 112 ust. 1 pkt 2–8. ” ;
-- **50)** w art. 100 w ust. 1: pkt 5 otrzymuje brzmienie: „
-    - **a)**
-
-- **5)** podejmowanie uchwał w sprawach dotyczących majątku Funduszu i inwestycji przekraczających zakres upoważnienia statutowego dla Prezesa Funduszu oraz nabywania, zbywania i obciążania nieruchomości stanowiących własność Funduszu, a także podejmowanie uchwał w sprawach, o których mowa w art. 129 ust. 2; ” , po pkt 6 dodaje się pkt 6a w brzmieniu: „
-    - **b)**
-
-- **6a)** dokonywanie wyboru biegłego rewidenta do badania sprawozdania finansowego Funduszu; ” ;
-- **51)** w art. 102: ust. 3 otrzymuje brzmienie: „
-    - **a)**
-
-3. W przypadku rażącego naruszenia obowiązków ustawowych Prezes Rady Ministrów, na wniosek ministra właściwego do spraw zdrowia, może odwołać Prezesa Funduszu bez zasięgania opinii, o której mowa w ust. 2. W takim przypadku Prezes Rady Ministrów powierza kierowanie Funduszem jednemu z zastępców Prezesa Funduszu i niezwłocznie informuje o odwołaniu Radę Funduszu, przedstawiając jej uzasadnienie. ” , w ust. 5: – pkt 4 otrzymuje brzmienie: „ 4) przygotowywanie i przedstawianie Radzie Funduszu corocznych prognoz, o których mowa w art. 120 ust. 1 i 3; ” , – pkt 11 otrzymuje brzmienie: „ 11) sporządzanie okresowych i rocznych sprawozdań z działalności Funduszu, zawierających w szczególności informację o dostępności do świadczeń opieki zdrowotnej finansowanych ze środków Funduszu; ” , – po pkt 21 dodaje się pkt 21a w brzmieniu: „ 21a) przeprowadzanie kontroli, o której mowa w art. 64 i 189, jeżeli z uzyskanych informacji wynika konieczność przeprowadzenia takiej kontroli; ” ;
-
-- **b)**
-- **52)** w art. 103: ust. 6 otrzymuje brzmienie: „
-    - **a)**
-
-6. Prezes Funduszu i jego zastępcy nie mogą być jednocześnie:
-
-- **1)** członkami Rady Funduszu i rady oddziału wojewódzkiego Funduszu;
-- **2)** pracownikami oddziałów wojewódzkich Funduszu;
-- **3)** świadczeniodawcami;
-- **4)** właścicielami lub pracownikami apteki, hurtowni farmaceutycznej lub podmiotu wytwarzającego produkty lecznicze i wyroby medyczne;
-- **5)** posiadaczami akcji lub udziałów w spółkach prowadzących podmioty będące świadczeniodawcami oraz podmiotami, o których mowa w pkt 4;
-- **6)** osobami, o których mowa w art. 112 ust. 1 pkt 2–8. ” , po ust. 6 dodaje się ust. 6a w brzmieniu: „
-    - **b)**
-
-6a. Do głównego księgowego Funduszu stosuje się odpowiednio przepisy ust. 6 pkt 2–5. ” ;
-
-- **53)** w art. 106 ust. 7 otrzymuje brzmienie: „
-
-7. Członkowie rady oddziału wojewódzkiego Funduszu nie mogą być jednocześnie:
-
-- **1)** dyrektorami oddziałów wojewódzkich Funduszu oraz pracownikami oddziału wojewódzkiego Funduszu;
-- **2)** Prezesem Funduszu;
-- **3)** zastępcą Prezesa Funduszu;
-- **4)** pracownikami centrali Funduszu;
-- **5)** świadczeniodawcami;
-- **6)** właścicielami lub pracownikami apteki, hurtowni farmaceutycznej lub podmiotu wytwarzającego produkty lecznicze i wyroby medyczne;
-- **7)** posiadaczami akcji lub udziałów w spółkach prowadzących podmioty, o których mowa w pkt 5 i 6;
-- **8)** osobami, o których mowa w art. 112 ust. 1 pkt 2–8. ” ;
-- **54)** w art. 107: ust. 1 otrzymuje brzmienie: „
-    - **a)**
-
-1. Dyrektor oddziału wojewódzkiego Funduszu kieruje oddziałem wojewódzkim Funduszu i reprezentuje Fundusz na zewnątrz w zakresie właściwości danego oddziału. ” , w ust. 5: – pkt 3 otrzymuje brzmienie: „ 3) przygotowanie i przedstawienie radzie oddziału wojewódzkiego Funduszu projektu planu finansowego oddziału wojewódzkiego Funduszu na rok następny; ” , – dodaje się pkt 20 w brzmieniu: „ 20) zawieranie umów dobrowolnego ubezpieczenia zdrowotnego, o którym mowa w art. 68. ” , ust. 6 otrzymuje brzmienie: „
-
-- **b)**
-- **c)**
-
-6. Dyrektor oddziału wojewódzkiego Funduszu nie może być jednocześnie:
-
-- **1)** Prezesem Funduszu albo jego zastępcą:
-- **2)** głównym księgowym Funduszu;
-- **3)** pracownikiem centrali Funduszu;
-- **4)** świadczeniodawcą;
-- **5)** właścicielem lub pracownikiem apteki, hurtowni farmaceutycznej lub podmiotu wytwarzającego produkty lecznicze i wyroby medyczne;
-- **6)** posiadaczem akcji lub udziałów w spółkach prowadzących podmioty będące świadczeniodawcami oraz podmiotami, o których mowa w pkt 5;
-- **7)** osobą, o której mowa w art. 112 ust. 1 pkt 2–9. ” ;
-- **55)** w art. 108: po ust. 1 dodaje się ust. 1a w brzmieniu: „
-    - **a)**
-
-1a.
-
-##### Oddział wojewódzki Funduszu finansuje świadczeniodawcy, mającemu siedzibę na terenie województwa, z którym zawarto umowę o udzielanie świadczeń opieki zdrowotnej, koszty świadczeń opieki zdrowotnej udzielonych na terenie danego województwa osobom, o których mowa w art. 12 pkt 2–4 i 6 oraz w art. 2 ust. 1 pkt 3, z zastrzeżeniem ust. 2.
-
-**Art. 118.**
-
-1. Prezes Funduszu sporządza corocznie plan finansowy Funduszu zrównoważony w zakresie przychodów i kosztów.
-
-2. W planie finansowym Funduszu Prezes Funduszu określa wysokość:
-
-- **1)** planowanych kosztów dla centrali, w tym: kosztów finansowania działalności centrali, rezerwy na koszty realizacji zadań wynikających z przepisów o koordynacji, rezerwy na koszty świadczeń, o których mowa w art. 117 ust. 1 pkt 1a;
-    - **a)**
-    - **b)**
-    - **c)**
-
-- **2)** planowanych kosztów poszczególnych oddziałów wojewódzkich Funduszu, w tym: kosztów finansowania działalności poszczególnych oddziałów; rezerwy na koszty świadczeń opieki zdrowotnej w ramach migracji ubezpieczonych;
-    - **a)**
-    - **b)**
-
-- **3)** łącznych przychodów i kosztów Funduszu.
-
-3. Planowane środki na pokrycie kosztów finansowania przez oddziały wojewódzkie Funduszu świadczeń opieki zdrowotnej dla ubezpieczonych, z wyłączeniem środków odpowiadających przychodom wymienionym w art. 125, są dzielone pomiędzy oddziały wojewódzkie Funduszu, przy czym:
-
-- **1)** podstawą podziału środków jest liczba ubezpieczonych zarejestrowanych w oddziale wojewódzkim Funduszu, z uwzględnieniem ryzyka zdrowotnego przypisanego ubezpieczonym należącym do danej grupy wydzielonej według struktury wieku i płci, w porównaniu z grupą odniesienia;
-- **2)** wysokość środków określonych w pkt 1 koryguje się przez uwzględnienie: wskaźnika wynikającego ze zróżnicowania kosztu jednostkowego świadczenia opieki zdrowotnej, wskaźnika wynikającego z liczby i rodzaju świadczeń wysokospecjalistycznych wykonanych dla ubezpieczonych zarejestrowanych w danym oddziale wojewódzkim Funduszu przez świadczeniodawców mających umowy o udzielanie świadczeń opieki zdrowotnej zawarte z tym oddziałem wojewódzkim Funduszu, w relacji do liczby tych świadczeń ogółem w roku poprzedzającym rok, w którym ten plan jest tworzony.
-    - **a)**
-    - **b)**
-
-4. Planowane koszty finansowania świadczeń opieki zdrowotnej przez dany oddział wojewódzki Funduszu nie mogą być niższe niż wysokość kosztów finansowania świadczeń opieki zdrowotnej dla danego oddziału w roku poprzednim, zaplanowanych w planie finansowym, o którym mowa w art. 121 ust. 3 i 5 oraz art. 123 ust. 3.
-
-5. W planie finansowym, o którym mowa w art. 121 ust. 3 i 5 oraz art. 123 ust. 3, tworzy się rezerwę ogólną w wysokości 1% planowanych należnych przychodów z tytułu składek na ubezpieczenie zdrowotne.
-
-6. Przepisów ust. 3 i 4 nie stosuje się w zakresie środków przekazywanych Funduszowi z budżetu państwa na podstawie przepisów ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym. ” ;
-
-- **61)** art. 120 otrzymuje brzmienie: „
-
-**Art. 120.**
-
-1. Prezes Funduszu w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz z ministrem właściwym do spraw zdrowia w terminie do dnia 15 czerwca sporządza coroczną prognozę przychodów na kolejne 3 lata.
-
-2. Dyrektorzy oddziałów wojewódzkich Funduszu przekazują informację dotyczącą prognozowanych kosztów oddziałów w terminie do dnia 20 czerwca na podstawie prognozy, o której mowa w ust. 1.
-
-3. Prezes Funduszu w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw zdrowia w terminie do dnia 30 czerwca sporządza coroczną prognozę kosztów na kolejne 3 lata na podstawie informacji przekazanych przez dyrektorów oddziałów wojewódzkich Funduszu.
-
-4. Prezes Funduszu w terminie do dnia 5 lipca informuje dyrektorów oddziałów wojewódzkich Funduszu o przewidywanych kosztach oddziałów wojewódzkich Funduszu.
-
-5. Dyrektorzy oddziałów wojewódzkich przekazują Prezesowi Funduszu w terminie do dnia 10 lipca projekty planów finansowych oddziałów wojewódzkich Funduszu.
-
-6. Prognozy, o których mowa w ust. 1 i 3, oraz projekty planów, o których mowa w ust. 5, są podstawą do sporządzenia projektu planu finansowego na rok następny.
-
-7. Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego, organy administracji rządowej, jednostki samorządu terytorialnego, świadczeniodawcy oraz inne instytucje udzielają nieodpłatnie Funduszowi informacji koniecznych do sporządzenia prognoz, o których mowa w ust. 1 i 3. ” ;
-
-- **62)** art. 121 otrzymuje brzmienie: „
-
-**Art. 121.**
-
-1. Prezes Funduszu opracowuje projekt planu finansowego Funduszu i przedstawia go, w celu zaopiniowania, w terminie do dnia 15 lipca roku poprzedzającego rok, którego dotyczy ten plan:
-
-- **1)** Radzie Funduszu;
-- **2)** komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej.
-
-2. Niewydanie opinii, o których mowa w ust. 1, w terminie 14 dni od dnia otrzymania projektu planu finansowego jest równoznaczne z wydaniem pozytywnej opinii.
-
-3. Prezes Funduszu po rozpatrzeniu opinii, o których mowa w ust. 1, jeżeli zostały wydane, sporządza plan finansowy Funduszu i przekazuje go wraz z tymi opiniami w terminie do dnia 1 sierpnia roku poprzedzającego rok, którego dotyczy ten plan, ministrowi właściwemu do spraw zdrowia.
-
-4. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych zatwierdza plan finansowy Funduszu w terminie do dnia 14 sierpnia roku poprzedzającego rok, którego dotyczy ten plan.
-
-5. W przypadku gdy Prezes Funduszu nie przekaże w terminie, o którym mowa w ust. 3, planu finansowego Funduszu, minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych ustala, w drodze zarządzenia, plan finansowy Funduszu do dnia 14 sierpnia roku poprzedzającego rok, którego dotyczy ten plan. ” ;
-
-- **63)** art. 124 otrzymuje brzmienie: „
-
-**Art. 124.**
-
-1. Zmiany planu finansowego Funduszu można dokonać w przypadku zaistnienia sytuacji, których nie można było przewidzieć w chwili zatwierdzenia albo ustalenia planu.
-
-2. Zmiany planu finansowego Funduszu zatwierdzonego w trybie, o którym mowa w art. 121 ust. 4, może dokonać Prezes Funduszu. Przepisy art. 121 ust. 1–4 stosuje się odpowiednio.
-
-3. Zmiany planu finansowego Funduszu ustalonego zgodnie z art. 121 ust. 5 albo art. 123 ust. 3 może dokonać minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych na uzasadniony wniosek Prezesa Funduszu. Do wniosku o zmianę planu dołącza się opinię Rady Funduszu, opinie komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej.
-
-4. Prezes Funduszu, po poinformowaniu ministra właściwego do spraw zdrowia i ministra właściwego do spraw finansów publicznych, może dokonać przesunięcia kosztów w planie finansowym centrali Funduszu oraz przesunięcia kosztów w ramach kosztów administracyjnych w planie finansowym Funduszu, a także dokonać zmiany planu finansowego w zakresie środków przekazywanych Narodowemu Funduszowi Zdrowia z budżetu państwa na podstawie przepisów ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym.
-
-5. Dyrektor oddziału wojewódzkiego Funduszu, po poinformowaniu Prezesa Funduszu, może dokonać przesunięcia kosztów w ramach kosztów przeznaczonych na świadczenia opieki zdrowotnej oraz uruchomić rezerwę, o której mowa w art. 118 ust. 2 pkt 2 lit. b, w planie finansowym oddziału wojewódzkiego Funduszu.
-
-6. Prezes Funduszu podejmuje decyzję o uruchomieniu rezerwy ogólnej po uzyskaniu pozytywnych opinii ministra właściwego do spraw zdrowia oraz ministra właściwego do spraw finansów publicznych.
-
-7. Prezes Funduszu podejmuje decyzje o uruchomieniu rezerw, o których mowa w art. 118 ust. 2 pkt 1 lit. b i c, po poinformowaniu ministra właściwego do spraw zdrowia i ministra właściwego do spraw finansów publicznych.
-
-8. Zmian planu finansowego Funduszu, o których mowa w ust. 1–3, dokonuje się zgodnie z zasadami określonymi w art. 118.
-
-9. Do zmian planu finansowego, o których mowa w ust. 4–7, oraz do zmiany planu finansowego wynikającej z art. 129 ust. 3 i 4 nie stosuje się przepisów art. 118 ust. 3 oraz art. 121.
-
-10. W przypadku gdy w danym roku obrotowym wysokość kosztów, o których mowa w art. 117 ust. 1 pkt 1a, jest wyższa od wysokości rezerwy, o której mowa w art. 118 ust. 2 pkt 1 lit. c, różnica jest pokrywana z rezerwy ogólnej Funduszu.
-
-11. W przypadku gdy w danym roku obrotowym wysokość kosztów, o których mowa w art. 117 ust. 1 pkt 1a, jest niższa od wysokości rezerwy, o której mowa w art. 118 ust. 2 pkt 1 lit. c, różnicę przeznacza się na powiększenie wysokości tej rezerwy w następnym roku obrotowym. ” ;
-
-- **64)** art. 125 otrzymuje brzmienie: „
-
-**Art. 125.** Przychody Funduszu:
-
-**Art. 126.**
-
-1. Dyrektor oddziału wojewódzkiego Funduszu sporządza roczne sprawozdanie z wykonania planu finansowego oddziału wojewódzkiego Funduszu.
-
-2. Sprawozdanie, o którym mowa w ust. 1, podlega zatwierdzeniu przez radę oddziału wojewódzkiego Funduszu po przeprowadzeniu badania sprawozdania, o którym mowa w art. 128 ust. 4, przez biegłego rewidenta. ” ;
-
-- **66)** art. 129 otrzymuje brzmienie: „
-
-**Art. 129.**
-
-1. Zatwierdzony zysk netto za dany rok obrotowy przeznacza się na:
-
-- **1)** pokrycie strat z lat ubiegłych;
-- **2)** fundusz zapasowy.
-
-2. O pokryciu straty netto albo przeznaczeniu zysku netto decyduje Rada Funduszu, w drodze uchwały, z uwzględnieniem pierwszeństwa pokrycia strat z lat ubiegłych. Uchwała Rady Funduszu może być podjęta po uzyskaniu pozytywnej opinii ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw zdrowia odnośnie do sposobu podziału zysku netto lub pokrycia straty netto.
-
-3. W przypadku przyjęcia przez Radę Funduszu uchwały przewidującej przeznaczenie zysku netto za dany rok obrotowy na fundusz zapasowy Prezes Funduszu może dokonać zmiany planu finansowego na rok, w którym dokonuje się podziału zysku, przewidującej zwiększenie planowanych kosztów świadczeń opieki zdrowotnej o kwotę nie większą niż wysokość funduszu zapasowego. W tym przypadku przepisu art. 118 ust. 1 nie stosuje się.
-
-4. W przypadku zmiany planu finansowego Funduszu, o której mowa w ust. 3, przy ustalaniu wysokości środków przekazywanych poszczególnym oddziałom wojewódzkim Funduszu na finansowanie świadczeń opieki zdrowotnej uwzględnia się wyniki finansowe oddziałów wojewódzkich Funduszu za dany rok obrotowy.
-
-5. W przypadku, o którym mowa w ust. 3, oraz w przypadku przeznaczenia rezerwy, o której mowa w art. 118 ust. 2 pkt 1 lit. c, zgodnie z art. 124 ust. 11, przepisu art. 118 ust. 1 nie stosuje się.
-
-6. Przy stosowaniu art. 118 ust. 4 do planu finansowego na rok następny nie uwzględnia się środków przekazanych oddziałom wojewódzkim Funduszu zgodnie z ust. 3 i 4 oraz środków przekazanych oddziałom wojewódzkim Funduszu przy uruchomieniu rezerwy, o której mowa w art. 118 ust. 2 pkt 1 lit. c. ” ;
-
-- **67)** w art. 130: ust. 1 otrzymuje brzmienie: „
-    - **a)**
-
-1. Prezes Funduszu, na podstawie sprawozdań, o których mowa w art. 126, sporządza roczne sprawozdanie z wykonania planu finansowego Funduszu, nie później niż w ciągu 6 miesięcy od zakończenia roku, którego dotyczy sprawozdanie. ” , dodaje się ust. 4 w brzmieniu: „
-
-- **b)**
-
-4. Niewydanie opinii, o których mowa w ust. 3, w terminie 14 dni od dnia otrzymania projektu sprawozdania jest równoznaczne z wydaniem opinii pozytywnych. ” ;
-
-- **68)** w art. 135 ust. 2 otrzymuje brzmienie: „
-
-2. Fundusz realizuje zasadę jawności umów przez zamieszczenie na swojej stronie internetowej informacji o każdej zawartej umowie, z uwzględnieniem maksymalnej kwoty zobowiązania Funduszu wobec świadczeniodawcy wynikającej z zawartej umowy, rodzaju, liczby i ceny zakupionych świadczeń albo rodzaju zakupionych świadczeń, liczby jednostek rozliczeniowych (miara przyjęta do określenia wartości świadczenia opieki zdrowotnej w określonym zakresie lub rodzaju, w szczególności: punkt, porada, osobodzień) wyrażających wartość świadczenia oraz cenę jednostki rozliczeniowej, a także maksymalnej kwoty zobowiązania Funduszu wobec świadczeniodawcy wynikającej ze wszystkich zawartych umów. ” ;
-
-- **69)** w art. 136: pkt 3 otrzymuje brzmienie: „
-    - **a)**
-
-- **3)** wykaz podwykonawców oraz wymagania dla nich inne niż techniczne i sanitarne, określone w odrębnych przepisach; ” , pkt 7 otrzymuje brzmienie: „
-    - **b)**
-
-- **7)** postanowienie o rozwiązaniu umowy, które może nastąpić za uprzednim nie krótszym niż 3 miesiące okresem wypowiedzenia, chyba że strony postanowią inaczej; ” ;
-- **70)** po art. 136a dodaje się art. 136b w brzmieniu: „
-
-**Art. 136b.**
-
-1. Świadczeniodawca udzielający świadczeń opieki zdrowotnej podlega obowiązkowi ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone przy udzielaniu świadczeń opieki zdrowotnej wykonywanych na podstawie umowy o udzielanie świadczeń opieki zdrowotnej.
-
-2. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw zdrowia, po zasięgnięciu opinii samorządów zawodów medycznych oraz Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 1, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę wykonywanego zawodu oraz zakres wykonywanych zadań. ” ;
-
-- **71)** w art. 137: ust. 1 otrzymuje brzmienie: „
-    - **a)**
-
-1. Prezes Funduszu, uwzględniając przepisy niniejszego działu oraz przepisy odrębne, przygotowuje projekt ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej zawierający w szczególności rodzaje świadczeń opieki zdrowotnej, sposób wyceny, sposób finansowania oraz warunki ich udzielania. ” , po ust. 1 dodaje się ust. 1a w brzmieniu: „
-
-- **b)**
-
-1a. Projekt, o którym mowa w ust. 1, nie dotyczy ustalania standardów postępowania i procedur medycznych, które są określane przez ministra właściwego do spraw zdrowia na podstawie odrębnych przepisów. ” , ust. 2 otrzymuje brzmienie: „
-
-- **c)**
-
-2. Prezes Funduszu nie później niż do dnia 15 kwietnia przesyła projekt, o którym mowa w ust. 1, Naczelnej Radzie Lekarskiej, Naczelnej Radzie Pielęgniarek i Położnych i reprezentatywnym organizacjom świadczeniodawców. ” , ust. 6 otrzymuje brzmienie: „
-
-- **d)**
-
-6. Projekt, o którym mowa w ust. 1, podlega uzgodnieniu z podmiotami, o których mowa w ust. 2, w trybie negocjacji nie później niż do dnia 31 maja. Projekt uważa się za uzgodniony, jeżeli przedstawiciele wszystkich stron biorących udział w negocjacjach złożą pod nim własnoręczne podpisy. ” , ust. 10 otrzymuje brzmienie: „
-
-- **e)**
-
-10. W przypadku nieuzgodnienia projektu, o którym mowa w ust. 1, w terminie, o którym mowa w ust. 6, minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, ogólne warunki umów o udzielanie świadczeń opieki zdrowotnej, kierując się dobrem świadczeniobiorców oraz koniecznością zapewnienia właściwej realizacji umów, a także biorąc pod uwagę treść ustalonych warunków projektu przekazanych przez Prezesa Funduszu ministrowi właściwemu do spraw zdrowia. ” , ust. 12 otrzymuje brzmienie: „
-
-- **f)**
-
-12. W przypadku, o którym mowa w ust. 9, zmiana ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej dokonywana jest w trybie określonym w ust. 1–9, nie częściej niż raz na 2 lata, z wyjątkiem zaistnienia istotnej zmiany uwarunkowań społeczno-gospodarczych udzielania świadczeń opieki zdrowotnej lub stwierdzonych nieprawidłowości w realizacji tych umów wynikających z przepisów wydanych na podstawie ust. 9. ” ;
-
-- **72)** w art. 146 dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2 i 3 w brzmieniu: „
-
-2. Prezes Funduszu przed określeniem przedmiotu postępowania w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej, kryteriów oceny ofert i warunków wymaganych od świadczeniodawców zasięga opinii właściwych konsultantów krajowych.
-
-3. Opinia, o której mowa w ust. 2, jest przekazywana przez konsultanta krajowego Prezesowi Funduszu w wyznaczonym przez niego terminie, nie krótszym jednak niż 14 dni. Nieprzedłożenie opinii w tym terminie jest równoznaczne z wydaniem opinii pozytywnej. ” ;
-
-- **73)** w art. 149 ust. 1 otrzymuje brzmienie: „
-
-1. Odrzuca się ofertę:
-
-- **1)** złożoną przez świadczeniodawcę po terminie;
-- **2)** zawierającą nieprawdziwe informacje;
-- **3)** jeżeli Świadczeniodawca nie określił przedmiotu oferty lub nie podał proponowanej liczby lub ceny świadczeń opieki zdrowotnej;
-- **4)** jeżeli zawiera rażąco niską cenę w stosunku do przedmiotu zamówienia;
-- **5)** jeżeli jest nieważna na podstawie odrębnych przepisów;
-- **6)** jeżeli Świadczeniodawca złożył ofertę alternatywną;
-- **7)** jeżeli oferent lub oferta nie spełniają wymaganych warunków określonych w przepisach prawa oraz warunków określonych przez Prezesa Funduszu na podstawie art. 146 ust. 1 pkt 3;
-- **8)** złożoną przez świadczeniodawcę, z którym została rozwiązana przez oddział wojewódzki Funduszu prowadzący postępowanie umowa o udzielanie świadczeń opieki zdrowotnej w określonym rodzaju lub zakresie w trybie natychmiastowym z przyczyn leżących po stronie świadczeniodawcy. ” ;
-- **74)** w art. 150 ust. 1 otrzymuje brzmienie: „
-
-1. Dyrektor oddziału wojewódzkiego Funduszu unieważnia postępowanie w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej, gdy:
-
-- **1)** nie wpłynęła żadna oferta;
-- **2)** wpłynęła jedna oferta niepodlegająca odrzuceniu, z zastrzeżeniem ust. 2;
-- **3)** odrzucono wszystkie oferty;
-- **4)** kwota najkorzystniejszej oferty przewyższa kwotę, którą Fundusz przeznaczył na finansowanie świadczeń opieki zdrowotnej w danym postępowaniu;
-- **5)** nastąpiła istotna zmiana okoliczności powodująca, że prowadzenie postępowania lub zawarcie umowy nie leży w interesie ubezpieczonych, czego nie można było wcześniej przewidzieć. ” ;
-- **75)** w art. 153 ust. 3 otrzymuje brzmienie: „
-
-3. Komisja rozpatruje i rozstrzyga protest w ciągu 7 dni od dnia jego otrzymania i udziela pisemnej odpowiedzi składającemu protest. Nieuwzględnienie protestu wymaga uzasadnienia. ” ;
-
-- **76)** art. 154 otrzymuje brzmienie: „
-
-**Art. 154.**
-
-1. Świadczeniodawca biorący udział w postępowaniu może wnieść do dyrektora oddziału wojewódzkiego Funduszu, w terminie 7 dni od dnia ogłoszenia o rozstrzygnięciu postępowania, odwołanie dotyczące rozstrzygnięcia postępowania. Odwołanie wniesione po terminie nie podlega rozpatrzeniu.
-
-2. Odwołanie rozpatrywane jest w terminie 7 dni od dnia jego otrzymania. Wniesienie odwołania wstrzymuje zawarcie umowy o udzielanie świadczeń opieki zdrowotnej do czasu jego rozpatrzenia.
-
-3. Po rozpatrzeniu odwołania dyrektor oddziału wojewódzkiego Funduszu wydaje decyzję administracyjną uwzględniającą lub oddalającą odwołanie. Decyzja jest zamieszczana w terminie 2 dni od dnia jej wydania, na tablicy ogłoszeń oraz na stronie internetowej właściwego oddziału wojewódzkiego Funduszu.
-
-4. Od decyzji dyrektora oddziału wojewódzkiego Funduszu przysługuje odwołanie do Prezesa Funduszu. Odwołanie wnosi się za pośrednictwem dyrektora właściwego oddziału wojewódzkiego Funduszu.
-
-5. Świadczeniodawca wnosi odwołanie, o którym mowa w ust. 4, w terminie 7 dni od dnia otrzymania decyzji dyrektora oddziału wojewódzkiego Funduszu.
-
-6. Prezes Funduszu rozpatruje odwołanie, o którym mowa w ust. 4, w terminie 30 dni od dnia jego otrzymania i wydaje decyzję administracyjną w sprawie. Decyzja Prezesa Funduszu podlega natychmiastowemu wykonaniu.
-
-7. W przypadku uwzględnienia odwołania, o którym mowa w ust. 4, przeprowadza się ponownie postępowanie w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej. Do ponownie przeprowadzanego postępowania stosuje się odpowiednio art. 144 pkt 1 oraz art. 145.
-
-8. Od decyzji, o której mowa w ust. 6, świadczeniodawcy przysługuje skarga do sądu administracyjnego. ” ;
-
-- **77)** w art. 158 ust. 2 otrzymuje brzmienie: „
-
-2. W przypadku konieczności wprowadzenia zmian, o których mowa w ust. 1, umowa w nowym brzmieniu obowiązuje do czasu zapewnienia świadczeń na podstawie nowego postępowania w sprawie zawarcia umowy. ” ;
-
-- **78)** w art. 161: ust. 2 otrzymuje brzmienie: „
-    - **a)**
-
-2. Zażalenie, o którym mowa w ust. 1, składa się wraz z uzasadnieniem za pośrednictwem właściwego miejscowo oddziału wojewódzkiego Funduszu w terminie 14 dni od dnia dokonania czynności przez dyrektora oddziału wojewódzkiego Funduszu. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
-
-- **b)**
-
-2a. Prezes Funduszu, uwzględniając zażalenie w części lub w całości, nakłada na dyrektora oddziału wojewódzkiego Funduszu obowiązek usunięcia stwierdzonych nieprawidłowości, w szczególności poprzez uchylenie czynności, której dotyczy zażalenie, i zawiadamia świadczeniodawcę w terminie 7 dni o uwzględnieniu zażalenia. ” , ust. 3 otrzymuje brzmienie: „
-
-- **c)**
-
-3. W przypadku nieuwzględnienia zażalenia przez Prezesa Funduszu w części lub całości, świadczeniodawcy przysługuje wniosek o ponowne rozpatrzenie. ” , po ust. 3 dodaje się ust. 3a-3c w brzmieniu: „
-
-- **d)**
-
-3a. Wniosek, o którym mowa w ust. 3, świadczeniodawca może złożyć do Prezesa Funduszu w terminie 14 dni od dnia otrzymania stanowiska Prezesa na złożone przez świadczeniodawcę zażalenie.
-
-3b. Wniosek o ponowne rozpatrzenie rozpatrywany jest przez Prezesa Funduszu w terminie 14 dni od dnia jego otrzymania.
-
-3c. Zażalenie na ponowne rozpatrzenie wniosku nie przysługuje. ” ;
-
-- **79)** w art. 165: w ust. 1 dodaje się pkt 5 w brzmieniu: „
-    - **a)**
-
-- **5)** żądania udostępnienia przez podmiot, o którym mowa w art. 163 ust. 1 pkt 4, wszelkich informacji, dokumentów i wyjaśnień dotyczących refundacji leków. ” , ust. 3 otrzymuje brzmienie: „
-    - **b)**
-
-3. W razie stwierdzenia, na podstawie uzyskanych informacji, wyjaśnień i dokumentów, o których mowa w ust. 1, przypadków naruszeń prawa, statutu Funduszu lub interesu świadczeniobiorców minister właściwy do spraw zdrowia powiadamia odpowiednio Fundusz, świadczeniodawcę, podmiot, o którym mowa w art. 163 ust. 1 pkt 3, lub aptekę o stwierdzonych nieprawidłowościach oraz wydaje zalecenia mające na celu usunięcie stwierdzonych nieprawidłowości i dostosowanie działalności powiadamianego podmiotu do przepisów prawa, wyznaczając termin do usunięcia stwierdzonych nieprawidłowości i dostosowania działalności do przepisów prawa. ” , ust. 5 otrzymuje brzmienie: „
-
-- **c)**
-
-5. W terminie 3 dni od dnia upływu terminu wyznaczonego do usunięcia nieprawidłowości Fundusz, świadczeniodawca, podmiot, o którym mowa w art. 163 ust. 1 pkt 3, lub apteka informuje pisemnie ministra właściwego do spraw zdrowia o sposobie usunięcia nieprawidłowości. ” ;
-
-- **80)** art. 167 otrzymuje brzmienie: „
-
-**Art. 167.**
-
-1. W przypadku naruszenia prawa, statutu Funduszu lub interesów świadczeniobiorców, a także w przypadku odmowy udzielenia wyjaśnień i informacji, o których mowa w art. 128 ust. 5 i w art. 165 ust. 1 pkt 1–4, minister właściwy do spraw zdrowia może nałożyć na Prezesa Funduszu lub zastępcę Prezesa Funduszu albo dyrektora oddziału wojewódzkiego Funduszu, odpowiedzialnego za te naruszenia lub nieudzielanie wyjaśnień i informacji, karę pieniężną w wysokości do trzykrotnego miesięcznego wynagrodzenia tej osoby, wyliczonego na podstawie wynagrodzenia za ostatnie 3 miesiące poprzedzające miesiąc, w którym nałożono karę, niezależnie od innych środków nadzoru przewidzianych przepisami prawa.
-
-2. W przypadku naruszenia prawa lub interesów świadczeniobiorców, a także w przypadku odmowy udzielenia wyjaśnień i informacji, o których mowa w art. 165 ust. 1 pkt 5, minister właściwy do spraw zdrowia może nałożyć na aptekę karę pieniężną w wysokości do trzykrotnego przeciętnego wynagrodzenia. ” ;
-
-- **81)** w art. 170 dotychczasowe brzmienie oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „
-
-2. W razie nieusunięcia przez aptekę w wyznaczonym terminie stwierdzonych nieprawidłowości minister właściwy do spraw zdrowia może nałożyć na aptekę karę pieniężną w wysokości do trzykrotnego przeciętnego wynagrodzenia. ” ;
-
-- **82)** art. 171 otrzymuje brzmienie: „
-
-**Art. 171.**
-
-1. W przypadku stwierdzenia na podstawie uzyskanych informacji, wyjaśnień lub dokumentów, o których mowa w art. 165 ust. 1 pkt 1–4, rażącego naruszenia prawa lub rażącego naruszenia interesu świadczeniobiorców przez świadczeniodawcę lub podmiot, o którym mowa w art. 163 ust. 1 pkt 3, minister właściwy do spraw zdrowia może nałożyć na te podmioty karę pieniężną w wysokości do miesięcznej wartości umowy łączącej te podmioty z Funduszem, której dotyczą nieprawidłowości.
-
-2. W przypadku stwierdzenia na podstawie uzyskanych informacji, wyjaśnień lub dokumentów, o których mowa w art. 165 ust. 1 pkt 5, rażącego naruszenia prawa lub rażącego naruszenia interesu świadczeniobiorców przez aptekę minister właściwy do spraw zdrowia może nałożyć na aptekę karę pieniężną w wysokości do sześciokrotnego przeciętnego wynagrodzenia. ” ;
-
-- **83)** art. 172 otrzymuje brzmienie: „
-
-**Art. 172.** W przypadkach określonych w art. 170 ust. 1 i art. 171 minister właściwy do spraw zdrowia może wystąpić do dyrektora oddziału wojewódzkiego Funduszu o rozwiązanie umowy ze świadczeniodawca albo podmiotem, o którym mowa w art. 163 ust. 1 pkt 3. ” ;
-
-**Art. 179a.** Przepisy art. 173–179 stosuje się do kontroli przeprowadzanych przez ministra właściwego do spraw finansów publicznych. ” ;
-
-**Art. 187.**
-
-1. Prezes Funduszu przedstawia corocznie ministrowi właściwemu do spraw zdrowia oraz ministrowi właściwemu do spraw finansów publicznych, nie później niż do dnia 30 czerwca roku następnego, przyjęte przez Radę Funduszu roczne sprawozdanie z działalności Funduszu.
-
-2. Minister właściwy do spraw zdrowia przedstawia Sejmowi Rzeczypospolitej Polskiej, nie później niż do dnia 31 sierpnia roku następnego, roczne sprawozdanie z działalności Funduszu, o którym mowa w ust. 1, po zaopiniowaniu tego sprawozdania przez ministra właściwego do spraw finansów publicznych, wraz ze swoim stanowiskiem w sprawie tego sprawozdania. ” ;
-
-- **88)** w art. 188: w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Fundusz jest uprawniony do przetwarzania danych osobowych ubezpieczonych w celu: ” , po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „
-    - **a)**
-    - **b)**
-
-1a. Fundusz jest uprawniony do przetwarzania danych osobowych osób, o których mowa w art. 2 ust. 1 pkt 2, w celu:
-
-- **1)** rozliczania ze świadczeniodawcami;
-- **2)** rozliczania dotacji, o której mowa w art. 116 ust. 1 pkt 5;
-- **3)** kontroli przestrzegania zasad legalności, gospodarności, rzetelności i celowości finansowania udzielanych świadczeń opieki zdrowotnej;
-- **4)** kontroli rodzaju, zakresu i przyczyny udzielanych świadczeń opieki zdrowotnej.
-
-1b. Fundusz jest uprawniony do przetwarzania danych osobowych osób, o których mowa w art. 2 ust. 1 pkt 3, w celu rozliczania kosztów refundacji leków. ” , w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Fundusz jest uprawniony do przetwarzania danych osobowych osób uprawnionych do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji oraz umów międzynarodowych w celu: ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
-
-- **c)**
-- **d)**
-
-2a. Fundusz jest uprawniony do uzyskiwania i przetwarzania danych osobowych związanych z realizacją zadań określonych w art. 97 ust. 3 pkt 2 i 3a. ” , w ust. 3: – wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw zdrowia jest uprawniony do przetwarzania danych osobowych: ” , – dodaje się pkt 3 w brzmieniu: „ 3) osób, o których mowa w art. 2 ust. 1 pkt 2 i 3, w celu, o którym mowa w ust. 1 pkt 4–8. ” , w ust. 4: – uchyla się pkt 6, – pkt 15 i 16 otrzymują brzmienie: „ 15) rodzaj uprawnień oraz numer i termin ważności dokumentu potwierdzającego uprawnienia osób, o których mowa w art. 43 ust. 1, art. 44 ust. 1, art. 45 ust. 1 i art. 46 ust. 1, a także osób posiadających na podstawie odrębnych przepisów szersze uprawnienia do świadczeń opieki zdrowotnej niż wynikające z ustawy; 16) dotyczące udzielonych świadczeń opieki zdrowotnej świadczeniobiorcom, o których mowa w art. 2 ust. 1 pkt 3; ” , – w pkt 21 kropkę zastępuje się średnikiem i dodaje pkt 22–27 w brzmieniu: „ 22) data zgłoszenia do ubezpieczenia zdrowotnego; 23) data wyrejestrowania z ubezpieczenia zdrowotnego; 24) okres, za który opłacono składkę na ubezpieczenie zdrowotne; 25) dane o płatniku składki na ubezpieczenie zdrowotne; 26) typ dokumentu uprawniającego do świadczeń opieki zdrowotnej; 27) data zgonu. ” ;
-
-- **e)**
-- **f)**
-- **89)** po art. 188 dodaje się art. 188a w brzmieniu: „
-
-**Art. 188a.** W celu realizacji zadań określonych w ustawie Fundusz jest uprawniony do przetwarzania następujących danych osobowych osób udzielających świadczeń na podstawie umów o udzielanie świadczeń opieki zdrowotnej oraz ubiegających się o zawarcie takich umów:
-
-**Art. 192a.** W celu potwierdzenia udzielenia świadczeń opieki zdrowotnej, Fundusz może zwrócić się do świadczeniobiorcy o informację w zakresie udzielonych mu świadczeń opieki zdrowotnej. ” ;
-
-**Art. 2.** W ustawie z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2002 r. Nr 42, poz. 371, z późn. zm.) art. 18 otrzymuje brzmienie: „
-
-**Art. 18.** Kombatanci i inne osoby uprawnione korzystają z pierwszeństwa do środowiskowej opieki socjalnej w miejscu zamieszkania, w uzyskaniu miejsc w domach pomocy społecznej, w szczególności w domach przeznaczonych dla kombatantów. ” . W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. Nr 14, poz. 89 i Nr 123, poz. 849) wprowadza się następujące zmiany:
-
-**Art. 4.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. Nr 88, poz. 439, z późn. zm.) w art. 25 w ust. 1 po pkt 3 dodaje się pkt 3a w brzmieniu: „
-
-**Art. 5.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2005 r. Nr 226, poz. 1943, z późn. zm.) w art. 2 ust. 3 otrzymuje brzmienie: „ 3. Za wykonywanie zawodu lekarza uważa się także prowadzenie przez lekarza prac badawczych w dziedzinie nauk medycznych lub promocji zdrowia, nauczanie zawodu lekarza lub zatrudnienie w podmiotach zobowiązanych do finansowania świadczeń opieki zdrowotnej ze środków publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm.) lub urzędach te podmioty obsługujących, w ramach którego wykonuje się czynności związane z przygotowywaniem, organizowaniem lub nadzorem nad udzielaniem świadczeń opieki zdrowotnej. ” ;
-
-**Art. 6.** W ustawie z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. Nr 106, poz. 681, z 1998 r. Nr 117, poz. 756, z 2001 r. Nr 126, poz. 1382 oraz z 2003 r. Nr 223, poz. 2215) uchyla się art. 10.
-
-**Art. 7.** W ustawie z dnia 5 lipca 2001 r. o cenach (Dz. U. Nr 97, poz. 1050, z późn. zm.) wprowadza się następujące zmiany:
-
-**Art. 8.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2004 r. Nr 53, poz. 533, z późn. zm.) wprowadza się następujące zmiany:
-
-**Art. 9.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661, z późn. zm.) w art. 16 w ust. 1 pkt 3 otrzymuje brzmienie: „
-
-**Art. 11.** W ustawie z dnia 29 czerwca 2007 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 133, poz. 922) w art. 1 uchyla się pkt 2 oraz pkt 5–7. 1. Wnioski złożone do dnia 31 grudnia 2007 r. zgodnie z przepisami art. 25 i 26 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, rozpatrywane są zgodnie z trybem określonym w przepisach art. 25 i 26 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą. 2. W przypadku określonym w ust. 1 przez wymagane zgodnie z przepisami art. 26 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, uzyskanie zgody ministra właściwego do spraw zdrowia, rozumie się uzyskanie zgody Prezesa Narodowego Funduszu Zdrowia. Ilekroć w treści wniosku mowa jest o ministrze właściwym do spraw zdrowia rozumie się przez to Prezesa Narodowego Funduszu Zdrowia. 3. Wnioski, o których mowa w ust. 1, złożone do ministra właściwego do spraw zdrowia i nierozpatrzone przed dniem 31 grudnia 2007 r. zostaną niezwłocznie przekazane do rozpatrzenia przez Prezesa Narodowego Funduszu Zdrowia. 1. Wnioskodawcy, o których mowa w art. 39 ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, którzy złożyli wnioski przed dniem wejścia w życie niniejszej ustawy, są obowiązani w terminie 60 dni od dnia wejścia w życie niniejszej ustawy do uzupełnienia wniosków o dane wymienione w art. 39 ust. 2 pkt 7, 8 i 11 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą. 2. W przypadku nieuzupełnienia wniosków w terminie określonym w ust. 1 stosuje się przepis art. 39 ust. 4 ustawy, o której mowa w art. 1. 3. Wnioski, o których mowa w ust. 1, uzupełnione o dane wymienione w art. 39 ust. 2 pkt 7, 8 i 11 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, są traktowane jako wnioski złożone pierwszego roboczego dnia pierwszego kwartału następującego po dniu wejścia w życie niniejszej ustawy. 4. Przepisów art. 39 ust. 2a-2c ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do wniosków złożonych przed dniem wejścia w życie niniejszej ustawy oraz do ich uzupełnień, o których mowa w ust. 1.
-
-**Art. 14.**
-
-1. Lekarz:
-
-- **1)** który posiada specjalizację I stopnia w dziedzinie medycyny ogólnej lub specjalizację I lub II stopnia lub tytuł specjalisty w dziedzinie chorób wewnętrznych, lub specjalizację I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii,
-- **2)** inny niż wymieniony w pkt 1, udzielający nieprzerwanie przed dniem wejścia w życie niniejszej ustawy, przez okres nie krótszy niż 10 lat, świadczeń zdrowotnych w zakresie podstawowej opieki zdrowotnej zachowuje po dniu wejścia w życie niniejszej ustawy prawo do udzielania świadczeń zdrowotnych w zakresie podstawowej opieki zdrowotnej.
-
-2. Przerwania udzielania świadczeń nie stanowi:
-
-- **1)** nieudzielanie świadczeń podstawowej opieki zdrowotnej przez okres krótszy niż 6 miesięcy;
-- **2)** nieudzielanie świadczeń podstawowej opieki zdrowotnej przez okres dłuższy niż wskazany w pkt 1 w przypadkach pobierania świadczeń, o których mowa w art. 2 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2005 r. Nr 31, poz. 267, z 2006 r. Nr 221, poz. 1615 oraz z 2007 r. Nr 47, poz. 318 i Nr 115, poz. 792).
-
-3. Lekarz, który nie posiada wymaganego okresu doświadczenia zawodowego określonego w ust. 1 pkt 2, a który w dniu wejścia w życie niniejszej ustawy udzielał świadczeń zdrowotnych w zakresie podstawowej opieki zdrowotnej na podstawie zawartej z Narodowym Funduszem Zdrowia umowy o udzielanie świadczeń opieki zdrowotnej albo będąc zatrudnionym lub wykonując zawód u świadczeniodawcy, z którym Narodowy Fundusz Zdrowia zawarł umowę o udzielanie świadczeń podstawowej opieki zdrowotnej, zachowuje prawo do udzielania świadczeń zdrowotnych w zakresie podstawowej opieki zdrowotnej do dnia 31 grudnia 2017 r.
-
-4. Zaświadczenie potwierdzające posiadanie prawa do udzielania świadczeń zdrowotnych w zakresie podstawowej opieki zdrowotnej na podstawie ust. 1 lub ust. 3 wydaje, na wniosek lekarza, właściwa okręgowa rada lekarska.
+4. Zaświadczenie potwierdzające posiadanie prawa do udzielania świadczeń zdrowotnych w zakresie Art. 19.Przepisy art. 66 ust. 1pkt 35, art. 73 pkt 17, podstawowej opieki zdrowotnej na podstawie ust. 1 art. 75 ust. 17, art. 77 ust. 3, art. 81 ust. 8pkt 12, art. 82 lub ust. 3 wydaje, na wniosek lekarza, właściwa okrę- ust. 2, art. 83, art. 84 ust. 3, art. 87 ust. 7 i 9 ustawy, gowa rada lekarska. o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się od pierwszego dnia miesiąca następującego po miesiącu, w którym ustawa weszła
 
 **Art. 15.**
 
-1. Przepisy art. 118 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym, tracą moc z dniem 31 grudnia 2007 r. w zakresie dotyczącym planu finansowego Funduszu na 2007 rok.
+1. Przepisy art. 118 ustawy, o której mowa w życie. w art. 1, w brzmieniu dotychczasowym, tracą moc zdniem 31 grudnia 2007 r. wzakresie dotyczącym pla- Art. 20. Ustawa wchodzi wżycie po upływie 14 dni nu finansowego Funduszu na 2007 rok. od dnia ogłoszenia, z wyjątkiem:
 
-2. Przepisy art. 118 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie po raz pierwszy do planu finansowego Funduszu na rok 2008.
+2. Przepisy art. 118 ustawy, októrej mowa wart. 1, 1) art. 1 pkt 48 lit. c, pkt 60 w zakresie art. 118 ust. 1, w brzmieniu nadanym niniejszą ustawą, mają zasto- ust. 2 pkt 1 lit. a i b, pkt 2 i ust. 3—6, pkt 63 w zasowanie po raz pierwszy do planu finansowego Fun- kresie art. 124 ust. 1—9, pkt 66 w zakresie art. 129 duszu na rok 2008. ust. 1—4 i 6, które wchodzą w życie z dniem ogłoszenia;
 
-3. Przepisy art. 121 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie po raz pierwszy do planu finansowego Funduszu na rok 2009.
+3. Przepisy art. 121 ustawy, októrej mowa wart. 1, 2) art. 1 pkt 48 lit. d, pkt 60 w zakresie art. 118 ust. 2 w brzmieniu nadanym niniejszą ustawą, mają zasto- pkt 1 lit. c, pkt 63 w zakresie art. 124 ust. 10 i 11, sowanie po raz pierwszy do planu finansowego Fun- pkt 66 wzakresie art. 129 ust. 5, oraz art. 11, które duszu na rok 2009. wchodzą w życie z dniem 1 paêdziernika 2007 r.;
 
-4. Przepisy art. 124 ust. 7 i art. 129 ust. 6 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, w zakresie w jakim dotyczą rezerwy, o której mowa w art. 118 ust. 2 pkt 1 lit. c ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia 1 października 2007 r.
+- **3)** art. 1 pkt 70, który wchodzi w życie po upływie
 
-**Art. 16.** Nie stosuje się art. 11 ust. 1a ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, przy obliczeniu kosztów średnich za rok 2004 i 2005.
+4. Przepisy art. 124 ust. 7 i art. 129 ust. 6 ustawy, 3 miesięcy od dnia ogłoszenia ustawy; o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, wzakresie wjakim dotyczą rezerwy, októ- 4) art. 1pkt 13—15, 41, 42 lit. bic, pkt 48 lit. a, pkt 58, rej mowa w art. 118 ust. 2 pkt 1 lit. c ustawy, o której 59 i 88 lit. d, które wchodzą w życie z dniem mowa w art. 1, w brzmieniu nadanym niniejszą usta- 1 stycznia 2008 r.; wą, stosuje się od dnia 1 paêdziernika 2007 r. 5) art. 1 pkt 35 lit. b, który wchodzi w życie z dniem 1 stycznia 2009 r.
 
-**Art. 17.** Wyboru członka Rady Narodowego Funduszu Zdrowia, o którym mowa w art. 99 ust. 1 pkt 7 ustawy, o której mowa w art. 1, po raz pierwszy dokonuje się w terminie 30 dni od dnia wejścia w życie niniejszej ustawy. Dotychczasowe przepisy wykonawcze wydane na podstawie:
-
-**Art. 19.** Przepisy art. 66 ust. 1 pkt 35, art. 73 pkt 17, art. 75 ust. 17, art. 77 ust. 3, art. 81 ust. 8 pkt 12, art. 82 ust. 2, art. 83, art. 84 ust. 3, art. 87 ust. 7 i 9 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się od pierwszego dnia miesiąca następującego po miesiącu, w którym ustawa weszła w życie.
-
-**Art. 20.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+**Art. 16.** Nie stosuje się art. 11 ust. 1a ustawy, októrej mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, przy obliczeniu kosztów średnich za rok 2004 i 2005. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ISSN 0867-3411 Cena 4,30 zł
 

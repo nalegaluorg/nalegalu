@@ -25,19 +25,20 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001108) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1108/text.pdf) |
 
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 18 kwietnia 2013 r. w sprawie terminów składania wniosków o dokonanie oceny polowej materiału siewnego poszczególnych grup roślin lub gatunków roślin rolniczych i warzywnych oraz szczegółowych wymagań w zakresie wytwarzania i jakości materiału siewnego tych roślin (Dz. U. poz. 517, z 2014 r. poz. 441 i 1651, z 2016 r. poz. 926 oraz z 2017 r. poz. 1003 i 2378) wprowadza się następujące zmiany:
-1) w załączniku nr 2 do rozporządzenia w części I „Wymagania dotyczące wytwarzania materiału siewnego roślin zbożowych”:
-a) w ust. 1 w tabeli „Gatunki roślin zbożowych i najniższy obowiązujący stopień kwalifikacji” po lp. 6 dodaje się lp. 6a w brzmieniu: 6a Proso zwyczajne Panicum miliaceum L. C/2
-b) ust. 3 otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia,
-c) w ust. 4 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) plantacji nasiennych prosa nie zakłada się na polu, na którym w ostatnim roku uprawiano proso lub rośliny z rodziny prosowatych.”,
-d) w ust. 5 w tabeli „Izolacja przestrzenna” po lp. 1 dodaje się lp. 1a w brzmieniu: 1a – dla prosa odległość od zasiewów innych odmian prosa lub roślin prosowatych 100 50
-e) w ust. 6 w tabeli „Czystość odmianowa” w części „gatunki podlegające ocenie według norm procentowych (czystość określona w procentach)” lp. 2 otrzymuje brzmienie: 2 proso i samopylne odmiany pszenżyta 99,7 99,0 98,0
-f) w ust. 9 w pkt 2 w lit. b w tiret drugie kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) na plantacji nasiennej prosa, która podlega ocenie według norm powierzchni, występowanie roślin uprawnych innych gatunków szkodliwych, do których zalicza się sorgo miotełkowe, sorgo sudańskie, gorczycę białą, gorczycę czarną, gorczycę sarepską, lniankę oraz rzepak jary i rzepik jary, na jednostce kwalifikacyjnej dla materiału kategorii:
-a) elitarny – nie więcej niż 0,1 rośliny,
-b) kwalifikowany – nie więcej niż 1 roślina.”,
-g) w ust. 10 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) plantacja nasienna prosa powinna być praktycznie wolna od następujących chwastów: chwastnicy jednostronnej, włośnicy sinej, włośnicy kosmatej, gorczycy polnej i dziko rosnących wyk.”;
-2) w załączniku nr 5 do rozporządzenia tabele 1–3 otrzymują brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 18 kwietnia 2013 r. w sprawie terminów składania wniosków o dokonanie oceny polowej materiału siewnego poszczególnych grup roślin lub gatunków roślin rolniczych i warzywnych oraz szczegółowych wymagań w zakresie wytwarzania i jakości materiału siewnego tych roślin (Dz. U. poz. 517, z 2014 r. poz. 441 i 1651, z 2016 r. poz. 926 oraz z 2017 r. poz. 1003 i 2378) wprowadza się następujące zmiany:
+
+- **1)** w załączniku nr 2 do rozporządzenia w części I „Wymagania dotyczące wytwarzania materiału siewnego roślin zbożowych”:
+    - **a)** w ust. 1 w tabeli „Gatunki roślin zbożowych i najniższy obowiązujący stopień kwalifikacji” po lp. 6 dodaje się lp. 6a w brzmieniu: 6a Proso zwyczajne Panicum miliaceum L. C/2
+    - **b)** ust. 3 otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia,
+    - **c)** w ust. 4 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) plantacji nasiennych prosa nie zakłada się na polu, na którym w ostatnim roku uprawiano proso lub rośliny z rodziny prosowatych.”,
+    - **d)** w ust. 5 w tabeli „Izolacja przestrzenna” po lp. 1 dodaje się lp. 1a w brzmieniu: 1a – dla prosa odległość od zasiewów innych odmian prosa lub roślin prosowatych 100 50
+    - **e)** w ust. 6 w tabeli „Czystość odmianowa” w części „gatunki podlegające ocenie według norm procentowych (czystość określona w procentach)” lp. 2 otrzymuje brzmienie: 2 proso i samopylne odmiany pszenżyta 99,7 99,0 98,0
+    - **f)** w ust. 9 w pkt 2 w lit. b w tiret drugie kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) na plantacji nasiennej prosa, która podlega ocenie według norm powierzchni, występowanie roślin uprawnych innych gatunków szkodliwych, do których zalicza się sorgo miotełkowe, sorgo sudańskie, gorczycę białą, gorczycę czarną, gorczycę sarepską, lniankę oraz rzepak jary i rzepik jary, na jednostce kwalifikacyjnej dla materiału kategorii: a) elitarny – nie więcej niż 0,1 rośliny, b) kwalifikowany – nie więcej niż 1 roślina.”,
+    - **g)** w ust. 10 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) plantacja nasienna prosa powinna być praktycznie wolna od następujących chwastów: chwastnicy jednostronnej, włośnicy sinej, włośnicy kosmatej, gorczycy polnej i dziko rosnących wyk.”;
+
+- **2)** w załączniku nr 5 do rozporządzenia tabele 1–3 otrzymują brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
 ## Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 3 czerwca 2019 r. (Dz. U.
 

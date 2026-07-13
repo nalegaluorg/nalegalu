@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000805) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/805/text.pdf) |
 
 zmieniające rozporządzenie w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego Na podstawie art. 175a ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2017 r. poz. 959 i 1089 oraz z 2018 r. poz. 138 i 650) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 20 lutego 2013 r. w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego (Dz. U. poz. 275 oraz z 2018 r. poz. 26) w § 2 w ust. 1 uchyla się pkt 2.
-§ 2. Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2018 r.
-Minister Infrastruktury: A. Adamczyk
+
+**§ 1.** W rozporządzeniu Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 20 lutego 2013 r. w sprawie dokumentów oraz informacji wymaganych przy ubieganiu się o zezwolenie na zarządzanie lotniskiem użytku publicznego (Dz. U. poz. 275 oraz z 2018 r. poz. 26) w § 2 w ust. 1 uchyla się pkt 2.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2018 r. Minister Infrastruktury: A. Adamczyk
 

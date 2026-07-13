@@ -30,11 +30,11 @@ source: pdf
 2) ustawą z dnia 10 marca 2006 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz o zmianie niektórych innych ustaw (Dz. U. Nr 73, poz. 501),
 3) ustawą z dnia 9 października 2015 r. o zmianie ustawy o terminach zapłaty w transakcjach handlowych, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1830) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 marca 2016 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 18 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz. U. Nr 88, poz. 554 i Nr 160, poz. 1083), który stanowi: „Art. 18. Ustawa wchodzi w życie z dniem 1 września 1998 r.”;
-2) art. 7 ustawy z dnia 10 marca 2006 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz o zmianie niektórych innych ustaw (Dz. U. Nr 73, poz. 501), który stanowi: „Art. 7. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6, który wchodzi w życie z dniem ogłoszenia.”;
-3) odnośnika nr 1 oraz art. 56 i art. 57 ustawy z dnia 9 października 2015 r. o zmianie ustawy o terminach zapłaty w transakcjach handlowych, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1830), które stanowią: „ Niniejsza ustawa uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2011/7/UE z dnia 16 lutego 2011 r. w sprawie zwalczania opóźnień w płatnościach w transakcjach handlowych (Dz. Urz. UE L 48 z 23.02.2011, str. 1).” „Art. 56. Do odsetek należnych za okres kończący się przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
-
-**Art. 57.** Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem art. 50, art. 51 i art. 54, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: M. Kuchciński USTAWA z dnia 28 kwietnia 1936 r. Prawo czekowe
+1) art. 18 ustawy z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz. U. Nr 88, poz. 554 i Nr 160, poz. 1083), który stanowi: „ Art. 18. Ustawa wchodzi w życie z dniem 1 września 1998 r.”;
+2) art. 7 ustawy z dnia 10 marca 2006 r. o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz o zmianie niektórych innych ustaw (Dz. U. Nr 73, poz. 501), który stanowi: „ Art. 7. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6, który wchodzi w życie z dniem ogłoszenia.”;
+3) odnośnika nr 1 oraz art. 56 i art. 57 ustawy z dnia 9 października 2015 r. o zmianie ustawy o terminach zapłaty w transakcjach handlowych, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1830), które stanowią: „ Niniejsza ustawa uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2011/7/UE z dnia 16 lutego 2011 r. w sprawie zwalczania opóźnień w płatnościach w transakcjach handlowych (Dz. Urz. UE L 48 z 23.02.2011, str. 1).” „Art. 56. Do odsetek należnych za okres kończący się przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. Art. 57. Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem art. 50, art. 51 i art. 54, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: M. Kuchciński
+USTAWA z dnia 28 kwietnia 1936 r.
+Prawo czekowe
 
 ### DZIAŁ I Wystawienie i forma czeku
 

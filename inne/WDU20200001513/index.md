@@ -35,81 +35,152 @@ poz. 1488), z uwzględnieniem zmian wprowadzonych:
 2) § 2 rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 24 czerwca 2020 r. zmieniającego rozporządzenie w sprawie warunków wynagradzania pracowników pomocniczych jednostek naukowych i innych jednostek organizacyjnych Polskiej Akademii Nauk (Dz. U. poz. 1146), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2020 r.”. Minister Nauki i Szkolnictwa Wyższego: W. Murdzek
 ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 1 marca 2011 r.
 w sprawie warunków wynagradzania pracowników pomocniczych jednostek naukowych i innych jednostek organizacyjnych Polskiej Akademii Nauk Na podstawie art. 105 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2019 r. poz. 1183, 1655 i 2227 oraz z 2020 r. poz. 695 i 1086) zarządza się, co następuje:
-§ 1. Rozporządzenie określa warunki wynagradzania pracowników pomocniczych jednostek naukowych i innych jednostek organizacyjnych Polskiej Akademii Nauk, zwanych dalej „pracownikami”, oraz tryb przyznawania innych świadczeń związanych z wykonywaną pracą.
-§ 2. Przepisy rozporządzenia stosuje się do pracowników zatrudnionych w:
-1) pomocniczych jednostkach naukowych Polskiej Akademii Nauk, zwanej dalej „Akademią”, w szczególności w:
-a) archiwach,
-b) bibliotekach,
-c) muzeach,
-d) ogrodach botanicznych,
-e) zagranicznych stacjach naukowych,
-2) innych jednostkach organizacyjnych Akademii, w szczególności w domach pracy twórczej, domach zjazdów i konferencji oraz domach seniora – zwanych dalej „jednostkami”.
-§ 3. Ustala się:
-1) tabele maksymalnych miesięcznych stawek wynagrodzenia zasadniczego, które są określone w załączniku nr 1 do rozporządzenia;
-2) tabele zaszeregowania stanowisk, które są określone w załączniku nr 2 do rozporządzenia;
-3) tabelę stawek dodatku funkcyjnego, która jest określona w załączniku nr 3 do rozporządzenia.
-§ 4. 1. Pracownikom zatrudnionym na stanowiskach związanych z kierowaniem zespołem przysługuje dodatek funkcyjny.
+
+**§ 1.** Rozporządzenie określa warunki wynagradzania pracowników pomocniczych jednostek naukowych i innych jednostek organizacyjnych Polskiej Akademii Nauk, zwanych dalej „pracownikami”, oraz tryb przyznawania innych świadczeń związanych z wykonywaną pracą.
+
+**§ 2.** Przepisy rozporządzenia stosuje się do pracowników zatrudnionych w:
+
+- **1)** pomocniczych jednostkach naukowych Polskiej Akademii Nauk, zwanej dalej „Akademią”, w szczególności w:
+    - **a)** archiwach,
+    - **b)** bibliotekach,
+    - **c)** muzeach,
+    - **d)** ogrodach botanicznych,
+    - **e)** zagranicznych stacjach naukowych,
+
+- **2)** innych jednostkach organizacyjnych Akademii, w szczególności w domach pracy twórczej, domach zjazdów i konferencji oraz domach seniora – zwanych dalej „jednostkami”.
+
+**§ 3.** Ustala się:
+
+- **1)** tabele maksymalnych miesięcznych stawek wynagrodzenia zasadniczego, które są określone w załączniku nr 1 do rozporządzenia;
+- **2)** tabele zaszeregowania stanowisk, które są określone w załączniku nr 2 do rozporządzenia;
+- **3)** tabelę stawek dodatku funkcyjnego, która jest określona w załączniku nr 3 do rozporządzenia.
+
+**§ 4.**
+
+1. Pracownikom zatrudnionym na stanowiskach związanych z kierowaniem zespołem przysługuje dodatek funkcyjny.
+
 2. Pracownik naukowy zatrudniony na czas określony na stanowisku kierowniczym w przypadku wcześniejszego zwolnienia z tego stanowiska zachowuje prawo do dodatku funkcyjnego do końca okresu, na który został zatrudniony, nie dłużej jednak niż przez 3 miesiące. Pracownik zatrudniony na stanowisku kierowniczym na czas nieokreślony w przypadku zwolnienia z tego stanowiska zachowuje prawo do dodatku funkcyjnego przez okres 3 miesięcy.
-§ 5. Pracownikowi zatrudnionemu w niepełnym wymiarze czasu pracy przysługują wszystkie składniki wynagrodzenia w wysokości proporcjonalnej do wymiaru czasu pracy określonego w umowie o pracę.
-§ 6. Godzinową stawkę wynagrodzenia zasadniczego wynikającego z osobistego zaszeregowania pracownika, określonego stawką miesięczną, ustala się, dzieląc miesięczną stawkę wynagrodzenia zasadniczego przez liczbę godzin pracy przypadających do przepracowania w danym miesiącu.
-§ 7. Pracownikowi zatrudnionemu na stanowisku robotniczym, który dodatkowo organizuje i kieruje pracą brygady składającej się co najmniej z 5 osób, łącznie z brygadzistą, przysługuje dodatek w wysokości do 15% miesięcznego wynagrodzenia zasadniczego.
-§ 8. (uchylony).
-§ 9. Wynagrodzenie pracowników zagranicznych stacji naukowych, po odliczeniu składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne i zaliczki na podatek dochodowy od osób fizycznych, jest wypłacane w złotych polskich, a na pisemny wniosek pracownika w walucie kraju wykonywania pracy, według kursu średniego ogłaszanego przez Narodowy Bank Polski z dnia wypłaty wynagrodzenia.
-§ 10. 1. Pracownikom zagranicznych stacji naukowych przysługują następujące świadczenia w związku z wykonywaniem pracy za granicą:
-1) dodatek na zagospodarowanie, wypłacany w dniu podjęcia pracy za granicą, w wysokości równowartości czterech tysięcy złotych polskich;
-2) pokrycie kosztów podróży przesiedleniowej pracownika – przy rozpoczęciu i zakończeniu pracy w zagranicznej stacji naukowej, z zastrzeżeniem ust. 3, obejmujące:
-a) koszty przejazdu – zgodnie z przepisami w sprawie należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej,
-b) ryczałt w wysokości jednej diety, określonej w przepisach, o których mowa w lit. a,
-c) koszty przewozu rzeczy osobistego użytku i przedmiotów gospodarstwa domowego – ustalone jako iloczyn stawki frachtu Międzynarodowego Zrzeszenia Przewoźników Powietrznych (IATA), obowiązującej w dniu wypłacania, i 100 kg bagażu;
-3) korzystanie, na zasadach umowy użyczenia, z udostępnionych przez zagraniczną stację naukową lokali mieszkalnych wraz z niezbędnym umeblowaniem i wyposażeniem; w przypadku gdy oboje małżonkowie są pracownikami zagranicznych stacji naukowych, lokal mieszkalny przysługuje jednemu z małżonków;
-4) ryczałt z tytułu używania prywatnego samochodu osobowego do celów służbowych ustalony zgodnie z przepisami w sprawie warunków ustalania oraz sposobu dokonywania zwrotu kosztów używania do celów służbowych samochodów osobowych, motocykli i motorowerów niebędących własnością pracodawcy.
+
+**§ 5.** Pracownikowi zatrudnionemu w niepełnym wymiarze czasu pracy przysługują wszystkie składniki wynagrodzenia w wysokości proporcjonalnej do wymiaru czasu pracy określonego w umowie o pracę.
+
+**§ 6.** Godzinową stawkę wynagrodzenia zasadniczego wynikającego z osobistego zaszeregowania pracownika, określonego stawką miesięczną, ustala się, dzieląc miesięczną stawkę wynagrodzenia zasadniczego przez liczbę godzin pracy przypadających do przepracowania w danym miesiącu.
+
+**§ 7.** Pracownikowi zatrudnionemu na stanowisku robotniczym, który dodatkowo organizuje i kieruje pracą brygady składającej się co najmniej z 5 osób, łącznie z brygadzistą, przysługuje dodatek w wysokości do 15% miesięcznego wynagrodzenia zasadniczego.
+
+**§ 8.** (uchylony).
+
+**§ 9.** Wynagrodzenie pracowników zagranicznych stacji naukowych, po odliczeniu składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne i zaliczki na podatek dochodowy od osób fizycznych, jest wypłacane w złotych polskich, a na pisemny wniosek pracownika w walucie kraju wykonywania pracy, według kursu średniego ogłaszanego przez Narodowy Bank Polski z dnia wypłaty wynagrodzenia.
+
+**§ 10.**
+
+1. Pracownikom zagranicznych stacji naukowych przysługują następujące świadczenia w związku z wykonywaniem pracy za granicą:
+
+- **1)** dodatek na zagospodarowanie, wypłacany w dniu podjęcia pracy za granicą, w wysokości równowartości czterech tysięcy złotych polskich;
+- **2)** pokrycie kosztów podróży przesiedleniowej pracownika – przy rozpoczęciu i zakończeniu pracy w zagranicznej stacji naukowej, z zastrzeżeniem ust. 3, obejmujące:
+    - **a)** koszty przejazdu – zgodnie z przepisami w sprawie należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej,
+    - **b)** ryczałt w wysokości jednej diety, określonej w przepisach, o których mowa w lit. a,
+    - **c)** koszty przewozu rzeczy osobistego użytku i przedmiotów gospodarstwa domowego – ustalone jako iloczyn stawki frachtu Międzynarodowego Zrzeszenia Przewoźników Powietrznych (IATA), obowiązującej w dniu wypłacania, i 100 kg bagażu;
+
+- **3)** korzystanie, na zasadach umowy użyczenia, z udostępnionych przez zagraniczną stację naukową lokali mieszkalnych wraz z niezbędnym umeblowaniem i wyposażeniem; w przypadku gdy oboje małżonkowie są pracownikami zagranicznych stacji naukowych, lokal mieszkalny przysługuje jednemu z małżonków;
+- **4)** ryczałt z tytułu używania prywatnego samochodu osobowego do celów służbowych ustalony zgodnie z przepisami w sprawie warunków ustalania oraz sposobu dokonywania zwrotu kosztów używania do celów służbowych samochodów osobowych, motocykli i motorowerów niebędących własnością pracodawcy.
+
 2. Zwrot kosztów, o których mowa w ust. 1 pkt 2 lit. c, nie przysługuje, jeżeli pracownik skorzystał z możliwości przewozu rzeczy osobistego użytku i przedmiotów gospodarstwa domowego transportem pracodawcy.
+
 3. Pracownikowi nie przysługuje zwrot kosztów związanych z zakończeniem pracy w zagranicznej stacji naukowej w przypadku rozwiązania umowy o pracę z winy pracownika.
-§ 11. 1. Pracownikom zatrudnionym w zagranicznej stacji naukowej mającej siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym świadczenia opieki zdrowotnej w tym państwie przysługują na podstawie przepisów o koordynacji, o których mowa w art. 5 pkt 32 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, 1492 i 1493).
+
+**§ 11.**
+
+1. Pracownikom zatrudnionym w zagranicznej stacji naukowej mającej siedzibę na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym świadczenia opieki zdrowotnej w tym państwie przysługują na podstawie przepisów o koordynacji, o których mowa w art. 5 pkt 32 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, 1492 i 1493).
+
 2. Pracownikom zatrudnionym w zagranicznej stacji naukowej mającej siedzibę na terytorium państwa innego niż określone w ust. 1 przysługuje zwrot uzasadnionych i udokumentowanych kosztów leczenia w tym państwie, w tym kosztów:
-1) pobytu i leczenia w szpitalu lub innym zakładzie leczniczym, porodu, porad i badań lekarskich oraz zabiegów leczniczych;
-2) badań dodatkowych zleconych przez lekarza;
-3) leczenia cukrzycy;
-4) chirurgii stomatologicznej, ekstrakcji zębów lub badania rentgenowskiego zębów.
+
+- **1)** pobytu i leczenia w szpitalu lub innym zakładzie leczniczym, porodu, porad i badań lekarskich oraz zabiegów leczniczych;
+- **2)** badań dodatkowych zleconych przez lekarza;
+- **3)** leczenia cukrzycy;
+- **4)** chirurgii stomatologicznej, ekstrakcji zębów lub badania rentgenowskiego zębów.
+
 3. Zwrot kosztów leczenia, o których mowa w ust. 2:
-1) nie przysługuje, gdy pracownik korzysta bez uzasadnienia z drogich procedur medycznych mimo dostępu do tańszych, porównywalnych usług;
-2) nie dotyczy kosztów pobytu i leczenia w sanatorium lub uzdrowisku, porad i zabiegów z zakresu chirurgii plastycznej i kosmetyki oraz osobistych wydatków chorego.
-§ 12. 1. Pracownikowi wykonującemu stale pracę w systemie zmianowym przysługuje dodatek za każdą godzinę pracy w wysokości:
-1) 10% – na drugiej zmianie,
-2) 20% – na trzeciej zmianie – godzinowej stawki wynagrodzenia zasadniczego wynikającego z osobistego zaszeregowania; dodatek ten przysługuje również pracownikom zatrudnionym na stanowiskach kierowniczych, wykonującym stale pracę w systemie zmianowym.
+
+- **1)** nie przysługuje, gdy pracownik korzysta bez uzasadnienia z drogich procedur medycznych mimo dostępu do tańszych, porównywalnych usług;
+- **2)** nie dotyczy kosztów pobytu i leczenia w sanatorium lub uzdrowisku, porad i zabiegów z zakresu chirurgii plastycznej i kosmetyki oraz osobistych wydatków chorego.
+
+**§ 12.**
+
+1. Pracownikowi wykonującemu stale pracę w systemie zmianowym przysługuje dodatek za każdą godzinę pracy w wysokości:
+
+- **1)** 10% – na drugiej zmianie,
+- **2)** 20% – na trzeciej zmianie – godzinowej stawki wynagrodzenia zasadniczego wynikającego z osobistego zaszeregowania; dodatek ten przysługuje również pracownikom zatrudnionym na stanowiskach kierowniczych, wykonującym stale pracę w systemie zmianowym.
+
 2. Za pracę wykonywaną w porze nocnej pracownikowi przysługuje dodatek do wynagrodzenia za każdą godzinę pracy w porze nocnej w wysokości 20% godzinowej stawki wynagrodzenia zasadniczego, nie niższy jednak od dodatku ustalonego na podstawie art. 151 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320).
+
 3. W przypadku zbiegu uprawnień do dodatku za pracę w porze nocnej i do dodatku za pracę na trzeciej zmianie przysługuje jeden z tych dodatków, korzystniejszy dla pracownika.
+
 4. Pielęgniarce, pokojowej oraz pracownikom kuchni zatrudnionym w domu seniora za pracę w niedziele i święta określone odrębnymi przepisami przysługuje dodatek do wynagrodzenia w wysokości 45% godzinowej stawki wynagrodzenia zasadniczego za każdą godzinę pracy wykonywanej w porze dziennej.
-§ 13. 1. Pracownikowi uprawnionemu do dodatku za wysługę lat dodatek ten wypłaca się w terminie wypłaty wynagrodzenia:
-1) począwszy od pierwszego dnia miesiąca kalendarzowego następującego po miesiącu, w którym pracownik nabył prawo do dodatku lub do wyższej stawki dodatku, jeżeli nabycie prawa nastąpiło w ciągu miesiąca;
-2) za dany miesiąc, jeżeli nabycie prawa do dodatku lub do wyższej stawki dodatku nastąpiło pierwszego dnia miesiąca.
+
+**§ 13.**
+
+1. Pracownikowi uprawnionemu do dodatku za wysługę lat dodatek ten wypłaca się w terminie wypłaty wynagrodzenia:
+
+- **1)** począwszy od pierwszego dnia miesiąca kalendarzowego następującego po miesiącu, w którym pracownik nabył prawo do dodatku lub do wyższej stawki dodatku, jeżeli nabycie prawa nastąpiło w ciągu miesiąca;
+- **2)** za dany miesiąc, jeżeli nabycie prawa do dodatku lub do wyższej stawki dodatku nastąpiło pierwszego dnia miesiąca.
+
 2. Do okresów pracy uprawniających do dodatku za wysługę lat wlicza się wszystkie poprzednie zakończone okresy zatrudnienia oraz inne okresy, jeżeli z mocy odrębnych przepisów podlegają one wliczeniu do okresu pracy, od którego zależą uprawnienia pracownicze.
+
 3. Dodatek za wysługę lat przysługuje pracownikowi za dni, za które otrzymuje wynagrodzenie, oraz za dni nieobecności w pracy z powodu niezdolności do pracy wskutek choroby albo konieczności osobistego sprawowania opieki nad dzieckiem lub chorym członkiem rodziny, za które pracownik otrzymuje z tego tytułu zasiłek z ubezpieczenia społecznego.
+
 4. Przy ustalaniu prawa do dodatku za wysługę lat pracownikowi, który był zatrudniony równocześnie w ramach więcej niż jednego zakończonego stosunku pracy, do okresu pracy uprawniającego do tego dodatku wlicza się jeden z tych okresów zatrudnienia.
+
 5. Pracownikowi wykonującemu pracę w jednostce w ramach urlopu bezpłatnego udzielonego przez pracodawcę w celu wykonywania tej pracy do okresu zatrudnienia podlega wliczeniu okres zatrudnienia u pracodawcy, który udzielił urlopu – do dnia rozpoczęcia tego urlopu.
+
 6. Jeżeli w aktach osobowych pracownika brak jest odpowiedniej dokumentacji, warunkiem przyznania dodatku za wysługę lat jest udokumentowanie przez pracownika prawa do tego dodatku.
+
 7. Jeżeli w aktach osobowych pracownika brak jest odpowiedniej dokumentacji, dodatek za wysługę lat wypłaca się po udokumentowaniu przez pracownika prawa do dodatku za wysługę lat lub wyższej stawki dodatku za wysługę lat. Przepis ust. 1 stosuje się odpowiednio.
-§ 13a. 1. Z tytułu okresowego zwiększenia obowiązków służbowych lub powierzenia dodatkowych zadań albo ze względu na charakter pracy pracodawca może przyznać pracownikowi dodatek specjalny. Dodatek specjalny jest przyznawany w ramach posiadanych środków na wynagrodzenia.
+
+**§ 13a.**
+
+1. Z tytułu okresowego zwiększenia obowiązków służbowych lub powierzenia dodatkowych zadań albo ze względu na charakter pracy pracodawca może przyznać pracownikowi dodatek specjalny. Dodatek specjalny jest przyznawany w ramach posiadanych środków na wynagrodzenia.
+
 2. Dodatek specjalny przyznaje się na czas określony.
+
 3. Wysokość dodatku specjalnego nie może przekroczyć 40% kwoty stanowiącej sumę wynagrodzenia zasadniczego i dodatku funkcyjnego pracownika.
-§ 14. 1. Do okresu pracy uprawniającego do nagrody jubileuszowej wlicza się wszystkie poprzednie zakończone okresy zatrudnienia oraz inne okresy, jeżeli z mocy odrębnych przepisów podlegają one wliczeniu do okresu pracy, od którego zależą uprawnienia pracownicze.
+
+**§ 14.**
+
+1. Do okresu pracy uprawniającego do nagrody jubileuszowej wlicza się wszystkie poprzednie zakończone okresy zatrudnienia oraz inne okresy, jeżeli z mocy odrębnych przepisów podlegają one wliczeniu do okresu pracy, od którego zależą uprawnienia pracownicze.
+
 2. Pracownikowi, który wykonuje pracę w jednostce w ramach urlopu bezpłatnego udzielonego przez pracodawcę w celu wykonywania tej pracy, do okresu uprawniającego do nagrody jubileuszowej wlicza się okres zatrudnienia u tego pracodawcy do dnia rozpoczęcia tego urlopu.
+
 3. Jeżeli pracownik był zatrudniony równocześnie w ramach więcej niż jednego zakończonego stosunku pracy, do okresu uprawniającego do nagrody jubileuszowej wlicza się jeden z tych okresów zatrudnienia.
+
 4. Pracownik nabywa prawo do nagrody jubileuszowej w dniu upływu okresu uprawniającego do nagrody.
+
 5. Jeżeli w aktach osobowych pracownika brak jest odpowiedniej dokumentacji, warunkiem ustalenia prawa do nagrody jubileuszowej jest udokumentowanie przez pracownika prawa do tej nagrody.
+
 6. Wypłata nagrody jubileuszowej następuje niezwłocznie po nabyciu przez pracownika prawa do tej nagrody, a jeżeli w aktach osobowych pracownika brak jest odpowiedniej dokumentacji – niezwłocznie po udokumentowaniu przez pracownika prawa do nagrody jubileuszowej.
+
 7. Podstawę obliczenia nagrody jubileuszowej stanowi wynagrodzenie przysługujące pracownikowi w dniu nabycia prawa do nagrody, a jeżeli dla pracownika jest to korzystniejsze – wynagrodzenie przysługujące w dniu jej wypłaty.
+
 8. Jeżeli pracownik nabył prawo do nagrody jubileuszowej, będąc zatrudnionym w innym wymiarze czasu pracy niż w dniu jej wypłaty, podstawę obliczenia tej nagrody stanowi wynagrodzenie przysługujące pracownikowi w dniu nabycia prawa do nagrody jubileuszowej.
+
 9. Nagrodę jubileuszową oblicza się według zasad obowiązujących przy ustalaniu ekwiwalentu pieniężnego za urlop wypoczynkowy.
+
 10. W razie ustania stosunku pracy w związku z przejściem na rentę z tytułu niezdolności do pracy lub emeryturę pracownikowi, któremu do nabycia prawa do nagrody jubileuszowej brakuje mniej niż 12 miesięcy, licząc od dnia ustania stosunku pracy, nagrodę tę wypłaca się w dniu ustania stosunku pracy.
+
 11. Jeżeli w dniu wejścia w życie przepisów wprowadzających zaliczalność do okresów uprawniających do świadczeń pracowniczych okresów niepodlegających dotychczas wliczeniu pracownikowi upływa okres uprawniający go do dwóch lub więcej nagród jubileuszowych, wypłaca się tylko jedną nagrodę – najwyższą.
+
 12. Pracownikowi, który w dniu wejścia w życie przepisów, o których mowa w ust. 11, ma okres dłuższy niż wymagany do nagrody jubileuszowej danego stopnia, a w ciągu 12 miesięcy od tego dnia upłynie okres uprawniający go do nabycia nagrody wyższego stopnia, nagrodę niższą wypłaca się w pełnej wysokości, a w dniu nabycia prawa do nagrody wyższej – różnicę między kwotą nagrody wyższej a kwotą nagrody niższej.
+
 13. Przepisy ust. 11 i 12 mają odpowiednio zastosowanie, jeżeli w dniu, w którym pracownik udokumentował swoje prawo do nagrody, był uprawniony do nagrody wyższego stopnia oraz w razie gdy pracownik prawo to nabędzie w ciągu 12 miesięcy od tego dnia.
-§ 15. 1. W ramach posiadanych przez jednostkę środków na wynagrodzenia osobowe może być tworzony fundusz premiowy z przeznaczeniem na premie dla pracowników.
+
+**§ 15.**
+
+1. W ramach posiadanych przez jednostkę środków na wynagrodzenia osobowe może być tworzony fundusz premiowy z przeznaczeniem na premie dla pracowników.
+
 2. Wysokość funduszu premiowego oraz warunki przyznawania i wypłacania premii określa zakładowy regulamin premiowania.
-§ 16. W ramach posiadanych środków na wynagrodzenia osobowe może być tworzony fundusz nagród w wysokości do 3% tych wynagrodzeń, pozostający w dyspozycji kierownika jednostki, z przeznaczeniem na nagrody dla pracowników wyróżniających się w pracy zawodowej.
-§ 17. Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia .
-Nauki i Szkolnictwa Wyższego z dnia 1 marca 2011 r.
+
+**§ 16.** W ramach posiadanych środków na wynagrodzenia osobowe może być tworzony fundusz nagród w wysokości do 3% tych wynagrodzeń, pozostający w dyspozycji kierownika jednostki, z przeznaczeniem na nagrody dla pracowników wyróżniających się w pracy zawodowej.
+
+**§ 17.** Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia . Nauki i Szkolnictwa Wyższego z dnia 1 marca 2011 r.
 
 ## Załącznik nr 1 — TABELE MAKSYMALNYCH MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO TABELE MAKSYMALNYCH MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO Tabela A. Dla pracowników bibliotecznych, dokumentacji i informacji naukowej oraz muzeów Maksymalna kwota Lp. Stanowisko w złotych 1 Starszy kustosz dyplomowany, starszy dokumentalista dyplomowany 6000 2 Kustosz dyplomowany, dokumentalista dyplomowany 5100 3 Adiunkt biblioteczny, adiunkt dokumentacji i informacji naukowej 4600 4 Asystent biblioteczny, asystent dokumentacji i informacji naukowej 4100 Tabela B. Dla pracowników zatrudnionych na stanowiskach badawczo-technicznych Maksymalna kwota Lp. Stanowisko w złotych 1 Główny specjalista do spraw środowiskowej aparatury badawczej 6000 2 Specjalista 5100 Tabela C. Dla pracowników zatrudnionych w zagranicznych stacjach naukowych Maksymalna kwota Lp. Stanowisko w złotych 1 Dyrektor 19 000 2 Zastępca dyrektora 17 500 3 Specjalista, ekspert, administrator 13 500 4 Księgowy, technik, bibliotekarz, starszy referent 12 000 5 Sekretarka, recepcjonistka 9500 6 Referent, tłumacz 9500 7 Kierowca 8000 8 Robotnik gospodarczy, sprzątaczka 7000 Tabela D. Dla pracowników działalności podstawowej zatrudnionych w bibliotekach, archiwach oraz muzeach Kategoria zaszeregowania Maksymalna kwota w złotych V 3500 VI 3550 VII 3600 VIII 3700 IX 3850 X 4000 XI 4150 XII 4300 XIII 4450 XIV 4600 XV 4800 XVI 5000 Tabela E. Dla pracowników innych niż wymienieni w tabelach A–D Kategoria zaszeregowania Maksymalna kwota w złotych I 3300 II 3350 III 3400 IV 3450 V 3500 VI 3550 VII 3600 VIII 3700 IX 3800 X 3900 XI 4000 XII 4100 XIII 4200 XIV 4300 XV 4400 XVI 4500 XVII 4600 XVIII 4900 XIX 5200 XX 5600 Załącznik nr 2 TABELE TABELE ZASZEREGOWANIA ZASZEREGOWANIA STANOWISK STANOWISK TABELA A. Dla pracowników inżynieryjnych i technicznych, organizacyjno-ekonomicznych, administracyjnych i pracowników obsługi Kategoria Lp. Stanowisko zaszeregowania 1 2 3 1 Dyrektor jednostki, o której mowa w § 2 pkt 2, zastępca dyrektora XVII–XX (do spraw ekonomicznych, administracyjnych, technicznych, innych równorzędnych) w jednostkach, o których mowa w § 2 pkt 1 lit. a‒d, naczelny inżynier, kierownik zakładu doświadczalnego 2 Główny księgowy XVII–XX 2a Pełnomocnik do spraw finansowych XVI−XIX 3 Główny specjalista, pełnomocnik do spraw ochrony informacji XV–XIX niejawnych 4 Radca prawny XV–XIX 5 Kierownik komórki (wydziału, zakładu, działu, oddziału XV–XVIII zamiejscowego) podległej bezpośrednio dyrektorowi lub zastępcy dyrektora, prowadzącej prace związane bezpośrednio z działalnością badawczo-rozwojową, zastępca kierownika oddziału zamiejscowego, starszy specjalista 6 Audytor wewnętrzny XIV–XIX 7 Kierownik działu technicznego, ekonomicznego, do spraw XIV–XVIII pracowniczych lub równorzędnego, kierownik ośrodka informacji naukowej, zastępca dyrektora jednostki, o której mowa w § 2 pkt 2, kierownik domu pracy twórczej 8 Specjalista, starszy dokumentalista XIII–XVII 9 Zastępca kierownika domu pracy twórczej XIV–XVII 10 Starszy mistrz, kierownik zmiany XII–XVI 11 Stanowiska pracy takie jak: matematyk, fizyk, chemik, socjolog, X–XVI historyk, psycholog, ekonomista, referent prawny, mechanik, technolog, konstruktor i inne równorzędne, dokumentalista, analityk i projektant systemów 12 Konstruktor, technolog, mechanik, elektryk, energetyk, chemik, X–XVI ekonomista, starszy technik dokumentalista, starszy programista, administrator (sieci, baz danych), konserwator sieci 13 Kierownik działu administracyjnego i jego zastępca, kierownik X–XVI sekcji: technicznej, ekonomicznej, do spraw pracowniczych 14 Samodzielny referent, samodzielny księgowy, rewident, redaktor X–XVI techniczny, starszy laborant, inspektor do spraw bezpieczeństwa i higieny pracy 15 Mistrz, majster X–XIV 16 Kierownik magazynu VIII–XV 17 Starszy referent, starszy księgowy, starszy magazynier, kasjer, VII–XV młodszy dokumentalista, technik dokumentalista, technik ogrodnik, programista, informatyk, składacz komputerowy 18 Kierownik archiwum, kierownik sekcji w dziale administracyjnym, VI–XIII gospodarczym, sekretarka, recepcjonista 19 Referent, młodszy technik dokumentalista, korektor, magazynier, V–XI laborant 20 Konserwator maszyn i urządzeń IX–XIII 21 Starszy rzemieślnik VIII–XIII 22 Rzemieślnik w zawodzie: ślusarz, mechanik, elektromonter, VI–XI murarz, stolarz, ogrodnik itp.
 

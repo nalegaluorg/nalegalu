@@ -8,12 +8,10 @@ pos: 164
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 listopada 2017 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 listopada 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej
 
 | Pole | Wartość |
 |---|---|
@@ -31,60 +29,45 @@ source: "isap-pdf"
 1) ustawą z dnia 9 czerwca 2006 r. o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 137, poz. 971),
 2) ustawą z dnia 24 sierpnia 2007 r. o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 158, poz. 1104),
 3) ustawą z dnia 4 września 2008 r. o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 192, poz. 1181),
-4) ustawą z dnia 2 kwietnia 2009 r. o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, ustawy o Banku Gospodarstwa Krajowego oraz niektórych innych ustaw (Dz. U. Nr 65, poz.
-545),
-5) ustawą z dnia 20 listopada 2009 r. o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U.
+4) ustawą z dnia 2 kwietnia 2009 r. o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, ustawy o Banku Gospodarstwa Krajowego oraz niektórych innych ustaw (Dz. U. Nr 65, poz. 545),
+5) ustawą z dnia 20 listopada 2009 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U.
 Nr 215, poz. 1664),
-6) ustawą z dnia 16 września 2011 r. o redukcji niektórych obowiązków obywateli i przedsiębiorców (Dz. U. Nr 232, poz.
-1378),
+6) ustawą z dnia 16 września 2011 r. o redukcji niektórych obowiązków obywateli i przedsiębiorców (Dz. U. Nr 232, poz. 1378),
 7) ustawą z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. poz. 238),
-8) ustawą z dnia 25 września 2015 r. o zmianie ustawy Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1854),
-9) ustawą z dnia 16 listopada 2016 r. Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz.
+8) ustawą z dnia 25 września 2015 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1854),
+9) ustawą z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz.
 1948 oraz z 2017 r. poz. 379 i 1926),
-10) ustawą z dnia 16 grudnia 2016 r. Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz.
+10) ustawą z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz.
 U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 listopada 2017 r.
-1) art. 42 i art. 43 ustawy z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 78, poz. 684), które stanowią: „Art. 42. W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm. ) wprowadza się następujące zmiany:
-1) w art. 4a w pkt 5 dodaje się lit. f w brzmieniu: „f) z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 78, poz. 684),”;
-2) w art. 16 w ust. 3d wyraz „przedsiębiorców” zastępuje się wyrazem „podmiotów”.
-
-**Art. 43.** W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2003 r. Nr 174, poz. 1689 oraz z 2004 r. Nr 123, poz. 1291, Nr 145, poz. 1537 i Nr 281, poz. 2785) po art. 42b dodaje się art. 42c–42e w brzmieniu: „Art. 42c. 1. W czasie trwania postępowania restrukturyzacyjnego publicznego zakładu opieki zdrowotnej, zwanego dalej „zakładem”, wszczętego na podstawie ustawy z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 78, poz. 684), Bank Gospodarstwa Krajowego może udzielić zakładowi, ze środków Krajowego Funduszu Poręczeń Kredytowych, poręczenia dokonania zapłaty odsetek od obligacji. 2. Poręczenie, o którym mowa w ust. 1, może być udzielone pod warunkiem, że:
-
-**Art. 42d.**
-
-1. Minister właściwy do spraw finansów publicznych w imieniu Skarbu Państwa udziela Bankowi Gospodarstwa Krajowego poręczenia dokonania zapłaty odsetek od obligacji objętych poręczeniem, o którym mowa w art. 42c ust. 1.
-
-2. Kwota poręczenia Skarbu Państwa, o którym mowa w ust. 1, wynosi 500 mln zł.
-
-3. Środki przeznaczone na wykonanie poręczenia Skarbu Państwa, o którym mowa w ust. 1, zasilają Krajowy Fundusz Poręczeń Kredytowych w Banku Gospodarstwa Krajowego.
-
-4. Warunki wykonania poręczenia Skarbu Państwa, o którym mowa w ust. 1, określi umowa zawarta między ministrem właściwym do spraw finansów publicznych a Bankiem Gospodarstwa Krajowego.
-
-6. Poręczenie Skarbu Państwa, o którym mowa w ust. 1, zwalnia się z opłaty prowizyjnej.
-
-7. Do poręczenia Skarbu Państwa, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 31, 43 ust. 1 i 2, art. 43a, 44–44b, 45 pkt 1 i art. 47.
-
-8. W przypadku gdy minister właściwy do spraw finansów publicznych nie podejmie czynności zmierzających do odzyskania kwot zapłaconych z tytułu poręczenia Skarbu Państwa, o którym mowa w ust. 1, Bank Gospodarstwa Krajowego jest obowiązany do podejmowania tych czynności, na warunkach określonych w umowie z ministrem właściwym do spraw finansów publicznych, za wynagrodzeniem.
-
-9. Wynagrodzenie, o którym mowa w ust. 8, przysługuje w wysokości 3% wyegzekwowanej kwoty; nie może ono być jednak niższe od rzeczywistych kosztów niezbędnych działań windykacyjnych. Wynagrodzenie jest potrącane z wyegzekwowanej kwoty, a sposób jego ustalania określa umowa.
-
-10. Przy podejmowaniu działań, o których mowa w ust. 8, Bank Gospodarstwa Krajowego ma prawo, bez uzyskania pisemnego oświadczenia o poddaniu się egzekucji, wystawić bankowy tytuł egzekucyjny stosownie do art. 96–98 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm. ).
-
-**Art. 42e.** Przepisy art. 42c i 42d stosuje się odpowiednio, jeżeli jednostka samorządu terytorialnego będąca podmiotem, który utworzył zakład, przejęła zobowiązania tego zakładu i w celu uzyskania środków finansowych na pokrycie tych zobowiązań wyemitowała obligacje.”.”;
-
-**Art. 3.** Ustawa wchodzi w życie z dniem 1 września 2007 r., z wyjątkiem art. 1 pkt 1 lit. b, który wchodzi w życie z dniem ogłoszenia.”;
-
-**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia.”;
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1) art. 42 i art. 43 ustawy z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 78, poz. 684), które stanowią: „ Art. 42. W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm. ) wprowadza się następujące zmiany: 1) w art. 4a w pkt 5 dodaje się lit. f w brzmieniu: „f) z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 78, poz. 684),”; 2) w art. 16 w ust. 3d wyraz „przedsiębiorców” zastępuje się wyrazem „podmiotów”. Art. 43. W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2003 r. Nr 174, poz. 1689 oraz z 2004 r. Nr 123, poz. 1291, Nr 145, poz. 1537 i Nr 281, poz. 2785) po art. 42b dodaje się art. 42c–42e w brzmieniu: „Art. 42c. 1. W czasie trwania postępowania restrukturyzacyjnego publicznego zakładu opieki zdrowotnej, zwanego dalej „zakładem”, wszczętego na podstawie ustawy z dnia 15 kwietnia 2005 r. o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 78, poz. 684), Bank Gospodarstwa Krajowego może udzielić zakładowi, ze środków Krajowego Funduszu Poręczeń Kredytowych, poręczenia dokonania zapłaty odsetek od obligacji. 2. Poręczenie, o którym mowa w ust. 1, może być udzielone pod warunkiem, że: 1) program restrukturyzacyjny zakładu przewiduje ubieganie się o poręczenie Banku Gospodarstwa Krajowego ze środków Krajowego Funduszu Poręczeń Kredytowych; 2) wyemitowane obligacje oraz środki uzyskane z obligacji zostaną przeznaczone na cele określone w ustawie, o której mowa w ust. 1; 3) zakład lub jednostka samorządu terytorialnego będąca podmiotem, który utworzył zakład, ustanowi zabezpieczenia na rzecz Banku Gospodarstwa Krajowego na wypadek roszczeń wynikających z tytułu wykonania obowiązków poręczyciela. 3. Poręczenie, o którym mowa w ust. 1: 1) jest udzielane na wniosek zakładu; 2) może być udzielone zakładowi tylko jeden raz. 4. Od poręczenia, o którym mowa w ust. 1, jest pobierana opłata prowizyjna w wysokości: 1) 1,0 % kwoty objętej poręczeniem, jeżeli okres, na który udzielono poręczenia, nie przekracza 2 lat; 2) 1,5 % kwoty objętej poręczeniem, jeżeli okres, na który udzielono poręczenia, przekracza 2 lata. 5. Do poręczenia, o którym mowa w ust. 1, stosuje się odpowiednio art. 2b ust. 1, art. 34, 38 ust. 3 oraz art. 39. 6. Poręczenie, o którym mowa w ust. 1, może być udzielone na okres nie dłuższy niż do dnia 31 grudnia 2010 r. 7. Poręczenie, o którym mowa w ust. 1, zwalnia się z opłaty skarbowej. Art. 42d. 1. Minister właściwy do spraw finansów publicznych w imieniu Skarbu Państwa udziela Bankowi Gospodarstwa Krajowego poręczenia dokonania zapłaty odsetek od obligacji objętych poręczeniem, o którym mowa w art. 42c ust. 1. 2. Kwota poręczenia Skarbu Państwa, o którym mowa w ust. 1, wynosi 500 mln zł. 3. Środki przeznaczone na wykonanie poręczenia Skarbu Państwa, o którym mowa w ust. 1, zasilają Krajowy Fundusz Poręczeń Kredytowych w Banku Gospodarstwa Krajowego. 4. Warunki wykonania poręczenia Skarbu Państwa, o którym mowa w ust. 1, określi umowa zawarta między ministrem właściwym do spraw finansów publicznych a Bankiem Gospodarstwa Krajowego. 5. Poręczenie Skarbu Państwa, o którym mowa w ust. 1, wygasa z dniem 31 grudnia 2010 r. 6. Poręczenie Skarbu Państwa, o którym mowa w ust. 1, zwalnia się z opłaty prowizyjnej. 7. Do poręczenia Skarbu Państwa, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 31, 43 ust. 1 i 2, art. 43a, 44–44b, 45 pkt 1 i art. 47. 8. W przypadku gdy minister właściwy do spraw finansów publicznych nie podejmie czynności zmierzających do odzyskania kwot zapłaconych z tytułu poręczenia Skarbu Państwa, o którym mowa w ust. 1, Bank Gospodarstwa Krajowego jest obowiązany do podejmowania tych czynności, na warunkach określonych w umowie z ministrem właściwym do spraw finansów publicznych, za wynagrodzeniem. 9. Wynagrodzenie, o którym mowa w ust. 8, przysługuje w wysokości 3% wyegzekwowanej kwoty; nie może ono być jednak niższe od rzeczywistych kosztów niezbędnych działań windykacyjnych. Wynagrodzenie jest potrącane z wyegzekwowanej kwoty, a sposób jego ustalania określa umowa. 10. Przy podejmowaniu działań, o których mowa w ust. 8, Bank Gospodarstwa Krajowego ma prawo, bez uzyskania pisemnego oświadczenia o poddaniu się egzekucji, wystawić bankowy tytuł egzekucyjny stosownie do art. 96–98 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2002 r. Nr 72, poz. 665, z późn. zm. ). Art. 42e. Przepisy art. 42c i 42d stosuje się odpowiednio, jeżeli jednostka samorządu terytorialnego będąca podmiotem, który utworzył zakład, przejęła zobowiązania tego zakładu i w celu uzyskania środków finansowych na pokrycie tych zobowiązań wyemitowała obligacje.”.”;
+2) art. 2 ustawy z dnia 9 czerwca 2006 r. o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 137, poz. 971), który stanowi: „ Art. 2. Ustawa wchodzi w życie z dniem 1 sierpnia 2006 r.”;
+3) art. 2 i art. 3 ustawy z dnia 24 sierpnia 2007 r. o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 158, poz. 1104), które stanowią: „ Art. 2. Do dnia wydania ostatecznej decyzji o umorzeniu postępowania restrukturyzacyjnego albo ostatecznej decyzji o zakończeniu postępowania restrukturyzacyjnego nie podlegają egzekucji z mocy prawa wierzytelności zakładu wobec Narodowego Funduszu Zdrowia oraz środki przekazane przez Narodowy Fundusz Zdrowia na rachunek bankowy zakładu w związku z zaspokojeniem wierzytelności przypadających zakładowi z tytułu udzielania świadczeń zdrowotnych przed ukończeniem udzielania tych świadczeń w wysokości nieprzekraczającej 75% każdorazowej wypłaty, chyba że chodzi o wierzytelność pracowników zakładu z tytułu pracy wykonywanej przy udzielaniu tych świadczeń. Art. 3. Ustawa wchodzi w życie z dniem 1 września 2007 r., z wyjątkiem art. 1 pkt 1 lit. b, który wchodzi w życie z dniem ogłoszenia.”;
+4) art. 2 i art. 3 ustawy z dnia 4 września 2008 r. o zmianie ustawy o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej (Dz. U. Nr 192, poz. 1181), które stanowią: „ Art. 2. Przepisy art. 35 ust. 10i i 10j oraz art. 35ba ust. 8 i 10 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stanowią podstawy roszczeń wobec Narodowego Funduszu Zdrowia lub Skarbu Państwa bądź innej jednostki sektora finansów publicznych, w tym roszczeń, które mogą powstać do dnia umorzenia, o którym mowa w art. 35ba ust. 10, dokonanego przed dniem wejścia w życie ustawy. Art. 3. Ustawa wchodzi w życie z dniem ogłoszenia.”;
+5) art. 25 ustawy z dnia 2 kwietnia 2009 r. o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, ustawy o Banku Gospodarstwa Krajowego oraz niektórych innych ustaw (Dz. U. Nr 65, poz. 545), który stanowi: „ Art. 25. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 10, art. 5 pkt 6, art. 15 oraz art. 24, które wchodzą w życie z ostatnim dniem miesiąca, w którym ustawa weszła w życie.”;
+6) art. 24 ustawy z dnia 20 listopada 2009 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. Nr 215, poz. 1664), który stanowi: „ Art. 24. Ustawa wchodzi w życie z dniem 1 stycznia 2010 r., z wyjątkiem: 1) art. 1 pkt 7 w zakresie art. 400f ust. 10, który wchodzi w życie z dniem 1 lipca 2010 r.; 2) art. 1 pkt 12 lit. e, pkt 14, pkt 18 i pkt 20 lit. c, które wchodzą w życie z dniem 1 stycznia 2011 r.”;
+7) art. 29 ustawy z dnia 16 września 2011 r. o redukcji niektórych obowiązków obywateli i przedsiębiorców (Dz. U. Nr 232, poz. 1378), który stanowi: „ Art. 29. Ustawa wchodzi w życie z dniem 1 stycznia 2012 r., z wyjątkiem: 1) art. 21 pkt 1 lit. a–c i pkt 6 oraz art. 28, które wchodzą w życie z dniem ogłoszenia; 2) art. 21 pkt 3–5, 7, 8 i 10–13, które wchodzą w życie z dniem 2 stycznia 2012 r.; 3) art. 4 pkt 1–6, art. 5 pkt 2, art. 6, art. 7 pkt 2, art. 12–14, art. 17, art. 18, art. 20 oraz art. 23, które wchodzą w życie z dniem 1 stycznia 2013 r.”;
+8) art. 112 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. poz. 238), który stanowi: „ Art. 112. Ustawa wchodzi w życie z dniem 1 lipca 2015 r.”;
+9) art. 13 ustawy z dnia 25 września 2015 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1854), który stanowi: „ Art. 13. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+10) art. 260 ustawy z dnia 16 listopada 2016 r. – Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 oraz z 2017 r. poz. 379 i 1926), który stanowi: „ Art. 260. Ustawa wchodzi w życie z dniem 1 marca 2017 r., z wyjątkiem: 1) art. 1, art. 4 pkt 1 i pkt 11 lit. c i d, lit. e w zakresie § 12 i 13 oraz lit. f, art. 11, art. 13, art. 27, art. 38 pkt 39 lit. a tiret drugie, pkt 65 lit. a, pkt 68 lit. a w zakresie pkt 1, pkt 76 lit. b tiret drugie, art. 119, art. 148, art. 160 ust. 2 i 3, art. 162 ust. 1 pkt 1, art. 164, art. 165 ust. 1, 2 i 6, art. 178, art. 190 ust. 1, art. 201 ust. 1 i art. 259 ust. 1, które wchodzą w życie z dniem ogłoszenia; 2) art. 150, który wchodzi w życie z dniem 1 stycznia 2017 r.; 2a) art. 112 pkt 2–4, które wchodzą w życie z dniem 27 lutego 2017 r.; 3) art. 4 pkt 12, art. 163 pkt 3, art. 168, art. 172 pkt 6 oraz art. 192 ust. 1–4, które wchodzą w życie z dniem 1 stycznia 2018 r.; 4) art. 149a: a) pkt 1, który wchodzi w życie z dniem 13 listopada 2017 r., b) pkt 2, który wchodzi w życie z dniem 4 czerwca 2018 r.”;
+11) art. 134 ustawy z dnia 16 grudnia 2016 r. – Przepisy wprowadzające ustawę o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2260), który stanowi: „ Art. 134. Ustawa wchodzi w życie z dniem 1 stycznia 2017 r., z wyjątkiem: 1) art. 14 pkt 19 i pkt 32 w zakresie uchylenia art. 69a ust. 3 i 4, które wchodzą w życie z dniem 1 stycznia 2019 r.; 2) art. 97–99, art. 100 ust. 2, art. 114 ust. 2 i art. 116, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 3) art. 19 pkt 32, który wchodzi w życie z dniem 1 stycznia 2018 r.; 4) art. 95, który wchodzi w życie z dniem 31 grudnia 2016 r.”. Marszałek Sejmu: M. Kuchciński
+USTAWA z dnia 15 kwietnia 2005 r.
+o pomocy publicznej i restrukturyzacji publicznych zakładów opieki zdrowotnej
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady i warunki restrukturyzacji finansowej publicznych zakładów opieki zdrowotnej;
+- **2)** tryb postępowania w sprawie restrukturyzacji finansowej publicznych zakładów opieki zdrowotnej;
+- **3)** zasady udzielania pomocy publicznej publicznym zakładom opieki zdrowotnej.
 
 **Art. 2.**
 
 1. Restrukturyzacją finansową mogą być objęte:
 
 - **1)** publiczne zakłady opieki zdrowotnej w rozumieniu art. 8 ust. 2 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. poz. 89, z późn. zm. ) prowadzone w formie samodzielnych publicznych zakładów opieki zdrowotnej,
-- **2)** jednostki badawczo-rozwojowe realizujące zadania określone w art. 1 ust. 2 pkt 1 ustawy wymienionej w pkt 1 zatrudniające na dzień 1 stycznia 2001 r. powyżej 50 osób, zwane dalej „zakładami”.
+- **2)** jednostki badawczo-rozwojowe realizujące zadania określone w art. 1 ust. 2 pkt 1 ustawy wymienionej w pkt 1 – zatrudniające na dzień 1 stycznia 2001 r. powyżej 50 osób, zwane dalej „zakładami”.
 
 2. Zakład może być objęty restrukturyzacją finansową na podstawie przepisów ustawy tylko jeden raz.
 
@@ -94,9 +77,20 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
 
+- **1)** podmiocie, który utworzył zakład – należy przez to rozumieć podmioty:
+    - **a)** wymienione w art. 8 ust. 1 pkt 1–3a ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej ,
+    - **b)** sprawujące nadzór nad jednostkami badawczo-rozwojowymi w rozumieniu ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. z 2008 r. poz. 993 oraz z 2009 r. poz. 1323) ;
+
+- **2)** kierowniku zakładu – należy przez to rozumieć również dyrektora jednostki badawczo-rozwojowej , o której mowa w pkt 1 lit. b;
+- **3)** pożyczce – należy przez to rozumieć pożyczkę udzieloną przez Skarb Państwa ze środków przewidzianych w ustawie budżetowej na zasadach określonych w tej ustawie.
+
 #### Rozdział 2 Restrukturyzacja finansowa
 
 **Art. 4.** Restrukturyzacja finansowa zakładów obejmuje znane na dzień 31 grudnia 2004 r.:
+
+- **1)** zobowiązania publicznoprawne,
+- **2)** zobowiązania cywilnoprawne,
+- **3)** indywidualne roszczenia pracowników wynikające z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. U. z 1995 r. poz. 2, z późn. zm. ) – powstałe w okresie od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2004 r.
 
 **Art. 5.**
 
@@ -111,7 +105,7 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 3. Postępowanie restrukturyzacyjne prowadzone w stosunku do zakładów na podstawie:
 
 - **1)** ustawy z dnia 30 sierpnia 2002 r. o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców (Dz. U. z 2017 r. poz. 2042),
-- **2)** ustawy z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy (Dz. U. poz. 1800, z późn. zm. ) podlega z mocy prawa umorzeniu w zakresie należności wymienionych w art. 6 ust. 1.
+- **2)** ustawy z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy (Dz. U. poz. 1800, z późn. zm. ) – podlega z mocy prawa umorzeniu w zakresie należności wymienionych w art. 6 ust. 1.
 
 **Art. 6.**
 
@@ -122,8 +116,8 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 - **3)** wobec Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych;
 - **4)** z tytułu: o ochronie i kształtowaniu środowiska (Dz. U. z 1994 r. poz. 196, z późn. zm. ) ,
     - **a)** opłat za gospodarcze korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 31 stycznia 1980 r.
-    - **b)** opłat za korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm. ),
-    - **c)** opłat za szczególne korzystanie z wód w rozumieniu przepisów ustawy z dnia 24 października 1974 r. Prawo wodne (Dz. U. poz. 230, z późn. zm. ) stanowiących przychody Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej oraz dochody budżetów powiatów i budżetów gmin, niezależnie od tego, na rachunek bankowy którego organu administracji publicznej opłaty te powinny być wpłacone przez zakład, z zastrzeżeniem art. 9;
+    - **b)** opłat za korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm. ),
+    - **c)** opłat za szczególne korzystanie z wód w rozumieniu przepisów ustawy z dnia 24 października 1974 r. – Prawo wodne (Dz. U. poz. 230, z późn. zm. ) – stanowiących przychody Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej oraz dochody budżetów powiatów i budżetów gmin, niezależnie od tego, na rachunek bankowy którego organu administracji publicznej opłaty te powinny być wpłacone przez zakład, z zastrzeżeniem art. 9;
 
 - **5)** z tytułu administracyjnych kar pieniężnych określonych w przepisach ustaw wymienionych w pkt 4;
 - **6)** z tytułu opłat za użytkowanie wieczyste gruntów Skarbu Państwa w części stanowiącej dochód budżetu państwa;
@@ -160,7 +154,7 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 - **2)** składek na ubezpieczenia społeczne i składek na Fundusz Pracy,
 - **3)** wpłat do Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych,
 - **4)** opłat i kar dla Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej, budżetów powiatów i budżetów gmin;
-- **5)** opłat za użytkowanie wieczyste gruntów Skarbu Państwa określone w wyniku postępowania kontrolnego, jeżeli zaległości te określone zostały w związku z dokonywaniem czynności prawnych mających na celu obejście przepisów podatkowych, o należnościach celnych, o ubezpieczeniach społecznych lub przepisów dotyczących wymiaru i poboru tych należności.
+- **5)** opłat za użytkowanie wieczyste gruntów Skarbu Państwa – określone w wyniku postępowania kontrolnego, jeżeli zaległości te określone zostały w związku z dokonywaniem czynności prawnych mających na celu obejście przepisów podatkowych, o należnościach celnych, o ubezpieczeniach społecznych lub przepisów dotyczących wymiaru i poboru tych należności.
 
 **Art. 9.**
 
@@ -172,7 +166,7 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 
 1. Restrukturyzacja finansowa zobowiązań cywilnoprawnych polega na zawarciu przez zakład ugody restrukturyzacyjnej z wierzycielami wierzytelności cywilnoprawnych wymienionymi w spisie, o którym mowa w art. 21 ust. 2 pkt 5.
 
-2. Do ugody restrukturyzacyjnej nie stosuje się przepisów działu II rozdziału 8 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257).
+2. Do ugody restrukturyzacyjnej nie stosuje się przepisów działu II rozdziału 8 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257).
 
 **Art. 11.** Restrukturyzacja finansowa zobowiązań cywilnoprawnych obejmuje kwotę główną wraz z odsetkami naliczonymi do dnia zawarcia ugody restrukturyzacyjnej.
 
@@ -213,7 +207,7 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 - **1)** naruszenia przepisów art. 12 lub 13;
 - **2)** gdy postanowienia ugody są oczywiście krzywdzące wierzyciela, który zaskarżył ugodę.
 
-2. Wniosek wnosi się do sądu rejonowego sądu gospodarczego za pośrednictwem organu restrukturyzacyjnego.
+2. Wniosek wnosi się do sądu rejonowego – sądu gospodarczego za pośrednictwem organu restrukturyzacyjnego.
 
 3. Wniosek wniesiony po upływie terminu, o którym mowa w ust. 1, pozostawia się bez rozpoznania.
 
@@ -226,6 +220,9 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 7. W sprawach nieuregulowanych w ust. 1–6 do postępowania w sprawach o uchylenie ugody restrukturyzacyjnej stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym.
 
 **Art. 16.** Zakład jest obowiązany w przypadku uchylenia ugody:
+
+- **1)** w całości – zawrzeć niezwłocznie ponownie ugodę;
+- **2)** w części – zmodyfikować ugodę, uwzględniając postanowienie sądu.
 
 **Art. 17.**
 
@@ -244,11 +241,11 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 
 **Art. 18.**
 
-1. Do postępowania restrukturyzacyjnego stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, jeżeli ustawa nie stanowi inaczej.
+1. Do postępowania restrukturyzacyjnego stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, jeżeli ustawa nie stanowi inaczej.
 
 2. Do restrukturyzacji finansowej zobowiązań publicznoprawnych stosuje się odpowiednio przepisy:
 
-- **1)** ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, 648, 768, 935, 1428 i 1537) w zakresie należności wymienionych w art. 6 ust. 1 pkt 1;
+- **1)** ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, 648, 768, 935, 1428 i 1537) w zakresie należności wymienionych w art. 6 ust. 1 pkt 1;
 - **2)** dotyczące wymiaru i poboru należności wymienionych w art. 6 ust. 1 pkt 2–7 i art. 7, chyba że ustawa stanowi inaczej.
 
 **Art. 19.**
@@ -257,8 +254,8 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 
 2. Organem restrukturyzacyjnym jest dla zakładu utworzonego przez:
 
-- **1)** jednostkę samorządu terytorialnego wojewoda;
-- **2)** podmiot inny niż wymieniony w pkt 1 minister właściwy do spraw zdrowia.
+- **1)** jednostkę samorządu terytorialnego – wojewoda;
+- **2)** podmiot inny niż wymieniony w pkt 1 – minister właściwy do spraw zdrowia.
 
 **Art. 20.**
 
@@ -327,7 +324,7 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 
 **Art. 23.**
 
-1. Organ restrukturyzacyjny w przypadku zakładu, dla którego podmiotem, który go utworzył, jest minister, centralny organ administracji rządowej albo wojewoda niezwłocznie przekazuje projekt programu do zaopiniowania ministrowi właściwemu do spraw gospodarki.
+1. Organ restrukturyzacyjny – w przypadku zakładu, dla którego podmiotem, który go utworzył, jest minister, centralny organ administracji rządowej albo wojewoda – niezwłocznie przekazuje projekt programu do zaopiniowania ministrowi właściwemu do spraw gospodarki.
 
 2. Minister właściwy do spraw gospodarki jest obowiązany przedłożyć organowi restrukturyzacyjnemu opinię, w terminie 21 dni od dnia otrzymania projektu programu. Nieprzedłożenie opinii w tym terminie jest równoznaczne z wydaniem opinii pozytywnej.
 
@@ -432,10 +429,10 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 
 1. Wojewoda składa ministrowi właściwemu do spraw zdrowia informacje:
 
-- **1)** dotyczące liczby wydanych postanowień o wszczęciu postępowań restrukturyzacyjnych w terminie 30 dni od upływu terminu, o którym mowa w art. 20 ust. 1;
-- **2)** o wydanych decyzjach o warunkach restrukturyzacji w terminie 7 dni od dnia wydania takiej decyzji;
-- **3)** o wydanych decyzjach o umorzeniu postępowań restrukturyzacyjnych oraz przyczynach ich wydania w terminie 7 dni od dnia wydania takiej decyzji;
-- **4)** o wydanych decyzjach o zakończeniu postępowania restrukturyzacyjnego w terminie 7 dni od dnia wydania takiej decyzji.
+- **1)** dotyczące liczby wydanych postanowień o wszczęciu postępowań restrukturyzacyjnych – w terminie 30 dni od upływu terminu, o którym mowa w art. 20 ust. 1;
+- **2)** o wydanych decyzjach o warunkach restrukturyzacji – w terminie 7 dni od dnia wydania takiej decyzji;
+- **3)** o wydanych decyzjach o umorzeniu postępowań restrukturyzacyjnych oraz przyczynach ich wydania – w terminie 7 dni od dnia wydania takiej decyzji;
+- **4)** o wydanych decyzjach o zakończeniu postępowania restrukturyzacyjnego – w terminie 7 dni od dnia wydania takiej decyzji.
 
 2. Do informacji, o której mowa w ust. 1, dołącza się sprawozdanie z przebiegu postępowania restrukturyzacyjnego.
 
@@ -444,8 +441,8 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 **Art. 33.**
 
 - **18)** Organ restrukturyzacyjny, co najmniej raz na 6 miesięcy, ogłasza w:
-- **1)** dzienniku urzędowym ministra właściwego do spraw zdrowia w przypadku gdy organem restrukturyzacyjnym jest minister właściwy do spraw zdrowia,
-- **2)** wojewódzkim dzienniku urzędowym w przypadku gdy organem restrukturyzacyjnym jest wojewoda listę zakładów, w stosunku do których wydał decyzję o zakończeniu postępowania restrukturyzacyjnego.
+- **1)** dzienniku urzędowym ministra właściwego do spraw zdrowia – w przypadku gdy organem restrukturyzacyjnym jest minister właściwy do spraw zdrowia,
+- **2)** wojewódzkim dzienniku urzędowym – w przypadku gdy organem restrukturyzacyjnym jest wojewoda – listę zakładów, w stosunku do których wydał decyzję o zakończeniu postępowania restrukturyzacyjnego.
 
 #### Rozdział 4 Zasady udzielania pomocy publicznej zakładom
 
@@ -483,12 +480,12 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 - **1)** na wniosek zakładu złożony w terminie do miesiąca od dnia wydania postanowienia o wszczęciu postępowania restrukturyzacyjnego;
 - **2)** w kwocie nie wyższej niż suma należności głównych z tytułu zobowiązań, które zakład posiadał lub posiada wobec pracowników, wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw ;
 - **3)** wyłącznie na zaspokojenie następujących zobowiązań:
-    - **a)** w pierwszej kolejności zaspokojenie należności głównych z tytułu roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw ,
+    - **a)** w pierwszej kolejności – zaspokojenie należności głównych z tytułu roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw ,
     - **b)** spłatę należności z tytułu zobowiązań publicznoprawnych, o których mowa w art. 7, z wyłączeniem odsetek za zwłokę oraz kwot, o których mowa w art. 6 ust. 1 pkt 7,
     - **c)** spłatę należności z tytułu zobowiązań cywilnoprawnych objętych ugodą restrukturyzacyjną w zakresie określonym w art. 13 ust. 1 pkt 2 i 3, z wyłączeniem odsetek za zwłokę oraz kwot, o których mowa w art. 6 ust. 1 pkt 7,
     - **d)** pokrycie kosztów opłaty prowizyjnej za podejmowane przez BGK czynności, o których mowa w art. 36 ust. 1.
 
-5. Przez należność główną, o której mowa w ust. 4 pkt 2 i 3 lit. a oraz ust. 8 pkt 2, rozumie się należność wyliczoną według wzoru: Kp=(Z ×203×12)+(Z ×313,24×12) gdzie poszczególne symbole oznaczają: Kp kwotę pożyczki w złotych, Z przeciętne roczne zatrudnienie w zakładzie w 2001 r., Z przeciętne roczne zatrudnienie w zakładzie w 2002 r., 203 przyrost przeciętnego miesięcznego wynagrodzenia w kwocie 203 zł, o którym mowa w art. 4a ust. 1 ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw , w 2001 r., 313,24 przyrost przeciętnego miesięcznego wynagrodzenia w kwocie stanowiącej sumę kwot 203 zł i 110,24 zł, o którym mowa w art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw , w 2002 r., 12 liczbę miesięcy w roku.
+5. Przez należność główną, o której mowa w ust. 4 pkt 2 i 3 lit. a oraz ust. 8 pkt 2, rozumie się należność wyliczoną według wzoru: Kp=(Z ×203×12)+(Z ×313,24×12) gdzie poszczególne symbole oznaczają: Kp – kwotę pożyczki w złotych, Z – przeciętne roczne zatrudnienie w zakładzie w 2001 r., Z – przeciętne roczne zatrudnienie w zakładzie w 2002 r., 203 – przyrost przeciętnego miesięcznego wynagrodzenia w kwocie 203 zł, o którym mowa w art. 4a ust. 1 ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw , w 2001 r., 313,24 – przyrost przeciętnego miesięcznego wynagrodzenia w kwocie stanowiącej sumę kwot 203 zł i 110,24 zł, o którym mowa w art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw , w 2002 r., 12 – liczbę miesięcy w roku.
 
 6. Skarb Państwa zawiera z zakładem umowę o pożyczkę w okresie miesiąca od dnia złożenia przez zakład kompletnego wniosku o pożyczkę.
 
@@ -511,7 +508,7 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 - **1)** posiada ostateczną decyzję o warunkach restrukturyzacji;
 - **2)** który do dnia umorzenia dokona spłaty odsetek należnych za ten okres;
 - **3)** któremu przysługuje roszczenie wobec Narodowego Funduszu Zdrowia, Skarbu Państwa lub innej jednostki sektora finansów publicznych z tytułu zobowiązań tego zakładu wobec pracowników wynikających z ustawy wymienionej w art. 4 pkt 3;
-- **4)** który zrzeknie się roszczeń, o których mowa w pkt 3 umarza się odpowiednio pozostałą cześć pożyczki albo pozostałą część pożyczki i środków uzyskanych z tytułu zwiększenia, o którym mowa w art. 35b ust. 3.
+- **4)** który zrzeknie się roszczeń, o których mowa w pkt 3 – umarza się odpowiednio pozostałą cześć pożyczki albo pozostałą część pożyczki i środków uzyskanych z tytułu zwiększenia, o którym mowa w art. 35b ust. 3.
 
 10c. Umorzenie, o którym mowa w ust. 10b, następuje:
 
@@ -564,13 +561,13 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 2. Pożyczka jest udzielana:
 
 - **1)** na wniosek zakładu złożony w terminie do dnia 1 września 2006 r.;
-- **2)** w kwocie nie wyższej niż kwota wyliczona według wzoru: Kp=Z ×M×12, gdzie poszczególne symbole oznaczają: Kp kwotę pożyczki w złotych, Z przeciętne roczne zatrudnienie w zakładzie w 2004 r., M minimalne wynagrodzenie za pracę w 2004 r. ustalone przez Radę Ministrów na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. poz. 1679, z 2004 r. poz. 2407 oraz z 2005 r. poz. 1314), 12 liczbę miesięcy w roku.
+- **2)** w kwocie nie wyższej niż kwota wyliczona według wzoru: Kp=Z ×M×12, gdzie poszczególne symbole oznaczają: Kp – kwotę pożyczki w złotych, Z – przeciętne roczne zatrudnienie w zakładzie w 2004 r., M – minimalne wynagrodzenie za pracę w 2004 r. ustalone przez Radę Ministrów na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. poz. 1679, z 2004 r. poz. 2407 oraz z 2005 r. poz. 1314), 12 – liczbę miesięcy w roku.
 
 3. W przypadku złożenia, przed dniem 1 sierpnia 2006 r., przez wierzyciela wierzytelności cywilnoprawnych wniosku o uchylenie ugody restrukturyzacyjnej, o którym mowa w art. 15 ust. 1, termin do złożenia wniosku o pożyczkę wynosi miesiąc. Bieg terminu rozpoczyna się od dnia, w którym orzeczenie sądu wydane w postępowaniu, o którym mowa w art. 15, stało się prawomocne.
 
 4. Środki z pożyczki, o której mowa w ust. 1, przeznacza się wyłącznie na zaspokojenie następujących zobowiązań:
 
-- **1)** w pierwszej kolejności spłatę należności głównych i odsetek za zwłokę z tytułu zobowiązań publicznoprawnych, o których mowa w art. 7, z wyłączeniem innych niż odsetki za zwłokę kwot, o których mowa w art. 6 ust. 1 pkt 7;
+- **1)** w pierwszej kolejności – spłatę należności głównych i odsetek za zwłokę z tytułu zobowiązań publicznoprawnych, o których mowa w art. 7, z wyłączeniem innych niż odsetki za zwłokę kwot, o których mowa w art. 6 ust. 1 pkt 7;
 - **2)** spłatę należności z tytułu zobowiązań cywilnoprawnych objętych ugodą restrukturyzacyjną w zakresie określonym w art. 13 ust. 1 pkt 2 i 3, z wyłączeniem odsetek za zwłokę oraz kwot, o których mowa w art. 6 ust. 1 pkt 7;
 - **3)** pokrycie kosztów opłaty prowizyjnej za podejmowane przez BGK czynności, o których mowa w art. 36 ust. 1.
 
@@ -608,7 +605,7 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 
 5. Środki uzyskane w wyniku zwiększenia kwoty pożyczki, o którym mowa w ust. 3, przeznacza się wyłącznie na zaspokojenie następujących zobowiązań:
 
-- **1)** w pierwszej kolejności spłatę należności głównych i odsetek za zwłokę z tytułu składek na ubezpieczenia społeczne w części finansowanej przez zakład w związku z zaspokojeniem przez zakład, po wszczęciu postępowania restrukturyzacyjnego, należności głównych z tytułu indywidualnych roszczeń pracowników, o których mowa w art. 4 pkt 3;
+- **1)** w pierwszej kolejności – spłatę należności głównych i odsetek za zwłokę z tytułu składek na ubezpieczenia społeczne w części finansowanej przez zakład w związku z zaspokojeniem przez zakład, po wszczęciu postępowania restrukturyzacyjnego, należności głównych z tytułu indywidualnych roszczeń pracowników, o których mowa w art. 4 pkt 3;
 - **2)** spłatę należności głównych i odsetek za zwłokę z tytułu zobowiązań publicznoprawnych, o których mowa w art. 7, z wyłączeniem innych niż odsetki za zwłokę kwot, o których mowa w art. 6 ust. 1 pkt 7;
 - **3)** spłatę należności z tytułu zobowiązań cywilnoprawnych objętych ugodą restrukturyzacyjną w zakresie określonym w art. 13 ust. 1 pkt 2 i 3, z wyłączeniem odsetek za zwłokę oraz kwot, o których mowa w art. 6 ust. 1 pkt 7.
 
@@ -621,8 +618,11 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 - **3)** numery rachunków bankowych, na które zakład będzie dokonywał spłat należności głównej z tytułu zwiększenia kwoty pożyczki, o którym mowa w ust. 3, i odsetek od tej kwoty oraz wynagrodzenia dla BGK za nadzorowanie wykonania umowy o zmianie umowy o pożyczkę;
 - **4)** rodzaje zabezpieczeń, o których mowa w ust. 1 pkt 4.
 
-8. Do zwiększenia kwoty pożyczki, o którym mowa w ust. 3, stosuje się odpowiednio przepisy art. 35 ust. 6, 7, 11–13 i 16. Art. 35ba. 30) 1. Skarb Państwa udziela pożyczki zakładowi, który w terminie do dnia 1 października 2007 r. złoży wniosek o zwiększenie kwoty pożyczki, o którym mowa w ust. 3, jeżeli zakład ten, w dniu złożenia wniosku, spełnia łącznie następujące warunki:
+8. Do zwiększenia kwoty pożyczki, o którym mowa w ust. 3, stosuje się odpowiednio przepisy art. 35 ust. 6, 7, 11–13 i 16.
 
+**Art. 35ba.**
+
+- **30)** 1. Skarb Państwa udziela pożyczki zakładowi, który w terminie do dnia 1 października 2007 r. złoży wniosek o zwiększenie kwoty pożyczki, o którym mowa w ust. 3, jeżeli zakład ten, w dniu złożenia wniosku, spełnia łącznie następujące warunki:
 - **1)** udzielono mu pożyczki w trybie określonym w art. 35;
 - **2)** uzyskał ostateczną decyzję o warunkach restrukturyzacji;
 - **3)** złożył pisemne oświadczenie o wysokości przeciętnego rocznego zatrudnienia w zakładzie w roku 2004;
@@ -630,13 +630,13 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 
 2. W przypadku złożenia, przed dniem 1 września 2007 r., przez wierzyciela wierzytelności cywilnoprawnych wniosku o uchylenie ugody restrukturyzacyjnej, o którym mowa w art. 15 ust. 1, termin do złożenia wniosku o zwiększenie kwoty pożyczki wynosi 2 miesiące. Bieg terminu rozpoczyna się od dnia, w którym orzeczenie sądu wydane w postępowaniu, o którym mowa w art. 15, stało się prawomocne.
 
-3. Pożyczka jest udzielana w kwocie nie wyższej niż kwota wyliczona według wzoru: Kp=Z × 1 ⁄ 4 M×12 , gdzie poszczególne symbole oznaczają: Kp kwotę pożyczki w złotych, Z przeciętne roczne zatrudnienie w zakładzie w 2004 r., 1 ⁄ M 4  minimalnego wynagrodzenia za pracę w 2004 r. ustalonego przez Radę Ministrów na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. poz. 1679, z 2004 r. poz. 2407 oraz z 2005 r. poz. 1314), 12 liczbę miesięcy w roku.
+3. Pożyczka jest udzielana w kwocie nie wyższej niż kwota wyliczona według wzoru: Kp=Z × 1 ⁄ 4 M×12 , gdzie poszczególne symbole oznaczają: Kp – kwotę pożyczki w złotych, Z – przeciętne roczne zatrudnienie w zakładzie w 2004 r., 1 ⁄ M –  minimalnego wynagrodzenia za pracę w 2004 r. ustalonego przez Radę Ministrów na podstawie art. 2 4 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. poz. 1679, z 2004 r. poz. 2407 oraz z 2005 r. poz. 1314), 12 – liczbę miesięcy w roku.
 
 4. Środki uzyskane w wyniku zwiększenia kwoty pożyczki, o którym mowa w ust. 3, są wypłacane zakładowi jednorazowo w terminie miesiąca od dnia podpisania umowy o zmianie umowy o pożyczkę.
 
 5. Środki uzyskane w wyniku zwiększenia kwoty pożyczki, o którym mowa w ust. 3, przeznacza się wyłącznie na zaspokojenie następujących zobowiązań:
 
-- **1)** w pierwszej kolejności na spłatę należności głównych i odsetek za zwłokę z tytułu składek na ubezpieczenia społeczne w części finansowanej przez zakład w związku z zaspokojeniem przez zakład, po dniu 31 grudnia 2004 r., należności głównych z tytułu indywidualnych roszczeń pracowników, o których mowa w art. 4 pkt 3;
+- **1)** w pierwszej kolejności – na spłatę należności głównych i odsetek za zwłokę z tytułu składek na ubezpieczenia społeczne w części finansowanej przez zakład w związku z zaspokojeniem przez zakład, po dniu 31 grudnia 2004 r., należności głównych z tytułu indywidualnych roszczeń pracowników, o których mowa w art. 4 pkt 3;
 - **2)** na spłatę należności głównych i odsetek za zwłokę z tytułu zobowiązań publicznoprawnych, o których mowa w art. 7, z wyłączeniem innych niż odsetki za zwłokę kwot, o których mowa w art. 6 ust. 1 pkt 7;
 - **3)** spłatę należności z tytułu zobowiązań cywilnoprawnych objętych ugodą restrukturyzacyjną w zakresie określonym w art. 13 ust. 1 pkt 2 i 3, z wyłączeniem odsetek za zwłokę oraz kwot, o których mowa w art. 6 ust. 1 pkt 7;
 - **4)** spłatę kredytu obrotowego lub pożyczki udzielonej przez podmiot, który utworzył zakład, z wyłączeniem odsetek, w części która została przeznaczona na uregulowanie należności z tytułu należności głównych i odsetek za zwłokę z tytułu składek na ubezpieczenia społeczne w części finansowanej przez zakład w związku z zaspokojeniem przez zakład, po dniu 31 grudnia 2004 r., należności głównych z tytułu indywidualnych roszczeń pracowników, o których mowa w art. 4 pkt 3;
@@ -713,7 +713,7 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 
 1. Środki pochodzące z emisji obligacji mogą być przeznaczone wyłącznie na:
 
-- **1)** w pierwszej kolejności zaspokojenie roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw ;
+- **1)** w pierwszej kolejności – zaspokojenie roszczeń pracowników wynikających z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw ;
 - **2)** spłatę zobowiązań publicznoprawnych, o których mowa w art. 7;
 - **3)** spłatę zobowiązań cywilnoprawnych objętych ugodą restrukturyzacyjną w zakresie określonym w art. 13 ust. 1 pkt 2 i 3;
 - **4)** pokrycie kosztów emisji obligacji oraz pokrycie kosztów opłaty prowizyjnej, o której mowa w art. 42c ust. 4 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, z wyjątkiem kosztów wykupu obligacji oraz płatności z tytułu odsetek od obligacji.
@@ -769,9 +769,14 @@ U. poz. 2260) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 
 - **2)** złożył pisemne oświadczenie o przeciętnym rocznym zatrudnieniu w zakładzie w roku 2007;
 - **3)** ustanowił zabezpieczenia na rzecz Skarbu Państwa na wypadek roszczeń wynikających z niewypełnienia warunków umowy o pożyczkę w postaci zabezpieczenia rzeczowego na majątku własnym, weksla in blanco lub zabezpieczenia udzielonego przez inny podmiot.
 
-2. Pożyczka, o której mowa w ust. 1, jest udzielana w kwocie nie wyższej niż kwota wyliczona według wzoru: Kp=Z × 1 ⁄ 4 M×12, gdzie poszczególne symbole oznaczają: Kp kwotę pożyczki w złotych, Z przeciętne roczne zatrudnienie w zakładzie w 2007 r., 1 ⁄ M 4 / minimalnego wynagrodzenia za pracę na dzień 1 stycznia 2008 r. ustalonego przez Radę Ministrów na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, 12 liczbę miesięcy w roku.
+2. Pożyczka, o której mowa w ust. 1, jest udzielana w kwocie nie wyższej niż kwota wyliczona według wzoru: Kp=Z × 1 ⁄ 4 M×12, gdzie poszczególne symbole oznaczają: Kp – kwotę pożyczki w złotych, Z – przeciętne roczne zatrudnienie w zakładzie w 2007 r., 1 ⁄ M – / minimalnego wynagrodzenia za pracę na dzień 1 stycznia 2008 r. ustalonego przez Radę Ministrów 4 na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, 12 – liczbę miesięcy w roku.
 
 **Art. 41b.** Środki uzyskane w wyniku udzielenia pożyczki, o której mowa w art. 41a, przeznacza się wyłącznie na następujące cele:
+
+- **1)** na spłatę należności głównych z tytułu zobowiązań zakładów wobec pracowników powstałych w związku z indywidualnymi roszczeniami pracowników wynikającymi z art. 4a ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw ;
+- **2)** spłatę należności głównych i odsetek za zwłokę z tytułu zobowiązań publicznoprawnych, także nieobjętych postępowaniem restrukturyzacyjnym, o których mowa w art. 7;
+- **3)** spłatę pożyczki udzielonej przez podmiot, który utworzył zakład, zaciągniętej w celu uregulowania zobowiązań, o których mowa w art. 4, lub spłatę kredytu obrotowego przeznaczonego na uregulowanie tych zobowiązań;
+- **4)** spłatę należności z tytułu zobowiązań cywilnoprawnych objętych ugodą restrukturyzacyjną w zakresie określonym w art. 13 ust. 1 pkt 2 i 3.
 
 **Art. 41c.**
 

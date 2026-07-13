@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie opłaty za postępowanie kwalifikacyjne oraz wysokości wynagrodzenia członków Państwowej Komisji Kwalifikacyjnej Na podstawie art. 191 ust. 8 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r.
 poz. 2147 i 2260) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 11 marca 2014 r. w sprawie opłaty za postępowanie kwalifikacyjne oraz wysokości wynagrodzenia członków Państwowej Komisji Kwalifikacyjnej (Dz. U. poz. 329) w § 2 wprowadza się następujące zmiany:
-1) uchyla się pkt 4;
-2) pkt 5 otrzymuje brzmienie: „5) ministerstwo – urząd obsługujący ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Infrastruktury i Budownictwa: A. Adamczyk
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 11 marca 2014 r. w sprawie opłaty za postępowanie kwalifikacyjne oraz wysokości wynagrodzenia członków Państwowej Komisji Kwalifikacyjnej (Dz. U. poz. 329) w § 2 wprowadza się następujące zmiany:
+
+- **1)** uchyla się pkt 4;
+- **2)** pkt 5 otrzymuje brzmienie: „5) ministerstwo – urząd obsługujący ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Infrastruktury i Budownictwa: A. Adamczyk
 

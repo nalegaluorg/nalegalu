@@ -32,25 +32,11 @@ source: pdf
 - **1)** w art. 2 po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) dane biometryczne – wizerunek twarzy i odciski linii papilarnych pobrane w celu umieszczenia w dokumentach podróży przewidzianych w Konwencji Genewskiej w formie elektronicznej;”;
 - **2)** w art. 89i:
     - **a)** ust. 4 otrzymuje brzmienie: „4. Dokument podróży przewidziany w Konwencji Genewskiej wydaje się po pobraniu danych biometrycznych cudzoziemca.”,
-    - **b)** dodaje się ust. 5 i 6 w brzmieniu: „5. W dokumentach podróży przewidzianych w Konwencji Genewskiej wydawanych cudzoziemcom, od których pobranie odcisków linii papilarnych jest fizycznie niemożliwe, nie zamieszcza się obrazu linii papilarnych.
+    - **b)** dodaje się ust. 5 i 6 w brzmieniu: „5. W dokumentach podróży przewidzianych w Konwencji Genewskiej wydawanych cudzoziemcom, od których pobranie odcisków linii papilarnych jest fizycznie niemożliwe, nie zamieszcza się obrazu linii papilarnych. 6. Kartę pobytu wydaje się po dostarczeniu przez cudzoziemca 3 fotografii.”;
 
-6. Kartę pobytu wydaje się po dostarczeniu przez cudzoziemca 3 fotografii.”;
-
-- **3)** po art. 89i dodaje się art. 89ia i 89ib w brzmieniu: „Art. 89ia. W dokumencie podróży przewidzianym w Konwencji Genewskiej zamieszcza się dane i informacje, o których mowa w załączniku do Konwencji Genewskiej, oraz dane biometryczne.
-
-**Art. 89ib.**
-
-1. Cudzoziemiec odbiera dokument podróży przewidziany w Konwencji Genewskiej osobiście, co potwierdza własnoręcznym podpisem.
-
-2. Dokument podróży przewidziany w Konwencji Genewskiej dla małoletniego może odebrać jeden z rodziców lub opiekunów. Małoletni, który ukończył 13 lat, lub osoba ubezwłasnowolniona, odbierają ten dokument osobiście, w obecności przynajmniej jednego z rodziców lub opiekunów.
-
-3. Cudzoziemiec odbierający dokument przewidziany w Konwencji Genewskiej sprawdza za pomocą czytnika elektronicznego, czy dane osobowe i dane biometryczne zamieszczone w tym dokumencie są zgodne ze stanem faktycznym.”;
-
+- **3)** po art. 89i dodaje się art. 89ia i 89ib w brzmieniu: „Art. 89ia. W dokumencie podróży przewidzianym w Konwencji Genewskiej zamieszcza się dane i informacje, o których mowa w załączniku do Konwencji Genewskiej, oraz dane biometryczne. Art. 89ib. 1. Cudzoziemiec odbiera dokument podróży przewidziany w Konwencji Genewskiej osobiście, co potwierdza własnoręcznym podpisem. 2. Dokument podróży przewidziany w Konwencji Genewskiej dla małoletniego może odebrać jeden z rodziców lub opiekunów. Małoletni, który ukończył 13 lat, lub osoba ubezwłasnowolniona, odbierają ten dokument osobiście, w obecności przynajmniej jednego z rodziców lub opiekunów. 3. Cudzoziemiec odbierający dokument przewidziany w Konwencji Genewskiej sprawdza za pomocą czytnika elektronicznego, czy dane osobowe i dane biometryczne zamieszczone w tym dokumencie są zgodne ze stanem faktycznym.”;
 - **4)** art. 89m otrzymuje brzmienie: „Art. 89m. Wymiana lub wydanie nowego dokumentu podróży przewidzianego w Konwencji Genewskiej następuje na wniosek cudzoziemca, po pobraniu jego danych biometrycznych.”;
-- **5)** art. 89o otrzymuje brzmienie: „Art. 89o. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
-- **1)** wzór dokumentu podróży przewidzianego w Konwencji Genewskiej, uwzględniając postanowienia załącznika do Konwencji Genewskiej oraz obowiązek zamieszczania danych biometrycznych;
-- **2)** wzór formularza wniosku o wymianę lub wydanie nowego dokumentu podróży przewidzianego w Konwencji Genewskiej, uwzględniając dane, o których mowa w art. 8, dotyczące cudzoziemca i małoletnich dzieci towarzyszących cudzoziemcowi, w zakresie niezbędnym do wymiany lub wydania nowego dokumentu podróży przewidzianego w Konwencji Genewskiej;
-- **3)** sposób pobierania danych biometrycznych i zamieszczania ich w dokumentach podróży przewidzianych w Konwencji Genewskiej, który umożliwi potwierdzenie tożsamości cudzoziemca.”;
+- **5)** art. 89o otrzymuje brzmienie: „Art. 89o. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia: 1) wzór dokumentu podróży przewidzianego w Konwencji Genewskiej, uwzględniając postanowienia załącznika do Konwencji Genewskiej oraz obowiązek zamieszczania danych biometrycznych; 2) wzór formularza wniosku o wymianę lub wydanie nowego dokumentu podróży przewidzianego w Konwencji Genewskiej, uwzględniając dane, o których mowa w art. 8, dotyczące cudzoziemca i małoletnich dzieci towarzyszących cudzoziemcowi, w zakresie niezbędnym do wymiany lub wydania nowego dokumentu podróży przewidzianego w Konwencji Genewskiej; 3) sposób pobierania danych biometrycznych i zamieszczania ich w dokumentach podróży przewidzianych w Konwencji Genewskiej, który umożliwi potwierdzenie tożsamości cudzoziemca.”;
 - **6)** w art. 121:
     - **a)** dotychczasową treść oznacza się jako ust. 1 oraz pkt 1 w ust. 1 otrzymuje brzmienie: „1) w pkt 1, przechowuje się informacje o wnioskach, wydanych postanowieniach, decyzjach administracyjnych i wyrokach sądu, zaświadczeniach tożsamości, kartach pobytu i dokumentach podróży przewidzianych w Konwencji Genewskiej, informację, czy cudzoziemiec jest małoletnim bez opieki, dane, o których mowa w art. 8, oraz dane biometryczne dotyczące cudzoziemców objętych postępowaniami, o których mowa w pkt 1;”,
     - **b)** dodaje się ust. 2 w brzmieniu: „2. Dane biometryczne przechowuje się do dnia odebrania przez cudzoziemca dokumentu podróży przewidzianego w Konwencji Genewskiej, a w przypadku jego nieodebrania, do dnia upływu ważności tego dokumentu.”.

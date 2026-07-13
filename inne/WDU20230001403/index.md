@@ -89,62 +89,83 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 13 marca 2020 r.
 w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych Na podstawie art. 16 ust. 3 pkt 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2022 r.
 poz. 295 oraz z 2023 r. poz. 1114) zarządza się, co następuje:
-§ 1. Zawiesza się od dnia 15 marca 2020 r. od godz. 0.00 do odwołania ruch graniczny na przejściach granicznych z Federacją Rosyjską i Republiką Białorusi, których wykaz określony jest w załączniku nr 1 do rozporządzenia.
-§ 1a. Zawiesza się od dnia 1 czerwca 2023 r. od godz. 0.00 do odwołania towarowy ruch graniczny na przejściach granicznych z Republiką Białorusi dla samochodów ciężarowych, ciągników samochodowych, przyczep, w tym naczep, oraz zespołów pojazdów zarejestrowanych na terytorium Republiki Białorusi lub Federacji Rosyjskiej.
-§ 2. Ogranicza się od dnia 15 marca 2020 r. od godz. 0.00 do odwołania ruch graniczny na przejściach granicznych z Federacją Rosyjską oraz Republiką Białorusi, których wykaz, wraz z rodzajem ruchu granicznego dozwolonego przez te przejścia, określony jest w załączniku nr 2 do rozporządzenia, oraz w lotniczych przejściach granicznych w zakresie połączeń lotniczych z Federacją Rosyjską i Republiką Białorusi.
-§ 3. 1. (uchylony).
+
+**§ 1.** Zawiesza się od dnia 15 marca 2020 r. od godz. 0.00 do odwołania ruch graniczny na przejściach granicznych z Federacją Rosyjską i Republiką Białorusi, których wykaz określony jest w załączniku nr 1 do rozporządzenia.
+
+**§ 1a.** Zawiesza się od dnia 1 czerwca 2023 r. od godz. 0.00 do odwołania towarowy ruch graniczny na przejściach granicznych z Republiką Białorusi dla samochodów ciężarowych, ciągników samochodowych, przyczep, w tym naczep, oraz zespołów pojazdów zarejestrowanych na terytorium Republiki Białorusi lub Federacji Rosyjskiej.
+
+**§ 2.** Ogranicza się od dnia 15 marca 2020 r. od godz. 0.00 do odwołania ruch graniczny na przejściach granicznych z Federacją Rosyjską oraz Republiką Białorusi, których wykaz, wraz z rodzajem ruchu granicznego dozwolonego przez te przejścia, określony jest w załączniku nr 2 do rozporządzenia, oraz w lotniczych przejściach granicznych w zakresie połączeń lotniczych z Federacją Rosyjską i Republiką Białorusi.
+
+**§ 3.**
+
+1. (uchylony).
+
 2. Ograniczenie, o którym mowa w § 2, polega na ograniczeniu ruchu osobowego na przejściach granicznych, na kierunku wjazdowym do Rzeczypospolitej Polskiej, do następujących kategorii osób przekraczających granicę państwową:
-1) obywatele Rzeczypospolitej Polskiej;
-2) cudzoziemcy, którzy są małżonkami albo dziećmi obywateli Rzeczypospolitej Polskiej albo pozostają pod stałą opieką obywateli Rzeczypospolitej Polskiej;
-3) cudzoziemcy posiadający Kartę Polaka oraz ich małżonkowie;
-4) członkowie misji dyplomatycznych, urzędów konsularnych i przedstawiciele organizacji międzynarodowych oraz członkowie ich rodzin, a także inne osoby przekraczające granicę Rzeczypospolitej Polskiej na podstawie paszportu dyplomatycznego;
-5) cudzoziemcy posiadający prawo stałego lub czasowego pobytu na terytorium Rzeczypospolitej Polskiej;
-6) cudzoziemcy posiadający prawo do pracy na terytorium Rzeczypospolitej Polskiej, czyli cudzoziemcy uprawnieni do wykonywania pracy na takich samych zasadach co obywatele polscy, posiadający zezwolenie na pracę, zaświadczenie o wpisie do ewidencji w sprawie pracy sezonowej, oświadczenie o powierzeniu wykonywania pracy cudzoziemcowi na terytorium Rzeczypospolitej Polskiej, którzy:
-a) wykonują pracę na terytorium Rzeczypospolitej Polskiej lub
-b) przedstawiają dokumenty, z których wynika, że podjęcie pracy rozpocznie się niezwłocznie po przekroczeniu granicy;
-7) cudzoziemcy, którzy prowadzą środek transportu służący do przewozu osób lub towarów, a ich przejazd następuje w ramach czynności zawodowych polegających na transporcie towarów lub przewozie osób;
-8) kierowcy wykonujący przewóz drogowy w ramach międzynarodowego transportu drogowego lub międzynarodowego transportu kombinowanego w rozumieniu odpowiednio art. 4 pkt 2 i 14 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201 oraz z 2023 r. poz. 760, 919, 1123, 1193 i 1195) podróżujący tranzytem przez terytorium Rzeczypospolitej Polskiej innymi środkami transportu niż pojazd, którym jest wykonywany transport drogowy:
-a) w celu odbioru odpoczynku, o którym mowa w rozporządzeniu (WE) nr 561/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego oraz zmieniającym rozporządzenie Rady (EWG) nr 3821/85 i (WE) 2135/98, jak również uchylającym rozporządzenie Rady (EWG) nr 3820/85 (Dz. Urz. UE L 102 z 11.04.2006, str. 1, z późn. zm. ), na terytorium kraju pobytu,
-b) po odebraniu za granicą odpoczynku, o którym mowa w rozporządzeniu wymienionym w lit. a, oraz po przerwie w świadczeniu pracy w okolicznościach wskazanych w art. 31 ust. 1 ustawy z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. z 2022 r. poz. 1473);
-9) uczniowie pobierający naukę w Rzeczypospolitej Polskiej, po udokumentowaniu funkcjonariuszowi Straży Granicznej pobierania nauki w Rzeczypospolitej Polskiej, oraz ich opiekunowie, którzy przekraczają granicę wraz z uczniami w celu umożliwienia tej nauki;
-10) obywatele państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz ich małżonkowie i dzieci;
-11) cudzoziemcy posiadający zezwolenie na pobyt stały lub czasowy albo zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej, na terytorium innych państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz ich małżonkowie i dzieci w celu przejazdu przez terytorium Rzeczypospolitej Polskiej do miejsca zamieszkania lub pobytu;
-12) studenci, uczestnicy studiów podyplomowych, kształcenia specjalistycznego i innych form kształcenia, a także doktoranci kształcący się w Rzeczypospolitej Polskiej, po udokumentowaniu funkcjonariuszowi Straży Granicznej kształcenia się w Rzeczypospolitej Polskiej;
-13) naukowcy prowadzący badania naukowe lub prace rozwojowe w Rzeczypospolitej Polskiej, po udokumentowaniu funkcjonariuszowi Straży Granicznej prowadzenia badań naukowych lub prac rozwojowych w Rzeczypospolitej Polskiej;
-14) (uchylony);
-15) osoby przekraczające granicę Rzeczypospolitej Polskiej na podstawie wizy krajowej w celu repatriacji lub wizy w celu przybycia na terytorium Rzeczypospolitej Polskiej jako członek najbliższej rodziny repatrianta;
-16) cudzoziemcy, których przyjazd następuje w związku z udziałem, w charakterze zawodnika, członka sztabu szkoleniowego, lekarza, fizjoterapeuty lub sędziego, w międzynarodowych zawodach sportowych organizowanych na terytorium Rzeczypospolitej Polskiej przez międzynarodową federację sportową działającą w sporcie olimpijskim lub paraolimpijskim lub inną uznaną przez Międzynarodowy Komitet Olimpijski albo organizowanych przez międzynarodową organizację sportową o zasięgu kontynentalnym należącą do takiej federacji lub polski związek sportowy, a także akredytowani dziennikarze, po udokumentowaniu funkcjonariuszowi Straży Granicznej faktu odbywania się zawodów, terminu oraz charakteru uczestnictwa stosownym pismem wystawionym przez organizatora zawodów lub poświadczonym przez właściwy w danym sporcie polski związek sportowy;
-17) cudzoziemcy przekraczający granicę Rzeczypospolitej Polskiej na podstawie wizy wydanej w celu przyjazdu ze względów humanitarnych, z uwagi na interes państwa lub zobowiązania międzynarodowe przez władze polskie lub państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej;
-18) obywatele Republiki Białorusi;
-18a) obywatele Ukrainy;
-19) rybacy w rozumieniu art. 2 pkt 9 ustawy z dnia 11 września 2019 r. o pracy na statkach rybackich (Dz. U. z 2023 r.
-poz. 1330) lub marynarze w rozumieniu art. 2 pkt 3 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2022 r.
-poz. 1694 i 2185 oraz z 2023 r. poz. 261), zwanej dalej „ustawą o pracy na morzu”, w tym marynarze zatrudnieni na zasadach określonych w art. 46 lub art. 108 ustawy o pracy na morzu, a także:
-a) marynarze lub rybacy udający się do portu, również innym niż statek środkiem transportu, celem podjęcia zatrudnienia na statku, lub powracający do miejsca zamieszkania, również innym niż statek środkiem transportu, po zakończeniu zatrudnienia na statku – także tranzytem przez terytorium Rzeczypospolitej Polskiej,
-b) osoby wykonujące pracę lub świadczące usługi na statkach lub morskich platformach wydobywczych i wiertniczych, w oparciu o inny stosunek niż marynarska umowa o pracę;
-20) cudzoziemcy, którzy uzyskali wizę w celu udziału w programie Poland. Business Harbour;
-21) cudzoziemcy przybywający do Rzeczypospolitej Polskiej w celach gospodarczych na pisemne zaproszenie zawierające wskazanie celu gospodarczego, wystawione przez podmiot wpisany do Krajowego Rejestru Sądowego lub do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, po udokumentowaniu funkcjonariuszowi Straży Granicznej tych okoliczności;
-22) obywatele Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz ich małżonkowie i dzieci;
-23) osoby, których przyjazd następuje w związku z udziałem w międzynarodowym konkursie lub festiwalu muzycznym organizowanym na terytorium Rzeczypospolitej Polskiej przez państwową lub samorządową instytucję kultury, w charakterze uczestnika, artysty wykonawcy, jurora, akredytowanego dziennikarza albo opiekuna uczestnika lub artysty wykonawcy, po udokumentowaniu funkcjonariuszowi Straży Granicznej faktu odbywania się konkursu lub festiwalu, terminu oraz charakteru udziału w konkursie lub festiwalu stosownym pismem wystawionym przez organizatora wydarzenia;
-24) uczestnicy projektów Programu Erasmus+ oraz Europejskiego Korpusu Solidarności, po udokumentowaniu funkcjonariuszowi Straży Granicznej udziału w danym projekcie;
-25) uczestnicy projektów:
-a) realizowanych w ramach Polsko‑ Ukraińskiej Rady Wymiany Młodzieży, wraz z opiekunami,
-b) z zakresu międzynarodowej współpracy dzieci i młodzieży realizowanych i finansowanych w oparciu o art. 167 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900), wraz z opiekunami,
-c) z zakresu współpracy szkół funkcjonujących w systemach oświaty innych państw lub organizacji społecznych zarejestrowanych za granicą ze szkołami w Rzeczypospolitej Polskiej w oparciu o art. 47 ust. 3 pkt 2 lit. e ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe − po uprzednim przedłożeniu Straży Granicznej przez Ministerstwo Edukacji i Nauki informacji o planowanym wjeździe, wraz z danymi uczestników, a w przypadku projektów, o których mowa w lit. a i b, również ich opiekunów;
-26) małoletni cudzoziemcy, którzy są dziećmi albo pozostają pod stałą opieką cudzoziemców, o których mowa w pkt 3, 5 lub 6;
-27) osoby, których przyjazd następuje w związku z udziałem, w charakterze uczestnika, w międzynarodowej konferencji organizowanej na terytorium Rzeczypospolitej Polskiej przez instytucję państwową lub samorządową, której organizacja stanowi realizację zobowiązań wynikających z umowy międzynarodowej zawartej przez Rzeczpospolitą Polską, po udokumentowaniu funkcjonariuszowi Straży Granicznej faktu odbywania się międzynarodowej konferencji, terminu oraz charakteru udziału, pismem wystawionym przez organizatora wydarzenia.
+
+- **1)** obywatele Rzeczypospolitej Polskiej;
+- **2)** cudzoziemcy, którzy są małżonkami albo dziećmi obywateli Rzeczypospolitej Polskiej albo pozostają pod stałą opieką obywateli Rzeczypospolitej Polskiej;
+- **3)** cudzoziemcy posiadający Kartę Polaka oraz ich małżonkowie;
+- **4)** członkowie misji dyplomatycznych, urzędów konsularnych i przedstawiciele organizacji międzynarodowych oraz członkowie ich rodzin, a także inne osoby przekraczające granicę Rzeczypospolitej Polskiej na podstawie paszportu dyplomatycznego;
+- **5)** cudzoziemcy posiadający prawo stałego lub czasowego pobytu na terytorium Rzeczypospolitej Polskiej;
+- **6)** cudzoziemcy posiadający prawo do pracy na terytorium Rzeczypospolitej Polskiej, czyli cudzoziemcy uprawnieni do wykonywania pracy na takich samych zasadach co obywatele polscy, posiadający zezwolenie na pracę, zaświadczenie o wpisie do ewidencji w sprawie pracy sezonowej, oświadczenie o powierzeniu wykonywania pracy cudzoziemcowi na terytorium Rzeczypospolitej Polskiej, którzy:
+    - **a)** wykonują pracę na terytorium Rzeczypospolitej Polskiej lub
+    - **b)** przedstawiają dokumenty, z których wynika, że podjęcie pracy rozpocznie się niezwłocznie po przekroczeniu granicy;
+
+- **7)** cudzoziemcy, którzy prowadzą środek transportu służący do przewozu osób lub towarów, a ich przejazd następuje w ramach czynności zawodowych polegających na transporcie towarów lub przewozie osób;
+- **8)** kierowcy wykonujący przewóz drogowy w ramach międzynarodowego transportu drogowego lub międzynarodowego transportu kombinowanego w rozumieniu odpowiednio art. 4 pkt 2 i 14 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 2201 oraz z 2023 r. poz. 760, 919, 1123, 1193 i 1195) podróżujący tranzytem przez terytorium Rzeczypospolitej Polskiej innymi środkami transportu niż pojazd, którym jest wykonywany transport drogowy:
+    - **a)** w celu odbioru odpoczynku, o którym mowa w rozporządzeniu (WE) nr 561/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego oraz zmieniającym rozporządzenie Rady (EWG) nr 3821/85 i (WE) 2135/98, jak również uchylającym rozporządzenie Rady (EWG) nr 3820/85 (Dz. Urz. UE L 102 z 11.04.2006, str. 1, z późn. zm. ), na terytorium kraju pobytu,
+    - **b)** po odebraniu za granicą odpoczynku, o którym mowa w rozporządzeniu wymienionym w lit. a, oraz po przerwie w świadczeniu pracy w okolicznościach wskazanych w art. 31 ust. 1 ustawy z dnia 16 kwietnia 2004 r. o czasie pracy kierowców (Dz. U. z 2022 r. poz. 1473);
+
+- **9)** uczniowie pobierający naukę w Rzeczypospolitej Polskiej, po udokumentowaniu funkcjonariuszowi Straży Granicznej pobierania nauki w Rzeczypospolitej Polskiej, oraz ich opiekunowie, którzy przekraczają granicę wraz z uczniami w celu umożliwienia tej nauki;
+- **10)** obywatele państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz ich małżonkowie i dzieci;
+- **11)** cudzoziemcy posiadający zezwolenie na pobyt stały lub czasowy albo zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej, na terytorium innych państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz ich małżonkowie i dzieci w celu przejazdu przez terytorium Rzeczypospolitej Polskiej do miejsca zamieszkania lub pobytu;
+- **12)** studenci, uczestnicy studiów podyplomowych, kształcenia specjalistycznego i innych form kształcenia, a także doktoranci kształcący się w Rzeczypospolitej Polskiej, po udokumentowaniu funkcjonariuszowi Straży Granicznej kształcenia się w Rzeczypospolitej Polskiej;
+- **13)** naukowcy prowadzący badania naukowe lub prace rozwojowe w Rzeczypospolitej Polskiej, po udokumentowaniu funkcjonariuszowi Straży Granicznej prowadzenia badań naukowych lub prac rozwojowych w Rzeczypospolitej Polskiej;
+- **14)** (uchylony);
+- **15)** osoby przekraczające granicę Rzeczypospolitej Polskiej na podstawie wizy krajowej w celu repatriacji lub wizy w celu przybycia na terytorium Rzeczypospolitej Polskiej jako członek najbliższej rodziny repatrianta;
+- **16)** cudzoziemcy, których przyjazd następuje w związku z udziałem, w charakterze zawodnika, członka sztabu szkoleniowego, lekarza, fizjoterapeuty lub sędziego, w międzynarodowych zawodach sportowych organizowanych na terytorium Rzeczypospolitej Polskiej przez międzynarodową federację sportową działającą w sporcie olimpijskim lub paraolimpijskim lub inną uznaną przez Międzynarodowy Komitet Olimpijski albo organizowanych przez międzynarodową organizację sportową o zasięgu kontynentalnym należącą do takiej federacji lub polski związek sportowy, a także akredytowani dziennikarze, po udokumentowaniu funkcjonariuszowi Straży Granicznej faktu odbywania się zawodów, terminu oraz charakteru uczestnictwa stosownym pismem wystawionym przez organizatora zawodów lub poświadczonym przez właściwy w danym sporcie polski związek sportowy;
+- **17)** cudzoziemcy przekraczający granicę Rzeczypospolitej Polskiej na podstawie wizy wydanej w celu przyjazdu ze względów humanitarnych, z uwagi na interes państwa lub zobowiązania międzynarodowe przez władze polskie lub państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej;
+- **18)** obywatele Republiki Białorusi;
+- **18a)** obywatele Ukrainy;
+- **19)** rybacy w rozumieniu art. 2 pkt 9 ustawy z dnia 11 września 2019 r. o pracy na statkach rybackich (Dz. U. z 2023 r. poz. 1330) lub marynarze w rozumieniu art. 2 pkt 3 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2022 r. poz. 1694 i 2185 oraz z 2023 r. poz. 261), zwanej dalej „ustawą o pracy na morzu”, w tym marynarze zatrudnieni na zasadach określonych w art. 46 lub art. 108 ustawy o pracy na morzu, a także:
+    - **a)** marynarze lub rybacy udający się do portu, również innym niż statek środkiem transportu, celem podjęcia zatrudnienia na statku, lub powracający do miejsca zamieszkania, również innym niż statek środkiem transportu, po zakończeniu zatrudnienia na statku – także tranzytem przez terytorium Rzeczypospolitej Polskiej,
+    - **b)** osoby wykonujące pracę lub świadczące usługi na statkach lub morskich platformach wydobywczych i wiertniczych, w oparciu o inny stosunek niż marynarska umowa o pracę;
+
+- **20)** cudzoziemcy, którzy uzyskali wizę w celu udziału w programie Poland. Business Harbour;
+- **21)** cudzoziemcy przybywający do Rzeczypospolitej Polskiej w celach gospodarczych na pisemne zaproszenie zawierające wskazanie celu gospodarczego, wystawione przez podmiot wpisany do Krajowego Rejestru Sądowego lub do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, po udokumentowaniu funkcjonariuszowi Straży Granicznej tych okoliczności;
+- **22)** obywatele Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej oraz ich małżonkowie i dzieci;
+- **23)** osoby, których przyjazd następuje w związku z udziałem w międzynarodowym konkursie lub festiwalu muzycznym organizowanym na terytorium Rzeczypospolitej Polskiej przez państwową lub samorządową instytucję kultury, w charakterze uczestnika, artysty wykonawcy, jurora, akredytowanego dziennikarza albo opiekuna uczestnika lub artysty wykonawcy, po udokumentowaniu funkcjonariuszowi Straży Granicznej faktu odbywania się konkursu lub festiwalu, terminu oraz charakteru udziału w konkursie lub festiwalu stosownym pismem wystawionym przez organizatora wydarzenia;
+- **24)** uczestnicy projektów Programu Erasmus+ oraz Europejskiego Korpusu Solidarności, po udokumentowaniu funkcjonariuszowi Straży Granicznej udziału w danym projekcie;
+- **25)** uczestnicy projektów:
+    - **a)** realizowanych w ramach Polsko‑ Ukraińskiej Rady Wymiany Młodzieży, wraz z opiekunami,
+    - **b)** z zakresu międzynarodowej współpracy dzieci i młodzieży realizowanych i finansowanych w oparciu o art. 167 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900), wraz z opiekunami,
+    - **c)** z zakresu współpracy szkół funkcjonujących w systemach oświaty innych państw lub organizacji społecznych zarejestrowanych za granicą ze szkołami w Rzeczypospolitej Polskiej w oparciu o art. 47 ust. 3 pkt 2 lit. e ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe − po uprzednim przedłożeniu Straży Granicznej przez Ministerstwo Edukacji i Nauki informacji o planowanym wjeździe, wraz z danymi uczestników, a w przypadku projektów, o których mowa w lit. a i b, również ich opiekunów;
+
+- **26)** małoletni cudzoziemcy, którzy są dziećmi albo pozostają pod stałą opieką cudzoziemców, o których mowa w pkt 3, 5 lub 6;
+- **27)** osoby, których przyjazd następuje w związku z udziałem, w charakterze uczestnika, w międzynarodowej konferencji organizowanej na terytorium Rzeczypospolitej Polskiej przez instytucję państwową lub samorządową, której organizacja stanowi realizację zobowiązań wynikających z umowy międzynarodowej zawartej przez Rzeczpospolitą Polską, po udokumentowaniu funkcjonariuszowi Straży Granicznej faktu odbywania się międzynarodowej konferencji, terminu oraz charakteru udziału, pismem wystawionym przez organizatora wydarzenia.
+
 2a. Osoby, które nie należą do kategorii osób wymienionych w ust. 2, poucza się o obowiązku niezwłocznego opuszczenia terytorium Rzeczypospolitej Polskiej.
+
 2b. W przypadku ujawnienia osób, o których mowa w ust. 2a, w przejściu granicznym, na którym ruch graniczny został zawieszony lub ograniczony oraz poza zasięgiem terytorialnym przejścia granicznego, osoby takie zawraca się do linii granicy państwowej.
+
 3. W szczególnie uzasadnionych przypadkach komendant placówki Straży Granicznej, po uzyskaniu zgody Komendanta Głównego Straży Granicznej, może zezwolić cudzoziemcom, innym niż wymienieni w ust. 2, na wjazd na terytorium Rzeczypospolitej Polskiej.
-§ 3a. 1. Ogranicza się do odwołania ruch graniczny na:
-1) drogowych, kolejowych i rzecznych,
-2) lotniczych i morskich − przejściach granicznych na granicy Rzeczypospolitej Polskiej, stanowiącej granicę zewnętrzną w rozumieniu art. 2 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/399 z dnia 9 marca 2016 r. w sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 77 z 23.03.2016, str. 1, z późn. zm.), na kierunku wjazdowym do Rzeczypospolitej Polskiej, w stosunku do obywateli Federacji Rosyjskiej.
+
+**§ 3a.**
+
+1. Ogranicza się do odwołania ruch graniczny na:
+
+- **1)** drogowych, kolejowych i rzecznych,
+- **2)** lotniczych i morskich − przejściach granicznych na granicy Rzeczypospolitej Polskiej, stanowiącej granicę zewnętrzną w rozumieniu art. 2 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/399 z dnia 9 marca 2016 r. w sprawie unijnego kodeksu zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 77 z 23.03.2016, str. 1, z późn. zm.), na kierunku wjazdowym do Rzeczypospolitej Polskiej, w stosunku do obywateli Federacji Rosyjskiej.
+
 2. Ograniczenia, o którym mowa w ust. 1, nie stosuje się do osób, o których mowa w § 3 ust. 2:
-1) pkt 2, 3, 5–8, 10, 11, 15, 17, 19, 20 i 26;
-2) pkt 4, z zastrzeżeniem że, o ile nie są członkami misji dyplomatycznych, urzędów konsularnych lub przedstawicielami organizacji międzynarodowych mających siedziby w państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej lub członkami ich rodzin, posiadają ważną wizę uprawniającą do wjazdu;
-3) pkt 9, 12 i 13, jeżeli posiadają zezwolenie na pobyt czasowy w Rzeczypospolitej Polskiej.
+
+- **1)** pkt 2, 3, 5–8, 10, 11, 15, 17, 19, 20 i 26;
+- **2)** pkt 4, z zastrzeżeniem że, o ile nie są członkami misji dyplomatycznych, urzędów konsularnych lub przedstawicielami organizacji międzynarodowych mających siedziby w państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub Zjednoczonym Królestwie Wielkiej Brytanii i Irlandii Północnej lub członkami ich rodzin, posiadają ważną wizę uprawniającą do wjazdu;
+- **3)** pkt 9, 12 i 13, jeżeli posiadają zezwolenie na pobyt czasowy w Rzeczypospolitej Polskiej.
+
 3. Przepis § 3 ust. 3 stosuje się odpowiednio.
-§ 4. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem ogłoszenia .
 
 ## Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r.
 

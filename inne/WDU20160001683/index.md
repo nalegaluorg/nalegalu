@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie upoważnienia Krajowej Rady Diagnostów Laboratoryjnych do wykonywania zadań w sprawach uznawania kwalifikacji w zawodzie diagnosty laboratoryjnego Na podstawie art. 4a ust. 3 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2016 r.
 poz. 543, 749, 1020, 1250 i 1579) zarządza się, co następuje:
-§ 1. Upoważnia się Krajową Radę Diagnostów Laboratoryjnych do wykonywania zadań w sprawach uznawania kwalifikacji w zawodzie diagnosty laboratoryjnego nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: K. Radziwiłł
+
+**§ 1.** Upoważnia się Krajową Radę Diagnostów Laboratoryjnych do wykonywania zadań w sprawach uznawania kwalifikacji w zawodzie diagnosty laboratoryjnego nabytych w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: K. Radziwiłł
 

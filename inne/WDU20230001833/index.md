@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001833) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1833/text.pdf) |
 
 zmieniające rozporządzenie w sprawie warunków technicznych dozoru technicznego w zakresie projektowania, wytwarzania, eksploatacji, naprawy i modernizacji specjalistycznych urządzeń ciśnieniowych Na podstawie art. 54 ust. 2 ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. z 2023 r. poz. 1622) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Transportu z dnia 20 października 2006 r. w sprawie warunków technicznych dozoru technicznego w zakresie projektowania, wytwarzania, eksploatacji, naprawy i modernizacji specjalistycznych urządzeń ciśnieniowych (Dz. U. z 2014 r. poz. 1465) w § 15a ust. 2 otrzymuje brzmienie: „2. Na stacjach, o których mowa w § 128 rozporządzenia Ministra Klimatu i Środowiska z dnia 24 lipca 2023 r.
-w sprawie warunków technicznych, jakim powinny odpowiadać bazy i stacje paliw płynnych, bazy i stacje gazu płynnego, rurociągi przesyłowe dalekosiężne służące do transportu ropy naftowej i produktów naftowych i ich usytuowanie (Dz. U. poz. 1707), spełniających wymagania określone w § 131 ust. 2, § 133 i § 134 tego rozporządzenia, osoby napełniające zbiorniki LPG zamontowane w instalacjach zasilania pojazdów nie muszą posiadać uprawnień, o których mowa w ust. 1.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 9 września 2023 r.
-Minister Infrastruktury: A. Adamczyk
+
+**§ 1.** W rozporządzeniu Ministra Transportu z dnia 20 października 2006 r. w sprawie warunków technicznych dozoru technicznego w zakresie projektowania, wytwarzania, eksploatacji, naprawy i modernizacji specjalistycznych urządzeń ciśnieniowych (Dz. U. z 2014 r. poz. 1465) w § 15a ust. 2 otrzymuje brzmienie: „2. Na stacjach, o których mowa w § 128 rozporządzenia Ministra Klimatu i Środowiska z dnia 24 lipca 2023 r. w sprawie warunków technicznych, jakim powinny odpowiadać bazy i stacje paliw płynnych, bazy i stacje gazu płynnego, rurociągi przesyłowe dalekosiężne służące do transportu ropy naftowej i produktów naftowych i ich usytuowanie (Dz. U. poz. 1707), spełniających wymagania określone w § 131 ust. 2, § 133 i § 134 tego rozporządzenia, osoby napełniające zbiorniki LPG zamontowane w instalacjach zasilania pojazdów nie muszą posiadać uprawnień, o których mowa w ust. 1.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 9 września 2023 r. Minister Infrastruktury: A. Adamczyk
 

@@ -29,8 +29,8 @@ Warszawa, dnia 23 kwietnia 2012 v r.
 Poz. 442 o ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 4 kwietnia g 2012 r.
 zmieniające rozporządzenie w sprawie wykonywania obowiązku meldunkowego przez żołnierzy w czynnej służbie wojskowej Na podstawie art. 39 ust. 2 ustawy z dnia 24 września . 2010 r. o ewidencji ludności (Dz. U. Nr 217, poz. 1427, z późn.
 zm. ) zarządza się, co następuje: l
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 22 lipca 2011 r. w sprawie wykonywania obowiązku meldunkowego przez żołnierzy w czynnej służbie c wojskowej (Dz. U. Nr 168, poz. 1010) § 10 otrzymuje brzmienie: „§ 10. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-r Minister Obrony Narodowej: T. Siemoniak .
-w w w
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 22 lipca 2011 r. w sprawie wykonywania obowiązku meldunkowego przez żołnierzy w czynnej służbie c wojskowej (Dz. U. Nr 168, poz. 1010) § 10 otrzymuje brzmienie: „§ 10. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia. r Minister Obrony Narodowej: T. Siemoniak . w w w
 

@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000036) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/36/text.pdf) |
 
 zmieniające rozporządzenie w sprawie warunków bezpieczeństwa i higieny służby w trakcie realizacji szkoleń w Policji Na podstawie art. 71a ust. 10 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 16 lipca 2019 r. w sprawie warunków bezpieczeństwa i higieny służby w trakcie realizacji szkoleń w Policji (Dz. U. poz. 1375 oraz z 2020 r. poz. 1263) w § 2 w pkt 1 po wyrazach „Komendanta Biura Spraw Wewnętrznych Policji,” dodaje się wyrazy „Komendanta Centralnego Biura Zwalczania Cyberprzestępczości,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 16 lipca 2019 r. w sprawie warunków bezpieczeństwa i higieny służby w trakcie realizacji szkoleń w Policji (Dz. U. poz. 1375 oraz z 2020 r. poz. 1263) w § 2 w pkt 1 po wyrazach „Komendanta Biura Spraw Wewnętrznych Policji,” dodaje się wyrazy „Komendanta Centralnego Biura Zwalczania Cyberprzestępczości,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 

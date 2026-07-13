@@ -28,7 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie utworzenia Wydziałów Zamiejscowych Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, prokuratur regionalnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości Na podstawie art. 35 § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2024 r. poz. 390 oraz z 2025 r.
 poz. 304 i 1178) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 19 lutego 2016 r. w sprawie utworzenia Wydziałów Zamiejscowych Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, prokuratur regionalnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. z 2025 r. poz. 415) w § 4 w pkt 5 lit. e otrzymuje brzmienie: „e) Prokuraturę Rejonową w Nowym Mieście Lubawskim dla miasta Nowe Miasto Lubawskie oraz gmin: Biskupiec, Bratian, Grodziczno i Kurzętnik,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r.
-Minister Sprawiedliwości: W. Żurek
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 19 lutego 2016 r. w sprawie utworzenia Wydziałów Zamiejscowych Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej, prokuratur regionalnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. z 2025 r. poz. 415) w § 4 w pkt 5 lit. e otrzymuje brzmienie: „e) Prokuraturę Rejonową w Nowym Mieście Lubawskim dla miasta Nowe Miasto Lubawskie oraz gmin: Biskupiec, Bratian, Grodziczno i Kurzętnik,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r. Minister Sprawiedliwości: W. Żurek
 

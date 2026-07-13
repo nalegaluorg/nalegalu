@@ -8,10 +8,10 @@ pos: 776
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 kwietnia 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 776 ROZPORZĄDZENIE MINISTRA ROZWOJU, P RA cy I TE ch NO l O g II z dnia 1 kwietnia 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,155 +25,178 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-10-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000776) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/776/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROZWOJU, P RA cy I TE ch NO l O g II z dnia 1 kwietnia 2021 r.
-w sprawie szkolenia potwierdzającego posiadanie przygotowania zawodowego do wykonywania lub kierowania działalnością gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym Na podstawie art. 11 ust. 7 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2020 r. poz. 1545) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) instytucje upoważnione do prowadzenia szkolenia potwierdzającego posiadanie przygotowania zawodowego do wykonywania lub kierowania działalnością gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, zwanego dalej „szkoleniem”;
-2) szczegółowy zakres szkolenia, sposób jego dokumentowania i szczegółowe warunki jego prowadzenia, z uwzględnieniem możliwości prowadzenia ćwiczeń praktycznych;
-3) sposób przygotowania egzaminu sprawdzającego oraz zakres, szczegółowe warunki i sposób jego przeprowadzania;
-4) wzór zaświadczenia potwierdzającego ukończenie szkolenia;
-5) wysokość opłat za szkolenie.
-§ 2. Wykaz instytucji upoważnionych do prowadzenia szkolenia, zwanych dalej „instytucjami upoważnionymi”, określa załącznik nr 1 do rozporządzenia.
-§ 3. 1. Szkolenie jest organizowane w zakresie podzielonym na dwa obszary, które obejmują:
-1) łącznie grupy tematyczne wymienione w ust. 2 pkt 1–3, w przypadku gdy planowana działalność gospodarcza obejmować będzie wytwarzanie i obrót materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym;
-2) łącznie grupy tematyczne wymienione w ust. 2 pkt 2 i 3, w przypadku gdy planowana działalność gospodarcza obejmować będzie wyłącznie obrót materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
+w sprawie szkolenia potwierdzającego posiadanie przygotowania zawodowego do wykonywania lub kierowania działalnością gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym Na podstawie art. 11 ust. 7 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2020 r. poz. 1545) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** instytucje upoważnione do prowadzenia szkolenia potwierdzającego posiadanie przygotowania zawodowego do wykonywania lub kierowania działalnością gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, zwanego dalej „szkoleniem”;
+- **2)** szczegółowy zakres szkolenia, sposób jego dokumentowania i szczegółowe warunki jego prowadzenia, z uwzględnieniem możliwości prowadzenia ćwiczeń praktycznych;
+- **3)** sposób przygotowania egzaminu sprawdzającego oraz zakres, szczegółowe warunki i sposób jego przeprowadzania;
+- **4)** wzór zaświadczenia potwierdzającego ukończenie szkolenia;
+- **5)** wysokość opłat za szkolenie.
+
+**§ 2.** Wykaz instytucji upoważnionych do prowadzenia szkolenia, zwanych dalej „instytucjami upoważnionymi”, określa załącznik nr 1 do rozporządzenia.
+
+**§ 3.**
+
+1. Szkolenie jest organizowane w zakresie podzielonym na dwa obszary, które obejmują:
+
+- **1)** łącznie grupy tematyczne wymienione w ust. 2 pkt 1–3, w przypadku gdy planowana działalność gospodarcza obejmować będzie wytwarzanie i obrót materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym;
+- **2)** łącznie grupy tematyczne wymienione w ust. 2 pkt 2 i 3, w przypadku gdy planowana działalność gospodarcza obejmować będzie wyłącznie obrót materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
+
 2. W zakres szkolenia wchodzą następujące grupy tematyczne:
-1) wykonywanie lub kierowanie działalnością gospodarczą w zakresie wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym z uwzględnieniem systemu oceny jakości produkcji, badań produktu i certyfikacji;
-2) wykonywanie lub kierowanie działalnością gospodarczą w zakresie obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym;
-3) zasady bezpieczeństwa i higieny pracy, zagrożenia dla życia lub zdrowia ludzi, mienia, środowiska i bezpieczeństwa publicznego oraz sposoby ich ograniczania lub eliminacji, a także zagrożenia zewnętrzne związane z prowadzoną działalnością gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
+
+- **1)** wykonywanie lub kierowanie działalnością gospodarczą w zakresie wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym z uwzględnieniem systemu oceny jakości produkcji, badań produktu i certyfikacji;
+- **2)** wykonywanie lub kierowanie działalnością gospodarczą w zakresie obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym;
+- **3)** zasady bezpieczeństwa i higieny pracy, zagrożenia dla życia lub zdrowia ludzi, mienia, środowiska i bezpieczeństwa publicznego oraz sposoby ich ograniczania lub eliminacji, a także zagrożenia zewnętrzne związane z prowadzoną działalnością gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
+
 3. Szczegółowy zakres szkolenia w grupie tematycznej, o której mowa w ust. 2:
-1) pkt 1, określa załącznik nr 2 do rozporządzenia;
-2) pkt 2, określa załącznik nr 3 do rozporządzenia;
-3) pkt 3, określa załącznik nr 4 do rozporządzenia.
+
+- **1)** pkt 1, określa załącznik nr 2 do rozporządzenia;
+- **2)** pkt 2, określa załącznik nr 3 do rozporządzenia;
+- **3)** pkt 3, określa załącznik nr 4 do rozporządzenia.
+
 4. Z przebiegu szkolenia sporządza się protokół, który zawiera:
-1) nazwę instytucji upoważnionej;
-2) miejsce i termin szkolenia;
-3) imiona i nazwiska osób prowadzących wykłady i ćwiczenia praktyczne;
-4) informację o zrealizowaniu tematyki szkolenia w całym zakresie, z ewentualnymi uwagami dotyczącymi tej realizacji;
-5) liczbę godzin przeprowadzonych wykładów i ćwiczeń praktycznych;
-6) opis ćwiczeń praktycznych jeżeli były przeprowadzone;
-7) zestawienie obecności osób szkolonych, zawierające imiona i nazwiska tych osób;
-8) zestawienie osób szkolonych, które przystąpiły do egzaminu sprawdzającego wiedzę nabytą podczas szkolenia, zwanego dalej „egzaminem sprawdzającym”, zawierające imiona i nazwiska oraz numery PESEL tych osób, a w przypadku osób posiadających obywatelstwo innego państwa serię i numer paszportu lub innego dokumentu potwierdzającego ich tożsamość wraz z wynikiem egzaminu uzyskanym przez każdą z tych osób oraz numerem i datą zaświadczenia potwierdzającego ukończenie szkolenia, o którym mowa w § 6 ust. 3;
-9) podpisy osób prowadzących wykłady lub ćwiczenia praktyczne;
-10) podpis kierownika instytucji upoważnionej.
-§ 4. 1. Szkolenie prowadzi się w formie wykładów, z uwzględnieniem możliwości prowadzenia ćwiczeń praktycznych, odnoszących się do wybranych grup tematycznych, będących przedmiotem wykładów w łącznym wymiarze do 40 godzin lekcyjnych, nie dłużej niż przez pięć kolejnych dni roboczych.
+
+- **1)** nazwę instytucji upoważnionej;
+- **2)** miejsce i termin szkolenia;
+- **3)** imiona i nazwiska osób prowadzących wykłady i ćwiczenia praktyczne;
+- **4)** informację o zrealizowaniu tematyki szkolenia w całym zakresie, z ewentualnymi uwagami dotyczącymi tej realizacji;
+- **5)** liczbę godzin przeprowadzonych wykładów i ćwiczeń praktycznych;
+- **6)** opis ćwiczeń praktycznych – jeżeli były przeprowadzone;
+- **7)** zestawienie obecności osób szkolonych, zawierające imiona i nazwiska tych osób;
+- **8)** zestawienie osób szkolonych, które przystąpiły do egzaminu sprawdzającego wiedzę nabytą podczas szkolenia, zwanego dalej „egzaminem sprawdzającym”, zawierające imiona i nazwiska oraz numery PESEL tych osób, a w przypadku osób posiadających obywatelstwo innego państwa – serię i numer paszportu lub innego dokumentu potwierdzającego ich tożsamość wraz z wynikiem egzaminu uzyskanym przez każdą z tych osób oraz numerem i datą zaświadczenia potwierdzającego ukończenie szkolenia, o którym mowa w § 6 ust. 3;
+- **9)** podpisy osób prowadzących wykłady lub ćwiczenia praktyczne;
+- **10)** podpis kierownika instytucji upoważnionej.
+
+**§ 4.**
+
+1. Szkolenie prowadzi się w formie wykładów, z uwzględnieniem możliwości prowadzenia ćwiczeń praktycznych, odnoszących się do wybranych grup tematycznych, będących przedmiotem wykładów – w łącznym wymiarze do 40 godzin lekcyjnych, nie dłużej niż przez pięć kolejnych dni roboczych.
+
 2. Szkolenie w ciągu jednego dnia roboczego obejmuje nie więcej niż 8 godzin lekcyjnych.
+
 3. Godzina lekcyjna trwa 45 minut.
+
 4. Instytucja upoważniona zapewnia:
-1) warunki lokalowe umożliwiające prowadzenie szkolenia, w tym:
-a) salę wykładową, która jest dostosowana do liczby osób szkolonych, o powierzchni nie mniejszej niż 20 m , przy zapewnieniu co najmniej 1 m na osobę szkoloną, oraz wyposażona w oświetlenie zapewniające dobrą widoczność każdej osobie szkolonej, wentylację oraz środki dydaktyczne, zapewniające prawidłową realizację celu szkolenia,
-b) miejsce do prowadzenia ćwiczeń praktycznych,
-c) pomieszczenie dla wykładowców,
-d) zaplecze sanitarne;
-2) materiały szkoleniowe, w tym dotyczące wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz
+
+- **1)** warunki lokalowe umożliwiające prowadzenie szkolenia, w tym:
+    - **a)** salę wykładową, która jest dostosowana do liczby osób szkolonych, o powierzchni nie mniejszej niż 20 m , przy zapewnieniu co najmniej 1 m na osobę szkoloną, oraz wyposażona w oświetlenie zapewniające dobrą widoczność każdej osobie szkolonej, wentylację oraz środki dydaktyczne, zapewniające prawidłową realizację celu szkolenia,
+    - **b)** miejsce do prowadzenia ćwiczeń praktycznych,
+    - **c)** pomieszczenie dla wykładowców,
+    - **d)** zaplecze sanitarne;
+
+- **2)** materiały szkoleniowe, w tym dotyczące wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
+
 5. Udział w szkoleniu zapewnia wniesienie:
-1) zgłoszenia zawierającego:
-a) imię, nazwisko, adres zamieszkania oraz numer PESEL osoby zgłaszającej się do udziału w szkoleniu, a w przypadku osoby posiadającej obywatelstwo innego państwa serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
-b) określenie zakresu szkolenia, o którym mowa w § 3 ust. 1;
-2) opłaty za szkolenie, o której mowa w § 7.
-§ 5. 1. Egzamin sprawdzający jest przeprowadzany w formie pisemnego testu jednokrotnego wyboru spośród co najmniej trzech propozycji odpowiedzi, zwanego dalej „testem sprawdzającym”.
+
+- **1)** zgłoszenia zawierającego:
+    - **a)** imię, nazwisko, adres zamieszkania oraz numer PESEL osoby zgłaszającej się do udziału w szkoleniu, a w przypadku osoby posiadającej obywatelstwo innego państwa – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
+    - **b)** określenie zakresu szkolenia, o którym mowa w § 3 ust. 1;
+
+- **2)** opłaty za szkolenie, o której mowa w § 7.
+
+**§ 5.**
+
+1. Egzamin sprawdzający jest przeprowadzany w formie pisemnego testu jednokrotnego wyboru spośród co najmniej trzech propozycji odpowiedzi, zwanego dalej „testem sprawdzającym”.
+
 2. Test sprawdzający dostosowuje się do obszaru szkolenia, o którym mowa w § 3 ust. 1, oraz przygotowania zawodowego do wykonywania lub kierowania działalnością gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym albo obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
+
 3. Test sprawdzający opracowuje na podstawie szczegółowego zakresu szkolenia, określonego w załącznikach nr 2–4 do rozporządzenia, zespół składający się co najmniej z dwóch przedstawicieli instytucji upoważnionej, z możliwością uczestniczenia w posiedzeniach zespołu przedstawicieli innych instytucji, jeżeli zostanie to uznane przez zespół za konieczne dla prawidłowego przygotowania tego testu.
+
 4. W czasie trwania testu sprawdzającego instytucja upoważniona jest obowiązana zapewnić w sali wykładowej miejsce przeznaczone do przechowania sprzętu komunikacji mobilnej, w tym telefonów, tabletów i laptopów.
-§ 6. 1. Test sprawdzający obejmuje:
-1) zasady wykonywania lub kierowania działalnością gospodarczą w zakresie:
-a) wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym albo
-b) obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, w przypadku gdy planowana działalność gospodarcza obejmować będzie wyłącznie obrót;
-2) zagrożenia dla życia lub zdrowia ludzi, mienia, środowiska i bezpieczeństwa publicznego, związane z działalnością gospodarczą objętą szkoleniem oraz sposoby ograniczania lub eliminacji tych zagrożeń;
-3) zewnętrzne zagrożenia dla prowadzonej działalności gospodarczej;
-4) warunki techniczno-organizacyjne wymagane przy:
-a) wytwarzaniu i obrocie materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym,
-b) obrocie materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, w przypadku gdy planowana działalność gospodarcza obejmować będzie wyłącznie obrót;
-5) zasady tworzenia, wdrażania i stosowania systemu oceny jakości produkcji, badań produktu i certyfikacji w przypadku planowanej działalności gospodarczej w zakresie wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym;
-6) zasady bezpieczeństwa i higieny pracy związane z prowadzoną działalnością gospodarczą;
-7) zasady prowadzenia ewidencji materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym wytworzonych lub będących przedmiotem obrotu;
-8) zasady przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym wytworzonych lub będących przedmiotem obrotu;
-9) zasady oceny ryzyka zawodowego występującego w procesach produkcyjnych związanych z wytwarzaniem materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym, w przypadku planowanej działalności gospodarczej w zakresie wytwarzania;
-10) zasady opracowania, aktualizowania i wykonania planu postępowania na wypadek zagrożenia życia lub zdrowia ludzi,
+
+**§ 6.**
+
+1. Test sprawdzający obejmuje:
+
+- **1)** zasady wykonywania lub kierowania działalnością gospodarczą w zakresie:
+    - **a)** wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym albo
+    - **b)** obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, w przypadku gdy planowana działalność gospodarcza obejmować będzie wyłącznie obrót;
+
+- **2)** zagrożenia dla życia lub zdrowia ludzi, mienia, środowiska i bezpieczeństwa publicznego, związane z działalnością gospodarczą objętą szkoleniem oraz sposoby ograniczania lub eliminacji tych zagrożeń;
+- **3)** zewnętrzne zagrożenia dla prowadzonej działalności gospodarczej;
+- **4)** warunki techniczno-organizacyjne wymagane przy:
+    - **a)** wytwarzaniu i obrocie materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym,
+    - **b)** obrocie materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, w przypadku gdy planowana działalność gospodarcza obejmować będzie wyłącznie obrót;
+
+- **5)** zasady tworzenia, wdrażania i stosowania systemu oceny jakości produkcji, badań produktu i certyfikacji w przypadku planowanej działalności gospodarczej w zakresie wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym;
+- **6)** zasady bezpieczeństwa i higieny pracy związane z prowadzoną działalnością gospodarczą;
+- **7)** zasady prowadzenia ewidencji materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym wytworzonych lub będących przedmiotem obrotu;
+- **8)** zasady przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym wytworzonych lub będących przedmiotem obrotu;
+- **9)** zasady oceny ryzyka zawodowego występującego w procesach produkcyjnych związanych z wytwarzaniem materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym, w przypadku planowanej działalności gospodarczej w zakresie wytwarzania;
+- **10)** zasady opracowania, aktualizowania i wykonania planu postępowania na wypadek zagrożenia życia lub zdrowia ludzi, mienia oraz środowiska, w przypadku planowanej działalności gospodarczej w zakresie wytwarzania.
+
 2. Wynik testu sprawdzającego uznaje się za „pozytywny”, jeżeli uczestnik szkolenia udzielił co najmniej 75% prawidłowych odpowiedzi.
+
 3. Osobie szkolonej, która uzyskała pozytywny wynik testu sprawdzającego, wydaje się zaświadczenie potwierdzające ukończenie szkolenia, którego wzór określa załącznik nr 5 do rozporządzenia.
-§ 7. Opłatę za szkolenie ustala się w wysokości:
-1) 1/2 przeciętnego wynagrodzenia, o którym mowa w art. 11 ust. 6 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, zwanej dalej „ustawą” w przypadku szkolenia obejmującego łącznie grupy tematyczne, o których mowa w § 3 ust. 2 pkt 1–3;
-2) 2/3 z 1/2 przeciętnego wynagrodzenia, o którym mowa w art. 11 ust. 6 ustawy w przypadku szkolenia obejmującego wyłącznie grupy tematyczne, o których mowa w § 3 ust. 2 pkt 2 i 3.
-§ 8. Do szkoleń rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy obowiązujące w dniu ich rozpoczęcia.
-§ 9. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rozwoju, Pracy i Technologii: J. Gowin WYKAZ INSTYTUCJI UPOWAŻNIONYCH DO PROWADZENIA SZKOLENIA POTWIERDZAJĄCEGO POSIADANIE PRZYGOTOWANIA ZAWODOWEGO DO WYKONYWANIA LUB KIEROWANIA
-DZIAŁALNOŚCIĄ GOSPODARCZĄ W ZAKRESIE WYTWARZANIA I OBROTU MATERIAŁAMI WYBUCHOWYMI, BRONIĄ, AMUNICJĄ ORAZ WYROBAMI I TECHNOLOGIĄ O PRZEZNACZENIU WOJSKOWYM LUB POLICYJNYM Lp. NAZWA INSTYTUCJI OBSZAR KOMPETENCJI UPOWAŻNIONEJ 1 Sieć Badawcza Łukasiewicz 1. Wytwarzanie i obrót materiałami wybuchowymi, amunicją oraz wyrobaInstytut Przemysłu mi o przeznaczeniu wojskowym lub policyjnym, zawierającymi materiały Organicznego wybuchowe, oraz Bronią Masowego Rażenia, a także obrót związanymi w Warszawie z tym technologiami, z wykluczeniem materiałów promieniotwórczych i związanymi z nimi technologiami.
-2. System oceny jakości produkcji, badań produktu i certyfikacji odnoszący się do wytwarzania w zakresie, o którym mowa w pkt 1.
-2 Instytut Technologii 1. Wytwarzanie i obrót wyrobami oraz technologią o przeznaczeniu wojskoBezpieczeństwa wym lub policyjnym w zakresie wyrobów tekstylnych, wyrobów bali„MORATEX” w Łodzi stycznych i ochronnych.
-2. System oceny jakości produkcji, badań produktu i certyfikacji odnoszący się do wytwarzania w zakresie, o którym mowa w pkt 1.
-3 Sieć Badawcza Łukasiewicz 1. Wytwarzanie i obrót materiałami wybuchowymi, bronią, amunicją oraz Instytut Mechaniki Precyzyjnej wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
-w Warszawie 2. System oceny jakości produkcji, badań produktu i certyfikacji odnoszący się do wytwarzania w zakresie, o którym mowa w pkt 1.
-4 Wojskowa Akademia 1. Wytwarzanie i obrót materiałami wybuchowymi, bronią, amunicją oraz Techniczna im. Jarosława wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
-Dąbrowskiego 2. System oceny jakości produkcji, badań produktu i certyfikacji odnoszący w Warszawie się do wytwarzania w zakresie, o którym mowa w pkt 1.
-5 Wojskowy Instytut Techniczny 1. Wytwarzanie i obrót materiałami wybuchowymi, bronią, amunicją oraz Uzbrojenia w Zielonce wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
-2. System oceny jakości produkcji, badań produktu i certyfikacji odnoszący się do wytwarzania w zakresie, o którym mowa w pkt 1.
-6 Wojskowy Instytut Chemii i Radiometrii w Warszawie
-1. Wytwarzanie i obrót wyrobami o charakterze Broni Masowego Rażenia i obrót związanymi z tym technologiami.
-2. System oceny jakości produkcji, badań produktu i certyfikacji odnoszący się do wytwarzania w zakresie, o którym mowa w pkt 1.
-7 Wojskowy Instytut Techniki 1. Wytwarzanie i obrót materiałami wybuchowymi, bronią, amunicją oraz Inżynieryjnej im. Józefa wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
-Kosackiego 2. System oceny jakości produkcji, badań produktu i certyfikacji odnoszący we Wrocławiu się do wytwarzania w zakresie, o którym mowa w pkt 1.
-8 Instytut Techniczny Wojsk 1. Wytwarzanie i obrót materiałami wybuchowymi, bronią, amunicją oraz Lotniczych w Warszawie wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
-2. System oceny jakości produkcji, badań produktu i certyfikacji odnoszący się do wytwarzania w zakresie, o którym mowa w pkt 1.
-9 Agencja Bezpieczeństwa Wytwarzanie i obrót wyrobami i technologią o przeznaczeniu wojskowym lub Wewnętrznego policyjnym w zakresie ochrony informacji niejawnych.
-SZCZEGÓŁOWY ZAKRES SZKOLENIA W GRUPIE TEMATYCZNEJ: WYKONYWANIE LUB KIEROWANIE
-DZIAŁALNOŚCIĄ GOSPODARCZĄ W ZAKRESIE WYTWARZANIA MATERIAŁÓW WYBUCHOWYCH, BRONI, AMUNICJI ORAZ WYROBÓW O PRZEZNACZENIU WOJSKOWYM LUB POLICYJNYM Z UWZGLĘDNIENIEM SYSTEMU OCENY JAKOŚCI PRODUKCJI, BADAŃ PRODUKTU I CERTYFIKACJI Lp. GRUPA TEMATYCZNA SZCZEGÓŁOWY ZAKRES SZKOLENIA 1 Wytwarzanie materiałów 1. Podstawowe zagadnienia dotyczące wykonywania lub kierowania działalwybuchowych, nością gospodarczą w zakresie wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjo przeznaczeniu wojskowym nym, w tym obowiązujące przepisy prawne w tym zakresie.
-lub policyjnym 2. Projektowanie i wytwarzanie materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym oraz warunki techniczne i organizacyjne zapewniające prawidłowe wykonywanie działalności gospodarczej w zakresie wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym.
-3. Właściwości fizyczno-chemiczne materiałów wybuchowych, ich wpływ na proces wytwarzania, bezpieczeństwo oraz środowisko naturalne odmiany i formy użytkowe oraz obszary zastosowań materiałów wybuchowych w procesach produkcyjnych.
-4. Wytwarzanie broni palnej i amunicji.
-5. Wytwarzanie wyrobów o przeznaczeniu wojskowym lub policyjnym.
-6. Ocena ryzyka zawodowego występującego w procesach wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym, eliminacja zagrożeń, działania ograniczające i ryzyko zawodowe wynikające z tych zagrożeń.
-7. Oznakowanie broni, amunicji oraz materiałów wybuchowych.
-8. Niszczenie nieprzydatnych do użycia materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym.
-9. Remont, naprawa, przerobienie, zmiana oznakowania oraz pozbawienie cech użytkowych broni palnej, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym.
-10. Ewidencjonowanie wytworzonych materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym, ewidencjonowanie strzeleckiej broni palnej w Systemie Rejestracji Broni (SRB).
-11. Pakowanie i przechowywanie materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym oraz warunki transportu, w tym zasady oznakowania i oznaczania transportu zgodnie z wymogami określonymi w umowie europejskiej dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych ADR, sporządzonej w Genewie dnia 30 września 1957 r.
-12. Ochrona środowiska naturalnego w procesie wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym.
-2 System oceny jakości produkcji, 1. Ocena spełnienia warunków projektowych i wytwórczych niezbędnych do system badań produktu oraz rozpoczęcia produkcji materiałów wybuchowych, broni, amunicji oraz system certyfikacji wyrobów o przeznaczeniu wojskowym lub policyjnym uwzględniająca zapewnienie niezawodności i bezpieczeństwa wyprodukowanych wyrobów w projektowanym okresie używania, zgodnych z systemem jakości produkcji.
-2. Zasady, warunki i terminy określone dla obowiązku wdrożenia i stosowania systemu oceny jakości produkcji przez przedsiębiorcę wykonującego działalność w zakresie wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym.
-3. E lementy systemu oceny jakości produkcji obejmujące w szczególności:
-1) s urowce, półprodukty, części, podzespoły i zespoły stosowane do wytwarzania wyrobów określonych w ust. 1;
-2) a paraturę (w tym sterującą i przyrządy pomiarowe), maszyny i urządzenia stosowane w procesie wytwarzania;
-3) o chronę życia i zdrowia ludzkiego, mienia i środowiska w procesie wytwarzania;
-4) s posób magazynowania surowców i półproduktów, części, produktu końcowego zgodny z przepisami prawa;
-5) a nalizę ryzyka zawodowego;
-6) s porządzenie planu postępowania na wypadek zagrożenia życia lub zdrowia ludzi oraz środowiska naturalnego w procesie wytwarzania;
-7) z adania kierownictwa w przedsiębiorstwie wdrażającym system jakości produkcji.
+
+**§ 7.** Opłatę za szkolenie ustala się w wysokości:
+
+- **1)** 1/2 przeciętnego wynagrodzenia, o którym mowa w art. 11 ust. 6 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, zwanej dalej „ustawą” – w przypadku szkolenia obejmującego łącznie grupy tematyczne, o których mowa w § 3 ust. 2 pkt 1–3;
+- **2)** 2/3 z 1/2 przeciętnego wynagrodzenia, o którym mowa w art. 11 ust. 6 ustawy – w przypadku szkolenia obejmującego wyłącznie grupy tematyczne, o których mowa w § 3 ust. 2 pkt 2 i 3.
+
+**§ 8.** Do szkoleń rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy obowiązujące w dniu ich rozpoczęcia.
+
+**§ 9.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rozwoju, Pracy i Technologii: J. Gowin WYKAZ INSTYTUCJI UPOWAŻNIONYCH DO PROWADZENIA SZKOLENIA POTWIERDZAJĄCEGO POSIADANIE PRZYGOTOWANIA ZAWODOWEGO DO WYKONYWANIA LUB KIEROWANIA DZIAŁALNOŚCIĄ GOSPODARCZĄ W ZAKRESIE WYTWARZANIA I OBROTU MATERIAŁAMI WYBUCHOWYMI, BRONIĄ, AMUNICJĄ ORAZ WYROBAMI I TECHNOLOGIĄ O PRZEZNACZENIU WOJSKOWYM LUB POLICYJNYM Lp. NAZWA INSTYTUCJI OBSZAR KOMPETENCJI UPOWAŻNIONEJ 1 Sieć Badawcza Łukasiewicz – 1. Wytwarzanie i obrót materiałami wybuchowymi, amunicją oraz wyrobaInstytut Przemysłu mi o przeznaczeniu wojskowym lub policyjnym, zawierającymi materiały Organicznego wybuchowe, oraz Bronią Masowego Rażenia, a także obrót związanymi w Warszawie z tym technologiami, z wykluczeniem materiałów promieniotwórczych i związanymi z nimi technologiami. 2. System oceny jakości produkcji, badań produktu i certyfikacji odnoszący się do wytwarzania w zakresie, o którym mowa w pkt 1. 2 Instytut Technologii 1. Wytwarzanie i obrót wyrobami oraz technologią o przeznaczeniu wojskoBezpieczeństwa wym lub policyjnym w zakresie wyrobów tekstylnych, wyrobów bali„MORATEX” w Łodzi stycznych i ochronnych. 2. System oceny jakości produkcji, badań produktu i certyfikacji odnoszący się do wytwarzania w zakresie, o którym mowa w pkt 1. 3 Sieć Badawcza Łukasiewicz – 1. Wytwarzanie i obrót materiałami wybuchowymi, bronią, amunicją oraz Instytut Mechaniki Precyzyjnej wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym. w Warszawie 2. System oceny jakości produkcji, badań produktu i certyfikacji odnoszący się do wytwarzania w zakresie, o którym mowa w pkt 1. 4 Wojskowa Akademia 1. Wytwarzanie i obrót materiałami wybuchowymi, bronią, amunicją oraz Techniczna im. Jarosława wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym. Dąbrowskiego 2. System oceny jakości produkcji, badań produktu i certyfikacji odnoszący w Warszawie się do wytwarzania w zakresie, o którym mowa w pkt 1. 5 Wojskowy Instytut Techniczny 1. Wytwarzanie i obrót materiałami wybuchowymi, bronią, amunicją oraz Uzbrojenia w Zielonce wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym. 2. System oceny jakości produkcji, badań produktu i certyfikacji odnoszący się do wytwarzania w zakresie, o którym mowa w pkt 1. 6 Wojskowy Instytut Chemii 1. Wytwarzanie i obrót wyrobami o charakterze Broni Masowego Rażenia i Radiometrii w Warszawie i obrót związanymi z tym technologiami. 2. System oceny jakości produkcji, badań produktu i certyfikacji odnoszący się do wytwarzania w zakresie, o którym mowa w pkt 1. 7 Wojskowy Instytut Techniki 1. Wytwarzanie i obrót materiałami wybuchowymi, bronią, amunicją oraz Inżynieryjnej im. Józefa wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym. Kosackiego 2. System oceny jakości produkcji, badań produktu i certyfikacji odnoszący we Wrocławiu się do wytwarzania w zakresie, o którym mowa w pkt 1. 8 Instytut Techniczny Wojsk 1. Wytwarzanie i obrót materiałami wybuchowymi, bronią, amunicją oraz Lotniczych w Warszawie wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym. 2. System oceny jakości produkcji, badań produktu i certyfikacji odnoszący się do wytwarzania w zakresie, o którym mowa w pkt 1. 9 Agencja Bezpieczeństwa Wytwarzanie i obrót wyrobami i technologią o przeznaczeniu wojskowym lub Wewnętrznego policyjnym w zakresie ochrony informacji niejawnych. SZCZEGÓŁOWY ZAKRES SZKOLENIA W GRUPIE TEMATYCZNEJ: WYKONYWANIE LUB KIEROWANIE DZIAŁALNOŚCIĄ GOSPODARCZĄ W ZAKRESIE WYTWARZANIA MATERIAŁÓW WYBUCHOWYCH, BRONI, AMUNICJI ORAZ WYROBÓW O PRZEZNACZENIU WOJSKOWYM LUB POLICYJNYM Z UWZGLĘDNIENIEM SYSTEMU OCENY JAKOŚCI PRODUKCJI, BADAŃ PRODUKTU I CERTYFIKACJI Lp. GRUPA TEMATYCZNA SZCZEGÓŁOWY ZAKRES SZKOLENIA 1 Wytwarzanie materiałów 1. Podstawowe zagadnienia dotyczące wykonywania lub kierowania działalwybuchowych, nością gospodarczą w zakresie wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjo przeznaczeniu wojskowym nym, w tym obowiązujące przepisy prawne w tym zakresie. lub policyjnym 2. Projektowanie i wytwarzanie materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym oraz warunki techniczne i organizacyjne zapewniające prawidłowe wykonywanie działalności gospodarczej w zakresie wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym. 3. Właściwości fizyczno-chemiczne materiałów wybuchowych, ich wpływ na proces wytwarzania, bezpieczeństwo oraz środowisko naturalne – odmiany i formy użytkowe oraz obszary zastosowań materiałów wybuchowych w procesach produkcyjnych. 4. Wytwarzanie broni palnej i amunicji. 5. Wytwarzanie wyrobów o przeznaczeniu wojskowym lub policyjnym. 6. Ocena ryzyka zawodowego występującego w procesach wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym, eliminacja zagrożeń, działania ograniczające i ryzyko zawodowe wynikające z tych zagrożeń. 7. Oznakowanie broni, amunicji oraz materiałów wybuchowych. 8. Niszczenie nieprzydatnych do użycia materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym. 9. Remont, naprawa, przerobienie, zmiana oznakowania oraz pozbawienie cech użytkowych broni palnej, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym. 10. Ewidencjonowanie wytworzonych materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym, ewidencjonowanie strzeleckiej broni palnej w Systemie Rejestracji Broni (SRB). 11. Pakowanie i przechowywanie materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym oraz warunki transportu, w tym zasady oznakowania i oznaczania transportu zgodnie z wymogami określonymi w umowie europejskiej dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych ADR, sporządzonej w Genewie dnia 30 września 1957 r. 12. Ochrona środowiska naturalnego w procesie wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym. 2 System oceny jakości produkcji, 1. Ocena spełnienia warunków projektowych i wytwórczych niezbędnych do system badań produktu oraz rozpoczęcia produkcji materiałów wybuchowych, broni, amunicji oraz system certyfikacji wyrobów o przeznaczeniu wojskowym lub policyjnym uwzględniająca zapewnienie niezawodności i bezpieczeństwa wyprodukowanych wyrobów w projektowanym okresie używania, zgodnych z systemem jakości produkcji. 2. Zasady, warunki i terminy określone dla obowiązku wdrożenia i stosowania systemu oceny jakości produkcji przez przedsiębiorcę wykonującego działalność w zakresie wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym. 3. E lementy systemu oceny jakości produkcji obejmujące w szczególności:
+
+- **1)** s urowce, półprodukty, części, podzespoły i zespoły stosowane do wytwarzania wyrobów określonych w ust. 1;
+- **2)** a paraturę (w tym sterującą i przyrządy pomiarowe), maszyny i urządzenia stosowane w procesie wytwarzania;
+- **3)** o chronę życia i zdrowia ludzkiego, mienia i środowiska w procesie wytwarzania;
+- **4)** s posób magazynowania surowców i półproduktów, części, produktu końcowego – zgodny z przepisami prawa;
+- **5)** a nalizę ryzyka zawodowego;
+- **6)** s porządzenie planu postępowania na wypadek zagrożenia życia lub zdrowia ludzi oraz środowiska naturalnego w procesie wytwarzania;
+- **7)** z adania kierownictwa w przedsiębiorstwie wdrażającym system jakości produkcji.
+
 4. Z agadnienia systemu badań produktu, w tym:
-1) o kreślenie zadań kontroli wewnętrznej;
-2) o mówienie mechanizmu kontroli produktu końcowego;
-3) o kreślenie planu edukacyjnego załogi uczestniczącej w procesie wytwarzania na każdym etapie cyklu produkcyjnego.
-5. C ertyfikacja jej znaczenie i rola w systemie oceny jakości produkcji.
-SZCZEGÓŁOWY ZAKRES SZKOLENIA W GRUPIE TEMATYCZNEJ: WYKONYWANIE LUB KIEROWANIE
-DZIAŁALNOŚCIĄ GOSPODARCZĄ W ZAKRESIE OBROTU MATERIAŁAMI WYBUCHOWYMI, BRONIĄ, AMUNICJĄ ORAZ WYROBAMI I TECHNOLOGIĄ O PRZEZNACZENIU WOJSKOWYM LUB POLICYJNYM Lp. GRUPA TEMATYCZNA SZCZEGÓŁOWY ZAKRES SZKOLENIA 1 Obrót materiałami 1. Pojęcia związane z obrotem materiałami wybuchowymi, bronią, amunicją wybuchowymi, oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
-bronią, amunicją oraz wyrobami 2. Warunki obrotu materiałami wybuchowymi, bronią, amunicją oraz wyroi technologią o przeznaczeniu bami i technologią o przeznaczeniu wojskowym lub policyjnym, w tym: wojskowym lub policyjnym 1) warunki obrotu z prawem magazynowania;
-2) warunki obrotu bez prawa magazynowania.
-3. Dokumenty warunkujące obrót materiałami wybuchowymi, bronią, amunicją oraz wyrobami o przeznaczeniu wojskowym lub policyjnym uprawniające do sprzedaży i nabywania tych wyrobów.
+
+- **1)** o kreślenie zadań kontroli wewnętrznej;
+- **2)** o mówienie mechanizmu kontroli produktu końcowego;
+- **3)** o kreślenie planu edukacyjnego załogi uczestniczącej w procesie wytwarzania na każdym etapie cyklu produkcyjnego.
+
+5. C ertyfikacja – jej znaczenie i rola w systemie oceny jakości produkcji. SZCZEGÓŁOWY ZAKRES SZKOLENIA W GRUPIE TEMATYCZNEJ: WYKONYWANIE LUB KIEROWANIE DZIAŁALNOŚCIĄ GOSPODARCZĄ W ZAKRESIE OBROTU MATERIAŁAMI WYBUCHOWYMI, BRONIĄ, AMUNICJĄ ORAZ WYROBAMI I TECHNOLOGIĄ O PRZEZNACZENIU WOJSKOWYM LUB POLICYJNYM Lp. GRUPA TEMATYCZNA SZCZEGÓŁOWY ZAKRES SZKOLENIA 1 Obrót materiałami 1. Pojęcia związane z obrotem materiałami wybuchowymi, bronią, amunicją wybuchowymi, oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym. bronią, amunicją oraz wyrobami 2. Warunki obrotu materiałami wybuchowymi, bronią, amunicją oraz wyroi technologią o przeznaczeniu bami i technologią o przeznaczeniu wojskowym lub policyjnym, w tym: wojskowym lub policyjnym 1) warunki obrotu z prawem magazynowania;
+
+- **2)** warunki obrotu bez prawa magazynowania.
+
+3. Dokumenty warunkujące obrót materiałami wybuchowymi, bronią, amunicją oraz wyrobami o przeznaczeniu wojskowym lub policyjnym – uprawniające do sprzedaży i nabywania tych wyrobów.
+
 4. Sprzedaż materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym:
-1) obowiązki sprzedającego i nabywcy, w tym zakres wymaganych informacji;
-2) uprawnienia do nabywania tych materiałów.
+
+- **1)** obowiązki sprzedającego i nabywcy, w tym zakres wymaganych informacji;
+- **2)** uprawnienia do nabywania tych materiałów.
+
 5. Formy transakcji handlowych (w tym usługa pośrednictwa).
+
 6. Zasady ewidencjonowania obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (podstawowe obowiązki).
+
 7. System Rejestracji Broni (SRB).
+
 8. Przemieszczanie broni i amunicji na terytorium Unii Europejskiej.
+
 9. Wywóz i przywóz materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym.
+
 10. Pakowanie i przechowywanie materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym stanowiących przedmiot obrotu oraz warunki transportu, w tym zasady oznakowania i oznaczania transportu zgodnie z wymogami określonymi w umowie europejskiej dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych ADR, sporządzonej w Genewie dnia 30 września 1957 r.
-11. Obowiązujące przepisy prawne.
-SZCZEGÓŁOWY ZAKRES SZKOLENIA W GRUPIE TEMATYCZNEJ: ZASADY BEZPIECZEŃSTWA I HIGIENY PRACY, ZAGROŻENIA DLA ŻYCIA LUB ZDROWIA LUDZI, MIENIA, ŚRODOWISKA I BEZPIECZEŃSTWA PUBLICZNEGO ORAZ SPOSOBY ICH OGRANICZANIA LUB ELIMINACJI, A TAKŻE ZAGROŻENIA ZEWNĘTRZNE ZWIĄZANE Z PROWADZONĄ DZIAŁALNOŚCIĄ GOSPODARCZĄ W ZAKRESIE WYTWARZANIA I OBROTU MATERIAŁAMI WYBUCHOWYMI, BRONIĄ, AMUNICJĄ ORAZ WYROBAMI I TECHNOLOGIĄ O PRZEZNACZENIU WOJSKOWYM LUB POLICYJNYM Lp. GRUPA TEMATYCZNA SZCZEGÓŁOWY ZAKRES SZKOLENIA 1 Zasady bezpieczeństwa 1. Zagrożenia wewnętrzne i zewnętrzne występujące w procesie wytwarzai higieny pracy w procesie nia i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami wytwarzania i obrotu i technologią o przeznaczeniu wojskowym lub policyjnym.
-materiałami wybuchowymi, 2. Zasady bezpieczeństwa określone przy realizacji procesów technologiczbronią, amunicją oraz wyrobami nych (wytwarzaniu) oraz zasady stosowania w tych procesach surowców, i technologią o przeznaczeniu półproduktów, produktów i wyrobów gotowych.
-wojskowym lub policyjnym
+
+11. Obowiązujące przepisy prawne. SZCZEGÓŁOWY ZAKRES SZKOLENIA W GRUPIE TEMATYCZNEJ: ZASADY BEZPIECZEŃSTWA I HIGIENY PRACY, ZAGROŻENIA DLA ŻYCIA LUB ZDROWIA LUDZI, MIENIA, ŚRODOWISKA I BEZPIECZEŃSTWA PUBLICZNEGO ORAZ SPOSOBY ICH OGRANICZANIA LUB ELIMINACJI, A TAKŻE ZAGROŻENIA ZEWNĘTRZNE ZWIĄZANE Z PROWADZONĄ DZIAŁALNOŚCIĄ GOSPODARCZĄ W ZAKRESIE WYTWARZANIA I OBROTU MATERIAŁAMI WYBUCHOWYMI, BRONIĄ, AMUNICJĄ ORAZ WYROBAMI I TECHNOLOGIĄ O PRZEZNACZENIU WOJSKOWYM LUB POLICYJNYM Lp. GRUPA TEMATYCZNA SZCZEGÓŁOWY ZAKRES SZKOLENIA 1 Zasady bezpieczeństwa 1. Zagrożenia wewnętrzne i zewnętrzne występujące w procesie wytwarzai higieny pracy w procesie nia i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami wytwarzania i obrotu i technologią o przeznaczeniu wojskowym lub policyjnym. materiałami wybuchowymi, 2. Zasady bezpieczeństwa określone przy realizacji procesów technologiczbronią, amunicją oraz wyrobami nych (wytwarzaniu) oraz zasady stosowania w tych procesach surowców, i technologią o przeznaczeniu półproduktów, produktów i wyrobów gotowych. wojskowym lub policyjnym
+
 3. Zasady bezpieczeństwa przy stosowaniu urządzeń technologicznych oraz aparatury sterującej i pomiarowej (w tym zasady doboru i szkoleń pracowników).
-4. Prawidłowość przyjętych lokalizacji, konstrukcji i wyposażenia obiektów produkcyjnych, magazynowych, socjalnych i pomocniczych wzajemne zagrożenia dla tych obiektów, otoczenia oraz ludzi, mienia i środowiska.
+
+4. Prawidłowość przyjętych lokalizacji, konstrukcji i wyposażenia obiektów produkcyjnych, magazynowych, socjalnych i pomocniczych – wzajemne zagrożenia dla tych obiektów, otoczenia oraz ludzi, mienia i środowiska.
+
 5. Ocena ryzyka zawodowego występującego w procesach wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym i działania zmierzające do minimalizacji poziomu tego ryzyka.
-6. Postępowanie w przypadku zagrożenia życia lub zdrowia ludzi, mienia oraz środowiska sporządzanie planów postępowania na wypadek zagrożenia życia ludzi.
+
+6. Postępowanie w przypadku zagrożenia życia lub zdrowia ludzi, mienia oraz środowiska – sporządzanie planów postępowania na wypadek zagrożenia życia ludzi.
+
 7. Zasady bezpieczeństwa i higieny pracy (obowiązujące przy wytwarzaniu i obrocie materiałami wybuchowymi, bronią, amunicją oraz wyrobami o przeznaczeniu wojskowym lub policyjnym oraz w obrocie technologią o przeznaczeniu wojskowym lub policyjnym).
+
 8. Znaczenie kontroli wewnętrznej w procesie wdrażania zasad bezpieczeństwa i higieny pracy.
-9. Obowiązujące przepisy prawa.
-2 Przeciwdziałanie zewnętrznym 1. Przepisy prawa dotyczące ochrony osób i mienia stosowane w odniesieniu zagrożeniom, jakie mogą mieć do przedsiębiorców wykonujących działalność gospodarczą w zakresie miejsce przy wytwarzaniu wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz i obrocie materiałami wyrobami o przeznaczeniu wojskowym lub policyjnym oraz obrotu techwybuchowymi, bronią, nologią o przeznaczeniu wojskowym lub policyjnym.
-amunicją oraz wyrobami 2. Charakter zewnętrznych zagrożeń dla przedsiębiorców wykonujących o przeznaczeniu wojskowym działalność gospodarczą w zakresie wytwarzania i obrotu materiałami wylub policyjnym oraz obrocie buchowymi, bronią, amunicją oraz wyrobami o przeznaczeniu wojskotechnologią o przeznaczeniu wym lub policyjnym oraz obrotu technologią o przeznaczeniu wojskowojskowym lub policyjnym wym lub policyjnym zagrożenia i typowe działania podejmowane w celach przestępczych i terrorystycznych:
-1) oddziaływanie w sposób przestępczy na przedsiębiorców i osoby zatrudnione w ramach działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami o przeznaczeniu wojskowym lub policyjnym oraz obrotu technologią o przeznaczeniu wojskowym lub policyjnym;
-2) s posoby oddziaływania na służby nadzoru i ochrony obiektów i terenów, gdzie są wytwarzane lub przechowywane (dla potrzeb produkcji lub obrotu) materiały wybuchowe, broń, amunicja oraz wyroby i technologie o przeznaczeniu wojskowym lub policyjnym;
-3) k radzież surowców, półproduktów i gotowych wyrobów oddziałująca na bezpieczeństwo ludzi, mienia oraz środowiska;
-4) z asady działania związane z bezpieczeństwem i ochroną ludzi i mienia, minimalizujące zagrożenia zewnętrzne.
+
+9. Obowiązujące przepisy prawa. 2 Przeciwdziałanie zewnętrznym 1. Przepisy prawa dotyczące ochrony osób i mienia stosowane w odniesieniu zagrożeniom, jakie mogą mieć do przedsiębiorców wykonujących działalność gospodarczą w zakresie miejsce przy wytwarzaniu wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz i obrocie materiałami wyrobami o przeznaczeniu wojskowym lub policyjnym oraz obrotu techwybuchowymi, bronią, nologią o przeznaczeniu wojskowym lub policyjnym. amunicją oraz wyrobami 2. Charakter zewnętrznych zagrożeń dla przedsiębiorców wykonujących o przeznaczeniu wojskowym działalność gospodarczą w zakresie wytwarzania i obrotu materiałami wylub policyjnym oraz obrocie buchowymi, bronią, amunicją oraz wyrobami o przeznaczeniu wojskotechnologią o przeznaczeniu wym lub policyjnym oraz obrotu technologią o przeznaczeniu wojskowojskowym lub policyjnym wym lub policyjnym – zagrożenia i typowe działania podejmowane w celach przestępczych i terrorystycznych:
+
+- **1)** oddziaływanie w sposób przestępczy na przedsiębiorców i osoby zatrudnione w ramach działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami o przeznaczeniu wojskowym lub policyjnym oraz obrotu technologią o przeznaczeniu wojskowym lub policyjnym;
+- **2)** s posoby oddziaływania na służby nadzoru i ochrony obiektów i terenów, gdzie są wytwarzane lub przechowywane (dla potrzeb produkcji lub obrotu) materiały wybuchowe, broń, amunicja oraz wyroby i technologie o przeznaczeniu wojskowym lub policyjnym;
+- **3)** k radzież surowców, półproduktów i gotowych wyrobów oddziałująca na bezpieczeństwo ludzi, mienia oraz środowiska;
+- **4)** z asady działania związane z bezpieczeństwem i ochroną ludzi i mienia, minimalizujące zagrożenia zewnętrzne.
+
 3. S posoby postępowania w sytuacjach zagrożeń, w tym zasady współpracy z organami ścigania oraz innymi, właściwymi organami państwa.
 
 ## Załącznik nr 5 — WZÓR WZÓR ZAŚWIADCZENIE POTWIERDZAJĄCE UKOŃCZENIE SZKOlENIA Nr .................../.............. r.

@@ -27,115 +27,11 @@ source: pdf
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071811288) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1288/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz.U. z 1998 r. Nr 21, poz. 94, z późn. zm. ) w dziale drugim po rozdziale IIa dodaje się rozdział IIb w brzmieniu: „Rozdział IIb Zatrudnianie pracowników w formie telepracy
-
-**Art. 67⁵.**
-
-§ 1. Praca może być wykonywana regularnie poza zakładem pracy, z wykorzystaniem środków komunikacji elektronicznej w rozumieniu przepisów o świadczeniu usług drogą elektroniczną (telepraca).
-
-§ 2. Telepracownikiem jest pracownik, który wykonuje pracę w warunkach określonych w § 1 i przekazuje pracodawcy wyniki pracy, w szczególności za pośrednictwem środków komunikacji elektronicznej.
-
-**Art. 67⁶.**
-
-§ 1. Warunki stosowania telepracy przez pracodawcę określa się w porozumieniu zawieranym między pracodawcą i zakładową organizacją związkową, a w przypadku gdy u pracodawcy działa więcej niż jedna zakładowa organizacja związkowa – w porozumieniu między pracodawcą a tymi organizacjami.
-
-§ 2. Jeżeli nie jest możliwe uzgodnienie treści porozumienia ze wszystkimi zakładowymi organizacjami związkowymi, pracodawca uzgadnia treść porozumienia z organizacjami związkowymi reprezentatywnymi w rozumieniu art. 241 .
-
-§ 3. Jeżeli w terminie 30 dni od dnia przedstawienia przez pracodawcę projektu porozumienia nie dojdzie do zawarcia porozumienia, zgodnie z § 1 i 2, pracodawca określa warunki stosowania telepracy w regulaminie, uwzględniając ustalenia podjęte z zakładowymi organizacjami związkowymi w toku uzgadniania porozumienia.
-
-§ 4. Jeżeli u danego pracodawcy nie działają zakładowe organizacje związkowe, warunki stosowania telepracy określa pracodawca w regulaminie, po konsultacji z przedstawicielami pracowników wyłonionymi w trybie przyjętym u danego pracodawcy.
-
-**Art. 67⁷.**
-
-§ 1. Uzgodnienie między stronami umowy o pracę, że praca będzie wykonywana w warunkach określonych w art. 67 , może nastąpić:
-
-- **1)** przy zawieraniu umowy o pracę albo
-- **2)** w trakcie zatrudnienia.
-
-§ 2. Jeżeli do uzgodnienia dotyczącego wykonywania pracy w formie telepracy dochodzi przy zawieraniu umowy o pracę, w umowie dodatkowo określa się warunki wykonywania pracy, zgodnie z art. 67 .
-
-§ 3. W trakcie zatrudnienia zmiana warunków wykonywania pracy, na określone zgodnie z art. 67 , może nastąpić na mocy porozumienia stron, z inicjatywy pracownika lub pracodawcy. Pracodawca powinien, w miarę możliwości, uwzględnić wniosek pracownika dotyczący wykonywania pracy w formie telepracy.
-
-§ 4. Nie jest dopuszczalne powierzenie wykonywania pracy w formie telepracy na podstawie art. 42 § 4.
-
-**Art. 67⁸.**
-
-§ 1. W terminie 3 miesięcy od dnia podjęcia pracy w formie telepracy, zgodnie z art. 67 § 1 pkt 2, każda ze stron może wystąpić z wiążącym wnioskiem o zaprzestanie wykonywania pracy w formie telepracy i przywrócenie poprzednich warunków wykonywania pracy. Strony ustalają termin, od którego nastąpi przywrócenie poprzednich warunków wykonywania pracy, nie dłuższy niż 30 dni od dnia otrzymania wniosku.
-
-§ 2. Jeżeli wniosek telepracownika zostanie złożony po upływie terminu określonego w § 1, pracodawca powinien – w miarę możliwości – uwzględnić ten wniosek.
-
-§ 3. Po upływie terminu określonego w § 1 przywrócenie przez pracodawcę poprzednich warunków wykonywania pracy może nastąpić w trybie art. 42 § 1-3.
-
-**Art. 67⁹.** Brak zgody pracownika na zmianę warunków wykonywania pracy, w przypadku określonym w art. 67 § 3, a także zaprzestanie wykonywania pracy w formie telepracy na zasadach określonych w art. 67 , nie mogą stanowić przyczyny uzasadniającej wypowiedzenie przez pracodawcę umowy o pracę.
-
-**Art. 67¹⁰.**
-
-§ 1. Jeżeli podjęcie pracy w formie telepracy następuje zgodnie z art. 67 § 1 pkt 1, informacja, o której mowa w art. 29 § 3, obejmuje dodatkowo co najmniej:
-
-- **1)** określenie jednostki organizacyjnej pracodawcy, w której strukturze znajduje się stanowisko pracy telepracownika,
-- **2)** wskazanie osoby lub organu, o których mowa w art. 3 , odpowiedzialnych za współpracę z telepracownikiem oraz upoważnionych do przeprowadzania kontroli w miejscu wykonywania pracy.
-
-§ 2. W przypadku, o którym mowa w art. 67 § 1 pkt 2, pracodawca przekazuje na piśmie telepracownikowi informacje określone w § 1 pkt 1 i 2, najpóźniej w dniu rozpoczęcia przez niego wykonywania pracy w formie telepracy.
-
-**Art. 67¹¹.**
-
-§ 1. Pracodawca jest obowiązany:
-
-- **1)** dostarczyć telepracownikowi sprzęt niezbędny do wykonywania pracy w formie telepracy, spełniający wymagania określone w rozdziale IV działu dziesiątego,
-- **2)** ubezpieczyć sprzęt,
-- **3)** pokryć koszty związane z instalacją, serwisem, eksploatacją i konserwacją sprzętu,
-- **4)** zapewnić telepracownikowi pomoc techniczną i niezbędne szkolenia w zakresie obsługi sprzętu – chyba że pracodawca i telepracownik postanowią inaczej, w odrębnej umowie, o której mowa w § 2.
-
-§ 2. Pracodawca i telepracownik mogą, w odrębnej umowie, określić w szczególności:
-
-- **1)** zakres ubezpieczenia i zasady wykorzystywania przez telepracownika sprzętu niezbędnego do wykonywania pracy w formie telepracy, stanowiącego własność telepracownika, spełniającego wymagania określone w rozdziale IV działu dziesiątego,
-- **2)** zasady porozumiewania się pracodawcy z telepracownikiem, w tym sposób potwierdzania obecności telepracownika na stanowisku pracy,
-- **3)** sposób i formę kontroli wykonywania pracy przez telepracownika.
-
-§ 3. W przypadku, o którym mowa w § 2 pkt 1, telepracownikowi przysługuje ekwiwalent pieniężny w wysokości określonej w porozumieniu lub regulaminie, o których mowa w art. 67 , lub w umowie, o której mowa w § 2. Przy ustalaniu wysokości ekwiwalentu bierze się pod uwagę w szczególności normy zużycia sprzętu, jego udokumentowane ceny rynkowe oraz ilość wykorzystanego materiału na potrzeby pracodawcy i jego ceny rynkowe.
-
-**Art. 67¹².**
-
-§ 1. Pracodawca określa zasady ochrony danych przekazywanych telepracownikowi oraz przeprowadza, w miarę potrzeb, instruktaż i szkolenie w tym zakresie.
-
-§ 2. Telepracownik potwierdza na piśmie zapoznanie się z zasadami ochrony danych, o których mowa w § 1, oraz jest obowiązany do ich przestrzegania.
-
-**Art. 67¹³.** Telepracownik i pracodawca przekazują informacje niezbędne do wzajemnego porozumiewania się za pomocą środków komunikacji elektronicznej albo podobnych środków indywidualnego porozumiewania się na odległość.
-
-**Art. 67¹⁴.**
-
-§ 1. Pracodawca ma prawo kontrolować wykonywanie pracy przez telepracownika w miejscu wykonywania pracy.
-
-§ 2. Jeżeli praca jest wykonywana w domu telepracownika, pracodawca ma prawo przeprowadzać kontrolę:
-
-- **1)** wykonywania pracy,
-- **2)** w celu inwentaryzacji, konserwacji, serwisu lub naprawy powierzonego sprzętu, a także jego instalacji,
-- **3)** w zakresie bezpieczeństwa i higieny pracy – za uprzednią zgodą telepracownika wyrażoną na piśmie, albo za pomocą środków komunikacji elektronicznej, albo podobnych środków indywidualnego porozumiewania się na odległość.
-
-§ 3. Pracodawca dostosowuje sposób przeprowadzania kontroli do miejsca wykonywania pracy i charakteru pracy. Wykonywanie czynności kontrolnych nie może naruszać prywatności telepracownika i jego rodziny ani utrudniać korzystania z pomieszczeń domowych, w sposób zgodny z ich przeznaczeniem.
-
-§ 4. Pierwszą kontrolę, w zakresie określonym w § 2 pkt 3, przeprowadza się, na wniosek telepracownika, przed rozpoczęciem przez niego wykonywania pracy.
-
-**Art. 67¹⁵.**
-
-§ 1. Telepracownik nie może być traktowany mniej korzystnie w zakresie nawiązania i rozwiązania stosunku pracy, warunków zatrudnienia, awansowania oraz dostępu do szkolenia w celu podnoszenia kwalifikacji zawodowych niż inni pracownicy zatrudnieni przy takiej samej lub podobnej pracy, uwzględniając odrębności związane z warunkami wykonywania pracy w formie telepracy.
-
-§ 2. Pracownik nie może być w jakikolwiek sposób dyskryminowany z powodu podjęcia pracy w formie telepracy, jak również odmowy podjęcia takiej pracy.
-
-**Art. 67¹⁶.** Pracodawca umożliwia telepracownikowi, na zasadach przyjętych dla ogółu pracowników, przebywanie na terenie zakładu pracy, kontaktowanie się z innymi pracownikami oraz korzystanie z pomieszczeń i urządzeń pracodawcy, z zakładowych obiektów socjalnych i prowadzonej działalności socjalnej.
-
-**Art. 67¹⁷.** Jeżeli praca jest wykonywana w domu telepracownika, pracodawca realizuje wobec niego, w zakresie wynikającym z rodzaju i warunków wykonywanej pracy, obowiązki określone w dziale dziesiątym, z wyłączeniem:
-
-- **1)** obowiązku dbałości o bezpieczny i higieniczny stan pomieszczeń pracy, określonego w art. 212 pkt 4,
-- **2)** obowiązków określonych w rozdziale III tego działu,
-- **3)** obowiązku zapewnienia odpowiednich urządzeń higienicznosanitarnych, określonego w art. 233.”.
+**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz.U. z 1998 r. Nr 21, poz. 94, z późn. zm. ) w dziale drugim po rozdziale IIa dodaje się rozdział IIb w brzmieniu: „Rozdział IIb Zatrudnianie pracowników w formie telepracy Art. 67 5 . § 1. Praca może być wykonywana regularnie poza zakładem pracy, z wykorzystaniem środków komunikacji elektronicznej w rozumieniu przepisów o świadczeniu usług drogą elektroniczną (telepraca). § 2. Telepracownikiem jest pracownik, który wykonuje pracę w warunkach określonych w § 1 i przekazuje pracodawcy wyniki pracy, w szczególności za pośrednictwem środków komunikacji elektronicznej. Art. 67 6 . § 1. Warunki stosowania telepracy przez pracodawcę określa się w porozumieniu zawieranym między pracodawcą i zakładową organizacją związkową, a w przypadku gdy u pracodawcy działa więcej niż jedna zakładowa organizacja związkowa – w porozumieniu między pracodawcą a tymi organizacjami. § 2. Jeżeli nie jest możliwe uzgodnienie treści porozumienia ze wszystkimi zakładowymi organizacjami związkowymi, pracodawca uzgadnia treść porozumienia z organizacjami związkowymi reprezentatywnymi w rozumieniu art. 241 25a . § 3. Jeżeli w terminie 30 dni od dnia przedstawienia przez pracodawcę projektu porozumienia nie dojdzie do zawarcia porozumienia, zgodnie z § 1 i 2, pracodawca określa warunki stosowania telepracy w regulaminie, uwzględniając ustalenia podjęte z zakładowymi organizacjami związkowymi w toku uzgadniania porozumienia. § 4. Jeżeli u danego pracodawcy nie działają zakładowe organizacje związkowe, warunki stosowania telepracy określa pracodawca w regulaminie, po konsultacji z przedstawicielami pracowników wyłonionymi w trybie przyjętym u danego pracodawcy. Art. 67 7 . § 1. Uzgodnienie między stronami umowy o pracę, że praca będzie wykonywana w warunkach określonych w art. 67 5 , może nastąpić: 1) przy zawieraniu umowy o pracę albo 2) w trakcie zatrudnienia. § 2. Jeżeli do uzgodnienia dotyczącego wykonywania pracy w formie telepracy dochodzi przy zawieraniu umowy o pracę, w umowie dodatkowo określa się warunki wykonywania pracy, zgodnie z art. 67 5 . § 3. W trakcie zatrudnienia zmiana warunków wykonywania pracy, na określone zgodnie z art. 67 5 , może nastąpić na mocy porozumienia stron, z inicjatywy pracownika lub pracodawcy. Pracodawca powinien, w miarę możliwości, uwzględnić wniosek pracownika dotyczący wykonywania pracy w formie telepracy. § 4. Nie jest dopuszczalne powierzenie wykonywania pracy w formie telepracy na podstawie art. 42 § 4. Art. 67 8 . § 1. W terminie 3 miesięcy od dnia podjęcia pracy w formie telepracy, zgodnie z art. 67 § 1 pkt 2, każda ze stron może wystąpić z wiążącym wnioskiem o zaprzestanie wykonywania pracy w formie telepracy i przywrócenie poprzednich warunków wykonywania pracy. Strony ustalają termin, od którego nastąpi przywrócenie poprzednich warunków wykonywania pracy, nie dłuższy niż 30 dni od dnia otrzymania wniosku. § 2. Jeżeli wniosek telepracownika zostanie złożony po upływie terminu określonego w § 1, pracodawca powinien – w miarę możliwości – uwzględnić ten wniosek. § 3. Po upływie terminu określonego w § 1 przywrócenie przez pracodawcę poprzednich warunków wykonywania pracy może nastąpić w trybie art. 42 § 1-3. Art. 67 9 . Brak zgody pracownika na zmianę warunków wykonywania pracy, w przypadku określonym w art. 67 § 3, a także zaprzestanie wykonywania pracy w formie telepracy na zasadach określonych w art. 67 8 , nie mogą stanowić przyczyny uzasadniającej wypowiedzenie przez pracodawcę umowy o pracę. Art. 67 10 . § 1. Jeżeli podjęcie pracy w formie telepracy następuje zgodnie z art. 67 § 1 pkt 1, informacja, o której mowa w art. 29 § 3, obejmuje dodatkowo co najmniej: 1) określenie jednostki organizacyjnej pracodawcy, w której strukturze znajduje się stanowisko pracy telepracownika, 2) wskazanie osoby lub organu, o których mowa w art. 3 1 , odpowiedzialnych za współpracę z telepracownikiem oraz upoważnionych do przeprowadzania kontroli w miejscu wykonywania pracy. § 2. W przypadku, o którym mowa w art. 67 § 1 pkt 2, pracodawca przekazuje na piśmie telepracownikowi informacje określone w § 1 pkt 1 i 2, najpóźniej w dniu rozpoczęcia przez niego wykonywania pracy w formie telepracy. Art. 67 11 . § 1. Pracodawca jest obowiązany: 1) dostarczyć telepracownikowi sprzęt niezbędny do wykonywania pracy w formie telepracy, spełniający wymagania określone w rozdziale IV działu dziesiątego, 2) ubezpieczyć sprzęt, 3) pokryć koszty związane z instalacją, serwisem, eksploatacją i konserwacją sprzętu, 4) zapewnić telepracownikowi pomoc techniczną i niezbędne szkolenia w zakresie obsługi sprzętu – chyba że pracodawca i telepracownik postanowią inaczej, w odrębnej umowie, o której mowa w § 2. § 2. Pracodawca i telepracownik mogą, w odrębnej umowie, określić w szczególności: 1) zakres ubezpieczenia i zasady wykorzystywania przez telepracownika sprzętu niezbędnego do wykonywania pracy w formie telepracy, stanowiącego własność telepracownika, spełniającego wymagania określone w rozdziale IV działu dziesiątego, 2) zasady porozumiewania się pracodawcy z telepracownikiem, w tym sposób potwierdzania obecności telepracownika na stanowisku pracy, 3) sposób i formę kontroli wykonywania pracy przez telepracownika. § 3. W przypadku, o którym mowa w § 2 pkt 1, telepracownikowi przysługuje ekwiwalent pieniężny w wysokości określonej w porozumieniu lub regulaminie, o których mowa w art. 67 6 , lub w umowie, o której mowa w § 2. Przy ustalaniu wysokości ekwiwalentu bierze się pod uwagę w szczególności normy zużycia sprzętu, jego udokumentowane ceny rynkowe oraz ilość wykorzystanego materiału na potrzeby pracodawcy i jego ceny rynkowe. Art. 67 12 . § 1. Pracodawca określa zasady ochrony danych przekazywanych telepracownikowi oraz przeprowadza, w miarę potrzeb, instruktaż i szkolenie w tym zakresie. § 2. Telepracownik potwierdza na piśmie zapoznanie się z zasadami ochrony danych, o których mowa w § 1, oraz jest obowiązany do ich przestrzegania. Art. 67 13 . Telepracownik i pracodawca przekazują informacje niezbędne do wzajemnego porozumiewania się za pomocą środków komunikacji elektronicznej albo podobnych środków indywidualnego porozumiewania się na odległość. Art. 67 14 . § 1. Pracodawca ma prawo kontrolować wykonywanie pracy przez telepracownika w miejscu wykonywania pracy. § 2. Jeżeli praca jest wykonywana w domu telepracownika, pracodawca ma prawo przeprowadzać kontrolę: 1) wykonywania pracy, 2) w celu inwentaryzacji, konserwacji, serwisu lub naprawy powierzonego sprzętu, a także jego instalacji, 3) w zakresie bezpieczeństwa i higieny pracy – za uprzednią zgodą telepracownika wyrażoną na piśmie, albo za pomocą środków komunikacji elektronicznej, albo podobnych środków indywidualnego porozumiewania się na odległość. § 3. Pracodawca dostosowuje sposób przeprowadzania kontroli do miejsca wykonywania pracy i charakteru pracy. Wykonywanie czynności kontrolnych nie może naruszać prywatności telepracownika i jego rodziny ani utrudniać korzystania z pomieszczeń domowych, w sposób zgodny z ich przeznaczeniem. § 4. Pierwszą kontrolę, w zakresie określonym w § 2 pkt 3, przeprowadza się, na wniosek telepracownika, przed rozpoczęciem przez niego wykonywania pracy. Art. 67 15 . § 1. Telepracownik nie może być traktowany mniej korzystnie w zakresie nawiązania i rozwiązania stosunku pracy, warunków zatrudnienia, awansowania oraz dostępu do szkolenia w celu podnoszenia kwalifikacji zawodowych niż inni pracownicy zatrudnieni przy takiej samej lub podobnej pracy, uwzględniając odrębności związane z warunkami wykonywania pracy w formie telepracy. § 2. Pracownik nie może być w jakikolwiek sposób dyskryminowany z powodu podjęcia pracy w formie telepracy, jak również odmowy podjęcia takiej pracy. Art. 67 16 . Pracodawca umożliwia telepracownikowi, na zasadach przyjętych dla ogółu pracowników, przebywanie na terenie zakładu pracy, kontaktowanie się z innymi pracownikami oraz korzystanie z pomieszczeń i urządzeń pracodawcy, z zakładowych obiektów socjalnych i prowadzonej działalności socjalnej. Art. 67 17 . Jeżeli praca jest wykonywana w domu telepracownika, pracodawca realizuje wobec niego, w zakresie wynikającym z rodzaju i warunków wykonywanej pracy, obowiązki określone w dziale dziesiątym, z wyłączeniem: 1) obowiązku dbałości o bezpieczny i higieniczny stan pomieszczeń pracy, określonego w art. 212 pkt 4, 2) obowiązków określonych w rozdziale III tego działu, 3) obowiązku zapewnienia odpowiednich urządzeń higienicznosanitarnych, określonego w art. 233.”.
 
 **Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz.U. z 2000 r. Nr 14, poz. 176, z późn. zm. ) w art. 26 ust. 13a otrzymuje brzmienie: „13a. Wydatki na cele określone w ust. 1 podlegają odliczeniu od dochodu, jeżeli nie zostały zaliczone do kosztów uzyskania przychodów lub nie zostały odliczone od przychodu na podstawie ustawy o zryczałtowanym podatku dochodowym lub od dochodu na podstawie ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym albo nie zostały zwrócone podatnikowi w jakiejkolwiek formie.”.
 
-**Art. 3.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz.U. Nr 123, poz. 776, z późn. zm. ) w art. 4 ust. 5 otrzymuje brzmienie: „5. Zaliczenie do znacznego albo umiarkowanego stopnia niepełnosprawności osoby, o której mowa w ust. 1 lub 2, nie wyklucza możliwości zatrudnienia tej osoby u pracodawcy niezapewniającego warunków pracy chronionej, w przypadkach:
-
-- **1)** uzyskania pozytywnej opinii Państwowej Inspekcji Pracy o przystosowaniu przez pracodawcę stanowiska pracy do potrzeb osoby niepełnosprawnej,
-- **2)** zatrudnienia w formie telepracy.”.
+**Art. 3.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz.U. Nr 123, poz. 776, z późn. zm. ) w art. 4 ust. 5 otrzymuje brzmienie: „5. Zaliczenie do znacznego albo umiarkowanego stopnia niepełnosprawności osoby, o której mowa w ust. 1 lub 2, nie wyklucza możliwości zatrudnienia tej osoby u pracodawcy niezapewniającego warunków pracy chronionej, w przypadkach: 1) uzyskania pozytywnej opinii Państwowej Inspekcji Pracy o przystosowaniu przez pracodawcę stanowiska pracy do potrzeb osoby niepełnosprawnej, 2) zatrudnienia w formie telepracy.”.
 
 **Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

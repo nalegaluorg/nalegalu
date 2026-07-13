@@ -8,10 +8,10 @@ pos: 1276
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Poz.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1276 ROZPORZĄDZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ z dnia 10 sierpnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,77 +25,180 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001276) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1276/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA RODZINY, PRACY I POLITYKI SPOŁECZNEJ dnia 10 sierpnia 2016 r.
-sprawie szczegółowego przeznaczenia, warunków trybu udzielania przez Agencję Rynku Rolnego wypłat ramach realizacji Programu Operacyjnego Pomoc Żywnościowa 2014–2020 Na podstawie art. 134l ustawy dnia 12 marca 2004 r. pomocy społecznej (Dz. U. 2016 r. poz. 930) zarządza się, co następuje: Rozporządzenie określa szczegółowe przeznaczenie, warunki tryb udzielania przez Agencję Rynku Rolnego, zwaną „Agencją”, wypłat, których mowa art. 134b 3 ustawy dnia 12 marca 2004 r. pomocy społecznej, zwanej „ustawą”, dla organizacji partnerskich ramach realizacji Programu Operacyjnego Pomoc Żywnościowa 2014–2020, zwanego „Programem Operacyjnym”.
-2. Wypłaty są realizowane na podstawie umowy dofinansowanie, której mowa art. 134b ustawy, zwanej „umową”, przeznaczeniem na płatności oraz dotacje celowe, których mowa art. 186 3 ustawy dnia 27 sierpnia 2009 r. finansach publicznych (Dz. U. 2013 r. poz. 885, późn. zm. ), tytułu kosztów:
-1) administracyjnych, transportu magazynowania związanych nieodpłatną dystrybucją artykułów spożywczych wśród osób najbardziej potrzebujących;
-2) środków towarzyszących, których celem jest zmniejszenie wykluczenia społecznego osób najbardziej potrzebujących.
-3. Wypłaty są udzielane organizacjom partnerskim, których mowa art. 134a 5 ustawy, spełniającym warunki określone umowie.
-4. Warunkiem udzielenia wypłaty jest złożenie dofinansowanie projektu, mowa art. 134b 6 ustawy, oraz zawarcie umowy.
-5. Po ogłoszeniu na stronie internetowej administrowanej przez Agencję wyników postępowania, mowa art. 134b 1 ustawy, organizacja partnerska składa:
-1) dofinansowanie projektu tytułu kosztów administracyjnych, transportu magazynowania;
-2) dofinansowanie projektu tytułu kosztów środków towarzyszących.
-2. Wnioski dofinansowanie projektów są składane przez organizacje partnerskie Agencji na formularzach opracowanych przez Agencję udostępnionych na stronie internetowej administrowanej przez Agencję.
-organizacji niektórych rynków rolnych (Dz. U. 2016 r. poz. 401);
-2) wnioskowaną kwotę dofinansowania;
-3) opis projektu;
-4) zestawienie planowanej ilości wartości poszczególnych rodzajów artykułów spożywczych, które zostaną przekazane osobom najbardziej potrzebującym, wyszczególnieniem wartości planowanych osiągnięcia wskaźników produktu;
-5) plan dystrybucji uwzględnieniem liczby organizacji partnerskich regionalnych, liczby organizacji partnerskich lokalnych oraz liczby osób najbardziej potrzebujących wyszczególnieniem wartości planowanych osiągnięcia wskaźników rezultatu;
-6) oświadczenie wybranym trybie udzielenia wypłaty, mowa 9 albo 3.
-7. Wniosek dofinansowanie, mowa 5 1 2, zawiera:
-1) nazwę adres organizacji partnerskiej oraz przyznany organizacji partnerskiej numer identyfikacyjny centralnym rejestrze przedsiębiorców, mowa art. 22 1 ustawy dnia 11 marca 2004 r. Agencji Rynku Rolnego organizacji niektórych rynków rolnych;
-2) wnioskowaną kwotę dofinansowania;
-3) opis projektu;
-4) zestawienie działań planowanych realizacji ramach środków towarzyszących ujęciu wojewódzkim, wyszczególnieniem wartości planowanych osiągnięcia wskaźników produktu wskaźników rezultatu;
-5) oświadczenie wybranym trybie udzielenia wypłaty, mowa 9 albo 3.
-8. Po pozytywnym rozpatrzeniu wniosków dofinansowanie projektów Agencja organizacją partnerską umowę.
-2. Umowa, poza elementami wskazanymi art. 206 ustawy dnia 27 sierpnia 2009 r. finansach publicznych, określa szczególności:
-1) ilość wartość, których mowa 6 4, terminy oraz warunki realizacji dostaw artykułów spożywczych zakupionych przekazywanych przez Agencję magazynów regionalnych organizacji partnerskich;
-2) warunki terminy zwrotu środków równych kosztowi zakupu artykułów spożywczych, których mowa 1, wykorzystanych niezgodnie przeznaczeniem określonym umowie.
-9. Agencja dokonuje wypłaty tytułu kosztów administracyjnych, transportu magazynowania oraz wypłaty tytułu kosztów środków towarzyszących zgodnie ze wskazanym umowie trybem łączonym albo standardowym.
+w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania przez Agencję Rynku Rolnego wypłat w ramach realizacji Programu Operacyjnego Pomoc Żywnościowa 2014–2020 Na podstawie art. 134l ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2016 r. poz. 930) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przez Agencję Rynku Rolnego, zwaną dalej „Agencją”, wypłat, o których mowa w art. 134b ust. 2 pkt 3 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, zwanej dalej „ustawą”, dla organizacji partnerskich w ramach realizacji Programu Operacyjnego Pomoc Żywnościowa 2014–2020, zwanego dalej „Programem Operacyjnym”.
+
+**§ 2.** Wypłaty są realizowane na podstawie umowy o dofinansowanie, o której mowa w art. 134b ust. 2 pkt 2 ustawy, zwanej dalej „umową”, z przeznaczeniem na płatności oraz dotacje celowe, o których mowa w art. 186 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm. ), z tytułu kosztów:
+
+- **1)** administracyjnych, transportu i magazynowania związanych z nieodpłatną dystrybucją artykułów spożywczych wśród osób najbardziej potrzebujących;
+- **2)** środków towarzyszących, których celem jest zmniejszenie wykluczenia społecznego osób najbardziej potrzebujących.
+
+**§ 3.** Wypłaty są udzielane organizacjom partnerskim, o których mowa w art. 134a pkt 5 ustawy, spełniającym warunki określone w umowie.
+
+**§ 4.** Warunkiem udzielenia wypłaty jest złożenie wniosku o dofinansowanie projektu, o którym mowa w art. 134b ust. 6 ustawy, oraz zawarcie umowy.
+
+**§ 5.**
+
+1. Po ogłoszeniu na stronie internetowej administrowanej przez Agencję wyników postępowania, o którym mowa w art. 134b ust. 2 pkt 1 ustawy, organizacja partnerska składa:
+
+- **1)** wniosek o dofinansowanie projektu z tytułu kosztów administracyjnych, transportu i magazynowania;
+- **2)** wniosek o dofinansowanie projektu z tytułu kosztów środków towarzyszących.
+
+2. Wnioski o dofinansowanie projektów są składane przez organizacje partnerskie w Agencji na formularzach opracowanych przez Agencję i udostępnionych na stronie internetowej administrowanej przez Agencję.
+
+3. Jeżeli wniosek o dofinansowanie zawiera braki, Agencja wzywa organizację partnerską do ich usunięcia we wskazanym w wezwaniu terminie.
+
+4. Jeżeli organizacja partnerska nie usunęła, mimo upływu terminu określonego w wezwaniu, braków we wniosku, Agencja odmawia zawarcia z organizacją partnerską umowy.
+
+**§ 6.** Wniosek o dofinansowanie, o którym mowa w § 5 ust. 1 pkt 1, zawiera:
+
+- **1)** nazwę i adres organizacji partnerskiej oraz przyznany organizacji partnerskiej numer identyfikacyjny w centralnym rejestrze przedsiębiorców, o którym mowa w art. 22 ust. 1 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. z 2016 r. poz. 401);
+- **2)** wnioskowaną kwotę dofinansowania;
+- **3)** opis projektu;
+- **4)** zestawienie planowanej ilości i wartości poszczególnych rodzajów artykułów spożywczych, które zostaną przekazane osobom najbardziej potrzebującym, z wyszczególnieniem wartości planowanych do osiągnięcia wskaźników produktu;
+- **5)** plan dystrybucji z uwzględnieniem liczby organizacji partnerskich regionalnych, liczby organizacji partnerskich lokalnych oraz liczby osób najbardziej potrzebujących z wyszczególnieniem wartości planowanych do osiągnięcia wskaźników rezultatu;
+- **6)** oświadczenie o wybranym trybie udzielenia wypłaty, o którym mowa w § 9 ust. 2 albo 3.
+
+**§ 7.** Wniosek o dofinansowanie, o którym mowa w § 5 ust. 1 pkt 2, zawiera:
+
+- **1)** nazwę i adres organizacji partnerskiej oraz przyznany organizacji partnerskiej numer identyfikacyjny w centralnym rejestrze przedsiębiorców, o którym mowa w art. 22 ust. 1 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych;
+- **2)** wnioskowaną kwotę dofinansowania;
+- **3)** opis projektu;
+- **4)** zestawienie działań planowanych do realizacji w ramach środków towarzyszących w ujęciu wojewódzkim, z wyszczególnieniem wartości planowanych do osiągnięcia wskaźników produktu i wskaźników rezultatu;
+- **5)** oświadczenie o wybranym trybie udzielenia wypłaty, o którym mowa w § 9 ust. 2 albo 3.
+
+**§ 8.**
+
+1. Po pozytywnym rozpatrzeniu wniosków o dofinansowanie projektów Agencja zawiera z organizacją partnerską umowę.
+
+2. Umowa, poza elementami wskazanymi w art. 206 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, określa w szczególności:
+
+- **1)** ilość i wartość, o których mowa w § 6 pkt 4, terminy oraz warunki realizacji dostaw artykułów spożywczych zakupionych i przekazywanych przez Agencję do magazynów regionalnych organizacji partnerskich;
+- **2)** warunki i terminy zwrotu środków równych kosztowi zakupu artykułów spożywczych, o których mowa w pkt 1, wykorzystanych niezgodnie z przeznaczeniem określonym w umowie.
+
+**§ 9.**
+
+1. Agencja dokonuje wypłaty z tytułu kosztów administracyjnych, transportu i magazynowania oraz wypłaty z tytułu kosztów środków towarzyszących zgodnie ze wskazanym w umowie trybem łączonym albo standardowym.
+
 2. Tryb łączony obejmuje wypłatę, na podstawie wniosku:
-1) zaliczki tytułu kosztów administracyjnych, transportu magazynowania wysokości nie większej niż 30% wartości dofinansowania tytułu tych kosztów;
-2) zaliczki tytułu kosztów środków towarzyszących wysokości nie większej niż 30% wartości dofinansowania tytułu tych kosztów;
-3) płatności tytułu kosztów administracyjnych, transportu magazynowania;
-4) płatności tytułu kosztów środków towarzyszących.
-3. Tryb standardowy obejmuje wypłatę, na podstawie wniosku: zabezpieczenie ustanawiane jest tej formie.
-8. W przypadku gdy wartość zaliczki przekracza 10 000 000 zł, zabezpieczenie, mowa 5, ustanawiane jest jednej lub kilku następujących form wybranych przez partnerską:
-1) poręczenia bankowego;
-2) gwarancji bankowej;
-3) gwarancji ubezpieczeniowej;
-4) weksla poręczeniem wekslowym banku.
-9. Zaliczka może być wypłacona po podpisaniu umowy na podstawie wniosków wypłatę zaliczki, których mowa 1 2.
-10. Zaliczkę wypłaca się terminie 60 dni od daty złożenia prawidłowego wypłatę zaliczki.
-11. Jeżeli wypłatę zaliczki braki, Agencja partnerską ich usunięcia we wskazanym terminie wstrzymuje wypłatę zaliczki.
-12. Rozliczenie zaliczki tytułu kosztów administracyjnych, transportu magazynowania oraz zaliczki tytułu kosztów środków towarzyszących następuje pierwszym płatność, mowa odpowiednio 3 4, zwanym „wnioskiem płatność opcją rozliczenia zaliczki”.
-13. Wniosek płatność opcją rozliczenia zaliczki składany jest przez partnerską nie później niż
-15. dnia miesiąca następującego po ostatnim miesiącu okresu, organizacja partnerska odebrała artykuły spożywcze, dla których należna kwota dofinansowania tytułu kosztów administracyjnych, transportu magazynowania oraz kwota dofinansowania tytułu kosztów środków towarzyszących stanowiła co najmniej równowartość wypłaconej kwoty zaliczki.
-10. Wnioski wypłatę zaliczki, których mowa 9 1 2, są składane Agencji terminie 15 dni od dnia podpisania umowy.
-2. Wnioski płatność, których mowa 9 3 4, są składane 15. dnia miesiąca następującego po miesiącu, Agencja przekazała organizacji partnerskiej artykuły spożywcze przeznaczone nieodpłatnej dystrybucji wśród osób najbardziej potrzebujących.
-3. Wnioski płatność, których mowa 9 3 4, obejmujące ostatni miesiąc przekazania artykułów spożywczych ramach umowy, są składane przez organizacje partnerskie terminie 15 dni od dnia upływu określonego umowie ostatecznego terminu dystrybucji artykułów spożywczych wśród osób najbardziej potrzebujących.
-4. Wnioski płatność, których mowa 9 3 4, obejmujące ostatni miesiąc przekazania artykułów spożywczych ramach umowy, mogą zostać złożone przez organizacje partnerskie terminie 15 dni od dnia upływu określonego umowie ostatecznego terminu dostaw artykułów spożywczych organizacji partnerskiej, pod warunkiem złożenia zabezpieczenia płatności końcowej wysokości równowartości kwoty płatności określonej odpowiednio we płatność tytułu kosztów administracyjnych, transportu magazynowania oraz tytułu kosztów środków towarzyszących.
-5. Do zabezpieczenia, mowa 4, stosuje się odpowiednio 9 6–8.
-6. Rozliczenie płatności przypadku wniosków płatność, których mowa 9 3 4, obejmujących ostatni miesiąc przekazania artykułów spożywczych ramach umowy, następuje po złożeniu przez partnerską sprawozdań, których mowa odpowiednio 11 3 12 3.
-12. Do płatność opcją rozliczenia zaliczki, następuje rozliczenie zaliczki tytułu kosztów środków towarzyszących, organizacja partnerska załącza sprawozdanie przebiegu realizacji działań ramach środków towarzyszących.
-2. Do płatność, mowa 9 4, składanego za wybrane miesiące określone umowie, organizacja partnerska załącza sprawozdanie przebiegu realizacji działań ramach środków towarzyszących.
-3. W terminie 15 dni roboczych od dnia upływu określonego umowie terminu dystrybucji artykułów spożywczych organizacja partnerska składa Agencji sprawozdanie końcowe przebiegu działań ramach środków towarzyszących.
-13. Wnioski płatność, których mowa 9 3, są składane 15. dnia miesiąca następującego po miesiącu, Agencja przekazała organizacji partnerskiej artykuły spożywcze przeznaczone nieodpłatnej dystrybucji wśród osób najbardziej potrzebujących.
-2. Wnioski płatność, których mowa 9 3, obejmujące ostatni miesiąc przekazania artykułów spożywczych ramach umowy, są składane przez organizacje partnerskie terminie 15 dni od dnia upływu określonego umowie ostatecznego terminu dystrybucji artykułów spożywczych wśród osób najbardziej potrzebujących.
-3. Wnioski płatność, których mowa 9 3, obejmujące ostatni miesiąc przekazania artykułów spożywczych ramach umowy, mogą zostać złożone przez organizacje partnerskie terminie 15 dni od dnia upływu określonego umowie ostatecznego terminu dostaw artykułów spożywczych organizacji partnerskiej, pod warunkiem złożenia zabezpieczenia płatności końcowej wysokości równowartości kwoty płatności określonej odpowiednio we płatność tytułu kosztów administracyjnych, transportu magazynowania oraz tytułu kosztów środków towarzyszących.
-4. Do zabezpieczenia, mowa 3, stosuje się odpowiednio 9 6–8.
-5. Rozliczenie płatności przypadku wniosków płatność, których mowa 9 3, obejmujących ostatni miesiąc przekazania artykułów spożywczych ramach umowy, następuje po złożeniu przez partnerską sprawozdań, których mowa odpowiednio 7 9.
-6. Do płatność, mowa 9 3 1, organizacja partnerska załącza zestawienie ilości wartości artykułów spożywczych przekazanych organizacji partnerskiej przez Agencję za okres objęty wnioskiem oraz, przypadku płatność składanego za wybrane miesiące określone umowie:
-1) sprawozdanie dystrybucji artykułów spożywczych;
-2) zestawienie planowanej dystrybucji.
-7. W terminie 15 dni roboczych od upływu określonego umowie terminu dystrybucji artykułów spożywczych organizacja partnerska składa Agencji sprawozdanie końcowe dystrybucji artykułów spożywczych.
-8. Do płatność, mowa 9 3 2, przypadku gdy ten jest składany za wybrane miesiące określone umowie, organizacja partnerska załącza:
-1) sprawozdanie przebiegu realizacji działań ramach środków towarzyszących;
-2) zestawienie planowanych środków towarzyszących.
-9. W terminie 15 dni roboczych od dnia upływu określonego umowie terminu dystrybucji artykułów spożywczych organizacja partnerska składa Agencji sprawozdanie końcowe przebiegu działań ramach środków towarzyszących.
-wania lub płatność tytułu kosztów środków towarzyszących przed dniem wejścia życie rozporządzenia może złożyć korektę dofinansowanie udzielenie wypłaty trybie łączonym.
-2. Do korekty wniosku, mowa 1, stosuje się odpowiednio 5 2–4, przy czym przypadku gdy organizacja partnerska nie usunęła, mimo upływu terminu określonego wezwaniu, braków we wniosku, Agencja odmawia zawarcia organizacją partnerską odpowiednio aneksu umowy albo umowy, których mowa 3, udzielenia wypłaty trybie łączonym.
-3. Na podstawie poprawnego Agencja organizacją partnerską odpowiednio aneks umowy albo umowę dofinansowanie. Przepisy 8 2, 9 1, 4–13, 10–12 14 stosuje się odpowiednio.
-17. Traci moc rozporządzenie Ministra Pracy Polityki Społecznej dnia 25 listopada 2014 r. sprawie szczegółowego przeznaczenia, warunków trybu udzielania przez Agencję Rynku Rolnego wypłat ramach realizacji Programu Operacyjnego Pomoc Żywnościowa 2014–2020 (Dz. U. poz. 1668).
-18. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
-Minister Rodziny, Pracy Polityki Społecznej: E. Rafalska
+
+- **1)** zaliczki z tytułu kosztów administracyjnych, transportu i magazynowania w wysokości nie większej niż 30% wartości dofinansowania z tytułu tych kosztów;
+- **2)** zaliczki z tytułu kosztów środków towarzyszących w wysokości nie większej niż 30% wartości dofinansowania z tytułu tych kosztów;
+- **3)** płatności z tytułu kosztów administracyjnych, transportu i magazynowania;
+- **4)** płatności z tytułu kosztów środków towarzyszących.
+
+3. Tryb standardowy obejmuje wypłatę, na podstawie wniosku:
+
+- **1)** płatności z tytułu kosztów administracyjnych, transportu i magazynowania;
+- **2)** płatności z tytułu kosztów środków towarzyszących.
+
+4. Wnioski, o których mowa w ust. 2 i 3, składane są przez organizację partnerską w Agencji na formularzach opracowanych przez Agencję i udostępnionych na stronie internetowej administrowanej przez Agencję.
+
+5. Zaliczki, o których mowa w ust. 2 pkt 1 i 2, są wypłacane organizacji partnerskiej po ustanowieniu i wniesieniu przez nią zabezpieczenia zaliczki w wysokości co najmniej równowartości zaliczki wynikającej z umowy.
+
+6. W przypadku gdy wartość zaliczki nie przekracza 10 000 000 zł, zabezpieczenie, o którym mowa w ust. 5, ustanawiane jest w formie weksla in blanco wraz z deklaracją wekslową.
+
+7. W przypadku gdy nie jest możliwe ustanowienie zabezpieczenia w formie weksla in blanco wraz z deklaracją wekslową albo organizacja partnerska wskaże jako preferowaną jedną z form zabezpieczenia, o których mowa w ust. 8, zabezpieczenie ustanawiane jest w tej formie.
+
+8. W przypadku gdy wartość zaliczki przekracza 10 000 000 zł, zabezpieczenie, o którym mowa w ust. 5, ustanawiane jest w jednej lub kilku z następujących form wybranych przez organizację partnerską:
+
+- **1)** poręczenia bankowego;
+- **2)** gwarancji bankowej;
+- **3)** gwarancji ubezpieczeniowej;
+- **4)** weksla z poręczeniem wekslowym banku.
+
+9. Zaliczka może być wypłacona po podpisaniu umowy na podstawie wniosków o wypłatę zaliczki, o których mowa w ust. 2 pkt 1 i 2.
+
+10. Zaliczkę wypłaca się w terminie do 60 dni od daty złożenia prawidłowego wniosku o wypłatę zaliczki.
+
+11. Jeżeli wniosek o wypłatę zaliczki zawiera braki, Agencja wzywa organizację partnerską do ich usunięcia we wskazanym w wezwaniu terminie i wstrzymuje wypłatę zaliczki.
+
+12. Rozliczenie zaliczki z tytułu kosztów administracyjnych, transportu i magazynowania oraz zaliczki z tytułu kosztów środków towarzyszących następuje w pierwszym wniosku o płatność, o którym mowa odpowiednio w ust. 2 pkt 3 i 4, zwanym dalej „wnioskiem o płatność z opcją rozliczenia zaliczki”.
+
+13. Wniosek o płatność z opcją rozliczenia zaliczki składany jest przez organizację partnerską nie później niż do
+
+15. dnia miesiąca następującego po ostatnim miesiącu okresu, w którym organizacja partnerska odebrała artykuły spożywcze, dla których należna kwota dofinansowania z tytułu kosztów administracyjnych, transportu i magazynowania oraz kwota dofinansowania z tytułu kosztów środków towarzyszących stanowiła co najmniej równowartość wypłaconej kwoty zaliczki.
+
+**§ 10.**
+
+1. Wnioski o wypłatę zaliczki, o których mowa w § 9 ust. 2 pkt 1 i 2, są składane w Agencji w terminie do 15 dni od dnia podpisania umowy.
+
+2. Wnioski o płatność, o których mowa w § 9 ust. 2 pkt 3 i 4, są składane do 15. dnia miesiąca następującego po miesiącu, w którym Agencja przekazała organizacji partnerskiej artykuły spożywcze przeznaczone do nieodpłatnej dystrybucji wśród osób najbardziej potrzebujących.
+
+3. Wnioski o płatność, o których mowa w § 9 ust. 2 pkt 3 i 4, obejmujące ostatni miesiąc przekazania artykułów spożywczych w ramach umowy, są składane przez organizacje partnerskie w terminie do 15 dni od dnia upływu określonego w umowie ostatecznego terminu dystrybucji artykułów spożywczych wśród osób najbardziej potrzebujących.
+
+4. Wnioski o płatność, o których mowa w § 9 ust. 2 pkt 3 i 4, obejmujące ostatni miesiąc przekazania artykułów spożywczych w ramach umowy, mogą zostać złożone przez organizacje partnerskie w terminie do 15 dni od dnia upływu określonego w umowie ostatecznego terminu dostaw artykułów spożywczych do organizacji partnerskiej, pod warunkiem złożenia zabezpieczenia płatności końcowej w wysokości równowartości kwoty płatności określonej odpowiednio we wniosku o płatność z tytułu kosztów administracyjnych, transportu i magazynowania oraz z tytułu kosztów środków towarzyszących.
+
+5. Do zabezpieczenia, o którym mowa w ust. 4, stosuje się odpowiednio § 9 ust. 6–8.
+
+6. Rozliczenie płatności w przypadku wniosków o płatność, o których mowa w § 9 ust. 2 pkt 3 i 4, obejmujących ostatni miesiąc przekazania artykułów spożywczych w ramach umowy, następuje po złożeniu przez organizację partnerską sprawozdań, o których mowa odpowiednio w § 11 ust. 3 i § 12 ust. 3.
+
+**§ 11.**
+
+1. Do wniosku o płatność z opcją rozliczenia zaliczki, w którym następuje rozliczenie zaliczki z tytułu kosztów administracyjnych, transportu i magazynowania, organizacja partnerska załącza zestawienie ilości i wartości artykułów spożywczych przekazanych organizacji partnerskiej przez Agencję za okres objęty wnioskiem.
+
+2. Do wniosku o płatność, o którym mowa w § 9 ust. 2 pkt 3, organizacja partnerska załącza zestawienie ilości i wartości artykułów spożywczych przekazanych organizacji partnerskiej przez Agencję za okres objęty wnioskiem, a w przypadku wniosku o płatność składanego za wybrane miesiące określone w umowie:
+
+- **1)** sprawozdanie z dystrybucji artykułów spożywczych;
+- **2)** zestawienie planowanej dystrybucji.
+
+3. W terminie do 15 dni roboczych od dnia upływu określonego w umowie terminu dystrybucji artykułów spożywczych organizacja partnerska składa do Agencji sprawozdanie końcowe z dystrybucji artykułów spożywczych.
+
+**§ 12.**
+
+1. Do wniosku o płatność z opcją rozliczenia zaliczki, w którym następuje rozliczenie zaliczki z tytułu kosztów środków towarzyszących, organizacja partnerska załącza sprawozdanie z przebiegu realizacji działań w ramach środków towarzyszących.
+
+2. Do wniosku o płatność, o którym mowa w § 9 ust. 2 pkt 4, składanego za wybrane miesiące określone w umowie, organizacja partnerska załącza sprawozdanie z przebiegu realizacji działań w ramach środków towarzyszących.
+
+3. W terminie do 15 dni roboczych od dnia upływu określonego w umowie terminu dystrybucji artykułów spożywczych organizacja partnerska składa do Agencji sprawozdanie końcowe z przebiegu działań w ramach środków towarzyszących.
+
+**§ 13.**
+
+1. Wnioski o płatność, o których mowa w § 9 ust. 3, są składane do 15. dnia miesiąca następującego po miesiącu, w którym Agencja przekazała organizacji partnerskiej artykuły spożywcze przeznaczone do nieodpłatnej dystrybucji wśród osób najbardziej potrzebujących.
+
+2. Wnioski o płatność, o których mowa w § 9 ust. 3, obejmujące ostatni miesiąc przekazania artykułów spożywczych w ramach umowy, są składane przez organizacje partnerskie w terminie do 15 dni od dnia upływu określonego w umowie ostatecznego terminu dystrybucji artykułów spożywczych wśród osób najbardziej potrzebujących.
+
+3. Wnioski o płatność, o których mowa w § 9 ust. 3, obejmujące ostatni miesiąc przekazania artykułów spożywczych w ramach umowy, mogą zostać złożone przez organizacje partnerskie w terminie do 15 dni od dnia upływu określonego w umowie ostatecznego terminu dostaw artykułów spożywczych do organizacji partnerskiej, pod warunkiem złożenia zabezpieczenia płatności końcowej w wysokości równowartości kwoty płatności określonej odpowiednio we wniosku o płatność z tytułu kosztów administracyjnych, transportu i magazynowania oraz z tytułu kosztów środków towarzyszących.
+
+4. Do zabezpieczenia, o którym mowa w ust. 3, stosuje się odpowiednio § 9 ust. 6–8.
+
+5. Rozliczenie płatności w przypadku wniosków o płatność, o których mowa w § 9 ust. 3, obejmujących ostatni miesiąc przekazania artykułów spożywczych w ramach umowy, następuje po złożeniu przez organizację partnerską sprawozdań, o których mowa odpowiednio w ust. 7 i 9.
+
+6. Do wniosku o płatność, o którym mowa w § 9 ust. 3 pkt 1, organizacja partnerska załącza zestawienie ilości i wartości artykułów spożywczych przekazanych organizacji partnerskiej przez Agencję za okres objęty wnioskiem oraz, w przypadku wniosku o płatność składanego za wybrane miesiące określone w umowie:
+
+- **1)** sprawozdanie z dystrybucji artykułów spożywczych;
+- **2)** zestawienie planowanej dystrybucji.
+
+7. W terminie do 15 dni roboczych od upływu określonego w umowie terminu dystrybucji artykułów spożywczych organizacja partnerska składa do Agencji sprawozdanie końcowe z dystrybucji artykułów spożywczych.
+
+8. Do wniosku o płatność, o którym mowa w § 9 ust. 3 pkt 2, w przypadku gdy wniosek ten jest składany za wybrane miesiące określone w umowie, organizacja partnerska załącza:
+
+- **1)** sprawozdanie z przebiegu realizacji działań w ramach środków towarzyszących;
+- **2)** zestawienie planowanych środków towarzyszących.
+
+9. W terminie do 15 dni roboczych od dnia upływu określonego w umowie terminu dystrybucji artykułów spożywczych organizacja partnerska składa do Agencji sprawozdanie końcowe z przebiegu działań w ramach środków towarzyszących.
+
+**§ 14.**
+
+1. Po złożeniu wniosku o płatność, o którym mowa w § 9 ust. 2 pkt 3 i 4 i ust. 3, Agencja realizuje wypłatę w terminie do 90 dni od dnia otrzymania przez Agencję prawidłowego wniosku.
+
+2. Jeżeli wniosek o płatność, o którym mowa w § 9 ust. 2 pkt 3 i 4 i ust. 3, zawiera braki, Agencja wzywa organizację partnerską do ich usunięcia we wskazanym w wezwaniu terminie i wstrzymuje wypłatę, o której mowa w ust. 1.
+
+**§ 15.** Do udzielania i rozliczania wypłat, o których mowa w art. 134b ust. 2 pkt 3 ustawy, na podstawie umów zawartych z Agencją przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
+
+**§ 16.**
+
+1. Organizacja partnerska, która w 2016 r.:
+
+- **1)** złożyła wniosek o dofinansowanie i nie zawarła umowy z Agencją przed dniem wejścia w życie rozporządzenia albo
+- **2)** zawarła umowę z Agencją i nie złożyła wniosku o płatność z tytułu kosztów administracyjnych, transportu i magazynowania lub wniosku o płatność z tytułu kosztów środków towarzyszących przed dniem wejścia w życie rozporządzenia – może złożyć korektę wniosku o dofinansowanie i udzielenie wypłaty w trybie łączonym.
+
+2. Do korekty wniosku, o którym mowa w ust. 1, stosuje się odpowiednio § 5 ust. 2–4, przy czym w przypadku gdy organizacja partnerska nie usunęła, mimo upływu terminu określonego w wezwaniu, braków we wniosku, Agencja odmawia zawarcia z organizacją partnerską odpowiednio aneksu do umowy albo umowy, o których mowa w ust. 3, i udzielenia wypłaty w trybie łączonym.
+
+3. Na podstawie poprawnego wniosku Agencja zawiera z organizacją partnerską odpowiednio aneks do umowy albo umowę o dofinansowanie. Przepisy § 8 ust. 2, § 9 ust. 1, 2 i 4–13, § 10–12 i § 14 stosuje się odpowiednio.
+
+**§ 17.** Traci moc rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 25 listopada 2014 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania przez Agencję Rynku Rolnego wypłat w ramach realizacji Programu Operacyjnego Pomoc Żywnościowa 2014–2020 (Dz. U. poz. 1668).
+
+**§ 18.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rodziny, Pracy i Polityki Społecznej: E. Rafalska
 

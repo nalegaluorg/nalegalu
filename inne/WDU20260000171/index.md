@@ -38,22 +38,25 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 4) § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 20 grudnia 2022 r. zmieniającego rozporządzenie w sprawie wykazu granicznych stacji sanitarno-epidemiologicznych (Dz. U. poz. 2762), które stanowią: „ § 2. Sprawy wszczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia prowadzone przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Świnoujściu są prowadzone przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Szczecinie. § 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.”. Minister Zdrowia: wz. K. Kęcka
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 19 lipca 2002 r.
 w sprawie wykazu granicznych stacji sanitarno-epidemiologicznych Na podstawie art. 10 ust. 5 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416) zarządza się, co następuje:
-§ 1. Ustala się wykaz granicznych stacji sanitarno-epidemiologicznych, terytorialny zakres działania oraz siedziby państwowych granicznych inspektorów sanitarnych właściwych dla obszarów przejść granicznych drogowych, kolejowych, lotniczych, rzecznych i morskich, portów lotniczych i morskich oraz jednostek pływających na obszarze wód terytorialnych, które znajdują się na terenie działania danej stacji:
-1) (uchylony);
-2) Graniczna Stacja Sanitarno-Epidemiologiczna w Koroszczynie kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Koroszczynie właściwego dla miasta na prawach powiatu Biała Podlaska oraz powiatów bialskiego, łukowskiego, parczewskiego, radzyńskiego, ryckiego w województwie lubelskim;
-3) Graniczna Stacja Sanitarno-Epidemiologiczna w Dorohusku kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Dorohusku właściwego dla miasta na prawach powiatu Chełma, miasta na prawach powiatu Lublina oraz powiatów chełmskiego, krasnostawskiego, lubartowskiego, lubelskiego, łęczyńskiego, opolskiego, puławskiego, świdnickiego, włodawskiego w województwie lubelskim;
-4) Graniczna Stacja Sanitarno-Epidemiologiczna w Hrebennem kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Hrebennem właściwego dla miasta na prawach powiatu Zamościa oraz powiatów biłgorajskiego, hrubieszowskiego, janowskiego, kraśnickiego, tomaszowskiego, zamojskiego w województwie lubelskim;
-5) (uchylony);
-6) (uchylony);
-7) (uchylony);
-8) Graniczna Stacja Sanitarno-Epidemiologiczna w Warszawie kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Warszawie właściwego dla województwa mazowieckiego;
-9) (uchylony);
-10) Graniczna Stacja Sanitarno-Epidemiologiczna w Przemyślu kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Przemyślu właściwego dla województwa podkarpackiego;
-11) Graniczna Stacja Sanitarno-Epidemiologiczna w Suwałkach kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Suwałkach właściwego dla województwa podlaskiego;
-12) Graniczna Stacja Sanitarno-Epidemiologiczna w Gdyni kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Gdyni właściwego dla województwa pomorskiego;
-13) (uchylony);
-14) Graniczna Stacja Sanitarno-Epidemiologiczna w Elblągu kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Elblągu właściwego dla województwa warmińsko-mazurskiego;
-15) (uchylony);
-16) Graniczna Stacja Sanitarno-Epidemiologiczna w Szczecinie kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Szczecinie właściwego dla województwa zachodniopomorskiego.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2003 r.
+
+**§ 1.** Ustala się wykaz granicznych stacji sanitarno-epidemiologicznych, terytorialny zakres działania oraz siedziby państwowych granicznych inspektorów sanitarnych właściwych dla obszarów przejść granicznych drogowych, kolejowych, lotniczych, rzecznych i morskich, portów lotniczych i morskich oraz jednostek pływających na obszarze wód terytorialnych, które znajdują się na terenie działania danej stacji:
+
+- **1)** (uchylony);
+- **2)** Graniczna Stacja Sanitarno-Epidemiologiczna w Koroszczynie kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Koroszczynie właściwego dla miasta na prawach powiatu Biała Podlaska oraz powiatów bialskiego, łukowskiego, parczewskiego, radzyńskiego, ryckiego w województwie lubelskim;
+- **3)** Graniczna Stacja Sanitarno-Epidemiologiczna w Dorohusku kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Dorohusku właściwego dla miasta na prawach powiatu Chełma, miasta na prawach powiatu Lublina oraz powiatów chełmskiego, krasnostawskiego, lubartowskiego, lubelskiego, łęczyńskiego, opolskiego, puławskiego, świdnickiego, włodawskiego w województwie lubelskim;
+- **4)** Graniczna Stacja Sanitarno-Epidemiologiczna w Hrebennem kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Hrebennem właściwego dla miasta na prawach powiatu Zamościa oraz powiatów biłgorajskiego, hrubieszowskiego, janowskiego, kraśnickiego, tomaszowskiego, zamojskiego w województwie lubelskim;
+- **5)** (uchylony);
+- **6)** (uchylony);
+- **7)** (uchylony);
+- **8)** Graniczna Stacja Sanitarno-Epidemiologiczna w Warszawie kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Warszawie właściwego dla województwa mazowieckiego;
+- **9)** (uchylony);
+- **10)** Graniczna Stacja Sanitarno-Epidemiologiczna w Przemyślu kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Przemyślu właściwego dla województwa podkarpackiego;
+- **11)** Graniczna Stacja Sanitarno-Epidemiologiczna w Suwałkach kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Suwałkach właściwego dla województwa podlaskiego;
+- **12)** Graniczna Stacja Sanitarno-Epidemiologiczna w Gdyni kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Gdyni właściwego dla województwa pomorskiego;
+- **13)** (uchylony);
+- **14)** Graniczna Stacja Sanitarno-Epidemiologiczna w Elblągu kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Elblągu właściwego dla województwa warmińsko-mazurskiego;
+- **15)** (uchylony);
+- **16)** Graniczna Stacja Sanitarno-Epidemiologiczna w Szczecinie kierowana przez Państwowego Granicznego Inspektora Sanitarnego z siedzibą w Szczecinie właściwego dla województwa zachodniopomorskiego.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2003 r.
 

@@ -30,20 +30,24 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 27 września 2021 r. zmieniającego rozporządzenie w sprawie powołania Komisji Heraldycznej (Dz. U. poz. 1846), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. P. Szefernaker
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 20 stycznia 2000 r.
 w sprawie powołania Komisji Heraldycznej Na podstawie art. 2a ust. 1 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2016 r. poz. 38 oraz z 2022 r. poz. 655) zarządza się, co następuje:
-§ 1. Powołuje się Komisję Heraldyczną, zwaną dalej „komisją”, w składzie:
-1) Paweł Dudziński – przewodniczący;
-2) Jan Wroniszewski – zastępca przewodniczącego;
-3) Grzegorz Latos – sekretarz;
-4) Marek Adamczewski – członek;
-5) Tadeusz Sobieszek – członek;
-6) Tadeusz Jeziorowski – członek;
-7) Wojciech Tutak – członek;
-8) Michał Karalus – członek;
-9) Robert Szydlik – członek;
-10) Henryk Seroka – członek;
-11) Sławomir Górzyński – członek;
-12) Piotr Gołdyn – członek;
-13) Wojciech Fałkowski – członek.
-§ 2. Siedzibą komisji jest miasto stołeczne Warszawa.
-§ 3. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
+
+**§ 1.** Powołuje się Komisję Heraldyczną, zwaną dalej „komisją”, w składzie:
+
+- **1)** Paweł Dudziński – przewodniczący;
+- **2)** Jan Wroniszewski – zastępca przewodniczącego;
+- **3)** Grzegorz Latos – sekretarz;
+- **4)** Marek Adamczewski – członek;
+- **5)** Tadeusz Sobieszek – członek;
+- **6)** Tadeusz Jeziorowski – członek;
+- **7)** Wojciech Tutak – członek;
+- **8)** Michał Karalus – członek;
+- **9)** Robert Szydlik – członek;
+- **10)** Henryk Seroka – członek;
+- **11)** Sławomir Górzyński – członek;
+- **12)** Piotr Gołdyn – członek;
+- **13)** Wojciech Fałkowski – członek.
+
+**§ 2.** Siedzibą komisji jest miasto stołeczne Warszawa.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem ogłoszenia .
 

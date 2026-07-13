@@ -27,13 +27,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wykroczeń, za które strażnicy straży gminnych są uprawnieni do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 4 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U.
 z 2020 r. poz. 729 i 956) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 listopada 2003 r. w sprawie wykroczeń, za które strażnicy straży gminnych są uprawnieni do nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 2026, z późn. zm. ) w § 2 wprowadza się następujące zmiany:
-1) w ust. 1:
-a) pkt 5 otrzymuje brzmienie: „5) art. 10 ust. 1–2c ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U.
-z 2019 r. poz. 2010 i 2020 oraz z 2020 r. poz. 150, 284 i 875);”,
-b) pkt 18 otrzymuje brzmienie: „18) art. 171, art. 175, art. 177, art. 188 oraz art. 191 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2020 r.
-poz. 797 i 875);”;
-2) w ust. 2 po wyrazach „art. 96b” dodaje się przecinek oraz wyrazy „art. 96c”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 listopada 2003 r. w sprawie wykroczeń, za które strażnicy straży gminnych są uprawnieni do nakładania grzywien w drodze mandatu karnego (Dz. U. poz. 2026, z późn. zm. ) w § 2 wprowadza się następujące zmiany:
+
+- **1)** w ust. 1:
+    - **a)** pkt 5 otrzymuje brzmienie: „5) art. 10 ust. 1–2c ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2019 r. poz. 2010 i 2020 oraz z 2020 r. poz. 150, 284 i 875);”,
+    - **b)** pkt 18 otrzymuje brzmienie: „18) art. 171, art. 175, art. 177, art. 188 oraz art. 191 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2020 r. poz. 797 i 875);”;
+
+- **2)** w ust. 2 po wyrazach „art. 96b” dodaje się przecinek oraz wyrazy „art. 96c”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 

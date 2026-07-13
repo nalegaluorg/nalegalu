@@ -32,17 +32,20 @@ niającym rozporządzenie w sprawie wymagań Dobrej Praktyki Wytwarzania (Dz. U.
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 9 listopada 2015 r.
 w sprawie wymagań Dobrej Praktyki Wytwarzania Na podstawie art. 39 ust. 5 pkt 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz.
 i 2120 oraz z 2022 r. poz. 830, 974 i 1095) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) ogólne wymagania Dobrej Praktyki Wytwarzania zawarte w załączniku nr 1 do rozporządzenia;
-2) szczegółowe wymagania Dobrej Praktyki Wytwarzania produktów leczniczych zawarte w załączniku nr 2 do rozporządzenia;
-3) szczegółowe wymagania Dobrej Praktyki Wytwarzania substancji czynnych wykorzystywanych w produktach leczniczych zawarte w załączniku nr 3 do rozporządzenia;
-4) szczegółowe wymagania Dobrej Praktyki Wytwarzania dotyczące dokumentacji związanej z wytwarzaniem zawarte w załączniku nr 4 do rozporządzenia;
-5) dodatkowe wymagania Dobrej Praktyki Wytwarzania zawarte w załączniku nr 5 do rozporządzenia;
-6) szczegółowe wymagania Dobrej Praktyki Wytwarzania produktów leczniczych terapii zaawansowanej zawarte łączniku nr 6 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem pkt 3.6 i 5.20 załącznika do rozporządzenia, w zakresie dotyczącym oceny toksykologicznej, które wchodzą w życie z dniem:
-1) 30 listopada 2015 r., w przypadku produktów leczniczych wytwarzanych dotychczas w pomieszczeniach, w których wytwarza się także inne produkty lecznicze;
-2) 31 maja 2016 r., w przypadku produktów leczniczych weterynaryjnych wytwarzanych dotychczas w pomieszczeniach, w których wytwarza się wyłącznie produkty lecznicze weterynaryjne.
-do rozporządzenia Ministra Zdrowia z dnia 9 listopada 2015 r.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** ogólne wymagania Dobrej Praktyki Wytwarzania zawarte w załączniku nr 1 do rozporządzenia;
+- **2)** szczegółowe wymagania Dobrej Praktyki Wytwarzania produktów leczniczych zawarte w załączniku nr 2 do rozporządzenia;
+- **3)** szczegółowe wymagania Dobrej Praktyki Wytwarzania substancji czynnych wykorzystywanych w produktach leczniczych zawarte w załączniku nr 3 do rozporządzenia;
+- **4)** szczegółowe wymagania Dobrej Praktyki Wytwarzania dotyczące dokumentacji związanej z wytwarzaniem zawarte w załączniku nr 4 do rozporządzenia;
+- **5)** dodatkowe wymagania Dobrej Praktyki Wytwarzania zawarte w załączniku nr 5 do rozporządzenia;
+- **6)** szczegółowe wymagania Dobrej Praktyki Wytwarzania produktów leczniczych terapii zaawansowanej zawarte łączniku nr 6 do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem pkt 3.6 i 5.20 załącznika do rozporządzenia, w zakresie dotyczącym oceny toksykologicznej, które wchodzą w życie z dniem:
+
+- **1)** 30 listopada 2015 r., w przypadku produktów leczniczych wytwarzanych dotychczas w pomieszczeniach, w których wytwarza się także inne produkty lecznicze;
+- **2)** 31 maja 2016 r., w przypadku produktów leczniczych weterynaryjnych wytwarzanych dotychczas w pomieszczeniach, w których wytwarza się wyłącznie produkty lecznicze weterynaryjne. do rozporządzenia Ministra Zdrowia z dnia 9 listopada 2015 r.
 
 ## Załącznik nr 1 — OGÓLNE WYMAGANIA DOBREJ PRAKTYKI WYTWARZANIA OGÓLNE WYMAGANIA DOBREJ PRAKTYKI WYTWARZANIA
 

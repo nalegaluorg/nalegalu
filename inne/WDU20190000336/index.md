@@ -30,23 +30,41 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 21 grudnia 2017 r. zmieniającego rozporządzenie w sprawie lokali obwodowych komisji wyborczych dostosowanych do potrzeb wyborców niepełnosprawnych (Dz. U. poz. 2468), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Inwestycji i Rozwoju: wz. A. Soboń
 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 29 lipca 2011 r.
 w sprawie lokali obwodowych komisji wyborczych dostosowanych do potrzeb wyborców niepełnosprawnych Na podstawie art. 186 § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2018 r. poz. 754, 1000 i 1349 oraz z 2019 r. poz. 273) zarządza się, co następuje:
-§ 1. Rozporządzenie określa warunki techniczne, jakim powinien odpowiadać lokal obwodowej komisji wyborczej, dostosowany do potrzeb wyborców niepełnosprawnych, zwany dalej „lokalem”.
-§ 2. 1. Lokal powinien znajdować się na parterze budynku bez barier architektonicznych albo wyposażonego w podjazdy lub inne urządzenia umożliwiające samodzielne dotarcie do niego wyborcom niepełnosprawnym.
+
+**§ 1.** Rozporządzenie określa warunki techniczne, jakim powinien odpowiadać lokal obwodowej komisji wyborczej, dostosowany do potrzeb wyborców niepełnosprawnych, zwany dalej „lokalem”.
+
+**§ 2.**
+
+1. Lokal powinien znajdować się na parterze budynku bez barier architektonicznych albo wyposażonego w podjazdy lub inne urządzenia umożliwiające samodzielne dotarcie do niego wyborcom niepełnosprawnym.
+
 2. Co najmniej jedne drzwi prowadzące do lokalu powinny umożliwiać dogodne warunki ruchu wyborcom niepełnosprawnym, w szczególności:
-1) powinny być rozwierane lub rozsuwane;
-2) mieć szerokość w świetle co najmniej 0,9 m, a gdy są to drzwi dwuskrzydłowe szerokość skrzydła głównego nie może być mniejsza niż 0,9 m;
-3) nie mogą mieć progu wyższego niż 0,02 m.
+
+- **1)** powinny być rozwierane lub rozsuwane;
+- **2)** mieć szerokość w świetle co najmniej 0,9 m, a gdy są to drzwi dwuskrzydłowe szerokość skrzydła głównego nie może być mniejsza niż 0,9 m;
+- **3)** nie mogą mieć progu wyższego niż 0,02 m.
+
 3. Rozmieszczenie drzwi umożliwiających dogodne warunki ruchu wyborcom niepełnosprawnym powinno zapewniać wyborcy niepełnosprawnemu możliwość bezpośredniego dotarcia do lokalu.
+
 4. Krawędzie stopni schodów znajdujących się w lokalu oraz prowadzących do lokalu powinny wyróżniać się kolorem kontrastującym z kolorem posadzki.
-§ 3. Lokal powinien umożliwiać dogodne warunki ruchu wyborcom niepełnosprawnym, a w szczególności:
-1) przezroczyste przegrody, w szczególności drzwi i ściany, powinny być oznaczone na wysokości 0,8–1,2 m oraz 1,4–1,7 m przynajmniej dwoma pasami o szerokości 0,1–0,15 m, o jednolitej barwie, kontrastującej z tłem;
-2) posadzki powinny mieć nawierzchnię o właściwościach przeciwpoślizgowych;
-3) droga prowadząca od drzwi wejściowych do miejsca głosowania powinna być możliwie najkrótsza oraz wolna od przeszkód;
-4) w miejscu zapewniającym tajność głosowania należy zapewnić dodatkowe, obok górnego, oświetlenie skierowane bezpośrednio na miejsce, w którym będzie wypełniana karta do głosowania.
-§ 4. 1. W lokalu należy wyznaczyć co najmniej jedno miejsce zapewniające tajność głosowania wyborcom niepełnosprawnym, dostosowane do potrzeb wyborców niepełnosprawnych wynikających z ich niepełnosprawności.
+
+**§ 3.** Lokal powinien umożliwiać dogodne warunki ruchu wyborcom niepełnosprawnym, a w szczególności:
+
+- **1)** przezroczyste przegrody, w szczególności drzwi i ściany, powinny być oznaczone na wysokości 0,8–1,2 m oraz 1,4–1,7 m przynajmniej dwoma pasami o szerokości 0,1–0,15 m, o jednolitej barwie, kontrastującej z tłem;
+- **2)** posadzki powinny mieć nawierzchnię o właściwościach przeciwpoślizgowych;
+- **3)** droga prowadząca od drzwi wejściowych do miejsca głosowania powinna być możliwie najkrótsza oraz wolna od przeszkód;
+- **4)** w miejscu zapewniającym tajność głosowania należy zapewnić dodatkowe, obok górnego, oświetlenie skierowane bezpośrednio na miejsce, w którym będzie wypełniana karta do głosowania.
+
+**§ 4.**
+
+1. W lokalu należy wyznaczyć co najmniej jedno miejsce zapewniające tajność głosowania wyborcom niepełnosprawnym, dostosowane do potrzeb wyborców niepełnosprawnych wynikających z ich niepełnosprawności.
+
 2. Miejsce zapewniające tajność głosowania wyborcom niepełnosprawnym powinno mieć co najmniej 1,2 m szerokości i 1,2 m głębokości oraz umożliwiać pisanie na dwóch wysokościach: 0,8 i 1,1 m.
+
 3. Urna wyborcza powinna mieć nie więcej niż 1 m wysokości.
+
 4. Przejście pomiędzy miejscem wydania karty do głosowania i miejscem zapewniającym tajność głosowania a urną powinno mieć szerokość co najmniej 1,5 m.
-§ 5. Urzędowe obwieszczenia oraz informacja, o których mowa w art. 48 § 2 i 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy, powinny być umieszczone w miejscu dostępnym dla wyborców poruszających się na wózkach inwalidzkich, na wysokości 0,9 m mierzonej od posadzki do dolnej części arkusza obwieszczenia lub informacji.
-§ 6. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2011 r.
+
+**§ 5.** Urzędowe obwieszczenia oraz informacja, o których mowa w art. 48 § 2 i 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy, powinny być umieszczone w miejscu dostępnym dla wyborców poruszających się na wózkach inwalidzkich, na wysokości 0,9 m mierzonej od posadzki do dolnej części arkusza obwieszczenia lub informacji.
+
+**§ 6.** Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2011 r.
 

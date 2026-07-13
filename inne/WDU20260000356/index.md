@@ -27,13 +27,21 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000356) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/356/text.pdf) |
 
 w sprawie przesyłania informacji o użytkownikach kryptoaktywów Na podstawie art. 88l ust. 4 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2025 r. poz. 1379 oraz z 2026 r. poz. 347) zarządza się, co następuje:
-§ 1. Rozporządzenie określa sposób przesyłania za pomocą środków komunikacji elektronicznej informacji o użytkownikach kryptoaktywów objętych obowiązkiem raportowania za okres roku kalendarzowego, zwanej dalej „informacją o użytkownikach kryptoaktywów”.
-§ 2. 1. Informacja o użytkownikach kryptoaktywów jest przesyłana za pomocą oprogramowania interfejsowego dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
+**§ 1.** Rozporządzenie określa sposób przesyłania za pomocą środków komunikacji elektronicznej informacji o użytkownikach kryptoaktywów objętych obowiązkiem raportowania za okres roku kalendarzowego, zwanej dalej „informacją o użytkownikach kryptoaktywów”.
+
+**§ 2.**
+
+1. Informacja o użytkownikach kryptoaktywów jest przesyłana za pomocą oprogramowania interfejsowego dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
 2. Informacja o użytkownikach kryptoaktywów przesyłana w sposób, o którym mowa w ust. 1, jest opatrywana:
-1) kwalifikowanym podpisem elektronicznym albo
-2) podpisem zaufanym.
+
+- **1)** kwalifikowanym podpisem elektronicznym albo
+- **2)** podpisem zaufanym.
+
 3. Dowodem złożenia informacji o użytkownikach kryptoaktywów jest urzędowe poświadczenie odbioru wytworzone i udostępnione nadawcy przez system teleinformatyczny Szefa Krajowej Administracji Skarbowej po uprzednim przeprowadzeniu prawidłowej weryfikacji struktury logicznej, poprawności danych i podpisu elektronicznego.
+
 4. Struktura logiczna urzędowego poświadczenia odbioru informacji o użytkownikach kryptoaktywów jest udostępniana w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
-§ 3. Rozporządzenie wchodzi w życie z dniem 18 marca 2026 r.
-Minister Finansów i Gospodarki: wz. J. Neneman
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 18 marca 2026 r. Minister Finansów i Gospodarki: wz. J. Neneman
 

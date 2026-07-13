@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie stopni zawodowej służby wojskowej, Policji, Straży Granicznej, Straży Marszałkowskiej, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego lub Służby Kontrwywiadu Wojskowego, które odpowiadają poszczególnym stopniom służbowym Służby Więziennej Na podstawie art. 38a ust. 9 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. Stopnie zawodowej służby wojskowej, Policji, Straży Granicznej, Straży Marszałkowskiej, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego lub Służby Kontrwywiadu Wojskowego, które odpowiadają poszczególnym stopniom służbowym Służby Więziennej, są określone w załączniku do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 28 września 2022 r.
-Prezes Rady Ministrów: M. Morawiecki W W M W W W W W M M W W W W W M W W M W W W W W W W W W W W W W W W
+
+**§ 1.** Stopnie zawodowej służby wojskowej, Policji, Straży Granicznej, Straży Marszałkowskiej, Biura Ochrony Rządu, Służby Ochrony Państwa, Służby Celno-Skarbowej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego lub Służby Kontrwywiadu Wojskowego, które odpowiadają poszczególnym stopniom służbowym Służby Więziennej, są określone w załączniku do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 28 września 2022 r.
 

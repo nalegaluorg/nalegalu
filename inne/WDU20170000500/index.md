@@ -8,10 +8,10 @@ pos: 500
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 marca 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 500 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 lutego 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,17 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000500) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/500/text.pdf) |
 
-Poz. 500 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 lutego 2017 r.
-w sprawie dysponowania rezerwą ogólną budżetu państwa Na podstawie art. 155 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, 1948, 1984 i 2260 oraz z 2017 r. poz. 60 i 191) zarządza się, co następuje: § 1. 1. Prezes Rady Ministrów może, na wniosek właściwego ministra lub innego dysponenta części budżetowej, zwiększyć z rezerwy ogólnej budżetu państwa wydatki odpowiednich części tego budżetu o kwotę do 10 mln zł w poszczególnych przypadkach, z uwzględnieniem ust. 3.
+w sprawie dysponowania rezerwą ogólną budżetu państwa Na podstawie art. 155 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, 1948, 1984 i 2260 oraz z 2017 r. poz. 60 i 191) zarządza się, co następuje:
+
+**§ 1.**
+
+1. Prezes Rady Ministrów może, na wniosek właściwego ministra lub innego dysponenta części budżetowej, zwiększyć z rezerwy ogólnej budżetu państwa wydatki odpowiednich części tego budżetu o kwotę do 10 mln zł w poszczególnych przypadkach, z uwzględnieniem ust. 3.
+
 2. Minister Finansów może, na wniosek właściwego ministra lub innego dysponenta części budżetowej, zwiększyć z rezerwy ogólnej budżetu państwa wydatki odpowiednich części tego budżetu o kwotę do 2 mln zł w poszczególnych przypadkach, zawiadamiając o tym Prezesa Rady Ministrów.
+
 3. Wniosek, o którym mowa w ust. 1, jest składany Prezesowi Rady Ministrów za pośrednictwem Szefa Kancelarii Prezesa Rady Ministrów.
-§ 2. Traci moc rozporządzenie Rady Ministrów z dnia 23 lutego 2010 r. w sprawie dysponowania rezerwą ogólną budżetu państwa (Dz. U. poz. 257).
-§ 3. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: B. Szydło
+
+**§ 2.** Traci moc rozporządzenie Rady Ministrów z dnia 23 lutego 2010 r. w sprawie dysponowania rezerwą ogólną budżetu państwa (Dz. U. poz. 257).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 

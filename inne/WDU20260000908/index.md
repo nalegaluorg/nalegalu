@@ -30,24 +30,29 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 9 marca 2026 r. zmieniającego rozporządzenie w sprawie części munduru policyjnego, których używanie jest dozwolone (Dz. U. poz. 330), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 18 października 2023 r.
 w sprawie części munduru policyjnego, których używanie jest dozwolone Na podstawie art. 12 ust. 2 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2023 r. poz. 76) zarządza się, co następuje:
-§ 1. Dozwolone jest używanie części munduru policyjnego, wchodzących w skład ubioru:
-1) wyjściowego i służbowego:
-a) koszula wyjściowa,
-b) krawat,
-c) półbuty wyjściowe,
-d) trzewiki-botki ocieplane,
-e) półbuty służbowe,
-f) trzewiki służbowe,
-g) pas główny,
-h) pasek do spodni,
-i) skarpety,
-j) rękawiczki;
-2) wyjściowego ze sznurem galowym, z orderami, odznaczeniami i odznakami przez policjantów zwolnionych ze służby, którzy mają prawo do używania posiadanego stopnia policyjnego z dodaniem określenia „w stanie spoczynku” podczas uroczystości:
-a) z okazji świąt państwowych i Święta Policji,
-b) wręczania sztandarów, orderów i odznaczeń, mianowania na stopień policyjny lub ślubowania policjantów,
-c) pogrzebowej z udziałem policyjnej asysty honorowej;
-3) wyjściowego, wyjściowego ze sznurem galowym, służbowego i ćwiczebnego podczas:
-a) występów w: – orkiestrze policyjnej lub chórze policyjnym, – filmie lub innym przedsięwzięciu artystycznym – w czasie ich realizacji,
-b) prowadzenia zajęć w oddziale o profilu mundurowym, o którym mowa w art. 28aa ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2026 r. poz. 820 i 904), przez policjantów, o których mowa w pkt 2.
-§ 2. Rozporządzenie wchodzi w życie z dniem 23 października 2023 r.
+
+**§ 1.** Dozwolone jest używanie części munduru policyjnego, wchodzących w skład ubioru:
+
+- **1)** wyjściowego i służbowego:
+    - **a)** koszula wyjściowa,
+    - **b)** krawat,
+    - **c)** półbuty wyjściowe,
+    - **d)** trzewiki-botki ocieplane,
+    - **e)** półbuty służbowe,
+    - **f)** trzewiki służbowe,
+    - **g)** pas główny,
+    - **h)** pasek do spodni,
+    - **i)** skarpety,
+    - **j)** rękawiczki;
+
+- **2)** wyjściowego ze sznurem galowym, z orderami, odznaczeniami i odznakami przez policjantów zwolnionych ze służby, którzy mają prawo do używania posiadanego stopnia policyjnego z dodaniem określenia „w stanie spoczynku” podczas uroczystości:
+    - **a)** z okazji świąt państwowych i Święta Policji,
+    - **b)** wręczania sztandarów, orderów i odznaczeń, mianowania na stopień policyjny lub ślubowania policjantów,
+    - **c)** pogrzebowej z udziałem policyjnej asysty honorowej;
+
+- **3)** wyjściowego, wyjściowego ze sznurem galowym, służbowego i ćwiczebnego podczas:
+    - **a)** występów w: – orkiestrze policyjnej lub chórze policyjnym, – filmie lub innym przedsięwzięciu artystycznym – w czasie ich realizacji,
+    - **b)** prowadzenia zajęć w oddziale o profilu mundurowym, o którym mowa w art. 28aa ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2026 r. poz. 820 i 904), przez policjantów, o których mowa w pkt 2.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 23 października 2023 r.
 

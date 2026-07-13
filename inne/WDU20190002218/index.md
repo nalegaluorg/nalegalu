@@ -27,11 +27,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych Na podstawie art. 20 pkt 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2019 r.
 poz. 52, 55, 60, 125, 1469 i 1495) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych (Dz. U. poz. 1396, z późn. zm. ) w § 1 wprowadza się następujące zmiany:
-1) w pkt 18:
-a) lit. a otrzymuje brzmienie: „a) Sądowi Rejonowemu w Białej Podlaskiej sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Radzyniu Podlaskim,”,
-b) lit. c otrzymuje brzmienie: „c) Sądowi Rejonowemu Lublin-Zachód w Lublinie sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych: w Kraśniku, Lubartowie i Lublin-Wschód w Lublinie z siedzibą w Świdniku oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: w Białej Podlaskiej, Chełmie, Kraśniku, Lubartowie, Lublin-Wschód w Lublinie z siedzibą w Świdniku, w Opolu Lubelskim, Puławach, Radzyniu Podlaskim, Rykach i we Włodawie,”;
-2) pkt 31 trzymuje brzmienie: „31) w obszarze właściwości Sądu Okręgowego w Siedlcach – Sądowi Rejonowemu w Siedlcach sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Garwolinie, Łukowie, Mińsku Mazowieckim, Sokołowie Podlaskim i Węgrowie;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 grudnia 2019 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych (Dz. U. poz. 1396, z późn. zm. ) w § 1 wprowadza się następujące zmiany:
+
+- **1)** w pkt 18:
+    - **a)** lit. a otrzymuje brzmienie: „a) Sądowi Rejonowemu w Białej Podlaskiej sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Radzyniu Podlaskim,”,
+    - **b)** lit. c otrzymuje brzmienie: „c) Sądowi Rejonowemu Lublin-Zachód w Lublinie sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych: w Kraśniku, Lubartowie i Lublin-Wschód w Lublinie z siedzibą w Świdniku oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: w Białej Podlaskiej, Chełmie, Kraśniku, Lubartowie, Lublin-Wschód w Lublinie z siedzibą w Świdniku, w Opolu Lubelskim, Puławach, Radzyniu Podlaskim, Rykach i we Włodawie,”;
+
+- **2)** pkt 31 trzymuje brzmienie: „31) w obszarze właściwości Sądu Okręgowego w Siedlcach – Sądowi Rejonowemu w Siedlcach sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Garwolinie, Łukowie, Mińsku Mazowieckim, Sokołowie Podlaskim i Węgrowie;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 grudnia 2019 r. Minister Sprawiedliwości: Z. Ziobro
 

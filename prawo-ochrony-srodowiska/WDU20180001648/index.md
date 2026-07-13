@@ -34,15 +34,7 @@ source: pdf
     - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Narodowy Fundusz może obejmować lub nabywać akcje w spółce, o której mowa w art. 421a ust. 1.”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. Narodowy Fundusz może obejmować udziały lub akcje w spółkach innych niż określone w ust. 1 i art. 421a ust. 1 wyłącznie w zamian za nieściągalne wierzytelności wynikające z umów zawartych z tym Funduszem.”;
 
-- **3)** w tytule VII w dziale II dodaje się rozdział 5 w brzmieniu: „Rozdział 5 Polskie Domy Drewniane Spółka Akcyjna
-
-**Art. 421a.**
-
-1. Spółka Polskie Domy Drewniane Spółka Akcyjna, zwana dalej „Spółką”, prowadzi działalność w celu zwiększenia dostępności mieszkań na potrzeby społeczeństwa.
-
-2. Siedzibą Spółki jest Warszawa.
-
-3. Spółka działa pod firmą „Polskie Domy Drewniane Spółka Akcyjna” i może używać w obrocie skrótów „Polskie Domy Drewniane S.A.” lub „PDD S.A.”.
+- **3)** w tytule VII w dziale II dodaje się rozdział 5 w brzmieniu: „Rozdział 5 Polskie Domy Drewniane Spółka Akcyjna Art. 421a. 1. Spółka Polskie Domy Drewniane Spółka Akcyjna, zwana dalej „Spółką”, prowadzi działalność w celu zwiększenia dostępności mieszkań na potrzeby społeczeństwa. 2. Siedzibą Spółki jest Warszawa. 3. Spółka działa pod firmą „Polskie Domy Drewniane Spółka Akcyjna” i może używać w obrocie skrótów „Polskie Domy Drewniane S.A.” lub „PDD S.A.”.
 
 **Art. 421b.** Kapitał zakładowy Spółki wynosi co najmniej 50 000 000 zł i może być pokryty przez wniesienie wkładów pieniężnych lub niepieniężnych.
 

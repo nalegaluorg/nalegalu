@@ -30,18 +30,11 @@ source: pdf
 2) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 1083),
 3) ustawą z dnia 9 października 2025 r. o zmianie ustawy o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych oraz niektórych innych ustaw (Dz. U. poz. 1535) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 stycznia 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), który stanowi: „Art. 461. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 392 pkt 2 lit. b oraz art. 458, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 106, art. 128 ust. 2, art. 203 oraz art. 300 ust. 3 pkt 11, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
-2) art. 7 i art. 8 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 1083), które stanowią: „Art. 7. Osoby, które w dniu wejścia w życie ustawy podlegają ubezpieczeniom emerytalnemu i rentowym jako pracownicy wykonujący pracę na statkach morskich o przynależności polskiej, nadal podlegają ubezpieczeniom emerytalnemu i rentowym z tego tytułu, jeżeli nie złożą płatnikowi składek oświadczenia, o którym mowa w art. 36 ust. 19 ustawy zmienianej w art. 1, wraz z kopią zaświadczenia, o którym mowa w art. 8 ust. 16 ustawy zmienianej w art. 1, oraz nie dokonają zgłoszenia do ubezpieczeń z tytułu, o którym mowa w art. 6 ust. 1 pkt 24 ustawy zmienianej w art. 1.
-
-**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”;
-
-- **3)** art. 32 ustawy z dnia 9 października 2025 r. o zmianie ustawy o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych oraz niektórych innych ustaw (Dz. U. poz. 1535), który stanowi: „Art. 32. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-- **1)** art. 1 pkt 15 lit. d–f, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 11 pkt 2 i 3, które wchodzą w życie z dniem 30 grudnia 2025 r.;
-- **3)** art. 3, który wchodzi w życie z dniem 1 stycznia 2026 r.;
-- **4)** art. 11 pkt 1, który wchodzi w życie z dniem 20 października 2026 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 5 sierpnia 2015 r. o pracy na morzu
+1) art. 461 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), który stanowi: „ Art. 461. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 392 pkt 2 lit. b oraz art. 458, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 106, art. 128 ust. 2, art. 203 oraz art. 300 ust. 3 pkt 11, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
+2) art. 7 i art. 8 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw (Dz. U. poz. 1083), które stanowią: „ Art. 7. Osoby, które w dniu wejścia w życie ustawy podlegają ubezpieczeniom emerytalnemu i rentowym jako pracownicy wykonujący pracę na statkach morskich o przynależności polskiej, nadal podlegają ubezpieczeniom emerytalnemu i rentowym z tego tytułu, jeżeli nie złożą płatnikowi składek oświadczenia, o którym mowa w art. 36 ust. 19 ustawy zmienianej w art. 1, wraz z kopią zaświadczenia, o którym mowa w art. 8 ust. 16 ustawy zmienianej w art. 1, oraz nie dokonają zgłoszenia do ubezpieczeń z tytułu, o którym mowa w art. 6 ust. 1 pkt 24 ustawy zmienianej w art. 1. Art. 8. Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”;
+3) art. 32 ustawy z dnia 9 października 2025 r. o zmianie ustawy o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych oraz niektórych innych ustaw (Dz. U. poz. 1535), który stanowi: „ Art. 32. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 1 pkt 15 lit. d–f, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 11 pkt 2 i 3, które wchodzą w życie z dniem 30 grudnia 2025 r.; 3) art. 3, który wchodzi w życie z dniem 1 stycznia 2026 r.; 4) art. 11 pkt 1, który wchodzi w życie z dniem 20 października 2026 r.”. Marszałek Sejmu: W. Czarzasty
+USTAWA z dnia 5 sierpnia 2015 r.
+o pracy na morzu
 
 #### Rozdział 1 Przepisy ogólne
 

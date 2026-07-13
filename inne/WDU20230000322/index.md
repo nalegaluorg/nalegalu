@@ -27,12 +27,15 @@ source: pdf
 
 w sprawie szczegółowego sposobu określania wymagań, jakie powinien spełniać przedsiębiorca ubiegający się o uzyskanie zezwolenia w zakresie opróżniania zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transportu nieczystości ciekłych Na podstawie art. 7 ust. 7 ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U.
 z 2022 r. poz. 2519) zarządza się, co następuje:
-§ 1. Wymagania, jakie powinien spełniać przedsiębiorca ubiegający się o uzyskanie zezwolenia na prowadzenie działalności w zakresie opróżniania zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transportu nieczystości ciekłych, dotyczące:
-1) opisu wyposażenia technicznego zawierającego wymagania odnośnie do:
-a) pojazdów asenizacyjnych przeznaczonych do świadczenia usług w zakresie opróżniania zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transportu nieczystości ciekłych,
-b) bazy transportowej,
-2) zabiegów sanitarnych i porządkowych związanych ze świadczonymi usługami, o których mowa w pkt 1 lit. a,
-3) miejsc przekazywania nieczystości ciekłych – określa się w sposób precyzyjny, zrozumiały, niedyskryminujący, nieograniczający konkurencji oraz nieutrudniający dostępu do rynku przedsiębiorców świadczących usługi w zakresie opróżniania zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transportu nieczystości ciekłych oraz zapewniający należytą ochronę zdrowia i życia ludzi oraz środowiska.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa
+
+**§ 1.** Wymagania, jakie powinien spełniać przedsiębiorca ubiegający się o uzyskanie zezwolenia na prowadzenie działalności w zakresie opróżniania zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transportu nieczystości ciekłych, dotyczące:
+
+- **1)** opisu wyposażenia technicznego zawierającego wymagania odnośnie do:
+    - **a)** pojazdów asenizacyjnych przeznaczonych do świadczenia usług w zakresie opróżniania zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transportu nieczystości ciekłych,
+    - **b)** bazy transportowej,
+
+- **2)** zabiegów sanitarnych i porządkowych związanych ze świadczonymi usługami, o których mowa w pkt 1 lit. a,
+- **3)** miejsc przekazywania nieczystości ciekłych – określa się w sposób precyzyjny, zrozumiały, niedyskryminujący, nieograniczający konkurencji oraz nieutrudniający dostępu do rynku przedsiębiorców świadczących usługi w zakresie opróżniania zbiorników bezodpływowych lub osadników w instalacjach przydomowych oczyszczalni ścieków i transportu nieczystości ciekłych oraz zapewniający należytą ochronę zdrowia i życia ludzi oraz środowiska.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa
 

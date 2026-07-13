@@ -8,10 +8,10 @@ pos: 1652
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 sierpnia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1652 Załączniki do rozporządzenia Ministra Edukacji Narodowej z dnia 9 sierpnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,21 +25,21 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-08-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001652) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1652/text.pdf) |
 
-RAMY PROGRAMOWE KSZTAŁCENIA UZUPEŁNIAJĄCEGO DLA SZKÓŁ POLSKICH Załącznik nr 1 RAMY PROGRAMOWE KSZTAŁCENIA UZUPEŁNIAJĄCEGO DLA SZKÓŁ POLSKICH SZKOŁA PODSTAWOWA Celem kształcenia uzupełniającego w szkole podstawowej jest: przyswojenie przez uczniów podstawowego zasobu wiadomości na temat języka polskiego, tradycji i kultury polskiej, faktów o Polsce, w tym z historii, geografii i wiedzy o społeczeństwie;
+(poz. …) Załącznik nr 1 RAMY PROGRAMOWE KSZTAŁCENIA UZUPEŁNIAJĄCEGO RAMY PROGRAMOWE KSZTAŁCENIA UZUPEŁNIAJĄCEGO DLA SZKÓŁ POLSKICH DLA SZKÓŁ POLSKICH SZKOŁA PODSTAWOWA Celem kształcenia uzupełniającego w szkole podstawowej jest: przyswojenie przez uczniów podstawowego zasobu wiadomości na temat języka polskiego, tradycji i kultury polskiej, faktów o Polsce, w tym z historii, geografii i wiedzy o społeczeństwie;
 zdobycie przez uczniów umiejętności wykorzystywania posiadanych wiadomości podczas wykonywania zadań i rozwiązywania problemów;
 kształtowanie u uczniów postaw umożliwiających sprawne i odpowiedzialne funkcjonowanie we współczesnym świecie oraz postaw świadomej przynależności do narodu polskiego.
-Do najważniejszych umiejętności zdobywanych przez ucznia w trakcie kształcenia uzupełniającego w szkole podstawowej należą: czytanie rozumiane zarówno jako prosta czynność oraz jako umiejętność rozumienia, wykorzystywania i przetwarzania tekstów w zakresie umożliwiającym zdobywanie wiedzy, rozwój emocjonalny, intelektualny i moralny oraz uczestnictwo w życiu społeczeństwa, w tym w życiu Polonii w miejscu zamieszkania;
+Do najważniejszych umiejętności zdobywanych przez ucznia w trakcie kształcenia uzupełniającego w szkole podstawowej należą: czytanie – rozumiane zarówno jako prosta czynność oraz jako umiejętność rozumienia, wykorzystywania i przetwarzania tekstów w zakresie umożliwiającym zdobywanie wiedzy, rozwój emocjonalny, intelektualny i moralny oraz uczestnictwo w życiu społeczeństwa, w tym w życiu Polonii w miejscu zamieszkania;
 umiejętność formułowania wniosków opartych na obserwacjach empirycznych dotyczących przyrody i społeczeństwa;
 umiejętność komunikowania się w języku polskim zarówno w mowie, jak i w piśmie;
 umiejętność posługiwania się nowoczesnymi technologiami informacyjno-komunikacyjnymi w celu wyszukiwania, korzystania i weryfikowania informacji, a także podejmowania twórczych działań na rzecz społeczności polonijnej w miejscu zamieszkania;
 umiejętność uczenia się jako sposób zaspokajania naturalnej ciekawości świata, odkrywania swoich zainteresowań i przygotowania do dalszej edukacji;
 umiejętność pracy zespołowej.
 Jednym z najważniejszych zadań szkoły podstawowej jest kształcenie umiejętności posługiwania się językiem polskim, w tym dbałość o wzbogacanie zasobu słownictwa uczniów w zakresie mowy ojczystej. Powyższe umiejętności uczeń zdobywa przy wsparciu wszystkich nauczycieli.
-EDUKACJA WCZESNOSZKOLNA Klasy I–III szkoły podstawowej Cele kształcenia wymagania ogólne Celem edukacji wczesnoszkolnej jest wspomaganie dziecka w rozwoju intelektualnym, emocjonalnym, społecznym, etycznym, fizycznym i estetycznym.
+EDUKACJA WCZESNOSZKOLNA Klasy I–III szkoły podstawowej Cele kształcenia – wymagania ogólne Celem edukacji wczesnoszkolnej jest wspomaganie dziecka w rozwoju intelektualnym, emocjonalnym, społecznym, etycznym, fizycznym i estetycznym.
 Zadaniem szkoły jest wykształcenie umiejętności posługiwania się językiem polskim oraz ukształtowanie systemu wiadomości i umiejętności potrzebnych dziecku do poznawania i rozumienia świata, radzenia sobie w codziennych sytuacjach oraz do kontynuowania nauki w klasach IV-VIII szkoły podstawowej.
 Uczeń zdobywa podstawowe wiadomości na temat historii, geografii i przyrody Polski.
 Zdobywa podstawowe informacje o kulturze i społeczeństwie polskim, identyfikuje się z kulturą i tradycją polską, zachowując szacunek dla odmienności kulturowych i tradycji kraju zamieszkania, poznaje klasyczne teksty polskiej literatury dziecięcej. Uczeń rozbudza swoje zainteresowania Polską.
-Treści nauczania wymagania szczegółowe Treści nauczania należy dostosować do poziomów biegłości językowej uczniów (poziom A podstawowy, B średni, C zaawansowany) I. Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji.
+Treści nauczania – wymagania szczegółowe Treści nauczania należy dostosować do poziomów biegłości językowej uczniów (poziom A – podstawowy, B – średni, C – zaawansowany) I. Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji.
 1. Słuchanie.
 Uczeń: rozróżnia głoski współczesnej polszczyzny;
 rozumie złożone polecenia;
@@ -135,13 +135,13 @@ Kręgi tematyczne:
 7) technika, media: − domowe urządzenia techniczne, − telewizja, radio, bezpieczny Internet;
 8) wiedza o Polsce: − symbole narodowe, − znani Polacy, − święta i zwyczaje, − polonica w miejscu zamieszkania;
 9) język nauki: − podstawowe terminy z zakresu wiedzy o języku, − podstawowe terminy z zakresu wiedzy o literaturze, − podstawowe terminy historyczne i geograficzne.
-JĘZYK POLSKI Klasy IV–VIII szkoły podstawowej Cele kształcenia wymagania ogólne I. Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji.
+JĘZYK POLSKI Klasy IV–VIII szkoły podstawowej Cele kształcenia – wymagania ogólne I. Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji.
 Rozwijanie sprawności uważnego słuchania, czytania głośnego i cichego oraz umiejętności rozumienia znaczeń dosłownych i znaczeń przenośnych wypowiedzi.
 Kształcenie umiejętności porozumiewania się w różnych sytuacjach prywatnych i publicznych.
 Kształtowanie świadomości rozumienia języka jako wartościowego i wielofunkcyjnego narzędzia komunikacji.
 Rozwijanie umiejętności samodzielnego poszukiwania i porządkowania informacji, w tym z wykorzystaniem nowoczesnych technologii informacyjnych, dokonywania ich selekcji i krytycznej oceny.
 Rozwijanie umiejętności rzetelnego korzystania ze źródeł wiedzy z poszanowaniem cudzej własności intelektualnej.
-Doskonalenie rozumienia komunikatów werbalnych i niewerbalnych o coraz bardziej skomplikowanej organizacji.
+Doskonalenie rozumienia komunikatów – werbalnych i niewerbalnych – o coraz bardziej skomplikowanej organizacji.
 Rozwijanie rozumienia wartości języka polskiego oraz jego funkcji w budowaniu tożsamości narodowej i kulturowej.
 Kształtowanie nawyków systematycznego uczenia się, porządkowania zdobytej wiedzy i jej pogłębiania.
 II. Analiza i interpretacja tekstów kultury.
@@ -161,7 +161,7 @@ Kształcenie umiejętności pisania zgodnego z regułami pisowni polskiej.
 Rozwijanie umiejętności posługiwania się podstawowymi pojęciami i terminami, służącymi do opisywania języka.
 Rozwijanie twórczych i sprawczych działań językowych oraz kształtowanie odpowiedzialności za własne zachowania językowe.
 Zachęcanie do rozwijania swoich uzdolnień przez udział w różnych formach pogłębiania wiedzy, np.: konkursach, olimpiadach, kołach zainteresowań, oraz rozwijanie umiejętności samodzielnej prezentacji wyników swojej pracy.
-Treści nauczania wymagania szczegółowe Treści nauczania należy dostosować do poziomów biegłości językowej uczniów (poziom A podstawowy, poziom B średni, poziom C zaawansowany) Klasy IV–VI I. Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji.
+Treści nauczania – wymagania szczegółowe Treści nauczania należy dostosować do poziomów biegłości językowej uczniów (poziom A – podstawowy, poziom B – średni, poziom C – zaawansowany) Klasy IV–VI I. Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji.
 1. Słuchanie.
 Uczeń: rozróżnia głoski języka polskiego;
 rozumie polecenia, instrukcje oraz wypowiedzi monologowe i dialogowe, włącznie z wypowiedziami w dyskusjach, w tym nadawane za pomocą środków audiowizualnych;
@@ -278,7 +278,7 @@ Wybrane programy telewizyjne i radiowe, czasopisma (w miarę możliwości).
 Klasy VII i VIII I. Odbiór wypowiedzi i wykorzystanie zawartych w nich informacji.
 1. Słuchanie.
 Uczeń: rozróżnia głoski języka polskiego;
-rozumie polecenia, instrukcje oraz wypowiedzi monologowe i dialogowe, włącznie z wypowiedziami w dyskusjach, w tym nadawane za pomocą środków audiowizualnych rozróżnia informacje przekazane werbalnie oraz zawarte w dźwięku i obrazie;
+rozumie polecenia, instrukcje oraz wypowiedzi monologowe i dialogowe, włącznie z wypowiedziami w dyskusjach, w tym nadawane za pomocą środków audiowizualnych – rozróżnia informacje przekazane werbalnie oraz zawarte w dźwięku i obrazie;
 rozumie wypowiedzi o charakterze informacyjnym i użytkowym;
 odróżnia informacje o faktach od opinii;
 rozpoznaje wypowiedzi o charakterze emocjonalnym i perswazyjnym;
@@ -419,7 +419,7 @@ rozbudzanie zainteresowań własną przeszłością, swojej rodziny oraz histori
 kształtowanie zrozumienia dla takich wartości jak: prawda, dobro, sprawiedliwość, piękno oraz rozwijanie wrażliwości moralnej i estetycznej;
 rozwijanie wyobraźni historycznej;
 kształtowanie zdolności humanistycznych, sprawności językowej, umiejętności samodzielnego poszukiwania wiedzy i korzystania z różnorodnych źródeł informacji, formułowania i wypowiadania własnych opinii.
-Cele kształcenia wymagania ogólne
+Cele kształcenia – wymagania ogólne
 1. Chronologia historyczna.
 Uczeń odróżnia przeszłość, teraźniejszość i przyszłość; posługuje się podstawowymi określeniami czasu historycznego: epoka, okres p.n.e., okres n.e., tysiąclecie, wiek, rok;
 oblicza upływ czasu między wydarzeniami historycznymi; umieszcza procesy, zjawiska i fakty historyczne w czasie oraz porządkuje je i ustala związki przyczynowe i skutkowe;
@@ -429,13 +429,13 @@ Uczeń krytycznie analizuje informacje uzyskane z różnych źródeł (w tym kar
 3. Tworzenie narracji historycznej.
 Uczeń tworzy narrację historyczną, wykorzystując zdobyte informacje źródłowe;
 posługuje się pojęciami historycznymi i potrafi wyjaśnić ich znaczenie; przedstawia argumenty uzasadniające własne stanowisko w odniesieniu do procesów i postaci historycznych; tworzy krótkie i długie wypowiedzi: plan, notatkę, rozprawkę, prezentację.
-Treści nauczania wymagania szczegółowe
+Treści nauczania – wymagania szczegółowe
 1. Elementy historii rodzinnej.
 Uczeń: zbiera informacje na temat historii swojej rodziny, gromadzi i opowiada o pamiątkach rodzinnej przeszłości;
 zna i kultywuje tradycje rodzinne;
 poznaje historię i tradycje ziemi przodków i ludzi dla niej szczególnie zasłużonych;
 zna lokalne zabytki i opisuje ich dzieje.
-2. Ojczyzna najważniejsze elementy polskiego dziedzictwa kulturowego.
+2. Ojczyzna – najważniejsze elementy polskiego dziedzictwa kulturowego.
 Uczeń: zna symbole narodowe (barwy, godło, hymn narodowy), najważniejsze święta narodowe i państwowe, potrafi wytłumaczyć ich znaczenie;
 zna legendy o początkach państwa polskiego;
 wiąże najważniejsze zabytki i symbole kultury polskiej z właściwymi regionami;
@@ -454,7 +454,7 @@ Tadeuszu Kościuszce i kosynierach spod Racławic;
 Janie Henryku Dąbrowskim i Józefie Wybickim oraz polskim hymnie;
 Piotrze Wysockim i powstaniu listopadowym;
 Romualdzie Traugutcie i powstańczym państwie;
-Marii Skłodowskiej-Curie laureatce Nagrody Nobla;
+Marii Skłodowskiej-Curie – laureatce Nagrody Nobla;
 Józefie Piłsudskim i jego żołnierzach;
 Eugeniuszu Kwiatkowskim i budowie Gdyni;
 Januszu Korczaku i prawach dziecka;
@@ -468,10 +468,10 @@ Uczeń sytuuje w czasie i opowiada o: Piastach, plemionach słowiańskich i ich 
 Chrzcie Polski, chrystianizacji i przemianach kulturowych na ziemiach polskich, misji św. Wojciecha;
 wojnach z Niemcami, obronie kraju, wojach, obronie Głogowa;
 zakonach w Polsce, rozwoju piśmiennictwa i rolnictwa;
-zamkach i rycerzach znaczeniu, uzbrojeniu, obyczajach;
-złotym wieku kultury polskiej, osiągnięciach architektury i sztuki Wawelu;
+zamkach i rycerzach – znaczeniu, uzbrojeniu, obyczajach;
+złotym wieku kultury polskiej, osiągnięciach architektury i sztuki – Wawelu;
 Gdańsku (miasto, port, rozwój handlu zbożem), Polsce jako spichlerzu Europy;
-Zygmuncie III Wazie, Warszawie stolicy Polski;
+Zygmuncie III Wazie, Warszawie – stolicy Polski;
 obiadach czwartkowych króla Stanisława Augusta Poniatowskiego, rozkwicie kultury za ostatniego króla;
 strajku dzieci we Wrześni, udrękach niewoli, germanizacji, rusyfikacji;
 Bitwie Warszawskiej, ocaleniu Polski przed najazdem bolszewickim;
@@ -541,7 +541,7 @@ opisuje powstanie Księstwa Warszawskiego, jego ustrój i terytorium;
 przedstawia stosunek Napoleona do sprawy polskiej oraz postawę Polaków wobec Napoleona.
 14. Ziemie polskie w latach 1815–1848.
 Uczeń: wskazuje na mapie podział polityczny ziem polskich po kongresie wiedeńskim;
-charakteryzuje okres konstytucyjny Królestwa Polskiego ustrój (w teorii i praktyce), osiągnięcia w gospodarce, kulturze i edukacji;
+charakteryzuje okres konstytucyjny Królestwa Polskiego – ustrój (w teorii i praktyce), osiągnięcia w gospodarce, kulturze i edukacji;
 przedstawia przyczyny wybuchu powstania listopadowego, charakter zmagań i następstwa powstania dla Polaków w różnych zaborach;
 omawia położenie Polaków w zaborach pruskim i austriackim, na obszarze ziem zabranych oraz w Rzeczypospolitej Krakowskiej;
 charakteryzuje główne nurty oraz postacie Wielkiej Emigracji i ruch spiskowy w kraju;
@@ -553,8 +553,8 @@ omawia uwłaszczenie chłopów w zaborze rosyjskim oraz porównuje z uwłaszczen
 wylicza formy represji popowstaniowych;
 charakteryzuje działalność Polaków w czasie zesłania na Syberii.
 16. Ziemie polskie pod zaborami w II połowie XIX i na początku XX wieku.
-Uczeń: wyjaśnia cele i opisuje metody działań zaborców wobec mieszkańców ziem dawnej Rzeczypospolitej rusyfikacja, germanizacja (kulturkampf), autonomia galicyjska;
-rozróżnia postawy społeczeństwa polskiego w stosunku do zaborców trójlojalizm, praca organiczna, ruch spółdzielczy;
+Uczeń: wyjaśnia cele i opisuje metody działań zaborców wobec mieszkańców ziem dawnej Rzeczypospolitej – rusyfikacja, germanizacja (kulturkampf), autonomia galicyjska;
+rozróżnia postawy społeczeństwa polskiego w stosunku do zaborców – trójlojalizm, praca organiczna, ruch spółdzielczy;
 opisuje formowanie się nowoczesnej świadomości narodowej Polaków;
 omawia narodziny i pierwsze lata istnienia nowoczesnych ruchów politycznych (socjalizm, ruch ludowy, ruch narodowy);
 wyjaśnia społeczne i narodowe aspekty rewolucji w latach 1905-1907;
@@ -565,14 +565,14 @@ omawia umiędzynarodowienie sprawy polskiej (akt 5 listopada 1916 r., rola USA i
 ocenia polski wysiłek zbrojny, dyplomatyczny, prace państwowotwórcze podczas wojny.
 18. Odrodzenie państwa polskiego po I wojnie światowej.
 Uczeń: omawia formowanie się centralnego ośrodka władzy państwowej (od październikowej deklaracji Rady Regencyjnej do „Małej Konstytucji”);
-przedstawia proces wykuwania granic: wersalskie decyzje i powstańczy wysiłek (zachód) federacyjny dylemat a inkorporacyjny rezultat (wschód);
+przedstawia proces wykuwania granic: wersalskie decyzje i powstańczy wysiłek (zachód) – federacyjny dylemat a inkorporacyjny rezultat (wschód);
 opisuje wojnę polsko-bolszewicką i jej skutki (pokój ryski).
 19. Wznoszenie państwowego gmachu II Rzeczypospolitej.
 Uczeń: charakteryzuje skalę i skutki wojennych zniszczeń, zaborowe dziedzictwo;
 charakteryzuje ustrój polityczny Polski na podstawie konstytucji marcowej z 1921 r.;
 ocenia przezwyciężenie spuścizny zaborów (reformy Władysława Grabskiego, powstanie narodowej armii, ujednolicenie systemu szkolnego, unifikację prawa);
-omawia kryzys demokracji parlamentarnej w Polsce przyczyny, przebieg i skutki przewrotu majowego;
-opisuje polski autorytaryzm rządy sanacji, zmiany ustrojowe (konstytucja kwietniowa z 1935 r.);
+omawia kryzys demokracji parlamentarnej w Polsce – przyczyny, przebieg i skutki przewrotu majowego;
+opisuje polski autorytaryzm – rządy sanacji, zmiany ustrojowe (konstytucja kwietniowa z 1935 r.);
 przedstawia główne kierunki polityki zagranicznej II Rzeczypospolitej (system sojuszy i politykę równowagi).
 20. Społeczeństwo i gospodarka II Rzeczypospolitej.
 Uczeń: charakteryzuje społeczną, narodowościową i wyznaniową strukturę państwa polskiego;
@@ -633,7 +633,7 @@ wymienia organy władzy w Rzeczypospolitej Polskiej: parlament, prezydent, rząd
 podaje przykłady praw i obowiązków obywateli Rzeczypospolitej Polskiej.
 32. Wspólnoty narodowe i etniczne, ojczyzna.
 Uczeń: wyjaśnia, co oznacza być Polakiem lub członkiem innej wspólnoty narodowej lub etnicznej oraz czym powinna przejawiać się postawa patriotyczna młodego i dorosłego człowieka;
-wyjaśnia, co łączy człowieka z ojczyzną Polską i przedstawia te więzi na własnym przykładzie; wymienia konstytucyjne obowiązki obywatela; zna symbole Rzeczypospolitej Polskiej;
+wyjaśnia, co łączy człowieka z ojczyzną – Polską i przedstawia te więzi na własnym przykładzie; wymienia konstytucyjne obowiązki obywatela; zna symbole Rzeczypospolitej Polskiej;
 wyjaśnia, uwzględniając wielonarodowe tradycje Polski, jaki wpływ na kształtowanie narodu mają wspólne dzieje, kultura, język i tradycja;
 wyjaśnia, czym obywatelstwo różni się od narodowości; rozumie, że poza nabyciem obywatelstwa z mocy prawa występuje możliwość uznania za obywatela polskiego oraz nadania obywatelstwa polskiego; uzasadnia, że można pogodzić różne tożsamości społeczno-kulturowe (regionalną, narodową, etniczną, państwową, obywatelską, europejską).
 33. Obywatelstwo polskie i udział obywateli w życiu publicznym.
@@ -643,7 +643,7 @@ wyjaśnia, podając przykłady, jak obywatele mogą wpływać na decyzje władz 
 wskazuje, czym powinien kierować się obywatel, podejmując decyzje wyborcze;
 krytycznie analizuje ulotki, hasła i spoty wyborcze.
 34. Współczesne społeczeństwo polskie.
-Uczeń: charakteryzuje odwołując się do przykładów wybrane warstwy społeczne, grupy zawodowe i ich style życia, omawia problemy i perspektywy życiowe młodych Polaków (na podstawie samodzielnie zebranych informacji);
+Uczeń: charakteryzuje – odwołując się do przykładów – wybrane warstwy społeczne, grupy zawodowe i ich style życia, omawia problemy i perspektywy życiowe młodych Polaków (na podstawie samodzielnie zebranych informacji);
 opisuje różne grupy społeczne, wskazując ich role w społeczeństwie;
 podaje przykłady ważnych problemów współczesnej Polski, korzystając z różnych źródeł informacji (od osób dorosłych, z prasy, radia, telewizji, Internetu).
 35. Patriotyzm dzisiaj.
@@ -653,7 +653,7 @@ rozpoznaje przejawy ksenofobii, w tym rasizmu, szowinizmu i antysemityzmu; uzasa
 rozważa, w jaki sposób stereotypy i uprzedzenia utrudniają dziś relacje między narodami;
 uzasadnia, że można równocześnie być Polakiem, Europejczykiem i członkiem społeczności światowej.
 Cele kształcenia — wymagania ogólne z geografii Uczeń poznaje najważniejsze cechy środowiska przyrodniczego Polski, zdobywa wiedzę o miastach i regionach Polski, poznaje przyczyny zróżnicowania gospodarczego Polski, korzysta z atlasu Polski i rozbudza swoje zainteresowania krajem przodków i regionem Polski, z którego pochodzi jego rodzina.
-Treści nauczania wymagania szczegółowe w zakresie geografii Polski
+Treści nauczania – wymagania szczegółowe w zakresie geografii Polski
 1. Polska na mapie Europy.
 Uczeń: pokazuje Polskę na mapie Europy;
 opisuje położenie Polski, granice oraz wskazuje na mapie jej sąsiadów;
@@ -683,7 +683,7 @@ identyfikuje tradycyjne potrawy polskiej kuchni;
 wymienia najważniejsze surowce mineralne eksploatowane w Polsce;
 podaje przykłady aktualnych problemów społeczno-gospodarczych współczesnej Polski, korzystając z różnych źródeł informacji (od osób dorosłych, z prasy, radia, telewizji, Internetu);
 wymienia mniejszości narodowe i etniczne żyjące w Polsce, na wybranych przykładach opisuje ich kulturę i tradycje.
-LICEUM OGÓLNOKSZTAŁCĄCE Po ukończeniu szkoły podstawowej uczeń kontynuuje kształcenie ogólne w szkole ponadpodstawowej w liceum ogólnokształcącym.
+LICEUM OGÓLNOKSZTAŁCĄCE Po ukończeniu szkoły podstawowej uczeń kontynuuje kształcenie ogólne w szkole ponadpodstawowej – w liceum ogólnokształcącym.
 Celem kształcenia ogólnego w liceum ogólnokształcącym jest: doskonalenie umiejętności myślowo-językowych, takich jak czytanie ze zrozumieniem, pisanie twórcze, formułowanie pytań i problemów, posługiwanie się kryteriami, uzasadnianie, wyjaśnianie, klasyfikowanie, wnioskowanie, definiowanie, posługiwanie się przykładami itp.;
 rozwijanie indywidualnych zainteresowań ucznia i integrowanie różnych dyscyplin wiedzy w ramach przedmiotu język polski;
 rozwijanie szacunku dla wiedzy, wyrabianie pasji poznawania świata i zachęcanie do praktycznego stosowania zdobytych wiadomości;
@@ -692,13 +692,13 @@ doskonalenie umiejętności współpracy w grupie i podejmowania samodzielnych d
 rozwijanie wrażliwości społecznej, moralnej i estetycznej.
 Do najważniejszych umiejętności zdobywanych przez ucznia w trakcie kształcenia ogólnego w liceum ogólnokształcącym należą:
 1) umiejętność komunikowania się w języku polskim, zarówno w mowie, jak i w piśmie, stosowanie przyjętych norm językowych;
-2) czytanie umiejętność łącząca zarówno rozumienie sensów, jak i znaczeń symbolicznych wypowiedzi; kluczowa umiejętność lingwistyczna i psychologiczna prowadząca do rozwoju osobowego, aktywnego uczestnictwa we wspólnocie, przekazywania doświadczeń między pokoleniami;
+2) czytanie – umiejętność łącząca zarówno rozumienie sensów, jak i znaczeń symbolicznych wypowiedzi; kluczowa umiejętność lingwistyczna i psychologiczna prowadząca do rozwoju osobowego, aktywnego uczestnictwa we wspólnocie, przekazywania doświadczeń między pokoleniami;
 3) umiejętność samodzielnego docierania do informacji, dokonywania ich selekcji, syntezy oraz wartościowania, rzetelnego korzystania ze źródeł;
 4) rozwijanie myślenia: analitycznego, syntetycznego, logicznego, komputacyjnego, przyczynowo-skutkowego, kreatywnego, abstrakcyjnego.
 Jednym z najważniejszych zadań liceum ogólnokształcącego jest rozwijanie kompetencji językowej i kompetencji komunikacyjnej w języku polskim. Istotne w tym zakresie jest łączenie teorii i praktyki językowej. Bogacenie słownictwa, w tym poznawanie terminologii właściwej dla każdego z przedmiotów służy rozwojowi intelektualnemu ucznia, a wspomaganie i dbałość o ten rozwój należy do obowiązków każdego nauczyciela.
-JĘZYK POLSKI Klasy I IV Liceum ogólnokształcące Język polski realizowany jako przedmiot w liceum ogólnokształcącym pozwala uczniowi na poznawanie dzieł literackich wchodzących w skład polskiego dziedzictwa, jak i utworów polskiej literatury współczesnej, których autorzy zdobyli uznanie. Realizacja celów kształcenia (wymagania ogólne) i treści nauczania (wymagania szczegółowe) przedmiotu język polski ma służyć osiągnięciu przez ucznia umiejętności świadomego i krytycznego odbioru dzieł literackich, ich interpretacji w różnych kontekstach, rozpoznawania w nich odniesień egzystencjalnych, aksjologicznych i historycznych. Szczególne znaczenie dla rozwoju kompetencji interpretacyjnych ma zintegrowanie kształcenia literackiego i kształcenia językowego. Wzbogacanie wiedzy o języku pozwala uczniowi na świadome uczestnictwo w różnych sytuacjach komunikacyjnych, związanych zarówno z odbiorem, jak i tworzeniem własnych tekstów.
+JĘZYK POLSKI Klasy I – IV Liceum ogólnokształcące Język polski realizowany jako przedmiot w liceum ogólnokształcącym pozwala uczniowi na poznawanie dzieł literackich wchodzących w skład polskiego dziedzictwa, jak i utworów polskiej literatury współczesnej, których autorzy zdobyli uznanie. Realizacja celów kształcenia (wymagania ogólne) i treści nauczania (wymagania szczegółowe) przedmiotu język polski ma służyć osiągnięciu przez ucznia umiejętności świadomego i krytycznego odbioru dzieł literackich, ich interpretacji w różnych kontekstach, rozpoznawania w nich odniesień egzystencjalnych, aksjologicznych i historycznych. Szczególne znaczenie dla rozwoju kompetencji interpretacyjnych ma zintegrowanie kształcenia literackiego i kształcenia językowego. Wzbogacanie wiedzy o języku pozwala uczniowi na świadome uczestnictwo w różnych sytuacjach komunikacyjnych, związanych zarówno z odbiorem, jak i tworzeniem własnych tekstów.
 Ważnym zagadnieniem w ramach nauczania języka polskiego jest rozwijanie i ukierunkowanie samokształcenia ucznia.
-Cele kształcenia wymagania ogólne I. Kształcenie językowe.
+Cele kształcenia – wymagania ogólne I. Kształcenie językowe.
 Świadome wykorzystywanie języka narodowego w budowaniu tożsamości osobowej ucznia oraz wspólnot: rodzinnej, narodowej i kulturowej.
 Pogłębianie funkcjonalnej wiedzy z zakresu nauki o języku polskim.
 Wzbogacanie umiejętności komunikacyjnych, stosowne wykorzystywanie języka polskiego w różnych sytuacjach komunikacyjnych.
@@ -729,7 +729,7 @@ IV. Samokształcenie.
 5. Kształtowanie nawyku samodzielnej, systematycznej lektury.
 6. Rozwijanie uzdolnień poprzez udział w różnych formach aktywności intelektualnej i twórczej.
 7. Rozwijanie umiejętności efektywnego posługiwania się technologią informacyjną w poszukiwaniu, porządkowaniu i wykorzystywaniu pozyskanych informacji.
-Treści nauczania wymagania szczegółowe Na III etapie edukacyjnym obowiązuje utrwalanie, poszerzanie i doskonalenie wiadomości i umiejętności nabytych w szkole podstawowej.
+Treści nauczania – wymagania szczegółowe Na III etapie edukacyjnym obowiązuje utrwalanie, poszerzanie i doskonalenie wiadomości i umiejętności nabytych w szkole podstawowej.
 I. Kształcenie językowe.
 1. Gramatyka języka polskiego.
 Uczeń:
@@ -755,14 +755,13 @@ Uczeń:
 10) określa cechy stylu wypowiedzi internetowych oraz wartościuje wypowiedzi tworzone przez internautów;
 11) rozpoznaje słownictwo o charakterze wartościującym, odróżnia słownictwo neutralne od słownictwa o zabarwieniu emocjonalnym, oficjalne od potocznego.
 3. Komunikacja językowa i kultura języka.
-Uczeń: rozpoznaje i określa funkcje tekstu (informatywną, poetycką, metajęzykową, ekspresywną, impresywną w tym perswazyjną);
+Uczeń: rozpoznaje i określa funkcje tekstu (informatywną, poetycką, metajęzykową, ekspresywną, impresywną – w tym perswazyjną);
 rozpoznaje zjawiska powodujące niejednoznaczność wypowiedzi (homonimie, anakoluty, elipsy, paradoksy), dba o jasność i precyzję komunikatu;
 sprawnie posługuje się różnymi odmianami polszczyzny w zależności od sytuacji komunikacyjnej;
 potrafi odczytać wieloznaczność wypowiedzi na podstawie intonacji, mowy ciała lub odnośników do kontekstu;
 stosuje zasady etyki wypowiedzi; wartościuje wypowiedzi językowe, stosując kryteria, np.: prawda–fałsz, poprawność–niepoprawność;
 stosuje zasady etykiety językowej w wypowiedziach ustnych i pisemnych odpowiednie do sytuacji;
-określa zmiany w komunikacji językowej związane z rozwojem jej form (np.
-komunikacji internetowej).
+określa zmiany w komunikacji językowej związane z rozwojem jej form (np. komunikacji internetowej).
 4. Ortografia i interpunkcja.
 Uczeń:
 1) stosuje wszystkie zasady ortografii i interpunkcji, w tym szczególnie: pisowni wielką i małą literą, pisowni łącznej i rozłącznej partykuły nie oraz partykuły -bym, -byś, -by z różnymi częściami mowy; pisowni zakończeń –ji, -ii, -i; zapisu przedrostków roz-, bez-, wes-, wz-, ws-; pisowni przyimków złożonych; pisowni nosówek (a, ę) oraz połączeń om, on, em, en; pisowni skrótów i skrótowców;
@@ -813,7 +812,7 @@ rozumie pojęcie motywu literackiego i toposu, rozpoznaje podstawowe motywy i to
 rozumie pojęcie aluzji literackiej, rozpoznaje aluzje w utworach i określa ich znaczenie w rozumieniu związków z tradycją literacką;
 w interpretacji utworów literackich odwołuje się do tekstów poznanych w szkole podstawowej, w tym: trenów i pieśni Jana Kochanowskiego, bajek Ignacego Krasickiego, Dziadów cz. II oraz Pana Tadeusza Adama Mickiewicza;
 porównuje utwory literackie lub ich fragmenty, dostrzega kontynuacje i nawiązania w porównywanych utworach, określa cechy wspólne i różne;
-przedstawia propozycję interpretacji utworu, wskazuje w tekście miejsca, które mogą stanowić argumenty na poparcie jego propozycji interpretacyjnej, odwołuje się do znanych mu kontekstów, w tym jeśli jest to uzasadnione do kontekstu własnego doświadczenia życiowego lub lekturowego;
+przedstawia propozycję interpretacji utworu, wskazuje w tekście miejsca, które mogą stanowić argumenty na poparcie jego propozycji interpretacyjnej, odwołuje się do znanych mu kontekstów, w tym – jeśli jest to uzasadnione – do kontekstu własnego doświadczenia życiowego lub lekturowego;
 wykorzystuje w interpretacji utworów literackich potrzebne konteksty, szczególnie kontekst historycznoliteracki, historyczny, polityczny, kulturowy, filozoficzny, biograficzny;
 określa w poznawanych utworach problematykę egzystencjalną i poddaje ją refleksji;
 określa obecne w utworach literackich wartości uniwersalne i narodowe: dobro, prawda, piękno, wiara, nadzieja, miłość, Bóg, honor, ojczyzna, wolność, niepodległość, solidarność, braterstwo, przyjaźń; określa ich rolę i związek z problematyką utworu oraz znaczenie dla budowania własnego systemu wartości;
@@ -852,7 +851,7 @@ Ignacy Krasicki, Hymn do miłości ojczyzny;
 Stanisław Staszic, Przestrogi dla Polski (fragmenty);
 *Adam Mickiewicz, Oda do młodości, wybrane ballady, w tym Romantyczność, wybrane sonety z cyklu Sonety krymskie oraz inne wiersze, Konrad Wallenrod (fragmenty), Dziady cz. IV (fragmenty), Dziady cz. III (fragmenty);
 Juliusz Słowacki, Kordian (fragmenty), wybrane wiersze, w tym Grób Agamemnona (fragmenty), Testament mój;
-Cyprian Norwid wybrane wiersze, w tym Fortepian Szopena;
+Cyprian Norwid – wybrane wiersze, w tym Fortepian Szopena;
 Aleksander Fredro, Śluby panieńskie;
 *Bolesław Prus, Lalka (fragmenty);
 *Henryk Sienkiewicz, Potop (fragmenty);
@@ -861,7 +860,7 @@ Adam Asnyk, wybór wierszy;
 Maria Konopnicka, wybór wierszy;
 wybrane wiersze następujących poetów: Jan Kasprowicz, Kazimierz Przerwa-Tetmajer, Leopold Staff;
 Stanisław Wyspiański, Wesele (fragmenty);
-*Władysław Stanisław Reymont, Chłopi, tom I Jesień (fragmenty);
+*Władysław Stanisław Reymont, Chłopi, tom I – Jesień (fragmenty);
 Stefan Żeromski, Rozdziobią nas kruki, wrony…, Przedwiośnie;
 Witold Gombrowicz, Ferdydurke (fragmenty);
 wybrane wiersze następujących poetów: Bolesław Leśmian, Julian Tuwim, Jan Lechoń, Maria Pawlikowska-Jasnorzewska, Kazimiera Iłłakowiczówna, Julian Przyboś, Tadeusz Peiper, Józef Czechowicz;
@@ -879,7 +878,7 @@ Antoni Libera, Madame;
 Andrzej Stasiuk, Miejsce (z tomu Opowieści galicyjskie);
 Olga Tokarczuk, Profesor Andrews;
 wybrane utwory okresu stanu wojennego;
-powojenna piosenka literacka wybrane utwory Ewy Demarczyk, Jacka Kaczmarskiego, Wojciecha Młynarskiego, Agnieszki Osieckiej oraz wybrane teksty Kabaretu Starszych Panów.
+powojenna piosenka literacka – wybrane utwory Ewy Demarczyk, Jacka Kaczmarskiego, Wojciecha Młynarskiego, Agnieszki Osieckiej oraz wybrane teksty Kabaretu Starszych Panów.
 Zalecane dzieła teatralne i filmowe: Apocalypsis cum figuris, reż. Jerzy Grotowski;
 Amadeusz, reż. Miloš Forman;
 Dekalog, reż. Krzysztof Kieślowski, wybrane filmy z cyklu;
@@ -925,14 +924,14 @@ Jednym z ważnych zadań edukacji polonistycznej na III etapie edukacyjnym jest 
 Kluczowe w tym zakresie jest rozwijanie kompetencji językowej jako podstawy rozumienia tekstów, wypowiadania się ustnie i pisemnie w różnych formach, umiejętnego argumentowania swoich sądów i przekonań. Kompetencje językowe warunkowane znajomością gramatyki języka, jego zasobu leksykalnego i stylistyki, stanowią podstawę do rozwijania kompetencji komunikacyjnych. Świadomość sytuacji, w której odbywa się komunikacja, świadomość reguł, których wymaga komunikowanie się z otaczającym światem, nie tylko reguł gramatycznych, także zasad kultury języka, to podstawowa dla człowieka umiejętność we współczesnym świecie. Dopełnieniem kompetencji komunikacyjnej jest znajomość i stosowanie zasad ortografii i interpunkcji. Rozwijanie kompetencji językowych i komunikacyjnych ucznia warunkuje zatem kształcenie odbioru tekstów oraz ich tworzenie.
 Ważną rolę w edukacji polonistycznej powinno spełnić samokształcenie rozumiane jako przygotowanie do edukacji ustawicznej, czyli wychowania człowieka charakteryzującego się twórczym i dynamicznym stosunkiem do życia i kultury.
 Obowiązkiem nauczyciela jest organizowanie wewnętrznej integracji wewnątrzprzedmiotowej, czyli łączenie kształcenia literackiego i kulturowego, językowego, tworzenia wypowiedzi oraz samokształcenia.
-WIEDZA O POLSCE (elementy historii, geografii, kultury) WIEDZA O POLSCE Klasy I IV Liceum ogólnokształcące Cele kształcenia wymagania ogólne w zakresie historii Polski i kultury Uczeń zdobywa usystematyzowaną wiedzę na temat historii Polski, kultury i społeczeństwa polskiego na przestrzeni od X wieku do czasów współczesnych, która pozwoli mu lepiej poznać historię Polski oraz dostrzec korzenie wielu współczesnych zjawisk politycznych, społecznych, gospodarczych i kulturowych.
+WIEDZA O POLSCE (elementy historii, geografii, kultury) WIEDZA O POLSCE Klasy I – IV Liceum ogólnokształcące Cele kształcenia – wymagania ogólne w zakresie historii Polski i kultury Uczeń zdobywa usystematyzowaną wiedzę na temat historii Polski, kultury i społeczeństwa polskiego na przestrzeni od X wieku do czasów współczesnych, która pozwoli mu lepiej poznać historię Polski oraz dostrzec korzenie wielu współczesnych zjawisk politycznych, społecznych, gospodarczych i kulturowych.
 Edukacja historyczna pełni ważne cele wychowawcze i umożliwia uczniowi:
 1) poznanie chronologii historycznej ważnych wydarzeń z dziejów narodu polskiego, by mógł krytycznie odnosić się do przeszłości, lepiej rozumieć teraźniejszość i odpowiedzialnie budować przyszłość, porządkować i synchronizować wydarzenia z dziejów ojczystych, dostrzegać zmienność i dynamikę wydarzeń, a także ciągłość procesów historycznych;
 2) kształtowanie zdolności humanistycznych poprzez analizę i interpretację historyczną wydarzeń, zjawisk i procesów historycznych, dostrzeganie zależności pomiędzy różnymi dziedzinami życia społecznego, rozpoznawanie rodzaju źródeł, ocenę ich przydatności do wyjaśnienia problemów społecznych i historycznych, dostrzeganie wielości perspektyw badawczych oraz wielorakie interpretacje historii i ich przyczyny;
 3) rozwijanie myślenia historycznego, umiejętności samodzielnego poszukiwania wiedzy i korzystania z różnorodnych źródeł informacji, tworzenie narracji historycznej, krytycznego formułowania i wypowiadania własnych opinii;
 4) rozbudzanie poczucia miłości do Polski przez szacunek i przywiązanie do tradycji i historii narodu polskiego oraz jego osiągnięć, kultury oraz języka polskiego;
 5) kształtowanie więzi z Polską, szacunku dla dziedzictwa narodowego, postaw obywatelskich, rozbudzanie zainteresowań przeszłością własną i swojej rodziny.
-Treści nauczania wymagania szczegółowe w zakresie historii oraz wiedzy o społeczeństwie
+Treści nauczania – wymagania szczegółowe w zakresie historii oraz wiedzy o społeczeństwie
 1. Polska w okresie wczesnopiastowskim.
 Uczeń:
 1) przedstawia przykłady osadnictwa na obszarach dzisiejszej Polski w okresie przedsłowiańskim i słowiańskim;
@@ -967,7 +966,7 @@ ocenia znaczenie włączenia ziem polskich do cywilizacyjnego kręgu świata zac
 identyfikuje dokonania kultury okresu polskiego średniowiecza;
 przedstawia osiągnięcia wybitnych twórców tego okresu.
 5. Rzeczpospolita w czasach demokracji szlacheckiej.
-Uczeń: opisuje zmiany terytorialne państwa polsko-litewskiego i charakteryzuje stosunki z sąsiadami w XVI w. Moskwą, Turcją i Zakonem Krzyżackim;
+Uczeń: opisuje zmiany terytorialne państwa polsko-litewskiego i charakteryzuje stosunki z sąsiadami w XVI w. – Moskwą, Turcją i Zakonem Krzyżackim;
 opisuje i wyjaśnia funkcjonowanie najważniejszych instytucji życia politycznego w XVIwiecznej Polsce, w tym sejmików, sejmu i senatu;
 charakteryzuje cele i dokonania ruchu egzekucyjnego;
 ocenia polską specyfikę w zakresie rozwiązań ustrojowych, struktury społecznej i modelu życia gospodarczego na tle europejskim oraz zestawia najważniejsze wydarzenia z dziejów Polski w XVI w. z wydarzeniami europejskimi;
@@ -1051,9 +1050,9 @@ Uczeń:
 5) ocenia znaczenie powstań narodowych dla kształtowania się nowoczesnego narodu polskiego, ukazuje odzwierciedlenie powstań w dokonaniach kultury.
 17. Ziemie polskie pod zaborami w II połowie XIX i na początku XX wieku.
 Uczeń:
-1) wyjaśnia i porównuje cele oraz metody działań zaborców wobec mieszkańców ziem dawnej Rzeczypospolitej (w tym ziem zabranych) rusyfikacja, germanizacja (w tym Kulturkampf), autonomia galicyjska;
+1) wyjaśnia i porównuje cele oraz metody działań zaborców wobec mieszkańców ziem dawnej Rzeczypospolitej (w tym ziem zabranych) – rusyfikacja, germanizacja (w tym Kulturkampf), autonomia galicyjska;
 2) wskazuje podobieństwa i różnice w rozwoju gospodarczym ziem polskich, analizuje strukturę społeczeństwa w trzech zaborach, wyjaśnia przyczyny procesów migracyjnych;
-3) rozróżnia postawy społeczeństwa polskiego w stosunku do zaborców trójlojalizm, praca organiczna, ruch spółdzielczy, wskazuje wybitnych przedstawicieli tych kierunków;
+3) rozróżnia postawy społeczeństwa polskiego w stosunku do zaborców – trójlojalizm, praca organiczna, ruch spółdzielczy, wskazuje wybitnych przedstawicieli tych kierunków;
 4) charakteryzuje proces formowania się nowoczesnej świadomości narodowej Polaków;
 dostrzega znaczenie języka, wiary, edukacji dla podtrzymania świadomości narodowej;
 5) omawia narodziny, działalność i porównuje programy nowoczesnych ruchów politycznych (socjalizm, ruch ludowy, ruch narodowy);

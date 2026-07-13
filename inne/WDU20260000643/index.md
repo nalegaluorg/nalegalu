@@ -29,7 +29,11 @@ source: pdf
 MINISTRA NAUKI Poz. 664433 I SZKOLNICTWA WYŻSZEGO z dnia 8 maja 2026 r.
 zmieniające ROZPORZĄDZENIE rozporządzenie w sprawie studiów MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO Na podstawie art. 81 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym z dnia 8 maja 2026 r.
 i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) zarządza się, co następuje: zmieniające rozporządzenie w sprawie studiów
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 27 września Na podstawie art. 81 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) zarządza 2018 się, r. co w następuje: sprawie studiów (Dz. U. z 2023 r. poz. 2787 oraz z 2025 r. poz. 1220) w załączniku
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 27 września Na podstawie art. 81 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) zarządza 2018 się, r. co w następuje: sprawie studiów (Dz. U. z 2023 r. poz. 2787 oraz z 2025 r. poz. 1220) w załączniku
+
+## Załącznik
+
 § 1. W rozporządzeniu nr 1 do Ministra rozporządzenia Nauki i Szkolnictwa część II otrzymuje Wyższego z brzmienie: dnia 27 września 2018 r. w sprawie studiów (Dz. U.
 z 2023 r. poz. 2787 oraz z 2025 r. poz. 1220) w załączniku nr 1 do rozporządzenia część II otrzymuje brzmienie: „II. Elektroniczna legitymacja studencka „II. Elektroniczna legitymacja studencka awers awers rewers Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – szkolnictwo wyższe i nauka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 stycznia 2025 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 68).
 Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 1871 i 1897, z 2025 r. poz. 619, 620, 621, 622, 1162, 1794, 1837 i 1864 oraz z 2026 r. poz. 187, 203, 328 i 370.

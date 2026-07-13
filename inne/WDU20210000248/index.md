@@ -6,31 +6,37 @@ publisher: DU
 year: 2021
 pos: 248
 act_type: Rozporządzenie
-status: obowiązujący
+status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 5 lutego 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 248 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 3 lutego 2021 r.
 
 | Pole | Wartość |
 |---|---|
 | Adres publikacyjny | Dz.U. 2021 poz. 248 |
 | ISAP | WDU20210000248 |
 | Typ aktu | Rozporządzenie |
-| Status | obowiązujący |
+| Status | akt posiada tekst jednolity |
 | W mocy | tak |
 | Data ogłoszenia | 2021-02-03 |
 | Data wydania | 2021-02-05 |
-| Ostatnia zmiana | 2025-12-12 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000248) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/248/text.pdf) |
 
-Poz. 248 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 3 lutego 2021 r.
 w sprawie nadania statutu Urzędowi Patentowemu Rzeczypospolitej Polskiej Na podstawie art. 260 ust. 2 ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2020 r.
-poz. 286, 288 i 1086) zarządza się, co następuje: § 1. Urzędowi Patentowemu Rzeczypospolitej Polskiej nadaje się statut stanowiący załącznik do rozporządzenia.
-§ 2. Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 7 czerwca 2004 r. w sprawie nadania statutu Urzędowi Patentowemu Rzeczypospolitej Polskiej (Dz. U. poz. 1484, z 2010 r. poz. 237 oraz z 2016 r. poz. 1450).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki § 1. Urząd Patentowy Rzeczypospolitej Polskiej, zwany dalej „Urzędem Patentowym”, działa na podstawie ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej, zwanej dalej „ustawą”, oraz niniejszego statutu.
+poz. 286, 288 i 1086) zarządza się, co następuje:
+
+**§ 1.** Urzędowi Patentowemu Rzeczypospolitej Polskiej nadaje się statut stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 7 czerwca 2004 r. w sprawie nadania statutu Urzędowi Patentowemu Rzeczypospolitej Polskiej (Dz. U. poz. 1484, z 2010 r. poz. 237 oraz z 2016 r. poz. 1450).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezes Rady Ministrów: M. Morawiecki STATUT URZĘDU PATENTOWEGO RZECZYPOSPOLITEJ POLSKIEJ
+
+## Załącznik
+
+§ 1. Urząd Patentowy Rzeczypospolitej Polskiej, zwany dalej „Urzędem Patentowym”, działa na podstawie ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej, zwanej dalej „ustawą”, oraz niniejszego statutu.
 § 2. 1. W skład Urzędu Patentowego wchodzą następujące komórki organizacyjne:
 1) Sekretariat Prezesa;
 2) Departament Zgłoszeń;

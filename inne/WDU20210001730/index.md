@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa Na podstawie art. 3 ust. 2 ustawy z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. z 2020 r.
 poz. 481) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 kwietnia 2017 r. w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. z 2018 r. poz. 2233 oraz z 2021 r. poz. 219) w załączniku do rozporządzenia w § 2:
-1) ust. 3 otrzymuje brzmienie: „3. W poszczególnych pionach wydziela się departamenty, biura, zespoły lub samodzielne stanowiska pracy oraz biura zagraniczne.”;
-2) dodaje się ust. 5 w brzmieniu: „5. Biura zagraniczne są komórkami organizacyjnymi Centrali prowadzonymi poza granicami kraju w celu wykonywania zadań ustawowych Krajowego Ośrodka.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: G. Puda
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 21 kwietnia 2017 r. w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa (Dz. U. z 2018 r. poz. 2233 oraz z 2021 r. poz. 219) w załączniku do rozporządzenia w § 2:
+
+- **1)** ust. 3 otrzymuje brzmienie: „3. W poszczególnych pionach wydziela się departamenty, biura, zespoły lub samodzielne stanowiska pracy oraz biura zagraniczne.”;
+- **2)** dodaje się ust. 5 w brzmieniu: „5. Biura zagraniczne są komórkami organizacyjnymi Centrali prowadzonymi poza granicami kraju w celu wykonywania zadań ustawowych Krajowego Ośrodka.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: G. Puda
 

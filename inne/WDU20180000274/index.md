@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000274) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/274/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ceremoniału składania ślubowania przez funkcjonariuszy Straży Granicznej Na podstawie art. 33 ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365 i 2405 oraz z 2018 r. poz. 106 i 138) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 28 maja 2002 r. w sprawie ceremoniału składania ślubowania przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 719 oraz z 2010 r. poz. 1696) wprowadza się następujące zmiany:
-1) w załączniku nr 1 do rozporządzenia pkt 3 otrzymuje brzmienie: „3. Funkcjonariusze składający ślubowanie i uczestniczący w ceremonii występują w umundurowaniu galowym, polowym albo służbowym.”;
-2) w załączniku nr 2 do rozporządzenia pkt 4 otrzymuje brzmienie: „4. Funkcjonariusze składający ślubowanie i uczestniczący w ceremonii występują w umundurowaniu galowym, polowym albo służbowym.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: J. Brudziński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 28 maja 2002 r. w sprawie ceremoniału składania ślubowania przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 719 oraz z 2010 r. poz. 1696) wprowadza się następujące zmiany:
+
+- **1)** w załączniku nr 1 do rozporządzenia pkt 3 otrzymuje brzmienie: „3. Funkcjonariusze składający ślubowanie i uczestniczący w ceremonii występują w umundurowaniu galowym, polowym albo służbowym.”;
+- **2)** w załączniku nr 2 do rozporządzenia pkt 4 otrzymuje brzmienie: „4. Funkcjonariusze składający ślubowanie i uczestniczący w ceremonii występują w umundurowaniu galowym, polowym albo służbowym.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: J. Brudziński
 

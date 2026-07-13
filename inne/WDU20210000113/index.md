@@ -31,7 +31,10 @@ poz. 1032).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 maja 2019 r. zmieniającego rozporządzenie w sprawie nadania osobowości prawnej Stowarzyszeniu Archiwistów Kościelnych z siedzibą w Katowicach (Dz. U. poz. 1032), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 1 lutego 2005 r.
 w sprawie nadania osobowości prawnej Stowarzyszeniu Archiwistów Kościelnych Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1347) zarządza się, co następuje:
-§ 1. Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Stowarzyszenie Archiwistów Kościelnych, erygowanej przez Konferencję Episkopatu Polski.
-§ 1a. Siedzibą Stowarzyszenia Archiwistów Kościelnych są Katowice.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Stowarzyszenie Archiwistów Kościelnych, erygowanej przez Konferencję Episkopatu Polski.
+
+**§ 1a.** Siedzibą Stowarzyszenia Archiwistów Kościelnych są Katowice.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

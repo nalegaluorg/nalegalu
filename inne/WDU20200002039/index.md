@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002039) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2039/text.pdf) |
 
 w sprawie zniesienia Pełnomocnika Rządu do spraw ekonomii społecznej i solidarnej Na podstawie art. 10 ust. 1 i 4 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171 oraz z 2020 r. poz. 568 i 695) zarządza się, co następuje:
-§ 1. Znosi się Pełnomocnika Rządu do spraw ekonomii społecznej i solidarnej.
-§ 2. Traci moc rozporządzenie Rady Ministrów z dnia 30 grudnia 2019 r. w sprawie ustanowienia Pełnomocnika Rządu do spraw ekonomii społecznej i solidarnej (Dz. U. z 2020 r. poz. 5).
-§ 3. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** Znosi się Pełnomocnika Rządu do spraw ekonomii społecznej i solidarnej.
+
+**§ 2.** Traci moc rozporządzenie Rady Ministrów z dnia 30 grudnia 2019 r. w sprawie ustanowienia Pełnomocnika Rządu do spraw ekonomii społecznej i solidarnej (Dz. U. z 2020 r. poz. 5).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 

@@ -8,10 +8,10 @@ pos: 177
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Ustawa z dnia 21 lipca 1983 r. o amnestii
+# \ t>z1en,nik Ustaw Nr 39 534 Poz. 177 UST A WA z, dnia '21 lipca 1983 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,110 +25,34 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830390177) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1983/177/text.pdf) |
 
-Sejm Polskiej Rzeczypospolitej Ludowej, kierując się zasadami humanizmu socjalistycznego i mając na uwadze:
-– postępującą normalizację życia społecznego i umocnienie się państwa socjalistycznego,
-– wzrost dyscypliny społecznej oraz polepszenie stanu bezpieczeństwa i porządku publicznego,
-w celu stworzenia warunków umożliwiających obywatelom, którzy z powodów politycznych albo nieumyślnie dopuścili się naruszeń porządku prawnego, włączenie się do czynnego udziału w życiu kraju i podstaw do wcześniejszego zwolnienia ze względu na wiek i warunki osobiste sprawców niektórych przestępstw stanowi, co następuje:
+o amnestII.
+Sejm Rzeczypospolitej, Ludowej, z sasadami humanizmu socjalistycznego i na uwadze: w stanie - umoc- Art. 1. Jeżeli sprawca. któremu do dnia -zniesienia nienie się państwa socjalistycznego, ' stanu wojennego nie przedstawiono zarzutów o - wzrost dyscypliny 'Oraz polepszenie stwo wart. ustawy lub w rozdziale XIX Ko-, stanu bezpieczeństwa " i yorządku pubłiczn~go, ' deksu. karnego. z w celu stworzenia warunkó,'}V u!pożliwiając;y<;h obywa te. wart. '134 lub 135, albo wart. 254 w z art.
+l()m, którzy z powodów politycznych albo 122-124 i art. 12fi.c-128' Kodeksu karnego. dobrowolnie prawnego, do dnia 31 19B3 r. do organu po dO czynnego w kraju i podstaw do do albo do polskiego niejszego zwolnienia ze, na wrek warunki oso przedstawicielstwa dyplomatycznego lub biste sprawców niektórych stanowi'; co na nego oświadczy do protokołu, ze zaniecha przestę(ic~ej oraz ujawni rodzaj czynu; czas
 
-**Art. 1.** Amnestię stosuje się do popełnionych przed dniem zniesienia stanu wojennego:
+**Art. 1.** miejsce jego - - karnego !fil! Amnestię do przed wszczyna a, umarza, dniem zniesieni,a stanu wojennego: przeciwko prawnemu slanu Art. 3. l. W sprawach o wymienione wojennego, wart. 46 i z dnia wart. L przez kobiety oraz przez sprawców, 12 grudnia 1981r. o stante wojennym (Dz. U. Nr 29, którzy w' chwili czynu nie lat ,21, orzeczon"! prawomocnie kary zasadnicze i dodatkowe, nie poz. 154 i z 1982 r. Nr 3, poz. oraz arL 256 257 grzywny, oraz koszty daruje w Kodeksu karnego w z art. ust. tego dekretu, 2. jedriak wykonaniu prawomocne orze z czeniao przepadku rzeczy, degladacji i stopnia w arL 303, 304, 2 oraz 3, z wy wojskowego. i ym padku lub dokonania ucieczki za 3. W .sprawach, o których mowa w 'ust. L • art. 305, 306 i 309 Kodeksu· karnego, waniekarne umarza W takim wypadku orzeka z powodów politycznych przepadek i innych przedmiotów, które albo w ze strajkiem lub lub przeznaczone do tak
 
-**Art. 2.** Jeżeli sprawca, któremu do dnia zniesienia stanu wojennego nie przedstawiono zarzutów o przestępstwo określone w art. 1 ustawy lub w rozdziale XIX Kodeksu karnego, z wyjątkiem przestępstwa określonego w art. 134 lub 135, albo w art. 254 w związku z art. 122–124 i art. 126–128 Kodeksu karnego, dobrowolnie zgłosi się do dnia 31 października 1983 r. do organu powołanego do ścigania przestępstw albo do polskiego przedstawicielstwa dyplomatycznego lub urzędu konsularnego i oświadczy do protokołu, że zaniecha przestępczej działalności oraz ujawni rodzaj popełnionego czynu, czas i miejsce jego popełnienia – postępowania karnego nie wszczyna się, a wszczęte umarza.
+art. i 167 art. 171 oraz art. 4. Przepisy ust. 1-3 stosuje odpowiednio, razie Kodeksu karnego, - , gdy darowanie kary nie z powodu jej wyko· nych 'wart. 178 1 i 2, art. 181 art. 182 1 Art. 4. 'L W sprawach _o wymienione Kodeksu ka mego, - wart. przez sprawców innych art. ,196 i 197 Kodeksu karnego, prawomocnie orzeczone pozbawienia przeciwko mieniu, wart. 212 L do lat 3 lub kar,y oraz dodatko art. '114 1 i 'art. 220 KOfleksu karnego, we - daruje przeciwko instytucji pdnstwowych -ispolecznych, w ,art. 233 i 234 2) prawomocnIe kar'y pozbawie.nia oraz art. 235-'237 Kodeksu ' . lat 3 przeciwko, 2. sprawach o o których mowa w wart. art. nJ i 273 1 I ust. umarza jezeli ·z· z. art.. 270 lub art. art. 275 art. sprawy 'wynika, ze za nie orzec która 3, art 278§ orwI. art. 279-2R2a, darowaniu.
 
-**Art. 3.**
+- **a)** przeciwko zdrowiu,. 'wart. 156 1 przed.miotów luh i 2, art. 158 1 i art. 160 Kodeksu karnego, z' jak przedmiotów, których posia przeciwko w arL 165 danie jest za-kazane lub wymaga zezwolenia.
+- **c)** przeciwko czci cielesnej, nania.
+- **d)** przeciwk'o praktykom religijnym, w wart.
 
-1. W sprawach o przestępstwa wymienione w art. 1, popełnione przez kobiety oraz przez sprawców, którzy w chwili czynu nie ukończyli lat 21, orzeczone prawomocnie kary zasadnicze i dodatkowe, nie ściągnięte grzywny, opłaty oraz koszty sądowe daruje się w całości.
+285. 287 2 Kodeksu karnegn, W wypadkach, o których mowa w ust. 1 pkt w dekretu / dnia lipca ,i 2,. przepisy art. stosuje bdpowie9nio. 1946 r _ o utwor.zeni,u Kómtroli Art. 5. W szczególnie uzasadnionych wypadkach Prasy. Publikacji i _W idowisk, Nr 34, Najwyzszy, na 'wniosE'k Prokuratora Generalnego Polskiej poz. 210, 1948 Nr 3f;. poz. 257, z 1!:J52 Nr 19, RzeczypospolItej Ludowej, JOoze poz. 114, z 1953 Nr 49, poz. 21 z '1981 o o którym mówa w dCt. poz. 99i z :okoliczności sprawy wynikało, źe należałoby za rii~ • wystepkó,w, ·pope.J"lOnych straj or/zec 73 lat pozhawienia o prze kom JuIJf'k(;jom ,protestacYJn'lm -albo innym zbioro w XIX Kodeksu karnego. wYm n:,; IJszeniom: i porz"dku publicz z. 'IV art. 134 i 135, nego l.iOWcid6wpolitycznych, a o - przed dniem Ustaw Nr 39 - 535 Poz. 111 zniesienia stanu wojennego. albo prawomocnie Art. 8. Przebacza i puszcza w wykro za takie czenia przed dniem zniesienia stanu wojenne go z powodów politycznych lub na tle konfliktów spo Art., 6. W sprawach o a nie wykonane kary - daruje przed dniem stanu wojennego. inne okre w' art. warunkowe przedterminowe zwolnienie Art. razie zbiegu pod odbyciu kary. amnestii, stosuje dó kazdego ze liprawca:. cych zbiegu podle nad dzieckiem do lat 16, do której wykonywania Po zastosbwaniu amnestii w potrzeby rodzice. ka na ogólnych
 
-2. Podlegają jednak wykonaniu prawomocne orzeczenie o przepadku rzeczy, degradacji i obniżeniu stopnia wojskowego, nawiązce i zasądzonym odszkodowaniu.
+- **l)** - kobieta 50. a '60 lat. albo amnestii z innym stosuje do dnia ustawy sam pie do amnestii.
 
-3. W sprawach, o których mowa w ust. 1, postępowanie karne umarza się. W takim wypadku orzeka się przepadek narzędzi i innych przedmiotów, które służyły lub były przeznaczone do popełnienia przestępstwa, a także przedmiotów pochodzących bezpośrednio lub pośrednio z przestępstwa, jak również przedmiotów, których posiadanie jest zakazane lub wymaga zezwolenia.
+2. Przepisu ust. 'I nie stosuje się: . Art. 10. Do kar w drodze do zbrodni wart. pkt dekretu z dnia amne;tii l~b łask'i st6s'uje się przepisy ustawy, biorąc za 31 sierpnia 1944 r. o wymiarze kary dla faszystowsko-' Okres próby wyinaczony -hitlerowskich zbrodniarzy' winnych zabójstw i indywidualnym aktem s,kraca do dnia grudnia cania nad i oraz dla 1985 r, ., zdraJCÓW Narodu: Polskiego (Dz. U. z 1946r. Nr 69, poz. 377. z 1947 r. Nr 65, poz. 390, z 1948. r. Nr .18, w drodze amnestii lub laski je poz. 124 i z 1949 r. Nr 32. poz. 238) oraz do innych dynie kary wymierzone za po zbrodni wojennych i zbrodni przeciwko ' szczególne zostaly do zbrodni wart. 122. 123; 124, 126. 127. kary 119, 130 i 131 Kodeksu karnego. do okre n. stosuje do rozpowart. 125 w z alt, 122-124' oraz znania danej sprawy. " ' . 128 w z art. 122-124 i 127 Kodeksu W karnego, jak do w "2. pbslępowaniu przygotowawczym amnestię sto art. 129 w z tymi przepisami. suje prokurator, orzeka na wniosek proku do zbrodni zabójstwa wart. 148 Ko ratora o na po<1staw:ie' art. 3 deksu karnego, ust. art. 4 ust. 2. .4) do zbrodni wart. 134 i 135 Kodeksu kar J. W sprawach o wykroczenia' stosuje ko nego oraz wart. 201 2 tego Kodeksu, legium do spraw . . mienie znacznej jak do 4. W stosunku. do osób pozba osób lub wykonaniem wienia wolności i karę" aresztu,' jeżeli liie za'chodzi po przez inne osoby na za trzeba orzeczenia kary' stosuje wo mienia w porozumieniu z inny jewódzki, w którego skazany odbywa a w mi osobami, bez na wojskowych - wojsko szkody. • . wy; orzeka na posiedzeniu w jednego
 
-4. Przepisy ust. 1–3 stosuje się odpowiednio, w razie gdy darowanie kary nie następuje z powodu jej wykonania
+- **5)** do i protekcji ok re dziego. ych wart. i 3 i 4 Kodeksu kar nego. wart. 242 w z tymi przepisami oraz 12. 1. Orzeczenia w przedmiocie amnestii zapa wart. 244 Kodeksu karnego, w formie chyba zastoso do wart. wano w wyroku; w sprawai:h. rozpoznawanych 'na rozpra Kodeksu karnego, wie o umorzeniu darowaniu lub zlagodze do o charakterze albo po niu kary orzeka w wyroku. w stanie 2.' Na postanowienie w , przedmiocie atnnestii przy
+- **8)** do wart. 208 Kodeksu kar W wypadkach• . o których mowa w nego. oraz do i art. ust. 4, roz.poznaje wojewódzki lllb, bójniCzego wart. 210 i 211 Kodeksu . wojskowy. w trzech karneg.o,
+- **9)** do gospodarczych w roz Art. 13. W wypadkach, o których mowa wart. 7, dziale XXX Kodeksu karnego i do okre orzeka organ do rozpoznania sprawy, której . w ustawie z dnia 25 1981 o zwal na podstawie amnestii darowano a umorzono czaniu spekulacji (Dz. U. z 1982 r. Nr' 36, poz. 243). - organ, który
 
-**Art. 4.**
+1. razie przez- prze 2. orzek,,] rnd posiedzeniu, do którego zastosowano w okresie do 'Zastosowano w wyroku. dnia 31 grudnia 1985 r. nowego 3. Na postanowienie podobnego. za które orzeczono pozbawienia wol wydane orzeczenie o zastosowaniu amnestii ulega Art. w sprawach amnestii prowadzi ucbyleniu; w takim --wypadku kaine podej zgodnie z przepisami w muje darowane lub kary wy przed organem, któ,ry je prowadzi. jezeJi przepisy niniej konaniu odpowiednio w lub w nie uiszczo- szej ustawy nie inaczej. ne opłaty i koszty sądowe ulegają ŚCiągnięciu. - Art. 15. Przy zwalnianiu z karnych
 
-1. W sprawach o przestępstwa wymienione w art. 1, popełnione przez sprawców innych niż określeni w art. 3:
+2. Organ jest i aresztów na podstawie amnestii' w pierwszej z -amnestii o przepisu ust. l; kolejności podl~gają .zwoln.ieniu odbywający kar!! aresztu, pouczenia do ,osoba ta ' potwierdza pozbawienia - kobiety mh:idociani oraz w protokole podpisem. osoby tymczasowo a·reszlowane. " / Dziennik Ustaw Nr 39 - 536 Poz. 177,.1 178 l. Zwolnienie osób pozbawionych powinno tej Ludowej przepisy do wy nie w 30 dni od dnia kónania ustawy. w ustawy.
 
-- **1)** prawomocnie orzeczone kary pozbawienia wolności do lat 3 lub kary łagodniejsze oraz kary dodatkowe – daruje się,
-- **2)** prawomocnie orzeczone kary pozbawienia wolności powyżej lat 3 – łagodzi się o połowę.
+**Art. 17.** Ustawa wchodzi w z dniem Art. '16. Ministrowie: Obrony Narodowej: Pracy, Plac l SprawSocjat'nych. i Spraw .ych oraz Prokurator Generalny Polskiej Rzeczypospoli- SekretarzrRady Pdllstwa: 178 UCHW AtA RADY z dnia 20 lipca 1983 r. w sprawie zniesienia stanu wojennego. W z celów. jakie ,jenny wprowadzony ze na pali wprowadzeniu. a, zawieszeniu stanu wójennego. stwa z dniem 13 grudnia 1981 r. co w uzyskaniu stabilizacji poli 2. moc: oraz poprawy stanu i publicznego w kraju, pod l) Rady z dnia. 12 grudnia "1981 r. atawie aft. 33 ust. 2 Konstytucji Polskiej Rzeczypospolitej w sprawie wprowadzenia stanu wojennego ze LUdowej (Dz'. U. z 1976 Nr 7. poz. 36 z du na (Dz. U. Nr 29. poz. 15S lDIliana.mi) oraz w z art. 2 ust. l ' dekretu z dnia i z 1982 r. Nr 42, poz. 276). ' 12 grudnia. 1981 t. o stanie wojennym (Dz. U. Nr 29. 2) uchwala Rady z dnia 19 grudnia 1982 r. 154 i z 1982 r. Nr 3. poz. 18) Rada Pallstwa uchwala. w spra,wie zawieszenia stanu wojennego (Dz. U. Nr 42. ' poz. 275).
 
-2. W sprawach o przestępstwa, o których mowa w ust. 1, postępowanie umarza się, jeżeli z okoliczności sprawy wynika, że należałoby za nie orzec karę, która uległaby darowaniu.
+§ 3. Uchwala wchodzi w z dniem t 1. Zno.si z dniem' 22 lipca 1983 na t.rytorium Polskiej Rzeczypospolitej Ludowej stan wo- Rady s, Zam. 07U9-1300-83. l.ena '16,()()
 
-3. W wypadkach, o których mowa w ust. 1 pkt 1 i ust. 2, przepisy art. 3 stosuje się odpowiednio
-
-**Art. 5.** W szczególnie uzasadnionych wypadkach Sąd Najwyższy, na wniosek Prokuratora Generalnego Polskiej Rzeczypospolitej Ludowej, może umorzyć postępowanie o przestępstwo, o którym mowa w art. 1, choćby z okoliczności sprawy wynikało, że należałoby za nie orzec karę powyżej 3 lat pozbawienia wolności, o przestępstwo określone w rozdziale XIX Kodeksu karnego, z wyjątkiem przestępstwa określonego w art. 134 i 135, a także o inne przestępstwo – popełnione przed dniem zniesienia stanu wojennego, albo darować prawomocnie orzeczoną karę za takie przestępstwo.
-
-**Art. 6.**
-
-1. W sprawach o przestępstwa popełnione przed dniem zniesienia stanu wojennego, inne niż określone w art. 1, warunkowe przedterminowe zwolnienie może nastąpić już pod odbyciu połowy kary, jeżeli sprawca:
-
-- **1)** ukończył – kobieta 50, a mężczyzna 60 lat, albo
-- **2)** do dnia wejścia w życie ustawy sprawował sam pieczę nad dzieckiem do lat 16, do której wykonywania są obowiązani rodzice.
-
-2. Przepisu ust. 1 nie stosuje się:
-
-- **1)** do zbrodni określonej w art. 1 pkt 1 dekretu z dnia 31 sierpnia 1944 r. o wymiarze kary dla faszystowsko-hitlerowskich zbrodniarzy winnych zabójstw i znęcania się nad ludnością cywilną i jeńcami oraz dla zdrajców Narodu Polskiego (Dz. U. z 1946 r. Nr 69, poz. 377, z 1947 r. Nr 65, poz. 390, z 1948 r. Nr 18, poz. 124 i z 1949 r. Nr 32, poz. 238) oraz do innych zbrodni wojennych i zbrodni przeciwko ludzkości,
-- **2)** do zbrodni określonych w art. 122, 123, 124, 126, 127, 129, 130 i 131 Kodeksu karnego, do przestępstw określonych w art. 125 w związku z art. 122–124 oraz 128 § 1 w związku z art. 122–124 i 127 Kodeksu karnego, jak również do przestępstw określonych w art. 129 w związku z tymi przepisami,
-- **3)** do zbrodni zabójstwa określonej w art. 148 § 1 Kodeksu karnego,
-- **4)** do zbrodni określonych w art. 134 i 135 Kodeksu karnego oraz w art. 201 i 202 § 2 tego Kodeksu, jeżeli zagarnięto mienie znacznej wartości, jak również do osób organizujących lub kierujących wykonaniem przez inne osoby przestępstwa polegającego na zagarnięciu mienia społecznego w porozumieniu z innymi osobami, bez względu na wysokość wyrządzonej szkody,
-- **5)** do przestępstw łapownictwa i płatnej protekcji określonych w art. 239, 240 i 241 § 1, 3 i 4 Kodeksu karnego, w art. 242 w związku z tymi przepisami oraz w art. 244 Kodeksu karnego,
-- **6)** do przestępstw zgwałcenia określonych w art. 168 Kodeksu karnego,
-- **7)** do przestępstw o charakterze chuligańskim albo popełnionych w stanie nietrzeźwości,
-- **8)** do przestępstw określonych w art. 208 Kodeksu karnego oraz do przestępstw rozboju i wymuszenia rozbójniczego określonych w art. 210 i 211 Kodeksu karnego,
-- **9)** do przestępstw gospodarczych określonych w rozdziale XXX Kodeksu karnego i do przestępstw określonych w ustawie z dnia 25 września 1981 r. o zwalczaniu spekulacji (Dz. U. z 1982 r. Nr 36, poz. 243).
-
-**Art. 7.**
-
-1. W razie popełnienia przez sprawcę przestępstwa, do którego zastosowano amnestię, w okresie do dnia 31 grudnia 1985 r. nowego umyślnego przestępstwa podobnego, za które orzeczono karę pozbawienia wolności, wydane orzeczenie o zastosowaniu amnestii ulega uchyleniu; w takim wypadku postępowanie karne podejmuje się, darowane lub złagodzone kary podlegają wykonaniu odpowiednio w całości lub w części, nie uiszczone opłaty i koszty sądowe ulegają ściągnięciu.
-
-2. Organ stosujący amnestię jest obowiązany pouczyć osobę korzystającą z amnestii o treści przepisu ust. 1; przyjęcie pouczenia do wiadomości osoba ta potwierdza w protokole własnoręcznym podpisem.
-
-**Art. 8.** Przebacza się i puszcza w niepamięć wykroczenia popełnione przed dniem zniesienia stanu wojennego z powodów politycznych lub na tle konfliktów społecznych, a nie wykonane kary – daruje się.
-
-**Art. 9.**
-
-1. W razie zbiegu przestępstw podlegających amnestii, stosuje się amnestię do każdego ze zbiegających się przestępstw. W razie zbiegu przestępstwa podlegającego amnestii z innym przestępstwem, stosuje się amnestię do przestępstwa podlegającego amnestii.
-
-2. Po zastosowaniu amnestii w miarę potrzeby orzeka się karę łączną na ogólnych zasadach.
-
-**Art. 10.**
-
-1. Do kar już złagodzonych w drodze amnestii lub łaski stosuje się przepisy ustawy, biorąc za podstawę karę złagodzoną. Okres próby wyznaczony indywidualnym aktem łaski skraca się do dnia 31 grudnia 1985 r.
-
-2. Jeżeli w drodze amnestii lub łaski złagodzono jedynie karę łączną, uważa się, że kary wymierzone za poszczególne zbiegające się przestępstwa zostały złagodzone do wysokości złagodzonej kary łącznej.
-
-**Art. 11.**
-
-1. Amnestię stosuje sąd właściwy do rozpoznania danej sprawy.
-
-2. W postępowaniu przygotowawczym amnestię stosuje prokurator, jednakże sąd orzeka na wniosek prokuratora o umorzeniu postępowania na podstawie art. 3 ust. 3 i art. 4 ust. 2.
-
-3. W sprawach o wykroczenia amnestię stosuje kolegium do spraw wykroczeń.
-
-4. W stosunku do osób odbywających karę pozbawienia wolności i karę aresztu, jeżeli nie zachodzi potrzeba orzeczenia kary łącznej, amnestię stosuje sąd wojewódzki, w którego okręgu skazany odbywa karę, a w zakresie właściwości sądów wojskowych – sąd wojskowy; sąd orzeka na posiedzeniu w składzie jednego sędziego.
-
-**Art. 12.**
-
-1. Orzeczenia w przedmiocie amnestii zapadają w formie postanowień, chyba że amnestię zastosowano w wyroku; w sprawach rozpoznawanych na rozprawie o umorzeniu postępowania, darowaniu lub złagodzeniu kary orzeka się w wyroku.
-
-2. Na postanowienie w przedmiocie amnestii przysługuje zażalenie. W wypadkach, o których mowa w art. 11 ust. 4, zażalenie rozpoznaje sąd wojewódzki lub sąd wojskowy w składzie trzech sędziów.
-
-**Art. 13.**
-
-1. W wypadkach, o których mowa w art. 7, orzeka organ właściwy do rozpoznania sprawy, w której na podstawie amnestii darowano karę, a jeżeli umorzono postępowanie – organ, który je umorzył.
-
-2. Sąd orzeka na posiedzeniu, chociażby amnestię zastosowano w wyroku.
-
-3. Na postanowienie przysługuje zażalenie.
-
-**Art. 14.** Postępowanie w sprawach amnestii prowadzi się zgodnie z przepisami obowiązującymi w postępowaniu przed organem, który je prowadzi, jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
-
-**Art. 15.**
-
-1. Przy zwalnianiu z zakładów karnych i aresztów śledczych na podstawie amnestii w pierwszej kolejności podlegają zwolnieniu odbywający karę aresztu, karę pozbawienia wolności – kobiety i młodociani oraz osoby tymczasowo aresztowane.
-
-2. Zwolnienie osób pozbawionych wolności powinno nastąpić nie później niż w ciągu 30 dni od dnia wejścia w życie ustawy.
-
-**Art. 16.** Ministrowie: Obrony Narodowej, Pracy, Płac i Spraw Socjalnych, Sprawiedliwości i Spraw Wewnętrznych oraz Prokurator Generalny Polskiej Rzeczypospolitej Ludowej mogą wydawać przepisy niezbędne do wykonania ustawy.
-
-**Art. 17.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

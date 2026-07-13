@@ -27,12 +27,15 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wzorów protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji Na podstawie art. 30 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2018 r.
 poz. 1984 oraz z 2019 r. poz. 730) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 17 lutego 2015 r. w sprawie wzorów protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji (Dz. U. poz. 247):
-1) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
-2) załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
-§ 2. Protokoły z kontroli systemu ogrzewania lub systemu klimatyzacji sporządzone przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność do terminu następnej kontroli wskazanej w tych protokołach.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Inwestycji i Rozwoju: J. Kwieciński Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 17 lutego 2015 r. w sprawie wzorów protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji (Dz. U. poz. 247):
+
+- **1)** załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+- **2)** załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
+
+**§ 2.** Protokoły z kontroli systemu ogrzewania lub systemu klimatyzacji sporządzone przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność do terminu następnej kontroli wskazanej w tych protokołach.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Inwestycji i Rozwoju: J. Kwieciński Minister Inwestycji i Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Inwestycji i Rozwoju (Dz. U. poz. 94 i 175).
 
 ## Załączniki do rozporządzenia Ministra Inwestycji i Rozwoju z dnia 6 września 2019 r. (poz.
 

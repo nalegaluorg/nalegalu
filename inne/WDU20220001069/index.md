@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych Na podstawie art. 44zq ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2021 r. poz. 1915 oraz z 2022 r.
 poz. 583) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 28 sierpnia 2019 r. w sprawie oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych (Dz. U. poz. 1674 oraz z 2021 r. poz. 2147) w § 2 w pkt 2:
-1) lit. a otrzymuje brzmienie: „a) w ogólnokształcącej szkole muzycznej I stopnia: – w klasach I–VI – instrument główny, – w klasach VII i VIII – instrument główny albo rytmikę,”;
-2) po lit. a dodaje się lit. aa w brzmieniu: „aa) w szkole muzycznej I stopnia – instrument główny,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 28 sierpnia 2019 r. w sprawie oceniania, klasyfikowania i promowania uczniów w publicznych szkołach artystycznych (Dz. U. poz. 1674 oraz z 2021 r. poz. 2147) w § 2 w pkt 2:
+
+- **1)** lit. a otrzymuje brzmienie: „a) w ogólnokształcącej szkole muzycznej I stopnia: – w klasach I–VI – instrument główny, – w klasach VII i VIII – instrument główny albo rytmikę,”;
+- **2)** po lit. a dodaje się lit. aa w brzmieniu: „aa) w szkole muzycznej I stopnia – instrument główny,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 września 2022 r. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

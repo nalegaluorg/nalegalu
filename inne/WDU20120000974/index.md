@@ -8,10 +8,10 @@ pos: 974
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 sierpnia 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 974 ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 14 sierpnia 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,61 +25,113 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-11-29 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000974) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/974/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 14 sierpnia 2012 r.
-w sprawie świadectwa dopuszczenia statku ADN Na podstawie art. 63 ust. 2 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. Nr 227, poz. 1367 i Nr 244, poz. 1454) zarządza się, co następuje: § 1. 1. Rozporządzenie określa:
-1) szczegółowe warunki i tryb wydawania i przedłużania terminu ważności świadectwa dopuszczenia statku ADN do przewozu niektórych towarów niebezpiecznych, zwanego dalej „świadectwem dopuszczenia statku ADN”, i wydawania tymczasowego świadectwa dopuszczenia statku ADN do przewozu towarów niebezpiecznych, zwanego dalej „tymczasowym świadectwem”, oraz wydawania ich wtórników;
-2) wzór i sposób wypełniania świadectwa dopuszczenia statku ADN i tymczasowego świadectwa;
-3) wysokość opłaty za wydanie świadectwa dopuszczenia statku ADN, wydanie tymczasowego świadectwa, przedłużenie terminu ważności świadectwa dopuszczenia statku ADN oraz wydanie wtórników tych świadectw.
+w sprawie świadectwa dopuszczenia statku ADN Na podstawie art. 63 ust. 2 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. Nr 227, poz. 1367 i Nr 244, poz. 1454) zarządza się, co następuje:
+
+**§ 1.**
+
+1. Rozporządzenie określa:
+
+- **1)** szczegółowe warunki i tryb wydawania i przedłużania terminu ważności świadectwa dopuszczenia statku ADN do przewozu niektórych towarów niebezpiecznych, zwanego dalej „świadectwem dopuszczenia statku ADN”, i wydawania tymczasowego świadectwa dopuszczenia statku ADN do przewozu towarów niebezpiecznych, zwanego dalej „tymczasowym świadectwem”, oraz wydawania ich wtórników;
+- **2)** wzór i sposób wypełniania świadectwa dopuszczenia statku ADN i tymczasowego świadectwa;
+- **3)** wysokość opłaty za wydanie świadectwa dopuszczenia statku ADN, wydanie tymczasowego świadectwa, przedłużenie terminu ważności świadectwa dopuszczenia statku ADN oraz wydanie wtórników tych świadectw.
+
 2. Przepisów rozporządzenia nie stosuje się do przewozu towarów niebezpiecznych stanowiących zapasy i wyposażenie statku.
-§ 2. 1. Świadectwo dopuszczenia statku ADN jest wydawane na wniosek armatora statku lub jego przedstawiciela na podstawie protokołu z przeprowadzonego badania, o którym mowa w art. 62 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych, zwanej dalej „ustawą”, oraz protokołu z inspekcji, o której mowa w art. 62 ust. 3 ustawy.
+
+**§ 2.**
+
+1. Świadectwo dopuszczenia statku ADN jest wydawane na wniosek armatora statku lub jego przedstawiciela na podstawie protokołu z przeprowadzonego badania, o którym mowa w art. 62 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych, zwanej dalej „ustawą”, oraz protokołu z inspekcji, o której mowa w art. 62 ust. 3 ustawy.
+
 2. Do wniosku, o którym mowa w ust. 1, dołącza się:
-1) ważny dokument dopuszczający statek do żeglugi w rozumieniu art. 5 ust. 1 pkt 11 ustawy z dnia 21 grudnia 2000 r.
-o żegludze śródlądowej (Dz. U. z 2006 r. Nr 123, poz. 857, z późn. zm. );
-2) potwierdzenie wniesienia opłaty, o której mowa w § 11 ust. 1.
+
+- **1)** ważny dokument dopuszczający statek do żeglugi w rozumieniu art. 5 ust. 1 pkt 11 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2006 r. Nr 123, poz. 857, z późn. zm. );
+- **2)** potwierdzenie wniesienia opłaty, o której mowa w § 11 ust. 1.
+
 3. Świadectwo dopuszczenia statku ADN wydaje dyrektor urzędu żeglugi śródlądowej właściwy terytorialnie dla miejsca:
-1) wpisu statku do rejestru administracyjnego polskich statków żeglugi śródlądowej w przypadku statku polskiego;
-2) przekroczenia granicy Rzeczypospolitej Polskiej w przypadku statku państwa obcego, z którym to państwem Rzeczpospolita Polska nie zawarła umowy w zakresie wzajemnego uznawania dokumentów dopuszczenia do przewozu towarów niebezpiecznych.
-Minister Transportu, Budownictwa i Gospodarki Morskiej kieruje działem administracji rządowej transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Transportu, Budownictwa i Gospodarki Morskiej (Dz. U. Nr 248, poz. 1494).
-Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 123, poz. 846 i Nr 176, poz. 1238, z 2008 r.
-Nr 171, poz. 1057, z 2009 r. Nr 98, poz. 818, z 2010 r. Nr 127, poz. 857 i Nr 182, poz. 1228 oraz z 2011 r. Nr 106, poz. 622, Nr 168, § 3. 1. Tymczasowe świadectwo jest wydawane przez dyrektora urzędu żeglugi śródlądowej na wniosek armatora statku lub jego przedstawiciela.
+
+- **1)** wpisu statku do rejestru administracyjnego polskich statków żeglugi śródlądowej – w przypadku statku polskiego;
+- **2)** przekroczenia granicy Rzeczypospolitej Polskiej – w przypadku statku państwa obcego, z którym to państwem Rzeczpospolita Polska nie zawarła umowy w zakresie wzajemnego uznawania dokumentów dopuszczenia do przewozu towarów niebezpiecznych. Minister Transportu, Budownictwa i Gospodarki Morskiej kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Transportu, Budownictwa i Gospodarki Morskiej (Dz. U. Nr 248, poz. 1494). Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 123, poz. 846 i Nr 176, poz. 1238, z 2008 r. Nr 171, poz. 1057, z 2009 r. Nr 98, poz. 818, z 2010 r. Nr 127, poz. 857 i Nr 182, poz. 1228 oraz z 2011 r. Nr 106, poz. 622, Nr 168, poz. 1003, Nr 171, poz. 1016, Nr 222, poz. 1326 i Nr 227, poz. 1367.
+
+**§ 3.**
+
+1. Tymczasowe świadectwo jest wydawane przez dyrektora urzędu żeglugi śródlądowej na wniosek armatora statku lub jego przedstawiciela.
+
 2. Do wniosku, o którym mowa w ust. 1, dołącza się:
-1) ważny dokument dopuszczający statek do żeglugi w rozumieniu art. 5 ust. 1 pkt 11 ustawy z dnia 21 grudnia 2000 r.
-o żegludze śródlądowej;
-2) potwierdzenie wniesienia opłaty, o której mowa w § 11 ust. 2.
-§ 4. 1. W przypadku zmiany nazwy lub numeru rejestracyjnego statku armator statku lub jego przedstawiciel zwraca się do dyrektora urzędu żeglugi śródlądowej, który wydał świadectwo dopuszczenia statku ADN, z wnioskiem o wydanie nowego świadectwa dopuszczenia statku ADN.
+
+- **1)** ważny dokument dopuszczający statek do żeglugi w rozumieniu art. 5 ust. 1 pkt 11 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej;
+- **2)** potwierdzenie wniesienia opłaty, o której mowa w § 11 ust. 2.
+
+**§ 4.**
+
+1. W przypadku zmiany nazwy lub numeru rejestracyjnego statku armator statku lub jego przedstawiciel zwraca się do dyrektora urzędu żeglugi śródlądowej, który wydał świadectwo dopuszczenia statku ADN, z wnioskiem o wydanie nowego świadectwa dopuszczenia statku ADN.
+
 2. Do wniosku, o którym mowa w ust. 1, dołącza się:
-1) ważny dokument dopuszczający statek do żeglugi w rozumieniu art. 5 ust. 1 pkt 11 ustawy z dnia 21 grudnia 2000 r.
-o żegludze śródlądowej;
-2) potwierdzenie wniesienia opłaty, o której mowa w § 11 ust. 1;
-3) oryginał lub poświadczoną za zgodność z oryginałem kopię świadectwa dopuszczenia statku ADN.
+
+- **1)** ważny dokument dopuszczający statek do żeglugi w rozumieniu art. 5 ust. 1 pkt 11 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej;
+- **2)** potwierdzenie wniesienia opłaty, o której mowa w § 11 ust. 1;
+- **3)** oryginał lub poświadczoną za zgodność z oryginałem kopię świadectwa dopuszczenia statku ADN.
+
 3. W przypadku zmiany nazwy lub numeru rejestracyjnego statku dyrektor urzędu żeglugi śródlądowej może wydać nowe świadectwo dopuszczenia statku ADN na pozostałą część okresu ważności dotychczasowego świadectwa dopuszczenia statku ADN bez przeprowadzania nowego badania, o którym mowa w art. 62 ust. 1 ustawy, i nowej inspekcji, o której mowa w art. 62 ust. 3 ustawy, pod warunkiem że stan i parametry techniczne statku nie uległy zmianom.
-§ 5. 1. W celu przedłużenia terminu ważności świadectwa dopuszczenia statku ADN armator statku lub jego przedstawiciel składa wniosek do dyrektora urzędu żeglugi śródlądowej, który wydał świadectwo dopuszczenia statku ADN, i zgłasza statek do badania, o którym mowa w art. 62 ust. 1 ustawy, i inspekcji, o której mowa w art. 62 ust. 3 ustawy.
+
+**§ 5.**
+
+1. W celu przedłużenia terminu ważności świadectwa dopuszczenia statku ADN armator statku lub jego przedstawiciel składa wniosek do dyrektora urzędu żeglugi śródlądowej, który wydał świadectwo dopuszczenia statku ADN, i zgłasza statek do badania, o którym mowa w art. 62 ust. 1 ustawy, i inspekcji, o której mowa w art. 62 ust. 3 ustawy.
+
 2. Do wniosku, o którym mowa w ust. 1, dołącza się:
-1) ważny dokument dopuszczający statek do żeglugi w rozumieniu art. 5 ust. 1 pkt 11 ustawy z dnia 21 grudnia 2000 r.
-o żegludze śródlądowej;
-2) potwierdzenie wniesienia opłaty, o której mowa w § 11 ust. 1;
-3) oryginał lub poświadczoną za zgodność z oryginałem kopię świadectwa dopuszczenia statku ADN, dla którego wnioskodawca występuje o przedłużenie terminu ważności.
+
+- **1)** ważny dokument dopuszczający statek do żeglugi w rozumieniu art. 5 ust. 1 pkt 11 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej;
+- **2)** potwierdzenie wniesienia opłaty, o której mowa w § 11 ust. 1;
+- **3)** oryginał lub poświadczoną za zgodność z oryginałem kopię świadectwa dopuszczenia statku ADN, dla którego wnioskodawca występuje o przedłużenie terminu ważności.
+
 3. Jeżeli badanie, o którym mowa w art. 62 ust. 1 ustawy, i inspekcja, o której mowa w art. 62 ust. 3 ustawy, zostały przeprowadzone w ciągu ostatniego roku przed upływem terminu ważności świadectwa dopuszczenia statku ADN, termin ważności nowego świadectwa dopuszczenia statku ADN rozpoczyna się od daty upływu terminu ważności dotychczasowego świadectwa dopuszczenia statku ADN.
+
 4. Na podstawie wyników badania, o którym mowa w art. 62 ust. 1 ustawy, i inspekcji, o której mowa w art. 62 ust. 3 ustawy, dyrektor urzędu żeglugi śródlądowej przedłuża na okres nie dłuższy niż pięć lat termin ważności świadectwa dopuszczenia statku ADN, wydając nowe świadectwo.
-§ 6. 1. Na podstawie wniosku armatora statku lub jego przedstawiciela uzasadnionego koniecznością ciągłości dokonywania przez armatora statku przewozów towarów niebezpiecznych dyrektor urzędu żeglugi śródlądowej, który wydał świadectwo dopuszczenia statku ADN, może przedłużyć, na okres nieprzekraczający roku, termin ważności świadectwa dopuszczenia statku ADN bez przeprowadzania badania, o którym mowa w art. 62 ust. 1 ustawy, i inspekcji, o której mowa w art. 62 ust. 3 ustawy.
+
+**§ 6.**
+
+1. Na podstawie wniosku armatora statku lub jego przedstawiciela uzasadnionego koniecznością ciągłości dokonywania przez armatora statku przewozów towarów niebezpiecznych dyrektor urzędu żeglugi śródlądowej, który wydał świadectwo dopuszczenia statku ADN, może przedłużyć, na okres nieprzekraczający roku, termin ważności świadectwa dopuszczenia statku ADN bez przeprowadzania badania, o którym mowa w art. 62 ust. 1 ustawy, i inspekcji, o której mowa w art. 62 ust. 3 ustawy.
+
 2. Do wniosku, o którym mowa w ust. 1, dołącza się:
-1) ważny dokument dopuszczający statek do żeglugi w rozumieniu art. 5 ust. 1 pkt 11 ustawy z dnia 21 grudnia 2000 r.
-o żegludze śródlądowej;
+
+- **1)** ważny dokument dopuszczający statek do żeglugi w rozumieniu art. 5 ust. 1 pkt 11 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej;
+- **2)** oryginał świadectwa dopuszczenia statku ADN, dla którego wnioskodawca występuje o przedłużenie terminu ważności.
+
 3. W przypadku, o którym mowa w ust. 1, przedłużenia dokonuje się na oryginale świadectwa dopuszczenia statku ADN, dla którego wnioskodawca występuje o przedłużenie terminu ważności.
+
 4. Przedłużenie terminu ważności świadectwa dopuszczenia statku ADN, o którym mowa w ust. 1, może być dokonywane tylko co drugi okres ważności świadectwa.
+
 5. W przypadku, o którym mowa w ust. 1, za przedłużenie terminu ważności świadectwa dopuszczenia statku ADN nie pobiera się opłaty określonej w § 11 ust. 1.
-§ 7. 1. W przypadku utraty świadectwa dopuszczenia statku ADN dyrektor urzędu żeglugi śródlądowej, który wydał to świadectwo, na wniosek armatora statku lub jego przedstawiciela wydaje wtórnik świadectwa dopuszczenia statku ADN.
+
+**§ 7.**
+
+1. W przypadku utraty świadectwa dopuszczenia statku ADN dyrektor urzędu żeglugi śródlądowej, który wydał to świadectwo, na wniosek armatora statku lub jego przedstawiciela wydaje wtórnik świadectwa dopuszczenia statku ADN.
+
 2. Do wniosku, o którym mowa w ust. 1, dołącza się potwierdzenie wniesienia opłaty, o której mowa w § 11 ust. 3.
+
 3. Dyrektor urzędu żeglugi śródlądowej, wydając wtórnik świadectwa dopuszczenia statku ADN, składa na każdej stronie świadectwa czerwony odcisk stempla o treści „WTÓRNIK”.
-§ 8. Przepisy § 7 stosuje się odpowiednio do tymczasowego świadectwa.
-§ 9. 1. Wzór świadectwa dopuszczenia statku ADN określa załącznik nr 1 do rozporządzenia.
+
+**§ 8.** Przepisy § 7 stosuje się odpowiednio do tymczasowego świadectwa.
+
+**§ 9.**
+
+1. Wzór świadectwa dopuszczenia statku ADN określa załącznik nr 1 do rozporządzenia.
+
 2. Wzór tymczasowego świadectwa określa załącznik nr 2 do rozporządzenia.
-§ 10. Świadectwo dopuszczenia statku ADN i tymczasowe świadectwo wypełnia się na maszynie lub komputerze w języku polskim.
-§ 11. 1. Ustala się opłatę za wydanie lub przedłużenie terminu ważności świadectwa dopuszczenia statku ADN w wysokości 200 zł, którą uiszcza się przelewem na rachunek bankowy urzędu obsługującego ministra właściwego do spraw transportu.
+
+**§ 10.** Świadectwo dopuszczenia statku ADN i tymczasowe świadectwo wypełnia się na maszynie lub komputerze w języku polskim.
+
+**§ 11.**
+
+1. Ustala się opłatę za wydanie lub przedłużenie terminu ważności świadectwa dopuszczenia statku ADN w wysokości 200 zł, którą uiszcza się przelewem na rachunek bankowy urzędu obsługującego ministra właściwego do spraw transportu.
+
 2. Ustala się opłatę za wydanie tymczasowego świadectwa w wysokości 100 zł, którą uiszcza się przelewem na rachunek bankowy urzędu obsługującego ministra właściwego do spraw transportu.
+
 3. Ustala się opłatę za wydanie wtórnika świadectwa dopuszczenia statku ADN lub tymczasowego świadectwa w wysokości 20 zł, którą uiszcza się przelewem na rachunek bankowy urzędu obsługującego ministra właściwego do spraw transportu.
-§ 12. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 15 kwietnia 2004 r. w sprawie przewozu materiałów niebezpiecznych statkami żeglugi śródlądowej (Dz. U. Nr 88, poz. 839), które zgodnie z art. 133 ust. 2 pkt 3 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. Nr 227, poz. 1367 i Nr 244, poz. 1454) utraciło moc z dniem 2 lipca Załącznik nr 1 WZÓR ŚWIADECTWA DOPUSZCZENIA STATKU ADN DO PRZEWOZU NIEKTÓRYCH TOWARÓW NIEBEZPIECZNYCH I. ŚWIADECTWO DOPUSZCZENIA STATKU ADN DO PRZEWOZU NIEKTÓRYCH TOWARÓW NIEBEZPIECZNYCH DLA STATKÓW DO PRZEWOZU ŁADUNKÓW SUCHYCH Ministra Transportu Budownictw i WZÓR ŚWIADECTWA DOPUSZCZENIA STATKU ADN DO PRZEWOZU OWARÓW N EB 1 RZECZPOSPOLITA POLSKA DYREKTOR URZĘDU ŻEGLUGI ŚRÓDLĄDOWEJ w ........
+
+**§ 12.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 15 kwietnia 2004 r. w sprawie przewozu materiałów niebezpiecznych statkami żeglugi śródlądowej (Dz. U. Nr 88, poz. 839), które zgodnie z art. 133 ust. 2 pkt 3 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. Nr 227, poz. 1367 i Nr 244, poz. 1454) utraciło moc z dniem 2 lipca 2012 r.
+
+## Załączniki do rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia ......
+
+(poz.. ....) Załącznik nr 1 WZÓR WZÓR ŚWIADECTWA ŚWIADECTWA DOPUSZCZENIA DOPUSZCZENIA STATKU ADN DO STATKU PRZEWOZU ADN NIEKTÓRYCH DO PRZEWOZU TOWARÓW NIEKTÓRYCH TOWARÓW NIEBEZPIECZNYCH NIEBEZPIECZNYCH I. ŚWIADECTWO DOPUSZCZENIA STATKU ADN DO PRZEWOZU NIEKTÓRYCH TOWARÓW NIEBEZPIECZNYCH DLA STATKÓW DO PRZEWOZU ŁADUNKÓW SUCHYCH 1 RZECZPOSPOLITA POLSKA DYREKTOR URZĘDU ŻEGLUGI ŚRÓDLĄDOWEJ w ........
 ŚWIADECTWO DOPUSZCZENIA STATKU ADN DO PRZEWOZU NIEKTÓRYCH TOWARÓW NIEBEZPIECZNYCH DLA STATKÓW DO PRZEWOZU ŁADUNKÓW SUCHYCH nr ........
 wydane na podstawie ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. Nr 227, poz. 1367 i Nr 244, poz. 1454) oraz zgodnie z wymaganiami Umowy europejskiej dotyczącej międzynarodowego przewozu śródlądowymi drogami wodnymi towarów niebezpiecznych (ADN), zawartej w Genewie dnia 26 maja 2000 r. (Dz. U.
 z 2010 r. Nr 235, poz. 1537)
@@ -168,7 +220,7 @@ Przedłużenie ważności świadectwa dopuszczenia statku ADN do przewozu niekt�
 ..............................................................
 3 Jeżeli zbiorniki ładunkowe statku nie są tego samego typu lub stanu technicznego lub jeśli wyposażenie nie jest to samo, to ich typ, stan i wyposażenie powinny być wskazane poniżej Numer zbiornika 1 2 3 4 5 6 7 8 9 10 11 12 ładunkowego zbiornik ciśnieniowy zbiornik ładunkowy zamknięty zbiornik ładunkowy otwarty z przerywaczem płomienia zbiornik ładunkowy otwarty zbiornik ładunkowy niezależny zbiornik ładunkowy wbudowany ściana zbiornika ładunku oddzielona od kadłuba ciśnienie otwarcia zaworów odciążeniowych o dużych prędkościach przepływu kPa urządzenie do pobierania próbek typu zamkniętego urządzenie do pobierania próbek typu zamkniętego częściowo otwór do pobierania próbek instalacja spryskiwania wodą alarm ciśnienia wewnętrznego 40 kPa .........
 możliwość korzystania z brzegowej instalacji podgrzewania ładunku statkowa instalacja podgrzewania ładunku instalacja chłodzenia ładunku linia dostaw/zwrotu gazu według 9.3.2.22.5 lub
-9.3.3.22.5 ADN linia dostawy gazu i podgrzewana instalacja zgodność z regułami konstrukcji wynikającymi z uwag ...... w kolumnie (20) tabeli C działu 3.2 ADN Załącznik nr 2 WZÓR TYMCZASOWEGO ŚWIADECTWA DOPUSZCZENIA STATKU ADN DO PRZEWOZU TOWARÓW NIEBEZPIECZNYCH I. TYMCZASOWE ŚWIADECTWO DOPUSZCZENIA STATKU ADN DO PRZEWOZU TOWARÓW NIEBEZPIECZNYCH DLA STATKÓW DO PRZEWOZU ŁADUNKÓW SUCHYCH DO PRZEWOZU TOWARÓW N EBEZP ECZN CH 1 RZECZPOSPOLITA POLSKA DYREKTOR URZĘDU ŻEGLUGI ŚRÓDLĄDOWEJ w ........
+9.3.3.22.5 ADN linia dostawy gazu i podgrzewana instalacja zgodność z regułami konstrukcji wynikającymi z uwag ...... w kolumnie (20) tabeli C działu 3.2 ADN Załącznik nr 2 WZÓR TYMCZASOWEGO ŚWIADECTWA DOPUSZCZENIA STATKU ADN WZÓR TYMCZASOWEGO DO PRZEWOZU ŚWIADECTWA TOWARÓW DOPUSZCZENIA NIEBEZPIECZNYCH STATKU ADN DO PRZEWOZU TOWARÓW NIEBEZPIECZNYCH I. TYMCZASOWE ŚWIADECTWO DOPUSZCZENIA STATKU ADN DO PRZEWOZU TOWARÓW NIEBEZPIECZNYCH DLA STATKÓW DO PRZEWOZU ŁADUNKÓW SUCHYCH 1 RZECZPOSPOLITA POLSKA DYREKTOR URZĘDU ŻEGLUGI ŚRÓDLĄDOWEJ w ........
 TYMCZASOWE ŚWIADECTWO DOPUSZCZENIA STATKU ADN DO PRZEWOZU TOWARÓW NIEBEZPIECZNYCH DLA STATKÓW DO PRZEWOZU ŁADUNKÓW SUCHYCH nr ........
 wydane na podstawie ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. Nr 227, poz. 1367 i Nr 244, poz. 1454) oraz zgodnie z wymaganiami Umowy europejskiej dotyczącej międzynarodowego przewozu śródlądowymi drogami wodnymi towarów niebezpiecznych (ADN), zawartej w Genewie dnia 26 maja 2000 r. (Dz. U.
 z 2010 r. Nr 235, poz. 1537)

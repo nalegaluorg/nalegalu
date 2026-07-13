@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001338) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1338/text.pdf) |
 
 zmieniające rozporządzenie w sprawie przebiegu służby funkcjonariuszy Służby Wywiadu Wojskowego Na podstawie art. 54 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2014 r. poz. 1106) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie przebiegu służby funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. Nr 175, poz. 1295) uchyla się § 14.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: T. Siemoniak
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie przebiegu służby funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. Nr 175, poz. 1295) uchyla się § 14.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: T. Siemoniak
 

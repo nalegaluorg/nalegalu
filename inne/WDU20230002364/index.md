@@ -34,9 +34,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów
 2) § 2 rozporządzenia Prezesa Rady Ministrów z dnia 13 czerwca 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska (Dz. U. poz. 1140), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 12 listopada 2008 r.
 w sprawie nadania statutu Generalnej Dyrekcji Ochrony Środowiska Na podstawie art. 122 ust. 2 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm. ) zarządza się, co następuje:
-§ 1. Generalnej Dyrekcji Ochrony Środowiska nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 15 listopada 2008 r.
-STATUT GENERALNEJ DYREKCJI OCHRONY ŚRODOWISKA
+
+**§ 1.** Generalnej Dyrekcji Ochrony Środowiska nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 15 listopada 2008 r. STATUT GENERALNEJ DYREKCJI OCHRONY ŚRODOWISKA
+
+## Załącznik
+
 § 1. 1. Generalna Dyrekcja Ochrony Środowiska, zwana dalej „Generalną Dyrekcją”, jest urzędem administracji rządowej obsługującym Generalnego Dyrektora Ochrony Środowiska, zwanego dalej „Generalnym Dyrektorem”, działającym pod jego bezpośrednim nadzorem i kierownictwem.
 2. Siedzibą Generalnej Dyrekcji jest miasto stołeczne Warszawa.
 § 2. 1. Generalny Dyrektor kieruje Generalną Dyrekcją przy pomocy zastępców Generalnego Dyrektora, dyrektora generalnego urzędu oraz dyrektorów komórek organizacyjnych i osób zajmujących stanowiska, o których mowa w § 3 ust. 1.

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o ustanowieniu Dnia Inwalidy Wojennego W uznaniu zasług i poświęcenia osób, które w wyniku działań wojennych doznały trwałego uszczerbku na zdrowiu, wyrażając szacunek dla ich cierpienia, odwagi i poświęcenia na rzecz Ojczyzny, stanowi się, co następuje:
+# Ustawa z dnia 23 stycznia 2026 r. o ustanowieniu Dnia Inwalidy Wojennego
 
 *USTAWA z dnia 23 stycznia 2026 r.*
 

@@ -27,13 +27,7 @@ source: pdf
 | Ostatnia zmiana | 2024-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001692) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1692/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2024 r. poz. 275 i 1222) art. 38 i art. 39 otrzymują brzmienie: „Art. 38. 1. Zakłady ubezpieczeń są obowiązane przekazywać 10 % sumy wpływów uzyskanych z tytułu obowiązkowego ubezpieczenia od ognia na określone cele ochrony przeciwpożarowej, w szczególności na zapewnienie gotowości bojowej jednostek ochrony przeciwpożarowej, budowę i modernizację obiektów strażnic, badania naukowe i działalność racjonalizatorską w zakresie bezpieczeństwa pożarowego i przeciwdziałania innym zagrożeniom, a także propagowanie bezpieczeństwa pożarowego. 2. Komendant Główny Państwowej Straży Pożarnej i Zarząd Główny Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej otrzymują po 50 % kwoty, o której mowa w ust. 1.
-
-**Art. 39.**
-
-1. Środki finansowe przekazane Komendantowi Głównemu Państwowej Straży Pożarnej i Zarządowi Głównemu Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej na podstawie przepisów art. 38 są przeznaczone wyłącznie na cele związane z ochroną przeciwpożarową.
-
-2. Zarząd Główny Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej przedkłada Sejmowi w terminie do dnia 30 czerwca każdego roku sprawozdanie z wydatkowania środków, o których mowa w art. 38 ust. 2, w roku poprzednim.”.
+**Art. 1.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2024 r. poz. 275 i 1222) art. 38 i art. 39 otrzymują brzmienie: „Art. 38. 1. Zakłady ubezpieczeń są obowiązane przekazywać 10 % sumy wpływów uzyskanych z tytułu obowiązkowego ubezpieczenia od ognia na określone cele ochrony przeciwpożarowej, w szczególności na zapewnienie gotowości bojowej jednostek ochrony przeciwpożarowej, budowę i modernizację obiektów strażnic, badania naukowe i działalność racjonalizatorską w zakresie bezpieczeństwa pożarowego i przeciwdziałania innym zagrożeniom, a także propagowanie bezpieczeństwa pożarowego. 2. Komendant Główny Państwowej Straży Pożarnej i Zarząd Główny Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej otrzymują po 50 % kwoty, o której mowa w ust. 1. Art. 39. 1. Środki finansowe przekazane Komendantowi Głównemu Państwowej Straży Pożarnej i Zarządowi Głównemu Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej na podstawie przepisów art. 38 są przeznaczone wyłącznie na cele związane z ochroną przeciwpożarową. 2. Zarząd Główny Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej przedkłada Sejmowi w terminie do dnia 30 czerwca każdego roku sprawozdanie z wydatkowania środków, o których mowa w art. 38 ust. 2, w roku poprzednim.”.
 
 **Art. 2.** W ustawie z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. z 2024 r. poz. 233) w art. 3:
 

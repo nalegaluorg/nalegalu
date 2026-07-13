@@ -26,10 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001966) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1966/text.pdf) |
 
 zmieniające rozporządzenie w sprawie badań jakości kształcenia artystycznego w szkołach artystycznych Na podstawie art. 53 ust. 1e ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury, Dziedzictwa Narodowego i Sportu z dnia 13 stycznia 2021 r. w sprawie badań jakości kształcenia artystycznego w szkołach artystycznych (Dz. U. poz. 98) w § 2 w pkt 1:
-1) lit. c otrzymuje brzmienie: „c) ogólnokształcącej szkole muzycznej II stopnia – historię muzyki, harmonię i kształcenie słuchu,”;
-2) po lit. c dodaje się lit. ca w brzmieniu: „ca) szkole muzycznej II stopnia – zasady muzyki z elementami edycji nut, historię muzyki, harmonię i kształcenie słuchu,”.
-§ 2. W klasach dotychczasowej ogólnokształcącej szkoły muzycznej II stopnia o sześcioletnim cyklu kształcenia, prowadzonych w ogólnokształcących szkołach muzycznych II stopnia, do zakończenia kształcenia w tych klasach stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+**§ 1.** W rozporządzeniu Ministra Kultury, Dziedzictwa Narodowego i Sportu z dnia 13 stycznia 2021 r. w sprawie badań jakości kształcenia artystycznego w szkołach artystycznych (Dz. U. poz. 98) w § 2 w pkt 1:
+
+- **1)** lit. c otrzymuje brzmienie: „c) ogólnokształcącej szkole muzycznej II stopnia – historię muzyki, harmonię i kształcenie słuchu,”;
+- **2)** po lit. c dodaje się lit. ca w brzmieniu: „ca) szkole muzycznej II stopnia – zasady muzyki z elementami edycji nut, historię muzyki, harmonię i kształcenie słuchu,”.
+
+**§ 2.** W klasach dotychczasowej ogólnokształcącej szkoły muzycznej II stopnia o sześcioletnim cyklu kształcenia, prowadzonych w ogólnokształcących szkołach muzycznych II stopnia, do zakończenia kształcenia w tych klasach stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

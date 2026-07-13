@@ -26,9 +26,9 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000236) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/236/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2023 r. poz. 2809), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 24 czerwca 2025 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy (Dz. U. poz. 897) oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 lutego 2026 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 i art. 3 ustawy z dnia 24 czerwca 2025 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy (Dz. U. poz. 897), które stanowią: „Art. 2. Jeżeli termin do złożenia przez małżonka oświadczenia o powrocie do nazwiska, które nosił przed zawarciem małżeństwa, wskazany w art. 59 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, nie upłynął przed dniem wejścia w życie niniejszej ustawy, podlega on wydłużeniu do roku.
-
-**Art. 3.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy Tytuł I Małżeństwo
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 i art. 3 ustawy z dnia 24 czerwca 2025 r. o zmianie ustawy – Kodeks rodzinny i opiekuńczy (Dz. U. poz. 897), które stanowią: „ Art. 2. Jeżeli termin do złożenia przez małżonka oświadczenia o powrocie do nazwiska, które nosił przed zawarciem małżeństwa, wskazany w art. 59 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym, nie upłynął przed dniem wejścia w życie niniejszej ustawy, podlega on wydłużeniu do roku. Art. 3. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty
+USTAWA z dnia 25 lutego 1964 r.
+Kodeks rodzinny i opiekuńczy Tytuł I Małżeństwo
 
 ### DZIAŁ I Zawarcie małżeństwa
 
@@ -62,7 +62,7 @@ source: pdf
 
 § 3. Wydając zaświadczenie kierownik urzędu stanu cywilnego informuje strony o dalszych czynnościach koniecznych do zawarcia małżeństwa.
 
-**Art. 5.** Kierownik urzędu stanu cywilnego, który dowiedział się o istnieniu okoliczności wyłączającej zawarcie zamierzonego małżeństwa, odmówi przyjęcia oświadczeń o wstąpieniu w związek małżeński lub wydania zaświadczenia, o którym mowa w art. 4 , a w razie wątpliwości zwróci się do sądu o rozstrzygnięcie, czy małżeństwo może być zawarte.
+**Art. 5.** Kierownik urzędu stanu cywilnego, który dowiedział się o istnieniu okoliczności wyłączającej zawarcie zamierzonego małżeństwa, odmówi przyjęcia oświadczeń o wstąpieniu w związek małżeński lub wydania zaświadczenia, o którym mowa w art. 4 1 , a w razie wątpliwości zwróci się do sądu o rozstrzygnięcie, czy małżeństwo może być zawarte.
 
 **Art. 6.**
 
@@ -694,7 +694,7 @@ source: pdf
 
 § 3. Przepisy art. 64 i 65 stosuje się odpowiednio.
 
-**Art. 81¹.** W przypadku gdy uznanie ojcostwa nastąpiło na podstawie art. 75 , ustalenie bezskuteczności uznania ojcostwa jest dopuszczalne jedynie wówczas, gdy dziecko nie urodziło się w następstwie procedury medycznie wspomaganej prokreacji, o której mowa w art. 75 § 1.
+**Art. 81¹.** W przypadku gdy uznanie ojcostwa nastąpiło na podstawie art. 75 1 , ustalenie bezskuteczności uznania ojcostwa jest dopuszczalne jedynie wówczas, gdy dziecko nie urodziło się w następstwie procedury medycznie wspomaganej prokreacji, o której mowa w art. 75 § 1.
 
 **Art. 82.**
 
@@ -855,13 +855,13 @@ source: pdf
 
 § 4. Reprezentant dziecka jest obowiązany zachować w tajemnicy okoliczności sprawy, o których powziął wiadomość ze względu na wykonywane czynności, z wyjątkiem wiarygodnych informacji o przestępstwach popełnionych na szkodę dziecka oraz zagrożeniu dobra dziecka. W przypadku gdy reprezentantem dziecka został ustanowiony adwokat lub radca prawny, tajemnica ta stanowi tajemnicę zawodową w rozumieniu ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2024 r. poz. 1564 oraz z 2025 r. poz. 1172) lub ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2024 r. poz. 499 oraz z 2025 r. poz. 1172).
 
-§ 5. Przepisy § 1 stosuje się odpowiednio do podmiotów, o których mowa w art. 112 .
+§ 5. Przepisy § 1 stosuje się odpowiednio do podmiotów, o których mowa w art. 112 1 .
 
 **Art. 99²a.**
 
 § 1. Nad działalnością reprezentanta dziecka czuwa sąd opiekuńczy, zaznajamiając się na bieżąco z jego działalnością.
 
-§ 2. Reprezentant dziecka składa sądowi opiekuńczemu w wyznaczonych terminach, nierzadziej niż co cztery miesiące, informacje dotyczące jego działalności, w szczególności o dokonywanych wszelkich czynnościach łączących się ze sprawą oraz obowiązkach określonych w art. 99 .
+§ 2. Reprezentant dziecka składa sądowi opiekuńczemu w wyznaczonych terminach, nierzadziej niż co cztery miesiące, informacje dotyczące jego działalności, w szczególności o dokonywanych wszelkich czynnościach łączących się ze sprawą oraz obowiązkach określonych w art. 99 2 .
 
 **Art. 99³.**
 
@@ -1434,13 +1434,13 @@ source: pdf
 
 § 1. Jeżeli pełnoletnia osoba niepełnosprawna potrzebuje wsparcia w prowadzeniu wszelkich spraw, spraw określonego rodzaju albo załatwieniu określonej sprawy, ustanawia się dla niej kuratora. Zakres obowiązków i uprawnień kuratora określa sąd opiekuńczy.
 
-§ 1. Kurator dla osoby niepełnosprawnej jest powołany do jej reprezentowania tylko wtedy, gdy sąd tak postanowi. Sąd opiekuńczy może określić sprawę lub zakres spraw wskazanych w postanowieniu o ustanowieniu kuratora, w których jest on uprawniony do reprezentowania osoby niepełnosprawnej.
+§ 1¹. Kurator dla osoby niepełnosprawnej jest powołany do jej reprezentowania tylko wtedy, gdy sąd tak postanowi. Sąd opiekuńczy może określić sprawę lub zakres spraw wskazanych w postanowieniu o ustanowieniu kuratora, w których jest on uprawniony do reprezentowania osoby niepełnosprawnej.
 
-§ 1. Kuratorem może zostać ustanowiona osoba pełnoletnia, która wyraziła na to zgodę i której kwalifikacje osobiste uzasadniają przekonanie, że będzie należycie wywiązywała się z powierzonych jej obowiązków kuratora osoby niepełnosprawnej. Osoba niepełnosprawna może wskazać kandydata na kuratora.
+§ 1². Kuratorem może zostać ustanowiona osoba pełnoletnia, która wyraziła na to zgodę i której kwalifikacje osobiste uzasadniają przekonanie, że będzie należycie wywiązywała się z powierzonych jej obowiązków kuratora osoby niepełnosprawnej. Osoba niepełnosprawna może wskazać kandydata na kuratora.
 
-§ 1. Przy wyborze kuratora i określeniu zakresu jego obowiązków oraz uprawnień sąd opiekuńczy uwzględnia w szczególności sposób funkcjonowania osoby niepełnosprawnej, w tym w zakresie jej funkcji intelektualnych oraz sposobu porozumiewania się z otoczeniem.
+§ 1³. Przy wyborze kuratora i określeniu zakresu jego obowiązków oraz uprawnień sąd opiekuńczy uwzględnia w szczególności sposób funkcjonowania osoby niepełnosprawnej, w tym w zakresie jej funkcji intelektualnych oraz sposobu porozumiewania się z otoczeniem.
 
-§ 1. Kurator uzgadnia z osobą niepełnosprawną sposób prowadzenia lub załatwienia spraw, o których mowa w § 1, i informuje osobę niepełnosprawną o podjętych działaniach oraz ich wynikach, tak aby mogła podejmować decyzje i działania odpowiednie do aktualnego stanu sprawy.
+§ 1⁴. Kurator uzgadnia z osobą niepełnosprawną sposób prowadzenia lub załatwienia spraw, o których mowa w § 1, i informuje osobę niepełnosprawną o podjętych działaniach oraz ich wynikach, tak aby mogła podejmować decyzje i działania odpowiednie do aktualnego stanu sprawy.
 
 § 2. Kuratelę uchyla się na żądanie osoby niepełnosprawnej, dla której była ustanowiona.
 

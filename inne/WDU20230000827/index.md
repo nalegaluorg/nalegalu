@@ -26,20 +26,27 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000827) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/827/text.pdf) |
 
 w sprawie określenia wzorów miesięcznych i rocznych informacji o zatrudnieniu, kształceniu lub o działalności na rzecz osób niepełnosprawnych Na podstawie art. 21 ust. 2f ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2023 r. poz. 100, 173 i 240) zarządza się, co następuje:
-§ 1. Określa się wzory informacji, składanych Zarządowi Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych przez pracodawców osiągających wskaźniki zatrudnienia osób niepełnosprawnych, o których mowa w art. 21 ust. 2–2b ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, zwanej dalej „ustawą”, jednostki organizacyjne, o których mowa w art. 21 ust. 2e ustawy, oraz pracodawców, o których mowa w art. 22 ust. 1 ustawy:
-1) wzór informacji ewidencyjnej zgłoszeniowej lub aktualizacyjnej, o symbolu INF-Z, stanowiący załącznik nr 1 do rozporządzenia;
-2) wzór informacji miesięcznej o zatrudnieniu osób niepełnosprawnych, o zatrudnieniu i kształceniu osób niepełnosprawnych lub o działalności na rzecz osób niepełnosprawnych, o symbolu INF-1, stanowiący załącznik nr 2 do rozporządzenia;
-3) wzór informacji rocznej o zatrudnieniu osób niepełnosprawnych, o zatrudnieniu i kształceniu osób niepełnosprawnych lub o działalności na rzecz osób niepełnosprawnych, o symbolu INF-2, stanowiący załącznik nr 3 do rozporządzenia.
-§ 2. 1. Informacje, o których mowa w § 1 pkt 1 i 2, za okresy sprawozdawcze począwszy od października 2022 r. oraz informacje, o których mowa w § 1 pkt 3, za okresy sprawozdawcze począwszy od 2022 r. składa się według wzorów określonych w niniejszym rozporządzeniu.
+
+**§ 1.** Określa się wzory informacji, składanych Zarządowi Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych przez pracodawców osiągających wskaźniki zatrudnienia osób niepełnosprawnych, o których mowa w art. 21 ust. 2–2b ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, zwanej dalej „ustawą”, jednostki organizacyjne, o których mowa w art. 21 ust. 2e ustawy, oraz pracodawców, o których mowa w art. 22 ust. 1 ustawy:
+
+- **1)** wzór informacji ewidencyjnej zgłoszeniowej lub aktualizacyjnej, o symbolu INF-Z, stanowiący załącznik nr 1 do rozporządzenia;
+- **2)** wzór informacji miesięcznej o zatrudnieniu osób niepełnosprawnych, o zatrudnieniu i kształceniu osób niepełnosprawnych lub o działalności na rzecz osób niepełnosprawnych, o symbolu INF-1, stanowiący załącznik nr 2 do rozporządzenia;
+- **3)** wzór informacji rocznej o zatrudnieniu osób niepełnosprawnych, o zatrudnieniu i kształceniu osób niepełnosprawnych lub o działalności na rzecz osób niepełnosprawnych, o symbolu INF-2, stanowiący załącznik nr 3 do rozporządzenia.
+
+**§ 2.**
+
+1. Informacje, o których mowa w § 1 pkt 1 i 2, za okresy sprawozdawcze począwszy od października 2022 r. oraz informacje, o których mowa w § 1 pkt 3, za okresy sprawozdawcze począwszy od 2022 r. składa się według wzorów określonych w niniejszym rozporządzeniu.
+
 2. Informacje, o których mowa w § 1 pkt 1 i 2, za okresy sprawozdawcze do września 2022 r. włącznie oraz informacje, o których mowa w § 1 pkt 3, za okresy sprawozdawcze do 2021 r. włącznie składa się według wzorów określonych w przepisach dotychczasowych.
+
 3. Zmian w informacjach, o których mowa w ust. 1 i 2, dokonuje się, składając informacje według wzorów określonych w niniejszym rozporządzeniu.
+
 4. W okresie czterech miesięcy od dnia wejścia w życie niniejszego rozporządzenia:
-1) informacje, o których mowa w § 1 pkt 1 i 2, za okresy sprawozdawcze począwszy od października 2022 r. oraz informacje, o których mowa w § 1 pkt 3, za 2022 rok mogą być składane według wzorów określonych w przepisach dotychczasowych;
-2) zmian w informacjach, o których mowa w pkt 1 i ust. 2, można dokonywać, składając informacje według wzorów określonych w przepisach dotychczasowych.
-Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rodziny i Polityki Społecznej: M. Maląg Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rodziny, Pracy i Polityki Społecznej z dnia 27 września 2018 r.
-w sprawie określenia wzorów miesięcznych i rocznych informacji o zatrudnieniu, kształceniu lub o działalności na rzecz osób niepełnosprawnych (Dz. U. poz. 1857), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 81 pkt 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. poz. 1812 i 2140).
+
+- **1)** informacje, o których mowa w § 1 pkt 1 i 2, za okresy sprawozdawcze począwszy od października 2022 r. oraz informacje, o których mowa w § 1 pkt 3, za 2022 rok mogą być składane według wzorów określonych w przepisach dotychczasowych;
+- **2)** zmian w informacjach, o których mowa w pkt 1 i ust. 2, można dokonywać, składając informacje według wzorów określonych w przepisach dotychczasowych. Minister Rodziny i Polityki Społecznej kieruje działem administracji rządowej – zabezpieczenie społeczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rodziny i Polityki Społecznej (Dz. U. z 2022 r. poz. 416).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rodziny i Polityki Społecznej: M. Maląg Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rodziny, Pracy i Polityki Społecznej z dnia 27 września 2018 r. w sprawie określenia wzorów miesięcznych i rocznych informacji o zatrudnieniu, kształceniu lub o działalności na rzecz osób niepełnosprawnych (Dz. U. poz. 1857), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 81 pkt 1 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. poz. 1812 i 2140).
 
 ## Załącznik nr 1 — WZÓR WZÓR Informacja ewidencyjna zgłoszeniowa lub aktualizacyjna INF-Z To jest informacja  zgłoszeniowa /  aktualizacyjna z dnia - - za okres , składana wraz z informacją .
 

@@ -8,10 +8,10 @@ pos: 1124
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 12 czerwca 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1124 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 4 czerwca 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,59 +25,136 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001124) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1124/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 4 czerwca 2018 r.
-sprawie Rejestru Należności Publicznoprawnych Na podstawie art. 18m ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji (Dz. U.
-z 2017 r. poz. 1201, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) sposób tryb korzystania z Rejestru Należności Publicznoprawnych, zwanego dalej „rejestrem”, przez zobowiązanego, podmiot zainteresowany oraz podmiot, o którym mowa art. 18q § 2 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji, zwanej dalej „ustawą”, tym uzyskania z rejestru danych, o których mowa art. 18b § 2 ustawy, zwanych dalej „danymi”;
-2) tryb sposób wprowadzania danych do rejestru;
-3) formaty danych wymagane przy wprowadzaniu danych do rejestru.
-§ 2. 1. Wierzycielowi niebędącemu organem Krajowej Administracji Skarbowej organ prowadzący rejestr, na wniosek opatrzony kwalifikowanym podpisem elektronicznym podpisem potwierdzonym profilem zaufanym ePUAP, przesłany na elektroniczną skrzynkę podawczą tego organu, nadaje identyfikator hasło uprawniające do wprowadzania do rejestru, zmieniania rejestrze wykreślania z rejestru danych.
-2. Wierzycielowi będącemu organem Krajowej Administracji Skarbowej organ prowadzący rejestr z urzędu nadaje identyfikator hasło uprawniające do dostępu do systemu teleinformatycznego, którym prowadzony jest rejestr, zwanego dalej „systemem”.
-§ 3. 1. Podmiotowi, o którym mowa art. 18q § 2 ustawy, zwanemu dalej „podmiotem uprawnionym”, niebędącemu organem Krajowej Administracji Skarbowej organ prowadzący rejestr, na wniosek opatrzony kwalifikowanym podpisem elektronicznym podpisem potwierdzonym profilem zaufanym ePUAP, przesłany na elektroniczną skrzynkę podawczą tego organu, nadaje identyfikator hasło uprawniające do korzystania z funkcjonalności systemu, umożliwiające ułatwiony sposób wyszukiwania zobowiązanych rejestrze.
-2. Podmiotowi uprawnionemu będącemu organem Krajowej Administracji Skarbowej organ prowadzący rejestr z urzędu nadaje identyfikator hasło uprawniające do dostępu do systemu.
-§ 4. 1. Udostępnienie danych z rejestru oraz dostęp do systemu następuje po uwierzytelnieniu odpowiednio wierzyciela podmiotu uprawnionego niebędącego organem Krajowej Administracji Skarbowej oraz wierzyciela podmiotu uprawnionego będącego organem Krajowej Administracji Skarbowej.
-wiązanego będącego:
-1) osobą fizyczną, imię nazwisko zobowiązanego oraz: Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli został nadany, datę urodzenia, jeżeli nie został nadany PESEL;
-2) osobą fizyczną prowadzącą działalność gospodarczą, dwie z następujących danych dotyczących zobowiązanego: imię nazwisko, PESEL, jeżeli został nadany,
-c) identyfikacji podatkowej (NIP),
-d) identyfikacji Krajowym Rejestrze Urzędowym Podmiotów Gospodarki Narodowej (REGON);
-3) osobą prawną jednostką organizacyjną niebędącą osobą prawną, dwie z następujących danych dotyczących zobowiązanego: firmę nazwę,
-c) REGON;
-4) nierezydentem rozumieniu Prawa osobą fizyczną, imię nazwisko zobowiązanego oraz: kraj wydania paszportu,
-c) identyfikacyjny nadany innym kraju, szczególności podatkowy ubezpieczeniowy, jeżeli nierezydent nie identyfikatora podatkowego,
-d) datę urodzenia, jeżeli nierezydent nie paszportu innym
-5) nierezydentem rozumieniu Prawa osobą fizyczną prowadzącą działalność gospodarczą, imię nazwisko zobowiązanego oraz: kraj wydania paszportu,
-c) identyfikacyjny nadany innym kraju, szczególności podatkowy ubezpieczeniowy, jeżeli nierezydent nie identyfikatora podatkowego,
-d) datę urodzenia adres miejsca prowadzenia działalności gospodarczej, tym adres głównego miejsca prowadzenia działalności gospodarczej, jeżeli nierezydent nie paszportu innym
-6) nierezydentem rozumieniu Prawa osobą prawną jednostką organizacyjną niebędącą osobą prawną, dwie z następujących danych dotyczących zobowiązanego: firmę nazwę,
-c) identyfikacyjny nadany innym kraju, szczególności podatkowy, jeżeli nierezydent nie identyfikatora podatkowego,
-d) adres siedziby, jeżeli nierezydent nie innym kraju.
-2) osobą fizyczną prowadzącą działalność gospodarczą, jego: REGON;
-3) osobą prawną jednostką organizacyjną niebędącą osobą prawną, jego: REGON;
-4) nierezydentem rozumieniu Prawa osobą fizyczną, jego: kraj wydania paszportu,
-c) identyfikacyjny nadany innym kraju, szczególności podatkowy ubezpieczeniowy, jeżeli nierezydent nie identyfikatora podatkowego,
-d) imię nazwisko oraz datę urodzenia, jeżeli nierezydent nie paszportu innym
-5) nierezydentem rozumieniu Prawa osobą fizyczną prowadzącą działalność gospodarczą, jego: kraj wydania paszportu,
-c) identyfikacyjny nadany innym kraju, szczególności podatkowy ubezpieczeniowy, jeżeli nierezydent nie identyfikatora podatkowego,
-d) imię nazwisko, firmę nazwę oraz datę urodzenia,
-e) adres miejsca prowadzenia działalności gospodarczej, tym adres głównego miejsca prowadzenia działalności gospodarczej, jeżeli nierezydent nie paszportu innym
-6) nierezydentem rozumieniu Prawa osobą prawną jednostką organizacyjną niebędącą osobą prawną, jego: identyfikacyjny nadany innym kraju, szczególności podatkowy, jeżeli nierezydent nie identyfikatora podatkowego,
-c) firmę nazwę oraz adres siedziby, jeżeli nierezydent nie innym kraju.
-§ 8. Wierzyciel, po jego uwierzytelnieniu systemie, na podstawie podanego identyfikatora hasła wprowadza dane do rejestru.
-§ 9. W przypadku wprowadzania do rejestru danych dotyczących:
-1) oznaczenia wierzyciela, się: jego nazwę, adres siedziby jego jednostki organizacyjnej, a jeżeli wierzyciel obsługujący go urząd adres tego urzędu, wierzyciela, a jeżeli wierzyciel go nie urzędu obsługującego wierzyciela jednostki samorządu terytorialnego, której organ jest wierzycielem;
-przepis prawa, jeżeli obowiązek uiszczenia należności pieniężnej wynika bezpośrednio z przepisu prawa.
-§ 10. 1. W przypadku wprowadzania do rejestru informacji, o których mowa art. 18f § 1:
-1) pkt 1, 2 5–8 ustawy, się wysokość należności pieniężnej będącej przedmiotem tej informacji;
-2) pkt 9 ustawy, się: nazwę organu, który wydał postanowienie o umorzeniu postępowania egzekucyjnego pierwszej instancji, datę wydania postanowienia, o którym mowa lit. a,
-c) wysokość należności pieniężnej niewyegzekwowanej postępowaniu egzekucyjnym będącej przedmiotem tej informacji.
-2. W przypadku wprowadzania do rejestru informacji dotyczących ustania okoliczności, o których mowa art. 18f § 1:
-1) pkt 1 ustawy, się informację o wygaśnięciu, uchyleniu stwierdzeniu nieważności decyzji o odroczeniu terminu zapłaty należności pieniężnej;
-2) pkt 2 ustawy, się informację o wygaśnięciu, uchyleniu stwierdzeniu nieważności decyzji o rozłożeniu na raty spłaty należności pieniężnej;
-3) pkt 3, 4, 6 7 ustawy, się odpowiednio informację o zakończeniu postępowania;
-4) pkt 8 ustawy, się informację o zakończeniu postępowania wszczętego sprzeciwem;
-5) pkt 9 ustawy, się informację o zakończeniu postępowania, którym uchylono stwierdzono nieważność postanowienia o umorzeniu postępowania egzekucyjnego.
-§ 11. Do rejestru wprowadza się dane formacie XML według struktury logicznej udostępnionej Biuletynie Informacji Publicznej na stronie podmiotowej organu prowadzącego rejestr.
-§ 12. Rozporządzenie wchodzi życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: T. Czerwińska
+w sprawie Rejestru Należności Publicznoprawnych Na podstawie art. 18m ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U.
+z 2017 r. poz. 1201, z późn. zm. ) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** sposób i tryb korzystania z Rejestru Należności Publicznoprawnych, zwanego dalej „rejestrem”, przez zobowiązanego, podmiot zainteresowany oraz podmiot, o którym mowa w art. 18q § 2 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, zwanej dalej „ustawą”, w tym uzyskania z rejestru danych, o których mowa w art. 18b § 2 ustawy, zwanych dalej „danymi”;
+- **2)** tryb i sposób wprowadzania danych do rejestru;
+- **3)** formaty danych wymagane przy wprowadzaniu danych do rejestru.
+
+**§ 2.**
+
+1. Wierzycielowi niebędącemu organem Krajowej Administracji Skarbowej organ prowadzący rejestr, na wniosek opatrzony kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP, przesłany na elektroniczną skrzynkę podawczą tego organu, nadaje identyfikator i hasło uprawniające do wprowadzania do rejestru, zmieniania w rejestrze lub wykreślania z rejestru danych.
+
+2. Wierzycielowi będącemu organem Krajowej Administracji Skarbowej organ prowadzący rejestr z urzędu nadaje identyfikator i hasło uprawniające do dostępu do systemu teleinformatycznego, w którym prowadzony jest rejestr, zwanego dalej „systemem”.
+
+**§ 3.**
+
+1. Podmiotowi, o którym mowa w art. 18q § 2 ustawy, zwanemu dalej „podmiotem uprawnionym”, niebędącemu organem Krajowej Administracji Skarbowej organ prowadzący rejestr, na wniosek opatrzony kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP, przesłany na elektroniczną skrzynkę podawczą tego organu, nadaje identyfikator i hasło uprawniające do korzystania z funkcjonalności systemu, umożliwiające ułatwiony sposób wyszukiwania zobowiązanych w rejestrze.
+
+2. Podmiotowi uprawnionemu będącemu organem Krajowej Administracji Skarbowej organ prowadzący rejestr z urzędu nadaje identyfikator i hasło uprawniające do dostępu do systemu.
+
+**§ 4.**
+
+1. Udostępnienie danych z rejestru oraz dostęp do systemu następuje po uwierzytelnieniu odpowiednio wierzyciela i podmiotu uprawnionego niebędącego organem Krajowej Administracji Skarbowej oraz wierzyciela i podmiotu uprawnionego będącego organem Krajowej Administracji Skarbowej.
+
+2. Uwierzytelnienie wymaga:
+
+- **1)** użycia danych weryfikowanych za pomocą kwalifikowanego certyfikatu podpisu elektronicznego albo
+- **2)** profilu zaufanego ePUAP.
+
+**§ 5.** Korzystając z rejestru, zobowiązany używa swojego konta na portalu podatkowym.
+
+**§ 6.** Podmiot zainteresowany w celu wyszukiwania w rejestrze zobowiązanego, jako kryterium wyszukiwania zobowiązanego będącego:
+
+- **1)** osobą fizyczną, podaje imię i nazwisko zobowiązanego oraz:
+    - **a)** numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli został nadany, albo
+    - **b)** datę urodzenia, jeżeli nie został nadany numer PESEL;
+
+- **2)** osobą fizyczną prowadzącą działalność gospodarczą, podaje dwie z następujących danych dotyczących zobowiązanego:
+    - **a)** imię i nazwisko,
+    - **b)** numer PESEL, jeżeli został nadany,
+    - **c)** numer identyfikacji podatkowej (NIP),
+    - **d)** numer identyfikacji w Krajowym Rejestrze Urzędowym Podmiotów Gospodarki Narodowej (REGON);
+
+- **3)** osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, podaje dwie z następujących danych dotyczących zobowiązanego:
+    - **a)** firmę albo nazwę,
+    - **b)** NIP,
+    - **c)** numer REGON;
+
+- **4)** nierezydentem w rozumieniu przepisów Prawa dewizowego będącym osobą fizyczną, podaje imię i nazwisko zobowiązanego oraz:
+    - **a)** NIP albo
+    - **b)** kraj wydania i numer paszportu, albo
+    - **c)** numer identyfikacyjny nadany w innym kraju, w szczególności numer podatkowy lub ubezpieczeniowy, jeżeli nierezydent nie posiada identyfikatora podatkowego, albo
+    - **d)** datę urodzenia, jeżeli nierezydent nie posiada NIP, paszportu lub numeru identyfikacyjnego nadanego w innym kraju;
+
+- **5)** nierezydentem w rozumieniu przepisów Prawa dewizowego będącym osobą fizyczną prowadzącą działalność gospodarczą, podaje imię i nazwisko zobowiązanego oraz:
+    - **a)** NIP albo
+    - **b)** kraj wydania i numer paszportu, albo
+    - **c)** numer identyfikacyjny nadany w innym kraju, w szczególności numer podatkowy lub numer ubezpieczeniowy, jeżeli nierezydent nie posiada numeru identyfikatora podatkowego, albo
+    - **d)** datę urodzenia albo adres miejsca prowadzenia działalności gospodarczej, w tym adres głównego miejsca prowadzenia działalności gospodarczej, jeżeli nierezydent nie posiada NIP, paszportu lub numeru identyfikacyjnego nadanego w innym kraju;
+
+- **6)** nierezydentem w rozumieniu przepisów Prawa dewizowego będącym osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, podaje dwie z następujących danych dotyczących zobowiązanego:
+    - **a)** firmę albo nazwę,
+    - **b)** NIP,
+    - **c)** numer identyfikacyjny nadany w innym kraju, w szczególności numer podatkowy, jeżeli nierezydent nie posiada numeru identyfikatora podatkowego,
+    - **d)** adres siedziby, jeżeli nierezydent nie posiada NIP lub numeru identyfikacyjnego nadanego w innym kraju.
+
+**§ 7.** Podmiot uprawniony w celu wyszukiwania w rejestrze zobowiązanego, jako kryterium wyszukiwania zobowiązanego będącego:
+
+- **1)** osobą fizyczną, podaje jego:
+    - **a)** numer PESEL, jeżeli został nadany, albo
+    - **b)** imię i nazwisko oraz datę urodzenia, jeżeli nie został nadany numer PESEL;
+
+- **2)** osobą fizyczną prowadzącą działalność gospodarczą, podaje jego:
+    - **a)** NIP albo
+    - **b)** numer REGON;
+
+- **3)** osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, podaje jego:
+    - **a)** NIP albo
+    - **b)** numer REGON;
+
+- **4)** nierezydentem w rozumieniu przepisów Prawa dewizowego będącym osobą fizyczną, podaje jego:
+    - **a)** NIP albo
+    - **b)** kraj wydania i numer paszportu, albo
+    - **c)** numer identyfikacyjny nadany w innym kraju, w szczególności numer podatkowy lub ubezpieczeniowy, jeżeli nierezydent nie posiada identyfikatora podatkowego, albo
+    - **d)** imię i nazwisko oraz datę urodzenia, jeżeli nierezydent nie posiada NIP, paszportu lub numeru identyfikacyjnego nadanego w innym kraju;
+
+- **5)** nierezydentem w rozumieniu przepisów Prawa dewizowego będącym osobą fizyczną prowadzącą działalność gospodarczą, podaje jego:
+    - **a)** NIP albo
+    - **b)** kraj wydania i numer paszportu, albo
+    - **c)** numer identyfikacyjny nadany w innym kraju, w szczególności numer podatkowy lub numer ubezpieczeniowy, jeżeli nierezydent nie posiada numeru identyfikatora podatkowego, albo
+    - **d)** imię i nazwisko, firmę lub nazwę oraz datę urodzenia, albo
+    - **e)** adres miejsca prowadzenia działalności gospodarczej, w tym adres głównego miejsca prowadzenia działalności gospodarczej, jeżeli nierezydent nie posiada NIP, paszportu lub numeru identyfikacyjnego nadanego w innym kraju;
+
+- **6)** nierezydentem w rozumieniu przepisów Prawa dewizowego będącym osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, podaje jego:
+    - **a)** NIP albo
+    - **b)** numer identyfikacyjny nadany w innym kraju, w szczególności numer podatkowy, jeżeli nierezydent nie posiada numeru identyfikatora podatkowego, albo
+    - **c)** firmę lub nazwę oraz adres siedziby, jeżeli nierezydent nie posiada NIP lub numeru identyfikacyjnego nadanego w innym kraju.
+
+**§ 8.** Wierzyciel, po jego uwierzytelnieniu w systemie, na podstawie podanego identyfikatora i hasła wprowadza dane do rejestru.
+
+**§ 9.** W przypadku wprowadzania do rejestru danych dotyczących:
+
+- **1)** oznaczenia wierzyciela, podaje się:
+    - **a)** jego nazwę, adres siedziby lub jego jednostki organizacyjnej, a jeżeli wierzyciel posiada obsługujący go urząd – adres tego urzędu,
+    - **b)** NIP wierzyciela, a jeżeli wierzyciel go nie posiada – urzędu obsługującego wierzyciela lub jednostki samorządu terytorialnego, której organ jest wierzycielem;
+
+- **2)** podstawy prawnej należności pieniężnej, podaje się:
+    - **a)** rodzaj dokumentu, o którym mowa w art. 3a § 1 i art. 18b § 1 pkt 2–4 ustawy, nazwę organu, który wydał ostateczną decyzję, postanowienie lub inne orzeczenie, datę i numer tej decyzji, postanowienia lub innego orzeczenia, nazwę organu, który wydał prawomocny wyrok, postanowienie lub mandat karny na podstawie przepisów Kodeksu karnego skarbowego, Kodeksu karnego lub Kodeksu postępowania w sprawach o wykroczenia, datę i sygnaturę wyroku albo postanowienia, datę, serię i numer mandatu karnego, albo
+    - **b)** przepis prawa, jeżeli obowiązek uiszczenia należności pieniężnej wynika bezpośrednio z przepisu prawa.
+
+**§ 10.**
+
+1. W przypadku wprowadzania do rejestru informacji, o których mowa w art. 18f § 1:
+
+- **1)** pkt 1, 2 i 5–8 ustawy, podaje się wysokość należności pieniężnej będącej przedmiotem tej informacji;
+- **2)** pkt 9 ustawy, podaje się:
+    - **a)** nazwę organu, który wydał postanowienie o umorzeniu postępowania egzekucyjnego w pierwszej instancji,
+    - **b)** numer i datę wydania postanowienia, o którym mowa w lit. a,
+    - **c)** wysokość należności pieniężnej niewyegzekwowanej w postępowaniu egzekucyjnym będącej przedmiotem tej informacji.
+
+2. W przypadku wprowadzania do rejestru informacji dotyczących ustania okoliczności, o których mowa w art. 18f § 1:
+
+- **1)** pkt 1 ustawy, podaje się informację o wygaśnięciu, uchyleniu lub stwierdzeniu nieważności decyzji o odroczeniu terminu zapłaty należności pieniężnej;
+- **2)** pkt 2 ustawy, podaje się informację o wygaśnięciu, uchyleniu lub stwierdzeniu nieważności decyzji o rozłożeniu na raty spłaty należności pieniężnej;
+- **3)** pkt 3, 4, 6 i 7 ustawy, podaje się odpowiednio informację o zakończeniu postępowania;
+- **4)** pkt 8 ustawy, podaje się informację o zakończeniu postępowania wszczętego sprzeciwem;
+- **5)** pkt 9 ustawy, podaje się informację o zakończeniu postępowania, w którym uchylono lub stwierdzono nieważność postanowienia o umorzeniu postępowania egzekucyjnego.
+
+**§ 11.** Do rejestru wprowadza się dane w formacie XML według struktury logicznej udostępnionej w Biuletynie Informacji Publicznej na stronie podmiotowej organu prowadzącego rejestr.
+
+**§ 12.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: T. Czerwińska
 

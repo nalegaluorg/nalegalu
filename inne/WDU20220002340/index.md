@@ -30,10 +30,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 15 lipca 2021 r. zmieniającego rozporządzenie w sprawie wzorów legitymacji służbowych pracowników urzędu zapewniającego obsługę ministra właściwego do spraw gospodarki wodnej oraz pracowników Państwowego Gospodarstwa Wodnego Wody Polskie (Dz. U. poz. 1369), które stanowią: „ § 2. Legitymacje służbowe pracowników urzędu zapewniającego obsługę ministra właściwego do spraw gospodarki wodnej, wydane na podstawie rozporządzenia, o którym mowa w § 1, w brzmieniu dotychczasowym, zachowują ważność do dnia zastąpienia ich legitymacjami zgodnymi ze wzorem określonym w załączniku do niniejszego rozporządzenia, nie dłużej jednak niż przez okres 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia. § 3. Rozporządzenie wchodzi w życie po upływie miesiąca od dnia ogłoszenia.”. Minister Infrastruktury: A. Adamczyk
 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 22 grudnia 2017 r.
 w sprawie wzorów legitymacji służbowych pracowników urzędu zapewniającego obsługę ministra właściwego do spraw gospodarki wodnej oraz pracowników Państwowego Gospodarstwa Wodnego Wody Polskie Na podstawie art. 338 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2021 r. poz. 2233, z późn. zm. ) zarządza się, co następuje:
-§ 1. Wzór legitymacji służbowej pracownika:
-1) urzędu zapewniającego obsługę ministra właściwego do spraw gospodarki wodnej określa załącznik nr 1 do rozporządzenia;
-2) Państwowego Gospodarstwa Wodnego Wody Polskie określa załącznik nr 2 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
+
+**§ 1.** Wzór legitymacji służbowej pracownika:
+
+- **1)** urzędu zapewniającego obsługę ministra właściwego do spraw gospodarki wodnej określa załącznik nr 1 do rozporządzenia;
+- **2)** Państwowego Gospodarstwa Wodnego Wody Polskie określa załącznik nr 2 do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
 
 ## Załączniki do rozporządzenia Ministra Środowiska z dnia 22 grudnia 2017 r. (Dz. U. z 2022 r.
 

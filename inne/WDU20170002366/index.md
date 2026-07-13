@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie zakresu danych udostępnianych w postaci elektronicznej z centralnej ewidencji pojazdów Na podstawie art. 80cb ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r.
 poz. 1260 i 1926) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Cyfryzacji z dnia 8 listopada 2017 r. w sprawie zakresu danych udostępnianych w postaci elektronicznej z centralnej ewidencji pojazdów (Dz. U. poz. 2085) w § 6 pkt 1 otrzymuje brzmienie: „1) w § 2, udostępnia się od dnia 16 lutego 2018 r., z wyjątkiem danych określonych w pkt 19 i 23, które udostępnia się od dnia 4 czerwca 2018 r.;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 20 grudnia 2017 r.
-Minister Cyfryzacji: A. Streżyńska
+
+**§ 1.** W rozporządzeniu Ministra Cyfryzacji z dnia 8 listopada 2017 r. w sprawie zakresu danych udostępnianych w postaci elektronicznej z centralnej ewidencji pojazdów (Dz. U. poz. 2085) w § 6 pkt 1 otrzymuje brzmienie: „1) w § 2, udostępnia się od dnia 16 lutego 2018 r., z wyjątkiem danych określonych w pkt 19 i 23, które udostępnia się od dnia 4 czerwca 2018 r.;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 20 grudnia 2017 r. Minister Cyfryzacji: A. Streżyńska
 

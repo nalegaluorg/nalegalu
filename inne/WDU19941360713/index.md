@@ -8,10 +8,10 @@ pos: 713
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Obwieszczenie Prezesa Trybunału Konstytucyjnegoz dnia 9 grudnia 1994 r. o utracie mocy obowiązującej art. 17 pkt 2 ustawy o zmianie niektórych ustaw regulujących zasady opodatkowania oraz niektórych innych ustaw
+# Dziennik Ustaw Nr 136 - 2592 1 2 do 200 km 10,24 do 250 km 12,16 do 300 km 14,08 do 350 km 15,04 do 400 km 18,24 do 450 km 20,16 do 500 km 21,60 do 600 km 25,20 do 700 km 28 do 800 km 33,60 do 900 km 36,40 do 1000 km i 38,80
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,7 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941360713) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/713/text.pdf) |
 
-Treść obwieszczenia
-W wykonaniu orzeczenia Trybunału Konstytucyjnego z dnia 24 maja 1994 r. sygn. K 1/94 i z mocy art. 7 ust. 2 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym (Dz. U. z 1991 r. Nr 109, poz. 470, z 1993 r. Nr 47, poz. 213 i z 1994 r. Nr 122, poz. 593) oraz uchwały Trybunału Konstytucyjnego z dnia 20 października 1993 r. (Dz. U. Nr 105, poz. 481) ogłaszam utratę mocy obowiązującej art. 17 pkt 2 ustawy z dnia 6 marca 1993 r. o zmianie niektórych ustaw regulujących zasady opodatkowania oraz niektórych innych ustaw (Dz. U. Nr 28, poz. 127, z 1994 r. Nr 87, poz. 406) w części dotyczącej postanowień art. 1 pkt 13 lit. f) tej ustawy w zakresie, w jakim odnosi się do okresu poprzedzającego dzień jej ogłoszenia w Dzienniku Ustaw. Obwieszczenie podlega ogłoszeniu w Dzienniku Ustaw Rzeczypospolitej Polskiej.
+4) w § 5 w ust. 1 wyrazy" 16.000 wyrazami" 1.60
+§ 2. wchodzi w z dniem 1 stycznia 1995 713 OBWIESZCZENIE PREZESA z dnia 9 grudnia 1994 o utracie mocy art. 17 pkt 2 ustawy o zmianie opodatkowania oraz niektórych W wykonaniu orzeczenia Konstytucyjnego innych z dnia 24 maja 1994 r. sygn. K 1/94 i z mocy art. 7 ust. 406) 2 ustawyzdnia 29 1985 r. o Trybunale Konstytucyj ustawy nym (Dz. U. z 1991 r. Nr 109, poz. 470, z 1993 r. Nr 47, poz.
+213 i z 1994 r. Nr 122, poz. 593) oraz Konstytucyjnego z dnia 20 1993 r. (Dz. U. Nr Obwieszczenie 105, poz. 481) mocy art. 17 Rzeczypospol pkt 2 ustawy z dnia 6 marca 1993 r. o zmianie niektórych ustaw zasady opodatkowania oraz niektórych ISSN 0867-3411
 

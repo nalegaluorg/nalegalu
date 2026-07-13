@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000266) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/266/text.pdf) |
 
 zmieniające rozporządzenie w sprawie równoważnika pieniężnego w zamian za umundurowanie oraz za czyszczenie chemiczne umundurowania dla funkcjonariuszy Służby Więziennej Na podstawie art. 156 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2022 r. poz. 2470 oraz z 2023 r. poz. 240) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 9 lutego 2011 r. w sprawie równoważnika pieniężnego w zamian za umundurowanie oraz za czyszczenie chemiczne umundurowania dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 157) wprowadza się następujące zmiany:
-1) w § 2 w ust. 1 w pkt 1 w lit. a wprowadzenie do wyliczenia otrzymuje brzmienie: „generał i generał inspektor:”;
-2) w § 3 w ust. 1 w pkt 1 w lit. a wprowadzenie do wyliczenia otrzymuje brzmienie: „generał i generał inspektor:”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 9 lutego 2011 r. w sprawie równoważnika pieniężnego w zamian za umundurowanie oraz za czyszczenie chemiczne umundurowania dla funkcjonariuszy Służby Więziennej (Dz. U. poz. 157) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w ust. 1 w pkt 1 w lit. a wprowadzenie do wyliczenia otrzymuje brzmienie: „generał i generał inspektor:”;
+- **2)** w § 3 w ust. 1 w pkt 1 w lit. a wprowadzenie do wyliczenia otrzymuje brzmienie: „generał i generał inspektor:”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

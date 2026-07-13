@@ -27,11 +27,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000721) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/721/text.pdf) |
 
 w sprawie wynagrodzenia zasadniczego asystentów sędziów Na podstawie art. 155 § 6 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa minimalną i maksymalną wysokość wynagrodzenia zasadniczego asystentów sędziów w sądach powszechnych.
-§ 2. Ustala się następującą wysokość stawek wynagrodzenia zasadniczego asystentów sędziów:
-1) na stanowisku młodszego asystenta sędziego: 5000 zł – 5500 zł;
-2) na stanowisku asystenta sędziego: 6700 zł – 8240 zł;
-3) na stanowisku starszego asystenta sędziego: 8240 zł – 9270 zł.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: W. Żurek
+
+**§ 1.** Rozporządzenie określa minimalną i maksymalną wysokość wynagrodzenia zasadniczego asystentów sędziów w sądach powszechnych.
+
+**§ 2.** Ustala się następującą wysokość stawek wynagrodzenia zasadniczego asystentów sędziów:
+
+- **1)** na stanowisku młodszego asystenta sędziego: 5000 zł – 5500 zł;
+- **2)** na stanowisku asystenta sędziego: 6700 zł – 8240 zł;
+- **3)** na stanowisku starszego asystenta sędziego: 8240 zł – 9270 zł.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: W. Żurek
 

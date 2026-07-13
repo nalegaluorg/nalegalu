@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie zmiany nazwy Państwowej Wyższej Szkoły Zawodowej im. Prezydenta Stanisława Wojciechowskiego w Kaliszu Na podstawie art. 35 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r.
 poz. 85, 374, 695, 875 i 1086) zarządza się, co następuje:
-§ 1. Z dniem 1 września 2020 r. zmienia się nazwę Państwowej Wyższej Szkoły Zawodowej im. Prezydenta Stanisława Wojciechowskiego w Kaliszu na Akademię Kaliską im. Prezydenta Stanisława Wojciechowskiego.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Nauki i Szkolnictwa Wyższego: W. Murdzek
+
+**§ 1.** Z dniem 1 września 2020 r. zmienia się nazwę Państwowej Wyższej Szkoły Zawodowej im. Prezydenta Stanisława Wojciechowskiego w Kaliszu na Akademię Kaliską im. Prezydenta Stanisława Wojciechowskiego.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Nauki i Szkolnictwa Wyższego: W. Murdzek
 

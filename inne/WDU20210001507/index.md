@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wyposażenia lokalu przeznaczonego do wykonywania działalności kantorowej oraz sposobu prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych Na podstawie art. 17d ustawy z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2020 r. poz. 1708 oraz z 2021 r.
 poz. 815) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 24 września 2004 r. w sprawie wyposażenia lokalu przeznaczonego do wykonywania działalności kantorowej oraz sposobu prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych (Dz. U. poz. 2220) w § 2 w ust. 2:
-1) w pkt 2 uchyla się lit. c;
-2) uchyla się pkt 6.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów, Funduszy i Polityki Regionalnej: wz. S. Skuza
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 24 września 2004 r. w sprawie wyposażenia lokalu przeznaczonego do wykonywania działalności kantorowej oraz sposobu prowadzenia ewidencji i wydawania dowodów kupna i sprzedaży wartości dewizowych (Dz. U. poz. 2220) w § 2 w ust. 2:
+
+- **1)** w pkt 2 uchyla się lit. c;
+- **2)** uchyla się pkt 6.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów, Funduszy i Polityki Regionalnej: wz. S. Skuza
 

@@ -26,14 +26,19 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002719) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2719/text.pdf) |
 
 zmieniające rozporządzenie w sprawie regulaminu konkursu na stanowisko dyrektora publicznej szkoły artystycznej lub publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania oraz trybu pracy komisji konkursowej Na podstawie art. 63 ust. 20 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 29 marca 2018 r. w sprawie regulaminu konkursu na stanowisko dyrektora publicznej szkoły artystycznej lub publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania oraz trybu pracy komisji konkursowej (Dz. U. poz. 694 oraz z 2021 r. poz. 2007) w § 1 w ust. 2 w pkt 4 wprowadza się następujące zmiany:
-1) w lit. e wyrazy „studiów wyższych” zastępuje się wyrazami „studiów pierwszego stopnia, studiów drugiego stopnia, jednolitych studiów magisterskich”;
-2) w lit. m skreśla się wyrazy „lub oceny dorobku zawodowego”;
-3) lit. n otrzymuje brzmienie: „n) oświadczenia, że kandydat nie był prawomocnie ukarany karą dyscyplinarną, o której mowa w art. 76 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2021 r. poz. 1762 oraz z 2022 r. poz. 935, 1116, 1700 i 1730), lub karą dyscyplinarną, o której mowa w art. 276 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm. ), lub karą dyscyplinarną, o której mowa w art. 140 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U.
-z 2017 r. poz. 2183, z późn. zm. ) – w przypadku nauczyciela i nauczyciela akademickiego,”;
-4) lit. p otrzymuje brzmienie: „p) oświadczenia, że kandydat wyraża zgodę na przetwarzanie danych osobowych zgodnie z ustawą z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781).”.
-§ 2. 1. Konkursy na stanowiska dyrektorów publicznych szkół artystycznych lub publicznych placówek zapewniających opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania, o których mowa w art. 2 pkt 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, ogłoszone i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia są prowadzone według przepisów rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 29 marca 2018 r. w sprawie regulaminu konkursu na stanowisko dyrektora publicznej szkoły artystycznej lub publicznej placówki zapewniającej opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania oraz trybu pracy komisji konkursowej (Dz. U. poz. 694 oraz z 2021 r. poz. 2007) w § 1 w ust. 2 w pkt 4 wprowadza się następujące zmiany:
+
+- **1)** w lit. e wyrazy „studiów wyższych” zastępuje się wyrazami „studiów pierwszego stopnia, studiów drugiego stopnia, jednolitych studiów magisterskich”;
+- **2)** w lit. m skreśla się wyrazy „lub oceny dorobku zawodowego”;
+- **3)** lit. n otrzymuje brzmienie: „n) oświadczenia, że kandydat nie był prawomocnie ukarany karą dyscyplinarną, o której mowa w art. 76 ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2021 r. poz. 1762 oraz z 2022 r. poz. 935, 1116, 1700 i 1730), lub karą dyscyplinarną, o której mowa w art. 276 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r. poz. 574, z późn. zm. ), lub karą dyscyplinarną, o której mowa w art. 140 ust. 1 ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm. ) – w przypadku nauczyciela i nauczyciela akademickiego,”;
+- **4)** lit. p otrzymuje brzmienie: „p) oświadczenia, że kandydat wyraża zgodę na przetwarzanie danych osobowych zgodnie z ustawą z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781).”.
+
+**§ 2.**
+
+1. Konkursy na stanowiska dyrektorów publicznych szkół artystycznych lub publicznych placówek zapewniających opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania, o których mowa w art. 2 pkt 8 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, ogłoszone i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia są prowadzone według przepisów rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+
 2. Do dnia 31 sierpnia 2027 r. przez poświadczoną przez kandydata za zgodność z oryginałem kopię karty oceny pracy, o której mowa w § 1 ust. 2 pkt 4 lit. m rozporządzenia zmienianego w § 1, rozumie się także poświadczoną przez kandydata kopię karty oceny dorobku zawodowego.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

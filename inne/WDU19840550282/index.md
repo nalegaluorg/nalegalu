@@ -8,7 +8,7 @@ pos: 282
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
 # Ustawa z dnia 3 grudnia 1984 r. o uznaniu ważności umów o przekazanie gospodarstwa rolnego następcy

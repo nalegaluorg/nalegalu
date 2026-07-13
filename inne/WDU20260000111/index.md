@@ -26,10 +26,9 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000111) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/111/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. z 2023 r. poz. 2112), z uwzględnieniem zmian wprowadzonych ustawą z dnia 5 sierpnia 2025 r. o zmianie ustawy o weteranach działań poza granicami państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o finansach publicznych (Dz. U. poz. 1180) oraz zmian wynikających z przepisów ogłoszonych przed dniem 22 stycznia 2026 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 4 i art. 5 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy o weteranach działań poza granicami państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o finansach publicznych (Dz. U. poz. 1180), które stanowią: „Art. 4. 1. Wnioski o przyznanie rekompensaty, o których mowa w art. 36d ustawy zmienianej w art. 1, dotyczące uszczerbku na zdrowiu orzeczonego w związku z wypadkiem pozostającym w związku z działaniami poza granicami państwa lub chorobą nabytą podczas wykonywania zadań lub obowiązków służbowych w ramach działań poza granicami państwa zaistniałymi przed dniem wejścia w życie niniejszej ustawy, mogą być składane w ciągu 2 lat od dnia wejścia w życie niniejszej ustawy.
-2. Przez czas trwania postępowania w przedmiocie przyznania statusu weterana poszkodowanego bieg terminu, o którym mowa w ust. 1, ulega zawieszeniu.
-
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 4 i art. 5 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy o weteranach działań poza granicami państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o finansach publicznych (Dz. U. poz. 1180), które stanowią: „ Art. 4. 1. Wnioski o przyznanie rekompensaty, o których mowa w art. 36d ustawy zmienianej w art. 1, dotyczące uszczerbku na zdrowiu orzeczonego w związku z wypadkiem pozostającym w związku z działaniami poza granicami państwa lub chorobą nabytą podczas wykonywania zadań lub obowiązków służbowych w ramach działań poza granicami państwa zaistniałymi przed dniem wejścia w życie niniejszej ustawy, mogą być składane w ciągu 2 lat od dnia wejścia w życie niniejszej ustawy. 2. Przez czas trwania postępowania w przedmiocie przyznania statusu weterana poszkodowanego bieg terminu, o którym mowa w ust. 1, ulega zawieszeniu. Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty
+USTAWA z dnia 19 sierpnia 2011 r.
+o weteranach działań poza granicami państwa
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -637,7 +636,7 @@ source: pdf
 
 5. Dodatkowy urlop, o którym mowa w ust. 1 i 2, wykorzystuje się w całości w roku kalendarzowym, w którym weteran oraz weteran poszkodowany pozostający w stosunku pracy mają do niego prawo, w terminie uzgodnionym z pracodawcą. Za niewykorzystany urlop nie przysługuje ekwiwalent pieniężny.
 
-6. Do dodatkowego urlopu, o którym mowa w ust. 1 i 2, stosuje się odpowiednio przepisy art. 154 , art. 172 oraz art. 172 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25).
+6. Do dodatkowego urlopu, o którym mowa w ust. 1 i 2, stosuje się odpowiednio przepisy art. 154 2 , art. 172 oraz art. 172 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25).
 
 #### Rozdział 6 Dodatek weterana poszkodowanego
 

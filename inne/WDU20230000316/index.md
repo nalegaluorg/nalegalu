@@ -26,15 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000316) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/316/text.pdf) |
 
 zmieniające rozporządzenie w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej Na podstawie art. 19 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969 oraz z 2023 r. poz. 240) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 11 lipca 1992 r. w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1763) § 6–8 otrzymują brzmienie: „§ 6. 1. Sztandar nadaje minister właściwy do spraw wewnętrznych aktem nadania.
-2. Sztandar może otrzymać każda jednostka.
-3. Wnioski o nadanie sztandaru przedstawia ministrowi właściwemu do spraw wewnętrznych:
-1) właściwy miejscowo komendant wojewódzki Państwowej Straży Pożarnej za pośrednictwem Komendanta Głównego Państwowej Straży Pożarnej – w przypadku komend powiatowych (miejskich) Państwowej Straży Pożarnej;
-2) Komendant Główny Państwowej Straży Pożarnej – w przypadku jednostek innych niż wymienione w pkt 1.
-§ 7. Sztandar wraz z aktem nadania wręcza minister właściwy do spraw wewnętrznych lub Komendant Główny Państwowej Straży Pożarnej albo wręczają je ich przedstawiciele.
-§ 8. W razie rozwiązania jednostki pozostały po niej sztandar przekazuje się do:
-1) właściwej miejscowo komendy wojewódzkiej Państwowej Straży Pożarnej – w przypadku komend powiatowych (miejskich) Państwowej Straży Pożarnej;
-2) Komendy Głównej Państwowej Straży Pożarnej – w przypadku jednostek innych niż wymienione w pkt 1.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 11 lipca 1992 r. w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1763) § 6–8 otrzymują brzmienie: „§ 6. 1. Sztandar nadaje minister właściwy do spraw wewnętrznych aktem nadania. 2. Sztandar może otrzymać każda jednostka. 3. Wnioski o nadanie sztandaru przedstawia ministrowi właściwemu do spraw wewnętrznych: 1) właściwy miejscowo komendant wojewódzki Państwowej Straży Pożarnej za pośrednictwem Komendanta Głównego Państwowej Straży Pożarnej – w przypadku komend powiatowych (miejskich) Państwowej Straży Pożarnej; 2) Komendant Główny Państwowej Straży Pożarnej – w przypadku jednostek innych niż wymienione w pkt 1. § 7. Sztandar wraz z aktem nadania wręcza minister właściwy do spraw wewnętrznych lub Komendant Główny Państwowej Straży Pożarnej albo wręczają je ich przedstawiciele. § 8. W razie rozwiązania jednostki pozostały po niej sztandar przekazuje się do: 1) właściwej miejscowo komendy wojewódzkiej Państwowej Straży Pożarnej – w przypadku komend powiatowych (miejskich) Państwowej Straży Pożarnej; 2) Komendy Głównej Państwowej Straży Pożarnej – w przypadku jednostek innych niż wymienione w pkt 1.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

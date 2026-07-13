@@ -27,16 +27,16 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie grzybów dopuszczonych do obrotu lub produkcji przetworów grzybowych, środków spożywczych zawierających grzyby oraz uprawnień klasyfikatora grzybów i grzyboznawcy Na podstawie art. 44 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2020 r.
 poz. 2021) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 17 maja 2011 r. w sprawie grzybów dopuszczonych do obrotu lub produkcji przetworów grzybowych, środków spożywczych zawierających grzyby oraz uprawnień klasyfikatora grzybów i grzyboznawcy (Dz. U. z 2020 r. poz. 1048) w załączniku nr 2 wprowadza się następujące zmiany:
-1) w części „A. Półprodukty”:
-a) w ust. 4 pkt 1 otrzymuje brzmienie: „1) do ich sporządzenia użyto jednego z gatunków grzybów świeżych wymienionych w pkt 1–2, 4, 6–8, 11–26, 30, 32–42, 44 i 46–47 załącznika nr 1 do rozporządzenia;”,
-b) w ust. 5 pkt 1 otrzymuje brzmienie: „1) do ich sporządzenia użyto jednego z gatunków grzybów świeżych wymienionych w pkt 1–10, 13–26, 30, 32, 35–39, 43–44 i 46–47 załącznika nr 1 do rozporządzenia;”;
-2) w części „B. Produkty”:
-a) w ust. 4 w pkt 1 lit. a otrzymuje brzmienie: „a) został sporządzony przy użyciu jednego z gatunków grzybów świeżych wymienionych w pkt 1–2, 4–8, 13–25, 32–33 i 35–39 załącznika nr 1 do rozporządzenia,”,
-b) dodaje się ust. 10 w brzmieniu: „10. Mieszanka gatunków grzybów suszonych w postaci całych owocników, samych kapeluszy lub krajanki, płatków, grysiku lub mączki, sporządzona z kapeluszy łącznie z trzonami, których liczba nie może przekraczać liczby kapeluszy, jeżeli:
-1) do jej sporządzenia użyto kilku gatunków grzybów suszonych wymienionych w pkt 1–10, 13–26, 30, 32, 35–39, 43–44 i 46–47 załącznika nr 1 do rozporządzenia;
-2) nie zawiera więcej niż 12% wody;
-3) proces suszenia był prowadzony oddzielnie dla poszczególnych gatunków grzybów, o których mowa w pkt 1.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 17 maja 2011 r. w sprawie grzybów dopuszczonych do obrotu lub produkcji przetworów grzybowych, środków spożywczych zawierających grzyby oraz uprawnień klasyfikatora grzybów i grzyboznawcy (Dz. U. z 2020 r. poz. 1048) w załączniku nr 2 wprowadza się następujące zmiany:
+
+- **1)** w części „A. Półprodukty”:
+    - **a)** w ust. 4 pkt 1 otrzymuje brzmienie: „1) do ich sporządzenia użyto jednego z gatunków grzybów świeżych wymienionych w pkt 1–2, 4, 6–8, 11–26, 30, 32–42, 44 i 46–47 załącznika nr 1 do rozporządzenia;”,
+    - **b)** w ust. 5 pkt 1 otrzymuje brzmienie: „1) do ich sporządzenia użyto jednego z gatunków grzybów świeżych wymienionych w pkt 1–10, 13–26, 30, 32, 35–39, 43–44 i 46–47 załącznika nr 1 do rozporządzenia;”;
+
+- **2)** w części „B. Produkty”:
+    - **a)** w ust. 4 w pkt 1 lit. a otrzymuje brzmienie: „a) został sporządzony przy użyciu jednego z gatunków grzybów świeżych wymienionych w pkt 1–2, 4–8, 13–25, 32–33 i 35–39 załącznika nr 1 do rozporządzenia,”,
+    - **b)** dodaje się ust. 10 w brzmieniu: „10. Mieszanka gatunków grzybów suszonych w postaci całych owocników, samych kapeluszy lub krajanki, płatków, grysiku lub mączki, sporządzona z kapeluszy łącznie z trzonami, których liczba nie może przekraczać liczby kapeluszy, jeżeli: 1) do jej sporządzenia użyto kilku gatunków grzybów suszonych wymienionych w pkt 1–10, 13–26, 30, 32, 35–39, 43–44 i 46–47 załącznika nr 1 do rozporządzenia; 2) nie zawiera więcej niż 12% wody; 3) proces suszenia był prowadzony oddzielnie dla poszczególnych gatunków grzybów, o których mowa w pkt 1.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: A. Niedzielski
 

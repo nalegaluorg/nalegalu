@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# sygn. akt K. 22/99 Trybunał Konstytucyjny w składzie: Jerzy Stępień – przewodniczący, Zdzisław Czeszejko-Sochacki, Lech Garlicki, Jadwiga Skórzewska-Łosiak Janusz Trzciński – sprawozdawca, po rozpoznaniu w dniu 20 grudnia 1999 r. na rozprawie sprawy z wniosku Rzecznika Praw Obywatelskich z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej oraz Prokuratora Generalnego, o stwierdzenie, że art. 145 ust.2 w związku z art. 105 ust. 2 pkt 1 i 5 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. Nr 98, poz. 602, z późn. zm.) w zakresie, w jakim uzależnia wykonywanie zawodu dotychczasowych instruktorów i wykładowców nauki jazdy w ośrodkach szkolenia lub nauki jazdy, wykonujących te czynności w dniu wejścia w życie art. 2 ust.1 ustawy z dnia 27 lipca 1991 r. o zmianie ustawy z dnia 1 lutego 1983 r. – Prawo o ruchu drogowym (Dz. U. Nr 73, poz. 321), od posiadania średniego wykształcenia oraz zdania ponownego egzaminu przed komisją powołaną przez wojewodę, jest sprzeczny z art. 2 Konstytucji Rzeczypospolitej Polskiej, gdyż narusza zasadę zaufania obywatela do państwa i stanowionego prawa oraz zasadę ochrony praw niewadliwie nabytych, orzeka:
+# Wyrok Trybunału Konstytucyjnego z dnia 21 grudnia 1999 r. sygn. akt K. 22/99.
 
 | Pole | Wartość |
 |---|---|

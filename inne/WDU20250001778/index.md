@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001778) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1778/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od niektórych przychodów uzyskanych przez ekspertów narodowych z tytułu oddelegowania do pracy w instytucjach Unii Europejskiej Na podstawie art. 22 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 25 września 2023 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od niektórych przychodów uzyskanych przez ekspertów narodowych z tytułu oddelegowania do pracy w instytucjach Unii Europejskiej (Dz. U. poz. 2091) w § 2 wyrazy „31 grudnia 2025 r.” zastępuje się wyrazami „31 grudnia 2027 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów i Gospodarki: wz. H. Majszczyk
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 25 września 2023 r. w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od niektórych przychodów uzyskanych przez ekspertów narodowych z tytułu oddelegowania do pracy w instytucjach Unii Europejskiej (Dz. U. poz. 2091) w § 2 wyrazy „31 grudnia 2025 r.” zastępuje się wyrazami „31 grudnia 2027 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów i Gospodarki: wz. H. Majszczyk
 

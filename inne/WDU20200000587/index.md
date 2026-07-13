@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nagród ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego dla nauczycieli akademickich Na podstawie art. 458 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. − Prawo o szkolnictwie wyższym i nauce (Dz. U.
 z 2020 r. poz. 85 i 374) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 23 maja 2019 r. w sprawie nagród ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego dla nauczycieli akademickich (Dz. U. poz. 997) po § 11 dodaje się § 11a w brzmieniu: „§ 11a . W 2020 r. wnioski o przyznanie przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego nagród dla nauczycieli akademickich za znaczące osiągnięcia w zakresie działalności naukowej, dydaktycznej, wdrożeniowej lub organizacyjnej oraz za całokształt dorobku składa się w terminie do dnia 15 czerwca.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 23 maja 2019 r. w sprawie nagród ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego dla nauczycieli akademickich (Dz. U. poz. 997) po § 11 dodaje się § 11a w brzmieniu: „§ 11a . W 2020 r. wnioski o przyznanie przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego nagród dla nauczycieli akademickich za znaczące osiągnięcia w zakresie działalności naukowej, dydaktycznej, wdrożeniowej lub organizacyjnej oraz za całokształt dorobku składa się w terminie do dnia 15 czerwca.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

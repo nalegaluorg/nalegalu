@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie prowadzenia depozytu w stacjonarnym zakładzie opieki zdrowotnej Na podstawie art. 40 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U.
 z 2019 r. poz. 1127, 1128, 1590, 1655 i 1696) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 30 lipca 2009 r. w sprawie prowadzenia depozytu w stacjonarnym zakładzie opieki zdrowotnej (Dz. U. poz. 1068) w § 4 ust. 1 otrzymuje brzmienie: „1. Rzeczy wartościowe w depozycie przechowuje się w opakowaniu trwale zamkniętym, oznaczonym nadrukiem, naklejką lub pieczęcią zakładu, zawierającymi nazwę zakładu, jego adres, numer identyfikacji podatkowej (NIP) i numer telefonu, oraz oznaczonym numerem, pod którym depozyt został zapisany w księdze depozytów.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. J. Cieszyński
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 30 lipca 2009 r. w sprawie prowadzenia depozytu w stacjonarnym zakładzie opieki zdrowotnej (Dz. U. poz. 1068) w § 4 ust. 1 otrzymuje brzmienie: „1. Rzeczy wartościowe w depozycie przechowuje się w opakowaniu trwale zamkniętym, oznaczonym nadrukiem, naklejką lub pieczęcią zakładu, zawierającymi nazwę zakładu, jego adres, numer identyfikacji podatkowej (NIP) i numer telefonu, oraz oznaczonym numerem, pod którym depozyt został zapisany w księdze depozytów.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. J. Cieszyński
 

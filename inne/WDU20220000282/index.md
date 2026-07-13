@@ -26,13 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000282) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/282/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 28 kwietnia 1936 r. – Prawo wekslowe (Dz. U. z 2016 r. poz. 160), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 sierpnia 2021 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1655) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 grudnia 2021 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 8 i art. 9 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1655), które stanowią: „Art. 8. 1. W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, w których przed dniem wejścia w życie niniejszej ustawy został wydany nakaz zapłaty, stosuje się art. 480 § 1 i 2 ustawy zmienianej w art. 1 oraz art. 19 ust. 4 ustawy zmienianej w art. 6, w brzmieniu dotychczasowym.
-2. W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się art. 16 ust. 1 zdanie drugie ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą.
-3. Do weksli wystawionych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 8 i art. 9 ustawy z dnia 11 sierpnia 2021 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1655), które stanowią: „ Art. 8. 1. W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, w których przed dniem wejścia w życie niniejszej ustawy został wydany nakaz zapłaty, stosuje się art. 480 § 1 i 2 ustawy zmienianej w art. 1 oraz art. 19 ust. 4 ustawy zmienianej w art. 6, w brzmieniu dotychczasowym. 2. W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się art. 16 ust. 1 zdanie drugie ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą. 3. Do weksli wystawionych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. Art. 9. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek
+USTAWA z dnia 28 kwietnia 1936 r.
+Prawo wekslowe
 1. Przepisy ogólne
 1. Wtóropisy
-
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek USTAWA z dnia 28 kwietnia 1936 r. Prawo wekslowe
 
 ## TYTUŁ I Weksel trasowany
 

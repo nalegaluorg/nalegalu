@@ -26,9 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001673) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1673/text.pdf) |
 
 zmieniające rozporządzenie w sprawie dokonywania przez fundusz inwestycyjny zamknięty lokat, których przedmiotem są instrumenty pochodne oraz niektóre prawa majątkowe Na podstawie art. 154 ust. 6 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2022 r. poz. 1523 i 1488) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 30 kwietnia 2013 r. w sprawie dokonywania przez fundusz inwestycyjny zamknięty lokat, których przedmiotem są instrumenty pochodne oraz niektóre prawa majątkowe (Dz. U. z 2018 r.
-poz. 1726) w § 9 we wprowadzeniu do wyliczenia skreśla się wyraz „Rosji,”.
-§ 2. Fundusze inwestycyjne zamknięte oraz fundusze inwestycyjne zamknięte z wydzielonymi subfunduszami, które w dniu wejścia w życie niniejszego rozporządzenia posiadają lokaty w instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne, których bazę stanowią indeksy oparte o instrumenty notowane na rynku zorganizowanym zlokalizowanym na terytorium Rosji, są obowiązane dostosować skład lokat do przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: M. Rzeczkowska
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 30 kwietnia 2013 r. w sprawie dokonywania przez fundusz inwestycyjny zamknięty lokat, których przedmiotem są instrumenty pochodne oraz niektóre prawa majątkowe (Dz. U. z 2018 r. poz. 1726) w § 9 we wprowadzeniu do wyliczenia skreśla się wyraz „Rosji,”.
+
+**§ 2.** Fundusze inwestycyjne zamknięte oraz fundusze inwestycyjne zamknięte z wydzielonymi subfunduszami, które w dniu wejścia w życie niniejszego rozporządzenia posiadają lokaty w instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne, których bazę stanowią indeksy oparte o instrumenty notowane na rynku zorganizowanym zlokalizowanym na terytorium Rosji, są obowiązane dostosować skład lokat do przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: M. Rzeczkowska
 

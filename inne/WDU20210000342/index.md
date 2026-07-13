@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000342) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/342/text.pdf) |
 
 zmieniające rozporządzenie w sprawie właściwości urzędów skarbowych i izb administracji skarbowej w zakresie akcyzy Na podstawie art. 14 ust. 11 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722, 1747, 2320 i 2419 oraz z 2021 r. poz. 72 i 255) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. w sprawie właściwości urzędów skarbowych i izb administracji skarbowej w zakresie akcyzy (Dz. U. poz. 371) w załączniku w lp. XV pkt 2 otrzymuje brzmienie: 2 Urząd Skarbowy w Wałbrzychu powiaty: dzierżoniowski, kamiennogórski, karkonoski, kłodzki, lwówecki, świdnicki, wałbrzyski, ząbkowicki oraz miasta: Jelenia Góra i Wałbrzych
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. w sprawie właściwości urzędów skarbowych i izb administracji skarbowej w zakresie akcyzy (Dz. U. poz. 371) w załączniku w lp. XV pkt 2 otrzymuje brzmienie: 2 Urząd Skarbowy w Wałbrzychu powiaty: dzierżoniowski, kamiennogórski, karkonoski, kłodzki, lwówecki, świdnicki, wałbrzyski, ząbkowicki oraz miasta: Jelenia Góra i Wałbrzych
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
 

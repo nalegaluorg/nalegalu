@@ -30,9 +30,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 20 lipca 2022 r. zmieniającego rozporządzenie w sprawie nadania statutu Biebrzańskiemu Parkowi Narodowemu z siedzibą w Osowcu-Twierdzy (Dz. U. poz. 1647), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska: A. Moskwa
 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 w sprawie nadania statutu Biebrzańskiemu Parkowi Narodowemu z siedzibą w Osowcu-Twierdzy Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916, 1726 i 2185) zarządza się, co następuje:
-§ 1. Biebrzańskiemu Parkowi Narodowemu z siedzibą w Osowcu-Twierdzy nadaje się statut, który stanowi załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia .
-STATUT BIEBRZAŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W OSOWCU-TWIERDZY
+
+**§ 1.** Biebrzańskiemu Parkowi Narodowemu z siedzibą w Osowcu-Twierdzy nadaje się statut, który stanowi załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia . STATUT BIEBRZAŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W OSOWCU-TWIERDZY
+
+## Załącznik
+
 § 1. Biebrzański Park Narodowy z siedzibą w Osowcu-Twierdzy, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916, 1726 i
 2185) oraz niniejszego statutu.
 § 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:

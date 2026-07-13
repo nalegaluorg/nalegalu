@@ -29,51 +29,40 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska (Dz.U. Nr 62, poz. 627, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 3: z 2000 r. Nr 100, poz. 1086 i Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1189, Nr 115, poz. 1229 i Nr 125, poz. 1363 oraz z 2003 r. Nr 162, poz. 1568 i Nr 166, poz. 1612),”,
+- **1)** w art. 3:
     - **a)** w pkt 6 lit. c otrzymuje brzmienie: „c) budowle niebędące urządzeniami technicznymi ani ich zespołami,”,
     - **b)** pkt 31 otrzymuje brzmienie: „31) prowadzącym instalację - rozumie się przez to podmiot uprawniony na podstawie określonego tytułu prawnego do władania instalacją w celu jej eksploatacji zgodnie z wymaganiami ochrony środowiska, na zasadach wskazanych w ustawie,”,
     - **c)** w pkt 38 lit. e otrzymuje brzmienie: „e) wody pochodzące z odwodnienia zakładów górniczych, z wyjątkiem wód wtłaczanych do górotworu, jeżeli rodzaje i ilość substancji zawartych w wodzie wtłaczanej do górotworu są tożsame z rodzajami i ilością zawartymi w pobranej wodzie,”,
-    - **d)** pkt 40 otrzymuje brzmienie: „40) terenie zamkniętym - rozumie się przez to teren, a w szczególnych przypadkach obiekt budowlany lub jego część, dostępny wyłącznie dla osób uprawnionych oraz wyznaczony w sposób określony w ustawie z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne (Dz.U.
+    - **d)** pkt 40 otrzymuje brzmienie: „40) terenie zamkniętym - rozumie się przez to teren, a w szczególnych przypadkach obiekt budowlany lub jego część, dostępny wyłącznie dla osób uprawnionych oraz wyznaczony w sposób określony w ustawie z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne (Dz.U. z 2000 r. Nr 100, poz. 1086 i Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1189, Nr 115, poz. 1229 i Nr 125, poz. 1363 oraz z 2003 r. Nr 162, poz. 1568 i Nr 166, poz. 1612),”,
     - **e)** po pkt 42 dodaje się pkt 42a w brzmieniu: „42a) użytkowniku urządzenia - rozumie się przez to podmiot uprawniony na podstawie określonego tytułu prawnego do władania urządzeniem w celu jego eksploatacji zgodnie z wymaganiami ochrony środowiska, na zasadach wskazanych w ustawie,”,
     - **f)** pkt 49 otrzymuje brzmienie: „49) zanieczyszczeniu - rozumie się przez to emisję, która może być szkodliwa dla zdrowia ludzi lub stanu środowiska, może powodować szkodę w dobrach materialnych, może pogarszać walory estetyczne środowiska lub może kolidować z innymi, uzasadnionymi sposobami korzystania ze środowiska,”;
 
 - **2)** w art. 17:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Projekty programów ochrony środowiska podlegają zaopiniowaniu przez:
-
-- **1)** ministra właściwego do spraw środowiska - w przypadku projektów wojewódzkich programów ochrony środowiska,
-- **2)** organ wykonawczy województwa - w przypadku projektów powiatowych programów ochrony środowiska,
-- **3)** organ wykonawczy powiatu - w przypadku projektów gminnych programów ochrony środowiska.”,
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Projekty programów ochrony środowiska podlegają zaopiniowaniu przez: 1) ministra właściwego do spraw środowiska - w przypadku projektów wojewódzkich programów ochrony środowiska, 2) organ wykonawczy województwa - w przypadku projektów powiatowych programów ochrony środowiska, 3) organ wykonawczy powiatu - w przypadku projektów gminnych programów ochrony środowiska.”,
     - **b)** uchyla się ust. 3;
 
-- **3)** w art. 19 w ust. 2: Nr 76, poz. 811, z 2002 r. Nr 25, poz. 253 i Nr 41, poz. 365 oraz z 2003 r. Nr 130, poz. 1187).”;
+- **3)** w art. 19 w ust. 2:
     - **a)** pkt 1 otrzymuje brzmienie: „1) projekty polityk, strategii, planów lub programów, o których mowa w art. 40 ust. 1, oraz projekty zmian w tych dokumentach, przed skierowaniem ich do postępowania z udziałem społeczeństwa oraz w celu uzyskania opinii organu, o którym mowa w art. 45 i 381,”,
     - **b)** w pkt 24 uchyla się lit. b,
     - **c)** pkt 27 otrzymuje brzmienie: „27) z zakresu ustawy - Prawo wodne - wnioski o wydanie pozwolenia oraz pozwolenie wodnoprawne na pobór wód, a także decyzje nakazujące usunięcie drzew i krzewów,”,
-    - **d)** dodaje się pkt 29 w brzmieniu: „29) rejestry, o których mowa w art. 34, 40, 50 i 56 ustawy z dnia 22 czerwca 2001 r. o organizmach genetycznie zmodyfikowanych (Dz.U.
+    - **d)** dodaje się pkt 29 w brzmieniu: „29) rejestry, o których mowa w art. 34, 40, 50 i 56 ustawy z dnia 22 czerwca 2001 r. o organizmach genetycznie zmodyfikowanych (Dz.U. Nr 76, poz. 811, z 2002 r. Nr 25, poz. 253 i Nr 41, poz. 365 oraz z 2003 r. Nr 130, poz. 1187).”;
 
 - **4)** w art. 30:
     - **a)** w ust. 1: - pkt 2 otrzymuje brzmienie: „2) wyników pomiarów, o których mowa w art. 90 ust. 1 i 2,”, - po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) emisji i poboru wód, zgromadzone w wojewódzkiej bazie informacji o korzystaniu ze środowiska, o której mowa w art. 286a ust. 1,”, - pkt 10 otrzymuje brzmienie: „10) wyników badań, o których mowa w art. 49 ust. 2 i 3 ustawy Prawo wodne,”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Dostępne bazy danych prowadzą:
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Dostępne bazy danych prowadzą: 1) wojewoda - w zakresie informacji, o których mowa w ust. 1 pkt 3, oraz, z zastrzeżeniem pkt 2, w zakresie informacji, o których mowa w ust. 1 pkt 6 i 7, 2) starosta - w zakresie informacji, o których mowa w ust. 1 pkt 4 i 5, oraz, gdy dotyczy to terenów, o których mowa w art. 117 ust. 2 pkt 1 i ust. 3, w zakresie informacji, o których mowa w ust. 1 pkt 6 i 7, 3) wojewódzki inspektor ochrony środowiska - w zakresie informacji, o których mowa w ust. 1 pkt 1, 2, 8, 9, 9a i 10.”;
 
-- **1)** wojewoda - w zakresie informacji, o których mowa w ust. 1 pkt 3, oraz, z zastrzeżeniem pkt 2, w zakresie informacji, o których mowa w ust. 1 pkt 6 i 7,
-- **2)** starosta - w zakresie informacji, o których mowa w ust. 1 pkt 4 i 5, oraz, gdy dotyczy to terenów, o których mowa w art. 117 ust. 2 pkt 1 i ust. 3, w zakresie informacji, o których mowa w ust. 1 pkt 6 i 7,
-- **3)** wojewódzki inspektor ochrony środowiska - w zakresie informacji, o których mowa w ust. 1 pkt 1, 2, 8, 9, 9a i 10.”;
 - **5)** w art. 32 w ust. 1:
     - **a)** zdanie wstępne otrzymuje brzmienie: „Przed wydaniem decyzji wymagających udziału społeczeństwa organ administracji właściwy do ich wydania:”,
     - **b)** pkt 1 otrzymuje brzmienie: „1) podaje do publicznej wiadomości informację o zamieszczeniu w publicznie dostępnym wykazie danych o wniosku o wydanie decyzji oraz o możliwości składania uwag i wniosków, wskazując jednocześnie miejsce i 21-dniowy termin ich składania,”;
 
 - **6)** w art. 43 ust. 2 otrzymuje brzmienie: „2. Organ administracji, o którym mowa w ust. 1, z zastrzeżeniem ust. 3, zapewnia możliwość udziału społeczeństwa w postępowaniu w sprawie oceny oddziaływania na środowisko projektów, o których mowa w art. 40 ust. 1.”;
-- **7)** art. 45 otrzymuje brzmienie: „Art. 45. Organem właściwym do uzgadniania zakresu i stopnia szczegółowości informacji wymaganych w prognozie oddziaływania na środowisko oraz opiniowania projektów, o których mowa w art. 40, jest:
-- **1)** Główny Inspektor Sanitarny - w odniesieniu do postępowań przeprowadzanych przez centralne organy administracji rządowej,
-- **2)** państwowy wojewódzki inspektor sanitarny - w odniesieniu do pozostałych postępowań.”;
-- **8)** w art. 46: 1126, Nr 109, poz. 1157 i Nr 120, poz. 1268, z 2001 r. Nr 5, poz. 42, Nr 100, poz. 1085, Nr 110, poz. 1190, Nr 115, poz. 1229, Nr 120, poz. 1268, Nr 129, poz. 1439 i Nr 154, poz. 1800, z 2002 r. Nr 74, poz. 676 oraz z 2003 r. Nr 80, poz. 718),”, - po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) decyzja o pozwoleniu na rozbiórkę obiektów jądrowych, wydawana na podstawie ustawy, o której mowa w pkt 2,”;
+- **7)** art. 45 otrzymuje brzmienie: „Art. 45. Organem właściwym do uzgadniania zakresu i stopnia szczegółowości informacji wymaganych w prognozie oddziaływania na środowisko oraz opiniowania projektów, o których mowa w art. 40, jest: 1) Główny Inspektor Sanitarny - w odniesieniu do postępowań przeprowadzanych przez centralne organy administracji rządowej, 2) państwowy wojewódzki inspektor sanitarny - w odniesieniu do pozostałych postępowań.”;
+- **8)** w art. 46:
     - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Przedsięwzięcia powiązane technologicznie kwalifikuje się jako jedno przedsięwzięcie, także jeżeli są one realizowane przez różne podmioty.”,
-    - **b)** w ust. 4: - pkt 2 otrzymuje brzmienie: „2) decyzja o pozwoleniu na budowę obiektu budowlanego oraz decyzja o pozwoleniu na zmianę sposobu użytkowania obiektu budowlanego lub jego części, wydawana na podstawie ustawy z dnia 7 lipca 1994 r. - Prawo budowlane (Dz.U. z 2000 r. Nr 106, poz.
+    - **b)** w ust. 4: - pkt 2 otrzymuje brzmienie: „2) decyzja o pozwoleniu na budowę obiektu budowlanego oraz decyzja o pozwoleniu na zmianę sposobu użytkowania obiektu budowlanego lub jego części, wydawana na podstawie ustawy z dnia 7 lipca 1994 r. - Prawo budowlane (Dz.U. z 2000 r. Nr 106, poz. 1126, Nr 109, poz. 1157 i Nr 120, poz. 1268, z 2001 r. Nr 5, poz. 42, Nr 100, poz. 1085, Nr 110, poz. 1190, Nr 115, poz. 1229, Nr 120, poz. 1268, Nr 129, poz. 1439 i Nr 154, poz. 1800, z 2002 r. Nr 74, poz. 676 oraz z 2003 r. Nr 80, poz. 718),”, - po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) decyzja o pozwoleniu na rozbiórkę obiektów jądrowych, wydawana na podstawie ustawy, o której mowa w pkt 2,”;
 
 - **9)** w art. 48:
-    - **a)** w ust. 2 pkt 1 i 2 otrzymują brzmienie: „1) z organem ochrony środowiska, gdy dotyczy to decyzji, o której mowa w art. 46 ust. 4 pkt 1-2a i 4-7,
-
-- **2)** z organem określonym w art. 57, gdy dotyczy to decyzji, o której mowa w art. 46 ust. 4 pkt 1-2a.”,
+    - **a)** w ust. 2 pkt 1 i 2 otrzymują brzmienie: „1) z organem ochrony środowiska, gdy dotyczy to decyzji, o której mowa w art. 46 ust. 4 pkt 1-2a i 4-7, 2) z organem określonym w art. 57, gdy dotyczy to decyzji, o której mowa w art. 46 ust. 4 pkt 1-2a.”,
     - **b)** w ust. 4 zdanie wstępne otrzymuje brzmienie: „W sprawach, o których mowa w art. 46 ust. 4 pkt 2 i 2a, do przeprowadzenia uzgodnienia z organem ochrony środowiska oraz organem, o którym mowa w art. 57, jest obowiązany wnioskodawca, który przedstawia:”;
 
 - **10)** w art. 49:
@@ -82,12 +71,9 @@ source: pdf
 
 - **11)** w art. 51:
     - **a)** ust. 2 otrzymuje brzmienie: „2. Obowiązek sporządzenia raportu dla planowanego przedsięwzięcia, o którym mowa w ust. 1 pkt 2, stwierdza, w drodze postanowienia, organ właściwy do wydania decyzji, o której mowa w art. 46 ust. 4 pkt 1-7, określając jednocześnie zakres raportu o oddziaływaniu przedsięwzięcia na środowisko; właściwy organ uwzględnia łącznie szczegółowe uwarunkowania określone w ust. 8 pkt 2 i ocenia potrzebę sporządzenia raportu dla przedsięwzięć określonych w ust. 8 pkt 1, z zastrzeżeniem ust. 7.”,
-    - **b)** w ust. 3 pkt 1 i 2 otrzymują brzmienie: „1) organu ochrony środowiska, gdy dotyczy to decyzji, o której mowa w art. 46 ust. 4 pkt 1-2a i 4-7,
+    - **b)** w ust. 3 pkt 1 i 2 otrzymują brzmienie: „1) organu ochrony środowiska, gdy dotyczy to decyzji, o której mowa w art. 46 ust. 4 pkt 1-2a i 4-7, 2) organu określonego w art. 57, gdy dotyczy to decyzji, o której mowa w art. 46 ust. 4 pkt 1-2a.”,
+    - **c)** w ust. 8 pkt 1 i 2 otrzymują brzmienie: „1) rodzaje przedsięwzięć mogących znacząco oddziaływać na środowisko, wymagających sporządzenia raportu o oddziaływaniu na środowisko, oraz rodzaje przedsięwzięć, dla których obowiązek sporządzenia raportu może być wymagany, w tym przypadki, gdy zmiany dokonywane w obiektach są kwalifikowane jako takie przedsięwzięcia, biorąc pod uwagę: rodzaj działalności, wielkość produkcji i inne parametry techniczne, 2) szczegółowe uwarunkowania związane z kwalifikowaniem przedsięwzięcia do sporządzenia raportu, biorąc pod uwagę charakterystykę przedsięwzięcia, wielkość emisji, usytuowanie oraz rodzaj i skalę jego oddziaływania na środowisko.”;
 
-- **2)** organu określonego w art. 57, gdy dotyczy to decyzji, o której mowa w art. 46 ust. 4 pkt 1-2a.”,
-    - **c)** w ust. 8 pkt 1 i 2 otrzymują brzmienie: „1) rodzaje przedsięwzięć mogących znacząco oddziaływać na środowisko, wymagających sporządzenia raportu o oddziaływaniu na środowisko, oraz rodzaje przedsięwzięć, dla których obowiązek sporządzenia raportu może być wymagany, w tym przypadki, gdy zmiany dokonywane w obiektach są kwalifikowane jako takie przedsięwzięcia, biorąc pod uwagę: rodzaj działalności, wielkość produkcji i inne parametry techniczne,
-
-- **2)** szczegółowe uwarunkowania związane z kwalifikowaniem przedsięwzięcia do sporządzenia raportu, biorąc pod uwagę charakterystykę przedsięwzięcia, wielkość emisji, usytuowanie oraz rodzaj i skalę jego oddziaływania na środowisko.”;
 - **12)** w art. 52:
     - **a)** w ust. 1 zdanie wstępne otrzymuje brzmienie: „Raport o oddziaływaniu przedsięwzięcia na środowisko powinien zawierać, z zastrzeżeniem ust. 1a:”,
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Organ, określając zakres raportu, może - kierując się usytuowaniem, charakterem i skalą oddziaływania przedsięwzięcia na środowisko - odstąpić od wymagań co do zawartości raportu, o których mowa w ust. 1 pkt 10-12, oraz od wymagania opisu wariantu polegającego na niepodejmowaniu przedsięwzięcia lub wariantu najkorzystniejszego dla środowiska.”;
@@ -96,25 +82,13 @@ source: pdf
     - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) decyzją, o której mowa w art. 46 ust. 4 pkt 2 i 2a, dla przedsięwzięć, dla których sporządza się raport o oddziaływaniu przedsięwzięcia na środowisko, nałożyć na wnioskodawcę obowiązek przedstawienia analizy porealizacyjnej, określając zakres oraz termin jej przedstawienia.”,
     - **b)** ust. 2 otrzymuje brzmienie: „2. W analizie porealizacyjnej, o której mowa w ust. 1 pkt 2, dokonuje się porównania ustaleń zawartych w raporcie o oddziaływaniu przedsięwzięcia na środowisko i w decyzji, o której mowa w art. 46 ust. 4 pkt 2 i 2a, z rzeczywistym oddziaływaniem przedsięwzięcia na środowisko i działaniami podjętymi w celu jego ograniczenia.”;
 
-- **14)** w art. 57: o Państwowej Inspekcji Sanitarnej (Dz.U. z 1998 r. Nr 90, poz. 575, Nr 106, poz. 668 i Nr 117, poz. 756, z 1999 r. Nr 70, poz. 778, z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 29, poz. 320, Nr 37, poz. 329, Nr 42, poz. 473, Nr 63, poz. 634, Nr 125, poz. 1367, Nr 126, poz. 1382 i Nr 128, poz. 1407 i 1408, z 2002 r. Nr 37, poz. 329, Nr 74, poz. 676 i Nr 135, poz. 1145 oraz z 2003 r. Nr 80, poz.
+- **14)** w art. 57:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Organem właściwym do dokonania uzgodnienia przed wydaniem decyzji, o której mowa w art. 46 ust. 4 pkt 1-2a, oraz wydawania opinii w sprawie zakresu raportu o oddziaływaniu przedsięwzięcia na środowisko w odniesieniu do przedsięwzięć, o których mowa w art. 51 ust. 1 pkt 1, jest państwowy wojewódzki inspektor sanitarny, a organem właściwym do dokonania uzgodnienia przed wydaniem decyzji, o której mowa w art. 46 ust. 4 pkt 1 i 2, oraz wydawania opinii w sprawie obowiązku sporządzenia raportu i jego zakresu w odniesieniu do przedsięwzięć, o których mowa w art. 51 ust. 1 pkt 2, jest państwowy powiatowy inspektor sanitarny, z zastrzeżeniem ust. 1a.”,
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Organem właściwym w sprawach, o których mowa w ust. 1, w odniesieniu do przedsięwzięć, o których mowa w art. 51 ust. 1 pkt 2, jest państwowy wojewódzki lub graniczny inspektor sanitarny w zakresie zadań określonych dla tych organów w ustawie z dnia 14 marca 1985 r.
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Organem właściwym w sprawach, o których mowa w ust. 1, w odniesieniu do przedsięwzięć, o których mowa w art. 51 ust. 1 pkt 2, jest państwowy wojewódzki lub graniczny inspektor sanitarny w zakresie zadań określonych dla tych organów w ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz.U. z 1998 r. Nr 90, poz. 575, Nr 106, poz. 668 i Nr 117, poz. 756, z 1999 r. Nr 70, poz. 778, z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 29, poz. 320, Nr 37, poz. 329, Nr 42, poz. 473, Nr 63, poz. 634, Nr 125, poz. 1367, Nr 126, poz. 1382 i Nr 128, poz. 1407 i 1408, z 2002 r. Nr 37, poz. 329, Nr 74, poz. 676 i Nr 135, poz. 1145 oraz z 2003 r. Nr 80, poz. 717).”;
 
-- **717)** .”;
-- **15)** w art. 72 ust. 6 i 7 otrzymują brzmienie: „6. Minister właściwy do spraw środowiska, w porozumieniu z ministrem właściwym do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej, określi, w drodze rozporządzenia, rodzaje, zakres i sposób wykonania opracowań ekofizjograficznych, o których mowa w ust. 4, uwzględniając odpowiednio potrzeby, dla których sporządzane są te opracowania, konieczność zapewnienia trwałości podstawowych procesów przyrodniczych na obszarze objętym planem zagospodarowania przestrzennego oraz dane będące podstawą sporządzania tych opracowań.
-
-7. Przepisy ust. 1 pkt 2 i 4 stosuje się odpowiednio do planu zagospodarowania przestrzennego województwa.”;
-
+- **15)** w art. 72 ust. 6 i 7 otrzymują brzmienie: „6. Minister właściwy do spraw środowiska, w porozumieniu z ministrem właściwym do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej, określi, w drodze rozporządzenia, rodzaje, zakres i sposób wykonania opracowań ekofizjograficznych, o których mowa w ust. 4, uwzględniając odpowiednio potrzeby, dla których sporządzane są te opracowania, konieczność zapewnienia trwałości podstawowych procesów przyrodniczych na obszarze objętym planem zagospodarowania przestrzennego oraz dane będące podstawą sporządzania tych opracowań. 7. Przepisy ust. 1 pkt 2 i 4 stosuje się odpowiednio do planu zagospodarowania przestrzennego województwa.”;
 - **16)** w art. 73 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Przepis ust. 3 nie dotyczy budowy i rozbudowy zakładów na obszarach określanych w miejscowych planach zagospodarowania przestrzennego jako tereny przeznaczone do działalności produkcyjnej, składowania i magazynowania, jeżeli plany te nie zawierają ograniczeń dotyczących zakładów stwarzających zagrożenie dla życia lub zdrowia ludzi.”;
-- **17)** po art. 80 dodaje się art. 80a i 80b w brzmieniu: „Art. 80a. 1. Reklama i inny rodzaj promocji, zawierające informację o produkcie w zakresie określonym w art. 167 ust. 1, powinny być czytelne oraz powinny uwzględniać wymagania określone na podstawie art. 167 ust. 4 pkt 3.
-
-2. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw środowiska, kierując się zapewnieniem konsumentom możliwości łatwej oceny cech produktu istotnych z punktu widzenia ochrony środowiska, może określić, w drodze rozporządzenia, szczegółowe wymagania w zakresie zamieszczania w reklamie i materiałach promocyjnych informacji o produkcie, o której mowa w art. 167 ust. 1, w tym:
-
-- **1)** oznaczenie numeryczne pozwalające na identyfikację produktu lub grupy produktów oraz ich nazwy,
-- **2)** wymagania co do czytelności informacji o produkcie.
-
-**Art. 80b.** Nadzór nad przestrzeganiem wymagań, o których mowa w art. 80a ust. 2, sprawuje Inspekcja Handlowa.”;
-
+- **17)** po art. 80 dodaje się art. 80a i 80b w brzmieniu: „Art. 80a. 1. Reklama i inny rodzaj promocji, zawierające informację o produkcie w zakresie określonym w art. 167 ust. 1, powinny być czytelne oraz powinny uwzględniać wymagania określone na podstawie art. 167 ust. 4 pkt 3. 2. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw środowiska, kierując się zapewnieniem konsumentom możliwości łatwej oceny cech produktu istotnych z punktu widzenia ochrony środowiska, może określić, w drodze rozporządzenia, szczegółowe wymagania w zakresie zamieszczania w reklamie i materiałach promocyjnych informacji o produkcie, o której mowa w art. 167 ust. 1, w tym: 1) oznaczenie numeryczne pozwalające na identyfikację produktu lub grupy produktów oraz ich nazwy, 2) wymagania co do czytelności informacji o produkcie. Art. 80b. Nadzór nad przestrzeganiem wymagań, o których mowa w art. 80a ust. 2, sprawuje Inspekcja Handlowa.”;
 - **18)** w art. 81 w ust. 4 pkt 3 otrzymuje brzmienie: „3) ochrony dziko występujących zwierząt - określają przepisy ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz.U. z 1999 r. Nr 66, poz. 750, z 2000 r. Nr 120, poz. 1268 oraz z 2001 r. Nr 81, poz. 875, Nr 110, poz. 1189 i Nr 115, poz. 1229), ustawy z dnia 16 października 1991 r. o ochronie przyrody (Dz.U. z 2001 r. Nr 99, poz. 1079, Nr 100, poz. 1085, Nr 110, poz. 1189 i Nr 145, poz. 1623, z 2002 r. Nr 130, poz. 1112 oraz z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568), ustawy z dnia 13 października 1995 r. - Prawo łowieckie (Dz.U. z 2002 r. Nr 42, poz. 372 i Nr 113, poz. 984), a także ustawy z dnia 6 września 2001 r. o rybołówstwie morskim (Dz.U. Nr 129, poz. 1441 oraz z 2002 r. Nr 181, poz. 1514),”;
 - **19)** w art. 88 w ust. 2 zdanie wstępne otrzymuje brzmienie: „Na potrzeby ustalenia odpowiedniego sposobu oceny jakości powietrza w poszczególnych strefach wojewódzki inspektor ochrony środowiska dokonuje przynajmniej co 5 lat, z zastrzeżeniem ust. 4, klasyfikacji stref, odrębnie pod kątem poziomu każdej substancji, wyodrębniając strefy, w których:”;
 - **20)** w art. 89 w ust. 1 zdanie wstępne otrzymuje brzmienie: „Wojewódzki inspektor ochrony środowiska dokonuje co roku oceny poziomu substancji w powietrzu w danej strefie, a następnie dokonuje klasyfikacji stref, w których poziom:”;
@@ -130,88 +104,30 @@ source: pdf
 - **24)** w art. 105:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw środowiska, w porozumieniu z ministrem właściwym do spraw rolnictwa, w drodze rozporządzenia, określi standardy jakości gleby i ziemi, uwzględniając naturalne stężenia substancji w środowisku.”,
     - **b)** w ust. 2 zdanie wstępne otrzymuje brzmienie: „W rozporządzeniu, o którym mowa w ust. 1, zostaną uwzględnione:”;
-    - **c)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw środowiska, w porozumieniu z ministrem właściwym do spraw rolnictwa, uwzględniając naturalne stężenia substancji w środowisku, może określić, w drodze rozporządzenia:
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw środowiska, w porozumieniu z ministrem właściwym do spraw rolnictwa, uwzględniając naturalne stężenia substancji w środowisku, może określić, w drodze rozporządzenia: 1) standardy jakości gleby albo ziemi, używanych do określonych prac ziemnych, w tym używanych do tego celu osadów pochodzących z dna zbiorników powierzchniowych wód stojących lub wód płynących, 2) referencyjne metodyki wykonywania badania jakości gleby lub ziemi, 3) referencyjne metodyki modelowania rozprzestrzeniania substancji w glebie i ziemi.”;
 
-- **1)** standardy jakości gleby albo ziemi, używanych do określonych prac ziemnych, w tym używanych do tego celu osadów pochodzących z dna zbiorników powierzchniowych wód stojących lub wód płynących,
-- **2)** referencyjne metodyki wykonywania badania jakości gleby lub ziemi,
-- **3)** referencyjne metodyki modelowania rozprzestrzeniania substancji w glebie i ziemi.”;
 - **25)** w art. 119 dodaje się ust. 5 w brzmieniu: „5. Program dla terenu, o którym mowa w art. 117 ust. 2 pkt 2, powinien być określony w terminie 1 roku od dnia przedstawienia mapy akustycznej przez podmiot zobowiązany do jej sporządzenia.”;
 - **26)** art. 120 otrzymuje brzmienie: „Art. 120. Starosta przekazuje, niezwłocznie po sporządzeniu, zarządowi województwa, wojewódzkiemu inspektorowi ochrony środowiska i państwowemu wojewódzkiemu inspektorowi sanitarnemu mapy akustyczne, o których mowa w art. 118.”;
 - **27)** w art. 123 ust. 2 otrzymuje brzmienie: „2. Wojewódzki inspektor ochrony środowiska prowadzi okresowe badania kontrolne poziomów pól elektromagnetycznych w środowisku.”;
 - **28)** w art. 124 zdanie wstępne otrzymuje brzmienie: „Wojewódzki inspektor ochrony środowiska prowadzi, aktualizowany corocznie, rejestr zawierający informacje o terenach, na których stwierdzono przekroczenie dopuszczalnych poziomów pól elektromagnetycznych w środowisku, z wyszczególnieniem przekroczeń dotyczących:”;
-- **29)** w art. 135: z 2000 r. Nr 71, poz. 838 i Nr 86, poz. 958, z 2001 r. Nr 125, poz. 1371, z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 62, poz. 554, Nr 74, poz. 676, Nr 89, poz. 804, Nr 113, poz. 984, Nr 214, poz. 1816 i Nr 216, poz. 1826 oraz z 2003 r. Nr 80, poz. 717 i 721) obszar ograniczonego użytkowania wyznacza się na podstawie analizy porealizacyjnej. W pozwoleniu na budowę nakłada się obowiązek sporządzenia analizy porealizacyjnej po upływie 1 roku od dnia oddania obiektu do użytkowania i jej przedstawienia w terminie 18 miesięcy od dnia oddania obiektu do użytkowania.”;
+- **29)** w art. 135:
     - **a)** ust. 2 otrzymuje brzmienie: „2. Obszar ograniczonego użytkowania dla przedsięwzięcia mogącego znacząco oddziaływać na środowisko, o którym mowa w art. 51 ust. 1 pkt 1, lub dla zakładów, lub innych obiektów, gdzie jest eksploatowana instalacja, która jest kwalifikowana jako takie przedsięwzięcie, tworzy wojewoda, w drodze rozporządzenia.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Obszar ograniczonego użytkowania dla zakładów lub innych obiektów, niewymienionych w ust. 2, tworzy rada powiatu w drodze uchwały.”,
     - **c)** dodaje się ust. 3a w brzmieniu: „3a. Organy, o których mowa w ust. 2 i 3, tworząc obszar ograniczonego użytkowania, określają granice obszaru, ograniczenia w zakresie przeznaczenia terenu, wymagania techniczne dotyczące budynków oraz sposób korzystania z terenów wynikające z postępowania w sprawie oceny oddziaływania na środowisko lub analizy porealizacyjnej albo przeglądu ekologicznego.”,
     - **d)** ust. 4 otrzymuje brzmienie: „4. Jeżeli obowiązek utworzenia obszaru ograniczonego użytkowania wynika z postępowania w sprawie oceny oddziaływania na środowisko, przed utworzeniem tego obszaru nie wydaje się pozwolenia na użytkowanie obiektu budowlanego oraz nie rozpoczyna się jego użytkowania, gdy pozwolenie na użytkowanie nie jest wymagane, z zastrzeżeniem ust. 5. Obowiązek utworzenia obszaru ograniczonego użytkowania dla określonego zakładu lub innego obiektu stwierdza się w pozwoleniu na budowę.”,
-    - **e)** dodaje się ust. 5 w brzmieniu: „5. Jeżeli obowiązek utworzenia obszaru ograniczonego użytkowania wynika z postępowania w sprawie oceny oddziaływania na środowisko, dla przedsięwzięcia polegającego na budowie drogi krajowej w rozumieniu ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz.U.
+    - **e)** dodaje się ust. 5 w brzmieniu: „5. Jeżeli obowiązek utworzenia obszaru ograniczonego użytkowania wynika z postępowania w sprawie oceny oddziaływania na środowisko, dla przedsięwzięcia polegającego na budowie drogi krajowej w rozumieniu ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz.U. z 2000 r. Nr 71, poz. 838 i Nr 86, poz. 958, z 2001 r. Nr 125, poz. 1371, z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 62, poz. 554, Nr 74, poz. 676, Nr 89, poz. 804, Nr 113, poz. 984, Nr 214, poz. 1816 i Nr 216, poz. 1826 oraz z 2003 r. Nr 80, poz. 717 i 721) obszar ograniczonego użytkowania wyznacza się na podstawie analizy porealizacyjnej. W pozwoleniu na budowę nakłada się obowiązek sporządzenia analizy porealizacyjnej po upływie 1 roku od dnia oddania obiektu do użytkowania i jej przedstawienia w terminie 18 miesięcy od dnia oddania obiektu do użytkowania.”;
 
 - **30)** w art. 138 ust. 2 otrzymuje brzmienie: „2. Umowę o przeniesienie lub ustanowienie tytułu prawnego do instalacji, z której emisja wymaga pozwolenia, zawiera się w formie aktu notarialnego.”;
 - **31)** w art. 148 ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw środowiska określi, z zastrzeżeniem ust. 5, w drodze rozporządzenia, wymagania w zakresie prowadzenia pomiarów wielkości emisji, o których mowa w art. 147 ust. 1 i 2.”;
 - **32)** w art. 149 ust. 1 otrzymuje brzmienie: „1. Wyniki pomiarów, o których mowa w art. 147 ust. 1, 2 i 4, prowadzący instalację i użytkownik urządzenia przedstawia organowi ochrony środowiska, jeżeli pomiary te mają szczególne znaczenie ze względu na potrzebę zapewnienia systematycznej kontroli wielkości emisji.”;
-- **33)** art. 167 otrzymuje brzmienie: „Art. 167. 1. Produkt powinien być zaopatrzony w informację dotyczącą:
-- **1)** zużycia paliw lub materiałów eksploatacyjnych,
-- **2)** wielkości emisji związanej z użytkowaniem produktu,
-- **3)** bezpiecznego dla środowiska użytkowania, demontażu, powtórnego wykorzystania lub unieszkodliwienia produktu.
-
-2. Sprzedawca produktów powinien zapewnić, aby informacja, o której mowa w ust. 1, znajdowała się także w miejscach sprzedaży produktu.
-
-3. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw środowiska, uwzględniając cechy produktów oraz ich oddziaływanie w trakcie użytkowania oraz po ich zużyciu, określi, w drodze rozporządzenia, produkty objęte obowiązkami, o których mowa w ust. 1 i 2, a także szczegółowy sposób realizacji obowiązków w tym zakresie.
-
-4. W rozporządzeniu, o którym mowa w ust. 3, zostaną ustalone:
-
-- **1)** oznaczenie numeryczne pozwalające na identyfikację produktu lub grupy produktów oraz ich nazwy,
-- **2)** odpowiednio do potrzeb wymagania dotyczące informacji, o której mowa w ust. 1, w tym:
-    - **a)** oznaczania produktu lub jego części,
-    - **b)** formy i treści informacji,
-    - **c)** sposobów prezentowania informacji w miejscach sprzedaży produktów,
-
-- **3)** wymagania w zakresie ustalania wielkości zużycia paliw i materiałów eksploatacyjnych lub wielkości emisji związanej z użytkowaniem produktu, w celu zamieszczenia w informacji, o której mowa w ust. 1.
-
-5. Sprzedawca produktów powinien zapewnić, aby zestawienie, o którym mowa w art. 171a, było udostępniane nieodpłatnie w miejscach sprzedaży produktów, których dotyczy, w sposób określony na podstawie art. 171a ust. 2 pkt 4.
-
-6. Przepisy ust. 2-5 dotyczące sprzedaży i sprzedawcy stosuje się także do finansującego leasing w miejscach, w których oferuje się produkty do leasingu, oraz prezentującego produkty na wystawach publicznych.”;
-
+- **33)** art. 167 otrzymuje brzmienie: „Art. 167. 1. Produkt powinien być zaopatrzony w informację dotyczącą: 1) zużycia paliw lub materiałów eksploatacyjnych, 2) wielkości emisji związanej z użytkowaniem produktu, 3) bezpiecznego dla środowiska użytkowania, demontażu, powtórnego wykorzystania lub unieszkodliwienia produktu. 2. Sprzedawca produktów powinien zapewnić, aby informacja, o której mowa w ust. 1, znajdowała się także w miejscach sprzedaży produktu. 3. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw środowiska, uwzględniając cechy produktów oraz ich oddziaływanie w trakcie użytkowania oraz po ich zużyciu, określi, w drodze rozporządzenia, produkty objęte obowiązkami, o których mowa w ust. 1 i 2, a także szczegółowy sposób realizacji obowiązków w tym zakresie. 4. W rozporządzeniu, o którym mowa w ust. 3, zostaną ustalone: 1) oznaczenie numeryczne pozwalające na identyfikację produktu lub grupy produktów oraz ich nazwy, 2) odpowiednio do potrzeb wymagania dotyczące informacji, o której mowa w ust. 1, w tym: a) oznaczania produktu lub jego części, b) formy i treści informacji, c) sposobów prezentowania informacji w miejscach sprzedaży produktów, 3) wymagania w zakresie ustalania wielkości zużycia paliw i materiałów eksploatacyjnych lub wielkości emisji związanej z użytkowaniem produktu, w celu zamieszczenia w informacji, o której mowa w ust. 1. 5. Sprzedawca produktów powinien zapewnić, aby zestawienie, o którym mowa w art. 171a, było udostępniane nieodpłatnie w miejscach sprzedaży produktów, których dotyczy, w sposób określony na podstawie art. 171a ust. 2 pkt 4. 6. Przepisy ust. 2-5 dotyczące sprzedaży i sprzedawcy stosuje się także do finansującego leasing w miejscach, w których oferuje się produkty do leasingu, oraz prezentującego produkty na wystawach publicznych.”;
 - **34)** w art. 169:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw środowiska, może określić, w drodze rozporządzenia, szczegółowe wymagania w celu spełnienia obowiązków, o których mowa w art. 166.”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw środowiska, mając na uwadze osiągnięcie celów, o których mowa w art. 166, może określić, w drodze rozporządzenia:
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw środowiska, mając na uwadze osiągnięcie celów, o których mowa w art. 166, może określić, w drodze rozporządzenia: 1) rodzaje substancji, które powinny być wykorzystywane do produkcji określonych produktów lub których wykorzystywanie jest zabronione, 2) dopuszczone do stosowania rozwiązania techniczne, 3) właściwości, jakie muszą spełniać określone produkty, w tym: a) standardy emisyjne z urządzeń, b) dopuszczalna lub wymagana zawartość określonych substancji w produkcie, c) zakaz występowania określonych substancji w produkcie, d) cechy i parametry produktu, 4) terminy, w których poszczególne wymagania zaczynają obowiązywać poszczególne produkty lub grupy produktów.”;
 
-- **1)** rodzaje substancji, które powinny być wykorzystywane do produkcji określonych produktów lub których wykorzystywanie jest zabronione,
-- **2)** dopuszczone do stosowania rozwiązania techniczne,
-- **3)** właściwości, jakie muszą spełniać określone produkty, w tym:
-    - **a)** standardy emisyjne z urządzeń,
-    - **b)** dopuszczalna lub wymagana zawartość określonych substancji w produkcie,
-    - **c)** zakaz występowania określonych substancji w produkcie,
-    - **d)** cechy i parametry produktu,
-
-- **4)** terminy, w których poszczególne wymagania zaczynają obowiązywać poszczególne produkty lub grupy produktów.”;
-- **35)** po art. 171 dodaje się art. 171a w brzmieniu: „Art. 171a. 1. W celu zapewnienia nabywcom produktów informacji, o których mowa w art. 167 ust. 1, organy administracji corocznie opracowują i nieodpłatnie udostępniają zestawienia dotyczące wybranych dostępnych na rynku produktów w zakresie określonym na podstawie ust. 2.
-
-2. Prezes Rady Ministrów, kierując się koniecznością zapewnienia konsumentom możliwości łatwej oceny cech produktu istotnych z punktu widzenia ochrony środowiska, określi, w drodze rozporządzenia:
-
-- **1)** produkty, o których informacje powinny być zawarte w zestawieniach,
-- **2)** rodzaje informacji zawartych w zestawieniach,
-- **3)** organy administracji zobowiązane do opracowywania, aktualizowania i udostępniania zestawień oraz szczegółowe sposoby realizacji tych obowiązków,
-- **4)** szczegółowe wymagania dotyczące sposobu udostępniania zestawień w punktach sprzedaży produktów.
-
-3. W rozporządzeniu, o którym mowa w ust. 2, zostaną ustalone w szczególności:
-
-- **1)** oznaczenie numeryczne pozwalające na identyfikację produktu lub grupy produktów oraz ich nazwy,
-- **2)** forma, treść, sposób i termin wydawania zestawień oraz termin i sposób ich aktualizacji,
-- **3)** terminy przekazywania informacji o produktach przez organy administracji będące w ich posiadaniu.
-
-4. Organy administracji posiadające informacje, określone na podstawie ust. 2, są obowiązane do ich nieodpłatnego przedkładania w terminach, o których mowa w ust. 3 pkt 3.”;
-
+- **35)** po art. 171 dodaje się art. 171a w brzmieniu: „Art. 171a. 1. W celu zapewnienia nabywcom produktów informacji, o których mowa w art. 167 ust. 1, organy administracji corocznie opracowują i nieodpłatnie udostępniają zestawienia dotyczące wybranych dostępnych na rynku produktów w zakresie określonym na podstawie ust. 2. 2. Prezes Rady Ministrów, kierując się koniecznością zapewnienia konsumentom możliwości łatwej oceny cech produktu istotnych z punktu widzenia ochrony środowiska, określi, w drodze rozporządzenia: 1) produkty, o których informacje powinny być zawarte w zestawieniach, 2) rodzaje informacji zawartych w zestawieniach, 3) organy administracji zobowiązane do opracowywania, aktualizowania i udostępniania zestawień oraz szczegółowe sposoby realizacji tych obowiązków, 4) szczegółowe wymagania dotyczące sposobu udostępniania zestawień w punktach sprzedaży produktów. 3. W rozporządzeniu, o którym mowa w ust. 2, zostaną ustalone w szczególności: 1) oznaczenie numeryczne pozwalające na identyfikację produktu lub grupy produktów oraz ich nazwy, 2) forma, treść, sposób i termin wydawania zestawień oraz termin i sposób ich aktualizacji, 3) terminy przekazywania informacji o produktach przez organy administracji będące w ich posiadaniu. 4. Organy administracji posiadające informacje, określone na podstawie ust. 2, są obowiązane do ich nieodpłatnego przedkładania w terminach, o których mowa w ust. 3 pkt 3.”;
 - **36)** w art. 176:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. W rozporządzeniu, o którym mowa w ust. 1, zostaną ustalone:
-
-- **1)** przypadki, w których są wymagane:
-    - **a)** ciągłe pomiary poziomów wskazanych substancji lub energii w środowisku,
-    - **b)** okresowe pomiary poziomów wskazanych substancji lub energii w środowisku,
-
-- **2)** referencyjne metodyki wykonywania pomiarów,
-- **3)** kryteria lokalizacji punktów pomiarowych,
-- **4)** sposoby ewidencjonowania przeprowadzonych pomiarów.”,
+    - **a)** ust. 2 otrzymuje brzmienie: „2. W rozporządzeniu, o którym mowa w ust. 1, zostaną ustalone: 1) przypadki, w których są wymagane: a) ciągłe pomiary poziomów wskazanych substancji lub energii w środowisku, b) okresowe pomiary poziomów wskazanych substancji lub energii w środowisku, 2) referencyjne metodyki wykonywania pomiarów, 3) kryteria lokalizacji punktów pomiarowych, 4) sposoby ewidencjonowania przeprowadzonych pomiarów.”,
     - **b)** w ust. 3 w pkt 1 lit. c otrzymuje brzmienie: „c) parametrów technicznych lub eksploatacyjnych drogi, linii kolejowej albo linii tramwajowej,”;
 
 - **37)** w art. 179 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W rozporządzeniu, o którym mowa w ust. 2, można zróżnicować terminy zaliczenia dróg, linii kolejowych i lotnisk do obiektów, których eksploatacja może powodować negatywne oddziaływanie na środowisko, z uwzględnieniem sporządzania w pierwszej kolejności map akustycznych dla obiektów o bardziej negatywnym oddziaływaniu akustycznym.”;
@@ -237,64 +153,28 @@ source: pdf
 - **48)** w art. 213 ust. 6 otrzymuje brzmienie: „6. W okresie wykonywania zadań przez podmiot, o którym mowa w ust. 1, organ właściwy do wydania pozwolenia zintegrowanego przedstawia kopię wniosku o wydanie pozwolenia oraz kopię wydanego pozwolenia temu podmiotowi.”;
 - **49)** w art. 220:
     - **a)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, przypadki, w których wprowadzanie gazów lub pyłów do powietrza z instalacji nie wymaga pozwolenia, uwzględniając rodzaj i skalę działalności prowadzonej w instalacjach oraz rodzaje i ilości gazów lub pyłów wprowadzanych z instalacji do powietrza.”,
-    - **b)** dodaje się ust. 3 w brzmieniu: „3. Jeżeli w związku z wejściem w życie rozporządzenia, o którym mowa w ust. 2, wprowadzanie gazów lub pyłów do powietrza:
+    - **b)** dodaje się ust. 3 w brzmieniu: „3. Jeżeli w związku z wejściem w życie rozporządzenia, o którym mowa w ust. 2, wprowadzanie gazów lub pyłów do powietrza: 1) nie będzie wymagać pozwolenia, to pozwolenie wydane na podstawie dotychczasowych przepisów wygasa z dniem wejścia w życie tego rozporządzenia, 2) będzie wymagać pozwolenia, a dotychczas pozwolenie nie było wymagane, to obowiązek posiadania pozwolenia powstaje po upływie 6 miesięcy od dnia wejścia w życie tego rozporządzenia.”;
 
-- **1)** nie będzie wymagać pozwolenia, to pozwolenie wydane na podstawie dotychczasowych przepisów wygasa z dniem wejścia w życie tego rozporządzenia,
-- **2)** będzie wymagać pozwolenia, a dotychczas pozwolenie nie było wymagane, to obowiązek posiadania pozwolenia powstaje po upływie 6 miesięcy od dnia wejścia w życie tego rozporządzenia.”;
 - **50)** uchyla się art. 223;
 - **51)** w art. 224:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Określając w pozwoleniu warunki, o których mowa w art. 188 ust. 2 pkt 2, ustala się rodzaje i ilość gazów lub pyłów dopuszczonych do wprowadzania do powietrza, wyrażone:
-
-- **1)** w mg/m gazów odlotowych w stanie suchym w temperaturze 273 K i ciśnieniu 101,3 kPa albo w kg/h - dla każdego źródła powstawania i miejsca wprowadzania gazów lub pyłów do powietrza,
-- **2)** w Mg/rok - dla całej instalacji.”,
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Określając w pozwoleniu warunki, o których mowa w art. 188 ust. 2 pkt 2, ustala się rodzaje i ilość gazów lub pyłów dopuszczonych do wprowadzania do powietrza, wyrażone: 1) w mg/m gazów odlotowych w stanie suchym w temperaturze 273 K i ciśnieniu 101,3 kPa albo w kg/h - dla każdego źródła powstawania i miejsca wprowadzania gazów lub pyłów do powietrza, 2) w Mg/rok - dla całej instalacji.”,
     - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Przepis ust. 3 nie ma zastosowania w przypadku, gdy dla instalacji są określone standardy emisyjne lub graniczne wielkości emisyjne w zakresie wprowadzania gazów lub pyłów do powietrza.”;
 
-- **52)** w art. 235 ust. 2 otrzymuje brzmienie: „2. Informacje, o których mowa:
-- **1)** w art. 184 ust. 2 pkt 10, powinny zawierać określenia zakresów częstotliwości pól elektromagnetycznych i równoważnej mocy promieniowanej izotropowo emitowanych przez instalacje oraz napięcia znamionowe w odniesieniu do linii i stacji elektroenergetycznych,
-- **2)** w art. 184 ust. 2 pkt 12, powinny wskazywać, w formie opisowej i graficznej, miejsca występowania w otoczeniu instalacji pól elektromagnetycznych o wartościach granicznych dla terenów pod zabudowę mieszkaniową oraz dla miejsc dostępnych dla ludności.”;
+- **52)** w art. 235 ust. 2 otrzymuje brzmienie: „2. Informacje, o których mowa: 1) w art. 184 ust. 2 pkt 10, powinny zawierać określenia zakresów częstotliwości pól elektromagnetycznych i równoważnej mocy promieniowanej izotropowo emitowanych przez instalacje oraz napięcia znamionowe w odniesieniu do linii i stacji elektroenergetycznych, 2) w art. 184 ust. 2 pkt 12, powinny wskazywać, w formie opisowej i graficznej, miejsca występowania w otoczeniu instalacji pól elektromagnetycznych o wartościach granicznych dla terenów pod zabudowę mieszkaniową oraz dla miejsc dostępnych dla ludności.”;
 - **53)** w art. 238:
     - **a)** zdanie wstępne otrzymuje brzmienie: „Przegląd ekologiczny instalacji, która jest kwalifikowana jako przedsięwzięcie mogące znacząco oddziaływać na środowisko, o którym mowa w art. 51 ust. 1, powinien zawierać:”,
     - **b)** w pkt 1 lit. a otrzymuje brzmienie: „a) rodzaj, wielkość i usytuowanie instalacji wraz z informacją o jej stanie technicznym,”;
 
 - **54)** art. 240 otrzymuje brzmienie: „Art. 240. Jeżeli możliwość negatywnego oddziaływania na środowisko wynika z funkcjonowania instalacji, która nie jest kwalifikowana jako przedsięwzięcie mogące znacząco oddziaływać na środowisko, o którym mowa w art. 51 ust. 1, organ właściwy do nałożenia obowiązku sporządzenia przeglądu określa, które z wymagań wymienionych w art. 238 należy spełnić, sporządzając przegląd ekologiczny.”;
-- **55)** art. 280 otrzymuje brzmienie: „Art. 280. 1. Jeżeli składowane lub magazynowane odpady ulegają zmieszaniu, za podstawę opłaty za korzystanie ze środowiska lub administracyjnej kary pieniężnej przyjmuje się rodzaj odpadu, za który jednostkowa stawka opłaty jest najwyższa, z zastrzeżeniem ust. 2.
+- **55)** art. 280 otrzymuje brzmienie: „Art. 280. 1. Jeżeli składowane lub magazynowane odpady ulegają zmieszaniu, za podstawę opłaty za korzystanie ze środowiska lub administracyjnej kary pieniężnej przyjmuje się rodzaj odpadu, za który jednostkowa stawka opłaty jest najwyższa, z zastrzeżeniem ust. 2. 2. Przepisu ust. 1 nie stosuje się do tych rodzajów odpadów, które mogą być składowane w sposób nieselektywny na podstawie przepisów o odpadach.”;
+- **56)** w art. 286:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Podmiot korzystający ze środowiska w terminie, o którym mowa w art. 285 ust. 2, przedkłada marszałkowi województwa wykaz zawierający informacje i dane, o których mowa w art. 287, wykorzystane do ustalenia wysokości opłat oraz wysokość tych opłat.”,
+    - **b)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Wykaz zawierający informacje i dane, o których mowa w art. 287 ust. 1 pkt 1-3, wykorzystane do ustalenia wysokości op łat, podmiot korzystający ze środowiska w terminie, o którym mowa w art. 285 ust. 2, przedkłada także wojewódzkiemu inspektorowi ochrony środowiska.”;
 
-2. Przepisu ust. 1 nie stosuje się do tych rodzajów odpadów, które mogą być składowane w sposób nieselektywny na podstawie przepisów o odpadach.”;
-
-- **56)** w art. 286: 285 ust. 2, przedkłada marszałkowi województwa wykaz zawierający informacje i dane, o których mowa w art. 287, wykorzystane do ustalenia wysokości opłat oraz wysokość tych opłat.”, 1 pkt 1-3, wykorzystane do ustalenia wysokości op łat, podmiot korzystający ze środowiska w terminie, o którym mowa w art. 285 ust. 2, przedkłada także wojewódzkiemu inspektorowi ochrony środowiska.”;
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Podmiot korzystający ze środowiska w terminie, o którym mowa w art.
-    - **b)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Wykaz zawierający informacje i dane, o których mowa w art. 287 ust.
-
-- **57)** po art. 286 dodaje się art. 286a w brzmieniu: „Art. 286a. 1. Wojewódzki inspektor ochrony środowiska, na podstawie wykazów, o których mowa w art. 286 ust. 1, oraz informacji o korzystaniu ze środowiska zawartych w decyzjach, o których mowa w art. 288 ust. 1, prowadzi wojewódzką bazę informacji o korzystaniu ze środowiska w zakresie wskazanym w art. 287 ust. 1 pkt 1-3 oraz sporządza raport wojewódzki i przekazuje go, za pośrednictwem Głównego Inspektora Ochrony Środowiska, ministrowi właściwemu do spraw środowiska.
-
-2. Zasady gromadzenia informacji dotyczących składowania odpadów określają przepisy ustawy o odpadach.
-
-3. Wojewódzka baza informacji o korzystaniu ze środowiska jest dostępna dla ministra właściwego do spraw środowiska i ministra właściwego do spraw gospodarki wodnej, a także dla właściwego ze względu na miejsce korzystania ze środowiska: wojewody, marszałka województwa, starosty, wójta, burmistrza lub prezydenta miasta, urzędu statystycznego oraz organów Państwowej Inspekcji Sanitarnej.
-
-4. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, warunki i zakres dostępu do wojewódzkiej bazy informacji o korzystaniu ze środowiska w zakresie danych niezbędnych do zarządzania środowiskiem, kierując się potrzebami organów, o których mowa w ust. 3.
-
-5. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzór raportu wojewódzkiego zawierający informacje o zakresie korzystania ze środowiska oraz sposób jego przedstawiania.
-
-6. W rozporządzeniu, o którym mowa w ust. 5, zostaną ustalone:
-
-- **1)** forma raportu,
-- **2)** zawartość raportu,
-- **3)** układ raportu,
-- **4)** wymagane techniki i termin przedstawiania raportu.
-
-7. Minister właściwy do spraw środowiska prowadzi centralną bazę informacji o korzystaniu ze środowiska w zakresie wprowadzania gazów i pyłów do powietrza, poboru wody oraz wprowadzania ścieków do wód lub do ziemi.
-
-8. Minister właściwy do spraw środowiska, kierując się potrzebą ujednolicenia systemu zbierania i przetwarzania danych, określi, w drodze rozporządzenia, niezbędny zakres informacji objętych obowiązkiem przetwarzania w ramach wojewódzkiej i centralnej bazy informacji, o których mowa w ust. 1 i 7, oraz sposób ich prowadzenia.”;
-
+- **57)** po art. 286 dodaje się art. 286a w brzmieniu: „Art. 286a. 1. Wojewódzki inspektor ochrony środowiska, na podstawie wykazów, o których mowa w art. 286 ust. 1, oraz informacji o korzystaniu ze środowiska zawartych w decyzjach, o których mowa w art. 288 ust. 1, prowadzi wojewódzką bazę informacji o korzystaniu ze środowiska w zakresie wskazanym w art. 287 ust. 1 pkt 1-3 oraz sporządza raport wojewódzki i przekazuje go, za pośrednictwem Głównego Inspektora Ochrony Środowiska, ministrowi właściwemu do spraw środowiska. 2. Zasady gromadzenia informacji dotyczących składowania odpadów określają przepisy ustawy o odpadach. 3. Wojewódzka baza informacji o korzystaniu ze środowiska jest dostępna dla ministra właściwego do spraw środowiska i ministra właściwego do spraw gospodarki wodnej, a także dla właściwego ze względu na miejsce korzystania ze środowiska: wojewody, marszałka województwa, starosty, wójta, burmistrza lub prezydenta miasta, urzędu statystycznego oraz organów Państwowej Inspekcji Sanitarnej. 4. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, warunki i zakres dostępu do wojewódzkiej bazy informacji o korzystaniu ze środowiska w zakresie danych niezbędnych do zarządzania środowiskiem, kierując się potrzebami organów, o których mowa w ust. 3. 5. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzór raportu wojewódzkiego zawierający informacje o zakresie korzystania ze środowiska oraz sposób jego przedstawiania. 6. W rozporządzeniu, o którym mowa w ust. 5, zostaną ustalone: 1) forma raportu, 2) zawartość raportu, 3) układ raportu, 4) wymagane techniki i termin przedstawiania raportu. 7. Minister właściwy do spraw środowiska prowadzi centralną bazę informacji o korzystaniu ze środowiska w zakresie wprowadzania gazów i pyłów do powietrza, poboru wody oraz wprowadzania ścieków do wód lub do ziemi. 8. Minister właściwy do spraw środowiska, kierując się potrzebą ujednolicenia systemu zbierania i przetwarzania danych, określi, w drodze rozporządzenia, niezbędny zakres informacji objętych obowiązkiem przetwarzania w ramach wojewódzkiej i centralnej bazy informacji, o których mowa w ust. 1 i 7, oraz sposób ich prowadzenia.”;
 - **58)** w art. 288 dodaje się ust. 3 w brzmieniu: „3. Kopię decyzji, o której mowa w ust. 1, zawierającą informacje o korzystaniu ze środowiska przez podmiot w zakresie wskazanym w art. 287 ust. 1 pkt 1-3, marszałek województwa przedstawia niezwłocznie wojewódzkiemu inspektorowi ochrony środowiska.”;
-- **59)** art. 289 otrzymuje brzmienie: „Art. 289. 1. Nie wnosi się opłat z tytułu tych rodzajów korzystania ze środowiska spośród wymienionych w art. 273 ust. 1, których kwartalna wysokość wnoszona na rachunek urzędu marszałkowskiego, z zastrzeżeniem ust. 2, nie przekracza 200 złotych. Przepisy art. 286 ust. 1-2 stosuje się odpowiednio.
-
-2. Sejmik województwa może, w drodze aktu prawa miejscowego, uchwalić podwyższenie kwoty, o której mowa w ust. 1, jednak nie więcej niż do 50%.”;
-
-- **60)** art. 291 otrzymuje brzmienie: „Art. 291. 1. Stawki opłat określone w art. 290 ust. 1 podlegają, z dniem 1 stycznia każdego roku, podwyższeniu w stopniu odpowiadającym średniorocznemu wskaźnikowi cen towarów i usług konsumpcyjnych ogółem ogłaszanemu przez Prezesa Głównego Urzędu Statystycznego, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, za rok poprzedni.
-
-2. Minister właściwy do spraw środowiska, nie później niż w terminie do dnia 30 września każdego roku, ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” maksymalną wysokość stawek opłat na następny rok, uwzględniając zasadę określoną w ust. 1.”;
-
+- **59)** art. 289 otrzymuje brzmienie: „Art. 289. 1. Nie wnosi się opłat z tytułu tych rodzajów korzystania ze środowiska spośród wymienionych w art. 273 ust. 1, których kwartalna wysokość wnoszona na rachunek urzędu marszałkowskiego, z zastrzeżeniem ust. 2, nie przekracza 200 złotych. Przepisy art. 286 ust. 1-2 stosuje się odpowiednio. 2. Sejmik województwa może, w drodze aktu prawa miejscowego, uchwalić podwyższenie kwoty, o której mowa w ust. 1, jednak nie więcej niż do 50%.”;
+- **60)** art. 291 otrzymuje brzmienie: „Art. 291. 1. Stawki opłat określone w art. 290 ust. 1 podlegają, z dniem 1 stycznia każdego roku, podwyższeniu w stopniu odpowiadającym średniorocznemu wskaźnikowi cen towarów i usług konsumpcyjnych ogółem ogłaszanemu przez Prezesa Głównego Urzędu Statystycznego, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, za rok poprzedni. 2. Minister właściwy do spraw środowiska, nie później niż w terminie do dnia 30 września każdego roku, ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” maksymalną wysokość stawek opłat na następny rok, uwzględniając zasadę określoną w ust. 1.”;
 - **61)** w art. 293:
     - **a)** ust. 3 otrzymuje brzmienie: „3. Za składowanie odpadów w miejscu na ten cel nieprzeznaczonym podmiot korzystający ze środowiska ponosi opłaty podwyższone w wysokości 0,1 jednostkowej stawki opłaty za umieszczenie odpadów na składowisku za każdą dobę składowania.”,
     - **b)** dodaje się ust. 6 w brzmieniu: „6. Przepisy ust. 3-5 stosuje się odpowiednio, jeżeli składowanie odpadów jest zabronione na podstawie ustawy o odpadach.”;
@@ -302,46 +182,30 @@ source: pdf
 - **62)** w art. 295 ust. 2 otrzymuje brzmienie: „2. W przypadku wprowadzania do wód lub do ziemi ścieków przemysłowych lub komunalnych innych niż bytowe, do opłaty ustalonej według zasad, o których mowa w ust. 1, dolicza się opłatę za inne substancje zawarte w ściekach.”;
 - **63)** w art. 299 w ust. 1 pkt 2 otrzymuje brzmienie: „2) pomiarów prowadzonych przez podmiot korzystający ze środowiska, obowiązany do dokonania takich pomiarów.”;
 - **64)** art. 303 otrzymuje brzmienie: „Art. 303. Jeżeli wojewódzki inspektor ochrony środowiska w ciągu 30 dni od dnia wpływu wniosku, o którym mowa w art. 301 ust. 2 lub art. 302 ust. 1 pkt 1, stwierdzi, że przekroczenie lub naruszenie jest wyższe, niż podano we wniosku, lub nie ustało, wymierza nową wysokość kary biegnącej począwszy odpowiednio od doby albo godziny, w której stwierdzono bezzasadność wniosku, jednocześnie podwyższając jej wysokość dwukrotnie na okres 60 dni.”;
-- **65)** w art. 305: 636 i Nr 154, poz. 1800 oraz z 2002 r. Nr 155, poz. 1286 i Nr 166, poz.
+- **65)** w art. 305:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Wojewódzki inspektor ochrony środowiska wymierza karę na podstawie przedstawionych wyników ciągłych pomiarów wielkości emisji, jeżeli podmiot korzystający ze środowiska jest obowiązany do dokonania takich pomiarów i są spełnione warunki określone w ust. 3.”,
-    - **b)** w ust. 3 pkt 2 otrzymuje brzmienie: „2) spełnia wymagania prawnej kontroli metrologicznej w rozumieniu ustawy z dnia 11 maja 2001 r. - Prawo o miarach (Dz.U. Nr 63, poz.
+    - **b)** w ust. 3 pkt 2 otrzymuje brzmienie: „2) spełnia wymagania prawnej kontroli metrologicznej w rozumieniu ustawy z dnia 11 maja 2001 r. - Prawo o miarach (Dz.U. Nr 63, poz. 636 i Nr 154, poz. 1800 oraz z 2002 r. Nr 155, poz. 1286 i Nr 166, poz. 1360).”;
 
-- **1360)** .”;
 - **66)** w art. 307 ust. 1 otrzymuje brzmienie: „1. Karę za przekroczenie ilości pobranej wody wojewódzki inspektor ochrony środowiska wymierza, z zastrzeżeniem ust. 4, na podstawie prowadzonych przez podmiot korzystający ze środowiska pomiarów ilości pobieranej wody, wykonywanych za pomocą przyrządów spełniających wymagania prawnej kontroli metrologicznej w rozumieniu ustawy - Prawo o miarach.”;
 - **67)** w art. 309 ust. 2 otrzymuje brzmienie: „2. Za składowanie odpadów z naruszeniem warunków dotyczących rodzaju i sposobów składowania odpadów, określonych w decyzji zatwierdzającej instrukcję eksploatacji składowiska, lub magazynowanie odpadów z naruszeniem decyzji określającej miejsce i sposób magazynowania odpadów wymierza się karę w wysokości 0,1 jednostkowej stawki opłaty za umieszczenie odpadów na składowisku za każdą dobę składowania.”;
 - **68)** w art. 314 w ust. 1:
     - **a)** zdanie wstępne otrzymuje brzmienie: „Podstawą stwierdzenia przekroczenia ilości, stanu lub składu ścieków są pomiary, przy czym:”,
     - **b)** dodaje się pkt 3 w brzmieniu: „3) podstawą stwierdzenia przekroczenia dozwolonej ilości odprowadzanych ścieków są wyniki odczytów z urządzeń pomiarowych lub średnia z trzykrotnych pomiarów w ciągu godziny.”;
 
-- **69)** po art. 332 dodaje się art. 332a w brzmieniu: „Art. 332a. 1. Kto, reklamując lub w inny sposób promując produkt, narusza wymagania określone w art. 80a ust. 1, podlega karze grzywny.
-
-2. Tej samej karze podlega, kto nie zamieszcza w reklamie lub materiale promocyjnym informacji wymaganych na podstawie art. 80a ust. 2.”;
-
+- **69)** po art. 332 dodaje się art. 332a w brzmieniu: „Art. 332a. 1. Kto, reklamując lub w inny sposób promując produkt, narusza wymagania określone w art. 80a ust. 1, podlega karze grzywny. 2. Tej samej karze podlega, kto nie zamieszcza w reklamie lub materiale promocyjnym informacji wymaganych na podstawie art. 80a ust. 2.”;
 - **70)** w art. 339 ust. 1 otrzymuje brzmienie: „1. Kto, wprowadzając do środowiska substancje lub energie, w zakresie, w jakim nie wymaga to pozwolenia, przekracza dopuszczalne standardy emisyjne określone na podstawie art. 145 ust. 1 lub art. 169 ust. 3, podlega karze grzywny.”;
 - **71)** w art. 348 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Tej samej karze podlega, kto narusza obowiązek, o którym mowa w art. 167 ust. 2, nie spełniając wymagań, o których mowa w art. 167 ust. 3, lub kto narusza obowiązek, o którym mowa w art. 167 ust. 5.”;
 - **72)** w art. 359 ust. 2 otrzymuje brzmienie: „2. Tej samej karze podlega, kto nie dopełnia obowiązku terminowego przedkładania wykazu, o którym mowa w art. 286.”;
 - **73)** w art. 365 ust. 2 pkt 2 otrzymuje brzmienie: „2) użytkowanie w przypadku stwierdzenia niedotrzymywania wynikających z mocy prawa standardów emisyjnych albo określonych w pozwoleniu warunków emisji w okresie 30 dni od zakończenia rozruchu,”;
 - **74)** w art. 374 w ust. 1 pkt 1 otrzymuje brzmienie: „1) ruchu zakładu górniczego - wymagają uzgodnienia z dyrektorem właściwego okręgowego albo specjalistycznego urzędu górniczego,”;
-- **75)** w art. 378: 362 ust. 1 i 3, jest starosta, z zastrzeżeniem ust. 2 i 3.”,
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Organem ochrony środowiska właściwym w sprawach, o których mowa w art. 48 ust. 2 pkt 1 i ust. 4, art. 51 ust. 3 pkt 1, art. 106, 149, 150, art. 152 ust. 1, art. 154 ust. 1, art. 178, art. 183 ust. 1, art. 237 i art.
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Wojewoda jest właściwy w sprawach:
-
-- **1)** przedsięwzięć i zdarzeń:
-    - **a)** na terenach zakładów, gdzie jest eksploatowana instalacja, która jest kwalifikowana jako przedsięwzięcie mogące znacząco oddziaływać na środowisko, dla którego sporządzenie raportu o oddziaływaniu przedsięwzięcia na środowisko jest obowiązkowe,
-    - **b)** na terenach zamkniętych;
-
-- **2)** przedsięwzięcia mogącego znacząco oddziaływać na środowisko, dla którego sporządzenie raportu o oddziaływaniu przedsięwzięcia na środowisko jest obowiązkowe, realizowanego na terenach innych niż wymienione w pkt 1.”,
+- **75)** w art. 378:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Organem ochrony środowiska właściwym w sprawach, o których mowa w art. 48 ust. 2 pkt 1 i ust. 4, art. 51 ust. 3 pkt 1, art. 106, 149, 150, art. 152 ust. 1, art. 154 ust. 1, art. 178, art. 183 ust. 1, art. 237 i art. 362 ust. 1 i 3, jest starosta, z zastrzeżeniem ust. 2 i 3.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Wojewoda jest właściwy w sprawach: 1) przedsięwzięć i zdarzeń: a) na terenach zakładów, gdzie jest eksploatowana instalacja, która jest kwalifikowana jako przedsięwzięcie mogące znacząco oddziaływać na środowisko, dla którego sporządzenie raportu o oddziaływaniu przedsięwzięcia na środowisko jest obowiązkowe, b) na terenach zamkniętych; 2) przedsięwzięcia mogącego znacząco oddziaływać na środowisko, dla którego sporządzenie raportu o oddziaływaniu przedsięwzięcia na środowisko jest obowiązkowe, realizowanego na terenach innych niż wymienione w pkt 1.”,
     - **c)** w ust. 3 zdanie wstępne otrzymuje brzmienie: „ W przypadku zwykłego korzystania ze środowiska przez osoby fizyczne niebędące przedsiębiorcami wójt, burmistrz lub prezydent miasta jest właściwy w sprawach:”;
 
-- **76)** w art. 383 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „2. Wymogu uzgodnienia lub opiniowania przez organ ochrony środowiska nie stosuje się, jeżeli organem właściwym do prowadzenia postępowania w sprawie jest wojewoda, a organem uzgadniającym lub opiniującym jest starosta.
-
-3. Przepis ust. 1 stosuje się odpowiednio, jeżeli organem uzgadniającym lub opiniującym jest organ opracowujący projekt dokumentu lub wprowadzający zmiany do przyjętego dokumentu.”;
-
+- **76)** w art. 383 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „2. Wymogu uzgodnienia lub opiniowania przez organ ochrony środowiska nie stosuje się, jeżeli organem właściwym do prowadzenia postępowania w sprawie jest wojewoda, a organem uzgadniającym lub opiniującym jest starosta. 3. Przepis ust. 1 stosuje się odpowiednio, jeżeli organem uzgadniającym lub opiniującym jest organ opracowujący projekt dokumentu lub wprowadzający zmiany do przyjętego dokumentu.”;
 - **77)** w art. 385:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Minister Obrony Narodowej, w drodze rozporządzeń:
-
-- **1)** określi organy odpowiadające za nadzór nad przestrzeganiem przepisów o ochronie środowiska w jednostkach wojskowych i innych jednostkach organizacyjnych podporządkowanych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, uwzględniając specyfikę i charakter zadań realizowanych przez te organy,
-- **2)** może określić, w porozumieniu z ministrem właściwym do spraw środowiska, szczegółowe sposoby realizacji przepisów o ochronie środowiska w jednostkach wojskowych i innych jednostkach organizacyjnych podporządkowanych Ministrowi Obrony Narodowej lub przez niego nadzorowanych.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Minister Obrony Narodowej, w drodze rozporządzeń: 1) określi organy odpowiadające za nadzór nad przestrzeganiem przepisów o ochronie środowiska w jednostkach wojskowych i innych jednostkach organizacyjnych podporządkowanych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, uwzględniając specyfikę i charakter zadań realizowanych przez te organy, 2) może określić, w porozumieniu z ministrem właściwym do spraw środowiska, szczegółowe sposoby realizacji przepisów o ochronie środowiska w jednostkach wojskowych i innych jednostkach organizacyjnych podporządkowanych Ministrowi Obrony Narodowej lub przez niego nadzorowanych.”,
     - **b)** w ust. 2: - zdanie wstępne otrzymuje brzmienie: „W rozporządzeniu, o którym mowa w ust. 1 pkt 1, zostaną ustalone:”, - pkt 1 otrzymuje brzmienie: „1) organy odpowiadające za nadzór,”,
     - **c)** ust. 3 otrzymuje brzmienie: „3. Minister Obrony Narodowej może określić, w drodze rozporządzenia, formę, zakres, układ, techniki i terminy przedstawiania przez jednostki nadzorowane organom nadzorczym, o których mowa w ust. 1 pkt 1, informacji o istotnym znaczeniu dla zapewnienia przestrzegania przepisów o ochronie środowiska.”
     - **d)** w ust. 4 zdanie wstępne otrzymuje brzmienie: „Minister, wydając rozporządzenia, o których mowa w ust. 1 pkt 2 i ust. 3, uwzględni specyfikę funkcjonowania Sił Zbrojnych:”;
@@ -349,56 +213,37 @@ source: pdf
 - **78)** w art. 400 dodaje się ust. 4 w brzmieniu: „4. Narodowy Fundusz i wojewódzkie fundusze prowadzą gospodarkę finansową w sposób zapewniający pełne wykorzystanie środków pochodzących z Unii Europejskiej niepodlegających zwrotowi przeznaczonych na ochronę środowiska i gospodarkę wodną.”;
 - **79)** w art. 401 ust. 3 otrzymuje brzmienie: „3. Przychodami Narodowego Funduszu są także wpływy z opłat ustalanych na podstawie przepisów ustawy - Prawo geologiczne i górnicze.”;
 - **80)** w art. 402 ust. 1 otrzymuje brzmienie: „1. Zarząd województwa oraz wojewódzki inspektor ochrony środowiska prowadzą wyodrębnione rachunki bankowe w celu gromadzenia i redystrybucji wpływów, o których mowa w art. 401 ust. 1. Wpływy te, powiększone o przychody z oprocentowania rachunków bankowych i pomniejszone o opłaty poniesione na egzekucję należności oraz o koszty obsługi rachunków bankowych, są przekazywane na rachunki bankowe funduszy, w terminie do końca następnego miesiąca po ich wpływie na rachunki zarządu województwa i wojewódzkiego inspektora ochrony środowiska.”;
-- **81)** art. 405 otrzymuje brzmienie: „Art. 405. 1. Środki funduszy przeznacza się na finansowanie ochrony środowiska i gospodarki wodnej w celu realizacji zasady zrównoważonego rozwoju i polityki ekologicznej państwa oraz na współfinansowanie projektów inwestycyjnych, kosztów operacyjnych i działań realizowanych z udziałem środków pochodzących z Unii Europejskiej niepodlegających zwrotowi.
-
-2. Środki funduszy mogą być także przeznaczane na współfinansowanie projektów inwestycyjnych, kosztów operacyjnych i działań realizowanych z udziałem środków bezzwrotnych pozyskiwanych w ramach współpracy z organizacjami międzynarodowymi oraz współpracy dwustronnej.”;
-
+- **81)** art. 405 otrzymuje brzmienie: „Art. 405. 1. Środki funduszy przeznacza się na finansowanie ochrony środowiska i gospodarki wodnej w celu realizacji zasady zrównoważonego rozwoju i polityki ekologicznej państwa oraz na współfinansowanie projektów inwestycyjnych, kosztów operacyjnych i działań realizowanych z udziałem środków pochodzących z Unii Europejskiej niepodlegających zwrotowi. 2. Środki funduszy mogą być także przeznaczane na współfinansowanie projektów inwestycyjnych, kosztów operacyjnych i działań realizowanych z udziałem środków bezzwrotnych pozyskiwanych w ramach współpracy z organizacjami międzynarodowymi oraz współpracy dwustronnej.”;
 - **82)** w art. 406:
-    - **a)** pkt 5-7 otrzymują brzmienie: „5) przedsięwzięcia związane z ochroną przyrody, w tym urządzanie i utrzymanie terenów zieleni, zadrzewień, zakrzewień oraz parków,
-
-- **6)** przedsięwzięcia związane z gospodarką odpadami i ochroną powierzchni ziemi,
-- **7)** przedsięwzięcia związane z ochroną powietrza,”,
+    - **a)** pkt 5-7 otrzymują brzmienie: „5) przedsięwzięcia związane z ochroną przyrody, w tym urządzanie i utrzymanie terenów zieleni, zadrzewień, zakrzewień oraz parków, 6) przedsięwzięcia związane z gospodarką odpadami i ochroną powierzchni ziemi, 7) przedsięwzięcia związane z ochroną powietrza,”,
     - **b)** po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) przedsięwzięcia związane z ochroną wód,”,
     - **c)** pkt 9 otrzymuje brzmienie: „9) wspieranie wykorzystania lokalnych źródeł energii odnawialnej oraz pomoc przy wprowadzaniu bardziej przyjaznych dla środowiska nośników energii,”;
 
 - **83)** art. 407 otrzymuje brzmienie: „Art. 407. Środki powiatowych funduszy przeznacza się na wspomaganie działalności, o której mowa w art. 406 pkt 1-11, oraz na inne zadania ustalone przez radę powiatu, służące ochronie środowiska i gospodarce wodnej, wynikające z zasady zrównoważonego rozwoju, w tym na programy ochrony środowiska.”;
 - **84)** w art. 409:
     - **a)** zdanie wstępne otrzymuje brzmienie: „Środki wojewódzkich funduszy przeznacza się na wspomaganie działalności, o której mowa w art. 406 pkt 1-11, oraz na dofinansowywanie:”,
-    - **b)** pkt 1 i 2 otrzymują brzmienie: „1) inwestycji ekologicznych realizowanych ze środków pochodzących z Unii Europejskiej oraz funduszy krajowych,
-
-- **2)** działań związanych z utrzymaniem i zachowaniem parków oraz ogrodów, będących przedmiotem ochrony na podstawie przepisów o ochronie zabytków i opiece nad zabytkami,”,
+    - **b)** pkt 1 i 2 otrzymują brzmienie: „1) inwestycji ekologicznych realizowanych ze środków pochodzących z Unii Europejskiej oraz funduszy krajowych, 2) działań związanych z utrzymaniem i zachowaniem parków oraz ogrodów, będących przedmiotem ochrony na podstawie przepisów o ochronie zabytków i opiece nad zabytkami,”,
     - **c)** pkt 8 otrzymuje brzmienie: „8) innych zadań służących ochronie środowiska i gospodarce wodnej, wynikających z zasady zrównoważonego rozwoju, ustalonych w planach działalności wojewódzkich funduszy, w tym na programy ochrony środowiska, programy ochrony powietrza, programy ochrony przed hałasem, plany gospodarki odpadami, plany działań krótkoterminowych, o których mowa w art. 92 ust. 1, a także na realizację powyższych planów i programów.”,
-    - **d)** dodaje się pkt 9-13 w brzmieniu: „9) zadań związanych ze zwiększeniem lesistości kraju oraz zapobieganiem i likwidacją szkód w lasach spowodowanych przez czynniki biotyczne i abiotyczne,
+    - **d)** dodaje się pkt 9-13 w brzmieniu: „9) zadań związanych ze zwiększeniem lesistości kraju oraz zapobieganiem i likwidacją szkód w lasach spowodowanych przez czynniki biotyczne i abiotyczne, 10) opracowań planów ochrony obszarów objętych ochroną na podstawie ustawy o ochronie przyrody oraz prowadzenie monitoringu przyrodniczego, 11) działań, o których mowa w ustawie z dnia 8 czerwca 2001 r. o przeznaczeniu gruntów rolnych do zalesienia (Dz.U. Nr 73, poz. 763 oraz z 2003 r. Nr 46, poz. 392), w tym pokrywanie kosztów sporządzania planów zalesień oraz kosztów sadzonek przekazanych rolnikom w celu zalesienia gruntów rolnych, 12) przeciwdziałania klęskom żywiołowym i likwidacji ich skutków dla środowiska, 13) działań polegających na zapobieganiu i likwidacji poważnych awarii i ich skutków,”;
 
-- **10)** opracowań planów ochrony obszarów objętych ochroną na podstawie ustawy o ochronie przyrody oraz prowadzenie monitoringu przyrodniczego,
-- **11)** działań, o których mowa w ustawie z dnia 8 czerwca 2001 r. o przeznaczeniu gruntów rolnych do zalesienia (Dz.U. Nr 73, poz. 763 oraz z 2003 r. Nr 46, poz. 392), w tym pokrywanie kosztów sporządzania planów zalesień oraz kosztów sadzonek przekazanych rolnikom w celu zalesienia gruntów rolnych,
-- **12)** przeciwdziałania klęskom żywiołowym i likwidacji ich skutków dla środowiska,
-- **13)** działań polegających na zapobieganiu i likwidacji poważnych awarii i ich skutków,”;
 - **85)** w art. 410 w ust. 1:
     - **a)** zdanie wstępne otrzymuje brzmienie: „Środki Narodowego Funduszu przeznacza się na wspomaganie działalności, o której mowa w art. 406 pkt 1-11 i art. 409 pkt 1-13, oraz na:”,
     - **b)** pkt 5 otrzymuje brzmienie: „5) wspomaganie realizacji wojewódzkich i ponadwojewódzkich programów ochrony środowiska, programów ochrony powietrza, programów ochrony przed hałasem, planów gospodarki odpadami oraz planów gospodarowania wodami,”;
 
 - **86)** w art. 414:
     - **a)** w ust. 1 w pkt 5 zdanie wstępne otrzymuje brzmienie: „zatwierdzanie wniosków zarządu o udzielenie pożyczek i dotacji, których wartość jednostkowa przekracza:”,
-    - **b)** w ust. 2: - pkt 1 i 2 otrzymują brzmienie: „1) przedstawianie ministrowi właściwemu do spraw środowiska, w celu uzgodnienia, wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy,
+    - **b)** w ust. 2: - pkt 1 i 2 otrzymują brzmienie: „1) przedstawianie ministrowi właściwemu do spraw środowiska, w celu uzgodnienia, wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy, 2) uchwalanie, raz na cztery lata, wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy, do dnia 30 czerwca roku poprzedzającego pierwszy rok objęty tą strategią,”, - dodaje się pkt 2a w brzmieniu: „2a) uchwalanie, raz na cztery lata, strategii działania Narodowego Funduszu, wynikającej ze wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy, do dnia 30 września roku poprzedzającego pierwszy rok objęty tą strategią,”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Do zadań rad nadzorczych wojewódzkich funduszy, oprócz określonych w ust. 1, należy: 1) uchwalanie, raz na cztery lata, strategii działania wojewódzkich funduszy, wynikających ze wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy oraz z uwarunkowań regionalnych, do dnia 30 września roku poprzedzającego pierwszy rok objęty tymi strategiami, 2) uchwalanie, po zasięgnięciu opinii Narodowego Funduszu, w oparciu o politykę ekologiczną państwa, strategie działania wojewódzkich funduszy i wojewódzkie programy ochrony środowiska, planów działalności wojewódzkich funduszy, do dnia 31 października każdego roku na rok następny, 3) zatwierdzanie, do dnia 30 czerwca każdego roku na rok następny, list przedsięwzięć priorytetowych wojewódzkich funduszy, po zasięgnięciu opinii Narodowego Funduszu w zakresie finansowania przedsięwzięć z udziałem środków niepodlegających zwrotowi pochodzących z Unii Europejskiej.”;
 
-- **2)** uchwalanie, raz na cztery lata, wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy, do dnia 30 czerwca roku poprzedzającego pierwszy rok objęty tą strategią,”, - dodaje się pkt 2a w brzmieniu: „2a) uchwalanie, raz na cztery lata, strategii działania Narodowego Funduszu, wynikającej ze wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy, do dnia 30 września roku poprzedzającego pierwszy rok objęty tą strategią,”,
-    - **c)** ust. 3 otrzymuje brzmienie: „3. Do zadań rad nadzorczych wojewódzkich funduszy, oprócz określonych w ust. 1, należy:
-
-- **1)** uchwalanie, raz na cztery lata, strategii działania wojewódzkich funduszy, wynikających ze wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy oraz z uwarunkowań regionalnych, do dnia 30 września roku poprzedzającego pierwszy rok objęty tymi strategiami,
-- **2)** uchwalanie, po zasięgnięciu opinii Narodowego Funduszu, w oparciu o politykę ekologiczną państwa, strategie działania wojewódzkich funduszy i wojewódzkie programy ochrony środowiska, planów działalności wojewódzkich funduszy, do dnia 31 października każdego roku na rok następny,
-- **3)** zatwierdzanie, do dnia 30 czerwca każdego roku na rok następny, list przedsięwzięć priorytetowych wojewódzkich funduszy, po zasięgnięciu opinii Narodowego Funduszu w zakresie finansowania przedsięwzięć z udziałem środków niepodlegających zwrotowi pochodzących z Unii Europejskiej.”;
-- **87)** w art. 415: 5, należy opracowywanie projektów wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy oraz projektów strategii Narodowego Funduszu i zasięganie opinii ministra właściwego do spraw rozwoju regionalnego co do zawartych w nich ustaleń.”,
+- **87)** w art. 415:
     - **a)** w ust. 5 pkt 1 otrzymuje brzmienie: „1) opracowywanie projektów planów działalności Narodowego Funduszu i, po zasięgnięciu opinii Narodowego Funduszu, wojewódzkich funduszy,”,
-    - **b)** ust. 6 otrzymuje brzmienie: „6. Do zadań Zarządu Narodowego Funduszu, oprócz określonych w ust.
+    - **b)** ust. 6 otrzymuje brzmienie: „6. Do zadań Zarządu Narodowego Funduszu, oprócz określonych w ust. 5, należy opracowywanie projektów wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy oraz projektów strategii Narodowego Funduszu i zasięganie opinii ministra właściwego do spraw rozwoju regionalnego co do zawartych w nich ustaleń.”,
     - **b)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Do zadań zarządów wojewódzkich funduszy, oprócz określonych w ust. 5, należy opracowywanie projektów strategii działania wojewódzkich funduszy.”;
 
 - **88)** w art. 421:
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Minister właściwy do spraw środowiska przedstawia Radzie Ministrów, nie później niż do dnia 31 sierpnia, informacje o działalności Narodowego Funduszu i wojewódzkich funduszy za ubiegły rok.
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Minister właściwy do spraw środowiska przedstawia Radzie Ministrów, nie później niż do dnia 31 sierpnia, informacje o działalności Narodowego Funduszu i wojewódzkich funduszy za ubiegły rok. 2. Zarządy województw przedstawiają ministrowi właściwemu do spraw środowiska, sejmikowi województwa oraz Narodowemu Funduszowi, nie później niż do dnia 31 maja, informacje o działalności wojewódzkich funduszy za ubiegły rok.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Zarząd Narodowego Funduszu przedstawia ministrowi właściwemu do spraw środowiska, nie później niż do dnia 30 czerwca, zbiorczą informację o działalności wojewódzkich funduszy za ubiegły rok.”;
 
-2. Zarządy województw przedstawiają ministrowi właściwemu do spraw środowiska, sejmikowi województwa oraz Narodowemu Funduszowi, nie później niż do dnia 31 maja, informacje o działalności wojewódzkich funduszy za ubiegły rok.”,
-
-- **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Zarząd Narodowego Funduszu przedstawia ministrowi właściwemu do spraw środowiska, nie później niż do dnia 30 czerwca, zbiorczą informację o działalności wojewódzkich funduszy za ubiegły rok.”;
 - **89)** w art. 423 ust. 1 otrzymuje brzmienie: „1. O ustalenie programu dostosowawczego może ubiegać się prowadzący istniejącą instalację, która jest kwalifikowana jako przedsięwzięcie mogące znacząco oddziaływać na środowisko, o którym mowa w art. 51 ust. 1 pkt 1, objętą obowiązkiem uzyskania pozwolenia zintegrowanego, należącą do grup wskazanych na podstawie art. 425.”;
 - **90)** w art. 424 ust. 3 otrzymuje brzmienie: „3. Postępowanie negocjacyjne nie może być prowadzone ani wszczęte po dniu 30 października 2007 r.”;
 - **91)** w art. 430 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wpływy z tytułu należności, o których mowa w ust. 2, są środkami specjalnymi w rozumieniu ustawy z dnia 26 listopada 1998 r. o finansach publicznych i są przeznaczane na wynagrodzenia członków komisji.”;

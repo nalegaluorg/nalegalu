@@ -8,12 +8,10 @@ pos: 182
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o rozwoju lokalnym z udziałem lokalnej społeczności
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2025 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o rozwoju lokalnym z udziałem lokalnej społeczności
 
 | Pole | Wartość |
 |---|---|
@@ -28,11 +26,17 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000182) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/182/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. z 2023 r. poz. 1554), z uwzględnieniem zmian wprowadzonych ustawą z dnia 11 października 2024 r. o zmianie ustawy o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. poz. 1672) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 stycznia 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 i art. 3 ustawy z dnia 11 października 2024 r. o zmianie ustawy o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. poz. 1672), które stanowią: „Art. 2. W przypadku rozwiązania umowy, o której mowa w art. 5 ust. 3 pkt 1a ustawy zmienianej w art. 1, przed dniem wejścia w życie niniejszej ustawy termin określony w art. 14a ustawy zmienianej w art. 1 liczy się od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 20 lutego 2015 r. o rozwoju lokalnym z udziałem lokalnej społeczności
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 i art. 3 ustawy z dnia 11 października 2024 r. o zmianie ustawy o rozwoju lokalnym z udziałem lokalnej społeczności (Dz. U. poz. 1672), które stanowią: „ Art. 2. W przypadku rozwiązania umowy, o której mowa w art. 5 ust. 3 pkt 1a ustawy zmienianej w art. 1, przed dniem wejścia w życie niniejszej ustawy termin określony w art. 14a ustawy zmienianej w art. 1 liczy się od dnia wejścia w życie niniejszej ustawy. Art. 3. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: S. Hołownia
+USTAWA z dnia 20 lutego 2015 r.
+o rozwoju lokalnym z udziałem lokalnej społeczności
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zadania oraz właściwość organów w zakresie określonym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającym wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm. ), zwanym dalej „rozporządzeniem 2021/1060”, w odniesieniu do rozwoju lokalnego kierowanego przez społeczność, o którym mowa w tytule III w rozdziale II rozporządzenia 2021/1060, zwanego dalej „rozwojem lokalnym kierowanym przez społeczność”;
+- **2)** zasady:
+    - **a)** organizacji i działania lokalnych grup działania, o których mowa w art. 31 ust. 2 lit. b rozporządzenia 2021/1060, zwanych dalej „LGD”,
+    - **b)** dokonywania wyboru strategii rozwoju lokalnego kierowanego przez społeczność, o których mowa w art. 32 rozporządzenia 2021/1060, zwanych dalej „LSR”,
+    - **c)** udzielania wsparcia z udziałem funduszy, w ramach których jest finansowany rozwój lokalny kierowany przez społeczność, zwanych dalej „EFSI”, wspólne dla wszystkich EFSI – w zakresie nieokreślonym w przepisach, o których mowa w pkt 1, lub przewidzianym w tych przepisach do określenia przez państwo członkowskie Unii Europejskiej.
 
 **Art. 1a.** Przepisów ustawy nie stosuje się do programu realizowanego z wykorzystaniem środków Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury.
 
@@ -68,20 +72,20 @@ source: "isap-pdf"
 
 1. LGD działa jako stowarzyszenie posiadające osobowość prawną.
 
-2. Siedziba LGD znajduje się w miejscowości położonej w województwie, którego obszar jest objęty LSR, a w przypadku gdy LSR obejmuje obszar więcej niż jednego województwa w miejscowości położonej w jednym z tych województw.
+2. Siedziba LGD znajduje się w miejscowości położonej w województwie, którego obszar jest objęty LSR, a w przypadku gdy LSR obejmuje obszar więcej niż jednego województwa – w miejscowości położonej w jednym z tych województw.
 
-3. Do tworzenia i działania LGD stosuje się przepisy ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), z tym że:
+3. Do tworzenia i działania LGD stosuje się przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), z tym że:
 
 - **1)** członkami zwyczajnymi LGD mogą być osoby fizyczne i osoby prawne, w tym jednostki samorządu terytorialnego, z wyłączeniem województw;
 - **2)** nadzór nad LGD sprawuje marszałek województwa;
 - **3)** LGD, w zakresie określonym w jej statucie, może prowadzić działalność gospodarczą służącą realizacji LSR;
-- **4)** LGD, oprócz organów wymaganych na podstawie art. 11 ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach, jest obowiązana posiadać organ, do którego właściwości należy:
+- **4)** LGD, oprócz organów wymaganych na podstawie art. 11 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach, jest obowiązana posiadać organ, do którego właściwości należy:
     - **a)** wybór operacji w rozumieniu art. 2 pkt 4 rozporządzenia 2021/1060, zwanych dalej „operacjami”, które mają być realizowane w ramach LSR, oraz
-    - **b)** ustalenie kwoty wsparcia zgodnie z art. 33 ust. 3 lit. d rozporządzenia 2021/1060, zwany dalej „radą”, chyba że w statucie LGD przewidziano, że zadania te należą do właściwości zarządu.
+    - **b)** ustalenie kwoty wsparcia – zgodnie z art. 33 ust. 3 lit. d rozporządzenia 2021/1060, zwany dalej „radą”, chyba że w statucie LGD przewidziano, że zadania te należą do właściwości zarządu.
 
 4. Rada jest wybierana przez walne zebranie członków albo przez zebranie delegatów LGD, spośród członków LGD. Członek rady nie może być równocześnie członkiem organu kontroli wewnętrznej LGD, zarządu LGD lub pracownikiem LGD.
 
-5. Członkowie rady będący osobami fizycznymi uczestniczą w jej pracach, w tym biorą udział w głosowaniu nad jej uchwałami, osobiście, a członkowie będący osobami prawnymi przez organ uprawniony do reprezentowania tej osoby prawnej albo pełnomocnika umocowanego do uczestniczenia w pracach rady. Udzielenie dalszego pełnomocnictwa do uczestniczenia w pracach rady jest niedopuszczalne.
+5. Członkowie rady będący osobami fizycznymi uczestniczą w jej pracach, w tym biorą udział w głosowaniu nad jej uchwałami, osobiście, a członkowie będący osobami prawnymi – przez organ uprawniony do reprezentowania tej osoby prawnej albo pełnomocnika umocowanego do uczestniczenia w pracach rady. Udzielenie dalszego pełnomocnictwa do uczestniczenia w pracach rady jest niedopuszczalne.
 
 6. W przypadku gdy do właściwości zarządu należy wybór operacji, które mają być realizowane w ramach LSR, i ustalanie kwoty wsparcia zgodnie z art. 33 ust. 3 lit. d rozporządzenia 2021/1060, członkowie zarządu nie mogą być zatrudnieni przez LGD na stanowisku związanym ze świadczeniem doradztwa na rzecz podmiotów ubiegających się o wsparcie, o którym mowa w art. 34 ust. 1 lit. b rozporządzenia 2021/1060.
 
@@ -105,7 +109,7 @@ source: "isap-pdf"
 
 1. W przypadku gdy nie ma podstaw, aby stowarzyszenie działało dalej jako LGD zgodnie z art. 4, marszałek województwa informuje stowarzyszenie o tych okolicznościach.
 
-2. Stowarzyszenie jest obowiązane do zmiany statutu przez jego dostosowanie do przepisów ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach oraz do zgłoszenia do Krajowego Rejestru Sądowego zmiany informacji wymaganych przepisami o Krajowym Rejestrze Sądowym w terminie 2 miesięcy od dnia otrzymania informacji, o której mowa w ust. 1.
+2. Stowarzyszenie jest obowiązane do zmiany statutu przez jego dostosowanie do przepisów ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach oraz do zgłoszenia do Krajowego Rejestru Sądowego zmiany informacji wymaganych przepisami o Krajowym Rejestrze Sądowym w terminie 2 miesięcy od dnia otrzymania informacji, o której mowa w ust. 1.
 
 **Art. 5.**
 
@@ -113,16 +117,16 @@ source: "isap-pdf"
 
 - **1)** LSR zawiera elementy określone w art. 32 ust. 1 rozporządzenia 2021/1060,
 - **2)** obszar objęty LSR jest spójny przestrzennie oraz:
-    - **a)** w przypadku gdy realizacja LSR ma być współfinansowana ze środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich jest zamieszkany nie mniej niż przez 30 tys. mieszkańców, nie licząc mieszkańców miast zamieszkanych przez więcej niż 20 tys. mieszkańców, a co najmniej dwie gminy spośród gmin objętych tym obszarem nie są miastami zamieszkanymi przez więcej niż 20 tys. mieszkańców,
-    - **b)** w przypadku gdy realizacja LSR ma być współfinansowana wyłącznie ze środków pochodzących z Europejskiego Funduszu Społecznego Plus lub Europejskiego Funduszu Rozwoju Regionalnego, a jej obszarem objęte jest wyłącznie miasto lub część miasta jest zamieszkany nie mniej niż przez 20 tys. mieszkańców,
-    - **c)** w pozostałych przypadkach obejmuje co najmniej dwie gminy i jest zamieszkany nie mniej niż przez 30 tys. mieszkańców,
+    - **a)** w przypadku gdy realizacja LSR ma być współfinansowana ze środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich – jest zamieszkany nie mniej niż przez 30 tys. mieszkańców, nie licząc mieszkańców miast zamieszkanych przez więcej niż 20 tys. mieszkańców, a co najmniej dwie gminy spośród gmin objętych tym obszarem nie są miastami zamieszkanymi przez więcej niż 20 tys. mieszkańców,
+    - **b)** w przypadku gdy realizacja LSR ma być współfinansowana wyłącznie ze środków pochodzących z Europejskiego Funduszu Społecznego Plus lub Europejskiego Funduszu Rozwoju Regionalnego, a jej obszarem objęte jest wyłącznie miasto lub część miasta – jest zamieszkany nie mniej niż przez 20 tys. mieszkańców,
+    - **c)** w pozostałych przypadkach – obejmuje co najmniej dwie gminy i jest zamieszkany nie mniej niż przez 30 tys. mieszkańców,
 
 - **3)** LSR będzie realizowana przez LGD:
     - **a)** spełniającą wymagania określone w rozporządzeniu 2021/1060 oraz w art. 4,
     - **b)** posiadającą opracowany plan komunikacji z lokalną społecznością,
 
 - **4)** LSR będzie współfinansowana ze środków wszystkich EFSI, o których współfinansowanie może się ubiegać LGD, ubiegając się o wybór LSR,
-- **5)** inne warunki określone w regulaminie konkursu zwane dalej „warunkami dostępu”.
+- **5)** inne warunki określone w regulaminie konkursu – zwane dalej „warunkami dostępu”.
 
 2. (uchylony)
 
@@ -147,6 +151,9 @@ source: "isap-pdf"
 **Art. 6.** Wyboru LSR dokonuje się na wniosek LGD w ramach konkursu ogłoszonego przez zarząd województwa.
 
 **Art. 7.** Wniosek o wybór LSR składa się do zarządu województwa:
+
+- **1)** na formularzu opracowanym przez ministra właściwego do spraw rozwoju wsi i udostępnionym przez zarząd województwa;
+- **2)** w terminie wskazanym w ogłoszeniu o konkursie na wybór LSR, uzgodnionym przez zarząd województwa z ministrem właściwym do spraw rozwoju wsi.
 
 **Art. 8.**
 
@@ -194,7 +201,7 @@ source: "isap-pdf"
     - **b)** nie zawiera nazwy LGD, lub
     - **c)** nie zawiera adresu LGD i nie można ustalić tego adresu na podstawie posiadanych danych, lub
 
-- **2)** do wniosku o wybór LSR nie dołączono LSR zarząd województwa pozostawia wniosek bez rozpatrzenia.
+- **2)** do wniosku o wybór LSR nie dołączono LSR – zarząd województwa pozostawia wniosek bez rozpatrzenia.
 
 2. W razie stwierdzenia, że wniosek o wybór LSR zawiera braki inne niż określone w ust. 1 lub zawiera uchybienia, lub jest konieczne uzyskanie wyjaśnień lub dokumentów niezbędnych do oceny warunków dostępu, zarząd województwa wzywa LGD do uzupełnienia tych braków, usunięcia tych uchybień lub złożenia tych wyjaśnień lub tych dokumentów w terminie 14 dni, pod rygorem pozostawienia wniosku bez rozpatrzenia.
 
@@ -216,17 +223,17 @@ source: "isap-pdf"
 - **1)** oznaczenie komisji właściwej do rozpatrzenia sprzeciwu;
 - **2)** oznaczenie LGD;
 - **3)** wskazanie warunków dostępu, z których oceną LGD się nie zgadza, wraz z uzasadnieniem;
-- **4)** podpis własnoręczny albo kwalifikowany podpis elektroniczny, albo podpis zaufany, albo podpis osobisty osoby upoważnionej do reprezentowania LGD w zależności od sposobu utrwalenia pisma.
+- **4)** podpis własnoręczny albo kwalifikowany podpis elektroniczny, albo podpis zaufany, albo podpis osobisty osoby upoważnionej do reprezentowania LGD – w zależności od sposobu utrwalenia pisma.
 
 5c. W przypadku gdy sprzeciw:
 
-- **1)** nie spełnia wymogów, o których mowa w ust. 5a pkt 2 lub ust. 5b komisja pozostawia sprzeciw bez rozpatrzenia;
-- **2)** nie został uwzględniony komisja utrzymuje w mocy rozstrzygnięcie o odrzuceniu LSR;
-- **3)** został uwzględniony komisja stwierdza spełnienie warunków dostępu.
+- **1)** nie spełnia wymogów, o których mowa w ust. 5a pkt 2 lub ust. 5b – komisja pozostawia sprzeciw bez rozpatrzenia;
+- **2)** nie został uwzględniony – komisja utrzymuje w mocy rozstrzygnięcie o odrzuceniu LSR;
+- **3)** został uwzględniony – komisja stwierdza spełnienie warunków dostępu.
 
 5d. Komisja rozpatruje sprzeciw, weryfikując prawidłowość oceny wniosku w zakresie spełnienia warunków dostępu, z których oceną LGD się nie zgadza, w terminie nie dłuższym niż 21 dni, licząc od dnia otrzymania sprzeciwu.
 
-5e. O wyniku rozpatrzenia sprzeciwu komisja informuje LGD w formie pisemnej wraz z uzasadnieniem, a w przypadku gdy sprzeciw nie został uwzględniony wraz z pouczeniem o możliwości wniesienia skargi, o której mowa w art. 11a ust. 1.
+5e. O wyniku rozpatrzenia sprzeciwu komisja informuje LGD w formie pisemnej wraz z uzasadnieniem, a w przypadku gdy sprzeciw nie został uwzględniony – wraz z pouczeniem o możliwości wniesienia skargi, o której mowa w art. 11a ust. 1.
 
 5f. W rozpatrywaniu sprzeciwu nie mogą brać udziału członkowie komisji będący przedstawicielami zarządu województwa, którzy dokonywali oceny spełnienia warunków dostępu tej LSR, której dotyczy sprzeciw.
 
@@ -239,8 +246,8 @@ source: "isap-pdf"
 9. Odwołanie wnosi się:
 
 - **1)** do instytucji zarządzającej programem:
-    - **a)** współfinansowanym ze środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w przypadku gdy realizacja LSR ma być współfinansowana w całości lub części ze środków tego funduszu,
-    - **b)** którego środki będą przeznaczone na współfinansowanie realizacji LSR w pozostałych przypadkach;
+    - **a)** współfinansowanym ze środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich – w przypadku gdy realizacja LSR ma być współfinansowana w całości lub części ze środków tego funduszu,
+    - **b)** którego środki będą przeznaczone na współfinansowanie realizacji LSR – w pozostałych przypadkach;
 
 - **2)** na piśmie utrwalonym w postaci papierowej lub elektronicznej w terminie 7 dni od dnia otrzymania informacji, o której mowa w ust. 7.
 
@@ -249,15 +256,15 @@ source: "isap-pdf"
 - **1)** oznaczenie instytucji zarządzającej programem, zwanej dalej „IZ”, właściwej do rozpatrzenia odwołania;
 - **2)** oznaczenie LGD;
 - **3)** wskazanie kryteriów wyboru LSR, z których oceną LGD się nie zgadza, wraz z uzasadnieniem;
-- **4)** podpis własnoręczny albo kwalifikowany podpis elektroniczny, albo podpis zaufany, albo podpis osobisty osoby upoważnionej do reprezentowania LGD w zależności od sposobu utrwalenia pisma.
+- **4)** podpis własnoręczny albo kwalifikowany podpis elektroniczny, albo podpis zaufany, albo podpis osobisty osoby upoważnionej do reprezentowania LGD – w zależności od sposobu utrwalenia pisma.
 
 11. W przypadku gdy realizacja LSR ma być współfinansowana również z EFSI innych niż Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich, IZ, o której mowa w ust. 9 pkt 1, rozpatruje odwołanie w uzgodnieniu z IZ programem, którego środki będą przeznaczone na współfinansowanie realizacji tej LSR.
 
 12. W przypadku gdy odwołanie:
 
-- **1)** nie spełnia wymogów określonych w ust. 9 pkt 2 lub ust. 10 IZ pozostawia je bez rozpatrzenia;
-- **2)** nie zostało uwzględnione IZ utrzymuje w mocy wynik oceny LSR;
-- **3)** zostało uwzględnione IZ informuje komisję o wyniku dokonanej oceny kryteriów wyboru LSR, z których oceną LGD się nie zgadza, i wskazuje sposób załatwienia sprawy.
+- **1)** nie spełnia wymogów określonych w ust. 9 pkt 2 lub ust. 10 – IZ pozostawia je bez rozpatrzenia;
+- **2)** nie zostało uwzględnione – IZ utrzymuje w mocy wynik oceny LSR;
+- **3)** zostało uwzględnione – IZ informuje komisję o wyniku dokonanej oceny kryteriów wyboru LSR, z których oceną LGD się nie zgadza, i wskazuje sposób załatwienia sprawy.
 
 13. IZ rozpatruje odwołanie w terminie 30 dni od dnia jego otrzymania.
 
@@ -285,8 +292,8 @@ source: "isap-pdf"
 
 1. LGD przysługuje prawo wniesienia do sądu administracyjnego skargi:
 
-- **1)** na rozstrzygnięcie komisji o utrzymaniu w mocy rozstrzygnięcia o odrzuceniu LSR w przypadku nieuwzględnienia przez komisję sprzeciwu,
-- **2)** na uchwałę, o której mowa w art. 11 ust. 1 na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685).
+- **1)** na rozstrzygnięcie komisji o utrzymaniu w mocy rozstrzygnięcia o odrzuceniu LSR – w przypadku nieuwzględnienia przez komisję sprzeciwu,
+- **2)** na uchwałę, o której mowa w art. 11 ust. 1 – na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685).
 
 2. Skarga jest wnoszona przez LGD w terminie 14 dni od dnia otrzymania informacji, o której mowa w art. 10 ust. 5e, albo uchwały, o której mowa w art. 11 ust. 1. Skarga podlega wpisowi stałemu.
 
@@ -295,7 +302,7 @@ source: "isap-pdf"
 4. Wniesienie skargi:
 
 - **1)** po terminie, o którym mowa w ust. 2,
-- **2)** bez uiszczenia wpisu stałego w terminie, o którym mowa w ust. 2 powoduje pozostawienie skargi bez rozpoznania.
+- **2)** bez uiszczenia wpisu stałego w terminie, o którym mowa w ust. 2 – powoduje pozostawienie skargi bez rozpoznania.
 
 5. W przypadku, o którym mowa w art. 5 ust. 7, lub jeżeli zostaną wyczerpane środki przeznaczone na wybór LSR, lub jeżeli nie jest spełniony warunek określony w art. 5 ust. 3 pkt 1a, sąd, uwzględniając skargę, stwierdza tylko, że ocena wniosku LSR została przeprowadzona z naruszeniem prawa i nie uchyla rozstrzygnięcia komisji, o którym mowa w ust. 1 pkt 1, albo uchwały, o której mowa w art. 11 ust. 1.
 
@@ -304,7 +311,7 @@ source: "isap-pdf"
 1. Do postępowania w sprawie wyboru LSR, w tym w zakresie oceny spełniania warunków dostępu i oceny LSR, do postępowania w sprawie sprzeciwu oraz do postępowania w sprawie odwołania nie stosuje się przepisów Kodeksu postępowania administracyjnego, z wyjątkiem przepisów dotyczących:
 
 - **1)** właściwości miejscowej organów, wyłączenia pracowników organu, doręczeń, udostępniania akt, skarg i wniosków,
-- **2)** wezwań w przypadku postępowania w sprawie oceny spełniania warunków dostępu o ile przepisy ustawy nie stanowią inaczej.
+- **2)** wezwań – w przypadku postępowania w sprawie oceny spełniania warunków dostępu – o ile przepisy ustawy nie stanowią inaczej.
 
 2. W postępowaniu w sprawie wyboru LSR, w tym w zakresie oceny spełniania warunków dostępu i oceny LSR, zarząd województwa oraz komisja, przed którymi toczy się postępowanie:
 
@@ -359,7 +366,7 @@ source: "isap-pdf"
 - **6)** 1. Jeżeli środki przeznaczone na realizację LSR są dostępne:
 - **1)** obszar gminy, który:
     - **a)** nie jest objęty żadną LSR wybraną po dniu 1 stycznia 2021 r. albo
-    - **b)** jest objęty LSR wybraną po dniu 1 stycznia 2021 r., która nie jest już realizowana na podstawie umowy ramowej może zostać przyłączony do obszaru objętego jedną z wybranych LSR, który graniczy z obszarem tej gminy, chyba że gmina ta objęta jest ocenioną LSR, która podlega wyborowi zgodnie z art. 14a;
+    - **b)** jest objęty LSR wybraną po dniu 1 stycznia 2021 r., która nie jest już realizowana na podstawie umowy ramowej – może zostać przyłączony do obszaru objętego jedną z wybranych LSR, który graniczy z obszarem tej gminy, chyba że gmina ta objęta jest ocenioną LSR, która podlega wyborowi zgodnie z art. 14a;
 
 - **2)** zarząd województwa może ogłosić kolejny konkurs na wybór LSR.
 
@@ -371,7 +378,7 @@ source: "isap-pdf"
 - **1)** o wyniku oceny LSR komisja informuje LGD w terminie 2 miesięcy od dnia upływu terminu składania wniosków o wybór LSR;
 - **2)** minister właściwy do spraw rozwoju wsi opracowuje formularze, o których mowa w art. 7 pkt 1 i art. 14 ust. 2, oraz regulamin, o którym mowa w art. 9 ust. 1:
     - **a)** w uzgodnieniu z zarządami województw będącymi IZ,
-    - **b)** po zasięgnięciu opinii Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz zarządów województw niebędących IZ z wyłączeniem zarządów województw, w których nie zostanie przeprowadzony kolejny konkurs na wybór LSR;
+    - **b)** po zasięgnięciu opinii Agencji Restrukturyzacji i Modernizacji Rolnictwa oraz zarządów województw niebędących IZ – z wyłączeniem zarządów województw, w których nie zostanie przeprowadzony kolejny konkurs na wybór LSR;
 
 - **3)** przepisu art. 15 ust. 2 nie stosuje się.
 
@@ -434,7 +441,7 @@ source: "isap-pdf"
 - **1)** zadania grantobiorcy służące osiągnięciu celu projektu grantowego;
 - **2)** kwotę grantu i wkładu własnego grantobiorcy;
 - **3)** warunki przekazania i rozliczenia grantu;
-- **4)** zobowiązanie do zwrotu grantu w przypadku wykorzystania go niezgodnie z celem projektu grantowego;
+- **4)** zobowiązanie do zwrotu grantu – w przypadku wykorzystania go niezgodnie z celem projektu grantowego;
 - **5)** zobowiązanie grantobiorcy do poddania się kontroli przeprowadzanej przez LGD lub inne podmioty lub instytucje do tego uprawnione lub na zlecenie tych podmiotów lub instytucji.
 
 4f. LGD odpowiada w szczególności za:
@@ -446,7 +453,7 @@ source: "isap-pdf"
 - **5)** rozliczanie wydatków poniesionych przez grantobiorców;
 - **6)** monitorowanie realizacji zadań przez grantobiorców;
 - **7)** kontrolę realizacji zadań przez grantobiorców;
-- **8)** odzyskiwanie grantów w przypadku ich wykorzystania niezgodnie z celem projektu grantowego.
+- **8)** odzyskiwanie grantów – w przypadku ich wykorzystania niezgodnie z celem projektu grantowego.
 
 4g. Zarząd województwa zatwierdza procedury, o których mowa w ust. 4f pkt 2.
 
@@ -531,7 +538,7 @@ source: "isap-pdf"
     - **a)** są objęte wnioskami o wsparcie złożonymi w terminie, miejscu oraz formie, o których mowa w ogłoszeniu o naborze wniosków o wsparcie,
     - **b)** spełniają warunki udzielenia wsparcia na wdrażanie LSR,
 
-- **2)** przy zastosowaniu kryteriów wyboru operacji i dokonuje ustalenia kwoty wsparcia na wdrażanie LSR.
+- **2)** przy zastosowaniu kryteriów wyboru operacji – i dokonuje ustalenia kwoty wsparcia na wdrażanie LSR.
 
 1a. Jeżeli w trakcie oceny wniosku o wsparcie jest konieczne uzyskanie wyjaśnień lub dokumentów niezbędnych do oceny wniosku o wsparcie, wyboru operacji lub ustalenia kwoty wsparcia na wdrażanie LSR, LGD wzywa wnioskodawcę do złożenia tych wyjaśnień lub dokumentów.
 
@@ -546,11 +553,11 @@ source: "isap-pdf"
 5. LGD:
 
 - **1)** przekazuje wnioskodawcy informację o wyniku oceny spełnienia warunków udzielenia wsparcia na wdrażanie LSR lub wyniku wyboru wniosków o wsparcie wraz z uzasadnieniem oceny i podaniem liczby punktów otrzymanych przez operację oraz wskazaniem ustalonej przez LGD kwoty wsparcia na wdrażanie LSR, a w przypadku:
-    - **a)** pozytywnego wyniku wyboru wniosku o wsparcie zawierającą dodatkowo wskazanie, czy w dniu przekazania wniosków o wsparcie do zarządu województwa operacja mieści się w limicie środków przeznaczonych na udzielenie wsparcia na wdrażanie LSR w ramach danego naboru wniosków o wsparcie,
-    - **b)** ustalenia przez LGD kwoty wsparcia na wdrażanie LSR niższej niż wnioskowana zawierającą dodatkowo uzasadnienie tej wysokości,
+    - **a)** pozytywnego wyniku wyboru wniosku o wsparcie – zawierającą dodatkowo wskazanie, czy w dniu przekazania wniosków o wsparcie do zarządu województwa operacja mieści się w limicie środków przeznaczonych na udzielenie wsparcia na wdrażanie LSR w ramach danego naboru wniosków o wsparcie,
+    - **b)** ustalenia przez LGD kwoty wsparcia na wdrażanie LSR niższej niż wnioskowana – zawierającą dodatkowo uzasadnienie tej wysokości,
 
 - **2)** zamieszcza na swojej stronie internetowej listę operacji spełniających warunki udzielenia wsparcia na wdrażanie LSR oraz listę operacji wybranych, ze wskazaniem, które z operacji mieszczą się w limicie środków przeznaczonych na udzielenie wsparcia na wdrażanie LSR w ramach danego naboru wniosków o wsparcie,
-- **3)** udostępnia zarządowi województwa dokumenty potwierdzające dokonanie wyboru operacji w terminie 60 dni od dnia następującego po ostatnim dniu terminu składania wniosków o wsparcie.
+- **3)** udostępnia zarządowi województwa dokumenty potwierdzające dokonanie wyboru operacji – w terminie 60 dni od dnia następującego po ostatnim dniu terminu składania wniosków o wsparcie.
 
 5a. (uchylony)
 
@@ -558,7 +565,7 @@ source: "isap-pdf"
 
 - **1)** nie są spełnione warunki udzielenia wsparcia na wdrażanie LSR albo
 - **2)** operacja nie została wybrana, albo
-- **3)** operacja została wybrana, ale nie mieści się w limicie środków przeznaczonych na udzielenie wsparcia na wdrażanie LSR w ramach danego naboru wniosków o wsparcie, lub LGD ustaliła kwotę wsparcia na wdrażanie LSR niższą niż wnioskowana informacja, o której mowa w ust. 5 pkt 1, zawiera pouczenie o możliwości wniesienia protestu na zasadach i w trybie określonych w art. 22–22m.
+- **3)** operacja została wybrana, ale nie mieści się w limicie środków przeznaczonych na udzielenie wsparcia na wdrażanie LSR w ramach danego naboru wniosków o wsparcie, lub LGD ustaliła kwotę wsparcia na wdrażanie LSR niższą niż wnioskowana – informacja, o której mowa w ust. 5 pkt 1, zawiera pouczenie o możliwości wniesienia protestu na zasadach i w trybie określonych w art. 22–22m.
 
 6a. (uchylony)
 
@@ -607,7 +614,7 @@ source: "isap-pdf"
 - **3)** numer wniosku o wsparcie oraz numer naboru wniosków o wsparcie;
 - **4)** wskazanie:
     - **a)** warunków udzielenia wsparcia na wdrażanie LSR lub
-    - **b)** kryteriów wyboru operacji z których oceną wnioskodawca się nie zgadza, wraz z uzasadnieniem, lub wskazanie, w jakim zakresie wnioskodawca nie zgadza się z ustaleniem przez LGD kwoty wsparcia na wdrażanie LSR niższej niż wnioskowana;
+    - **b)** kryteriów wyboru operacji – z których oceną wnioskodawca się nie zgadza, wraz z uzasadnieniem, lub wskazanie, w jakim zakresie wnioskodawca nie zgadza się z ustaleniem przez LGD kwoty wsparcia na wdrażanie LSR niższej niż wnioskowana;
 
 - **5)** wskazanie zarzutów o charakterze proceduralnym w zakresie przeprowadzonej oceny, jeżeli zdaniem wnioskodawcy takie naruszenia miały miejsce, wraz z uzasadnieniem;
 - **6)** podpis wnioskodawcy lub osoby upoważnionej do jego reprezentowania, z załączeniem oryginału lub kopii dokumentu poświadczającego umocowanie takiej osoby do reprezentowania tego wnioskodawcy.
@@ -655,12 +662,12 @@ source: "isap-pdf"
 1. Zarząd województwa przekazuje wnioskodawcy informację o wyniku rozpatrzenia jego protestu. Informacja ta zawiera w szczególności:
 
 - **1)** treść rozstrzygnięcia polegającego na uwzględnieniu albo nieuwzględnieniu protestu, wraz z uzasadnieniem;
-- **2)** pouczenie o możliwości wniesienia skargi do sądu administracyjnego na zasadach określonych w art. 22h w przypadku nieuwzględnienia protestu.
+- **2)** pouczenie o możliwości wniesienia skargi do sądu administracyjnego na zasadach określonych w art. 22h – w przypadku nieuwzględnienia protestu.
 
 2. W przypadku uwzględnienia protestu zarząd województwa kieruje wniosek o wsparcie do LGD w celu:
 
-- **1)** uwzględnienia stanowiska zarządu województwa w zakresie spełnienia warunków udzielenia wsparcia na wdrażanie LSR i dokonania oceny operacji przy zastosowaniu kryteriów wyboru operacji oraz w celu ustalenia kwoty wsparcia na wdrażanie LSR w przypadku gdy uwzględnienie protestu dotyczy spełnienia warunków udzielenia wsparcia na wdrażanie LSR; przepisy art. 21 ust. 5–7 stosuje się odpowiednio;
-- **2)** ponownej oceny operacji w zakresie kryteriów wyboru operacji lub w zakresie ustalenia kwoty wsparcia na wdrażanie LSR, z których oceną lub ustaleniem wnioskodawca się nie zgadza, oraz aktualizacji listy, o której mowa w art. 21 ust. 5 pkt 2, i informuje wnioskodawcę o przekazaniu sprawy w przypadku gdy uwzględnienie protestu dotyczy spełnienia kryteriów wyboru operacji lub ustalenia kwoty wsparcia na wdrażanie LSR; przepisy art. 21 ust. 5 stosuje się odpowiednio, a w przypadku negatywnego wyniku ponownej oceny operacji do informacji załącza dodatkowo pouczenie o możliwości wniesienia skargi do sądu administracyjnego na zasadach określonych w art. 22h.
+- **1)** uwzględnienia stanowiska zarządu województwa w zakresie spełnienia warunków udzielenia wsparcia na wdrażanie LSR i dokonania oceny operacji przy zastosowaniu kryteriów wyboru operacji oraz w celu ustalenia kwoty wsparcia na wdrażanie LSR – w przypadku gdy uwzględnienie protestu dotyczy spełnienia warunków udzielenia wsparcia na wdrażanie LSR; przepisy art. 21 ust. 5–7 stosuje się odpowiednio;
+- **2)** ponownej oceny operacji w zakresie kryteriów wyboru operacji lub w zakresie ustalenia kwoty wsparcia na wdrażanie LSR, z których oceną lub ustaleniem wnioskodawca się nie zgadza, oraz aktualizacji listy, o której mowa w art. 21 ust. 5 pkt 2, i informuje wnioskodawcę o przekazaniu sprawy – w przypadku gdy uwzględnienie protestu dotyczy spełnienia kryteriów wyboru operacji lub ustalenia kwoty wsparcia na wdrażanie LSR; przepisy art. 21 ust. 5 stosuje się odpowiednio, a w przypadku negatywnego wyniku ponownej oceny operacji do informacji załącza dodatkowo pouczenie o możliwości wniesienia skargi do sądu administracyjnego na zasadach określonych w art. 22h.
 
 **Art. 22f.**
 
@@ -671,23 +678,27 @@ source: "isap-pdf"
 
 2. Informacja, o której mowa w ust. 1, zawiera pouczenie o możliwości wniesienia skargi do sądu administracyjnego na zasadach określonych w art. 22h.
 
-**Art. 22g.** Do procedury odwoławczej, o której mowa w art. 22–22f, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z tym że:
+**Art. 22g.** Do procedury odwoławczej, o której mowa w art. 22–22f, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z tym że:
+
+- **1)** stosuje się przepisy dotyczące doręczeń i sposobu obliczania terminów;
+- **2)** w weryfikacji, o której mowa w art. 22c ust. 3, a także w ponownej ocenie, o której mowa w art. 22e ust. 2 pkt 2, nie mogą brać udziału osoby, które były zaangażowane w przygotowanie operacji; w tym zakresie przepisy art. 24 § 1 pkt 1–4, 6 i 7 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio;
+- **3)** w rozpatrywaniu protestu nie mogą brać udziału osoby, które były zaangażowane w przygotowanie operacji lub jej ocenę; w tym zakresie przepisy art. 24 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 **Art. 22h.**
 
-1. W przypadku nieuwzględnienia protestu, negatywnego wyniku ponownej oceny operacji lub pozostawienia protestu bez rozpatrzenia, w tym w przypadku, o którym mowa w art. 22m ust. 2 pkt 1, wnioskodawca może w tym zakresie wnieść skargę do sądu administracyjnego zgodnie z art. 3 § 3 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi.
+1. W przypadku nieuwzględnienia protestu, negatywnego wyniku ponownej oceny operacji lub pozostawienia protestu bez rozpatrzenia, w tym w przypadku, o którym mowa w art. 22m ust. 2 pkt 1, wnioskodawca może w tym zakresie wnieść skargę do sądu administracyjnego zgodnie z art. 3 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
 2. Skarga jest wnoszona przez wnioskodawcę bezpośrednio do wojewódzkiego sądu administracyjnego w terminie 14 dni od dnia:
 
 - **1)** otrzymania informacji, o której mowa w art. 22e ust. 1 albo ust. 2 pkt 2, art. 22f albo art. 22m ust. 2 pkt 1,
-- **2)** upływu terminu na uzupełnienie protestu lub poprawienie w nim oczywistych omyłek w przypadku, o którym mowa w art. 22a ust. 3 wraz z kompletną dokumentacją w sprawie.
+- **2)** upływu terminu na uzupełnienie protestu lub poprawienie w nim oczywistych omyłek – w przypadku, o którym mowa w art. 22a ust. 3 – wraz z kompletną dokumentacją w sprawie.
 
 3. Kompletna dokumentacja, o której mowa w ust. 2, obejmuje:
 
 - **1)** wniosek o wsparcie,
 - **2)** informację o wynikach wyboru, o której mowa w art. 21 ust. 5 pkt 1,
 - **3)** wniesiony protest, o którym mowa w art. 22 ust. 1,
-- **4)** informację, o której mowa w art. 22e ust. 1 albo ust. 2 pkt 2, art. 22f albo art. 22m ust. 2 pkt 1 wraz z ewentualnymi załącznikami.
+- **4)** informację, o której mowa w art. 22e ust. 1 albo ust. 2 pkt 2, art. 22f albo art. 22m ust. 2 pkt 1 – wraz z ewentualnymi załącznikami.
 
 4. Kompletna dokumentacja, o której mowa w ust. 2, jest wnoszona przez wnioskodawcę w oryginale lub w postaci uwierzytelnionej kopii.
 
@@ -705,7 +716,7 @@ source: "isap-pdf"
     - **a)** ocena operacji została przeprowadzona w sposób naruszający prawo i naruszenie to miało istotny wpływ na wynik oceny, przekazując jednocześnie sprawę do ponownego rozpatrzenia przez LGD,
     - **b)** pozostawienie protestu bez rozpatrzenia było nieuzasadnione, przekazując sprawę do rozpatrzenia przez zarząd województwa albo LGD;
 
-- **2)** oddalić skargę w przypadku jej nieuwzględnienia;
+- **2)** oddalić skargę – w przypadku jej nieuwzględnienia;
 - **3)** umorzyć postępowanie w sprawie, jeżeli jest ono bezprzedmiotowe.
 
 **Art. 22i.**
@@ -714,13 +725,13 @@ source: "isap-pdf"
 
 - **1)** wnioskodawca,
 - **2)** zarząd województwa,
-- **3)** LGD w terminie 14 dni od dnia doręczenia rozstrzygnięcia wojewódzkiego sądu administracyjnego, przy czym przepisy art. 22h ust. 3, 4, 7 i 8 stosuje się odpowiednio.
+- **3)** LGD – w terminie 14 dni od dnia doręczenia rozstrzygnięcia wojewódzkiego sądu administracyjnego, przy czym przepisy art. 22h ust. 3, 4, 7 i 8 stosuje się odpowiednio.
 
 2. Naczelny Sąd Administracyjny rozpoznaje skargę kasacyjną w terminie 30 dni od dnia jej wniesienia.
 
 **Art. 22j.** Na prawo wnioskodawcy do wniesienia skargi do sądu administracyjnego nie wpływa negatywnie błędne pouczenie albo brak pouczenia, o którym mowa w art. 21 ust. 6, art. 22a ust. 3, art. 22e ust. 1 pkt 2 albo ust. 2 pkt 2, art. 22f ust. 2 albo art. 22m ust. 2 pkt 1.
 
-**Art. 22k.** W zakresie nieuregulowanym w ustawie do postępowania przed sądami administracyjnymi stosuje się odpowiednio przepisy ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi dotyczące aktów lub czynności, o których mowa w art. 3 § 2 pkt 4, z wyłączeniem art. 52–55, art. 61 § 3–6, art. 115–122, art. 146, art. 150 i art. 152 tej ustawy.
+**Art. 22k.** W zakresie nieuregulowanym w ustawie do postępowania przed sądami administracyjnymi stosuje się odpowiednio przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi dotyczące aktów lub czynności, o których mowa w art. 3 § 2 pkt 4, z wyłączeniem art. 52–55, art. 61 § 3–6, art. 115–122, art. 146, art. 150 i art. 152 tej ustawy.
 
 **Art. 22l.**
 
@@ -743,11 +754,11 @@ source: "isap-pdf"
 
 2. W przypadku gdy w dokumentach, o których mowa w art. 21 ust. 5 pkt 3, zarząd województwa stwierdzi braki lub będzie konieczne uzyskanie wyjaśnień, wzywa LGD do uzupełnienia braków lub złożenia wyjaśnień w wyznaczonym terminie, nie krótszym niż 7 dni.
 
-3. Jeżeli nie są spełnione warunki udzielenia wsparcia na wdrażanie LSR, zarząd województwa informuje niezwłocznie wnioskodawcę o odmowie udzielenia tego wsparcia, w formie pisemnej lub w formie elektronicznej, a w przypadku tego wsparcia współfinansowanego ze środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich zgodnie z przepisami ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027.
+3. Jeżeli nie są spełnione warunki udzielenia wsparcia na wdrażanie LSR, zarząd województwa informuje niezwłocznie wnioskodawcę o odmowie udzielenia tego wsparcia, w formie pisemnej lub w formie elektronicznej, a w przypadku tego wsparcia współfinansowanego ze środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich – zgodnie z przepisami ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027.
 
-3a. W przypadku wsparcia na wdrażanie LSR współfinansowanego ze środków Europejskiego Funduszu Rozwoju Regionalnego i Europejskiego Funduszu Społecznego Plus do doręczania informacji o odmowie udzielenia tego wsparcia, o której mowa w ust. 3, stosuje się przepisy działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+3a. W przypadku wsparcia na wdrażanie LSR współfinansowanego ze środków Europejskiego Funduszu Rozwoju Regionalnego i Europejskiego Funduszu Społecznego Plus do doręczania informacji o odmowie udzielenia tego wsparcia, o której mowa w ust. 3, stosuje się przepisy działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-3b. W przypadku odmowy udzielenia wsparcia na wdrażanie LSR przez zarząd województwa z przyczyn innych niż unieważnienie naboru wniosków wnioskodawcy przysługuje prawo wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi.
+3b. W przypadku odmowy udzielenia wsparcia na wdrażanie LSR przez zarząd województwa z przyczyn innych niż unieważnienie naboru wniosków wnioskodawcy przysługuje prawo wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
 
 4. Jeżeli są spełnione warunki udzielenia wsparcia na wdrażanie LSR, zarząd województwa udziela go zgodnie z przepisami regulującymi zasady wsparcia z udziałem poszczególnych EFSI, do limitu środków przeznaczonych na udzielenie wsparcia na wdrażanie LSR w ramach danego naboru wniosków o wsparcie.
 

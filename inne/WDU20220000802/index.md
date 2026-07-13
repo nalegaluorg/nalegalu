@@ -30,7 +30,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra–Szefa Urzęd
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 20 kwietnia 2018 r. zmieniającego rozporządzenie w sprawie nadania osobowości prawnej Federacji Bibliotek Kościelnych – Fides z siedzibą w Warszawie (Dz. U. poz. 891), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży
 ROZPORZĄDZENIE MINISTRA–SZEFA URZĘDU RADY MINISTRÓW z dnia 17 października 1995 r.
 w sprawie nadania osobowości prawnej Federacji Bibliotek Kościelnych „Fides” Na podstawie art. 10 w związku z art. 34 ust. 3 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1347) i w związku z art. 7 ust. 4a ustawy z dnia 12 listopada 1985 r. o zmianach w organizacji oraz zakresie działania niektórych naczelnych i centralnych organów administracji państwowej (Dz. U. poz. 262, z późn. zm. ) zarządza się, co następuje:
-§ 1. Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą „Federacja Bibliotek Kościelnych „Fides”, erygowanej przez Konferencję Episkopatu Polski.
-§ 1a. Siedzibą Federacji Bibliotek Kościelnych „Fides” jest Warszawa.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą „Federacja Bibliotek Kościelnych „Fides”, erygowanej przez Konferencję Episkopatu Polski.
+
+**§ 1a.** Siedzibą Federacji Bibliotek Kościelnych „Fides” jest Warszawa.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

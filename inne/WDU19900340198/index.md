@@ -206,8 +206,7 @@ source: pdf
     - **o)** zawieranie umów określających wzajemne zobowiązania i świadczenia inwestora oraz organu uprawnionego do wydawania decyzji o ustaleniu lokalizacji inwestycji, związane z realizacją inwestycji i przyszłym funkcjonowaniem budowanego obiektu (art. 44);
 
 - **26)** z ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz.U. Nr 52, poz. 268, z 1986 r. Nr 46, poz. 225, z 1988 r. Nr 1, poz. 1, z 1989 r. Nr 7, poz. 45, Nr 10, poz. 53, Nr 35, poz. 192 i Nr 74, poz. 443): zaliczanie w szczególnych, gospodarczo uzasadnionych wypadkach niektórych wsi do innego okręgu podatkowego niż określony dla gminy na podstawie upoważnień zawartych w ustawie (art. 5 ust. 3);
-- **27)** z ustawy z dnia 14 marca 1985 r. o podatkach i opłatach lokalnych (Dz. U. Nr 12, poz. 50, z 1988 r. Nr 19, poz. 132 oraz z 1989 r. Nr 35, poz. 192 i Nr 74, poz.
-- **443)** :
+- **27)** z ustawy z dnia 14 marca 1985 r. o podatkach i opłatach lokalnych (Dz. U. Nr 12, poz. 50, z 1988 r. Nr 19, poz. 132 oraz z 1989 r. Nr 35, poz. 192 i Nr 74, poz. 443):
     - **a)** określanie wysokości stawek podatku od posiadania psów, terminów płatności tego podatku i sposobu jego poboru, zarządzanie poboru tego podatku w drodze inkasa i określanie inkasentów, a także wprowadzanie ulg i zwolnień w tym podatku innych niż określone w ustawie (art. 12 ust. 4),
     - **b)** określanie wysokości dziennych stawek opłaty targowej i sposobu poboru tej opłaty, zarządzanie poboru opłaty targowej w drodze inkasa oraz określanie inkasentów i ich wynagrodzenia (art. 13 ust. 4),
     - **c)** możliwość stosowania innych zwolnień od opłaty targowej niż określone w ustawie (art. 14 ust. 2),
@@ -411,8 +410,7 @@ source: pdf
 
 - **1)** z rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 22 sierpnia 1927 r. o zwalczaniu zaraźliwych chorób zwierzęcych (Dz. U. Nr 77, poz. 673, Nr 114, poz. 975, z 1928 r. Nr 26, poz. 229, z 1932 r. Nr 26, poz. 229, Nr 60, poz. 573 i Nr 67, poz. 622, z 1934 r. Nr 110, poz. 976, z 1938 r. Nr 27, poz. 245, z 1948 r. Nr 49, poz. 373, z 1951 r. Nr 1, poz. 4): podawanie do wiadomości osób zainteresowanych lub do wiadomości publicznej o zarządzonych przez państwowego lekarza weterynarii tymczasowych środkach w celu umiejscowienia choroby i dopilnowanie ich wykonania (art. 23);
 - **2)** (skreślony);
-- **3)** z dekretu z dnia 23 marca 1956 r. o ochronie granic państwowych (Dz. U. Nr 9, poz. 51, z 1959 r. Nr 27, poz. 168, z 1969 r. Nr 13, poz. 95 i z 1977 r. Nr 37, poz.
-- **162)** : wydawanie zezwoleń na stały pobyt w strefie nadgranicznej (art. 12 ust. 1);
+- **3)** z dekretu z dnia 23 marca 1956 r. o ochronie granic państwowych (Dz. U. Nr 9, poz. 51, z 1959 r. Nr 27, poz. 168, z 1969 r. Nr 13, poz. 95 i z 1977 r. Nr 37, poz. 162): wydawanie zezwoleń na stały pobyt w strefie nadgranicznej (art. 12 ust. 1);
 - **4)** z ustawy z dnia 13 listopada 1963 r. o zwalczaniu chorób zakaźnych (Dz. U. Nr 50, poz. 279, z 1971 r. Nr 12, poz. 115, z 1974 r. Nr 47, poz. 280 i z 1989 r. Nr 35, poz. 192): pokrywanie kosztów przewozu osób podlegających przymusowej hospitalizacji lub izolacji i kosztów przejazdu do zakładu społecznego służby zdrowia osób podlegających przymusowemu leczeniu lub przymusowym badaniom stanu zdrowia (art. 8 ust. 6);
 - **5)** z ustawy z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz. U. Nr 3, poz. 6, z 1983 r. Nr 44, poz. 201, z 1987 r. Nr 33, poz. 180 oraz z 1989 r. Nr 26, poz. 139 i Nr 35, poz. 192):
     - **a)** ustanawianie parku wiejskiego, określanie jego granic oraz sposobu wykonywania ochrony (art. 47 ust. 2 pkt 1),
@@ -441,9 +439,8 @@ source: pdf
 - **1)** w art. 3 dodaje się lit. f) w brzmieniu: „f) koniecznej pomocy finansowej”;
 - **2)** w art. 5 lit. a) otrzymuje brzmienie: „a) gminy sprawują opiekę środowiskową (pozazakładową) w ramach zadań własnych i zleconych; w ramach zadań własnych udzielają zasiłków celowych i świadczeń niepieniężnych oraz utrzymują bazę materialnotechniczną ośrodków pomocy społecznej, a także zakładają i utrzymują żłobki i inne zakłady opiekuńcze o zasięgu lokalnym; w ramach zadań zleconych gminy udzielają zasiłków stałych i okresowych oraz finansują wynagrodzenie pracowników socjalnych.”
 
-**Art. 12.** W ustawie z dnia 15 marca 1933 r. o zbiórkach publicznych (Dz. U. Nr 22, poz. 162, z 1948 r. Nr 36, poz. 250, z 1971 r. Nr 12 poz. 115 i z 1989 r. Nr 29, poz.
+**Art. 12.** W ustawie z dnia 15 marca 1933 r. o zbiórkach publicznych (Dz. U. Nr 22, poz. 162, z 1948 r. Nr 36, poz. 250, z 1971 r. Nr 12 poz. 115 i z 1989 r. Nr 29, poz. 154):
 
-- **154)** :
 - **1)** w art. 2 w ust. 1 lit a) otrzymuje brzmienie: „a) jako zadanie zlecone organy gminy, o ile zbiórka ma być przeprowadzona na obszarze gminy lub jego części”;
 - **2)** w art. 2 w ust. 1 lit. b) skreśla się wyrazy „obejmującej więcej niż jeden powiat”.
 
@@ -460,10 +457,7 @@ source: pdf
 **Art. 16.** W dekrecie z dnia 2 sierpnia 1951 r. o targach i targowiskach (Dz. U. Nr 41, poz. 312) wprowadza się następujące zmiany:
 
 - **1)** skreśla się art. 2,
-- **2)** art. 4 otrzymuje brzmienie: „Art. 4. 1. Prowadzenie targowisk jest zadaniem własnym gminy.
-
-2. Działalność, o której mowa w ust. 1, mogą prowadzić inne podmioty gospodarcze po uzyskaniu zezwolenia gminy”.
-
+- **2)** art. 4 otrzymuje brzmienie: „Art. 4. 1. Prowadzenie targowisk jest zadaniem własnym gminy. 2. Działalność, o której mowa w ust. 1, mogą prowadzić inne podmioty gospodarcze po uzyskaniu zezwolenia gminy”.
 - **3)** art. 5 otrzymuje brzmienie: „Art. 5. Gmina ustala lokalizację targowisk i ich regulaminy”,
 - **4)** w art. 7 ust. 2 skreśla się,
 - **5)** art. 8 skreśla się.
@@ -484,10 +478,7 @@ source: pdf
 - **2)** w art. 2 w § 1 w pkt 3 wyrazy „z zakresu administracji państwowej” zastępuje się wyrazami „pozostające we właściwości organów administracji rządowej i gminy”,
 - **3)** w art. 3 wyraz „państwowej” zastępuje się wyrazami „rządowej i gminy”,
 - **4)** w art. 19:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. Organem egzekucyjnym w zakresie egzekucji administracyjnej obowiązków o charakterze niepieniężnym jest:
-
-- **1)** rzeczowo właściwy terenowy organ administracji rządowej I instancji,
-- **2)** miejscowo właściwa gmina w zakresie zadań własnych lub zleconych.”,
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Organem egzekucyjnym w zakresie egzekucji administracyjnej obowiązków o charakterze niepieniężnym jest: 1) rzeczowo właściwy terenowy organ administracji rządowej I instancji, 2) miejscowo właściwa gmina w zakresie zadań własnych lub zleconych.”,
     - **b)** § 3 otrzymuje brzmienie: „§ 3. Organem egzekucyjnym w zakresie egzekucji administracyjnej obowiązków o charakterze niepieniężnym, wynikających z decyzji z zakresu administracji rządowej, wydanych przez przedsiębiorstwa państwowe i inne państwowe jednostki organizacyjne oraz przez stowarzyszenia, organizacje zawodowe, samorządowe, spółdzielcze i inne organizacje społeczne, jest terenowy organ rządowej administracji I instancji, z którego właściwością związana jest sprawa; w razie wątpliwości lub braku takiego organu, organ ten wyznacza wojewoda.”,
 
 - **5)** art. 23 otrzymuje brzmienie: „Art. 23. Wójt lub burmistrz (prezydent) jest uprawniony do wstrzymywania czynności egzekucyjnych dotyczących prowadzonej na terenie gminy egzekucji administracyjnej należności pieniężnych od rolników tam zamieszkałych, jeżeli zachodzi oczywisty błąd co do egzekwowanego obowiązku lub co do osoby zobowiązanego albo zaistniała nowa lub nieznana organowi egzekucyjnemu albo przez ten organ nie rozpatrzona okoliczność uzasadniająca przyznanie ulgi albo zawieszenie lub umorzenie postępowania egzekucyjnego. O wstrzymaniu czynności egzekucyjnych wójt lub burmistrz (prezydent) zawiadamia niezwłocznie organ egzekucyjny, który postanowi co do dalszego postępowania.”
@@ -515,23 +506,8 @@ source: pdf
 
 **Art. 25.** W ustawie z dnia 12 czerwca 1975 r. o ochronie przeciwpożarowej (Dz. U. Nr 20, poz. 106, z 1988 r. Nr 19, poz. 132 i z 1989 r. Nr 35, poz. 192) wprowadza się następujące zmiany:
 
-- **1)** w art. 4 pkt 2 i 3 otrzymują brzmienie: „2) wojewodowie - w stosunku do jednostek organizacyjnych im podległych i przez nich nadzorowanych,
-- **3)** organy gminy - w stosunku do ich jednostek organizacyjnych”;
-- **2)** art. 7 otrzymuje brzmienie: „Art. 7. 1. W dziedzinie zapobiegania i zwalczania pożarów do rejonowych organów rządowej administracji ogólnej należy:
-- **1)** sprawowanie kontroli przestrzegania przepisów o ochronie przeciwpożarowej przez państwowe, spółdzielcze i społeczne jednostki organizacyjne oraz jednostki organizacyjne gospodarki nie uspołecznionej i osoby fizyczne,
-- **2)** nadzór nad działalnością zawodowych, obowiązkowych i ochotniczych straży pożarnych,
-- **3)** zapewnienie terenowym zawodowym strażom pożarnym:
-    - **a)** środków alarmowania i łączności,
-    - **b)** pomieszczeń, wyposażenia, sprzętu, urządzeń przeciwpożarowych, odzieży specjalnej i umundurowania,
-    - **c)** środków transportowych do akcji ratowniczych i ćwiczeń.
-
-2. W dziedzinie zapobiegania i zwalczania pożarów do organów gminy należy:
-
-- **1)** zapewnienie na terenie gminy zasobów wody do gaszenia pożarów,
-- **2)** zapewnienie terenowym obowiązkowym i ochotniczym strażom pożarnym środków, pomieszczeń i innych przedmiotów, o których mowa w ust. 1 pkt
-
-3. ”;
-
+- **1)** w art. 4 pkt 2 i 3 otrzymują brzmienie: „2) wojewodowie - w stosunku do jednostek organizacyjnych im podległych i przez nich nadzorowanych, 3) organy gminy - w stosunku do ich jednostek organizacyjnych”;
+- **2)** art. 7 otrzymuje brzmienie: „Art. 7. 1. W dziedzinie zapobiegania i zwalczania pożarów do rejonowych organów rządowej administracji ogólnej należy: 1) sprawowanie kontroli przestrzegania przepisów o ochronie przeciwpożarowej przez państwowe, spółdzielcze i społeczne jednostki organizacyjne oraz jednostki organizacyjne gospodarki nie uspołecznionej i osoby fizyczne, 2) nadzór nad działalnością zawodowych, obowiązkowych i ochotniczych straży pożarnych, 3) zapewnienie terenowym zawodowym strażom pożarnym: a) środków alarmowania i łączności, b) pomieszczeń, wyposażenia, sprzętu, urządzeń przeciwpożarowych, odzieży specjalnej i umundurowania, c) środków transportowych do akcji ratowniczych i ćwiczeń. 2. W dziedzinie zapobiegania i zwalczania pożarów do organów gminy należy: 1) zapewnienie na terenie gminy zasobów wody do gaszenia pożarów, 2) zapewnienie terenowym obowiązkowym i ochotniczym strażom pożarnym środków, pomieszczeń i innych przedmiotów, o których mowa w ust. 1 pkt 3.”;
 - **3)** w art. 12:
     - **a)** w ust. 1 wyrazy „Gminne rady narodowe (rady narodowe miast i gmin)” zastępuje się wyrazami „Rady gmin”, wyrazy „rada narodowa” - wyrazami „rada gminy”, a wyrazy „urząd gminy” (miasta i gminy) - wyrazami „zarząd gminy”,
     - **b)** w ust. 2 wyrazy „naczelnik gminy (miasta i gminy)” zastępuje się wyrazami „zarząd gminy”,
@@ -579,8 +555,8 @@ source: pdf
 **Art. 28.** W ustawie z dnia 26 lutego 1982 r. o cenach (Dz. U. z 1988 r. Nr 27, poz. 195) wprowadza się następujące zmiany:
 
 - **1)** w art. 14 ust. 2 skreśla się,
-- **2)** w art. 18: Rada Ministrów w wykazie, o którym mowa w art. 7 ust. 1, określa te towary i usługi.”,
-    - **a)** ust. 3 otrzymuje brzmienie: „3. Wojewodowie ustalają ceny urzędowe niektórych towarów i usług, z wyjątkiem cen za usługi przewozowe lokalnego transportu zbiorowego;
+- **2)** w art. 18:
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Wojewodowie ustalają ceny urzędowe niektórych towarów i usług, z wyjątkiem cen za usługi przewozowe lokalnego transportu zbiorowego; Rada Ministrów w wykazie, o którym mowa w art. 7 ust. 1, określa te towary i usługi.”,
     - **b)** dodaje się ust. 3a w brzmieniu: „3. Rada gminy ustala ceny urzędowe za usługi przewozowe lokalnego transportu zbiorowego.”.
 
 **Art. 29.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. Nr 35, poz. 230, z 1984 r. Nr 34, poz. 164, z 1987 r. Nr 33, poz. 180 i z 1989 r. Nr 35, poz. 192) wprowadza się następujące zmiany:
@@ -636,16 +612,7 @@ source: pdf
 
 **Art. 37.** W ustawie z dnia 20 czerwca 1985 r. - Prawo o ustroju sądów powszechnych (Dz. U. z 1990 r. Nr 23, poz. 138) wprowadza się następujące zmiany:
 
-- **1)** art. 134 i 135 otrzymują brzmienie: „Art. 134. § 1. Ławników do sądów wojewódzkich oraz do sądów rejonowych wybierają rady gmin, których obszar jest objęty właściwością tych sądów - w głosowaniu tajnym.
-
-§ 2. Wybory przygotowują gminy jako zadanie zlecone z zakresu administracji rządowej.
-
-**Art. 135.**
-
-§ 1. Liczbę ławników wybieranych przez poszczególne rady gmin do wszystkich sądów działających na obszarze właściwości sądu wojewódzkiego, w tym także liczbę ławników do orzekania w sprawach z zakresu prawa pracy i ubezpieczeń społecznych, ustala kolegium sądu wojewódzkiego; liczbę ławników do poszczególnych sądów rejonowych ustala się po zasięgnięciu opinii tych sądów.
-
-§ 2. Prezes sądu wojewódzkiego podaje liczbę ławników do wiadomości poszczególnym radom gmin najpóźniej na 30 dni przed upływem terminu zgłaszania kandydatów.”;
-
+- **1)** art. 134 i 135 otrzymują brzmienie: „Art. 134. § 1. Ławników do sądów wojewódzkich oraz do sądów rejonowych wybierają rady gmin, których obszar jest objęty właściwością tych sądów - w głosowaniu tajnym. § 2. Wybory przygotowują gminy jako zadanie zlecone z zakresu administracji rządowej. Art. 135. § 1. Liczbę ławników wybieranych przez poszczególne rady gmin do wszystkich sądów działających na obszarze właściwości sądu wojewódzkiego, w tym także liczbę ławników do orzekania w sprawach z zakresu prawa pracy i ubezpieczeń społecznych, ustala kolegium sądu wojewódzkiego; liczbę ławników do poszczególnych sądów rejonowych ustala się po zasięgnięciu opinii tych sądów. § 2. Prezes sądu wojewódzkiego podaje liczbę ławników do wiadomości poszczególnym radom gmin najpóźniej na 30 dni przed upływem terminu zgłaszania kandydatów.”;
 - **2)** w art. 136 § 1 otrzymuje brzmienie: „§ 1. Kandydatów na ławników zgłaszają radom gmin stowarzyszenia, organizacje i związki zawodowe, zarejestrowane na podstawie przepisów prawa, oraz co najmniej 25 obywateli mających czynne prawo wyborcze, zamieszkujących stale na danym terenie do dnia 31 lipca ostatniego roku kadencji, w trybie, który określi Prezydent Rzeczypospolitej Polskiej.”;
 - **3)** w art. 137 § 2, w art. 138 § 1, w art 140 § 1 i 2, w art. 141 § 1 oraz w art. 142 użyte w różnych przypadkach i liczbach wyrazy „rada narodowa” zastępuje się użytymi w odpowiednich przypadkach i liczbach wyrazami „rada gminy”.
 
@@ -653,17 +620,8 @@ source: pdf
 
 **Art. 39.** W ustawie z dnia 29 września 1986 r. - Prawo o aktach stanu cywilnego (Dz. U. Nr 36, poz. 180, z 1988 r. Nr 19, poz. 132 i z 1989 r. Nr 29, poz. 154) wprowadza się następujące zmiany:
 
-- **1)** dodaje się art. 5a w brzmieniu: „Art. 5a. 1. Urzędy stanu cywilnego wchodzą w skład urzędu gminy.
-
-2. Gmina stanowi okręg urzędu stanu cywilnego.
-
-3. Wojewoda może tworzyć urzędy stanu cywilnego właściwe dla kilku okręgów lub utworzyć kilka urzędów stanu cywilnego w obszarze jednej gminy.”,
-
-- **2)** art. 6 otrzymuje brzmienie: „Art. 6. 1. Czynności z zakresu rejestracji stanu cywilnego dokonuje kierownik urzędu stanu cywilnego lub jego zastępca (zastępcy).
-
-2. Kierownikiem urzędu stanu cywilnego jest wójt lub burmistrz (prezydent).
-
-3. Rada gminy może powołać innego kierownika urzędu stanu cywilnego i jego zastępcę (zastępców)”.
+- **1)** dodaje się art. 5a w brzmieniu: „Art. 5a. 1. Urzędy stanu cywilnego wchodzą w skład urzędu gminy. 2. Gmina stanowi okręg urzędu stanu cywilnego. 3. Wojewoda może tworzyć urzędy stanu cywilnego właściwe dla kilku okręgów lub utworzyć kilka urzędów stanu cywilnego w obszarze jednej gminy.”,
+- **2)** art. 6 otrzymuje brzmienie: „Art. 6. 1. Czynności z zakresu rejestracji stanu cywilnego dokonuje kierownik urzędu stanu cywilnego lub jego zastępca (zastępcy). 2. Kierownikiem urzędu stanu cywilnego jest wójt lub burmistrz (prezydent). 3. Rada gminy może powołać innego kierownika urzędu stanu cywilnego i jego zastępcę (zastępców)”.
 
 **Art. 40.** W ustawie z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich (Dz. U. Nr 21, poz. 123) w art. 11 w ust. 1 w pkt 2 po wyrazach „administracji państwowej” skreśla się przecinek i dodaje wyrazy „i gminy”.
 

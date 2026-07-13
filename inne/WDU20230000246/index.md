@@ -31,8 +31,14 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury
 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 14 kwietnia 2004 r.
 w sprawie wysokości opłat pobieranych za przyjęcie protestu morskiego Na podstawie art. 64 § 6 ustawy z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2018 r. poz. 2175 oraz z 2022 r.
 poz. 2642) zarządza się, co następuje:
-§ 1. 1. Za przyjęcie protestu morskiego izby morskie albo sądy rejonowe pobierają opłatę o równowartości 250 jednostek obliczeniowych.
+
+**§ 1.**
+
+1. Za przyjęcie protestu morskiego izby morskie albo sądy rejonowe pobierają opłatę o równowartości 250 jednostek obliczeniowych.
+
 2. Jednostką obliczeniową jest wartość złotowa 1 SDR – Specjalnego Prawa Ciągnienia (SDR), liczona według cen średniego kursu walutowego podanego w tabelach kursowych Narodowego Banku Polskiego.
-§ 2. Za przyjęcie protestu morskiego polskie urzędy konsularne pobierają opłatę w wysokości określonej w przepisach wydanych na podstawie art. 118 ustawy z dnia 25 czerwca 2015 r. – Prawo konsularne (Dz. U. z 2023 r. poz. 199).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 2.** Za przyjęcie protestu morskiego polskie urzędy konsularne pobierają opłatę w wysokości określonej w przepisach wydanych na podstawie art. 118 ustawy z dnia 25 czerwca 2015 r. – Prawo konsularne (Dz. U. z 2023 r. poz. 199).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

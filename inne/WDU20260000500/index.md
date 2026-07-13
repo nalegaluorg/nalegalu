@@ -26,9 +26,9 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000500) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/500/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2025 r. poz. 468), z uwzględnieniem stanu prawnego na dzień 26 marca 2026 r. oraz zmian wprowadzonych ustawą z dnia 9 października 2025 r. o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. poz. 1652).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 i art. 3 ustawy z dnia 9 października 2025 r. o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. poz. 1652), które stanowią: „Art. 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 32a ust. 4 i art. 35 pkt 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 32a ust. 4 i art. 35 pkt 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 i art. 3 ustawy z dnia 9 października 2025 r. o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. poz. 1652), które stanowią: „ Art. 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 32a ust. 4 i art. 35 pkt 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 32a ust. 4 i art. 35 pkt 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Art. 3. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty
+USTAWA z dnia 30 kwietnia 2004 r.
+o postępowaniu w sprawach dotyczących pomocy publicznej
 
 #### Rozdział 1 Przepisy ogólne
 

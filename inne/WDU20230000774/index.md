@@ -30,20 +30,37 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 20 grudnia 2022 r. zmieniającego rozporządzenie w sprawie Krajowego Programu Ochrony Lotnictwa Cywilnego (Dz. U. z 2023 r. poz. 49), które stanowią: „ Niniejsze rozporządzenie służy stosowaniu rozporządzenia wykonawczego Komisji (UE) 2015/1998 z dnia 5 listopada 2015 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego (Dz. Urz. UE L 299 z 14.11.2015, str. 1, Dz. Urz. UE L 334 z 22.12.2015, str. 5, Dz. Urz. UE L 165 z 23.06.2016, str. 23, Dz. Urz. UE L 122 z 13.05.2017, str. 1, Dz. Urz. UE L 125 z 18.05.2017, str. 3, Dz. Urz. UE L 10 z 13.01.2018, str. 5, Dz. Urz. UE L 21 z 24.01.2019, str. 13, Dz. Urz. UE L 73 z 15.03.2019, str. 98, Dz. Urz. UE L 246 z 26.09.2019, str. 15, Dz. Urz. UE L 21 z 27.01.2020, str. 1, Dz. Urz. UE L 208 z 01.07.2020, str. 43, Dz. Urz. UE L 58 z 19.02.2021, str. 23, Dz. Urz. UE L 87 z 15.03.2022, str. 1, Dz. Urz. UE L 94 z 23.03.2022, str. 3 oraz Dz. Urz. UE L 183 z 08.07.2022, str. 35).” „§ 2. 1. Prezes Urzędu udostępni zarządzającemu lotniskiem będącym portem lotniczym część analizy ryzyka dotyczącą zagrożeń wynikających z niezidentyfikowanego bagażu i podejrzanych przedmiotów po raz pierwszy w terminie do dnia 31 lipca 2023 r. 2. Zarządzający lotniskiem będącym portem lotniczym ustali w programie ochrony lotniska procedurę postępowania z niezidentyfikowanym bagażem i podejrzanymi przedmiotami w terminie 3 miesięcy od dnia otrzymania udostępnionej mu części analizy ryzyka. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Infrastruktury: A. Adamczyk
 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 2 grudnia 2020 r.
 w sprawie Krajowego Programu Ochrony Lotnictwa Cywilnego Na podstawie art. 187 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642) zarządza się, co następuje:
-§ 1. Ustala się Krajowy Program Ochrony Lotnictwa Cywilnego określony w załączniku do rozporządzenia.
-§ 2. Do spraw dotyczących aktualizacji programów ochrony, o których mowa w art. 188 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 31 lipca 2012 r. w sprawie Krajowego Programu Ochrony Lotnictwa Cywilnego (Dz. U. z 2018 r. poz. 631).
-§ 3. Programy ochrony, o których mowa w art. 188 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, zatwierdzone na podstawie przepisów rozporządzenia, o którym mowa w § 2, zachowują ważność.
-§ 4. Karty identyfikacyjne członka załogi, karty identyfikacyjne portu lotniczego oraz przepustki dla pojazdów, wydane na podstawie przepisów rozporządzenia, o którym mowa w § 2, zachowują ważność przez okres, na jaki zostały wydane.
-§ 5. Do wniosków dotyczących wydania czasowej karty identyfikacyjnej portu lotniczego, jednorazowej karty identyfikacyjnej portu lotniczego, czasowej przepustki dla pojazdu i jednorazowej przepustki dla pojazdu oraz wniosków o przeprowadzenie procesu zatwierdzenia zespołu składającego się z psa do wykrywania materiałów wybuchowych, o którym mowa w pkt 12.9 załącznika do rozporządzenia wykonawczego Komisji (UE) 2015/1998 z dnia 5 listopada 2015 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego (Dz. Urz. UE L 299 z 14.11.2015, str. 1, z późn. zm. ), i jego przewodnika, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia, o którym mowa w § 2.
-§ 6. Zarządzający lotniskami dostosują się do wymogu określonego w § 37 ust. 2 załącznika do rozporządzenia w terminie 3 miesięcy od dnia wejścia w życie rozporządzenia.
-§ 7. Wyznaczenia unijnych podmiotów zatwierdzających dokonane na podstawie przepisów rozporządzenia, o którym mowa w § 2, zachowują ważność przez okres 5 lat od dnia wyznaczenia.
-§ 8. Wyznaczenia znanych dostawców zaopatrzenia pokładowego i znanych dostawców zaopatrzenia portu lotniczego dokonane na podstawie przepisów rozporządzenia, o którym mowa w § 2, zachowują ważność przez okres, na jaki zostały dokonane.
-§ 9. Zarządzający lotniskami, przewoźnicy lotniczy, zarejestrowani agenci, zarejestrowani dostawcy zaopatrzenia pokładowego, znani nadawcy oraz instytucje zapewniające służby ruchu lotniczego, niebędący operatorami usług kluczowych, dostosują programy ochrony do wymogów wynikających z rozdziału 22 załącznika do rozporządzenia w terminie 6 miesięcy od dnia wejścia w życie rozporządzenia.
-§ 10. Zespoły ochrony lotnisk powołane na podstawie rozporządzenia, o którym mowa w § 2, stają się zespołami, o których mowa w § 3 załącznika do niniejszego rozporządzenia.
-§ 11. Prezes Urzędu Lotnictwa Cywilnego sporządza pierwszą analizę ryzyka wystąpienia aktu bezprawnej ingerencji w lotnictwie cywilnym, o której mowa w § 6 ust. 7 załącznika do rozporządzenia, do dnia 30 czerwca 2021 r.
-§ 12. Komendant Główny Straży Granicznej przesyła po raz pierwszy informację, o której mowa w § 82 ust. 1 załącznika do rozporządzenia, za pierwszy kwartał 2021 r., do dnia 20 kwietnia 2021 r.
-§ 13. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-KRAJOWY PROGRAM OCHRONY LOTNICTWA CYWILNEGO
+
+**§ 1.** Ustala się Krajowy Program Ochrony Lotnictwa Cywilnego określony w załączniku do rozporządzenia.
+
+**§ 2.** Do spraw dotyczących aktualizacji programów ochrony, o których mowa w art. 188 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 31 lipca 2012 r. w sprawie Krajowego Programu Ochrony Lotnictwa Cywilnego (Dz. U. z 2018 r. poz. 631).
+
+**§ 3.** Programy ochrony, o których mowa w art. 188 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, zatwierdzone na podstawie przepisów rozporządzenia, o którym mowa w § 2, zachowują ważność.
+
+**§ 4.** Karty identyfikacyjne członka załogi, karty identyfikacyjne portu lotniczego oraz przepustki dla pojazdów, wydane na podstawie przepisów rozporządzenia, o którym mowa w § 2, zachowują ważność przez okres, na jaki zostały wydane.
+
+**§ 5.** Do wniosków dotyczących wydania czasowej karty identyfikacyjnej portu lotniczego, jednorazowej karty identyfikacyjnej portu lotniczego, czasowej przepustki dla pojazdu i jednorazowej przepustki dla pojazdu oraz wniosków o przeprowadzenie procesu zatwierdzenia zespołu składającego się z psa do wykrywania materiałów wybuchowych, o którym mowa w pkt 12.9 załącznika do rozporządzenia wykonawczego Komisji (UE) 2015/1998 z dnia 5 listopada 2015 r. ustanawiającego szczegółowe środki w celu wprowadzenia w życie wspólnych podstawowych norm ochrony lotnictwa cywilnego (Dz. Urz. UE L 299 z 14.11.2015, str. 1, z późn. zm. ), i jego przewodnika, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia, o którym mowa w § 2.
+
+**§ 6.** Zarządzający lotniskami dostosują się do wymogu określonego w § 37 ust. 2 załącznika do rozporządzenia w terminie 3 miesięcy od dnia wejścia w życie rozporządzenia.
+
+**§ 7.** Wyznaczenia unijnych podmiotów zatwierdzających dokonane na podstawie przepisów rozporządzenia, o którym mowa w § 2, zachowują ważność przez okres 5 lat od dnia wyznaczenia.
+
+**§ 8.** Wyznaczenia znanych dostawców zaopatrzenia pokładowego i znanych dostawców zaopatrzenia portu lotniczego dokonane na podstawie przepisów rozporządzenia, o którym mowa w § 2, zachowują ważność przez okres, na jaki zostały dokonane.
+
+**§ 9.** Zarządzający lotniskami, przewoźnicy lotniczy, zarejestrowani agenci, zarejestrowani dostawcy zaopatrzenia pokładowego, znani nadawcy oraz instytucje zapewniające służby ruchu lotniczego, niebędący operatorami usług kluczowych, dostosują programy ochrony do wymogów wynikających z rozdziału 22 załącznika do rozporządzenia w terminie 6 miesięcy od dnia wejścia w życie rozporządzenia.
+
+**§ 10.** Zespoły ochrony lotnisk powołane na podstawie rozporządzenia, o którym mowa w § 2, stają się zespołami, o których mowa w § 3 załącznika do niniejszego rozporządzenia.
+
+**§ 11.** Prezes Urzędu Lotnictwa Cywilnego sporządza pierwszą analizę ryzyka wystąpienia aktu bezprawnej ingerencji w lotnictwie cywilnym, o której mowa w § 6 ust. 7 załącznika do rozporządzenia, do dnia 30 czerwca 2021 r.
+
+**§ 12.** Komendant Główny Straży Granicznej przesyła po raz pierwszy informację, o której mowa w § 82 ust. 1 załącznika do rozporządzenia, za pierwszy kwartał 2021 r., do dnia 20 kwietnia 2021 r.
+
+**§ 13.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia . KRAJOWY PROGRAM OCHRONY LOTNICTWA CYWILNEGO
+
+#### Rozdział 1 Przepisy ogólne
+
+## Załącznik
+
 § 1. 1. Ilekroć w Krajowym Programie Ochrony Lotnictwa Cywilnego jest mowa o:
 1) centrum – rozumie się przez to centrum koordynacji antykryzysowej;
 2) CMC – rozumie się przez to certyfikat członka załogi statku powietrznego, o którym mowa w art. 188b ust. 1 ustawy;
@@ -185,6 +202,7 @@ j) promowania kultury ochrony lotnictwa cywilnego w ramach struktur organizacyjn
 3) adres do korespondencji podmiotu reprezentowanego przez daną osobę;
 4) numer telefonu danej osoby;
 5) adres poczty elektronicznej danej osoby.
+Rozdział 2 Zespół ochrony lotniska
 § 3. 1. W portach lotniczych działają ZOL.
 2. W skład ZOL wchodzą zarządzający lotniskiem lub osoba, o której mowa w § 2 ust. 1 pkt 10 lit. a, jako przewodniczący zespołu, oraz po jednym przedstawicielu:
 1) służby ochrony lotniska;
@@ -205,6 +223,7 @@ j) promowania kultury ochrony lotnictwa cywilnego w ramach struktur organizacyjn
 4) wyrażanie opinii na temat rozwiązań dotyczących mechanizmów funkcjonowania terminali;
 5) inicjowanie wprowadzania nowych rozwiązań i procedur dotyczących odpraw i kontroli pasażerów, bagażu, ładunków i poczty oraz środków kontroli w zakresie ochrony;
 6) dokonywanie oceny stanu współpracy między funkcjonującymi w danym porcie lotniczym przewoźnikami lotniczymi, innymi podmiotami prowadzącymi działalność lotniczą, służbami ochrony oraz Służbą Celno-Skarbową a zarządzającym lotniskiem, w zakresie realizowanych przedsięwzięć z dziedziny ochrony lotnictwa cywilnego.
+Rozdział 3 Przewóz broni i amunicji
 § 5. 1. Osoba zamierzająca przewieźć broń lub amunicję, o których mowa w ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2022 r. poz. 2516 oraz z 2023 r. poz. 535), jest obowiązana zwrócić się do przedstawiciela przewoźnika lotniczego na lotnisku wylotu w celu zadeklarowania tego faktu.
 2. Przed umieszczeniem w luku bagażowym broni lub amunicji wykonuje się następujące czynności:
 1) przewoźnik lotniczy informuje Straż Graniczną na lotnisku wylotu o fakcie przewozu broni lub amunicji przez osobę, o której mowa w ust. 1;
@@ -216,6 +235,7 @@ j) promowania kultury ochrony lotnictwa cywilnego w ramach struktur organizacyjn
 5. Na lotnisku, na którym nie funkcjonuje lotnicze przejście graniczne, zadania Straży Granicznej określone w ust. 2–4 wykonuje służba ochrony lotniska.
 6. Przewoźnik lotniczy zapewnia, że broń lub amunicja, które są przeznaczone do przewozu lub czasowo przechowywane na lotnisku w związku z przewozem, są zabezpieczone przez umieszczenie w miejscu fizycznie zabezpieczonym przed dostępem osób nieupoważnionych lub objęte stałym nadzorem, o którym mowa w ust. 2 pkt 4.
 7. W przypadku przewozu broni lub amunicji statkiem powietrznym pozbawionym luku bagażowego, broń lub amunicja w trakcie transportu jest zabezpieczona przed dostępem osób nieupoważnionych. Przepisy ust. 2 stosuje się odpowiednio.
+Rozdział 4 Ocena stopnia zagrożenia oraz przeciwdziałanie sytuacjom kryzysowym w lotnictwie cywilnym
 § 6. 1. Szef Agencji Bezpieczeństwa Wewnętrznego na podstawie informacji własnych lub uzyskanych od organów administracji publicznej i służb odpowiedzialnych za bezpieczeństwo publiczne oraz innych organów i służb publicznych, a także od podmiotów prowadzących działalność lotniczą, sporządza ocenę stopnia zagrożenia terrorystycznego w lotnictwie cywilnym na terytorium Rzeczypospolitej Polskiej za dany rok kalendarzowy, która jest przekazywana Prezesowi Urzędu do dnia 31 marca roku następującego po roku kalendarzowym objętym oceną.
 2. Sporządzenia oceny, o której mowa w ust. 1, dokonuje się z uwzględnieniem przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.
 3. Prezes Urzędu udostępnia adres poczty elektronicznej służący do zgłaszania informacji, o których mowa w art. 186g ust. 1 i 2 ustawy, oraz prowadzi rejestr informacji przekazywanych przez podmioty prowadzące działalność lotniczą, zawierający dane zgłaszającego, datę przekazania informacji oraz treść informacji.
@@ -289,8 +309,10 @@ f) Organizację Międzynarodowego Lotnictwa Cywilnego;
 1) raport wstępny – w terminie 30 dni od dnia wystąpienia aktu bezprawnej ingerencji w lotnictwie cywilnym;
 2) raport końcowy – w terminie 60 dni od dnia wystąpienia aktu bezprawnej ingerencji w lotnictwie cywilnym.
 4. Osoba kierująca sztabem lub osoba przez nią upoważniona udzielają informacji o akcie bezprawnej ingerencji w lotnictwie cywilnym środkom masowego przekazu.
+Rozdział 5 Aktualizacje programów ochrony
 § 12. 1. Zarządzający lotniskami, przewoźnicy lotniczy, zarejestrowani agenci, zarejestrowani dostawcy zaopatrzenia pokładowego, znani nadawcy oraz Polska Agencja Żeglugi Powietrznej zapewniają, że ich programy ochrony zawierają aktualne informacje, w szczególności w zakresie wykorzystywanej infrastruktury i stosowanych procedur, przez ich bieżącą aktualizację.
 2. Aktualizacje programów ochrony podmiotów, o których mowa w ust. 1, związane z poziomem ochrony, podlegają zatwierdzeniu przez Prezesa Urzędu. Przez aktualizacje programów ochrony niezwiązane z poziomem ochrony uważa się w szczególności aktualizacje związane ze zmianami danych teleadresowych i zmianami stosowanych formularzy.
+Rozdział 6 Współpraca międzynarodowa
 § 13. Współpraca Prezesa Urzędu z państwami członkowskimi Organizacji Międzynarodowego Lotnictwa Cywilnego w zakresie ochrony przed aktami bezprawnej ingerencji w lotnictwie cywilnym oraz przeciwdziałania tym aktom polega w szczególności na:
 1) powiadamianiu o zagrożeniu aktami bezprawnej ingerencji w lotnictwie cywilnym;
 2) uczestniczeniu w testach systemów ochrony;
@@ -298,6 +320,7 @@ f) Organizację Międzynarodowego Lotnictwa Cywilnego;
 4) wskazywaniu właściwych organów upoważnionych do przekazania i odebrania informacji o zagrożeniu oraz wypracowywania i realizacji działań eliminujących stwierdzone zagrożenie.
 § 14. 1. Wykonywanie czynności kontroli jakości w zakresie ochrony lotnictwa cywilnego w Rzeczypospolitej Polskiej przez władze lotnicze państw-stron Konwencji oraz przewoźników lotniczych z państw obcych wymaga zgody Prezesa Urzędu.
 2. Informacja o wynikach przeprowadzonych czynności kontroli jakości w zakresie ochrony, o których mowa w ust. 1, jest przekazywana Prezesowi Urzędu w terminie do 30 dni od dnia zakończenia czynności.
+Rozdział 7 Alternatywne środki ochrony
 § 15. 1. Prezes Urzędu wprowadza odstępstwa od wymagań w zakresie ochrony lotnictwa cywilnego na podstawie lokalnej analizy ryzyka na lotnisku lub jego części uwzględniającej:
 1) informację dołączoną do wniosku przez zarządzającego lotniskiem, obejmującą:
 a) wielkość oraz położenie lotniska lub wyznaczonej strefy tego lotniska, podlegających alternatywnym środkom ochrony,
@@ -308,6 +331,7 @@ c) proponowane alternatywne środki ochrony;
 2. Szef Agencji Bezpieczeństwa Wewnętrznego przekazuje, na wniosek Prezesa Urzędu, ocenę stopnia zagrożenia terrorystycznego, w terminie 30 dni od dnia otrzymania wniosku.
 3. Odstępstwa, o których mowa w ust. 1, wprowadza się na okres nie dłuższy niż 5 lat.
 4. Analiza ryzyka, o której mowa w ust. 1, jest przeprowadzana przez przyporządkowanie wartości liczbowych dla szacowanego zagrożenia, skuteczności stosowanych środków zapobiegawczych (podatność) oraz ryzyka, z uwzględnieniem metodyki zalecanej przez międzynarodowe lub krajowe organizacje lub służby właściwe w obszarze ochrony lotnictwa cywilnego.
+Rozdział 8 Ochrona lotniska
 § 16. 1. Zarządzający lotniskiem wyznacza strefę ogólnodostępną, strefę operacyjną lotniska, strefę zastrzeżoną lotniska i część krytyczną strefy zastrzeżonej oraz w stosownych przypadkach strefę wydzieloną oraz granice między tymi strefami wraz z przejściami, które są zamieszczane w programie ochrony lotniska.
 2. Zarządzający lotniskiem informuje Prezesa Urzędu, Policję, Straż Graniczną i Służbę Celno-Skarbową o zmianach przebiegu stref, granic i przejść, o których mowa w ust. 1.
 3. Zmiany, o których mowa w ust. 2, obejmujące okres nie dłuższy niż 150 dni, nie wymagają zamieszczania w programie ochrony lotniska.
@@ -443,8 +467,10 @@ a) utrzymanie w dobrym stanie technicznym ogrodzenia wokół lotniska oraz innyc
 b) ochronę przejść ze strefy ogólnodostępnej do strefy zastrzeżonej lotniska przed dostępem osób nieuprawnionych oraz przedostaniem się przedmiotów mogących stanowić zagrożenie dla transportu lotniczego,
 c) patrolowanie strefy zastrzeżonej lotniska i kontrolowanie strefy ogólnodostępnej,
 d) możliwość doraźnego i szybkiego ograniczenia dostępu do strefy ogólnodostępnej.
+Rozdział 9 Strefy wydzielone
 § 37. 1. W celu obsługi lotów, o których mowa w art. 1 rozporządzenia Komisji (UE) nr 1254/2009 z dnia 18 grudnia 2009 r. ustanawiającego kryteria pozwalające państwom członkowskim na odstępstwo od wspólnych podstawowych norm ochrony lotnictwa cywilnego i przyjęcie alternatywnych środków w zakresie ochrony (Dz. Urz. UE L 338 z 19.12.2009, str. 17, z późn. zm. ), ochrona stref wydzielonych jest realizowana przez zarządzającego lotniskiem w porozumieniu z Policją, a w przypadku portu lotniczego, w którym znajduje się lotnicze przejście graniczne – w porozumieniu ze Strażą Graniczną.
 2. Zarządzający lotniskiem, na którym ustanowiono strefy wydzielone, zapewnia oddzielenie statków zaparkowanych w tych strefach od statków powietrznych zaparkowanych w strefach operacyjnych lotniska, strefach zastrzeżonych lotniska i częściach krytycznych stref zastrzeżonych.
+Rozdział 10 Ochrona statku powietrznego
 § 38. 1. Przewoźnik lotniczy zapewnia ochronę eksploatowanego przez siebie statku powietrznego, zgodnie z pkt 3 załącznika I do rozporządzenia 300/2008, częścią D załącznika do rozporządzenia 272/2009 oraz pkt 3 i dodatkiem 3‒B załącznika do rozporządzenia 2015/1998.
 2. Ochrona statku powietrznego, o której mowa w ust. 1, polega na:
 1) przeszukaniu statku powietrznego;
@@ -453,6 +479,7 @@ d) możliwość doraźnego i szybkiego ograniczenia dostępu do strefy ogólnodo
 2. Przewoźnik lotniczy może zawrzeć z zarządzającym lotniskiem, agentem obsługi naziemnej lub innym podmiotem umowę, na podstawie której podmioty te wykonują przeszukanie statku powietrznego w jego imieniu.
 § 40. 1. Zabezpieczenie statku powietrznego jest realizowane przez przewoźnika lotniczego, zgodnie z pkt 3.2 załącznika do rozporządzenia 2015/1998.
 2. Przewoźnik lotniczy może zawrzeć z zarządzającym lotniskiem, agentem obsługi naziemnej lub innym podmiotem umowę, na podstawie której podmioty te wykonują zabezpieczenie statku powietrznego w jego imieniu.
+Rozdział 11 Pasażerowie i bagaż kabinowy
 § 41. 1. Pasażerów oraz ich bagaż kabinowy poddaje się kontroli bezpieczeństwa, zgodnie z pkt 4 załącznika do rozporządzenia 2015/1998, częścią A załącznika do rozporządzenia 272/2009 oraz pkt 4 załącznika I do rozporządzenia 300/2008.
 2. Pasażerowie oraz ich bagaż kabinowy podlegają ochronie zgodnie z pkt 4.2 załącznika do rozporządzenia 2015/1998.
 § 42. 1. Kontroli bezpieczeństwa, o której mowa w § 41 ust. 1, nie stosuje się w przypadku prowadzenia akcji ratowniczej na terenie lotniska, w szczególności w sytuacji ratowania życia lub zdrowia ludzkiego.
@@ -502,11 +529,13 @@ d) możliwość doraźnego i szybkiego ograniczenia dostępu do strefy ogólnodo
 3. Nie poddaje się kontroli bezpieczeństwa korespondencji służbowej opatrzonej urzędową pieczęcią przewożonej przez kurierów wojskowych sił zbrojnych państw członkowskich Paktu Północnoatlantyckiego (NATO) lub Dowództwa Sojuszniczego NATO, pod warunkiem że kurier przewożący taką korespondencję posiada indywidualny rozkaz wyjazdu określający liczbę przewożonych przesyłek i stwierdzający, że zawierają one tylko dokumenty urzędowe.
 4. W przypadku podejrzenia, że zawartość przesyłki, o której mowa w ust. 2 lub 3, może posłużyć popełnieniu aktu bezprawnej ingerencji w lotnictwie cywilnym, odmawia się jej przewozu.
 5. Zarządzający portem lotniczym ustala w programie ochrony procedury ochrony, jakim jest poddawany materiał biomedyczny przewożony jako bagaż kabinowy.
+Rozdział 12 Bagaż rejestrowany
 § 58. 1. Bagaż rejestrowany poddaje się kontroli bezpieczeństwa, zgodnie z pkt 5 załącznika I do rozporządzenia 300/2008, częścią A załącznika do rozporządzenia 272/2009 oraz pkt 5 załącznika do rozporządzenia 2015/1998.
 2. Realizując kontrolę bezpieczeństwa przy użyciu urządzenia rentgenowskiego, stosuje się § 43 ust. 2.
 3. Nie dopuszcza się przewozu w bagażu rejestrowanym pasażera przedmiotów, o których mowa w dodatku 5-B załącznika do rozporządzenia 2015/1998. W zakresie zapewnienia pasażerom informacji o wykazie przedmiotów zabronionych stosuje się przepis § 55.
 § 59. Bagaż rejestrowany podlega ochronie przed nieuprawnionym dostępem, zgodnie z pkt 5.2 załącznika I do rozporządzenia 300/2008 oraz pkt 5.2.1 i 5.2.2 załącznika do rozporządzenia 2015/1998.
 § 60. Jeżeli przewoźnik lotniczy nie jest w stanie stwierdzić, czy bagaż rejestrowany bez właściciela został oddzielony od pasażera z przyczyn niezależnych od pasażera lub został poddany środkom kontroli w zakresie ochrony, zgodnie z pkt 5.3.2 załącznika I do rozporządzenia 300/2008, bagaż jest poddawany kontroli bezpieczeństwa, zgodnie z wymogami pkt 5.3.3.2 załącznika do rozporządzenia 2015/1998.
+Rozdział 13 Metody i środki ochrony przewozu ładunków i poczty
 § 61. 1. Ładunki i poczta podlegają środkom kontroli w zakresie ochrony, zgodnie z pkt 6 załącznika I do rozporządzenia 300/2008, częścią F załącznika do rozporządzenia 272/2009 oraz pkt 6 załącznika do rozporządzenia 2015/1998.
 2. Środki kontroli w zakresie ochrony, o których mowa w ust. 1, są zapewniane przez:
 1) zarejestrowanego agenta, wyznaczonego zgodnie z art. 186c ustawy oraz z uwzględnieniem przepisów pkt 6.3.1.2 załącznika do rozporządzenia 2015/1998;
@@ -519,13 +548,16 @@ d) możliwość doraźnego i szybkiego ograniczenia dostępu do strefy ogólnodo
 § 62. 1. W przypadku wyznaczenia uznanego nadawcy, o którym mowa w pkt 6.5 załącznika do rozporządzenia 2015/1998, zarejestrowany agent przekazuje informację o wyznaczeniu uznanego nadawcy Prezesowi Urzędu wraz z podaniem nazwy i adresu uznanego nadawcy oraz rodzaju prowadzonej przez niego działalności.
 2. Zarejestrowany agent na żądanie Prezesa Urzędu udostępnia bazę danych, o której mowa w pkt 6.5.1 załącznika do rozporządzenia 2015/1998.
 3. Jeżeli Prezes Urzędu lub zarejestrowany agent stwierdzi, że zaszły okoliczności, o których mowa w pkt 6.5.3 załącznika do rozporządzenia 2015/1998, zarejestrowany agent niezwłocznie cofa nadawcy status uznanego nadawcy. Zarejestrowany agent niezwłocznie informuje Prezesa Urzędu o cofnięciu statusu uznanego nadawcy.
+Rozdział 14 Poczta przewoźnika lotniczego i materiały przewoźnika lotniczego
 § 63. 1. Materiały i poczta służbowa przewoźnika lotniczego przed umieszczeniem na pokładzie statku powietrznego podlegają środkom kontroli w zakresie ochrony, zgodnie z pkt 7 załącznika I do rozporządzenia 300/2008, częścią G załącznika do rozporządzenia 272/2009 oraz pkt 7 załącznika do rozporządzenia 2015/1998.
 2. Materiały przewoźnika lotniczego stosowane do przetwarzania informacji o pasażerach i bagażach są chronione przez przewoźnika lotniczego, zgodnie z pkt 7.2 załącznika do rozporządzenia 2015/1998.
+Rozdział 15 Zaopatrzenie pokładowe
 § 64. 1. Zaopatrzenie pokładowe podlega środkom kontroli w zakresie ochrony, zgodnie z pkt 8 załącznika I do rozporządzenia 300/2008, częścią H załącznika do rozporządzenia 272/2009 oraz pkt 8 załącznika do rozporządzenia 2015/1998.
 2. Za kontrolę bezpieczeństwa, o której mowa w pkt 8.1 załącznika do rozporządzenia 2015/1998, jest odpowiedzialny zarejestrowany dostawca zaopatrzenia pokładowego, wyznaczony zgodnie z art. 186d ust. 1 ustawy oraz z uwzględnieniem przepisów pkt 8.1.3.2 załącznika do rozporządzenia 2015/1998, lub zarządzający lotniskiem.
 § 65. 1. Przedsiębiorstwo, któremu podmiot zapewnia dostawy zaopatrzenia pokładowego, jednak nie bezpośrednio na pokład statku powietrznego, wyznacza ten podmiot jako znanego dostawcę zaopatrzenia pokładowego, zgodnie z pkt 8.1.4 załącznika do rozporządzenia 2015/1998. Znani dostawcy zaopatrzenia pokładowego zostają wyznaczeni po spełnieniu wymogów, o których mowa w pkt 8.1.4.3 załącznika do rozporządzenia 2015/1998.
 2. W przypadku wyznaczenia, o którym mowa w ust. 1, przedsiębiorstwo informuje Prezesa Urzędu o wyznaczeniu znanego dostawcy zaopatrzenia pokładowego wraz z podaniem nazwy i adresu podmiotu oraz rodzaju realizowanych dostaw.
 3. Jeżeli Prezes Urzędu lub przedsiębiorstwo, któremu znany dostawca zaopatrzenia pokładowego zapewnia dostawy, stwierdzi, że znany dostawca zaopatrzenia pokładowego nie spełnia nałożonych na niego wymogów w zakresie ochrony lotnictwa cywilnego, znany dostawca zaopatrzenia pokładowego niezwłocznie wdraża środki zaradcze. W przypadku stwierdzenia, zgodnie z pkt 8.1.4.3 załącznika do rozporządzenia 2015/1998, że znany dostawca zaopatrzenia pokładowego utracił zdolność przestrzegania nałożonych na niego wymogów z zakresu ochrony, przedsiębiorstwo, któremu znany dostawca zaopatrzenia pokładowego zapewnia dostawy, niezwłocznie cofa temu dostawcy status znanego dostawcy zaopatrzenia pokładowego. Przedsiębiorstwo, któremu znany dostawca zaopatrzenia pokładowego zapewnia dostawy, niezwłocznie informuje Prezesa Urzędu o cofnięciu statusu znanego nadawcy.
+Rozdział 16 Zaopatrzenie portu lotniczego
 § 66. 1. Zaopatrzenie portu lotniczego podlega środkom kontroli w zakresie ochrony, zgodnie z pkt 9 załącznika I do rozporządzenia 300/2008, częścią H załącznika do rozporządzenia 272/2009 oraz pkt 9 załącznika do rozporządzenia 2015/1998.
 2. Kontrolę bezpieczeństwa, o której mowa w pkt 9.1 załącznika do rozporządzenia 2015/1998, wykonuje służba ochrony lotniska.
 § 67. W przypadku stwierdzenia oznak naruszenia zaopatrzenia portu lotniczego, o których mowa w pkt 9.1.1.3 załącznika do rozporządzenia 2015/1998, personel odpowiedzialny za dane zaopatrzenie informuje niezwłocznie o tym fakcie osobę odpowiedzialną za ochronę w przedsiębiorstwie będącym znanym dostawcą zaopatrzenia portu lotniczego, a także zarządzającego lotniskiem, na które są realizowane dostawy.
@@ -537,10 +569,13 @@ a) wizji lokalnej u wyznaczanego znanego dostawcy zaopatrzenia portu lotniczego 
 b) regularnych kontroli w trakcie realizacji dostaw zaopatrzenia portu lotniczego przez tego znanego dostawcę zaopatrzenia portu lotniczego do stref zastrzeżonych lotniska, począwszy od wyznaczenia, realizowanych w sposób nieprzewidywalny i nie rzadziej niż co 3 miesiące lub wobec co najmniej 20% całości dostarczanego zaopatrzenia portu lotniczego, w tym: ‒ sprawdzeniu, czy osoba dostarczająca zaopatrzenie w imieniu znanego dostawcy zaopatrzenia portu lotniczego została odpowiednio przeszkolona z zakresu ochrony lotnictwa cywilnego, ‒ sprawdzeniu, czy zaopatrzenie jest właściwie zabezpieczone przed nieupoważnioną ingerencją, ‒ przeprowadzaniu kontroli zaopatrzenia w taki sam sposób, jak w przypadku zaopatrzenia pochodzącego od nieznanego dostawcy.
 3. W przypadku wyznaczenia znanego dostawcy zaopatrzenia portu lotniczego zarządzający lotniskiem informuje Prezesa Urzędu o wyznaczeniu wraz z podaniem nazwy i adresu podmiotu.
 4. Jeżeli Prezes Urzędu lub zarządzający lotniskiem stwierdzi, że znany dostawca zaopatrzenia portu lotniczego nie spełnia nałożonych na niego wymogów w zakresie ochrony lotnictwa cywilnego, znany dostawca zaopatrzenia portu lotniczego niezwłocznie wdraża środki zaradcze. W przypadku stwierdzenia, zgodnie z pkt 9.1.3.3. załącznika do rozporządzenia 2015/1998, że znany dostawca zaopatrzenia portu lotniczego utracił zdolność przestrzegania nałożonych na niego wymogów z zakresu ochrony, zarządzający lotniskiem niezwłocznie cofa dostawcy status znanego dostawcy zaopatrzenia portu lotniczego. Zarządzający lotniskiem niezwłocznie informuje Prezesa Urzędu o cofnięciu statusu znanego dostawcy zaopatrzenia portu lotniczego.
+Rozdział 17 Środki ochrony podczas lotu
 § 69. Środki ochrony podczas lotu realizuje się zgodnie z pkt 10 załącznika I do rozporządzenia 300/2008.
+Rozdział 18 Sprzęt służący do ochrony lotnictwa cywilnego
 § 70. 1. Wymagania bezpieczeństwa wobec sprzętu stosowanego do ochrony lotnictwa cywilnego są określone w pkt 12 załącznika I do rozporządzenia 300/2008 oraz w pkt 12 załącznika do rozporządzenia 2015/1998.
 2. Podmiot odpowiedzialny za stosowanie środków ochrony dysponuje instrukcją obsługi wykorzystywanego sprzętu służącego do ochrony lotnictwa cywilnego, dostarczoną przez producenta.
 § 71. Sprzęt stosowany do ochrony lotnictwa cywilnego podlega testowaniu według metodologii określonej przez producenta. Osoba przeprowadzająca czynność testowania urządzenia odnotowuje ten fakt oraz wynik testu w dokumentacji wewnętrznej. Częstotliwość testowania zostanie każdorazowo ustalona przez podmiot odpowiedzialny za kontrolę bezpieczeństwa lub stosowanie innych środków kontroli w zakresie ochrony w programie ochrony tego podmiotu.
+Rozdział 19 Wymogi w zakresie wykorzystania psów do wykrywania materiałów wybuchowych podczas kontroli bezpieczeństwa
 § 72. Wymogi, jakie muszą być spełnione przy wykorzystaniu PWMW podczas kontroli bezpieczeństwa, są określone w częściach A i D załącznika do rozporządzenia 272/2009 oraz w pkt 12.9 załącznika do rozporządzenia 2015/1998.
 § 73. 1. Zatwierdzenia zespołu z PWMW, w imieniu Prezesa Urzędu, dokonuje Komendant Główny Straży Granicznej, zgodnie z pkt 12.9.1.7 załącznika do rozporządzenia 2015/1998.
 2. Zakres szkolenia realizowanego w Straży Granicznej dla zespołu z PWMW niewykorzystywanego w Straży Granicznej zatwierdza Prezes Urzędu w uzgodnieniu z Komendantem Głównym Straży Granicznej.
@@ -553,6 +588,7 @@ b) regularnych kontroli w trakcie realizacji dostaw zaopatrzenia portu lotniczeg
 3. Przedmiotem wniosku może być również szkolenie zespołu z PWMW.
 4. Szkolenie i zatwierdzenie, o których mowa w ust. 2 i 3, jest wykonywane na koszt wnioskodawcy. Komendant Główny Straży Granicznej informuje wnioskodawcę o kosztach koniecznych do poniesienia w związku z przeszkoleniem oraz zatwierdzeniem zespołu z PWMW, a także o terminie i czasie trwania szkolenia.
 5. Wnioskodawca zobowiązuje się do zachowania w poufności informacji uzyskanych podczas szkolenia.
+Rozdział 20 Unijny podmiot zatwierdzający
 § 75. Prezes Urzędu wyznacza unijny podmiot zatwierdzający, o którym mowa w pkt 11.6.3.1 załącznika do rozporządzenia 2015/1998.
 § 76. 1. Kompetencje osoby wnioskującej o wyznaczenie, o którym mowa w § 75, są weryfikowane poprzez:
 1) analizę przedstawionych dokumentów obejmujących doświadczenie zawodowe oraz odbyte szkolenia;
@@ -570,6 +606,7 @@ e) technologie i techniki związane z ochroną istotne dla procedury zatwierdzan
 3) rodzaj dokumentu tożsamości ze zdjęciem, jego numer, a w przypadku dowodu osobistego – także numer PESEL.
 3. Kompetencje osób umieszczonych na liście, o której mowa w ust. 1, podlegają weryfikacji zgodnie z § 76.
 § 78. Prezes Urzędu cofa wyznaczenie w przypadku, o którym mowa w pkt 11.6.4.3 załącznika do rozporządzenia 2015/1998.
+Rozdział 21 Współdziałanie Prezesa Urzędu ze Strażą Graniczną w sprawowaniu nadzoru nad kontrolą bezpieczeństwa wykonywaną przez zarządzających lotniskami
 § 79. 1. Działania Straży Granicznej w zakresie współdziałania, o których mowa w art. 186b ust. 3 ustawy, są realizowane przez funkcjonariuszy Straży Granicznej, w formie:
 1) patrolowo-stacjonarnej – przez sprawowanie nadzoru w punktach kontroli bezpieczeństwa, w odległości umożliwiającej funkcjonariuszom Straży Granicznej podjęcie reakcji w przypadku stwierdzenia nieprawidłowości;
 2) systemu dozorowego CCTV i innych dostępnych w porcie lotniczym systemów rejestrujących przebieg kontroli bezpieczeństwa, przez obserwowanie i analizowanie zapisu zarejestrowanego obrazu w systemie on-line i off-line, w szczególności w celu podjęcia reakcji w przypadku powstania nieprawidłowości.
@@ -584,6 +621,7 @@ e) technologie i techniki związane z ochroną istotne dla procedury zatwierdzan
 § 83. 1. Straż Graniczna dokumentuje stwierdzone poważne uchybienia oraz naruszenia przepisów w zakresie ochrony lotnictwa cywilnego przez sporządzanie pisemnych informacji, a w przypadku poważnych uchybień dodatkowo utrwala materiał filmowy z systemu dozorowego CCTV.
 2. Komendant placówki Straży Granicznej właściwy miejscowo dla lotniczego przejścia granicznego lub jego przedstawiciel wnioskuje do zarządzającego lotniskiem o bezzwłoczne zabezpieczenie i przekazanie na nośnikach danych materiału filmowego z systemu dozorowego CCTV, będącego dowodem stwierdzenia powstałych poważnych uchybień, lub w miarę posiadanych możliwości materiał ten jest zabezpieczany przez funkcjonariuszy Straży Granicznej realizujących zadania nadzoru.
 3. Katalog stwierdzanych przez funkcjonariuszy Straży Granicznej poważnych uchybień i naruszeń przepisów Prezes Urzędu ogłasza w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego.
+Rozdział 22 Organizacja ochrony lotnictwa cywilnego w zakresie cyberbezpieczeństwa
 § 84. Organem odpowiedzialnym za koordynację i monitorowanie przepisów dotyczących cyberbezpieczeństwa określonych w załączniku do rozporządzenia 2015/1998 jest minister właściwy do spraw transportu.
 § 85. Stosownie do pkt 1.7.5 załącznika do rozporządzenia 2015/1998, w odniesieniu do operatorów usług kluczowych wyznaczonych zgodnie z przepisami ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2022 r. poz. 1863 i 2666), zgodność z przepisami pkt 1.7 załącznika do rozporządzenia 2015/1998 zastępuje się zgodnością z przepisami ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa.
 § 86. W ramach realizacji przepisów, o których mowa w § 85, zarządzający lotniskami, przewoźnicy lotniczy, zarejestrowani agenci, zarejestrowani dostawcy zaopatrzenia pokładowego, znani nadawcy oraz instytucje zapewniające służby żeglugi powietrznej, niebędący operatorami usług kluczowych, są odpowiedzialni za:
@@ -592,6 +630,7 @@ e) technologie i techniki związane z ochroną istotne dla procedury zatwierdzan
 3) szczegółowe określenie w swoich programach ochrony środków mających na celu zapewnienie ochrony przed cyberatakami, które mogłyby wpłynąć na bezpieczeństwo lotnictwa cywilnego, wykrywania ich i reagowania na nie;
 4) zapewnienie, że osoby wdrażające środki, o których mowa w pkt 3, posiadają kwalifikacje i umiejętności niezbędne do skutecznego wykonywania wyznaczonych zadań oraz są one informowane o istotnych przypadkach zagrożeń dla cyberbezpieczeństwa, zgodnie z zasadą ograniczonego dostępu.
 § 87. Prezes Urzędu, w ramach prowadzonych czynności kontroli jakości w zakresie ochrony lotnictwa cywilnego, kontroluje realizację obowiązku wynikającego z pkt 11.1.2 lit. c załącznika do rozporządzenia 2015/1998.
+Rozdział 23 Współpraca w zakresie analizy PLACI
 § 88. Prezes Urzędu współpracuje z KAS przy organizacji szkoleń z zakresu ochrony lotnictwa cywilnego, wymaganych na potrzeby analizy PLACI, oraz udostępnia KAS informacje przydatne w analizie PLACI.
 § 89. 1. KAS niezwłocznie informuje Prezesa Urzędu, a w przypadku zagrożenia dla statku powietrznego znajdującego się w polskiej przestrzeni powietrznej lub mającego się znaleźć w tej przestrzeni – również Polską Agencję Żeglugi Powietrznej, o:
 1) przypadkach, o których mowa w art. 186 ust. 4 i 5 rozporządzenia 2015/2447;
@@ -602,50 +641,4 @@ e) technologie i techniki związane z ochroną istotne dla procedury zatwierdzan
 2. Przewoźnik lotniczy, operator, podmiot lub osoba w państwie trzecim, otrzymawszy powiadomienie wydane przez organ celny państwa trzeciego stosującego system analizy danych ładunku przed załadunkiem zgodnie z zasadami określonymi w normach SAFE Światowej Organizacji Celnej, o których mowa w pkt 6.8.7.10 załącznika do rozporządzenia 2015/1998, w odniesieniu do przesyłki spełniającej kryteria określone w pkt 6.8.7.10 załącznika do rozporządzenia 2015/1998, niezwłocznie informuje o tym naczelnika urzędu celno-skarbowego właściwego miejscowo ze względu na miejsce, gdzie znajduje się przesyłka, a jeżeli statek powietrzny znajduje się w przestrzeni powietrznej – Naczelnika Mazowieckiego Urzędu Celno-Skarbowego w Warszawie.
 § 91. Prezes Urzędu podejmuje współpracę z właściwymi organami państwa trzeciego, w którym znajduje się przesyłka, o której mowa w art. 186 ust. 4 i 5 rozporządzenia 2015/2447, oraz w stosownych przypadkach z właściwymi organami innego państwa, których dotyczy przewóz przesyłki podlegającej analizie PLACI.
 § 92. Prezes Urzędu, Szef KAS, Polska Agencja Żeglugi Powietrznej i Szef Agencji Bezpieczeństwa Wewnętrznego udostępniają sobie wzajemnie dane punktów kontaktowych do wymiany informacji w ramach współpracy w zakresie analizy PLACI.
-
-#### Rozdział 1 Przepisy ogólne
-
-#### Rozdział 2 Zespół ochrony lotniska
-
-#### Rozdział 3 Przewóz broni i amunicji
-
-#### Rozdział 4 Ocena stopnia zagrożenia oraz przeciwdziałanie sytuacjom kryzysowym w lotnictwie cywilnym
-
-#### Rozdział 5 Aktualizacje programów ochrony
-
-#### Rozdział 6 Współpraca międzynarodowa
-
-#### Rozdział 7 Alternatywne środki ochrony
-
-#### Rozdział 8 Ochrona lotniska
-
-#### Rozdział 9 Strefy wydzielone
-
-#### Rozdział 10 Ochrona statku powietrznego
-
-#### Rozdział 11 Pasażerowie i bagaż kabinowy
-
-#### Rozdział 12 Bagaż rejestrowany
-
-#### Rozdział 13 Metody i środki ochrony przewozu ładunków i poczty
-
-#### Rozdział 14 Poczta przewoźnika lotniczego i materiały przewoźnika lotniczego
-
-#### Rozdział 15 Zaopatrzenie pokładowe
-
-#### Rozdział 16 Zaopatrzenie portu lotniczego
-
-#### Rozdział 17 Środki ochrony podczas lotu
-
-#### Rozdział 18 Sprzęt służący do ochrony lotnictwa cywilnego
-
-#### Rozdział 19 Wymogi w zakresie wykorzystania psów do wykrywania materiałów wybuchowych podczas kontroli bezpieczeństwa
-
-#### Rozdział 20 Unijny podmiot zatwierdzający
-
-#### Rozdział 21 Współdziałanie Prezesa Urzędu ze Strażą Graniczną w sprawowaniu nadzoru nad kontrolą bezpieczeństwa wykonywaną przez zarządzających lotniskami
-
-#### Rozdział 22 Organizacja ochrony lotnictwa cywilnego w zakresie cyberbezpieczeństwa
-
-#### Rozdział 23 Współpraca w zakresie analizy PLACI
 

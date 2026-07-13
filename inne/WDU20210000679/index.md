@@ -29,40 +29,10 @@ source: pdf
 1) ustawą z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę ‒ Prawo zamówień publicznych (Dz. U. poz. 2020),
 2) ustawą z dnia 10 grudnia 2020 r. o zmianie ustawy o przedsiębiorstwach państwowych oraz ustawy o gospodarce komunalnej (Dz. U. z 2021 r. poz. 8) oraz zmian wynikających z przepisów ogłoszonych przed dniem 25 marca 2021 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 89, art. 90, art. 92–94 i art. 109 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę ‒ Prawo zamówień publicznych (Dz. U. poz. 2020), które stanowią: „Art. 89. Traci moc ustawa z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843).
-
-**Art. 90.**
-
-1. Do postępowań o udzielenie zamówienia, o których mowa w ustawie uchylanej w art. 89, wszczętych i niezakończonych przed dniem 1 stycznia 2021 r. stosuje się przepisy dotychczasowe.
-
-2. Do konkursów, o których mowa w ustawie uchylanej w art. 89, rozpoczętych i niezakończonych przed dniem 1 stycznia 2021 r. stosuje się przepisy dotychczasowe.” „Art. 92. 1. Do postępowań odwoławczych i postępowań toczących się wskutek wniesienia skargi do sądu, o których mowa w ustawie uchylanej w art. 89, wszczętych i niezakończonych przed dniem 1 stycznia 2021 r., oraz do właściwości sądów w sprawach skarg wniesionych przed dniem 1 stycznia 2021 r. stosuje się przepisy dotychczasowe.
-
-2. Do postępowań odwoławczych oraz postępowań toczących się wskutek wniesienia skargi do sądu, o których mowa w ustawie uchylanej w art. 89, wszczętych po dniu 31 grudnia 2020 r., dotyczących postępowań o udzielenie zamówienia wszczętych przed dniem 1 stycznia 2021 r., stosuje się przepisy ustawy, o której mowa w art. 1.
-
-3. Do zakończenia postępowań odwoławczych, o których mowa w ust. 1, właściwa jest Krajowa Izba Odwoławcza, o której mowa w art. 473 ustawy, o której mowa w art. 1.
-
-4. Czynności w postępowaniach, o których mowa w ust. 1, pozostają skuteczne, jeżeli zostały dokonane z zachowaniem przepisów dotychczasowych.
-
-5. W przypadku postępowań odwoławczych oraz postępowań toczących się wskutek wniesienia skargi do sądu, o których mowa w ust. 1, odpowiednio wpis uiszczony w wysokości określonej w przepisach wydanych na podstawie art. 198 pkt 2 ustawy uchylanej w art. 89, oraz opłata uiszczona w wysokości określonej w art. 34 ustawy zmienianej w art. 39, w brzmieniu dotychczasowym, nie podlegają zwrotowi.
-
-**Art. 93.**
-
-1. W przypadku zamówień publicznych udzielonych:
-
-- **1)** przed dniem 1 stycznia 2021 r.,
-- **2)** po dniu 31 grudnia 2020 r., w następstwie postępowań o udzielenie zamówienia wszczętych przed dniem 1 stycznia 2021 r. – zamawiającemu oraz wykonawcy przysługuje prawo złożenia wniosku o prowadzenie mediacji lub inne polubowne rozwiązanie sporu, o którym mowa w art. 591 ust. 1 ustawy, o której mowa w art. 1, jeżeli do dnia złożenia wniosku nie wnieśli powództwa na podstawie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm. ).
-
-2. W przypadku, o którym mowa w ust. 1, nie stosuje się przepisu art. 593 ustawy, o której mowa w art. 1.
-
-**Art. 94.**
-
-1. Do kontroli udzielania zamówień publicznych wszczętych na podstawie ustawy uchylanej w art. 89 i niezakończonych przed dniem 1 stycznia 2021 r. stosuje się przepisy dotychczasowe.
-
-2. Czynności dokonane w toku kontroli, o których mowa w ust. 1, pozostają skuteczne, jeżeli zostały dokonane z zachowaniem przepisów dotychczasowych.” „Art. 109. Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem:
-
-- **1)** art. 85 pkt 5, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
-- **2)** art. 88, który wchodzi w życie z dniem 1 marca 2020 r.”;
-- **2)** art. 3 ustawy z dnia 10 grudnia 2020 r. o zmianie ustawy o przedsiębiorstwach państwowych oraz ustawy o gospodarce komunalnej (Dz. U. z 2021 r. poz. 8), który stanowi: „Art. 3. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek USTAWA z dnia 20 grudnia 1996 r. o gospodarce komunalnej
+1) art. 89, art. 90, art. 92–94 i art. 109 ustawy z dnia 11 września 2019 r. – Przepisy wprowadzające ustawę ‒ Prawo zamówień publicznych (Dz. U. poz. 2020), które stanowią: „ Art. 89. Traci moc ustawa z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843). Art. 90. 1. Do postępowań o udzielenie zamówienia, o których mowa w ustawie uchylanej w art. 89, wszczętych i niezakończonych przed dniem 1 stycznia 2021 r. stosuje się przepisy dotychczasowe. 2. Do konkursów, o których mowa w ustawie uchylanej w art. 89, rozpoczętych i niezakończonych przed dniem 1 stycznia 2021 r. stosuje się przepisy dotychczasowe.” „Art. 92. 1. Do postępowań odwoławczych i postępowań toczących się wskutek wniesienia skargi do sądu, o których mowa w ustawie uchylanej w art. 89, wszczętych i niezakończonych przed dniem 1 stycznia 2021 r., oraz do właściwości sądów w sprawach skarg wniesionych przed dniem 1 stycznia 2021 r. stosuje się przepisy dotychczasowe. 2. Do postępowań odwoławczych oraz postępowań toczących się wskutek wniesienia skargi do sądu, o których mowa w ustawie uchylanej w art. 89, wszczętych po dniu 31 grudnia 2020 r., dotyczących postępowań o udzielenie zamówienia wszczętych przed dniem 1 stycznia 2021 r., stosuje się przepisy ustawy, o której mowa w art. 1. 3. Do zakończenia postępowań odwoławczych, o których mowa w ust. 1, właściwa jest Krajowa Izba Odwoławcza, o której mowa w art. 473 ustawy, o której mowa w art. 1. 4. Czynności w postępowaniach, o których mowa w ust. 1, pozostają skuteczne, jeżeli zostały dokonane z zachowaniem przepisów dotychczasowych. 5. W przypadku postępowań odwoławczych oraz postępowań toczących się wskutek wniesienia skargi do sądu, o których mowa w ust. 1, odpowiednio wpis uiszczony w wysokości określonej w przepisach wydanych na podstawie art. 198 pkt 2 ustawy uchylanej w art. 89, oraz opłata uiszczona w wysokości określonej w art. 34 ustawy zmienianej w art. 39, w brzmieniu dotychczasowym, nie podlegają zwrotowi. Art. 93. 1. W przypadku zamówień publicznych udzielonych: 1) przed dniem 1 stycznia 2021 r., 2) po dniu 31 grudnia 2020 r., w następstwie postępowań o udzielenie zamówienia wszczętych przed dniem 1 stycznia 2021 r. – zamawiającemu oraz wykonawcy przysługuje prawo złożenia wniosku o prowadzenie mediacji lub inne polubowne rozwiązanie sporu, o którym mowa w art. 591 ust. 1 ustawy, o której mowa w art. 1, jeżeli do dnia złożenia wniosku nie wnieśli powództwa na podstawie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm. ). 2. W przypadku, o którym mowa w ust. 1, nie stosuje się przepisu art. 593 ustawy, o której mowa w art. 1. Art. 94. 1. Do kontroli udzielania zamówień publicznych wszczętych na podstawie ustawy uchylanej w art. 89 i niezakończonych przed dniem 1 stycznia 2021 r. stosuje się przepisy dotychczasowe. 2. Czynności dokonane w toku kontroli, o których mowa w ust. 1, pozostają skuteczne, jeżeli zostały dokonane z zachowaniem przepisów dotychczasowych.” „Art. 109. Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem: 1) art. 85 pkt 5, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia; 2) art. 88, który wchodzi w życie z dniem 1 marca 2020 r.”;
+2) art. 3 ustawy z dnia 10 grudnia 2020 r. o zmianie ustawy o przedsiębiorstwach państwowych oraz ustawy o gospodarce komunalnej (Dz. U. z 2021 r. poz. 8), który stanowi: „ Art. 3. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek
+USTAWA z dnia 20 grudnia 1996 r.
+o gospodarce komunalnej
 
 #### Rozdział 1 Przepisy ogólne
 

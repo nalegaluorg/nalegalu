@@ -31,34 +31,11 @@ source: pdf
 
 - **1)** na końcu tytułu ustawy dodaje się wyrazy „oraz o pieczęciach państwowych”;
 - **2)** w art. 3:
-    - **a)** dodaje się ust. 1a i 1b w brzmieniu: „1a. Na budynkach siedzib podmiotów, o których mowa w art. 2a, umieszcza się urzędowe tablice z godłem Rzeczypospolitej Polskiej oraz urzędowe tablice z napisem nazwy tego podmiotu.
+    - **a)** dodaje się ust. 1a i 1b w brzmieniu: „1a. Na budynkach siedzib podmiotów, o których mowa w art. 2a, umieszcza się urzędowe tablice z godłem Rzeczypospolitej Polskiej oraz urzędowe tablice z napisem nazwy tego podmiotu. 1b. Urzędowa tablica z godłem ma kształt owalny w układzie pionowym, obwódkę biało-czerwoną i tło szare, na którym znajduje się godło Rzeczypospolitej Polskiej. Urzędowa tablica z napisem jest prostokątna w układzie poziomym, ma tło czerwone, a litery napisu białe.”,
+    - **b)** dodaje się ust. 4 w brzmieniu: „4. Rada Ministrów określi, w drodze rozporządzenia, wzory oraz wymiary urzędowych tablic z godłem Rzeczypospolitej Polskiej i napisem, a także sposób ich umieszczania na budynkach siedzib podmiotów, o których mowa w art. 2a, biorąc pod uwagę czytelność i estetykę tablic oraz funkcjonalność ich umieszczania.”;
 
-1b. Urzędowa tablica z godłem ma kształt owalny w układzie pionowym, obwódkę biało-czerwoną i tło szare, na którym znajduje się godło Rzeczypospolitej Polskiej. Urzędowa tablica z napisem jest prostokątna w układzie poziomym, ma tło czerwone, a litery napisu białe.”,
-
-- **b)** dodaje się ust. 4 w brzmieniu: „4. Rada Ministrów określi, w drodze rozporządzenia, wzory oraz wymiary urzędowych tablic z godłem Rzeczypospolitej Polskiej i napisem, a także sposób ich umieszczania na budynkach siedzib podmiotów, o których mowa w art. 2a, biorąc pod uwagę czytelność i estetykę tablic oraz funkcjonalność ich umieszczania.”;
-- **3)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Prezydent Rzeczypospolitej Polskiej może, w drodze rozporządzenia, wprowadzić żałobę narodową na terytorium Rzeczypospolitej Polskiej. Rozporządzenie w szczególności powinno określać przyczyny wprowadzenia oraz czas trwania żałoby narodowej, uwzględniając uwarunkowania kulturowe i historyczne oraz przyjęte w tym zakresie zwyczaje.
-
-2. W czasie trwania żałoby narodowej flagę państwową opuszcza się do połowy masztu.”;
-
-- **4)** dodaje się art. 16a–16d w brzmieniu: „Art. 16a. Pieczęcią Rzeczypospolitej Polskiej jest metalowa, tłoczona pieczęć okrągła średnicy 77 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis „Rzeczpospolita Polska”.
-
-**Art. 16b.**
-
-1. Pieczęcią Sejmu Rzeczypospolitej Polskiej jest metalowa, tłoczona pieczęć okrągła średnicy 62 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis „Sejm Rzeczypospolitej Polskiej”.
-
-2. Pieczęcią Senatu Rzeczypospolitej Polskiej jest metalowa, tłoczona pieczęć okrągła średnicy 62 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis „Senat Rzeczypospolitej Polskiej”.
-
-3. Pieczęcią Prezydenta Rzeczypospolitej Polskiej jest metalowa, tłoczona pieczęć okrągła średnicy 62 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis „Prezydent Rzeczypospolitej Polskiej”.
-
-**Art. 16c.**
-
-1. Urzędową pieczęcią jest metalowa, tłoczona pieczęć okrągła zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis odpowiadający nazwie podmiotu uprawnionego do używania urzędowej pieczęci.
-
-2. Urzędową pieczęcią gminy, powiatu, samorządu województwa lub związku jednostek samorządu terytorialnego może być również pieczęć, o której mowa w ust. 1, zawierająca pośrodku, zamiast wizerunku orła ustalonego dla godła Rzeczypospolitej Polskiej, odpowiednio herb gminy, powiatu lub województwa. Odcisk pieczęci z herbem nie może być umieszczany na dokumentach urzędowych w sprawach z zakresu administracji rządowej.
-
-3. Urzędowej pieczęci używają podmioty, o których mowa w art. 2a.
-
-**Art. 16d.** Rada Ministrów określi, w drodze rozporządzenia, wymiary oraz sposób używania i strzeżenia urzędowych pieczęci, a także tryb zamawiania i sposób wyrobu urzędowych pieczęci oraz nadzór nad ich wyrobem, uwzględniając w szczególności konieczność zapobieżenia utracie urzędowych pieczęci przez uprawnione podmioty.”.
+- **3)** art. 11 otrzymuje brzmienie: „Art. 11. 1. Prezydent Rzeczypospolitej Polskiej może, w drodze rozporządzenia, wprowadzić żałobę narodową na terytorium Rzeczypospolitej Polskiej. Rozporządzenie w szczególności powinno określać przyczyny wprowadzenia oraz czas trwania żałoby narodowej, uwzględniając uwarunkowania kulturowe i historyczne oraz przyjęte w tym zakresie zwyczaje. 2. W czasie trwania żałoby narodowej flagę państwową opuszcza się do połowy masztu.”;
+- **4)** dodaje się art. 16a–16d w brzmieniu: „Art. 16a. Pieczęcią Rzeczypospolitej Polskiej jest metalowa, tłoczona pieczęć okrągła średnicy 77 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis „Rzeczpospolita Polska”. Art. 16b. 1. Pieczęcią Sejmu Rzeczypospolitej Polskiej jest metalowa, tłoczona pieczęć okrągła średnicy 62 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis „Sejm Rzeczypospolitej Polskiej”. 2. Pieczęcią Senatu Rzeczypospolitej Polskiej jest metalowa, tłoczona pieczęć okrągła średnicy 62 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis „Senat Rzeczypospolitej Polskiej”. 3. Pieczęcią Prezydenta Rzeczypospolitej Polskiej jest metalowa, tłoczona pieczęć okrągła średnicy 62 mm, zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis „Prezydent Rzeczypospolitej Polskiej”. Art. 16c. 1. Urzędową pieczęcią jest metalowa, tłoczona pieczęć okrągła zawierająca pośrodku wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej, a w otoku napis odpowiadający nazwie podmiotu uprawnionego do używania urzędowej pieczęci. 2. Urzędową pieczęcią gminy, powiatu, samorządu województwa lub związku jednostek samorządu terytorialnego może być również pieczęć, o której mowa w ust. 1, zawierająca pośrodku, zamiast wizerunku orła ustalonego dla godła Rzeczypospolitej Polskiej, odpowiednio herb gminy, powiatu lub województwa. Odcisk pieczęci z herbem nie może być umieszczany na dokumentach urzędowych w sprawach z zakresu administracji rządowej. 3. Urzędowej pieczęci używają podmioty, o których mowa w art. 2a. Art. 16d. Rada Ministrów określi, w drodze rozporządzenia, wymiary oraz sposób używania i strzeżenia urzędowych pieczęci, a także tryb zamawiania i sposób wyrobu urzędowych pieczęci oraz nadzór nad ich wyrobem, uwzględniając w szczególności konieczność zapobieżenia utracie urzędowych pieczęci przez uprawnione podmioty.”.
 
 **Art. 2.** Akty prawne wydane w celu wykonania dekretu, o którym mowa w art. 3, zachowują moc do czasu wydania rozporządzeń wymaganych przez ustawę, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 

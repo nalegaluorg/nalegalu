@@ -27,23 +27,17 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie informacji przekazywanych organowi egzekucyjnemu przez dłużnika zajętej wierzytelności Na podstawie art. 70 § 2b ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U.
 z 2022 r. poz. 479, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 23 lipca 2020 r. w sprawie informacji przekazywanych organowi egzekucyjnemu przez dłużnika zajętej wierzytelności (Dz. U. poz. 1313) w § 2:
-1) w ust. 1:
-a) pkt 1 i 2 otrzymują brzmienie: „1) numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL) albo numer identyfikacji podatkowej (NIP), albo numer identyfikacji w Krajowym Rejestrze Urzędowym Podmiotów Gospodarki Narodowej (numer REGON), albo numer w Krajowym Rejestrze Sądowym, albo inny numer identyfikacyjny, podany przez organ egzekucyjny w zawiadomieniu o zajęciu wierzytelności lub prawa majątkowego:
-a) zobowiązanego albo
-b) małżonka zobowiązanego, albo
-c) podmiotu niebędącego zobowiązanym, na który zostało przeniesione prawo własności rzeczy lub inne prawo majątkowe obciążone zastawem skarbowym lub hipoteką przymusową zabezpieczającymi należność pieniężną i odsetki z tytułu niezapłacenia jej w terminie, albo
-d) podmiotu niebędącego zobowiązanym, który uzyskał korzyść majątkową wskutek czynności prawnej dokonanej z pokrzywdzeniem wierzyciela, jeżeli zgodnie z odrębnymi przepisami czynność ta została uznana za bezskuteczną wobec tego wierzyciela;
-2) odpowiednio imię i nazwisko lub nazwę:
-a) zobowiązanego albo
-b) małżonka zobowiązanego, albo
-c) podmiotu, o którym mowa w pkt 1 lit. c, albo
-d) podmiotu, o którym mowa w pkt 1 lit. d – w przypadku braku danych, o których mowa w pkt 1;”,
-b) pkt 4 otrzymuje brzmienie: „4) skrót „ZBIEG” – w przypadku zbiegu egzekucji administracyjnej i sądowej, zbiegu egzekucji administracyjnych, zbiegu egzekucji administracyjnej i zabezpieczenia administracyjnego, zbiegu egzekucji administracyjnej i zabezpieczenia sądowego, zbiegu zabezpieczenia administracyjnego i egzekucji sądowej, zbiegu zabezpieczeń administracyjnych albo zbiegu zabezpieczenia administracyjnego i sądowego.”;
-2) w ust. 2:
-a) wprowadzenie do wyliczenia otrzymuje brzmienie: „Jeżeli ze względu na liczbę zobowiązanych albo podmiotów, o których mowa w ust. 1 pkt 1 lit. c albo d, nie jest możliwe podanie w poleceniu przelewu wszystkich informacji, o których mowa w ust. 1, dłużnik zajętej wierzytelności:”,
-b) w pkt 1: – lit. a otrzymuje brzmienie: „a) informacje, o których mowa w ust. 1 pkt 1 albo 2, dotyczące co najmniej jednego zobowiązanego albo podmiotu, o którym mowa w ust. 1 pkt 1 lit. c, albo podmiotu, o którym mowa w ust. 1 pkt 1 lit. d,”, – lit. c otrzymuje brzmienie: „c) skrót „ZBIEG” – w przypadku zbiegu egzekucji administracyjnej i sądowej, zbiegu egzekucji administracyjnych, zbiegu egzekucji administracyjnej i zabezpieczenia administracyjnego, zbiegu egzekucji administracyjnej i zabezpieczenia sądowego, zbiegu zabezpieczenia administracyjnego i egzekucji sądowej, zbiegu zabezpieczeń administracyjnych albo zbiegu zabezpieczenia administracyjnego i sądowego,”,
-c) pkt 2 otrzymuje brzmienie: „2) niezwłocznie przekazuje organowi egzekucyjnemu zawiadomienie zawierające informacje, o których mowa w ust. 1 pkt 1 albo 2 oraz pkt 3, dotyczące wszystkich zobowiązanych albo podmiotów, o których mowa w ust. 1 pkt 1 lit. c, albo podmiotów, o których mowa w ust. 1 pkt 1 lit. d, wraz z informacją o wysokości środków pieniężnych przekazanych poleceniem przelewu.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 25 marca 2024 r.
-Minister Finansów: M. Rzeczkowska
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 23 lipca 2020 r. w sprawie informacji przekazywanych organowi egzekucyjnemu przez dłużnika zajętej wierzytelności (Dz. U. poz. 1313) w § 2:
+
+- **1)** w ust. 1:
+    - **a)** pkt 1 i 2 otrzymują brzmienie: „1) numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL) albo numer identyfikacji podatkowej (NIP), albo numer identyfikacji w Krajowym Rejestrze Urzędowym Podmiotów Gospodarki Narodowej (numer REGON), albo numer w Krajowym Rejestrze Sądowym, albo inny numer identyfikacyjny, podany przez organ egzekucyjny w zawiadomieniu o zajęciu wierzytelności lub prawa majątkowego: a) zobowiązanego albo b) małżonka zobowiązanego, albo c) podmiotu niebędącego zobowiązanym, na który zostało przeniesione prawo własności rzeczy lub inne prawo majątkowe obciążone zastawem skarbowym lub hipoteką przymusową zabezpieczającymi należność pieniężną i odsetki z tytułu niezapłacenia jej w terminie, albo d) podmiotu niebędącego zobowiązanym, który uzyskał korzyść majątkową wskutek czynności prawnej dokonanej z pokrzywdzeniem wierzyciela, jeżeli zgodnie z odrębnymi przepisami czynność ta została uznana za bezskuteczną wobec tego wierzyciela; 2) odpowiednio imię i nazwisko lub nazwę: a) zobowiązanego albo b) małżonka zobowiązanego, albo c) podmiotu, o którym mowa w pkt 1 lit. c, albo d) podmiotu, o którym mowa w pkt 1 lit. d – w przypadku braku danych, o których mowa w pkt 1;”,
+    - **b)** pkt 4 otrzymuje brzmienie: „4) skrót „ZBIEG” – w przypadku zbiegu egzekucji administracyjnej i sądowej, zbiegu egzekucji administracyjnych, zbiegu egzekucji administracyjnej i zabezpieczenia administracyjnego, zbiegu egzekucji administracyjnej i zabezpieczenia sądowego, zbiegu zabezpieczenia administracyjnego i egzekucji sądowej, zbiegu zabezpieczeń administracyjnych albo zbiegu zabezpieczenia administracyjnego i sądowego.”;
+
+- **2)** w ust. 2:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Jeżeli ze względu na liczbę zobowiązanych albo podmiotów, o których mowa w ust. 1 pkt 1 lit. c albo d, nie jest możliwe podanie w poleceniu przelewu wszystkich informacji, o których mowa w ust. 1, dłużnik zajętej wierzytelności:”,
+    - **b)** w pkt 1: – lit. a otrzymuje brzmienie: „a) informacje, o których mowa w ust. 1 pkt 1 albo 2, dotyczące co najmniej jednego zobowiązanego albo podmiotu, o którym mowa w ust. 1 pkt 1 lit. c, albo podmiotu, o którym mowa w ust. 1 pkt 1 lit. d,”, – lit. c otrzymuje brzmienie: „c) skrót „ZBIEG” – w przypadku zbiegu egzekucji administracyjnej i sądowej, zbiegu egzekucji administracyjnych, zbiegu egzekucji administracyjnej i zabezpieczenia administracyjnego, zbiegu egzekucji administracyjnej i zabezpieczenia sądowego, zbiegu zabezpieczenia administracyjnego i egzekucji sądowej, zbiegu zabezpieczeń administracyjnych albo zbiegu zabezpieczenia administracyjnego i sądowego,”,
+    - **c)** pkt 2 otrzymuje brzmienie: „2) niezwłocznie przekazuje organowi egzekucyjnemu zawiadomienie zawierające informacje, o których mowa w ust. 1 pkt 1 albo 2 oraz pkt 3, dotyczące wszystkich zobowiązanych albo podmiotów, o których mowa w ust. 1 pkt 1 lit. c, albo podmiotów, o których mowa w ust. 1 pkt 1 lit. d, wraz z informacją o wysokości środków pieniężnych przekazanych poleceniem przelewu.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 25 marca 2024 r. Minister Finansów: M. Rzeczkowska
 

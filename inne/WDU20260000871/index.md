@@ -28,7 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie konta w systemie teleinformatycznym obsługującym postępowanie sądowe Na podstawie art. 53d ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r.
 poz. 334, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 30 listopada 2021 r. w sprawie konta w systemie teleinformatycznym obsługującym postępowanie sądowe (Dz. U. poz. 2204 oraz z 2025 r. poz. 1090) w § 14 w ust. 1 po wyrazach „zastępcy notarialnego,” dodaje się wyrazy „emerytowanego notariusza,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 2 grudnia 2026 r.
-Minister Sprawiedliwości: W. Żurek
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 30 listopada 2021 r. w sprawie konta w systemie teleinformatycznym obsługującym postępowanie sądowe (Dz. U. poz. 2204 oraz z 2025 r. poz. 1090) w § 14 w ust. 1 po wyrazach „zastępcy notarialnego,” dodaje się wyrazy „emerytowanego notariusza,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 2 grudnia 2026 r. Minister Sprawiedliwości: W. Żurek
 

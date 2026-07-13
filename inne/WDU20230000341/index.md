@@ -26,12 +26,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000341) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/341/text.pdf) |
 
 zmieniające rozporządzenie w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach programu Fundusze Europejskie dla Nowoczesnej Gospodarki 2021–2027 Na podstawie art. 6b ust. 10b ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2022 r. poz. 2080 i 2185) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Funduszy i Polityki Regionalnej z dnia 7 listopada 2022 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach programu Fundusze Europejskie dla Nowoczesnej Gospodarki 2021–2027 (Dz. U. poz. 2510) wprowadza się następujące zmiany:
-1) w § 8 w ust. 3 po wyrazach „o których mowa w § 45” dodaje się wyrazy „i § 49”;
-2) w § 21 w ust. 1:
-a) pkt 5 otrzymuje brzmienie: „5) ogólne, ponoszone bezpośrednio w wyniku realizacji projektu;”,
-b) dodaje się pkt 6 w brzmieniu: „6) budynków i gruntów w zakresie i przez okres, w jakim są one wykorzystywane przy realizacji projektu, przy czym w przypadku budynków do kosztów kwalifikowalnych zalicza się wyłącznie koszty amortyzacji odpowiadające okresowi realizacji projektu, obliczone na podstawie przepisów o rachunkowości, a w przypadku gruntów do kosztów kwalifikowalnych zalicza się koszty przekazania na zasadach handlowych lub faktycznie poniesione koszty kapitałowe.”.
-§ 2. Do naborów przewidujących udzielanie pomocy na projekty badawczo-rozwojowe, w których przed dniem wejścia w życie niniejszego rozporządzenia nie upłynął termin składania wniosków o udzielenie pomocy finansowej, stosuje się § 21 ust. 1 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Funduszy i Polityki Regionalnej: G. Puda
+
+**§ 1.** W rozporządzeniu Ministra Funduszy i Polityki Regionalnej z dnia 7 listopada 2022 r. w sprawie udzielania przez Polską Agencję Rozwoju Przedsiębiorczości pomocy finansowej w ramach programu Fundusze Europejskie dla Nowoczesnej Gospodarki 2021–2027 (Dz. U. poz. 2510) wprowadza się następujące zmiany:
+
+- **1)** w § 8 w ust. 3 po wyrazach „o których mowa w § 45” dodaje się wyrazy „i § 49”;
+- **2)** w § 21 w ust. 1:
+    - **a)** pkt 5 otrzymuje brzmienie: „5) ogólne, ponoszone bezpośrednio w wyniku realizacji projektu;”,
+    - **b)** dodaje się pkt 6 w brzmieniu: „6) budynków i gruntów w zakresie i przez okres, w jakim są one wykorzystywane przy realizacji projektu, przy czym w przypadku budynków do kosztów kwalifikowalnych zalicza się wyłącznie koszty amortyzacji odpowiadające okresowi realizacji projektu, obliczone na podstawie przepisów o rachunkowości, a w przypadku gruntów do kosztów kwalifikowalnych zalicza się koszty przekazania na zasadach handlowych lub faktycznie poniesione koszty kapitałowe.”.
+
+**§ 2.** Do naborów przewidujących udzielanie pomocy na projekty badawczo-rozwojowe, w których przed dniem wejścia w życie niniejszego rozporządzenia nie upłynął termin składania wniosków o udzielenie pomocy finansowej, stosuje się § 21 ust. 1 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Funduszy i Polityki Regionalnej: G. Puda
 

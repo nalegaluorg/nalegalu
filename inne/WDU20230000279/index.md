@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowego trybu mianowania funkcjonariuszy na stopnie Straży Granicznej Na podstawie art. 62 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 września 2021 r. w sprawie szczegółowego trybu mianowania funkcjonariuszy na stopnie Straży Granicznej (Dz. U. poz. 1701) w § 8 ust. 4 otrzymuje brzmienie: „4. Osoba przyjmowana do służby w Straży Granicznej i posiadająca stopień wojskowy starszego szeregowego (starszego marynarza), starszego szeregowego specjalisty (starszego marynarza specjalisty) spełnia warunki w zakresie posiadania kwalifikacji i umiejętności umożliwiających mianowanie na stopień równorzędny obowiązujący w Straży Granicznej, jeżeli odbyła czynną służbę wojskową w wymiarze nie krótszym niż wymiar zasadniczej służby wojskowej.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 września 2021 r. w sprawie szczegółowego trybu mianowania funkcjonariuszy na stopnie Straży Granicznej (Dz. U. poz. 1701) w § 8 ust. 4 otrzymuje brzmienie: „4. Osoba przyjmowana do służby w Straży Granicznej i posiadająca stopień wojskowy starszego szeregowego (starszego marynarza), starszego szeregowego specjalisty (starszego marynarza specjalisty) spełnia warunki w zakresie posiadania kwalifikacji i umiejętności umożliwiających mianowanie na stopień równorzędny obowiązujący w Straży Granicznej, jeżeli odbyła czynną służbę wojskową w wymiarze nie krótszym niż wymiar zasadniczej służby wojskowej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

@@ -30,18 +30,36 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie zasad i trybu powierzania mienia funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego (Dz. U. poz. 1550), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: D. Tusk
 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 3 kwietnia 2003 r.
 w sprawie zasad i trybu powierzania mienia funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego Na podstawie art. 10 ust. 3 ustawy z dnia 7 maja 1999 r. o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego (Dz. U. z 2018 r. poz. 2349) zarządza się, co następuje:
-§ 1. Rozporządzenie określa zasady i tryb powierzania funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego, zwanym dalej „funkcjonariuszami”, mienia znajdującego się, zgodnie z przepisami regulującymi ewidencję rzeczowych składników majątkowych, w dyspozycji jednostek organizacyjnych Agencji Bezpieczeństwa Wewnętrznego, zwanych dalej „jednostkami organizacyjnymi”.
-§ 2. Ilekroć w rozporządzeniu jest mowa o kierowniku jednostki organizacyjnej, rozumie się przez to kierownika jednostki organizacyjnej dysponującej mieniem, o którym mowa w § 1.
-§ 3. 1. Funkcjonariuszowi mogą być powierzone, z obowiązkiem zwrotu albo wyliczenia się, środki pieniężne, papiery wartościowe, uzbrojenie, sprzęt techniczny oraz inne mienie niezbędne do wykonywania zadań służbowych.
+
+**§ 1.** Rozporządzenie określa zasady i tryb powierzania funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego, zwanym dalej „funkcjonariuszami”, mienia znajdującego się, zgodnie z przepisami regulującymi ewidencję rzeczowych składników majątkowych, w dyspozycji jednostek organizacyjnych Agencji Bezpieczeństwa Wewnętrznego, zwanych dalej „jednostkami organizacyjnymi”.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o kierowniku jednostki organizacyjnej, rozumie się przez to kierownika jednostki organizacyjnej dysponującej mieniem, o którym mowa w § 1.
+
+**§ 3.**
+
+1. Funkcjonariuszowi mogą być powierzone, z obowiązkiem zwrotu albo wyliczenia się, środki pieniężne, papiery wartościowe, uzbrojenie, sprzęt techniczny oraz inne mienie niezbędne do wykonywania zadań służbowych.
+
 2. Powierzenie mienia, o którym mowa w ust. 1, następuje, z zastrzeżeniem § 4, za pokwitowaniem, w sposób ustalony w przepisach regulujących zasady gospodarowania mieniem określonego rodzaju.
+
 3. W pokwitowaniu, o którym mowa w ust. 2, należy wyszczególnić rodzaj i ilość powierzonego mienia, a w razie potrzeby określić jego wartość i cechy indywidualne. Pokwitowanie musi być podpisane przez funkcjonariusza, któremu mienie zostało powierzone, oraz opatrzone datą powierzenia mienia.
+
 4. Funkcjonariusz, któremu powierzono mienie, jest obowiązany zwrócić je w określonym przez kierownika jednostki organizacyjnej terminie i w należytym stanie albo wyliczyć się ze sposobu zużycia lub wydania tego mienia.
-§ 4. Powierzenie funkcjonariuszowi mienia przechowywanego w zamykanym pomieszczeniu, pod jego bezpośrednim nadzorem, następuje na podstawie protokołu przyjęcia albo na podstawie inwentaryzacji, przeprowadzonej na pisemne polecenie kierownika jednostki organizacyjnej lub na żądanie funkcjonariusza.
-§ 5. 1. Inwentaryzację, o której mowa w § 4, należy przeprowadzić w ciągu miesiąca od zawiadomienia funkcjonariusza o planowanym powierzeniu mu mienia.
+
+**§ 4.** Powierzenie funkcjonariuszowi mienia przechowywanego w zamykanym pomieszczeniu, pod jego bezpośrednim nadzorem, następuje na podstawie protokołu przyjęcia albo na podstawie inwentaryzacji, przeprowadzonej na pisemne polecenie kierownika jednostki organizacyjnej lub na żądanie funkcjonariusza.
+
+**§ 5.**
+
+1. Inwentaryzację, o której mowa w § 4, należy przeprowadzić w ciągu miesiąca od zawiadomienia funkcjonariusza o planowanym powierzeniu mu mienia.
+
 2. Jeżeli funkcjonariusz, o którym mowa w § 4, nie może z powodu choroby lub innej ważnej przyczyny osobiście wziąć udziału w inwentaryzacji, może, za pisemną zgodą kierownika jednostki organizacyjnej, upoważnić na piśmie innego funkcjonariusza do wzięcia za niego udziału w inwentaryzacji.
+
 3. Jeżeli funkcjonariusz nie bierze udziału w inwentaryzacji i nie upoważni funkcjonariusza w trybie ust. 2, kierownik jednostki organizacyjnej poleca przeprowadzenie inwentaryzacji przez wyznaczoną przez siebie komisję inwentaryzacyjną.
+
 4. Funkcjonariuszowi, któremu mienie ma być powierzone, oraz funkcjonariuszowi upoważnionemu w trybie ust. 2 do wzięcia udziału w inwentaryzacji przysługuje prawo wglądu w dokumenty ewidencyjne w zakresie dotyczącym rozliczenia powierzonego mienia.
+
 5. W razie przewidywanego zwolnienia ze służby lub przeniesienia do innej jednostki organizacyjnej funkcjonariusza, o którym mowa w § 3 ust. 1, inwentaryzację należy przeprowadzić niezwłocznie i zakończyć ją przed dniem odejścia funkcjonariusza z miejsca powierzenia mienia, nie później jednak niż w dniu zwolnienia ze służby lub przeniesienia do innej jednostki organizacyjnej. W przypadku niemożności udziału funkcjonariusza w inwentaryzacji, stosuje się odpowiednio postanowienia ust. 2 i 3.
-§ 6. Przepisów rozporządzenia nie stosuje się do funkcjonariuszy ponoszących wspólną odpowiedzialność majątkową, o której mowa w art. 11 ustawy z dnia 7 maja 1999 r. o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego.
-§ 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 6.** Przepisów rozporządzenia nie stosuje się do funkcjonariuszy ponoszących wspólną odpowiedzialność majątkową, o której mowa w art. 11 ustawy z dnia 7 maja 1999 r. o odpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego.
+
+**§ 7.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

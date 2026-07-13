@@ -27,18 +27,18 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie zamknięć urzędowych Na podstawie art. 65 ust. 5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r.
 poz. 615, 556, 588, 641 i 658) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 31 grudnia 2018 r. w sprawie zamknięć urzędowych (Dz. U. z 2019 r.
-poz. 1) wprowadza się następujące zmiany:
-1) w § 2 w ust. 1 pkt 12 otrzymuje brzmienie: „12) wobec towarów objętych systemem monitorowania przewozu, o którym mowa w ustawie z dnia 9 marca 2017 r.
-o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2023 r. poz. 104).”;
-2) w § 9 w ust. 1 w pkt 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „kontroli przewozu towarów, o której mowa w ustawie z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi − odpowiednio w:”;
-3) w § 10 w ust. 2:
-a) w pkt 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „pkt 1, 3 i 4, są stosowane w przypadku:”, – lit. a otrzymuje brzmienie: „a) gdy nakładanie lub zdejmowanie tych zamknięć urzędowych wynika z przepisów innych niż określone w pkt 2,”, – w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „g) o którym mowa w art. 15 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi;”,
-b) uchyla się pkt 3;
-4) w § 11:
-a) w ust. 1: – pkt 1 otrzymuje brzmienie: „1) pkt 1, nakłada się w formie plomby zaciśniętej na elemencie mocującym przy użyciu plombownicy na towarze, wyrobie, urządzeniu, naczyniu, pomieszczeniu, środku transportu, kontenerze lub opakowaniu,”, – pkt 3 i 4 otrzymują brzmienie: „3) pkt 3, nakłada się w formie odciśnięcia pieczęci, stempla lub innego znaku na towarze, wyrobie, urządzeniu, naczyniu, pomieszczeniu, środku transportu, kontenerze lub opakowaniu,
-4) pkt 4, nakłada się w formie plomby elektronicznej na elemencie mocującym na towarze, wyrobie, urządzeniu, naczyniu, pomieszczeniu, środku transportu, kontenerze lub opakowaniu”,
-b) ust. 4 otrzymuje brzmienie: „4. Na zamknięciach urzędowych umieszcza się, uniemożliwiające ich sfałszowanie lub podrobienie, znaki identyfikacyjne określone w przepisach odrębnych.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: M. Rzeczkowska
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 31 grudnia 2018 r. w sprawie zamknięć urzędowych (Dz. U. z 2019 r. poz. 1) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w ust. 1 pkt 12 otrzymuje brzmienie: „12) wobec towarów objętych systemem monitorowania przewozu, o którym mowa w ustawie z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2023 r. poz. 104).”;
+- **2)** w § 9 w ust. 1 w pkt 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „kontroli przewozu towarów, o której mowa w ustawie z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi − odpowiednio w:”;
+- **3)** w § 10 w ust. 2:
+    - **a)** w pkt 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „pkt 1, 3 i 4, są stosowane w przypadku:”, – lit. a otrzymuje brzmienie: „a) gdy nakładanie lub zdejmowanie tych zamknięć urzędowych wynika z przepisów innych niż określone w pkt 2,”, – w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „g) o którym mowa w art. 15 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi;”,
+    - **b)** uchyla się pkt 3;
+
+- **4)** w § 11:
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) pkt 1, nakłada się w formie plomby zaciśniętej na elemencie mocującym przy użyciu plombownicy na towarze, wyrobie, urządzeniu, naczyniu, pomieszczeniu, środku transportu, kontenerze lub opakowaniu,”, – pkt 3 i 4 otrzymują brzmienie: „3) pkt 3, nakłada się w formie odciśnięcia pieczęci, stempla lub innego znaku na towarze, wyrobie, urządzeniu, naczyniu, pomieszczeniu, środku transportu, kontenerze lub opakowaniu, 4) pkt 4, nakłada się w formie plomby elektronicznej na elemencie mocującym na towarze, wyrobie, urządzeniu, naczyniu, pomieszczeniu, środku transportu, kontenerze lub opakowaniu”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Na zamknięciach urzędowych umieszcza się, uniemożliwiające ich sfałszowanie lub podrobienie, znaki identyfikacyjne określone w przepisach odrębnych.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: M. Rzeczkowska
 

@@ -26,25 +26,20 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1020/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania statutu Narodowemu Funduszowi Zdrowia Na podstawie art. 96 ust. 8 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm. ) zarządza się, co następuje:
-§ 1. W załączniku do rozporządzenia Ministra Zdrowia z dnia 11 grudnia 2014 r. w sprawie nadania statutu Narodowemu Funduszowi Zdrowia (Dz. U. poz. 1840) wprowadza się następujące zmiany:
-1) w § 4 w ust. 1:
-a) uchyla się pkt 9,
-b) w pkt 18 kropkę zastępuje się średnikiem i dodaje się pkt 19–23 w brzmieniu: „19) Biuro Profilaktyki Zdrowotnej;
-20) Biuro Audytu Wewnętrznego;
-21) Biuro Nadzoru Wewnętrznego;
-22) Departament Obsługi Pacjenta;
-23) Inspektor Ochrony Danych.”;
-2) w § 6:
-a) w ust. 3: – uchyla się pkt 16, – dodaje się pkt 17 w brzmieniu: „17) Inspektor Ochrony Danych.”,
-b) ust. 4–6 otrzymują brzmienie: „4. W przypadkach uzasadnionych liczbą świadczeniobiorców zarejestrowanych w danym oddziale wojewódzkim Funduszu i zakresem wykonywanych przez niego zadań dyrektor oddziału wojewódzkiego Funduszu może połączyć albo podzielić komórki organizacyjne wymienione w ust. 3, po uzyskaniu pozytywnej opinii Prezesa Funduszu.
-5. W celu zapewnienia świadczeniobiorcom właściwej dostępności do Funduszu, ułatwienia współpracy Funduszu ze świadczeniodawcami oraz usprawnienia realizacji zadań Funduszu, w oddziałach wojewódzkich Funduszu mogą być tworzone następujące placówki terenowe:
-1) delegatury oddziału;
-2) punkty obsługi;
-3) centra usług wspólnych.
-6. Delegatury oddziału oraz centra usług wspólnych tworzy i znosi Prezes Funduszu. Utworzenie delegatury oddziału wymaga złożenia do Prezesa Funduszu umotywowanego wniosku przez dyrektora oddziału wojewódzkiego Funduszu.”,
-c) po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Punkty obsługi tworzy i znosi dyrektor oddziału wojewódzkiego Funduszu.”,
-d) ust. 7 otrzymuje brzmienie: „7. Placówkami terenowymi, o których mowa w ust. 5, kieruje kierownik.”.
-§ 2. Regulaminy organizacyjne centrali Narodowego Funduszu Zdrowia i oddziałów wojewódzkich Narodowego Funduszu Zdrowia nadane na podstawie dotychczasowych przepisów zachowują moc do czasu nadania regulaminów organizacyjnych centrali Narodowego Funduszu Zdrowia i oddziałów wojewódzkich Narodowego Funduszu Zdrowia na podstawie rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, nie dłużej jednak niż przez 14 dni od dnia wejścia w życie niniejszego rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 czerwca 2019 r.
-Minister Zdrowia: wz. J. Szczurek-Żelazko
+
+**§ 1.** W załączniku do rozporządzenia Ministra Zdrowia z dnia 11 grudnia 2014 r. w sprawie nadania statutu Narodowemu Funduszowi Zdrowia (Dz. U. poz. 1840) wprowadza się następujące zmiany:
+
+- **1)** w § 4 w ust. 1:
+    - **a)** uchyla się pkt 9,
+    - **b)** w pkt 18 kropkę zastępuje się średnikiem i dodaje się pkt 19–23 w brzmieniu: „19) Biuro Profilaktyki Zdrowotnej; 20) Biuro Audytu Wewnętrznego; 21) Biuro Nadzoru Wewnętrznego; 22) Departament Obsługi Pacjenta; 23) Inspektor Ochrony Danych.”;
+
+- **2)** w § 6:
+    - **a)** w ust. 3: – uchyla się pkt 16, – dodaje się pkt 17 w brzmieniu: „17) Inspektor Ochrony Danych.”,
+    - **b)** ust. 4–6 otrzymują brzmienie: „4. W przypadkach uzasadnionych liczbą świadczeniobiorców zarejestrowanych w danym oddziale wojewódzkim Funduszu i zakresem wykonywanych przez niego zadań dyrektor oddziału wojewódzkiego Funduszu może połączyć albo podzielić komórki organizacyjne wymienione w ust. 3, po uzyskaniu pozytywnej opinii Prezesa Funduszu. 5. W celu zapewnienia świadczeniobiorcom właściwej dostępności do Funduszu, ułatwienia współpracy Funduszu ze świadczeniodawcami oraz usprawnienia realizacji zadań Funduszu, w oddziałach wojewódzkich Funduszu mogą być tworzone następujące placówki terenowe: 1) delegatury oddziału; 2) punkty obsługi; 3) centra usług wspólnych. 6. Delegatury oddziału oraz centra usług wspólnych tworzy i znosi Prezes Funduszu. Utworzenie delegatury oddziału wymaga złożenia do Prezesa Funduszu umotywowanego wniosku przez dyrektora oddziału wojewódzkiego Funduszu.”,
+    - **c)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Punkty obsługi tworzy i znosi dyrektor oddziału wojewódzkiego Funduszu.”,
+    - **d)** ust. 7 otrzymuje brzmienie: „7. Placówkami terenowymi, o których mowa w ust. 5, kieruje kierownik.”.
+
+**§ 2.** Regulaminy organizacyjne centrali Narodowego Funduszu Zdrowia i oddziałów wojewódzkich Narodowego Funduszu Zdrowia nadane na podstawie dotychczasowych przepisów zachowują moc do czasu nadania regulaminów organizacyjnych centrali Narodowego Funduszu Zdrowia i oddziałów wojewódzkich Narodowego Funduszu Zdrowia na podstawie rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, nie dłużej jednak niż przez 14 dni od dnia wejścia w życie niniejszego rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 czerwca 2019 r. Minister Zdrowia: wz. J. Szczurek-Żelazko
 

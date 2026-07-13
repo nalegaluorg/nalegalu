@@ -26,14 +26,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000911) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/911/text.pdf) |
 
 zmieniające rozporządzenie w sprawie programu pilotażowego oddziaływań terapeutycznych skierowanych do dzieci i młodzieży problemowo korzystających z nowych technologii cyfrowych oraz ich rodzin Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146 i 858) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 23 listopada 2021 r. w sprawie programu pilotażowego oddziaływań terapeutycznych skierowanych do dzieci i młodzieży problemowo korzystających z nowych technologii cyfrowych oraz ich rodzin (Dz. U. z 2024 r. poz. 147) wprowadza się następujące zmiany:
-1) w § 4 wyrazy „30 czerwca 2024 r.” zastępuje się wyrazami „30 czerwca 2025 r.”;
-2) w § 15:
-a) skreśla się użyty w ust. 1 i 2, w różnym przypadku, wyraz „końcowy”,
-b) ust. 3 otrzymuje brzmienie: „3. Fundusz przekazuje ministrowi właściwemu do spraw zdrowia raport, o którym mowa w ust. 1:
-1) zgodnie ze stanem realizacji programu pilotażowego dostępnym na dzień 30 września 2024 r. – do dnia 31 grudnia 2024 r.;
-2) za okres od dnia 1 października 2024 r. do dnia 30 czerwca 2025 r. – w terminie 3 miesięcy od dnia zakończenia okresu realizacji programu pilotażowego.”;
-3) w załączniku do rozporządzenia pkt 5 otrzymuje brzmienie: „5) Zachodniopomorskie Towarzystwo Rodzin i Przyjaciół Dzieci Uzależnionych „Powrót z U”;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. W. Konieczny
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 23 listopada 2021 r. w sprawie programu pilotażowego oddziaływań terapeutycznych skierowanych do dzieci i młodzieży problemowo korzystających z nowych technologii cyfrowych oraz ich rodzin (Dz. U. z 2024 r. poz. 147) wprowadza się następujące zmiany:
+
+- **1)** w § 4 wyrazy „30 czerwca 2024 r.” zastępuje się wyrazami „30 czerwca 2025 r.”;
+- **2)** w § 15:
+    - **a)** skreśla się użyty w ust. 1 i 2, w różnym przypadku, wyraz „końcowy”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Fundusz przekazuje ministrowi właściwemu do spraw zdrowia raport, o którym mowa w ust. 1: 1) zgodnie ze stanem realizacji programu pilotażowego dostępnym na dzień 30 września 2024 r. – do dnia 31 grudnia 2024 r.; 2) za okres od dnia 1 października 2024 r. do dnia 30 czerwca 2025 r. – w terminie 3 miesięcy od dnia zakończenia okresu realizacji programu pilotażowego.”;
+
+- **3)** w załączniku do rozporządzenia pkt 5 otrzymuje brzmienie: „5) Zachodniopomorskie Towarzystwo Rodzin i Przyjaciół Dzieci Uzależnionych „Powrót z U”;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: wz. W. Konieczny
 

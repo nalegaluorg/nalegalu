@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002163) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2163/text.pdf) |
 
 zmieniające rozporządzenie w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego Na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, 1807, 1860, 1948 i 2138) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. z 2016 r. poz. 694, 855, 918 i 936) w załączniku nr 4 dodaje się lp. 36 w brzmieniu określonym w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: K. Radziwiłł … M W W W W W W W W M M W W W W W
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. z 2016 r. poz. 694, 855, 918 i 936) w załączniku nr 4 dodaje się lp. 36 w brzmieniu określonym w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: K. Radziwiłł … M W W W W W W W W M M W W W W W
 

@@ -27,25 +27,52 @@ source: pdf
 
 w sprawie odznaki honorowej „Zasłużony dla Ochrony Dziedzictwa Fryderyka Chopina” Na podstawie art. 6 ust. 11 ustawy z dnia 3 lutego 2001 r. o ochronie dziedzictwa Fryderyka Chopina (Dz. U. z 2020 r.
 poz. 115) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wzór i tryb rozpatrywania wniosku o nadanie odznaki honorowej „Zasłużony dla Ochrony Dziedzictwa Fryderyka Chopina”, zwanego dalej „wnioskiem”, sposób wręczenia odznaki honorowej „Zasłużony dla Ochrony Dziedzictwa Fryderyka Chopina”, zwanej dalej „Odznaką”, i noszenia miniatury Odznaki, tryb działania komisji do spraw opiniowania wniosków, zwanej dalej „komisją”, wzór Odznaki i jej miniatury, wzór legitymacji potwierdzającej nadanie Odznaki, sposób postępowania w przypadku zagubienia albo zniszczenia Odznaki lub legitymacji potwierdzającej nadanie Odznaki, w tym wydawania ich duplikatu.
-§ 2. Wzór wniosku określa załącznik nr 1 do rozporządzenia.
-§ 3. 1. Wniosek składa się do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, zwanego dalej „Ministrem”, w formie pisemnej albo za pomocą środków komunikacji elektronicznej na elektroniczną skrzynkę podawczą Ministra utworzoną na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2020 r. poz. 346, 568, 695, 1517 i 2320).
+
+**§ 1.** Rozporządzenie określa wzór i tryb rozpatrywania wniosku o nadanie odznaki honorowej „Zasłużony dla Ochrony Dziedzictwa Fryderyka Chopina”, zwanego dalej „wnioskiem”, sposób wręczenia odznaki honorowej „Zasłużony dla Ochrony Dziedzictwa Fryderyka Chopina”, zwanej dalej „Odznaką”, i noszenia miniatury Odznaki, tryb działania komisji do spraw opiniowania wniosków, zwanej dalej „komisją”, wzór Odznaki i jej miniatury, wzór legitymacji potwierdzającej nadanie Odznaki, sposób postępowania w przypadku zagubienia albo zniszczenia Odznaki lub legitymacji potwierdzającej nadanie Odznaki, w tym wydawania ich duplikatu.
+
+**§ 2.** Wzór wniosku określa załącznik nr 1 do rozporządzenia.
+
+**§ 3.**
+
+1. Wniosek składa się do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, zwanego dalej „Ministrem”, w formie pisemnej albo za pomocą środków komunikacji elektronicznej na elektroniczną skrzynkę podawczą Ministra utworzoną na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2020 r. poz. 346, 568, 695, 1517 i 2320).
+
 2. W przypadku stwierdzenia braków formalnych Minister wzywa wnioskodawcę do ich usunięcia we wskazanym terminie, nie krótszym niż 7 dni.
+
 3. Wniosek pozostawia się bez rozpatrzenia w przypadku nieusunięcia braków formalnych wniosku w terminie, o którym mowa w ust. 2, lub w przypadku, w którym ponownie złożono wniosek o tej samej treści, z wyjątkiem sytuacji, o której mowa w ust. 4.
+
 4. Wniosek, do czasu nadania Odznaki przez Ministra, może być wycofany przez wnioskodawcę. Wycofanie wniosku kończy postępowanie dotyczące wniosku.
-§ 4. 1. Posiedzenie komisji zwołuje Minister.
+
+**§ 4.**
+
+1. Posiedzenie komisji zwołuje Minister.
+
 2. W Biuletynie Informacji Publicznej na stronie podmiotowej Ministra nie później niż w terminie 14 dni przed posiedzeniem komisji ogłasza się termin posiedzenia komisji.
+
 3. Uchwały komisji są podejmowane w głosowaniu jawnym, zwykłą większością głosów członków komisji obecnych na posiedzeniu. W przypadku równej liczby głosów decyduje głos przewodniczącego komisji.
+
 4. Przewodniczący komisji przekazuje Ministrowi opinię komisji w sprawie wniosku wraz ze wskazaniem osoby fizycznej lub jednostki organizacyjnej rekomendowanej do nadania Odznaki.
+
 5. Minister, biorąc pod uwagę informacje zawarte w uzasadnieniu wniosku oraz opinię, o której mowa w ust. 4, rozstrzyga o nadaniu Odznaki.
-§ 5. 1. Odznakę wraz z jej miniaturą i legitymacją potwierdzającą nadanie Odznaki wręcza Minister lub osoba przez niego upoważniona w okolicznościach zapewniających uroczysty charakter wręczenia.
+
+**§ 5.**
+
+1. Odznakę wraz z jej miniaturą i legitymacją potwierdzającą nadanie Odznaki wręcza Minister lub osoba przez niego upoważniona w okolicznościach zapewniających uroczysty charakter wręczenia.
+
 2. Miniaturę Odznaki nosi się po prawej stronie piersi.
-§ 6. 1. Odznaka jest wykonaną w brązie kopią redukcji pracy rzeźbiarskiej „Chopin” autorstwa Jana Nalborczyka przygotowaną z modelu autorskiego przez Tadeusza Łopieńskiego w formie plakiety o wymiarach 16,8 cm × 21 cm.
+
+**§ 6.**
+
+1. Odznaka jest wykonaną w brązie kopią redukcji pracy rzeźbiarskiej „Chopin” autorstwa Jana Nalborczyka przygotowaną z modelu autorskiego przez Tadeusza Łopieńskiego w formie plakiety o wymiarach 16,8 cm × 21 cm.
+
 2. Miniaturę Odznaki stanowi metalowa, pozłacana miniatura wizerunku Fryderyka Chopina wpisana w obręcz o średnicy 20 mm.
+
 3. Wzór Odznaki określa załącznik nr 2 do rozporządzenia.
+
 4. Wzór miniatury Odznaki określa załącznik nr 3 do rozporządzenia.
+
 5. Wzór legitymacji potwierdzającej nadanie Odznaki określa załącznik nr 4 do rozporządzenia.
-§ 7. W przypadku zagubienia albo zniszczenia Odznaki lub legitymacji, na wniosek osoby fizycznej albo jednostki organizacyjnej, którym nadano Odznakę, a w przypadku osoby fizycznej również na wniosek członka jej rodziny, Minister wydaje duplikat Odznaki lub legitymacji potwierdzającej nadanie Odznaki za zwrotem kosztów.
-§ 8. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Kultury, Dziedzictwa Narodowego i Sportu: P. Gliński WZÓR WZÓR ODZNAKI HONOROWEJ „ZASŁUżONy DlA OCHRONy DZIEDZICTWA FRyDERyKA CHOPINA” awers rewers 21 cm 16,8 cm 21 cm 16,8 cm WZÓR MINIATURy ODZNAKI HONOROWEJ „ZASŁUżONy DlA OCHRONy DZIEDZICTWA FRyDERyKA CHOPINA” 20 mm WZÓR lEGITyMACJI „ZASŁUżONy DlA OCHRONy DZIEDZICTWA FRyDERyKA CHOPINA” Okładka Zasłużony dla Ochrony Dziedzictwa Fryderyka Chopina Zasłużony dla Ochrony [Wpisz tutaj]
+
+**§ 7.** W przypadku zagubienia albo zniszczenia Odznaki lub legitymacji, na wniosek osoby fizycznej albo jednostki organizacyjnej, którym nadano Odznakę, a w przypadku osoby fizycznej również na wniosek członka jej rodziny, Minister wydaje duplikat Odznaki lub legitymacji potwierdzającej nadanie Odznaki za zwrotem kosztów.
+
+**§ 8.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Kultury, Dziedzictwa Narodowego i Sportu: P. Gliński WZÓR WZÓR ODZNAKI HONOROWEJ „ZASŁUżONy DlA OCHRONy DZIEDZICTWA FRyDERyKA CHOPINA” awers rewers 21 cm 16,8 cm 21 cm 16,8 cm WZÓR MINIATURy ODZNAKI HONOROWEJ „ZASŁUżONy DlA OCHRONy DZIEDZICTWA FRyDERyKA CHOPINA” 20 mm WZÓR lEGITyMACJI „ZASŁUżONy DlA OCHRONy DZIEDZICTWA FRyDERyKA CHOPINA” Okładka Zasłużony dla Ochrony Dziedzictwa Fryderyka Chopina Zasłużony dla Ochrony [Wpisz tutaj]
 

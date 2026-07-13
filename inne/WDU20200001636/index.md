@@ -26,15 +26,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001636) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1636/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ustanowienia odznaki honorowej „Za Zasługi dla Finansów Publicznych Rzeczypospolitej Polskiej”, ustalenia jej wzoru oraz zasad i trybu nadawania, a także noszenia Na podstawie art. 4 ust. 2 i art. 6 ust. 1 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2016 poz. 38) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 14 października 2003 r. w sprawie ustanowienia odznaki honorowej „Za Zasługi dla Finansów Publicznych Rzeczypospolitej Polskiej”, ustalenia jej wzoru oraz zasad i trybu nadawania, a także noszenia (Dz. U. poz. 1868) wprowadza się następujące zmiany:
-1) w § 3 w ust. 1:
-a) pkt 4 otrzymuje brzmienie: „4) dyrektora izby administracji skarbowej;”,
-b) uchyla się pkt 5 i 6;
-2) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki Załącznik RadyMinistrów zdnia14 września2020 r.
-(poz. ) WZÓR WZÓR WNIOSEK WNIOSEK O O NADANIE NADANIEODZNAKIHONOROWEJ ODZNAKI HONOROWEJ „ZAZASŁUGIDLAFINANSÓWPUBLICZNYCH RZECZYPOSPOLITEJPOLSKIEJ” „ZA ZASŁUGI DLA FINANSÓW PUBLICZNYCH RZECZYPOSPOLITEJ POLSKIEJ” WNIOSEK O NADANIE ODZNAKI HONOROWEJ „ZA ZASŁUGI DLA FINANSÓW PUBLICZNYCH RZECZYPOSPOLITEJ POLSKIEJ” Imiona i nazwisko kandydata ………………………………………………………………………………………………….
-Data urodzenia ………………………………………………………………………………...
-Obywatelstwo* ……………………………………………………………………………….
-Adres do korespondencji** ………………………………………………………………………………………………… Uzasadnienie wniosku: Stanowisko ministra właściwego do spraw zagranicznych* Wnoszę o nadanie odznaki …………………………… …………………………………..
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 14 października 2003 r. w sprawie ustanowienia odznaki honorowej „Za Zasługi dla Finansów Publicznych Rzeczypospolitej Polskiej”, ustalenia jej wzoru oraz zasad i trybu nadawania, a także noszenia (Dz. U. poz. 1868) wprowadza się następujące zmiany:
+
+- **1)** w § 3 w ust. 1:
+    - **a)** pkt 4 otrzymuje brzmienie: „4) dyrektora izby administracji skarbowej;”,
+    - **b)** uchyla się pkt 5 i 6;
+
+- **2)** załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

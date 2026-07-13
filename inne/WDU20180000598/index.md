@@ -26,10 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000598) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/598/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania statutu Wielkopolskiemu Parkowi Narodowemu z siedzibą w Jeziorach Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2018 r. poz. 142 i 10) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Wielkopolskiemu Parkowi Narodowemu z siedzibą w Jeziorach (Dz. U. poz. 316) w załączniku do rozporządzenia w § 2:
-1) po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) Zespół do spraw Udostępniania Parku;”;
-2) uchyla się pkt 8;
-3) uchyla się pkt 10.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Środowiska: H. Kowalczyk
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Wielkopolskiemu Parkowi Narodowemu z siedzibą w Jeziorach (Dz. U. poz. 316) w załączniku do rozporządzenia w § 2:
+
+- **1)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) Zespół do spraw Udostępniania Parku;”;
+- **2)** uchyla się pkt 8;
+- **3)** uchyla się pkt 10.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Środowiska: H. Kowalczyk
 

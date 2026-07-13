@@ -27,12 +27,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw Na podstawie art. 20 pkt 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r.
 poz. 217, z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030 i 1429) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 28 grudnia 2018 r. w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw (Dz. U.
-z 2023 r. poz. 125 i 934) wprowadza się następujące zmiany:
-1) w § 2 w pkt 3 lit. f otrzymuje brzmienie: „f) Sąd Okręgowy w Sosnowcu – obejmujący obszar właściwości sądów rejonowych w: Będzinie, Czeladzi, Dąbrowie Górniczej, Jaworznie, Sosnowcu i Zawierciu oraz rozpoznający sprawy z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy i ubezpieczeń społecznych oraz prowadzenia rejestru dzienników i czasopism;”;
-2) w § 3 w pkt 33a:
-a) lit. a otrzymuje brzmienie: „a) Sąd Rejonowy w Będzinie – dla miasta Będzin oraz gminy Psary oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy, a także do prowadzenia ksiąg wieczystych,”,
-b) po lit. a dodaje się lit. aa w brzmieniu: „aa) Sąd Rejonowy w Czeladzi – dla miast Czeladź i Wojkowice oraz gminy Bobrowniki oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 28 grudnia 2018 r. w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw (Dz. U. z 2023 r. poz. 125 i 934) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w pkt 3 lit. f otrzymuje brzmienie: „f) Sąd Okręgowy w Sosnowcu – obejmujący obszar właściwości sądów rejonowych w: Będzinie, Czeladzi, Dąbrowie Górniczej, Jaworznie, Sosnowcu i Zawierciu oraz rozpoznający sprawy z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy i ubezpieczeń społecznych oraz prowadzenia rejestru dzienników i czasopism;”;
+- **2)** w § 3 w pkt 33a:
+    - **a)** lit. a otrzymuje brzmienie: „a) Sąd Rejonowy w Będzinie – dla miasta Będzin oraz gminy Psary oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy, a także do prowadzenia ksiąg wieczystych,”,
+    - **b)** po lit. a dodaje się lit. aa w brzmieniu: „aa) Sąd Rejonowy w Czeladzi – dla miast Czeladź i Wojkowice oraz gminy Bobrowniki oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2023 r. Minister Sprawiedliwości: Z. Ziobro
 

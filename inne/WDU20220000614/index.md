@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000614) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/614/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wymagań w zakresie prowadzenia pomiarów wielkości emisji Na podstawie art. 148 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, 2127 i 2269) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Klimatu i Środowiska z dnia 7 września 2021 r. w sprawie wymagań w zakresie prowadzenia pomiarów wielkości emisji (Dz. U. poz. 1710) w załączniku nr 7 do rozporządzenia w części E w tytule II w pkt 2 w ust. 6 wzór: ” „ 1 1  = 10 lg  10  zastępuje  = się 10 wzorem: lg    10  ” 1 „  = 10 lg 1  10  .
- = 10 lg   10  
-§ 2. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa
+
+**§ 1.** W rozporządzeniu Ministra Klimatu i Środowiska z dnia 7 września 2021 r. w sprawie wymagań w zakresie prowadzenia pomiarów wielkości emisji (Dz. U. poz. 1710) w załączniku nr 7 do rozporządzenia w części E w tytule II w pkt 2 w ust. 6 wzór: ” „ 1 1  = 10 lg  10  zastępuje  = się 10 wzorem: lg    10  ” 1 „  = 10 lg 1  10  .  = 10 lg   10  
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa
 

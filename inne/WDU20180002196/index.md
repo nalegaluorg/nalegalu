@@ -27,10 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie maksymalnych stawek taksy notarialnej Na podstawie art. 5 § 3 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2017 r. poz. 2291, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 28 czerwca 2004 r. w sprawie maksymalnych stawek taksy notarialnej (Dz. U. z 2018 r. poz. 272) po § 10a dodaje się § 10b w brzmieniu: „§ 10b. 1. Za sporządzenie aktu powołania zarządcy sukcesyjnego lub aktu odwołania zarządcy sukcesyjnego maksymalna stawka wynosi 50 zł.
-2. Za sporządzenie oświadczenia o zgodzie na powołanie zarządcy sukcesyjnego, oświadczenia o zgodzie na odwołanie zarządcy sukcesyjnego lub oświadczenia osoby powołanej na zarządcę sukcesyjnego o wyrażeniu zgody na pełnienie tej funkcji oraz braku prawomocnie orzeczonych wobec niej zakazów, o których mowa w art. 8 ust. 2 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej (Dz. U. poz. 1629), maksymalna stawka wynosi 50 zł.
-3. Za sporządzenie protokołu powołania zarządcy sukcesyjnego lub protokołu odwołania zarządcy sukcesyjnego maksymalna stawka wynosi 100 zł.
-4. Za sporządzenie protokołu rezygnacji zarządcy sukcesyjnego maksymalna stawka wynosi 50 zł.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 25 listopada 2018 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 28 czerwca 2004 r. w sprawie maksymalnych stawek taksy notarialnej (Dz. U. z 2018 r. poz. 272) po § 10a dodaje się § 10b w brzmieniu: „§ 10b. 1. Za sporządzenie aktu powołania zarządcy sukcesyjnego lub aktu odwołania zarządcy sukcesyjnego maksymalna stawka wynosi 50 zł. 2. Za sporządzenie oświadczenia o zgodzie na powołanie zarządcy sukcesyjnego, oświadczenia o zgodzie na odwołanie zarządcy sukcesyjnego lub oświadczenia osoby powołanej na zarządcę sukcesyjnego o wyrażeniu zgody na pełnienie tej funkcji oraz braku prawomocnie orzeczonych wobec niej zakazów, o których mowa w art. 8 ust. 2 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej (Dz. U. poz. 1629), maksymalna stawka wynosi 50 zł. 3. Za sporządzenie protokołu powołania zarządcy sukcesyjnego lub protokołu odwołania zarządcy sukcesyjnego maksymalna stawka wynosi 100 zł. 4. Za sporządzenie protokołu rezygnacji zarządcy sukcesyjnego maksymalna stawka wynosi 50 zł.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 25 listopada 2018 r. Minister Sprawiedliwości: Z. Ziobro
 

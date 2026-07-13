@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie charakterystyk drugiego stopnia efektów uczenia się dla kwalifikacji na poziomach 6–8 Polskiej Ramy Kwalifikacji Na podstawie art. 7 ust. 3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2018 r.
 poz. 2153) zarządza się, co następuje:
-§ 1. Określa się charakterystyki drugiego stopnia efektów uczenia się dla kwalifikacji na poziomach 6–8 Polskiej Ramy Kwalifikacji typowe dla kwalifikacji uzyskiwanych w ramach systemu szkolnictwa wyższego i nauki po uzyskaniu kwalifikacji pełnej na poziomie 4, ujęte w kategoriach wiedzy, umiejętności oraz kompetencji społecznych, stanowiące załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Nauki i Szkolnictwa Wyższego: wz. P. Müller … W
+
+**§ 1.** Określa się charakterystyki drugiego stopnia efektów uczenia się dla kwalifikacji na poziomach 6–8 Polskiej Ramy Kwalifikacji typowe dla kwalifikacji uzyskiwanych w ramach systemu szkolnictwa wyższego i nauki po uzyskaniu kwalifikacji pełnej na poziomie 4, ujęte w kategoriach wiedzy, umiejętności oraz kompetencji społecznych, stanowiące załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Nauki i Szkolnictwa Wyższego: wz. P. Müller … W
 

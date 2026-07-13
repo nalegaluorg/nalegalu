@@ -26,23 +26,36 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000593) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/593/text.pdf) |
 
 w sprawie przedłużania wiz dla cudzoziemców Na podstawie art. 89 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzory formularzy wniosków o przedłużenie wizy Schengen lub wizy krajowej i szczegółowe wymogi techniczne dotyczące fotografii dołączanej do wniosku;
-2) wzór stempla potwierdzającego złożenie wniosku o przedłużenie wizy Schengen lub wizy krajowej;
-3) sposób umieszczania naklejki wizowej przedłużonej wizy krajowej w dokumencie podróży lub na osobnym blankiecie wizowym.
-§ 2. 1. Wzór formularza wniosku o przedłużenie wizy Schengen stanowi załącznik nr 1 do rozporządzenia.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzory formularzy wniosków o przedłużenie wizy Schengen lub wizy krajowej i szczegółowe wymogi techniczne dotyczące fotografii dołączanej do wniosku;
+- **2)** wzór stempla potwierdzającego złożenie wniosku o przedłużenie wizy Schengen lub wizy krajowej;
+- **3)** sposób umieszczania naklejki wizowej przedłużonej wizy krajowej w dokumencie podróży lub na osobnym blankiecie wizowym.
+
+**§ 2.**
+
+1. Wzór formularza wniosku o przedłużenie wizy Schengen stanowi załącznik nr 1 do rozporządzenia.
+
 2. Wzór formularza wniosku o przedłużenie wizy krajowej stanowi załącznik nr 2 do rozporządzenia.
+
 3. Wzór stempla potwierdzającego złożenie wniosku o przedłużenie wizy Schengen lub wizy krajowej stanowi załącznik nr 3 do rozporządzenia.
-§ 3. 1. Do wniosku, o którym mowa w § 2 ust. 1 i 2, dołącza się jedną fotografię osoby, której wniosek dotyczy.
+
+**§ 3.**
+
+1. Do wniosku, o którym mowa w § 2 ust. 1 i 2, dołącza się jedną fotografię osoby, której wniosek dotyczy.
+
 2. Fotografia dołączana do wniosku, o którym mowa w § 2 ust. 1 i 2, spełnia następujące wymagania:
-1) jest nieuszkodzona, kolorowa, o dobrej ostrości;
-2) ma wymiary 35 mm × 45 mm;
-3) została wykonana nie wcześniej niż w ciągu 6 miesięcy przed dniem złożenia wniosku;
-4) przedstawia wizerunek twarzy cudzoziemca od wierzchołka głowy do górnej części barków, tak aby twarz zajmowała 70–80% fotografii, na jednolitym jasnym tle, w pozycji frontalnej, patrzącego na wprost z otwartymi oczami, nieprzesłoniętymi włosami, z naturalnym wyrazem twarzy i zamkniętymi ustami, a także odwzorowuje naturalny kolor jego skóry;
-5) przedstawia wyraźnie oczy cudzoziemca, a zwłaszcza źrenice, linia oczu cudzoziemca jest równoległa do górnej krawędzi fotografii.
-Minister Spraw Wewnętrznych kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych (Dz. U. Nr 248, poz. 1491).
-§ 4. Naklejkę wizową przedłużonej wizy krajowej umieszcza się w dokumencie podróży lub na osobnym blankiecie wizowym przez wklejenie odpowiednio zabezpieczonej naklejki samoprzylepnej, wypełnionej przez organ wydający wizę, na stronie, na której odnotowano przyjęcie wniosku o wydanie wizy.
-§ 5. Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia. 2) Minister Spraw Wewnętrznych: wz. P. Stachańczyk Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 22 kwietnia 2011 r. w sprawie wiz dla cudzoziemców (Dz. U. Nr 99, poz. 579), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 520 pkt 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463).
+
+- **1)** jest nieuszkodzona, kolorowa, o dobrej ostrości;
+- **2)** ma wymiary 35 mm × 45 mm;
+- **3)** została wykonana nie wcześniej niż w ciągu 6 miesięcy przed dniem złożenia wniosku;
+- **4)** przedstawia wizerunek twarzy cudzoziemca od wierzchołka głowy do górnej części barków, tak aby twarz zajmowała 70–80% fotografii, na jednolitym jasnym tle, w pozycji frontalnej, patrzącego na wprost z otwartymi oczami, nieprzesłoniętymi włosami, z naturalnym wyrazem twarzy i zamkniętymi ustami, a także odwzorowuje naturalny kolor jego skóry;
+- **5)** przedstawia wyraźnie oczy cudzoziemca, a zwłaszcza źrenice, linia oczu cudzoziemca jest równoległa do górnej krawędzi fotografii. Minister Spraw Wewnętrznych kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych (Dz. U. Nr 248, poz. 1491).
+
+**§ 4.** Naklejkę wizową przedłużonej wizy krajowej umieszcza się w dokumencie podróży lub na osobnym blankiecie wizowym przez wklejenie odpowiednio zabezpieczonej naklejki samoprzylepnej, wypełnionej przez organ wydający wizę, na stronie, na której odnotowano przyjęcie wniosku o wydanie wizy.
+
+**§ 5.** Rozporządzenie wchodzi w życie w dniu następującym po dniu ogłoszenia. 2) Minister Spraw Wewnętrznych: wz. P. Stachańczyk Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 22 kwietnia 2011 r. w sprawie wiz dla cudzoziemców (Dz. U. Nr 99, poz. 579), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 520 pkt 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. poz. 1650 oraz z 2014 r. poz. 463).
 
 ## Załącznik nr 1 — Załącznik nr 1 WZÓR WZÓR .......................................................................... / / (pieczęć organu przyjmującego wniosek) / (stamp of the authority accepting the application) / (cachet de l’organe qui reçoit la demande) / (печать органа, принимающего заявку) (miejsce i data złożenia wniosku) / (place and date of submission the application) / (lieu et date du dépôt de la demande) / (место и дата составления заявки) Wniosek wypełnia się drukowanymi literami alfabetem łacińskim The application should be filled in capital letters in Latin alphabet / La demande est à remplir en majuscules, en alphabet latin / Заявка заполняется печатными буквами латинского алфавита Wniosek wypełnia się w języku polskim The application submitted in the territory of the Republic of Poland should be filled in Polish language / Fotografia / La demande doit être remplie en langue polonaise / Заявка заполняется на польском языке Photo / Photo / Фото WNIOSEK O PRZEDŁUŻENIE WIZY SCHENGEN SCHENGEN VISA EXTENSION APPLICATION / DEMANDE DE PROLONGATION DU VISA SCHENGEN / ЗАЯВКА НА ПРОДЛЕНИЕ ШЕНГЕНСКОЙ ВИЗЫ do / to / à / до ........................................................................................................
 

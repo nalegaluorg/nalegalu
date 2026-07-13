@@ -62,46 +62,58 @@ reprezentowanym przez …………………………………………………�
 …………………………………………………………………………………………………..
 wpisanym przez Sąd Rejonowy dla/w …………………..…… do rejestru przedsiębiorców w Krajowym Rejestrze Sądowym pod numerem ……….. /legitymującym się dowodem osobistym numer …………..….., numer PESEL ………………, wpisanym do Centralnej Ewidencji i Informacji o Działalności Gospodarczej**, numer identyfikacji podatkowej (NIP) ……………………………….., numer identyfikacyjny REGON ………………….………….., reprezentowanym przez ……………….………..………………………………………..…., zwanym dalej „Przedsiębiorcą”, o którym mowa w art. 3 ust. 1 / art. 3 ust. 1a** ustawy z dnia 11 października 2013 r.
 o szczególnych rozwiązaniach związanych z ochroną miejsc pracy (Dz. U. z 2017 r. poz. 842), zwanej dalej „ustawą”, łącznie zwanymi dalej „Stronami”, o następującej treści:
-§ 1.
+
+**§ 1.**
+
 1. Marszałek województwa zobowiązuje się przekazać na rachunek bankowy Przedsiębiorcy/rachunek Przedsiębiorcy prowadzony w spółdzielczej kasie oszczędnościowo-kredytowej** środki na wypłatę świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1 ustawy, oraz środki, o których mowa w art. 5 ust. 3 ustawy, w łącznej wysokości do …………....................................................................................... zł (słownie: …………………………………………………………………), określonej we wniosku Przedsiębiorcy, które obejmują:
-1) środki w wysokości do ………. zł (słownie: ……………………………………………………………….) na częściowe zaspokojenie wynagrodzeń ……. (podać liczbę) pracowników za czas przestoju ekonomicznego;
-2) środki w wysokości do ………. zł (słownie: …………………………………………………………….….) na częściowe zrekompensowanie wynagrodzenia z tytułu obniżenia wymiaru czasu pracy …….
-(podać liczbę) pracownikom;
-3) środki w wysokości do ……… zł (słownie: ………………………………………………………..) na opłacenie składek na ubezpieczenia społeczne pracowników należnych od pracodawcy na podstawie przepisów o systemie ubezpieczeń społecznych od przyznanych świadczeń, zwane dalej „środkami”.
+
+- **1)** środki w wysokości do ………. zł (słownie: ……………………………………………………………….) na częściowe zaspokojenie wynagrodzeń ……. (podać liczbę) pracowników za czas przestoju ekonomicznego;
+- **2)** środki w wysokości do ………. zł (słownie: …………………………………………………………….….) na częściowe zrekompensowanie wynagrodzenia z tytułu obniżenia wymiaru czasu pracy ……. (podać liczbę) pracownikom;
+- **3)** środki w wysokości do ……… zł (słownie: ………………………………………………………..) na opłacenie składek na ubezpieczenia społeczne pracowników należnych od pracodawcy na podstawie przepisów o systemie ubezpieczeń społecznych od przyznanych świadczeń, zwane dalej „środkami”.
+
 2. Środki przysługują za …… (podać liczbę) miesięcy, w okresie od ………….……. do ………….…….
+
 3. Przedsiębiorca zobowiązuje się do złożenia marszałkowi województwa:
-1) harmonogramu miesięcznych wypłat świadczeń na rzecz ochrony miejsc pracy oraz środków na opłacenie składek na ubezpieczenia społeczne pracowników należnych od pracodawcy niezwłocznie po zawarciu niniejszej umowy;
-2) wykazu pracowników uprawnionych do świadczeń wypłacanych z Funduszu Gwarantowanych Świadczeń Pracowniczych, zwanego dalej „Funduszem”, sporządzanego według wzoru określonego w załączniku nr 3 do rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 29 stycznia 2015 r. w sprawie przyznawania świadczeń na rzecz ochrony miejsc pracy (Dz. U. z 2017 r. poz. 1854), zwanego dalej „wykazem”, za okres od pierwszego dnia, za który świadczenie jest należne, do ostatniego dnia miesiąca oraz co miesiąc do końca każdego miesiąca, za który świadczenie jest należne.
+
+- **1)** harmonogramu miesięcznych wypłat świadczeń na rzecz ochrony miejsc pracy oraz środków na opłacenie składek na ubezpieczenia społeczne pracowników należnych od pracodawcy niezwłocznie po zawarciu niniejszej umowy;
+- **2)** wykazu pracowników uprawnionych do świadczeń wypłacanych z Funduszu Gwarantowanych Świadczeń Pracowniczych, zwanego dalej „Funduszem”, sporządzanego według wzoru określonego w załączniku nr 3 do rozporządzenia Ministra Pracy i Polityki Społecznej z dnia 29 stycznia 2015 r. w sprawie przyznawania świadczeń na rzecz ochrony miejsc pracy (Dz. U. z 2017 r. poz. 1854), zwanego dalej „wykazem”, za okres od pierwszego dnia, za który świadczenie jest należne, do ostatniego dnia miesiąca oraz co miesiąc do końca każdego miesiąca, za który świadczenie jest należne.
+
 4. Środki są przekazywane przez marszałka województwa na rachunek Przedsiębiorcy nr …………………………………………………, w kwocie wynikającej z każdorazowo zatwierdzanego miesięcznego wykazu.
-§ 2.
+
+**§ 2.**
+
 1. Przedsiębiorca, niezwłocznie po otrzymaniu środków Funduszu, zobowiązuje się wypłacić świadczenia uprawnionym pracownikom po dokonaniu potrąceń zgodnie z art. 12 ust. 1 ustawy.
+
 2. Przedsiębiorca po dokonaniu potrąceń zobowiązuje się do odprowadzania należnych składek na ubezpieczenia społeczne, ubezpieczenie zdrowotne, Fundusz i Fundusz Pracy oraz zaliczek na podatek dochodowy od osób fizycznych zgodnie z obowiązującymi przepisami.
+
 3. Przedsiębiorca, nie później niż w terminie 30 dni od dnia otrzymania środków Funduszu, zobowiązuje się:
-1) zwrócić na rachunek Funduszu, z którego otrzymał środki, różnicę między kwotą środków otrzymanych na wypłatę świadczeń i na opłacenie składek na ubezpieczenia społeczne a kwotą środków wydatkowanych na te cele;
-2) przekazać marszałkowi województwa wykaz zawierający potwierdzenia, własnoręcznym podpisem, otrzymania świadczeń przez uprawnionych pracowników lub przekazać poświadczone kopie potwierdzeń wypłaty świadczeń przekazem pocztowym lub przelewem.
-§ 3.
+
+- **1)** zwrócić na rachunek Funduszu, z którego otrzymał środki, różnicę między kwotą środków otrzymanych na wypłatę świadczeń i na opłacenie składek na ubezpieczenia społeczne a kwotą środków wydatkowanych na te cele;
+- **2)** przekazać marszałkowi województwa wykaz zawierający potwierdzenia, własnoręcznym podpisem, otrzymania świadczeń przez uprawnionych pracowników lub przekazać poświadczone kopie potwierdzeń wypłaty świadczeń przekazem pocztowym lub przelewem.
+
+**§ 3.**
+
 1. Przedsiębiorca zobowiązuje się, że nie wypowie umowy o pracę z przyczyn niedotyczących pracownika w okresie lub w okresach pobierania przez pracownika świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1 ustawy, oraz w okresie lub w okresach przypadających bezpośrednio po okresie lub okresach pobierania tych świadczeń, nie dłużej jednak niż przez łączny okres 3 miesięcy.
+
 2. Przedsiębiorca jest zobowiązany do:
-1) składania co miesiąc do marszałka województwa, w terminie do dnia …….. każdego miesiąca, oświadczenia o niedokonaniu wypowiedzenia pracownikom umów o pracę z przyczyn niedotyczących pracowników w okresie pobierania przez nich świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1 ustawy, oraz w okresie lub w okresach przypadających bezpośrednio po okresie lub okresach pobierania tych świadczeń, nie dłużej jednak niż przez łączny okres 3 miesięcy;
-2) niezwłocznego przedstawienia, na wezwanie marszałka województwa, dokumentów potwierdzających pozostawanie w stosunku pracy pracowników umieszczonych w wykazie, w przypadku powzięcia wiadomości o naruszeniu warunków umowy;
-3) powiadamiania marszałka województwa na piśmie o każdej zmianie okoliczności mających wpływ na wysokość wypłacanych świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1 ustawy, w terminie 7 dni roboczych od dnia uzyskania informacji o jej wystąpieniu.
-§ 4.
-Marszałek województwa ma prawo przeprowadzić kontrolę u Przedsiębiorcy na zasadach określonych w art. 14 ust. 3 ustawy.
-§ 5.
-W przypadku niewywiązania się z postanowień zawartych w umowie albo odmowy poddania się kontroli określonej w art. 14 ust. 3 ustawy, Przedsiębiorca zobowiązany jest do zwrotu na rachunek bankowy marszałka województwa, z którego otrzymał środki, całości otrzymanej pomocy wraz z odsetkami równymi stopie referencyjnej obliczanej zgodnie z metodologią określoną w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6), naliczonymi od dnia następującego po dniu przekazania przez marszałka województwa środków na wypłatę świadczeń na rachunek Przedsiębiorcy, w terminie 14 dni od dnia doręczenia wezwania do zwrotu środków wypłaconych przez marszałka województwa.
-§ 6.
-Przedsiębiorca zobowiązuje się do natychmiastowego zwrotu na rachunek bankowy marszałka województwa, z którego otrzymał środki, kwoty pomocy wykorzystanej niezgodnie z przeznaczeniem określonym w § 1, wraz z odsetkami równymi stopie referencyjnej obliczanej zgodnie z metodologią określoną w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych, naliczonymi od dnia następującego po dniu przekazania przez marszałka województwa środków na wypłatę świadczeń na rachunek Przedsiębiorcy.
-§ 7.
-Wszelkie zmiany i uzupełnienia umowy wymagają formy pisemnej pod rygorem nieważności w drodze aneksu do umowy, podpisanego przez Strony.
-§ 8.
-W sprawach, których nie reguluje umowa, mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459, z późn. zm.) oraz ustawy.
-§ 9.
-Wszelkie spory powstałe w wyniku realizacji umowy Strony zobowiązują się rozwiązywać polubownie, a w sytuacji gdy nie będzie to możliwe, Strony poddadzą spór rozpoznaniu przez sąd właściwy miejscowo dla siedziby marszałka województwa.
-§ 10.
-Wszelką korespondencję związaną z realizacją umowy Przedsiębiorca kieruje na adres: …………………………………………………………………………………………………..
-…………………………………………………………………………………………………..
-…………………………………………………………………………………………………..
-§ 11.
-Umowa została sporządzona w dwóch jednobrzmiących egzemplarzach, po jednym dla marszałka województwa i Przedsiębiorcy.
-.......................................................................... ..........................................................................
+
+- **1)** składania co miesiąc do marszałka województwa, w terminie do dnia …….. każdego miesiąca, oświadczenia o niedokonaniu wypowiedzenia pracownikom umów o pracę z przyczyn niedotyczących pracowników w okresie pobierania przez nich świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1 ustawy, oraz w okresie lub w okresach przypadających bezpośrednio po okresie lub okresach pobierania tych świadczeń, nie dłużej jednak niż przez łączny okres 3 miesięcy;
+- **2)** niezwłocznego przedstawienia, na wezwanie marszałka województwa, dokumentów potwierdzających pozostawanie w stosunku pracy pracowników umieszczonych w wykazie, w przypadku powzięcia wiadomości o naruszeniu warunków umowy;
+- **3)** powiadamiania marszałka województwa na piśmie o każdej zmianie okoliczności mających wpływ na wysokość wypłacanych świadczeń, o których mowa w art. 5 ust. 1 pkt 1 i ust. 2 pkt 1 ustawy, w terminie 7 dni roboczych od dnia uzyskania informacji o jej wystąpieniu.
+
+**§ 4.** Marszałek województwa ma prawo przeprowadzić kontrolę u Przedsiębiorcy na zasadach określonych w art. 14 ust. 3 ustawy.
+
+**§ 5.** W przypadku niewywiązania się z postanowień zawartych w umowie albo odmowy poddania się kontroli określonej w art. 14 ust. 3 ustawy, Przedsiębiorca zobowiązany jest do zwrotu na rachunek bankowy marszałka województwa, z którego otrzymał środki, całości otrzymanej pomocy wraz z odsetkami równymi stopie referencyjnej obliczanej zgodnie z metodologią określoną w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych (Dz. Urz. UE C 14 z 19.01.2008, str. 6), naliczonymi od dnia następującego po dniu przekazania przez marszałka województwa środków na wypłatę świadczeń na rachunek Przedsiębiorcy, w terminie 14 dni od dnia doręczenia wezwania do zwrotu środków wypłaconych przez marszałka województwa.
+
+**§ 6.** Przedsiębiorca zobowiązuje się do natychmiastowego zwrotu na rachunek bankowy marszałka województwa, z którego otrzymał środki, kwoty pomocy wykorzystanej niezgodnie z przeznaczeniem określonym w § 1, wraz z odsetkami równymi stopie referencyjnej obliczanej zgodnie z metodologią określoną w komunikacie Komisji w sprawie zmiany metody ustalania stóp referencyjnych i dyskontowych, naliczonymi od dnia następującego po dniu przekazania przez marszałka województwa środków na wypłatę świadczeń na rachunek Przedsiębiorcy.
+
+**§ 7.** Wszelkie zmiany i uzupełnienia umowy wymagają formy pisemnej pod rygorem nieważności w drodze aneksu do umowy, podpisanego przez Strony.
+
+**§ 8.** W sprawach, których nie reguluje umowa, mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459, z późn. zm.) oraz ustawy.
+
+**§ 9.** Wszelkie spory powstałe w wyniku realizacji umowy Strony zobowiązują się rozwiązywać polubownie, a w sytuacji gdy nie będzie to możliwe, Strony poddadzą spór rozpoznaniu przez sąd właściwy miejscowo dla siedziby marszałka województwa.
+
+**§ 10.** Wszelką korespondencję związaną z realizacją umowy Przedsiębiorca kieruje na adres: ………………………………………………………………………………………………….. ………………………………………………………………………………………………….. …………………………………………………………………………………………………..
+
+**§ 11.** Umowa została sporządzona w dwóch jednobrzmiących egzemplarzach, po jednym dla marszałka województwa i Przedsiębiorcy. .......................................................................... ..........................................................................
 

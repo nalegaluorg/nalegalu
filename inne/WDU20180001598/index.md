@@ -27,43 +27,58 @@ source: pdf
 
 w sprawie Rejestru Medycznie Wspomaganej Prokreacji Na podstawie art. 20 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U.
 z 2017 r. poz. 1845 oraz z 2018 r. poz. 697, 1515 i 1544) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) podmiot prowadzący Rejestr Medycznie Wspomaganej Prokreacji, zwany dalej „rejestrem”, oraz sposób jego prowadzenia;
-2) usługodawców obowiązanych do przekazywania danych do rejestru;
-3) sposób i termin przekazywania danych przez usługodawców do rejestru;
-4) zakres i rodzaj danych przetwarzanych w rejestrze spośród danych określonych w art. 4 ust. 3 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zwanej dalej „ustawą”;
-5) rodzaje identyfikatorów przetwarzanych w rejestrze spośród identyfikatorów określonych w art. 17c ust. 2–5 ustawy.
-§ 2. 1. Podmiotem prowadzącym rejestr utworzony rozporządzeniem Ministra Zdrowia z dnia 14 czerwca 2013 r.
-w sprawie Rejestru Medycznie Wspomaganej Prokreacji (Dz. U. poz. 721) jest minister właściwy do spraw zdrowia.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** podmiot prowadzący Rejestr Medycznie Wspomaganej Prokreacji, zwany dalej „rejestrem”, oraz sposób jego prowadzenia;
+- **2)** usługodawców obowiązanych do przekazywania danych do rejestru;
+- **3)** sposób i termin przekazywania danych przez usługodawców do rejestru;
+- **4)** zakres i rodzaj danych przetwarzanych w rejestrze spośród danych określonych w art. 4 ust. 3 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zwanej dalej „ustawą”;
+- **5)** rodzaje identyfikatorów przetwarzanych w rejestrze spośród identyfikatorów określonych w art. 17c ust. 2–5 ustawy.
+
+**§ 2.**
+
+1. Podmiotem prowadzącym rejestr utworzony rozporządzeniem Ministra Zdrowia z dnia 14 czerwca 2013 r. w sprawie Rejestru Medycznie Wspomaganej Prokreacji (Dz. U. poz. 721) jest minister właściwy do spraw zdrowia.
+
 2. Rejestr jest prowadzony z wykorzystaniem systemu teleinformatycznego.
-§ 3. Do przekazywania danych do rejestru są obowiązane podmioty wykonujące zadania związane z realizacją programu polityki zdrowotnej ministra właściwego do spraw zdrowia pod nazwą „Program – Leczenie Niepłodności Metodą Zapłodnienia Pozaustrojowego na lata 2013–2016”, zwanego dalej „programem”, na podstawie umowy zawartej z ministrem właściwym do spraw zdrowia.
-§ 4. 1. Dane, o których mowa w § 5 pkt 3 lit. a–j, są przekazywane do rejestru w postaci elektronicznej niezwłocznie po ich uzyskaniu.
+
+**§ 3.** Do przekazywania danych do rejestru są obowiązane podmioty wykonujące zadania związane z realizacją programu polityki zdrowotnej ministra właściwego do spraw zdrowia pod nazwą „Program – Leczenie Niepłodności Metodą Zapłodnienia Pozaustrojowego na lata 2013–2016”, zwanego dalej „programem”, na podstawie umowy zawartej z ministrem właściwym do spraw zdrowia.
+
+**§ 4.**
+
+1. Dane, o których mowa w § 5 pkt 3 lit. a–j, są przekazywane do rejestru w postaci elektronicznej niezwłocznie po ich uzyskaniu.
+
 2. Dane, o których mowa w § 5 pkt 3 lit. k–o, są przekazywane do rejestru nie później niż w terminie 14 dni od dnia uzyskania informacji przez usługodawcę.
-§ 5. W rejestrze przetwarza się dane i identyfikatory obejmujące:
-1) identyfikator usługodawcy udzielającego świadczeń opieki zdrowotnej w zakresie leczenia niepłodności w ramach programu, o którym mowa w art. 17c ust. 3 pkt 1 ustawy;
-2) dane osobowe dotyczące usługobiorcy:
-a) numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL, numer paszportu albo innego dokumentu stwierdzającego tożsamość,
-b) płeć,
-c) data urodzenia – w przypadku kobiet;
-3) jednostkowe dane medyczne dotyczące usługobiorcy:
-a) data zgłoszenia do programu,
-b) data zakwalifikowania do programu,
-c) data rezygnacji z programu,
-d) kryteria zakwalifikowania do programu lub kryteria wykluczenia z programu,
-e) informacja o przyczynie niepłodności,
-f) liczba i rodzaj badań wykonanych w ramach programu,
-g) liczba i jakość pobranych w ramach programu gamet,
-h) zastosowana w ramach programu procedura medycznie wspomaganej prokreacji (jej rodzaj, sposób przeprowadzania i przebieg),
-i) liczba i charakterystyka utworzonych, przeniesionych do organizmu biorczyni i przechowywanych w ramach programu zarodków,
-j) informacja o powikłaniach wynikających z przeprowadzonej w ramach programu procedury medycznie wspomaganej prokreacji,
-k) liczba ciąż powstałych w wyniku przeprowadzonej w ramach programu procedury medycznie wspomaganej prokreacji,
-l) informacja o przebiegu ciąży powstałej w wyniku przeprowadzonej w ramach programu procedury medycznie wspomaganej prokreacji,
-m) informacja o zakończeniu ciąży powstałej w wyniku przeprowadzonej w ramach programu procedury medycznie wspomaganej prokreacji,
-n) informacja o dacie narodzin dziecka urodzonego w wyniku przeprowadzonej w ramach programu procedury medycznie wspomaganej prokreacji,
-o) informacja o płci i stanie zdrowia dziecka urodzonego w wyniku przeprowadzonej w ramach programu procedury medycznie wspomaganej prokreacji, do zakończenia okresu noworodkowego;
-4) identyfikator miejsca udzielania świadczenia opieki zdrowotnej, o którym mowa w art. 17c ust. 4 pkt 1 ustawy;
-5) identyfikator pracownika medycznego wprowadzającego dane do rejestru, o którym mowa w art. 17c ust. 5 ustawy.
-§ 6. Dane przekazane do ministra właściwego do spraw zdrowia w okresie od dnia 1 stycznia 2018 r. do dnia wejścia w życie niniejszego rozporządzenia zgodnie z wymaganiami określonymi w rozporządzeniu Ministra Zdrowia z dnia 7 marca 2016 r. w sprawie Rejestru Medycznie Wspomaganej Prokreacji (Dz. U. poz. 316) uważa się za przekazane w sposób zgodny z wymaganiami niniejszego rozporządzenia.
-§ 7. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. J. Szczurek-Żelazko
+
+**§ 5.** W rejestrze przetwarza się dane i identyfikatory obejmujące:
+
+- **1)** identyfikator usługodawcy udzielającego świadczeń opieki zdrowotnej w zakresie leczenia niepłodności w ramach programu, o którym mowa w art. 17c ust. 3 pkt 1 ustawy;
+- **2)** dane osobowe dotyczące usługobiorcy:
+    - **a)** numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL, numer paszportu albo innego dokumentu stwierdzającego tożsamość,
+    - **b)** płeć,
+    - **c)** data urodzenia – w przypadku kobiet;
+
+- **3)** jednostkowe dane medyczne dotyczące usługobiorcy:
+    - **a)** data zgłoszenia do programu,
+    - **b)** data zakwalifikowania do programu,
+    - **c)** data rezygnacji z programu,
+    - **d)** kryteria zakwalifikowania do programu lub kryteria wykluczenia z programu,
+    - **e)** informacja o przyczynie niepłodności,
+    - **f)** liczba i rodzaj badań wykonanych w ramach programu,
+    - **g)** liczba i jakość pobranych w ramach programu gamet,
+    - **h)** zastosowana w ramach programu procedura medycznie wspomaganej prokreacji (jej rodzaj, sposób przeprowadzania i przebieg),
+    - **i)** liczba i charakterystyka utworzonych, przeniesionych do organizmu biorczyni i przechowywanych w ramach programu zarodków,
+    - **j)** informacja o powikłaniach wynikających z przeprowadzonej w ramach programu procedury medycznie wspomaganej prokreacji,
+    - **k)** liczba ciąż powstałych w wyniku przeprowadzonej w ramach programu procedury medycznie wspomaganej prokreacji,
+    - **l)** informacja o przebiegu ciąży powstałej w wyniku przeprowadzonej w ramach programu procedury medycznie wspomaganej prokreacji,
+    - **m)** informacja o zakończeniu ciąży powstałej w wyniku przeprowadzonej w ramach programu procedury medycznie wspomaganej prokreacji,
+    - **n)** informacja o dacie narodzin dziecka urodzonego w wyniku przeprowadzonej w ramach programu procedury medycznie wspomaganej prokreacji,
+    - **o)** informacja o płci i stanie zdrowia dziecka urodzonego w wyniku przeprowadzonej w ramach programu procedury medycznie wspomaganej prokreacji, do zakończenia okresu noworodkowego;
+
+- **4)** identyfikator miejsca udzielania świadczenia opieki zdrowotnej, o którym mowa w art. 17c ust. 4 pkt 1 ustawy;
+- **5)** identyfikator pracownika medycznego wprowadzającego dane do rejestru, o którym mowa w art. 17c ust. 5 ustawy.
+
+**§ 6.** Dane przekazane do ministra właściwego do spraw zdrowia w okresie od dnia 1 stycznia 2018 r. do dnia wejścia w życie niniejszego rozporządzenia zgodnie z wymaganiami określonymi w rozporządzeniu Ministra Zdrowia z dnia 7 marca 2016 r. w sprawie Rejestru Medycznie Wspomaganej Prokreacji (Dz. U. poz. 316) uważa się za przekazane w sposób zgodny z wymaganiami niniejszego rozporządzenia.
+
+**§ 7.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: wz. J. Szczurek-Żelazko
 

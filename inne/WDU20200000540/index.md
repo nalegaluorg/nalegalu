@@ -26,12 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000540) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/540/text.pdf) |
 
 zmieniające rozporządzenie w sprawie narodowego zasobu bibliotecznego Na podstawie art. 6 ust. 3 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2019 r. poz. 1479) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 4 lipca 2012 r. w sprawie narodowego zasobu bibliotecznego (Dz. U. z 2017 r. poz. 1948) w załączniku dodaje się poz. 1013 w brzmieniu: „10) Wojewódzka Biblioteka Publiczna im. Hieronima Łopacińskiego w Lublinie
-11) Biblioteka Uniwersytecka w Toruniu
-12) Wojewódzka Biblioteka Publiczna  Książnica Kopernikańska w Toruniu
-13) Biblioteka Uniwersytecka Katolickiego Uniwersytetu Lubelskiego Jana Pawła II”.
-§ 2. Biblioteki, o których mowa w § 1, dokonają czynności, o których mowa w § 46 rozporządzenia zmienianego w § 1, w terminie do dnia 31 grudnia 2024 r.
-§ 3. Biblioteki, o których mowa w § 1, dokonają czynności, o których mowa w § 7 ust. 1 i § 8 rozporządzenia zmienianego w § 1, w terminie roku od dnia wejścia w życie niniejszego rozporządzenia.
-§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 4 lipca 2012 r. w sprawie narodowego zasobu bibliotecznego (Dz. U. z 2017 r. poz. 1948) w załączniku dodaje się poz. 1013 w brzmieniu: „10) Wojewódzka Biblioteka Publiczna im. Hieronima Łopacińskiego w Lublinie 11) Biblioteka Uniwersytecka w Toruniu 12) Wojewódzka Biblioteka Publiczna  Książnica Kopernikańska w Toruniu 13) Biblioteka Uniwersytecka Katolickiego Uniwersytetu Lubelskiego Jana Pawła II”.
+
+**§ 2.** Biblioteki, o których mowa w § 1, dokonają czynności, o których mowa w § 46 rozporządzenia zmienianego w § 1, w terminie do dnia 31 grudnia 2024 r.
+
+**§ 3.** Biblioteki, o których mowa w § 1, dokonają czynności, o których mowa w § 7 ust. 1 i § 8 rozporządzenia zmienianego w § 1, w terminie roku od dnia wejścia w życie niniejszego rozporządzenia.
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

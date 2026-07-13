@@ -8,7 +8,7 @@ pos: 294
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
 # Ustawa z dnia 17 marca 1931 r. w sprawie przystąpienia Polski do traktatu, dotyczącego Spitsbergu, podpisanego w Paryżu dnia 9 lutego 1920 r.

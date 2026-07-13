@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000999) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/999/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowego zakresu działania Ministra Przemysłu Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2022 r. poz. 1188, z 2023 r. poz. 1195, 1234 i 1641 oraz z 2024 r. poz. 834) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Przemysłu (Dz. U. poz. 2727 oraz z 2024 r. poz. 289) w § 1 w ust. 2 wyrazy „złożami kopalin” zastępuje się wyrazami „surowcami energetycznymi”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2024 r.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Przemysłu (Dz. U. poz. 2727 oraz z 2024 r. poz. 289) w § 1 w ust. 2 wyrazy „złożami kopalin” zastępuje się wyrazami „surowcami energetycznymi”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 lipca 2024 r.
 

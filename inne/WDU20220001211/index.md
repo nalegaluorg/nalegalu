@@ -30,8 +30,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 4 maja 2021 r. zmieniającego rozporządzenie w sprawie wykazu leków dla świadczeniobiorcy posiadającego tytuł „Zasłużonego Honorowego Dawcy Krwi” lub „Zasłużonego Dawcy Przeszczepu” (Dz. U. poz. 883), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: wz. W. Kraska
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 3 lutego 2010 r.
 w sprawie wykazu leków dla świadczeniobiorcy posiadającego tytuł „Zasłużonego Honorowego Dawcy Krwi” lub „Zasłużonego Dawcy Przeszczepu” Na podstawie art. 43 ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm. ) zarządza się, co następuje:
-§ 1. Ustala się wykaz leków, które świadczeniobiorca posiadający tytuł „Zasłużonego Honorowego Dawcy Krwi” lub „Zasłużonego Dawcy Przeszczepu” może stosować w związku z oddawaniem krwi lub w związku z oddawaniem szpiku lub innych regenerujących się komórek i tkanek albo narządów, stanowiący załącznik do rozporządzenia.
-§ 2. Traci moc rozporządzenie Ministra Zdrowia z dnia 20 czerwca 2008 r. w sprawie wykazu leków dla świadczeniobiorcy posiadającego tytuł „Zasłużonego Honorowego Dawcy Krwi” lub „Zasłużonego Dawcy Przeszczepu” (Dz. U.
-poz. 761).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Ustala się wykaz leków, które świadczeniobiorca posiadający tytuł „Zasłużonego Honorowego Dawcy Krwi” lub „Zasłużonego Dawcy Przeszczepu” może stosować w związku z oddawaniem krwi lub w związku z oddawaniem szpiku lub innych regenerujących się komórek i tkanek albo narządów, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Traci moc rozporządzenie Ministra Zdrowia z dnia 20 czerwca 2008 r. w sprawie wykazu leków dla świadczeniobiorcy posiadającego tytuł „Zasłużonego Honorowego Dawcy Krwi” lub „Zasłużonego Dawcy Przeszczepu” (Dz. U. poz. 761).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

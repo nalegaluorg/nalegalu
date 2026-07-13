@@ -30,13 +30,6 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie wprowadzenia do stosowania Specyfikacji EUROCONTROL dotyczącej ujednoliconych zasad dla operacyjnego ruchu lotniczego (OAT) zgodnie z przepisami dla lotów wg wskazań przyrządów (IFR) w przestrzeni powietrznej kontrolowanej ECAC (EUROAT) (Dz. U. poz. 1546), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Infrastruktury: D. Klimczak
 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 28 czerwca 2019 r.
 w sprawie wprowadzenia do stosowania Specyfikacji EUROCONTROL dotyczącej ujednoliconych zasad dla operacyjnego ruchu lotniczego (OAT) zgodnie z przepisami dla lotów wg wskazań przyrządów (IFR) w przestrzeni powietrznej kontrolowanej ECAC (EUROAT) Na podstawie art. 3 ust. 4 pkt 3 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110) zarządza się, co następuje:
-§ 1. 1. Wprowadza się do stosowania wymagania międzynarodowe ustanowione przez Europejską Organizację do Spraw Bezpieczeństwa Żeglugi Powietrznej (EUROCONTROL) – Specyfikację EUROCONTROL dotyczącą ujednoliconych zasad dla operacyjnego ruchu lotniczego (OAT) zgodnie z przepisami dla lotów wg wskazań przyrządów (IFR) w przestrzeni powietrznej kontrolowanej ECAC (EUROAT), z wyjątkiem pkt 2.3.4.1 i 2.3.4.2, w tym rozdział krajowy, zwane dalej „Specyfikacją”, ogłoszone w załączniku do obwieszczenia nr 15/2023 Prezesa Urzędu Lotnictwa Cywilnego z dnia 6 czerwca 2023 r. w sprawie ogłoszenia tekstu Specyfikacji EUROCONTROL dotyczącej ujednoliconych zasad dla operacyjnego ruchu lotniczego (OAT) zgodnie z przepisami dla lotów wg wskazań przyrządów (IFR) w przestrzeni powietrznej kontrolowanej ECAC (EUROAT) (Dz. Urz. ULC poz. 44) (w brzmieniu z dnia 6 czerwca 2023 r.).
-2. Rozdział krajowy stanowi załącznik do rozporządzenia.
-§ 2. 1. Kompetencje władz krajowych, o których mowa w pkt 1.3.4 ppkt iii Specyfikacji, wykonuje Prezes Urzędu Lotnictwa Cywilnego.
-2. Kompetencje właściwej władzy krajowej, o której mowa w pkt 2.3.1.3 Specyfikacji, wykonuje Polska Agencja Żeglugi Powietrznej.
-3. Przez właściwą władzę, o której mowa w pkt 2.7.1.2 Specyfikacji, rozumie się właściwego dowódcę, w przyporządkowaniu którego znajdują się statki powietrzne, oraz Komisję Badania Wypadków Lotniczych Lotnictwa Państwowego.
-4. Przez właściwe władze, o których mowa w pkt 3.6.1.1 Specyfikacji, rozumie się Prezesa Urzędu Lotnictwa Cywilnego lub Państwową Komisję Badania Wypadków Lotniczych.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 1) rozporządzeniu Komisji (UE) nr 1332/2011 – należy przez to rozumieć rozporządzenie Komisji (UE) nr 1332/2011 z dnia 16 grudnia 2011 r. ustanawiające wspólne wymogi korzystania z przestrzeni powietrznej i procedury operacyjne w celu zapobiegania kolizjom w powietrzu (Dz. Urz. UE L 336 z 20.12.2011, str. 20, z późn. zm. );
 2) rozporządzeniu wykonawczym Komisji (UE) nr 923/2012 – należy przez to rozumieć rozporządzenie wykonawcze Komisji (UE) nr 923/2012 z dnia 26 września 2012 r. ustanawiające wspólne zasady w odniesieniu do przepisów lotniczych i operacyjnych dotyczących służb i procedur żeglugi powietrznej oraz zmieniające rozporządzenie wykonawcze (WE) nr 1035/2011 oraz rozporządzenia (WE) nr 1265/2007, (WE) nr 1794/2006, (WE) nr 730/2006, (WE) nr 1033/2006 i (UE) nr 255/2010 (Dz. Urz. UE L 281 z 13.10.2012, str. 1, z późn. zm. ).
 II. Rozdział krajowy
@@ -129,6 +122,24 @@ vi. (_ . . _) Kod Morse’a litera X (Morse code letter X) – wskazuje dodatkow
 3.3.1.3. Służby ruchu lotniczego dla ruchu OAT w obszarze kontrolowanym FIR EPWW są zapewniane przez właściwe organy ATC w określonych przestrzeniach, które podlegają publikacji w AIP Polska.
 3.4.2. Formacja standardowa
 3.4.2.4.1. Loty grupowe w przestrzeni RVSM są traktowane jako non RVSM.
+
+**§ 1.**
+
+1. Wprowadza się do stosowania wymagania międzynarodowe ustanowione przez Europejską Organizację do Spraw Bezpieczeństwa Żeglugi Powietrznej (EUROCONTROL) – Specyfikację EUROCONTROL dotyczącą ujednoliconych zasad dla operacyjnego ruchu lotniczego (OAT) zgodnie z przepisami dla lotów wg wskazań przyrządów (IFR) w przestrzeni powietrznej kontrolowanej ECAC (EUROAT), z wyjątkiem pkt 2.3.4.1 i 2.3.4.2, w tym rozdział krajowy, zwane dalej „Specyfikacją”, ogłoszone w załączniku do obwieszczenia nr 15/2023 Prezesa Urzędu Lotnictwa Cywilnego z dnia 6 czerwca 2023 r. w sprawie ogłoszenia tekstu Specyfikacji EUROCONTROL dotyczącej ujednoliconych zasad dla operacyjnego ruchu lotniczego (OAT) zgodnie z przepisami dla lotów wg wskazań przyrządów (IFR) w przestrzeni powietrznej kontrolowanej ECAC (EUROAT) (Dz. Urz. ULC poz. 44) (w brzmieniu z dnia 6 czerwca 2023 r.).
+
+2. Rozdział krajowy stanowi załącznik do rozporządzenia.
+
+**§ 2.**
+
+1. Kompetencje władz krajowych, o których mowa w pkt 1.3.4 ppkt iii Specyfikacji, wykonuje Prezes Urzędu Lotnictwa Cywilnego.
+
+2. Kompetencje właściwej władzy krajowej, o której mowa w pkt 2.3.1.3 Specyfikacji, wykonuje Polska Agencja Żeglugi Powietrznej.
+
+3. Przez właściwą władzę, o której mowa w pkt 2.7.1.2 Specyfikacji, rozumie się właściwego dowódcę, w przyporządkowaniu którego znajdują się statki powietrzne, oraz Komisję Badania Wypadków Lotniczych Lotnictwa Państwowego.
+
+4. Przez właściwe władze, o których mowa w pkt 3.6.1.1 Specyfikacji, rozumie się Prezesa Urzędu Lotnictwa Cywilnego lub Państwową Komisję Badania Wypadków Lotniczych.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 
 #### ROZDZIAŁ KRAJOWY I. Wyjaśnienie skrótów Ilekroć w załączniku jest mowa o:
 

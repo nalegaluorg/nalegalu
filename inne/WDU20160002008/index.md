@@ -26,18 +26,25 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002008) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2008/text.pdf) |
 
 w sprawie wymagań jakościowych dotyczących zawartości siarki dla olejów oraz rodzajów instalacji i warunków, w których będą stosowane ciężkie oleje opałowe Na podstawie art. 5 ust. 2 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2016 r. poz. 1928 i 1948) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wymagania jakościowe dotyczące zawartości siarki dla lekkiego oleju opałowego, ciężkiego oleju opałowego oraz oleju do silników statków żeglugi śródlądowej;
-2) rodzaje instalacji i warunki, w których będą stosowane ciężkie oleje opałowe, które nie muszą spełniać wymagań jakościowych w zakresie zawartości siarki.
-§ 2. Zawartość siarki w przeliczeniu na masę w:
-1) lekkim oleju opałowym nie może być większa niż 0,1%;
-2) ciężkim oleju opałowym nie może być większa niż 1%;
-3) oleju do silników statków żeglugi śródlądowej nie może być większa niż 0,002%.
-§ 3. Instalacjami, w których będą stosowane ciężkie oleje opałowe, które nie muszą spełniać wymagań jakościowych w zakresie zawartości siarki, są instalacje energetycznego spalania:
-1) do których stosuje się przepisy wydane na podstawie art. 146 ust. 3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2016 r. poz. 672, z późn. zm. ) i które spełniają określone w tych przepisach standardy emisyjne dwutlenku siarki;
-2) do których nie stosuje się przepisów wydanych na podstawie art. 146 ust. 3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska i dla których wartości stężeń SO w gazach odlotowych nie przekraczają 1700 mg/m przy zawartości tlenu w gazach odlotowych wynoszącej 3% na jednostkę objętości tych gazów w stanie suchym;
-3) w rafineriach, dla których średnia miesięczna wartość stężenia dwutlenku siarki w gazach odlotowych, uśredniona dla wszystkich tych instalacji w danej rafinerii, niezależnie od wykorzystywanego rodzaju paliwa lub mieszanki paliw, nie przekracza 1700 mg/m przy zawartości tlenu w gazach odlotowych wynoszącej 3% na jednostkę objętości tych gazów w stanie suchym; uśrednianie to nie obejmuje instalacji, o których mowa w pkt 1 i 2; uśredniając średnie miesięczne wartości stężenia dwutlenku siarki w gazach odlotowych dla wszystkich tych instalacji w danej rafinerii, uwzględnia się wartość ważoną względem natężenia przepływu objętości gazów odlotowych z poszczególnych instalacji.
-§ 4. Warunkiem stosowania ciężkich olejów opałowych w instalacjach, o których mowa w § 3, jest posiadanie przez prowadzących te instalacje pozwolenia na wprowadzanie gazów lub pyłów do powietrza lub pozwolenia zintegrowanego.
-§ 5. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-Minister Energii: K. Tchórzewski
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wymagania jakościowe dotyczące zawartości siarki dla lekkiego oleju opałowego, ciężkiego oleju opałowego oraz oleju do silników statków żeglugi śródlądowej;
+- **2)** rodzaje instalacji i warunki, w których będą stosowane ciężkie oleje opałowe, które nie muszą spełniać wymagań jakościowych w zakresie zawartości siarki.
+
+**§ 2.** Zawartość siarki w przeliczeniu na masę w:
+
+- **1)** lekkim oleju opałowym nie może być większa niż 0,1%;
+- **2)** ciężkim oleju opałowym nie może być większa niż 1%;
+- **3)** oleju do silników statków żeglugi śródlądowej nie może być większa niż 0,002%.
+
+**§ 3.** Instalacjami, w których będą stosowane ciężkie oleje opałowe, które nie muszą spełniać wymagań jakościowych w zakresie zawartości siarki, są instalacje energetycznego spalania:
+
+- **1)** do których stosuje się przepisy wydane na podstawie art. 146 ust. 3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2016 r. poz. 672, z późn. zm. ) i które spełniają określone w tych przepisach standardy emisyjne dwutlenku siarki;
+- **2)** do których nie stosuje się przepisów wydanych na podstawie art. 146 ust. 3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska i dla których wartości stężeń SO w gazach odlotowych nie przekraczają 1700 mg/m przy zawartości tlenu w gazach odlotowych wynoszącej 3% na jednostkę objętości tych gazów w stanie suchym;
+- **3)** w rafineriach, dla których średnia miesięczna wartość stężenia dwutlenku siarki w gazach odlotowych, uśredniona dla wszystkich tych instalacji w danej rafinerii, niezależnie od wykorzystywanego rodzaju paliwa lub mieszanki paliw, nie przekracza 1700 mg/m przy zawartości tlenu w gazach odlotowych wynoszącej 3% na jednostkę objętości tych gazów w stanie suchym; uśrednianie to nie obejmuje instalacji, o których mowa w pkt 1 i 2; uśredniając średnie miesięczne wartości stężenia dwutlenku siarki w gazach odlotowych dla wszystkich tych instalacji w danej rafinerii, uwzględnia się wartość ważoną względem natężenia przepływu objętości gazów odlotowych z poszczególnych instalacji.
+
+**§ 4.** Warunkiem stosowania ciężkich olejów opałowych w instalacjach, o których mowa w § 3, jest posiadanie przez prowadzących te instalacje pozwolenia na wprowadzanie gazów lub pyłów do powietrza lub pozwolenia zintegrowanego.
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. Minister Energii: K. Tchórzewski
 

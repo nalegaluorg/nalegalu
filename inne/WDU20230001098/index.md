@@ -26,26 +26,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001098) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1098/text.pdf) |
 
 w sprawie wymagań technicznych, warunków przyłączania oraz współpracy mikroinstalacji z systemem elektroenergetycznym Na podstawie art. 9 ust. 4a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2022 r. poz. 1385, z późn. zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa szczegółowe:
-1) wymagania techniczne w zakresie przyłączania mikroinstalacji do sieci oraz warunki jej współpracy z systemem elektroenergetycznym;
-2) warunki przyłączania mikroinstalacji do sieci oraz tryb:
-a) wydawania warunków przyłączania dla tej instalacji,
-b) dokonywania zgłoszenia przyłączenia mikroinstalacji, o którym mowa w art. 7 ust. 8d ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, zwanej dalej „ustawąˮ.
-§ 2. Szczegółowe wymagania techniczne w zakresie przyłączania mikroinstalacji do sieci oraz warunki jej współpracy z systemem elektroenergetycznym i szczegółowe warunki przyłączania mikroinstalacji do sieci określa załącznik nr 1 do rozporządzenia.
-§ 3. 1. Wniosek o określenie warunków przyłączania mikroinstalacji do sieci, zwany dalej „wnioskiem”, sporządza się na piśmie utrwalonym w postaci elektronicznej, opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, albo w postaci papierowej opatrzonej podpisem własnoręcznym i składa się:
-1) z wykorzystaniem środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), w tym elektronicznej skrzynki podawczej w rozumieniu art. 3 pkt 17 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57) lub publicznej usługi rejestrowanego doręczenia elektronicznego na adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych, o której mowa w art. 4 ust. 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285), lub publicznej usługi hybrydowej w rozumieniu art. 2 pkt 7 tej ustawy – w przypadku wniosku sporządzonego na piśmie utrwalonym w postaci elektronicznej albo
-2) za pośrednictwem operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042) lub placówki pocztowej operatora świadczącego pocztowe usługi powszechne w innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, lub osobiście w siedzibie właściwego przedsiębiorstwa energetycznego – w przypadku wniosku sporządzonego na piśmie utrwalonym w postaci papierowej.
-2. Wniosek rozpatruje się w postaci elektronicznej, w przypadku gdy został złożony w sposób określony w ust. 1 pkt 1 lub gdy został złożony w sposób określony w ust. 1 pkt 2 i składający ten wniosek wyraził zgodę na prowadzenie sprawy w postaci elektronicznej.
-3. Do zgłoszenia przyłączenia mikroinstalacji, o którym mowa w art. 7 ust. 8d ustawy, zwanego dalej „zgłoszeniem”, stosuje się przepisy ust. 1.
-§ 4. Wniosek i zgłoszenie składa się zgodnie ze wzorem określonym w załączniku nr 2 do rozporządzenia.
-§ 5. 1. W przypadku gdy złożony wniosek jest niekompletny, nieprawidłowo wypełniony lub nie został złożony zgodnie ze wzorem określonym w załączniku nr 2 do rozporządzenia, przedsiębiorstwo energetyczne w terminie 7 dni od dnia wpływu wniosku wzywa składającego wniosek do jego uzupełnienia lub poprawienia w wyznaczonym terminie, nie krótszym jednak niż 30 dni od dnia doręczenia wezwania. Wezwanie zawiera pouczenie o treści ust. 3.
-2. Nadanie w terminie uzupełnionego lub poprawionego wniosku w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce pocztowej operatora świadczącego pocztowe usługi powszechne w innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym albo wniesienie go za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym jest równoznaczne z wniesieniem go w terminie.
-3. Wniosek nieuzupełniony lub niepoprawiony w terminie wyznaczonym przez przedsiębiorstwo energetyczne pozostawia się bez rozpatrzenia.
-§ 6. 1. Do wniosków złożonych przed dniem wejścia w życie rozporządzenia, w stosunku do których nie zostały wydane warunki przyłączenia do sieci, oraz do zgłoszeń dokonanych przed dniem wejścia w życie rozporządzenia, w stosunku do których nie dokonano przyłączenia mikroinstalacji do sieci ani nie została wydana odmowa przyłączenia do sieci, stosuje się przepisy rozporządzenia.
-2. Przedsiębiorstwo energetyczne w terminie 14 dni od dnia wejścia w życie rozporządzenia wyznacza podmiotom ubiegającym się o przyłączenie mikroinstalacji do sieci termin na dostosowanie wniosków oraz zgłoszeń do wymagań rozporządzenia nie krótszy niż 7 dni i nie dłuższy niż 30 dni, licząc od dnia doręczenia wezwania.
-3. Wnioski oraz zgłoszenia, które nie zostały dostosowane w terminie, o którym mowa w ust. 2, pozostawia się bez rozpatrzenia.
-§ 7. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa SZCZEGÓŁOWE WYMAGANIA TECHNICZNE W ZAKRESIE PRZYŁĄCZANIA MIKROINSTALACJI DO SIECI ORAZ WARUNKI JEJ WSPÓŁPRACY Z SYSTEMEM ELEKTROENERGETYCZNYM I SZCZEGÓŁOWE WARUNKI PRZYŁĄCZANIA MIKROINSTALACJI DO SIECI
 1. Mikroinstalacja przyłączana do sieci elektroenergetycznej, w zależności od częstotliwości w sieci, umożliwia w zakresie częstotliwości:
 1) od 49 Hz do 51 Hz – pracę ciągłą z maksymalną mocą czynną osiągalną dla danych warunków środowiskowych (na przykład nasłonecznienie, siła wiatru);
 2) od 47,5 Hz do 49 Hz oraz od 51 Hz do 51,5 Hz – pracę ciągłą w czasie co najmniej 30 minut.
@@ -142,6 +122,46 @@ WZÓR WNIOSEK O OKREŚLENIE WARUNKÓW PRZYŁĄCZANIA MIKROINSTALACJI DO SIECI / 
 Objaśnienia: * Należy skreślić niewłaściwe.
 ** Należy wstawić znak „x” we właściwe pole.
 *** Podanie wskazanych danych jest dobrowolne; podane dane będą wykorzystywane wyłącznie do celów postępowania prowadzonego w ramach wniosku/zgłoszenia.
+
+**§ 1.** Rozporządzenie określa szczegółowe:
+
+- **1)** wymagania techniczne w zakresie przyłączania mikroinstalacji do sieci oraz warunki jej współpracy z systemem elektroenergetycznym;
+- **2)** warunki przyłączania mikroinstalacji do sieci oraz tryb:
+    - **a)** wydawania warunków przyłączania dla tej instalacji,
+    - **b)** dokonywania zgłoszenia przyłączenia mikroinstalacji, o którym mowa w art. 7 ust. 8d ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, zwanej dalej „ustawąˮ.
+
+**§ 2.** Szczegółowe wymagania techniczne w zakresie przyłączania mikroinstalacji do sieci oraz warunki jej współpracy z systemem elektroenergetycznym i szczegółowe warunki przyłączania mikroinstalacji do sieci określa załącznik nr 1 do rozporządzenia.
+
+**§ 3.**
+
+1. Wniosek o określenie warunków przyłączania mikroinstalacji do sieci, zwany dalej „wnioskiem”, sporządza się na piśmie utrwalonym w postaci elektronicznej, opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, albo w postaci papierowej opatrzonej podpisem własnoręcznym i składa się:
+
+- **1)** z wykorzystaniem środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), w tym elektronicznej skrzynki podawczej w rozumieniu art. 3 pkt 17 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57) lub publicznej usługi rejestrowanego doręczenia elektronicznego na adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych, o której mowa w art. 4 ust. 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285), lub publicznej usługi hybrydowej w rozumieniu art. 2 pkt 7 tej ustawy – w przypadku wniosku sporządzonego na piśmie utrwalonym w postaci elektronicznej albo
+- **2)** za pośrednictwem operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042) lub placówki pocztowej operatora świadczącego pocztowe usługi powszechne w innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, lub osobiście w siedzibie właściwego przedsiębiorstwa energetycznego – w przypadku wniosku sporządzonego na piśmie utrwalonym w postaci papierowej.
+
+2. Wniosek rozpatruje się w postaci elektronicznej, w przypadku gdy został złożony w sposób określony w ust. 1 pkt 1 lub gdy został złożony w sposób określony w ust. 1 pkt 2 i składający ten wniosek wyraził zgodę na prowadzenie sprawy w postaci elektronicznej.
+
+3. Do zgłoszenia przyłączenia mikroinstalacji, o którym mowa w art. 7 ust. 8d ustawy, zwanego dalej „zgłoszeniem”, stosuje się przepisy ust. 1.
+
+**§ 4.** Wniosek i zgłoszenie składa się zgodnie ze wzorem określonym w załączniku nr 2 do rozporządzenia.
+
+**§ 5.**
+
+1. W przypadku gdy złożony wniosek jest niekompletny, nieprawidłowo wypełniony lub nie został złożony zgodnie ze wzorem określonym w załączniku nr 2 do rozporządzenia, przedsiębiorstwo energetyczne w terminie 7 dni od dnia wpływu wniosku wzywa składającego wniosek do jego uzupełnienia lub poprawienia w wyznaczonym terminie, nie krótszym jednak niż 30 dni od dnia doręczenia wezwania. Wezwanie zawiera pouczenie o treści ust. 3.
+
+2. Nadanie w terminie uzupełnionego lub poprawionego wniosku w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce pocztowej operatora świadczącego pocztowe usługi powszechne w innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym albo wniesienie go za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym jest równoznaczne z wniesieniem go w terminie.
+
+3. Wniosek nieuzupełniony lub niepoprawiony w terminie wyznaczonym przez przedsiębiorstwo energetyczne pozostawia się bez rozpatrzenia.
+
+**§ 6.**
+
+1. Do wniosków złożonych przed dniem wejścia w życie rozporządzenia, w stosunku do których nie zostały wydane warunki przyłączenia do sieci, oraz do zgłoszeń dokonanych przed dniem wejścia w życie rozporządzenia, w stosunku do których nie dokonano przyłączenia mikroinstalacji do sieci ani nie została wydana odmowa przyłączenia do sieci, stosuje się przepisy rozporządzenia.
+
+2. Przedsiębiorstwo energetyczne w terminie 14 dni od dnia wejścia w życie rozporządzenia wyznacza podmiotom ubiegającym się o przyłączenie mikroinstalacji do sieci termin na dostosowanie wniosków oraz zgłoszeń do wymagań rozporządzenia nie krótszy niż 7 dni i nie dłuższy niż 30 dni, licząc od dnia doręczenia wezwania.
+
+3. Wnioski oraz zgłoszenia, które nie zostały dostosowane w terminie, o którym mowa w ust. 2, pozostawia się bez rozpatrzenia.
+
+**§ 7.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa SZCZEGÓŁOWE WYMAGANIA TECHNICZNE W ZAKRESIE PRZYŁĄCZANIA MIKROINSTALACJI DO SIECI ORAZ WARUNKI JEJ WSPÓŁPRACY Z SYSTEMEM ELEKTROENERGETYCZNYM I SZCZEGÓŁOWE WARUNKI PRZYŁĄCZANIA MIKROINSTALACJI DO SIECI
 
 #### Rozdział I Szczegółowe wymagania techniczne w zakresie przyłączania mikroinstalacji do sieci oraz warunki jej współpracy z systemem elektroenergetycznym I. Wymagania techniczne w zakresie pracy mikroinstalacji przy zmianach częstotliwości
 

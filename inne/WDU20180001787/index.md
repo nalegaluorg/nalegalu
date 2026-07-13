@@ -27,17 +27,19 @@ source: pdf
 
 w sprawie kryteriów oceny programowej Na podstawie art. 248 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz.
 poz. 1668) zarządza się, co następuje:
-§ 1. Kryteriami oceny programowej są:
-1) sposób konstrukcji programu studiów oraz jego zgodność ze standardem kształcenia;
-2) realizacja programu studiów;
-3) warunki przyjęć na studia i weryfikacji uzyskiwanych efektów uczenia się, w tym na etapie egzaminu dyplomowego;
-4) poziom kompetencji i doświadczenia kadry prowadzącej kształcenie;
-5) dostosowanie infrastruktury wykorzystywanej do realizacji programu studiów do potrzeb i celów kształcenia;
-6) relacje z otoczeniem społeczno-gospodarczym w odniesieniu do programu studiów;
-7) stopień umiędzynarodowienia kształcenia;
-8) jakość wsparcia studentów w procesie uczenia się;
-9) dostępność i jakość informacji o studiach;
-10) sposoby doskonalenia jakości kształcenia i ich skuteczność.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2018 r.
-Minister Nauki i Szkolnictwa Wyższego: J. Gowin
+
+**§ 1.** Kryteriami oceny programowej są:
+
+- **1)** sposób konstrukcji programu studiów oraz jego zgodność ze standardem kształcenia;
+- **2)** realizacja programu studiów;
+- **3)** warunki przyjęć na studia i weryfikacji uzyskiwanych efektów uczenia się, w tym na etapie egzaminu dyplomowego;
+- **4)** poziom kompetencji i doświadczenia kadry prowadzącej kształcenie;
+- **5)** dostosowanie infrastruktury wykorzystywanej do realizacji programu studiów do potrzeb i celów kształcenia;
+- **6)** relacje z otoczeniem społeczno-gospodarczym w odniesieniu do programu studiów;
+- **7)** stopień umiędzynarodowienia kształcenia;
+- **8)** jakość wsparcia studentów w procesie uczenia się;
+- **9)** dostępność i jakość informacji o studiach;
+- **10)** sposoby doskonalenia jakości kształcenia i ich skuteczność.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2018 r. Minister Nauki i Szkolnictwa Wyższego: J. Gowin
 

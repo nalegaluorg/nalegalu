@@ -8,10 +8,10 @@ pos: 1769
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 14 października 2015 r. w sprawie wzoru zawiadomienia o wwiezieniu na terytorium Rzeczypospolitej Polskiej i wzoru zawiadomienia o wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1769 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 14 października 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,27 +25,35 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001769) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1769/text.pdf) |
 
-Treść rozporządzenia
+w sprawie wzoru zawiadomienia o wwiezieniu na terytorium Rzeczypospolitej Polskiej i wzoru zawiadomienia o wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną Na podstawie art. 31c ust. 2 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2012 r. poz. 987 oraz z 2015 r.
+poz. 1505) zarządza się, co następuje:
 
-## Załącznik nr 1 — – Zawiadomienie o wwiezieniu na terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną (wzór)
+**§ 1.**
 
-## Załącznik nr 2 — – Zawiadomienie o wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną (wzór)
+1. Wzór zawiadomienia o wwiezieniu na terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną określa załącznik nr 1 do rozporządzenia.
 
-Treść rozporządzenia
-Na podstawie art. 31c ust. 2 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2012 r. poz. 987 oraz z 2015 r. poz. 1505) zarządza się, co następuje:
-§ 1.
-1.
-Wzór zawiadomienia o wwiezieniu na terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną określa załącznik nr 1 do rozporządzenia.
-2.
-Wzór zawiadomienia o wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną określa załącznik nr 2 do rozporządzenia.
-§ 2.
-Rozporządzenie wchodzi w życie z dniem 30 listopada 2015 r.
+2. Wzór zawiadomienia o wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną określa załącznik nr 2 do rozporządzenia.
 
-## Załącznik nr 1 — – Zawiadomienie o wwiezieniu na terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną (wzór)
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 30 listopada 2015 r. Minister Kultury i Dziedzictwa Narodowego: M. Omilanowska Załączniki do rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 14 października 2015 r. (poz. …..) Załącznik nr 1 WZÓR WZÓR …………………………………………. …………………………………………. …………………………………………. (nazwa, siedziba i adres organizatora wystawy) …………………………….., dnia ………………………….. r. (miejscowość) (data) Minister Kultury i Dziedzictwa Narodowego ul. Krakowskie Przedmieście 15/17 00-071 Warszawa ZAWIADOMIENIE o wwiezieniu na terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną 1. Określenie rzeczy ruchomej:
 
-patrz oryginał
+…………………………………………………………………………………………… Na podstawie art. 31c ust. 1 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2012 r. poz. 987 oraz z 2015 r. poz. 1505). …………………………………………………………………………………………… ……………………………………………………………………………………………
 
-## Załącznik nr 2 — – Zawiadomienie o wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną (wzór)
+- **a)** nazwa lub tytuł: ………………………………………………………….……………… ……………………………………………………………………………………………
+- **b)** imię i nazwisko autora lub nazwa warsztatu: …………………………………………… ……………………………………………………………………………….…………...
+- **c)** imię, nazwisko i adres lub nazwa, siedziba i adres właściciela lub posiadacza: ………...
 
-patrz oryginał
+2. Określenie miejsca, terminu rozpoczęcia i zakończenia oraz tytułu organizowanej wystawy, na której rzecz ruchoma będzie eksponowana: ………………………………………………… …………………………………………………………………………………………………... …………………………………………………………………………………………………...
+
+3. Data wwiezienia rzeczy ruchomej na terytorium Rzeczypospolitej Polskiej: ……...……...... ……………………………………………….………………………………………………….. ……………………………………………………………. (data, podpis i pieczątka organizatora wystawy) Załącznik nr 2 WZÓR WZÓR …………………………………………. …………………………………………. ………………………………………..... (nazwa, siedziba i adres organizatora wystawy) …………………………….., dnia ………………………….. r. (miejscowość) (data) Minister Kultury i Dziedzictwa Narodowego ul. Krakowskie Przedmieście 15/17 00-071 Warszawa ZAWIADOMIENIE o wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną
+
+1. Określenie rzeczy ruchomej: …………………………………………………………………………………………… ………………………………………………………….................................................... …………………………………………………………………………………………… …………………………………………………………………………………………… …………………………………………………………………………………………… Na podstawie art. 31c ust. 1 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2012 r. poz. 987 oraz z 2015 r. poz. 1505).
+
+- **a)** nazwa lub tytuł: ………………………………………………………………………….
+- **b)** imię i nazwisko autora lub nazwa warsztatu: …………………………............................
+- **c)** imię, nazwisko i adres lub nazwa, siedziba i adres właściciela lub posiadacza rzeczy ruchomej: …………………………………………………………………………….…..
+
+2. Określenie miejsca, terminu rozpoczęcia i zakończenia oraz tytułu organizowanej wystawy, na której rzecz ruchoma była eksponowana: ……………………………………………...…… …………………………………………………………………………………………………... …………………………………………………………………………………………………...
+
+3. Data wywiezienia rzeczy ruchomej z terytorium Rzeczypospolitej Polskiej: ….…………… …………………………………………………………………………………………………... ……………………………………………………………. (data, podpis i pieczątka organizatora wystawy)
+
 

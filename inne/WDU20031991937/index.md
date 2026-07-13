@@ -29,28 +29,8 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 20 grudnia 1996 r. o gospodarce komunalnej (Dz.U. z 1997 r. Nr 9, poz. 43, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** po art. 10 dodaje się art. 10a i 10b w brzmieniu: „Art. 10a. 1. W spółkach z udziałem jednostek samorządu terytorialnego działa rada nadzorcza.
-
-2. Do rad nadzorczych w spółkach z udziałem jednostek samorządu terytorialnego stosuje się przepisy Kodeksu spółek handlowych, z zastrzeżeniem przepisów niniejszej ustawy.
-
-3. Kadencja członka rady nadzorczej w spółkach z większościowym udziałem jednostek samorządu terytorialnego trwa 3 lata.
-
-4. Członkowie rady nadzorczej, reprezentujący w spółce jednostkę samorządu terytorialnego, są powoływani spośród osób, które złożyły egzamin w trybie przewidzianym w przepisach o komercjalizacji i prywatyzacji.
-
-5. Do członków rad nadzorczych spółek z udziałem jednostek samorządu terytorialnego, reprezentujących w spółce jednostkę samorządu terytorialnego, stosuje się odpowiednio art. 13 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz.U. z 2002 r. Nr 171, poz. 1397 i Nr 240, poz. 2055 oraz z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844).
-
-6. Członków zarządu spółek z udziałem jednostek samorządu terytorialnego powołuje i odwołuje rada nadzorcza.
-
-**Art. 10b.** Przepisy art. 10a stosuje się także do spółek zależnych od spółek określonych w tych przepisach, w rozumieniu art. 4 § 1 pkt 4 Kodeksu spółek handlowych, z tym że przepisy art. 10a ust. 4 i 5 stosuje się do członków rady nadzorczej spółki zależnej, reprezentujących w tej spółce spółkę z udziałem jednostki samorządu terytorialnego.”;
-
-- **2)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Do wnoszenia wkładów oraz obejmowania udziałów i akcji stosuje się przepisy Kodeksu spółek handlowych oraz przepisy Kodeksu cywilnego, z zastrzeżeniem przepisów ustaw: o samorządzie gminnym, o samorządzie powiatowym, o samorządzie województwa oraz o komercjalizacji i prywatyzacji.
-
-2. Do zbycia akcji i udziałów w spółkach, o których mowa w art. 9, stosuje się, z zastrzeżeniem ust. 3 i 4, przepisy działu IV ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji.
-
-3. Przewidziane w ustawie, o której mowa w ust. 2, kompetencje ministra właściwego do spraw Skarbu Państwa wykonuje wobec spółki przewodniczący zarządu jednostki samorządu terytorialnego, a w przypadku gminy wójt (burmistrz, prezydent miasta).
-
-4. W jednoosobowych spółkach jednostek samorządu terytorialnego funkcję zgromadzenia wspólników (walnego zgromadzenia) pełnią organy wykonawcze tych jednostek samorządu terytorialnego.”;
-
+- **1)** po art. 10 dodaje się art. 10a i 10b w brzmieniu: „Art. 10a. 1. W spółkach z udziałem jednostek samorządu terytorialnego działa rada nadzorcza. 2. Do rad nadzorczych w spółkach z udziałem jednostek samorządu terytorialnego stosuje się przepisy Kodeksu spółek handlowych, z zastrzeżeniem przepisów niniejszej ustawy. 3. Kadencja członka rady nadzorczej w spółkach z większościowym udziałem jednostek samorządu terytorialnego trwa 3 lata. 4. Członkowie rady nadzorczej, reprezentujący w spółce jednostkę samorządu terytorialnego, są powoływani spośród osób, które złożyły egzamin w trybie przewidzianym w przepisach o komercjalizacji i prywatyzacji. 5. Do członków rad nadzorczych spółek z udziałem jednostek samorządu terytorialnego, reprezentujących w spółce jednostkę samorządu terytorialnego, stosuje się odpowiednio art. 13 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz.U. z 2002 r. Nr 171, poz. 1397 i Nr 240, poz. 2055 oraz z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844). 6. Członków zarządu spółek z udziałem jednostek samorządu terytorialnego powołuje i odwołuje rada nadzorcza. Art. 10b. Przepisy art. 10a stosuje się także do spółek zależnych od spółek określonych w tych przepisach, w rozumieniu art. 4 § 1 pkt 4 Kodeksu spółek handlowych, z tym że przepisy art. 10a ust. 4 i 5 stosuje się do członków rady nadzorczej spółki zależnej, reprezentujących w tej spółce spółkę z udziałem jednostki samorządu terytorialnego.”;
+- **2)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Do wnoszenia wkładów oraz obejmowania udziałów i akcji stosuje się przepisy Kodeksu spółek handlowych oraz przepisy Kodeksu cywilnego, z zastrzeżeniem przepisów ustaw: o samorządzie gminnym, o samorządzie powiatowym, o samorządzie województwa oraz o komercjalizacji i prywatyzacji. 2. Do zbycia akcji i udziałów w spółkach, o których mowa w art. 9, stosuje się, z zastrzeżeniem ust. 3 i 4, przepisy działu IV ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji. 3. Przewidziane w ustawie, o której mowa w ust. 2, kompetencje ministra właściwego do spraw Skarbu Państwa wykonuje wobec spółki przewodniczący zarządu jednostki samorządu terytorialnego, a w przypadku gminy wójt (burmistrz, prezydent miasta). 4. W jednoosobowych spółkach jednostek samorządu terytorialnego funkcję zgromadzenia wspólników (walnego zgromadzenia) pełnią organy wykonawcze tych jednostek samorządu terytorialnego.”;
 - **3)** w art. 18 ust. 4 otrzymuje brzmienie: „4. Pozostałych członków rady nadzorczej powołuje spośród osób, które złożyły egzamin na członka rady nadzorczej w trybie przewidzianym w przepisach o komercjalizacji i prywatyzacji, i odwołuje wójt (burmistrz, prezydent miasta).”;
 - **4)** uchyla się art. 20.
 

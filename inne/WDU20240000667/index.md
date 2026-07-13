@@ -27,8 +27,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie ustanowienia odznaki honorowej „Za Zasługi dla Ochrony Praw Człowieka”, ustalenia jej wzoru, zasad i trybu nadawania oraz sposobu noszenia Na podstawie art. 4 ust. 1 i art. 6 ust. 1 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2023 r.
 poz. 76) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 2 listopada 2009 r. w sprawie ustanowienia odznaki honorowej „Za Zasługi dla Ochrony Praw Człowieka”, ustalenia jej wzoru, zasad i trybu nadawania oraz sposobu noszenia (Dz. U. poz. 1496) w § 5 w ust. 1 w zdaniu czwartym skreśla się wyraz „jedwabnego”.
-§ 2. Do postępowań o nadanie odznaki honorowej „Za Zasługi dla Ochrony Praw Człowieka”, wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: A. Duda Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 2 listopada 2009 r. w sprawie ustanowienia odznaki honorowej „Za Zasługi dla Ochrony Praw Człowieka”, ustalenia jej wzoru, zasad i trybu nadawania oraz sposobu noszenia (Dz. U. poz. 1496) w § 5 w ust. 1 w zdaniu czwartym skreśla się wyraz „jedwabnego”.
+
+**§ 2.** Do postępowań o nadanie odznaki honorowej „Za Zasługi dla Ochrony Praw Człowieka”, wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

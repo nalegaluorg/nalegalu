@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie zmieniające rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym Na podstawie art. 125 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r.
 poz. 101, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 15 lutego 2016 r. zmieniającym rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U.
-poz. 269) § 2 otrzymuje brzmienie: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 15 lutego 2016 r. zmieniającym rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 269) § 2 otrzymuje brzmienie: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r. Minister Sprawiedliwości: Z. Ziobro
 

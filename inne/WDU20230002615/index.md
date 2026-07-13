@@ -30,19 +30,30 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sp
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 14 września 2022 r. zmieniającego rozporządzenie w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone (Dz. U. poz. 1984), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Finansów: M. Rzeczkowska
 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 24 grudnia 2019 r.
 w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone Na podstawie art. 10b ust. 2 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2022 r. poz. 2500 oraz z 2023 r. poz. 614, 1234 i 1723) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) sposób przesyłania zgłoszeń za pomocą środków komunikacji elektronicznej;
-2) rodzaje podpisu elektronicznego, którymi powinny być opatrzone poszczególne typy zgłoszeń.
-§ 2. Zgłoszenia mogą być przesyłane:
-1) za pomocą oprogramowania interfejsowego dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych prowadzonej przez urząd obsługujący tego ministra, albo
-2) przez portal podatkowy.
-§ 3. Struktura logiczna urzędowego poświadczenia odbioru zgłoszenia jest udostępniona w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych prowadzonej przez urząd obsługujący tego ministra.
-§ 4. Zgłoszenia mogą być opatrywane:
-1) kwalifikowanym podpisem elektronicznym albo
-2) podpisem zaufanym albo podpisem osobistym, jeżeli są przesyłane przez portal podatkowy.
-3) (uchylony).
-§ 5. Podpisem elektronicznym, o którym mowa w § 4 pkt 1, mogą być opatrywane wszystkie rodzaje zgłoszeń.
-§ 6. Podpisem elektronicznym, o którym mowa w § 4 pkt 2, mogą być opatrywane zgłoszenia aktualizacyjne osoby fizycznej będącej podatnikiem lub płatnikiem (NIP-7).
-§ 6a. (uchylony).
-§ 7. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** sposób przesyłania zgłoszeń za pomocą środków komunikacji elektronicznej;
+- **2)** rodzaje podpisu elektronicznego, którymi powinny być opatrzone poszczególne typy zgłoszeń.
+
+**§ 2.** Zgłoszenia mogą być przesyłane:
+
+- **1)** za pomocą oprogramowania interfejsowego dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych prowadzonej przez urząd obsługujący tego ministra, albo
+- **2)** przez portal podatkowy.
+
+**§ 3.** Struktura logiczna urzędowego poświadczenia odbioru zgłoszenia jest udostępniona w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych prowadzonej przez urząd obsługujący tego ministra.
+
+**§ 4.** Zgłoszenia mogą być opatrywane:
+
+- **1)** kwalifikowanym podpisem elektronicznym albo
+- **2)** podpisem zaufanym albo podpisem osobistym, jeżeli są przesyłane przez portal podatkowy.
+- **3)** (uchylony).
+
+**§ 5.** Podpisem elektronicznym, o którym mowa w § 4 pkt 1, mogą być opatrywane wszystkie rodzaje zgłoszeń.
+
+**§ 6.** Podpisem elektronicznym, o którym mowa w § 4 pkt 2, mogą być opatrywane zgłoszenia aktualizacyjne osoby fizycznej będącej podatnikiem lub płatnikiem (NIP-7).
+
+**§ 6a.** (uchylony).
+
+**§ 7.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
 

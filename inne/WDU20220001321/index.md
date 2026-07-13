@@ -30,10 +30,17 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju w spra
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 31 grudnia 2020 r. zmieniającego rozporządzenie w sprawie nadania statutu Bankowi Gospodarstwa Krajowego (Dz. U. z 2021 r. poz. 128), które stanowią: „ § 2. Do spraw wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Rozwoju i Technologii: W. Buda
 ROZPORZĄDZENIE MINISTRA ROZWOJU z dnia 16 września 2016 r.
 w sprawie nadania statutu Bankowi Gospodarstwa Krajowego Na podstawie art. 2 ust. 3 ustawy z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego (Dz. U. z 2022 r. poz. 100 i 872) zarządza się, co następuje:
-§ 1. Bankowi Gospodarstwa Krajowego nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Do spraw wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia Ministra Skarbu Państwa z dnia 11 maja 2010 r. w sprawie nadania statutu Bankowi Gospodarstwa Krajowego (Dz. U. poz. 535 oraz z 2011 r. poz. 1150).
-§ 3. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia .
-STATUT BANKU GOSPODARSTWA KRAJOWEGO
+
+**§ 1.** Bankowi Gospodarstwa Krajowego nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Do spraw wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia Ministra Skarbu Państwa z dnia 11 maja 2010 r. w sprawie nadania statutu Bankowi Gospodarstwa Krajowego (Dz. U. poz. 535 oraz z 2011 r. poz. 1150).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia . STATUT BANKU GOSPODARSTWA KRAJOWEGO
+
+#### Rozdział 1 Postanowienia ogólne
+
+## Załącznik
+
 § 1. 1. Bank Gospodarstwa Krajowego, zwany dalej „Bankiem”, jest bankiem państwowym i działa na podstawie ustawy z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego, zwanej dalej „ustawą”, innych obowiązujących przepisów prawa oraz niniejszego statutu.
 2. Do działalności Banku stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r.
 poz. 2439 i 2447 oraz z 2022 r. poz. 830 i 872), o ile inne obowiązujące przepisy prawa nie stanowią inaczej.
@@ -42,6 +49,7 @@ poz. 2439 i 2447 oraz z 2022 r. poz. 830 i 872), o ile inne obowiązujące przep
 § 3. 1. Bank posiada osobowość prawną i prowadzi działalność na terytorium Rzeczypospolitej Polskiej oraz może prowadzić działalność poza jej terytorium.
 2. (uchylony).
 3. Siedzibą Banku jest miasto stołeczne Warszawa.
+Rozdział 2 Przedmiot działalności Banku
 § 4. 1. Przedmiotem działalności Banku jest wykonywanie następujących czynności bankowych:
 1) przyjmowanie wkładów pieniężnych płatnych na żądanie lub z nadejściem oznaczonego terminu oraz prowadzenie rachunków tych wkładów;
 2) prowadzenie innych rachunków bankowych;
@@ -95,6 +103,7 @@ e) świadczeniu usług w wykonaniu zawartych umów o gwarancję emisji lub zawie
 § 7. Bank wspiera politykę gospodarczą Rady Ministrów, rządowe programy społeczno-gospodarcze oraz programy samorządności lokalnej i rozwoju regionalnego.
 § 8. (uchylony).
 § 9. (uchylony).
+Rozdział 3 Organy Banku i organizacja Banku
 § 10. Organami Banku są Rada Nadzorcza i Zarząd.
 § 11. 1. Skład, kadencję oraz liczbę członków Rady Nadzorczej, zasady ich powoływania i przyczyny wygaśnięcia mandatu członka Rady Nadzorczej określa art. 8 ustawy.
 2. Rada Nadzorcza wybiera, w głosowaniu tajnym, ze swego grona osoby stale pełniące funkcje: zastępcy przewodniczącego Rady Nadzorczej oraz sekretarza Rady Nadzorczej.
@@ -270,6 +279,7 @@ W przypadku konfliktu interesów członek Zarządu, którego konflikt dotyczy, n
 8. Rada Nadzorcza sprawuje nadzór nad wprowadzeniem systemu kontroli wewnętrznej, w tym co najmniej raz w roku dokonuje oceny adekwatności i skuteczności tego systemu.
 § 28. W przypadku emisji listów zastawnych przy Banku powołuje się powiernika i jego zastępcę zgodnie z przepisami wymienionymi w art. 6a ust. 2 ustawy.
 § 29. Wewnętrzne regulacje Banku wydawane są przez organy Banku lub upoważnione do tego osoby, w zakresie ich zadań, odpowiednio w formie uchwał, zarządzeń lub decyzji.
+Rozdział 4 Fundusze Banku
 § 30. 1. Bank posiada fundusze własne dostosowane do rozmiaru prowadzonej działalności.
 2. Fundusze własne Banku stanowią sumę kapitału Tier I i kapitału Tier II wyznaczonych zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych i firm inwestycyjnych, zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ).
 § 31. 1. Fundusz statutowy jest tworzony:
@@ -294,6 +304,7 @@ W przypadku konfliktu interesów członek Zarządu, którego konflikt dotyczy, n
 3. O użyciu funduszu rezerwowego decyduje Rada Nadzorcza.
 § 34. 1. Fundusz ogólnego ryzyka bankowego tworzony jest z odpisów z rocznego zysku netto.
 2. Zarząd decyduje o użyciu funduszu ogólnego ryzyka bankowego na podstawie regulaminu wykorzystywania tego funduszu, uchwalonego przez Zarząd i zatwierdzonego przez Radę Nadzorczą.
+Rozdział 5 Zasady prowadzenia gospodarki finansowej
 § 35. 1. Bank prowadzi samodzielnie gospodarkę finansową na podstawie planu finansowo-rzeczowego, stanowiącego plan finansowy w rozumieniu art. 129 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
 2. Bank wyodrębnia w planie finansowo-rzeczowym plany finansowo-rzeczowe funduszy, o których mowa w § 6, oraz sporządza dla nich odrębne bilanse, rachunki zysków i strat oraz pozycji pozabilansowych, jeżeli z odrębnych przepisów wynika taki obowiązek.
 3. Plany finansowo-rzeczowe funduszy, o których mowa w § 6, stanowią załącznik do planu finansowo-rzeczowego Banku, z wyjątkiem planów finansowo-rzeczowych funduszy, których aktywa spełniają definicję aktywów Banku w rozumieniu przepisów o rachunkowości.
@@ -313,14 +324,4 @@ W przypadku konfliktu interesów członek Zarządu, którego konflikt dotyczy, n
 § 37.
 § 38. W przypadku wystąpienia strat na działalności któregoś z funduszy, o których mowa w § 6, strata pokrywana jest w ciężar tego funduszu.
 § 39. Bank prowadzi rachunkowość zgodnie z odrębnymi przepisami.
-
-#### Rozdział 1 Postanowienia ogólne
-
-#### Rozdział 2 Przedmiot działalności Banku
-
-#### Rozdział 3 Organy Banku i organizacja Banku
-
-#### Rozdział 4 Fundusze Banku
-
-#### Rozdział 5 Zasady prowadzenia gospodarki finansowej
 

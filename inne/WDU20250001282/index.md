@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001282) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1282/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych warunków wykonywania polowania i znakowania tusz Na podstawie art. 43 ust. 3 ustawy z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2025 r. poz. 539) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 23 marca 2005 r. w sprawie szczegółowych warunków wykonywania polowania i znakowania tusz (Dz. U. poz. 548, z późn. zm. ) w § 6 w ust. 1 w pkt 5 skreśla się wyrazy „jarząbków,” oraz „i łysek”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 2 stycznia 2026 r.
-Minister Klimatu i Środowiska: P. Hennig-Kloska
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 23 marca 2005 r. w sprawie szczegółowych warunków wykonywania polowania i znakowania tusz (Dz. U. poz. 548, z późn. zm. ) w § 6 w ust. 1 w pkt 5 skreśla się wyrazy „jarząbków,” oraz „i łysek”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 2 stycznia 2026 r. Minister Klimatu i Środowiska: P. Hennig-Kloska
 

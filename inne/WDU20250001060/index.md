@@ -27,12 +27,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1060/text.pdf) |
 
 zmieniające rozporządzenie w sprawie przywrócenia tymczasowo kontroli granicznej osób przekraczających granicę państwową stanowiącą granicę wewnętrzną Na podstawie art. 17a ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2025 r. poz. 184) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 3 lipca 2025 r. w sprawie przywrócenia tymczasowo kontroli granicznej osób przekraczających granicę państwową stanowiącą granicę wewnętrzną (Dz. U. poz. 876) wprowadza się następujące zmiany:
-1) w § 2 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Kontrolę graniczną osób, przywróconą tymczasowo na okres, o którym mowa w ust. 1, przedłuża się na okres od dnia 6 sierpnia 2025 r. do dnia 4 października 2025 r.”;
-2) w załączniku do rozporządzenia w tabeli w części „Odcinek granicy państwowej z Republiką Federalną Niemiec”:
-a) uchyla się wiersze oznaczone lp. 28, 38 i 39,
-b) wiersz oznaczony lp. 52 otrzymuje brzmienie: Transgraniczna promenada Świnoujście Świnoujście około 110 m od znaku granicznego nr 923 52 promenada D pieszy i rowerowy całodobowo oraz od znaku nr 923 wzdłuż drewnianej ścieżki i dalej plażą do morskiej linii brzegowej.
-c) dodaje się wiersz oznaczony lp. 53 w brzmieniu: Nowe Warpno – Most pieszo-rowerowy przy znaku gra53 Rieth D pieszy i rowerowy całodobowo nicznym nr 885. Kontrola jest prowadzona na odcinku 50 m przed wejściem na most.
-§ 2. Rozporządzenie wchodzi w życie z dniem 6 sierpnia 2025 r.
-Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 3 lipca 2025 r. w sprawie przywrócenia tymczasowo kontroli granicznej osób przekraczających granicę państwową stanowiącą granicę wewnętrzną (Dz. U. poz. 876) wprowadza się następujące zmiany:
+
+- **1)** w § 2 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Kontrolę graniczną osób, przywróconą tymczasowo na okres, o którym mowa w ust. 1, przedłuża się na okres od dnia 6 sierpnia 2025 r. do dnia 4 października 2025 r.”;
+- **2)** w załączniku do rozporządzenia w tabeli w części „Odcinek granicy państwowej z Republiką Federalną Niemiec”:
+    - **a)** uchyla się wiersze oznaczone lp. 28, 38 i 39,
+    - **b)** wiersz oznaczony lp. 52 otrzymuje brzmienie: Transgraniczna promenada Świnoujście Świnoujście około 110 m od znaku granicznego nr 923 52 promenada D pieszy i rowerowy całodobowo oraz od znaku nr 923 wzdłuż drewnianej ścieżki i dalej plażą do morskiej linii brzegowej.
+    - **c)** dodaje się wiersz oznaczony lp. 53 w brzmieniu: Nowe Warpno – Most pieszo-rowerowy przy znaku gra53 Rieth D pieszy i rowerowy całodobowo nicznym nr 885. Kontrola jest prowadzona na odcinku 50 m przed wejściem na most.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 6 sierpnia 2025 r. Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
 

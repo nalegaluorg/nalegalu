@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001531) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1531/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wyróżniania żołnierzy oraz pododdziałów, oddziałów i instytucji wojskowych Na podstawie art. 429 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222 i 1248) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 24 października 2022 r. w sprawie wyróżniania żołnierzy oraz pododdziałów, oddziałów i instytucji wojskowych (Dz. U. poz. 2439) wprowadza się następujące zmiany:
-1) uchyla się § 50 i § 51;
-2) uchyla się załącznik nr 29 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Obrony Narodowej: z up. P. Bejda
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 24 października 2022 r. w sprawie wyróżniania żołnierzy oraz pododdziałów, oddziałów i instytucji wojskowych (Dz. U. poz. 2439) wprowadza się następujące zmiany:
+
+- **1)** uchyla się § 50 i § 51;
+- **2)** uchyla się załącznik nr 29 do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Obrony Narodowej: z up. P. Bejda
 

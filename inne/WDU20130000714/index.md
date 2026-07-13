@@ -33,77 +33,16 @@ source: pdf
 - **2)** po art. 13 dodaje się art. 13a w brzmieniu: „Art. 13a. System realizacji strategii rozwoju zawiera warunki i procedury obowiązujące instytucje uczestniczące w realizacji strategii, obejmujące zarządzanie, monitoring, ewaluację, kontrolę i sprawozdawczość oraz sposób koordynacji działań tych instytucji.”;
 - **3)** w art. 17 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. System realizacji, o którym mowa w ust. 1 pkt 6, zawiera warunki i procedury obowiązujące instytucje uczestniczące w realizacji programu, obejmujące zarządzanie, monitoring, ewaluację, kontrolę i sprawozdawczość oraz sposób koordynacji działań tych instytucji.”;
 - **4)** w art. 29 w ust. 2 pkt 11 otrzymuje brzmienie: „11) informację o środkach odwoławczych przysługujących wnioskodawcy i warunkach, na jakich są wnoszone, zgodnie z art. 30a ust. 3 i art. 30b.”;
-- **5)** w art. 30a ust. 3 otrzymuje brzmienie: „3. Właściwa instytucja, o której mowa w ust. 2, pisemnie informuje wnioskodawcę o wynikach poszczególnych etapów oceny jego projektu wraz z podaniem otrzymanej punktacji lub informacji o spełnieniu bądź niespełnieniu kryteriów wyboru projektów. Informacja ta zawiera uzasadnienie oceny, a w przypadku gdy ocena jest negatywna – także pouczenie o możliwości wniesienia protestu, w trybie i na zasadach określonych w art. 30b, zawierające wskazanie:
-- **1)** właściwej instytucji zarządzającej, do której należy wnieść protest;
-- **2)** terminu wniesienia protestu;
-- **3)** formy i trybu wniesienia protestu;
-- **4)** konieczności spełnienia wymogów formalnych, o których mowa w art. 30b ust. 6.”;
-- **6)** art. 30b otrzymuje brzmienie: „Art. 30b. 1. Wnioskodawcy, w przypadku negatywnej oceny jego projektu, przysługuje środek odwoławczy w postaci protestu. Protest jest wnoszony do właściwej instytucji zarządzającej.
-
-2. Negatywną oceną jest ocena w zakresie spełniania przez projekt kryteriów zatwierdzonych przez Komitet Monitorujący, w ramach której:
-
-- **1)** projekt nie uzyskał minimum punktowego lub nie spełnił kryteriów wyboru projektów, na skutek czego nie może być zakwalifikowany do dofinansowania lub skierowany do kolejnego etapu oceny;
-- **2)** projekt uzyskał minimum punktowe lub spełnił kryteria wyboru projektów, umożliwiające zakwalifikowanie go do dofinansowania, jednak dofinansowanie nie jest możliwe z uwagi na wyczerpanie w ramach konkursu przeznaczonych na ten cel środków, o których mowa w art. 29 ust. 2 pkt 3.
-
-3. Wyczerpanie w ramach konkursu środków, o których mowa w art. 29 ust. 2 pkt 3, nie może stanowić wyłącznej przesłanki wniesienia protestu.
-
-4. Protest może być wniesiony przez wnioskodawcę w terminie 14 dni od dnia doręczenia mu informacji, o której mowa w art. 30a ust. 3.
-
-5. Protest jest wnoszony bezpośrednio albo za pośrednictwem instytucji, która dokonała oceny projektu, do właściwej instytucji zarządzającej, zgodnie z pouczeniem, o którym mowa w art. 30a ust. 3.
-
-6. Protest jest wnoszony w formie pisemnej i zawiera:
-
-- **1)** oznaczenie właściwej instytucji zarządzającej, do której jest wnoszony;
-- **2)** dane wnioskodawcy;
-- **3)** numer wniosku o dofinansowanie;
-- **4)** wskazanie wszystkich kryteriów wyboru projektu, z których oceną wnioskodawca się nie zgadza, wraz z uzasadnieniem;
-- **5)** wskazanie wszystkich zarzutów o charakterze proceduralnym w zakresie przeprowadzonej oceny wraz z uzasadnieniem;
-- **6)** podpis wnioskodawcy lub osoby upoważnionej do jego reprezentowania, z załączeniem oryginału lub uwierzytelnionej kopii dokumentu poświadczającego umocowanie takiej osoby do działania w imieniu wnioskodawcy.
-
-7. Z zastrzeżeniem art. 30i pkt 1, właściwa instytucja zarządzająca rozpatruje protest w terminie nie dłuższym niż 70 dni od dnia jego otrzymania. W uzasadnionych przypadkach, w szczególności gdy w trakcie rozpatrywania protestu konieczne jest skorzystanie z pomocy ekspertów, termin rozpatrzenia protestu może być przedłużony, o czym właściwa instytucja zarządzająca informuje na piśmie wnioskodawcę. Termin rozpatrzenia protestu nie może przekroczyć łącznie 90 dni.
-
-8. Właściwa instytucja zarządzająca rozpatruje protest z uwzględnieniem art. 60 lit. a rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999.
-
-9. Właściwa instytucja zarządzająca informuje wnioskodawcę na piśmie o wyniku rozpatrzenia jego protestu. Informacja ta zawiera w szczególności:
-
-- **1)** treść rozstrzygnięcia polegającego na uwzględnieniu albo nieuwzględnieniu protestu wraz z uzasadnieniem;
-- **2)** w przypadku nieuwzględnienia protestu – pouczenie o możliwości i terminie wniesienia skargi do wojewódzkiego sądu administracyjnego, na zasadach określonych w art. 30c.
-
-10. W rozpatrywaniu protestu nie mogą brać udziału osoby, które były zaangażowane w przygotowanie projektu lub w jego ocenę.
-
-11. Protest nie podlega rozpatrzeniu, jeżeli mimo prawidłowego pouczenia, o którym mowa w art. 30a ust. 3, został wniesiony:
-
-- **1)** po terminie,
-- **2)** do niewłaściwej instytucji,
-- **3)** przez podmiot inny niż wskazany w art. 29 ust. 2 pkt 2,
-- **4)** bez spełnienia wymogów określonych w ust. 6 – o czym właściwa instytucja informuje wnioskodawcę na piśmie.”;
+- **5)** w art. 30a ust. 3 otrzymuje brzmienie: „3. Właściwa instytucja, o której mowa w ust. 2, pisemnie informuje wnioskodawcę o wynikach poszczególnych etapów oceny jego projektu wraz z podaniem otrzymanej punktacji lub informacji o spełnieniu bądź niespełnieniu kryteriów wyboru projektów. Informacja ta zawiera uzasadnienie oceny, a w przypadku gdy ocena jest negatywna – także pouczenie o możliwości wniesienia protestu, w trybie i na zasadach określonych w art. 30b, zawierające wskazanie: 1) właściwej instytucji zarządzającej, do której należy wnieść protest; 2) terminu wniesienia protestu; 3) formy i trybu wniesienia protestu; 4) konieczności spełnienia wymogów formalnych, o których mowa w art. 30b ust. 6.”;
+- **6)** art. 30b otrzymuje brzmienie: „Art. 30b. 1. Wnioskodawcy, w przypadku negatywnej oceny jego projektu, przysługuje środek odwoławczy w postaci protestu. Protest jest wnoszony do właściwej instytucji zarządzającej. 2. Negatywną oceną jest ocena w zakresie spełniania przez projekt kryteriów zatwierdzonych przez Komitet Monitorujący, w ramach której: 1) projekt nie uzyskał minimum punktowego lub nie spełnił kryteriów wyboru projektów, na skutek czego nie może być zakwalifikowany do dofinansowania lub skierowany do kolejnego etapu oceny; 2) projekt uzyskał minimum punktowe lub spełnił kryteria wyboru projektów, umożliwiające zakwalifikowanie go do dofinansowania, jednak dofinansowanie nie jest możliwe z uwagi na wyczerpanie w ramach konkursu przeznaczonych na ten cel środków, o których mowa w art. 29 ust. 2 pkt 3. 3. Wyczerpanie w ramach konkursu środków, o których mowa w art. 29 ust. 2 pkt 3, nie może stanowić wyłącznej przesłanki wniesienia protestu. 4. Protest może być wniesiony przez wnioskodawcę w terminie 14 dni od dnia doręczenia mu informacji, o której mowa w art. 30a ust. 3. 5. Protest jest wnoszony bezpośrednio albo za pośrednictwem instytucji, która dokonała oceny projektu, do właściwej instytucji zarządzającej, zgodnie z pouczeniem, o którym mowa w art. 30a ust. 3. 6. Protest jest wnoszony w formie pisemnej i zawiera: 1) oznaczenie właściwej instytucji zarządzającej, do której jest wnoszony; 2) dane wnioskodawcy; 3) numer wniosku o dofinansowanie; 4) wskazanie wszystkich kryteriów wyboru projektu, z których oceną wnioskodawca się nie zgadza, wraz z uzasadnieniem; 5) wskazanie wszystkich zarzutów o charakterze proceduralnym w zakresie przeprowadzonej oceny wraz z uzasadnieniem; 6) podpis wnioskodawcy lub osoby upoważnionej do jego reprezentowania, z załączeniem oryginału lub uwierzytelnionej kopii dokumentu poświadczającego umocowanie takiej osoby do działania w imieniu wnioskodawcy. 7. Z zastrzeżeniem art. 30i pkt 1, właściwa instytucja zarządzająca rozpatruje protest w terminie nie dłuższym niż 70 dni od dnia jego otrzymania. W uzasadnionych przypadkach, w szczególności gdy w trakcie rozpatrywania protestu konieczne jest skorzystanie z pomocy ekspertów, termin rozpatrzenia protestu może być przedłużony, o czym właściwa instytucja zarządzająca informuje na piśmie wnioskodawcę. Termin rozpatrzenia protestu nie może przekroczyć łącznie 90 dni. 8. Właściwa instytucja zarządzająca rozpatruje protest z uwzględnieniem art. 60 lit. a rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999. 9. Właściwa instytucja zarządzająca informuje wnioskodawcę na piśmie o wyniku rozpatrzenia jego protestu. Informacja ta zawiera w szczególności: 1) treść rozstrzygnięcia polegającego na uwzględnieniu albo nieuwzględnieniu protestu wraz z uzasadnieniem; 2) w przypadku nieuwzględnienia protestu – pouczenie o możliwości i terminie wniesienia skargi do wojewódzkiego sądu administracyjnego, na zasadach określonych w art. 30c. 10. W rozpatrywaniu protestu nie mogą brać udziału osoby, które były zaangażowane w przygotowanie projektu lub w jego ocenę. 11. Protest nie podlega rozpatrzeniu, jeżeli mimo prawidłowego pouczenia, o którym mowa w art. 30a ust. 3, został wniesiony: 1) po terminie, 2) do niewłaściwej instytucji, 3) przez podmiot inny niż wskazany w art. 29 ust. 2 pkt 2, 4) bez spełnienia wymogów określonych w ust. 6 – o czym właściwa instytucja informuje wnioskodawcę na piśmie.”;
 - **7)** w art. 30c:
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Po wyczerpaniu postępowania odwoławczego przed właściwą instytucją oraz w przypadku, o którym mowa w art. 30i pkt 1, wnioskodawca może w tym zakresie wnieść skargę do wojewódzkiego sądu administracyjnego, zgodnie z art. 3 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, 1101 i 1529).
-
-2. Skarga, o której mowa w ust. 1, jest wnoszona przez wnioskodawcę w terminie 14 dni od dnia doręczenia informacji, o której mowa w art. 30b ust. 9 albo art. 30i pkt 1, bezpośrednio do właściwego wojewódzkiego sądu administracyjnego wraz z kompletną dokumentacją w sprawie. Skarga podlega wpisowi stałemu.”,
-
-- **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Kompletna dokumentacja, o której mowa w ust. 2, obejmuje:
-- **1)** wniosek o dofinansowanie,
-- **2)** informację o wynikach oceny projektu, o której mowa w art. 30a ust. 3,
-- **3)** wniesiony protest,
-- **4)** informację, o której mowa w art. 30b ust. 9 albo art. 30i pkt 1 – wraz z ewentualnymi załącznikami.
-
-2b. Kompletna dokumentacja jest wnoszona w oryginale lub w uwierzytelnionej kopii.”,
-
-- **c)** w ust. 5 pkt 2 i 3 otrzymują brzmienie: „2) bez kompletnej dokumentacji,
-- **3)** bez uiszczenia wpisu stałego w terminie, o którym mowa w ust. 2”,
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Po wyczerpaniu postępowania odwoławczego przed właściwą instytucją oraz w przypadku, o którym mowa w art. 30i pkt 1, wnioskodawca może w tym zakresie wnieść skargę do wojewódzkiego sądu administracyjnego, zgodnie z art. 3 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, 1101 i 1529). 2. Skarga, o której mowa w ust. 1, jest wnoszona przez wnioskodawcę w terminie 14 dni od dnia doręczenia informacji, o której mowa w art. 30b ust. 9 albo art. 30i pkt 1, bezpośrednio do właściwego wojewódzkiego sądu administracyjnego wraz z kompletną dokumentacją w sprawie. Skarga podlega wpisowi stałemu.”,
+    - **b)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Kompletna dokumentacja, o której mowa w ust. 2, obejmuje: 1) wniosek o dofinansowanie, 2) informację o wynikach oceny projektu, o której mowa w art. 30a ust. 3, 3) wniesiony protest, 4) informację, o której mowa w art. 30b ust. 9 albo art. 30i pkt 1 – wraz z ewentualnymi załącznikami. 2b. Kompletna dokumentacja jest wnoszona w oryginale lub w uwierzytelnionej kopii.”,
+    - **c)** w ust. 5 pkt 2 i 3 otrzymują brzmienie: „2) bez kompletnej dokumentacji, 3) bez uiszczenia wpisu stałego w terminie, o którym mowa w ust. 2”,
     - **d)** dodaje się ust. 6 w brzmieniu: „6. W przypadku wniesienia skargi bez kompletnej dokumentacji lub bez uiszczenia wpisu stałego, sąd wzywa wnioskodawcę do uzupełnienia braków w terminie 7 dni od dnia doręczenia wezwania, pod rygorem pozostawienia skargi bez rozpatrzenia.”;
 
-- **8)** w art. 30d ust. 2 i 3 otrzymują brzmienie: „2. Skarga, o której mowa w ust. 1, jest rozpatrywana w terminie 30 dni od dnia jej wniesienia. Przepisy art. 30c ust. 5 i 6 stosuje się odpowiednio.
-
-3. Na prawo wnioskodawcy do wniesienia skargi do sądu administracyjnego nie wpływa negatywnie błędne pouczenie lub brak pouczenia, o którym mowa w art. 30a ust. 3, art. 30b ust. 9 pkt 2 i art. 30i pkt 1.”;
-
-- **9)** po art. 30g dodaje się art. 30h i art. 30i w brzmieniu: „Art. 30h. Prawomocne rozstrzygnięcie sądu administracyjnego, polegające na oddaleniu skargi, odrzuceniu skargi lub pozostawieniu skargi bez rozpatrzenia, kończy procedurę odwoławczą oraz procedurę wyboru projektu.
-
-**Art. 30i.** W przypadku gdy na jakimkolwiek etapie postępowania w zakresie procedury odwoławczej, alokacja na realizację działania lub priorytetu, o której mowa w art. 30a ust. 1 pkt 2, zostanie wyczerpana:
-
-- **1)** właściwa instytucja zarządzająca pozostawia protest bez rozpatrzenia, informując o tym na piśmie wnioskodawcę, pouczając jednocześnie o możliwości wniesienia skargi do wojewódzkiego sądu administracyjnego na zasadach określonych w art. 30c;
-- **2)** sąd, uwzględniając skargę stwierdza tylko, że ocena projektu została przeprowadzona w sposób naruszający prawo i nie przekazuje sprawy do ponownego rozpatrzenia.”.
+- **8)** w art. 30d ust. 2 i 3 otrzymują brzmienie: „2. Skarga, o której mowa w ust. 1, jest rozpatrywana w terminie 30 dni od dnia jej wniesienia. Przepisy art. 30c ust. 5 i 6 stosuje się odpowiednio. 3. Na prawo wnioskodawcy do wniesienia skargi do sądu administracyjnego nie wpływa negatywnie błędne pouczenie lub brak pouczenia, o którym mowa w art. 30a ust. 3, art. 30b ust. 9 pkt 2 i art. 30i pkt 1.”;
+- **9)** po art. 30g dodaje się art. 30h i art. 30i w brzmieniu: „Art. 30h. Prawomocne rozstrzygnięcie sądu administracyjnego, polegające na oddaleniu skargi, odrzuceniu skargi lub pozostawieniu skargi bez rozpatrzenia, kończy procedurę odwoławczą oraz procedurę wyboru projektu. Art. 30i. W przypadku gdy na jakimkolwiek etapie postępowania w zakresie procedury odwoławczej, alokacja na realizację działania lub priorytetu, o której mowa w art. 30a ust. 1 pkt 2, zostanie wyczerpana: 1) właściwa instytucja zarządzająca pozostawia protest bez rozpatrzenia, informując o tym na piśmie wnioskodawcę, pouczając jednocześnie o możliwości wniesienia skargi do wojewódzkiego sądu administracyjnego na zasadach określonych w art. 30c; 2) sąd, uwzględniając skargę stwierdza tylko, że ocena projektu została przeprowadzona w sposób naruszający prawo i nie przekazuje sprawy do ponownego rozpatrzenia.”.
 
 **Art. 2.**
 

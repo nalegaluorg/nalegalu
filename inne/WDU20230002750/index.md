@@ -31,11 +31,18 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 16 grudnia 2016 r.
 w sprawie wzoru znaku graficznego zawierającego informację „Produkt polski” Na podstawie art. 7b ust. 4 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U.
 z 2023 r. poz. 1980) zarządza się, co następuje:
-§ 1. 1. Ustala się wzór znaku graficznego zawierającego informację „Produkt polski”, który ma kształt prostokąta podzielonego w poziomie na dwa równe prostokąty. Kontur znaku wyznacza obrys w kolorze czerwonym.
+
+**§ 1.**
+
+1. Ustala się wzór znaku graficznego zawierającego informację „Produkt polski”, który ma kształt prostokąta podzielonego w poziomie na dwa równe prostokąty. Kontur znaku wyznacza obrys w kolorze czerwonym.
+
 2. Górny prostokąt jest w kolorze białym i zawiera wyśrodkowany wyraz „produkt” w kolorze czerwonym.
+
 3. Dolny prostokąt jest w kolorze czerwonym i zawiera wyśrodkowany wyraz „polski” w kolorze białym.
+
 4. Kolor czerwony we wszystkich elementach znaku składa się w równych częściach z barwników MAGENTA i YELLOW.
+
 5. Wzór znaku graficznego zawierającego informację „Produkt polski” jest określony w załączniku do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-Załącznik do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 16 grudnia 2016 r. (Dz. U. z 2023 r. poz. ) WZÓR WZÓR
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. Załącznik do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 16 grudnia 2016 r. (Dz. U. z 2023 r. poz. ) WZÓR WZÓR
 

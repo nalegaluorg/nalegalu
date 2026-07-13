@@ -32,79 +32,30 @@ source: pdf
 - **1)** skreśla się preambułę;
 - **2)** art. 1 otrzymuje brzmienie: "Art. 1. Kodeks pracy określa prawa i obowiązki pracowników i pracodawców.";
 - **3)** art. 3 otrzymuje brzmienie: "Art. 3. Pracodawcą jest jednostka organizacyjna, choćby nie posiadała osobowości prawnej, a także osoba fizyczna, jeżeli zatrudniają one pracowników.";
-- **4)** po art. 3 dodaje się art. 3 w brzmieniu: "Art. 3 . §1. Za pracodawcę będącego jednostką organizacyjną czynności w sprawach z zakresu prawa pracy dokonuje osoba lub organ zarządzający tą jednostką albo inna wyznaczona do tego osoba.
-
-§ 2. Przepis § 1 stosuje się odpowiednio do pracodawcy będącego osobą fizyczną, jeżeli nie dokonuje on osobiście czynności, o których mowa w tym przepisie.";
-
+- **4)** po art. 3 dodaje się art. 3 w brzmieniu: "Art. 3 . §1. Za pracodawcę będącego jednostką organizacyjną czynności w sprawach z zakresu prawa pracy dokonuje osoba lub organ zarządzający tą jednostką albo inna wyznaczona do tego osoba. §2. Przepis § 1 stosuje się odpowiednio do pracodawcy będącego osobą fizyczną, jeżeli nie dokonuje on osobiście czynności, o których mowa w tym przepisie.";
 - **5)** skreśla się art. 4;
 - **6)** w art. 6 w § 2 wyrazy "Polskiej Rzeczypospolitej Ludowej" zastępuje się wyrazami "Rzeczypospolitej Polskiej";
 - **7)** skreśla się art. 7;
 - **8)** w art. 8 w zdaniu pierwszym skreśla się wyrazy "w Polskiej Rzeczypospolitej Ludowej";
-- **9)** art. 9 otrzymuje brzmienie: "Art. 9. §1 . Ilekroć w Kodeksie pracy jest mowa o prawie pracy, rozumie się przez to przepisy Kodeksu pracy oraz przepisy innych ustaw i aktów wykonawczych, określające prawa i obowiązki pracowników i pracodawców, a także postanowienia układów zbiorowych pracy i innych opartych na ustawie porozumień zbiorowych, regulaminów i statutów określających prawa i obowiązki stron stosunku pracy.
-
-§ 2. Postanowienia układów zbiorowych pracy i porozumień zbiorowych oraz regulaminów i statutów nie mogą być mniej korzystne dla pracowników niż przepisy Kodeksu pracy oraz innych ustaw i aktów wykonawczych.
-
-§ 3. Postanowienia regulaminów i statutów nie mogą być mniej korzystne dla pracowników niż postanowienia układów zbiorowych pracy i porozumień zbiorowych.";
-
-- **10)** art. 10 otrzymuje brzmienie: "Art. 10. §1. Każdy ma prawo do swobodnie wybranej pracy. Nikomu, z wyjątkiem przypadków określonych w ustawie, nie można zabronić wykonywania zawodu.
-
-§ 2. Państwo określa minimalną wysokość wynagrodzenia za pracę.
-
-§ 3. Państwo prowadzi politykę zmierzającą do pełnego produktywnego zatrudnienia.";
-
+- **9)** art. 9 otrzymuje brzmienie: "Art. 9. §1 . Ilekroć w Kodeksie pracy jest mowa o prawie pracy, rozumie się przez to przepisy Kodeksu pracy oraz przepisy innych ustaw i aktów wykonawczych, określające prawa i obowiązki pracowników i pracodawców, a także postanowienia układów zbiorowych pracy i innych opartych na ustawie porozumień zbiorowych, regulaminów i statutów określających prawa i obowiązki stron stosunku pracy. §2. Postanowienia układów zbiorowych pracy i porozumień zbiorowych oraz regulaminów i statutów nie mogą być mniej korzystne dla pracowników niż przepisy Kodeksu pracy oraz innych ustaw i aktów wykonawczych. §3. Postanowienia regulaminów i statutów nie mogą być mniej korzystne dla pracowników niż postanowienia układów zbiorowych pracy i porozumień zbiorowych.";
+- **10)** art. 10 otrzymuje brzmienie: "Art. 10. §1. Każdy ma prawo do swobodnie wybranej pracy. Nikomu, z wyjątkiem przypadków określonych w ustawie, nie można zabronić wykonywania zawodu. §2. Państwo określa minimalną wysokość wynagrodzenia za pracę. §3. Państwo prowadzi politykę zmierzającą do pełnego produktywnego zatrudnienia.";
 - **11)** w art. 11 wyrazy "zakładu pracy" zastępuje się wyrazem "pracodawcy";
-- **12)** po art. 11 dodaje się art. 11 -11 w brzmieniu: "Art. 11 . Pracodawca jest obowiązany szanować godność i inne dobra osobiste pracownika.
-
-**Art. 11².** Pracownicy mają równe prawa z tytułu jednakowego wypełniania takich samych obowiązków; dotyczy to w szczególności równego traktowania mężczyzn i kobiet w dziedzinie pracy.
-
-**Art. 11³.** Jakakolwiek dyskryminacja w stosunkach pracy, w szczególności ze względu na płeć, wiek, niepełnosprawność, rasę, narodowość, przekonania, zwłaszcza polityczne lub religijne, oraz przynależność związkową - jest niedopuszczalna.";
-
+- **12)** po art. 11 dodaje się art. 11 1 -11 w brzmieniu: "Art. 11 . Pracodawca jest obowiązany szanować godność i inne dobra osobiste pracownika. Art. 11 2 . Pracownicy mają równe prawa z tytułu jednakowego wypełniania takich samych obowiązków; dotyczy to w szczególności równego traktowania mężczyzn i kobiet w dziedzinie pracy. Art. 11 3 . Jakakolwiek dyskryminacja w stosunkach pracy, w szczególności ze względu na płeć, wiek, niepełnosprawność, rasę, narodowość, przekonania, zwłaszcza polityczne lub religijne, oraz przynależność związkową - jest niedopuszczalna.";
 - **13)** skreśla się art. 12;
 - **14)** art. 13 otrzymuje brzmienie: "Art. 13. Pracownik ma prawo do godziwego wynagrodzenia za pracę. Warunki realizacji tego prawa określają przepisy prawa pracy oraz polityka państwa w dziedzinie płac, w szczególności poprzez ustalanie najniższego wynagrodzenia za pracę.";
 - **15)** w art. 15 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca";
 - **16)** art. 16 otrzymuje brzmienie: "Art. 16. Pracodawca, stosownie do możliwości i warunków, zaspokaja bytowe, socjalne i kulturalne potrzeby pracowników.";
 - **17)** w art. 17 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca";
 - **18)** w art. 18 § 1 otrzymuje brzmienie: "§1. Postanowienia umów o pracę oraz innych aktów, na których podstawie powstaje stosunek pracy, nie mogą być mniej korzystne dla pracownika niż przepisy prawa pracy.";
-- **19)** po art. 18 dodaje się art. 18 -18 w brzmieniu: "Art. 18 . §1. Pracownicy i pracodawcy, w celu reprezentacji i obrony swoich praw i interesów, mają prawo tworzyć organizacje i przystępować do tych organizacji.
-
-§ 2. Zasady tworzenia i działania organizacji, o których mowa w § 1, określa ustawa o związkach zawodowych, ustawa o organizacjach pracodawców oraz inne przepisy prawa.
-
-**Art. 18².** Pracownicy uczestniczą w zarządzaniu zakładem pracy w zakresie i na zasadach określonych w odrębnych przepisach.
-
-**Art. 18³.** Pracodawcy oraz organy administracji są obowiązani tworzyć warunki umożliwiające korzystanie z uprawnień określonych w przepisach, o których mowa w art. 18 i 18 .";
-
-- **20)** w dziale pierwszym po rozdziale II dodaje się rozdział IIa w brzmieniu: "Rozdział IIa Nadzór i kontrola przestrzegania prawa pracy
-
-**Art. 18⁴.**
-
-§ 1. Nadzór i kontrolę przestrzegania prawa pracy, w tym przepisów i zasad bezpieczeństwa i higieny pracy, sprawuje Państwowa Inspekcja Pracy.
-
-§ 2. Nadzór i kontrolę przestrzegania zasad, przepisów higieny pracy i warunków środowiska pracy sprawuje Państwowa Inspekcja Sanitarna.
-
-§ 3. Organizację i zakres działania inspekcji, o których mowa w § 1 i 2, określają odrębne przepisy.
-
-**Art. 18⁵.**
-
-§ 1. Społeczną kontrolę przestrzegania prawa pracy, w tym przepisów i zasad bezpieczeństwa i higieny pracy, sprawuje społeczna inspekcja pracy.
-
-§ 2. Organizację, zadania i uprawnienia społecznej inspekcji pracy oraz zasady jej współdziałania z Państwową Inspekcją Pracy i innymi państwowymi organami nadzoru i kontroli określają odrębne przepisy.";
-
+- **19)** po art. 18 dodaje się art. 18 1 -18 w brzmieniu: "Art. 18 . §1. Pracownicy i pracodawcy, w celu reprezentacji i obrony swoich praw i interesów, mają prawo tworzyć organizacje i przystępować do tych organizacji. §2. Zasady tworzenia i działania organizacji, o których mowa w § 1, określa ustawa o związkach zawodowych, ustawa o organizacjach pracodawców oraz inne przepisy prawa. Art. 18 2 . Pracownicy uczestniczą w zarządzaniu zakładem pracy w zakresie i na zasadach określonych w odrębnych przepisach. Art. 18 3 . Pracodawcy oraz organy administracji są obowiązani tworzyć warunki umożliwiające korzystanie z uprawnień określonych w przepisach, o których mowa w art. 18 i 18 .";
+- **20)** w dziale pierwszym po rozdziale II dodaje się rozdział IIa w brzmieniu: "Rozdział IIa Nadzór i kontrola przestrzegania prawa pracy Art. 18 4 . §1. Nadzór i kontrolę przestrzegania prawa pracy, w tym przepisów i zasad bezpieczeństwa i higieny pracy, sprawuje Państwowa Inspekcja Pracy. §2. Nadzór i kontrolę przestrzegania zasad, przepisów higieny pracy i warunków środowiska pracy sprawuje Państwowa Inspekcja Sanitarna. §3. Organizację i zakres działania inspekcji, o których mowa w § 1 i 2, określają odrębne przepisy. Art. 18 5 . §1. Społeczną kontrolę przestrzegania prawa pracy, w tym przepisów i zasad bezpieczeństwa i higieny pracy, sprawuje społeczna inspekcja pracy. §2. Organizację, zadania i uprawnienia społecznej inspekcji pracy oraz zasady jej współdziałania z Państwową Inspekcją Pracy i innymi państwowymi organami nadzoru i kontroli określają odrębne przepisy.";
 - **21)** skreśla się w dziale pierwszym rozdział III;
 - **22)** w art. 22:
     - **a)** § 1 otrzymuje brzmienie: "§1. Przez nawiązanie stosunku pracy pracownik zobowiązuje się do wykonywania pracy określonego rodzaju na rzecz pracodawcy i pod jego kierownictwem, a pracodawca do zatrudniania pracownika za wynagrodzeniem.",
     - **b)** po § 1 dodaje się § 1 w brzmieniu: "§1 . Zatrudnienie w warunkach określonych w § 1 jest zatrudnieniem na podstawie stosunku pracy, bez względu na nazwę zawartej przez strony umowy.";
 
 - **23)** skreśla się art. 23;
-- **24)** art. 23 otrzymuje brzmienie: "Art. 23 . §1. W razie przejścia zakładu pracy lub jego części na innego pracodawcę staje się on z mocy prawa stroną w dotychczasowych stosunkach pracy, z zastrzeżeniem przepisów § 5.
-
-§ 2. Za zobowiązania wynikające ze stosunku pracy, powstałe przed przejściem części zakładu pracy na innego pracodawcę, dotychczasowy i nowy pracodawca odpowiadają solidarnie.
-
-§ 3. O przejściu zakładu pracy lub jego części na innego pracodawcę i wynikających z tego skutkach dla przejmowanych pracowników w zakresie ich stosunków pracy pracodawca jest obowiązany niezwłocznie zawiadomić pracowników na piśmie, w terminie poprzedzającym dokonanie tych zmian.
-
-§ 4. W terminie jednego miesiąca od zawiadomienia przewidzianego w § 3 pracownik może bez wypowiedzenia, za siedmiodniowym uprzedzeniem, rozwiązać stosunek pracy. Rozwiązanie stosunku pracy w tym trybie powoduje dla pracownika skutki, jakie przepisy prawa pracy wiążą z rozwiązaniem stosunku pracy przez pracodawcę za wypowiedzeniem.
-
-§ 5. Pracodawca, z dniem przejęcia zakładu pracy lub jego części, jest obowiązany zaproponować nowe warunki pracy i płacy pracownikom świadczącym dotychczas pracę na innej podstawie niż umowa o pracę oraz wskazać termin, nie krótszy niż 7 dni, do którego pracownicy mogą złożyć oświadczenie o przyjęciu lub odmowie przyjęcia proponowanych warunków. W razie nieuzgodnienia nowych warunków pracy i płacy dotychczasowy stosunek pracy rozwiązuje się z upływem okresu równego okresowi wypowiedzenia, liczonego od dnia, w którym pracownik złożył oświadczenie o odmowie przyjęcia proponowanych warunków, lub od dnia, do którego mógł złożyć takie oświadczenie. Przepis § 4 zdanie drugie stosuje się odpowiednio.";
-
+- **24)** art. 23 otrzymuje brzmienie: "Art. 23 . §1. W razie przejścia zakładu pracy lub jego części na innego pracodawcę staje się on z mocy prawa stroną w dotychczasowych stosunkach pracy, z zastrzeżeniem przepisów § 5. §2. Za zobowiązania wynikające ze stosunku pracy, powstałe przed przejściem części zakładu pracy na innego pracodawcę, dotychczasowy i nowy pracodawca odpowiadają solidarnie. §3. O przejściu zakładu pracy lub jego części na innego pracodawcę i wynikających z tego skutkach dla przejmowanych pracowników w zakresie ich stosunków pracy pracodawca jest obowiązany niezwłocznie zawiadomić pracowników na piśmie, w terminie poprzedzającym dokonanie tych zmian. §4. W terminie jednego miesiąca od zawiadomienia przewidzianego w § 3 pracownik może bez wypowiedzenia, za siedmiodniowym uprzedzeniem, rozwiązać stosunek pracy. Rozwiązanie stosunku pracy w tym trybie powoduje dla pracownika skutki, jakie przepisy prawa pracy wiążą z rozwiązaniem stosunku pracy przez pracodawcę za wypowiedzeniem. §5. Pracodawca, z dniem przejęcia zakładu pracy lub jego części, jest obowiązany zaproponować nowe warunki pracy i płacy pracownikom świadczącym dotychczas pracę na innej podstawie niż umowa o pracę oraz wskazać termin, nie krótszy niż 7 dni, do którego pracownicy mogą złożyć oświadczenie o przyjęciu lub odmowie przyjęcia proponowanych warunków. W razie nieuzgodnienia nowych warunków pracy i płacy dotychczasowy stosunek pracy rozwiązuje się z upływem okresu równego okresowi wypowiedzenia, liczonego od dnia, w którym pracownik złożył oświadczenie o odmowie przyjęcia proponowanych warunków, lub od dnia, do którego mógł złożyć takie oświadczenie. Przepis § 4 zdanie drugie stosuje się odpowiednio.";
 - **25)** po art. 23 dodaje się art. 23 w brzmieniu:
 
 **Art. 23².** Jeżeli przepisy prawa pracy przewidują współdziałanie pracodawcy z zakładową organizacją związkową w indywidualnych sprawach ze stosunku pracy, pracodawca ma obowiązek współdziałać w takich sprawach z zakładową organizacją związkową reprezentującą pracownika z tytułu jego członkostwa w związku zawodowym albo wyrażenia zgody na obronę praw pracownika nie zrzeszonego w związku - zgodnie z ustawą o związkach zawodowych.";
@@ -124,17 +75,10 @@ source: pdf
     - **c)** po § 4 dodaje się § 5 w brzmieniu: "§5. W oświadczeniu pracodawcy o wypowiedzeniu umowy o pracę lub jej rozwiązaniu bez wypowiedzenia powinno być zawarte pouczenie o przysługującym pracownikowi prawie odwołania do sądu pracy.";
 
 - **32)** skreśla się art. 31;
-- **33)** art. 34 otrzymuje brzmienie: "Art. 34. Okres wypowiedzenia umowy o pracę zawartej na okres próbny wynosi:
-- **1)** 3 dni robocze, jeżeli okres próbny nie przekracza 2 tygodni,
-- **2)** 1 tydzień, jeżeli okres próbny jest dłuższy niż 2 tygodnie,
-- **3)** 2 tygodnie, jeżeli okres próbny wynosi 3 miesiące.";
+- **33)** art. 34 otrzymuje brzmienie: "Art. 34. Okres wypowiedzenia umowy o pracę zawartej na okres próbny wynosi: 1) 3 dni robocze, jeżeli okres próbny nie przekracza 2 tygodni, 2) 1 tydzień, jeżeli okres próbny jest dłuższy niż 2 tygodnie, 3) 2 tygodnie, jeżeli okres próbny wynosi 3 miesiące.";
 - **34)** w art. 36:
-    - **a)** § 1 otrzymuje brzmienie: "§1. Okres wypowiedzenia umowy o pracę zawartej na czas nie określony jest uzależniony od okresu zatrudnienia u danego pracodawcy i wynosi:
-
-- **1)** 2 tygodnie, jeżeli pracownik był zatrudniony krócej niż 6 miesięcy,
-- **2)** 1 miesiąc, jeżeli pracownik był zatrudniony co najmniej 6 miesięcy,
-- **3)** 3 miesiące, jeżeli pracownik był zatrudniony co najmniej 3 lata.",
-    - **b)** po § 1 dodaje się § 1 w brzmieniu: "§1 . Do okresu zatrudnienia, o którym mowa w § 1, wlicza się pracownikowi okres zatrudnienia u poprzedniego pracodawcy, jeżeli zmiana pracodawcy nastąpiła na zasadach określonych w art. 23 , a także w innych przypadkach, gdy z mocy odrębnych przepisów nowy pracodawca jest następcą prawnym w stosunkach pracy nawiązanych przez pracodawcę poprzednio zatrudniającego tego pracownika.",
+    - **a)** § 1 otrzymuje brzmienie: "§1. Okres wypowiedzenia umowy o pracę zawartej na czas nie określony jest uzależniony od okresu zatrudnienia u danego pracodawcy i wynosi: 1) 2 tygodnie, jeżeli pracownik był zatrudniony krócej niż 6 miesięcy, 2) 1 miesiąc, jeżeli pracownik był zatrudniony co najmniej 6 miesięcy, 3) 3 miesiące, jeżeli pracownik był zatrudniony co najmniej 3 lata.",
+    - **b)** po § 1 dodaje się § 1 w brzmieniu: "§1 . Do okresu zatrudnienia, o którym mowa w § 1, wlicza się pracownikowi okres zatrudnienia u poprzedniego pracodawcy, jeżeli zmiana pracodawcy nastąpiła na zasadach określonych w art. 23 1 , a także w innych przypadkach, gdy z mocy odrębnych przepisów nowy pracodawca jest następcą prawnym w stosunkach pracy nawiązanych przez pracodawcę poprzednio zatrudniającego tego pracownika.",
     - **c)** skreśla się § 2-4;
 
 - **35)** w art. 36 § 1 otrzymuje brzmienie: "§1. Jeżeli wypowiedzenie pracownikowi umowy o pracę zawartej na czas nie określony następuje z powodu ogłoszenia upadłości lub likwidacji pracodawcy albo zmniejszenia zatrudnienia z przyczyn dotyczących pracodawcy, określonych w odrębnych przepisach, pracodawca może, w celu wcześniejszego rozwiązania umowy o pracę, skrócić okres trzymiesięcznego wypowiedzenia, najwyżej jednak do jednego miesiąca; w takim przypadku pracownikowi przysługuje odszkodowanie w wysokości wynagrodzenia za pozostałą część okresu wypowiedzenia.";
@@ -150,15 +94,13 @@ source: pdf
 - **40)** w art. 41 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca" oraz skreśla się wyraz "zakład";
 - **41)** w art. 41 w § 1 i 2 wyrazy "zakładu pracy" zastępuje się wyrazem "pracodawcy";
 - **42)** w art. 42 w § 3 i 4 wyrazy "zakładu pracy" zastępuje się wyrazem "pracodawcy";
-- **43)** art. 43 otrzymuje brzmienie: "Art. 43. Pracodawca może wypowiedzieć warunki pracy lub płacy pracownikowi, o którym mowa w art. 39, jeżeli wypowiedzenie stało się konieczne ze względu na:
-- **1)** wprowadzenie nowych zasad wynagradzania dotyczących ogółu pracowników zatrudnionych u danego pracodawcy lub tej ich grupy, do której pracownik należy,
-- **2)** stwierdzoną orzeczeniem lekarskim utratę zdolności do wykonywania dotychczasowej pracy albo niezawinioną przez pracownika utratę uprawnień koniecznych do jej wykonywania.";
+- **43)** art. 43 otrzymuje brzmienie: "Art. 43. Pracodawca może wypowiedzieć warunki pracy lub płacy pracownikowi, o którym mowa w art. 39, jeżeli wypowiedzenie stało się konieczne ze względu na: 1) wprowadzenie nowych zasad wynagradzania dotyczących ogółu pracowników zatrudnionych u danego pracodawcy lub tej ich grupy, do której pracownik należy, 2) stwierdzoną orzeczeniem lekarskim utratę zdolności do wykonywania dotychczasowej pracy albo niezawinioną przez pracownika utratę uprawnień koniecznych do jej wykonywania.";
 - **44)** w dziale drugim w rozdziale II w tytule oddziału 4 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawcę";
 - **45)** w art. 44 wyrazy "komisji odwoławczej do spraw pracy, o której" zastępuje się wyrazami "sądu pracy, o którym";
 - **46)** w art. 45:
     - **a)** w § 1 wyraz "sąd" zastępuje się wyrazami "sąd pracy",
     - **b)** § 2 otrzymuje brzmienie: "§2. Sąd pracy może nie uwzględnić żądania pracownika uznania wypowiedzenia za bezskuteczne lub przywrócenia do pracy, jeżeli ustali, że uwzględnienie takiego żądania jest niemożliwe lub niecelowe; w takim przypadku sąd pracy orzeka o odszkodowaniu.",
-    - **c)** w § 3 na końcu kropkę zastępuje się przecinkiem i dodaje wyrazy "chyba że uwzględnienie żądania pracownika przywrócenia do pracy jest niemożliwe z przyczyn określonych w art. 41 ; w takim przypadku sąd pracy orzeka o odszkodowaniu.";
+    - **c)** w § 3 na końcu kropkę zastępuje się przecinkiem i dodaje wyrazy "chyba że uwzględnienie żądania pracownika przywrócenia do pracy jest niemożliwe z przyczyn określonych w art. 41 1 ; w takim przypadku sąd pracy orzeka o odszkodowaniu.";
 
 - **47)** w art. 47 skreśla się oznaczenie § 1 oraz skreśla się § 2;
 - **48)** w art. 48:
@@ -191,29 +133,9 @@ source: pdf
 - **56)** w art. 57 skreśla się § 3;
 - **57)** w art. 59 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawcę";
 - **58)** w art. 60 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawca";
-- **59)** po art. 61 dodaje się oddział 6a w brzmieniu: "Oddział 6a Uprawnienia pracodawcy w razie nieuzasadnionego rozwiązania przez pracownika umowy o pracę bez wypowiedzenia
-
-**Art. 61¹.** W razie nieuzasadnionego rozwiązania przez pracownika umowy o pracę bez wypowiedzenia na podstawie art. 55 § 1 , pracodawcy przysługuje roszczenie o odszkodowanie. O odszkodowaniu orzeka sąd pracy.
-
-**Art. 61².**
-
-§ 1. Odszkodowanie, o którym mowa w art. 61 , przysługuje w wysokości wyrządzonej szkody, jednakże nie może ono przewyższać wynagrodzenia pracownika za okres wypowiedzenia, a w przypadku rozwiązania umowy o pracę zawartej na czas określony lub na czas wykonania określonej pracy - wynagrodzenia za okres 2 tygodni.
-
-§ 2. W razie orzeczenia przez sąd pracy o odszkodowaniu, przepisu art. 55 § 3 nie stosuje się.";
-
+- **59)** po art. 61 dodaje się oddział 6a w brzmieniu: "Oddział 6a Uprawnienia pracodawcy w razie nieuzasadnionego rozwiązania przez pracownika umowy o pracę bez wypowiedzenia Art. 61 1 . W razie nieuzasadnionego rozwiązania przez pracownika umowy o pracę bez wypowiedzenia na podstawie art. 55 § 1 1 , pracodawcy przysługuje roszczenie o odszkodowanie. O odszkodowaniu orzeka sąd pracy. Art. 61 2 . §1. Odszkodowanie, o którym mowa w art. 61 1 , przysługuje w wysokości wyrządzonej szkody, jednakże nie może ono przewyższać wynagrodzenia pracownika za okres wypowiedzenia, a w przypadku rozwiązania umowy o pracę zawartej na czas określony lub na czas wykonania określonej pracy - wynagrodzenia za okres 2 tygodni. §2. W razie orzeczenia przez sąd pracy o odszkodowaniu, przepisu art. 55 § 3 nie stosuje się.";
 - **60)** skreśla się art. 62;
-- **61)** po art. 63 dodaje się art. 63 i 63 w brzmieniu: "Art. 63 . §1. Z dniem śmierci pracownika stosunek pracy wygasa.
-
-§ 2. Prawa majątkowe ze stosunku pracy przechodzą po śmierci pracownika, w równych częściach, na małżonka oraz inne osoby spełniające warunki wymagane do uzyskania renty rodzinnej w myśl przepisów o zaopatrzeniu emerytalnym pracowników i ich rodzin. W razie braku takich osób prawa te wchodzą do spadku.
-
-**Art. 63².**
-
-§ 1. Z dniem śmierci pracodawcy umowy o pracę z pracownikami wygasają, z zastrzeżeniem przepisu § 3.
-
-§ 2. Pracownikowi, którego umowa o pracę wygasła z przyczyn określonych w § 1, przysługuje odszkodowanie w wysokości wynagrodzenia za okres wypowiedzenia, a w przypadku zawarcia umowy o pracę na czas określony lub na czas wykonania określonej pracy - w wysokości wynagrodzenia za okres 2 tygodni.
-
-§ 3. Przepis § 1 nie ma zastosowania w razie przejęcia pracownika przez nowego pracodawcę na zasadach określonych w art. 23 .";
-
+- **61)** po art. 63 dodaje się art. 63 i 63 w brzmieniu: "Art. 63 . §1. Z dniem śmierci pracownika stosunek pracy wygasa. §2. Prawa majątkowe ze stosunku pracy przechodzą po śmierci pracownika, w równych częściach, na małżonka oraz inne osoby spełniające warunki wymagane do uzyskania renty rodzinnej w myśl przepisów o zaopatrzeniu emerytalnym pracowników i ich rodzin. W razie braku takich osób prawa te wchodzą do spadku. Art. 63 2 . §1. Z dniem śmierci pracodawcy umowy o pracę z pracownikami wygasają, z zastrzeżeniem przepisu § 3. §2. Pracownikowi, którego umowa o pracę wygasła z przyczyn określonych w § 1, przysługuje odszkodowanie w wysokości wynagrodzenia za okres wypowiedzenia, a w przypadku zawarcia umowy o pracę na czas określony lub na czas wykonania określonej pracy - w wysokości wynagrodzenia za okres 2 tygodni. §3. Przepis § 1 nie ma zastosowania w razie przejęcia pracownika przez nowego pracodawcę na zasadach określonych w art. 23 .";
 - **62)** skreśla się art. 64 i 65;
 - **63)** w art. 66:
     - **a)** w § 1 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawca",
@@ -229,64 +151,15 @@ source: pdf
 - **68)** w art. 72 § 4 otrzymuje brzmienie: "§4. W razie naruszenia przepisów § 1-3, pracownikowi przysługuje prawo odwołania do sądu pracy.";
 - **69)** w art. 74 wyrazy "do zakładu pracy" zastępuje się wyrazami "do pracy u pracodawcy";
 - **70)** w art. 77 § 2 otrzymuje brzmienie: "§2. Stosunek pracy na podstawie spółdzielczej umowy o pracę reguluje ustawa - Prawo spółdzielcze, a w zakresie nie uregulowanym odmiennie tą ustawą stosuje się odpowiednio przepisy Kodeksu pracy.";
-- **71)** w dziale trzecim dodaje się nowy rozdział I w brzmieniu: "Rozdział I Ustalanie wynagrodzenia za pracę i innych świadczeń związanych z pracą
-
-**Art. 77¹.** Warunki wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą ustalają układy zbiorowe pracy, zgodnie z przepisami działu jedenastego, z zastrzeżeniem przepisów art. 77 -77 .
-
-**Art. 77².**
-
-§ 1. Pracodawca zatrudniający co najmniej 5 pracowników, nie objętych zakładowym układem zbiorowym pracy ani ponadzakładowym układem zbiorowym pracy odpowiadającym wymaganiom określonym w § 3, ustala warunki wynagradzania za pracę w regulaminie wynagradzania.
-
-§ 2. W regulaminie wynagradzania, o którym mowa w § 1, pracodawca może ustalić także inne świadczenia związane z pracą i zasady ich przyznawania.
-
-§ 3. Regulamin wynagradzania obowiązuje do czasu objęcia pracowników zakładowym układem zbiorowym pracy lub ponadzakładowym układem zbiorowym pracy ustalającym warunki wynagradzania za pracę oraz przyznawania innych świadczeń związanych z pracą w zakresie i w sposób umożliwiający określanie, na jego podstawie, indywidualnych warunków umów o pracę.
-
-§ 4. Regulamin wynagradzania ustala pracodawca. Jeżeli u danego pracodawcy działa zakładowa organizacja związkowa, pracodawca uzgadnia z nią regulamin wynagradzania.
-
-§ 5. Do regulaminu wynagradzania stosuje się odpowiednio przepisy art. 239 § 3, art. 241 § 2, art. 241 oraz art. 241 .
-
-§ 6. Regulamin wynagradzania wchodzi w życie po upływie dwóch tygodni od dnia podania go do wiadomości pracowników, w sposób przyjęty u danego pracodawcy.
-
-**Art. 77³.** Zasady wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w państwowych jednostkach sfery budżetowej, jeżeli nie są oni objęci ponadzakładowym układem zbiorowym pracy, określi, w drodze rozporządzenia - w zakresie nie zastrzeżonym w odrębnych przepisach do właściwości innych organów Minister Pracy i Polityki Socjalnej, na wniosek właściwego ministra.
-
-**Art. 77⁴.** Minister Pracy i Polityki Socjalnej określi, w drodze zarządzenia:
-
-- **1)** najniższe wynagrodzenie za pracę, przysługujące pracownikom zatrudnionym w pełnym wymiarze czasu pracy, oraz przypadki, w których mimo niewykonywania pracy w takim wymiarze pracownikowi przysługuje najniższe wynagrodzenie,
-- **2)** zasady ustalania oraz wysokość należności przysługujących pracownikom z tytułu podróży służbowej.";
+- **71)** w dziale trzecim dodaje się nowy rozdział I w brzmieniu: "Rozdział I Ustalanie wynagrodzenia za pracę i innych świadczeń związanych z pracą Art. 77 1 . Warunki wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą ustalają układy zbiorowe pracy, zgodnie z przepisami działu jedenastego, z zastrzeżeniem przepisów art. 77 2 -77 . Art. 77 2 . §1. Pracodawca zatrudniający co najmniej 5 pracowników, nie objętych zakładowym układem zbiorowym pracy ani ponadzakładowym układem zbiorowym pracy odpowiadającym wymaganiom określonym w § 3, ustala warunki wynagradzania za pracę w regulaminie wynagradzania. §2. W regulaminie wynagradzania, o którym mowa w § 1, pracodawca może ustalić także inne świadczenia związane z pracą i zasady ich przyznawania. §3. Regulamin wynagradzania obowiązuje do czasu objęcia pracowników zakładowym układem zbiorowym pracy lub ponadzakładowym układem zbiorowym pracy ustalającym warunki wynagradzania za pracę oraz przyznawania innych świadczeń związanych z pracą w zakresie i w sposób umożliwiający określanie, na jego podstawie, indywidualnych warunków umów o pracę. §4. Regulamin wynagradzania ustala pracodawca. Jeżeli u danego pracodawcy działa zakładowa organizacja związkowa, pracodawca uzgadnia z nią regulamin wynagradzania. §5. Do regulaminu wynagradzania stosuje się odpowiednio przepisy art. 239 § 3, art. 241 § 2, art. 241 oraz art. 241 . §6. Regulamin wynagradzania wchodzi w życie po upływie dwóch tygodni od dnia podania go do wiadomości pracowników, w sposób przyjęty u danego pracodawcy. Art. 77 3 . Zasady wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w państwowych jednostkach sfery budżetowej, jeżeli nie są oni objęci ponadzakładowym układem zbiorowym pracy, określi, w drodze rozporządzenia - w zakresie nie zastrzeżonym w odrębnych przepisach do właściwości innych organów Minister Pracy i Polityki Socjalnej, na wniosek właściwego ministra. Art. 77 4 . Minister Pracy i Polityki Socjalnej określi, w drodze zarządzenia: 1) najniższe wynagrodzenie za pracę, przysługujące pracownikom zatrudnionym w pełnym wymiarze czasu pracy, oraz przypadki, w których mimo niewykonywania pracy w takim wymiarze pracownikowi przysługuje najniższe wynagrodzenie, 2) zasady ustalania oraz wysokość należności przysługujących pracownikom z tytułu podróży służbowej.";
 - **72)** w dziale trzecim dotychczasowemu rozdziałowi I nadaje się oznaczenie "Rozdział Ia";
-- **73)** art. 78 otrzymuje brzmienie: "Art. 78. §1. Wynagrodzenie za pracę powinno być tak ustalone, aby odpowiadało w szczególności rodzajowi wykonywanej pracy i kwalifikacjom wymaganym przy jej wykonywaniu, a także uwzględniało ilość i jakość świadczonej pracy.
-
-§ 2. W celu określenia wynagrodzenia za pracę ustala się, w trybie przewidzianym w art. 77 -77 , wysokość oraz zasady przyznawania pracownikom stawek wynagrodzenia za pracę określonego rodzaju lub na określonym stanowisku, a także innych (dodatkowych) składników wynagrodzenia, jeżeli zostały one przewidziane z tytułu wykonywania określonej pracy.";
-
+- **73)** art. 78 otrzymuje brzmienie: "Art. 78. §1. Wynagrodzenie za pracę powinno być tak ustalone, aby odpowiadało w szczególności rodzajowi wykonywanej pracy i kwalifikacjom wymaganym przy jej wykonywaniu, a także uwzględniało ilość i jakość świadczonej pracy. §2. W celu określenia wynagrodzenia za pracę ustala się, w trybie przewidzianym w art. 77 1 -77 , wysokość oraz zasady przyznawania pracownikom stawek wynagrodzenia za pracę określonego rodzaju lub na określonym stanowisku, a także innych (dodatkowych) składników wynagrodzenia, jeżeli zostały one przewidziane z tytułu wykonywania określonej pracy.";
 - **74)** skreśla się art. 79;
 - **75)** w art. 80 zdanie drugie otrzymuje brzmienie: "Za czas niewykonywania pracy pracownik zachowuje prawo do wynagrodzenia tylko wówczas, gdy przepisy prawa pracy tak stanowią.";
-- **76)** art. 81 otrzymuje brzmienie: "Art. 81. §1.Pracownikowi za czas niewykonywania pracy, jeżeli był gotów do jej wykonywania, a doznał przeszkód z przyczyn dotyczących pracodawcy, przysługuje wynagrodzenie wynikające z jego osobistego zaszeregowania, określonego stawką godzinową lub miesięczną, a jeżeli taki składnik wynagrodzenia nie został wyodrębniony przy określaniu warunków wynagradzania - 60% wynagrodzenia. W każdym przypadku wynagrodzenie to nie może być jednak niższe od najniższego wynagrodzenia określonego na podstawie art. 77 pkt 1.
-
-§ 2. Wynagrodzenie, o którym mowa w § 1, przysługuje pracownikowi za czas niezawinionego przez niego przestoju. Jeżeli przestój nastąpił z winy pracownika, wynagrodzenie nie przysługuje.
-
-§ 3. Pracodawca może na czas przestoju powierzyć pracownikowi inną odpowiednią pracę, za której wykonanie przysługuje wynagrodzenie przewidziane za tę pracę, nie niższe jednak od wynagrodzenia ustalonego zgodnie z § 1. Jeżeli przestój nastąpił z winy pracownika, przysługuje wyłącznie wynagrodzenie przewidziane za wykonaną pracę.
-
-§ 4. Wynagrodzenie za czas przestoju spowodowanego warunkami atmosferycznymi przysługuje pracownikowi zatrudnionemu przy pracach uzależnionych od tych warunków, jeżeli przepisy prawa pracy tak stanowią. W razie powierzenia pracownikowi na czas takiego przestoju innej pracy, przysługuje mu wynagrodzenie przewidziane za wykonaną pracę, chyba że przepisy prawa pracy przewidują stosowanie zasad określonych w § 3.";
-
+- **76)** art. 81 otrzymuje brzmienie: "Art. 81. §1.Pracownikowi za czas niewykonywania pracy, jeżeli był gotów do jej wykonywania, a doznał przeszkód z przyczyn dotyczących pracodawcy, przysługuje wynagrodzenie wynikające z jego osobistego zaszeregowania, określonego stawką godzinową lub miesięczną, a jeżeli taki składnik wynagrodzenia nie został wyodrębniony przy określaniu warunków wynagradzania - 60% wynagrodzenia. W każdym przypadku wynagrodzenie to nie może być jednak niższe od najniższego wynagrodzenia określonego na podstawie art. 77 pkt 1. §2. Wynagrodzenie, o którym mowa w § 1, przysługuje pracownikowi za czas niezawinionego przez niego przestoju. Jeżeli przestój nastąpił z winy pracownika, wynagrodzenie nie przysługuje. §3. Pracodawca może na czas przestoju powierzyć pracownikowi inną odpowiednią pracę, za której wykonanie przysługuje wynagrodzenie przewidziane za tę pracę, nie niższe jednak od wynagrodzenia ustalonego zgodnie z § 1. Jeżeli przestój nastąpił z winy pracownika, przysługuje wyłącznie wynagrodzenie przewidziane za wykonaną pracę. §4. Wynagrodzenie za czas przestoju spowodowanego warunkami atmosferycznymi przysługuje pracownikowi zatrudnionemu przy pracach uzależnionych od tych warunków, jeżeli przepisy prawa pracy tak stanowią. W razie powierzenia pracownikowi na czas takiego przestoju innej pracy, przysługuje mu wynagrodzenie przewidziane za wykonaną pracę, chyba że przepisy prawa pracy przewidują stosowanie zasad określonych w § 3.";
 - **77)** w art. 83 w § 2 w zdaniu pierwszym skreśla się wyrazy "oraz doświadczeń przodujących pracowników", zaś w zdaniu drugim wyraz "powinny" zastępuje się wyrazem "mogą";
-- **78)** art. 85 otrzymuje brzmienie: "Art. 85. §1. Wypłaty wynagrodzenia za pracę dokonuje się co najmniej raz w miesiącu, w stałym i ustalonym z góry terminie, z wyjątkiem tych składników wynagrodzenia, które przysługują za okresy dłuższe niż jeden miesiąc.
-
-§ 2. Wynagrodzenie za pracę płatne miesięcznie wypłaca się z dołu, najpóźniej w ostatnim dniu miesiąca, chyba że przepisy regulujące w sposób szczególny niektóre prawa i obowiązki określonej kategorii pracowników stanowią inaczej.
-
-§ 3. Jeżeli ustalony dzień wypłaty wynagrodzenia za pracę jest dniem wolnym od pracy, wynagrodzenie wypłaca się w dniu poprzednim.
-
-§ 4. Jeżeli wysokość wynagrodzenia pracownika zależy od ilości wykonanej pracy, w terminie określonym w § 2 lub § 3 pracownikowi wypłaca się zaliczkę na wynagrodzenie, a po ustaleniu pełnego wynagrodzenia - niezwłocznie pozostałą kwotę wynagrodzenia.
-
-§ 5. Składniki wynagrodzenia za pracę przysługujące pracownikowi za okresy dłuższe niż jeden miesiąc wypłaca się z dołu w terminach określonych w przepisach prawa pracy.
-
-§ 6. Pracodawca, na żądanie pracownika, jest obowiązany udostępnić do wglądu dokumenty, na których podstawie zostało obliczone jego wynagrodzenie.";
-
-- **79)** art. 86 otrzymuje brzmienie: "Art. 86. §1. Pracodawca jest obowiązany wypłacać wynagrodzenie w miejscu, terminie i czasie określonych w regulaminie pracy lub w innych przepisach prawa pracy.
-
-§ 2. Wypłaty wynagrodzenia dokonuje się w formie pieniężnej; częściowe spełnienie wynagrodzenia w innej formie niż pieniężna jest dopuszczalne tylko wówczas, gdy przewidują to ustawowe przepisy prawa pracy lub układ zbiorowy pracy.
-
-§ 3. Obowiązek wypłacenia wynagrodzenia może być spełniony w inny sposób niż do rąk pracownika, za jego uprzednią zgodą wyrażoną na piśmie.";
-
+- **78)** art. 85 otrzymuje brzmienie: "Art. 85. §1. Wypłaty wynagrodzenia za pracę dokonuje się co najmniej raz w miesiącu, w stałym i ustalonym z góry terminie, z wyjątkiem tych składników wynagrodzenia, które przysługują za okresy dłuższe niż jeden miesiąc. §2. Wynagrodzenie za pracę płatne miesięcznie wypłaca się z dołu, najpóźniej w ostatnim dniu miesiąca, chyba że przepisy regulujące w sposób szczególny niektóre prawa i obowiązki określonej kategorii pracowników stanowią inaczej. §3. Jeżeli ustalony dzień wypłaty wynagrodzenia za pracę jest dniem wolnym od pracy, wynagrodzenie wypłaca się w dniu poprzednim. §4. Jeżeli wysokość wynagrodzenia pracownika zależy od ilości wykonanej pracy, w terminie określonym w § 2 lub § 3 pracownikowi wypłaca się zaliczkę na wynagrodzenie, a po ustaleniu pełnego wynagrodzenia - niezwłocznie pozostałą kwotę wynagrodzenia. §5. Składniki wynagrodzenia za pracę przysługujące pracownikowi za okresy dłuższe niż jeden miesiąc wypłaca się z dołu w terminach określonych w przepisach prawa pracy. §6. Pracodawca, na żądanie pracownika, jest obowiązany udostępnić do wglądu dokumenty, na których podstawie zostało obliczone jego wynagrodzenie.";
+- **79)** art. 86 otrzymuje brzmienie: "Art. 86. §1. Pracodawca jest obowiązany wypłacać wynagrodzenie w miejscu, terminie i czasie określonych w regulaminie pracy lub w innych przepisach prawa pracy. §2. Wypłaty wynagrodzenia dokonuje się w formie pieniężnej; częściowe spełnienie wynagrodzenia w innej formie niż pieniężna jest dopuszczalne tylko wówczas, gdy przewidują to ustawowe przepisy prawa pracy lub układ zbiorowy pracy. §3. Obowiązek wypłacenia wynagrodzenia może być spełniony w inny sposób niż do rąk pracownika, za jego uprzednią zgodą wyrażoną na piśmie.";
 - **80)** w art. 87:
     - **a)** w § 1 wyrazy "po odliczeniu podatków należnych od wynagrodzenia oraz składki na cele emerytalne" zastępuje się wyrazami "po odliczeniu zaliczki na podatek dochodowy od osób fizycznych",
     - **b)** § 5 otrzymuje brzmienie: "§5. Nagroda z zakładowego funduszu nagród oraz należności przysługujące pracownikom z tytułu udziału w zysku lub w nadwyżce bilansowej podlegają egzekucji na zaspokojenie świadczeń alimentacyjnych do pełnej wysokości.",
@@ -300,35 +173,8 @@ source: pdf
 - **83)** w art. 90 wyrazy "w art. 87-89" zastępuje się wyrazami "w art. 87 i 88";
 - **84)** w art. 91 skreśla się zdanie drugie;
 - **85)** w art. 92 w § 1 w pkt 1 wyrazy "chyba że w danym zakładzie pracy wprowadzono wyższe wynagrodzenie z tego tytułu" zastępuje się wyrazami "chyba że obowiązujące u danego pracodawcy przepisy prawa pracy przewidują wyższe wynagrodzenie z tego tytułu";
-- **86)** w dziale trzecim po rozdziale III dodaje się rozdział IIIa w brzmieniu: "Rozdział IIIa Odprawa rentowa lub emerytalna
-
-**Art. 92¹.**
-
-§ 1. Pracownikowi spełniającemu warunki uprawniające do renty inwalidzkiej lub emerytury, którego stosunek pracy ustał w związku z przejściem na rentę lub emeryturę, przysługuje odprawa pieniężna w wysokości jednomiesięcznego wy nagrodzenia.
-
-§ 2. Pracownik, który otrzymał odprawę, nie może ponownie nabyć do niej prawa.";
-
-- **87)** art. 93 otrzymuje brzmienie: "Art. 93. §1. W razie śmierci pracownika w czasie trwania stosunku pracy lub w czasie pobierania po jego rozwiązaniu zasiłku z tytułu niezdolności do pracy wskutek choroby, rodzinie przysługuje od pracodawcy odprawa pośmiertna.
-
-§ 2. Wysokość odprawy, o której mowa w § 1, jest uzależniona od okresu zatrudnienia pracownika u danego pracodawcy i wynosi:
-
-- **1)** jednomiesięczne wynagrodzenie, jeżeli pracownik był zatrudniony krócej niż 10 lat,
-- **2)** trzymiesięczne wynagrodzenie, jeżeli pracownik był zatrudniony co najmniej 10 lat,
-- **3)** sześciomiesięczne wynagrodzenie, jeżeli pracownik był zatrudniony co najmniej 15 lat.
-
-§ 3. Przepis art. 36 §1 stosuje się odpowiednio.
-
-§ 4. Odprawa pośmiertna przysługuje następującym członkom rodziny pracownika:
-
-- **1)** małżonkowi,
-- **2)** innym członkom rodziny spełniającym warunki wymagane do uzyskania renty rodzinnej w myśl przepisów o zaopatrzeniu emerytalnym pracowników i ich rodzin.
-
-§ 5. Odprawę pośmiertną dzieli się w częściach równych pomiędzy wszystkich uprawnionych członków rodziny.
-
-§ 6. Jeżeli po zmarłym pracowniku pozostał tylko jeden członek rodziny uprawniony do odprawy pośmiertnej, przysługuje mu odprawa w wysokości połowy odpowiedniej kwoty określonej w §2.
-
-§ 7. Odprawa pośmiertna nie przysługuje, jeżeli pracodawca ubezpieczył pracownika na życie i rodzinie, o której mowa w §4, przysługuje z tego tytułu od zakładu ubezpieczeń odszkodowanie w wysokości co najmniej równej tej odprawie.";
-
+- **86)** w dziale trzecim po rozdziale III dodaje się rozdział IIIa w brzmieniu: "Rozdział IIIa Odprawa rentowa lub emerytalna Art. 92 1 . §1. Pracownikowi spełniającemu warunki uprawniające do renty inwalidzkiej lub emerytury, którego stosunek pracy ustał w związku z przejściem na rentę lub emeryturę, przysługuje odprawa pieniężna w wysokości jednomiesięcznego wy nagrodzenia. §2. Pracownik, który otrzymał odprawę, nie może ponownie nabyć do niej prawa.";
+- **87)** art. 93 otrzymuje brzmienie: "Art. 93. §1. W razie śmierci pracownika w czasie trwania stosunku pracy lub w czasie pobierania po jego rozwiązaniu zasiłku z tytułu niezdolności do pracy wskutek choroby, rodzinie przysługuje od pracodawcy odprawa pośmiertna. §2. Wysokość odprawy, o której mowa w § 1, jest uzależniona od okresu zatrudnienia pracownika u danego pracodawcy i wynosi: 1) jednomiesięczne wynagrodzenie, jeżeli pracownik był zatrudniony krócej niż 10 lat, 2) trzymiesięczne wynagrodzenie, jeżeli pracownik był zatrudniony co najmniej 10 lat, 3) sześciomiesięczne wynagrodzenie, jeżeli pracownik był zatrudniony co najmniej 15 lat. §3. Przepis art. 36 §1 stosuje się odpowiednio. §4. Odprawa pośmiertna przysługuje następującym członkom rodziny pracownika: 1) małżonkowi, 2) innym członkom rodziny spełniającym warunki wymagane do uzyskania renty rodzinnej w myśl przepisów o zaopatrzeniu emerytalnym pracowników i ich rodzin. §5. Odprawę pośmiertną dzieli się w częściach równych pomiędzy wszystkich uprawnionych członków rodziny. §6. Jeżeli po zmarłym pracowniku pozostał tylko jeden członek rodziny uprawniony do odprawy pośmiertnej, przysługuje mu odprawa w wysokości połowy odpowiedniej kwoty określonej w §2. §7. Odprawa pośmiertna nie przysługuje, jeżeli pracodawca ubezpieczył pracownika na życie i rodzinie, o której mowa w §4, przysługuje z tego tytułu od zakładu ubezpieczeń odszkodowanie w wysokości co najmniej równej tej odprawie.";
 - **88)** w tytule działu czwartego wyrazy "zakładu pracy" zastępuje się wyrazem "pracodawcy";
 - **89)** w tytule rozdziału I w dziale czwartym wyrazy "zakładu pracy" zastępuje się wyrazem "pracodawcy";
 - **90)** w art. 94:
@@ -342,106 +188,30 @@ source: pdf
     - **a)** w § 1 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawca" oraz dodaje zdanie drugie w brzmieniu: "Wydanie świadectwa pracy nie może być uzależnione od uprzedniego rozliczenia się pracownika z pracodawcą.",
     - **b)** § 2 otrzymuje brzmienie: "§2. W świadectwie pracy należy podać informacje dotyczące okresu i rodzaju wykonywanej pracy, zajmowanych stanowisk, trybu rozwiązania albo okoliczności wygaśnięcia stosunku pracy, a także inne informacje niezbędne do ustalenia uprawnień pracowniczych i uprawnień z ubezpieczenia społecznego. Ponadto w świadectwie pracy zamieszcza się wzmiankę o zajęciu wynagrodzenia za pracę w myśl przepisów o postępowaniu egzekucyjnym. Na żądanie pracownika w świadectwie pracy należy podać także informację o wysokości i składnikach wynagrodzenia oraz o uzyskanych kwalifikacjach.",
     - **c)** w § 2 wyrazy "kierownika zakładu pracy" zastępuje się wyrazem "pracodawcy",
-    - **d)** po § 2 dodaje się § 3 i 4 w brzmieniu: "§3. Jeżeli z orzeczenia sądu pracy wynika, że rozwiązanie z pracownikiem umowy o pracę bez wypowiedzenia z jego winy nastąpiło z naruszeniem przepisów o rozwiązywaniu w tym trybie umów o pracę, pracodawca jest obowiązany zamieścić w świadectwie pracy informację, że rozwiązanie umowy o pracę nastąpiło za wypowiedzeniem dokonanym przez pracodawcę.
-
-§ 4. Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, szczegółową treść świadectwa pracy oraz sposób i tryb jego wydawania i prostowania.";
+    - **d)** po § 2 dodaje się § 3 i 4 w brzmieniu: "§3. Jeżeli z orzeczenia sądu pracy wynika, że rozwiązanie z pracownikiem umowy o pracę bez wypowiedzenia z jego winy nastąpiło z naruszeniem przepisów o rozwiązywaniu w tym trybie umów o pracę, pracodawca jest obowiązany zamieścić w świadectwie pracy informację, że rozwiązanie umowy o pracę nastąpiło za wypowiedzeniem dokonanym przez pracodawcę. §4. Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, szczegółową treść świadectwa pracy oraz sposób i tryb jego wydawania i prostowania.";
 
 - **93)** skreśla się art. 98;
 - **94)** w art. 99:
     - **a)** w § 1 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawcę" oraz skreśla wyrazy "albo opinii",
     - **b)** w § 4 skreśla się wyrazy "lub niewłaściwej opinii" oraz wyrazy "lub opinii";
 
-- **95)** art. 100 otrzymuje brzmienie: "Art. 100. §1. Pracownik jest obowiązany wykonywać pracę sumiennie i starannie oraz stosować się do poleceń przełożonych, które dotyczą pracy, jeżeli nie są one sprzeczne z przepisami prawa lub umową o pracę.
-
-§ 2. Pracownik jest obowiązany w szczególności:
-
-- **1)** przestrzegać czasu pracy ustalonego w zakładzie pracy,
-- **2)** przestrzegać regulaminu pracy i ustalonego w zakładzie pracy porządku,
-- **3)** przestrzegać przepisów oraz zasad bezpieczeństwa i higieny pracy, a także przepisów przeciwpożarowych,
-- **4)** dbać o dobro zakładu pracy, chronić jego mienie oraz zachować w tajemnicy informacje, których ujawnienie mogłoby narazić pracodawcę na szkodę,
-- **5)** przestrzegać tajemnicy określonej w odrębnych przepisach,
-- **6)** przestrzegać w zakładzie pracy zasad współżycia społecznego.";
-- **96)** w dziale czwartym po rozdziale II dodaje się rozdział IIa w brzmieniu: "Rozdział IIa Zakaz konkurencji
-
-**Art. 101¹.**
-
-§ 1. W zakresie określonym w odrębnej umowie, pracownik nie może prowadzić działalności konkurencyjnej wobec pracodawcy ani też świadczyć pracy w ramach stosunku pracy lub na innej podstawie na rzecz podmiotu prowadzącego taką działalność (zakaz konkurencji).
-
-§ 2. Pracodawca, który poniósł szkodę wskutek naruszenia przez pracownika zakazu konkurencji przewidzianego w umowie, może dochodzić od pracownika wyrównania tej szkody na zasadach określonych w przepisach rozdziału I w dziale piątym.
-
-**Art. 101².**
-
-§ 1. Przepis art. 101 § 1 stosuje się odpowiednio, gdy pracodawca i pracownik mający dostęp do szczególnie ważnych informacji, których ujawnienie mogłoby narazić pracodawcę na szkodę, zawierają umowę o zakazie konkurencji po ustaniu stosunku pracy. W umowie określa się także okres obowiązywania zakazu konkurencji oraz wysokość odszkodowania należnego pracownikowi od pracodawcy, z zastrzeżeniem przepisów § 2 i 3.
-
-§ 2. Zakaz konkurencji, o którym mowa w § 1, przestaje obowiązywać przed upływem terminu, na jaki została zawarta umowa przewidziana w tym przepisie, w razie ustania przyczyn uzasadniających taki zakaz lub nie wywiązywania się pracodawcy z obowiązku wypłaty odszkodowania.
-
-§ 3. Odszkodowanie, o którym mowa w § 1, nie może być niższe od 25% wynagrodzenia otrzymanego przez pracownika przed ustaniem stosunku pracy przez okres odpowiadający okresowi obowiązywania zakazu konkurencji; odszkodowanie może być wypłacane w miesięcznych ratach. W razie sporu o odszkodowaniu orzeka sąd pracy.
-
-**Art. 101³.** Umowy, o których mowa w art. 101 § 1 i w art. 101 § 1, wymagają pod rygorem nieważności formy pisemnej.
-
-**Art. 101⁴.** Przepisy rozdziału nie naruszają zakazu konkurencji przewidzianego w odrębnych przepisach.";
-
-- **97)** art. 102 otrzymuje brzmienie: "Art. 102. Kwalifikacje zawodowe pracowników wymagane do wykonywa nia pracy określonego rodzaju lub na określonym stanowisku mogą być ustalane w przepisach prawa pracy przewidzianych w art. 77 -77 , w zakresie nie uregulowanym w przepisach szczególnych.";
+- **95)** art. 100 otrzymuje brzmienie: "Art. 100. §1. Pracownik jest obowiązany wykonywać pracę sumiennie i starannie oraz stosować się do poleceń przełożonych, które dotyczą pracy, jeżeli nie są one sprzeczne z przepisami prawa lub umową o pracę. §2. Pracownik jest obowiązany w szczególności: 1) przestrzegać czasu pracy ustalonego w zakładzie pracy, 2) przestrzegać regulaminu pracy i ustalonego w zakładzie pracy porządku, 3) przestrzegać przepisów oraz zasad bezpieczeństwa i higieny pracy, a także przepisów przeciwpożarowych, 4) dbać o dobro zakładu pracy, chronić jego mienie oraz zachować w tajemnicy informacje, których ujawnienie mogłoby narazić pracodawcę na szkodę, 5) przestrzegać tajemnicy określonej w odrębnych przepisach, 6) przestrzegać w zakładzie pracy zasad współżycia społecznego.";
+- **96)** w dziale czwartym po rozdziale II dodaje się rozdział IIa w brzmieniu: "Rozdział IIa Zakaz konkurencji Art. 101 1 . §1. W zakresie określonym w odrębnej umowie, pracownik nie może prowadzić działalności konkurencyjnej wobec pracodawcy ani też świadczyć pracy w ramach stosunku pracy lub na innej podstawie na rzecz podmiotu prowadzącego taką działalność (zakaz konkurencji). §2. Pracodawca, który poniósł szkodę wskutek naruszenia przez pracownika zakazu konkurencji przewidzianego w umowie, może dochodzić od pracownika wyrównania tej szkody na zasadach określonych w przepisach rozdziału I w dziale piątym. Art. 101 2 . §1. Przepis art. 101 § 1 stosuje się odpowiednio, gdy pracodawca i pracownik mający dostęp do szczególnie ważnych informacji, których ujawnienie mogłoby narazić pracodawcę na szkodę, zawierają umowę o zakazie konkurencji po ustaniu stosunku pracy. W umowie określa się także okres obowiązywania zakazu konkurencji oraz wysokość odszkodowania należnego pracownikowi od pracodawcy, z zastrzeżeniem przepisów § 2 i 3. §2. Zakaz konkurencji, o którym mowa w § 1, przestaje obowiązywać przed upływem terminu, na jaki została zawarta umowa przewidziana w tym przepisie, w razie ustania przyczyn uzasadniających taki zakaz lub nie wywiązywania się pracodawcy z obowiązku wypłaty odszkodowania. §3. Odszkodowanie, o którym mowa w § 1, nie może być niższe od 25% wynagrodzenia otrzymanego przez pracownika przed ustaniem stosunku pracy przez okres odpowiadający okresowi obowiązywania zakazu konkurencji; odszkodowanie może być wypłacane w miesięcznych ratach. W razie sporu o odszkodowaniu orzeka sąd pracy. Art. 101 3 . Umowy, o których mowa w art. 101 § 1 i w art. 101 § 1, wymagają pod rygorem nieważności formy pisemnej. Art. 101 4 . Przepisy rozdziału nie naruszają zakazu konkurencji przewidzianego w odrębnych przepisach.";
+- **97)** art. 102 otrzymuje brzmienie: "Art. 102. Kwalifikacje zawodowe pracowników wymagane do wykonywa nia pracy określonego rodzaju lub na określonym stanowisku mogą być ustalane w przepisach prawa pracy przewidzianych w art. 77 1 -77 , w zakresie nie uregulowanym w przepisach szczególnych.";
 - **98)** art. 103 otrzymuje brzmienie: "Art. 103.W zakresie i na warunkach ustalonych, w drodze rozporządzenia, przez Ministra Edukacji Narodowej oraz Ministra Pracy i Polityki Socjalnej pracodawca ułatwia pracownikom podnoszenie kwalifikacji zawodowych.";
-- **99)** rozdział IV w dziale czwartym otrzymuje brzmienie: "Rozdział IV Regulamin pracy
-
-**Art. 104.**
-
-§ 1. Regulamin pracy ustala organizację i porządek w procesie pracy oraz związane z tym prawa i obowiązki pracodawcy i pracowników.
-
-§ 2. Regulaminu pracy nie wprowadza się, jeżeli w zakresie przewidzianym w § 1 obowiązują postanowienia układu zbiorowego pracy lub gdy pracodawca zatrudnia mniej niż 5 pracowników.
-
-**Art. 104¹.**
-
-§ 1. Regulamin pracy, określając prawa i obowiązki pracodawcy i pracowników związane z porządkiem w zakładzie pracy, powinien ustalać w szczególności:
-
-- **1)** organizację pracy, warunki przebywania na terenie zakładu pracy w czasie pracy i po jej zakończeniu, wyposażenie pracowników w narzędzia i materiały, a także w odzież i obuwie robocze oraz w środki ochrony indywidualnej i higieny osobistej,
-- **2)** systemy i rozkłady czasu pracy,
-- **3)** terminy dodatkowych dni wolnych od pracy,
-- **4)** porę nocną,
-- **5)** termin, miejsce i czas wypłaty wynagrodzenia,
-- **6)** wykazy prac wzbronionych pracownikom młodocianym oraz kobietom,
-- **7)** rodzaje prac i wykaz stanowisk pracy dozwolonych pracownikom młodocianym w celu odbywania przygotowania zawodowego,
-- **8)** obowiązki dotyczące bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej, w tym także sposób informowania pracowników o ryzyku zawodowym, które wiąże się z wykonywaną pracą,
-- **9)** przyjęty u danego pracodawcy sposób potwierdzania przez pracowników przybycia i obecności w pracy oraz usprawiedliwiania nieobecności w pracy.
-
-§ 2. Regulamin pracy powinien zawierać informacje o karach stosowanych zgodnie z art. 108 z tytułu odpowiedzialności porządkowej pracowników.
-
-**Art. 104².**
-
-§ 1. Regulamin pracy ustala pracodawca w uzgodnieniu z zakładową organizacją związkową.
-
-§ 2. W razie nieuzgodnienia treści regulaminu pracy z zakładową organizacją związkową w ustalonym przez strony terminie, a także w przypadku, gdy u danego pracodawcy nie działa zakładowa organizacja związkowa, regulamin pracy ustala pracodawca.
-
-**Art. 104³.**
-
-§ 1. Regulamin pracy wchodzi w życie po upływie 2 tygodni od dnia podania go do wiadomości pracowników, w sposób przyjęty u danego pracodawcy.
-
-§ 2. Pracodawca jest obowiązany zapoznać pracownika z treścią regulaminu pracy przed rozpoczęciem przez niego pracy.";
-
+- **99)** rozdział IV w dziale czwartym otrzymuje brzmienie: "Rozdział IV Regulamin pracy Art. 104. §1. Regulamin pracy ustala organizację i porządek w procesie pracy oraz związane z tym prawa i obowiązki pracodawcy i pracowników. §2. Regulaminu pracy nie wprowadza się, jeżeli w zakresie przewidzianym w § 1 obowiązują postanowienia układu zbiorowego pracy lub gdy pracodawca zatrudnia mniej niż 5 pracowników. Art. 104 1 . §1. Regulamin pracy, określając prawa i obowiązki pracodawcy i pracowników związane z porządkiem w zakładzie pracy, powinien ustalać w szczególności: 1) organizację pracy, warunki przebywania na terenie zakładu pracy w czasie pracy i po jej zakończeniu, wyposażenie pracowników w narzędzia i materiały, a także w odzież i obuwie robocze oraz w środki ochrony indywidualnej i higieny osobistej, 2) systemy i rozkłady czasu pracy, 3) terminy dodatkowych dni wolnych od pracy, 4) porę nocną, 5) termin, miejsce i czas wypłaty wynagrodzenia, 6) wykazy prac wzbronionych pracownikom młodocianym oraz kobietom, 7) rodzaje prac i wykaz stanowisk pracy dozwolonych pracownikom młodocianym w celu odbywania przygotowania zawodowego, 8) obowiązki dotyczące bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej, w tym także sposób informowania pracowników o ryzyku zawodowym, które wiąże się z wykonywaną pracą, 9) przyjęty u danego pracodawcy sposób potwierdzania przez pracowników przybycia i obecności w pracy oraz usprawiedliwiania nieobecności w pracy. §2. Regulamin pracy powinien zawierać informacje o karach stosowanych zgodnie z art. 108 z tytułu odpowiedzialności porządkowej pracowników. Art. 104 2 . §1. Regulamin pracy ustala pracodawca w uzgodnieniu z zakładową organizacją związkową. §2. W razie nieuzgodnienia treści regulaminu pracy z zakładową organizacją związkową w ustalonym przez strony terminie, a także w przypadku, gdy u danego pracodawcy nie działa zakładowa organizacja związkowa, regulamin pracy ustala pracodawca. Art. 104 3 . §1. Regulamin pracy wchodzi w życie po upływie 2 tygodni od dnia podania go do wiadomości pracowników, w sposób przyjęty u danego pracodawcy. §2. Pracodawca jest obowiązany zapoznać pracownika z treścią regulaminu pracy przed rozpoczęciem przez niego pracy.";
 - **100)** skreśla się art. 106;
 - **101)** w art. 107 w § 1 wyrazy "kierownik zakładu pracy po zasięgnięciu opinii zakładowej organizacji związkowej" zastępuje się wyrazami "pracodawca po zasięgnięciu opinii reprezentującej pracownika zakładowej organizacji związkowej";
 - **102)** tytuł rozdziału VI w dziale czwartym otrzymuje brzmienie: "Odpowiedzialność porządkowa pracowników";
 - **103)** w art. 108:
-    - **a)** § 1 otrzymuje brzmienie: "§1. Za nieprzestrzeganie przez pracownika ustalonego porządku, regulaminu pracy, przepisów bezpieczeństwa i higieny pracy oraz przepisów przeciwpożarowych pracodawca może stosować:
-
-- **1)** karę upomnienia,
-- **2)** karę nagany.",
+    - **a)** § 1 otrzymuje brzmienie: "§1. Za nieprzestrzeganie przez pracownika ustalonego porządku, regulaminu pracy, przepisów bezpieczeństwa i higieny pracy oraz przepisów przeciwpożarowych pracodawca może stosować: 1) karę upomnienia, 2) karę nagany.",
     - **b)** w § 2 skreśla się wyrazy "uspołecznionego zakładu pracy", zaś wyrazy "stosuje się również" zastępuje się wyrazami "pracodawca może również stosować",
     - **c)** w § 4 skreśla się wyrazy "zakładu pracy";
 
 - **104)** art. 110 otrzymuje brzmienie: "Art. 110. O zastosowanej karze pracodawca zawiadamia pracownika na piśmie, wskazując rodzaj naruszenia obowiązków pracowniczych i datę dopuszczenia się przez pracownika tego naruszenia oraz informując go o prawie zgłoszenia sprzeciwu i terminie jego wniesienia. Odpis zawiadomienia składa się do akt osobowych pracownika.";
 - **105)** w art. 111 skreśla się oznaczenie § 1 oraz skreśla się § 2;
-- **106)** art. 112 otrzymuje brzmienie: "Art. 112. §1. Jeżeli zastosowanie kary nastąpiło z naruszeniem przepisów prawa, pracownik może w ciągu 7 dni od dnia zawiadomienia go o ukaraniu wnieść sprzeciw. O uwzględnieniu lub odrzuceniu sprzeciwu decyduje pracodawca po rozpatrzeniu stanowiska reprezentującej pracownika zakładowej organizacji związkowej. Nieodrzucenie sprzeciwu w ciągu 14 dni od dnia jego wniesienia jest równoznaczne z uwzględnieniem sprzeciwu.
-
-§ 2. Pracownik, który wniósł sprzeciw, może w ciągu 14 dni od dnia zawiadomienia o odrzuceniu tego sprzeciwu wystąpić do sądu pracy o uchylenie zastosowanej wobec niego kary.
-
-§ 3. W razie uwzględnienia sprzeciwu wobec zastosowanej kary pieniężnej lub uchylenia tej kary przez sąd pracy, pracodawca jest obowiązany zwrócić pracownikowi równowartość kwoty tej kary.";
-
-- **107)** art. 113 otrzymuje brzmienie: "Art. 113. §1. Karę uważa się za niebyłą, a odpis zawiadomienia o ukaraniu usuwa z akt osobowych pracownika po roku nienagannej pracy. Pracodawca może, z własnej inicjatywy lub na wniosek reprezentującej pracownika zakładowej organizacji związkowej, uznać karę za niebyłą przed upływem tego terminu.
-
-§ 2. Przepis § 1 zdanie pierwsze stosuje się odpowiednio w razie uwzględnienia sprzeciwu przez pracodawcę albo wydania przez sąd pracy orzeczenia o uchyleniu kary.";
-
+- **106)** art. 112 otrzymuje brzmienie: "Art. 112. §1. Jeżeli zastosowanie kary nastąpiło z naruszeniem przepisów prawa, pracownik może w ciągu 7 dni od dnia zawiadomienia go o ukaraniu wnieść sprzeciw. O uwzględnieniu lub odrzuceniu sprzeciwu decyduje pracodawca po rozpatrzeniu stanowiska reprezentującej pracownika zakładowej organizacji związkowej. Nieodrzucenie sprzeciwu w ciągu 14 dni od dnia jego wniesienia jest równoznaczne z uwzględnieniem sprzeciwu. §2. Pracownik, który wniósł sprzeciw, może w ciągu 14 dni od dnia zawiadomienia o odrzuceniu tego sprzeciwu wystąpić do sądu pracy o uchylenie zastosowanej wobec niego kary. §3. W razie uwzględnienia sprzeciwu wobec zastosowanej kary pieniężnej lub uchylenia tej kary przez sąd pracy, pracodawca jest obowiązany zwrócić pracownikowi równowartość kwoty tej kary.";
+- **107)** art. 113 otrzymuje brzmienie: "Art. 113. §1. Karę uważa się za niebyłą, a odpis zawiadomienia o ukaraniu usuwa z akt osobowych pracownika po roku nienagannej pracy. Pracodawca może, z własnej inicjatywy lub na wniosek reprezentującej pracownika zakładowej organizacji związkowej, uznać karę za niebyłą przed upływem tego terminu. §2. Przepis § 1 zdanie pierwsze stosuje się odpowiednio w razie uwzględnienia sprzeciwu przez pracodawcę albo wydania przez sąd pracy orzeczenia o uchyleniu kary.";
 - **108)** po art. 113 dodaje się art. 113 w brzmieniu: "Art. 113 . Pracownik, wobec którego zastosowano karę przewidzianą w art. 108, nie może być pozbawiony dodatkowo tych uprawnień wynikających z przepisów prawa pracy, które są uzależnione od nienaruszenia obowiązków pracowniczych w zakresie uzasadniającym odpowiedzialność porządkową.";
 - **109)** w tytule rozdziału I w dziale piątym wyrazy "zakładowi pracy" zastępuje się wyrazem "pracodawcy";
 - **110)** w art. 114 wyrazy "zakładowi pracy" zastępuje się wyrazem "pracodawcy";
@@ -461,10 +231,7 @@ source: pdf
     - **a)** w § 1 wyrazy "zakładem pracy" zastępuje się wyrazem "pracodawcą" oraz skreśla się wyrazy "najwyżej jednak o jedną trzecią",
     - **b)** w § 2 wyraz "sąd" zastępuje się wyrazami "sąd pracy" oraz skreśla się wyrazy ", najwyżej jednak o jedną piątą";
 
-- **117)** po art. 121 dodaje się art. 121 w brzmieniu: "Art. 121 . §1. W razie niewykonania ugody przez pracownika, podlega ona wykonaniu w trybie przepisów Kodeksu postępowania cywilnego, po nadaniu jej klauzuli wykonalności przez sąd pracy.
-
-§ 2. Sąd pracy odmówi nadania klauzuli wykonalności ugodzie, jeżeli ustali, że jest ona sprzeczna z prawem lub zasadami współżycia społecznego.";
-
+- **117)** po art. 121 dodaje się art. 121 w brzmieniu: "Art. 121 . §1. W razie niewykonania ugody przez pracownika, podlega ona wykonaniu w trybie przepisów Kodeksu postępowania cywilnego, po nadaniu jej klauzuli wykonalności przez sąd pracy. §2. Sąd pracy odmówi nadania klauzuli wykonalności ugodzie, jeżeli ustali, że jest ona sprzeczna z prawem lub zasadami współżycia społecznego.";
 - **118)** w art. 122 skreśla się wyrazy "dopuścił się zagarnięcia mienia społecznego albo w inny sposób";
 - **119)** w art. 124:
     - **a)** w § 1 pkt 2 otrzymuje brzmienie: "2) narzędzia i instrumenty lub podobne przedmioty, a także środki ochrony indywidualnej oraz odzież i obuwie robocze,",
@@ -480,57 +247,8 @@ source: pdf
 
 - **122)** w art. 127 po wyrazie "121" dodaje się wyrazy ", 121 ";
 - **123)** w art. 128 wyrazy "zakładu pracy w zakładzie" zastępuje się wyrazami "pracodawcy w zakładzie pracy";
-- **124)** art. 129 otrzymuje brzmienie: "Art. 129. Czas pracy nie może przekraczać 8 godzin na dobę i przeciętnie 42 godzin na tydzień w przyjętym okresie rozliczeniowym, nie przekraczającym 3 miesięcy, z zastrzeżeniem przepisów art. 129 , 129 i art. 132 §2 i 4.";
-- **125)** po art. 129 dodaje się art. 129 -129 w brzmieniu: "Art. 129 . §1. Przy wprowadzaniu rozkładów czasu pracy, o którym mowa w art. 129, uwzględnia się 39 dodatkowych dni wolnych od pracy w roku kalendarzowym, przy czym w każdym okresie obejmującym kolejne trzy miesiące liczba tych dni nie może być mniejsza niż 9.
-
-§ 2. Praca w granicach nie przekraczających 8 godzin na dobę i przeciętnie 42 godzin na tydzień w przyjętym okresie rozliczeniowym nie stanowi pracy w godzinach nadliczbowych.
-
-§ 3. W razie rozwiązania umowy o pracę przed upływem okresu rozliczeniowego, pracownikowi przysługuje prawo do dodatkowego wynagrodzenia, obliczonego jak za pracę w godzinach nadliczbowych - przy odpowiednim stosowaniu przepisu §2 - za czas przepracowany od początku okresu rozliczeniowego do dnia rozwiązania umowy o pracę.
-
-**Art. 129².** Przy wprowadzaniu rozkładów czasu pracy obejmujących większą liczbę dodatkowych dni wolnych od pracy niż określona w art. 129 § 1, nie przekraczającą jednak 52, dobowy wymiar czasu pracy może być podwyższony do 9 godzin.
-
-**Art. 129³.**
-
-§ 1. W razie niewykorzystania przez pracownika dodatkowego dnia wolnego od pracy, o którym mowa w art. 129 §1 i w art. 129 , nie przysługuje w zamian inny dzień wolny od pracy ani dodatkowe wynagrodzenie.
-
-§ 2. Pracownikowi, który na polecenie pracodawcy wykonywał pracę w dniu dla niego dodatkowo wolnym od pracy, o którym mowa w art. 129 §1 i w art. 129 , przysługuje w zamian dzień wolny w innym terminie. Dni wolne z tego tytułu, na wniosek pracownika lub za jego zgodą, mogą być udzielone także po upływie okresu rozliczeniowego, najpóźniej do końca następnego okresu rozliczeniowego.
-
-§ 3. W razie niewykorzystania dnia wolnego od pracy, należnego zgodnie z §2, pracownikowi przysługuje dzień wolny w innym wyznaczonym w tym celu terminie, a w przypadku nieudzielenia dnia wolnego - wynagrodzenie z dodatkiem określonym w art. 134, przewidzianym za pracę w święto.
-
-**Art. 129⁴.**
-
-§ 1. Jeżeli jest to uzasadnione rodzajem pracy lub jej organizacją, mogą być stosowane rozkłady czasu pracy, w których jest dopuszczalne przedłużenie wymiaru czasu pracy do 12 godzin na dobę, a w stosunku do kierowców w transporcie samochodowym i w komunikacji samochodowej - do 10 godzin na dobę. W tych rozkładach czas pracy nie może przekraczać przeciętnie 42 godzin na tydzień w przyjętym okresie rozliczeniowym.
-
-§ 2. Okres rozliczeniowy nie może być dłuższy niż jeden miesiąc. W szczególnie uzasadnionych przypadkach, po wyrażeniu na to zgody przez zakładową organizację związkową, a jeżeli taka organizacja nie działa u danego pracodawcy - po uprzednim zawiadomieniu właściwego inspektora pracy okres rozliczeniowy może być przedłużony, nie więcej jednak niż do trzech miesięcy.
-
-§ 3. W trybie określonym w § 2 zdanie drugie, okres rozliczeniowy - przy pracach uzależnionych od pory roku lub warunków atmosferycznych - może być przedłużony do sześciu miesięcy.
-
-**Art. 129⁵.** W rozkładach czasu pracy, o którym mowa w art. 129 i 129 , wymiar czasu pracy:
-
-- **1)** pracowników zatrudnionych na stanowiskach pracy, na których występują przekroczenia najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia,
-- **2)** pracownic w ciąży,
-- **3)** pracownic opiekujących się dzieckiem do lat 4, bez ich zgody - nie może przekraczać 8 godzin na dobę. Pracownik zachowuje prawo do wynagrodzenia za czas nie przepracowany w związku ze zmniejszeniem z tego powodu wymiaru jego czasu pracy.
-
-**Art. 129⁶.**
-
-§ 1. Do kierowców w transporcie samochodowym i w komunikacji samochodowej może być stosowany, w szczególnie uzasadnionych przypadkach, przerywany czas pracy według z góry ustalonego rozkładu, przewidującego nie więcej niż jedną przerwę w pracy w ciągu doby, trwającą nie dłużej niż 6 godzin.
-
-§ 2. Przerwy, o której mowa w § 1, nie wlicza się do czasu pracy, jednakże za czas tej przerwy pracownikowi przysługuje prawo do wynagrodzenia w wysokości połowy wynagrodzenia należnego za czas przestoju.
-
-**Art. 129⁷.** Sposób wprowadzania i terminy dodatkowych dni wolnych od pracy, o których mowa w art. 129 §1 i w art. 129 , oraz ustalania rozkładów czasu pracy, o którym mowa w art. 129 , 129 i 129 - określa się w układzie zbiorowym pracy lub w regulaminie pracy.
-
-**Art. 129⁸.**
-
-§ 1. W przypadkach uzasadnionych rodzajem pracy i jej organizacją, czas pracy pracowników może być określony wymiarem ich zadań. Zadania tych pracowników powinny być ustalone w taki sposób, aby pracownicy mogli je wykonać w ramach norm czasu pracy określonych w art. 129.
-
-§ 2. Czas pracy, o którym mowa w §1, wprowadza się w trybie przewidzianym w art. 129 lub na podstawie umowy o pracę.
-
-**Art. 129⁹.** Wymiar czasu pracy, wynikający z norm określonych w art. 129, ulega obniżeniu w okresie rozliczeniowym o liczbę godzin usprawiedliwionej nieobecności pracownika w pracy, przypadającą do przepracowania w okresie tej nieobecności, zgodnie z przyjętym rozkładem czasu pracy.
-
-**Art. 129¹⁰.** Jeżeli dobowy wymiar czasu pracy wynosi co najmniej 6 godzin, pracodawca jest obowiązany wprowadzić przerwę w pracy trwającą 15 minut, którą wlicza się do czasu pracy.
-
-**Art. 129¹¹.** Pracodawca jest obowiązany prowadzić ewidencję czasu pracy, z uwzględnieniem pracy w godzinach nadliczbowych. Pracodawca udostępnia tę ewidencję pracownikowi, na jego żądanie.";
-
+- **124)** art. 129 otrzymuje brzmienie: "Art. 129. Czas pracy nie może przekraczać 8 godzin na dobę i przeciętnie 42 godzin na tydzień w przyjętym okresie rozliczeniowym, nie przekraczającym 3 miesięcy, z zastrzeżeniem przepisów art. 129 2 , 129 i art. 132 §2 i 4.";
+- **125)** po art. 129 dodaje się art. 129 1 -129 w brzmieniu: "Art. 129 . §1. Przy wprowadzaniu rozkładów czasu pracy, o którym mowa w art. 129, uwzględnia się 39 dodatkowych dni wolnych od pracy w roku kalendarzowym, przy czym w każdym okresie obejmującym kolejne trzy miesiące liczba tych dni nie może być mniejsza niż 9. §2. Praca w granicach nie przekraczających 8 godzin na dobę i przeciętnie 42 godzin na tydzień w przyjętym okresie rozliczeniowym nie stanowi pracy w godzinach nadliczbowych. §3. W razie rozwiązania umowy o pracę przed upływem okresu rozliczeniowego, pracownikowi przysługuje prawo do dodatkowego wynagrodzenia, obliczonego jak za pracę w godzinach nadliczbowych - przy odpowiednim stosowaniu przepisu §2 - za czas przepracowany od początku okresu rozliczeniowego do dnia rozwiązania umowy o pracę. Art. 129 2 . Przy wprowadzaniu rozkładów czasu pracy obejmujących większą liczbę dodatkowych dni wolnych od pracy niż określona w art. 129 § 1, nie przekraczającą jednak 52, dobowy wymiar czasu pracy może być podwyższony do 9 godzin. Art. 129 3 . §1. W razie niewykorzystania przez pracownika dodatkowego dnia wolnego od pracy, o którym mowa w art. 129 §1 i w art. 129 , nie przysługuje w zamian inny dzień wolny od pracy ani dodatkowe wynagrodzenie. §2. Pracownikowi, który na polecenie pracodawcy wykonywał pracę w dniu dla niego dodatkowo wolnym od pracy, o którym mowa w art. 129 §1 i w art. 129 2 , przysługuje w zamian dzień wolny w innym terminie. Dni wolne z tego tytułu, na wniosek pracownika lub za jego zgodą, mogą być udzielone także po upływie okresu rozliczeniowego, najpóźniej do końca następnego okresu rozliczeniowego. §3. W razie niewykorzystania dnia wolnego od pracy, należnego zgodnie z §2, pracownikowi przysługuje dzień wolny w innym wyznaczonym w tym celu terminie, a w przypadku nieudzielenia dnia wolnego - wynagrodzenie z dodatkiem określonym w art. 134, przewidzianym za pracę w święto. Art. 129 4 . §1. Jeżeli jest to uzasadnione rodzajem pracy lub jej organizacją, mogą być stosowane rozkłady czasu pracy, w których jest dopuszczalne przedłużenie wymiaru czasu pracy do 12 godzin na dobę, a w stosunku do kierowców w transporcie samochodowym i w komunikacji samochodowej - do 10 godzin na dobę. W tych rozkładach czas pracy nie może przekraczać przeciętnie 42 godzin na tydzień w przyjętym okresie rozliczeniowym. §2. Okres rozliczeniowy nie może być dłuższy niż jeden miesiąc. W szczególnie uzasadnionych przypadkach, po wyrażeniu na to zgody przez zakładową organizację związkową, a jeżeli taka organizacja nie działa u danego pracodawcy - po uprzednim zawiadomieniu właściwego inspektora pracy okres rozliczeniowy może być przedłużony, nie więcej jednak niż do trzech miesięcy. §3. W trybie określonym w § 2 zdanie drugie, okres rozliczeniowy - przy pracach uzależnionych od pory roku lub warunków atmosferycznych - może być przedłużony do sześciu miesięcy. Art. 129 5 . W rozkładach czasu pracy, o którym mowa w art. 129 i 129 , wymiar czasu pracy: 1) pracowników zatrudnionych na stanowiskach pracy, na których występują przekroczenia najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia, 2) pracownic w ciąży, 3) pracownic opiekujących się dzieckiem do lat 4, bez ich zgody - nie może przekraczać 8 godzin na dobę. Pracownik zachowuje prawo do wynagrodzenia za czas nie przepracowany w związku ze zmniejszeniem z tego powodu wymiaru jego czasu pracy. Art. 129 6 . §1. Do kierowców w transporcie samochodowym i w komunikacji samochodowej może być stosowany, w szczególnie uzasadnionych przypadkach, przerywany czas pracy według z góry ustalonego rozkładu, przewidującego nie więcej niż jedną przerwę w pracy w ciągu doby, trwającą nie dłużej niż 6 godzin. §2. Przerwy, o której mowa w § 1, nie wlicza się do czasu pracy, jednakże za czas tej przerwy pracownikowi przysługuje prawo do wynagrodzenia w wysokości połowy wynagrodzenia należnego za czas przestoju. Art. 129 7 . Sposób wprowadzania i terminy dodatkowych dni wolnych od pracy, o których mowa w art. 129 §1 i w art. 129 2 , oraz ustalania rozkładów czasu pracy, o którym mowa w art. 129 2 , 129 i 129 - określa się w układzie zbiorowym pracy lub w regulaminie pracy. Art. 129 8 . §1. W przypadkach uzasadnionych rodzajem pracy i jej organizacją, czas pracy pracowników może być określony wymiarem ich zadań. Zadania tych pracowników powinny być ustalone w taki sposób, aby pracownicy mogli je wykonać w ramach norm czasu pracy określonych w art. 129. §2. Czas pracy, o którym mowa w §1, wprowadza się w trybie przewidzianym w art. 129 lub na podstawie umowy o pracę. Art. 129 9 . Wymiar czasu pracy, wynikający z norm określonych w art. 129, ulega obniżeniu w okresie rozliczeniowym o liczbę godzin usprawiedliwionej nieobecności pracownika w pracy, przypadającą do przepracowania w okresie tej nieobecności, zgodnie z przyjętym rozkładem czasu pracy. Art. 129 10 . Jeżeli dobowy wymiar czasu pracy wynosi co najmniej 6 godzin, pracodawca jest obowiązany wprowadzić przerwę w pracy trwającą 15 minut, którą wlicza się do czasu pracy. Art. 129 11 . Pracodawca jest obowiązany prowadzić ewidencję czasu pracy, z uwzględnieniem pracy w godzinach nadliczbowych. Pracodawca udostępnia tę ewidencję pracownikowi, na jego żądanie.";
 - **126)** art. 130 otrzymuje brzmienie:
 
 **Art. 130.**
@@ -552,51 +270,21 @@ source: pdf
 
 - **130)** po art. 133 dodaje się art. 133 w brzmieniu: "Art. 133 . Przepisu art. 133 § 1 pkt 2 nie stosuje się do pracowników zatrudnionych na stanowiskach pracy, na których występują przekroczenia najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia.";
 - **131)** w art. 134:
-    - **a)** § 1 otrzymuje brzmienie: "§1. Za pracę w godzinach nadliczbowych, oprócz normalnego wynagrodzenia, przysługuje dodatek w wysokości:
+    - **a)** § 1 otrzymuje brzmienie: "§1. Za pracę w godzinach nadliczbowych, oprócz normalnego wynagrodzenia, przysługuje dodatek w wysokości: 1) 50% wynagrodzenia - za pracę w dwóch pierwszych godzinach nadliczbowych na dobę, 2) 100% wynagrodzenia - za pracę w dalszych godzinach nadliczbowych oraz w godzinach nadliczbowych przypadających w nocy, niedziele lub w święta.",
+    - **b)** po § 1 dodaje się § 1 i 1 w brzmieniu: "§1 . Dodatek, o którym mowa w § 1, przysługuje także za każdą godzinę pracy przekraczającą przeciętną tygodniową normę czasu pracy w przyjętym okresie rozliczeniowym. §1 . Wynagrodzenie stanowiące podstawę obliczania dodatków, o których mowa w § 1 i § 1 1 , obejmuje wynagrodzenie pracownika wynikające z jego osobistego zaszeregowania, określonego stawką godzinową lub miesięczną, a jeżeli taki składnik wynagrodzenia nie został wyodrębniony przy określaniu warunków wynagradzania - 60% wynagrodzenia.",
+    - **c)** w § 2 ostatnie zdanie otrzymuje brzmienie: "Dotyczy to także pracy w święto.",
+    - **d)** po § 2 dodaje się § 3 w brzmieniu: "§3. W stosunku do pracowników wykonujących stale pracę poza zakładem pracy dodatek, o którym mowa w § 1, może być zastąpiony ryczałtem, którego wysokość odpowiada przewidywanemu wymiarowi pracy w godzinach nadliczbowych.";
 
-- **1)** 50% wynagrodzenia - za pracę w dwóch pierwszych godzinach nadliczbowych na dobę,
-- **2)** 100% wynagrodzenia - za pracę w dalszych godzinach nadliczbowych oraz w godzinach nadliczbowych przypadających w nocy, niedziele lub w święta.",
-    - **b)** po § 1 dodaje się § 1 i 1 w brzmieniu: "§1 . Dodatek, o którym mowa w § 1, przysługuje także za każdą godzinę pracy przekraczającą przeciętną tygodniową normę czasu pracy w przyjętym okresie rozliczeniowym.
-
-§ 1. Wynagrodzenie stanowiące podstawę obliczania dodatków, o których mowa w § 1 i § 1 , obejmuje wynagrodzenie pracownika wynikające z jego osobistego zaszeregowania, określonego stawką godzinową lub miesięczną, a jeżeli taki składnik wynagrodzenia nie został wyodrębniony przy określaniu warunków wynagradzania - 60% wynagrodzenia.",
-
-- **c)** w § 2 ostatnie zdanie otrzymuje brzmienie: "Dotyczy to także pracy w święto.",
-- **d)** po § 2 dodaje się § 3 w brzmieniu: "§3. W stosunku do pracowników wykonujących stale pracę poza zakładem pracy dodatek, o którym mowa w § 1, może być zastąpiony ryczałtem, którego wysokość odpowiada przewidywanemu wymiarowi pracy w godzinach nadliczbowych.";
-- **132)** art. 135 otrzymuje brzmienie: "Art. 135. §1. Pracownicy zarządzający, w imieniu pracodawcy, zakładem pracy, główni księgowi i kierownicy wyodrębnionych komórek organizacyjnych zakładu pracy, a także zastępcy tych osób, wykonują, w razie konieczności, pracę poza normalnymi godzinami pracy bez prawa do oddzielnego wynagrodzenia z tytułu pracy w godzinach nadliczbowych.
-
-§ 2. Pracownikom, o których mowa w § 1, z wyłączeniem pracowników zarządzających, w imieniu pracodawcy, zakładem pracy, przysługuje jednak prawo do oddzielnego wynagrodzenia z tytułu pracy wykonanej na polecenie pracodawcy w godzinach nadliczbowych przypadających w niedzielę, święto lub w dodatkowym dniu wolnym od pracy, jeżeli za pracę w tym dniu nie otrzymali innego dnia wolnego od pracy.";
-
+- **132)** art. 135 otrzymuje brzmienie: "Art. 135. §1. Pracownicy zarządzający, w imieniu pracodawcy, zakładem pracy, główni księgowi i kierownicy wyodrębnionych komórek organizacyjnych zakładu pracy, a także zastępcy tych osób, wykonują, w razie konieczności, pracę poza normalnymi godzinami pracy bez prawa do oddzielnego wynagrodzenia z tytułu pracy w godzinach nadliczbowych. §2. Pracownikom, o których mowa w § 1, z wyłączeniem pracowników zarządzających, w imieniu pracodawcy, zakładem pracy, przysługuje jednak prawo do oddzielnego wynagrodzenia z tytułu pracy wykonanej na polecenie pracodawcy w godzinach nadliczbowych przypadających w niedzielę, święto lub w dodatkowym dniu wolnym od pracy, jeżeli za pracę w tym dniu nie otrzymali innego dnia wolnego od pracy.";
 - **133)** art. 136 otrzymuje brzmienie: "Art. 136. Do pracowników, których czas pracy został określony wymiarem ich zadań, nie stosuje się art. 134.";
 - **134)** w art. 137:
     - **a)** w § 1 skreśla się drugie zdanie,
     - **b)** § 2 otrzymuje brzmienie: "§2. Pracownikowi wykonującemu pracę w porze nocnej przysługuje dodatkowe wynagrodzenie za każdą godzinę pracy w porze nocnej w wysokości 20% stawki godzinowej wynikającej z najniższego wynagrodzenia, określonego na podstawie art. 77 pkt 1.";
 
-- **135)** art. 138 otrzymuje brzmienie: "Art. 138. §1. Niedziele oraz święta określone odrębnymi przepisami są dniami wolnymi od pracy.
-
-§ 2. Za pracę w niedzielę oraz w święto uważa się pracę wykonywaną pomiędzy godziną 6 w tym dniu a godziną 6 następnego dnia, chyba że u danego pracodawcy została ustalona inna godzina.";
-
-- **136)** art. 139 otrzymuje brzmienie: "Art. 139. Praca w niedzielę oraz w święto jest dozwolona:
-- **1)** w przypadkach określonych w art. 133 § 1 pkt 1,
-- **2)** w ruchu ciągłym,
-- **3)** w czterobrygadowej lub podobnej organizacji pracy,
-- **4)** w grupowej organizacji pracy,
-- **5)** przy niezbędnych remontach,
-- **6)** w transporcie i w komunikacji,
-- **7)** w zakładowych strażach pożarnych,
-- **8)** przy pilnowaniu mienia,
-- **9)** w rolnictwie i w hodowli,
-- **10)** przy wykonywaniu prac koniecznych ze względu na ich użyteczność społeczną i codzienne potrzeby ludności, w szczególności w:
-    - **a)** placówkach handlowych,
-    - **b)** zakładach świadczących usługi dla ludności,
-    - **c)** gastronomii,
-    - **d)** zakładach hotelarskich,
-    - **e)** zakładach komunalnych,
-    - **f)** zakładach opieki zdrowotnej,
-    - **g)** domach pomocy społecznej,
-    - **h)** zakładach prowadzących działalność w zakresie kultury, oświaty, turystyki i wypoczynku.";
-
-- **137)** w art. 140: Pracodawca może udzielić dnia wolnego w zamian za pracę w święto.",
-    - **a)** § 1 otrzymuje brzmienie: "§1. Pracownikowi zatrudnionemu w niedzielę pracodawca jest obowiązany zapewnić inny dzień wolny od pracy w tygodniu.
+- **135)** art. 138 otrzymuje brzmienie: "Art. 138. §1. Niedziele oraz święta określone odrębnymi przepisami są dniami wolnymi od pracy. §2. Za pracę w niedzielę oraz w święto uważa się pracę wykonywaną pomiędzy godziną 6 w tym dniu a godziną 6 następnego dnia, chyba że u danego pracodawcy została ustalona inna godzina.";
+- **136)** art. 139 otrzymuje brzmienie: "Art. 139. Praca w niedzielę oraz w święto jest dozwolona: 1) w przypadkach określonych w art. 133 § 1 pkt 1, 2) w ruchu ciągłym, 3) w czterobrygadowej lub podobnej organizacji pracy, 4) w grupowej organizacji pracy, 5) przy niezbędnych remontach, 6) w transporcie i w komunikacji, 7) w zakładowych strażach pożarnych, 8) przy pilnowaniu mienia, 9) w rolnictwie i w hodowli, 10) przy wykonywaniu prac koniecznych ze względu na ich użyteczność społeczną i codzienne potrzeby ludności, w szczególności w: a) placówkach handlowych, b) zakładach świadczących usługi dla ludności, c) gastronomii, d) zakładach hotelarskich, e) zakładach komunalnych, f) zakładach opieki zdrowotnej, g) domach pomocy społecznej, h) zakładach prowadzących działalność w zakresie kultury, oświaty, turystyki i wypoczynku.";
+- **137)** w art. 140:
+    - **a)** § 1 otrzymuje brzmienie: "§1. Pracownikowi zatrudnionemu w niedzielę pracodawca jest obowiązany zapewnić inny dzień wolny od pracy w tygodniu. Pracodawca może udzielić dnia wolnego w zamian za pracę w święto.",
     - **b)** w § 2 na końcu kropkę zastępuje się przecinkiem i dodaje wyrazy "a także w grupowej organizacji pracy.";
 
 - **138)** skreśla się art. 141;
@@ -608,48 +296,11 @@ source: pdf
 
 - **142)** skreśla się art. 145;
 - **143)** w dziale szóstym skreśla się rozdział VI;
-- **144)** art. 153 i 154 otrzymują brzmienie: "Art. 153. §1. Pracownik uzyskuje prawo do pierwszego urlopu z upły wem 6 miesięcy pracy, w wymiarze połowy wymiaru urlopu przysługującego mu po przepracowaniu roku.
-
-§ 2. Prawo do urlopu w pełnym wymiarze pracownik nabywa z upływem roku pracy. Do tego urlopu wlicza się urlop, o którym mowa w §1.
-
-§ 3. Prawo do kolejnych urlopów pracownik nabywa w każdym następnym roku kalendarzowym.
-
-**Art. 154.**
-
-§ 1. Wymiar urlopu wynosi:
-
-- **1)** 18 dni roboczych - po roku pracy,
-- **2)** 20 dni roboczych - po 6 latach pracy,
-- **3)** 26 dni roboczych - po 10 latach pracy.
-
-§ 2. Za dni robocze uważa się wszystkie dni, z wyjątkiem niedziel oraz świąt określonych w odrębnych przepisach.
-
-§ 3. Dodatkowych dni wolnych od pracy, o których mowa w art. 129 §1 i art. 129 , nie wlicza się do urlopu.";
-
+- **144)** art. 153 i 154 otrzymują brzmienie: "Art. 153. §1. Pracownik uzyskuje prawo do pierwszego urlopu z upły wem 6 miesięcy pracy, w wymiarze połowy wymiaru urlopu przysługującego mu po przepracowaniu roku. §2. Prawo do urlopu w pełnym wymiarze pracownik nabywa z upływem roku pracy. Do tego urlopu wlicza się urlop, o którym mowa w §1. §3. Prawo do kolejnych urlopów pracownik nabywa w każdym następnym roku kalendarzowym. Art. 154. §1. Wymiar urlopu wynosi: 1) 18 dni roboczych - po roku pracy, 2) 20 dni roboczych - po 6 latach pracy, 3) 26 dni roboczych - po 10 latach pracy. §2. Za dni robocze uważa się wszystkie dni, z wyjątkiem niedziel oraz świąt określonych w odrębnych przepisach. §3. Dodatkowych dni wolnych od pracy, o których mowa w art. 129 §1 i art. 129 2 , nie wlicza się do urlopu.";
 - **145)** po art. 154 dodaje się art. 154 w brzmieniu: "Art. 154 . Do okresu zatrudnienia, od którego zależy prawo do urlopu i wymiar urlopu, wlicza się okresy poprzedniego zatrudnienia, bez względu na przerwy w zatrudnieniu oraz sposób ustania stosunku pracy.";
-- **146)** po art. 155 dodaje się art. 155 -155 w brzmieniu: "Art. 155 . §1. W roku kalendarzowym, w którym ustaje stosunek pracy z pracownikiem uprawnionym do urlopu, pracownikowi przysługuje urlop:
-- **1)** u dotychczasowego pracodawcy - w wymiarze proporcjonalnym do okresu przepracowanego u tego pracodawcy w roku ustania stosunku pracy, chyba że przed ustaniem tego stosunku pracownik wykorzystał urlop w przysługującym mu lub wyższym wymiarze,
-- **2)** u kolejnego pracodawcy - w wymiarze:
-    - **a)** proporcjonalnym do okresu pozostałego do końca danego roku kalendarzowego - w razie zatrudnienia pracownika na czas nie określony,
-    - **b)** proporcjonalnym do okresu zatrudnienia - w razie zatrudnienia pracownika na czas określony lub na czas wykonania określonej pracy, który kończy się przed upływem danego roku kalendarzowego, z zastrzeżeniem przepisów § 2 i 3.
-
-§ 2. Pracownikowi, który przed ustaniem stosunku pracy w ciągu roku kalendarzowego wykorzystał urlop w wymiarze wyższym niż wynikający z § 1 pkt 1, przysługuje u kolejnego pracodawcy urlop w odpowiednio niższym wymiarze; łączny wymiar urlopu w roku kalendarzowym nie może być jednak niższy niż wynikający z okresu przepracowanego w tym roku u wszystkich pracodawców.
-
-§ 3. Pracownikowi, który do dnia ustania stosunku pracy nie przepracował okresu przewidzianego do nabycia prawa do pierwszego urlopu, przysługuje ten urlop u pracodawcy, u którego upływa wymagany okres zatrudnienia, liczony łącznie u dotychczasowego i kolejnego pracodawcy.
-
-**Art. 155².**
-
-§ 1. Przepis art. 155 § 1 pkt 2 stosuje się odpowiednio do pracownika powracającego w ciągu roku kalendarzowego do pracy u dotychczasowego pracodawcy po trwającym co najmniej jeden miesiąc urlopie bezpłatnym lub innym okresie niewykonywania pracy, w ciągu którego pracownik nie nabywa prawa do urlopu.
-
-§ 2. Jeżeli urlop bezpłatny lub okres niewykonywania pracy, o których mowa w § 1, przypadają po nabyciu przez pracownika prawa do urlopu w danym roku kalendarzowym, wymiar tego urlopu ulega proporcjonalnemu obniżeniu, chyba że przed ich rozpoczęciem pracownik wykorzystał urlop w przysługującym mu lub wyższym wymiarze.
-
-**Art. 155³.** Przy ustalaniu wymiaru urlopu na podstawie przepisów art.155 i 155 niepełny dzień urlopu zaokrągla się w górę do pełnego dnia; urlop należny pracownikowi w danym roku kalendarzowym nie może jednak przekroczyć wymiaru wnikającego z przepisu art. 154 § 1.";
-
+- **146)** po art. 155 dodaje się art. 155 1 -155 w brzmieniu: "Art. 155 . §1. W roku kalendarzowym, w którym ustaje stosunek pracy z pracownikiem uprawnionym do urlopu, pracownikowi przysługuje urlop: 1) u dotychczasowego pracodawcy - w wymiarze proporcjonalnym do okresu przepracowanego u tego pracodawcy w roku ustania stosunku pracy, chyba że przed ustaniem tego stosunku pracownik wykorzystał urlop w przysługującym mu lub wyższym wymiarze, 2) u kolejnego pracodawcy - w wymiarze: a) proporcjonalnym do okresu pozostałego do końca danego roku kalendarzowego - w razie zatrudnienia pracownika na czas nie określony, b) proporcjonalnym do okresu zatrudnienia - w razie zatrudnienia pracownika na czas określony lub na czas wykonania określonej pracy, który kończy się przed upływem danego roku kalendarzowego, z zastrzeżeniem przepisów § 2 i 3. §2. Pracownikowi, który przed ustaniem stosunku pracy w ciągu roku kalendarzowego wykorzystał urlop w wymiarze wyższym niż wynikający z § 1 pkt 1, przysługuje u kolejnego pracodawcy urlop w odpowiednio niższym wymiarze; łączny wymiar urlopu w roku kalendarzowym nie może być jednak niższy niż wynikający z okresu przepracowanego w tym roku u wszystkich pracodawców. §3. Pracownikowi, który do dnia ustania stosunku pracy nie przepracował okresu przewidzianego do nabycia prawa do pierwszego urlopu, przysługuje ten urlop u pracodawcy, u którego upływa wymagany okres zatrudnienia, liczony łącznie u dotychczasowego i kolejnego pracodawcy. Art. 155 2 . §1. Przepis art. 155 § 1 pkt 2 stosuje się odpowiednio do pracownika powracającego w ciągu roku kalendarzowego do pracy u dotychczasowego pracodawcy po trwającym co najmniej jeden miesiąc urlopie bezpłatnym lub innym okresie niewykonywania pracy, w ciągu którego pracownik nie nabywa prawa do urlopu. §2. Jeżeli urlop bezpłatny lub okres niewykonywania pracy, o których mowa w § 1, przypadają po nabyciu przez pracownika prawa do urlopu w danym roku kalendarzowym, wymiar tego urlopu ulega proporcjonalnemu obniżeniu, chyba że przed ich rozpoczęciem pracownik wykorzystał urlop w przysługującym mu lub wyższym wymiarze. Art. 155 3 . Przy ustalaniu wymiaru urlopu na podstawie przepisów art.155 i 155 niepełny dzień urlopu zaokrągla się w górę do pełnego dnia; urlop należny pracownikowi w danym roku kalendarzowym nie może jednak przekroczyć wymiaru wnikającego z przepisu art. 154 § 1.";
 - **147)** skreśla się art. 156 i 157;
-- **148)** art. 159 otrzymuje brzmienie: "Art. 159. §1. Pracownik zatrudniony przy pracy sezonowej uzyskuje prawo do urlopu w wymiarze 1,5 dnia za każdy przepracowany miesiąc.
-
-§ 2. Urlop przewidziany w § 1 wlicza się do urlopu należnego pracownikowi w danym roku kalendarzowym z tytułu pracy niesezonowej.";
-
+- **148)** art. 159 otrzymuje brzmienie: "Art. 159. §1. Pracownik zatrudniony przy pracy sezonowej uzyskuje prawo do urlopu w wymiarze 1,5 dnia za każdy przepracowany miesiąc. §2. Urlop przewidziany w § 1 wlicza się do urlopu należnego pracownikowi w danym roku kalendarzowym z tytułu pracy niesezonowej.";
 - **149)** skreśla się art. 160;
 - **150)** w art. 161 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca";
 - **151)** w art. 162 w zdaniu drugim liczbę "10" zastępuje się liczbą "14";
@@ -666,10 +317,7 @@ source: pdf
 - **158)** w art. 171 w § 2 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawca";
 - **159)** art. 173 otrzymuje brzmienie: "Art. 173. Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, szczegółowe zasady udzielania urlopu wypoczynkowego, ustalania i wypłacania wynagrodzenia za czas urlopu oraz ekwiwalentu pieniężnego za urlop.";
 - **160)** w art. 174 § 1 otrzymuje brzmienie: "§1. Na pisemny wniosek pracownika pracodawca może udzielić mu urlopu bezpłatnego.";
-- **161)** art. 174 otrzymuje brzmienie: "Art. 174 . §1. Za zgodą pracownika, wyrażoną na piśmie, pracodawca może udzielić pracownikowi urlopu bezpłatnego w celu wykonywania pracy u innego pracodawcy przez okres ustalony w zawartym w tej sprawie porozumieniu między pracodawcami.
-
-§ 2. Okres urlopu bezpłatnego, o którym mowa w § 1, wlicza się do okresu pracy, od którego zależą uprawnienia pracownicze u dotychczasowego pracodawcy.";
-
+- **161)** art. 174 otrzymuje brzmienie: "Art. 174 . §1. Za zgodą pracownika, wyrażoną na piśmie, pracodawca może udzielić pracownikowi urlopu bezpłatnego w celu wykonywania pracy u innego pracodawcy przez okres ustalony w zawartym w tej sprawie porozumieniu między pracodawcami. §2. Okres urlopu bezpłatnego, o którym mowa w § 1, wlicza się do okresu pracy, od którego zależą uprawnienia pracownicze u dotychczasowego pracodawcy.";
 - **162)** skreśla się art. 175;
 - **163)** art. 176 otrzymuje brzmienie: "Art. 176. Nie wolno zatrudniać kobiet przy pracach szczególnie uciążliwych lub szkodliwych dla zdrowia. Rada Ministrów określi, w drodze rozporządzenia, wykaz tych prac.";
 - **164)** w art. 177:
@@ -686,18 +334,9 @@ source: pdf
 
 - **167)** w art. 184 wyrazy "zasiłek połogowy" zastępuje się wyrazami "zasiłek macierzyński";
 - **168)** w art. 185 w § 2 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca";
-- **169)** art. 186 otrzymuje brzmienie: "Art. 186. §1. Na wniosek pracownicy pracodawca jest obowiązany udzielić jej urlopu wychowawczego w celu sprawowania opieki nad dzieckiem.
-
-§ 2. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady udzielania urlopu wychowawczego oraz prawa i obowiązki związane z tym urlopem.";
-
-- **170)** art. 188 i 189 otrzymują brzmienie: "Art. 188. Pracownicy wychowującej przynajmniej jedno dziecko w wieku do 14 lat przysługuje w ciągu roku zwolnienie od pracy na 2 dni, z zachowaniem prawa do wynagrodzenia.
-
-**Art. 189.** Prawo do zasiłku za czas nieobecności w pracy z powodu konieczności sprawowania osobistej opieki nad dzieckiem regulują odrębne przepisy.";
-
-- **171)** po art. 189 dodaje się art. 189 w brzmieniu: "Art. 189 . §1. Przepisy art. 129 pkt 3, art. 178 § 2, art. 186 i 188 stosuje się także do pracownika, z tym że jeżeli oboje rodzice lub opiekunowie są zatrudnieni, z uprawnień określonych w tych przepisach może korzystać jedno z nich.
-
-§ 2. Przepis art. 180 § 2 i art. 183 stosuje się także do pracownicy, która przyjęła dziecko na wychowanie jako rodzina zastępcza.";
-
+- **169)** art. 186 otrzymuje brzmienie: "Art. 186. §1. Na wniosek pracownicy pracodawca jest obowiązany udzielić jej urlopu wychowawczego w celu sprawowania opieki nad dzieckiem. §2. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady udzielania urlopu wychowawczego oraz prawa i obowiązki związane z tym urlopem.";
+- **170)** art. 188 i 189 otrzymują brzmienie: "Art. 188. Pracownicy wychowującej przynajmniej jedno dziecko w wieku do 14 lat przysługuje w ciągu roku zwolnienie od pracy na 2 dni, z zachowaniem prawa do wynagrodzenia. Art. 189. Prawo do zasiłku za czas nieobecności w pracy z powodu konieczności sprawowania osobistej opieki nad dzieckiem regulują odrębne przepisy.";
+- **171)** po art. 189 dodaje się art. 189 w brzmieniu: "Art. 189 . §1. Przepisy art. 129 pkt 3, art. 178 § 2, art. 186 i 188 stosuje się także do pracownika, z tym że jeżeli oboje rodzice lub opiekunowie są zatrudnieni, z uprawnień określonych w tych przepisach może korzystać jedno z nich. §2. Przepis art. 180 § 2 i art. 183 stosuje się także do pracownicy, która przyjęła dziecko na wychowanie jako rodzina zastępcza.";
 - **172)** w art. 191:
     - **a)** w § 3 skreśla się wyrazy "po porozumieniu z ogólnokrajową organizacją międzyzwiązkową",
     - **b)** w § 4 wyrazy "określą właściwi ministrowie w porozumieniu z Ministrem Pracy i Polityki Socjalnej oraz po porozumieniu z właściwymi ogólnokrajowymi organizacjami związkowymi" zastępuje się wyrazami "określą, w drodze zarządzeń, właściwi ministrowie w porozumieniu z Ministrem Pracy i Polityki Socjalnej",
@@ -706,12 +345,7 @@ source: pdf
 - **173)** w art. 192 wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca";
 - **174)** art. 193 otrzymuje brzmienie: "Art. 193. Pracodawca jest obowiązany prowadzić ewidencję pracowników młodocianych.";
 - **175)** w art. 195:
-    - **a)** § 1 otrzymuje brzmienie: "§1. Umowa o pracę w celu przygotowania zawodowego powinna określać w szczególności:
-
-- **1)** rodzaj przygotowania zawodowego (nauka zawodu lub przyuczenie do wykonywania określonej pracy),
-- **2)** czas trwania i miejsce odbywania przygotowania zawodowego,
-- **3)** sposób dokształcania teoretycznego,
-- **4)** wysokość wynagrodzenia.",
+    - **a)** § 1 otrzymuje brzmienie: "§1. Umowa o pracę w celu przygotowania zawodowego powinna określać w szczególności: 1) rodzaj przygotowania zawodowego (nauka zawodu lub przyuczenie do wykonywania określonej pracy), 2) czas trwania i miejsce odbywania przygotowania zawodowego, 3) sposób dokształcania teoretycznego, 4) wysokość wynagrodzenia.",
     - **b)** w § 2 skreśla się wyrazy ", po porozumieniu z ogólnokrajową organizacją międzyzwiązkową";
 
 - **176)** w art. 196 w pkt 2 wyrazy "zakładu pracy" zastępuje się wyrazem "pracodawcy";
@@ -725,418 +359,8 @@ source: pdf
     - **c)** w § 3 wyrazy "W trybie przewidzianym w § 1 Rada Ministrów" zastępuje się wyrazami "Rada Ministrów, w drodze rozporządzenia,";
 
 - **182)** w art. 205 w § 4 w zdaniu pierwszym wyrazy "Zakład pracy" zastępuje się wyrazem "Pracodawca";
-- **183)** rozdział VI w dziale dziewiątym otrzymuje brzmienie: "Rozdział VI Rzemieślnicze przygotowanie zawodowe
-
-**Art. 206.**
-
-§ 1. Przepisy art. 190-205 stosuje się odpowiednio do młodocianych zatrudnionych na podstawie umowy o przygotowanie zawodowe u pracodawców będących rzemieślnikami, z zastrzeżeniem odrębności określonych na podstawie § 2.
-
-§ 2. Minister Pracy i Polityki Socjalnej może określić, w drodze rozporządzenia, odrębności w zakresie sposobu prowadzenia przygotowania zawodowego u pracodawców będących rzemieślnikami oraz trybu przeprowadzania egzaminów stwierdzających kwalifikacje zawodowe po zakończeniu tego przygotowania.";
-
-- **184)** dział dziesiąty otrzymuje brzmienie: "DZIAŁ DZIESIĄTY BEZPIECZEŃSTWO I HIGIENA PRACY
-
-#### Rozdział I Podstawowe obowiązki pracodawcy
-
-**Art. 207.**
-
-§ 1. Pracodawca ponosi odpowiedzialność za stan bezpieczeństwa i higieny pracy w zakładzie pracy.
-
-§ 2. Pracodawca jest obowiązany chronić zdrowie i życie pracowników poprzez zapewnienie bezpiecznych i higienicznych warunków pracy przy odpowiednim wykorzystaniu osiągnięć nauki i techniki. W szczególności pracodawca jest obowiązany:
-
-- **1)** organizować pracę w sposób zapewniający bezpieczne i higieniczne warunki pracy,
-- **2)** zapewniać przestrzeganie w zakładzie pracy przepisów oraz zasad bezpieczeństwa i higieny pracy, wydawać polecenia usunięcia uchybień w tym zakresie oraz kontrolować wykonanie tych poleceń,
-- **3)** zapewniać wykonanie nakazów, wystąpień, decyzji i zarządzeń wydawanych przez organy nadzoru nad warunkami pracy,
-- **4)** zapewniać wykonanie zaleceń społecznego inspektora pracy.
-
-§ 3. Pracodawca oraz osoba kierująca pracownikami są obowiązani znać, w zakresie niezbędnym do wykonywania ciążących na nich obowiązków, przepisy o ochronie pracy, w tym przepisy oraz zasady bezpieczeństwa i higieny pracy.
-
-**Art. 208.**
-
-§ 1. W razie gdy jednocześnie w tym samym miejscu wykonują pracę pracownicy zatrudnieni przez różnych pracodawców, pracodawcy ci mają obowiązek:
-
-- **1)** współpracować ze sobą,
-- **2)** wyznaczyć koordynatora sprawującego nadzór nad bezpieczeństwem i higieną pracy wszystkich pracowników zatrudnionych w tym samym miejscu,
-- **3)** ustalić zasady współdziałania uwzględniające sposoby postępowania w przypadku wystąpienia zagrożeń dla zdrowia lub życia pracowników.
-
-§ 2. Wyznaczenie koordynatora, o którym mowa w § 1, nie zwalnia poszczególnych pracodawców z obowiązku zapewnienia bezpieczeństwa i higieny pracy zatrudnionym przez nich pracownikom.
-
-**Art. 209.**
-
-§ 1. Pracodawca rozpoczynający działalność jest obowiązany, w terminie 14 dni od dnia rozpoczęcia tej działalności, zawiadomić na piśmie właściwego inspektora pracy i właściwego państwowego inspektora sanitarnego o miejscu, rodzaju i zakresie prowadzonej działalności oraz o przewidywanej liczbie pracowników, a także złożyć pisemną informację o środkach i procedurach przyjętych dla spełnienia wymagań wynikających z przepisów bezpieczeństwa i higieny pracy dotyczących danej dziedziny działalności.
-
-§ 2. Obowiązek, o którym mowa w § 1, ciąży na pracodawcy odpowiednio w razie zmiany miejsca, rodzaju i zakresu prowadzonej działalności, zwłaszcza zmiany technologii lub profilu produkcji.
-
-§ 3. Pracodawca zawiadamia właściwego inspektora pracy i właściwego państwowego inspektora sanitarnego o zaprzestaniu działalności lub likwidacji zakładu pracy.
-
-§ 4. Właściwy inspektor pracy lub właściwy państwowy inspektor sanitarny może zobowiązać pracodawcę prowadzącego działalność powodującą szczególne zagrożenia dla zdrowia lub życia pracowników do okresowej aktualizacji informacji, o której mowa w § 1.
-
-#### Rozdział II Prawa i obowiązki pracownika
-
-**Art. 210.**
-
-§ 1. W razie gdy warunki pracy nie odpowiadają przepisom bezpieczeństwa i higieny pracy i stwarzają bezpośrednie zagrożenie dla zdrowia lub życia pracownika albo gdy wykonywana przez niego praca grozi takim niebezpie czeństwem innym osobom, pracownik ma prawo powstrzymać się od wykonywania pracy, zawiadamiając o tym niezwłocznie przełożonego.
-
-§ 2. Jeżeli powstrzymanie się od wykonywania pracy nie usuwa zagrożenia, o którym mowa w § 1, pracownik ma prawo oddalić się z miejsca zagrożenia, zawiadamiając o tym niezwłocznie przełożonego.
-
-§ 3. Za czas powstrzymania się od wykonywania pracy lub oddalenia się z miejsca zagrożenia w przypadkach, o których mowa w § 1 i 2, pracownik zachowuje prawo do wynagrodzenia.
-
-§ 4. Pracownik ma prawo, po uprzednim zawiadomieniu przełożonego, powstrzymać się od wykonywania pracy wymagającej szczególnej sprawności psychofizycznej w przypadku, gdy jego stan psychofizyczny nie zapewnia bezpiecznego wykonywania pracy i stwarza zagrożenie dla innych osób.
-
-§ 5. Przepisy § 1, 2 i 4 nie dotyczą pracownika, którego obowiązkiem pracowniczym jest ratowanie życia ludzkiego lub mienia.
-
-§ 6. Minister Pracy i Polityki Socjalnej w porozumieniu z Ministrem Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, rodzaje prac wymagających szczególnej sprawności psychofizycznej.
-
-**Art. 211.** Przestrzeganie przepisów i zasad bezpieczeństwa i higieny pracy jest podstawowym obowiązkiem pracownika. W szczególności pracownik jest obowiązany:
-
-- **1)** znać przepisy i zasady bezpieczeństwa i higieny pracy, brać udział w szkoleniu i instruktażu z tego zakresu oraz poddawać się wymaganym egzaminom sprawdzającym,
-- **2)** wykonywać pracę w sposób zgodny z przepisami i zasadami bezpieczeństwa i higieny pracy oraz stosować się do wydawanych w tym zakresie poleceń i wskazówek przełożonych,
-- **3)** dbać o należyty stan maszyn, urządzeń, narzędzi i sprzętu oraz o porządek i ład w miejscu pracy,
-- **4)** stosować środki ochrony zbiorowej, a także używać przydzielonych środków ochrony indywidualnej oraz odzieży i obuwia roboczego, zgodnie z ich przeznaczeniem,
-- **5)** poddawać się wstępnym, okresowym i kontrolnym oraz innym zaleconym badaniom lekarskim i stosować się do wskazań lekarskich,
-- **6)** niezwłocznie zawiadomić przełożonego o zauważonym w zakładzie pracy wypadku albo zagrożeniu życia lub zdrowia ludzkiego oraz ostrzec współpracowników, a także inne osoby znajdujące się w rejonie zagrożenia, o grożącym im niebezpieczeństwie,
-- **7)** współdziałać z pracodawcą i przełożonymi w wypełnianiu obowiązków dotyczących bezpieczeństwa i higieny pracy.
-
-**Art. 212.** Osoba kierująca pracownikami jest obowiązana:
-
-- **1)** organizować stanowiska pracy zgodnie z przepisami i zasadami bezpieczeństwa i higieny pracy,
-- **2)** dbać o sprawność środków ochrony indywidualnej oraz ich stosowanie zgodnie z przeznaczeniem,
-- **3)** organizować, przygotowywać i prowadzić prace, uwzględniając zabezpieczenie pracowników przed wypadkami przy pracy, chorobami zawodowymi i innymi chorobami związanymi z warunkami środowiska pracy,
-- **4)** dbać o bezpieczny i higieniczny stan pomieszczeń pracy i wyposażenia technicznego, a także o sprawność środków ochrony zbiorowej i ich stosowanie zgodnie z przeznaczeniem,
-- **5)** egzekwować przestrzeganie przez pracowników przepisów i zasad bezpieczeństwa i higieny pracy,
-- **6)** zapewniać wykonanie zaleceń lekarza sprawującego opiekę zdrowotną nad pracownikami.
-
-#### Rozdział III Obiekty budowlane i pomieszczenia pracy
-
-**Art. 213.**
-
-§ 1. Pracodawca jest obowiązany zapewniać, aby budowa lub przebudowa obiektu budowlanego, w którym przewiduje się pomieszczenia pracy, była wykonywana na podstawie projektów uwzględniających wymagania bezpieczeństwa i higieny pracy, pozytywnie zaopiniowanych przez uprawnionych rzeczoznawców, zgodnie z odrębnymi przepisami.
-
-§ 2. Obiekt budowlany, w którym znajdują się pomieszczenia pracy, powinien spełniać wymagania dotyczące bezpieczeństwa i higieny pracy.
-
-§ 3. Przebudowa obiektu budowlanego, w którym znajdują się pomieszczenia pracy, powinna uwzględniać poprawę warunków bezpieczeństwa i higieny pracy.
-
-§ 4. Przepisy § 1-3 stosuje się odpowiednio w przypadku, gdy budowa lub przebudowa dotyczy części obiektu budowlanego, w której znajdują się pomieszczenia pracy.
-
-**Art. 214.**
-
-§ 1. Pracodawca jest obowiązany zapewniać pomieszczenia pracy odpowiednie do rodzaju wykonywanych prac i liczby zatrudnionych pracowników.
-
-§ 2. Pracodawca jest obowiązany utrzymywać obiekty budowlane i znajdujące się w nich pomieszczenia pracy, a także tereny i urządzenia z nimi związane w stanie zapewniającym bezpieczne i higieniczne warunki pracy.
-
-#### Rozdział IV Maszyny i inne urządzenia techniczne
-
-**Art. 215.**
-
-§ 1. Maszyny i inne urządzenia techniczne powinny być tak konstruowane i budowane, aby:
-
-- **1)** zapewniały bezpieczne i higieniczne warunki pracy, w szczególności zabezpieczały pracownika przed urazami, działaniem niebezpiecznych substancji chemicznych, porażeniem prądem elektrycznym, nadmiernym hałasem, szkodliwymi wstrząsami, działaniem wibracji i promieniowania oraz szkodliwym i niebezpiecznym działaniem innych czynników środowiska pracy,
-- **2)** uwzględniały zasady ergonomii.
-
-§ 2. Konstruktor oraz producent maszyn i innych urządzeń technicznych ponoszą odpowiedzialność za niedopełnienie obowiązków, o których mowa w § 1, określoną w odrębnych przepisach.
-
-**Art. 216.**
-
-§ 1. Maszyny i inne urządzenia techniczne, które nie spełniają wymagań określonych w art. 215 § 1, wyposaża się w odpowiednie zabezpieczenia.
-
-§ 2. W przypadku gdy konstrukcja zabezpieczenia jest uzależniona od warunków lokalnych, wyposażenie maszyny lub innego urządzenia technicznego w odpowiednie zabezpieczenia należy do obowiązków pracodawcy.
-
-**Art. 217.**
-
-§ 1. Producent, importer, dystrybutor lub inny dostawca maszyn i innych urządzeń technicznych, które nie podlegają obowiązkowi zgłaszania do certyfikacji na znak bezpieczeństwa i oznaczania tym znakiem, jest obowiązany wydać deklarację zgodności tych wyrobów z normami wprowadzonymi do obowiązkowego stosowania oraz wy maganiami określonymi właściwymi przepisami.
-
-§ 2. Niedopuszczalne jest wyposażanie stanowisk pracy w maszyny i inne urządzenia techniczne, które nie uzyskały wymaganego certyfikatu na znak bezpieczeństwa i nie zostały oznaczone tym znakiem, zgodnie z odrębnymi przepisami, albo nie posiadają deklaracji zgodności, o której mowa w § 1.
-
-**Art. 218.** Przepisy art. 215 i 217 stosuje się odpowiednio do narzędzi pracy.
-
-**Art. 219.** Przepisy art. 215 i 217 nie naruszają wymagań określonych przepisami dotyczącymi maszyn i innych urządzeń technicznych:
-
-- **1)** będących środkami transportu kolejowego, samochodowego, morskiego, wodnego śródlądowego i lotniczego,
-- **2)** podlegających przepisom o dozorze technicznym,
-- **3)** podlegających przepisom Prawa geologicznego i górniczego,
-- **4)** podlegających przepisom obowiązującym w jednostkach podległych Ministrom Obrony Narodowej i Spraw Wewnętrznych,
-- **5)** podlegających przepisom Prawa atomowego.
-
-#### Rozdział V Substancje chemiczne oraz procesy pracy szczególnie szkodliwe dla zdrowia lub niebezpieczne
-
-**Art. 220.**
-
-§ 1. Niedopuszczalne jest stosowanie materiałów i procesów technologicznych bez uprzedniego ustalenia stopnia ich szkodliwości dla zdrowia pracowników i podjęcia odpowiednich środków profilaktycznych.
-
-§ 2. Minister Zdrowia i Opieki Społecznej w porozumieniu z Ministrem Pracy i Polityki Socjalnej oraz z właściwymi ministrami określi, w drodze rozporządzenia:
-
-- **1)** wykaz jednostek upoważnionych do przeprowadzania badań materiałów i procesów technologicznych w celu ustalenia stopnia ich szkodliwości dla zdrowia oraz zakres tych badań,
-- **2)** zakaz albo ograniczenie stosowania, obrotu lub transportu materiałów i procesów technologicznych ze względu na ich szkodliwość dla zdrowia albo uzależnienie ich stosowania, obrotu lub transportu od przestrzegania określonych warunków.
-
-**Art. 221.**
-
-§ 1. Niedopuszczalne jest stosowanie substancji chemicznych nie oznakowanych w sposób widoczny i umożliwiający ich identyfikację.
-
-§ 2. Niedopuszczalne jest stosowanie niebezpiecznych substancji chemicznych nie posiadających kart charakterystyki tych substancji, a także opakowań zabezpieczających przed ich szkodliwym działaniem, pożarem lub wybuchem.
-
-§ 3. Stosowanie niebezpiecznych substancji chemicznych jest dopuszczalne pod warunkiem zastosowania środków zapewniających pracownikom ochronę ich zdrowia i życia.
-
-§ 4. Producent, importer, dystrybutor lub inny dostawca substancji chemicznych za niespełnienie wymagań, o których mowa w § 1 i 2, ponoszą odpowiedzialność określoną w odrębnych przepisach.
-
-§ 5. Minister Zdrowia i Opieki Społecznej w porozumieniu z Ministrem Pracy i Polityki Socjalnej oraz właściwymi ministrami określi, w drodze rozporządzenia:
-
-- **1)** kryteria i sposób klasyfikacji substancji chemicznych pod względem zagrożeń dla zdrowia lub życia,
-- **2)** sposób znakowania substancji chemicznych,
-- **3)** wykaz niebezpiecznych substancji chemicznych, sposób ich znakowania, etykietowania i rejestrowania oraz wymagania dotyczące sporządzania kart charakterystyki tych substancji.
-
-**Art. 222.**
-
-§ 1. W razie zatrudniania pracownika w warunkach narażenia na działanie substancji i czynników rakotwórczych, pracodawca jest obowiązany zastępować te substancje i czynniki mniej szkodliwymi dla zdrowia lub stosować inne dostępne środki ograniczające stopień tego narażenia, przy odpowiednim wykorzystaniu osiągnięć nauki i techniki.
-
-§ 2. Minister Zdrowia i Opieki Społecznej w porozumieniu z Ministrem Pracy i Polityki Socjalnej oraz właściwymi ministrami określi, w drodze rozporządzenia, wykaz substancji, czynników i procesów technologicznych o działaniu rakotwórczym i prawdopodobnym działaniu rakotwórczym, sposób ich rejestracji oraz warunki sprawowania nadzoru nad stanem zdrowia pracowników zawodowo narażonych na działanie substancji i czynników rakotwórczych.
-
-§ 3. Pracodawca jest obowiązany rejestrować wszystkie rodzaje prac w kontakcie z substancjami i czynnikami o działaniu rakotwórczym, a także z substancjami i czynnikami o prawdopodobnym działaniu rakotwórczym, określonymi w wykazie, o którym mowa w § 2.
-
-**Art. 223.**
-
-§ 1. Pracodawca jest obowiązany chronić pracowników przed promieniowaniem jonizującym, pochodzącym ze źródeł sztucznych i naturalnych, występujących w środowisku pracy.
-
-§ 2. Dawka promieniowania jonizującego pochodzącego ze źródeł naturalnych, otrzymywana przez pracownika przy pracy w warunkach narażenia na to promieniowanie, nie może przekraczać dawek granicznych, określonych w odrębnych przepisach dla sztucznych źródeł promieniowania jonizującego.
-
-**Art. 224.**
-
-§ 1. Pracodawca prowadzący działalność, która stwarza możliwość wystąpienia nagłego niebezpieczeństwa dla zdrowia lub życia pracowników, jest obowiązany podejmować działania zapobiegające takiemu niebezpieczeństwu.
-
-§ 2. W przypadku, o którym mowa w § 1, pracodawca jest obowiązany zapewnić:
-
-- **1)** odpowiednie do rodzaju niebezpieczeństwa urządzenia i sprzęt ratowniczy oraz ich obsługę przez osoby należycie przeszkolone,
-- **2)** udzielenie pierwszej pomocy poszkodowanym.
-
-§ 3. Przepisy § 1 i 2 nie naruszają wymagań, określonych w odrębnych przepisach, dotyczących katastrof i innych nadzwyczajnych zagrożeń.
-
-**Art. 225.**
-
-§ 1. Pracodawca jest obowiązany zapewnić, aby prace, przy których istnieje możliwość wystąpienia szczególnego zagrożenia dla zdrowia lub życia ludzkiego, były wykonywane przez co najmniej dwie osoby, w celu zapewnienia asekuracji.
-
-§ 2. Minister Pracy i Polityki Socjalnej w porozumieniu z Ministrem Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, rodzaje prac, o których mowa w § 1.
-
-#### Rozdział VI Profilaktyczna ochrona zdrowia
-
-**Art. 226.** Pracodawca jest obowiązany informować pracowników o ryzyku zawodowym, które wiąże się z wykonywaną pracą, oraz o zasadach ochrony przed zagrożeniami.
-
-**Art. 227.**
-
-§ 1. Pracodawca jest obowiązany stosować środki zapobiegające chorobom zawodowym i innym chorobom związanym z wykonywaną pracą, w szczególności:
-
-- **1)** utrzymywać w stanie stałej sprawności urządzenia ograniczające lub eliminujące szkodliwe dla zdrowia czynniki środowiska pracy oraz urządzenia służące do pomiarów tych czynników,
-- **2)** przeprowadzać, na swój koszt, badania i pomiary czynników szkodliwych dla zdrowia, rejestrować i przechowywać wyniki tych badań i pomiarów oraz udostępniać je pracownikom.
-
-§ 2. Minister Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, tryb i częstotliwość dokonywania badań i pomiarów, o których mowa w § 1 pkt 2, a także sposób rejestrowania i przechowywania wyników tych badań i pomiarów oraz ich udostępniania pracownikom.
-
-**Art. 228.**
-
-§ 1. Prezes Rady Ministrów powoła, w drodze rozporządzenia, Międzyresortową Komisję do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy, określi jej uprawnienia oraz sposób wykonywania zadań.
-
-§ 2. Do zadań Komisji, o której mowa w § 1, należy:
-
-- **1)** przedkładanie Ministrowi Pracy i Polityki Socjalnej wniosków dotyczących wartości najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy - do celów określonych w § 3,
-- **2)** inicjowanie prac badawczych niezbędnych do realizacji zadań, o których mowa w pkt 1.
-
-§ 3. Minister Pracy i Polityki Socjalnej w porozumieniu z Ministrem Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, wykaz najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy.
-
-**Art. 229.**
-
-§ 1. Osoba przyjmowana do pracy podlega wstępnym badaniom lekarskim. Wstępnym badaniom lekarskim podlegają ponadto pracownicy młodociani przenoszeni na inne stanowiska pracy i inni pracownicy przenoszeni na stanowiska pracy, na których występują czynniki szkodliwe dla zdrowia lub warunki uciążliwe.
-
-§ 2. Pracownik podlega okresowym badaniom lekarskim. W przypadku niezdolności do pracy trwającej dłużej niż 30 dni, spowodowanej chorobą, pracownik podlega ponadto kontrolnym badaniom lekarskim w celu ustalenia zdolności do wykonywania pracy na dotychczasowym stanowisku.
-
-§ 3. Okresowe i kontrolne badania lekarskie przeprowadza się w miarę możliwości w godzinach pracy. Za czas niewykonywania pracy w związku z przeprowadzanymi badaniami pracownik zachowuje prawo do wynagrodzenia, a w razie przejazdu na te badania do innej miejscowości przysługuje mu zwrot kosztów podróży według zasad obowiązujących przy podróżach służbowych.
-
-§ 4. Pracodawca nie może dopuścić do pracy pracownika bez aktualnego orzeczenia lekarskiego stwierdzającego brak przeciwwskazań do pracy na określonym stanowisku.
-
-§ 5. Pracodawca zatrudniający pracowników w warunkach narażenia na działanie substancji i czynników rakotwórczych lub pyłów zwłókniających jest obowiązany zapewnić tym pracownikom okresowe badania lekarskie także:
-
-- **1)** po zaprzestaniu pracy w kontakcie z tymi substancjami, czynnikami lub pyłami,
-- **2)** po rozwiązaniu stosunku pracy, jeżeli zainteresowana osoba zgłosi wniosek o objęcie takimi badaniami.
-
-§ 6. Badania, o których mowa w § 1, 2 i 5, są przeprowadzane na koszt pracodawcy. Pracodawca ponosi ponadto inne koszty profilaktycznej opieki zdrowotnej nad pracownikami, niezbędnej z uwagi na warunki pracy.
-
-§ 7. Pracodawca jest obowiązany przechowywać orzeczenia wydane na podstawie badań lekarskich, o których mowa w § 1, 2 i 5.
-
-§ 8. Minister Zdrowia i Opieki Społecznej w porozumieniu z Ministrem Pracy i Polityki Socjalnej określi, w drodze rozporządzenia:
-
-- **1)** tryb i zakres badań lekarskich, o których mowa w § 1, 2 i 5, oraz częstotliwość badań okresowych, a także sposób dokumentowania i kontroli badań lekarskich,
-- **2)** tryb wydawania i przechowywania orzeczeń lekarskich do celów przewidzianych w Kodeksie pracy i w przepisach wydanych na jego podstawie,
-- **3)** zakres profilaktycznej opieki zdrowotnej, o której mowa w § 6 zdanie drugie,
-- **4)** dodatkowe wymagania kwalifikacyjne, jakie powinni spełniać lekarze przeprowadzający badania, o których mowa w § 1, 2 i 5, oraz sprawujący profilaktyczną opiekę zdrowotną, o której mowa w § 6 zdanie drugie.
-
-**Art. 230.**
-
-§ 1. W razie stwierdzenia u pracownika objawów wskazujących na powstawanie choroby zawodowej, pracodawca jest obowiązany, na podstawie orzeczenia lekarskiego, w terminie i na czas określony w tym orzeczeniu, przenieść pracownika do innej pracy nie narażającej go na działanie czynnika, który wywołał te objawy.
-
-§ 2. Jeżeli przeniesienie do innej pracy powoduje obniżenie wynagrodzenia, pracownikowi przysługuje dodatek wyrównawczy przez okres nie przekraczający 6 miesięcy.
-
-**Art. 231.** Pracodawca jest obowiązany - na podstawie orzeczenia lekarskiego - przenieść do innej odpowiedniej pracy pracownika, który stał się niezdolny do wykonywania dotychczasowej pracy wskutek wypadku przy pracy lub choroby zawodowej i nie został zaliczony do żadnej z grup inwalidów. Przepis art. 230 § 2 stosuje się odpowiednio.
-
-**Art. 232.** Pracodawca jest obowiązany zapewnić pracownikom zatrudnionym w warunkach szczególnie uciążliwych, nieodpłatnie, odpowiednie posiłki i napoje, jeżeli jest to niezbędne ze względów profilaktycznych. Rada Ministrów określi, w drodze rozporządzenia, rodzaje tych posiłków i napojów oraz wymagania, jakie powinny spełniać, a także przypadki i warunki ich wydawania.
-
-**Art. 233.** Pracodawca jest obowiązany zapewnić pracownikom odpowiednie urządzenia higieniczno-sanitarne oraz dostarczyć niezbędne środki higieny osobistej, a także zapewnić środki do udzielania pierwszej pomocy w razie wypadku.
-
-#### Rozdział VII Wypadki przy pracy i choroby zawodowe
-
-**Art. 234.**
-
-§ 1. W razie wypadku przy pracy pracodawca jest obowiązany podjąć niezbędne działania eliminujące lub ograniczające zagrożenie, zapewnić udzielenie pierwszej pomocy osobom poszkodowanym i ustalenie w przewidzianym trybie okoliczności i przyczyn wypadku oraz zastosować odpowiednie środki zapobiegające podobnym wypadkom.
-
-§ 2. Pracodawca jest obowiązany niezwłocznie zawiadomić właściwego inspektora pracy i prokuratora o śmiertelnym, ciężkim lub zbiorowym wypadku przy pracy oraz o każdym innym wypadku, który wywołał wymienione skutki, mającym związek z pracą, jeżeli może być uznany za wypadek przy pracy.
-
-§ 3. Pracodawca jest obowiązany prowadzić rejestr wypadków przy pracy.
-
-§ 4. Koszty związane z ustalaniem okoliczności i przyczyn wypadków przy pracy ponosi pracodawca.
-
-**Art. 235.**
-
-§ 1. Pracodawca jest obowiązany niezwłocznie zgłosić właściwemu organowi Państwowej Inspekcji Sanitarnej i właściwemu inspektorowi pracy każdy przypadek rozpoznanej choroby zawodowej albo podejrzenia o taką chorobę.
-
-§ 2. Obowiązek, o którym mowa w § 1, dotyczy także lekarza, który rozpoznał lub podejrzewa przypadek choroby zawodowej.
-
-§ 3. W razie rozpoznania u pracownika choroby zawodowej, pracodawca jest obowiązany:
-
-- **1)** ustalić przyczyny powstania choroby zawodowej oraz charakter i rozmiar zagrożenia tą chorobą, działając w porozumieniu z właściwym organem Państwowej Inspekcji Sanitarnej,
-- **2)** przystąpić niezwłocznie do usunięcia czynników powodujących powstanie choroby zawodowej i zastosować inne niezbędne środki zapobiegawcze,
-- **3)** zapewnić realizację zaleceń lekarskich.
-
-§ 4. Pracodawca jest obowiązany prowadzić rejestr zachorowań na choroby zawodowe i podejrzeń o takie choroby.
-
-**Art. 236.** Pracodawca jest obowiązany systematycznie analizować przyczyny wypadków przy pracy, chorób zawodowych i innych chorób związanych z warunkami środowiska pracy i na podstawie wyników tych analiz stosować właściwe środki zapobiegawcze.
-
-**Art. 237.**
-
-§ 1. Rada Ministrów określi, w drodze rozporządzenia:
-
-- **1)** szczegółowe zasady postępowania przy ustalaniu okoliczności i przyczyn wypadków przy pracy oraz sposób ich dokumentowania, a także zakres informacji zamieszczanych w rejestrze wypadków przy pracy,
-- **2)** wykaz chorób zawodowych,
-- **3)** szczegółowe zasady postępowania dotyczące zgłaszania podejrzenia, rozpoznawania i stwierdzania chorób zawodowych oraz podmioty właściwe w tych sprawach.
-
-§ 2. Minister Pracy i Polityki Socjalnej określi, w drodze zarządzenia, wzór protokołu ustalenia okoliczności i przyczyn wypadku przy pracy.
-
-§ 3. Minister Pracy i Polityki Socjalnej w porozumieniu z Prezesem Głównego Urzędu Statystycznego określi, w drodze zarządzenia, wzór statystycznej karty wypadku przy pracy oraz związany z nią tryb postępowania.
-
-§ 4. Minister Zdrowia i Opieki Społecznej określi, w drodze zarządzenia:
-
-- **1)** sposób dokumentowania chorób zawodowych i skutków tych chorób, a także prowadzenia rejestrów chorób zawodowych, oraz wzory dokumentów stosowanych w postępowaniu dotyczącym tych chorób,
-- **2)** wskazania metodologiczne w sprawie rozpoznawania chorób zawodowych.
-
-**Art. 237¹.** Pracownikowi, który uległ wypadkowi przy pracy lub zachorował na chorobę zawodową określoną w wykazie, o którym mowa w art. 237 § 1 pkt 2, przysługują z tego tytułu świadczenia określone w odrębnych przepisach.
-
-#### Rozdział VIII Szkolenie
-
-**Art. 237².** Minister Edukacji Narodowej jest obowiązany zapewnić uwzględnianie problematyki bezpieczeństwa i higieny pracy oraz ergonomii w programach nauczania w szkołach, po uzgodnieniu zakresu tej problematyki z Ministrem Pracy i Polityki Socjalnej.
-
-**Art. 237³.**
-
-§ 1. Nie wolno dopuścić pracownika do pracy, do której wykonywania nie posiada on wymaganych kwalifikacji lub potrzebnych umiejętności, a także dostatecznej znajomości przepisów oraz zasad bezpieczeństwa i higieny pracy.
-
-§ 2. Pracodawca jest obowiązany zapewnić przeszkolenie pracownika w zakresie bezpieczeństwa i higieny pracy przed dopuszczeniem go do pracy oraz prowadzenie okresowych szkoleń w tym zakresie.
-
-§ 3. Szkolenia, o których mowa w § 2, odbywają się w czasie pracy i na koszt pracodawcy.
-
-**Art. 237⁴.**
-
-§ 1. Pracodawca jest obowiązany zaznajamiać pracowników z przepisami i zasadami bezpieczeństwa i higieny pracy dotyczącymi wykonywanych przez nich prac.
-
-§ 2. Pracodawca jest obowiązany wydawać szczegółowe instrukcje i wskazówki dotyczące bezpieczeństwa i higieny pracy na stanowiskach pracy.
-
-§ 3. Pracownik jest obowiązany potwierdzić na piśmie zapoznanie się z przepisami oraz zasadami bezpieczeństwa i higieny pracy.
-
-**Art. 237⁵.** Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, szczegółowe zasady szkolenia w dziedzinie bezpieczeństwa i higieny pracy, zakres tego szkolenia oraz wymagania dotyczące treści i realizacji programów szkolenia, a także sposób dokumentowania szkolenia.
-
-#### Rozdział IX Środki ochrony indywidualnej oraz odzież i obuwie robocze
-
-**Art. 237⁶.**
-
-§ 1. Pracodawca jest obowiązany dostarczyć pracownikowi nieodpłatnie środki ochrony indywidualnej zabezpieczające przed działaniem niebezpiecznych i szkodliwych dla zdrowia czynników występujących w środowisku pracy oraz informować go o sposobach posługiwania się tymi środkami.
-
-§ 2. Producent, importer, dystrybutor lub inny dostawca środków ochrony indywidualnej jest obowiązany wydać deklarację zgodności tych wyrobów z normami wprowadzonymi do obowiązkowego stosowania oraz wymaganiami określonymi właściwymi przepisami.
-
-§ 3. Pracodawca jest obowiązany dostarczać pracownikowi środki ochrony indywidualnej, które uzyskały wymagany certyfikat na znak bezpieczeństwa i zostały oznaczone tym znakiem, zgodnie z odrębnymi przepisami, oraz posiadają deklarację zgodności, o której mowa w § 2.
-
-**Art. 237⁷.**
-
-§ 1. Pracodawca jest obowiązany dostarczyć pracownikowi nieodpłatnie odzież i obuwie robocze, spełniające wymagania określone w Polskich Normach:
-
-- **1)** jeżeli odzież własna pracownika może ulec zniszczeniu lub znacznemu zabrudzeniu,
-- **2)** ze względu na wymagania technologiczne, sanitarne lub bezpieczeństwa i higieny pracy.
-
-§ 2. Pracodawca w porozumieniu z zakładową organizacją związkową może ustalić stanowiska, na których dopuszcza się używanie przez pracowników, za ich zgodą, własnej odzieży i obuwia roboczego, spełniających wymagania bezpieczeństwa i higieny pracy. Jeżeli u danego pracodawcy nie działa zakładowa organizacja związkowa, pracodawca dokonuje takich ustaleń w porozumieniu z pracownikami wybranymi w tym celu przez załogę, w trybie przyjętym w zakładzie pracy.
-
-§ 3. Przepis § 2 nie dotyczy stanowisk, na których są wykonywane prace związane z bezpośrednią obsługą maszyn i innych urządzeń technicznych albo prace powodujące intensywne brudzenie lub skażenie odzieży i obuwia roboczego środkami chemicznymi lub promieniotwórczymi albo materiałami biologicznie zakaźnymi.
-
-§ 4. Pracownikowi używającemu własnej odzieży i obuwia roboczego, zgodnie z § 2, pracodawca wypłaca ekwiwalent pieniężny w wysokości uwzględniającej ich aktualne ceny.
-
-**Art. 237⁸.**
-
-§ 1. Rodzaje środków ochrony indywidualnej oraz odzieży i obuwia roboczego, których stosowanie na określonych stanowiskach jest niezbędne w związku z art. 237 § 1 i art. 237 § 1, oraz przewidywane okresy użytkowania odzieży i obuwia roboczego pracodawca ustala w porozumieniu z zakładową organizacją związkową. Jeżeli u danego pracodawcy nie działa zakładowa organizacja związkowa, pracodawca dokonuje takich ustaleń w porozumieniu z pracownikami wybranymi w tym celu przez zało gę, w trybie przyjętym w zakładzie pracy.
-
-§ 2. Środki ochrony indywidualnej oraz odzież i obuwie robocze, o których mowa w art. 237 § 1 i art. 237 § 1, stanowią własność pracodawcy.
-
-**Art. 237⁹.**
-
-§ 1. Pracodawca nie może dopuścić pracownika do pracy bez środków ochrony indywidualnej oraz odzieży i obuwia roboczego, przewidzianych do stosowania na danym stanowisku pracy.
-
-§ 2. Pracodawca jest obowiązany zapewnić, aby stosowane środki ochrony indywidualnej oraz odzież i obuwie robocze posiadały właściwości ochronne i użytkowe, oraz zapewnić odpowiednio ich pranie, konserwację, naprawę, odpylanie i odkażanie.
-
-§ 3. Jeżeli pracodawca nie może zapewnić prania odzieży roboczej, czynności te mogą być wykonywane przez pracownika, za jego zgodą, pod warunkiem wypłacania przez pracodawcę ekwiwalentu pieniężnego w wysokości kosztów poniesionych przez pracownika.
-
-**Art. 237¹⁰.**
-
-§ 1. Pracodawca jest obowiązany zapewnić, aby środki ochrony indywidualnej oraz odzież i obuwie robocze, które w wyniku stosowania w procesie pracy uległy skażeniu środkami chemicznymi lub promieniotwórczymi albo materiałami biologicznie zakaźnymi, były przechowywane wyłącznie w miejscu przez niego wyznaczonym.
-
-§ 2. Powierzanie pracownikowi prania, konserwacji, odpylania i odkażania przedmiotów, o których mowa w § 1, jest niedopuszczalne.
-
-#### Rozdział X Służba bezpieczeństwa i higieny pracy
-
-**Art. 237¹¹.**
-
-§ 1. Pracodawca zatrudniający więcej niż 10 pracowników, z zastrzeżeniem § 2 i 3, tworzy służbę bezpieczeństwa i higieny pracy, zwaną dalej "służbą bhp", pełniącą funkcje doradcze i kontrolne w zakresie bezpieczeństwa i higieny pracy.
-
-§ 2. Pracodawca zatrudniający nie więcej niż 50 pracowników może powierzyć wykonywanie zadań służby bhp specjalistom spoza zakładu pracy.
-
-§ 3. Pracodawca zatrudniający nie więcej niż 100 pracowników może powierzyć wykonywanie zadań służby bhp pracownikowi zatrudnionemu przy innej pracy.
-
-§ 4. Właściwy inspektor pracy w porozumieniu z właściwym państwowym inspektorem sanitarnym może nakazać zwiększenie liczebności służby bhp lub utworzenie tej służby przez pracodawcę zatrudniającego mniejszą liczbę pracowników niż określona w § 1, jeżeli jest to uzasadnione stwierdzonymi zagrożeniami zawodowymi.
-
-§ 5. Rada Ministrów określi, w drodze rozporządzenia:
-
-- **1)** szczegółowy zakres działania, uprawnienia, organizację, liczebność i podporządkowanie służby bhp,
-- **2)** kwalifikacje wymagane do wykonywania zadań służby bhp.
-
-#### Rozdział XI Komisja bezpieczeństwa i higieny pracy
-
-**Art. 237¹².**
-
-§ 1. Pracodawca zatrudniający więcej niż 50 pracowników powołuje komisję bezpieczeństwa i higieny pracy, zwaną dalej "komisją", jako swój organ doradczy i opiniodawczy. W skład komisji wchodzą pracownicy służby bhp, lekarz sprawujący opiekę zdrowotną nad pracownikami, społeczny inspektor pracy, a także przedstawiciele pracowników - wybrani przez zakładową organizację związkową, a w przypadku gdy u pracodawcy nie działa zakładowa organizacja związkowa - przez pracowników, w trybie przyjętym w zakładzie pracy.
-
-§ 2. Przewodniczącym komisji jest pracodawca lub osoba przez niego upoważniona, a wiceprzewodniczącym - społeczny inspektor pracy.
-
-**Art. 237¹³.**
-
-§ 1. Zadaniem komisji jest dokonywanie przeglądu warunków pracy, okresowej oceny stanu bezpieczeństwa i higieny pracy, opiniowanie podejmowanych przez pracodawcę środków zapobiegających wypadkom przy pracy i chorobom zawodowym, formułowanie wniosków dotyczących poprawy warunków pracy oraz współdziałanie z pracodawcą w realizacji jego obowiązków w zakresie bezpieczeństwa i higieny pracy.
-
-§ 2. Posiedzenia komisji odbywają się w godzinach pracy, nie rzadziej niż raz w kwartale. Za czas nie przepracowany w związku z udziałem w posiedzeniu komisji pracownik zachowuje prawo do wynagrodzenia.
-
-§ 3. Komisja w związku z wykonywaniem zadań wymienionych w § 1 korzysta z ekspertyz lub opinii specjalistów spoza zakładu pracy - w przypadkach uzgodnionych z pracodawcą i na jego koszt.
-
-#### Rozdział XII Obowiązki organów sprawujących nadzór nad przedsiębiorstwami lub innymi jednostkami organizacyjnymi państwowymi albo samorządowymi
-
-**Art. 237¹⁴.** Organy sprawujące nadzór nad przedsiębiorstwami lub innymi jednostkami organizacyjnymi państwowymi albo samorządowymi są obowiązane podejmować działania na rzecz kształtowania bezpiecznych i higienicznych warunków pracy, w szczególności:
-
-- **1)** udzielać przedsiębiorstwom i jednostkom organizacyjnym pomocy przy wykonywaniu zadań z zakresu bezpieczeństwa i higieny pracy,
-- **2)** dokonywać, co najmniej raz w roku, oceny stanu bezpieczeństwa i higieny pracy w przedsiębiorstwach i jednostkach organizacyjnych oraz określać kierunki poprawy tego stanu,
-- **3)** w miarę potrzeb i możliwości - inicjować i prowadzić badania naukowe dotyczące bezpieczeństwa i higieny pracy.
-
-#### Rozdział XIII Przepisy bezpieczeństwa i higieny pracy dotyczące wykonywania prac w różnych gałęziach pracy
-
-**Art. 237¹⁵.**
-
-§ 1. Minister Pracy i Polityki Socjalnej w porozumieniu z Ministrem Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, ogólnie obowiązujące przepisy bezpieczeństwa i higieny pracy dotyczące prac wykonywanych w różnych gałęziach pracy.
-
-§ 2. Ministrowie właściwi dla określonych gałęzi pracy lub rodzajów prac w porozumieniu z Ministrem Pracy i Polityki Socjalnej oraz Ministrem Zdrowia i Opieki Społecznej określą, w drodze rozporządzenia, przepisy bezpieczeństwa i higieny pracy dotyczące tych gałęzi lub prac.";
-
+- **183)** rozdział VI w dziale dziewiątym otrzymuje brzmienie: "Rozdział VI Rzemieślnicze przygotowanie zawodowe Art. 206. §1. Przepisy art. 190-205 stosuje się odpowiednio do młodocianych zatrudnionych na podstawie umowy o przygotowanie zawodowe u pracodawców będących rzemieślnikami, z zastrzeżeniem odrębności określonych na podstawie § 2. §2. Minister Pracy i Polityki Socjalnej może określić, w drodze rozporządzenia, odrębności w zakresie sposobu prowadzenia przygotowania zawodowego u pracodawców będących rzemieślnikami oraz trybu przeprowadzania egzaminów stwierdzających kwalifikacje zawodowe po zakończeniu tego przygotowania.";
+- **184)** dział dziesiąty otrzymuje brzmienie: "DZIAŁ DZIESIĄTY BEZPIECZEŃSTWO I HIGIENA PRACY Rozdział I Podstawowe obowiązki pracodawcy Art. 207. §1. Pracodawca ponosi odpowiedzialność za stan bezpieczeństwa i higieny pracy w zakładzie pracy. §2. Pracodawca jest obowiązany chronić zdrowie i życie pracowników poprzez zapewnienie bezpiecznych i higienicznych warunków pracy przy odpowiednim wykorzystaniu osiągnięć nauki i techniki. W szczególności pracodawca jest obowiązany: 1) organizować pracę w sposób zapewniający bezpieczne i higieniczne warunki pracy, 2) zapewniać przestrzeganie w zakładzie pracy przepisów oraz zasad bezpieczeństwa i higieny pracy, wydawać polecenia usunięcia uchybień w tym zakresie oraz kontrolować wykonanie tych poleceń, 3) zapewniać wykonanie nakazów, wystąpień, decyzji i zarządzeń wydawanych przez organy nadzoru nad warunkami pracy, 4) zapewniać wykonanie zaleceń społecznego inspektora pracy. §3. Pracodawca oraz osoba kierująca pracownikami są obowiązani znać, w zakresie niezbędnym do wykonywania ciążących na nich obowiązków, przepisy o ochronie pracy, w tym przepisy oraz zasady bezpieczeństwa i higieny pracy. Art. 208. §1. W razie gdy jednocześnie w tym samym miejscu wykonują pracę pracownicy zatrudnieni przez różnych pracodawców, pracodawcy ci mają obowiązek: 1) współpracować ze sobą, 2) wyznaczyć koordynatora sprawującego nadzór nad bezpieczeństwem i higieną pracy wszystkich pracowników zatrudnionych w tym samym miejscu, 3) ustalić zasady współdziałania uwzględniające sposoby postępowania w przypadku wystąpienia zagrożeń dla zdrowia lub życia pracowników. §2. Wyznaczenie koordynatora, o którym mowa w § 1, nie zwalnia poszczególnych pracodawców z obowiązku zapewnienia bezpieczeństwa i higieny pracy zatrudnionym przez nich pracownikom. Art. 209.§1. Pracodawca rozpoczynający działalność jest obowiązany, w terminie 14 dni od dnia rozpoczęcia tej działalności, zawiadomić na piśmie właściwego inspektora pracy i właściwego państwowego inspektora sanitarnego o miejscu, rodzaju i zakresie prowadzonej działalności oraz o przewidywanej liczbie pracowników, a także złożyć pisemną informację o środkach i procedurach przyjętych dla spełnienia wymagań wynikających z przepisów bezpieczeństwa i higieny pracy dotyczących danej dziedziny działalności. §2. Obowiązek, o którym mowa w § 1, ciąży na pracodawcy odpowiednio w razie zmiany miejsca, rodzaju i zakresu prowadzonej działalności, zwłaszcza zmiany technologii lub profilu produkcji. §3. Pracodawca zawiadamia właściwego inspektora pracy i właściwego państwowego inspektora sanitarnego o zaprzestaniu działalności lub likwidacji zakładu pracy. §4. Właściwy inspektor pracy lub właściwy państwowy inspektor sanitarny może zobowiązać pracodawcę prowadzącego działalność powodującą szczególne zagrożenia dla zdrowia lub życia pracowników do okresowej aktualizacji informacji, o której mowa w § 1. Rozdział II Prawa i obowiązki pracownika Art. 210. §1.W razie gdy warunki pracy nie odpowiadają przepisom bezpieczeństwa i higieny pracy i stwarzają bezpośrednie zagrożenie dla zdrowia lub życia pracownika albo gdy wykonywana przez niego praca grozi takim niebezpie czeństwem innym osobom, pracownik ma prawo powstrzymać się od wykonywania pracy, zawiadamiając o tym niezwłocznie przełożonego. §2. Jeżeli powstrzymanie się od wykonywania pracy nie usuwa zagrożenia, o którym mowa w § 1, pracownik ma prawo oddalić się z miejsca zagrożenia, zawiadamiając o tym niezwłocznie przełożonego. §3. Za czas powstrzymania się od wykonywania pracy lub oddalenia się z miejsca zagrożenia w przypadkach, o których mowa w § 1 i 2, pracownik zachowuje prawo do wynagrodzenia. §4. Pracownik ma prawo, po uprzednim zawiadomieniu przełożonego, powstrzymać się od wykonywania pracy wymagającej szczególnej sprawności psychofizycznej w przypadku, gdy jego stan psychofizyczny nie zapewnia bezpiecznego wykonywania pracy i stwarza zagrożenie dla innych osób. §5. Przepisy § 1, 2 i 4 nie dotyczą pracownika, którego obowiązkiem pracowniczym jest ratowanie życia ludzkiego lub mienia. §6. Minister Pracy i Polityki Socjalnej w porozumieniu z Ministrem Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, rodzaje prac wymagających szczególnej sprawności psychofizycznej. Art. 211. Przestrzeganie przepisów i zasad bezpieczeństwa i higieny pracy jest podstawowym obowiązkiem pracownika. W szczególności pracownik jest obowiązany: 1) znać przepisy i zasady bezpieczeństwa i higieny pracy, brać udział w szkoleniu i instruktażu z tego zakresu oraz poddawać się wymaganym egzaminom sprawdzającym, 2) wykonywać pracę w sposób zgodny z przepisami i zasadami bezpieczeństwa i higieny pracy oraz stosować się do wydawanych w tym zakresie poleceń i wskazówek przełożonych, 3) dbać o należyty stan maszyn, urządzeń, narzędzi i sprzętu oraz o porządek i ład w miejscu pracy, 4) stosować środki ochrony zbiorowej, a także używać przydzielonych środków ochrony indywidualnej oraz odzieży i obuwia roboczego, zgodnie z ich przeznaczeniem, 5) poddawać się wstępnym, okresowym i kontrolnym oraz innym zaleconym badaniom lekarskim i stosować się do wskazań lekarskich, 6) niezwłocznie zawiadomić przełożonego o zauważonym w zakładzie pracy wypadku albo zagrożeniu życia lub zdrowia ludzkiego oraz ostrzec współpracowników, a także inne osoby znajdujące się w rejonie zagrożenia, o grożącym im niebezpieczeństwie, 7) współdziałać z pracodawcą i przełożonymi w wypełnianiu obowiązków dotyczących bezpieczeństwa i higieny pracy. Art. 212. Osoba kierująca pracownikami jest obowiązana: 1) organizować stanowiska pracy zgodnie z przepisami i zasadami bezpieczeństwa i higieny pracy, 2) dbać o sprawność środków ochrony indywidualnej oraz ich stosowanie zgodnie z przeznaczeniem, 3) organizować, przygotowywać i prowadzić prace, uwzględniając zabezpieczenie pracowników przed wypadkami przy pracy, chorobami zawodowymi i innymi chorobami związanymi z warunkami środowiska pracy, 4) dbać o bezpieczny i higieniczny stan pomieszczeń pracy i wyposażenia technicznego, a także o sprawność środków ochrony zbiorowej i ich stosowanie zgodnie z przeznaczeniem, 5) egzekwować przestrzeganie przez pracowników przepisów i zasad bezpieczeństwa i higieny pracy, 6) zapewniać wykonanie zaleceń lekarza sprawującego opiekę zdrowotną nad pracownikami. Rozdział III Obiekty budowlane i pomieszczenia pracy Art. 213. §1. Pracodawca jest obowiązany zapewniać, aby budowa lub przebudowa obiektu budowlanego, w którym przewiduje się pomieszczenia pracy, była wykonywana na podstawie projektów uwzględniających wymagania bezpieczeństwa i higieny pracy, pozytywnie zaopiniowanych przez uprawnionych rzeczoznawców, zgodnie z odrębnymi przepisami. §2. Obiekt budowlany, w którym znajdują się pomieszczenia pracy, powinien spełniać wymagania dotyczące bezpieczeństwa i higieny pracy. §3. Przebudowa obiektu budowlanego, w którym znajdują się pomieszczenia pracy, powinna uwzględniać poprawę warunków bezpieczeństwa i higieny pracy. §4. Przepisy § 1-3 stosuje się odpowiednio w przypadku, gdy budowa lub przebudowa dotyczy części obiektu budowlanego, w której znajdują się pomieszczenia pracy. Art. 214. §1. Pracodawca jest obowiązany zapewniać pomieszczenia pracy odpowiednie do rodzaju wykonywanych prac i liczby zatrudnionych pracowników. §2. Pracodawca jest obowiązany utrzymywać obiekty budowlane i znajdujące się w nich pomieszczenia pracy, a także tereny i urządzenia z nimi związane w stanie zapewniającym bezpieczne i higieniczne warunki pracy. Rozdział IV Maszyny i inne urządzenia techniczne Art. 215. §1. Maszyny i inne urządzenia techniczne powinny być tak konstruowane i budowane, aby: 1) zapewniały bezpieczne i higieniczne warunki pracy, w szczególności zabezpieczały pracownika przed urazami, działaniem niebezpiecznych substancji chemicznych, porażeniem prądem elektrycznym, nadmiernym hałasem, szkodliwymi wstrząsami, działaniem wibracji i promieniowania oraz szkodliwym i niebezpiecznym działaniem innych czynników środowiska pracy, 2) uwzględniały zasady ergonomii. §2. Konstruktor oraz producent maszyn i innych urządzeń technicznych ponoszą odpowiedzialność za niedopełnienie obowiązków, o których mowa w § 1, określoną w odrębnych przepisach. Art. 216. §1. Maszyny i inne urządzenia techniczne, które nie spełniają wymagań określonych w art. 215 § 1, wyposaża się w odpowiednie zabezpieczenia. §2. W przypadku gdy konstrukcja zabezpieczenia jest uzależniona od warunków lokalnych, wyposażenie maszyny lub innego urządzenia technicznego w odpowiednie zabezpieczenia należy do obowiązków pracodawcy. Art. 217. §1. Producent, importer, dystrybutor lub inny dostawca maszyn i innych urządzeń technicznych, które nie podlegają obowiązkowi zgłaszania do certyfikacji na znak bezpieczeństwa i oznaczania tym znakiem, jest obowiązany wydać deklarację zgodności tych wyrobów z normami wprowadzonymi do obowiązkowego stosowania oraz wy maganiami określonymi właściwymi przepisami. §2. Niedopuszczalne jest wyposażanie stanowisk pracy w maszyny i inne urządzenia techniczne, które nie uzyskały wymaganego certyfikatu na znak bezpieczeństwa i nie zostały oznaczone tym znakiem, zgodnie z odrębnymi przepisami, albo nie posiadają deklaracji zgodności, o której mowa w § 1. Art. 218. Przepisy art. 215 i 217 stosuje się odpowiednio do narzędzi pracy. Art. 219. Przepisy art. 215 i 217 nie naruszają wymagań określonych przepisami dotyczącymi maszyn i innych urządzeń technicznych: 1) będących środkami transportu kolejowego, samochodowego, morskiego, wodnego śródlądowego i lotniczego, 2) podlegających przepisom o dozorze technicznym, 3) podlegających przepisom Prawa geologicznego i górniczego, 4) podlegających przepisom obowiązującym w jednostkach podległych Ministrom Obrony Narodowej i Spraw Wewnętrznych, 5) podlegających przepisom Prawa atomowego. Rozdział V Substancje chemiczne oraz procesy pracy szczególnie szkodliwe dla zdrowia lub niebezpieczne Art. 220. §1. Niedopuszczalne jest stosowanie materiałów i procesów technologicznych bez uprzedniego ustalenia stopnia ich szkodliwości dla zdrowia pracowników i podjęcia odpowiednich środków profilaktycznych. §2. Minister Zdrowia i Opieki Społecznej w porozumieniu z Ministrem Pracy i Polityki Socjalnej oraz z właściwymi ministrami określi, w drodze rozporządzenia: 1) wykaz jednostek upoważnionych do przeprowadzania badań materiałów i procesów technologicznych w celu ustalenia stopnia ich szkodliwości dla zdrowia oraz zakres tych badań, 2) zakaz albo ograniczenie stosowania, obrotu lub transportu materiałów i procesów technologicznych ze względu na ich szkodliwość dla zdrowia albo uzależnienie ich stosowania, obrotu lub transportu od przestrzegania określonych warunków. Art. 221. §1. Niedopuszczalne jest stosowanie substancji chemicznych nie oznakowanych w sposób widoczny i umożliwiający ich identyfikację. §2. Niedopuszczalne jest stosowanie niebezpiecznych substancji chemicznych nie posiadających kart charakterystyki tych substancji, a także opakowań zabezpieczających przed ich szkodliwym działaniem, pożarem lub wybuchem. §3. Stosowanie niebezpiecznych substancji chemicznych jest dopuszczalne pod warunkiem zastosowania środków zapewniających pracownikom ochronę ich zdrowia i życia. §4. Producent, importer, dystrybutor lub inny dostawca substancji chemicznych za niespełnienie wymagań, o których mowa w § 1 i 2, ponoszą odpowiedzialność określoną w odrębnych przepisach. §5. Minister Zdrowia i Opieki Społecznej w porozumieniu z Ministrem Pracy i Polityki Socjalnej oraz właściwymi ministrami określi, w drodze rozporządzenia: 1) kryteria i sposób klasyfikacji substancji chemicznych pod względem zagrożeń dla zdrowia lub życia, 2) sposób znakowania substancji chemicznych, 3) wykaz niebezpiecznych substancji chemicznych, sposób ich znakowania, etykietowania i rejestrowania oraz wymagania dotyczące sporządzania kart charakterystyki tych substancji. Art. 222. §1. W razie zatrudniania pracownika w warunkach narażenia na działanie substancji i czynników rakotwórczych, pracodawca jest obowiązany zastępować te substancje i czynniki mniej szkodliwymi dla zdrowia lub stosować inne dostępne środki ograniczające stopień tego narażenia, przy odpowiednim wykorzystaniu osiągnięć nauki i techniki. §2. Minister Zdrowia i Opieki Społecznej w porozumieniu z Ministrem Pracy i Polityki Socjalnej oraz właściwymi ministrami określi, w drodze rozporządzenia, wykaz substancji, czynników i procesów technologicznych o działaniu rakotwórczym i prawdopodobnym działaniu rakotwórczym, sposób ich rejestracji oraz warunki sprawowania nadzoru nad stanem zdrowia pracowników zawodowo narażonych na działanie substancji i czynników rakotwórczych. §3. Pracodawca jest obowiązany rejestrować wszystkie rodzaje prac w kontakcie z substancjami i czynnikami o działaniu rakotwórczym, a także z substancjami i czynnikami o prawdopodobnym działaniu rakotwórczym, określonymi w wykazie, o którym mowa w § 2. Art. 223. §1. Pracodawca jest obowiązany chronić pracowników przed promieniowaniem jonizującym, pochodzącym ze źródeł sztucznych i naturalnych, występujących w środowisku pracy. §2. Dawka promieniowania jonizującego pochodzącego ze źródeł naturalnych, otrzymywana przez pracownika przy pracy w warunkach narażenia na to promieniowanie, nie może przekraczać dawek granicznych, określonych w odrębnych przepisach dla sztucznych źródeł promieniowania jonizującego. Art. 224. §1. Pracodawca prowadzący działalność, która stwarza możliwość wystąpienia nagłego niebezpieczeństwa dla zdrowia lub życia pracowników, jest obowiązany podejmować działania zapobiegające takiemu niebezpieczeństwu. §2. W przypadku, o którym mowa w § 1, pracodawca jest obowiązany zapewnić: 1) odpowiednie do rodzaju niebezpieczeństwa urządzenia i sprzęt ratowniczy oraz ich obsługę przez osoby należycie przeszkolone, 2) udzielenie pierwszej pomocy poszkodowanym. §3. Przepisy § 1 i 2 nie naruszają wymagań, określonych w odrębnych przepisach, dotyczących katastrof i innych nadzwyczajnych zagrożeń. Art. 225. §1. Pracodawca jest obowiązany zapewnić, aby prace, przy których istnieje możliwość wystąpienia szczególnego zagrożenia dla zdrowia lub życia ludzkiego, były wykonywane przez co najmniej dwie osoby, w celu zapewnienia asekuracji. §2. Minister Pracy i Polityki Socjalnej w porozumieniu z Ministrem Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, rodzaje prac, o których mowa w § 1. Rozdział VI Profilaktyczna ochrona zdrowia Art. 226. Pracodawca jest obowiązany informować pracowników o ryzyku zawodowym, które wiąże się z wykonywaną pracą, oraz o zasadach ochrony przed zagrożeniami. Art. 227. §1. Pracodawca jest obowiązany stosować środki zapobiegające chorobom zawodowym i innym chorobom związanym z wykonywaną pracą, w szczególności: 1) utrzymywać w stanie stałej sprawności urządzenia ograniczające lub eliminujące szkodliwe dla zdrowia czynniki środowiska pracy oraz urządzenia służące do pomiarów tych czynników, 2) przeprowadzać, na swój koszt, badania i pomiary czynników szkodliwych dla zdrowia, rejestrować i przechowywać wyniki tych badań i pomiarów oraz udostępniać je pracownikom. §2. Minister Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, tryb i częstotliwość dokonywania badań i pomiarów, o których mowa w § 1 pkt 2, a także sposób rejestrowania i przechowywania wyników tych badań i pomiarów oraz ich udostępniania pracownikom. Art. 228. §1. Prezes Rady Ministrów powoła, w drodze rozporządzenia, Międzyresortową Komisję do Spraw Najwyższych Dopuszczalnych Stężeń i Natężeń Czynników Szkodliwych dla Zdrowia w Środowisku Pracy, określi jej uprawnienia oraz sposób wykonywania zadań. §2. Do zadań Komisji, o której mowa w § 1, należy: 1) przedkładanie Ministrowi Pracy i Polityki Socjalnej wniosków dotyczących wartości najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy - do celów określonych w § 3, 2) inicjowanie prac badawczych niezbędnych do realizacji zadań, o których mowa w pkt 1. §3. Minister Pracy i Polityki Socjalnej w porozumieniu z Ministrem Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, wykaz najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy. Art. 229. §1. Osoba przyjmowana do pracy podlega wstępnym badaniom lekarskim. Wstępnym badaniom lekarskim podlegają ponadto pracownicy młodociani przenoszeni na inne stanowiska pracy i inni pracownicy przenoszeni na stanowiska pracy, na których występują czynniki szkodliwe dla zdrowia lub warunki uciążliwe. §2. Pracownik podlega okresowym badaniom lekarskim. W przypadku niezdolności do pracy trwającej dłużej niż 30 dni, spowodowanej chorobą, pracownik podlega ponadto kontrolnym badaniom lekarskim w celu ustalenia zdolności do wykonywania pracy na dotychczasowym stanowisku. §3. Okresowe i kontrolne badania lekarskie przeprowadza się w miarę możliwości w godzinach pracy. Za czas niewykonywania pracy w związku z przeprowadzanymi badaniami pracownik zachowuje prawo do wynagrodzenia, a w razie przejazdu na te badania do innej miejscowości przysługuje mu zwrot kosztów podróży według zasad obowiązujących przy podróżach służbowych. §4. Pracodawca nie może dopuścić do pracy pracownika bez aktualnego orzeczenia lekarskiego stwierdzającego brak przeciwwskazań do pracy na określonym stanowisku. §5. Pracodawca zatrudniający pracowników w warunkach narażenia na działanie substancji i czynników rakotwórczych lub pyłów zwłókniających jest obowiązany zapewnić tym pracownikom okresowe badania lekarskie także: 1) po zaprzestaniu pracy w kontakcie z tymi substancjami, czynnikami lub pyłami, 2) po rozwiązaniu stosunku pracy, jeżeli zainteresowana osoba zgłosi wniosek o objęcie takimi badaniami. §6. Badania, o których mowa w § 1, 2 i 5, są przeprowadzane na koszt pracodawcy. Pracodawca ponosi ponadto inne koszty profilaktycznej opieki zdrowotnej nad pracownikami, niezbędnej z uwagi na warunki pracy. §7. Pracodawca jest obowiązany przechowywać orzeczenia wydane na podstawie badań lekarskich, o których mowa w § 1, 2 i 5. §8. Minister Zdrowia i Opieki Społecznej w porozumieniu z Ministrem Pracy i Polityki Socjalnej określi, w drodze rozporządzenia: 1) tryb i zakres badań lekarskich, o których mowa w § 1, 2 i 5, oraz częstotliwość badań okresowych, a także sposób dokumentowania i kontroli badań lekarskich, 2) tryb wydawania i przechowywania orzeczeń lekarskich do celów przewidzianych w Kodeksie pracy i w przepisach wydanych na jego podstawie, 3) zakres profilaktycznej opieki zdrowotnej, o której mowa w § 6 zdanie drugie, 4) dodatkowe wymagania kwalifikacyjne, jakie powinni spełniać lekarze przeprowadzający badania, o których mowa w § 1, 2 i 5, oraz sprawujący profilaktyczną opiekę zdrowotną, o której mowa w § 6 zdanie drugie. Art. 230. §1. W razie stwierdzenia u pracownika objawów wskazujących na powstawanie choroby zawodowej, pracodawca jest obowiązany, na podstawie orzeczenia lekarskiego, w terminie i na czas określony w tym orzeczeniu, przenieść pracownika do innej pracy nie narażającej go na działanie czynnika, który wywołał te objawy. §2. Jeżeli przeniesienie do innej pracy powoduje obniżenie wynagrodzenia, pracownikowi przysługuje dodatek wyrównawczy przez okres nie przekraczający 6 miesięcy. Art. 231. Pracodawca jest obowiązany - na podstawie orzeczenia lekarskiego - przenieść do innej odpowiedniej pracy pracownika, który stał się niezdolny do wykonywania dotychczasowej pracy wskutek wypadku przy pracy lub choroby zawodowej i nie został zaliczony do żadnej z grup inwalidów. Przepis art. 230 § 2 stosuje się odpowiednio. Art. 232. Pracodawca jest obowiązany zapewnić pracownikom zatrudnionym w warunkach szczególnie uciążliwych, nieodpłatnie, odpowiednie posiłki i napoje, jeżeli jest to niezbędne ze względów profilaktycznych. Rada Ministrów określi, w drodze rozporządzenia, rodzaje tych posiłków i napojów oraz wymagania, jakie powinny spełniać, a także przypadki i warunki ich wydawania. Art. 233. Pracodawca jest obowiązany zapewnić pracownikom odpowiednie urządzenia higieniczno-sanitarne oraz dostarczyć niezbędne środki higieny osobistej, a także zapewnić środki do udzielania pierwszej pomocy w razie wypadku. Rozdział VII Wypadki przy pracy i choroby zawodowe Art. 234. §1. W razie wypadku przy pracy pracodawca jest obowiązany podjąć niezbędne działania eliminujące lub ograniczające zagrożenie, zapewnić udzielenie pierwszej pomocy osobom poszkodowanym i ustalenie w przewidzianym trybie okoliczności i przyczyn wypadku oraz zastosować odpowiednie środki zapobiegające podobnym wypadkom. §2. Pracodawca jest obowiązany niezwłocznie zawiadomić właściwego inspektora pracy i prokuratora o śmiertelnym, ciężkim lub zbiorowym wypadku przy pracy oraz o każdym innym wypadku, który wywołał wymienione skutki, mającym związek z pracą, jeżeli może być uznany za wypadek przy pracy. §3. Pracodawca jest obowiązany prowadzić rejestr wypadków przy pracy. §4. Koszty związane z ustalaniem okoliczności i przyczyn wypadków przy pracy ponosi pracodawca. Art. 235. §1. Pracodawca jest obowiązany niezwłocznie zgłosić właściwemu organowi Państwowej Inspekcji Sanitarnej i właściwemu inspektorowi pracy każdy przypadek rozpoznanej choroby zawodowej albo podejrzenia o taką chorobę. §2. Obowiązek, o którym mowa w § 1, dotyczy także lekarza, który rozpoznał lub podejrzewa przypadek choroby zawodowej. §3. W razie rozpoznania u pracownika choroby zawodowej, pracodawca jest obowiązany: 1) ustalić przyczyny powstania choroby zawodowej oraz charakter i rozmiar zagrożenia tą chorobą, działając w porozumieniu z właściwym organem Państwowej Inspekcji Sanitarnej, 2) przystąpić niezwłocznie do usunięcia czynników powodujących powstanie choroby zawodowej i zastosować inne niezbędne środki zapobiegawcze, 3) zapewnić realizację zaleceń lekarskich. §4. Pracodawca jest obowiązany prowadzić rejestr zachorowań na choroby zawodowe i podejrzeń o takie choroby. Art. 236. Pracodawca jest obowiązany systematycznie analizować przyczyny wypadków przy pracy, chorób zawodowych i innych chorób związanych z warunkami środowiska pracy i na podstawie wyników tych analiz stosować właściwe środki zapobiegawcze. Art. 237. §1. Rada Ministrów określi, w drodze rozporządzenia: 1) szczegółowe zasady postępowania przy ustalaniu okoliczności i przyczyn wypadków przy pracy oraz sposób ich dokumentowania, a także zakres informacji zamieszczanych w rejestrze wypadków przy pracy, 2) wykaz chorób zawodowych, 3) szczegółowe zasady postępowania dotyczące zgłaszania podejrzenia, rozpoznawania i stwierdzania chorób zawodowych oraz podmioty właściwe w tych sprawach. §2. Minister Pracy i Polityki Socjalnej określi, w drodze zarządzenia, wzór protokołu ustalenia okoliczności i przyczyn wypadku przy pracy. §3. Minister Pracy i Polityki Socjalnej w porozumieniu z Prezesem Głównego Urzędu Statystycznego określi, w drodze zarządzenia, wzór statystycznej karty wypadku przy pracy oraz związany z nią tryb postępowania. §4. Minister Zdrowia i Opieki Społecznej określi, w drodze zarządzenia: 1) sposób dokumentowania chorób zawodowych i skutków tych chorób, a także prowadzenia rejestrów chorób zawodowych, oraz wzory dokumentów stosowanych w postępowaniu dotyczącym tych chorób, 2) wskazania metodologiczne w sprawie rozpoznawania chorób zawodowych. Art. 237 1 . Pracownikowi, który uległ wypadkowi przy pracy lub zachorował na chorobę zawodową określoną w wykazie, o którym mowa w art. 237 § 1 pkt 2, przysługują z tego tytułu świadczenia określone w odrębnych przepisach. Rozdział VIII Szkolenie Art. 237 2 . Minister Edukacji Narodowej jest obowiązany zapewnić uwzględnianie problematyki bezpieczeństwa i higieny pracy oraz ergonomii w programach nauczania w szkołach, po uzgodnieniu zakresu tej problematyki z Ministrem Pracy i Polityki Socjalnej. Art. 237 3 . §1. Nie wolno dopuścić pracownika do pracy, do której wykonywania nie posiada on wymaganych kwalifikacji lub potrzebnych umiejętności, a także dostatecznej znajomości przepisów oraz zasad bezpieczeństwa i higieny pracy. §2. Pracodawca jest obowiązany zapewnić przeszkolenie pracownika w zakresie bezpieczeństwa i higieny pracy przed dopuszczeniem go do pracy oraz prowadzenie okresowych szkoleń w tym zakresie. §3. Szkolenia, o których mowa w § 2, odbywają się w czasie pracy i na koszt pracodawcy. Art. 237 4 . §1. Pracodawca jest obowiązany zaznajamiać pracowników z przepisami i zasadami bezpieczeństwa i higieny pracy dotyczącymi wykonywanych przez nich prac. §2. Pracodawca jest obowiązany wydawać szczegółowe instrukcje i wskazówki dotyczące bezpieczeństwa i higieny pracy na stanowiskach pracy. §3. Pracownik jest obowiązany potwierdzić na piśmie zapoznanie się z przepisami oraz zasadami bezpieczeństwa i higieny pracy. Art. 237 5 . Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, szczegółowe zasady szkolenia w dziedzinie bezpieczeństwa i higieny pracy, zakres tego szkolenia oraz wymagania dotyczące treści i realizacji programów szkolenia, a także sposób dokumentowania szkolenia. Rozdział IX Środki ochrony indywidualnej oraz odzież i obuwie robocze Art. 237 6 . §1. Pracodawca jest obowiązany dostarczyć pracownikowi nieodpłatnie środki ochrony indywidualnej zabezpieczające przed działaniem niebezpiecznych i szkodliwych dla zdrowia czynników występujących w środowisku pracy oraz informować go o sposobach posługiwania się tymi środkami. §2. Producent, importer, dystrybutor lub inny dostawca środków ochrony indywidualnej jest obowiązany wydać deklarację zgodności tych wyrobów z normami wprowadzonymi do obowiązkowego stosowania oraz wymaganiami określonymi właściwymi przepisami. §3. Pracodawca jest obowiązany dostarczać pracownikowi środki ochrony indywidualnej, które uzyskały wymagany certyfikat na znak bezpieczeństwa i zostały oznaczone tym znakiem, zgodnie z odrębnymi przepisami, oraz posiadają deklarację zgodności, o której mowa w § 2. Art. 237 7 . §1. Pracodawca jest obowiązany dostarczyć pracownikowi nieodpłatnie odzież i obuwie robocze, spełniające wymagania określone w Polskich Normach: 1) jeżeli odzież własna pracownika może ulec zniszczeniu lub znacznemu zabrudzeniu, 2) ze względu na wymagania technologiczne, sanitarne lub bezpieczeństwa i higieny pracy. §2. Pracodawca w porozumieniu z zakładową organizacją związkową może ustalić stanowiska, na których dopuszcza się używanie przez pracowników, za ich zgodą, własnej odzieży i obuwia roboczego, spełniających wymagania bezpieczeństwa i higieny pracy. Jeżeli u danego pracodawcy nie działa zakładowa organizacja związkowa, pracodawca dokonuje takich ustaleń w porozumieniu z pracownikami wybranymi w tym celu przez załogę, w trybie przyjętym w zakładzie pracy. §3. Przepis § 2 nie dotyczy stanowisk, na których są wykonywane prace związane z bezpośrednią obsługą maszyn i innych urządzeń technicznych albo prace powodujące intensywne brudzenie lub skażenie odzieży i obuwia roboczego środkami chemicznymi lub promieniotwórczymi albo materiałami biologicznie zakaźnymi. §4. Pracownikowi używającemu własnej odzieży i obuwia roboczego, zgodnie z § 2, pracodawca wypłaca ekwiwalent pieniężny w wysokości uwzględniającej ich aktualne ceny. Art. 237 8 . §1.Rodzaje środków ochrony indywidualnej oraz odzieży i obuwia roboczego, których stosowanie na określonych stanowiskach jest niezbędne w związku z art. 237 § 1 i art. 237 § 1, oraz przewidywane okresy użytkowania odzieży i obuwia roboczego pracodawca ustala w porozumieniu z zakładową organizacją związkową. Jeżeli u danego pracodawcy nie działa zakładowa organizacja związkowa, pracodawca dokonuje takich ustaleń w porozumieniu z pracownikami wybranymi w tym celu przez zało gę, w trybie przyjętym w zakładzie pracy. §2. Środki ochrony indywidualnej oraz odzież i obuwie robocze, o których mowa w art. 237 § 1 i art. 237 § 1, stanowią własność pracodawcy. Art. 237 9 . §1. Pracodawca nie może dopuścić pracownika do pracy bez środków ochrony indywidualnej oraz odzieży i obuwia roboczego, przewidzianych do stosowania na danym stanowisku pracy. §2. Pracodawca jest obowiązany zapewnić, aby stosowane środki ochrony indywidualnej oraz odzież i obuwie robocze posiadały właściwości ochronne i użytkowe, oraz zapewnić odpowiednio ich pranie, konserwację, naprawę, odpylanie i odkażanie. §3. Jeżeli pracodawca nie może zapewnić prania odzieży roboczej, czynności te mogą być wykonywane przez pracownika, za jego zgodą, pod warunkiem wypłacania przez pracodawcę ekwiwalentu pieniężnego w wysokości kosztów poniesionych przez pracownika. Art. 237 10 . §1. Pracodawca jest obowiązany zapewnić, aby środki ochrony indywidualnej oraz odzież i obuwie robocze, które w wyniku stosowania w procesie pracy uległy skażeniu środkami chemicznymi lub promieniotwórczymi albo materiałami biologicznie zakaźnymi, były przechowywane wyłącznie w miejscu przez niego wyznaczonym. §2. Powierzanie pracownikowi prania, konserwacji, odpylania i odkażania przedmiotów, o których mowa w § 1, jest niedopuszczalne. Rozdział X Służba bezpieczeństwa i higieny pracy Art. 237 11 . §1. Pracodawca zatrudniający więcej niż 10 pracowników, z zastrzeżeniem § 2 i 3, tworzy służbę bezpieczeństwa i higieny pracy, zwaną dalej "służbą bhp", pełniącą funkcje doradcze i kontrolne w zakresie bezpieczeństwa i higieny pracy. §2. Pracodawca zatrudniający nie więcej niż 50 pracowników może powierzyć wykonywanie zadań służby bhp specjalistom spoza zakładu pracy. §3. Pracodawca zatrudniający nie więcej niż 100 pracowników może powierzyć wykonywanie zadań służby bhp pracownikowi zatrudnionemu przy innej pracy. §4. Właściwy inspektor pracy w porozumieniu z właściwym państwowym inspektorem sanitarnym może nakazać zwiększenie liczebności służby bhp lub utworzenie tej służby przez pracodawcę zatrudniającego mniejszą liczbę pracowników niż określona w § 1, jeżeli jest to uzasadnione stwierdzonymi zagrożeniami zawodowymi. §5. Rada Ministrów określi, w drodze rozporządzenia: 1) szczegółowy zakres działania, uprawnienia, organizację, liczebność i podporządkowanie służby bhp, 2) kwalifikacje wymagane do wykonywania zadań służby bhp. Rozdział XI Komisja bezpieczeństwa i higieny pracy Art. 237 12 . §1. Pracodawca zatrudniający więcej niż 50 pracowników powołuje komisję bezpieczeństwa i higieny pracy, zwaną dalej "komisją", jako swój organ doradczy i opiniodawczy. W skład komisji wchodzą pracownicy służby bhp, lekarz sprawujący opiekę zdrowotną nad pracownikami, społeczny inspektor pracy, a także przedstawiciele pracowników - wybrani przez zakładową organizację związkową, a w przypadku gdy u pracodawcy nie działa zakładowa organizacja związkowa - przez pracowników, w trybie przyjętym w zakładzie pracy. §2. Przewodniczącym komisji jest pracodawca lub osoba przez niego upoważniona, a wiceprzewodniczącym - społeczny inspektor pracy. Art. 237 13 . §1. Zadaniem komisji jest dokonywanie przeglądu warunków pracy, okresowej oceny stanu bezpieczeństwa i higieny pracy, opiniowanie podejmowanych przez pracodawcę środków zapobiegających wypadkom przy pracy i chorobom zawodowym, formułowanie wniosków dotyczących poprawy warunków pracy oraz współdziałanie z pracodawcą w realizacji jego obowiązków w zakresie bezpieczeństwa i higieny pracy. §2. Posiedzenia komisji odbywają się w godzinach pracy, nie rzadziej niż raz w kwartale. Za czas nie przepracowany w związku z udziałem w posiedzeniu komisji pracownik zachowuje prawo do wynagrodzenia. §3. Komisja w związku z wykonywaniem zadań wymienionych w § 1 korzysta z ekspertyz lub opinii specjalistów spoza zakładu pracy - w przypadkach uzgodnionych z pracodawcą i na jego koszt. Rozdział XII Obowiązki organów sprawujących nadzór nad przedsiębiorstwami lub innymi jednostkami organizacyjnymi państwowymi albo samorządowymi Art. 237 14 . Organy sprawujące nadzór nad przedsiębiorstwami lub innymi jednostkami organizacyjnymi państwowymi albo samorządowymi są obowiązane podejmować działania na rzecz kształtowania bezpiecznych i higienicznych warunków pracy, w szczególności: 1) udzielać przedsiębiorstwom i jednostkom organizacyjnym pomocy przy wykonywaniu zadań z zakresu bezpieczeństwa i higieny pracy, 2) dokonywać, co najmniej raz w roku, oceny stanu bezpieczeństwa i higieny pracy w przedsiębiorstwach i jednostkach organizacyjnych oraz określać kierunki poprawy tego stanu, 3) w miarę potrzeb i możliwości - inicjować i prowadzić badania naukowe dotyczące bezpieczeństwa i higieny pracy. Rozdział XIII Przepisy bezpieczeństwa i higieny pracy dotyczące wykonywania prac w różnych gałęziach pracy Art. 237 15 . §1. Minister Pracy i Polityki Socjalnej w porozumieniu z Ministrem Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, ogólnie obowiązujące przepisy bezpieczeństwa i higieny pracy dotyczące prac wykonywanych w różnych gałęziach pracy. §2. Ministrowie właściwi dla określonych gałęzi pracy lub rodzajów prac w porozumieniu z Ministrem Pracy i Polityki Socjalnej oraz Ministrem Zdrowia i Opieki Społecznej określą, w drodze rozporządzenia, przepisy bezpieczeństwa i higieny pracy dotyczące tych gałęzi lub prac.";
 - **185)** skreśla się art. 241;
 - **186)** w art. 243 wyrazy "Kierownik zakładu pracy" zastępuje się wyrazem "Pracodawca";
 - **187)** w art. 244:
@@ -1145,21 +369,11 @@ source: pdf
     - **c)** § 3 otrzymuje brzmienie: "§3. Komisję pojednawczą powołują wspólnie pracodawca i zakładowa organizacja związkowa, a jeżeli u danego pracodawcy nie działa zakładowa organizacja związkowa - pracodawca, po uzyskaniu pozytywnej opinii pracowników.",
     - **d)** skreśla się § 4;
 
-- **188)** art. 245 otrzymuje brzmienie: "Art. 245. W trybie przewidzianym w art. 244 § 3 ustala się:
-- **1)** zasady i tryb powoływania komisji,
-- **2)** czas trwania kadencji,
-- **3)** liczbę członków komisji.";
-- **189)** art. 246 otrzymuje brzmienie: "Art. 246. Członkiem komisji pojednawczej nie może być:
-- **1)** osoba zarządzająca, w imieniu pracodawcy, zakładem pracy,
-- **2)** główny księgowy,
-- **3)** radca prawny,
-- **4)** osoba prowadząca sprawy osobowe, zatrudnienia i płac.";
+- **188)** art. 245 otrzymuje brzmienie: "Art. 245. W trybie przewidzianym w art. 244 § 3 ustala się: 1) zasady i tryb powoływania komisji, 2) czas trwania kadencji, 3) liczbę członków komisji.";
+- **189)** art. 246 otrzymuje brzmienie: "Art. 246. Członkiem komisji pojednawczej nie może być: 1) osoba zarządzająca, w imieniu pracodawcy, zakładem pracy, 2) główny księgowy, 3) radca prawny, 4) osoba prowadząca sprawy osobowe, zatrudnienia i płac.";
 - **190)** skreśla się art. 250;
 - **191)** w art. 254 w ostatnim zdaniu wyraz "sądu" zastępuje się wyrazami "sądu pracy";
-- **192)** art. 255 otrzymuje brzmienie: "Art. 255. §1. W razie niewykonania ugody przez pracodawcę podlega ona wykonaniu w trybie przepisów Kodeksu postępowania cywilnego, po nadaniu jej przez sąd pracy klauzuli wykonalności.
-
-§ 2. Sąd pracy odmówi nadania klauzuli wykonalności, jeżeli ze złożonych akt komisji wynika, że ugoda jest sprzeczna z prawem lub zasadami współżycia społecznego. Nie wyklucza to możliwości dochodzenia ustalenia niezgodności ugody z prawem lub zasadami współżycia społecznego na zasadach ogólnych.";
-
+- **192)** art. 255 otrzymuje brzmienie: "Art. 255. §1. W razie niewykonania ugody przez pracodawcę podlega ona wykonaniu w trybie przepisów Kodeksu postępowania cywilnego, po nadaniu jej przez sąd pracy klauzuli wykonalności. §2. Sąd pracy odmówi nadania klauzuli wykonalności, jeżeli ze złożonych akt komisji wynika, że ugoda jest sprzeczna z prawem lub zasadami współżycia społecznego. Nie wyklucza to możliwości dochodzenia ustalenia niezgodności ugody z prawem lub zasadami współżycia społecznego na zasadach ogólnych.";
 - **193)** w art. 258:
     - **a)** w § 1 wyrazy "Kierownik zakładu pracy" zastępuje się wyrazem "Pracodawca",
     - **b)** w § 2 wyrazy "zakład pracy" zastępuje się wyrazem "pracodawca";
@@ -1174,81 +388,13 @@ source: pdf
     - **a)** w § 1 wyrazy "w art. 264, w art. 97 § 2 i w art. 98 § 6" zastępuje się wyrazami "w art. 97 § 2 i w art. 264",
     - **b)** w § 2 wyraz "sądu" zastępuje się wyrazami "sądu pracy";
 
-- **198)** art. 281 otrzymuje brzmienie: "Art. 281. Kto, będąc pracodawcą lub działając w jego imieniu:
-- **1)** zawiera umowę cywilnoprawną w warunkach, w których zgodnie z art. 22 § 1 powinna być zawarta umowa o pracę,
-- **2)** nie potwierdza na piśmie, w terminie 7 dni, zawartej z pracownikiem umowy o pracę,
-- **3)** wypowiada lub rozwiązuje z pracownikiem stosunek pracy bez wypowiedzenia, naruszając w sposób rażący przepisy prawa pracy,
-- **4)** stosuje wobec pracowników inne kary niż przewidziane w przepisach prawa pracy o odpowiedzialności porządkowej pracowników,
-- **5)** narusza przepisy o czasie pracy lub przepisy o ochronie pracy kobiet i zatrudnianiu młodocianych,
-- **6)** nie prowadzi dokumentacji w sprawach związanych ze stosunkiem pracy oraz akt osobowych pracowników - podlega karze grzywny.";
+- **198)** art. 281 otrzymuje brzmienie: "Art. 281. Kto, będąc pracodawcą lub działając w jego imieniu: 1) zawiera umowę cywilnoprawną w warunkach, w których zgodnie z art. 22 § 1 powinna być zawarta umowa o pracę, 2) nie potwierdza na piśmie, w terminie 7 dni, zawartej z pracownikiem umowy o pracę, 3) wypowiada lub rozwiązuje z pracownikiem stosunek pracy bez wypowiedzenia, naruszając w sposób rażący przepisy prawa pracy, 4) stosuje wobec pracowników inne kary niż przewidziane w przepisach prawa pracy o odpowiedzialności porządkowej pracowników, 5) narusza przepisy o czasie pracy lub przepisy o ochronie pracy kobiet i zatrudnianiu młodocianych, 6) nie prowadzi dokumentacji w sprawach związanych ze stosunkiem pracy oraz akt osobowych pracowników - podlega karze grzywny.";
 - **199)** w art. 282:
     - **a)** w § 1 w pkt 3 skreśla się wyrazy "lub opinii" oraz wyrazy "do 50 000 złotych",
     - **b)** § 2 otrzymuje brzmienie: "§2. Tej samej karze podlega, kto wbrew obowiązkowi nie wykonuje podlegającego wykonaniu orzeczenia sądu pracy lub ugody zawartej przed komisją pojednawczą lub sądem pracy.";
 
-- **200)** art. 283 otrzymuje brzmienie: "Art. 283. §1. Kto, będąc odpowiedzialnym za stan bezpieczeństwa i higieny pracy w zakładzie pracy albo kierując pracownikami, nie przestrzega przepisów lub zasad bezpieczeństwa i higieny pracy, podlega karze grzywny.
-
-§ 2. Tej samej karze podlega, kto:
-
-- **1)** wbrew obowiązkowi nie zawiadamia w terminie 14 dni właściwego inspektora pracy i właściwego państwowego inspektora sanitarnego o miejscu, rodzaju, zakresie prowadzonej działalności i o przewidywanej liczbie pracowników oraz nie składa pisemnej informacji o środkach i procedurach przyjętych dla spełnienia wymagań wynikających z przepisów bezpieczeństwa i higieny pracy, dotyczących danej dziedziny działalności, jak również nie zawiadamia o zmianie miejsca, rodzaju i zakresu prowadzonej działalności, zwłaszcza zmianie technologii lub profilu produkcji,
-- **2)** wbrew obowiązkowi nie zapewnia, aby budowa lub przebudowa obiektu budowlanego albo jego części, w których przewiduje się pomieszczenia pracy, była wykonywana na podstawie projektów uwzględniających wymagania bezpieczeństwa i higieny pracy, pozytywnie zaopiniowanych przez uprawnionych rzeczoznawców,
-- **3)** wbrew obowiązkowi wyposaża stanowiska pracy w maszyny i inne urządzenia techniczne, które nie uzyskały wymaganego certyfikatu na znak bezpieczeństwa i nie zostały oznaczone tym znakiem albo nie posiadają deklaracji zgodności,
-- **4)** wbrew obowiązkowi dostarcza pracownikowi środki ochrony indywidualnej, które nie uzyskały wymaganego certyfikatu na znak bezpieczeństwa i nie zostały oznaczone tym znakiem oraz nie posiadają deklaracji zgodności,
-- **5)** wbrew obowiązkowi stosuje:
-    - **a)** materiały i procesy technologiczne bez uprzedniego ustalenia stopnia ich szkodliwości dla zdrowia pracowników i bez podjęcia odpowiednich środków profilaktycznych,
-    - **b)** substancje chemiczne nie oznakowane w sposób widoczny i umożliwiający ich identyfikację,
-    - **c)** niebezpieczne substancje chemiczne nie posiadające kart charakterystyki tych substancji, a także opakowań zabezpieczających przed ich szkodliwym działaniem, pożarem lub wybuchem,
-
-- **6)** wbrew obowiązkowi nie zawiadamia właściwego inspektora pracy, prokuratora lub innego właściwego organu o śmiertelnym, ciężkim lub zbiorowym wypadku przy pracy oraz o każdym innym wypadku, który wywołał wymienione skutki, mającym związek z pracą, jeżeli może być uznany za wypadek przy pracy, nie zgłasza choroby zawodowej albo podejrzenia o taką chorobę, nie ujawnia wypadku przy pracy lub choroby zawodowej, albo przedstawia niezgodne z prawdą informacje, dowody lub dokumenty dotyczące takich wypadków i chorób,
-- **7)** nie wykonuje w wyznaczonym terminie podlegającego wykonaniu nakazu inspektora pracy,
-- **8)** utrudnia działalność organu Państwowej Inspekcji Pracy, w szczególności uniemożliwia prowadzenie wizytacji zakładu pracy lub nie udziela informacji niezbędnych do wykonywania jej zadań.";
-- **201)** rozdział II w dziale trzynastym otrzymuje brzmienie: "Rozdział II Postępowanie w sprawach o wykroczenia przeciwko prawom pracownika
-
-**Art. 284.**
-
-§ 1. W sprawach o wykroczenia przeciwko prawom pracownika, o których mowa w art. 281-283, wszczynają postępowanie i orzekają inspektorzy pracy.
-
-§ 2. Wszczęcie postępowania następuje w wyniku sporządzenia przez inspektora pracy protokołu w sprawie popełnienia wykroczenia, który powinien zawierać:
-
-- **1)** imię i nazwisko, datę urodzenia, imiona rodziców i miejsce zamieszkania obwinionego oraz jego miejsce pracy i zajmowane stanowisko,
-- **2)** w miarę możliwości, dane o warunkach materialnych obwinionego,
-- **3)** określenie czynu zarzucanego obwinionemu, z podaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz ze wskazaniem przepisu lub skonkretyzowaniem zasady bezpieczeństwa i higieny pracy, które zostały tym czynem naruszone, a także przepisu stanowiącego podstawę wymierzenia kary,
-- **4)** treść wyjaśnień obwinionego potwierdzonych jego podpisem, a w razie odmowy ich złożenia lub niestawienia się obwinionego na wezwanie inspektora pracy - wzmiankę o tym,
-- **5)** datę i miejsce sporządzenia protokołu, a także imię i nazwisko oraz podpis inspektora pracy.
-
-§ 3. Do protokołu w sprawie popełnienia wykroczenia należy dołączyć protokół z kontroli przeprowadzonej przez inspektora pracy oraz inne dokumenty stanowiące dowody w postępowaniu.
-
-§ 4. W celu wyjaśnienia okoliczności sprawy inspektor pracy może:
-
-- **1)** żądać od obwinionego udzielenia wyjaśnień,
-- **2)** wzywać obwinionego, świadków oraz inne osoby w celu przesłuchania,
-- **3)** zwracać się do właściwych instytucji lub osób o udzielenie informacji lub opinii albo przedstawienie dokumentów i innych dowodów potrzebnych do wyjaśnienia sprawy.
-
-**Art. 285.**
-
-§ 1. Inspektor pracy wydaje orzeczenie bez przeprowadzenia rozprawy.
-
-§ 2. Inspektor pracy wyznacza jednak rozprawę, jeżeli wymaga tego charakter sprawy, sprzeczności w materiale dowodowym lub inne okoliczności sprawy.
-
-**Art. 286.** Orzeczenie, wraz z uzasadnieniem, doręcza się obwinionemu.
-
-**Art. 287.**
-
-§ 1. Inspektor pracy wydaje postanowienie o umorzeniu postępowania, jeżeli w jego wyniku ustali, że zachodzą okoliczności wyłączające z mocy prawa wydanie orzecze §2. Postanowienie, o którym mowa w § 1, wraz z uzasadnieniem, doręcza się obwinionemu oraz włącza do akt sprawy.
-
-**Art. 288.**
-
-§ 1. Od orzeczenia inspektora pracy obwiniony, jego obrońca oraz prokurator mają prawo, w terminie siedmiu dni od dnia ogłoszenia lub doręczenia orzeczenia, złożyć środek zaskarżenia w postaci żądania skierowania sprawy na drogę postępowania sądowego do sądu rejonowego właściwego ze względu na miejsce popełnienia wykroczenia.
-
-§ 2. Orzeczenie, od którego nie wniesiono żądania skierowania sprawy na drogę postępowania sądowego, jest prawomocne.
-
-§ 3. Okręgowemu inspektorowi pracy przysługują w postępowaniu przed sądem uprawnienia oskarżyciela publicznego.
-
-**Art. 289.** Nadzór nad działalnością inspektorów pracy w zakresie orzekania sprawuje Główny Inspektor Pracy.
-
-**Art. 290.** Wpływy z kar orzeczonych przez inspektorów pracy stanowią dochód budżetu państwa. Wierzycielem tych należności, w rozumieniu przepisów o postępowaniu egzekucyjnym w administracji, jest właściwy terenowy organ rządowej administracji ogólnej.
-
-**Art. 290¹.** Jeżeli przepisy rozdziału nie stanowią inaczej, w postępowaniu w sprawach o wykroczenia przeciwko prawom pracownika mają odpowiednie zastosowanie przepisy Kodeksu postępowania w sprawach o wykroczenia.";
-
+- **200)** art. 283 otrzymuje brzmienie: "Art. 283. §1. Kto, będąc odpowiedzialnym za stan bezpieczeństwa i higieny pracy w zakładzie pracy albo kierując pracownikami, nie przestrzega przepisów lub zasad bezpieczeństwa i higieny pracy, podlega karze grzywny. §2. Tej samej karze podlega, kto: 1) wbrew obowiązkowi nie zawiadamia w terminie 14 dni właściwego inspektora pracy i właściwego państwowego inspektora sanitarnego o miejscu, rodzaju, zakresie prowadzonej działalności i o przewidywanej liczbie pracowników oraz nie składa pisemnej informacji o środkach i procedurach przyjętych dla spełnienia wymagań wynikających z przepisów bezpieczeństwa i higieny pracy, dotyczących danej dziedziny działalności, jak również nie zawiadamia o zmianie miejsca, rodzaju i zakresu prowadzonej działalności, zwłaszcza zmianie technologii lub profilu produkcji, 2) wbrew obowiązkowi nie zapewnia, aby budowa lub przebudowa obiektu budowlanego albo jego części, w których przewiduje się pomieszczenia pracy, była wykonywana na podstawie projektów uwzględniających wymagania bezpieczeństwa i higieny pracy, pozytywnie zaopiniowanych przez uprawnionych rzeczoznawców, 3) wbrew obowiązkowi wyposaża stanowiska pracy w maszyny i inne urządzenia techniczne, które nie uzyskały wymaganego certyfikatu na znak bezpieczeństwa i nie zostały oznaczone tym znakiem albo nie posiadają deklaracji zgodności, 4) wbrew obowiązkowi dostarcza pracownikowi środki ochrony indywidualnej, które nie uzyskały wymaganego certyfikatu na znak bezpieczeństwa i nie zostały oznaczone tym znakiem oraz nie posiadają deklaracji zgodności, 5) wbrew obowiązkowi stosuje: a) materiały i procesy technologiczne bez uprzedniego ustalenia stopnia ich szkodliwości dla zdrowia pracowników i bez podjęcia odpowiednich środków profilaktycznych, b) substancje chemiczne nie oznakowane w sposób widoczny i umożliwiający ich identyfikację, c) niebezpieczne substancje chemiczne nie posiadające kart charakterystyki tych substancji, a także opakowań zabezpieczających przed ich szkodliwym działaniem, pożarem lub wybuchem, 6) wbrew obowiązkowi nie zawiadamia właściwego inspektora pracy, prokuratora lub innego właściwego organu o śmiertelnym, ciężkim lub zbiorowym wypadku przy pracy oraz o każdym innym wypadku, który wywołał wymienione skutki, mającym związek z pracą, jeżeli może być uznany za wypadek przy pracy, nie zgłasza choroby zawodowej albo podejrzenia o taką chorobę, nie ujawnia wypadku przy pracy lub choroby zawodowej, albo przedstawia niezgodne z prawdą informacje, dowody lub dokumenty dotyczące takich wypadków i chorób, 7) nie wykonuje w wyznaczonym terminie podlegającego wykonaniu nakazu inspektora pracy, 8) utrudnia działalność organu Państwowej Inspekcji Pracy, w szczególności uniemożliwia prowadzenie wizytacji zakładu pracy lub nie udziela informacji niezbędnych do wykonywania jej zadań.";
+- **201)** rozdział II w dziale trzynastym otrzymuje brzmienie: "Rozdział II Postępowanie w sprawach o wykroczenia przeciwko prawom pracownika Art. 284. §1. W sprawach o wykroczenia przeciwko prawom pracownika, o których mowa w art. 281-283, wszczynają postępowanie i orzekają inspektorzy pracy. §2. Wszczęcie postępowania następuje w wyniku sporządzenia przez inspektora pracy protokołu w sprawie popełnienia wykroczenia, który powinien zawierać: 1) imię i nazwisko, datę urodzenia, imiona rodziców i miejsce zamieszkania obwinionego oraz jego miejsce pracy i zajmowane stanowisko, 2) w miarę możliwości, dane o warunkach materialnych obwinionego, 3) określenie czynu zarzucanego obwinionemu, z podaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz ze wskazaniem przepisu lub skonkretyzowaniem zasady bezpieczeństwa i higieny pracy, które zostały tym czynem naruszone, a także przepisu stanowiącego podstawę wymierzenia kary, 4) treść wyjaśnień obwinionego potwierdzonych jego podpisem, a w razie odmowy ich złożenia lub niestawienia się obwinionego na wezwanie inspektora pracy - wzmiankę o tym, 5) datę i miejsce sporządzenia protokołu, a także imię i nazwisko oraz podpis inspektora pracy. §3. Do protokołu w sprawie popełnienia wykroczenia należy dołączyć protokół z kontroli przeprowadzonej przez inspektora pracy oraz inne dokumenty stanowiące dowody w postępowaniu. §4. W celu wyjaśnienia okoliczności sprawy inspektor pracy może: 1) żądać od obwinionego udzielenia wyjaśnień, 2) wzywać obwinionego, świadków oraz inne osoby w celu przesłuchania, 3) zwracać się do właściwych instytucji lub osób o udzielenie informacji lub opinii albo przedstawienie dokumentów i innych dowodów potrzebnych do wyjaśnienia sprawy. Art. 285. §1. Inspektor pracy wydaje orzeczenie bez przeprowadzenia rozprawy. §2. Inspektor pracy wyznacza jednak rozprawę, jeżeli wymaga tego charakter sprawy, sprzeczności w materiale dowodowym lub inne okoliczności sprawy. Art. 286. Orzeczenie, wraz z uzasadnieniem, doręcza się obwinionemu. Art. 287. §1. Inspektor pracy wydaje postanowienie o umorzeniu postępowania, jeżeli w jego wyniku ustali, że zachodzą okoliczności wyłączające z mocy prawa wydanie orzecze §2. Postanowienie, o którym mowa w § 1, wraz z uzasadnieniem, doręcza się obwinionemu oraz włącza do akt sprawy. Art. 288.§1. Od orzeczenia inspektora pracy obwiniony, jego obrońca oraz prokurator mają prawo, w terminie siedmiu dni od dnia ogłoszenia lub doręczenia orzeczenia, złożyć środek zaskarżenia w postaci żądania skierowania sprawy na drogę postępowania sądowego do sądu rejonowego właściwego ze względu na miejsce popełnienia wykroczenia. §2. Orzeczenie, od którego nie wniesiono żądania skierowania sprawy na drogę postępowania sądowego, jest prawomocne. §3. Okręgowemu inspektorowi pracy przysługują w postępowaniu przed sądem uprawnienia oskarżyciela publicznego. Art. 289. Nadzór nad działalnością inspektorów pracy w zakresie orzekania sprawuje Główny Inspektor Pracy. Art. 290. Wpływy z kar orzeczonych przez inspektorów pracy stanowią dochód budżetu państwa. Wierzycielem tych należności, w rozumieniu przepisów o postępowaniu egzekucyjnym w administracji, jest właściwy terenowy organ rządowej administracji ogólnej. Art. 290 1 . Jeżeli przepisy rozdziału nie stanowią inaczej, w postępowaniu w sprawach o wykroczenia przeciwko prawom pracownika mają odpowiednie zastosowanie przepisy Kodeksu postępowania w sprawach o wykroczenia.";
 - **202)** w art. 291:
     - **a)** w § 2 wyrazy "zakładu pracy" zastępuje się wyrazem "pracodawcy" oraz wyrazy "zakład pracy" zastępuje się wyrazem "pracodawca",
     - **b)** po § 2 dodaje się § 2 w brzmieniu: "§2 . Przepis § 2 stosuje się także do roszczenia pracodawcy, o którym mowa w art. 61 oraz w art. 101 § 2.",
@@ -1265,10 +411,7 @@ source: pdf
     - **a)** w § 1 skreśla się wyrazy "po porozumieniu z ogólnokrajową organizacją międzyzwiązkową" oraz wyrazy "w innych zakładach pracy", zaś wyrazy "w zakładach służby zdrowia" zastępuje się wyrazami "w zakładach opieki zdrowotnej i w jednostkach pomocy społecznej",
     - **b)** § 3 otrzymuje brzmienie: "§3. Rada Ministrów może, w drodze rozporządzenia, wprowadzić dla pracowników, o których mowa w § 1, nawiązywanie stosunku pracy na podstawie mianowania, a także na podstawie powołania.";
 
-- **208)** po art. 298 dodaje się art. 298 i 298 w brzmieniu: "Art. 298 . Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, zakres prowadzenia przez pracodawców dokumentacji w sprawach związanych ze stosunkiem pracy oraz sposób prowadzenia akt osobowych pracownika.
-
-**Art. 298².** Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, sposób usprawiedliwiania nieobecności w pracy oraz zakres przysługujących pracownikom zwolnień od pracy, a także przypadki, w których za czas nieobecności lub zwolnienia pracownik zachowuje prawo do wynagrodzenia.";
-
+- **208)** po art. 298 dodaje się art. 298 i 298 w brzmieniu: "Art. 298 . Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, zakres prowadzenia przez pracodawców dokumentacji w sprawach związanych ze stosunkiem pracy oraz sposób prowadzenia akt osobowych pracownika. Art. 298 2 . Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, sposób usprawiedliwiania nieobecności w pracy oraz zakres przysługujących pracownikom zwolnień od pracy, a także przypadki, w których za czas nieobecności lub zwolnienia pracownik zachowuje prawo do wynagrodzenia.";
 - **209)** skreśla się art. 299;
 - **210)** w art. 301 w § 1 wyrazy "Polskiej Rzeczypospolitej Ludowej" zastępuje się wyrazami "Rzeczypospolitej Polskiej";
 - **211)** w art. 302 wyrazy "w organach Milicji Obywatelskiej i Służby Więziennej" zastępuje się wyrazami "w Policji, Urzędzie Ochrony Państwa, Służbie Więziennej, Straży Granicznej i Państwowej Straży Pożarnej";
@@ -1276,26 +419,8 @@ source: pdf
     - **a)** w § 1 skreśla się wyrazy "po porozumieniu z ogólnokrajową organizacją międzyzwiązkową",
     - **b)** w § 2 wyrazy "w tym samym trybie określić" zastępuje się wyrazami "określić, w drodze rozporządzenia,";
 
-- **213)** art. 304 otrzymuje brzmienie: "Art. 304. §1. Pracodawca jest obowiązany zapewnić bezpieczne i higieniczne warunki pracy, o których mowa w art. 207 § 2, osobom fizycznym wykonującym pracę na innej podstawie niż stosunek pracy w zakładzie pracy lub w miejscu wyznaczonym przez pracodawcę.
-
-§ 2. Pracodawca jest obowiązany zapewnić bezpieczne i higieniczne warunki zajęć odbywanych na terenie zakładu pracy przez studentów i uczniów nie będących jego pracownikami.
-
-§ 3. Obowiązki określone w art. 207 § 2 stosuje się odpowiednio do jednostek organizujących pracę wykonywaną przez osoby fizyczne na innej podstawie niż stosunek pracy, w ramach prac społecznie użytecznych.
-
-§ 4. W razie prowadzenia prac w miejscu, do którego mają dostęp osoby nie biorące udziału w procesie pracy, pracodawca jest obowiązany zastosować środki niezbędne do zapewnienia ochrony życia i zdrowia tym osobom.
-
-§ 5. Minister Obrony Narodowej - w stosunku do żołnierzy w czynnej służbie wojskowej, a Minister Sprawiedliwości - w stosunku do osób przebywających w zakładach karnych lub w zakładach poprawczych, w porozumieniu z Ministrem Pracy i Polityki Socjalnej, określą, w drodze rozporządzeń, zakres stosowania do tych osób przepisów działu dziesiątego w razie wykonywania określonych zadań lub prac na terenie zakładu pracy lub w miejscu wyznaczonym przez pracodawcę.";
-
-- **214)** po art. 304 dodaje się art. 304 -304 w brzmieniu: "Art. 304 . Obowiązki, o których mowa w art. 211, ciążą również na osobach fizycznych wykonujących pracę na innej podstawie niż stosunek pracy w zakładzie pracy lub w miejscu wyznaczonym przez pracodawcę.
-
-**Art. 304².** Do członków rolniczych spółdzielni produkcyjnych i współpracujących z nimi członków ich rodzin oraz członków spółdzielni kółek rolniczych (usług rolniczych) stosuje się odpowiednio art. 208 § 1, art. 213 § 2, art. 217 § 2, art. 218, art. 220 § 1 i art. 221 § 1-3.
-
-**Art. 304³.** Do osób fizycznych prowadzących na własny rachunek działalność gospodarczą stosuje się odpowiednio art. 208
-
-§ 1
-
-**Art. 304⁴.** Pracodawca jest obowiązany przydzielać niezbędną odzież roboczą i środki ochrony indywidualnej osobom wykonującym krótkotrwałe prace albo czynności inspekcyjne, w czasie których ich własna odzież może ulec zniszczeniu lub znacznemu zabrudzeniu, a także ze względu na bezpieczeństwo wykonywania tych prac lub czynności.";
-
+- **213)** art. 304 otrzymuje brzmienie: "Art. 304. §1. Pracodawca jest obowiązany zapewnić bezpieczne i higieniczne warunki pracy, o których mowa w art. 207 § 2, osobom fizycznym wykonującym pracę na innej podstawie niż stosunek pracy w zakładzie pracy lub w miejscu wyznaczonym przez pracodawcę. §2. Pracodawca jest obowiązany zapewnić bezpieczne i higieniczne warunki zajęć odbywanych na terenie zakładu pracy przez studentów i uczniów nie będących jego pracownikami. §3. Obowiązki określone w art. 207 § 2 stosuje się odpowiednio do jednostek organizujących pracę wykonywaną przez osoby fizyczne na innej podstawie niż stosunek pracy, w ramach prac społecznie użytecznych. §4. W razie prowadzenia prac w miejscu, do którego mają dostęp osoby nie biorące udziału w procesie pracy, pracodawca jest obowiązany zastosować środki niezbędne do zapewnienia ochrony życia i zdrowia tym osobom. §5. Minister Obrony Narodowej - w stosunku do żołnierzy w czynnej służbie wojskowej, a Minister Sprawiedliwości - w stosunku do osób przebywających w zakładach karnych lub w zakładach poprawczych, w porozumieniu z Ministrem Pracy i Polityki Socjalnej, określą, w drodze rozporządzeń, zakres stosowania do tych osób przepisów działu dziesiątego w razie wykonywania określonych zadań lub prac na terenie zakładu pracy lub w miejscu wyznaczonym przez pracodawcę.";
+- **214)** po art. 304 dodaje się art. 304 1 -304 w brzmieniu: "Art. 304 . Obowiązki, o których mowa w art. 211, ciążą również na osobach fizycznych wykonujących pracę na innej podstawie niż stosunek pracy w zakładzie pracy lub w miejscu wyznaczonym przez pracodawcę. Art. 304 2 . Do członków rolniczych spółdzielni produkcyjnych i współpracujących z nimi członków ich rodzin oraz członków spółdzielni kółek rolniczych (usług rolniczych) stosuje się odpowiednio art. 208 § 1, art. 213 § 2, art. 217 § 2, art. 218, art. 220 § 1 i art. 221 § 1-3. Art. 304 3 . Do osób fizycznych prowadzących na własny rachunek działalność gospodarczą stosuje się odpowiednio art. 208 § 1. Art. 304 4 . Pracodawca jest obowiązany przydzielać niezbędną odzież roboczą i środki ochrony indywidualnej osobom wykonującym krótkotrwałe prace albo czynności inspekcyjne, w czasie których ich własna odzież może ulec zniszczeniu lub znacznemu zabrudzeniu, a także ze względu na bezpieczeństwo wykonywania tych prac lub czynności.";
 - **215)** skreśla się art. 305.
 
 **Art. 2.** Ilekroć w przepisach prawa pracy jest mowa o prawach i obowiązkach zakładu pracy lub kierownika zakładu pracy, przepisy te stosuje się odpowiednio do pracodawców w rozumieniu art. 3 Kodeksu pracy.
@@ -1401,12 +526,7 @@ source: pdf
 
 **Art. 29.** W Kodeksie postępowania cywilnego wprowadza się następujące zmiany:
 
-- **1)** w części pierwszej w księdze pierwszej po tytule III dodaje się nowy tytuł IIIa w brzmieniu: "Tytuł IIIa. Państwowa Inspekcja Pracy
-
-**Art. 63¹.** W sprawach o ustalenie istnienia stosunku pracy inspektorzy pracy mogą wytaczać powództwa na rzecz obywateli, a także wstępować, za zgodą powoda, do postępowania w tych sprawach w każdym jego stadium.
-
-**Art. 63².** W sprawach wymienionych w artykule poprzedzającym do inspektorów pracy stosuje się odpowiednio przepisy o prokuratorze.";
-
+- **1)** w części pierwszej w księdze pierwszej po tytule III dodaje się nowy tytuł IIIa w brzmieniu: "Tytuł IIIa. Państwowa Inspekcja Pracy Art. 63 1 . W sprawach o ustalenie istnienia stosunku pracy inspektorzy pracy mogą wytaczać powództwa na rzecz obywateli, a także wstępować, za zgodą powoda, do postępowania w tych sprawach w każdym jego stadium. Art. 63 2 . W sprawach wymienionych w artykule poprzedzającym do inspektorów pracy stosuje się odpowiednio przepisy o prokuratorze.";
 - **2)** w art. 462 po wyrazach "o których mowa w art. 61" dodaje się wyrazy ", a także inspektorzy pracy w zakresie określonym w art. 63 ";
 - **3)** w art. 463 po § 1 dodaje się § 1 w brzmieniu: "§ 1 . Przepis § 1 stosuje się także w sprawie o ustalenie istnienia stosunku pracy wytoczonej z powództwa inspektora pracy.";
 - **4)** w art. 465 w § 1 po wyrazach "przedstawiciel związku zawodowego" dodaje się wyrazy "lub inspektor pracy";
@@ -1420,30 +540,11 @@ source: pdf
 - **1)** w art. 5 w ust. 2 wyrazy "w ust. 1 pkt 1" zastępuje się wyrazami "w ust. 1";
 - **2)** w art. 8:
     - **a)** w ust. 1 po pkt 11 dodaje się pkt 11a w brzmieniu: "11a) wnoszenie powództw, a za zgodą zainteresowanej osoby uczestniczenie w postępowaniu przed sądem pracy, o ustalenie istnienia stosunku pracy, jeżeli łączący strony stosunek prawny, wbrew zawartej między nimi umowie, ma cechy stosunku pracy,"
-    - **b)** po ust. 1 dodaje się ust. 1 i 1 w brzmieniu: "1 . Do zakresu działania Państwowej Inspekcji Pracy należy ponadto:
+    - **b)** po ust. 1 dodaje się ust. 1 i 1 w brzmieniu: "1 . Do zakresu działania Państwowej Inspekcji Pracy należy ponadto: 1) nadzór i kontrola zapewnienia przez pracodawcę bezpiecznych i higienicznych warunków pracy osobom fizycznym wykonującym pracę na innej podstawie niż stosunek pracy w zakładzie pracy lub w miejscu wyznaczonym przez pracodawcę, 2) nadzór i kontrola zapewnienia przez pracodawcę bezpiecznych i higienicznych warunków zajęć odbywanych na jego terenie przez studentów i uczniów nie będących pracownikami, 3) nadzór i kontrola zapewnienia bezpiecznych i higienicznych warunków pracy przez jednostki organizujące pracę wykonywaną przez osoby fizyczne na innej podstawie niż stosunek pracy, w ramach prac społecznie użytecznych, 4) nadzór i kontrola zapewnienia bezpiecznych i higienicznych warunków pracy przez pracodawcę przy wykonywaniu pracy na terenie zakładu pracy lub w miejscu wyznaczonym przez pracodawcę przez osoby przebywające w zakładach karnych i w zakładach poprawczych oraz zadań wykonywanych przez żołnierzy w czynnej służbie. 1 . Pracownicy Państwowej Inspekcji Pracy wykonujący lub nadzorujący czynności kontrolne mają prawo przeprowadzania czynności kontrolnych wobec podmiotów, na rzecz których jest wykonywana praca przez osoby fizyczne, bez względu na podstawę świadczenia tej pracy.",
+    - **c)** w ust. 2 wyrazy "Państwowej Inspekcji Pracy wykonujący lub nadzorujący czynności kontrolne" zastępuje się wyrazami ", o których mowa w ust. 1 ,",
+    - **d)** ust. 3 otrzymuje brzmienie: "3. Kontrolę przeprowadza się po okazaniu legitymacji służbowej.";
 
-- **1)** nadzór i kontrola zapewnienia przez pracodawcę bezpiecznych i higienicznych warunków pracy osobom fizycznym wykonującym pracę na innej podstawie niż stosunek pracy w zakładzie pracy lub w miejscu wyznaczonym przez pracodawcę,
-- **2)** nadzór i kontrola zapewnienia przez pracodawcę bezpiecznych i higienicznych warunków zajęć odbywanych na jego terenie przez studentów i uczniów nie będących pracownikami,
-- **3)** nadzór i kontrola zapewnienia bezpiecznych i higienicznych warunków pracy przez jednostki organizujące pracę wykonywaną przez osoby fizyczne na innej podstawie niż stosunek pracy, w ramach prac społecznie użytecznych,
-- **4)** nadzór i kontrola zapewnienia bezpiecznych i higienicznych warunków pracy przez pracodawcę przy wykonywaniu pracy na terenie zakładu pracy lub w miejscu wyznaczonym przez pracodawcę przez osoby przebywające w zakładach karnych i w zakładach poprawczych oraz zadań wykonywanych przez żołnierzy w czynnej służbie.
-
-1. Pracownicy Państwowej Inspekcji Pracy wykonujący lub nadzorujący czynności kontrolne mają prawo przeprowadzania czynności kontrolnych wobec podmiotów, na rzecz których jest wykonywana praca przez osoby fizyczne, bez względu na podstawę świadczenia tej pracy.",
-
-- **c)** w ust. 2 wyrazy "Państwowej Inspekcji Pracy wykonujący lub nadzorujący czynności kontrolne" zastępuje się wyrazami ", o których mowa w ust. 1 ,",
-- **d)** ust. 3 otrzymuje brzmienie: "3. Kontrolę przeprowadza się po okazaniu legitymacji służbowej.";
-- **3)** po art. 8 dodaje się art. 8a w brzmieniu: "Art. 8a. 1. Tworzy się Komisję Kwalifikacyjną do Oceny Kandydatów na Rzeczoznawców. Główny Inspektor Pracy w porozumieniu z Ministrem Pracy i Polityki Socjalnej powołuje i odwołuje członków Komisji.
-
-2. Członkowie Komisji Kwalifikacyjnej do Oceny Kandydatów na Rzeczoznawców otrzymują za udział w pracach Komisji wynagrodzenie na zasadach ustalonych przez Głównego Inspektora Pracy oraz diety i zwrot kosztów podróży według zasad obowiązujących przy podróżach służbowych.
-
-3. Główny Inspektor Pracy, na wniosek Komisji Kwalifikacyjnej do Oceny Kandydatów na Rzeczoznawców, nadaje uprawnienia rzeczoznawcy do spraw bezpieczeństwa i higieny pracy, upoważnionego do opiniowania projektów nowo budowanych lub przebudowywanych obiektów budowlanych albo ich części, w których przewiduje się pomieszczenia pracy, pod względem zgodności z przepisami bezpieczeństwa i higieny pracy oraz wymaganiami ergonomii. Główny Inspektor Pracy może cofnąć uprawnienia rzeczoznawcy z własnej inicjatywy lub na wniosek okręgowego inspektora pracy.
-
-4. Koszty związane z przygotowaniem kandydatów na rzeczoznawców i podnoszeniem kwalifikacji przez rzeczoznawców, o których mowa w ust. 5 pkt 1, i nadaniem uprawnienia, o którym mowa w ust. 3, ponosi kandydat na rzeczoznawcę lub rzeczoznawca albo pracodawca zatrudniający te osoby - na zasadach ustalonych przez Głównego Inspektora Pracy.
-
-5. Minister Pracy i Polityki Socjalnej w porozumieniu z Głównym Inspektorem Pracy określi, w drodze rozporządzenia:
-
-- **1)** szczegółowe zasady oraz tryb nadawania i cofania uprawnień rzeczoznawców do spraw bezpieczeństwa i higieny pracy, a także wymagany zakres przygotowania kandydatów na rzeczoznawców i podnoszenia kwalifikacji przez rzeczoznawców,
-- **2)** szczegółowe zasady opiniowania przez rzeczoznawców do spraw bezpieczeństwa i higieny pracy projektów nowo budowanych lub przebudowywanych obiektów budowlanych albo ich części, w których przewiduje się pomieszczenia pracy, oraz tryb odwoływania się od opinii,
-- **3)** tryb powoływania i odwoływania członków Komisji Kwalifikacyjnej do Oceny Kandydatów na Rzeczoznawców i szczegółowe zasady działania tej Komisji.";
+- **3)** po art. 8 dodaje się art. 8a w brzmieniu: "Art. 8a. 1. Tworzy się Komisję Kwalifikacyjną do Oceny Kandydatów na Rzeczoznawców. Główny Inspektor Pracy w porozumieniu z Ministrem Pracy i Polityki Socjalnej powołuje i odwołuje członków Komisji. 2. Członkowie Komisji Kwalifikacyjnej do Oceny Kandydatów na Rzeczoznawców otrzymują za udział w pracach Komisji wynagrodzenie na zasadach ustalonych przez Głównego Inspektora Pracy oraz diety i zwrot kosztów podróży według zasad obowiązujących przy podróżach służbowych. 3. Główny Inspektor Pracy, na wniosek Komisji Kwalifikacyjnej do Oceny Kandydatów na Rzeczoznawców, nadaje uprawnienia rzeczoznawcy do spraw bezpieczeństwa i higieny pracy, upoważnionego do opiniowania projektów nowo budowanych lub przebudowywanych obiektów budowlanych albo ich części, w których przewiduje się pomieszczenia pracy, pod względem zgodności z przepisami bezpieczeństwa i higieny pracy oraz wymaganiami ergonomii. Główny Inspektor Pracy może cofnąć uprawnienia rzeczoznawcy z własnej inicjatywy lub na wniosek okręgowego inspektora pracy. 4. Koszty związane z przygotowaniem kandydatów na rzeczoznawców i podnoszeniem kwalifikacji przez rzeczoznawców, o których mowa w ust. 5 pkt 1, i nadaniem uprawnienia, o którym mowa w ust. 3, ponosi kandydat na rzeczoznawcę lub rzeczoznawca albo pracodawca zatrudniający te osoby - na zasadach ustalonych przez Głównego Inspektora Pracy. 5. Minister Pracy i Polityki Socjalnej w porozumieniu z Głównym Inspektorem Pracy określi, w drodze rozporządzenia: 1) szczegółowe zasady oraz tryb nadawania i cofania uprawnień rzeczoznawców do spraw bezpieczeństwa i higieny pracy, a także wymagany zakres przygotowania kandydatów na rzeczoznawców i podnoszenia kwalifikacji przez rzeczoznawców, 2) szczegółowe zasady opiniowania przez rzeczoznawców do spraw bezpieczeństwa i higieny pracy projektów nowo budowanych lub przebudowywanych obiektów budowlanych albo ich części, w których przewiduje się pomieszczenia pracy, oraz tryb odwoływania się od opinii, 3) tryb powoływania i odwoływania członków Komisji Kwalifikacyjnej do Oceny Kandydatów na Rzeczoznawców i szczegółowe zasady działania tej Komisji.";
 - **4)** w art. 11 w ust. 1 na końcu dodaje się wyrazy "oraz inne podmioty, na rzecz których jest świadczona praca przez osoby fizyczne";
 - **5)** w art. 13 po ust. 1 dodaje się ust. 1 w brzmieniu: "1 . Organy Policji, w razie uzasadnionej potrzeby oraz w celu zapewnienia bezpieczeństwa kontrolującym, są obowiązane, na wniosek właściwego okręgowego inspektora pracy, do udzielenia stosownej pomocy.";
 - **6)** w art. 20 w ust. 3 dodaje się zdanie: "W toku wykonywania czynności kontrolnych inspektor pracy może sprawdzać tożsamość osób wykonujących pracę.".
@@ -1466,9 +567,7 @@ source: pdf
 - **1)** w art. 6 w ust. 1 w pierwszym zdaniu po wyrazach "przedsiębiorstwa państwowego" dodaje się wyrazy "oraz społecznymi inspektorami pracy";
 - **2)** skreśla się art. 7.
 
-**Art. 38.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. Nr 65, poz. 385, z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591 oraz z 1996 r. Nr 5, poz. 34) dodaje się art. 178 w brzmieniu: "Art. 178 .§1. Rektor jest obowiązany zapewnić bezpieczne i higieniczne warunki osobom pobierającym naukę albo odbywającym zajęcia praktyczno-techniczne w uczelni lub wykonującym prace społecznie użyteczne na rzecz tej uczelni.
-
-§ 2. Minister Edukacji Narodowej w porozumieniu z Ministrem Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, przepisy bezpieczeństwa i higieny pracy obowiązujące w szkołach wyższych.".
+**Art. 38.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. Nr 65, poz. 385, z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591 oraz z 1996 r. Nr 5, poz. 34) dodaje się art. 178 w brzmieniu: "Art. 178 .§1. Rektor jest obowiązany zapewnić bezpieczne i higieniczne warunki osobom pobierającym naukę albo odbywającym zajęcia praktyczno-techniczne w uczelni lub wykonującym prace społecznie użyteczne na rzecz tej uczelni. §2. Minister Edukacji Narodowej w porozumieniu z Ministrem Pracy i Polityki Socjalnej określi, w drodze rozporządzenia, przepisy bezpieczeństwa i higieny pracy obowiązujące w szkołach wyższych.".
 
 **Art. 39.** W ustawie z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i położnych (Dz.U. Nr 41, poz. 178) w art. 11 w ust. 2 wyrazy "art. 43 § 1 pkt 2 Kodeksu pracy" zastępuje się wyrazami "w art. 43 Kodeksu pracy".
 
@@ -1476,13 +575,11 @@ source: pdf
 
 - **1)** w art. 25:
     - **a)** ust. 1 otrzymuje brzmienie: "1. Pracownikowi powołanemu do pełnienia z wyboru funkcji związkowej poza zakładem pracy, jeżeli z wyboru wynika obowiązek wykonywania tej funkcji w charakterze pracownika, przysługuje - na wniosek organizacji związkowej - prawo do urlopu bezpłatnego.",
-    - **b)** po ust. 1 dodaje się ust. 1 i 1 w brzmieniu: "1 . Pracownikowi, który po urlopie bezpłatnym stawi się do pracy w terminie przewidzianym w art. 74 Kodeksu pracy, okres urlopu bezpłatnego wlicza się do okresu pracy, od którego zależą uprawnienia pracownicze.
+    - **b)** po ust. 1 dodaje się ust. 1 i 1 w brzmieniu: "1 . Pracownikowi, który po urlopie bezpłatnym stawi się do pracy w terminie przewidzianym w art. 74 Kodeksu pracy, okres urlopu bezpłatnego wlicza się do okresu pracy, od którego zależą uprawnienia pracownicze. 1 . Rada Ministrów określi, w drodze rozporządzenia, tryb udzielania urlopu bezpłatnego oraz zakres uprawnień przysługujących pracownikowi korzystającemu z tego urlopu.";
 
-1. Rada Ministrów określi, w drodze rozporządzenia, tryb udzielania urlopu bezpłatnego oraz zakres uprawnień przysługujących pracownikowi korzystającemu z tego urlopu.";
-
-- **2)** w art. 30: Nieudzielenie tej informacji w ciągu 5 dni zwalnia pracodawcę od obowiązku współdziałania z zakładową organizacją związkową w sprawach dotyczących tych pracowników.";
+- **2)** w art. 30:
     - **a)** ust. 2 otrzymuje brzmienie: "2. Pracownik nie zrzeszony w związku zawodowym ma prawo do obrony swoich praw na zasadach dotyczących pracowników będących członkami związku, jeżeli wybrana przez niego zakładowa organizacja związkowa wyrazi zgodę na obronę jego praw pracowniczych.",
-    - **b)** po ust. 2 dodaje się ust. 2 w brzmieniu: "2 . W indywidualnych sprawach ze stosunku pracy, w których przepisy prawa pracy zobowiązują pracodawcę do współdziałania z zakładową organizacją związkową, pracodawca jest obowiązany zwrócić się do tej organizacji o informację o pracownikach korzystających z jej obrony, zgodnie z przepisami ust. 1 i 2.
+    - **b)** po ust. 2 dodaje się ust. 2 w brzmieniu: "2 . W indywidualnych sprawach ze stosunku pracy, w których przepisy prawa pracy zobowiązują pracodawcę do współdziałania z zakładową organizacją związkową, pracodawca jest obowiązany zwrócić się do tej organizacji o informację o pracownikach korzystających z jej obrony, zgodnie z przepisami ust. 1 i 2. Nieudzielenie tej informacji w ciągu 5 dni zwalnia pracodawcę od obowiązku współdziałania z zakładową organizacją związkową w sprawach dotyczących tych pracowników.";
     - **c)** ust. 5 otrzymuje brzmienie: "5. Jeżeli w sprawie ustalenia regulaminu wynagradzania lub regulaminu pracy albo planu urlopów, a także okresu rozliczeniowego, o którym mowa w art. 129 § 2 zdanie drugie i § 3 Kodeksu pracy, organizacje związkowe nie przedstawią wspólnie uzgodnionego stanowiska w terminie 30 dni, decyzje w tych sprawach podejmuje pracodawca, po rozpatrzeniu odrębnych stanowisk organizacji związkowych.";
 
 - **3)** w art. 31 w ust. 2 drugie zdanie otrzymuje brzmienie: "Rada Ministrów określi, w drodze rozporządzenia, tryb udzielania zwolnień od pracy oraz zakres uprawnień przysługujących pracownikowi w czasie tych zwolnień.".

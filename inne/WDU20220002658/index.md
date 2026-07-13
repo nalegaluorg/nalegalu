@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002658) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2658/text.pdf) |
 
 w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie niepożądanych odczynów poszczepiennych oraz kryteriów ich rozpoznawania Na podstawie art. 21 ust. 8 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2022 r. poz. 1657 i 2280) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 31 grudnia 2020 r. zmieniającym rozporządzenie w sprawie niepożądanych odczynów poszczepiennych oraz kryteriów ich rozpoznawania (Dz. U. z 2021 r. poz. 13 i 2470) w § 2 w ust. 2 wyrazy „Do dnia 31 grudnia 2022 r.” zastępuje się wyrazami „Do dnia 31 grudnia 2023 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 31 grudnia 2020 r. zmieniającym rozporządzenie w sprawie niepożądanych odczynów poszczepiennych oraz kryteriów ich rozpoznawania (Dz. U. z 2021 r. poz. 13 i 2470) w § 2 w ust. 2 wyrazy „Do dnia 31 grudnia 2022 r.” zastępuje się wyrazami „Do dnia 31 grudnia 2023 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: A. Niedzielski
 

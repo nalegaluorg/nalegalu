@@ -38,9 +38,14 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sp
 4) § 2 rozporządzenia Ministra Finansów z dnia 8 marca 2013 r. zmieniającego rozporządzenie w sprawie wysokości procentu składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki (Dz. U. poz. 344), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 31 marca 2013 r.”. Minister Finansów: wz. J. Cichoń
 RozpoRządzenie MINISTRA FINANSÓW z dnia 24 listopada 2003 r.
 w sprawie wysokości procentu składki wnoszonej przez zakłady ubezpieczeń na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego oraz terminów uiszczania tej składki Na podstawie art. 117 ust. 5 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2013 r. poz. 392) zarządza się, co następuje:
-§ 1. Zakłady ubezpieczeń, o których mowa w art. 117 ust. 3 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, zwanej dalej „ustawą”, wnoszą na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego, zwanego dalej „Funduszem”, 1,3% przypisanej składki brutto w danym roku kalendarzowym z ubezpieczeń, o których mowa w art. 4 pkt 1 i 2 ustawy.
-§ 2. Przepis § 1 stosuje się do zagranicznych zakładów ubezpieczeń, o których mowa w art. 117 ust. 3 ustawy, w odniesieniu od ubezpieczeń, o których mowa w art. 4 pkt 1 i 2 ustawy, których umowy zostały zawarte w związku z wykonywaniem działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej.
-§ 3. Składka określona w § 1 jest uiszczana przez zakłady ubezpieczeń i zagraniczne zakłady ubezpieczeń w terminie 30 dni od upływu kwartału kalendarzowego, w którym został dokonany przypis składki.
-§ 4. Do wpłat składki za IV kwartał 2003 r. stosuje się przepisy dotychczasowe.
-§ 5. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2004 r.
+
+**§ 1.** Zakłady ubezpieczeń, o których mowa w art. 117 ust. 3 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, zwanej dalej „ustawą”, wnoszą na rzecz Ubezpieczeniowego Funduszu Gwarancyjnego, zwanego dalej „Funduszem”, 1,3% przypisanej składki brutto w danym roku kalendarzowym z ubezpieczeń, o których mowa w art. 4 pkt 1 i 2 ustawy.
+
+**§ 2.** Przepis § 1 stosuje się do zagranicznych zakładów ubezpieczeń, o których mowa w art. 117 ust. 3 ustawy, w odniesieniu od ubezpieczeń, o których mowa w art. 4 pkt 1 i 2 ustawy, których umowy zostały zawarte w związku z wykonywaniem działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej.
+
+**§ 3.** Składka określona w § 1 jest uiszczana przez zakłady ubezpieczeń i zagraniczne zakłady ubezpieczeń w terminie 30 dni od upływu kwartału kalendarzowego, w którym został dokonany przypis składki.
+
+**§ 4.** Do wpłat składki za IV kwartał 2003 r. stosuje się przepisy dotychczasowe.
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2004 r.
 

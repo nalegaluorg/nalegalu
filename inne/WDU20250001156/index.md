@@ -29,20 +29,10 @@ source: pdf
 1) ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572),
 2) ustawą z dnia 20 lutego 2025 r. o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz ustawy o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa (Dz. U. poz. 393) oraz zmian wynikających z przepisów ogłoszonych przed dniem 5 sierpnia 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 121 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), który stanowi: „Art. 121. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
-1) art. 19, art. 20, art. 46, art. 56–58, art. 72 pkt 2, art. 73 pkt 1–7, 9–18, 20 i 21, art. 74, art. 76 pkt 2 i 3 oraz art. 77, które wchodzą w życie z dniem 1 stycznia 2025 r.;
-2) art. 73 pkt 8, który wchodzi w życie z dniem 1 stycznia 2026 r.”;
-2) art. 3–6 ustawy z dnia 20 lutego 2025 r. o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz ustawy o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa (Dz. U. poz. 393), które stanowią: „Art. 3. Do dnia wydania przez Komisję Europejską decyzji, o której mowa w art. 53i ust. 1 ustawy zmienianej w art. 1, Pełnomocnik Rządu do spraw Strategicznej Infrastruktury Energetycznej nie występuje do ministra właściwego do spraw finansów publicznych ze wskazaniem planowanej wysokości podwyższenia kapitału zakładowego Polskich Elektrowni Jądrowych spółki z ograniczoną odpowiedzialnością z siedzibą w Warszawie, o którym mowa w art. 53h ust. 1 ustawy zmienianej w art. 1.
-
-**Art. 4.**
-
-1. Do rozliczenia wpłat z zysku za 2024 r. przez spółki przygotowujące i realizujące inwestycję w zakresie obiektu energetyki jądrowej na podstawie ustawy zmienianej w art. 1 stosuje się przepisy ustawy zmienianej w art. 2 w brzmieniu dotychczasowym.
-
-2. Do dokonywania wpłat z zysku w 2025 r. i rozliczenia wpłat z zysku za ten rok przez spółki przygotowujące i realizujące inwestycję w zakresie obiektu energetyki jądrowej na podstawie ustawy zmienianej w art. 1 stosuje się przepisy ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 5.** Sprawozdania, o których mowa w art. 53n ustawy zmienianej w art. 1, po raz pierwszy przedstawia się za rok 2025.
-
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących
+1) art. 121 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), który stanowi: „ Art. 121. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem: 1) art. 19, art. 20, art. 46, art. 56–58, art. 72 pkt 2, art. 73 pkt 1–7, 9–18, 20 i 21, art. 74, art. 76 pkt 2 i 3 oraz art. 77, które wchodzą w życie z dniem 1 stycznia 2025 r.; 2) art. 73 pkt 8, który wchodzi w życie z dniem 1 stycznia 2026 r.”;
+2) art. 3–6 ustawy z dnia 20 lutego 2025 r. o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz ustawy o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa (Dz. U. poz. 393), które stanowią: „ Art. 3. Do dnia wydania przez Komisję Europejską decyzji, o której mowa w art. 53i ust. 1 ustawy zmienianej w art. 1, Pełnomocnik Rządu do spraw Strategicznej Infrastruktury Energetycznej nie występuje do ministra właściwego do spraw finansów publicznych ze wskazaniem planowanej wysokości podwyższenia kapitału zakładowego Polskich Elektrowni Jądrowych spółki z ograniczoną odpowiedzialnością z siedzibą w Warszawie, o którym mowa w art. 53h ust. 1 ustawy zmienianej w art. 1. Art. 4. 1. Do rozliczenia wpłat z zysku za 2024 r. przez spółki przygotowujące i realizujące inwestycję w zakresie obiektu energetyki jądrowej na podstawie ustawy zmienianej w art. 1 stosuje się przepisy ustawy zmienianej w art. 2 w brzmieniu dotychczasowym. 2. Do dokonywania wpłat z zysku w 2025 r. i rozliczenia wpłat z zysku za ten rok przez spółki przygotowujące i realizujące inwestycję w zakresie obiektu energetyki jądrowej na podstawie ustawy zmienianej w art. 1 stosuje się przepisy ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą. Art. 5. Sprawozdania, o których mowa w art. 53n ustawy zmienianej w art. 1, po raz pierwszy przedstawia się za rok 2025. Art. 6. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
+USTAWA z dnia 29 czerwca 2011 r.
+o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -833,7 +823,7 @@ source: pdf
 
 2. Aukcja elektroniczna może być jednoetapowa lub wieloetapowa.
 
-**Art. 44a.** Przepisów art. 649 –649 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237 oraz z 2025 r. poz. 769) nie stosuje się do umów o roboty budowlane dotyczących inwestycji w zakresie budowy obiektu energetyki jądrowej zawartych między inwestorem a wykonawcą (generalnym wykonawcą).
+**Art. 44a.** Przepisów art. 649 1 –649 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237 oraz z 2025 r. poz. 769) nie stosuje się do umów o roboty budowlane dotyczących inwestycji w zakresie budowy obiektu energetyki jądrowej zawartych między inwestorem a wykonawcą (generalnym wykonawcą).
 
 #### Rozdział 7 Zadania inwestora na rzecz zapewnienia bezpieczeństwa realizacji inwestycji w zakresie budowy obiektu energetyki jądrowej
 

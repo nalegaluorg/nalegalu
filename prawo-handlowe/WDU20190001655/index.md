@@ -32,12 +32,8 @@ source: pdf
 - **1)** w art. 1 § 2 otrzymuje brzmienie: „§ 2. Spółkami handlowymi są: spółka jawna, spółka partnerska, spółka komandytowa, spółka komandytowo-akcyjna, spółka z ograniczoną odpowiedzialnością, prosta spółka akcyjna i spółka akcyjna.”;
 - **2)** w art. 4:
     - **a)** w § 1 pkt 2 otrzymuje brzmienie: „2) spółka kapitałowa – spółkę z ograniczoną odpowiedzialnością, prostą spółkę akcyjną i spółkę akcyjną;”,
-    - **b)** po § 2 dodaje się § 2 i 2 w brzmieniu: „§ 2 . Ilekroć w niniejszej ustawie, z wyłączeniem art. 300 –300 , albo odrębnej ustawie mowa jest o zarządzie lub członku zarządu spółki, w przypadku prostej spółki akcyjnej, w której powołano radę dyrektorów, należy przez to rozumieć, odpowiednio, radę dyrektorów lub dyrektora.
+    - **b)** po § 2 dodaje się § 2 i 2 w brzmieniu: „§ 2 . Ilekroć w niniejszej ustawie, z wyłączeniem art. 300 52 –300 , albo odrębnej ustawie mowa jest o zarządzie lub członku zarządu spółki, w przypadku prostej spółki akcyjnej, w której powołano radę dyrektorów, należy przez to rozumieć, odpowiednio, radę dyrektorów lub dyrektora. § 2 2 . Ilekroć w niniejszej ustawie mowa jest o: 1) udziale akcjonariusza w kapitale zakładowym spółki – w przypadku prostej spółki akcyjnej należy przez to rozumieć stosunek liczby akcji przysługujących temu akcjonariuszowi do liczby wszystkich akcji wyemitowanych w tej spółce; 2) wpisie zmiany wysokości kapitału zakładowego do rejestru – w przypadku prostej spółki akcyjnej należy przez to rozumieć wpis zmiany liczby akcji do rejestru.”;
 
-§ 2. Ilekroć w niniejszej ustawie mowa jest o:
-
-- **1)** udziale akcjonariusza w kapitale zakładowym spółki – w przypadku prostej spółki akcyjnej należy przez to rozumieć stosunek liczby akcji przysługujących temu akcjonariuszowi do liczby wszystkich akcji wyemitowanych w tej spółce;
-- **2)** wpisie zmiany wysokości kapitału zakładowego do rejestru – w przypadku prostej spółki akcyjnej należy przez to rozumieć wpis zmiany liczby akcji do rejestru.”;
 - **3)** w art. 11 § 1 otrzymuje brzmienie: „§ 1. Spółki kapitałowe w organizacji, o których mowa w art. 161, art. 300 i art. 323, mogą we własnym imieniu nabywać prawa, w tym własność nieruchomości i inne prawa rzeczowe, zaciągać zobowiązania, pozywać i być pozywane.”;
 - **4)** w art. 12 zdanie pierwsze otrzymuje brzmienie: „Spółka z ograniczoną odpowiedzialnością w organizacji, prosta spółka akcyjna w organizacji albo spółka akcyjna w organizacji z chwilą wpisu do rejestru staje się spółką z ograniczoną odpowiedzialnością, prostą spółką akcyjną albo spółką akcyjną i uzyskuje osobowość prawną.”;
 - **5)** w art. 14 § 1 otrzymuje brzmienie: „§ 1. Przedmiotem wkładu niepieniężnego do spółki z ograniczoną odpowiedzialnością, spółki akcyjnej albo przeznaczonego na kapitał akcyjny prostej spółki akcyjnej nie może być prawo niezbywalne lub świadczenie pracy bądź usług.”;
@@ -49,75 +45,7 @@ source: pdf
     - **b)** w § 4 zdanie drugie otrzymuje brzmienie: „Jeżeli uchwała wspólników takiego dnia nie określa, dywidenda jest wypłacana niezwłocznie po dniu dywidendy.”;
 
 - **10)** w art. 276 w § 1 dwukrotnie po wyrazach „spółki w” dodaje się wyraz „okresie”;
-- **11)** w tytule III po dziale I dodaje się dział Ia w brzmieniu: „DZIAŁ IA Prosta spółka akcyjna
-
-#### Rozdział 1 Powstanie spółki
-
-**Art. 300¹.**
-
-§ 1. Prosta spółka akcyjna może być utworzona przez jedną albo więcej osób w każdym celu prawnie dopuszczalnym, chyba że ustawa stanowi inaczej.
-
-§ 2. Spółka nie może być zawiązana wyłącznie przez jednoosobową spółkę z ograniczoną odpowiedzialnością.
-
-§ 3. Akcjonariusze są zobowiązani jedynie do świadczeń określonych w umowie spółki.
-
-§ 4. Akcjonariusze nie odpowiadają za zobowiązania spółki.
-
-**Art. 300².**
-
-§ 1. Akcje są obejmowane w zamian za wkłady pieniężne lub niepieniężne.
-
-§ 2. Wkładem niepieniężnym na pokrycie akcji może być wszelki wkład mający wartość majątkową, w szczególności świadczenie pracy lub usług.
-
-§ 3. Akcje nie posiadają wartości nominalnej, nie stanowią części kapitału akcyjnego i są niepodzielne.
-
-**Art. 300³.**
-
-§ 1. W spółce tworzy się wyrażony w złotych kapitał akcyjny, na który przeznacza się wniesione wkłady pieniężne oraz niepieniężne, z uwzględnieniem art. 14 § 1. Kapitał akcyjny powinien wynosić co najmniej 1 złoty.
-
-§ 2. Wysokość kapitału akcyjnego nie jest określana w umowie spółki. Do zmian wysokości kapitału akcyjnego nie stosuje się przepisów o zmianie umowy spółki.
-
-**Art. 300⁴.** Do powstania spółki wymaga się:
-
-- **1)** zawarcia umowy spółki;
-- **2)** ustanowienia organów spółki wymaganych przez ustawę lub umowę spółki;
-- **3)** wniesienia przez akcjonariuszy wkładów na pokrycie kapitału akcyjnego co najmniej w kwocie, o której mowa w art. 300 § 1;
-- **4)** wpisu do rejestru.
-
-**Art. 300⁵.**
-
-§ 1. Umowa prostej spółki akcyjnej powinna określać:
-
-- **1)** firmę i siedzibę spółki;
-- **2)** przedmiot działalności spółki;
-- **3)** liczbę, serie i numery akcji, związane z nimi uprzywilejowanie, akcjonariuszy obejmujących poszczególne akcje oraz cenę emisyjną akcji;
-- **4)** jeżeli akcjonariusze wnoszą wkłady niepieniężne – przedmiot tych wkładów, serie i numery akcji obejmowanych za wkłady niepieniężne oraz akcjonariuszy, którzy obejmują te akcje;
-- **5)** jeżeli przedmiotem wkładu niepieniężnego jest świadczenie pracy lub usług – także rodzaj i czas świadczenia pracy lub usług;
-- **6)** organy spółki;
-- **7)** liczbę członków zarządu i rady nadzorczej, jeżeli została ustanowiona, albo co najmniej minimalną i maksymalną liczbę członków tych organów;
-- **8)** czas trwania spółki, jeżeli jest oznaczony.
-
-§ 2. Umowa prostej spółki akcyjnej może określać terminy wniesienia wkładów albo zawierać upoważnienie do ich określenia w uchwale akcjonariuszy. W przeciwnym razie terminy wniesienia wkładów określa zarząd.
-
-**Art. 300⁶.** Umowa prostej spółki akcyjnej powinna być zawarta w formie aktu notarialnego.
-
-**Art. 300⁷.**
-
-§ 1. Umowa prostej spółki akcyjnej może być zawarta również przy wykorzystaniu wzorca umowy.
-
-§ 2. Zawarcie umowy prostej spółki akcyjnej przy wykorzystaniu wzorca umowy wymaga wypełnienia formularza umowy udostępnionego w systemie teleinformatycznym i opatrzenia umowy kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
-
-§ 3. Umowa prostej spółki akcyjnej jest zawarta po wprowadzeniu do systemu teleinformatycznego wszystkich danych koniecznych do jej zawarcia i z chwilą opatrzenia ich podpisem elektronicznym.
-
-§ 4. W przypadku spółki, której umowę zawarto przy wykorzystaniu wzorca umowy, na pokrycie akcji pierwszej emisji wnosi się wyłącznie wkłady pieniężne.
-
-§ 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzorzec umowy prostej spółki akcyjnej, a także wzorce uchwał i innych czynności wykonywanych w systemie teleinformatycznym, mając na względzie potrzebę ułatwienia zakładania spółek, zapewnienia sprawności postępowania przy ich zakładaniu oraz sprawności postępowania sądowego w przedmiocie ich rejestracji, wdrożenia ułatwień w ich funkcjonowaniu, a także konieczność zapewnienia bezpieczeństwa i pewności obrotu gospodarczego.
-
-**Art. 300⁸.**
-
-§ 1. Firma spółki może być obrana dowolnie; powinna jednak zawierać dodatkowe oznaczenie „prosta spółka akcyjna”.
-
-§ 2. Dopuszczalne jest używanie w obrocie skrótu „P.S.A.”.
+- **11)** w tytule III po dziale I dodaje się dział Ia w brzmieniu: „DZIAŁ IA Prosta spółka akcyjna Rozdział 1 Powstanie spółki Art. 300 1 . § 1. Prosta spółka akcyjna może być utworzona przez jedną albo więcej osób w każdym celu prawnie dopuszczalnym, chyba że ustawa stanowi inaczej. § 2. Spółka nie może być zawiązana wyłącznie przez jednoosobową spółkę z ograniczoną odpowiedzialnością. § 3. Akcjonariusze są zobowiązani jedynie do świadczeń określonych w umowie spółki. § 4. Akcjonariusze nie odpowiadają za zobowiązania spółki. Art. 300 2 . § 1. Akcje są obejmowane w zamian za wkłady pieniężne lub niepieniężne. § 2. Wkładem niepieniężnym na pokrycie akcji może być wszelki wkład mający wartość majątkową, w szczególności świadczenie pracy lub usług. § 3. Akcje nie posiadają wartości nominalnej, nie stanowią części kapitału akcyjnego i są niepodzielne. Art. 300 3 . § 1. W spółce tworzy się wyrażony w złotych kapitał akcyjny, na który przeznacza się wniesione wkłady pieniężne oraz niepieniężne, z uwzględnieniem art. 14 § 1. Kapitał akcyjny powinien wynosić co najmniej 1 złoty. § 2. Wysokość kapitału akcyjnego nie jest określana w umowie spółki. Do zmian wysokości kapitału akcyjnego nie stosuje się przepisów o zmianie umowy spółki. Art. 300 4 . Do powstania spółki wymaga się: 1) zawarcia umowy spółki; 2) ustanowienia organów spółki wymaganych przez ustawę lub umowę spółki; 3) wniesienia przez akcjonariuszy wkładów na pokrycie kapitału akcyjnego co najmniej w kwocie, o której mowa w art. 300 § 1; 4) wpisu do rejestru. Art. 300 5 . § 1. Umowa prostej spółki akcyjnej powinna określać: 1) firmę i siedzibę spółki; 2) przedmiot działalności spółki; 3) liczbę, serie i numery akcji, związane z nimi uprzywilejowanie, akcjonariuszy obejmujących poszczególne akcje oraz cenę emisyjną akcji; 4) jeżeli akcjonariusze wnoszą wkłady niepieniężne – przedmiot tych wkładów, serie i numery akcji obejmowanych za wkłady niepieniężne oraz akcjonariuszy, którzy obejmują te akcje; 5) jeżeli przedmiotem wkładu niepieniężnego jest świadczenie pracy lub usług – także rodzaj i czas świadczenia pracy lub usług; 6) organy spółki; 7) liczbę członków zarządu i rady nadzorczej, jeżeli została ustanowiona, albo co najmniej minimalną i maksymalną liczbę członków tych organów; 8) czas trwania spółki, jeżeli jest oznaczony. § 2. Umowa prostej spółki akcyjnej może określać terminy wniesienia wkładów albo zawierać upoważnienie do ich określenia w uchwale akcjonariuszy. W przeciwnym razie terminy wniesienia wkładów określa zarząd. Art. 300 6 . Umowa prostej spółki akcyjnej powinna być zawarta w formie aktu notarialnego. Art. 300 7 . § 1. Umowa prostej spółki akcyjnej może być zawarta również przy wykorzystaniu wzorca umowy. § 2. Zawarcie umowy prostej spółki akcyjnej przy wykorzystaniu wzorca umowy wymaga wypełnienia formularza umowy udostępnionego w systemie teleinformatycznym i opatrzenia umowy kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. § 3. Umowa prostej spółki akcyjnej jest zawarta po wprowadzeniu do systemu teleinformatycznego wszystkich danych koniecznych do jej zawarcia i z chwilą opatrzenia ich podpisem elektronicznym. § 4. W przypadku spółki, której umowę zawarto przy wykorzystaniu wzorca umowy, na pokrycie akcji pierwszej emisji wnosi się wyłącznie wkłady pieniężne. § 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzorzec umowy prostej spółki akcyjnej, a także wzorce uchwał i innych czynności wykonywanych w systemie teleinformatycznym, mając na względzie potrzebę ułatwienia zakładania spółek, zapewnienia sprawności postępowania przy ich zakładaniu oraz sprawności postępowania sądowego w przedmiocie ich rejestracji, wdrożenia ułatwień w ich funkcjonowaniu, a także konieczność zapewnienia bezpieczeństwa i pewności obrotu gospodarczego. Art. 300 8 . § 1. Firma spółki może być obrana dowolnie; powinna jednak zawierać dodatkowe oznaczenie „prosta spółka akcyjna”. § 2. Dopuszczalne jest używanie w obrocie skrótu „P.S.A.”.
 
 **Art. 300⁹.**
 
@@ -141,7 +69,7 @@ source: pdf
 
 § 3. Odpowiedzialność osób, o których mowa w art. 13 § 1, ustaje wobec spółki z chwilą zatwierdzenia ich czynności uchwałą akcjonariuszy.
 
-§ 4. Zmiana umowy prostej spółki akcyjnej w organizacji wymaga zawarcia umowy przez akcjonariuszy. Przepisu nie stosuje się do umowy prostej spółki akcyjnej zawartej zgodnie z art. 300 .
+§ 4. Zmiana umowy prostej spółki akcyjnej w organizacji wymaga zawarcia umowy przez akcjonariuszy. Przepisu nie stosuje się do umowy prostej spółki akcyjnej zawartej zgodnie z art. 300 7 .
 
 **Art. 300¹².**
 
@@ -293,7 +221,7 @@ source: pdf
 - **1)** podmiot, który na podstawie ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, 2243 i 2244 oraz z 2019 r. poz. 730, 875 i 1655) jest uprawniony do prowadzenia rachunków papierów wartościowych;
 - **2)** notariusz prowadzący kancelarię notarialną na terytorium Rzeczypospolitej Polskiej.
 
-§ 2. Do zadań podmiotu prowadzącego rejestr akcjonariuszy należy zapewnienie zgodności liczby akcji zarejestrowanych w rejestrze z liczbą wyemitowanych akcji oraz dokonywanie wpisów zmian danych, o których mowa w art. 300 .
+§ 2. Do zadań podmiotu prowadzącego rejestr akcjonariuszy należy zapewnienie zgodności liczby akcji zarejestrowanych w rejestrze z liczbą wyemitowanych akcji oraz dokonywanie wpisów zmian danych, o których mowa w art. 300 33 .
 
 § 3. Rejestr akcjonariuszy jest prowadzony w postaci elektronicznej, która może mieć formę rozproszonej i zdecentralizowanej bazy danych.
 
@@ -367,7 +295,7 @@ source: pdf
 
 § 1. Nabycie akcji albo ustanowienie na niej ograniczonego prawa rzeczowego następuje z chwilą dokonania w rejestrze akcjonariuszy wpisu wskazującego nabywcę albo zastawnika lub użytkownika oraz liczbę, rodzaj, serie i numery nabytych albo obciążonych akcji.
 
-§ 2. Przepisu § 1 nie stosuje się w przypadku objęcia akcji, z wyjątkiem art. 300 , a także powołania do spadku, zapisu windykacyjnego, wniesienia akcji jako wkładu niepieniężnego do spółki, połączenia, podziału lub przekształcenia spółki lub zajścia innego zdarzenia prawnego powodującego z mocy prawa przejście akcji lub ustanowionego na niej ograniczonego prawa rzeczowego na inną osobę. Przepis art. 300 § 1 stosuje się.
+§ 2. Przepisu § 1 nie stosuje się w przypadku objęcia akcji, z wyjątkiem art. 300 118 , a także powołania do spadku, zapisu windykacyjnego, wniesienia akcji jako wkładu niepieniężnego do spółki, połączenia, podziału lub przekształcenia spółki lub zajścia innego zdarzenia prawnego powodującego z mocy prawa przejście akcji lub ustanowionego na niej ograniczonego prawa rzeczowego na inną osobę. Przepis art. 300 § 1 stosuje się.
 
 **Art. 300³⁸.**
 
@@ -646,7 +574,7 @@ source: pdf
 
 § 2. Uchwała akcjonariuszy może określić wynagrodzenie członków zarządu.
 
-§ 3. W przypadku gdy akcjonariusz, o którym mowa w art. 300 , jest zarazem członkiem zarządu, przepisu § 1 nie stosuje się. Czynność prawna między tym akcjonariuszem a reprezentowaną przez niego spółką wymaga formy aktu notarialnego. O każdorazowym dokonaniu takiej czynności prawnej notariusz zawiadamia sąd rejestrowy za pośrednictwem systemu teleinformatycznego.
+§ 3. W przypadku gdy akcjonariusz, o którym mowa w art. 300 14 , jest zarazem członkiem zarządu, przepisu § 1 nie stosuje się. Czynność prawna między tym akcjonariuszem a reprezentowaną przez niego spółką wymaga formy aktu notarialnego. O każdorazowym dokonaniu takiej czynności prawnej notariusz zawiadamia sąd rejestrowy za pośrednictwem systemu teleinformatycznego.
 
 ##### Oddział 3 Rada nadzorcza
 
@@ -752,7 +680,7 @@ source: pdf
 
 § 3. Umowa spółki może przewidywać, że w umowie, jak również sporze między spółką a dyrektorem wykonawczym spółkę może reprezentować także dyrektor niewykonawczy, działający na podstawie uchwały rady dyrektorów, podjętej wyłącznie przez dyrektorów niewykonawczych.
 
-§ 4. W przypadku gdy akcjonariusz, o którym mowa w art. 300 , jest zarazem dyrektorem, przepisów § 1 i 3 nie stosuje się. Czynność prawna między tym akcjonariuszem a reprezentowaną przez niego spółką wymaga formy aktu notarialnego. O każdorazowym dokonaniu takiej czynności prawnej notariusz zawiadamia sąd rejestrowy za pośrednictwem systemu teleinformatycznego.
+§ 4. W przypadku gdy akcjonariusz, o którym mowa w art. 300 14 , jest zarazem dyrektorem, przepisów § 1 i 3 nie stosuje się. Czynność prawna między tym akcjonariuszem a reprezentowaną przez niego spółką wymaga formy aktu notarialnego. O każdorazowym dokonaniu takiej czynności prawnej notariusz zawiadamia sąd rejestrowy za pośrednictwem systemu teleinformatycznego.
 
 ##### Oddział 5 Walne zgromadzenie
 
@@ -769,7 +697,7 @@ source: pdf
 - **1)** rozpatrzenie i zatwierdzenie sprawozdania zarządu z działalności spółki oraz sprawozdania finansowego za ubiegły rok obrotowy oraz udzielenie absolutorium członkom organów spółki z wykonania przez nich obowiązków;
 - **2)** zbycie i wydzierżawienie przedsiębiorstwa albo jego zorganizowanej części oraz ustanowienie na nich ograniczonego prawa rzeczowego;
 - **3)** nabycie i zbycie nieruchomości, użytkowania wieczystego lub udziału w nieruchomości, chyba że umowa spółki stanowi inaczej;
-- **4)** emisja obligacji zamiennych lub z prawem pierwszeństwa i emisja warrantów subskrypcyjnych, o których mowa w art. 300 ;
+- **4)** emisja obligacji zamiennych lub z prawem pierwszeństwa i emisja warrantów subskrypcyjnych, o których mowa w art. 300 119 ;
 - **5)** zawarcie umowy, o której mowa w art. 7.
 
 **Art. 300⁸².**
@@ -866,7 +794,7 @@ source: pdf
 
 **Art. 300⁹³.**
 
-§ 1. W dniu walnego zgromadzenia zarząd wykłada w miejscu odbycia walnego zgromadzenia listę uprawnionych do uczestnictwa w walnym zgromadzeniu zgodnie z art. 300 , podpisaną przez zarząd, zawierającą nazwiska i imiona albo firmy (nazwy) uprawnionych, ich adresy do doręczeń lub adresy poczty elektronicznej, liczbę, serie, numery i rodzaj akcji oraz liczbę przysługujących im głosów.
+§ 1. W dniu walnego zgromadzenia zarząd wykłada w miejscu odbycia walnego zgromadzenia listę uprawnionych do uczestnictwa w walnym zgromadzeniu zgodnie z art. 300 91 , podpisaną przez zarząd, zawierającą nazwiska i imiona albo firmy (nazwy) uprawnionych, ich adresy do doręczeń lub adresy poczty elektronicznej, liczbę, serie, numery i rodzaj akcji oraz liczbę przysługujących im głosów.
 
 § 2. Uprawniony może żądać przesłania mu listy, o której mowa w § 1, nieodpłatnie pocztą elektroniczną, podając adres, na który lista powinna być wysłana.
 
@@ -1024,7 +952,7 @@ source: pdf
 
 **Art. 300¹¹³.**
 
-§ 1. Pozbawienie prawa poboru w całości lub w części dotyczące każdej emisji akcji w granicach upoważnienia, o którym mowa w art. 300 , wymaga uchwały akcjonariuszy podjętej zgodnie z art. 300 § 2.
+§ 1. Pozbawienie prawa poboru w całości lub w części dotyczące każdej emisji akcji w granicach upoważnienia, o którym mowa w art. 300 110 , wymaga uchwały akcjonariuszy podjętej zgodnie z art. 300 § 2.
 
 § 2. Umowa spółki może upoważniać zarząd do pozbawienia prawa poboru w całości lub w części. Uchwała zarządu o pozbawieniu prawa poboru w całości lub w części może zostać podjęta, jeżeli przemawia za tym interes spółki.
 
@@ -1034,13 +962,13 @@ source: pdf
 
 **Art. 300¹¹⁴.**
 
-§ 1. Walne zgromadzenie może podjąć uchwałę o emisji akcji, z zastrzeżeniem że osoby, którym przyznano prawa do objęcia akcji, wykonają je na warunkach określonych w uchwale, o której mowa w art. 300 , i w trybie określonym w art. 300 (warunkowa emisja akcji).
+§ 1. Walne zgromadzenie może podjąć uchwałę o emisji akcji, z zastrzeżeniem że osoby, którym przyznano prawa do objęcia akcji, wykonają je na warunkach określonych w uchwale, o której mowa w art. 300 115 , i w trybie określonym w art. 300 (warunkowa emisja akcji).
 
 § 2. Uchwała o warunkowej emisji akcji może zostać podjęta w celu przyznania praw do objęcia akcji:
 
 - **1)** obligatariuszom obligacji zamiennych lub obligacji z prawem pierwszeństwa albo
 - **2)** osobom, które uzyskały te prawa na podstawie umowy zawartej ze spółką, albo
-- **3)** posiadaczom warrantów subskrypcyjnych, o których mowa w art. 300 .
+- **3)** posiadaczom warrantów subskrypcyjnych, o których mowa w art. 300 119 .
 
 § 3. Zawarcie umowy, o której mowa w § 2 pkt 2, wymaga zgody walnego zgromadzenia wyrażonej większością trzech czwartych głosów.
 
@@ -1106,9 +1034,9 @@ source: pdf
 - **4)** ogłoszenie upadłości spółki;
 - **5)** inne przyczyny przewidziane prawem.
 
-§ 2. Jeżeli przyczyna żądania rozwiązania spółki, o której mowa w § 1 pkt 3, zachodzi po stronie jednego z akcjonariuszy, a w toku postępowania została uprawdopodobniona możliwość dalszego funkcjonowania spółki z udziałem pozostałych akcjonariuszy, sąd może orzec o ustąpieniu akcjonariusza, zgodnie z art. 300 .
+§ 2. Jeżeli przyczyna żądania rozwiązania spółki, o której mowa w § 1 pkt 3, zachodzi po stronie jednego z akcjonariuszy, a w toku postępowania została uprawdopodobniona możliwość dalszego funkcjonowania spółki z udziałem pozostałych akcjonariuszy, sąd może orzec o ustąpieniu akcjonariusza, zgodnie z art. 300 50 .
 
-§ 3. Rozwiązanie spółki następuje, z wyjątkiem art. 300 , po przeprowadzeniu likwidacji, z chwilą wykreślenia spółki z rejestru.
+§ 3. Rozwiązanie spółki następuje, z wyjątkiem art. 300 122 , po przeprowadzeniu likwidacji, z chwilą wykreślenia spółki z rejestru.
 
 § 4. W przypadkach, o których mowa w § 1 pkt 1 i 2, do dnia złożenia wniosku o wykreślenie spółki z rejestru rozwiązaniu może zapobiec uchwała walnego zgromadzenia podjęta większością trzech czwartych głosów, oddanych w obecności akcjonariuszy reprezentujących co najmniej połowę ogólnej liczby akcji.
 
@@ -1176,7 +1104,7 @@ source: pdf
 
 **Art. 300¹²⁸.** W przypadku wytoczenia powództwa przez akcjonariusza na podstawie art. 300 § 1 oraz w razie upadłości spółki osoby obowiązane do naprawienia szkody nie mogą powoływać się na uchwałę akcjonariuszy udzielającą im absolutorium ani dokonane przez spółkę zrzeczenie się roszczeń o odszkodowanie.
 
-**Art. 300¹²⁹.** Przepisy art. 300 i art. 300 stosuje się odpowiednio do roszczeń spółki o zwrot wypłat, o których mowa w art. 300 .
+**Art. 300¹²⁹.** Przepisy art. 300 i art. 300 stosuje się odpowiednio do roszczeń spółki o zwrot wypłat, o których mowa w art. 300 22 .
 
 **Art. 300¹³⁰.** Roszczenie o naprawienie szkody przedawnia się z upływem trzech lat od dnia, w którym spółka dowiedziała się o szkodzie i osobie obowiązanej do jej naprawienia. Jednakże w każdym przypadku roszczenie przedawnia się z upływem dziesięciu lat od dnia, w którym nastąpiło zdarzenie wyrządzające szkodę.
 
@@ -1194,13 +1122,10 @@ source: pdf
 
 **Art. 300¹³³.** Przepisy art. 300 i art. 300 stosuje się odpowiednio do likwidatorów spółki, z wyjątkiem likwidatorów ustanowionych przez sąd.
 
-**Art. 300¹³⁴.** Przepisy art. 300 –300 nie naruszają praw akcjonariuszy oraz osób trzecich do dochodzenia naprawienia szkody na zasadach ogólnych.”;
+**Art. 300¹³⁴.** Przepisy art. 300 123 –300 nie naruszają praw akcjonariuszy oraz osób trzecich do dochodzenia naprawienia szkody na zasadach ogólnych.”;
 
 - **12)** w art. 463 w § 3 dwukrotnie po wyrazach „spółki w” dodaje się wyraz „okresie”;
-- **13)** art. 515 otrzymuje brzmienie: „Art. 515. § 1. Spółka przejmująca może wydać wspólnikom spółki przejmowanej udziały albo akcje ustanowione w wyniku podwyższenia kapitału zakładowego, udziały albo akcje własne nabyte zgodnie z art. 200 i art. 362 oraz objęte w przypadku, o którym mowa w art. 366. Spółka przejmująca może wydać wspólnikom spółki przejmowanej udziały albo akcje własne, które nabyła w wyniku połączenia z tą spółką.
-
-§ 2. W celu wydania udziałów albo akcji wspólnikom spółki przejmowanej spółka przejmująca może nabyć udziały albo akcje własne, których łączna wartość nominalna, wraz z udziałami albo akcjami nabytymi uprzednio przez tę spółkę, spółki lub spółdzielnie od niej zależne lub osoby działające na jej rachunek, nie przekracza 10% kapitału zakładowego.”;
-
+- **13)** art. 515 otrzymuje brzmienie: „Art. 515. § 1. Spółka przejmująca może wydać wspólnikom spółki przejmowanej udziały albo akcje ustanowione w wyniku podwyższenia kapitału zakładowego, udziały albo akcje własne nabyte zgodnie z art. 200 i art. 362 oraz objęte w przypadku, o którym mowa w art. 366. Spółka przejmująca może wydać wspólnikom spółki przejmowanej udziały albo akcje własne, które nabyła w wyniku połączenia z tą spółką. § 2. W celu wydania udziałów albo akcji wspólnikom spółki przejmowanej spółka przejmująca może nabyć udziały albo akcje własne, których łączna wartość nominalna, wraz z udziałami albo akcjami nabytymi uprzednio przez tę spółkę, spółki lub spółdzielnie od niej zależne lub osoby działające na jej rachunek, nie przekracza 10% kapitału zakładowego.”;
 - **14)** w art. 530 w § 2 zdanie trzecie otrzymuje brzmienie: „W przypadku przeniesienia części majątku spółki dzielonej na istniejącą spółkę, wydzielenie następuje w dniu wpisu do rejestru podwyższenia kapitału zakładowego spółki przejmującej lub emisji przez spółkę przejmującą nowych akcji bez wartości nominalnej (dzień wydzielenia).”;
 - **15)** w art. 542 § 2 otrzymuje brzmienie: „§ 2. Wykreślenie spółki dzielonej z rejestru następuje z urzędu, niezwłocznie po wpisie do rejestru podwyższenia kapitału zakładowego spółek przejmujących lub po wpisie do rejestru emisji przez spółki przejmujące nowych akcji bez wartości nominalnej albo po wpisie do rejestru nowych spółek uczestniczących w podziale.”;
 - **16)** w art. 551 § 1 otrzymuje brzmienie: „§ 1. Spółka jawna, spółka partnerska, spółka komandytowa, spółka komandytowo-akcyjna, spółka z ograniczoną odpowiedzialnością, prosta spółka akcyjna oraz spółka akcyjna (spółka przekształcana) może być przekształcona w inną spółkę handlową (spółkę przekształconą).”;
@@ -1211,62 +1136,23 @@ source: pdf
     - **b)** w § 2 pkt 3 otrzymuje brzmienie: „3) w przypadku przekształcenia w spółkę akcyjną wycenę składników majątku (aktywów i pasywów) spółki przekształcanej;”;
 
 - **20)** w art. 559 § 1 otrzymuje brzmienie: „§ 1. Plan przekształcenia w spółkę akcyjną należy poddać badaniu przez biegłego rewidenta w zakresie poprawności i rzetelności oraz w celu ustalenia, czy wycena składników majątku (aktywów i pasywów) spółki przekształcanej jest rzetelna.”;
-- **21)** w art. 560 § 1 i 2 otrzymują brzmienie: „§ 1. Spółka zawiadamia wspólników o zamiarze podjęcia uchwały o przekształceniu spółki dwukrotnie, w sposób przewidziany dla zawiadamiania wspólników spółki przekształcanej. Pierwsze zawiadomienie powinno być dokonane nie później niż na miesiąc przed planowanym dniem podjęcia tej uchwały, a drugie w odstępie nie krótszym niż dwa tygodnie od daty pierwszego zawiadomienia.
-
-§ 2. Zawiadomienie, o którym mowa w § 1, powinno zawierać istotne elementy planu przekształcenia oraz opinii biegłego rewidenta z badania planu przekształcenia, jeżeli została ona sporządzona, a także określać miejsce oraz termin, w którym wspólnicy spółki przekształcanej mogą się zapoznać z pełną treścią planu i załączników, a także opinią biegłego rewidenta z badania planu przekształcenia, jeżeli została ona sporządzona, przy czym termin ten nie może być krótszy niż dwa tygodnie przed planowanym dniem podjęcia uchwały o przekształceniu.”;
-
+- **21)** w art. 560 § 1 i 2 otrzymują brzmienie: „§ 1. Spółka zawiadamia wspólników o zamiarze podjęcia uchwały o przekształceniu spółki dwukrotnie, w sposób przewidziany dla zawiadamiania wspólników spółki przekształcanej. Pierwsze zawiadomienie powinno być dokonane nie później niż na miesiąc przed planowanym dniem podjęcia tej uchwały, a drugie w odstępie nie krótszym niż dwa tygodnie od daty pierwszego zawiadomienia. § 2. Zawiadomienie, o którym mowa w § 1, powinno zawierać istotne elementy planu przekształcenia oraz opinii biegłego rewidenta z badania planu przekształcenia, jeżeli została ona sporządzona, a także określać miejsce oraz termin, w którym wspólnicy spółki przekształcanej mogą się zapoznać z pełną treścią planu i załączników, a także opinią biegłego rewidenta z badania planu przekształcenia, jeżeli została ona sporządzona, przy czym termin ten nie może być krótszy niż dwa tygodnie przed planowanym dniem podjęcia uchwały o przekształceniu.”;
 - **22)** w art. 561 § 2 otrzymuje brzmienie: „§ 2. Bezpośrednio przed podjęciem uchwały o przekształceniu spółki wspólnikom należy ustnie przedstawić istotne elementy planu przekształcenia i opinii biegłego rewidenta z badania planu przekształcenia, jeżeli została ona sporządzona.”;
-- **23)** art. 563 otrzymuje brzmienie: „Art. 563. § 1. Uchwała o przekształceniu spółki powinna zawierać co najmniej:
-- **1)** typ spółki, w jaki spółka zostaje przekształcona;
-- **2)** wysokość kapitału zakładowego, w przypadku przekształcenia w spółkę komandytowo-akcyjną, spółkę z ograniczoną odpowiedzialnością albo w spółkę akcyjną, albo wysokość sumy komandytowej, w przypadku przekształcenia w spółkę komandytową;
-- **3)** zakres praw przyznanych osobiście wspólnikom uczestniczącym w spółce przekształconej, jeżeli przyznanie takich praw jest przewidziane;
-- **4)** nazwiska i imiona członków zarządu spółki przekształconej, w przypadku przekształcenia w spółkę kapitałową, albo nazwiska i imiona wspólników prowadzących sprawy spółki i mających reprezentować spółkę przekształconą, w przypadku przekształcenia w spółkę osobową;
-- **5)** zgodę na brzmienie umowy albo statutu spółki przekształconej.
-
-§ 2. Podjęcie uchwały o przekształceniu zastępuje zawarcie umowy spółki przekształconej albo zawiązanie przekształconej spółki akcyjnej oraz powołanie organów spółki przekształconej.”;
-
+- **23)** art. 563 otrzymuje brzmienie: „Art. 563. § 1. Uchwała o przekształceniu spółki powinna zawierać co najmniej: 1) typ spółki, w jaki spółka zostaje przekształcona; 2) wysokość kapitału zakładowego, w przypadku przekształcenia w spółkę komandytowo-akcyjną, spółkę z ograniczoną odpowiedzialnością albo w spółkę akcyjną, albo wysokość sumy komandytowej, w przypadku przekształcenia w spółkę komandytową; 3) zakres praw przyznanych osobiście wspólnikom uczestniczącym w spółce przekształconej, jeżeli przyznanie takich praw jest przewidziane; 4) nazwiska i imiona członków zarządu spółki przekształconej, w przypadku przekształcenia w spółkę kapitałową, albo nazwiska i imiona wspólników prowadzących sprawy spółki i mających reprezentować spółkę przekształconą, w przypadku przekształcenia w spółkę osobową; 5) zgodę na brzmienie umowy albo statutu spółki przekształconej. § 2. Podjęcie uchwały o przekształceniu zastępuje zawarcie umowy spółki przekształconej albo zawiązanie przekształconej spółki akcyjnej oraz powołanie organów spółki przekształconej.”;
 - **24)** uchyla się art. 564–566;
 - **25)** w art. 567 § 2 otrzymuje brzmienie: „§ 2. Nie można zaskarżyć uchwały jedynie na podstawie zastrzeżeń dotyczących wartości udziałów albo akcji ustalonej na potrzeby odkupu, o którym mowa w art. 576 .”;
 - **26)** w art. 569 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „§ 2. Do wniosku o wpis przekształcenia do rejestru dołącza się oświadczenie wszystkich członków zarządu, że wszystkie udziały albo akcje wspólników, którzy żądali odkupu, zostały odkupione zgodnie z art. 576 .”;
-- **27)** po art. 576 dodaje się art. 576 w brzmieniu: „Art. 576 . § 1. Wspólnik, który głosował przeciwko uchwale o przekształceniu spółki kapitałowej w spółkę osobową i zażądał zaprotokołowania sprzeciwu, może żądać odkupu jego udziałów albo akcji w spółce przekształcanej.
-
-§ 2. Wspólnicy składają spółce pisemne żądanie odkupu w terminie tygodnia od dnia podjęcia uchwały o przekształceniu.
-
-§ 3. Do żądania odkupu należy dołączyć dokument akcji, a w przypadku akcji zdematerializowanych będących przedmiotem obrotu zorganizowanego – imienne świadectwo depozytowe wystawione zgodnie z przepisami o obrocie instrumentami finansowymi.
-
-§ 4. Cena odkupu powinna odpowiadać wartości godziwej udziałów albo akcji w spółce przekształcanej.
-
-§ 5. W terminie trzech tygodni od dnia podjęcia uchwały o przekształceniu spółka przekształcana dokonuje odkupu udziałów albo akcji na rachunek własny lub rachunek wspólników pozostających w spółce. Skuteczność odkupu zależy od zapłaty ceny odkupu wspólnikom żądającym odkupu lub złożenia kwoty równej tej cenie do depozytu sądowego.
-
-§ 6. Przekształcana spółka kapitałowa może nabyć na rachunek własny udziały albo akcje, których łączna wartość nominalna nie przekracza 10% kapitału zakładowego.
-
-§ 7. Wspólnik, który nie zgadza się na cenę odkupu, może wnieść powództwo o ustalenie wartości godziwej jego udziałów albo akcji w terminie dwóch tygodni od dnia podjęcia uchwały o przekształceniu. Wniesienie powództwa nie wstrzymuje odkupu ani rejestracji przekształcenia.
-
-§ 8. Jeżeli wszystkie udziały albo akcje wspólników, żądających odkupu, nie zostaną odkupione, przekształcenie nie dochodzi do skutku.”;
-
+- **27)** po art. 576 dodaje się art. 576 w brzmieniu: „Art. 576 . § 1. Wspólnik, który głosował przeciwko uchwale o przekształceniu spółki kapitałowej w spółkę osobową i zażądał zaprotokołowania sprzeciwu, może żądać odkupu jego udziałów albo akcji w spółce przekształcanej. § 2. Wspólnicy składają spółce pisemne żądanie odkupu w terminie tygodnia od dnia podjęcia uchwały o przekształceniu. § 3. Do żądania odkupu należy dołączyć dokument akcji, a w przypadku akcji zdematerializowanych będących przedmiotem obrotu zorganizowanego – imienne świadectwo depozytowe wystawione zgodnie z przepisami o obrocie instrumentami finansowymi. § 4. Cena odkupu powinna odpowiadać wartości godziwej udziałów albo akcji w spółce przekształcanej. § 5. W terminie trzech tygodni od dnia podjęcia uchwały o przekształceniu spółka przekształcana dokonuje odkupu udziałów albo akcji na rachunek własny lub rachunek wspólników pozostających w spółce. Skuteczność odkupu zależy od zapłaty ceny odkupu wspólnikom żądającym odkupu lub złożenia kwoty równej tej cenie do depozytu sądowego. § 6. Przekształcana spółka kapitałowa może nabyć na rachunek własny udziały albo akcje, których łączna wartość nominalna nie przekracza 10% kapitału zakładowego. § 7. Wspólnik, który nie zgadza się na cenę odkupu, może wnieść powództwo o ustalenie wartości godziwej jego udziałów albo akcji w terminie dwóch tygodni od dnia podjęcia uchwały o przekształceniu. Wniesienie powództwa nie wstrzymuje odkupu ani rejestracji przekształcenia. § 8. Jeżeli wszystkie udziały albo akcje wspólników, żądających odkupu, nie zostaną odkupione, przekształcenie nie dochodzi do skutku.”;
 - **28)** w art. 577 w § 1 pkt 4 otrzymuje brzmienie: „4) kapitał zakładowy albo kapitał akcyjny spółki przekształconej będzie nie niższy od kapitału zakładowego albo kapitału akcyjnego spółki przekształcanej.”;
-- **29)** po art. 579 dodaje się art. 579 w brzmieniu: „Art. 579 . § 1. W przypadku przekształcenia w prostą spółkę akcyjną plan przekształcenia podlega ogłoszeniu. W przypadku gdy spółką przekształcaną jest spółka akcyjna, jej wierzyciel może w terminie miesiąca od dnia ogłoszenia planu przekształcenia żądać zabezpieczenia swoich roszczeń, jeżeli uprawdopodobni, że ich zaspokojenie jest zagrożone przez przekształcenie.
-
-§ 2. W razie sporu sąd właściwy według siedziby przekształcanej spółki akcyjnej rozstrzyga o udzieleniu zabezpieczenia na wniosek wierzyciela, złożony w terminie dwóch miesięcy od dnia ogłoszenia planu przekształcenia.
-
-§ 3. Wniosek wierzyciela nie wstrzymuje rejestracji przekształcenia.”;
-
-- **30)** art. 580 otrzymuje brzmienie: „Art. 580. § 1. Posiadacze obligacji zamiennych, obligacji z prawem pierwszeństwa lub innych obligacji uprawniających do świadczeń niepieniężnych w przekształcanej spółce akcyjnej albo prostej spółce akcyjnej mają w spółce z ograniczoną odpowiedzialnością prawa co najmniej równoważne z tymi, które im przysługiwały dotychczas. Nie wyklucza to zmiany bądź wygaśnięcia tych uprawnień w drodze umowy między uprawnionym a spółką przekształconą.
-
-§ 2. Przepis § 1 stosuje się odpowiednio w przypadku przekształcenia spółki akcyjnej w prostą spółkę akcyjną oraz prostej spółki akcyjnej w spółkę akcyjną.”;
-
+- **29)** po art. 579 dodaje się art. 579 w brzmieniu: „Art. 579 . § 1. W przypadku przekształcenia w prostą spółkę akcyjną plan przekształcenia podlega ogłoszeniu. W przypadku gdy spółką przekształcaną jest spółka akcyjna, jej wierzyciel może w terminie miesiąca od dnia ogłoszenia planu przekształcenia żądać zabezpieczenia swoich roszczeń, jeżeli uprawdopodobni, że ich zaspokojenie jest zagrożone przez przekształcenie. § 2. W razie sporu sąd właściwy według siedziby przekształcanej spółki akcyjnej rozstrzyga o udzieleniu zabezpieczenia na wniosek wierzyciela, złożony w terminie dwóch miesięcy od dnia ogłoszenia planu przekształcenia. § 3. Wniosek wierzyciela nie wstrzymuje rejestracji przekształcenia.”;
+- **30)** art. 580 otrzymuje brzmienie: „Art. 580. § 1. Posiadacze obligacji zamiennych, obligacji z prawem pierwszeństwa lub innych obligacji uprawniających do świadczeń niepieniężnych w przekształcanej spółce akcyjnej albo prostej spółce akcyjnej mają w spółce z ograniczoną odpowiedzialnością prawa co najmniej równoważne z tymi, które im przysługiwały dotychczas. Nie wyklucza to zmiany bądź wygaśnięcia tych uprawnień w drodze umowy między uprawnionym a spółką przekształconą. § 2. Przepis § 1 stosuje się odpowiednio w przypadku przekształcenia spółki akcyjnej w prostą spółkę akcyjną oraz prostej spółki akcyjnej w spółkę akcyjną.”;
 - **31)** w art. 584 pkt 2 otrzymuje brzmienie: „2) wysokość kapitału zakładowego albo kapitału akcyjnego;”;
 - **32)** po art. 589 dodaje się art. 589 w brzmieniu: „Art. 589 . Kto, będąc członkiem zarządu albo likwidatorem prostej spółki akcyjnej, dopuszcza do wydania przez spółkę dokumentów na akcje, warrantów subskrypcyjnych lub innych tytułów uczestnictwa w dochodach lub podziale majątku spółki – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 6 miesięcy.”;
-- **33)** w art. 592 dodaje się § 3 w brzmieniu: „§ 3. Tej samej karze podlega członek zarządu, który dopuszcza do zarejestrowania akcji w rejestrze akcjonariuszy przed:
-- **1)** zarejestrowaniem prostej spółki akcyjnej;
-- **2)** wpisem do rejestru zmiany liczby akcji – w przypadku emisji nowych akcji prostej spółki akcyjnej.”;
+- **33)** w art. 592 dodaje się § 3 w brzmieniu: „§ 3. Tej samej karze podlega członek zarządu, który dopuszcza do zarejestrowania akcji w rejestrze akcjonariuszy przed: 1) zarejestrowaniem prostej spółki akcyjnej; 2) wpisem do rejestru zmiany liczby akcji – w przypadku emisji nowych akcji prostej spółki akcyjnej.”;
 - **34)** w art. 594 w § 1 pkt 1 otrzymuje brzmienie: „1) nie składa sądowi rejestrowemu listy wspólników albo listy akcjonariuszy,”;
 - **35)** w art. 595 § 1 otrzymuje brzmienie: „§ 1. Kto, będąc członkiem zarządu spółki kapitałowej, dopuszcza do tego, że pisma i zamówienia handlowe oraz informacje, o których mowa w art. 206 § 1, art. 300 § 1 i art. 374 § 1, nie zawierają danych określonych w tych przepisach albo, będąc komplementariuszem spółki komandytowo-akcyjnej uprawnionym do reprezentowania spółki, dopuszcza do tego, że pisma i zamówienia handlowe oraz informacje, o których mowa w art. 127 § 5, nie zawierają danych określonych w tym przepisie – podlega grzywnie do 5000 złotych.”.
 
-**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm. ) w art. 911 § 2 otrzymuje brzmienie: „§ 2. W razie zajęcia praw majątkowych zarejestrowanych w rejestrze akcjonariuszy, o którym mowa w art. 300 § 1 i art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505, 1543, 1655, 1798 i 2217 oraz z 2020 r. poz. 288), komornik występuje także z żądaniem ujawnienia zajęcia tych praw do podmiotu prowadzącego ten rejestr, wzywając go do zawiadomienia, w terminie 7 dni od dnia doręczenia żądania, o:
-
-- **1)** dacie wpisania zajęcia praw majątkowych w rejestrze akcjonariuszy albo przeszkodzie do jego dokonania;
-- **2)** liczbie lub wartości oraz rodzaju, seriach i numerach albo odrębnych oznaczeniach, o których mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, zajętych praw majątkowych, jeżeli rejestr akcjonariuszy zawiera takie dane.”.
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2019 r. poz. 1460, z późn. zm. ) w art. 911 § 2 otrzymuje brzmienie: „§ 2. W razie zajęcia praw majątkowych zarejestrowanych w rejestrze akcjonariuszy, o którym mowa w art. 300 § 1 i art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505, 1543, 1655, 1798 i 2217 oraz z 2020 r. poz. 288), komornik występuje także z żądaniem ujawnienia zajęcia tych praw do podmiotu prowadzącego ten rejestr, wzywając go do zawiadomienia, w terminie 7 dni od dnia doręczenia żądania, o: 1) dacie wpisania zajęcia praw majątkowych w rejestrze akcjonariuszy albo przeszkodzie do jego dokonania; 2) liczbie lub wartości oraz rodzaju, seriach i numerach albo odrębnych oznaczeniach, o których mowa w art. 55 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, zajętych praw majątkowych, jeżeli rejestr akcjonariuszy zawiera takie dane.”.
 
 **Art. 3.** (uchylony)
 
@@ -1276,25 +1162,17 @@ source: pdf
 - **2)** w art. 21 w § 3 zdanie drugie otrzymuje brzmienie: „Zastępstwo obejmuje wyłącznie dokonywanie czynności notarialnych, o których mowa w art. 79 pkt 6a i 7, oraz wydawanie przyjętych na przechowanie pieniędzy, papierów wartościowych, dokumentów oraz danych na informatycznym nośniku danych, o którym mowa w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne.”;
 - **3)** w art. 22 zdanie drugie otrzymuje brzmienie: „Zastępstwo obejmuje wyłącznie dokonywanie czynności notarialnych, o których mowa w art. 79 pkt 6a i 7, oraz wydawanie przyjętych na przechowanie pieniędzy, papierów wartościowych, dokumentów oraz danych na informatycznym nośniku danych, o którym mowa w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne.”;
 - **4)** w art. 79 po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) prowadzi rejestry akcjonariuszy prostych spółek akcyjnych oraz podejmuje związane z tym czynności;”;
-- **5)** po art. 90 dodaje się art. 90a w brzmieniu: „Art. 90a § 1. Z chwilą zaprzestania prowadzenia działalności kancelarii dokumenty obejmujące dokonanie czynności notarialnych, o których mowa w art. 79 pkt 6a, wraz z rejestrem akcjonariuszy prostej spółki akcyjnej notariusz przekazuje radzie właściwej izby notarialnej, o czym prezes tej rady niezwłocznie zawiadamia spółkę. Przepisu art. 90 § 1 nie stosuje się.
-
-§ 2. Po zawiadomieniu przez spółkę o zawarciu umowy o prowadzenie rejestru akcjonariuszy prostej spółki akcyjnej prezes rady właściwej izby notarialnej niezwłocznie przekazuje podmiotowi prowadzącemu rejestr akcjonariuszy dokumenty, o których mowa w § 1.”;
-
-- **6)** w dziale II po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „Rozdział 8a Rejestr akcjonariuszy prostej spółki akcyjnej
-
-**Art. 108a.** Notariusz może zawrzeć z prostą spółką akcyjną umowę o prowadzenie rejestru akcjonariuszy tej spółki, na zasadach określonych w art. 300 –300 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych. Notariusz jest obowiązany do pisemnego poinformowania spółki o odmowie zawarcia umowy, jeżeli spółka zwróciła się do notariusza w formie dokumentowej lub pisemnej o prowadzenie rejestru akcjonariuszy.
-
-**Art. 108b.** Do czynności związanych z prowadzeniem rejestru akcjonariuszy prostej spółki akcyjnej przepisów art. 81–83 i art. 85 nie stosuje się.”.
+- **5)** po art. 90 dodaje się art. 90a w brzmieniu: „Art. 90a § 1. Z chwilą zaprzestania prowadzenia działalności kancelarii dokumenty obejmujące dokonanie czynności notarialnych, o których mowa w art. 79 pkt 6a, wraz z rejestrem akcjonariuszy prostej spółki akcyjnej notariusz przekazuje radzie właściwej izby notarialnej, o czym prezes tej rady niezwłocznie zawiadamia spółkę. Przepisu art. 90 § 1 nie stosuje się. § 2. Po zawiadomieniu przez spółkę o zawarciu umowy o prowadzenie rejestru akcjonariuszy prostej spółki akcyjnej prezes rady właściwej izby notarialnej niezwłocznie przekazuje podmiotowi prowadzącemu rejestr akcjonariuszy dokumenty, o których mowa w § 1.”;
+- **6)** w dziale II po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „Rozdział 8a Rejestr akcjonariuszy prostej spółki akcyjnej Art. 108a. Notariusz może zawrzeć z prostą spółką akcyjną umowę o prowadzenie rejestru akcjonariuszy tej spółki, na zasadach określonych w art. 300 31 –300 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych. Notariusz jest obowiązany do pisemnego poinformowania spółki o odmowie zawarcia umowy, jeżeli spółka zwróciła się do notariusza w formie dokumentowej lub pisemnej o prowadzenie rejestru akcjonariuszy. Art. 108b. Do czynności związanych z prowadzeniem rejestru akcjonariuszy prostej spółki akcyjnej przepisów art. 81–83 i art. 85 nie stosuje się.”.
 
 **Art. 5.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r. poz. 1387, 1358, 1394, 1495, 1622 i 1649) wprowadza się następujące zmiany:
 
 - **1)** w art. 5a:
     - **a)** pkt 30 otrzymuje brzmienie: „30) kapitale zakładowym – oznacza to również kapitał akcyjny prostej spółki akcyjnej, kapitał podstawowy spółki, o której mowa w pkt 28 lit. c i d, oraz wartość wkładów wspólników w spółce komandytowej i spółce jawnej będącej podatnikiem podatku dochodowego od osób prawnych;”,
-    - **b)** po pkt 31 dodaje się pkt 31a i 31b w brzmieniu: „31a) udziale w kapitale – oznacza to również stosunek liczby akcji przysługujących akcjonariuszowi prostej spółki akcyjnej do liczby wszystkich akcji wyemitowanych w prostej spółce akcyjnej;
+    - **b)** po pkt 31 dodaje się pkt 31a i 31b w brzmieniu: „31a) udziale w kapitale – oznacza to również stosunek liczby akcji przysługujących akcjonariuszowi prostej spółki akcyjnej do liczby wszystkich akcji wyemitowanych w prostej spółce akcyjnej; 31b) wartości nominalnej udziałów (akcji) – oznacza to również cenę emisyjną akcji prostej spółki akcyjnej;”;
 
-- **31b)** wartości nominalnej udziałów (akcji) – oznacza to również cenę emisyjną akcji prostej spółki akcyjnej;”;
-- **2)** w art. 17: poz. 505, 1543, 1655, 1798 i 2217 oraz z 2020 r. poz. 288), jeżeli objęcie akcji jest związane odpowiednio z warunkową emisją akcji albo z warunkowym podwyższeniem kapitału zakładowego, albo”,
-    - **a)** w ust. 1a: – pkt 2 otrzymuje brzmienie: „2) wpisu do rejestru podwyższenia kapitału zakładowego spółki albo emisji nowych akcji w prostej spółce akcyjnej, albo”, – pkt 3 otrzymuje brzmienie: „3) wpisu do rejestru akcjonariuszy, o którym mowa w art. 300 § 1 albo art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r.
+- **2)** w art. 17:
+    - **a)** w ust. 1a: – pkt 2 otrzymuje brzmienie: „2) wpisu do rejestru podwyższenia kapitału zakładowego spółki albo emisji nowych akcji w prostej spółce akcyjnej, albo”, – pkt 3 otrzymuje brzmienie: „3) wpisu do rejestru akcjonariuszy, o którym mowa w art. 300 § 1 albo art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505, 1543, 1655, 1798 i 2217 oraz z 2020 r. poz. 288), jeżeli objęcie akcji jest związane odpowiednio z warunkową emisją akcji albo z warunkowym podwyższeniem kapitału zakładowego, albo”,
     - **b)** ust. 1d otrzymuje brzmienie: „1d. W przypadku akcjonariusza prostej spółki akcyjnej albo wspólnika spółki, o której mowa w art. 5a pkt 28 lit. c–e, przepis ust. 1 pkt 9 stosuje się wyłącznie do wniesienia wkładu niepieniężnego stanowiącego rzeczy lub prawa zbywalne.”;
 
 - **3)** w art. 24 w ust. 5 po pkt 1b dodaje się pkt 1c w brzmieniu: „1c) przychód ze zmniejszenia kapitału akcyjnego w prostej spółce akcyjnej;”.
@@ -1304,12 +1182,11 @@ source: pdf
 - **1)** w art. 1a w ust. 2 w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „podatkową grupę kapitałową mogą tworzyć wyłącznie spółki z ograniczoną odpowiedzialnością, proste spółki akcyjne lub spółki akcyjne, mające siedzibę na terytorium Rzeczypospolitej Polskiej, jeżeli:”;
 - **2)** w art. 4a:
     - **a)** pkt 18 otrzymuje brzmienie: „18) kapitale zakładowym – oznacza to również kapitał akcyjny prostej spółki akcyjnej oraz kapitał podstawowy spółki, o której mowa w art. 1 ust. 3;”,
-    - **b)** po pkt 19 dodaje się pkt 19a i 19b w brzmieniu: „19a) udziale w kapitale (udziale w kapitale zakładowym) – oznacza to również stosunek liczby akcji przysługujących akcjonariuszowi prostej spółki akcyjnej do liczby wszystkich akcji wyemitowanych w spółce;
+    - **b)** po pkt 19 dodaje się pkt 19a i 19b w brzmieniu: „19a) udziale w kapitale (udziale w kapitale zakładowym) – oznacza to również stosunek liczby akcji przysługujących akcjonariuszowi prostej spółki akcyjnej do liczby wszystkich akcji wyemitowanych w spółce; 19b) wartości nominalnej udziałów (akcji) – oznacza to również cenę emisyjną akcji prostej spółki akcyjnej;”;
 
-- **19b)** wartości nominalnej udziałów (akcji) – oznacza to również cenę emisyjną akcji prostej spółki akcyjnej;”;
 - **3)** w art. 7b w ust. 1 w pkt 1 w lit. m średnik zastępuje się przecinkiem i dodaje się lit. n w brzmieniu: „n) przychód ze zmniejszenia kapitału akcyjnego w prostej spółce akcyjnej;”;
-- **4)** w art. 12: poz. 505, 1543, 1655, 1798 i 2217 oraz z 2020 r. poz. 288), jeżeli objęcie akcji jest związane odpowiednio z warunkową emisją akcji albo z warunkowym podwyższeniem kapitału zakładowego, albo”,
-    - **a)** w ust. 1b: – pkt 2 otrzymuje brzmienie: „2) wpisu do rejestru podwyższenia kapitału zakładowego albo emisji nowych akcji w prostej spółce akcyjnej, albo”, – pkt 3 otrzymuje brzmienie: „3) wpisu do rejestru akcjonariuszy, o którym mowa w art. 300 § 1 albo art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r.
+- **4)** w art. 12:
+    - **a)** w ust. 1b: – pkt 2 otrzymuje brzmienie: „2) wpisu do rejestru podwyższenia kapitału zakładowego albo emisji nowych akcji w prostej spółce akcyjnej, albo”, – pkt 3 otrzymuje brzmienie: „3) wpisu do rejestru akcjonariuszy, o którym mowa w art. 300 § 1 albo art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505, 1543, 1655, 1798 i 2217 oraz z 2020 r. poz. 288), jeżeli objęcie akcji jest związane odpowiednio z warunkową emisją akcji albo z warunkowym podwyższeniem kapitału zakładowego, albo”,
     - **b)** po ust. 1b dodaje się ust. 1ba w brzmieniu: „1ba. W przypadku akcjonariusza prostej spółki akcyjnej albo wspólnika spółki, o której mowa w art. 1 ust. 3, przepis ust. 1 pkt 7 stosuje się wyłącznie do wniesienia wkładu niepieniężnego stanowiącego rzeczy lub prawa zbywalne.”.
 
 **Art. 7.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2019 r. poz. 361, 643 i 1495) w art. 35 w ust. 2 pkt 1 otrzymuje brzmienie: „1) udział kapitałowy osób zagranicznych w spółce lub udział osób zagranicznych w kapitale zakładowym spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej, a w przypadku prostej spółki akcyjnej – w ogólnej liczbie akcji tej spółki, nie przekracza 49%;”.
@@ -1333,17 +1210,7 @@ source: pdf
 **Art. 9.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2019 r. poz. 1500) wprowadza się następujące zmiany:
 
 - **1)** w art. 36 po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) prostych spółek akcyjnych;”;
-- **2)** w art. 38 po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) w przypadku prostej spółki akcyjnej:
-    - **a)** wysokość kapitału akcyjnego i liczbę akcji, a jeżeli akcjonariusze wnoszą wkłady niepieniężne – zaznaczenie tej okoliczności,
-    - **b)** wzmiankę o tym, czy zarząd jest upoważniony do emisji warrantów subskrypcyjnych,
-    - **c)** liczbę akcji uprzywilejowanych i rodzaj uprzywilejowania,
-    - **d)** maksymalną liczbę akcji, które mogą być przedmiotem warunkowej emisji,
-    - **e)** jeżeli umowa spółki wskazuje pismo przeznaczone do ogłoszeń spółki – oznaczenie tego pisma,
-    - **f)** jeżeli umowa spółki przewiduje przyznanie uprawnień indywidualnych określonym akcjonariuszom albo tytuły uczestnictwa w dochodach lub majątku spółki niewynikające z akcji – zaznaczenie tych okoliczności,
-    - **g)** w przypadku gdy spółka ma tylko jednego akcjonariusza – jego oznaczenie zgodnie z art. 35, a także wzmiankę o tym, że jest on jedynym akcjonariuszem spółki,
-    - **h)** wzmiankę o uchwale o emisji obligacji zamiennych i akcji przyznawanych w zamian za te obligacje, wskazującą maksymalną liczbę emitowanych akcji, a także wzmiankę o prawie obligatariuszy do udziału w zysku,
-    - **i)** maksymalną liczbę akcji, które mogą zostać wyemitowane z upoważnienia udzielonego zarządowi.”;
-
+- **2)** w art. 38 po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) w przypadku prostej spółki akcyjnej: a) wysokość kapitału akcyjnego i liczbę akcji, a jeżeli akcjonariusze wnoszą wkłady niepieniężne – zaznaczenie tej okoliczności, b) wzmiankę o tym, czy zarząd jest upoważniony do emisji warrantów subskrypcyjnych, c) liczbę akcji uprzywilejowanych i rodzaj uprzywilejowania, d) maksymalną liczbę akcji, które mogą być przedmiotem warunkowej emisji, e) jeżeli umowa spółki wskazuje pismo przeznaczone do ogłoszeń spółki – oznaczenie tego pisma, f) jeżeli umowa spółki przewiduje przyznanie uprawnień indywidualnych określonym akcjonariuszom albo tytuły uczestnictwa w dochodach lub majątku spółki niewynikające z akcji – zaznaczenie tych okoliczności, g) w przypadku gdy spółka ma tylko jednego akcjonariusza – jego oznaczenie zgodnie z art. 35, a także wzmiankę o tym, że jest on jedynym akcjonariuszem spółki, h) wzmiankę o uchwale o emisji obligacji zamiennych i akcji przyznawanych w zamian za te obligacje, wskazującą maksymalną liczbę emitowanych akcji, a także wzmiankę o prawie obligatariuszy do udziału w zysku, i) maksymalną liczbę akcji, które mogą zostać wyemitowane z upoważnienia udzielonego zarządowi.”;
 - **3)** w art. 39 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) w przypadku ustanowienia w prostej spółce akcyjnej rady dyrektorów – oznaczenie rady dyrektorów i osób wchodzących w jej skład ze wskazaniem sposobu reprezentacji;”;
 - **4)** w art. 47a ust. 1 otrzymuje brzmienie: „1. Spółki komandytowo-akcyjne, spółki z ograniczoną odpowiedzialnością, proste spółki akcyjne, spółki akcyjne oraz spółki europejskie mogą dobrowolnie ogłaszać w Monitorze Sądowym i Gospodarczym, w jakimkolwiek języku urzędowym Unii Europejskiej, informacje o wpisach do Rejestru wraz z ich tłumaczeniem na język polski poświadczonym przez tłumacza przysięgłego.”.
 
@@ -1366,15 +1233,11 @@ source: pdf
 **Art. 13.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2019 r. poz. 498, 912 i 1495) wprowadza się następujące zmiany:
 
 - **1)** w art. 5 w ust. 2 pkt 1 otrzymuje brzmienie: „1) spółek z ograniczoną odpowiedzialnością, prostych spółek akcyjnych i spółek akcyjnych nieprowadzących działalności gospodarczej;”;
-- **2)** w art. 157a w ust. 1 pkt 3 i 4 otrzymują brzmienie: „3) jest lub była członkiem organu, prokurentem lub pełnomocnikiem upadłego, albo jest lub w okresie dwóch lat przed dniem złożenia wniosku o ogłoszenie upadłości była wspólnikiem albo akcjonariuszem posiadającym udziały albo akcje w wysokości wyższej niż 5% kapitału zakładowego dłużnika lub wierzyciela, a w przypadku prostej spółki akcyjnej – więcej niż 5% akcji tej spółki;
-- **4)** jest lub była spółką powiązaną z upadłym lub jest lub była członkiem organu, prokurentem lub pełnomocnikiem takiej spółki albo jest lub w okresie dwóch lat przed dniem złożenia wniosku o ogłoszenie upadłości była wspólnikiem albo akcjonariuszem posiadającym udziały albo akcje w wysokości wyższej niż 5% kapitału zakładowego spółki powiązanej z dłużnikiem, a w przypadku prostej spółki akcyjnej – więcej niż 5% akcji tej spółki;”.
+- **2)** w art. 157a w ust. 1 pkt 3 i 4 otrzymują brzmienie: „3) jest lub była członkiem organu, prokurentem lub pełnomocnikiem upadłego, albo jest lub w okresie dwóch lat przed dniem złożenia wniosku o ogłoszenie upadłości była wspólnikiem albo akcjonariuszem posiadającym udziały albo akcje w wysokości wyższej niż 5% kapitału zakładowego dłużnika lub wierzyciela, a w przypadku prostej spółki akcyjnej – więcej niż 5% akcji tej spółki; 4) jest lub była spółką powiązaną z upadłym lub jest lub była członkiem organu, prokurentem lub pełnomocnikiem takiej spółki albo jest lub w okresie dwóch lat przed dniem złożenia wniosku o ogłoszenie upadłości była wspólnikiem albo akcjonariuszem posiadającym udziały albo akcje w wysokości wyższej niż 5% kapitału zakładowego spółki powiązanej z dłużnikiem, a w przypadku prostej spółki akcyjnej – więcej niż 5% akcji tej spółki;”.
 
 **Art. 14.** (uchylony)
 
-**Art. 15.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2018 r. poz. 1355, z późn. zm. ) w art. 8a ust. 2 otrzymuje brzmienie: „2. Alternatywna spółka inwestycyjna może prowadzić działalność w formie:
-
-- **1)** spółki z ograniczoną odpowiedzialnością, spółki akcyjnej albo spółki europejskiej;
-- **2)** spółki komandytowej albo spółki komandytowo-akcyjnej, w których jedynym komplementariuszem jest spółka z ograniczoną odpowiedzialnością, spółka akcyjna albo spółka europejska.”.
+**Art. 15.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2018 r. poz. 1355, z późn. zm. ) w art. 8a ust. 2 otrzymuje brzmienie: „2. Alternatywna spółka inwestycyjna może prowadzić działalność w formie: 1) spółki z ograniczoną odpowiedzialnością, spółki akcyjnej albo spółki europejskiej; 2) spółki komandytowej albo spółki komandytowo-akcyjnej, w których jedynym komplementariuszem jest spółka z ograniczoną odpowiedzialnością, spółka akcyjna albo spółka europejska.”.
 
 **Art. 16.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2019 r. poz. 785, 1043, 1469 i 1553) w art. 52 ust. 2 otrzymuje brzmienie: „2. Opłatę stałą w kwocie 250 złotych pobiera się od wniosku o zarejestrowanie w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym spółki jawnej, spółki komandytowej, spółki z ograniczoną odpowiedzialnością oraz prostej spółki akcyjnej, których umowy zostały zawarte przy wykorzystaniu wzorców umowy udostępnionych w systemie teleinformatycznym.”.
 
@@ -1413,35 +1276,26 @@ source: pdf
 
 - **3)** w art. 74 w ust. 1 pkt 3 otrzymuje brzmienie: „3) określenie wartości i liczby udziałów albo akcji, a w przypadku prostej spółki akcyjnej – liczby akcji obejmowanych, w zamian za aporty, o których mowa w pkt 2;”;
 - **4)** w art. 115 w ust. 4:
-    - **a)** w pkt 1 lit. a i b otrzymują brzmienie: „a) spółce kapitałowej, w której reprezentowany przez niego Skarb Państwa posiada udziały albo akcje reprezentujące co najmniej 51% kapitału zakładowego, a w przypadku prostej spółki akcyjnej – co najmniej 51% ogólnej liczby akcji tej spółki,
-    - **b)** spółce kapitałowej wykonującej działalność leczniczą, w której uczelnia medyczna posiada udziały albo akcje reprezentujące co najmniej 51% kapitału zakładowego, a w przypadku prostej spółki akcyjnej – co najmniej 51% ogólnej liczby akcji tej spółki,”,
+    - **a)** w pkt 1 lit. a i b otrzymują brzmienie: „a) spółce kapitałowej, w której reprezentowany przez niego Skarb Państwa posiada udziały albo akcje reprezentujące co najmniej 51% kapitału zakładowego, a w przypadku prostej spółki akcyjnej – co najmniej 51% ogólnej liczby akcji tej spółki, b) spółce kapitałowej wykonującej działalność leczniczą, w której uczelnia medyczna posiada udziały albo akcje reprezentujące co najmniej 51% kapitału zakładowego, a w przypadku prostej spółki akcyjnej – co najmniej 51% ogólnej liczby akcji tej spółki,”,
     - **b)** w pkt 2 lit. a otrzymuje brzmienie: „a) spółce kapitałowej, w której reprezentowany przez niego Skarb Państwa posiada udziały albo akcje reprezentujące co najmniej 51% kapitału zakładowego, a w przypadku prostej spółki akcyjnej – co najmniej 51% ogólnej liczby akcji tej spółki,”.
 
 **Art. 24.** W ustawie z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2018 r. poz. 483 i 2243 oraz z 2019 r. poz. 1572) w art. 19:
 
 - **1)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku gdy emitentem jest prosta spółka akcyjna, obligacje zamienne mogą być oferowane wyłącznie za pośrednictwem firmy inwestycyjnej, chyba że obligacje zamienne są oferowane wyłącznie akcjonariuszom tej spółki.”;
 - **2)** ust. 3 otrzymuje brzmienie: „3. Uchwała o emisji obligacji zamiennych i akcji przyznawanych w zamian za te obligacje podlega zgłoszeniu do sądu rejestrowego. Jeżeli emitentem jest spółka, która podlega obowiązkowi wpisu do Krajowego Rejestru Sądowego, wzmianka o uchwale wskazująca maksymalną wysokość podwyższenia kapitału zakładowego, a w przypadku prostej spółki akcyjnej – maksymalną liczbę akcji, również podlega wpisowi do tego rejestru. Data przydziału i wydania obligacji nie może być wcześniejsza niż data wpisu.”;
-- **3)** w ust. 4 pkt 2 i 3 otrzymują brzmienie: „2) sposób przeliczenia obligacji na akcje, z tym że na każdy jeden złoty wartości nominalnej obligacji może przypadać najwyżej jeden złoty wartości nominalnej akcji, a w przypadku akcji niemających wartości nominalnej – jeden złoty ceny emisyjnej tych akcji;
-- **3)** maksymalną wysokość podwyższenia kapitału zakładowego w drodze zamiany obligacji na akcje, a w przypadku prostej spółki akcyjnej – maksymalną liczbę akcji, które mają zostać wyemitowane w celu zamiany obligacji na akcje.”.
+- **3)** w ust. 4 pkt 2 i 3 otrzymują brzmienie: „2) sposób przeliczenia obligacji na akcje, z tym że na każdy jeden złoty wartości nominalnej obligacji może przypadać najwyżej jeden złoty wartości nominalnej akcji, a w przypadku akcji niemających wartości nominalnej – jeden złoty ceny emisyjnej tych akcji; 3) maksymalną wysokość podwyższenia kapitału zakładowego w drodze zamiany obligacji na akcje, a w przypadku prostej spółki akcyjnej – maksymalną liczbę akcji, które mają zostać wyemitowane w celu zamiany obligacji na akcje.”.
 
 **Art. 25.** W ustawie z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2019 r. poz. 243, 326 i 912) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 w ust. 1 pkt 2 otrzymuje brzmienie: „2) spółek z ograniczoną odpowiedzialnością, prostych spółek akcyjnych i spółek akcyjnych nieprowadzących działalności gospodarczej;”;
-- **2)** w art. 24 w ust. 2 pkt 5 i 6 otrzymują brzmienie: „5) lub była członkiem organu, prokurentem lub pełnomocnikiem dłużnika albo jest lub w okresie dwóch lat przed dniem złożenia wniosku restrukturyzacyjnego była wspólnikiem albo akcjonariuszem dłużnika posiadającym udziały albo akcje w wysokości wyższej niż 5% kapitału zakładowego dłużnika lub wierzyciela, a w przypadku prostej spółki akcyjnej – więcej niż 5% akcji tej spółki;
-- **6)** lub była spółką powiązaną z dłużnikiem lub jest lub była członkiem organu, prokurentem lub pełnomocnikiem takiej spółki albo jest lub w okresie dwóch lat przed dniem złożenia wniosku restrukturyzacyjnego była wspólnikiem albo akcjonariuszem posiadającym udziały albo akcje w wysokości wyższej niż 5% kapitału zakładowego spółki powiązanej z dłużnikiem, a w przypadku prostej spółki akcyjnej – więcej niż 5% akcji tej spółki.”;
+- **2)** w art. 24 w ust. 2 pkt 5 i 6 otrzymują brzmienie: „5) lub była członkiem organu, prokurentem lub pełnomocnikiem dłużnika albo jest lub w okresie dwóch lat przed dniem złożenia wniosku restrukturyzacyjnego była wspólnikiem albo akcjonariuszem dłużnika posiadającym udziały albo akcje w wysokości wyższej niż 5% kapitału zakładowego dłużnika lub wierzyciela, a w przypadku prostej spółki akcyjnej – więcej niż 5% akcji tej spółki; 6) lub była spółką powiązaną z dłużnikiem lub jest lub była członkiem organu, prokurentem lub pełnomocnikiem takiej spółki albo jest lub w okresie dwóch lat przed dniem złożenia wniosku restrukturyzacyjnego była wspólnikiem albo akcjonariuszem posiadającym udziały albo akcje w wysokości wyższej niż 5% kapitału zakładowego spółki powiązanej z dłużnikiem, a w przypadku prostej spółki akcyjnej – więcej niż 5% akcji tej spółki.”;
 - **3)** w art. 116 ust. 4 otrzymuje brzmienie: „4. W sprawach dotyczących układu, jeżeli dłużnikiem jest spółka kapitałowa, prawa głosu nie ma wierzyciel będący osobą fizyczną, jeżeli reprezentuje ponad 25% kapitału zakładowego spółki, a w przypadku prostej spółki akcyjnej – posiada ponad 25% akcji tej spółki.”;
-- **4)** w art. 156 w ust. 5 pkt 1 i 2 otrzymują brzmienie: „1) sumę, o jaką kapitał zakładowy ma zostać podwyższony, a w przypadku prostej spółki akcyjnej – liczbę akcji, które mają zostać wyemitowane;
-- **2)** liczbę oraz wartość nominalną nowo ustanowionych udziałów lub akcji lub też wartość, o którą następuje podwyższenie wartości nominalnej udziałów lub akcji już istniejących, a w przypadku akcji niemających wartości nominalnej – ich liczbę i cenę emisyjną;”;
-- **5)** w art. 169 ust. 3 i 4 otrzymują brzmienie: „3. Jeżeli układ przewiduje konwersję wierzytelności na udziały lub akcje, prawomocnie zatwierdzony układ zastępuje określone w ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505, 1543 i 1655) czynności związane z podwyższeniem kapitału zakładowego spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej, emisją akcji prostej spółki akcyjnej, przystąpieniem do spółki, objęciem udziałów lub akcji oraz wniesieniem wkładu.
-
-4. Odpis prawomocnego postanowienia o zatwierdzeniu układu stanowi podstawę wpisu podwyższenia kapitału zakładowego spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej albo wpisu zmiany liczby akcji prostej spółki akcyjnej do Krajowego Rejestru Sądowego.”.
+- **4)** w art. 156 w ust. 5 pkt 1 i 2 otrzymują brzmienie: „1) sumę, o jaką kapitał zakładowy ma zostać podwyższony, a w przypadku prostej spółki akcyjnej – liczbę akcji, które mają zostać wyemitowane; 2) liczbę oraz wartość nominalną nowo ustanowionych udziałów lub akcji lub też wartość, o którą następuje podwyższenie wartości nominalnej udziałów lub akcji już istniejących, a w przypadku akcji niemających wartości nominalnej – ich liczbę i cenę emisyjną;”;
+- **5)** w art. 169 ust. 3 i 4 otrzymują brzmienie: „3. Jeżeli układ przewiduje konwersję wierzytelności na udziały lub akcje, prawomocnie zatwierdzony układ zastępuje określone w ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505, 1543 i 1655) czynności związane z podwyższeniem kapitału zakładowego spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej, emisją akcji prostej spółki akcyjnej, przystąpieniem do spółki, objęciem udziałów lub akcji oraz wniesieniem wkładu. 4. Odpis prawomocnego postanowienia o zatwierdzeniu układu stanowi podstawę wpisu podwyższenia kapitału zakładowego spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej albo wpisu zmiany liczby akcji prostej spółki akcyjnej do Krajowego Rejestru Sądowego.”.
 
 **Art. 26.** W ustawie z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji (Dz. U. z 2017 r. poz. 1857 oraz z 2019 r. poz. 492) w art. 3:
 
-- **1)** ust. 3 i 4 otrzymują brzmienie: „3. Przez nabycie dominacji rozumie się osiągnięcie albo przekroczenie 50% ogólnej liczby głosów w organie stanowiącym podmiotu podlegającego ochronie, w szczególności na walnym zgromadzeniu albo zgromadzeniu wspólników, lub udziału w kapitale zakładowym, a w przypadku prostej spółki akcyjnej – ogólnej liczby akcji tej spółki, przez nabycie udziałów albo akcji lub praw z udziałów albo akcji albo objęcie udziałów albo akcji.
-
-4. Przez nabycie lub osiągnięcie istotnego uczestnictwa rozumie się nabycie udziałów albo akcji lub praw z udziałów albo akcji albo objęcie udziałów albo akcji, w liczbie zapewniającej osiągnięcie albo przekroczenie odpowiednio 20%, 25%, 33% ogólnej liczby głosów na walnym zgromadzeniu albo zgromadzeniu wspólników lub udziału w kapitale zakładowym, a w przypadku prostej spółki akcyjnej – ogólnej liczby akcji tej spółki, uzyskanie istotnego uczestnictwa z upływem okresu, o którym mowa w ust. 1 pkt 4 lit. a, jak również nabycie od podmiotu podlegającego ochronie przedsiębiorstwa lub jego zorganizowanej części.”;
-
+- **1)** ust. 3 i 4 otrzymują brzmienie: „3. Przez nabycie dominacji rozumie się osiągnięcie albo przekroczenie 50% ogólnej liczby głosów w organie stanowiącym podmiotu podlegającego ochronie, w szczególności na walnym zgromadzeniu albo zgromadzeniu wspólników, lub udziału w kapitale zakładowym, a w przypadku prostej spółki akcyjnej – ogólnej liczby akcji tej spółki, przez nabycie udziałów albo akcji lub praw z udziałów albo akcji albo objęcie udziałów albo akcji. 4. Przez nabycie lub osiągnięcie istotnego uczestnictwa rozumie się nabycie udziałów albo akcji lub praw z udziałów albo akcji albo objęcie udziałów albo akcji, w liczbie zapewniającej osiągnięcie albo przekroczenie odpowiednio 20%, 25%, 33% ogólnej liczby głosów na walnym zgromadzeniu albo zgromadzeniu wspólników lub udziału w kapitale zakładowym, a w przypadku prostej spółki akcyjnej – ogólnej liczby akcji tej spółki, uzyskanie istotnego uczestnictwa z upływem okresu, o którym mowa w ust. 1 pkt 4 lit. a, jak również nabycie od podmiotu podlegającego ochronie przedsiębiorstwa lub jego zorganizowanej części.”;
 - **2)** w ust. 6 zdanie pierwsze otrzymuje brzmienie: „Przez nabycie pośrednie rozumie się również przypadki, gdy wskutek transakcji niewymienionej w ust. 3–5 podmiot uzyska status podmiotu dominującego wobec podmiotu posiadającego co najmniej 20% ogólnej liczby głosów na walnym zgromadzeniu albo zgromadzeniu wspólników lub udziału w kapitale zakładowym spółki, a w przypadku prostej spółki akcyjnej – ogólnej liczby akcji tej spółki, będącej podmiotem podlegającym ochronie albo będącego podmiotem dominującym wobec spółki będącej podmiotem podlegającym ochronie bądź posiadającego w niej istotne uczestnictwo, albo wobec podmiotu mającego tytuł prawny do przedsiębiorstwa takiej spółki albo jego zorganizowanej części.”;
 - **3)** w ust. 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „Przez nabycie lub osiągnięcie istotnego uczestnictwa albo nabycie dominacji, o którym mowa w ust. 3, rozumie się również przypadki, gdy podmiot posiadać będzie udziały albo akcje lub prawa z udziałów albo akcji spółki, będącej podmiotem podlegającym ochronie, w tym również w przypadkach określonych w ust. 5, w liczbie zapewniającej osiągnięcie albo przekroczenie odpowiednio 20%, 25%, 33%, 50% ogólnej liczby głosów na walnym zgromadzeniu albo zgromadzeniu wspólników lub udziału w kapitale zakładowym, a w przypadku prostej spółki akcyjnej – w ogólnej liczbie akcji tej spółki, albo będzie podmiotem dominującym wobec spółki będącej podmiotem podlegającym ochronie, bądź nabędzie istotne uczestnictwo, w przypadku:”.
 
@@ -1465,8 +1319,7 @@ source: pdf
 - **3)** w art. 9a w ust. 1 pkt 2 otrzymuje brzmienie: „2) zwiększenia swojego udziału w kapitale zakładowym spółki, a w przypadku prostej spółki akcyjnej – w ogólnej liczbie akcji;”;
 - **4)** (uchylony)
 - **5)** art. 10 otrzymuje brzmienie: „Art. 10. Do akcji należących do Skarbu Państwa nie stosuje się przepisów art. 199, art. 300 i art. 359, w zakresie dotyczącym umorzenia przymusowego, a także art. 300 oraz art. 418 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.”;
-- **6)** w art. 11 w ust. 3 pkt 1 i 2 otrzymują brzmienie: „1) wniesienia akcji należących do Skarbu Państwa do spółki, której akcjonariuszami są wyłącznie Skarb Państwa lub inne państwowe osoby prawne, lub do spółki, o której mowa w art. 13 ust. 1, w zamian za objęcie akcji w podwyższonym kapitale zakładowym tej spółki, a w przypadku prostej spółki akcyjnej – w zamian za objęcie nowych akcji tej spółki;
-- **2)** zbycia akcji lub praw z akcji spółek, w których Skarb Państwa posiada nie więcej niż 20% kapitału zakładowego, a w przypadku prostej spółki akcyjnej – nie więcej niż 20% ogólnej liczby akcji, chyba że ich wartość rynkowa przekracza 10 000 000 złotych;”;
+- **6)** w art. 11 w ust. 3 pkt 1 i 2 otrzymują brzmienie: „1) wniesienia akcji należących do Skarbu Państwa do spółki, której akcjonariuszami są wyłącznie Skarb Państwa lub inne państwowe osoby prawne, lub do spółki, o której mowa w art. 13 ust. 1, w zamian za objęcie akcji w podwyższonym kapitale zakładowym tej spółki, a w przypadku prostej spółki akcyjnej – w zamian za objęcie nowych akcji tej spółki; 2) zbycia akcji lub praw z akcji spółek, w których Skarb Państwa posiada nie więcej niż 20% kapitału zakładowego, a w przypadku prostej spółki akcyjnej – nie więcej niż 20% ogólnej liczby akcji, chyba że ich wartość rynkowa przekracza 10 000 000 złotych;”;
 - **7)** (uchylony)
 
 **Art. 31.** W ustawie z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń (Dz. U. z 2018 r. poz. 2210 i 2243) wprowadza się następujące zmiany:
@@ -1476,9 +1329,9 @@ source: pdf
 
 **Art. 32.** W ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2019 r. poz. 1115 i 1520) wprowadza się następujące zmiany:
 
-- **1)** w art. 2: z 2019 r. poz. 540, 730, 1495 i 1655);”, poz. 505, 1543, 1655, 1798 i 2217 oraz z 2020 r. poz. 288), przez klienta instytucji obowiązanej rozumie się wyłącznie akcjonariusza, zastawnika lub użytkownika akcji podlegającego wpisowi do tego rejestru w związku z transakcją stanowiącą podstawę dokonania wpisu;”;
-    - **a)** w ust. 1 po pkt 13 dodaje się pkt 13a w brzmieniu: „13a) notariusze w zakresie czynności, o których mowa w art. 79 pkt 6a ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U.
-    - **b)** w ust. 2 pkt 10 otrzymuje brzmienie: „10) kliencie – rozumie się przez to osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której instytucja obowiązana świadczy usługi lub dla której wykonuje czynności wchodzące w zakres prowadzonej przez nią działalności zawodowej, w tym z którą instytucja obowiązana nawiązuje stosunki gospodarcze, lub na zlecenie której przeprowadza transakcję okazjonalną, przy czym w przypadku umowy ubezpieczenia przez klienta instytucji obowiązanej rozumie się ubezpieczającego, a w przypadku umowy o prowadzenie rejestru akcjonariuszy, o której mowa w art. 300 i art. 328 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r.
+- **1)** w art. 2:
+    - **a)** w ust. 1 po pkt 13 dodaje się pkt 13a w brzmieniu: „13a) notariusze w zakresie czynności, o których mowa w art. 79 pkt 6a ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2019 r. poz. 540, 730, 1495 i 1655);”,
+    - **b)** w ust. 2 pkt 10 otrzymuje brzmienie: „10) kliencie – rozumie się przez to osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której instytucja obowiązana świadczy usługi lub dla której wykonuje czynności wchodzące w zakres prowadzonej przez nią działalności zawodowej, w tym z którą instytucja obowiązana nawiązuje stosunki gospodarcze, lub na zlecenie której przeprowadza transakcję okazjonalną, przy czym w przypadku umowy ubezpieczenia przez klienta instytucji obowiązanej rozumie się ubezpieczającego, a w przypadku umowy o prowadzenie rejestru akcjonariuszy, o której mowa w art. 300 i art. 328 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2019 r. poz. 505, 1543, 1655, 1798 i 2217 oraz z 2020 r. poz. 288), przez klienta instytucji obowiązanej rozumie się wyłącznie akcjonariusza, zastawnika lub użytkownika akcji podlegającego wpisowi do tego rejestru w związku z transakcją stanowiącą podstawę dokonania wpisu;”;
 
 - **2)** w art. 58 po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) proste spółki akcyjne;”.
 

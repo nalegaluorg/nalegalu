@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001897) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1897/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wzoru kwartalnego sprawozdania o wysokości uiszczonej wpłaty na fundusz likwidacyjny Na podstawie art. 38d ust. 9 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2019 r. poz. 1792) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 27 grudnia 2011 r. w sprawie wzoru kwartalnego sprawozdania o wysokości uiszczonej wpłaty na fundusz likwidacyjny (Dz. U. z 2012 r. poz. 43) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki WZÓR KWARTALNE SPRAWOZDANIE o wysokości wpłaty na fundusz likwidacyjny uiszczonej za … kwartał … roku Wyprodukowana w ciągu … kwartału … roku energia elektryczna (MWh) Wysokość wpłaty Data wpłaty
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 27 grudnia 2011 r. w sprawie wzoru kwartalnego sprawozdania o wysokości uiszczonej wpłaty na fundusz likwidacyjny (Dz. U. z 2012 r. poz. 43) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

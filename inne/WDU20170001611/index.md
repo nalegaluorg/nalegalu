@@ -8,10 +8,10 @@ pos: 1611
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# 1611 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ dnia 11 sierpnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1611 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 11 sierpnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,11 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001611) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1611/text.pdf) |
 
-sprawie wymagań wobec szkół placówek Na podstawie art. 44 ust. 3 ustawy dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. 2017 r. poz. 59 949) zarządza się, co następuje: § 1. Rozporządzenie określa, odniesieniu do różnych typów szkół rodzajów placówek, wymagania wobec publicznych szkół placówek dotyczące realizacji niezbędnych działań, których mowa art. 44 ust. 1 ustawy dnia 14 grudnia 2016 r. Prawo oświatowe.
-§ 2. Wymagania, których mowa § 1, stanowią załącznik do rozporządzenia.
-§ 3. Rozporządzenie wchodzi życie dniem 1 września 2017 r.
-Minister Edukacji Narodowej: wz. M. Kopeć W M W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W M W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W M W M M M W W W W W W W W W W M W W W W W W M W W W W W W W W W W W W W W W W W W W W W W W M W W W W W W W W M W W W W W W W W W W W W W W W W
+w sprawie wymagań wobec szkół i placówek Na podstawie art. 44 ust. 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59 i 949) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa, w odniesieniu do różnych typów szkół i rodzajów placówek, wymagania wobec publicznych szkół i placówek dotyczące realizacji niezbędnych działań, o których mowa w art. 44 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe.
+
+**§ 2.** Wymagania, o których mowa w § 1, stanowią załącznik do rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. Minister Edukacji Narodowej: wz. M. Kopeć …… M W W W M W W M W W W W W W W W W W W W W W W W W W W W W W W W W W M W W W W W W W W W W W W W W W W W W W W W W W W M W W W W W W W W W W M W W W M W M M W W W W W M W W W W W W W W W M W W W W W W W W W W W W W M W W W W W W W M W W W W W W M W W W W W W W W W W W W W W W W M W W W W W W W W W W W W W W M W W W W W W W W W
 

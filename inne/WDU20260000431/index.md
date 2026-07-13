@@ -28,8 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie minimalnej ilości materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych Na podstawie art. 40d ust. 6 pkt 2 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2023 r.
 poz. 1502) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 22 maja 2013 r. w sprawie minimalnej ilości materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych (Dz. U. z 2015 r.
-poz. 1799 oraz z 2022 r. poz. 999) w § 1 pkt 17 otrzymuje brzmienie: „17) soi – 100 kg;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 22 maja 2013 r. w sprawie minimalnej ilości materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych (Dz. U. z 2015 r. poz. 1799 oraz z 2022 r. poz. 999) w § 1 pkt 17 otrzymuje brzmienie: „17) soi – 100 kg;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
 

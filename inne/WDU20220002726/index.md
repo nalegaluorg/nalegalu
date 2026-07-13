@@ -26,9 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002726) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2726/text.pdf) |
 
 zmieniające rozporządzenie w sprawie opłat za czynności adwokackie Na podstawie art. 16 ust. 2 i 3 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 22 października 2015 r. w sprawie opłat za czynności adwokackie (Dz. U. poz. 1800, z 2016 r. poz. 1668, z 2017 r. poz. 1797 oraz z 2022 r. poz. 1813) w § 14 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Stawki minimalne wynoszą w postępowaniu przed Sądem Okręgowym w Warszawie – sądem zamówień publicznych w sprawach:
-1) ze skargi na wyrok Krajowej Izby Odwoławczej – 3600 zł;
-2) ze skargi na postanowienie Prezesa Krajowej Izby Odwoławczej o zwrocie odwołania oraz ze skargi na inne orzeczenia Krajowej Izby Odwoławczej, w tym na postanowienie w przedmiocie kosztów postępowania odwoławczego zawarte w wyroku Krajowej Izby Odwoławczej, jeśli strona nie skarży rozstrzygnięcia merytorycznego – 900 zł.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 22 października 2015 r. w sprawie opłat za czynności adwokackie (Dz. U. poz. 1800, z 2016 r. poz. 1668, z 2017 r. poz. 1797 oraz z 2022 r. poz. 1813) w § 14 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Stawki minimalne wynoszą w postępowaniu przed Sądem Okręgowym w Warszawie – sądem zamówień publicznych w sprawach: 1) ze skargi na wyrok Krajowej Izby Odwoławczej – 3600 zł; 2) ze skargi na postanowienie Prezesa Krajowej Izby Odwoławczej o zwrocie odwołania oraz ze skargi na inne orzeczenia Krajowej Izby Odwoławczej, w tym na postanowienie w przedmiocie kosztów postępowania odwoławczego zawarte w wyroku Krajowej Izby Odwoławczej, jeśli strona nie skarży rozstrzygnięcia merytorycznego – 900 zł.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

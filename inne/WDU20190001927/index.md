@@ -27,11 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych Na podstawie art. 20 pkt 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2019 r.
 poz. 52, 55, 60, 125, 1469 i 1495) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych (Dz. U. poz. 1396, z późn. zm. ) w § 1 wprowadza się następujące zmiany:
-1) w pkt 7 uchyla się lit. b i c;
-2) po pkt 29 dodaje się pkt 29a w brzmieniu: „29a) w obszarze właściwości Sądu Okręgowego w Rybniku:
-a) Sądowi Rejonowemu w Jastrzębiu-Zdroju sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Wodzisławiu Śląskim,
-b) Sądowi Rejonowemu w Rybniku sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Raciborzu i Żorach oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Jastrzębiu-Zdroju, Raciborzu, Wodzisławiu Śląskim i Żorach;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych (Dz. U. poz. 1396, z późn. zm. ) w § 1 wprowadza się następujące zmiany:
+
+- **1)** w pkt 7 uchyla się lit. b i c;
+- **2)** po pkt 29 dodaje się pkt 29a w brzmieniu: „29a) w obszarze właściwości Sądu Okręgowego w Rybniku: a) Sądowi Rejonowemu w Jastrzębiu-Zdroju sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Wodzisławiu Śląskim, b) Sądowi Rejonowemu w Rybniku sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Raciborzu i Żorach oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Jastrzębiu-Zdroju, Raciborzu, Wodzisławiu Śląskim i Żorach;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r. Minister Sprawiedliwości: Z. Ziobro
 

@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# o uchyleniu ustawy o zasadach udziału młodzieży w życiu państwowym, społecznym, Traci moc ustaw z dnia 22 maja 1986 r. o zasadach udziału młodzieży w życiu państwowym, społecznym, gospodarczym i kulturalnym kraju (Dz.U. Nr 21, poz. 108), z tym że do czasu odrębnego uregulowania pozostają w mocy akty wykonawcze wydane na podstawie art. 9 ust.
+# Ustawa z dnia 21 czerwca 1990 r. o uchyleniu ustawy o zasadach udziału młodzieży w życiu państwowym, społecznym, gospodarczym i kulturalnym kraju.
 
 | Pole | Wartość |
 |---|---|

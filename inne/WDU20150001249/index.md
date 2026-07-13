@@ -8,10 +8,10 @@ pos: 1249
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Poz.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1249 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 18 sierpnia 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,51 +25,112 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001249) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1249/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ 18 sierpnia 2015 sprawie zakresu form prowadzenia szkołach placówkach systemu oświaty działalności wychowawczej, edukacyjnej, informacyjnej profilaktycznej celu przeciwdziałania narkomanii Na podstawie art. 22 3 29 lipca 2005 przeciwdziałaniu narkomanii 2012 124 2015 28 875) zarządza się, co następuje: § 1. 1. Szkoły placówki prowadzą systematyczną działalność wychowawczą, edukacyjną, informacyjną profilaktyczną wśród uczniów ich rodziców lub opiekunów nauczycieli, wychowawców innych pracowników szkoły placówki celu przeciwdziałania narkomanii.
-2. Działalność, której 1, obejmuje działania uprzedzające mające na celu przeciwdziałanie pojawianiu się zachowań ryzykownych związanych używaniem środków odurzających, substancji psychotropowych, środków zastępczych, nowych substancji psychoaktywnych przez uczniów charakteryzujących się nieprzestrzeganiem przyjętych dla danego wieku zwyczajowych norm wymagań, niosących ryzyko negatywnych konsekwencji dla zdrowia fizycznego psychicznego ucznia lub wychowanka jego otoczenia społecznego.
-§ 2. 1. Działalność wychowawcza szkole placówce polega na prowadzeniu działań zakresu promocji zdrowia wspomaganiu ucznia wychowanka jego rozwoju ukierunkowanym na osiągnięcie pełnej dojrzałości sferze:
-1) fizycznej – ukierunkowanej na zdobycie przez ucznia wychowanka wiedzy umiejętności pozwalających na prowadzenie zdrowego stylu życia podejmowania zachowań prozdrowotnych;
-2) psychicznej – ukierunkowanej na zbudowanie równowagi harmonii psychicznej, ukształtowanie postaw sprzyjających wzmacnianiu zdrowia własnego innych ludzi, kształtowanie środowiska sprzyjającego rozwojowi zdrowia, osiągnięcie właściwego stosunku do świata, poczucia siły, chęci do życia witalności;
-3) społecznej – ukierunkowanej na kształtowanie postawy otwartości życiu społecznym, opartej na umiejętności samodzielnej analizy wzorów norm społecznych ćwiczeniu umiejętności wypełniania ról społecznych;
-4) aksjologicznej – ukierunkowanej na zdobycie konstruktywnego stabilnego systemu wartości, tym docenienie znaczenia zdrowia poczucia sensu istnienia.
-2. Działalność wychowawcza obejmuje szczególności:
-1) współpracę rodzicami lub opiekunami uczniów wychowanków celu budowania postawy prozdrowotnej zdrowego stylu życia;
-2) kształtowanie hierarchii systemu wartości, którym zdrowie należy do jednych najważniejszych wartości życiu;
-3) wzmacnianie wśród uczniów wychowanków więzi ze szkołą lub placówką społecznością lokalną;
-4) kształtowanie przyjaznego klimatu szkole lub placówce, budowanie prawidłowych relacji rówieśniczych § 3. 1. Działalność edukacyjna szkole placówce polega na stałym poszerzaniu ugruntowywaniu wiedzy umiejętności u uczniów ich rodziców lub opiekunów, nauczycieli wychowawców zakresu promocji zdrowia zdrowego stylu życia.
-2. Działalność edukacyjna obejmuje szczególności:
-1) poszerzenie wiedzy rodziców lub opiekunów, nauczycieli wychowawców na temat prawidłowości rozwoju zaburzeń zdrowia psychicznego dzieci młodzieży, rozpoznawania wczesnych objawów używania środków substancji, których § 1 2, a także suplementów diet leków celach innych niż medyczne postępowania tego typu przypadkach;
-2) rozwijanie wzmacnianie umiejętności psychologicznych społecznych uczniów wychowanków;
-3) kształtowanie u uczniów wychowanków umiejętności życiowych, szczególności samokontroli, radzenia sobie ze stresem, rozpoznawania wyrażania własnych emocji;
-4) kształtowanie krytycznego myślenia wspomaganie uczniów wychowanków konstruktywnym podejmowaniu decyzji sytuacjach trudnych, zagrażających prawidłowemu rozwojowi zdrowemu życiu;
-5) prowadzenie wewnątrzszkolnego doskonalenia kompetencji nauczycieli wychowawców zakresie rozpoznawania wczesnych objawów używania środków substancji, których § 1 2, podejmowania szkolnej interwencji profilaktycznej;
-6) doskonalenie kompetencji nauczycieli wychowawców zakresie profilaktyki używania środków substancji, których § 1 2, norm rozwojowych zaburzeń zdrowia psychicznego wieku rozwojowego.
-§ 4. 1. Działalność informacyjna szkole placówce polega na dostarczaniu rzetelnych aktualnych informacji, dostosowanych do wieku możliwości psychofizycznych odbiorców, na temat zagrożeń rozwiązywania problemów związanych używaniem środków substancji, których § 1 2, skierowanych do uczniów wychowanków ich rodziców lub opiekunów, a także nauczycieli wychowawców innych pracowników szkoły lub placówki.
-2. Działalność informacyjna obejmuje szczególności:
-1) dostarczenie aktualnych informacji nauczycielom, wychowawcom rodzicom lub opiekunom na temat skutecznych sposobów prowadzenia działań wychowawczych profilaktycznych związanych przeciwdziałaniem używaniu środków substancji, których § 1 2;
-2) udostępnienie informacji ofercie pomocy specjalistycznej dla uczniów ich rodziców lub opiekunów przypadku używania środków substancji, których § 1 2;
-3) przekazanie informacji uczniom wychowankom, ich rodzicom lub opiekunom nauczycielom wychowawcom na temat konsekwencji prawnych związanych naruszeniem przepisów 29 lipca 2005 przeciwdziałaniu narkomanii, zwanej dalej „ustawą”;
-4) informowanie uczniów wychowanków ich rodziców lub opiekunów obowiązujących procedurach postępowania nauczycieli wychowawców metodach współpracy szkół placówek Policją sytuacjach zagrożenia narkomanią.
-kownych;
-3) przypadku profilaktyki wskazującej – wspieranie uczniów u których rozpoznano wczesne objawy używania środków substancji, których § 1 2, lub występowania innych zachowań ryzykownych, które nie zostały zdiagnozowane jako zaburzenia lub choroby wymagające leczenia.
-3. Działania profilaktyczne szkołach placówkach ramach działalności, której 1, obejmują szczególności:
-1) realizowanie wśród uczniów wychowanków ich rodziców lub opiekunów programów profilaktycznych promocji zdrowia psychicznego dostosowanych do potrzeb indywidualnych grupowych realizowanych celów profilaktycznych, rekomendowanych ramach systemu rekomendacji, którym Krajowym Programie Przeciwdziałania Narkomanii określonym przepisach wydanych na podstawie art. 7 5 ustawy;
-2) przygotowanie oferty zajęć rozwijających zainteresowania uzdolnienia, jako alternatywnej pozytywnej formy działalności zaspakajającej ważne potrzeby, szczególności potrzebę podniesienia samooceny, sukcesu, przynależności satysfakcji życiowej;
-3) kształtowanie wzmacnianie norm przeciwnych używaniu środków substancji, których § 1 2, przez uczniów a także norm przeciwnych podejmowaniu innych zachowań ryzykownych;
-4) doskonalenie zawodowe nauczycieli wychowawców zakresie realizacji szkolnej interwencji profilaktycznej przypadku podejmowania przez uczniów wychowanków zachowań ryzykownych;
-5) włączanie, razie potrzeby, indywidualny program edukacyjno-terapeutyczny, którym art. 71b 1b systemie oświaty, działań zakresu przeciwdziałania używaniu środków substancji, których § 1
-2.
-§ 6. 1. Szkoła placówka, przy prowadzeniu działalności, której odpowiednio § 2–5, współpracuje jednostkami samorządu terytorialnego, poradniami psychologiczno-pedagogicznymi, tym poradniami specjalistycznymi, placówkami doskonalenia nauczycieli, podmiotami realizującymi świadczenia zdrowotne zakresu podstawowej opieki zdrowotnej, opieki psychiatrycznej leczenia uzależnień, wojewódzkimi powiatowymi stacjami sanitarno-epidemiologicznymi, Policją, pracodawcami, a także podmiotami, których art. 5 3 ustawy, podmiotami, których art. 2a systemie oświaty, szczególności przy opracowaniu diagnozy zakresie występujących środowisku szkolnym czynników chroniących czynników ryzyka, których odpowiednio 3 4, dotyczącej uczniów lub rodziców lub opiekunów, nauczycieli, wychowawców innych pracowników szkoły lub placówki.
-2. Podstawę do podejmowania działalności, której odpowiednio § 2–5, stanowi opracowywana każdym roku szkolnym diagnoza, której 1.
-3. Przez czynniki chroniące należy rozumieć indywidualne cechy zachowania uczniów lub cechy środowiska społecznego efekty ich wzajemnego oddziaływania, których występowanie wzmacnia ogólny potencjał zdrowotny ucznia lub wychowanka zwiększa jego odporność na działanie czynników ryzyka, których 4.
-4. Przez czynniki ryzyka należy rozumieć indywidualne cechy zachowania uczniów lub cechy środowiska społecznego efekty ich wzajemnego oddziaływania, które wiążą się wysokim prawdopodobieństwem wystąpienia zachowań ryzykownych stanowiących zagrożenie dla ich prawidłowego rozwoju, zdrowia, bezpieczeństwa lub funkcjonowania społecznego.
-nych tych przepisach.
-3. Działalność, której § 1, realizowana ramach zajęć, których 1 2, może odbywać się oddziale, grupie oddziałowej, międzyoddziałowej lub międzyklasowej, udziałem całej społeczności szkolnej lub trakcie bieżącej pracy uczniem.
-4. Działalność, której § 1, realizowana ramach zajęć, których 1, może odbywać się szczególności formie interaktywnych wykładów, warsztatów, treningów umiejętności, projektów, debat, szkoleń, spektakli teatralnych, spotów, kampanii społecznych, happeningów, pikników edukacyjnych lub innych formach uwzględniających wykorzystanie aktywnych metod pracy.
-5. Działalność, której § 1, może odbywać się także ramach realizacji programów, których § 5 3 pkt 1, formach wskazanych tych programach.
-6. Działalność, której § 1, powinna być realizowana uwzględnieniem form działań określonych gminnym programie przeciwdziałania narkomanii, którym art. 10 2 ustawy, Krajowym Programie Przeciwdziałania Narkomanii określonym przepisach wydanych na podstawie art. 7 5 ustawy.
-7. W działalności, której § 1, mogą brać udział rodzice, opiekunowie, specjaliści przedstawiciele jednostek samorządu terytorialnego, poradni psychologiczno-pedagogicznych, tym poradni specjalistycznych, placówek doskonalenia nauczycieli, podmiotów realizujących świadczenia zdrowotne zakresu podstawowej opieki zdrowotnej, opieki psychiatrycznej leczenia uzależnień, wojewódzkich powiatowych stacji sanitarno-epidemiologicznych, Policji, pracodawców, podmiotów, których art. 5 3 ustawy, podmiotów, których art. 2a systemie oświaty.
-8. W oparciu diagnozę, której § 6 1, nauczyciel lub wychowawca uzgodnieniu dyrektorem szkoły lub placówki wybiera formę, której realizuje działalność, której § 1, uwzględniając wykorzystanie aktywnych metod pracy.
-§ 8. Szkoły placówki dostosują, terminie 6 miesięcy od wejścia życie rozporządzenia, program wychowawczy program profilaktyki, których art. 54 2 pkt 1 systemie oświaty, do przepisów rozporządzenia.
-§ 9. Rozporządzenie wchodzi życie dniem 1 września 2015 Minister Edukacji Narodowej: wz. T. Sławecki
+w sprawie zakresu i form prowadzenia w szkołach i placówkach systemu oświaty działalności wychowawczej, edukacyjnej, informacyjnej i profilaktycznej w celu przeciwdziałania narkomanii Na podstawie art. 22 ust. 3 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2012 r. poz. 124 oraz z 2015 r. poz. 28 i 875) zarządza się, co następuje:
+
+**§ 1.**
+
+1. Szkoły i placówki prowadzą systematyczną działalność wychowawczą, edukacyjną, informacyjną i profilaktyczną wśród uczniów i wychowanków, ich rodziców lub opiekunów oraz nauczycieli, wychowawców i innych pracowników szkoły i placówki w celu przeciwdziałania narkomanii.
+
+2. Działalność, o której mowa w ust. 1, obejmuje działania uprzedzające mające na celu przeciwdziałanie pojawianiu się zachowań ryzykownych związanych z używaniem środków odurzających, substancji psychotropowych, środków zastępczych, nowych substancji psychoaktywnych przez uczniów i wychowanków, charakteryzujących się nieprzestrzeganiem przyjętych dla danego wieku zwyczajowych norm i wymagań, niosących ryzyko negatywnych konsekwencji dla zdrowia fizycznego i psychicznego ucznia lub wychowanka oraz jego otoczenia społecznego.
+
+**§ 2.**
+
+1. Działalność wychowawcza w szkole i placówce polega na prowadzeniu działań z zakresu promocji zdrowia oraz wspomaganiu ucznia i wychowanka w jego rozwoju ukierunkowanym na osiągnięcie pełnej dojrzałości w sferze:
+
+- **1)** fizycznej – ukierunkowanej na zdobycie przez ucznia i wychowanka wiedzy i umiejętności pozwalających na prowadzenie zdrowego stylu życia i podejmowania zachowań prozdrowotnych;
+- **2)** psychicznej – ukierunkowanej na zbudowanie równowagi i harmonii psychicznej, ukształtowanie postaw sprzyjających wzmacnianiu zdrowia własnego i innych ludzi, kształtowanie środowiska sprzyjającego rozwojowi zdrowia, osiągnięcie właściwego stosunku do świata, poczucia siły, chęci do życia i witalności;
+- **3)** społecznej – ukierunkowanej na kształtowanie postawy otwartości w życiu społecznym, opartej na umiejętności samodzielnej analizy wzorów i norm społecznych oraz ćwiczeniu umiejętności wypełniania ról społecznych;
+- **4)** aksjologicznej – ukierunkowanej na zdobycie konstruktywnego i stabilnego systemu wartości, w tym docenienie znaczenia zdrowia oraz poczucia sensu istnienia.
+
+2. Działalność wychowawcza obejmuje w szczególności:
+
+- **1)** współpracę z rodzicami lub opiekunami uczniów i wychowanków w celu budowania postawy prozdrowotnej i zdrowego stylu życia;
+- **2)** kształtowanie hierarchii systemu wartości, w którym zdrowie należy do jednych z najważniejszych wartości w życiu;
+- **3)** wzmacnianie wśród uczniów i wychowanków więzi ze szkołą lub placówką oraz społecznością lokalną;
+- **4)** kształtowanie przyjaznego klimatu w szkole lub placówce, budowanie prawidłowych relacji rówieśniczych oraz relacji uczniów i nauczycieli, wychowanków i wychowawców, a także nauczycieli, wychowawców i rodziców lub opiekunów, w tym wzmacnianie więzi z rówieśnikami oraz nauczycielami i wychowawcami;
+- **5)** doskonalenie umiejętności nauczycieli i wychowawców w zakresie budowania podmiotowych relacji z uczniami, wychowankami oraz ich rodzicami lub opiekunami oraz warsztatowej pracy z grupą uczniów lub wychowanków;
+- **6)** wzmacnianie kompetencji wychowawczych nauczycieli i wychowawców oraz rodziców lub opiekunów;
+- **7)** rozwijanie i wspieranie działalności wolontarystycznej oraz zaangażowania w działalność podmiotów, o których mowa w art. 2a ust. 1 oraz art. 56 ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ), zwanej dalej „ustawą o systemie oświaty”;
+- **8)** wspieranie edukacji rówieśniczej i programów rówieśniczych mających na celu modelowanie postaw prozdrowotnych i prospołecznych.
+
+**§ 3.**
+
+1. Działalność edukacyjna w szkole i placówce polega na stałym poszerzaniu i ugruntowywaniu wiedzy i umiejętności u uczniów i wychowanków, ich rodziców lub opiekunów, nauczycieli i wychowawców z zakresu promocji zdrowia i zdrowego stylu życia.
+
+2. Działalność edukacyjna obejmuje w szczególności:
+
+- **1)** poszerzenie wiedzy rodziców lub opiekunów, nauczycieli i wychowawców na temat prawidłowości rozwoju i zaburzeń zdrowia psychicznego dzieci i młodzieży, rozpoznawania wczesnych objawów używania środków i substancji, o których mowa w § 1 ust. 2, a także suplementów diet i leków w celach innych niż medyczne oraz postępowania w tego typu przypadkach;
+- **2)** rozwijanie i wzmacnianie umiejętności psychologicznych i społecznych uczniów i wychowanków;
+- **3)** kształtowanie u uczniów i wychowanków umiejętności życiowych, w szczególności samokontroli, radzenia sobie ze stresem, rozpoznawania i wyrażania własnych emocji;
+- **4)** kształtowanie krytycznego myślenia i wspomaganie uczniów i wychowanków w konstruktywnym podejmowaniu decyzji w sytuacjach trudnych, zagrażających prawidłowemu rozwojowi i zdrowemu życiu;
+- **5)** prowadzenie wewnątrzszkolnego doskonalenia kompetencji nauczycieli i wychowawców w zakresie rozpoznawania wczesnych objawów używania środków i substancji, o których mowa w § 1 ust. 2, oraz podejmowania szkolnej interwencji profilaktycznej;
+- **6)** doskonalenie kompetencji nauczycieli i wychowawców w zakresie profilaktyki używania środków i substancji, o których mowa w § 1 ust. 2, norm rozwojowych i zaburzeń zdrowia psychicznego wieku rozwojowego.
+
+**§ 4.**
+
+1. Działalność informacyjna w szkole i placówce polega na dostarczaniu rzetelnych i aktualnych informacji, dostosowanych do wieku oraz możliwości psychofizycznych odbiorców, na temat zagrożeń i rozwiązywania problemów związanych z używaniem środków i substancji, o których mowa w § 1 ust. 2, skierowanych do uczniów i wychowanków oraz ich rodziców lub opiekunów, a także nauczycieli i wychowawców oraz innych pracowników szkoły lub placówki.
+
+2. Działalność informacyjna obejmuje w szczególności:
+
+- **1)** dostarczenie aktualnych informacji nauczycielom, wychowawcom i rodzicom lub opiekunom na temat skutecznych sposobów prowadzenia działań wychowawczych i profilaktycznych związanych z przeciwdziałaniem używaniu środków i substancji, o których mowa w § 1 ust. 2;
+- **2)** udostępnienie informacji o ofercie pomocy specjalistycznej dla uczniów i wychowanków, ich rodziców lub opiekunów w przypadku używania środków i substancji, o których mowa w § 1 ust. 2;
+- **3)** przekazanie informacji uczniom i wychowankom, ich rodzicom lub opiekunom oraz nauczycielom i wychowawcom na temat konsekwencji prawnych związanych z naruszeniem przepisów ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, zwanej dalej „ustawą”;
+- **4)** informowanie uczniów i wychowanków oraz ich rodziców lub opiekunów o obowiązujących procedurach postępowania nauczycieli i wychowawców oraz o metodach współpracy szkół i placówek z Policją w sytuacjach zagrożenia narkomanią.
+
+**§ 5.**
+
+1. Działalność profilaktyczna w szkole i placówce polega na realizowaniu działań z zakresu profilaktyki uniwersalnej, selektywnej i wskazującej.
+
+2. Działalność profilaktyczna obejmuje:
+
+- **1)** w przypadku profilaktyki uniwersalnej – wspieranie wszystkich uczniów i wychowanków w prawidłowym rozwoju i zdrowym stylu życia oraz podejmowanie działań, których celem jest ograniczanie zachowań ryzykownych niezależnie od poziomu ryzyka używania przez nich środków i substancji, o których mowa w § 1 ust. 2;
+- **2)** w przypadku profilaktyki selektywnej – wspieranie uczniów i wychowanków, którzy ze względu na swoją sytuację rodzinną, środowiskową lub uwarunkowania biologiczne są w wyższym stopniu narażeni na rozwój zachowań ryzykownych;
+- **3)** w przypadku profilaktyki wskazującej – wspieranie uczniów i wychowanków, u których rozpoznano wczesne objawy używania środków i substancji, o których mowa w § 1 ust. 2, lub występowania innych zachowań ryzykownych, które nie zostały zdiagnozowane jako zaburzenia lub choroby wymagające leczenia.
+
+3. Działania profilaktyczne w szkołach i placówkach w ramach działalności, o której mowa w ust. 1, obejmują w szczególności:
+
+- **1)** realizowanie wśród uczniów i wychowanków oraz ich rodziców lub opiekunów programów profilaktycznych i promocji zdrowia psychicznego dostosowanych do potrzeb indywidualnych i grupowych oraz realizowanych celów profilaktycznych, rekomendowanych w ramach systemu rekomendacji, o którym mowa w Krajowym Programie Przeciwdziałania Narkomanii określonym w przepisach wydanych na podstawie art. 7 ust. 5 ustawy;
+- **2)** przygotowanie oferty zajęć rozwijających zainteresowania i uzdolnienia, jako alternatywnej pozytywnej formy działalności zaspakajającej ważne potrzeby, w szczególności potrzebę podniesienia samooceny, sukcesu, przynależności i satysfakcji życiowej;
+- **3)** kształtowanie i wzmacnianie norm przeciwnych używaniu środków i substancji, o których mowa w § 1 ust. 2, przez uczniów i wychowanków, a także norm przeciwnych podejmowaniu innych zachowań ryzykownych;
+- **4)** doskonalenie zawodowe nauczycieli i wychowawców w zakresie realizacji szkolnej interwencji profilaktycznej w przypadku podejmowania przez uczniów i wychowanków zachowań ryzykownych;
+- **5)** włączanie, w razie potrzeby, w indywidualny program edukacyjno-terapeutyczny, o którym mowa w art. 71b ust. 1b ustawy o systemie oświaty, działań z zakresu przeciwdziałania używaniu środków i substancji, o których mowa w § 1 ust. 2.
+
+**§ 6.**
+
+1. Szkoła i placówka, przy prowadzeniu działalności, o której mowa odpowiednio w § 2–5, współpracuje z jednostkami samorządu terytorialnego, poradniami psychologiczno-pedagogicznymi, w tym poradniami specjalistycznymi, placówkami doskonalenia nauczycieli, podmiotami realizującymi świadczenia zdrowotne z zakresu podstawowej opieki zdrowotnej, opieki psychiatrycznej i leczenia uzależnień, wojewódzkimi i powiatowymi stacjami sanitarno-epidemiologicznymi, Policją, pracodawcami, a także podmiotami, o których mowa w art. 5 ust. 3 ustawy, oraz podmiotami, o których mowa w art. 2a ustawy o systemie oświaty, w szczególności przy opracowaniu diagnozy w zakresie występujących w środowisku szkolnym czynników chroniących oraz czynników ryzyka, o których mowa odpowiednio w ust. 3 i 4, dotyczącej uczniów lub wychowanków, rodziców lub opiekunów, nauczycieli, wychowawców i innych pracowników szkoły lub placówki.
+
+2. Podstawę do podejmowania działalności, o której mowa odpowiednio w § 2–5, stanowi opracowywana w każdym roku szkolnym diagnoza, o której mowa w ust. 1.
+
+3. Przez czynniki chroniące należy rozumieć indywidualne cechy i zachowania uczniów lub wychowanków, cechy środowiska społecznego i efekty ich wzajemnego oddziaływania, których występowanie wzmacnia ogólny potencjał zdrowotny ucznia lub wychowanka i zwiększa jego odporność na działanie czynników ryzyka, o których mowa w ust. 4.
+
+4. Przez czynniki ryzyka należy rozumieć indywidualne cechy i zachowania uczniów lub wychowanków, cechy środowiska społecznego i efekty ich wzajemnego oddziaływania, które wiążą się z wysokim prawdopodobieństwem wystąpienia zachowań ryzykownych stanowiących zagrożenie dla ich prawidłowego rozwoju, zdrowia, bezpieczeństwa lub funkcjonowania społecznego.
+
+**§ 7.**
+
+1. Działalność, o której mowa w § 1, może być realizowana w ramach:
+
+- **1)** zajęć edukacyjnych z zakresu kształcenia ogólnego, o których mowa w art. 64 ust. 1 pkt 1 ustawy o systemie oświaty;
+- **2)** zajęć, o których mowa w art. 64 ust. 1 pkt 6 i ust. 2 ustawy o systemie oświaty;
+- **3)** zajęć edukacyjnych, o których mowa w przepisach wydanych na podstawie art. 12 ust. 2 ustawy o systemie oświaty;
+- **4)** zajęć edukacyjnych, o których mowa w przepisach wydanych na podstawie art. 4 ust. 3 ustawy z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży (Dz. U. Nr 17, poz. 78, z późn. zm. );
+- **5)** zajęć z wychowawcą;
+- **6)** zajęć, o których mowa w art. 42 ust. 2 pkt 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2014 r. poz. 191 i 1198 oraz z 2015 r. poz. 357).
+
+2. Działalność, o której mowa w § 1, może odbywać się także w ramach pomocy psychologiczno-pedagogicznej, o której mowa w przepisach wydanych na podstawie art. 22 ust. 2 pkt 11 ustawy o systemie oświaty, w formach określonych w tych przepisach.
+
+3. Działalność, o której mowa w § 1, realizowana w ramach zajęć, o których mowa w ust. 1 i 2, może odbywać się w oddziale, grupie oddziałowej, międzyoddziałowej lub międzyklasowej, z udziałem całej społeczności szkolnej lub w trakcie bieżącej pracy z uczniem.
+
+4. Działalność, o której mowa w § 1, realizowana w ramach zajęć, o których mowa w ust. 1, może odbywać się w szczególności w formie interaktywnych wykładów, warsztatów, treningów umiejętności, projektów, debat, szkoleń, spektakli teatralnych, spotów, kampanii społecznych, happeningów, pikników edukacyjnych lub w innych formach uwzględniających wykorzystanie aktywnych metod pracy.
+
+5. Działalność, o której mowa w § 1, może odbywać się także w ramach realizacji programów, o których mowa w § 5 ust. 3 pkt 1, w formach wskazanych w tych programach.
+
+6. Działalność, o której mowa w § 1, powinna być realizowana z uwzględnieniem form i działań określonych w gminnym programie przeciwdziałania narkomanii, o którym mowa w art. 10 ust. 2 ustawy, oraz w Krajowym Programie Przeciwdziałania Narkomanii określonym w przepisach wydanych na podstawie art. 7 ust. 5 ustawy.
+
+7. W działalności, o której mowa w § 1, mogą brać udział rodzice, opiekunowie, specjaliści oraz przedstawiciele jednostek samorządu terytorialnego, poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych, placówek doskonalenia nauczycieli, podmiotów realizujących świadczenia zdrowotne z zakresu podstawowej opieki zdrowotnej, opieki psychiatrycznej i leczenia uzależnień, wojewódzkich i powiatowych stacji sanitarno-epidemiologicznych, Policji, pracodawców, podmiotów, o których mowa w art. 5 ust. 3 ustawy, oraz podmiotów, o których mowa w art. 2a ustawy o systemie oświaty.
+
+8. W oparciu o diagnozę, o której mowa w § 6 ust. 1, nauczyciel lub wychowawca w uzgodnieniu z dyrektorem szkoły lub placówki wybiera formę, w której realizuje działalność, o której mowa w § 1, uwzględniając wykorzystanie aktywnych metod pracy.
+
+**§ 8.** Szkoły i placówki dostosują, w terminie 6 miesięcy od dnia wejścia w życie rozporządzenia, program wychowawczy i program profilaktyki, o których mowa w art. 54 ust. 2 pkt 1 ustawy o systemie oświaty, do przepisów rozporządzenia.
+
+**§ 9.** Rozporządzenie wchodzi w życie z dniem 1 września 2015 r. Minister Edukacji Narodowej: wz. T. Sławecki
 

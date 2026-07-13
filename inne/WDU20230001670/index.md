@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowych zasad i trybu nadawania stopni strażakom w służbie kandydackiej Na podstawie art. 112 ust. 4 pkt 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r.
 poz. 1969 oraz z 2023 r. poz. 240, 347, 641, 1088 i 1560) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 lipca 1997 r. w sprawie szczegółowych zasad i trybu nadawania stopni strażakom w służbie kandydackiej (Dz. U. poz. 564) w § 4 w ust. 1 w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „w Akademii Pożarniczej:”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 lipca 1997 r. w sprawie szczegółowych zasad i trybu nadawania stopni strażakom w służbie kandydackiej (Dz. U. poz. 564) w § 4 w ust. 1 w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „w Akademii Pożarniczej:”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 

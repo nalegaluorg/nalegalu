@@ -8,10 +8,10 @@ pos: 1120
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 września 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1120 ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ ORAZ MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 6 września 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,63 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001120) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1120/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ ORAZ MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO?” z dnia 6 września 2013 r.
-sprawie wykazu bibliotek, organizacji osób niewidomych lub ociemniałych oraz organizacji, których celem statutowym jest działanie na rzecz osób niewidomych lub ociemniałych Na podstawie art. 26 ust. 2 ustawy z dnia 23 listopada 2012 r. — Prawo pocztowe (Dz. U. poz. 1529) zarządza się, co następuje: $ 1. Ustala się:
-1) wykaz bibliotek, których celem statutowym jest działanie na rzecz osób niewidomych lub ociemniałych, o których mowa art. 26 ust. I ustawy z dnia 23 listopada 2012 r. — Prawo pocztowe, stanowiący załącznik nr 1 do rozporząd z e n a ;
-2) wykaz organizacji osób niewidomych lub ociemniałych oraz organizacji, których celem statutowym jest działanie na rzecz osób niewidomych lub ociemniałych, o których mowa art. 26 ust. 1 ustawy z dnia 23 listopada 2012 r. — Prawo pocztowe, stanowiący załącznik nr 2 do rozporządzenia.
-$ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.) Minister Pracy 1 Polityki Społecznej: W. Kosiniak-Kamysz Minister Kultury Dziedzictwa Narodowego: B. Zdrojewski D__ Minister Pracy Polityki Społecznej kieruje działem administracji rządowej — zabezpieczenie społeczne, na podstawie $ 1 ust. 2 pkt 2
-2) Minister Kultury Dziedzictwa Narodowego kieruje działem administracji rządowej — kultura ochrona dziedzictwa narodowego, na
-3) _ Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Polityki Społecznej Ministra Kultury z dnia 15 czerwca WYKAZ BIBLIOTEK, KTÓRYCH CELEM STATUTOWYM JEST DZIAŁANIE NA RZECZ OSÓB NIEWIDOMYCH LUB OCIEMNIAŁYCH, O KTÓRYCH MOWA W ART. 26 UST. I USTAWY Z DNIA 23 LISTOPADA 2012R.
-— PRAWO POCZTOWE
-1. - Biblioteka Śląska Katowicach
-2. Dolnośląska Biblioteka Publiczna im. Tadeusza Mikulskiego we Wrocławiu
-3. « Główna Biblioteka Pracy Zabezpieczenia Społecznego Warszawie
-4. _ Książnica Podlaska im. Łukasza Górnickiego Białymstoku
-5. - Książnica Pomorska im. Stanisława Staszica Szczecinie
-6. « Miejska Biblioteka Publiczna im. Władysława Reymonta Skierniewicach
-7. Wojewódzka Biblioteka Publiczna Centrum Animacji Kultury Poznaniu
-8. Wojewódzka Biblioteka Publiczna im. Emanuela Smołki Opolu
-9. Wojewódzka Biblioteka Publiczna im. Emilii Sukertowej-Biedrawiny Olsztynie
-10. Wojewódzka Biblioteka Publiczna im. Hieronima Łopacińskiego Lublinie
-11. Wojewódzka Biblioteka Publiczna im. Witolda Gombrowicza Kielcach
-12. Wojewódzka Biblioteka Publiczna — Książnica Kopernikańska Toruniu
-13. Wojewódzka Biblioteka Publiczna Krakowie
-14. Wojewódzka Miejska Biblioteka Publiczna im. Cypriana Norwida Zielonej Górze
-15. Wojewódzka Miejska Biblioteka Publiczna im. dr. Witolda Bełzy Bydgoszczy
-16. Wojewódzka Miejska Biblioteka Publiczna im. Zbigniewa Herberta Gorzowie Wielkopolskim
-17. Wojewódzka Miejska Biblioteka Publiczna im. Josepha Conrada-Korzeniowskiego Gdańsku
-18. Wojewódzka Miejska Biblioteka Publiczna Rzeszowie WYKAZ ORGANIZACJI OSÓB NIEWIDOMYCH LUB OCIEMNIAŁYCH ORAZ ORGANIZACJI, KTÓRYCH CELEM STATUTOWYM JEST DZIAŁANIE NA RZECZ OSÓB NIEWIDOMYCH LUB OCIEMNIAŁYCH, O KTÓRYCH MOWAW ART. 26 UST. I USTAWY Z DNIA 23 LISTOPADA 2012 R.
-— PRAWO POCZTOWE I. - Euro-Regionalne Stowarzyszenie Niewidomych, Słabowidzących Ich Sympatyków „Pomorze” Gdańsku
-2. - Fundacja Instytut Rozwoju Regionalnego Krakowie
-3. Fundacja „Jasne Strony” Warszawie
-4. — Fundacja Na Rzecz Osób Niewidomych Niepełnosprawnych „Pomóż Ty” Gdyni
-5. - Fundacja Na Rzecz Osób Niewidomych Słabowidzących Krakowie
-6. Fundacja Na Rzecz Osób Niewidomych Labrador — Pies Przewodnik Poznaniu
-7. - Fundacja Polskich Niewidomych Słabowidzących „ Trakt” Warszawie
-8. Fundacja „Praca Dla Niewidomych” Warszawie
-9. - Fundacja Szansa dla Niewidomych Warszawie
-10. Klub Inteligencji Niewidomej Rzeczypospolitej Polskiej we Wrocławiu
-11. Lubelska Fundacja Pomocy Osobom Niewidomym Słabowidzącym Lublinie
-12. Mazowieckie Stowarzyszenie Pracy dla Niepełnosprawnych „„De Facto”
-13. Polskie Towarzystwo Tyflologiczne Krakowie
-14. Polski Związek Niewidomych
-15. Regionalna Fundacja Pomocy Niewidomym Chorzowie
-16. Stowarzyszenie Dla Dzieci Słabo Widzących Niewidomych „Razem Do Celu” Dąbrowie Górniczej
-17. Stowarzyszenie Niewidomych Cywilnych Ofiar Wojny Gdańsku
-18. Stowarzyszenie Niewidomych Słabowidzących „„Kaszub” Wejherowie
-19. Stowarzyszenie Niewidomi Niewidomym Olsztynie
-20. Stowarzyszenie Na Rzecz Rehabilitacji Słabowidzących Niewidomych Warszawie
-21. Stowarzyszenie Pomocy Dzieciom Niewidomym Niedowidzącym „„Nadzieja” Radomiu
-22. Stowarzyszenie Przyjaciół Niewidomych Słabowidzących Poznaniu
-23. Stowarzyszenie Rodziców Przyjaciół Dzieci Niewidomych Słabowidzących „Bliżej Świata” Lublinie
-24. Stowarzyszenie Rodziców Przyjaciół Dzieci Niewidomych Słabowidzących „Promyk” Łodzi
-25. Stowarzyszenie Rodziców 1 Przyjaciół Dzieci Niewidomych Słabowidzących „Tęcza” Warszawie
-26. Świętokrzyskie Stowarzyszenie Na Rzecz Dzieci Młodzieży Niewidomej Słabowidzącej Kielcach
-27. Towarzystwo Muzyczne im. Edwina Kowalika Warszawie
-28. Towarzystwo Opieki Nad Ociemniałymi Laskach Warszawskich
-29. Towarzystwo Pomocy Głuchoniewidomym Warszawie
-30. Wielkopolskie Stowarzyszenie Niewidomych Poznaniu
-31. Wrocławskie Stowarzyszenie Przyjaciół Dzieci Niewidomych we Wrocławiu
-32. Związek Niewidomych Rzeczypospolitej Polskiej Krakowie
-33. Związek Ociemniałych Żołnierzy Rzeczypospolitej Polskiej Warszawie
+w sprawie wykazu bibliotek, organizacji osób niewidomych lub ociemniałych oraz organizacji, których celem statutowym jest działanie na rzecz osób niewidomych lub ociemniałych Na podstawie art. 26 ust. 2 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529) zarządza się, co następuje:
+
+**§ 1.** Ustala się:
+
+- **1)** wykaz bibliotek, których celem statutowym jest działanie na rzecz osób niewidomych lub ociemniałych, o których mowa w art. 26 ust. 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, stanowiący załącznik nr 1 do rozporządzenia;
+- **2)** wykaz organizacji osób niewidomych lub ociemniałych oraz organizacji, których celem statutowym jest działanie na rzecz osób niewidomych lub ociemniałych, o których mowa w art. 26 ust. 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, stanowiący załącznik nr 2 do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Pracy i Polityki Społecznej: W. Kosiniak-Kamysz Minister Kultury i Dziedzictwa Narodowego: B. Zdrojewski WYKAZ BIBLIOTEK, KTÓRYCH CELEM STATUTOWYM JEST DZIAŁANIE NA RZECZ OSÓB NIEWIDOMYCH LUB OCIEMNIAŁYCH, O KTÓRYCH MOWA W ART. 26 UST. 1 USTAWY Z DNIA 23 LISTOPADA 2012 R. – PRAWO POCZTOWE 1. Biblioteka Śląska w Katowicach 2. Dolnośląska Biblioteka Publiczna im. Tadeusza Mikulskiego we Wrocławiu 3. Główna Biblioteka Pracy i Zabezpieczenia Społecznego w Warszawie 4. Książnica Podlaska im. Łukasza Górnickiego w Białymstoku 5. Książnica Pomorska im. Stanisława Staszica w Szczecinie 6. Miejska Biblioteka Publiczna im. Władysława Reymonta w Skierniewicach 7. Wojewódzka Biblioteka Publiczna i Centrum Animacji Kultury w Poznaniu 8. Wojewódzka Biblioteka Publiczna im. Emanuela Smołki w Opolu 9. Wojewódzka Biblioteka Publiczna im. Emilii Sukertowej-Biedrawiny w Olsztynie 10. Wojewódzka Biblioteka Publiczna im. Hieronima Łopacińskiego w Lublinie 11. Wojewódzka Biblioteka Publiczna im. Witolda Gombrowicza w Kielcach 12. Wojewódzka Biblioteka Publiczna – Książnica Kopernikańska w Toruniu 13. Wojewódzka Biblioteka Publiczna w Krakowie 14. Wojewódzka i Miejska Biblioteka Publiczna im. Cypriana Norwida w Zielonej Górze 15. Wojewódzka i Miejska Biblioteka Publiczna im. dr. Witolda Bełzy w Bydgoszczy 16. Wojewódzka i Miejska Biblioteka Publiczna im. Zbigniewa Herberta w Gorzowie Wielkopolskim 17. Wojewódzka i Miejska Biblioteka Publiczna im. Josepha Conrada-Korzeniowskiego w Gdańsku 18. Wojewódzka i Miejska Biblioteka Publiczna w Rzeszowie WYKAZ ORGANIZACJI OSÓB NIEWIDOMYCH LUB OCIEMNIAŁYCH ORAZ ORGANIZACJI, KTÓRYCH CELEM STATUTOWYM JEST DZIAŁANIE NA RZECZ OSÓB NIEWIDOMYCH LUB OCIEMNIAŁYCH, O KTÓRYCH MOWA W ART. 26 UST. 1 USTAWY Z DNIA 23 LISTOPADA 2012 R. – PRAWO POCZTOWE 1. Euro-Regionalne Stowarzyszenie Niewidomych, Słabowidzących i Ich Sympatyków „Pomorze” w Gdańsku 2. Fundacja Instytut Rozwoju Regionalnego w Krakowie 3. Fundacja „Jasne Strony” w Warszawie 4. Fundacja Na Rzecz Osób Niewidomych i Niepełnosprawnych „Pomóż i Ty” w Gdyni 5. Fundacja Na Rzecz Osób Niewidomych i Słabowidzących w Krakowie 6. Fundacja Na Rzecz Osób Niewidomych Labrador – Pies Przewodnik w Poznaniu 7. Fundacja Polskich Niewidomych i Słabowidzących „Trakt” w Warszawie 8. Fundacja „Praca Dla Niewidomych” w Warszawie 9. Fundacja Szansa dla Niewidomych w Warszawie 10. Klub Inteligencji Niewidomej Rzeczypospolitej Polskiej we Wrocławiu 11. Lubelska Fundacja Pomocy Osobom Niewidomym i Słabowidzącym w Lublinie 12. Mazowieckie Stowarzyszenie Pracy dla Niepełnosprawnych „De Facto” 13. Polskie Towarzystwo Tyflologiczne w Krakowie 14. Polski Związek Niewidomych 15. Regionalna Fundacja Pomocy Niewidomym w Chorzowie 16. Stowarzyszenie Dla Dzieci Słabo Widzących i Niewidomych „Razem Do Celu” w Dąbrowie Górniczej 17. Stowarzyszenie Niewidomych Cywilnych Ofiar Wojny w Gdańsku 18. Stowarzyszenie Niewidomych i Słabowidzących „Kaszub” w Wejherowie 19. Stowarzyszenie Niewidomi Niewidomym w Olsztynie 20. Stowarzyszenie Na Rzecz Rehabilitacji Słabowidzących i Niewidomych w Warszawie 21. Stowarzyszenie Pomocy Dzieciom Niewidomym i Niedowidzącym „Nadzieja” w Radomiu 22. Stowarzyszenie Przyjaciół Niewidomych i Słabowidzących w Poznaniu 23. Stowarzyszenie Rodziców i Przyjaciół Dzieci Niewidomych i Słabowidzących „Bliżej Świata” w Lublinie 24. Stowarzyszenie Rodziców i Przyjaciół Dzieci Niewidomych i Słabowidzących „Promyk” w Łodzi 25. Stowarzyszenie Rodziców i Przyjaciół Dzieci Niewidomych i Słabowidzących „Tęcza” w Warszawie 26. Świętokrzyskie Stowarzyszenie Na Rzecz Dzieci i Młodzieży Niewidomej i Słabowidzącej w Kielcach 27. Towarzystwo Muzyczne im. Edwina Kowalika w Warszawie 28. Towarzystwo Opieki Nad Ociemniałymi w Laskach Warszawskich 29. Towarzystwo Pomocy Głuchoniewidomym w Warszawie 30. Wielkopolskie Stowarzyszenie Niewidomych w Poznaniu 31. Wrocławskie Stowarzyszenie Przyjaciół Dzieci Niewidomych we Wrocławiu 32. Związek Niewidomych Rzeczypospolitej Polskiej w Krakowie 33. Związek Ociemniałych Żołnierzy Rzeczypospolitej Polskiej w Warszawie
 

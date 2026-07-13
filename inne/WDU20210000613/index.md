@@ -31,7 +31,10 @@ poz. 1992).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 10 października 2019 r. zmieniającego rozporządzenie w sprawie nadania osobowości prawnej Salwatoriańskiemu Ośrodkowi Szkoleniowo-Terapeutycznemu (Dz. U. poz. 1992), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 16 stycznia 2016 r.
 w sprawie nadania osobowości prawnej Salwatoriańskiemu Ośrodkowi Terapeutycznemu SOTer Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1347) zarządza się, co następuje:
-§ 1. Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Salwatoriański Ośrodek Terapeutyczny SOTer erygowanej przez Przełożonego Prowincji Towarzystwa Boskiego Zbawiciela, Prowincja Polska.
-§ 2. Siedzibą Salwatoriańskiego Ośrodka Terapeutycznego SOTer jest Kraków.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Salwatoriański Ośrodek Terapeutyczny SOTer erygowanej przez Przełożonego Prowincji Towarzystwa Boskiego Zbawiciela, Prowincja Polska.
+
+**§ 2.** Siedzibą Salwatoriańskiego Ośrodka Terapeutycznego SOTer jest Kraków.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

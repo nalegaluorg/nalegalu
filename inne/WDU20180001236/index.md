@@ -26,14 +26,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001236) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1236/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowego sposobu wykonywania budżetu państwa Na podstawie art. 198 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077 oraz z 2018 r. poz. 62 i 1000) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 15 stycznia 2014 r. w sprawie szczegółowego sposobu wykonywania budżetu państwa (Dz. U. z 2016 r. poz. 69 oraz z 2017 r. poz. 1986) wprowadza się następujące zmiany:
-1) w § 2 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 i 12 w brzmieniu: „11) rachunkach VAT – należy przez to rozumieć prowadzone dla rachunków bieżących i pomocniczych państwowych jednostek budżetowych oraz dla rachunków państwowych funduszy celowych rachunki VAT, o których mowa w rozdziale 3a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876, z późn. zm. );
-12) instrumencie płatniczym – należy przez to rozumieć instrument płatniczy, o którym mowa w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2017 r. poz. 2003, z późn. zm. ).”;
-2) w § 9:
-a) w ust. 1 w pkt 2 na końcu dodaje się przecinek i dodaje się pkt 3 w brzmieniu: „3) VAT wspólnych, o których mowa w przepisach wydanych na podstawie art. 199 ust. 3 ustawy o finansach publicznych, na rachunki bieżące dochodów państwowych jednostek budżetowych”,
-b) w ust. 2 po wyrazach „w ust. 1” dodaje się wyrazy „pkt 1 i 2”;
-3) po § 9 dodaje się § 9a w brzmieniu: „§ 9a. 1. Niewykorzystane środki przekazane przez dysponentów środków budżetu państwa w celu wykonania operacji polegającej na obciążeniu rachunku bankowego przy użyciu instrumentu płatniczego, w szczególności karty płatniczej, oraz środki pochodzące z wpłat dokonywanych przy użyciu tego instrumentu są przekazywane każdego dnia operacyjnego na powiązany z nim rachunek w Narodowym Banku Polskim.
-2. Minister Finansów może określić kwotę środków niepodlegających codziennemu przekazaniu, o którym mowa w ust. 1, z której dysponent środków budżetu państwa może korzystać przy użyciu instrumentu płatniczego.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r., z wyjątkiem § 1 pkt 1 w zakresie § 2 pkt 12 oraz pkt 3, które wchodzą w życie z dniem 19 listopada 2018 r.
-Minister Finansów: T. Czerwińska
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 15 stycznia 2014 r. w sprawie szczegółowego sposobu wykonywania budżetu państwa (Dz. U. z 2016 r. poz. 69 oraz z 2017 r. poz. 1986) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 i 12 w brzmieniu: „11) rachunkach VAT – należy przez to rozumieć prowadzone dla rachunków bieżących i pomocniczych państwowych jednostek budżetowych oraz dla rachunków państwowych funduszy celowych rachunki VAT, o których mowa w rozdziale 3a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876, z późn. zm. ); 12) instrumencie płatniczym – należy przez to rozumieć instrument płatniczy, o którym mowa w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2017 r. poz. 2003, z późn. zm. ).”;
+- **2)** w § 9:
+    - **a)** w ust. 1 w pkt 2 na końcu dodaje się przecinek i dodaje się pkt 3 w brzmieniu: „3) VAT wspólnych, o których mowa w przepisach wydanych na podstawie art. 199 ust. 3 ustawy o finansach publicznych, na rachunki bieżące dochodów państwowych jednostek budżetowych”,
+    - **b)** w ust. 2 po wyrazach „w ust. 1” dodaje się wyrazy „pkt 1 i 2”;
+
+- **3)** po § 9 dodaje się § 9a w brzmieniu: „§ 9a. 1. Niewykorzystane środki przekazane przez dysponentów środków budżetu państwa w celu wykonania operacji polegającej na obciążeniu rachunku bankowego przy użyciu instrumentu płatniczego, w szczególności karty płatniczej, oraz środki pochodzące z wpłat dokonywanych przy użyciu tego instrumentu są przekazywane każdego dnia operacyjnego na powiązany z nim rachunek w Narodowym Banku Polskim. 2. Minister Finansów może określić kwotę środków niepodlegających codziennemu przekazaniu, o którym mowa w ust. 1, z której dysponent środków budżetu państwa może korzystać przy użyciu instrumentu płatniczego.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2018 r., z wyjątkiem § 1 pkt 1 w zakresie § 2 pkt 12 oraz pkt 3, które wchodzą w życie z dniem 19 listopada 2018 r. Minister Finansów: T. Czerwińska
 

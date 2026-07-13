@@ -27,36 +27,49 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001278) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1278/text.pdf) |
 
 w sprawie określenia wzorów kart tożsamości i tabliczki tożsamości personelu obrony cywilnej Na podstawie art. 145 ust. 6 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wzory kart tożsamości wydawanych osobom powołanym do służby w obronie cywilnej oraz wzór tabliczki tożsamości wydawanej osobie wykonującej działania ratownicze.
-§ 2. 1. Wzór poliwęglanowej karty tożsamości personelu obrony cywilnej wydawanej osobom powołanym do służby w obronie cywilnej, z wyłączeniem personelu medycznego i duchownego, jest określony w załączniku nr 1 do rozporządzenia.
+
+**§ 1.** Rozporządzenie określa wzory kart tożsamości wydawanych osobom powołanym do służby w obronie cywilnej oraz wzór tabliczki tożsamości wydawanej osobie wykonującej działania ratownicze.
+
+**§ 2.**
+
+1. Wzór poliwęglanowej karty tożsamości personelu obrony cywilnej wydawanej osobom powołanym do służby w obronie cywilnej, z wyłączeniem personelu medycznego i duchownego, jest określony w załączniku nr 1 do rozporządzenia.
+
 2. Wzór papierowej karty tożsamości personelu obrony cywilnej wydawanej osobom powołanym do służby w obronie cywilnej, z wyłączeniem personelu medycznego i duchownego, w przypadku braku możliwości wydania karty według wzoru, o którym mowa w ust. 1, jest określony w załączniku nr 2 do rozporządzenia.
-§ 3. 1. Wzór poliwęglanowej karty tożsamości personelu medycznego lub duchownego wydawanej członkom personelu medycznego i duchownego jest określony w załączniku nr 3 do rozporządzenia.
+
+**§ 3.**
+
+1. Wzór poliwęglanowej karty tożsamości personelu medycznego lub duchownego wydawanej członkom personelu medycznego i duchownego jest określony w załączniku nr 3 do rozporządzenia.
+
 2. Wzór papierowej karty tożsamości personelu medycznego lub duchownego wydawanej członkom personelu medycznego i duchownego w przypadku braku możliwości wydania karty według wzoru, o którym mowa w ust. 1, jest określony w załączniku nr 4 do rozporządzenia.
-§ 4. Wzór tabliczki tożsamości jest określony w załączniku nr 5 do rozporządzenia.
-§ 5. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. W. Leśniakiewicz Załączniki do rozporządzenia Ministra Ministra Spraw Spraw Wewnętrznych Wewnętrznych i i Administracji Administracji z z dnia dnia 12 12 września września 2025 2025 r. r. (Dz. (Dz. U. U. poz. poz. …) …) Załącznik Załącznik nr nr 1 1 WZÓR WZÓR POLIWĘGLANOWEJ POLIWĘGLANOWEJ KARTY KARTY TOŻSAMOŚCI TOŻSAMOŚCI PERSONELU PERSONELU OBRONY OBRONY CYWILNEJ CYWILNEJ WZÓR POLIWĘGLANOWEJ KARTY TOŻSAMOŚCI PERSONELU OBRONY CYWILNEJ awers awers awers rewers rewers rewers Opis: Opis: Opis:
-1) karta o wymiarach 53,98 × 85,60 mm (ID-1) wykonana z wielowarstwowego poliwęglanu niewykazującego lumine1) 1) scencji karta karta w promieniowaniu o o wymiarach wymiarach UV, 53,98 53,98 personalizowana × × 85,60 85,60 mm mm metodą (ID-1) (ID-1) grawerowania wykonana wykonana laserowego; z z wielowarstwowego wielowarstwowego poliwęglanu poliwęglanu
-2) awers: niewykazującego niewykazującego luminescencji luminescencji w w promieniowaniu promieniowaniu UV, UV, personalizowana personalizowana metodą metodą grawerowania grawerowania
-a) laserowego; laserowego; napisy:
-2) 2) awers: awers: – „KARTA TOŻSAMOŚCI PERSONELU OBRONY CYWILNEJ”,
-a) a) – „IMIĘ napisy: napisy: (IMIONA)”, – „NAZWISKO”, − − „KARTA „KARTA TOŻSAMOŚCI TOŻSAMOŚCI PERSONELU PERSONELU OBRONY OBRONY CYWILNEJ”, CYWILNEJ”, – „DATA URODZENIA”, − „IMIĘ (IMIONA)”, – „NUMER − „IMIĘ PESEL”, (IMIONA)”, – „SERIA − − „NAZWISKO”, „NAZWISKO”, I NUMER KARTY”, – „DATA − − „DATA „DATA WYSTAWIENIA URODZENIA”, URODZENIA”, KARTY”, – „PODPIS”,
-b) pole przeznaczone na fotografię posiadacza karty tożsamości,
-c) międzynarodowy znak obrony cywilnej – niebieski trójkąt na pomarańczowym tle w kształcie koła;
-3) rewers:
-a) napisy: – „NUMER TABLICZKI TOŻSAMOŚCI”, – „INFORMACJE O MIEJSCU PEŁNIENIA SŁUŻBY W OBRONIE CYWILNEJ”, – „NAZWA ORGANU WYSTAWIAJĄCEGO KARTĘ”,
-b) międzynarodowy znak obrony cywilnej – niebieski trójkąt na pomarańczowym tle w kształcie koła,
-c) oznaczenie indywidualne blankietu w formie kodu QR i formie alfanumerycznej składającej się z 1 litery i 6 cyfr;
-4) zastosowane elementy zabezpieczające przed fałszerstwem:
-a) tło giloszowe wykonane techniką druku irysowego,
-b) mikrodruki,
-c) elementy wykonane farbą aktywną w promieniowaniu ultrafioletowym,
-d) element wykonany farbą irydyscentną,
-e) oznaczenie indywidualne blankietu;
-5) na etapie personalizacji blankietu w polu „seria i numer karty” nanoszone jest oznaczenie składające się z:
-a) 2 cyfr numeru serii oznaczających województwo właściwe dla wojewody, który wydał kartę tożsamości, według kodów ISO 3166-2 dla podjednostek administracyjnych Polski,
-b) 11 cyfr, z których pierwszych 5 cyfr oznacza numer terytorium powiatu lub gminy (według TERC – systemu identyfikatorów i nazw jednostek podziału administracyjnego), na których terenie siedzibę ma podmiot, w którym będzie pełniona służba w obronie cywilnej, a następnych 6 cyfr – kolejny numer karty wydanej przez dany organ;
-numer karty podaje się od końca, a pozostałe miejsca uzupełnia się zerami.
-Przykład: 14 21011000001 – oznacza kartę wydaną dla osoby pełniącej służbę w obronie cywilnej w podmiocie, który ma siedzibę na terenie gminy Piastów, z kolejnym numerem 000001.
+
+**§ 4.** Wzór tabliczki tożsamości jest określony w załączniku nr 5 do rozporządzenia.
+
+**§ 5.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. W. Leśniakiewicz Załączniki do rozporządzenia Ministra Ministra Spraw Spraw Wewnętrznych Wewnętrznych i i Administracji Administracji z z dnia dnia 12 12 września września 2025 2025 r. r. (Dz. (Dz. U. U. poz. poz. …) …) Załącznik Załącznik nr nr 1 1 WZÓR WZÓR POLIWĘGLANOWEJ POLIWĘGLANOWEJ KARTY KARTY TOŻSAMOŚCI TOŻSAMOŚCI PERSONELU PERSONELU OBRONY OBRONY CYWILNEJ CYWILNEJ WZÓR POLIWĘGLANOWEJ KARTY TOŻSAMOŚCI PERSONELU OBRONY CYWILNEJ awers awers awers rewers rewers rewers Opis: Opis: Opis:
+
+- **1)** karta o wymiarach 53,98 × 85,60 mm (ID-1) wykonana z wielowarstwowego poliwęglanu niewykazującego lumine1) 1) scencji karta karta w promieniowaniu o o wymiarach wymiarach UV, 53,98 53,98 personalizowana × × 85,60 85,60 mm mm metodą (ID-1) (ID-1) grawerowania wykonana wykonana laserowego; z z wielowarstwowego wielowarstwowego poliwęglanu poliwęglanu
+- **2)** awers: niewykazującego niewykazującego luminescencji luminescencji w w promieniowaniu promieniowaniu UV, UV, personalizowana personalizowana metodą metodą grawerowania grawerowania
+    - **a)** laserowego; laserowego; napisy:
+
+- **2)** 2) awers: awers: – „KARTA TOŻSAMOŚCI PERSONELU OBRONY CYWILNEJ”,
+    - **a)** a) – „IMIĘ napisy: napisy: (IMIONA)”, – „NAZWISKO”, − − „KARTA „KARTA TOŻSAMOŚCI TOŻSAMOŚCI PERSONELU PERSONELU OBRONY OBRONY CYWILNEJ”, CYWILNEJ”, – „DATA URODZENIA”, − „IMIĘ (IMIONA)”, – „NUMER − „IMIĘ PESEL”, (IMIONA)”, – „SERIA − − „NAZWISKO”, „NAZWISKO”, I NUMER KARTY”, – „DATA − − „DATA „DATA WYSTAWIENIA URODZENIA”, URODZENIA”, KARTY”, – „PODPIS”,
+    - **b)** pole przeznaczone na fotografię posiadacza karty tożsamości,
+    - **c)** międzynarodowy znak obrony cywilnej – niebieski trójkąt na pomarańczowym tle w kształcie koła;
+
+- **3)** rewers:
+    - **a)** napisy: – „NUMER TABLICZKI TOŻSAMOŚCI”, – „INFORMACJE O MIEJSCU PEŁNIENIA SŁUŻBY W OBRONIE CYWILNEJ”, – „NAZWA ORGANU WYSTAWIAJĄCEGO KARTĘ”,
+    - **b)** międzynarodowy znak obrony cywilnej – niebieski trójkąt na pomarańczowym tle w kształcie koła,
+    - **c)** oznaczenie indywidualne blankietu w formie kodu QR i formie alfanumerycznej składającej się z 1 litery i 6 cyfr;
+
+- **4)** zastosowane elementy zabezpieczające przed fałszerstwem:
+    - **a)** tło giloszowe wykonane techniką druku irysowego,
+    - **b)** mikrodruki,
+    - **c)** elementy wykonane farbą aktywną w promieniowaniu ultrafioletowym,
+    - **d)** element wykonany farbą irydyscentną,
+    - **e)** oznaczenie indywidualne blankietu;
+
+- **5)** na etapie personalizacji blankietu w polu „seria i numer karty” nanoszone jest oznaczenie składające się z: numer karty podaje się od końca, a pozostałe miejsca uzupełnia się zerami. Przykład: 14 21011000001 – oznacza kartę wydaną dla osoby pełniącej służbę w obronie cywilnej w podmiocie, który ma siedzibę na terenie gminy Piastów, z kolejnym numerem 000001.
+    - **a)** 2 cyfr numeru serii oznaczających województwo właściwe dla wojewody, który wydał kartę tożsamości, według kodów ISO 3166-2 dla podjednostek administracyjnych Polski,
+    - **b)** 11 cyfr, z których pierwszych 5 cyfr oznacza numer terytorium powiatu lub gminy (według TERC – systemu identyfikatorów i nazw jednostek podziału administracyjnego), na których terenie siedzibę ma podmiot, w którym będzie pełniona służba w obronie cywilnej, a następnych 6 cyfr – kolejny numer karty wydanej przez dany organ;
 
 ## Załącznik nr 2 — WZÓR PAPIEROWEJ KARTY TOŻSAMOŚCI PERSONELU OBRONY CYWILNEJ Załącznik nr 2 WZÓR PAPIEROWEJ KARTY TOŻSAMOŚCI PERSONELU OBRONY CYWILNEJ WZÓR PAPIEROWEJ KARTY TOŻSAMOŚCI PERSONELU OBRONY CYWILNEJ awers awers awers rewers rewers rewers Opis:
 

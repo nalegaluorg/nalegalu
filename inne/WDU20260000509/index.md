@@ -27,9 +27,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000509) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/509/text.pdf) |
 
 zmieniające rozporządzenie w sprawie trybu przygotowania informacji o sytuacji osób starszych Na podstawie art. 6 ust. 3 ustawy z dnia 11 września 2015 r. o osobach starszych (Dz. U. poz. 1705, z 2024 r. poz. 834 oraz z 2026 r. poz. 160) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 21 września 2016 r. w sprawie trybu przygotowania informacji o sytuacji osób starszych (Dz. U. poz. 1530) wprowadza się następujące zmiany:
-1) § 1 otrzymuje brzmienie: „§ 1. Rozporządzenie określa tryb przygotowania, przez ministra właściwego do spraw zabezpieczenia społecznego, zwanego dalej „Ministrem”, albo Pełnomocnika Rządu do spraw Polityki Senioralnej, zwanego dalej „Pełnomocnikiem”, o ile został ustanowiony, informacji o sytuacji osób starszych.”;
-2) w § 2 po wyrazie „Minister” dodaje się wyrazy „albo Pełnomocnik, o ile został ustanowiony”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 21 września 2016 r. w sprawie trybu przygotowania informacji o sytuacji osób starszych (Dz. U. poz. 1530) wprowadza się następujące zmiany:
+
+- **1)** § 1 otrzymuje brzmienie: „§ 1. Rozporządzenie określa tryb przygotowania, przez ministra właściwego do spraw zabezpieczenia społecznego, zwanego dalej „Ministrem”, albo Pełnomocnika Rządu do spraw Polityki Senioralnej, zwanego dalej „Pełnomocnikiem”, o ile został ustanowiony, informacji o sytuacji osób starszych.”;
+- **2)** w § 2 po wyrazie „Minister” dodaje się wyrazy „albo Pełnomocnik, o ile został ustanowiony”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

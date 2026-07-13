@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy Na podstawie art. 30 ust. 5, art. 33 ust. 3 oraz art. 34 ust. 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U.
 z 2023 r. poz. 984, 1234, 1586, 1672 i 2005) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej i Sportu z dnia 31 stycznia 2005 r. w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. z 2014 r. poz. 416, z późn. zm. ) wprowadza się następujące zmiany:
-1) w § 8 w pkt 4 wyrazy „zakładów opieki zdrowotnej” zastępuje się wyrazami „zakładów leczniczych podmiotów leczniczych”;
-2) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2024 r.
-Minister Edukacji: B. Nowacka M W … W W W M M W
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej i Sportu z dnia 31 stycznia 2005 r. w sprawie wysokości minimalnych stawek wynagrodzenia zasadniczego nauczycieli, ogólnych warunków przyznawania dodatków do wynagrodzenia zasadniczego oraz wynagradzania za pracę w dniu wolnym od pracy (Dz. U. z 2014 r. poz. 416, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w § 8 w pkt 4 wyrazy „zakładów opieki zdrowotnej” zastępuje się wyrazami „zakładów leczniczych podmiotów leczniczych”;
+- **2)** załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2024 r. Minister Edukacji: B. Nowacka M W … W W W M M W
 

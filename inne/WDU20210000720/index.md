@@ -31,47 +31,18 @@ source: pdf
 
 - **1)** w art. 2:
     - **a)** pkt 1 otrzymuje brzmienie: „1) droga – wydzielony pas terenu składający się z jezdni, pobocza, chodnika, drogi dla pieszych lub drogi dla rowerów, łącznie z torowiskiem pojazdów szynowych znajdującym się w obrębie tego pasa, przeznaczony do ruchu lub postoju pojazdów, ruchu pieszych, ruchu osób poruszających się przy użyciu urządzenia wspomagającego ruch, jazdy wierzchem lub pędzenia zwierząt;”,
-    - **b)** pkt 17 i 18 otrzymują brzmienie: „17) uczestnik ruchu – pieszego, osobę poruszającą się przy użyciu urządzenia wspomagającego ruch, kierującego, a także inne osoby przebywające w pojeździe lub na pojeździe znajdującym się na drodze;
-
-- **18)** pieszy – osobę znajdującą się poza pojazdem na drodze i niewykonującą na niej robót lub czynności przewidzianych odrębnymi przepisami; za pieszego uważa się również osobę prowadzącą, ciągnącą lub pchającą rower, motorower, motocykl, hulajnogę elektryczną, urządzenie transportu osobistego, urządzenie wspomagające ruch, wózek dziecięcy, podręczny lub inwalidzki, osobę poruszającą się w wózku inwalidzkim, a także dziecko w wieku do 10 lat kierujące rowerem pod opieką osoby dorosłej;”,
+    - **b)** pkt 17 i 18 otrzymują brzmienie: „17) uczestnik ruchu – pieszego, osobę poruszającą się przy użyciu urządzenia wspomagającego ruch, kierującego, a także inne osoby przebywające w pojeździe lub na pojeździe znajdującym się na drodze; 18) pieszy – osobę znajdującą się poza pojazdem na drodze i niewykonującą na niej robót lub czynności przewidzianych odrębnymi przepisami; za pieszego uważa się również osobę prowadzącą, ciągnącą lub pchającą rower, motorower, motocykl, hulajnogę elektryczną, urządzenie transportu osobistego, urządzenie wspomagające ruch, wózek dziecięcy, podręczny lub inwalidzki, osobę poruszającą się w wózku inwalidzkim, a także dziecko w wieku do 10 lat kierujące rowerem pod opieką osoby dorosłej;”,
     - **c)** po pkt 18 dodaje się pkt 18a w brzmieniu: „18a) urządzenie wspomagające ruch – urządzenie lub sprzęt sportowo-rekreacyjny, przeznaczone do poruszania się osoby w pozycji stojącej, napędzane siłą mięśni;”,
     - **d)** pkt 23 otrzymuje brzmienie: „23) ustąpienie pierwszeństwa – powstrzymanie się od ruchu, jeżeli ruch mógłby zmusić kierującego do zmiany kierunku lub pasa ruchu albo istotnej zmiany prędkości, pieszego – do zatrzymania się, zwolnienia lub przyspieszenia kroku, a osobę poruszającą się przy użyciu urządzenia wspomagającego ruch – do zatrzymania się, zmiany kierunku albo istotnej zmiany prędkości;”,
-    - **e)** pkt 31 i 32 otrzymują brzmienie: „31) pojazd – środek transportu przeznaczony do poruszania się po drodze oraz maszynę lub urządzenie do tego przystosowane, z wyjątkiem urządzenia wspomagającego ruch;
+    - **e)** pkt 31 i 32 otrzymują brzmienie: „31) pojazd – środek transportu przeznaczony do poruszania się po drodze oraz maszynę lub urządzenie do tego przystosowane, z wyjątkiem urządzenia wspomagającego ruch; 32) pojazd silnikowy – pojazd wyposażony w silnik, z wyjątkiem motoroweru, pojazdu szynowego, roweru, wózka rowerowego, hulajnogi elektrycznej, urządzenia transportu osobistego i wózka inwalidzkiego;”,
+    - **f)** po pkt 47a dodaje się pkt 47b i 47c w brzmieniu: „47b) hulajnoga elektryczna – pojazd napędzany elektrycznie, dwuosiowy, z kierownicą, bez siedzenia i pedałów, konstrukcyjnie przeznaczony do poruszania się wyłącznie przez kierującego znajdującego się na tym pojeździe; 47c) urządzenie transportu osobistego – pojazd napędzany elektrycznie, z wyłączeniem hulajnogi elektrycznej, bez siedzenia i pedałów, konstrukcyjnie przeznaczony do poruszania się wyłącznie przez kierującego znajdującego się na tym pojeździe;”;
 
-- **32)** pojazd silnikowy – pojazd wyposażony w silnik, z wyjątkiem motoroweru, pojazdu szynowego, roweru, wózka rowerowego, hulajnogi elektrycznej, urządzenia transportu osobistego i wózka inwalidzkiego;”,
-    - **f)** po pkt 47a dodaje się pkt 47b i 47c w brzmieniu: „47b) hulajnoga elektryczna – pojazd napędzany elektrycznie, dwuosiowy, z kierownicą, bez siedzenia i pedałów, konstrukcyjnie przeznaczony do poruszania się wyłącznie przez kierującego znajdującego się na tym pojeździe;
-
-- **47c)** urządzenie transportu osobistego – pojazd napędzany elektrycznie, z wyłączeniem hulajnogi elektrycznej, bez siedzenia i pedałów, konstrukcyjnie przeznaczony do poruszania się wyłącznie przez kierującego znajdującego się na tym pojeździe;”;
 - **2)** w dziale II tytuł rozdziału 2 otrzymuje brzmienie: „Ruch pieszych oraz osób poruszających się przy użyciu urządzenia wspomagającego ruch”;
 - **3)** w art. 11:
     - **a)** w ust. 4 zdanie drugie otrzymuje brzmienie: „Pieszy, z wyjątkiem osoby niepełnosprawnej, korzystając z tej drogi, jest obowiązany ustąpić miejsca osobie poruszającej się przy użyciu urządzenia wspomagającego ruch, kierującemu rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego.”,
     - **b)** w ust. 5 zdanie drugie otrzymuje brzmienie: „W strefie tej pieszy korzysta z całej szerokości drogi i ma pierwszeństwo przed pojazdem oraz osobą poruszającą się przy użyciu urządzenia wspomagającego ruch.”;
 
-- **4)** po art. 15 dodaje się art. 15a w brzmieniu: „Art. 15a. 1. Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch jest obowiązana korzystać z chodnika, drogi dla pieszych lub drogi dla rowerów. Osobę poruszającą się przy użyciu urządzenia wspomagającego ruch na drodze dla rowerów obowiązuje ruch prawostronny.
-
-2. Przepisów ust. 1 nie stosuje się w strefie zamieszkania. W strefie tej osoba poruszająca się przy użyciu urządzenia wspomagającego ruch korzysta z całej szerokości drogi i ma pierwszeństwo przed pojazdem.
-
-3. Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch, korzystając z chodnika albo drogi dla pieszych, jest obowiązana poruszać się z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu.
-
-4. Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch, przekraczając jezdnię, jest obowiązana zachować szczególną ostrożność oraz korzystać odpowiednio z przejazdu dla rowerzystów albo przejścia dla pieszych.
-
-5. Przekraczanie torowiska wyodrębnionego z jezdni przez osobę poruszającą się przy użyciu urządzenia wspomagającego ruch jest dozwolone tylko w miejscu do tego przeznaczonym.
-
-6. Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch jest obowiązana:
-
-- **1)** poruszać się z prędkością zapewniającą panowanie nad tym urządzeniem, z uwzględnieniem warunków, w jakich ruch się odbywa;
-- **2)** przy wymijaniu zachować bezpieczny odstęp od wymijanego pojazdu lub uczestnika ruchu;
-- **3)** przy omijaniu zachować bezpieczny odstęp od omijanego pojazdu, uczestnika ruchu lub przeszkody;
-- **4)** przed wyprzedzaniem upewnić się, czy ma dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu;
-- **5)** zbliżając się do przejścia dla pieszych, zachować szczególną ostrożność i ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu.
-
-7. Osobie poruszającej się przy użyciu urządzenia wspomagającego ruch zabrania się:
-
-- **1)** poruszania się w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu;
-- **2)** przewożenia innej osoby, zwierzęcia lub ładunku;
-- **3)** ciągnięcia pojazdu lub ładunku;
-- **4)** czepiania się pojazdów;
-- **5)** poruszania się tyłem.”;
+- **4)** po art. 15 dodaje się art. 15a w brzmieniu: „Art. 15a. 1. Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch jest obowiązana korzystać z chodnika, drogi dla pieszych lub drogi dla rowerów. Osobę poruszającą się przy użyciu urządzenia wspomagającego ruch na drodze dla rowerów obowiązuje ruch prawostronny. 2. Przepisów ust. 1 nie stosuje się w strefie zamieszkania. W strefie tej osoba poruszająca się przy użyciu urządzenia wspomagającego ruch korzysta z całej szerokości drogi i ma pierwszeństwo przed pojazdem. 3. Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch, korzystając z chodnika albo drogi dla pieszych, jest obowiązana poruszać się z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu. 4. Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch, przekraczając jezdnię, jest obowiązana zachować szczególną ostrożność oraz korzystać odpowiednio z przejazdu dla rowerzystów albo przejścia dla pieszych. 5. Przekraczanie torowiska wyodrębnionego z jezdni przez osobę poruszającą się przy użyciu urządzenia wspomagającego ruch jest dozwolone tylko w miejscu do tego przeznaczonym. 6. Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch jest obowiązana: 1) poruszać się z prędkością zapewniającą panowanie nad tym urządzeniem, z uwzględnieniem warunków, w jakich ruch się odbywa; 2) przy wymijaniu zachować bezpieczny odstęp od wymijanego pojazdu lub uczestnika ruchu; 3) przy omijaniu zachować bezpieczny odstęp od omijanego pojazdu, uczestnika ruchu lub przeszkody; 4) przed wyprzedzaniem upewnić się, czy ma dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu; 5) zbliżając się do przejścia dla pieszych, zachować szczególną ostrożność i ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu. 7. Osobie poruszającej się przy użyciu urządzenia wspomagającego ruch zabrania się: 1) poruszania się w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu; 2) przewożenia innej osoby, zwierzęcia lub ładunku; 3) ciągnięcia pojazdu lub ładunku; 4) czepiania się pojazdów; 5) poruszania się tyłem.”;
 - **5)** w art. 20 w ust. 6 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) hulajnogi elektrycznej i urządzenia transportu osobistego – 20 km/h.”;
 - **6)** w art. 22:
     - **a)** ust. 5 otrzymuje brzmienie: „5. Kierujący pojazdem jest obowiązany zawczasu i wyraźnie sygnalizować kierunkowskazem zamiar zmiany kierunku jazdy lub pasa ruchu oraz zaprzestać sygnalizowania niezwłocznie po wykonaniu manewru.”,
@@ -80,11 +51,9 @@ source: pdf
 - **7)** w art. 24 w ust. 2 zdanie drugie otrzymuje brzmienie: „W razie wyprzedzania roweru, wózka rowerowego, motoroweru, motocykla, hulajnogi elektrycznej, urządzenia transportu osobistego, osoby poruszającej się przy użyciu urządzenia wspomagającego ruch lub kolumny pieszych odstęp ten nie może być mniejszy niż 1 m.”;
 - **8)** w art. 26 w ust. 3 pkt 3 otrzymuje brzmienie: „3) jazdy wzdłuż po chodniku lub przejściu dla pieszych, z zastrzeżeniem art. 33 ust. 6, art. 33a ust. 2 oraz art. 33b ust. 2.”;
 - **9)** w art. 27:
-    - **a)** ust. 1 i 1a otrzymują brzmienie: „1. Kierujący pojazdem, zbliżając się do przejazdu dla rowerzystów, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa kierującemu rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego oraz osobie poruszającej się przy użyciu urządzenia wspomagającego ruch, znajdującym się na przejeździe.
+    - **a)** ust. 1 i 1a otrzymują brzmienie: „1. Kierujący pojazdem, zbliżając się do przejazdu dla rowerzystów, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa kierującemu rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego oraz osobie poruszającej się przy użyciu urządzenia wspomagającego ruch, znajdującym się na przejeździe. 1a. Kierujący pojazdem, który skręca w drogę poprzeczną, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa kierującemu rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego oraz osobie poruszającej się przy użyciu urządzenia wspomagającego ruch, jadącym na wprost po jezdni, pasie ruchu dla rowerów, drodze dla rowerów lub innej części drogi, którą zamierza opuścić.”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Kierujący pojazdem, przejeżdżając przez drogę dla rowerów poza jezdnią, jest obowiązany ustąpić pierwszeństwa kierującemu rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego oraz osobie poruszającej się przy użyciu urządzenia wspomagającego ruch.”;
 
-1a. Kierujący pojazdem, który skręca w drogę poprzeczną, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa kierującemu rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego oraz osobie poruszającej się przy użyciu urządzenia wspomagającego ruch, jadącym na wprost po jezdni, pasie ruchu dla rowerów, drodze dla rowerów lub innej części drogi, którą zamierza opuścić.”,
-
-- **b)** ust. 3 otrzymuje brzmienie: „3. Kierujący pojazdem, przejeżdżając przez drogę dla rowerów poza jezdnią, jest obowiązany ustąpić pierwszeństwa kierującemu rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego oraz osobie poruszającej się przy użyciu urządzenia wspomagającego ruch.”;
 - **10)** w art. 32:
     - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) rowerów, wózków rowerowych lub hulajnóg elektrycznych – 15;”,
     - **b)** ust. 6 otrzymuje brzmienie: „6. Zabrania się wjeżdżania między jadące w kolumnie rowery, wózki rowerowe lub hulajnogi elektryczne oraz pojazdy, o których mowa w ust. 5.”;
@@ -96,35 +65,7 @@ source: pdf
     - **c)** w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Kierującemu rowerem, hulajnogą elektryczną lub motorowerem zabrania się:”,
     - **d)** ust. 6 otrzymuje brzmienie: „6. Kierujący rowerem, korzystając z chodnika albo drogi dla pieszych, jest obowiązany jechać z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu.”;
 
-- **13)** po art. 33 dodaje się art. 33a–33d w brzmieniu: „Art. 33a. 1. Kierujący hulajnogą elektryczną jest obowiązany korzystać z jezdni, po której ruch pojazdów jest dozwolony z prędkością nie większą niż 30 km/h, w przypadku gdy brakuje wydzielonej drogi dla rowerów oraz pasa ruchu dla rowerów.
-
-2. Korzystanie z chodnika lub drogi dla pieszych przez kierującego hulajnogą elektryczną jest dozwolone wyjątkowo, gdy chodnik jest usytuowany wzdłuż jezdni, po której ruch pojazdów jest dozwolony z prędkością większą niż 30 km/h, i brakuje wydzielonej drogi dla rowerów oraz pasa ruchu dla rowerów.
-
-3. Kierującemu hulajnogą elektryczną zabrania się:
-
-- **1)** ciągnięcia lub holowania innego pojazdu;
-- **2)** przewożenia innej osoby, zwierzęcia lub ładunku.
-
-**Art. 33b.**
-
-1. Kierujący urządzeniem transportu osobistego jest obowiązany korzystać z drogi dla rowerów, jeżeli jest ona wyznaczona dla kierunku, w którym się porusza lub zamierza skręcić. Kierujący urządzeniem transportu osobistego, korzystając z drogi dla rowerów i pieszych, jest obowiązany zachować szczególną ostrożność i ustępować pierwszeństwa pieszemu.
-
-2. Korzystanie z chodnika lub drogi dla pieszych przez kierującego urządzeniem transportu osobistego jest dozwolone wyjątkowo, gdy brakuje wydzielonej drogi dla rowerów.
-
-3. Kierującemu urządzeniem transportu osobistego zabrania się:
-
-- **1)** ciągnięcia lub holowania innego pojazdu;
-- **2)** przewożenia innej osoby, zwierzęcia lub ładunku;
-- **3)** czepiania się pojazdów.
-
-**Art. 33c.** Kierujący hulajnogą elektryczną lub urządzeniem transportu osobistego, korzystając z chodnika albo drogi dla pieszych, jest obowiązany jechać z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu.
-
-**Art. 33d.**
-
-1. Zabrania się dopuszczania dziecka w wieku do 10 lat do kierowania hulajnogą elektryczną lub urządzeniem transportu osobistego na drodze.
-
-2. W strefie zamieszkania dopuszcza się kierowanie hulajnogą elektryczną lub urządzeniem transportu osobistego przez dziecko w wieku do 10 lat wyłącznie pod opieką osoby dorosłej.”;
-
+- **13)** po art. 33 dodaje się art. 33a–33d w brzmieniu: „Art. 33a. 1. Kierujący hulajnogą elektryczną jest obowiązany korzystać z jezdni, po której ruch pojazdów jest dozwolony z prędkością nie większą niż 30 km/h, w przypadku gdy brakuje wydzielonej drogi dla rowerów oraz pasa ruchu dla rowerów. 2. Korzystanie z chodnika lub drogi dla pieszych przez kierującego hulajnogą elektryczną jest dozwolone wyjątkowo, gdy chodnik jest usytuowany wzdłuż jezdni, po której ruch pojazdów jest dozwolony z prędkością większą niż 30 km/h, i brakuje wydzielonej drogi dla rowerów oraz pasa ruchu dla rowerów. 3. Kierującemu hulajnogą elektryczną zabrania się: 1) ciągnięcia lub holowania innego pojazdu; 2) przewożenia innej osoby, zwierzęcia lub ładunku. Art. 33b. 1. Kierujący urządzeniem transportu osobistego jest obowiązany korzystać z drogi dla rowerów, jeżeli jest ona wyznaczona dla kierunku, w którym się porusza lub zamierza skręcić. Kierujący urządzeniem transportu osobistego, korzystając z drogi dla rowerów i pieszych, jest obowiązany zachować szczególną ostrożność i ustępować pierwszeństwa pieszemu. 2. Korzystanie z chodnika lub drogi dla pieszych przez kierującego urządzeniem transportu osobistego jest dozwolone wyjątkowo, gdy brakuje wydzielonej drogi dla rowerów. 3. Kierującemu urządzeniem transportu osobistego zabrania się: 1) ciągnięcia lub holowania innego pojazdu; 2) przewożenia innej osoby, zwierzęcia lub ładunku; 3) czepiania się pojazdów. Art. 33c. Kierujący hulajnogą elektryczną lub urządzeniem transportu osobistego, korzystając z chodnika albo drogi dla pieszych, jest obowiązany jechać z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu. Art. 33d. 1. Zabrania się dopuszczania dziecka w wieku do 10 lat do kierowania hulajnogą elektryczną lub urządzeniem transportu osobistego na drodze. 2. W strefie zamieszkania dopuszcza się kierowanie hulajnogą elektryczną lub urządzeniem transportu osobistego przez dziecko w wieku do 10 lat wyłącznie pod opieką osoby dorosłej.”;
 - **14)** w art. 47:
     - **a)** w ust. 2 zdanie pierwsze otrzymuje brzmienie: „Dopuszcza się, przy zachowaniu warunków określonych w ust. 1 pkt 1 i 2, zatrzymanie lub postój na chodniku przy krawędzi jezdni całego samochodu osobowego, motocykla, motoroweru lub wózka rowerowego.”,
     - **b)** dodaje się ust. 3 w brzmieniu: „3. Dopuszcza się postój roweru, hulajnogi elektrycznej lub urządzenia transportu osobistego na chodniku w miejscu do tego przeznaczonym, a w razie braku takiego miejsca – jak najbliżej zewnętrznej krawędzi chodnika najbardziej oddalonej od jezdni oraz równolegle do tej krawędzi, przy zachowaniu warunków określonych w ust. 1 pkt 2.”;
@@ -135,8 +76,7 @@ source: pdf
     - **b)** w pkt 8 lit. a otrzymuje brzmienie: „a) kierowania pojazdem lub poruszania się przy użyciu urządzenia wspomagającego ruch osobie znajdującej się w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu,”;
 
 - **17)** w art. 129b:
-    - **a)** w ust. 2 w pkt 2 lit. b oraz c otrzymują brzmienie: „b) ruchu motorowerów, rowerów, wózków rowerowych, hulajnóg elektrycznych, urządzeń transportu osobistego, pojazdów zaprzęgowych oraz o jeździe wierzchem lub pędzeniu zwierząt,
-    - **c)** ruchu pieszych oraz osób poruszających się przy użyciu urządzeń wspomagających ruch,”,
+    - **a)** w ust. 2 w pkt 2 lit. b oraz c otrzymują brzmienie: „b) ruchu motorowerów, rowerów, wózków rowerowych, hulajnóg elektrycznych, urządzeń transportu osobistego, pojazdów zaprzęgowych oraz o jeździe wierzchem lub pędzeniu zwierząt, c) ruchu pieszych oraz osób poruszających się przy użyciu urządzeń wspomagających ruch,”,
     - **b)** w ust. 3: – pkt 1 otrzymuje brzmienie: „1) zatrzymania pojazdu, osoby poruszającej się przy użyciu urządzenia wspomagającego ruch lub jadącego wierzchem;”, – pkt 4 otrzymuje brzmienie: „4) legitymowania uczestnika ruchu i wydawania mu wiążących poleceń co do sposobu korzystania z drogi, używania pojazdu lub urządzenia wspomagającego ruch;”;
 
 - **18)** w art. 130a w ust. 6a w lit. g kropkę zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „h) hulajnoga elektryczna lub urządzenie transportu osobistego – za usunięcie – 123 zł; za każdą dobę przechowywania – 23 zł.”.

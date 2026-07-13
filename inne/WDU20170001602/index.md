@@ -26,25 +26,26 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001602) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1602/text.pdf) |
 
 w sprawie odznaki honorowej i legitymacji dla działaczy opozycji antykomunistycznej lub osób represjonowanych z powodów politycznych Na podstawie art. 6 ust. 4 ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. poz. 693 i 1220 oraz z 2017 r. poz. 1386) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzór odznaki honorowej „Działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych”, zwanej dalej „odznaką honorową”, oraz wzór legitymacji potwierdzającej nadanie odznaki honorowej;
-2) wzór legitymacji działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych, zwanej dalej „legitymacją”;
-3) sposób noszenia odznaki honorowej.
-§ 2. 1. Wzór odznaki honorowej jest określony w załączniku nr 1 do rozporządzenia.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzór odznaki honorowej „Działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych”, zwanej dalej „odznaką honorową”, oraz wzór legitymacji potwierdzającej nadanie odznaki honorowej;
+- **2)** wzór legitymacji działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych, zwanej dalej „legitymacją”;
+- **3)** sposób noszenia odznaki honorowej.
+
+**§ 2.**
+
+1. Wzór odznaki honorowej jest określony w załączniku nr 1 do rozporządzenia.
+
 2. Wzór legitymacji potwierdzającej nadanie odznaki honorowej jest określony w załączniku nr 2 do rozporządzenia.
-§ 3. Wzór legitymacji jest określony w załączniku nr 3 do rozporządzenia.
-§ 4. Odznakę honorową nosi się na lewej stronie piersi, po orderach i odznaczeniach, jeżeli są noszone jednocześnie.
-§ 5. W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 6. Rozporządzenie wchodzi w życie z dniem 31 sierpnia 2017 r.
-Minister Rodziny, Pracy i Polityki Społecznej: wz. S. Szwed Załączniki do rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 2017 r. (poz. ...) Załącznik nr 1 WZÓR ODZNAKI HONOROWEJ „DZIAŁACZA OPOZYCJI ANTYKOMUNISTYCZNEJ LUB WZÓR OSOBY ODZNAKI REPRESJONOWANEJ HONOROWEJ „DZIAŁACZA Z POWODÓW OPOZYCJI POLITYCZNYCH” ANTYKOMUNISTYCZNEJ LUB OSOBY REPRESJONOWANEJ Z POWODÓW POLITYCZNYCH” skala skala 1:1 1:1 skala skala 2:1 2:1
-1. 1. Odznaka Odznaka o kształcie o kształcie koła, wykonana koła, wykonana z metalu, o z średnicy metalu, 25 o mm. średnicy 25 mm.
-2. 2. Tło Tło pola pola środkowego środkowego srebrne oksydowane, srebrne oksydowane, na nim znajdują na się nim daty znajdują „1956” i się „1989”, daty w „1956” kolorze srebrnym, i „1989”, częściowo nałożone w kolorze na siebie srebrnym, i lekko przesunięte częściowo względem nałożone siebie w na płaszczyźnie siebie i poziomej. lekko przesunięte względem
-3. Poniżej siebie znajduje w płaszczyźnie się stylizowana poziomej. flaga Polski, pokryta emalią białą i czerwoną.
-4. Wokół pola środkowego jest umieszczony w srebrnym (o barwie jaśniejszej od barwy pola środkowego) oksydowa3. nym Poniżej otoku wklęsły znajduje majuskułowy się stylizowana napis, w kolorze flaga Polski, pola środkowego, pokryta emalią „ZA ZASŁUGI białą i DLA czerwoną. NIEPODLEGŁOŚCI”.
-5. 4. Tło Wokół pola środkowego pola środkowego jest wklęsłe jest w stosunku umieszczony do pozostałych w srebrnym elementów (o odznaki. barwie jaśniejszej od barwy
-6. Druga pola strona środkowego) odznaki gładka, oksydowanym z zapięciem. otoku wklęsły majuskułowy napis, w kolorze pola środkowego, „ZA ZASŁUGI DLA NIEPODLEGŁOŚCI”.
-5. Tło pola środkowego jest wklęsłe w stosunku do pozostałych elementów odznaki.
-6. Druga strona odznaki gładka, z zapięciem.
+
+**§ 3.** Wzór legitymacji jest określony w załączniku nr 3 do rozporządzenia.
+
+**§ 4.** Odznakę honorową nosi się na lewej stronie piersi, po orderach i odznaczeniach, jeżeli są noszone jednocześnie.
+
+**§ 5.** W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+
+**§ 6.** Rozporządzenie wchodzi w życie z dniem 31 sierpnia 2017 r. Minister Rodziny, Pracy i Polityki Społecznej: wz. S. Szwed Załączniki do rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 2017 r. (poz. ...) Załącznik nr 1 WZÓR ODZNAKI HONOROWEJ „DZIAŁACZA OPOZYCJI ANTYKOMUNISTYCZNEJ LUB WZÓR OSOBY ODZNAKI REPRESJONOWANEJ HONOROWEJ „DZIAŁACZA Z POWODÓW OPOZYCJI POLITYCZNYCH” ANTYKOMUNISTYCZNEJ LUB OSOBY REPRESJONOWANEJ Z POWODÓW POLITYCZNYCH” skala skala 1:1 1:1 skala skala 2:1 2:1 1. 1. Odznaka Odznaka o kształcie o kształcie koła, wykonana koła, wykonana z metalu, o z średnicy metalu, 25 o mm. średnicy 25 mm. 2. 2. Tło Tło pola pola środkowego środkowego srebrne oksydowane, srebrne oksydowane, na nim znajdują na się nim daty znajdują „1956” i się „1989”, daty w „1956” kolorze srebrnym, i „1989”, częściowo nałożone w kolorze na siebie srebrnym, i lekko przesunięte częściowo względem nałożone siebie w na płaszczyźnie siebie i poziomej. lekko przesunięte względem 3. Poniżej siebie znajduje w płaszczyźnie się stylizowana poziomej. flaga Polski, pokryta emalią białą i czerwoną. 4. Wokół pola środkowego jest umieszczony w srebrnym (o barwie jaśniejszej od barwy pola środkowego) oksydowa3. nym Poniżej otoku wklęsły znajduje majuskułowy się stylizowana napis, w kolorze flaga Polski, pola środkowego, pokryta emalią „ZA ZASŁUGI białą i DLA czerwoną. NIEPODLEGŁOŚCI”. 5. 4. Tło Wokół pola środkowego pola środkowego jest wklęsłe jest w stosunku umieszczony do pozostałych w srebrnym elementów (o odznaki. barwie jaśniejszej od barwy 6. Druga pola strona środkowego) odznaki gładka, oksydowanym z zapięciem. otoku wklęsły majuskułowy napis, w kolorze pola środkowego, „ZA ZASŁUGI DLA NIEPODLEGŁOŚCI”. 5. Tło pola środkowego jest wklęsłe w stosunku do pozostałych elementów odznaki. 6. Druga strona odznaki gładka, z zapięciem.
 
 ## Załącznik nr 2 — WZÓR LEGITYMACJI POTWIERDZAJĄCEJ NADANIE ODZNAKI HONOROWEJ „DZIAŁACZA OPOZYCJI ANTYKOMUNISTYCZNEJ LUB OSOBY WZÓR REPRESJONOWANEJ LEGITYMACJI POTWIERDZAJĄCEJ Z POWODÓW NADANIE POLITYCZNYCH” ODZNAKI HONOROWEJ „DZIAŁACZA OPOZYCJI ANTYKOMUNISTYCZNEJ LUB OSOBY REPRESJONOWANEJ Z POWODÓW POLITYCZNYCH” Legitymacja Legitymacja kartonowa, kartonowa, o wymiarach o wymiarach 104 mm × 151 104 mm mm x 151 mm Na pierwszej stronie znajduje się majuskułowy napis „URZĄD DO SPRAW KOMBATANTÓW I OSÓB REPRESJONOWANYCH”, Na pierwszej poniżej wizerunek stronie orła znajduje z godła Rzeczypospolitej się majuskułowy Polskiej. napis „URZĄD DO SPRAW KOMBATANTÓW I OSÓB REPRESJONOWANYCH”, poniżej wizerunek orła z godła Rzeczypospolitej Polskiej.
 

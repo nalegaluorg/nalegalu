@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002657) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2657/text.pdf) |
 
 zmieniające rozporządzenie w sprawie udzielania regionalnej pomocy inwestycyjnej w ramach programów regionalnych na lata 2021–2027 Na podstawie art. 30 ust. 4 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Funduszy i Polityki Regionalnej z dnia 11 października 2022 r. w sprawie udzielania regionalnej pomocy inwestycyjnej w ramach programów regionalnych na lata 2021–2027 (Dz. U. poz. 2161) w § 1 po wyrazach „art. 3 ust. 1 lit. a ppkt i, ii, iv i v” dodaje się wyrazy „oraz lit. b–e”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Funduszy i Polityki Regionalnej: G. Puda
+
+**§ 1.** W rozporządzeniu Ministra Funduszy i Polityki Regionalnej z dnia 11 października 2022 r. w sprawie udzielania regionalnej pomocy inwestycyjnej w ramach programów regionalnych na lata 2021–2027 (Dz. U. poz. 2161) w § 1 po wyrazach „art. 3 ust. 1 lit. a ppkt i, ii, iv i v” dodaje się wyrazy „oraz lit. b–e”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Funduszy i Polityki Regionalnej: G. Puda
 

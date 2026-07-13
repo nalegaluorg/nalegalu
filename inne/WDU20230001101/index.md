@@ -32,57 +32,109 @@ poz. 1190).
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 6 lipca 2010 r.
 w sprawie kierowania ruchem drogowym Na podstawie art. 6 ust. 4 pkt 1 i 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2023 r.
 poz. 1047, 919, 1053 i 1088) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) organizację oraz sposób dawania poleceń i sygnałów uczestnikowi ruchu lub innej osobie znajdującej się na drodze;
-2) program i tryb prowadzenia szkolenia w zakresie dawania poleceń i sygnałów osobom, o których mowa w pkt 1;
-3) wzór zaświadczenia o ukończeniu szkolenia;
-4) wysokość stawek za szkolenia oraz tryb ich pobierania i zwrotu;
-5) katalog osób upoważnionych do wykonywania czynności, o których mowa w pkt 1;
-6) okoliczności, szczegółowe warunki oraz sposób wykonywania czynności, o których mowa w pkt 1.
-§ 2. 1. Do dawania poleceń i sygnałów uczestnikowi ruchu lub innej osobie znajdującej się na drodze upoważnia się:
-1) osoby odpowiedzialne za utrzymanie porządku podczas przemarszu procesji, pielgrzymki, konduktu pogrzebowego lub innej zorganizowanej grupy ‒ jeżeli jest to niezbędne do zapewnienia ich bezpiecznego przemarszu;
-1a) osoby odpowiedzialne za utrzymanie porządku podczas przejazdu pielgrzymki rowerami ‒ jeżeli jest to niezbędne do zapewnienia jej bezpiecznego przejazdu;
-2) strażaków jednostek ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a‒5 i 8 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2022 r. poz. 2057 oraz z 2023 r. poz. 1088) ‒ podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej;
-3) (uchylony);
-4) umundurowanych i odpowiednio oznakowanych pracowników nadzoru ruchu komunikacji miejskiej ‒ podczas wykonywania czynności związanych z zapewnieniem płynności ruchu pojazdów komunikacji miejskiej, zdarzeń drogowych oraz awarii technicznych z udziałem tych pojazdów;
-5) (uchylony);
-6) członków zespołu ratownictwa medycznego ‒ podczas akcji prowadzenia medycznych czynności ratunkowych do czasu przybycia na miejsce zdarzenia innych osób uprawnionych do dawania poleceń i sygnałów uczestnikowi ruchu lub innej osobie znajdującej się na drodze.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** organizację oraz sposób dawania poleceń i sygnałów uczestnikowi ruchu lub innej osobie znajdującej się na drodze;
+- **2)** program i tryb prowadzenia szkolenia w zakresie dawania poleceń i sygnałów osobom, o których mowa w pkt 1;
+- **3)** wzór zaświadczenia o ukończeniu szkolenia;
+- **4)** wysokość stawek za szkolenia oraz tryb ich pobierania i zwrotu;
+- **5)** katalog osób upoważnionych do wykonywania czynności, o których mowa w pkt 1;
+- **6)** okoliczności, szczegółowe warunki oraz sposób wykonywania czynności, o których mowa w pkt 1.
+
+**§ 2.**
+
+1. Do dawania poleceń i sygnałów uczestnikowi ruchu lub innej osobie znajdującej się na drodze upoważnia się:
+
+- **1)** osoby odpowiedzialne za utrzymanie porządku podczas przemarszu procesji, pielgrzymki, konduktu pogrzebowego lub innej zorganizowanej grupy ‒ jeżeli jest to niezbędne do zapewnienia ich bezpiecznego przemarszu;
+- **1a)** osoby odpowiedzialne za utrzymanie porządku podczas przejazdu pielgrzymki rowerami ‒ jeżeli jest to niezbędne do zapewnienia jej bezpiecznego przejazdu;
+- **2)** strażaków jednostek ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a‒5 i 8 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2022 r. poz. 2057 oraz z 2023 r. poz. 1088) ‒ podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej;
+- **3)** (uchylony);
+- **4)** umundurowanych i odpowiednio oznakowanych pracowników nadzoru ruchu komunikacji miejskiej ‒ podczas wykonywania czynności związanych z zapewnieniem płynności ruchu pojazdów komunikacji miejskiej, zdarzeń drogowych oraz awarii technicznych z udziałem tych pojazdów;
+- **5)** (uchylony);
+- **6)** członków zespołu ratownictwa medycznego ‒ podczas akcji prowadzenia medycznych czynności ratunkowych do czasu przybycia na miejsce zdarzenia innych osób uprawnionych do dawania poleceń i sygnałów uczestnikowi ruchu lub innej osobie znajdującej się na drodze.
+
 2. (uchylony).
-§ 3. 1. Polecenia i sygnały dawane przez osoby kierujące ruchem powinny być jednoznaczne i zrozumiałe dla osób, dla których są przeznaczone.
+
+**§ 3.**
+
+1. Polecenia i sygnały dawane przez osoby kierujące ruchem powinny być jednoznaczne i zrozumiałe dla osób, dla których są przeznaczone.
+
 2. Sposób dawania poleceń i sygnałów do kierowania ruchem na skrzyżowaniu przez osoby, o których mowa w art. 6 ust. 1 pkt 1 i 2 ustawy, określa załącznik nr 1 do rozporządzenia.
-§ 4. 1. Polecenia i sygnały, o których mowa w § 3, uprawniona osoba daje za pomocą postawy i ruchu rąk, tarczy do zatrzymywania pojazdów, a w warunkach niedostatecznej widoczności ‒ latarki wyposażonej w światło czerwone lub światło czerwone i zielone albo tarczy do zatrzymywania pojazdów ze światłem odblaskowym lub światłem czerwonym.
+
+**§ 4.**
+
+1. Polecenia i sygnały, o których mowa w § 3, uprawniona osoba daje za pomocą postawy i ruchu rąk, tarczy do zatrzymywania pojazdów, a w warunkach niedostatecznej widoczności ‒ latarki wyposażonej w światło czerwone lub światło czerwone i zielone albo tarczy do zatrzymywania pojazdów ze światłem odblaskowym lub światłem czerwonym.
+
 2. Przepis ust. 1 nie dotyczy:
-1) osób, o których mowa w art. 6 ust. 1 pkt 1, 2 i 4 ustawy, kierujących ruchem na skrzyżowaniu i w obrębie przejazdu kolejowego; osoby te, kierując ruchem na skrzyżowaniu w warunkach niedostatecznej widoczności, mogą używać latarki wyposażonej w światło czerwone lub światło czerwone i zielone albo tarczy do zatrzymywania pojazdów ze światłem odblaskowym lub światłem czerwonym;
-2) osoby nadzorującej bezpieczne przejście dzieci przez jezdnię w wyznaczonym miejscu.
-§ 5. Pracownik kolejowy na przejeździe kolejowym, dla zwrócenia uwagi na dawane za pomocą tarczy do zatrzymywania pojazdów lub latarki ze światłem czerwonym polecenia i sygnały, może dodatkowo używać trąbki sygnalizacyjnej lub gwizdka.
-§ 6. 1. Osoba nadzorująca bezpieczne przejście dzieci przez jezdnię w wyznaczonym miejscu powinna być podczas dawania poleceń i sygnałów wyposażona w kwadratową tarczę barwy żółtej fluorescencyjnej z umieszczonym w polu ośmiokątnym znakiem barwy czerwonej z napisem „STOP”.
+
+- **1)** osób, o których mowa w art. 6 ust. 1 pkt 1, 2 i 4 ustawy, kierujących ruchem na skrzyżowaniu i w obrębie przejazdu kolejowego; osoby te, kierując ruchem na skrzyżowaniu w warunkach niedostatecznej widoczności, mogą używać latarki wyposażonej w światło czerwone lub światło czerwone i zielone albo tarczy do zatrzymywania pojazdów ze światłem odblaskowym lub światłem czerwonym;
+- **2)** osoby nadzorującej bezpieczne przejście dzieci przez jezdnię w wyznaczonym miejscu.
+
+**§ 5.** Pracownik kolejowy na przejeździe kolejowym, dla zwrócenia uwagi na dawane za pomocą tarczy do zatrzymywania pojazdów lub latarki ze światłem czerwonym polecenia i sygnały, może dodatkowo używać trąbki sygnalizacyjnej lub gwizdka.
+
+**§ 6.**
+
+1. Osoba nadzorująca bezpieczne przejście dzieci przez jezdnię w wyznaczonym miejscu powinna być podczas dawania poleceń i sygnałów wyposażona w kwadratową tarczę barwy żółtej fluorescencyjnej z umieszczonym w polu ośmiokątnym znakiem barwy czerwonej z napisem „STOP”.
+
 2. Polecenia i sygnały dla kierujących pojazdami osoba nadzorująca bezpieczne przejście dzieci przez jezdnię daje za pomocą tarczy, o której mowa w ust. 1.
+
 3. Osoba, o której mowa w ust. 1, przed podaniem sygnału do wstrzymania ruchu pojazdów jest obowiązana:
-1) wejść na przejście dla pieszych z uniesioną tarczą, w sposób niezmuszający kierujących do gwałtownego hamowania;
-płaszczyzna tarczy powinna być skierowana w stronę jadących pojazdów;
-2) zezwolić pieszym na przejście przez jezdnię dopiero po upewnieniu się, że pojazdy się zatrzymały;
-3) zejść z przejścia dopiero po opuszczeniu jezdni przez pieszych; oznacza to zezwolenie na kontynuowanie jazdy pojazdów.
+
+- **1)** wejść na przejście dla pieszych z uniesioną tarczą, w sposób niezmuszający kierujących do gwałtownego hamowania; płaszczyzna tarczy powinna być skierowana w stronę jadących pojazdów;
+- **2)** zezwolić pieszym na przejście przez jezdnię dopiero po upewnieniu się, że pojazdy się zatrzymały;
+- **3)** zejść z przejścia dopiero po opuszczeniu jezdni przez pieszych; oznacza to zezwolenie na kontynuowanie jazdy pojazdów.
+
 4. Szczegółową specyfikację techniczną tarczy znaku, o której mowa w ust. 1, określa załącznik nr 2 do rozporządzenia.
-§ 7. 1. Osoby, o których mowa w art. 6 ust. 1 pkt 1‒3c i 11 ustawy, powinny być podczas dawania poleceń i sygnałów w zakresie kierowania ruchem na drodze wyposażone w kamizelki barwy żółtej z elementami odblaskowymi oraz wyróżnikiem określającym formację, do której przynależą.
+
+**§ 7.**
+
+1. Osoby, o których mowa w art. 6 ust. 1 pkt 1‒3c i 11 ustawy, powinny być podczas dawania poleceń i sygnałów w zakresie kierowania ruchem na drodze wyposażone w kamizelki barwy żółtej z elementami odblaskowymi oraz wyróżnikiem określającym formację, do której przynależą.
+
 2. Osoby, o których mowa w § 2 ust. 1 pkt 1, 1a, 2 i 4 oraz art. 6 ust. 1 pkt 7, 8 i 12 ustawy, powinny być wyposażone podczas dawania poleceń i sygnałów w zakresie kierowania ruchem na drodze w kamizelki barwy pomarańczowej z elementami odblaskowymi oraz wyróżnikiem określającym odpowiednio przedsiębiorcę, którego są pracownikami, lub rodzaj wykonywanych czynności na drodze albo służbę, do której przynależą.
+
 3. (uchylony).
+
 4. Strażak Państwowej Straży Pożarnej oraz członek ochotniczej straży pożarnej dający polecenia i sygnały w zakresie kierowania ruchem na drodze podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej powinni być wyposażeni w ubranie specjalne zgodne z wymogami określonymi w przepisach określających strój tych formacji.
+
 5. Członek zespołu ratownictwa medycznego dający polecenia i sygnały w zakresie kierowania ruchem na drodze podczas akcji prowadzenia medycznych czynności ratunkowych do czasu przybycia na miejsce zdarzenia innych osób uprawnionych do dawania poleceń i sygnałów uczestnikowi ruchu lub innej osobie znajdującej się na drodze powinien być wyposażony w ubranie z elementami odblaskowymi.
+
 5a. Ratownik górski dający polecenia lub sygnały w zakresie kierowania ruchem na drodze podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej powinien być wyposażony w ubranie z elementami odblaskowymi oraz wyróżnikiem określającym podmiot uprawniony do wykonywania ratownictwa górskiego, w którym jest zatrudniony, pełni służbę lub którego jest członkiem.
+
 6. Przepisu ust. 1 nie stosuje się w przypadkach wymagających natychmiastowego działania do osób wyposażonych w strój służbowy posiadający widoczne stałe elementy odblaskowe z wyróżnikiem określającym formację.
-§ 8. 1. Stawka opłaty za szkolenie, o którym mowa w art. 6 ust. 3a ustawy, powinna zostać określona jako stawka opłaty za godzinę wykładową, pomnożoną przez liczbę godzin wykładowych, określoną w załączniku nr 3 do rozporządzenia.
+
+**§ 8.**
+
+1. Stawka opłaty za szkolenie, o którym mowa w art. 6 ust. 3a ustawy, powinna zostać określona jako stawka opłaty za godzinę wykładową, pomnożoną przez liczbę godzin wykładowych, określoną w załączniku nr 3 do rozporządzenia.
+
 2. Stawka opłaty za godzinę wykładową szkolenia powinna być wyznaczona w oparciu o średnie koszty zorganizowania szkolenia i wynosić nie więcej niż jedna ósma kosztów określonych w art. 6 ust. 3b ustawy.
-§ 9. Program szkolenia w zakresie kierowania ruchem drogowym określa załącznik nr 3 do rozporządzenia.
-§ 10. 1. Potwierdzeniem ukończenia szkolenia jest pozytywne zaliczenie testu i egzaminu praktycznego zgodnie z zakresem programu szkolenia. Dokumentem potwierdzającym posiadanie uprawnień do wykonywania niektórych czynności związanych z kierowaniem ruchem drogowym jest zaświadczenie o ukończeniu szkolenia wydane przez dyrektora wojewódzkiego ośrodka ruchu drogowego.
+
+**§ 9.** Program szkolenia w zakresie kierowania ruchem drogowym określa załącznik nr 3 do rozporządzenia.
+
+**§ 10.**
+
+1. Potwierdzeniem ukończenia szkolenia jest pozytywne zaliczenie testu i egzaminu praktycznego zgodnie z zakresem programu szkolenia. Dokumentem potwierdzającym posiadanie uprawnień do wykonywania niektórych czynności związanych z kierowaniem ruchem drogowym jest zaświadczenie o ukończeniu szkolenia wydane przez dyrektora wojewódzkiego ośrodka ruchu drogowego.
+
 2. Zaświadczenie, o którym mowa w ust. 1, zachowuje ważność przez okres 5 lat od daty wydania.
+
 3. Po upływie okresu, o którym mowa w ust. 2, zaświadczenie wydaje się po odbyciu ponownego szkolenia.
+
 4. Wojewódzki ośrodek ruchu drogowego prowadzi ewidencję wydanych zaświadczeń o ukończeniu szkolenia.
+
 5. Wzór zaświadczenia, o którym mowa w ust. 1, określa załącznik nr 4 do rozporządzenia.
-§ 11. 1. Opłata, o której mowa w § 8 ust. 1, dokonywana jest przez wpłatę na konto wskazane przez wojewódzki ośrodek ruchu drogowego albo w kasie wojewódzkiego ośrodka ruchu drogowego. Wpłata powinna być dokonana najpóźniej w dniu rozpoczęcia szkolenia.
+
+**§ 11.**
+
+1. Opłata, o której mowa w § 8 ust. 1, dokonywana jest przez wpłatę na konto wskazane przez wojewódzki ośrodek ruchu drogowego albo w kasie wojewódzkiego ośrodka ruchu drogowego. Wpłata powinna być dokonana najpóźniej w dniu rozpoczęcia szkolenia.
+
 2. Zwrot opłaty, o której mowa w § 8 ust. 1, dokonywany jest przez wpłatę na konto wskazane przez podmiot uprawniony do uzyskania zwrotu tej opłaty albo poprzez wypłatę w kasie wojewódzkiego ośrodka ruchu drogowego. Zwrot opłaty powinien zostać dokonany niezwłocznie.
-§ 12. Zaświadczenia o ukończeniu szkolenia wydane na podstawie dotychczasowych przepisów zachowują ważność na okres, na który zostały wydane.
-§ 13. Rozporządzenie wchodzi w życie z dniem 10 lipca 2010 r.
-SPOSÓB DAWANIA POLECEŃ I SYGNAŁÓW DO KIEROWANIA RUCHEM NA SKRZYŻOWANIU
+
+**§ 12.** Zaświadczenia o ukończeniu szkolenia wydane na podstawie dotychczasowych przepisów zachowują ważność na okres, na który zostały wydane.
+
+**§ 13.** Rozporządzenie wchodzi w życie z dniem 10 lipca 2010 r. SPOSÓB DAWANIA POLECEŃ I SYGNAŁÓW DO KIEROWANIA RUCHEM NA SKRZYŻOWANIU
+
+## Załącznik
+
 § 1. 1. Przed podjęciem czynności kierowania ruchem drogowym policjant jest obowiązany powiadomić dyżurnego stanowiska kierowania właściwej terytorialnie jednostki Policji o przystąpieniu do wykonania tych czynności. Natomiast przed podjęciem czynności kierowania ruchem drogowym przez żołnierza Żandarmerii Wojskowej lub żołnierza wojskowego organu porządkowego obowiązany jest on osobiście lub przez przełożonego albo innego uprawnionego żołnierza powiadomić najbliższą właściwą terytorialnie jednostkę Policji.
 2. Podejmując kierowanie ruchem, policjant lub żołnierz, o którym mowa w ust. 1, zwany dalej „kierującym ruchem”, powinien zająć miejsce na skrzyżowaniu zapewniające jego dobrą widoczność i bezpieczeństwo oraz sprawne i skuteczne wykonywanie czynności związanych z kierowaniem ruchem.
 3. Jeżeli przez skrzyżowanie przebiegają tory tramwajowe, miejsce kierowania powinno być w miarę możliwości usytuowane poza nimi, z uwzględnieniem warunków określonych w ust. 2.

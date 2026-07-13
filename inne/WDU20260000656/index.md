@@ -26,19 +26,9 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000656) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/656/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2025 r. poz. 229), z uwzględnieniem stanu prawnego na dzień 12 maja 2026 r. oraz zmian wprowadzonych ustawą z dnia 7 listopada 2025 r. o nadzorze nad ogólnym bezpieczeństwem produktów (Dz. U. poz. 1826).
-2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 93–95, art. 101 i art. 103 ustawy z dnia 7 listopada 2025 r. o nadzorze nad ogólnym bezpieczeństwem produktów (Dz. U. poz. 1826), które stanowią: „Art. 93. Produkty objęte zakresem przepisów ustawy uchylanej w art. 102 mogą być udostępniane na rynku, jeżeli są zgodne z przepisami tej ustawy i zostały wprowadzone do obrotu przed dniem 13 grudnia 2024 r.
-
-**Art. 94.**
-
-1. Do kontroli produktów w zakresie spełniania przez nie ogólnych wymagań bezpieczeństwa wszczętych na podstawie ustawy uchylanej w art. 102 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
-
-2. Do kontroli wszczętej od dnia wejścia w życie niniejszej ustawy w następstwie kontroli, o której mowa w ust. 1, stosuje się przepisy dotychczasowe.
-
-**Art. 95.**
-
-1. Do postępowań w sprawie ogólnego bezpieczeństwa produktu wszczętych na podstawie ustawy uchylanej w art. 102 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
-
-2. Do postępowań w sprawie ogólnego bezpieczeństwa produktu wszczętych na podstawie kontroli, o których mowa w art. 94, stosuje się przepisy dotychczasowe.” „Art. 101. Pierwszą krajową strategię nadzoru rynku w zakresie ogólnego bezpieczeństwa produktów, o której mowa w art. 13 ust. 1 rozporządzenia 2019/1020, sporządza się w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.” „Art. 103. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 15 grudnia 2000 r. o Inspekcji Handlowej
+2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 93–95, art. 101 i art. 103 ustawy z dnia 7 listopada 2025 r. o nadzorze nad ogólnym bezpieczeństwem produktów (Dz. U. poz. 1826), które stanowią: „ Art. 93. Produkty objęte zakresem przepisów ustawy uchylanej w art. 102 mogą być udostępniane na rynku, jeżeli są zgodne z przepisami tej ustawy i zostały wprowadzone do obrotu przed dniem 13 grudnia 2024 r. Art. 94. 1. Do kontroli produktów w zakresie spełniania przez nie ogólnych wymagań bezpieczeństwa wszczętych na podstawie ustawy uchylanej w art. 102 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. 2. Do kontroli wszczętej od dnia wejścia w życie niniejszej ustawy w następstwie kontroli, o której mowa w ust. 1, stosuje się przepisy dotychczasowe. Art. 95. 1. Do postępowań w sprawie ogólnego bezpieczeństwa produktu wszczętych na podstawie ustawy uchylanej w art. 102 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. 2. Do postępowań w sprawie ogólnego bezpieczeństwa produktu wszczętych na podstawie kontroli, o których mowa w art. 94, stosuje się przepisy dotychczasowe.” „Art. 101. Pierwszą krajową strategię nadzoru rynku w zakresie ogólnego bezpieczeństwa produktów, o której mowa w art. 13 ust. 1 rozporządzenia 2019/1020, sporządza się w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.” „Art. 103. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty
+USTAWA z dnia 15 grudnia 2000 r.
+o Inspekcji Handlowej
 
 #### Rozdział 1 Przepisy ogólne
 

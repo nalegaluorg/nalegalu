@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie sposobu prowadzenia gospodarki finansowej oraz sporządzania planu finansowego jednostek doradztwa rolniczego Na podstawie art. 12 ust. 2 ustawy z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U.
 z 2017 r. poz. 1149 i 1566) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 22 grudnia 2009 r. w sprawie sposobu prowadzenia gospodarki finansowej oraz sporządzania planu finansowego jednostek doradztwa rolniczego (Dz. U. z 2017 r. poz. 1906) w § 7 ust. 1 i 2 otrzymują brzmienie: „1. Wyboru firmy audytorskiej przeprowadzającej badanie rocznego sprawozdania finansowego jednostki dokonuje minister właściwy do spraw rozwoju wsi.
-2. Koszty postępowania o zamówienie publiczne związane z wyborem firmy audytorskiej przeprowadzającej badanie rocznego sprawozdania finansowego ponoszą jednostki.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rozwoju i Finansów: wz. W. Janczyk
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 22 grudnia 2009 r. w sprawie sposobu prowadzenia gospodarki finansowej oraz sporządzania planu finansowego jednostek doradztwa rolniczego (Dz. U. z 2017 r. poz. 1906) w § 7 ust. 1 i 2 otrzymują brzmienie: „1. Wyboru firmy audytorskiej przeprowadzającej badanie rocznego sprawozdania finansowego jednostki dokonuje minister właściwy do spraw rozwoju wsi. 2. Koszty postępowania o zamówienie publiczne związane z wyborem firmy audytorskiej przeprowadzającej badanie rocznego sprawozdania finansowego ponoszą jednostki.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rozwoju i Finansów: wz. W. Janczyk
 

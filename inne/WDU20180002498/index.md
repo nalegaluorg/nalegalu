@@ -27,13 +27,17 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin Na podstawie art. 212 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r.
 poz. 508, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 21 grudnia 2017 r. w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. poz. 2489) w § 2:
-1) w ust. 1:
-a) wprowadzenie do wyliczenia otrzymuje brzmienie: „Funkcjonariuszowi Służby Celno-Skarbowej, zwanemu dalej „funkcjonariuszem”, który w związku z pełnieniem służby nabył w danym roku kalendarzowym prawo do urlopu wypoczynkowego, małżonkowi funkcjonariusza oraz dzieciom własnym funkcjonariusza, dzieciom małżonka funkcjonariusza, jak również dzieciom przysposobionym i dzieciom przyjętym na wychowanie przez funkcjonariusza lub małżonka funkcjonariusza:”,
-b) pkt 3 otrzymuje brzmienie: „3) bez względu na wiek, jeżeli są osobami całkowicie niezdolnymi do pracy albo całkowicie niezdolnymi do pracy oraz do samodzielnej egzystencji, albo niezdolnymi do samodzielnej egzystencji”;
-2) w ust. 2 wyrazy „całkowitą niezdolność do wykonywania pracy” zastępuje się wyrazami „całkowitą niezdolność do pracy albo całkowitą niezdolność do pracy i niezdolność do samodzielnej egzystencji, albo niezdolność do samodzielnej egzystencji”;
-3) w ust. 5 wyraz „0,144” zastępuje się wyrazem „0,263”.
-§ 2. Do spraw o przyznanie świadczeń niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 21 grudnia 2017 r. w sprawie świadczeń socjalnych funkcjonariuszy Służby Celno-Skarbowej i członków ich rodzin (Dz. U. poz. 2489) w § 2:
+
+- **1)** w ust. 1:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Funkcjonariuszowi Służby Celno-Skarbowej, zwanemu dalej „funkcjonariuszem”, który w związku z pełnieniem służby nabył w danym roku kalendarzowym prawo do urlopu wypoczynkowego, małżonkowi funkcjonariusza oraz dzieciom własnym funkcjonariusza, dzieciom małżonka funkcjonariusza, jak również dzieciom przysposobionym i dzieciom przyjętym na wychowanie przez funkcjonariusza lub małżonka funkcjonariusza:”,
+    - **b)** pkt 3 otrzymuje brzmienie: „3) bez względu na wiek, jeżeli są osobami całkowicie niezdolnymi do pracy albo całkowicie niezdolnymi do pracy oraz do samodzielnej egzystencji, albo niezdolnymi do samodzielnej egzystencji”;
+
+- **2)** w ust. 2 wyrazy „całkowitą niezdolność do wykonywania pracy” zastępuje się wyrazami „całkowitą niezdolność do pracy albo całkowitą niezdolność do pracy i niezdolność do samodzielnej egzystencji, albo niezdolność do samodzielnej egzystencji”;
+- **3)** w ust. 5 wyraz „0,144” zastępuje się wyrazem „0,263”.
+
+**§ 2.** Do spraw o przyznanie świadczeń niezakończonych przed dniem wejścia w życie rozporządzenia stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
 

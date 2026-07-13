@@ -27,20 +27,19 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej Na podstawie art. 4 ust. 1 ustawy z dnia 27 maja 2015 r. o finansowaniu wspólnej polityki rolnej (Dz. U. z 2018 r.
 poz. 719) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. z 2018 r. poz. 455) wprowadza się następujące zmiany:
-1) w § 2:
-a) uchyla się pkt 1,
-b) po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) rynku owoców i warzyw;”,
-c) w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–13 w brzmieniu: „5) prowadzenia interwencji mającej na celu stabilizację rynków rolnych;
-6) administrowania obrotem towarowym z zagranicą, w szczególności w zakresie przyznawania refundacji przy wywozie do państw trzecich;
-7) administrowania kwotowaniem produkcji – z wyłączeniem procesu autoryzacji wniosku;
-8) działań dotyczących restrukturyzacji przemysłu cukrowniczego – z wyłączeniem procesu autoryzacji wniosku;
-9) programu „Owoce i warzywa w szkole”;
-10) dopłat do spożycia mleka i przetworów mlecznych w placówkach oświatowych;
-11) programu „Program dla szkół”;
-12) pomocy związanej ze wspieraniem działań promocyjnych i informacyjnych na rynkach wybranych produktów rolnych i żywnościowych w ramach wspólnej polityki rolnej;
-13) pomocy w zakresie wsparcia pszczelarstwa w ramach wspólnej polityki rolnej.”;
-2) w § 3 dodaje się ust. 5 w brzmieniu: „5. Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 1a i 5–13, udziela się od dnia 1 września 2018 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2018 r.
-Minister Finansów: T. Czerwińska
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. z 2018 r. poz. 455) wprowadza się następujące zmiany:
+
+- **1)** w § 2:
+    - **a)** uchyla się pkt 1,
+    - **b)** po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) rynku owoców i warzyw;”,
+    - **c)** w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–13 w brzmieniu: „5) prowadzenia interwencji mającej na celu stabilizację rynków rolnych; 6) administrowania obrotem towarowym z zagranicą, w szczególności w zakresie przyznawania refundacji przy wywozie do państw trzecich; 7) administrowania kwotowaniem produkcji – z wyłączeniem procesu autoryzacji wniosku; 8) działań dotyczących restrukturyzacji przemysłu cukrowniczego – z wyłączeniem procesu autoryzacji wniosku; 9) programu „Owoce i warzywa w szkole”;
+
+- **10)** dopłat do spożycia mleka i przetworów mlecznych w placówkach oświatowych;
+- **11)** programu „Program dla szkół”;
+- **12)** pomocy związanej ze wspieraniem działań promocyjnych i informacyjnych na rynkach wybranych produktów rolnych i żywnościowych w ramach wspólnej polityki rolnej;
+- **13)** pomocy w zakresie wsparcia pszczelarstwa w ramach wspólnej polityki rolnej.”;
+- **2)** w § 3 dodaje się ust. 5 w brzmieniu: „5. Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 1a i 5–13, udziela się od dnia 1 września 2018 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 września 2018 r. Minister Finansów: T. Czerwińska
 

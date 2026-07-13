@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001442) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1442/text.pdf) |
 
 w sprawie wysokości środków finansowych w 2022 r. dla jednostek ochrony przeciwpożarowej działających w ramach krajowego systemu ratowniczo-gaśniczego Na podstawie art. 33 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2021 r. poz. 869 i 2490) zarządza się, co następuje:
-§ 1. Wysokość środków finansowych przeznaczonych wyłącznie dla zapewnienia gotowości bojowej zakładowych straży pożarnych działających w ramach krajowego systemu ratowniczo-gaśniczego ustala się w 2022 r. w kwocie 35 000 zł.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+
+**§ 1.** Wysokość środków finansowych przeznaczonych wyłącznie dla zapewnienia gotowości bojowej zakładowych straży pożarnych działających w ramach krajowego systemu ratowniczo-gaśniczego ustala się w 2022 r. w kwocie 35 000 zł.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 

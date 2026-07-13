@@ -8,10 +8,10 @@ pos: 303
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 marca 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 303 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,16 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000303) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/303/text.pdf) |
 
-Poz. 303 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 w sprawie nadania statutu Biebrzańskiemu Parkowi Narodowemu z siedzibą w Osowcu-Twierdzy Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn.
-zm. ) zarządza się, co następuje: § 1. Biebrzańskiemu Parkowi Narodowemu z siedzibą w Osowcu-Twierdzy nadaje się statut, który stanowi załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-Minister Środowiska: M. Korolec STATUT BIEBRZAŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W OSOWCU-TWIERDZY § 1. Biebrzański Park Narodowy z siedzibą w Osowcu-Twierdzy, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) oraz niniejszego statutu.
+zm. ) zarządza się, co następuje:
+
+**§ 1.** Biebrzańskiemu Parkowi Narodowemu z siedzibą w Osowcu-Twierdzy nadaje się statut, który stanowi załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia. Minister Środowiska: M. Korolec STATUT BIEBRZAŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W OSOWCU-TWIERDZY
+
+## Załącznik
+
+§ 1. Biebrzański Park Narodowy z siedzibą w Osowcu-Twierdzy, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) oraz niniejszego statutu.
 § 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
 1) Dział Administracji;
 2) Dział Edukacji;
@@ -44,21 +49,22 @@ Minister Środowiska: M. Korolec STATUT BIEBRZAŃSKIEGO PARKU NARODOWEGO Z SIEDZ
 11) Samodzielne Stanowisko do spraw Kontroli Wewnętrznej;
 12) Posterunek Straży Parku;
 13) Obręb Ochronny Basenu Górnego, podzielony na obwody ochronne:
-a) T rzyrzeczki,
-b) L ipsk;
+a) Trzyrzeczki,
+b) Lipsk;
 14) Obręb Ochronny Basenu Środkowego, podzielony na obwody ochronne:
-a) D ębowo,
-b) K opytkowo,
-c) K apice,
-d) T ajno,
-e) C iszewo,
-f) G rzędy;
+a) Dębowo,
+b) Kopytkowo,
+c) Kapice,
+d) Tajno,
+e) Ciszewo,
+f) Grzędy;
 15) Obręb Ochronny Basenu Dolnego, podzielony na obwody ochronne:
-a) O sowiec,
-b) W erykle,
-c) B rzeziny,
-d) M ścichy.
+a) Osowiec,
+b) Werykle,
+c) Brzeziny,
+d) Mścichy.
 § 3. Dyrektor Parku może tworzyć komisje lub zespoły opiniodawczo-doradcze o charakterze stałym lub czasowym, określając ich nazwę, skład osobowy, zakres zadań, tryb działania oraz sposób ich obsługi.
 § 4. Dyrektor Parku kieruje działalnością Parku przy pomocy zastępcy lub zastępców dyrektora Parku, głównego księgowego oraz kierujących komórkami organizacyjnymi, o których mowa w § 2.
 § 5. W razie nieobecności dyrektora Parku lub czasowej niezdolności do wykonywania przez niego obowiązków działalnością Parku kieruje i reprezentuje Park na zewnątrz wyznaczony przez dyrektora Parku jego zastępca.
+§ 6. Dyrektor Parku udziela pełnomocnictwa do dokonywania czynności prawnych na piśmie.
 

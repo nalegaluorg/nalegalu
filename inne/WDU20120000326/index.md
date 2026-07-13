@@ -8,10 +8,10 @@ pos: 326
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 marca 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 326 Załączniki do rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia ………………. ……….2012 r. (poz….) Załącznik nr 1 WYPOSAŻENIE JACHTU MORSKIEGO O DŁUGOŚCI DO 24 M I. Środki ratunkowe
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000326) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/326/text.pdf) |
 
-WYPOSAŻENIE JACHTU MORSKIEGO O DŁUGOŚCI DO 24 M I. Środki ratunkowe
 1) Jacht w Rejonie 3 i 4 (żegludze pełnomorskiej i oceanicznej) powinien posiadać:
 a) pneumatyczne tratwy ratunkowe mogące pomieścić wszystkie osoby znajdujące się na jachcie,
 b) dwa koła ratunkowe, w tym jedno zaopatrzone w pławkę świetlną i tyczkę z flagą oraz drugie w linkę ratunkową; jacht o długości co najmniej 15 m, w żegludze oceanicznej, powinien posiadać 4 koła,
@@ -34,7 +33,7 @@ c) pasy/kamizelki ratunkowe dla każdej z osób znajdujących się na jachcie;
 a) dwa koła ratunkowe, w tym jedno zaopatrzone w pławkę świetlną i tyczkę z flagą oraz drugie w linkę ratunkową,
 b) pasy/kamizelki ratunkowe dla każdej z osób znajdujących się na jachcie,
 c) pneumatyczne tratwy ratunkowe , mogące pomieścić wszystkie osoby znajdujące się na jachcie;
-3) Każdy jacht w Rejonie 1, 2, 3 i 4 (żegludze osłoniętej, przybrzeżnej, pełnomorskiej i oceanicznej) powinien posiadać pasy bezpieczeństwa dla wszystkich osób na jachcie, a jacht w Rejonie T (żegludze na akwenach treningowych) powinien posiadać minimum pasy bezpieczeństwa dla co najmniej połowy osób na jachcie. Jeżeli kamizelki ratunkowe są wyposażone w uprząż spełniającą funkcję pasa bezpieczeństwa dodatkowych pasów bezpieczeństwa nie wymaga się;
+3) Każdy jacht w Rejonie 1, 2, 3 i 4 (żegludze osłoniętej, przybrzeżnej, pełnomorskiej i oceanicznej) powinien posiadać pasy bezpieczeństwa dla wszystkich osób na jachcie, a jacht w Rejonie T (żegludze na akwenach treningowych) powinien posiadać minimum pasy bezpieczeństwa dla co najmniej połowy osób na jachcie. Jeżeli kamizelki ratunkowe są wyposażone w uprząż spełniającą funkcję pasa bezpieczeństwa – dodatkowych pasów bezpieczeństwa nie wymaga się;
 4) Jacht w Rejonie 3 i 4 (żegludze pełnomorskiej i oceanicznej) powinien posiadać:
 a) 12 rakiet spadochronowych czerwonych,
 b) 1 pławkę dymną pomarańczową;
@@ -44,7 +43,7 @@ b) 1 pławkę dymną pomarańczową;
 6) Jacht w Rejonie T (żegludze na akwenach treningowych) w porze nocnej oraz Rejonie 1 (żegludze osłoniętej) powinien posiadać:
 a) 3 rakiety spadochronowe czerwone,
 b) 1 pławkę dymną koloru pomarańczowego.
-Dopuszczone standardy tratw ratunkowych Rejon żeglugi Lp. Standard tratwy 1 2 3 4 osłonięta przybrzeżna pełnomorska oceaniczna 1 SOLAS A pack     2 SOLAS B pack    3 ISO 9650-1 pack 1    Dopuszczone standardy pasów/kamizelek ratunkowych Rejon żeglugi Lp. Standard pasa/kamizelki 1 2 3 4 osłonięta przybrzeżna pełnomorska oceaniczna 1 Pas ratunkowy SOLAS     spełniający normę 2 transponującą normę EN ISO 12402-2 [275 N]     spełniający normę   3 transponującą normę EN ISO 12402-3 [150 N] Uwagi ogólne:
+1 Dopuszczone standardy tratw ratunkowych Rejon żeglugi Lp. Standard tratwy 1 2 3 4 osłonięta przybrzeżna pełnomorska oceaniczna 1 SOLAS – A pack     2 SOLAS – B pack    3 ISO 9650-1 pack 1    Dopuszczone standardy pasów/kamizelek ratunkowych Rejon żeglugi Lp. Standard pasa/kamizelki 1 2 3 4 osłonięta przybrzeżna pełnomorska oceaniczna 1 Pas ratunkowy SOLAS     spełniający normę     2 transponującą normę EN ISO 12402-2 [275 N] spełniający normę   3 transponującą normę EN ISO 12402-3 [150 N] Uwagi ogólne:
 1. W przypadku tratw umieszczonych w sztywnym pojemniku na pokładzie otwartym, zaleca się mocowanie z użyciem zwalniaka hydrostatycznego.
 2. Zwalniaki hydrostatyczne muszą posiadać aktualny atest.
 3. Tratwy muszą być certyfikowane i posiadać aktualny atest.
@@ -56,7 +55,7 @@ Dopuszczone standardy tratw ratunkowych Rejon żeglugi Lp. Standard tratwy 1 2 3
 9. Jachty uprawiające żeglugę pod nadzorem zwolnione są z konieczności wyposażenia w środki sygnalizacyjne, o których mowa w pkt 4, 5 i 6.
 II. Sprzęt sygnałowy
 1) Jacht powinien posiadać latarnię, znaki dzienne, sprzęt sygnałowy, zgodny z wymaganiami Konwencji o zapobieganiu zderzeniom, o której mowa w art. 5 pkt 33 lit. c ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim.
-IV. Urządzenia radiokomunikacyjne
+2 IV. Urządzenia radiokomunikacyjne
 1) Jacht w Rejonie 4 (żegludze oceanicznej) powinien być wyposażony co najmniej w:
 a) stacjonarny radiotelefon VHF z DSC,
 b) statkowy terminal satelitarny lub radiotelefon MF/HF (średnio-, krótkofalowy) z systemem DSC, lub satelitarny telefon komórkowy z dostępem do numeru alarmowego centrum ratownictwa morskiego,
@@ -71,15 +70,15 @@ c) urządzenie do odbioru prognoz pogody oraz ostrzeżeń;
 4) Każdy jacht powinien posiadać możliwość odbioru morskich informacji bezpieczeństwa i prognoz pogody;
 5) W pobliżu zainstalowanych urządzeń, zwłaszcza służących do alarmowania, należy umieścić procedury postępowania w sytuacjach zagrożenia.
 Uwaga ogólna: Radiopława awaryjna (EPIRB) powinna być zarejestrowana i wpisana do ewidencji pokładowych i osobistych nadajników sygnału niebezpieczeństwa.
-V. Sprzęt ochrony przeciwpożarowej Lp. Obszar/Miejsce Rodzaj sprzętu 1 Główne stanowisko sterowania lub kokpit Gaśnica grupy pożarów ABC 2 kg szt. 1 Na każde 20 m 2 obszaru mieszkalnego.
-Jeżeli przedział mieszkalny (obszar lub grupa kabin oddzielona od reszty jednostki stałymi przegrodami, takimi jak pokłady lub grodzie, które mogą być wyposażone w drzwi lub luk), to na każdy przedział Gaśnica grupy pożarów ABC 2 kg szt. 1 3 W obrębie każdego urządzenia z otwartym płomieniem Gaśnica grupy pożarów ABC 2 kg szt. 1 lub koc gaśniczy i gaśnica grupy pożarów ABC 1 kg szt. 1 4 Jednostka z silnikiem przyczepnym Gaśnica grupy pożaru ABC 2 kg szt. 1 Dla silników o łącznej mocy (napędowy i pomocniczy) do 120 kW: gaśnica grupy pożaru ABC 4 kg szt. 1 (lub zamiennie 2 gaśnice po 2 kg) Na zewnątrz przestrzeni silnikowej, lecz nie 5 dalej niż 2 m od otworu gaśniczego w obu- Dla silników o łącznej mocy (napędowy dowie silnika i pomocniczy) powyżej 120 kW: gaśnica grupy pożaru ABC 4 kg szt. 2 W przypadku zastosowania stałej instalacji gaśniczej pod nadzorem klasyfikatora wyposażenie w gaśnice nie jest wymagane Uwagi ogólne:
+4 V. Sprzęt ochrony przeciwpożarowej Lp. Obszar/Miejsce Rodzaj sprzętu 1 Główne stanowisko sterowania lub kokpit Gaśnica grupy pożarów ABC 2 kg – szt. 1 Na każde 20 m obszaru mieszkalnego.
+Jeżeli przedział mieszkalny (obszar lub gru2 pa kabin oddzielona od reszty jednostki sta- Gaśnica grupy pożarów ABC 2 kg – szt. 1 łymi przegrodami, takimi jak pokłady lub grodzie, które mogą być wyposażone w drzwi lub luk), to na każdy przedział Gaśnica grupy pożarów ABC 2 kg – szt. 1 3 W obrębie każdego urządzenia z otwartym lub koc gaśniczy i gaśnica grupy pożarów płomieniem ABC 1 kg – szt. 1 4 Jednostka z silnikiem przyczepnym Gaśnica grupy pożaru ABC 2 kg – szt. 1 Dla silników o łącznej mocy (napędowy i pomocniczy) do 120 kW: – gaśnica grupy pożaru ABC 4 kg – szt. 1 (lub zamiennie 2 gaśnice po 2 kg) Na zewnątrz przestrzeni silnikowej, lecz nie 5 dalej niż 2 m od otworu gaśniczego w obu- Dla silników o łącznej mocy (napędowy dowie silnika i pomocniczy) powyżej 120 kW: – gaśnica grupy pożaru ABC 4 kg – szt. 2 W przypadku zastosowania stałej instalacji gaśniczej pod nadzorem klasyfikatora wyposażenie w gaśnice nie jest wymagane Uwagi ogólne:
 1. Każdy sprzęt gaśniczy powinien być łatwo dostępny i oznakowany odpowiednim symbolem ISO oraz poddawany okresowym badaniom.
-2. Jacht należy wyposażyć w instrukcję dla kapitana i użytkownika, w której powinny być zawarte następujące informacje: sprzęt ochrony przeciwpożarowej, czynności obsługowe związane ze sprzętem ochrony przeciwpożarowej, dodatkowe uwagi ostrzegawcze dla użytkownika jachtu.
+2. Jacht należy wyposażyć w instrukcję dla kapitana i użytkownika, w której powinny być zawarte następujące informacje: – sprzęt ochrony przeciwpożarowej, – czynności obsługowe związane ze sprzętem ochrony przeciwpożarowej, – dodatkowe uwagi ostrzegawcze dla użytkownika jachtu.
 3. Obowiązek wyposażenia w sprzęt ochrony przeciwpożarowej nie dotyczy jachtów bez silnika, nieposiadających instalacji elektrycznej i niewyposażonych w kuchenkę.
-VI. Wyposażenie pokładowe Jacht musi być wyposażony co najmniej w: − osprzęt kotwiczny z łańcuchem lub liną, stosownie do wielkości jachtu, − osprzęt cumowniczy stosowny do wielkości jachtu, − zestaw narzędzi i części zapasowych niezbędnych do dokonania prac naprawczych na jednostce, stosowny do wielkości jachtu i rodzaju napędu, − apteczkę , − nożyce do cięcia olinowania w przypadku jachtów żaglowych o długości co najmniej 12 m.
-WYPOSAŻENIE JACHTU MORSKIEGO O DŁUGOŚCI CO NAJMNIEJ 24 M I. Środki ratunkowe
+5 VI. Wyposażenie pokładowe Jacht musi być wyposażony co najmniej w: − osprzęt kotwiczny z łańcuchem lub liną, stosownie do wielkości jachtu, − osprzęt cumowniczy stosowny do wielkości jachtu, − zestaw narzędzi i części zapasowych niezbędnych do dokonania prac naprawczych na jednostce, stosowny do wielkości jachtu i rodzaju napędu, − apteczkę , − nożyce do cięcia olinowania w przypadku jachtów żaglowych o długości co najmniej 12 m.
+6 Załącznik nr 2 WYPOSAŻENIE JACHTU MORSKIEGO O DŁUGOŚCI CO NAJMNIEJ 24 M I. Środki ratunkowe
 1) Każdy jacht w Rejonie 3 i 4 (żegludze pełnomorskiej i oceanicznej) powinien posiadać:
-a) pneumatyczną tratwę ratunkową z wyposażeniem SOLAS A pack, ze zwalniakiem hydrostatycznym, mogącą pomieścić wszystkie osoby znajdujące się na jachcie,
+a) pneumatyczną tratwę ratunkową z wyposażeniem SOLAS A – pack, ze zwalniakiem hydrostatycznym, mogącą pomieścić wszystkie osoby znajdujące się na jachcie,
 b) łódź ratowniczą zgodną z wymogami Kodeksu LSA, o którym mowa w Prawidle 34
 Rozdziału III Konwencji SOLAS, o której mowa w art. 33 pkt 5 lit. a ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, zwanego dalej „Kodeksem LSA”, lub inną łódź konstrukcji sztywnej, pneumatycznej lub pneumatycznej z twardym dnem, która powinna pomieścić nie mniej niż 4 osoby, w tym jedną w pozycji leżącej.
 Dodatkowo należy zapewnić urządzenie umożliwiające wodowanie łodzi w czasie nie dłuższym niż 5 minut oraz środki do bezpiecznego powrotu załogi łodzi na burtę, wraz z ratowaną osobą,
@@ -89,41 +88,41 @@ Wszystkie pasy/kamizelki powinny być wyposażone w lampki oraz gwizdki odpowiad
 e) 12 sztuk rakiet spadochronowych koloru czerwonego,
 f) wyrzutnię linki ratunkowej (1 komplet);
 2) Każdy jacht w Rejonie T, 1 i 2 (żegludze na akwenach treningowych, osłoniętej i przybrzeżnej) powinien posiadać:
-a) pneumatyczną tratwę ratunkową z wyposażeniem SOLAS B pack ze zwalniakiem hydrostatycznym mogącą pomieścić wszystkie osoby znajdujące się na jachcie,
+a) pneumatyczną tratwę ratunkową z wyposażeniem SOLAS B – pack ze zwalniakiem hydrostatycznym mogącą pomieścić wszystkie osoby znajdujące się na jachcie,
 b) łódź ratowniczą zgodną z wymogami Kodeksu LSA, lub inną łódź konstrukcji sztywnej, pneumatycznej lub pneumatycznej z twardym dnem, która powinna pomieścić nie mniej niż 4 osoby, w tym jedną w pozycji leżącej. Dodatkowo należy zapewnić urządzenie umożliwiające wodowanie łodzi w czasie nie dłuższym niż 5 minut oraz środki do bezpiecznego powrotu załogi łodzi na burtę, wraz z ratowaną osobą, lub inne urządzenie do skutecznego podjęcia rozbitka z wody,
 c) cztery koła ratunkowe, w tym dwa zaopatrzone w pławkę świetlno-dymną (lub dwie pławki świetlne i dwie dymne), a pozostałe dwa w linkę ratunkową,
 d) pasy/kamizelki ratunkowe dla każdej osoby znajdującej się na jachcie, dodatkowo odpowiednio dwa zapasowe pasy/kamizelki ratunkowe lub ilość stanowiącą 10% wszystkich osób znajdujących się na statku, w zależności która jest większa.
 Wszystkie pasy/kamizelki powinny być wyposażone w lampki oraz gwizdki odpowiadające wymaganiom Kodeksu LSA,
 e) 6 sztuk rakiet spadochronowych koloru czerwonego,
 f) wyrzutnię linki ratunkowej ( / kompletu).
-Dopuszczone standardy pasów/kamizelek ratunkowych: Lp. Standard pasa/kamizelki Rodzaj żeglugi osłonięta przybrzeżna pełnomorska oceaniczna 1 Pas ratunkowy SOLAS     spełniający normę     2 transponującą normę EN ISO 12402-2 [275 N] spełniający normę   3 transponującą normę EN ISO 12402-3 [150 N] Uwagi ogólne:
+7 Dopuszczone standardy pasów/kamizelek ratunkowych: Lp. Standard pasa/kamizelki Rodzaj żeglugi osłonięta przybrzeżna pełnomorska oceaniczna 1 Pas ratunkowy SOLAS     spełniający normę     2 transponującą normę EN ISO 12402-2 [275 N] spełniający normę   3 transponującą normę EN ISO 12402-3 [150 N] Uwagi ogólne:
 1. Podczas inspekcji doraźnej minimalna ilość pasów ratunkowych lub kamizelek powinna być określana na podstawie rzeczywistej liczby osób biorących udział w rejsie, z uwzględnieniem 10% lub 2 pasów/kamizelek zapasu. W przypadku gdy w rejsie biorą udział dzieci, powinny być zapewnione odpowiednie środki ratunkowe dla każdego dziecka na pokładzie.
 2. Jeżeli jacht odbywa rejsy na akwenach powyżej równoleżnika 60° N lub 60° S, dyrektor urzędu morskiego określi indywidualnie dodatkowe wyposażenie niezbędne do odbywania takich rejsów.
 3. Komplet wyrzutni linki ratunkowej obejmuje 4 rakiety i 4 linki.
 II. Sprzęt sygnałowy Sprzęt sygnałowy jachtu powinien być zgodny z zatwierdzonym „Planem rozmieszczenia świateł nawigacyjnych i znaków sygnałowych” spełniającym wymagania Konwencji o zapobieganiu zderzeniom, o której mowa w art. 5 pkt 33 lit. c ustawy z dnia 18 sierpnia 2011 r.
 o bezpieczeństwie morskim.
 Na pokładzie jachtu powinno znajdować się zapasowe oświetlenie nawigacyjne.
-III. Sprzęt nawigacyjny Lp. wyposażenia Nazwa Rejon żeglugi Jednostka Uwagi 1 i 2 3 i 4 osłonięta pełnomorska i przybrzeżna i oceaniczna 1 2 3 4 5 6 1 Kompas magnetyczny 1 1 szt.
-Żyrokompas 2 lub kompas magnetyczny zapasowy 1 szt.
-Odbiornik sateli3 tarnego systemu nawigacyjnego 1 2 szt. np. GPS 4 Wiatromierz 1 1 szt.
+III. Sprzęt nawigacyjny Lp. Nazwa Rejon żeglugi Jednostka Uwagi wyposażenia 1 i 2 3 i 4 osłonięta pełnomorska i przybrzeżna i oceaniczna 1 2 3 4 5 6 1 Kompas 1 1 szt.
+magnetyczny Żyrokompas 2 lub kompas – 1 szt.
+magnetyczny zapasowy Odbiornik sateli3 tarnego systemu 1 2 szt. np. GPS nawigacyjnego 8 4 Wiatromierz 1 1 szt.
 5 Przechyłomierz 1 1 szt.
 6 Wskaźnik 1 1 szt.
-wychylenia steru Barometr 7 aneroid 1 1 szt.
+wychylenia steru Barometr – 7 aneroid 1 1 szt.
 8 Lornetka 1 2 szt.
 Echosonda lub urządzenie 9 do pomiaru 1 1 szt.
-głębokości 10 Przyrządy nawigacyjne 1 1 kpl.
-11 Mapy morskie 1 1 kpl.
+głębokości 10 Przyrządy 1 1 kpl.
+nawigacyjne 11 Mapy morskie 1 1 kpl.
 12 Locje morskie 1 1 kpl.
 13 Spis świateł 1 1 kpl.
-14 Tablice pływów 1 szt.
-15 MPZZM COLREG 72 1 1 szt.
-16 MKS Z 1 kpl.
-17 Spis radiostacji nautycznych 1 kpl.
-18 Radar 1 1 szt.
+14 Tablice – 1 szt.
+pływów 15 MPZZM – 1 1 szt.
+COLREG 72 16 MKS Z 1 kpl.
+17 Spis radiostacji – 1 kpl.
+nautycznych 18 Radar 1 1 szt.
 19 AIS Z 1 szt.
-20 Reflektor radarowy 1 1 szt.
-21 Sekstant Z szt.
-22 Tablice Z nawigacyjne 23 Rocznik Z astronomiczny 24 Sekundomierz Z Objaśnienia: IV. Urządzenia radiokomunikacyjne
+20 Reflektor 1 1 szt.
+radarowy 21 Sekstant – Z szt.
+22 Tablice – Z nawigacyjne 23 Rocznik – Z astronomiczny 24 Sekundomierz – Z Objaśnienia: 9 IV. Urządzenia radiokomunikacyjne
 1) Każdy jacht w Rejonie 3 i 4 (żegludze pełnomorskiej i oceanicznej) powinien być wyposażony co najmniej w:
 a) stacjonarny radiotelefon VHF z DSC,
 b) statkowy terminal satelitarny lub radiotelefon MF/HF (średnio-, krótkofalowy) z systemem DSC lub satelitarny telefon komórkowy z dostępem do numeru alarmowego,
@@ -140,7 +139,8 @@ e) odbiornik radiowy przystosowany do odbioru prognoz pogody oraz ostrzeżeń na
 Uwaga ogólna: Radiopława awaryjna (EPIRB) powinna być zarejestrowana i wpisana do ewidencji pokładowych i osobistych nadajników sygnału niebezpieczeństwa.
 V. Sprzęt ochrony przeciwpożarowej
 1. Wyposażenie w sprzęt ochrony przeciwpożarowej i części zapasowe jachtów o pojemności brutto 500 i większej określa Konwencja SOLAS, o której mowa w art. 5 pkt 33 lit. a ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim.
-2. Każdy jacht o pojemności brutto poniżej 500 powinien być wyposażony w: gaśnicę proszkową lub gaśnicę na dwutlenek węgla, o pojemności co najmniej 5 kg, lub gaśnicę pianową o pojemności co najmniej 9 litrów. Masa każdej gaśnicy przenośnej nie powinna przekraczać 23 kg, a jej zdolność do gaszenia powinna być co najmniej równoważna ze zdolnością do gaszenia gaśnicy płynowej 9-litrowej. Czynnik gaśniczy zastosowany w gaśnicy powinien być odpowiedni do grupy pożaru, jaki może powstać w danym pomieszczeniu, do którego gaśnica jest przeznaczona. Ilość i rodzaj gaśnic zostanie ustalona na planie ochrony pożarowej, węże tłoczne, prądownice uniwersalne w ilości równej liczbie zainstalowanych zaworów hydrantowych na jachcie, koc gaśniczy 2 sztuki, topór strażacki i łom 1 komplet, rękawice ognioochronne 1 para, w przypadku braku stałej instalacji gaśniczej w siłowni jachtu zaleca się wyposażenie w gaśnicę przewoźną (agregat) proszkową 25 kg ABC.
+10
+2. Każdy jacht o pojemności brutto poniżej 500 powinien być wyposażony w: – gaśnicę proszkową lub gaśnicę na dwutlenek węgla, o pojemności co najmniej 5 kg, lub gaśnicę pianową o pojemności co najmniej 9 litrów. Masa każdej gaśnicy przenośnej nie powinna przekraczać 23 kg, a jej zdolność do gaszenia powinna być co najmniej równoważna ze zdolnością do gaszenia gaśnicy płynowej 9-litrowej. Czynnik gaśniczy zastosowany w gaśnicy powinien być odpowiedni do grupy pożaru, jaki może powstać w danym pomieszczeniu, do którego gaśnica jest przeznaczona. Ilość i rodzaj gaśnic zostanie ustalona na planie ochrony pożarowej, – węże tłoczne, prądownice uniwersalne – w ilości równej liczbie zainstalowanych zaworów hydrantowych na jachcie, – koc gaśniczy – 2 sztuki, – topór strażacki i łom – 1 komplet, – rękawice ognioochronne – 1 para, – w przypadku braku stałej instalacji gaśniczej w siłowni jachtu zaleca się wyposażenie w gaśnicę przewoźną (agregat) proszkową 25 kg ABC.
 Uwagi ogólne:
 1. Sprzęt ochrony przeciwpożarowej powinien spełniać wymagania przepisów uznanej organizacji.
 2. Sprzęt ochrony przeciwpożarowej powinien być umieszczony w łatwo dostępnym i widocznym miejscu na jachcie oraz odpowiednio oznaczony symbolami wykonanymi z materiału fotoluminescencyjnego.
@@ -152,10 +152,10 @@ Uwagi ogólne:
 8. W przedziałach maszynowych kategorii A gaśnice powinny być rozmieszczone tak, aby odległość między nimi nie przekraczała 10 m.
 9. Gaśnice nie mogą być umieszczane w odległości mniejszej niż 1 m od potencjalnego źródła ognia.
 10. Każda gaśnica powinna mieć element konstrukcyjny lub zawleczkę z plombą, pokazujące, że po użyciu została rozładowana.
-11. Na jachtach o pojemności brutto 500 i większej sprzęt ochrony przeciwpożarowej powinien być systematycznie kontrolowany i utrzymywany w stałej sprawności do natychmiastowego użytku przez oficera wyznaczonego przez kapitana jachtu zgodnie z planem konserwacji i przeglądów.
+11. Na jachtach o pojemności brutto 500 i większej sprzęt ochrony przeciwpożarowej powinien być systematycznie kontrolowany i utrzymywany w stałej sprawności do natychmias11 towego użytku przez oficera wyznaczonego przez kapitana jachtu zgodnie z planem konserwacji i przeglądów.
 12. Na jachtach o pojemności brutto poniżej 500 wewnętrzne kontrole sprzętu ochrony przeciwpożarowej powinny być przeprowadzane przez kapitana jachtu lub wyznaczonego oficera pokładowego co 3 miesiące. Fakt dokonania kontroli powinien zostać zapisany.
 VI. Wyposażenie pokładowe Jacht powinien być wyposażony dodatkowo w apteczkę.
-WYTYCZNE W SPRAWIE ROZKŁADÓW ALARMOWYCH NA JACHTACH MORSKICH
+12 Załącznik nr 3 WYTYCZNE W SPRAWIE ROZKŁADÓW ALARMOWYCH NA JACHTACH MORSKICH
 1. Na jachtach obowiązują następujące alarmy:
 1) alarm ogólny:
 a) sygnał alarmu ogólnego stanowi siedem lub więcej krótkich dźwięków z następującym po nich jednym dźwiękiem długim: (......._ ),
@@ -180,7 +180,7 @@ a) sygnał alarmu pożarowego stanowią dwa krótkie dźwięki z następującym 
 5) rozmieszczenie pasażerów w tratwach ratunkowych.
 7. Rozkład alarmowy powinien ustalać zadania poszczególnych członków załogi jachtu, jakie powinni oni wykonać, w zależności od rodzaju zagrożenia, w szczególności w związku z:
 1) postępowaniem w razie:
-a) potrzeby opuszczenia jachtu,
+a) potrzeby opuszczenia jachtu, 1
 b) wykrycia pożaru,
 c) wypadnięcia człowieka za burtę;
 2) zamykaniem drzwi wodoszczelnych i pożarowych, iluminatorów, zaworów, pokryw zejściówek, pokryw świetlików i innych podobnych otworów na jachcie;
@@ -211,6 +211,7 @@ g) stwierdzenie na jachcie obecności wody zagrażającej bezpieczeństwu jachtu
 3) środki, jakimi sygnały alarmowe będą nadawane;
 4) miejsca zbiórek alarmowych;
 5) działanie, jakie powinien podjąć każdy członek załogi po usłyszeniu sygnału alarmowego;
+2
 6) czynności wynikające z rozkładów alarmowych.
 13. Należy na bieżąco prowadzić wykaz numerów alarmowych, zawierający nazwiska, imiona i stanowiska członków załóg, którym numery te zostały przydzielone.
 14. Instrukcja postępowania dla pasażerów powinna określać:
@@ -234,10 +235,10 @@ g) stwierdzenie na jachcie obecności wody zagrażającej bezpieczeństwu jachtu
 9) udzielenie pierwszej pomocy;
 10) omówienie i ocena ćwiczenia.
 18. Szkolenie członka załogi w posługiwaniu się środkami ratunkowymi jachtu, w tym również wyposażeniem jednostek ratunkowych, powinno być przeprowadzane na jachcie możliwie najwcześniej, jednak nie później niż w ciągu 24 godzin po jego zaokrętowaniu na jachcie.
-WYTYCZNE W SPRAWIE OPRACOWYWANIA PLANÓW OCHRONY POŻAROWEJ JACHTÓW MORSKICH I. Postanowienia wstępne
+3 Załącznik nr 4 WYTYCZNE W SPRAWIE OPRACOWYWANIA PLANÓW OCHRONY POŻAROWEJ JACHTÓW MORSKICH I. Postanowienia wstępne
 1. Niniejsze wytyczne określają zasady sporządzania planu ochrony pożarowej dla poszczególnych jachtów morskich, który w dalszej treści wytycznych zwany jest „planem”.
 2. Plan powinien być opracowany w oparciu o zatwierdzoną przez uznaną organizację dokumentację jachtu.
-3. Ujęte w planie symbole graficzne określające elementy zabezpieczenia konstrukcyjnego, urządzeń ochrony przeciwpożarowej oraz sprzętu ochrony przeciwpożarowej powinny być zgodne z Prawidłem 15 Rozdziału II 2 Konwencji SOLAS, o której mowa w art. 5 pkt 33 lit. a ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim.
+3. Ujęte w planie symbole graficzne określające elementy zabezpieczenia konstrukcyjnego, urządzeń ochrony przeciwpożarowej oraz sprzętu ochrony przeciwpożarowej powinny być zgodne z Prawidłem 15 Rozdziału II – 2 Konwencji SOLAS, o której mowa w art. 5 pkt 33 lit. a ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim.
 4. Plan powinien być wykonany w skali zapewniającej praktyczne jego wykorzystanie i możliwość naniesienia odpowiednich elementów konstrukcyjnych jachtu, symboli urządzeń i sprzętu ochrony przeciwpożarowej oraz innych znaków i napisów.
 II. Przepisy obowiązujące przy opracowywaniu planów ochrony pożarowej Przy opracowywaniu planów należy w szczególności uwzględnić:
 1) długość i konstrukcję jachtu oraz rejon uprawianej żeglugi;
@@ -252,6 +253,7 @@ III. Rysunki planu ochrony pożarowej
 2) rodzaj i rozmieszczenie przegród przeciwpożarowych pionowych i poziomych, dzielących przestrzeń kadłuba i nadbudówki względnie pokładówki na odpowiednie strefy pionowe i poziome;
 3) drzwi w przegrodach przeciwpożarowych i szybach klatek schodowych ze stanowiskami ich sterowania;
 4) schody, zejściówki, szyby dźwigów pionowych i luków transportowych, umożliwiające dostęp do poszczególnych przedziałów, pomieszczeń i pokładów, z uwidocznieniem korytarzy, drzwi i dróg ewakuacyjnych;
+4
 5) urządzenia zdalnego wyłączania wentylatorów, zamykania otworów kanałów wentylacyjnych, świetlików, przestrzeni pierścieniowych wokół kominów oraz innych zamknięć ograniczających ciąg oraz przenikanie dymu i płomieni;
 6) rozmieszczenie centralek wykrywczo-sygnalizacyjnych pożaru i ich repetytorów oraz pomieszczenia chronione;
 7) rozmieszczenie stałych instalacji gaśniczych ze stanowiskami ich uruchamiania oraz pomieszczenia chronione tymi instalacjami;
@@ -271,7 +273,7 @@ IV. Oznakowanie planu ochrony pożarowej
 6. Przegrody typu A-0, tworzące poprzeczne grodzie wodoszczelne, sięgające do pokładu grodziowego i dzielące jacht na przedziały wodoszczelne, należy narysować linią ciągłą o grubości 1 mm. Nie wymaga się dodatkowego oznakowania tego typu przegród na rysunkach i tabliczce rysunkowej planu.
 7. Symbole graficzne w tablicy symboli planu powinny być naniesione według kolejności numerów od dołu ku górze.
 8. Obrysy zbiorników paliwa i olejów smarowych powinny być obramowane linią koloru brązowego.
-V. Opis planu
+5 V. Opis planu
 1. Na planie powinna być umieszczona tablica symboli z objaśnieniami znaczenia symboli i charakterystyką urządzeń oraz sprzętu ochrony przeciwpożarowej.
 2. Na planie należy podać następujące dane jachtu:
 1) długość;
@@ -287,6 +289,7 @@ W przypadku oznaczenia pomieszczeń numerami identyfikacyjnymi należy sporządz
 5. W przypadku jachtów wyposażonych w stałą instalację gaśniczą gazową należy na planie ochrony pożarowej sporządzić zestawienie otworów przewidzianych do zamknięcia w celu uszczelnienia przedziału bronionego tą instalacją oraz oznakować na planie symbole urządzeń do wewnętrznego, zewnętrznego zamknięcia wentylacji i drzwi.
 6. Przy opisywaniu pomieszczeń, zbiorników i urządzeń ochrony przeciwpożarowej należy kierować się zasadą, że wszystkie te elementy leżące po prawej stronie płaszczyzny symetrii jachtu powinny być oznaczone numerami nieparzystymi, natomiast leżące po lewej stronie płaszczyzny symetrii jachtu numerami parzystymi.
 7. Wszystkie zestawienia powinny być naniesione z prawej strony rysunków planu po lewej stronie tabliczki rysunkowej.
-8. W przypadku planu jachtu uprawiającego żeglugę międzynarodową ustala się nazwę: „PLAN OCHRONY POŻAROWEJ FIRE CONTROL PLAN”.
-W przypadku naniesienia oznakowania środków i urządzeń ratunkowych ustala się nazwę: „PLAN BEZPIECZEŃSTWA SAFETY PLAN”.
+8. W przypadku planu jachtu uprawiającego żeglugę międzynarodową ustala się nazwę: „PLAN OCHRONY POŻAROWEJ – FIRE CONTROL PLAN”.
+W przypadku naniesienia oznakowania środków i urządzeń ratunkowych ustala się nazwę: „PLAN BEZPIECZEŃSTWA – SAFETY PLAN”.
+6
 

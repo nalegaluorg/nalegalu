@@ -43,33 +43,49 @@ poz. 269 i 416), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dn
 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 5 kwietnia 2012 r.
 w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym Na podstawie art. 125 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r.
 poz. 1550, 1429, 1606, 1615, 1667 i 1860) zarządza się, co następuje:
-§ 1. (uchylony).
-§ 2. Ustala się następujące wzory urzędowych formularzy wniosków stosowanych w sądach rejonowych prowadzących księgi wieczyste w systemie informatycznym:
-1) wzór formularza wniosku o założenie księgi wieczystej oznaczonego symbolem KW-ZAL, stanowiący załącznik nr 7 do rozporządzenia;
-2) wzór formularza wniosku o wpis w księdze wieczystej oznaczonego symbolem KW-WPIS, stanowiący załącznik nr 8 do rozporządzenia;
-3) wzór formularza załącznika zawierającego żądanie wpisu w księdze wieczystej oznaczonego symbolem KW-ZAD, stanowiący załącznik nr 9 do rozporządzenia;
-4) wzór formularza załącznika zawierającego oznaczenie działki ewidencyjnej oznaczonego symbolem KW-OZN, stanowiący załącznik nr 10 do rozporządzenia;
-5) wzór formularza załącznika zawierającego dane wnioskodawcy lub uczestnika postępowania oznaczonego symbolem KW-WU, stanowiący załącznik nr 11 do rozporządzenia;
-6) wzór formularza załącznika zawierającego dane pełnomocnika lub przedstawiciela ustawowego oznaczonego symbolem KW-PP, stanowiący załącznik nr 12 do rozporządzenia.
-§ 3. 1. (uchylony).
+
+**§ 1.** (uchylony).
+
+**§ 2.** Ustala się następujące wzory urzędowych formularzy wniosków stosowanych w sądach rejonowych prowadzących księgi wieczyste w systemie informatycznym:
+
+- **1)** wzór formularza wniosku o założenie księgi wieczystej oznaczonego symbolem KW-ZAL, stanowiący załącznik nr 7 do rozporządzenia;
+- **2)** wzór formularza wniosku o wpis w księdze wieczystej oznaczonego symbolem KW-WPIS, stanowiący załącznik nr 8 do rozporządzenia;
+- **3)** wzór formularza załącznika zawierającego żądanie wpisu w księdze wieczystej oznaczonego symbolem KW-ZAD, stanowiący załącznik nr 9 do rozporządzenia;
+- **4)** wzór formularza załącznika zawierającego oznaczenie działki ewidencyjnej oznaczonego symbolem KW-OZN, stanowiący załącznik nr 10 do rozporządzenia;
+- **5)** wzór formularza załącznika zawierającego dane wnioskodawcy lub uczestnika postępowania oznaczonego symbolem KW-WU, stanowiący załącznik nr 11 do rozporządzenia;
+- **6)** wzór formularza załącznika zawierającego dane pełnomocnika lub przedstawiciela ustawowego oznaczonego symbolem KW-PP, stanowiący załącznik nr 12 do rozporządzenia.
+
+**§ 3.**
+
+1. (uchylony).
+
 2. Urzędowy formularz wykonany według wzoru stanowiącego załącznik nr 7 do rozporządzenia jest drukowany w odcieniu koloru niebieskiego o symbolu PANTONE 280 U.
+
 3. Urzędowy formularz wykonany według wzoru stanowiącego załącznik nr 8 do rozporządzenia jest drukowany w odcieniu koloru niebieskiego o symbolu PANTONE 279 U.
+
 4. Urzędowe formularze wykonane według wzorów stanowiących załączniki nr 9–12 do rozporządzenia są drukowane w odcieniu koloru brązowego o symbolu PANTONE 2695 U.
-§ 4. 1. (uchylony).
+
+**§ 4.**
+
+1. (uchylony).
+
 2. Urzędowe formularze wniosków i załączników do wniosków wymienionych w § 2 udostępnia się nieodpłatnie w wydziałach ksiąg wieczystych sądów rejonowych oraz Centralnej Informacji Ksiąg Wieczystych.
-3. Urzędowe formularze udostępnia się nieodpłatnie na stronach internetowych Ministerstwa Sprawiedliwości oraz sądów powszechnych.
-Przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 7 lipca 2023 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 1338), które weszło w życie z dniem 14 lipca 2023 r.
-Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
-Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.
+
+3. Urzędowe formularze udostępnia się nieodpłatnie na stronach internetowych Ministerstwa Sprawiedliwości oraz sądów powszechnych. Przez § 1 pkt 1 rozporządzenia Ministra Sprawiedliwości z dnia 7 lipca 2023 r. zmieniającego rozporządzenie w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 1338), które weszło w życie z dniem 14 lipca 2023 r. Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. Przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.
+
 4. W przypadku, o którym mowa w ust. 3, urzędowe formularze udostępnia się w formie umożliwiającej edycję ich treści.
-§ 5. 1. Urzędowe formularze, ich wydruki i kserokopie mają format A4.
+
+**§ 5.**
+
+1. Urzędowe formularze, ich wydruki i kserokopie mają format A4.
+
 2. Wydruk komputerowy urzędowego formularza powinien odzwierciedlać strukturę wzoru tego formularza.
+
 3. Do wydruków komputerowych urzędowych formularzy nie stosuje się wymogów określonych w § 3 ust. 2–4.
-§ 6. Do postępowań wszczętych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 7. Rozporządzenie wchodzi w życie z dniem 3 maja 2012 r.
-W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1.
-Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 29 maja 2002 r. w sprawie określenia wzorów i sposobu udostępniania stronom urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 728 oraz z 2005 r. poz. 704) oraz rozporządzeniem Ministra Sprawiedliwości z dnia 14 sierpnia 2003 r. w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy wniosków stosowanych w sądach rejonowych prowadzących księgi wieczyste w systemie informatycznym (Dz. U. poz. 1527, z 2009 r. poz. 189 oraz z 2011 r. poz. 462), które utraciły moc z dniem wejścia w życie ustawy z dnia 16 września 2011 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U.
-poz. 1381).
+
+**§ 6.** Do postępowań wszczętych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+
+**§ 7.** Rozporządzenie wchodzi w życie z dniem 3 maja 2012 r. W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 1. Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 29 maja 2002 r. w sprawie określenia wzorów i sposobu udostępniania stronom urzędowych formularzy pism procesowych w postępowaniu cywilnym (Dz. U. poz. 728 oraz z 2005 r. poz. 704) oraz rozporządzeniem Ministra Sprawiedliwości z dnia 14 sierpnia 2003 r. w sprawie określenia wzorów i sposobu udostępniania urzędowych formularzy wniosków stosowanych w sądach rejonowych prowadzących księgi wieczyste w systemie informatycznym (Dz. U. poz. 1527, z 2009 r. poz. 189 oraz z 2011 r. poz. 462), które utraciły moc z dniem wejścia w życie ustawy z dnia 16 września 2011 r. o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw (Dz. U. poz. 1381).
 
 ## Załącznik nr 1 — (uchylony) Załącznik nr 2 (uchylony) Załącznik nr 3 (uchylony) Załącznik nr 4 (uchylony) Załącznik nr 5 (uchylony) Załącznik nr 6 (uchylony) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1.
 

@@ -27,13 +27,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie pomocy psychologicznej udzielanej weteranowi-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi oraz najbliższym członkom jego rodziny Na podstawie art. 23 ust. 4 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U.
 poz. 1203) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 30 marca 2012 r. w sprawie pomocy psychologicznej udzielanej weteranowi-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi oraz najbliższym członkom jego rodziny (Dz. U. poz. 375) wprowadza się następujące zmiany:
-1) w § 4:
-a) ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw wewnętrznych monitoruje realizację prawa weteranów poszkodowanych-funkcjonariuszy do pomocy psychologicznej udzielanej w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych, zwanych dalej „podmiotami”.”,
-b) w ust. 3 pkt 2 otrzymuje brzmienie: „2) współdziałaniu z podmiotami w zakresie pozyskiwania informacji o realizacji prawa weteranów poszkodowanych-funkcjonariuszy do uzyskania pomocy psychologicznej;”;
-2) § 5 otrzymuje brzmienie: „§ 5. Podmioty przekazują ministrowi właściwemu do spraw wewnętrznych w terminie do dnia 31 stycznia każdego roku, za rok poprzedni, informacje o:
-1) zakresie pomocy psychologicznej udzielonej weteranom poszkodowanym-funkcjonariuszom;
-2) liczbie weteranów poszkodowanych-funkcjonariuszy, którzy skorzystali z pomocy psychologicznej udzielanej w podmiotach.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 30 marca 2012 r. w sprawie pomocy psychologicznej udzielanej weteranowi-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi oraz najbliższym członkom jego rodziny (Dz. U. poz. 375) wprowadza się następujące zmiany:
+
+- **1)** w § 4:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw wewnętrznych monitoruje realizację prawa weteranów poszkodowanych-funkcjonariuszy do pomocy psychologicznej udzielanej w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych, zwanych dalej „podmiotami”.”,
+    - **b)** w ust. 3 pkt 2 otrzymuje brzmienie: „2) współdziałaniu z podmiotami w zakresie pozyskiwania informacji o realizacji prawa weteranów poszkodowanych-funkcjonariuszy do uzyskania pomocy psychologicznej;”;
+
+- **2)** § 5 otrzymuje brzmienie: „§ 5. Podmioty przekazują ministrowi właściwemu do spraw wewnętrznych w terminie do dnia 31 stycznia każdego roku, za rok poprzedni, informacje o: 1) zakresie pomocy psychologicznej udzielonej weteranom poszkodowanym-funkcjonariuszom; 2) liczbie weteranów poszkodowanych-funkcjonariuszy, którzy skorzystali z pomocy psychologicznej udzielanej w podmiotach.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 

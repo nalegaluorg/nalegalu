@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# sygn. akt K. 14/98 Trybunał Konstytucyjny w składzie: Stefan J.Jaworski – przewodniczący, Lech Garlicki, Wiesław Johann – sprawozdawca, Krzysztof Kolasiński, Biruta Lewaszkiewicz-Petrykowska, po rozpoznaniu w dniu 14 września 1999 r. na rozprawie wniosku Rzecznika Praw Obywatelskich, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej i Prokuratora Generalnego, o wydanie orzeczenia stwierdzającego, że art. 28 ust. 2 ustawy z dnia 6 maja 1981 r. o pracowniczych ogrodach działkowych (Dz.U. z 1996 r. Nr 85, poz. 390 z późn. zm.), stanowiący, ze uchwały organów Polskiego Związku Działkowców w sprawie członkostwa Związku nie podlegają orzecznictwu sądów, jest niezgodny z art. 45 ust. 1 i art. 77 ust. 2 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz.U. Nr 78, poz. 483), orzeka
+# Wyrok Trybunału Konstytucyjnego z dnia 14 września 1999 r. sygn. akt K. 14/98.
 
 | Pole | Wartość |
 |---|---|

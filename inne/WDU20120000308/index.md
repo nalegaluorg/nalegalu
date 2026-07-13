@@ -28,14 +28,11 @@ source: pdf
 Warszawa, dnia 26 marca 2012 v r.
 Poz. 308 o ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 8 marca g 2012 r.
 zmieniające rozporządzenie w sprawie szczegółowych zasad kierowania i współdziałania jednostek ochrony przeciwpożarowej biorących udział w działaniu ratowniczym Na podstawie art. 22 ust. 2 ustawy z dnia 24 sierpnia . 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380 oraz z 2010 r. Nr 57, poz. 353) zarządza się, co następuje: l
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 31 lipca 2001 r. w sprawie szczegółowych zasad kierowania i współdziałania jednostek c ochrony przeciwpożarowej biorących udział w działaniu ratowniczym (Dz. U.
-Nr 82, poz. 895) w § 2 wprowadza się następujące zmiany:
-1) ust. 2 otrzymuje brzmienie: „2. Kierowanie działaniem r ratowniczym są obowiązani przejąć, według następującego porządku, ratownicy z jednostek ochrony przeciwpożarowej, posiadający kwalifikacje do kierowania działaniem ratowniczym:
-1) członek ochotniczej straży pożarnej, .
-2) komendant gminny ochrony przeciwpożarowej, jeśli jest członkiem ochotniczej straży pożarnej,
-3) strażak w jednostki ochrony przeciwpożarowej.”;
-2) po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Z chwilą przybycia na miejsce działań ratowniczych jednostki będącej podmiotem krajowego systemu ratowniczo-gaśniczego kierowanie działaniem ratowniczym odbywa się na zasadach określonych w przepisach w sprawie szczegółowych zasad organizacji krajowego systemu ratowniczo-gaśniczego.”;
-3) w ust. 6 otrzymuje brzmienie: „6. Do obowiązków kierującego oraz do zasad przejmowania i przekazywania kierowania działaniem ratowniczym oraz dokumentowania zdarzenia stosuje się odpowiednio przepisy w sprawie szczegółowych zasad organizacji krajowego systemu ratowniczo-gaśniczego.”.
-w § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych: J. Cichocki
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 31 lipca 2001 r. w sprawie szczegółowych zasad kierowania i współdziałania jednostek c ochrony przeciwpożarowej biorących udział w działaniu ratowniczym (Dz. U. Nr 82, poz. 895) w § 2 wprowadza się następujące zmiany:
+
+- **1)** ust. 2 otrzymuje brzmienie: „2. Kierowanie działaniem r ratowniczym są obowiązani przejąć, według następującego porządku, ratownicy z jednostek ochrony przeciwpożarowej, posiadający kwalifikacje do kierowania działaniem ratowniczym: 1) członek ochotniczej straży pożarnej, . 2) komendant gminny ochrony przeciwpożarowej, jeśli jest członkiem ochotniczej straży pożarnej, 3) strażak w jednostki ochrony przeciwpożarowej.”;
+- **2)** po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Z chwilą przybycia na miejsce działań ratowniczych jednostki będącej podmiotem krajowego systemu ratowniczo-gaśniczego kierowanie działaniem ratowniczym odbywa się na zasadach określonych w przepisach w sprawie szczegółowych zasad organizacji krajowego systemu ratowniczo-gaśniczego.”;
+- **3)** w ust. 6 otrzymuje brzmienie: „6. Do obowiązków kierującego oraz do zasad przejmowania i przekazywania kierowania działaniem ratowniczym oraz dokumentowania zdarzenia stosuje się odpowiednio przepisy w sprawie szczegółowych zasad organizacji krajowego systemu ratowniczo-gaśniczego.”. w § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych: J. Cichocki
+
 

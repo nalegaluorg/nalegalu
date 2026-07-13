@@ -26,13 +26,9 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001258) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1258/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu w sporcie (Dz. U. z 2021 r. poz. 2153), z uwzględnieniem zmian wprowadzonych ustawą z dnia 2 grudnia 2021 r. o zmianie ustawy o zwalczaniu dopingu w sporcie (Dz. U. poz. 2438) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 kwietnia 2022 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2–5 ustawy z dnia 2 grudnia 2021 r. o zmianie ustawy o zwalczaniu dopingu w sporcie (Dz. U. poz. 2438), które stanowią: „Art. 2. W celu wykonania przepisów niniejszej ustawy Prezes Rady Ministrów może dokonać, w drodze rozporządzenia, przeniesienia planowanych wydatków budżetowych, w tym wynagrodzeń, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikających z ustawy budżetowej na rok 2022.
-
-**Art. 3.** Certyfikat kontrolera, o którym mowa w art. 26 ust. 1 ustawy zmienianej w art. 1, przyznany przed dniem wejścia w życie ustawy, zachowuje ważność do końca okresu, na który został przyznany.
-
-**Art. 4.** Rozliczenia dotacji udzielonych w 2021 r., o których mowa w art. 47r ust. 1 ustawy zmienianej w art. 1, dokonuje minister właściwy do spraw kultury fizycznej.
-
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r.”. Marszałek Sejmu: E. Witek USTAWA z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu w sporcie
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2–5 ustawy z dnia 2 grudnia 2021 r. o zmianie ustawy o zwalczaniu dopingu w sporcie (Dz. U. poz. 2438), które stanowią: „ Art. 2. W celu wykonania przepisów niniejszej ustawy Prezes Rady Ministrów może dokonać, w drodze rozporządzenia, przeniesienia planowanych wydatków budżetowych, w tym wynagrodzeń, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikających z ustawy budżetowej na rok 2022. Art. 3. Certyfikat kontrolera, o którym mowa w art. 26 ust. 1 ustawy zmienianej w art. 1, przyznany przed dniem wejścia w życie ustawy, zachowuje ważność do końca okresu, na który został przyznany. Art. 4. Rozliczenia dotacji udzielonych w 2021 r., o których mowa w art. 47r ust. 1 ustawy zmienianej w art. 1, dokonuje minister właściwy do spraw kultury fizycznej. Art. 5. Ustawa wchodzi w życie z dniem 1 stycznia 2022 r.”. Marszałek Sejmu: E. Witek
+USTAWA z dnia 21 kwietnia 2017 r.
+o zwalczaniu dopingu w sporcie
 
 #### Rozdział 1 Przepisy ogólne
 

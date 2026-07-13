@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001984) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1984/text.pdf) |
 
 zmieniające rozporządzenie w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi Na podstawie art. 77 ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. Nr 167, poz. 1131, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 21 listopada 2011 r. w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi (Dz. U. z 2012 r. poz. 75 i 1463) § 7 otrzymuje brzmienie: „§ 7. Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r.
-Prezes Rady Ministrów: E. Kopacz
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 21 listopada 2011 r. w sprawie opłat za udostępnienie danych z Rejestru Dowodów Osobistych i dokumentacji związanej z dowodami osobistymi (Dz. U. z 2012 r. poz. 75 i 1463) § 7 otrzymuje brzmienie: „§ 7. Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r.
 

@@ -30,10 +30,15 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 10 października 2019 r. zmieniającego rozporządzenie w sprawie urządzenia do symulowania jazdy w warunkach specjalnych (Dz. U. poz. 2018), które stanowią: „ § 2. Urządzenia do symulowania jazdy w warunkach specjalnych, spełniające wymagania określone w § 1 pkt 3 oraz w § 2 pkt 1 i 2 w części I. „Ogólne wymagania techniczno-organizacyjne symulatora” w załączniku do rozporządzenia w brzmieniu dotychczasowym, użytkowane lub wprowadzane do obrotu przed dniem wejścia w życie niniejszego rozporządzenia, uznaje się za urządzenia spełniające wymagania określone w niniejszym rozporządzeniu. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Infrastruktury: A. Adamczyk
 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 8 kwietnia 2011 r.
 w sprawie urządzenia do symulowania jazdy w warunkach specjalnych Na podstawie art. 39g ust. 12 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2019 r. poz. 2140 oraz z 2020 r. poz. 875 i 1087) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wymagania techniczno-organizacyjne oraz zakres funkcjonalności realizowanej przez urządzenie do symulowania jazdy w warunkach specjalnych, zwane dalej „symulatorem”.
-§ 2. Wymagania techniczno-organizacyjne oraz zakres funkcjonalności realizowanej przez symulator określa załącznik do rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-WYMAGANIA TECHNICZNO-ORGANIZACYJNE ORAZ ZAKRES FUNKCJONALNOŚCI REALIZOWANEJ PRZEZ SYMULATOR I. Ogólne wymagania techniczno-organizacyjne symulatora
+
+**§ 1.** Rozporządzenie określa wymagania techniczno-organizacyjne oraz zakres funkcjonalności realizowanej przez urządzenie do symulowania jazdy w warunkach specjalnych, zwane dalej „symulatorem”.
+
+**§ 2.** Wymagania techniczno-organizacyjne oraz zakres funkcjonalności realizowanej przez symulator określa załącznik do rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . WYMAGANIA TECHNICZNO-ORGANIZACYJNE ORAZ ZAKRES FUNKCJONALNOŚCI REALIZOWANEJ PRZEZ SYMULATOR I. Ogólne wymagania techniczno-organizacyjne symulatora
+
+## Załącznik
+
 § 1. Symulator powinien spełniać wymagania określone w:
 1) ustawie z dnia 13 kwietnia 2007 r. o kompatybilności elekromagnetycznej (Dz. U. z 2019 r. poz. 2388);
 2) rozporządzeniu Ministra Gospodarki z dnia 21 października 2008 r. w sprawie zasadniczych wymagań dla maszyn (Dz. U. poz. 1228 oraz z 2011 r. poz. 701);

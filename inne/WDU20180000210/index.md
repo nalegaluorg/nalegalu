@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000210) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/210/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów Na podstawie art. 81 ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067 i 2405 oraz z 2018 r. poz. 106 i 138) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 14 maja 2013 r. w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów (Dz. U. poz. 644, z 2014 r. poz. 1311 oraz z 2017 r. poz. 1532) w § 1 pkt 3 otrzymuje brzmienie: „3) komórka organizacyjna właściwa w sprawach osobowych – komórkę organizacyjną właściwą do spraw kadr w Komendzie Głównej Policji, Centralnym Biurze Śledczym Policji, Biurze Spraw Wewnętrznych Policji, Komendzie Stołecznej Policji, komendzie wojewódzkiej Policji, komendzie powiatowej, miejskiej i rejonowej Policji, instytucie badawczym, Wyższej Szkole Policji w Szczytnie oraz szkole policyjnej;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r.
-Minister Spraw Wewnętrznych i Administracji: J. Brudziński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 14 maja 2013 r. w sprawie szczegółowych praw i obowiązków oraz przebiegu służby policjantów (Dz. U. poz. 644, z 2014 r. poz. 1311 oraz z 2017 r. poz. 1532) w § 1 pkt 3 otrzymuje brzmienie: „3) komórka organizacyjna właściwa w sprawach osobowych – komórkę organizacyjną właściwą do spraw kadr w Komendzie Głównej Policji, Centralnym Biurze Śledczym Policji, Biurze Spraw Wewnętrznych Policji, Komendzie Stołecznej Policji, komendzie wojewódzkiej Policji, komendzie powiatowej, miejskiej i rejonowej Policji, instytucie badawczym, Wyższej Szkole Policji w Szczytnie oraz szkole policyjnej;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r. Minister Spraw Wewnętrznych i Administracji: J. Brudziński
 

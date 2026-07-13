@@ -8,10 +8,10 @@ pos: 398
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 marca 2016 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 398 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 18 marca 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,115 +25,125 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000398) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/398/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 18 marca 2016 r.
 w sprawie nabywania uprawnień do wykonywania niektórych czynności związanych z oceną jakości handlowej artykułów rolno-spożywczych oraz dokumentowania tych czynności Na podstawie art. 38 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U.
-z 2015 r. poz. 678, 1505 i 1893 oraz z 2016 r. poz. 50) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) sposób powoływania i skład komisji kwalifikacyjnej;
-2) sposób przeprowadzania egzaminu, o którym mowa w:
-a) art. 22 ust. 2 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, zwanego dalej „egzaminem dla pracowników”,
-b) art. 35 ust. 2 pkt 1 i 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, zwanego dalej „egzaminem kwalifikacyjnym na rzeczoznawcę”;
-3) szczegółowy tryb ubiegania się o udzielenie upoważnienia oraz szczegółowe wymagania do uzyskania przez podmiot upoważnienia do prowadzenia szkoleń w zakresie, o którym mowa w art. 35 ust. 2 pkt 3 lit. a ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, zwanej dalej „ustawą”;
-4) wzór zaświadczenia o wpisaniu do rejestru rzeczoznawców i pieczęci imiennej rzeczoznawcy;
-5) wzory protokołów z czynności przeprowadzanych przez rzeczoznawców.
-§ 2. 1. Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych, zwany dalej „Głównym Inspektorem”, powołuje komisję kwalifikacyjną, która przeprowadza egzamin:
-1) dla pracowników na wniosek wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych właściwego ze względu na miejsce zatrudnienia pracownika;
-2) kwalifikacyjny na rzeczoznawcę na wniosek wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych właściwego ze względu na miejsce zamieszkania osoby ubiegającej się o wpis do rejestru rzeczoznawców.
+z 2015 r. poz. 678, 1505 i 1893 oraz z 2016 r. poz. 50) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** sposób powoływania i skład komisji kwalifikacyjnej;
+- **2)** sposób przeprowadzania egzaminu, o którym mowa w:
+    - **a)** art. 22 ust. 2 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, zwanego dalej „egzaminem dla pracowników”,
+    - **b)** art. 35 ust. 2 pkt 1 i 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, zwanego dalej „egzaminem kwalifikacyjnym na rzeczoznawcę”;
+
+- **3)** szczegółowy tryb ubiegania się o udzielenie upoważnienia oraz szczegółowe wymagania do uzyskania przez podmiot upoważnienia do prowadzenia szkoleń w zakresie, o którym mowa w art. 35 ust. 2 pkt 3 lit. a ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, zwanej dalej „ustawą”;
+- **4)** wzór zaświadczenia o wpisaniu do rejestru rzeczoznawców i pieczęci imiennej rzeczoznawcy;
+- **5)** wzory protokołów z czynności przeprowadzanych przez rzeczoznawców.
+
+**§ 2.**
+
+1. Główny Inspektor Jakości Handlowej Artykułów Rolno-Spożywczych, zwany dalej „Głównym Inspektorem”, powołuje komisję kwalifikacyjną, która przeprowadza egzamin:
+
+- **1)** dla pracowników – na wniosek wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych właściwego ze względu na miejsce zatrudnienia pracownika;
+- **2)** kwalifikacyjny na rzeczoznawcę – na wniosek wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych właściwego ze względu na miejsce zamieszkania osoby ubiegającej się o wpis do rejestru rzeczoznawców.
+
 2. W skład komisji kwalifikacyjnej powołuje się osoby, które:
-1) ukończyły studia wyższe;
-2) posiadają wiedzę teoretyczną oraz co najmniej 5-letnie doświadczenie zawodowe z zakresu zagadnień objętych przedmiotem egzaminu.
+
+- **1)** ukończyły studia wyższe;
+- **2)** posiadają wiedzę teoretyczną oraz co najmniej 5-letnie doświadczenie zawodowe z zakresu zagadnień objętych przedmiotem egzaminu.
+
 3. W skład komisji kwalifikacyjnej wchodzi 4 członków.
+
 4. Główny Inspektor wyznacza przewodniczącego komisji kwalifikacyjnej spośród jej członków.
-§ 3. Egzamin dla pracowników oraz egzamin kwalifikacyjny na rzeczoznawcę przeprowadza komisja kwalifikacyjna w miejscu i terminie wyznaczonym przez Głównego Inspektora.
-§ 4. 1. Egzamin dla pracowników przeprowadza się w formie pisemnego testu, mającego na celu sprawdzenie znajomości zagadnień określonych w art. 22 ust. 2 pkt 2 ustawy.
+
+**§ 3.** Egzamin dla pracowników oraz egzamin kwalifikacyjny na rzeczoznawcę przeprowadza komisja kwalifikacyjna w miejscu i terminie wyznaczonym przez Głównego Inspektora.
+
+**§ 4.**
+
+1. Egzamin dla pracowników przeprowadza się w formie pisemnego testu, mającego na celu sprawdzenie znajomości zagadnień określonych w art. 22 ust. 2 pkt 2 ustawy.
+
 2. Główny Inspektor opracowuje pytania testowe oraz ustala czas trwania egzaminu.
-3. O wyniku egzaminu decyduje liczba punktów uzyskanych z testu, o którym mowa w ust. 1, przy czym za każdą prawidłową odpowiedź przyznaje się 1 punkt, a za każdą nieprawidłową odpowiedź lub brak odpowiedzi 0 punktów.
+
+3. O wyniku egzaminu decyduje liczba punktów uzyskanych z testu, o którym mowa w ust. 1, przy czym za każdą prawidłową odpowiedź przyznaje się 1 punkt, a za każdą nieprawidłową odpowiedź lub brak odpowiedzi – 0 punktów.
+
 4. Warunkiem zdania egzaminu jest uzyskanie co najmniej 70% punktów.
-§ 5. 1. Egzamin kwalifikacyjny na rzeczoznawcę składa się z:
-1) części pisemnej, przeprowadzanej w formie testu, mającego na celu sprawdzenie zasad postępowania rzeczoznawcy oraz znajomości przepisów dotyczących produkcji artykułów rolno-spożywczych i obrotu tymi artykułami, w tym zasad ustalania klas jakości albo pobierania próbek określonych artykułów rolno-spożywczych;
-2) części praktycznej, mającej na celu sprawdzenie prawidłowości przeprowadzenia czynności związanych z ustalaniem klas jakości albo pobieraniem próbek określonych artykułów rolno-spożywczych.
+
+**§ 5.**
+
+1. Egzamin kwalifikacyjny na rzeczoznawcę składa się z:
+
+- **1)** części pisemnej, przeprowadzanej w formie testu, mającego na celu sprawdzenie zasad postępowania rzeczoznawcy oraz znajomości przepisów dotyczących produkcji artykułów rolno-spożywczych i obrotu tymi artykułami, w tym zasad ustalania klas jakości albo pobierania próbek określonych artykułów rolno-spożywczych;
+- **2)** części praktycznej, mającej na celu sprawdzenie prawidłowości przeprowadzenia czynności związanych z ustalaniem klas jakości albo pobieraniem próbek określonych artykułów rolno-spożywczych.
+
 2. Główny Inspektor zatwierdza pytania objęte testem oraz ćwiczenia praktyczne, opracowane przez komisję kwalifikacyjną.
-3. O wyniku części pisemnej decyduje liczba punktów uzyskanych z testu, przy czym za każdą prawidłową odpowiedź przyznaje się 1 punkt, a za każdą nieprawidłową odpowiedź lub brak odpowiedzi 0 punktów.
+
+3. O wyniku części pisemnej decyduje liczba punktów uzyskanych z testu, przy czym za każdą prawidłową odpowiedź przyznaje się 1 punkt, a za każdą nieprawidłową odpowiedź lub brak odpowiedzi – 0 punktów.
+
 4. Uważa się, że część pisemna jest zdana, jeżeli osoba przystępująca do tej części egzaminu uzyska z testu co najmniej 70% punktów.
+
 5. Warunkiem przystąpienia do części praktycznej jest zdanie części pisemnej.
+
 6. O wyniku części praktycznej decyduje liczba punktów uzyskanych przez osobę przystępującą do tej części za przeprowadzenie jednej z czynności określonych w ust. 1 pkt 2, przy czym każdy z członków komisji kwalifikacyjnej przyznaje od 0 do 5 punktów.
+
 7. Uważa się, że część praktyczna jest zdana, jeżeli osoba przystępująca do tej części uzyska co najmniej 70% punktów.
-§ 6. 1. Z przeprowadzonego egzaminu dla pracowników oraz egzaminu kwalifikacyjnego na rzeczoznawcę sporządza się protokół, który zawiera co najmniej:
-1) datę i miejsce przeprowadzenia egzaminu;
-2) imiona i nazwiska członków komisji kwalifikacyjnej;
-3) imiona i nazwiska, miejsca zamieszkania i numery dowodów tożsamości osób przystępujących do egzaminu;
-4) wyniki egzaminu.
+
+**§ 6.**
+
+1. Z przeprowadzonego egzaminu dla pracowników oraz egzaminu kwalifikacyjnego na rzeczoznawcę sporządza się protokół, który zawiera co najmniej:
+
+- **1)** datę i miejsce przeprowadzenia egzaminu;
+- **2)** imiona i nazwiska członków komisji kwalifikacyjnej;
+- **3)** imiona i nazwiska, miejsca zamieszkania i numery dowodów tożsamości osób przystępujących do egzaminu;
+- **4)** wyniki egzaminu.
+
 2. Przewodniczący komisji kwalifikacyjnej przekazuje niezwłocznie Głównemu Inspektorowi protokół, o którym mowa w ust. 1.
+
 3. O wynikach egzaminu dla pracowników oraz egzaminu kwalifikacyjnego na rzeczoznawcę Główny Inspektor informuje osoby przystępujące do egzaminu oraz wojewódzkich inspektorów jakości handlowej artykułów rolno-spożywczych właściwych ze względu na:
-1) miejsce zamieszkania osoby przystępującej do egzaminu w przypadku egzaminów kwalifikacyjnych na rzeczoznawcę;
-§ 7. Podmiot ubiegający się o wydanie upoważnienia do prowadzenia szkoleń w zakresie, o którym mowa w art. 35 ust. 2 pkt 3 lit. a ustawy, występuje z wnioskiem o wydanie takiego upoważnienia do Głównego Inspektora w terminie 30 dni przed rozpoczęciem planowanego terminu przeprowadzenia pierwszego szkolenia.
-§ 8. Program szkolenia w zakresie, o którym mowa w art. 35 ust. 2 pkt 3 lit. a ustawy, powinien odpowiadać warunkom dotyczącym tematów objętych tym szkoleniem, określonym w załączniku nr 8 do rozporządzenia.
-§ 9. Określa się:
-1) wzór:
-a) zaświadczenia o wpisaniu do rejestru rzeczoznawców stanowiący załącznik nr 1 do rozporządzenia,
-b) pieczęci imiennej rzeczoznawcy stanowiący załącznik nr 2 do rozporządzenia;
-2) wzory protokołów z czynności przeprowadzanych przez rzeczoznawców:
-a) ustalenia klas jakości tusz wołowych stanowiący załącznik nr 3 do rozporządzenia,
-b) ustalenia klas jakości tusz wieprzowych stanowiący załącznik nr 4 do rozporządzenia,
-c) pobrania próbek stanowiący załącznik nr 5 do rozporządzenia,
-d) pobrania próbek chmielu w ramach procedury jego certyfikacji stanowiący załącznik nr 6 do rozporządzenia,
-e) ustalenia klas jakości świeżych owoców i warzyw stanowiący załącznik nr 7 do rozporządzenia.
-§ 10. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel awers rewers Zaświadczenie jest ważne z dowodem tożsamości seria ........................................................
-ZAŚWIADCZENIE NR ...........................
-numer ......................................................
-Pani/Pan Zaświadczenie jest ważne do**: ................................................................... .................................................................
-...................................................................
-wpisana/y do rejestru rzeczoznawców pod numerem ...........................................
-jest uprawniona/y do: ............... r. .............. r. ............. r.
-pobierania próbek ustalania klas jakości* ................................................................... .................................................................
-................................................................... .................................................................
-...................................................................
-* Niepotrzebne skreślić. ** Dotyczy rzeczoznawcy w zakresie ustalania klas jakości tusz zwierząt rzeźnych.
-Wymiary: 105 mm × 70 mm Wymiary: 105 mm × 70 mm WZÓR ZAŚWIADCZENIA O WPISANIU DO REJESTRU RZECZOZNAWCÓW .....................................................
-RZECZOZNAWCA wpisany do rejestru prowadzonego przez wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych w ............................. pod numerem ............
-Wymiary pieczęci: 20 × 45 mm WZÓR PIECZĘCI IMIENNEJ RZECZOZNAWCY PROTOKÓŁ NR ............/...........
-Z USTALENIA KLAS JAKOŚCI TUSZ WOŁOWYCH Podstawa prawna: art. 36 ust. 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678, z późn. zm.).
+
+- **1)** miejsce zamieszkania osoby przystępującej do egzaminu – w przypadku egzaminów kwalifikacyjnych na rzeczoznawcę;
+- **2)** miejsce zatrudnienia osoby przystępującej do egzaminu – w przypadku egzaminów dla pracowników.
+
+**§ 7.** Podmiot ubiegający się o wydanie upoważnienia do prowadzenia szkoleń w zakresie, o którym mowa w art. 35 ust. 2 pkt 3 lit. a ustawy, występuje z wnioskiem o wydanie takiego upoważnienia do Głównego Inspektora w terminie 30 dni przed rozpoczęciem planowanego terminu przeprowadzenia pierwszego szkolenia.
+
+**§ 8.** Program szkolenia w zakresie, o którym mowa w art. 35 ust. 2 pkt 3 lit. a ustawy, powinien odpowiadać warunkom dotyczącym tematów objętych tym szkoleniem, określonym w załączniku nr 8 do rozporządzenia.
+
+**§ 9.** Określa się:
+
+- **1)** wzór:
+    - **a)** zaświadczenia o wpisaniu do rejestru rzeczoznawców – stanowiący załącznik nr 1 do rozporządzenia,
+    - **b)** pieczęci imiennej rzeczoznawcy – stanowiący załącznik nr 2 do rozporządzenia;
+
+- **2)** wzory protokołów z czynności przeprowadzanych przez rzeczoznawców:
+    - **a)** ustalenia klas jakości tusz wołowych – stanowiący załącznik nr 3 do rozporządzenia,
+    - **b)** ustalenia klas jakości tusz wieprzowych – stanowiący załącznik nr 4 do rozporządzenia,
+    - **c)** pobrania próbek – stanowiący załącznik nr 5 do rozporządzenia,
+    - **d)** pobrania próbek chmielu w ramach procedury jego certyfikacji – stanowiący załącznik nr 6 do rozporządzenia,
+    - **e)** ustalenia klas jakości świeżych owoców i warzyw – stanowiący załącznik nr 7 do rozporządzenia.
+
+**§ 10.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2016 r. (poz. .........) Załącznik nr WZÓR ZAŚWIADCZENIA WZÓR ZAŚWIADCZENIA O WPISANIU O WPISANIU DO DO REJESTRU REJESTRU RZECZOZNAWCÓW RZECZOZNAWCÓW awers rewers Zaświadczenie jest ważne z dowodem tożsamości seria ........................................................ ZAŚWIADCZENIE NR ........................... numer ...................................................... Pani/Pan Zaświadczenie jest ważne do**: ................................................................... ................................................................. ................................................................... wpisana/y do rejestru rzeczoznawców pod numerem ........................................... jest uprawniona/y do: ............... r. .............. r. ............. r. – pobierania próbek – ustalania klas jakości* ................................................................... ................................................................. ................................................................... ................................................................. ................................................................... * Niepotrzebne skreślić. ** Dotyczy rzeczoznawcy w zakresie ustalania klas jakości tusz zwierząt rzeźnych. Wymiary: 105 mm × 70 mm Wymiary: 105 mm × 70 mm Dziennik Ustaw – 5 – Załącznik nr Poz. 2 398 WZÓR PIECZĘCI IMIENNEJ RZECZOZNAWCY WZÓR PIECZĘCI IMIENNEJ RZECZOZNAWCY ..................................................... RZECZOZNAWCA wpisany do rejestru prowadzonego przez wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych w ............................. pod numerem ............ Wymiary pieczęci: 20 × 45 mm Załącznik nr 3 WZÓR WZÓR PROTOKÓŁ NR ............/........... Z USTALENIA KLAS JAKOŚCI TUSZ WOŁOWYCH Podstawa prawna: art. 36 ust. 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678, z późn. zm.). 1. Miejsce ustalenia klas jakości: .................................................................................................................................................. 2. Data ustalenia klas jakości: ................................................................................................................................................. 3. Dostawca żywca : .................................................................................................................................................. 4. Rzeczoznawca: .................................................................................................................................................. wpisany do rejestru prowadzonego przez wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych w ......................................... pod numerem .................... 5. Metoda ustalenia klas jakości: wzrokowa/aparaturowa* 6. Wyniki ustalenia klas jakości i masy tusz: Numer Numer Kategoria Klasa Klasa Masa Masa tuszy ubojowy identyfikacyjny tuszy uformowania otłuszczenia tuszy ciepłej zwierzęcia ciepłej skorygowana (kg) (kg) 7. Określenie prezentacji tusz podczas ważenia**:
+
+- **1)** prezentacja wzorcowa Unii Europejskiej, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającym wspólną organizację rynków produktów rolnych oraz uchylającym rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2011 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.)
+- **2)** prezentacja inna niż w pkt 1***: Tusze o numerach ubojowych: ........................... różnią się od prezentacji wzorcowej Unii Europejskiej następującymi elementami: ........................................................................................................................................... Sumaryczny współczynnik korekty wynosi: ...........................................................................................................................................
+
+8. Do protokołu wniesiono następujące uwagi/nie wniesiono uwag* .................................................................................................................................................. Pieczęć imienna i podpis rzeczoznawcy: .............................................................................. .............................................................................. Potwierdzenie odbioru protokołu: .............................................................................. Wypełnia się w przypadku uboju dokonywanego na podstawie umowy z właścicielem. Masa tuszy ciepłej po dokonaniu korekty masy współczynnikami korygującymi, określonymi w rozporządzeniu Komisji (WE) nr 1249/2008 z dnia 10 grudnia 2008 r. ustanawiającym szczegółowe zasady wdrożenia wspólnotowych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania ich cen (Dz. Urz. UE L 337 z 16.12.2008, str. 3, z późn. zm.), jeżeli zakład stosuje inną prezentację tuszy niż prezentacja wzorcowa Unii Europejskiej. * Niepotrzebne skreślić. ** Właściwe zaznaczyć. *** W przypadku gdy zastosowano kilka różnych prezentacji, wskazuje się wszystkie odstępstwa oraz uwzględnia się odpowiednie współczynniki korygujące. WZÓR Załącznik nr 4 WZÓR PROTOKÓŁ NR ............/........... Z USTALENIA KLAS JAKOŚCI TUSZ WIEPRZOWYCH Podstawa prawna: art. 36 ust. 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678, z późn. zm.).
+
 1. Miejsce ustalenia klas jakości: ..................................................................................................................................................
-2. Data ustalenia klas jakości: .................................................................................................................................................
-3. Dostawca żywca : ..................................................................................................................................................
-4. Rzeczoznawca: ..................................................................................................................................................
-wpisany do rejestru prowadzonego przez wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych w ......................................... pod numerem ....................
-5. Metoda ustalenia klas jakości: wzrokowa/aparaturowa*
-6. Wyniki ustalenia klas jakości i masy tusz: Numer Numer Kategoria Klasa Klasa Masa Masa tuszy ubojowy identyfikacyjny tuszy uformowania otłuszczenia tuszy ciepłej zwierzęcia ciepłej skorygowana (kg) (kg) WZÓR
-7. Określenie prezentacji tusz podczas ważenia**:
-1) prezentacja wzorcowa Unii Europejskiej, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającym wspólną organizację rynków produktów rolnych oraz uchylającym rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2011 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.)
-2) prezentacja inna niż w pkt 1***: Tusze o numerach ubojowych: ........................... różnią się od prezentacji wzorcowej Unii Europejskiej następującymi elementami: ...........................................................................................................................................
-Sumaryczny współczynnik korekty wynosi: ...........................................................................................................................................
-8. Do protokołu wniesiono następujące uwagi/nie wniesiono uwag* ..................................................................................................................................................
-Pieczęć imienna i podpis rzeczoznawcy: ..............................................................................
-..............................................................................
-Potwierdzenie odbioru protokołu: ..............................................................................
-Wypełnia się w przypadku uboju dokonywanego na podstawie umowy z właścicielem.
-Masa tuszy ciepłej po dokonaniu korekty masy współczynnikami korygującymi, określonymi w rozporządzeniu Komisji (WE) nr 1249/2008 z dnia 10 grudnia 2008 r. ustanawiającym szczegółowe zasady wdrożenia wspólnotowych skal klasyfikacji tusz wołowych, wieprzowych i baranich oraz raportowania ich cen (Dz. Urz. UE L 337 z 16.12.2008, str. 3, z późn. zm.), jeżeli zakład stosuje inną prezentację tuszy niż prezentacja wzorcowa Unii Europejskiej.
-* Niepotrzebne skreślić.
-** Właściwe zaznaczyć.
-*** W przypadku gdy zastosowano kilka różnych prezentacji, wskazuje się wszystkie odstępstwa oraz uwzględnia się odpowiednie współczynniki korygujące.
-PROTOKÓŁ NR ............/...........
-Z USTALENIA KLAS JAKOŚCI TUSZ WIEPRZOWYCH Podstawa prawna: art. 36 ust. 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678, z późn. zm.).
-1. Miejsce ustalenia klas jakości: ..................................................................................................................................................
+
 2. Data ustalenia klas jakości: ..................................................................................................................................................
+
 3. Dostawca żywca: ..................................................................................................................................................
-4. Rzeczoznawca: ..................................................................................................................................................
-wpisany do rejestru prowadzonego przez wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych w ............................................ pod numerem ..................
-5. Metoda ustalenia klas jakości (nazwa urządzenia) ..................................................................................................................................................
-..................................................................................................................................................
-6. Wyniki ustalenia klas jakości i masy tusz: Numer Numer Opis oszacowanych Klasa Oszacowana ubojowy identyfikacyjny wartości jakości zawartość zwierzęcia mięsa w tuszy (w %) Masa tuszy ciepłej (kg) Masa tuszy ciepłej skorygowana (kg) Masa tuszy schłodzonej skorygowana (kg) pomiar/y grubości mięśnia pomiar/y grubości słoniny (widocznej okrywy tłuszczowej) M lub M M F lub F F WZÓR
-7. Określenie prezentacji tusz podczas ważenia, w przypadku gdy zastosowana prezentacja różni się od prezentacji wzorcowej Unii Europejskiej, określonej w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającym wspólną organizację rynków produktów rolnych oraz uchylającym rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2011 i (WE) nr 1234/2007 (Dz. Urz.
-UE L 347 z 20.12.2013, str. 671, z późn. zm.)*.
-..................................................................................................................................................
-..................................................................................................................................................
-..................................................................................................................................................
-8. Do protokołu wniesiono następujące uwagi/nie wniesiono uwag**: ..................................................................................................................................................
-..................................................................................................................................................
-Pieczęć imienna i podpis rzeczoznawcy: .....................................................................
-.....................................................................
-Potwierdzenie odbioru protokołu: .....................................................................
-PROTOKÓŁ NR ......................./........................ Z POBRANIA PRÓBEK Podstawa prawna: art. 36 ust. 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678, z późn. zm.).
+
+4. Rzeczoznawca: .................................................................................................................................................. wpisany do rejestru prowadzonego przez wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych w ............................................ pod numerem ..................
+
+5. Metoda ustalenia klas jakości (nazwa urządzenia) .................................................................................................................................................. ..................................................................................................................................................
+
+6. Wyniki ustalenia klas jakości i masy tusz: Numer Numer Opis oszacowanych Klasa Oszacowana Masa Masa tuszy Masa tuszy ubojowy identyfikacyjny wartości jakości zawartość tuszy ciepłej schłodzonej zwierzęcia pomiar/y pomiar/y mięsa ciepłej skorygowana skorygowana grubości grubości w tuszy (kg) (kg) (kg) mięśnia słoniny (w %) (widocznej okrywy tłuszczowej) M M F F lub lub M F
+
+7. Określenie prezentacji tusz podczas ważenia, w przypadku gdy zastosowana prezentacja różni się od prezentacji wzorcowej Unii Europejskiej, określonej w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającym wspólną organizację rynków produktów rolnych oraz uchylającym rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2011 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.)*. .................................................................................................................................................. .................................................................................................................................................. ..................................................................................................................................................
+
+8. Do protokołu wniesiono następujące uwagi/nie wniesiono uwag**: .................................................................................................................................................. .................................................................................................................................................. Pieczęć imienna i podpis rzeczoznawcy: ..................................................................... ..................................................................... Potwierdzenie odbioru protokołu: .....................................................................
+
+## Załącznik nr 5 — WZÓR WZÓR PROTOKÓŁ NR ......................./........................ Z POBRANIA PRÓBEK Podstawa prawna: art. 36 ust. 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678, z późn. zm.).
+
 1. Nazwa artykułu .......................................................................................................................
 2. Rzeczoznawca .........................................................................................................................
 wpisany do rejestru prowadzonego przez wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych w .......................................................................................
@@ -147,7 +157,6 @@ pod numerem ................................................
 7. Producent ................................................................................................................................
 8. Sprzedawca .............................................................................................................................
 9. Odbiorca ..................................................................................................................................
-WZÓR
 10. Wielkość partii ....................................................................................................................
 11. Data produkcji partii ............................................................................................................
 12. Dane identyfikacyjne partii ..................................................................................................
@@ -189,7 +198,9 @@ Pieczęć imienna i podpis rzeczoznawcy: Podpisy osób obecnych przy pobraniu pr
 ......................................................
 Potwierdzenie odbioru próbek i protokołu ......................................................
 * Niepotrzebne skreślić.
-PROTOKÓŁ NR ......................./........................ Z POBRANIA PRÓBEK CHMIELU W RAMACH PROCEDURY JEGO CERTYFIKACJI Podstawa prawna: art. 36 ust. 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678, z późn. zm.).
+
+## Załącznik nr 6 — WZÓR WZÓR PROTOKÓŁ NR ......................./........................ Z POBRANIA PRÓBEK CHMIELU W RAMACH PROCEDURY JEGO CERTYFIKACJI Podstawa prawna: art. 36 ust. 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678, z późn. zm.).
+
 1. Nazwa artykułu .......................................................................................................................
 2. Miejsce pobrania próbek ..................................................................................................................................................
 ..................................................................................................................................................
@@ -204,18 +215,20 @@ PROTOKÓŁ NR ......................./........................ Z POBRANIA PRÓBE
 ..................................................................................................................................................
 ..................................................................................................................................................
 ..............................................................
-WZÓR Pieczęć imienna i podpis rzeczoznawcy: Imiona i nazwiska oraz podpisy osób obecnych przy pobraniu próbek: ..............................................................
+Pieczęć imienna i podpis rzeczoznawcy: Imiona i nazwiska oraz podpisy osób obecnych przy pobraniu próbek: ..............................................................
 ..............................................................
 Potwierdzenie odbioru próbek i protokołu ..............................................................
 * Niepotrzebne skreślić.
-PROTOKÓŁ NR ................/...................... Z USTALENIA KLAS JAKOŚCI ŚWIEŻYCH OWOCÓW I WARZYW Podstawa prawna: art. 36 ust. 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678, z późn. zm.).
+
+## Załącznik nr 7 — WZÓR WZÓR PROTOKÓŁ NR ................/...................... Z USTALENIA KLAS JAKOŚCI ŚWIEŻYCH OWOCÓW I WARZYW Podstawa prawna: art. 36 ust. 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2015 r. poz. 678, z późn. zm.).
+
 1. Przedsiębiorca .........................................................................................................................
 ..................................................................................................................................................
 ..................................................................................................................................................
 2. Rzeczoznawca .........................................................................................................................
 wpisany do rejestru prowadzonego przez wojewódzkiego inspektora jakości handlowej artykułów rolno-spożywczych w ..................................... pod numerem ..............................
 3. Miejsce ustalenia klas jakości ..................................................................................................................................................
-4. Wyniki ustalenia klas jakości: Lp. Nazwa produktu/ odmiana/wielkość Opakowanie (rodzaj i liczba) Wielkość partii Klasa jakości WZÓR
+4. Wyniki ustalenia klas jakości: Lp. Nazwa produktu/ Opakowanie Wielkość Klasa jakości odmiana/wielkość (rodzaj i liczba) partii
 5. Do protokołu wniesiono następujące uwagi/nie wniesiono uwag* ..................................................................................................................................................
 ..................................................................................................................................................
 ..................................................................................................................................................
@@ -224,5 +237,6 @@ wpisany do rejestru prowadzonego przez wojewódzkiego inspektora jakości handlo
 Pieczęć imienna i podpis rzeczoznawcy: ............................................................
 Potwierdzenie odbioru protokołu: ............................................................
 * Niepotrzebne skreślić.
-Lp. Temat Ilość godzin Podstawy prawne i zakres działania 0,5 godziny 1 Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych Przepisy w zakresie obowiązków 0,5 godziny 2 i uprawnień rzeczoznawców Przepisy w zakresie ustalania klas jakości 1,5 godziny 3 owoców i warzyw świeżych 4 Zasady klasyfikacji owoców i omówienie głównych elementów standardów jakościowych 0,5 godziny Omówienie poszczególnych elementów 3 godziny 5 standardów jakościowych owoców Zasady klasyfikacji warzyw i omówienie 0,5 godziny 6 głównych elementów standardów jakościowych Omówienie poszczególnych elementów 3 godziny 7 standardów jakościowych warzyw Dokumentacja, w tym wypełnianie 2 godziny 8 protokołu przez rzeczoznawcę 9 Wybrane przepisy BHP 0,5 godziny Zajęcia praktyczne w zakładzie owoce. 4 godziny 10 Zajęcia praktyczne w zakładzie warzywa ŁĄCZNIE: 16 godzin (2 dni szkoleniowe po 8 godzin) WARUNKI DOTYCZĄCE TEMATÓW, JAKIE POWINIEN OBEJMOWAĆ PROGRAM SZKOLENIA W ZAKRESIE ZASAD USTALANIA KLAS JAKOŚCI ŚWIEŻYCH OWOCÓW I WARZYW
+
+## Załącznik nr 8 — WARUNKI DOTYCZĄCE TEMATÓW, JAKIE POWINIEN OBEJMOWAĆ PROGRAM SZKOLENIA W ZAKRESIE ZASAD USTALANIA KLAS JAKOŚCI WARUNKI DOTYCZĄCE TEMATÓW, ŚWIEŻYCH JAKIE OWOCÓW POWINIEN I OBEJMOWAĆ WARZYW PROGRAM SZKOLENIA W ZAKRESIE ZASAD USTALANIA KLAS JAKOŚCI ŚWIEŻYCH OWOCÓW I WARZYW Lp. Temat Ilość godzin Podstawy prawne i zakres działania 0,5 godziny 1 Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych Przepisy w zakresie obowiązków 0,5 godziny 2 i uprawnień rzeczoznawców Przepisy w zakresie ustalania klas jakości 1,5 godziny 3 owoców i warzyw świeżych Zasady klasyfikacji owoców 0,5 godziny 4 i omówienie głównych elementów standardów jakościowych Omówienie poszczególnych elementów 3 godziny 5 standardów jakościowych owoców Zasady klasyfikacji warzyw i omówienie 0,5 godziny 6 głównych elementów standardów jakościowych Omówienie poszczególnych elementów 3 godziny 7 standardów jakościowych warzyw Dokumentacja, w tym wypełnianie 2 godziny 8 protokołu przez rzeczoznawcę 9 Wybrane przepisy BHP 0,5 godziny Zajęcia praktyczne w zakładzie – owoce. 4 godziny 10 Zajęcia praktyczne w zakładzie – warzywa ŁĄCZNIE: 16 godzin (2 dni szkoleniowe po 8 godzin)
 

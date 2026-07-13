@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie stosowania ograniczeń wyszczególnionych w załączniku XVII do rozporządzenia nr 1907/2006 Na podstawie art. 26 ust. 2 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U.
 z 2015 r. poz. 1203) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Gospodarki z dnia 10 października 2013 r. w sprawie stosowania ograniczeń wyszczególnionych w załączniku XVII do rozporządzenia nr 1907/2006 (Dz. U. poz. 1314) uchyla się § 4.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-Minister Rozwoju: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Ministra Gospodarki z dnia 10 października 2013 r. w sprawie stosowania ograniczeń wyszczególnionych w załączniku XVII do rozporządzenia nr 1907/2006 (Dz. U. poz. 1314) uchyla się § 4.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. Minister Rozwoju: M. Morawiecki
 

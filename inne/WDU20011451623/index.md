@@ -37,47 +37,13 @@ source: pdf
 
 - **4)** w art. 33 w ust. 6 zdanie wstępne otrzymuje brzmienie: „Wskaźnik Ww, o którym mowa w ust. 5, jest waloryzowany corocznie:”;
 - **5)** w art. 42 skreśla się ust. 4;
-- **6)** po art. 42 dodaje się art. 42a w brzmieniu: „Art. 42a. 1. W przypadku stwierdzenia, że w sprawozdaniu, którego obowiązek sporządzania wynika z odrębnych przepisów, zostały podane nieprawdziwe dane i jednostka samorządu terytorialnego otrzymała część oświatową subwencji ogólnej, o której mowa w art. 35, w kwocie wyższej od należnej, minister właściwy do spraw finansów publicznych zmniejsza kwotę należnej jednostce samorządu terytorialnego części oświatowej subwencji ogólnej, zmniejszając lub wstrzymując kolejne raty tej części subwencji o odpowiednie kwoty, chyba że jednostka samorządu terytorialnego dokona wcześniej zwrotu nienależnie otrzymanych kwot.
-
-2. Kwoty, o których mowa w ust. 1, uzyskane przez jednostkę samorządu terytorialnego nienależnie:
-
-- **1)** w odniesieniu do kwot ustalonych na rok budżetowy - podlegają zwrotowi do budżetu państwa i zwiększają kwotę rezerwy, o której mowa w art. 34 ust. 2,
-- **2)** za lata poprzedzające rok budżetowy - podlegają zwrotowi do budżetu państwa.
-
-3. Przepisy art. 42 ust. 2, 9 i 10 stosuje się odpowiednio.”;
-
+- **6)** po art. 42 dodaje się art. 42a w brzmieniu: „Art. 42a. 1. W przypadku stwierdzenia, że w sprawozdaniu, którego obowiązek sporządzania wynika z odrębnych przepisów, zostały podane nieprawdziwe dane i jednostka samorządu terytorialnego otrzymała część oświatową subwencji ogólnej, o której mowa w art. 35, w kwocie wyższej od należnej, minister właściwy do spraw finansów publicznych zmniejsza kwotę należnej jednostce samorządu terytorialnego części oświatowej subwencji ogólnej, zmniejszając lub wstrzymując kolejne raty tej części subwencji o odpowiednie kwoty, chyba że jednostka samorządu terytorialnego dokona wcześniej zwrotu nienależnie otrzymanych kwot. 2. Kwoty, o których mowa w ust. 1, uzyskane przez jednostkę samorządu terytorialnego nienależnie: 1) w odniesieniu do kwot ustalonych na rok budżetowy - podlegają zwrotowi do budżetu państwa i zwiększają kwotę rezerwy, o której mowa w art. 34 ust. 2, 2) za lata poprzedzające rok budżetowy - podlegają zwrotowi do budżetu państwa. 3. Przepisy art. 42 ust. 2, 9 i 10 stosuje się odpowiednio.”;
 - **7)** w art. 43:
     - **a)** w ust. 1 po wyrazach „objętych kontraktem wojewódzkim” kropkę zastępuje się przecinkiem i dodaje się wyrazy „z zastrzeżeniem art. 43c.”,
     - **b)** w ust. 2 po wyrazach „o których mowa w art. 29 ustawy o zasadach wspierania rozwoju regionalnego” kropkę zastępuje się przecinkiem i dodaje się wyrazy „w tym także na usuwanie skutków powodzi i osuwisk ziemnych.”;
 
-- **8)** po art. 43 dodaje się art. 43a-43c w brzmieniu: „Art. 43a. Jednostka samorządu terytorialnego, która nie przeznaczy w danym roku na finansowanie dotowanej inwestycji środków z budżetu jednostki samorządu terytorialnego w pełnej kwocie, wymaganej na podstawie postanowień kontraktu wojewódzkiego, jest obowiązana zwrócić dotację, przyznaną w danym roku, w części proporcjonalnej do poniesionych wydatków, w terminie nie później niż do końca roku następującego po roku, w którym otrzymała dotację, chyba że kontrakt wojewódzki stanowi inaczej.
-
-**Art. 43b.** Decyzje w sprawie zwrotu dotacji wydaje właściwy wojewoda, jeżeli odrębne przepisy nie stanowią inaczej.
-
-**Art. 43c.**
-
-1. Jednostki samorządu terytorialnego mogą otrzymywać dotacje celowe z budżetu państwa na dofinansowanie zadań własnych związanych z:
-
-- **1)** dofinansowaniem kosztów wdrożenia reformy oświaty,
-- **2)** inicjatywami wspierania edukacji na obszarach wiejskich, w tym na stypendia i pomoc materialną dla młodzieży,
-- **3)** programem działań osłonowych i restrukturyzacji w ochronie zdrowia.
-
-2. Podziału środków na poszczególne jednostki samorządu terytorialnego dokonuje, w porozumieniu z wojewodami, minister właściwy do spraw:
-
-- **1)** oświaty i wychowania - w odniesieniu do zadań, o których mowa w ust. 1 pkt 1 i 2,
-- **2)** zdrowia - w odniesieniu do zadań, o których mowa w ust. 1 pkt 3.
-
-3. Do dotacji na cele inwestycyjne związane z zadaniami, o których mowa w ust. 1, stosuje się odpowiednio art. 44 ust. 3-8 ustawy.”;
-
-- **9)** po art. 61a dodaje się art. 61b w brzmieniu: „Art. 61b. 1. W 2002 r. jednostki samorządu terytorialnego, z zastrzeżeniem art. 90 ust. 3 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz.U. Nr 155, poz. 1014, z 1999 r. Nr 38, poz. 360, Nr 49, poz. 485, Nr 70, poz. 778 i Nr 110, poz. 1255, z 2000 r. Nr 6, poz. 69, Nr 12, poz. 136, Nr 48, poz. 550, Nr 95, poz. 1041, Nr 119, poz. 1251 i Nr 122, poz. 1315 oraz z 2001 r. Nr 45, poz. 497, Nr 46, poz. 499, Nr 88, poz. 961, Nr 98, poz. 1070, Nr 100, poz. 1082 i Nr 102, poz. 1116), mogą zmienić przeznaczenie dotacji celowych otrzymanych z budżetu państwa na realizację zadań własnych. Zmiana przeznaczenia nie może przekroczyć 15% planowanej kwoty dotacji. Art. 93 ustawy o finansach publicznych i art. 44 ust. 6 i 7 niniejszej ustawy nie stosuje się.
-
-2. Zmian w przeznaczeniu dotacji celowych, o których mowa w ust. 1, w tym przesunięć między działami, może dokonywać zarząd jednostki samorządu terytorialnego po uzyskaniu pozytywnej opinii komisji właściwej do spraw budżetu.
-
-3. Zarząd jednostki samorządu terytorialnego informuje właściwego wojewodę o zmianach dokonanych na zasadach i w trybie o których mowa w ust. 1 i 2, w pełnej szczegółowości klasyfikacji budżetowej, w terminie 14 dni od dnia podjęcia uchwały w tej sprawie.
-
-4. Wojewodowie przedkładają ministrowi właściwemu do spraw finansów publicznych, w pełnej szczegółowości klasyfikacji budżetowej, zbiorczą informację, wraz z częścią opisową, o dokonanych przez zarządy jednostek samorządu terytorialnego zmianach przeznaczenia dotacji celowych otrzymanych z budżetu państwa na realizację zadań własnych, w terminach określonych dla złożenia kwartalnych sprawozdań z wykonania dochodów i wydatków budżetu państwa.
-
-5. Część dotacji, w stosunku do której dokonano zmian, o których mowa w ust. 1, nie może być przeznaczona na wynagrodzenia.”.
+- **8)** po art. 43 dodaje się art. 43a-43c w brzmieniu: „Art. 43a. Jednostka samorządu terytorialnego, która nie przeznaczy w danym roku na finansowanie dotowanej inwestycji środków z budżetu jednostki samorządu terytorialnego w pełnej kwocie, wymaganej na podstawie postanowień kontraktu wojewódzkiego, jest obowiązana zwrócić dotację, przyznaną w danym roku, w części proporcjonalnej do poniesionych wydatków, w terminie nie później niż do końca roku następującego po roku, w którym otrzymała dotację, chyba że kontrakt wojewódzki stanowi inaczej. Art. 43b. Decyzje w sprawie zwrotu dotacji wydaje właściwy wojewoda, jeżeli odrębne przepisy nie stanowią inaczej. Art. 43c. 1. Jednostki samorządu terytorialnego mogą otrzymywać dotacje celowe z budżetu państwa na dofinansowanie zadań własnych związanych z: 1) dofinansowaniem kosztów wdrożenia reformy oświaty, 2) inicjatywami wspierania edukacji na obszarach wiejskich, w tym na stypendia i pomoc materialną dla młodzieży, 3) programem działań osłonowych i restrukturyzacji w ochronie zdrowia. 2. Podziału środków na poszczególne jednostki samorządu terytorialnego dokonuje, w porozumieniu z wojewodami, minister właściwy do spraw: 1) oświaty i wychowania - w odniesieniu do zadań, o których mowa w ust. 1 pkt 1 i 2, 2) zdrowia - w odniesieniu do zadań, o których mowa w ust. 1 pkt 3. 3. Do dotacji na cele inwestycyjne związane z zadaniami, o których mowa w ust. 1, stosuje się odpowiednio art. 44 ust. 3-8 ustawy.”;
+- **9)** po art. 61a dodaje się art. 61b w brzmieniu: „Art. 61b. 1. W 2002 r. jednostki samorządu terytorialnego, z zastrzeżeniem art. 90 ust. 3 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz.U. Nr 155, poz. 1014, z 1999 r. Nr 38, poz. 360, Nr 49, poz. 485, Nr 70, poz. 778 i Nr 110, poz. 1255, z 2000 r. Nr 6, poz. 69, Nr 12, poz. 136, Nr 48, poz. 550, Nr 95, poz. 1041, Nr 119, poz. 1251 i Nr 122, poz. 1315 oraz z 2001 r. Nr 45, poz. 497, Nr 46, poz. 499, Nr 88, poz. 961, Nr 98, poz. 1070, Nr 100, poz. 1082 i Nr 102, poz. 1116), mogą zmienić przeznaczenie dotacji celowych otrzymanych z budżetu państwa na realizację zadań własnych. Zmiana przeznaczenia nie może przekroczyć 15% planowanej kwoty dotacji. Art. 93 ustawy o finansach publicznych i art. 44 ust. 6 i 7 niniejszej ustawy nie stosuje się. 2. Zmian w przeznaczeniu dotacji celowych, o których mowa w ust. 1, w tym przesunięć między działami, może dokonywać zarząd jednostki samorządu terytorialnego po uzyskaniu pozytywnej opinii komisji właściwej do spraw budżetu. 3. Zarząd jednostki samorządu terytorialnego informuje właściwego wojewodę o zmianach dokonanych na zasadach i w trybie o których mowa w ust. 1 i 2, w pełnej szczegółowości klasyfikacji budżetowej, w terminie 14 dni od dnia podjęcia uchwały w tej sprawie. 4. Wojewodowie przedkładają ministrowi właściwemu do spraw finansów publicznych, w pełnej szczegółowości klasyfikacji budżetowej, zbiorczą informację, wraz z częścią opisową, o dokonanych przez zarządy jednostek samorządu terytorialnego zmianach przeznaczenia dotacji celowych otrzymanych z budżetu państwa na realizację zadań własnych, w terminach określonych dla złożenia kwartalnych sprawozdań z wykonania dochodów i wydatków budżetu państwa. 5. Część dotacji, w stosunku do której dokonano zmian, o których mowa w ust. 1, nie może być przeznaczona na wynagrodzenia.”.
 
 **Art. 2.** W ustawie z dnia 28 września 1991 r. o lasach (Dz.U. z 2000 r. Nr 56, poz. 679, Nr 86, poz. 958 i Nr 120, poz. 1268 oraz z 2001 r. Nr 110, poz. 1189) w art. 5:
 

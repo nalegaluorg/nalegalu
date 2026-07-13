@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia Na podstawie art. 53 § 4 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r.
 poz. 2072 oraz z 2021 r. poz. 1080 i 1236) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 5 marca 2004 r. w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia (Dz. U. z 2021 r. poz. 309 i 1197) § 24b otrzymuje brzmienie: „§ 24b. System teleinformatyczny obsługujący postępowanie sądowe spełnia funkcję archiwum zakładowego w odniesieniu do akt spraw prowadzonych w tym systemie oraz tytułów wykonawczych obejmujących orzeczenia wydane w postępowaniach prowadzonych w tym systemie.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 5 marca 2004 r. w sprawie przechowywania akt spraw sądowych oraz ich przekazywania do archiwów państwowych lub do zniszczenia (Dz. U. z 2021 r. poz. 309 i 1197) § 24b otrzymuje brzmienie: „§ 24b. System teleinformatyczny obsługujący postępowanie sądowe spełnia funkcję archiwum zakładowego w odniesieniu do akt spraw prowadzonych w tym systemie oraz tytułów wykonawczych obejmujących orzeczenia wydane w postępowaniach prowadzonych w tym systemie.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

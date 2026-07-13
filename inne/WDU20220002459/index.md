@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002459) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2459/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Straży Granicznej na zwolnieniach lekarskich Na podstawie art. 125i ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, 1115 i 1855) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 29 maja 2014 r. w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Straży Granicznej na zwolnieniach lekarskich (Dz. U. z 2016 r.
-poz. 1042 oraz z 2021 r. poz. 483) skreśla się użyty w załączniku do rozporządzenia w tabeli nr 2 w wierszach oznaczonych lp. 3 i 5 w kolumnie drugiej wyraz „obcym”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 29 maja 2014 r. w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania funkcjonariuszy Straży Granicznej na zwolnieniach lekarskich (Dz. U. z 2016 r. poz. 1042 oraz z 2021 r. poz. 483) skreśla się użyty w załączniku do rozporządzenia w tabeli nr 2 w wierszach oznaczonych lp. 3 i 5 w kolumnie drugiej wyraz „obcym”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

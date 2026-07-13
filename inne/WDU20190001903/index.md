@@ -26,14 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001903) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1903/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wieloletniej prognozy finansowej jednostki samorządu terytorialnego Na podstawie art. 230b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, 1622 i 1649) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 10 stycznia 2013 r. w sprawie wieloletniej prognozy finansowej jednostki samorządu terytorialnego (Dz. U. z 2015 r. poz. 92) wprowadza się następujące zmiany:
-1) § 5 otrzymuje brzmienie: „§ 5. 1. Regionalne izby obrachunkowe przekazują Ministrowi Finansów, za pomocą aplikacji, o której mowa w § 4 ust. 1:
-1) projekty wieloletnich prognoz finansowych jednostek samorządu terytorialnego, o których mowa w art. 230 ust. 2 ustawy, wraz z wynikami opinii – w terminie do dnia 31 grudnia roku poprzedzającego rok budżetowy;
-2) wieloletnie prognozy finansowe jednostek samorządu terytorialnego wraz z wynikami rozstrzygnięć nadzorczych – w terminie do 5 dni roboczych od dnia wydania tych rozstrzygnięć.
-2. W przypadku braku możliwości przekazania wieloletnich prognoz finansowych oraz ich projektów w terminach, o których mowa w ust. 1, spowodowanego nieprawidłowym działaniem aplikacji, o której mowa w § 4 ust. 1, wieloletnie prognozy finansowe oraz ich projekty przekazuje się najpóźniej pierwszego dnia roboczego następującego po dniu usunięcia awarii.”;
-2) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Załącznik nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się po raz pierwszy do opracowania projektu uchwały, o którym mowa w art. 230 ust. 2 ustawy z dnia 27 sierpnia 2009 r.
-o finansach publicznych, przedstawionego wraz z projektem uchwały budżetowej na rok 2020.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów, Inwestycji i Rozwoju: J. Kwieciński
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 10 stycznia 2013 r. w sprawie wieloletniej prognozy finansowej jednostki samorządu terytorialnego (Dz. U. z 2015 r. poz. 92) wprowadza się następujące zmiany:
+
+- **1)** § 5 otrzymuje brzmienie: „§ 5. 1. Regionalne izby obrachunkowe przekazują Ministrowi Finansów, za pomocą aplikacji, o której mowa w § 4 ust. 1: 1) projekty wieloletnich prognoz finansowych jednostek samorządu terytorialnego, o których mowa w art. 230 ust. 2 ustawy, wraz z wynikami opinii – w terminie do dnia 31 grudnia roku poprzedzającego rok budżetowy; 2) wieloletnie prognozy finansowe jednostek samorządu terytorialnego wraz z wynikami rozstrzygnięć nadzorczych – w terminie do 5 dni roboczych od dnia wydania tych rozstrzygnięć. 2. W przypadku braku możliwości przekazania wieloletnich prognoz finansowych oraz ich projektów w terminach, o których mowa w ust. 1, spowodowanego nieprawidłowym działaniem aplikacji, o której mowa w § 4 ust. 1, wieloletnie prognozy finansowe oraz ich projekty przekazuje się najpóźniej pierwszego dnia roboczego następującego po dniu usunięcia awarii.”;
+- **2)** załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Załącznik nr 1 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się po raz pierwszy do opracowania projektu uchwały, o którym mowa w art. 230 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, przedstawionego wraz z projektem uchwały budżetowej na rok 2020.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów, Inwestycji i Rozwoju: J. Kwieciński
 

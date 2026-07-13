@@ -26,9 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001136) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1136/text.pdf) |
 
 w sprawie wprowadzenia ograniczeń w dostarczaniu i poborze energii elektrycznej Na podstawie art. 11 ust. 7 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm. ) zarządza się, co następuje:
-§ 1. Wprowadza się od dnia 11 sierpnia 2015 r. od godz. 24 do dnia 31 sierpnia 2015 r. do godz. 24 na terytorium Rzeczypospolitej Polskiej ograniczenia w dostarczaniu i poborze energii elektrycznej dla odbiorców energii elektrycznej o mocy umownej powyżej 300 kW.
-§ 2. Operator systemu przesyłowego elektroenergetycznego oraz operatorzy systemów dystrybucyjnych elektroenergetycznych realizują ograniczenia, o których mowa w § 1, zgodnie z planami ograniczeń, o których mowa w § 8 ust. 1 rozporządzenia Rady Ministrów z dnia 23 lipca 2007 r. w sprawie szczegółowych zasad i trybu wprowadzania ograniczeń w sprzedaży paliw stałych oraz w dostarczaniu i poborze energii elektrycznej lub ciepła (Dz. U. Nr 133, poz. 924).
-§ 3. Ograniczenia, o których mowa w § 1, nie dotyczą odbiorców wymienionych w § 6 ust. 1 rozporządzenia wymienionego w § 2.
-§ 4. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Prezes Rady Ministrów: E. Kopacz
+
+**§ 1.** Wprowadza się od dnia 11 sierpnia 2015 r. od godz. 24 do dnia 31 sierpnia 2015 r. do godz. 24 na terytorium Rzeczypospolitej Polskiej ograniczenia w dostarczaniu i poborze energii elektrycznej dla odbiorców energii elektrycznej o mocy umownej powyżej 300 kW.
+
+**§ 2.** Operator systemu przesyłowego elektroenergetycznego oraz operatorzy systemów dystrybucyjnych elektroenergetycznych realizują ograniczenia, o których mowa w § 1, zgodnie z planami ograniczeń, o których mowa w § 8 ust. 1 rozporządzenia Rady Ministrów z dnia 23 lipca 2007 r. w sprawie szczegółowych zasad i trybu wprowadzania ograniczeń w sprzedaży paliw stałych oraz w dostarczaniu i poborze energii elektrycznej lub ciepła (Dz. U. Nr 133, poz. 924).
+
+**§ 3.** Ograniczenia, o których mowa w § 1, nie dotyczą odbiorców wymienionych w § 6 ust. 1 rozporządzenia wymienionego w § 2.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 

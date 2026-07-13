@@ -28,11 +28,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie korzystania z e-Urzędu Skarbowego Na podstawie art. 35b ust. 6 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r.
 poz. 1131) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 21 czerwca 2023 r. w sprawie korzystania z e-Urzędu Skarbowego (Dz. U. poz. 1178) wprowadza się następujące zmiany:
-1) w § 4 ust. 1 otrzymuje brzmienie: „1. W e-Urzędzie Skarbowym udostępnia się konto jednostki organizacyjnej:
-1) osobom prawnym, w tym gminom, powiatom, miastom na prawach powiatu i województwom,
-2) jednostkom organizacyjnym niebędącym osobami prawnymi – posiadającym NIP.”;
-2) w § 6 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Użytkownik konta osoby fizycznej i użytkownik konta jednostki organizacyjnej nie są uprawnieni do wnoszenia za pośrednictwem tych kont pism związanych z wykonywaniem władzy publicznej przez tego użytkownika lub jednostkę organizacyjną, w imieniu której działa.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów i Gospodarki: wz. J. Drop
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 21 czerwca 2023 r. w sprawie korzystania z e-Urzędu Skarbowego (Dz. U. poz. 1178) wprowadza się następujące zmiany:
+
+- **1)** w § 4 ust. 1 otrzymuje brzmienie: „1. W e-Urzędzie Skarbowym udostępnia się konto jednostki organizacyjnej: 1) osobom prawnym, w tym gminom, powiatom, miastom na prawach powiatu i województwom, 2) jednostkom organizacyjnym niebędącym osobami prawnymi – posiadającym NIP.”;
+- **2)** w § 6 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Użytkownik konta osoby fizycznej i użytkownik konta jednostki organizacyjnej nie są uprawnieni do wnoszenia za pośrednictwem tych kont pism związanych z wykonywaniem władzy publicznej przez tego użytkownika lub jednostkę organizacyjną, w imieniu której działa.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów i Gospodarki: wz. J. Drop
 

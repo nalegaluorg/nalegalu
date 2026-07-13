@@ -27,21 +27,7 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001222) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1222/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2020 r. poz. 53, 252 i 568) po art. 194h dodaje się art. 194i i art. 194j w brzmieniu: „Art. 194i. Do ustalenia podstawy obliczenia emerytury, o której mowa w art. 24, ubezpieczonego urodzonego w 1953 r., nie stosuje się przepisu art. 25 ust. 1b, jeżeli wniosek o przyznanie tej emerytury zgłosi w terminie 6 miesięcy od dnia wejścia w życie ustawy z dnia 19 czerwca 2020 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. poz. 1222), pod warunkiem że prawo do emerytury przed osiągnięciem wieku emerytalnego ma ustalone na podstawie wniosku złożonego przed dniem 1 stycznia 2013 r.
-
-**Art. 194j.**
-
-1. Kwotę emerytury przyznanej na podstawie art. 24 ubezpieczonemu urodzonemu w 1953 r., który wcześniej pobierał emeryturę wymienioną w art. 25 ust. 1b na podstawie wniosku złożonego przed dniem 1 stycznia 2013 r., ustala się ponownie od podstawy ustalonej z zastosowaniem art. 194i.
-
-2. Przeliczeniu podlega podstawa obliczenia emerytury przyjęta w decyzji o ustaleniu prawa do emerytury.
-
-3. Do ustalenia nowej kwoty emerytury przyjmuje się średnie dalsze trwanie życia przyjęte w decyzji o ustaleniu prawa do emerytury, a następnie uwzględnia się kolejne zmiany wysokości świadczenia.
-
-4. Emerytura w ponownie ustalonej wysokości przysługuje od dnia, od którego podjęto wypłatę emerytury przyznanej na podstawie art. 24, a w przypadku gdy prawo do tej emerytury było zawieszone – od dnia, od którego mogłaby być podjęta jej wypłata.
-
-5. Jeżeli ponownie ustalona wysokość emerytury przyznanej na podstawie art. 24 jest wyższa od wypłacanej dotychczas, emerytowi wypłaca się wyrównanie. Kwotę wyrównania stanowi różnica między sumą kwot emerytur, jakie przysługiwałyby w okresie od dnia, o którym mowa w ust. 4, do dnia wydania decyzji, o której mowa w ust. 1, z uwzględnieniem ich waloryzacji, a sumą kwot wypłaconych w tym okresie.
-
-6. Przepisy ust. 1–5 stosuje się odpowiednio do ponownego ustalenia wysokości renty rodzinnej.”.
+**Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2020 r. poz. 53, 252 i 568) po art. 194h dodaje się art. 194i i art. 194j w brzmieniu: „Art. 194i. Do ustalenia podstawy obliczenia emerytury, o której mowa w art. 24, ubezpieczonego urodzonego w 1953 r., nie stosuje się przepisu art. 25 ust. 1b, jeżeli wniosek o przyznanie tej emerytury zgłosi w terminie 6 miesięcy od dnia wejścia w życie ustawy z dnia 19 czerwca 2020 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. poz. 1222), pod warunkiem że prawo do emerytury przed osiągnięciem wieku emerytalnego ma ustalone na podstawie wniosku złożonego przed dniem 1 stycznia 2013 r. Art. 194j. 1. Kwotę emerytury przyznanej na podstawie art. 24 ubezpieczonemu urodzonemu w 1953 r., który wcześniej pobierał emeryturę wymienioną w art. 25 ust. 1b na podstawie wniosku złożonego przed dniem 1 stycznia 2013 r., ustala się ponownie od podstawy ustalonej z zastosowaniem art. 194i. 2. Przeliczeniu podlega podstawa obliczenia emerytury przyjęta w decyzji o ustaleniu prawa do emerytury. 3. Do ustalenia nowej kwoty emerytury przyjmuje się średnie dalsze trwanie życia przyjęte w decyzji o ustaleniu prawa do emerytury, a następnie uwzględnia się kolejne zmiany wysokości świadczenia. 4. Emerytura w ponownie ustalonej wysokości przysługuje od dnia, od którego podjęto wypłatę emerytury przyznanej na podstawie art. 24, a w przypadku gdy prawo do tej emerytury było zawieszone – od dnia, od którego mogłaby być podjęta jej wypłata. 5. Jeżeli ponownie ustalona wysokość emerytury przyznanej na podstawie art. 24 jest wyższa od wypłacanej dotychczas, emerytowi wypłaca się wyrównanie. Kwotę wyrównania stanowi różnica między sumą kwot emerytur, jakie przysługiwałyby w okresie od dnia, o którym mowa w ust. 4, do dnia wydania decyzji, o której mowa w ust. 1, z uwzględnieniem ich waloryzacji, a sumą kwot wypłaconych w tym okresie. 6. Przepisy ust. 1–5 stosuje się odpowiednio do ponownego ustalenia wysokości renty rodzinnej.”.
 
 **Art. 2.**
 

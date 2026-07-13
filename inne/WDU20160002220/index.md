@@ -8,12 +8,10 @@ pos: 2220
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# sprawie udzielania pomocy na dostęp mikroprzedsiębiorców, małych i średnich przedsiębiorców do finansowania ramach regionalnych programów operacyjnych na lata 2014–2020 Na podstawie 27 4 ustawy dnia 11 lipca 2014 r. zasadach realizacji programów zakresie polityki spójności finansowanych perspektywie finansowej 2014–2020 (Dz. U. 2016 r. poz. 217, 1579 i 1948) zarządza się, co następuje:
-
-*ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW dnia 14 grudnia 2016 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2220 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 14 grudnia 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,55 +25,100 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002220) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2220/text.pdf) |
 
-1. Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, ramach regionalnych programów operacyjnych na lata 2014–2020, następujących rodzajów pomocy:
-1) pomocy na finansowanie ryzyka,
-2) pomocy dla przedsiębiorców rozpoczynających działalność zwanych dalej „pomocą”, do których mają zastosowanie przepisy Komisji (UE) 651/2014 dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne rynkiem wewnętrznym zastosowaniu 107 i 108 Traktatu (Dz. 187 26.06.2014, 1, późn. zm. ), zwanego dalej „rozporządzeniem 651/2014”, a także podmioty udzielające tej pomocy.
-2. 1. Przepisów nie stosuje się do pomocy, której c i d, 3 c i d, 4 c i 5
-2. W przypadku pomocy, której pkt 2, przepisów nie stosuje się do pomocy, której 3 lit b
-3. Ilekroć rozporządzeniu jest o:
-1) gwarancji oznacza to gwarancję rozumieniu pkt 67 651/2014;
-2) inwestycji kapitałowej oznacza to inwestycję kapitałową rozumieniu pkt 74 651/2014;
-3) inwestycji quasi-kapitałowej oznacza to inwestycję quasi-kapitałową rozumieniu pkt 66 651/2014;
-4) niezależnym inwestorze prywatnym oznacza to niezależnego inwestora prywatnego rozumieniu pkt 72 rozporządzenia 651/2014;
-publicznej wynikający decyzji Komisji Europejskiej uznającej taką pomoc za niezgodną prawem rynkiem wewnętrznym.
-5. Podmiotami udzielającymi pomocy są podmioty wdrażające instrumenty finansowe.
-6. Pomocy, której pkt 1, udziela się, jeżeli:
-1) środki pochodzące regionalnego programu operacyjnego na lata 2014–2020 przekazane do instrumentu finansowego co najmniej jednej form, których 21 651/2014, a przypadku gdy środki te przekazane formie, której 21 a 651/2014, zapewniono spełnienie warunku, którym 21 8 651/2014;
-2) przypadku pomocy udzielanej formie inwestycji kapitałowej, inwestycji quasi-kapitałowej lub pożyczki zostanie zapewniony wkład prywatny zgodnie 21 10 651/2014, uwzględnieniem 21 11 651/2014;
-3) podmiot wdrażający instrument finansowy pełni funkcję pośrednika finansowego rozumieniu pkt 34 rozporządzenia 651/2014 i został wybrany zgodnie 21 13 b 651/2014;
-4) niezależni inwestorzy prywatni zostali wybrani zgodnie 21 13 b 651/2014;
-5) potrzeba przyznania na rzecz niezależnych inwestorów prywatnych preferencji postaci asymetrycznego podziału zysku albo ochrony przed spadkiem wartości, których 21 13 b 651/2014, wynika z:
-a) oceny ex-ante, której 37 Parlamentu Europejskiego i Rady (UE) 1303/2013 dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich Europejskiego Funduszu Morskiego i Rybackiego ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego uchylającego rozporządzenie Rady (WE) 1083/2006 (Dz. 347 20.12.2013, 320, późn. zm. ), która określiła poziom tej preferencji lub mechanizm pozwalający na jego określenie,
-b) przeprowadzonej procedury wyboru niezależnych inwestorów prywatnych a dodatkowo zachowane zostaną warunki, których 21 13 c i d 651/2014;
-6) zapewniono podejmowanie decyzji finansowych motywowanych zyskiem zgodnie 21 14 651/2014;
-7) podmiot wdrażający instrument finansowy jest zarządzany zgodnie 21 15 651/2014;
-8) podmiot wdrażający instrument finansowy, który udziela pomocy formie pożyczek lub gwarancji, posiada mechanizm, którym 21 16 a zdanie drugie
-7. ma na celu wspieranie rozwoju gospodarczego i społecznego województwa objętego regionalnym programem operacyjnym na lata 2014–2020 i jest udzielana:
-1) na finansowanie ryzyka, zgodnie 21 651/2014;
-2) przedsiębiorcom rozpoczynającym działalność, zgodnie 22
-1) inwestycji kapitałowej;
-2) inwestycji quasi-kapitałowej;
-3) pożyczki;
-4) gwarancji.
-2. Pomoc, której pkt 1, formie:
-1) inwestycji kapitałowej i inwestycji quasi-kapitałowej może zostać udzielona na refinansowanie rozumieniu pkt 78 651/2014, jeżeli jest spełniony warunek, którym 21 7 651/2014;
-2) pożyczki lub gwarancji może być udzielona, jeżeli jest spełniony warunek, którym 21 16 a zdanie pierwsze
-10. Maksymalną wartość pomocy, której 1:
-1) pkt ustala się zgodnie 21 9 651/2014, przy uwzględnieniu ‒ przypadku pomocy udzielonej formie:
-a) pożyczki 21 16 b 651/2014,
-b) gwarancji 21 16 c 651/2014;
-2) pkt ustala się zgodnie 22 3 651/2014, przy uwzględnieniu 22 4 i 5 rozporządzenia
-11. podlega kumulacji na zasadach określonych 8
-12. Pomoc, której 1:
-1) pkt przypadku, którym 4 g 651/2014,
-2) pkt przypadku, którym 4 h 651/2014 stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po zatwierdzeniu tej pomocy przez Komisję Europejską.
-13. 1. Przedsiębiorca składa wniosek udzielenie pomocy, zwany dalej „wnioskiem”, do podmiotu wdrażającego instrument finansowy.
+w sprawie udzielania pomocy na dostęp mikroprzedsiębiorców, małych i średnich przedsiębiorców do finansowania w ramach regionalnych programów operacyjnych na lata 2014–2020 Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2016 r. poz. 217, 1579 i 1948) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, w ramach regionalnych programów operacyjnych na lata 2014–2020, następujących rodzajów pomocy:
+
+- **1)** pomocy na finansowanie ryzyka,
+- **2)** pomocy dla przedsiębiorców rozpoczynających działalność – zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 651/2014”, a także podmioty udzielające tej pomocy.
+
+**§ 2.**
+
+1. Przepisów rozporządzenia nie stosuje się do pomocy, o której mowa w art. 1 ust. 2 lit. c i d, ust. 3 lit. c i d, ust. 4 lit. c i ust. 5 rozporządzenia nr 651/2014.
+
+2. W przypadku pomocy, o której mowa w § 1 pkt 2, przepisów rozporządzenia nie stosuje się do pomocy, o której mowa w art. 1 ust. 3 lit b rozporządzenia nr 651/2014.
+
+**§ 3.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** gwarancji – oznacza to gwarancję w rozumieniu art. 2 pkt 67 rozporządzenia nr 651/2014;
+- **2)** inwestycji kapitałowej – oznacza to inwestycję kapitałową w rozumieniu art. 2 pkt 74 rozporządzenia nr 651/2014;
+- **3)** inwestycji quasi-kapitałowej – oznacza to inwestycję quasi-kapitałową w rozumieniu art. 2 pkt 66 rozporządzenia nr 651/2014;
+- **4)** niezależnym inwestorze prywatnym – oznacza to niezależnego inwestora prywatnego w rozumieniu art. 2 pkt 72 rozporządzenia nr 651/2014;
+- **5)** podmiocie wdrażającym instrument finansowy – oznacza to podmiot, o którym mowa w art. 28 ust. 2 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020;
+- **6)** pożyczce – oznacza to pożyczkę w rozumieniu art. 2 pkt 82 rozporządzenia nr 651/2014;
+- **7)** przedsiębiorcy – oznacza to przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia nr 651/2014.
+
+**§ 4.** Pomoc nie może zostać udzielona ani wypłacona przedsiębiorcy, na którym ciąży obowiązek zwrotu pomocy publicznej wynikający z decyzji Komisji Europejskiej uznającej taką pomoc za niezgodną z prawem oraz z rynkiem wewnętrznym.
+
+**§ 5.** Podmiotami udzielającymi pomocy są podmioty wdrażające instrumenty finansowe.
+
+**§ 6.** Pomocy, o której mowa w § 1 pkt 1, udziela się, jeżeli:
+
+- **1)** środki pochodzące z regionalnego programu operacyjnego na lata 2014–2020 zostały przekazane do instrumentu finansowego w co najmniej jednej z form, o których mowa w art. 21 ust. 2 rozporządzenia nr 651/2014, a w przypadku gdy środki te zostały przekazane w formie, o której mowa w art. 21 ust. 2 lit. a rozporządzenia nr 651/2014, zapewniono spełnienie warunku, o którym mowa w art. 21 ust. 8 rozporządzenia nr 651/2014;
+- **2)** w przypadku pomocy udzielanej w formie inwestycji kapitałowej, inwestycji quasi-kapitałowej lub pożyczki zostanie zapewniony wkład prywatny zgodnie z art. 21 ust. 10 rozporządzenia nr 651/2014, z uwzględnieniem art. 21 ust. 11 rozporządzenia nr 651/2014;
+- **3)** podmiot wdrażający instrument finansowy pełni funkcję pośrednika finansowego w rozumieniu art. 2 pkt 34 rozporządzenia nr 651/2014 i został wybrany zgodnie z art. 21 ust. 13 lit. b rozporządzenia nr 651/2014;
+- **4)** niezależni inwestorzy prywatni zostali wybrani zgodnie z art. 21 ust. 13 lit. b rozporządzenia nr 651/2014;
+- **5)** potrzeba przyznania na rzecz niezależnych inwestorów prywatnych preferencji w postaci asymetrycznego podziału zysku albo ochrony przed spadkiem wartości, o których mowa w art. 21 ust. 13 lit. b rozporządzenia nr 651/2014, wynika z:
+    - **a)** oceny ex-ante, o której mowa w art. 37 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm. ), która określiła poziom tej preferencji lub mechanizm pozwalający na jego określenie,
+    - **b)** przeprowadzonej procedury wyboru niezależnych inwestorów prywatnych – a dodatkowo zachowane zostaną warunki, o których mowa w art. 21 ust. 13 lit. c i d rozporządzenia nr 651/2014;
+
+- **6)** zapewniono podejmowanie decyzji finansowych motywowanych zyskiem zgodnie z art. 21 ust. 14 rozporządzenia nr 651/2014;
+- **7)** podmiot wdrażający instrument finansowy jest zarządzany zgodnie z art. 21 ust. 15 rozporządzenia nr 651/2014;
+- **8)** podmiot wdrażający instrument finansowy, który udziela pomocy w formie pożyczek lub gwarancji, posiada mechanizm, o którym mowa w art. 21 ust. 16 lit. a zdanie drugie rozporządzenia nr 651/2014.
+
+**§ 7.** Pomoc ma na celu wspieranie rozwoju gospodarczego i społecznego województwa objętego regionalnym programem operacyjnym na lata 2014–2020 i jest udzielana:
+
+- **1)** na finansowanie ryzyka, zgodnie z art. 21 rozporządzenia nr 651/2014;
+- **2)** przedsiębiorcom rozpoczynającym działalność, zgodnie z art. 22 rozporządzenia nr 651/2014.
+
+**§ 8.** Pomoc, o której mowa w § 1:
+
+- **1)** pkt 1 – jest udzielana przedsiębiorcom spełniającym warunki, o których mowa w art. 21 ust. 5 rozporządzenia nr 651/2014, w tym na inwestycje kontynuacyjne w rozumieniu art. 2 pkt 77 rozporządzenia nr 651/2014, jeżeli są spełnione warunki, o których mowa w art. 21 ust. 6 rozporządzenia nr 651/2014;
+- **2)** pkt 2 – jest udzielana przedsiębiorcom spełniającym warunki wskazane w art. 22 ust. 2 rozporządzenia nr 651/2014.
+
+**§ 9.**
+
+1. Pomoc jest udzielana w jednej lub w kilku z następujących form:
+
+- **1)** inwestycji kapitałowej;
+- **2)** inwestycji quasi-kapitałowej;
+- **3)** pożyczki;
+- **4)** gwarancji.
+
+2. Pomoc, o której mowa w § 1 pkt 1, w formie:
+
+- **1)** inwestycji kapitałowej i inwestycji quasi-kapitałowej – może zostać udzielona na refinansowanie w rozumieniu art. 2 pkt 78 rozporządzenia nr 651/2014, jeżeli jest spełniony warunek, o którym mowa w art. 21 ust. 7 rozporządzenia nr 651/2014;
+- **2)** pożyczki lub gwarancji – może być udzielona, jeżeli jest spełniony warunek, o którym mowa w art. 21 ust. 16 lit. a zdanie pierwsze rozporządzenia nr 651/2014.
+
+**§ 10.** Maksymalną wartość pomocy, o której mowa w § 1:
+
+- **1)** pkt 1 – ustala się zgodnie z art. 21 ust. 9 rozporządzenia nr 651/2014, przy uwzględnieniu ‒ w przypadku pomocy udzielonej w formie:
+    - **a)** pożyczki – art. 21 ust. 16 lit. b rozporządzenia nr 651/2014,
+    - **b)** gwarancji – art. 21 ust. 16 lit. c rozporządzenia nr 651/2014;
+
+- **2)** pkt 2 – ustala się zgodnie z art. 22 ust. 3 rozporządzenia nr 651/2014, przy uwzględnieniu art. 22 ust. 4 i 5 rozporządzenia nr 651/2014.
+
+**§ 11.** Pomoc podlega kumulacji na zasadach określonych w art. 8 rozporządzenia nr 651/2014.
+
+**§ 12.** Pomoc, o której mowa w § 1:
+
+- **1)** pkt 1 – w przypadku, o którym mowa w art. 4 ust. 1 lit. g rozporządzenia nr 651/2014,
+- **2)** pkt 2 – w przypadku, o którym mowa w art. 4 ust. 1 lit. h rozporządzenia nr 651/2014 – stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po zatwierdzeniu tej pomocy przez Komisję Europejską.
+
+**§ 13.**
+
+1. Przedsiębiorca składa wniosek o udzielenie pomocy, zwany dalej „wnioskiem”, do podmiotu wdrażającego instrument finansowy.
+
 2. Wniosek zawiera:
-1) informacje wskazane 6 zdanie drugie 651/2014;
-2) inne informacje wskazane przez podmiot wdrażający instrument finansowy, niezbędne do dokonania oceny wniosku.
-3. Do wniosku przedsiębiorca załącza dokumenty przygotowane zgodnie przepisami wydanymi na podstawie 37 6 ustawy dnia 30 kwietnia 2004 r. postępowaniu sprawach dotyczących pomocy publicznej (Dz. U. 2016 r.
-poz. 1808 i 1948).
+
+- **1)** informacje wskazane w art. 6 ust. 2 zdanie drugie rozporządzenia nr 651/2014;
+- **2)** inne informacje wskazane przez podmiot wdrażający instrument finansowy, niezbędne do dokonania oceny wniosku.
+
+3. Do wniosku przedsiębiorca załącza dokumenty przygotowane zgodnie z przepisami wydanymi na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2016 r. poz. 1808 i 1948).
+
 4. Po przeprowadzeniu oceny wniosku pomoc może być udzielona przedsiębiorcy na podstawie umowy.
-14. jest udzielana do końca okresu dostosowawczego, którym 58 4 zdanie pierwsze związku 59
-15. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
+
+**§ 14.** Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze w związku z art. 59 rozporządzenia nr 651/2014.
+
+**§ 15.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rozwoju i Finansów: M. Morawiecki
 

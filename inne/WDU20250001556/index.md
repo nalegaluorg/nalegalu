@@ -30,52 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2025 r. poz. 869) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 uchyla się ust. 2 i 3;
-- **2)** w art. 4 po ust. 4b dodaje się ust. 4c–4m w brzmieniu: „4c. Centralna Informacja udostępnia podmiotom, które uzyskały zgodę, o której mowa w ust. 4d, bezpłatnie informacje z Rejestru za pośrednictwem usług sieciowych.
-
-4d. Minister Sprawiedliwości, w drodze decyzji administracyjnej, wyraża zgodę na udostępnianie informacji z Rejestru za pośrednictwem usług sieciowych.
-
-4e. Podmiot publiczny w rozumieniu art. 2 ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717 oraz z 2025 r. poz. 1006, 1019, 1158 i 1301) albo podmiot niebędący podmiotem publicznym, który realizuje zadania publiczne na podstawie odrębnych przepisów albo na skutek powierzenia lub zlecenia przez podmiot publiczny ich realizacji, może wystąpić z wnioskiem o wyrażenie zgody, o której mowa w ust. 4d, jeżeli:
-
-- **1)** jest to niezbędne do realizacji przez ten podmiot zadań publicznych;
-- **2)** podmiot posiada i stosuje urządzenia lub systemy teleinformatyczne umożliwiające identyfikację osoby uzyskującej informacje z Rejestru, zakresu informacji oraz daty ich uzyskania;
-- **3)** podmiot ma wdrożone zabezpieczenia techniczne i organizacyjne adekwatne do oszacowanego ryzyka, zapewniające poufność, integralność, dostępność i autentyczność przetwarzanych danych.
-
-4f. O zgodę, o której mowa w ust. 4d, może wystąpić także podmiot uprawniony do występowania w imieniu grupy podmiotów.
-
-4g. Wniosek, o którym mowa w ust. 4e, zawiera:
-
-- **1)** oznaczenie wnioskodawcy;
-- **2)** oznaczenie podmiotu, którego dotyczy wniosek;
-- **3)** wskazanie zadań, o których mowa w ust. 4e pkt 1, z przywołaniem przepisów, z których wynikają te zadania lub kompetencja do ich powierzenia lub zlecenia;
-- **4)** uzasadnienie spełnienia przesłanki niezbędności, o której mowa w ust. 4e pkt 1;
-- **5)** oświadczenie wnioskodawcy o:
-    - **a)** posiadaniu i stosowaniu urządzenia lub systemu teleinformatycznego umożliwiającego identyfikację osoby uzyskującej informacje z Rejestru, zakresu informacji oraz daty ich uzyskania,
-    - **b)** wdrożeniu zabezpieczeń technicznych i organizacyjnych, adekwatnych do oszacowanego ryzyka, zapewniających poufność, integralność, dostępność i autentyczność przetwarzanych danych,
-    - **c)** wykorzystywaniu dostępu wyłącznie w celu określonym w ustawie,
-    - **d)** zabezpieczeniu uzyskanych informacji;
-
-- **6)** wskazanie osoby umocowanej do rozwiązywania technicznych problemów w zakresie uzyskiwania informacji z Rejestru za pośrednictwem usług sieciowych;
-- **7)** uzasadnienie uprawnienia do występowania w imieniu grupy podmiotów – jeśli wnioskodawca składa wniosek w imieniu grupy podmiotów.
-
-4h. Minister Sprawiedliwości może żądać szczegółowego wykazania spełnienia przesłanek, o których mowa w ust. 4e.
-
-4i. Minister Sprawiedliwości odmawia, w drodze decyzji administracyjnej, wyrażenia zgody, o której mowa w ust. 4d, jeżeli nie zostały spełnione przesłanki, o których mowa w ust. 4e, lub Centralna Informacja nie posiada odpowiednich do uruchomienia usługi warunków technicznych.
-
-4j. Podmiot, któremu Minister Sprawiedliwości wyraził zgodę, o której mowa w ust. 4d, jest obowiązany niezwłocznie poinformować Ministra Sprawiedliwości o:
-
-- **1)** zaprzestaniu realizacji zadań publicznych uzasadniających dostęp do informacji z Rejestru za pośrednictwem usług sieciowych;
-- **2)** zmianie stosowanych urządzeń lub systemów teleinformatycznych umożliwiających identyfikację osoby uzyskującej informacje z Rejestru, zakresu informacji oraz daty ich uzyskania, mającej wpływ na sposób tej identyfikacji;
-- **3)** zmianie wdrożonych zabezpieczeń technicznych i organizacyjnych, adekwatnych do oszacowanego ryzyka, zapewniających poufność, integralność, dostępność i autentyczność przetwarzanych danych.
-
-4k. Informacja, o której mowa w ust. 4j pkt 2 lub 3, zawiera oświadczenie podmiotu, czy:
-
-- **1)** urządzenia lub systemy teleinformatyczne, o których mowa w ust. 4j pkt 2, umożliwiają identyfikację osoby uzyskującej informacje z Rejestru, zakresu informacji oraz daty ich uzyskania;
-- **2)** wdrożone zabezpieczenia techniczne i organizacyjne, o których mowa w ust. 4j pkt 3, zapewniają poufność, integralność, dostępność i autentyczność przetwarzanych danych.
-
-4l. Podmiot, któremu Minister Sprawiedliwości wyraził zgodę, o której mowa w ust. 4d, jest obowiązany do powstrzymania się od korzystania z dostępu do danych za pośrednictwem usług sieciowych w sytuacji niespełnienia którejkolwiek z przesłanek, o których mowa w ust. 4e.
-
-4m. Minister Sprawiedliwości cofa, w drodze decyzji administracyjnej, zgodę, o której mowa w ust. 4d, jeżeli przestała istnieć którakolwiek z przesłanek, o których mowa w ust. 4e, a także gdy Centralna Informacja przestała posiadać odpowiednie warunki techniczne do utrzymywania usługi.”;
-
+- **2)** w art. 4 po ust. 4b dodaje się ust. 4c–4m w brzmieniu: „4c. Centralna Informacja udostępnia podmiotom, które uzyskały zgodę, o której mowa w ust. 4d, bezpłatnie informacje z Rejestru za pośrednictwem usług sieciowych. 4d. Minister Sprawiedliwości, w drodze decyzji administracyjnej, wyraża zgodę na udostępnianie informacji z Rejestru za pośrednictwem usług sieciowych. 4e. Podmiot publiczny w rozumieniu art. 2 ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717 oraz z 2025 r. poz. 1006, 1019, 1158 i 1301) albo podmiot niebędący podmiotem publicznym, który realizuje zadania publiczne na podstawie odrębnych przepisów albo na skutek powierzenia lub zlecenia przez podmiot publiczny ich realizacji, może wystąpić z wnioskiem o wyrażenie zgody, o której mowa w ust. 4d, jeżeli: 1) jest to niezbędne do realizacji przez ten podmiot zadań publicznych; 2) podmiot posiada i stosuje urządzenia lub systemy teleinformatyczne umożliwiające identyfikację osoby uzyskującej informacje z Rejestru, zakresu informacji oraz daty ich uzyskania; 3) podmiot ma wdrożone zabezpieczenia techniczne i organizacyjne adekwatne do oszacowanego ryzyka, zapewniające poufność, integralność, dostępność i autentyczność przetwarzanych danych. 4f. O zgodę, o której mowa w ust. 4d, może wystąpić także podmiot uprawniony do występowania w imieniu grupy podmiotów. 4g. Wniosek, o którym mowa w ust. 4e, zawiera: 1) oznaczenie wnioskodawcy; 2) oznaczenie podmiotu, którego dotyczy wniosek; 3) wskazanie zadań, o których mowa w ust. 4e pkt 1, z przywołaniem przepisów, z których wynikają te zadania lub kompetencja do ich powierzenia lub zlecenia; 4) uzasadnienie spełnienia przesłanki niezbędności, o której mowa w ust. 4e pkt 1; 5) oświadczenie wnioskodawcy o: a) posiadaniu i stosowaniu urządzenia lub systemu teleinformatycznego umożliwiającego identyfikację osoby uzyskującej informacje z Rejestru, zakresu informacji oraz daty ich uzyskania, b) wdrożeniu zabezpieczeń technicznych i organizacyjnych, adekwatnych do oszacowanego ryzyka, zapewniających poufność, integralność, dostępność i autentyczność przetwarzanych danych, c) wykorzystywaniu dostępu wyłącznie w celu określonym w ustawie, d) zabezpieczeniu uzyskanych informacji; 6) wskazanie osoby umocowanej do rozwiązywania technicznych problemów w zakresie uzyskiwania informacji z Rejestru za pośrednictwem usług sieciowych; 7) uzasadnienie uprawnienia do występowania w imieniu grupy podmiotów – jeśli wnioskodawca składa wniosek w imieniu grupy podmiotów. 4h. Minister Sprawiedliwości może żądać szczegółowego wykazania spełnienia przesłanek, o których mowa w ust. 4e. 4i. Minister Sprawiedliwości odmawia, w drodze decyzji administracyjnej, wyrażenia zgody, o której mowa w ust. 4d, jeżeli nie zostały spełnione przesłanki, o których mowa w ust. 4e, lub Centralna Informacja nie posiada odpowiednich do uruchomienia usługi warunków technicznych. 4j. Podmiot, któremu Minister Sprawiedliwości wyraził zgodę, o której mowa w ust. 4d, jest obowiązany niezwłocznie poinformować Ministra Sprawiedliwości o: 1) zaprzestaniu realizacji zadań publicznych uzasadniających dostęp do informacji z Rejestru za pośrednictwem usług sieciowych; 2) zmianie stosowanych urządzeń lub systemów teleinformatycznych umożliwiających identyfikację osoby uzyskującej informacje z Rejestru, zakresu informacji oraz daty ich uzyskania, mającej wpływ na sposób tej identyfikacji; 3) zmianie wdrożonych zabezpieczeń technicznych i organizacyjnych, adekwatnych do oszacowanego ryzyka, zapewniających poufność, integralność, dostępność i autentyczność przetwarzanych danych. 4k. Informacja, o której mowa w ust. 4j pkt 2 lub 3, zawiera oświadczenie podmiotu, czy: 1) urządzenia lub systemy teleinformatyczne, o których mowa w ust. 4j pkt 2, umożliwiają identyfikację osoby uzyskującej informacje z Rejestru, zakresu informacji oraz daty ich uzyskania; 2) wdrożone zabezpieczenia techniczne i organizacyjne, o których mowa w ust. 4j pkt 3, zapewniają poufność, integralność, dostępność i autentyczność przetwarzanych danych. 4l. Podmiot, któremu Minister Sprawiedliwości wyraził zgodę, o której mowa w ust. 4d, jest obowiązany do powstrzymania się od korzystania z dostępu do danych za pośrednictwem usług sieciowych w sytuacji niespełnienia którejkolwiek z przesłanek, o których mowa w ust. 4e. 4m. Minister Sprawiedliwości cofa, w drodze decyzji administracyjnej, zgodę, o której mowa w ust. 4d, jeżeli przestała istnieć którakolwiek z przesłanek, o których mowa w ust. 4e, a także gdy Centralna Informacja przestała posiadać odpowiednie warunki techniczne do utrzymywania usługi.”;
 - **3)** w art. 9:
     - **a)** w ust. 1 zdanie drugie otrzymuje brzmienie: „Akta rejestrowe dla podmiotów wpisanych do rejestru, o którym mowa w art. 1 ust. 2 pkt 1, lub do rejestru, o którym mowa w art. 1 ust. 2 pkt 2, prowadzi się wyłącznie w systemie teleinformatycznym.”,
     - **b)** ust. 1a otrzymuje brzmienie: „1a. Przepis ust. 1 zdanie drugie stosuje się również do akt spraw o wpis do rejestru, o którym mowa w art. 1 ust. 2 pkt 1, lub do rejestru, o którym mowa w art. 1 ust. 2 pkt 2, jeżeli wniosek został prawomocnie zwrócony, odrzucony albo oddalony lub postępowanie umorzono, oraz do innych spraw należących do właściwości sądu rejestrowego.”,
@@ -84,8 +39,8 @@ source: pdf
     - **e)** w ust. 7 zdanie pierwsze otrzymuje brzmienie: „Dokument w postaci papierowej, dotyczący podmiotu wpisanego do rejestru, o którym mowa w art. 1 ust. 2 pkt 1, lub do rejestru, o którym mowa w art. 1 ust. 2 pkt 2, stanowiący podstawę do podjęcia przez sąd czynności z urzędu, przetwarza się na postać elektroniczną oraz składa do zbioru dokumentów, o którym mowa w ust. 6.”;
 
 - **4)** uchyla się art. 13;
-- **5)** w art. 15: Jednakże w odniesieniu do czynności dokonanych przed upływem szesnastego dnia od dnia dokonania wpisu podmiot wpisany do Rejestru nie może powoływać się na wpis wobec osoby trzeciej, jeżeli ta udowodni, że nie mogła wiedzieć o treści wpisu.”,
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Od dnia dokonania wpisu w Rejestrze nikt nie może zasłaniać się nieznajomością ujawnionych wpisów.
+- **5)** w art. 15:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Od dnia dokonania wpisu w Rejestrze nikt nie może zasłaniać się nieznajomością ujawnionych wpisów. Jednakże w odniesieniu do czynności dokonanych przed upływem szesnastego dnia od dnia dokonania wpisu podmiot wpisany do Rejestru nie może powoływać się na wpis wobec osoby trzeciej, jeżeli ta udowodni, że nie mogła wiedzieć o treści wpisu.”,
     - **b)** uchyla się ust. 2,
     - **c)** ust. 3 otrzymuje brzmienie: „3. Osoba trzecia może się powoływać na dokumenty i dane, w odniesieniu do których nie dopełniono jeszcze obowiązku ujawnienia w Rejestrze, jeżeli brak ujawnienia nie pozbawia ich skutków prawnych.”;
 
@@ -109,9 +64,7 @@ source: pdf
 - **12)** w art. 47a ust. 4 otrzymuje brzmienie: „4. W przypadku różnic między wpisem w Rejestrze a dobrowolnie ogłoszonymi informacjami, jak też między treścią dokumentów złożonych do akt rejestrowych w języku polskim a treścią dokumentów ogłoszonych dobrowolnie, treść ogłoszeń dobrowolnych nie może stanowić zarzutu wobec osób trzecich. Osoby trzecie mogą powoływać się na dobrowolne ogłoszenia, chyba że spółka udowodni, że osoba trzecia wiedziała o treści wpisu w Rejestrze.”;
 - **13)** w art. 49 uchyla się ust. 2;
 - **14)** uchyla się art. 58;
-- **15)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „Rozdział 4a Przepis karny
-
-**Art. 60a.** Kto bez uprawnienia uzyskuje z Rejestru informację za pośrednictwem usług sieciowych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.”.
+- **15)** po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „Rozdział 4a Przepis karny Art. 60a. Kto bez uprawnienia uzyskuje z Rejestru informację za pośrednictwem usług sieciowych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.”.
 
 **Art. 2.** W ustawie z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593) w art. 126 w § 3 skreśla się zdanie drugie.
 

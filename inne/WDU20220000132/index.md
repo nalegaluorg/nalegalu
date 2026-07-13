@@ -35,8 +35,11 @@ poz. 1794), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływ
 2) § 2 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 7 maja 2021 r. zmieniającego rozporządzenie w sprawie przedłużenia okresu ważności znaków akcyzy naniesionych na opakowania jednostkowe wyrobów spirytusowych (Dz. U. poz. 889), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Finansów: T. Kościński
 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 16 września 2019 r.
 w sprawie przedłużenia okresu ważności znaków akcyzy naniesionych na opakowania jednostkowe wyrobów spirytusowych Na podstawie art. 134 ust. 6 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722, z późn. zm. ) zarządza się, co następuje:
-§ 1. Przedłuża się do dnia 31 grudnia 2021 r. okres ważności znaków akcyzy naniesionych na opakowania jednostkowe wyrobów spirytusowych przed dniem 1 stycznia 2019 r., których wzory zostały określone w:
-1) poz. III i VII w załączniku nr 1,
-2) poz. III w załączniku nr 2 – do rozporządzenia Ministra Finansów z dnia 23 grudnia 2015 r. w sprawie oznaczania wyrobów akcyzowych znakami akcyzy (Dz. U. z 2018 r. poz. 428 i 1178 oraz z 2019 r. poz. 225), w brzmieniu obowiązującym przed dniem 4 lipca 2018 r.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
+
+**§ 1.** Przedłuża się do dnia 31 grudnia 2021 r. okres ważności znaków akcyzy naniesionych na opakowania jednostkowe wyrobów spirytusowych przed dniem 1 stycznia 2019 r., których wzory zostały określone w:
+
+- **1)** poz. III i VII w załączniku nr 1,
+- **2)** poz. III w załączniku nr 2 – do rozporządzenia Ministra Finansów z dnia 23 grudnia 2015 r. w sprawie oznaczania wyrobów akcyzowych znakami akcyzy (Dz. U. z 2018 r. poz. 428 i 1178 oraz z 2019 r. poz. 225), w brzmieniu obowiązującym przed dniem 4 lipca 2018 r.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 

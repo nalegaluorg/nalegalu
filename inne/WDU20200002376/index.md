@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowego wykazu polskich kosztów kwalifikowalnych, parametrów utworów audiowizualnych oraz dokumentów związanych z przyznawaniem wsparcia finansowego na produkcję audiowizualną przez Polski Instytut Sztuki Filmowej Na podstawie art. 31 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej (Dz. U.
 z 2019 r. poz. 50 oraz z 2020 r. poz. 568) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 11 lutego 2019 r. w sprawie szczegółowego wykazu polskich kosztów kwalifikowalnych, parametrów utworów audiowizualnych oraz dokumentów związanych z przyznawaniem wsparcia finansowego na produkcję audiowizualną przez Polski Instytut Sztuki Filmowej (Dz. U. poz. 309) w § 7 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) 2021 r., gdy wartość polskich kosztów kwalifikowalnych tego utworu przekracza kwotę 3 000 000 zł w ramach budżetu produkcji audiowizualnej.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Kultury, Dziedzictwa Narodowego i Sportu: P. Gliński
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 11 lutego 2019 r. w sprawie szczegółowego wykazu polskich kosztów kwalifikowalnych, parametrów utworów audiowizualnych oraz dokumentów związanych z przyznawaniem wsparcia finansowego na produkcję audiowizualną przez Polski Instytut Sztuki Filmowej (Dz. U. poz. 309) w § 7 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) 2021 r., gdy wartość polskich kosztów kwalifikowalnych tego utworu przekracza kwotę 3 000 000 zł w ramach budżetu produkcji audiowizualnej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Kultury, Dziedzictwa Narodowego i Sportu: P. Gliński
 

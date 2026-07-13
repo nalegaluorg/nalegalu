@@ -30,35 +30,11 @@ source: pdf
 2) ustawą z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U.
 poz. 1669) oraz zmian wynikających z przepisów ogłoszonych przed dniem 17 lipca 2019 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 10 i art. 11 ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych (Dz. U. Nr 166, poz. 1612), które stanowią: „Art. 10. W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2000 r. Nr 100, poz. 1086, z późn. zm. ) wprowadza się następujące zmiany:
-1) art. 1 otrzymuje brzmienie: „Art. 1. Ustawa reguluje sprawy dotyczące:
-1) geodezji i kartografii,
-2) krajowego systemu informacji o terenie,
-3) ewidencji gruntów i budynków,
-4) inwentaryzacji i ewidencji sieci uzbrojenia terenu,
-5) rozgraniczania nieruchomości,
-6) państwowego zasobu geodezyjnego i kartograficznego,
-7) uprawnień do wykonywania prac geodezyjnych i kartograficznych,
-8) numeracji porządkowej nieruchomości w miejscowościach.”;
-2) po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „Rozdział 8a Numeracja porządkowa nieruchomości w miejscowościach
-
-**Art. 47a.** Do zadań gminy należy:
-
-- **1)** umieszczanie i utrzymywanie w należytym stanie tabliczek z nazwami ulic i placów w miastach oraz innych miejscowościach na obszarze gminy,
-- **2)** ustalanie numerów porządkowych nieruchomości zabudowanych oraz nieruchomości przeznaczonych pod zabudowę zgodnie z miejscowym planem zagospodarowania przestrzennego, a także prowadzenie i aktualizowanie ewidencji numeracji porządkowej nieruchomości.
-
-**Art. 47b.**
-
-1. Właściciele nieruchomości zabudowanych oraz nieruchomości przeznaczonych pod zabudowę zgodnie z miejscowym planem zagospodarowania przestrzennego są obowiązani umieścić na nieruchomości, w widocznym miejscu, tabliczkę z numerem porządkowym nieruchomości oraz utrzymywać ją w należytym stanie.
-
-2. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia, sposób ustalania numerów porządkowych oraz oznaczania nimi nieruchomości, uwzględniając w szczególności, że oznaczenie nieruchomości numerem porządkowym następuje z urzędu lub na wniosek właściciela nieruchomości.”.
-
-**Art. 11.** W ustawie z dnia 17 maja 1990 r. o podziale zadań i kompetencji określonych w ustawach szczególnych pomiędzy organy gminy a organy administracji rządowej oraz o zmianie niektórych ustaw (Dz. U. Nr 34, poz. 198, z późn. zm. ) w art. 1 uchyla się pkt 1.”;
-
-- **2)** art. 43 ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. Nr 17, poz. 141), który stanowi: „Art. 43. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 36, art. 39, art. 41 i art. 42, które wchodzą w życie z dniem ogłoszenia.”;
-- **3)** art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „Art. 350. Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
-- **1)** art. 1 pkt 1, art. 42 pkt 2 lit. b oraz art. 334 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33–36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r.”. Marszałek Sejmu: M. Kuchciński USTAWA z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych
+1) art. 10 i art. 11 ustawy z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych (Dz. U. Nr 166, poz. 1612), które stanowią: „ Art. 10. W ustawie z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2000 r. Nr 100, poz. 1086, z późn. zm. ) wprowadza się następujące zmiany: 1) art. 1 otrzymuje brzmienie: „Art. 1. Ustawa reguluje sprawy dotyczące: 1) geodezji i kartografii, 2) krajowego systemu informacji o terenie, 3) ewidencji gruntów i budynków, 4) inwentaryzacji i ewidencji sieci uzbrojenia terenu, 5) rozgraniczania nieruchomości, 6) państwowego zasobu geodezyjnego i kartograficznego, 7) uprawnień do wykonywania prac geodezyjnych i kartograficznych, 8) numeracji porządkowej nieruchomości w miejscowościach.”; 2) po rozdziale 8 dodaje się rozdział 8a w brzmieniu: „Rozdział 8a Numeracja porządkowa nieruchomości w miejscowościach Art. 47a. Do zadań gminy należy: 1) umieszczanie i utrzymywanie w należytym stanie tabliczek z nazwami ulic i placów w miastach oraz innych miejscowościach na obszarze gminy, 2) ustalanie numerów porządkowych nieruchomości zabudowanych oraz nieruchomości przeznaczonych pod zabudowę zgodnie z miejscowym planem zagospodarowania przestrzennego, a także prowadzenie i aktualizowanie ewidencji numeracji porządkowej nieruchomości. Art. 47b. 1. Właściciele nieruchomości zabudowanych oraz nieruchomości przeznaczonych pod zabudowę zgodnie z miejscowym planem zagospodarowania przestrzennego są obowiązani umieścić na nieruchomości, w widocznym miejscu, tabliczkę z numerem porządkowym nieruchomości oraz utrzymywać ją w należytym stanie. 2. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia, sposób ustalania numerów porządkowych oraz oznaczania nimi nieruchomości, uwzględniając w szczególności, że oznaczenie nieruchomości numerem porządkowym następuje z urzędu lub na wniosek właściciela nieruchomości.”. Art. 11. W ustawie z dnia 17 maja 1990 r. o podziale zadań i kompetencji określonych w ustawach szczególnych pomiędzy organy gminy a organy administracji rządowej oraz o zmianie niektórych ustaw (Dz. U. Nr 34, poz. 198, z późn. zm. ) w art. 1 uchyla się pkt 1.”;
+2) art. 43 ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. Nr 17, poz. 141), który stanowi: „ Art. 43. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 36, art. 39, art. 41 i art. 42, które wchodzą w życie z dniem ogłoszenia.”;
+3) art. 350 ustawy z dnia 3 lipca 2018 r. – Przepisy wprowadzające ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „ Art. 350. Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem: 1) art. 1 pkt 1, art. 42 pkt 2 lit. b oraz art. 334 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia; 2) art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33–36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r.”. Marszałek Sejmu: M. Kuchciński
+USTAWA z dnia 29 sierpnia 2003 r.
+o urzędowych nazwach miejscowości i obiektów fizjograficznych
 
 #### Rozdział 1 Przepisy ogólne
 

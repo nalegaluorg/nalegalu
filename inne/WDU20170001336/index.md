@@ -26,11 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001336) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1336/text.pdf) |
 
 zmieniające rozporządzenie w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych Na podstawie art. 88 ust. 2 ustawy z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2016 r. poz. 614, 1202, 1789, 2003 i 2260 oraz z 2017 r. poz. 1089) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 5 września 2016 r. w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych (Dz. U.
-poz. 1472) wprowadza się następujące zmiany:
-1) tytuł rozporządzenia otrzymuje brzmienie: „w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji”;
-2) w § 1 we wprowadzeniu do wyliczenia wyrazy „Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych” zastępuje się wyrazami „Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji”;
-3) w załączniku nr 2 do rozporządzenia wyrazy „Zarządem Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych (ZZM MSW)” zastępuje się wyrazami „Zarządem Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji (ZZM MSWiA)”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 5 września 2016 r. w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych (Dz. U. poz. 1472) wprowadza się następujące zmiany:
+
+- **1)** tytuł rozporządzenia otrzymuje brzmienie: „w sprawie gospodarowania lokalami mieszkalnymi przez Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji”;
+- **2)** w § 1 we wprowadzeniu do wyliczenia wyrazy „Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych” zastępuje się wyrazami „Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji”;
+- **3)** w załączniku nr 2 do rozporządzenia wyrazy „Zarządem Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych (ZZM MSW)” zastępuje się wyrazami „Zarządem Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji (ZZM MSWiA)”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 

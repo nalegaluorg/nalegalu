@@ -28,9 +28,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wysokości opłaty za utworzenie i prowadzenie portalu PPK oraz wysokości stawki opłaty za udział w tym portalu Na podstawie art. 79 ust. 4 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2024 r.
 poz. 427 oraz z 2025 r. poz. 1216 i 1822) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 22 lutego 2019 r. w sprawie wysokości opłaty za utworzenie i prowadzenie portalu PPK oraz wysokości stawki opłaty za udział w tym portalu (Dz. U. poz. 416) wprowadza się następujące zmiany:
-1) § 2 otrzymuje brzmienie: „§ 2. Wysokość stawki opłaty za udział w portalu PPK wynosi 0,03 %.”;
-2) po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Wysokość stawki opłaty za udział w portalu PPK za 2025 r. wynosi 0,045 %.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r.
-Minister Finansów i Gospodarki: wz. J. Neneman
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 22 lutego 2019 r. w sprawie wysokości opłaty za utworzenie i prowadzenie portalu PPK oraz wysokości stawki opłaty za udział w tym portalu (Dz. U. poz. 416) wprowadza się następujące zmiany:
+
+- **1)** § 2 otrzymuje brzmienie: „§ 2. Wysokość stawki opłaty za udział w portalu PPK wynosi 0,03 %.”;
+- **2)** po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Wysokość stawki opłaty za udział w portalu PPK za 2025 r. wynosi 0,045 %.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r. Minister Finansów i Gospodarki: wz. J. Neneman
 

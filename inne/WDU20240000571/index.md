@@ -27,34 +27,66 @@ source: pdf
 
 w sprawie udzielania pomocy publicznej na wspieranie działalności podmiotów sektora kultury i przemysłów kreatywnych w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r.
 poz. 324) zarządza się, co następuje:
-§ 1. Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania pomocy publicznej na wspieranie działalności podmiotów sektora kultury i przemysłów kreatywnych w ramach inwestycji A2.5.1. „Program wspierania działalności podmiotów sektora kultury i przemysłów kreatywnych na rzecz stymulowania ich rozwoju” objętej Krajowym Planem Odbudowy i Zwiększania Odporności, zwanej dalej „pomocą publiczną”, a także podmioty udzielające tej pomocy.
-§ 2. 1. Pomoc publiczna jest udzielana na przedsięwzięcia w zakresie sztuk wizualnych, teatru, muzealnictwa, muzyki, tańca oraz kultury ludowej, w tym przedsięwzięcia realizowane z wykorzystaniem nowych technologii, wybrane do objęcia wsparciem z planu rozwojowego zgodnie z regulaminem, o którym mowa w art. 14lzb ust. 1 ustawy z dnia 6 grudnia 2006 r.
-o zasadach prowadzenia polityki rozwoju, zwanym dalej „regulaminem”.
+
+**§ 1.** Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania pomocy publicznej na wspieranie działalności podmiotów sektora kultury i przemysłów kreatywnych w ramach inwestycji A2.5.1. „Program wspierania działalności podmiotów sektora kultury i przemysłów kreatywnych na rzecz stymulowania ich rozwoju” objętej Krajowym Planem Odbudowy i Zwiększania Odporności, zwanej dalej „pomocą publiczną”, a także podmioty udzielające tej pomocy.
+
+**§ 2.**
+
+1. Pomoc publiczna jest udzielana na przedsięwzięcia w zakresie sztuk wizualnych, teatru, muzealnictwa, muzyki, tańca oraz kultury ludowej, w tym przedsięwzięcia realizowane z wykorzystaniem nowych technologii, wybrane do objęcia wsparciem z planu rozwojowego zgodnie z regulaminem, o którym mowa w art. 14lzb ust. 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, zwanym dalej „regulaminem”.
+
 2. Przedsięwzięcia, o których mowa w ust. 1, obejmują:
-1) festiwale, przeglądy i konkursy;
-2) wystawy, performanse, happeningi, instalacje artystyczne, prezentacje multimedialne, spektakle, koncerty, widowiska oraz inne formy prezentacji sztuki;
-3) dokumentację, archiwizację, badania oraz popularyzację kultury i wiedzy o kulturze;
-4) konferencje i panele dyskusyjne;
-5) kursy, szkolenia, warsztaty, projekty edukacyjne i animacje kulturowe.
-§ 3. 1. Pomoc publiczna może być udzielana podmiotowi będącemu mikroprzedsiębiorstwem, małym albo średnim przedsiębiorstwem w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz.
-UE L 187 z 26.06.2014, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
+
+- **1)** festiwale, przeglądy i konkursy;
+- **2)** wystawy, performanse, happeningi, instalacje artystyczne, prezentacje multimedialne, spektakle, koncerty, widowiska oraz inne formy prezentacji sztuki;
+- **3)** dokumentację, archiwizację, badania oraz popularyzację kultury i wiedzy o kulturze;
+- **4)** konferencje i panele dyskusyjne;
+- **5)** kursy, szkolenia, warsztaty, projekty edukacyjne i animacje kulturowe.
+
+**§ 3.**
+
+1. Pomoc publiczna może być udzielana podmiotowi będącemu mikroprzedsiębiorstwem, małym albo średnim przedsiębiorstwem w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”.
+
 2. Podmiot ubiegający się o pomoc publiczną może ją otrzymać pod warunkiem, że zagwarantuje zgodność realizacji przedsięwzięcia z przepisami o pomocy publicznej w całym okresie, w którym będzie rozliczana udzielona pomoc publiczna, jednak nie krótszym niż 10 lat od dnia zawarcia umowy, o której mowa w art. 14lzh ust. 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+
 3. Pomocy publicznej nie udziela się na rzecz przedsiębiorstwa, na którym ciąży obowiązek zwrotu pomocy, w rozumieniu art. 1 ust. 4 lit. a rozporządzenia Komisji (UE) nr 651/2014 oraz przedsiębiorstwa znajdującego się w trudnej sytuacji w rozumieniu art. 2 pkt 18 rozporządzenia Komisji (UE) nr 651/2014, z wyjątkiem przedsiębiorstw, które nie znajdowały się w trudnej sytuacji w dniu 31 grudnia 2019 r., lecz znalazły się w takiej sytuacji w okresie od dnia 1 stycznia 2020 r. do dnia 31 grudnia 2021 r.
-§ 4. Przepisy rozporządzenia mają zastosowanie do pomocy publicznej nieprzekraczającej progów wskazanych w art. 4 ust. 1 lit. z rozporządzenia Komisji (UE) nr 651/2014.
-§ 5. Przepisy rozporządzenia nie mają zastosowania do pomocy publicznej, o której mowa w art. 1 ust. 2 lit. c i d, ust. 3, ust. 4 lit. c oraz ust. 5 rozporządzenia Komisji (UE) nr 651/2014.
-§ 6. Pomoc publiczna udzielana na podstawie niniejszego rozporządzenia podlega kumulacji z inną pomocą na zasadach określonych w art. 8 rozporządzenia Komisji (UE) nr 651/2014.
-§ 7. Pomocy publicznej udziela się na koszty kwalifikowalne, o których mowa w art. 53 ust. 4 i 5 rozporządzenia Komisji (UE) nr 651/2014, w zakresie określonym w regulaminie.
-§ 8. Pomoc publiczna może mieć formę pomocy inwestycyjnej lub pomocy operacyjnej, zgodnie z art. 53 ust. 3 rozporządzenia Komisji (UE) nr 651/2014.
-§ 9. 1. Wysokość pomocy publicznej ustala się zgodnie z art. 53 ust. 6–9 rozporządzenia Komisji (UE) nr 651/2014.
+
+**§ 4.** Przepisy rozporządzenia mają zastosowanie do pomocy publicznej nieprzekraczającej progów wskazanych w art. 4 ust. 1 lit. z rozporządzenia Komisji (UE) nr 651/2014.
+
+**§ 5.** Przepisy rozporządzenia nie mają zastosowania do pomocy publicznej, o której mowa w art. 1 ust. 2 lit. c i d, ust. 3, ust. 4 lit. c oraz ust. 5 rozporządzenia Komisji (UE) nr 651/2014.
+
+**§ 6.** Pomoc publiczna udzielana na podstawie niniejszego rozporządzenia podlega kumulacji z inną pomocą na zasadach określonych w art. 8 rozporządzenia Komisji (UE) nr 651/2014.
+
+**§ 7.** Pomocy publicznej udziela się na koszty kwalifikowalne, o których mowa w art. 53 ust. 4 i 5 rozporządzenia Komisji (UE) nr 651/2014, w zakresie określonym w regulaminie.
+
+**§ 8.** Pomoc publiczna może mieć formę pomocy inwestycyjnej lub pomocy operacyjnej, zgodnie z art. 53 ust. 3 rozporządzenia Komisji (UE) nr 651/2014.
+
+**§ 9.**
+
+1. Wysokość pomocy publicznej ustala się zgodnie z art. 53 ust. 6–9 rozporządzenia Komisji (UE) nr 651/2014.
+
 2. Do obliczania wysokości pomocy publicznej i kosztów kwalifikowalnych, o których mowa w § 7, stosuje się art. 7 ust. 1 i 3 rozporządzenia Komisji (UE) nr 651/2014.
-§ 10. 1. Pomoc publiczna jest udzielana zgodnie z art. 5 ust. 1 rozporządzenia Komisji (UE) nr 651/2014, w formie dotacji, o której mowa w art. 5 ust. 2 lit. a rozporządzenia Komisji (UE) nr 651/2014.
+
+**§ 10.**
+
+1. Pomoc publiczna jest udzielana zgodnie z art. 5 ust. 1 rozporządzenia Komisji (UE) nr 651/2014, w formie dotacji, o której mowa w art. 5 ust. 2 lit. a rozporządzenia Komisji (UE) nr 651/2014.
+
 2. Dotacja, o której mowa w art. 5 ust. 2 lit. a rozporządzenia Komisji (UE) nr 651/2014, jest przeznaczona na pokrycie kosztów kwalifikowalnych, o których mowa w § 7.
-§ 11. 1. Podmiotem udzielającym pomocy publicznej jest Narodowy Instytut Muzyki i Tańca.
+
+**§ 11.**
+
+1. Podmiotem udzielającym pomocy publicznej jest Narodowy Instytut Muzyki i Tańca.
+
 2. Podmiot, o którym mowa w ust. 1, udziela pomocy publicznej w zakresie wskazanym w regulaminie.
-§ 12. 1. Podmiot ubiegający się o pomoc publiczną składa do podmiotu udzielającego pomocy publicznej wniosek o udzielenie pomocy publicznej, zwany dalej „wnioskiem”, zawierający informacje wskazane w art. 6 ust. 2 zdanie drugie rozporządzenia Komisji (UE) nr 651/2014.
+
+**§ 12.**
+
+1. Podmiot ubiegający się o pomoc publiczną składa do podmiotu udzielającego pomocy publicznej wniosek o udzielenie pomocy publicznej, zwany dalej „wnioskiem”, zawierający informacje wskazane w art. 6 ust. 2 zdanie drugie rozporządzenia Komisji (UE) nr 651/2014.
+
 2. Do wniosku podmiot ubiegający się o pomoc publiczną załącza dokumenty przygotowane zgodnie z przepisami wydanymi na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2023 r. poz. 702).
+
 3. Ogłoszenie o naborze wniosków jest podawane do publicznej wiadomości na stronie internetowej ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
-§ 13. Pomoc publiczna może być udzielana nie później niż do dnia 31 grudnia 2025 r.
-§ 14. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: B. Sienkiewicz
+
+**§ 13.** Pomoc publiczna może być udzielana nie później niż do dnia 31 grudnia 2025 r.
+
+**§ 14.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: B. Sienkiewicz
 

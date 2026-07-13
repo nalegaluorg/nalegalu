@@ -27,9 +27,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000047) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/47/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ceremoniału składania ślubowania przez funkcjonariuszy Straży Granicznej Na podstawie art. 33 ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 28 maja 2002 r. w sprawie ceremoniału składania ślubowania przez funkcjonariuszy Straży Granicznej (Dz. U. z 2024 r. poz. 528) w § 2 w ust. 1:
-1) pkt 2 otrzymuje brzmienie: „2) w służbie stałej albo przygotowawczej – przed skierowaniem na studia do Wyższej Szkoły Straży Granicznej albo na szkolenie podstawowe do ośrodka szkolenia Straży Granicznej albo Wyższej Szkoły Straży Granicznej;”;
-2) dodaje się pkt 3 w brzmieniu: „3) w służbie kontraktowej – przed skierowaniem na szkolenie podstawowe w jednostce organizacyjnej, w której funkcjonariusz pełni służbę, lub do ośrodka szkolenia Straży Granicznej albo Wyższej Szkoły Straży Granicznej.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 22 stycznia 2025 r.
-Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 28 maja 2002 r. w sprawie ceremoniału składania ślubowania przez funkcjonariuszy Straży Granicznej (Dz. U. z 2024 r. poz. 528) w § 2 w ust. 1:
+
+- **1)** pkt 2 otrzymuje brzmienie: „2) w służbie stałej albo przygotowawczej – przed skierowaniem na studia do Wyższej Szkoły Straży Granicznej albo na szkolenie podstawowe do ośrodka szkolenia Straży Granicznej albo Wyższej Szkoły Straży Granicznej;”;
+- **2)** dodaje się pkt 3 w brzmieniu: „3) w służbie kontraktowej – przed skierowaniem na szkolenie podstawowe w jednostce organizacyjnej, w której funkcjonariusz pełni służbę, lub do ośrodka szkolenia Straży Granicznej albo Wyższej Szkoły Straży Granicznej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 22 stycznia 2025 r. Minister Spraw Wewnętrznych i Administracji: wz. C. Mroczek
 

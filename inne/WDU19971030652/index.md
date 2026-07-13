@@ -36,31 +36,16 @@ source: pdf
     - **b)** dodaje się ust. 3 w brzmieniu: "3. Nie odzyskana przez bank, w drodze windykacji należności, kwota zadłużenia, o którym mowa w ust. 2, podlega umorzeniu.";
 
 - **4)** w art. 7 w ust. 2 po wyrazach "oraz liczby" dodaje się wyrazy "nie mniejszej niż 400";
-- **5)** po art. 8 dodaje się art. 8a w brzmieniu: "Art. 8a. 1. Jeżeli przeciętny dochód gospodarstwa domowego kredytobiorcy w przeliczeniu na członka gospodarstwa domowego w kwartale poprzednim obniży się poniżej 110% kwoty najniższej emerytury, na wniosek kredytobiorcy bank zawiesza spłatę kredytu na okres nie dłuższy niż 4 kwartały.
-
-2. Na wniosek kredytobiorcy, o którym mowa w ust. 1, może być przedłużone, o nie więcej niż 4 kwartały, częściowe zawieszenie, pod warunkiem, że kredytobiorca wnosi na poczet spłaty kredytu środki w wysokości 50% należnej kwoty spłaty.
-
-3. Zawieszenie spłaty na podstawie ust. 1 i 2 nie ogranicza możliwości skorzystania z uprawnień z art. 10a.";
-
-- **6)** art. 9 otrzymuje brzmienie: "Art. 9. 1. Środki przeznaczane przez kredytobiorcę na spłatę kredytów mieszkaniowych według zasad określonych w art. 7 i 8 zaliczane są w pierwszej kolejności na zmniejszenie zadłużenia z tytułu kredytu wraz ze skapitalizowanymi odsetkami.
-
-2. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki i tryb rozliczeń z bankami z tytułu przejściowego wykupienia odsetek od kredytów mieszkaniowych, w tym: wysokość oprocentowania kredytów objętych przejściowym wykupem odsetek oraz wysokość i sposób oprocentowania odsetek przejściowo wykupionych, z zastrzeżeniem art. 10 ust. 3.";
-
+- **5)** po art. 8 dodaje się art. 8a w brzmieniu: "Art. 8a. 1. Jeżeli przeciętny dochód gospodarstwa domowego kredytobiorcy w przeliczeniu na członka gospodarstwa domowego w kwartale poprzednim obniży się poniżej 110% kwoty najniższej emerytury, na wniosek kredytobiorcy bank zawiesza spłatę kredytu na okres nie dłuższy niż 4 kwartały. 2. Na wniosek kredytobiorcy, o którym mowa w ust. 1, może być przedłużone, o nie więcej niż 4 kwartały, częściowe zawieszenie, pod warunkiem, że kredytobiorca wnosi na poczet spłaty kredytu środki w wysokości 50% należnej kwoty spłaty. 3. Zawieszenie spłaty na podstawie ust. 1 i 2 nie ogranicza możliwości skorzystania z uprawnień z art. 10a.";
+- **6)** art. 9 otrzymuje brzmienie: "Art. 9. 1. Środki przeznaczane przez kredytobiorcę na spłatę kredytów mieszkaniowych według zasad określonych w art. 7 i 8 zaliczane są w pierwszej kolejności na zmniejszenie zadłużenia z tytułu kredytu wraz ze skapitalizowanymi odsetkami. 2. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki i tryb rozliczeń z bankami z tytułu przejściowego wykupienia odsetek od kredytów mieszkaniowych, w tym: wysokość oprocentowania kredytów objętych przejściowym wykupem odsetek oraz wysokość i sposób oprocentowania odsetek przejściowo wykupionych, z zastrzeżeniem art. 10 ust. 3.";
 - **7)** w art. 10:
     - **a)** w ust. 1 w pkt 5 wyrazy "31 grudnia 1997 r." zastępuje się wyrazami "31 grudnia 1999 r.",
     - **b)** skreśla się ust. 4;
 
-- **8)** po art. 10 dodaje się art. 10a i 10b w brzmieniu: "Art. 10a. Na wniosek kredytobiorcy, który w ciągu 20 lat od dnia 1 stycznia 1998 r. dokonywał systematycznej i terminowej spłaty kredytu w wysokości wynikającej z art. 7 i 8, bank umarza w ciężar budżetu państwa pozostałe zadłużenie z tytułu skapitalizowanych odsetek oraz z tytułu przejściowego wykupu odsetek od kredytu.
-
-**Art. 10b.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki i tryb stosowania oraz sposób rozliczeń umorzeń, o których mowa w art. 6 ust. 3, art. 10 ust. 1, art. 10a i art. 11 ust. 3 i 6.";
-
+- **8)** po art. 10 dodaje się art. 10a i 10b w brzmieniu: "Art. 10a. Na wniosek kredytobiorcy, który w ciągu 20 lat od dnia 1 stycznia 1998 r. dokonywał systematycznej i terminowej spłaty kredytu w wysokości wynikającej z art. 7 i 8, bank umarza w ciężar budżetu państwa pozostałe zadłużenie z tytułu skapitalizowanych odsetek oraz z tytułu przejściowego wykupu odsetek od kredytu. Art. 10b. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki i tryb stosowania oraz sposób rozliczeń umorzeń, o których mowa w art. 6 ust. 3, art. 10 ust. 1, art. 10a i art. 11 ust. 3 i 6.";
 - **9)** w art. 11:
     - **a)** w ust. 3 dodaje się zdanie drugie w brzmieniu: "W takim przypadku nadwyżka przypadającego na dany lokal zadłużenia z tytułu kredytu i skapitalizowanych odsetek oraz z tytułu przejściowego wykupu odsetek ponad wartość lokalu, ustaloną według zasad określonych w art. 10 ust. 2, podlega w pierwszej kolejności umorzeniu w odniesieniu do przejściowo wykupionych odsetek, a następnie wykupieniu ze środków budżetu państwa skapitalizowanych odsetek.",
-    - **b)** po ust. 3 dodaje się ust. 4-6 w brzmieniu: "4. Kwota odsetek podlegająca umorzeniu lub wykupieniu oraz wartość lokalu ustalane są na dzień złożenia wniosku, o którym mowa w ust. 3.
-
-5. Na wniosek kredytobiorcy bank może ustalić zasady stopniowego zwiększania obciążeń z tytułu spłaty kredytów, o których mowa w ust. 1, przy założeniu, że najpóźniej w ciągu 2 lat od złożenia wniosku zostanie spełniony warunek, o którym mowa w ust. 1.
-
-6. Na wniosek kredytobiorcy, który do dnia 31 grudnia 1999 r. dokona spłaty kredytu, o którym mowa w ust. 1, wraz z 30% odsetek przejściowo wykupionych przez budżet państwa, oraz 30% odsetek skapitalizowanych naliczonych po dniu 30 czerwca 1993 r., pozostałe 70% odsetek przejściowo wykupionych podlega umorzeniu, a 70% skapitalizowanych odsetek podlega wykupieniu przez budżet państwa.".
+    - **b)** po ust. 3 dodaje się ust. 4-6 w brzmieniu: "4. Kwota odsetek podlegająca umorzeniu lub wykupieniu oraz wartość lokalu ustalane są na dzień złożenia wniosku, o którym mowa w ust. 3. 5. Na wniosek kredytobiorcy bank może ustalić zasady stopniowego zwiększania obciążeń z tytułu spłaty kredytów, o których mowa w ust. 1, przy założeniu, że najpóźniej w ciągu 2 lat od złożenia wniosku zostanie spełniony warunek, o którym mowa w ust. 1. 6. Na wniosek kredytobiorcy, który do dnia 31 grudnia 1999 r. dokona spłaty kredytu, o którym mowa w ust. 1, wraz z 30% odsetek przejściowo wykupionych przez budżet państwa, oraz 30% odsetek skapitalizowanych naliczonych po dniu 30 czerwca 1993 r., pozostałe 70% odsetek przejściowo wykupionych podlega umorzeniu, a 70% skapitalizowanych odsetek podlega wykupieniu przez budżet państwa.".
 
 **Art. 2.** Osoby, które otrzymały premię gwarancyjną na zasadach określonych w art. 3 ust. 2-4 ustawy wymienionej w ust. 1 otrzymują niedopłacone kwoty, po złożeniu wniosku w banku, który wypłacał premię gwarancyjną. Dopłaty do wypłaconych premii gwarancyjnych nie są oprocentowane.
 

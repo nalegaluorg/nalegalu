@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie statutu Narodowego Centrum Nauki Na podstawie art. 1 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki (Dz. U. z 2016 r.
 poz. 1071 oraz z 2017 r. poz. 1089 i 1556) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2010 r. w sprawie statutu Narodowego Centrum Nauki (Dz. U. poz. 1154) w załączniku do rozporządzenia w § 2 w ust. 2 pkt 3 otrzymuje brzmienie: „3) przygotowywanie i przedstawianie Ministrowi do zatwierdzenia rocznego sprawozdania finansowego Centrum wraz ze sprawozdaniem z badania sporządzonym przez firmę audytorską, o której mowa w art. 42 ustawy;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Nauki i Szkolnictwa Wyższego: J. Gowin
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 9 września 2010 r. w sprawie statutu Narodowego Centrum Nauki (Dz. U. poz. 1154) w załączniku do rozporządzenia w § 2 w ust. 2 pkt 3 otrzymuje brzmienie: „3) przygotowywanie i przedstawianie Ministrowi do zatwierdzenia rocznego sprawozdania finansowego Centrum wraz ze sprawozdaniem z badania sporządzonym przez firmę audytorską, o której mowa w art. 42 ustawy;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Nauki i Szkolnictwa Wyższego: J. Gowin
 

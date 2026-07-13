@@ -27,8 +27,10 @@ source: pdf
 
 w sprawie zmiany nazwy Archiwum Państwowego w Elblągu z siedzibą w Malborku Na podstawie art. 24 ust. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U.
 z 2016 r. poz. 1506 i 1948 oraz z 2017 r. poz. 1086) zarządza się, co następuje:
-§ 1. Archiwum Państwowe w Elblągu z siedzibą w Malborku otrzymuje nazwę „Archiwum Państwowe w Malborku”.
-§ 2. Organizację oraz szczegółowy zakres działania Archiwum Państwowego w Malborku określi statut nadany przez Naczelnego Dyrektora Archiwów Państwowych.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+**§ 1.** Archiwum Państwowe w Elblągu z siedzibą w Malborku otrzymuje nazwę „Archiwum Państwowe w Malborku”.
+
+**§ 2.** Organizację oraz szczegółowy zakres działania Archiwum Państwowego w Malborku określi statut nadany przez Naczelnego Dyrektora Archiwów Państwowych.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

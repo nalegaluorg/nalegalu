@@ -26,20 +26,21 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002461) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2461/text.pdf) |
 
 zmieniające rozporządzenie w sprawie znakowania poszczególnych rodzajów środków spożywczych Na podstawie art. 15 pkt 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2017 r. poz. 2212) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2014 r. w sprawie znakowania poszczególnych rodzajów środków spożywczych (Dz. U. z 2015 r. poz. 29, z 2016 r. poz. 2019 oraz z 2017 r. poz. 2150) wprowadza się następujące zmiany:
-1) w § 16:
-a) w ust. 1 wyrazy „16 września 2010 r. w sprawie sposobu ustalania weterynaryjnego numeru identyfikacyjnego (Dz. U. Nr 173, poz. 1178)” zastępuje się wyrazami „15 grudnia 2016 r. w sprawie sposobu ustalania weterynaryjnego numeru identyfikacyjnego (Dz. U. poz. 2161)”,
-b) w ust. 3 pkt 1 otrzymuje brzmienie: „1) jaja te są sprzedawane bezpośrednio konsumentowi finalnemu na obszarze, o którym mowa w § 5 ust. 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2015 r. w sprawie wymagań weterynaryjnych przy produkcji produktów pochodzenia zwierzęcego przeznaczonych do sprzedaży bezpośredniej (Dz. U. poz. 1703);”;
-2) w § 18 dodaje się ust. 5 i 6 w brzmieniu: „5. W oznakowaniu przetworów mlecznych określenie „śmietankowy” może być stosowane w odniesieniu do środków spożywczych:
-1) bez składników smakowych lub aromatów o zawartości tłuszczu w suchej masie produktu nie mniejszej niż 50%;
-2) ze składnikami smakowymi lub aromatami o zawartości tłuszczu w suchej masie części mlecznej produktu nie mniejszej niż 50%, określonej przed dodaniem składników niemlecznych.
-6. Przepisów ust. 5 nie stosuje się do przetworów mlecznych wytworzonych lub wprowadzonych do obrotu w państwie członkowskim Unii Europejskiej lub Republice Turcji lub wytworzonych w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) będącym stroną umowy o Europejskim Obszarze Gospodarczym, zgodnie z prawem tych państw.”;
-3) w § 19 w ust. 1:
-a) pkt 2 otrzymuje brzmienie: „2) nazwę albo imię i nazwisko producenta; wymogu tego nie stosuje się w przypadku mięsa, o którym mowa w pkt 7;”,
-b) w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) w przypadku świeżego, schłodzonego i zamrożonego mięsa ze świń, owiec, kóz i drobiu, o których mowa w załączniku XI do rozporządzenia nr 1169/2011, dodatkowo – odpowiednio dla każdego rodzaju mięsa – państwo pochodzenia lub miejsce pochodzenia, zgodnie z przepisami rozporządzenia wykonawczego Komisji (UE) nr 1337/2013 z dnia 13 grudnia 2013 r. ustanawiającego zasady stosowania rozporządzenia (UE) nr 1169/2011 Parlamentu Europejskiego i Rady w odniesieniu do wskazania kraju pochodzenia lub miejsca pochodzenia świeżego, schłodzonego i zamrożonego mięsa ze świń, z owiec, kóz i drobiu (Dz. Urz. UE L 335 z 14.12.2013, str. 19).”;
-4) po § 19 dodaje się § 19a w brzmieniu: „§ 19a. 1. Nazwę „ocet” stosuje się tylko w przypadku produktów otrzymanych z surowców pochodzenia rolniczego wyłącznie w procesie biologicznym fermentacji alkoholowej i octowej.
-2. Nazwy „ocet” nie stosuje się w przypadku mieszaniny octu i kwasu octowego spożywczego (E 260).”.
-§ 2. Środki spożywcze, na opakowaniach których umieszczono nazwę „ocet” niezgodnie z § 19a rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, oraz przetwory mleczne zawierające w oznakowaniu określenie „śmietankowy” zastosowane niezgodnie z § 18 ust. 5 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, mogą pozostawać w obrocie do dnia 31 marca 2022 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2018 r.
-Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2014 r. w sprawie znakowania poszczególnych rodzajów środków spożywczych (Dz. U. z 2015 r. poz. 29, z 2016 r. poz. 2019 oraz z 2017 r. poz. 2150) wprowadza się następujące zmiany:
+
+- **1)** w § 16:
+    - **a)** w ust. 1 wyrazy „16 września 2010 r. w sprawie sposobu ustalania weterynaryjnego numeru identyfikacyjnego (Dz. U. Nr 173, poz. 1178)” zastępuje się wyrazami „15 grudnia 2016 r. w sprawie sposobu ustalania weterynaryjnego numeru identyfikacyjnego (Dz. U. poz. 2161)”,
+    - **b)** w ust. 3 pkt 1 otrzymuje brzmienie: „1) jaja te są sprzedawane bezpośrednio konsumentowi finalnemu na obszarze, o którym mowa w § 5 ust. 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 30 września 2015 r. w sprawie wymagań weterynaryjnych przy produkcji produktów pochodzenia zwierzęcego przeznaczonych do sprzedaży bezpośredniej (Dz. U. poz. 1703);”;
+
+- **2)** w § 18 dodaje się ust. 5 i 6 w brzmieniu: „5. W oznakowaniu przetworów mlecznych określenie „śmietankowy” może być stosowane w odniesieniu do środków spożywczych: 1) bez składników smakowych lub aromatów o zawartości tłuszczu w suchej masie produktu nie mniejszej niż 50%; 2) ze składnikami smakowymi lub aromatami o zawartości tłuszczu w suchej masie części mlecznej produktu nie mniejszej niż 50%, określonej przed dodaniem składników niemlecznych. 6. Przepisów ust. 5 nie stosuje się do przetworów mlecznych wytworzonych lub wprowadzonych do obrotu w państwie członkowskim Unii Europejskiej lub Republice Turcji lub wytworzonych w państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) będącym stroną umowy o Europejskim Obszarze Gospodarczym, zgodnie z prawem tych państw.”;
+- **3)** w § 19 w ust. 1:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) nazwę albo imię i nazwisko producenta; wymogu tego nie stosuje się w przypadku mięsa, o którym mowa w pkt 7;”,
+    - **b)** w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) w przypadku świeżego, schłodzonego i zamrożonego mięsa ze świń, owiec, kóz i drobiu, o których mowa w załączniku XI do rozporządzenia nr 1169/2011, dodatkowo – odpowiednio dla każdego rodzaju mięsa – państwo pochodzenia lub miejsce pochodzenia, zgodnie z przepisami rozporządzenia wykonawczego Komisji (UE) nr 1337/2013 z dnia 13 grudnia 2013 r. ustanawiającego zasady stosowania rozporządzenia (UE) nr 1169/2011 Parlamentu Europejskiego i Rady w odniesieniu do wskazania kraju pochodzenia lub miejsca pochodzenia świeżego, schłodzonego i zamrożonego mięsa ze świń, z owiec, kóz i drobiu (Dz. Urz. UE L 335 z 14.12.2013, str. 19).”;
+
+- **4)** po § 19 dodaje się § 19a w brzmieniu: „§ 19a. 1. Nazwę „ocet” stosuje się tylko w przypadku produktów otrzymanych z surowców pochodzenia rolniczego wyłącznie w procesie biologicznym fermentacji alkoholowej i octowej. 2. Nazwy „ocet” nie stosuje się w przypadku mieszaniny octu i kwasu octowego spożywczego (E 260).”.
+
+**§ 2.** Środki spożywcze, na opakowaniach których umieszczono nazwę „ocet” niezgodnie z § 19a rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, oraz przetwory mleczne zawierające w oznakowaniu określenie „śmietankowy” zastosowane niezgodnie z § 18 ust. 5 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem, mogą pozostawać w obrocie do dnia 31 marca 2022 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2018 r. Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
 

@@ -26,9 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/203/text.pdf) |
 
 w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu Na podstawie art. 3 ust. 4 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997) zarządza się, co następuje:
-§ 1. Bankowemu Funduszowi Gwarancyjnemu nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rozwoju i Finansów: wz. W. Janczyk STATUT BANKOWEGO FUNDUSZU GWARANCYJNEGO I. Postanowienie ogólne
+
+**§ 1.** Bankowemu Funduszowi Gwarancyjnemu nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rozwoju i Finansów: wz. W. Janczyk STATUT BANKOWEGO FUNDUSZU GWARANCYJNEGO I. Postanowienie ogólne
+
+## Załącznik
+
 § 1. Bankowy Fundusz Gwarancyjny, zwany dalej „Funduszem”, działa na podstawie ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997), zwanej dalej „ustawą”, oraz na podstawie postanowień statutu.
 II. Organizacja Funduszu
 § 2. Skład Rady Funduszu, tryb powoływania i odwoływania członków Rady Funduszu, w tym jej Przewodniczącego, oraz wygaśnięcia mandatów jej członków określa ustawa.

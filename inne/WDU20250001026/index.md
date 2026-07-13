@@ -28,10 +28,13 @@ source: pdf
 
 w sprawie metodyki obliczania stopnia przereagowania biomasy oraz minimalnego poziomu przereagowania biomasy w procesie współuwodornienia Na podstawie art. 23 ust. 1e ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2025 r.
 poz. 901) zarządza się, co następuje:
-§ 1. Określa się metodykę obliczania stopnia przereagowania biomasy w procesie współuwodornienia, polegającą na:
-1) oznaczaniu zawartości triacylogliceroli metodą chromatografii gazowej z detekcją płomieniowo-jonizacyjną, z zastosowaniem wybranego wzorca wewnętrznego albo zewnętrznego, w oparciu o akredytowaną metodę badawczą, oraz
-2) obliczeniu zawartości triacylogliceroli na podstawie krzywej wzorcowej będącej zależnością ilorazu sumy pól powierzchni pików pochodzących od tych triacylogliceroli i pola powierzchni piku wzorca wewnętrznego albo zewnętrznego od stężenia triacylogliceroli w mieszaninie z węglowodorami z przerobu ropy naftowej.
-§ 2. Minimalny poziom przereagowania biomasy w procesie współuwodornienia określa się za pomocą zawartości triacylogliceroli w produkcie powstałym w tym procesie. Zawartość triacylogliceroli w produkcie nie może być wyższa niż 10 mg/kg.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r.
-Minister Klimatu i Środowiska: P. Hennig-Kloska
+
+**§ 1.** Określa się metodykę obliczania stopnia przereagowania biomasy w procesie współuwodornienia, polegającą na:
+
+- **1)** oznaczaniu zawartości triacylogliceroli metodą chromatografii gazowej z detekcją płomieniowo-jonizacyjną, z zastosowaniem wybranego wzorca wewnętrznego albo zewnętrznego, w oparciu o akredytowaną metodę badawczą, oraz
+- **2)** obliczeniu zawartości triacylogliceroli na podstawie krzywej wzorcowej będącej zależnością ilorazu sumy pól powierzchni pików pochodzących od tych triacylogliceroli i pola powierzchni piku wzorca wewnętrznego albo zewnętrznego od stężenia triacylogliceroli w mieszaninie z węglowodorami z przerobu ropy naftowej.
+
+**§ 2.** Minimalny poziom przereagowania biomasy w procesie współuwodornienia określa się za pomocą zawartości triacylogliceroli w produkcie powstałym w tym procesie. Zawartość triacylogliceroli w produkcie nie może być wyższa niż 10 mg/kg.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r. Minister Klimatu i Środowiska: P. Hennig-Kloska
 

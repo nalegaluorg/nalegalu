@@ -32,36 +32,57 @@ poz. 1998), które stanowią: „ Niniejsze rozporządzenie w zakresie swojej re
 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 27 maja 2009 r.
 w sprawie szczegółowego zakresu i sposobu znakowania nieprzeznaczonych bezpośrednio dla konsumenta finalnego niektórych grup i rodzajów opakowanych artykułów rolno-spożywczych lub artykułów rolno-spożywczych bez opakowań Na podstawie art. 15 pkt 6 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U.
 z 2023 r. poz. 1980) zarządza się, co następuje:
-§ 1. 1. Głęboko mrożone środki spożywcze nieprzeznaczone bezpośrednio dla konsumenta finalnego znakuje się na opakowaniu, pojemniku lub załączonej etykiecie, podając następujące informacje:
-1) nazwę środka spożywczego wraz z określeniem „produkt głęboko mrożony”;
-2) masę netto;
-3) kod identyfikacyjny partii produkcyjnej;
-4) dane identyfikujące osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która:
-a) produkuje lub paczkuje środki spożywcze, lub
-b) wprowadza środki spożywcze do obrotu, jeżeli działalność ta jest zarejestrowana na terytorium któregoś z państw członkowskich Unii Europejskiej lub na terytorium państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA), będącego stroną umowy o Europejskim Obszarze Gospodarczym.
+
+**§ 1.**
+
+1. Głęboko mrożone środki spożywcze nieprzeznaczone bezpośrednio dla konsumenta finalnego znakuje się na opakowaniu, pojemniku lub załączonej etykiecie, podając następujące informacje:
+
+- **1)** nazwę środka spożywczego wraz z określeniem „produkt głęboko mrożony”;
+- **2)** masę netto;
+- **3)** kod identyfikacyjny partii produkcyjnej;
+- **4)** dane identyfikujące osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która:
+    - **a)** produkuje lub paczkuje środki spożywcze, lub
+    - **b)** wprowadza środki spożywcze do obrotu, jeżeli działalność ta jest zarejestrowana na terytorium któregoś z państw członkowskich Unii Europejskiej lub na terytorium państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA), będącego stroną umowy o Europejskim Obszarze Gospodarczym.
+
 2. Dane identyfikujące, o których mowa w ust. 1 pkt 4, obejmują:
-1) nazwę ze wskazaniem formy prawnej i adres – w przypadku osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej;
-2) imię i nazwisko oraz adres – w przypadku osoby fizycznej.
+
+- **1)** nazwę ze wskazaniem formy prawnej i adres – w przypadku osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej;
+- **2)** imię i nazwisko oraz adres – w przypadku osoby fizycznej.
+
 3. Przepisów ust. 1 nie stosuje się do lodów jadalnych.
-§ 2. Zagęszczony sok owocowy nieprzeznaczony bezpośrednio dla konsumenta finalnego znakuje się na opakowaniu lub na załączonej etykiecie, lub w dokumentach towarzyszących opakowaniu, podając nazwę wyrobu oraz informacje dotyczące obecności i ilości dodanego soku cytrynowego, soku z limonek lub regulatorów kwasowości dopuszczonych do stosowania w zagęszczonych sokach owocowych zgodnie z załącznikiem II, część E, kategoria 14.1.2 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1333/2008 z dnia 16 grudnia 2008 r. w sprawie dodatków do żywności (Dz. Urz. UE L 354 z 31.12.2008, str. 16, z późn. zm.).
-§ 3. Miód filtrowany i miód piekarniczy znakuje się na pojemniku do jego przewozu luzem, opakowaniu lub w dokumentach handlowych, podając pełną nazwę produktu, odpowiednio: „miód filtrowany” albo „miód piekarniczy”.
-§ 4. 1. Kazeinę kwasową spożywczą, kazeinę podpuszczkową spożywczą oraz kazeiniany spożywcze nieprzeznaczone bezpośrednio dla konsumenta finalnego znakuje się na opakowaniu, pojemniku lub etykiecie, w sposób widoczny, czytelny i nieusuwalny, podając następujące informacje:
-1) nazwę środka spożywczego albo – w przypadku kazeinianów spożywczych – nazwę uzupełnioną wskazaniem kationu lub kationów wymienionych w ust. 6 pkt 9 załącznika nr 1 do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2004 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz kazein spożywczych i kazeinianów spożywczych (Dz. U. z 2023 r. poz. 2489);
-2) masę netto środka spożywczego wyrażoną w kilogramach lub gramach;
-3) imię i nazwisko albo firmę (nazwę) oraz adres podmiotu działającego na rynku spożywczym, pod którego imieniem i nazwiskiem albo pod którego firmą (nazwą) jest wprowadzany do obrotu dany środek spożywczy, a jeżeli ten podmiot nie prowadzi działalności na terytorium Unii Europejskiej lub na terytorium państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym – imię i nazwisko albo firmę (nazwę) oraz adres importera wprowadzającego dany środek spożywczy do obrotu na terytorium Unii Europejskiej lub na terytorium państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
-4) nazwę państwa pochodzenia – w przypadku środków spożywczych przywożonych z państw trzecich;
-5) datę produkcji lub oznaczenie kodu identyfikacyjnego partii produkcyjnej.
+
+**§ 2.** Zagęszczony sok owocowy nieprzeznaczony bezpośrednio dla konsumenta finalnego znakuje się na opakowaniu lub na załączonej etykiecie, lub w dokumentach towarzyszących opakowaniu, podając nazwę wyrobu oraz informacje dotyczące obecności i ilości dodanego soku cytrynowego, soku z limonek lub regulatorów kwasowości dopuszczonych do stosowania w zagęszczonych sokach owocowych zgodnie z załącznikiem II, część E, kategoria 14.1.2 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1333/2008 z dnia 16 grudnia 2008 r. w sprawie dodatków do żywności (Dz. Urz. UE L 354 z 31.12.2008, str. 16, z późn. zm.).
+
+**§ 3.** Miód filtrowany i miód piekarniczy znakuje się na pojemniku do jego przewozu luzem, opakowaniu lub w dokumentach handlowych, podając pełną nazwę produktu, odpowiednio: „miód filtrowany” albo „miód piekarniczy”.
+
+**§ 4.**
+
+1. Kazeinę kwasową spożywczą, kazeinę podpuszczkową spożywczą oraz kazeiniany spożywcze nieprzeznaczone bezpośrednio dla konsumenta finalnego znakuje się na opakowaniu, pojemniku lub etykiecie, w sposób widoczny, czytelny i nieusuwalny, podając następujące informacje:
+
+- **1)** nazwę środka spożywczego albo – w przypadku kazeinianów spożywczych – nazwę uzupełnioną wskazaniem kationu lub kationów wymienionych w ust. 6 pkt 9 załącznika nr 1 do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2004 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz kazein spożywczych i kazeinianów spożywczych (Dz. U. z 2023 r. poz. 2489);
+- **2)** masę netto środka spożywczego wyrażoną w kilogramach lub gramach;
+- **3)** imię i nazwisko albo firmę (nazwę) oraz adres podmiotu działającego na rynku spożywczym, pod którego imieniem i nazwiskiem albo pod którego firmą (nazwą) jest wprowadzany do obrotu dany środek spożywczy, a jeżeli ten podmiot nie prowadzi działalności na terytorium Unii Europejskiej lub na terytorium państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym – imię i nazwisko albo firmę (nazwę) oraz adres importera wprowadzającego dany środek spożywczy do obrotu na terytorium Unii Europejskiej lub na terytorium państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;
+- **4)** nazwę państwa pochodzenia – w przypadku środków spożywczych przywożonych z państw trzecich;
+- **5)** datę produkcji lub oznaczenie kodu identyfikacyjnego partii produkcyjnej.
+
 2. Kazeinę kwasową spożywczą, kazeinę podpuszczkową spożywczą oraz kazeiniany spożywcze nieprzeznaczone bezpośrednio dla konsumenta finalnego, wprowadzane do obrotu jako mieszaniny, znakuje się na opakowaniu, pojemniku lub etykiecie, w sposób widoczny, czytelny i nieusuwalny, podając oprócz informacji, o których mowa w ust. 1 pkt 2–5, następujące informacje:
-1) określenie „mieszanina …” – z następującymi po nim nazwami poszczególnych produktów tworzących mieszaninę, według ich masy w porządku malejącym;
-2) wskazanie kationu lub kationów wymienionych w ust. 6 pkt 9 załącznika nr 1 do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2004 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz kazein spożywczych i kazeinianów spożywczych – w przypadku kazeinianów spożywczych;
-3) zawartość białek mleka w suchej masie – w przypadku mieszanin, w skład których wchodzą kazeiniany spożywcze.
+
+- **1)** określenie „mieszanina …” – z następującymi po nim nazwami poszczególnych produktów tworzących mieszaninę, według ich masy w porządku malejącym;
+- **2)** wskazanie kationu lub kationów wymienionych w ust. 6 pkt 9 załącznika nr 1 do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2004 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz kazein spożywczych i kazeinianów spożywczych – w przypadku kazeinianów spożywczych;
+- **3)** zawartość białek mleka w suchej masie – w przypadku mieszanin, w skład których wchodzą kazeiniany spożywcze.
+
 3. W przypadku środków spożywczych, o których mowa w:
-1) ust. 1, informacje, o których mowa w ust. 1 pkt 2–4,
-2) ust. 2, informacje, o których mowa w ust. 1 pkt 2–4 i ust. 2 pkt 3 – mogą być umieszczone jedynie w dokumentach towarzyszących tym środkom spożywczym.
+
+- **1)** ust. 1, informacje, o których mowa w ust. 1 pkt 2–4,
+- **2)** ust. 2, informacje, o których mowa w ust. 1 pkt 2–4 i ust. 2 pkt 3 – mogą być umieszczone jedynie w dokumentach towarzyszących tym środkom spożywczym.
+
 3a. W przypadku gdy zawartość białek mleka w suchej masie dla kazeiny kwasowej spożywczej, kazeiny podpuszczkowej spożywczej oraz kazeinianów spożywczych nieprzeznaczonych bezpośrednio dla konsumenta finalnego jest wyższa niż minimalna wartość określona odpowiednio w ust. 2 pkt 2, ust. 4 pkt 2 oraz ust. 6 pkt 2 załącznika nr 1 do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2004 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz kazein spożywczych i kazeinianów spożywczych, na opakowaniu, pojemniku lub etykiecie tych środków spożywczych może być umieszczona informacja o tej wyższej zawartości.
+
 4. (uchylony).
-§ 5. Jaja wyprodukowane na terytorium Rzeczypospolitej Polskiej nieprzeznaczone bezpośrednio dla konsumenta finalnego znakuje się zgodnie z załącznikiem VII częścią VI ust. III pkt 1 do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz.
-UE L 347 z 20.12.2013, str. 671, z późn. zm. ) oraz z art. 9 ust. 1 rozporządzenia Komisji (WE) nr 589/2008 z dnia 23 czerwca 2008 r. ustanawiającego szczegółowe zasady wykonywania rozporządzenia Rady (WE) nr 1234/2007 w sprawie norm handlowych w odniesieniu do jaj (Dz. Urz. UE L 163 z 24.06.2008, str. 6, z późn. zm. ) , podając po numerze oznaczenia sposobu utrzymywania kur nieśnych kod państwa członkowskiego – PL oraz weterynaryjny numer identyfikacyjny ustalony w sposób określony w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 16 września 2010 r. w sprawie sposobu ustalania weterynaryjnego numeru identyfikacyjnego (Dz. U. poz. 1178) .
-§ 6. Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 marca 2007 r. w sprawie szczegółowego zakresu i sposobu znakowania opakowań niektórych grup i rodzajów artykułów rolno-spożywczych nieprzeznaczonych bezpośrednio dla konsumenta finalnego (Dz. U. poz. 401).
-§ 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 5.** Jaja wyprodukowane na terytorium Rzeczypospolitej Polskiej nieprzeznaczone bezpośrednio dla konsumenta finalnego znakuje się zgodnie z załącznikiem VII częścią VI ust. III pkt 1 do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm. ) oraz z art. 9 ust. 1 rozporządzenia Komisji (WE) nr 589/2008 z dnia 23 czerwca 2008 r. ustanawiającego szczegółowe zasady wykonywania rozporządzenia Rady (WE) nr 1234/2007 w sprawie norm handlowych w odniesieniu do jaj (Dz. Urz. UE L 163 z 24.06.2008, str. 6, z późn. zm. ) , podając po numerze oznaczenia sposobu utrzymywania kur nieśnych kod państwa członkowskiego – PL oraz weterynaryjny numer identyfikacyjny ustalony w sposób określony w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 16 września 2010 r. w sprawie sposobu ustalania weterynaryjnego numeru identyfikacyjnego (Dz. U. poz. 1178) .
+
+**§ 6.** Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 21 marca 2007 r. w sprawie szczegółowego zakresu i sposobu znakowania opakowań niektórych grup i rodzajów artykułów rolno-spożywczych nieprzeznaczonych bezpośrednio dla konsumenta finalnego (Dz. U. poz. 401).
+
+**§ 7.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

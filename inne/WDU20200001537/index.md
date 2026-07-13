@@ -26,9 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001537) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1537/text.pdf) |
 
 zmieniające rozporządzenie w sprawie indywidualnego obowiązkowego rocznego przygotowania przedszkolnego dzieci i indywidualnego nauczania dzieci i młodzieży Na podstawie art. 127 ust. 20 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2020 r. poz. 910 i 1378) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 9 sierpnia 2017 r. w sprawie indywidualnego obowiązkowego rocznego przygotowania przedszkolnego dzieci i indywidualnego nauczania dzieci i młodzieży (Dz. U. poz. 1616) po § 13 dodaje się § 13a w brzmieniu: „§ 13a. W roku szkolnym 2020/2021 zajęcia indywidualnego przygotowania przedszkolnego oraz zajęcia indywidualnego nauczania mogą być prowadzone przez nauczyciela lub nauczycieli:
-1) w indywidualnym i bezpośrednim kontakcie z dzieckiem lub uczniem w sposób określony w § 4 ust. 4 lub
-2) na wniosek rodziców dziecka lub ucznia albo pełnoletniego ucznia – w indywidualnym kontakcie z dzieckiem lub uczniem; w takim przypadku przepisu § 5 nie stosuje się.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji Narodowej: D. Piontkowski
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej z dnia 9 sierpnia 2017 r. w sprawie indywidualnego obowiązkowego rocznego przygotowania przedszkolnego dzieci i indywidualnego nauczania dzieci i młodzieży (Dz. U. poz. 1616) po § 13 dodaje się § 13a w brzmieniu: „§ 13a. W roku szkolnym 2020/2021 zajęcia indywidualnego przygotowania przedszkolnego oraz zajęcia indywidualnego nauczania mogą być prowadzone przez nauczyciela lub nauczycieli: 1) w indywidualnym i bezpośrednim kontakcie z dzieckiem lub uczniem w sposób określony w § 4 ust. 4 lub 2) na wniosek rodziców dziecka lub ucznia albo pełnoletniego ucznia – w indywidualnym kontakcie z dzieckiem lub uczniem; w takim przypadku przepisu § 5 nie stosuje się.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Edukacji Narodowej: D. Piontkowski
 

@@ -29,48 +29,12 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 20 grudnia 2002 r. o organizacji niektórych rynków rolnych (Dz. U. Nr 240, poz. 2059, z 2004 r. Nr 6, poz. 40 i Nr 96, poz. 959 oraz z 2005 r. Nr 14, poz. 115) wprowadza się następujące zmiany:
 
-- **1)** w art. 1 pkt 1-8 otrzymują brzmienie: „1) rozporządzenie Rady (WE) nr 1784/2003 z dnia 29 września 2003 r. w sprawie wspólnej organizacji rynku zbóż (Dz. Urz. UE L 270 z
-
-21. 10.2003, str. 78);
-
-- **2)** rozporządzenie Komisji (EWG) nr 2131/93 z dnia 28 lipca 1993 r. ustanawiające procedury i warunki sprzedaży zbóż znajdujących się w posiadaniu agencji interwencyjnych (Dz. Urz. WE L 191 z 31.07.1993, str. 76; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 14, str. 360, z późn. zm. );
-- **3)** rozporządzenie Komisji (EWG) nr 2273/93 z dnia 28 lipca 1993 r. określające centra skupu interwencyjnego zbóż (Dz. Urz. WE L 207 z
-
-18. 08.1993, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 14, str. 404, z późn. zm. );
-
-- **4)** rozporządzenie Komisji (WE) nr 2148/96 z dnia 8 listopada 1996 r. ustanawiające zasady oceny i monitorowania publicznych zapasów interwencyjnych produktów rolnych (Dz. Urz. WE L 288 z 9.11.1996, str. 6; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 20, str. 27, z późn. zm. );
-- **5)** rozporządzenie Komisji (WE) nr 824/2000 z dnia 19 kwietnia 2000 r. ustanawiające procedury przejęcia zbóż przez agencje interwencyjne oraz metody analizy do oznaczania jakości zbóż (Dz. Urz. WE L 100 z 20.04.2000, str. 3; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 29, str. 27, z późn. zm. );
-- **6)** rozporządzenie Komisji (WE) nr 1709/2003 z dnia 26 września 2003 r. w sprawie deklaracji w zakresie zbiorów i zapasów ryżu (Dz. Urz. UE L 243 z 27.09.2003, str. 92);
-- **7)** rozporządzenie Rady (WE) nr 1673/2000 z dnia 27 lipca 2000 r. w sprawie wspólnej organizacji rynków lnu i konopi uprawianych na włókno (Dz. Urz. WE L 193 z 29.07.2000, str. 16; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 30, str. 131, z późn. zm. );
-- **8)** rozporządzenie Komisji (WE) nr 245/2001 z dnia 5 lutego 2001 r. ustanawiające szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1673/2000 w sprawie wspólnej organizacji rynków lnu i konopi uprawianych na włókno (Dz. Urz. WE L 35 z 6.02.2001, str. 18; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 31, str. 229, z późn. zm. ), zwane dalej „rozporządzeniem Komisji 245/2001.”;
-- **2)** art. 2a otrzymuje brzmienie: „Art. 2a. 1. Zadania w zakresie udzielania pomocy finansowej, o której mowa w art. 1, realizuje Prezes Agencji, wydając decyzje administracyjne w sprawach udzielania dopłat do przetwarzania słomy lnianej lub konopnej na włókno, zwanych dalej „dopłatami do przetwarzania”.
-
-2. Prezes Agencji prowadzi kontrole w zakresie uznawania przetwórców, stanów magazynowych słomy lnianej lub konopnej, długiego włókna lnianego, krótkiego włókna lnianego i włókna konopnego oraz zasadności udzielania dopłat do przetwarzania.”;
-
+- **1)** w art. 1 pkt 1-8 otrzymują brzmienie: „1) rozporządzenie Rady (WE) nr 1784/2003 z dnia 29 września 2003 r. w sprawie wspólnej organizacji rynku zbóż (Dz. Urz. UE L 270 z 21.10.2003, str. 78); 2) rozporządzenie Komisji (EWG) nr 2131/93 z dnia 28 lipca 1993 r. ustanawiające procedury i warunki sprzedaży zbóż znajdujących się w posiadaniu agencji interwencyjnych (Dz. Urz. WE L 191 z 31.07.1993, str. 76; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 14, str. 360, z późn. zm. ); 3) rozporządzenie Komisji (EWG) nr 2273/93 z dnia 28 lipca 1993 r. określające centra skupu interwencyjnego zbóż (Dz. Urz. WE L 207 z 18.08.1993, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 14, str. 404, z późn. zm. ); 4) rozporządzenie Komisji (WE) nr 2148/96 z dnia 8 listopada 1996 r. ustanawiające zasady oceny i monitorowania publicznych zapasów interwencyjnych produktów rolnych (Dz. Urz. WE L 288 z 9.11.1996, str. 6; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 20, str. 27, z późn. zm. ); 5) rozporządzenie Komisji (WE) nr 824/2000 z dnia 19 kwietnia 2000 r. ustanawiające procedury przejęcia zbóż przez agencje interwencyjne oraz metody analizy do oznaczania jakości zbóż (Dz. Urz. WE L 100 z 20.04.2000, str. 3; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 29, str. 27, z późn. zm. ); 6) rozporządzenie Komisji (WE) nr 1709/2003 z dnia 26 września 2003 r. w sprawie deklaracji w zakresie zbiorów i zapasów ryżu (Dz. Urz. UE L 243 z 27.09.2003, str. 92); 7) rozporządzenie Rady (WE) nr 1673/2000 z dnia 27 lipca 2000 r. w sprawie wspólnej organizacji rynków lnu i konopi uprawianych na włókno (Dz. Urz. WE L 193 z 29.07.2000, str. 16; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 30, str. 131, z późn. zm. ); 8) rozporządzenie Komisji (WE) nr 245/2001 z dnia 5 lutego 2001 r. ustanawiające szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1673/2000 w sprawie wspólnej organizacji rynków lnu i konopi uprawianych na włókno (Dz. Urz. WE L 35 z 6.02.2001, str. 18; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 31, str. 229, z późn. zm. ), zwane dalej „rozporządzeniem Komisji 245/2001.”;
+- **2)** art. 2a otrzymuje brzmienie: „Art. 2a. 1. Zadania w zakresie udzielania pomocy finansowej, o której mowa w art. 1, realizuje Prezes Agencji, wydając decyzje administracyjne w sprawach udzielania dopłat do przetwarzania słomy lnianej lub konopnej na włókno, zwanych dalej „dopłatami do przetwarzania”. 2. Prezes Agencji prowadzi kontrole w zakresie uznawania przetwórców, stanów magazynowych słomy lnianej lub konopnej, długiego włókna lnianego, krótkiego włókna lnianego i włókna konopnego oraz zasadności udzielania dopłat do przetwarzania.”;
 - **3)** w art. 3 ust. 1 otrzymuje brzmienie: „1. Prezes Agencji przeprowadza kontrole, o których mowa w art. 2 ust. 2 pkt 4 i art. 2a ust. 2, zgodnie z planem kontroli.”;
-- **4)** art. 5 otrzymuje brzmienie: „Art. 5. 1. Przetwórca może ubiegać się o dopłaty do przetwarzania, jeżeli zostanie wpisany do rejestru uznanych przetwórców, prowadzonego przez Prezesa Agencji.
-
-2. Przetwórca składa wniosek o wpis do rejestru, o którym mowa w ust. 1, do dnia 31 lipca danego roku gospodarczego, na formularzu opracowanym i udostępnionym przez Agencję.
-
-3. Wniosek, o którym mowa w ust. 2, zawiera informacje określone w art. 3 ust. 1 i 2 rozporządzenia Komisji 245/2001.
-
-4. Do wniosku, o którym mowa w ust. 2, dołącza się dokument potwierdzający tytuł prawny wnioskodawcy do obiektów, w których ma być prowadzona zamierzona działalność.
-
-5. Prezes Agencji:
-
-- **1)** wydaje decyzje administracyjne w sprawach:
-    - **a)** wpisu przetwórcy do rejestru uznanych przetwórców,
-    - **b)** wykreślenia przetwórcy z rejestru uznanych przetwórców w przypadku niespełnienia wymagań określonych w art. 3 ust. 2 rozporządzenia Komisji 245/2001,
-    - **c)** zezwolenia na czyszczenie krótkiego włókna lnianego na warunkach określonych w art. 3 ust. 4 rozporządzenia Komisji 245/2001;
-
-- **2)** przyjmuje oraz pozyskuje informacje i dokumenty określone w art. 3 ust. 4 akapit czwarty, art. 6 oraz art. 9 ust. 1 i 2 rozporządzenia Komisji 245/2001.”;
-- **5)** art. 5a otrzymuje brzmienie: „Art. 5a. 1. Przetwórca albo osoba traktowana jako przetwórca ubiegający się o dopłatę do przetwarzania składa do Prezesa Agencji wniosek oraz deklaracje, o których mowa w art. 6 ust. 2 rozporządzenia Komisji 245/2001, na formularzach opracowanych i udostępnianych przez Agencję.
-
-2. Wniosek oraz deklaracje, o których mowa w ust. 1, zawierają informacje określone w art. 9 ust. 3 i art. 6 ust. 2 rozporządzenia Komisji 245/2001.”;
-
-- **6)** w art. 11 dodaje się ust. 8 w brzmieniu: „8. Przetwórca wpisany do rejestru uznanych przetwórców, o którym mowa w art. 5 ust. 1, przekazuje Prezesowi Agencji informację o zamiarze:
-- **1)** skierowania partii długiego i krótkiego włókna lnianego lub włókna konopnego do dalszego przerobu lub sprzedaży albo
-- **2)** przekazania długiego i krótkiego włókna lnianego lub włókna konopnego osobie traktowanej jako przetwórca - co najmniej na jeden dzień roboczy przed wykonaniem tych czynności.”.
+- **4)** art. 5 otrzymuje brzmienie: „Art. 5. 1. Przetwórca może ubiegać się o dopłaty do przetwarzania, jeżeli zostanie wpisany do rejestru uznanych przetwórców, prowadzonego przez Prezesa Agencji. 2. Przetwórca składa wniosek o wpis do rejestru, o którym mowa w ust. 1, do dnia 31 lipca danego roku gospodarczego, na formularzu opracowanym i udostępnionym przez Agencję. 3. Wniosek, o którym mowa w ust. 2, zawiera informacje określone w art. 3 ust. 1 i 2 rozporządzenia Komisji 245/2001. 4. Do wniosku, o którym mowa w ust. 2, dołącza się dokument potwierdzający tytuł prawny wnioskodawcy do obiektów, w których ma być prowadzona zamierzona działalność. 5. Prezes Agencji: 1) wydaje decyzje administracyjne w sprawach: a) wpisu przetwórcy do rejestru uznanych przetwórców, b) wykreślenia przetwórcy z rejestru uznanych przetwórców w przypadku niespełnienia wymagań określonych w art. 3 ust. 2 rozporządzenia Komisji 245/2001, c) zezwolenia na czyszczenie krótkiego włókna lnianego na warunkach określonych w art. 3 ust. 4 rozporządzenia Komisji 245/2001; 2) przyjmuje oraz pozyskuje informacje i dokumenty określone w art. 3 ust. 4 akapit czwarty, art. 6 oraz art. 9 ust. 1 i 2 rozporządzenia Komisji 245/2001.”;
+- **5)** art. 5a otrzymuje brzmienie: „Art. 5a. 1. Przetwórca albo osoba traktowana jako przetwórca ubiegający się o dopłatę do przetwarzania składa do Prezesa Agencji wniosek oraz deklaracje, o których mowa w art. 6 ust. 2 rozporządzenia Komisji 245/2001, na formularzach opracowanych i udostępnianych przez Agencję. 2. Wniosek oraz deklaracje, o których mowa w ust. 1, zawierają informacje określone w art. 9 ust. 3 i art. 6 ust. 2 rozporządzenia Komisji 245/2001.”;
+- **6)** w art. 11 dodaje się ust. 8 w brzmieniu: „8. Przetwórca wpisany do rejestru uznanych przetwórców, o którym mowa w art. 5 ust. 1, przekazuje Prezesowi Agencji informację o zamiarze: 1) skierowania partii długiego i krótkiego włókna lnianego lub włókna konopnego do dalszego przerobu lub sprzedaży albo 2) przekazania długiego i krótkiego włókna lnianego lub włókna konopnego osobie traktowanej jako przetwórca - co najmniej na jeden dzień roboczy przed wykonaniem tych czynności.”.
 
 **Art. 2.** W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego (Dz. U. Nr 223, poz. 2221, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -79,22 +43,14 @@ source: pdf
     - **a)** w ust. 1: - w pkt 1 lit. b otrzymuje brzmienie: „b) corocznie: - wysokości funduszu operacyjnego oraz wysokości wydatków na działania zatwierdzone w programie operacyjnym albo ich zmiany, - wysokości pomocy finansowej ze środków pochodzących z Unii Europejskiej albo jej zmiany;”, - w pkt 3 lit. b otrzymuje brzmienie: „b) pokrycie części kwalifikowanych kosztów inwestycji ujętych w zatwierdzonym planie dochodzenia do uznania;”, - pkt 6a otrzymuje brzmienie: „6a) corocznego rozliczania środków finansowych w ramach rekompensaty finansowej, o której mowa w pkt 5, dokonywanego w terminie miesiąca od dnia zakończenia roku handlowego;”,
     - **b)** w ust. 5 pkt 5 otrzymuje brzmienie: „5) w przypadku decyzji, o których mowa w ust. 1 pkt 5 i 7, wskazanie miesiąca albo miesięcy, w których nie przeznaczono owoców i warzyw do sprzedaży.”,
     - **c)** ust. 10 otrzymuje brzmienie: „10. Krajowe środki finansowe z budżetu państwa w ramach pomocy finansowej, o której mowa w ust. 1 pkt 3 lit. b, przeznacza się na dofinansowanie od 5% do 25% kwalifikowanych kosztów inwestycji.”,
-    - **d)** dodaje się ust. 12 w brzmieniu: „12. Wydatki na działania ujęte w programie operacyjnym mogą zostać zwiększone nie więcej niż o 20%, bez konieczności wcześniejszego ich zatwierdzenia, jeżeli:
+    - **d)** dodaje się ust. 12 w brzmieniu: „12. Wydatki na działania ujęte w programie operacyjnym mogą zostać zwiększone nie więcej niż o 20%, bez konieczności wcześniejszego ich zatwierdzenia, jeżeli: 1) nastąpi jednoczesne obniżenie wydatków na inne działania; 2) nie zostanie przekroczona zatwierdzona wysokość funduszu operacyjnego.”;
 
-- **1)** nastąpi jednoczesne obniżenie wydatków na inne działania;
-- **2)** nie zostanie przekroczona zatwierdzona wysokość funduszu operacyjnego.”;
 - **3)** w art. 12:
     - **a)** w ust. 1 w pkt 3 lit. c otrzymuje brzmienie: „c) ilości i sposobie zagospodarowania poszczególnych gatunków owoców i warzyw nieprzeznaczonych do sprzedaży - na podstawie informacji otrzymanych od organizacji producentów lub ich zrzeszeń oraz decyzji, o których mowa w pkt 1 lit. d - na koniec każdego roku handlowego”,
     - **b)** dodaje się ust. 10 w brzmieniu: „10. Prezes Agencji powiadamia Głównego Inspektora o wynikach przetargów, o których mowa w ust. 1 pkt 4.”;
 
 - **4)** w art. 13:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Prezes Agencji informuje:
-
-- **1)** dyrektora oddziału regionalnego Agencji Restrukturyzacji, właściwego ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów, która była posiadaczem owoców i warzyw nieprzeznaczonych do sprzedaży:
-    - **a)** o wydanych decyzjach, o których mowa w art. 12 ust. 1 pkt 1 lit. d - w terminie 7 dni od dnia ich wydania,
-    - **b)** o wynikach przetargów, o których mowa w art. 12 ust. 1 pkt 4, w tym o wysokości środków finansowych należnych tej organizacji albo zrzeszeniu za dostarczenie owoców i warzyw do podmiotu, który wygrał przetarg - w terminie 14 dni od dnia ich dostarczenia;
-
-- **2)** wojewódzkiego inspektora jakości handlowej artykułów rolnospo¿ywczych, zwanego dalej „wojewódzkim inspektorem”, oraz wojewódzkiego inspektora ochrony środowiska o dacie i miejscu poddania owoców i warzyw nieprzeznaczonych do sprzedaży biodegradacji lub kompostowaniu.”,
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Prezes Agencji informuje: 1) dyrektora oddziału regionalnego Agencji Restrukturyzacji, właściwego ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów, która była posiadaczem owoców i warzyw nieprzeznaczonych do sprzedaży: a) o wydanych decyzjach, o których mowa w art. 12 ust. 1 pkt 1 lit. d - w terminie 7 dni od dnia ich wydania, b) o wynikach przetargów, o których mowa w art. 12 ust. 1 pkt 4, w tym o wysokości środków finansowych należnych tej organizacji albo zrzeszeniu za dostarczenie owoców i warzyw do podmiotu, który wygrał przetarg - w terminie 14 dni od dnia ich dostarczenia; 2) wojewódzkiego inspektora jakości handlowej artykułów rolnospo¿ywczych, zwanego dalej „wojewódzkim inspektorem”, oraz wojewódzkiego inspektora ochrony środowiska o dacie i miejscu poddania owoców i warzyw nieprzeznaczonych do sprzedaży biodegradacji lub kompostowaniu.”,
     - **b)** dodaje się ust. 3 w brzmieniu: „3. Biodegradację lub kompostowanie owoców lub warzyw nieprzeznaczonych do sprzedaży przeprowadza się w sposób zapewniający spełnienie wymagań określonych w przepisach o ochronie środowiska.”;
 
 - **5)** w art. 15:
@@ -108,23 +64,13 @@ source: pdf
 - **6)** w art. 19:
     - **a)** w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) stawkę dopłaty za kilometr przy przewozie owoców lub warzyw transportem kolejowym lub wodnym, biorąc pod uwagę dodatkowe koszty transportu kolejowego lub wodnego w porównaniu z kosztami transportu drogowego, mając na względzie ochronę środowiska.”,
     - **b)** w ust. 2: - uchyla się pkt 6, - pkt 10 otrzymuje brzmienie: „10) wzory protokołów, o których mowa w art. 15 ust. 1 pkt 4 i 6, mając na względzie zasadność ubiegania się o przyznanie rekompensaty finansowej;”,
-    - **c)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw rynków rolnych:
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw rynków rolnych: 1) określi, w drodze rozporządzenia, szczegółowe warunki przyznawania pomocy finansowej oraz wykaz kwalifikowanych kosztów inwestycji, o których mowa w art. 9 ust. 1 pkt 3 lit. b, mając na względzie zapewnienie prawidłowego wykorzystania pomocy finansowej na inwestycje realizowane w ramach zatwierdzonego planu dochodzenia do uznania; 2) w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość krajowych środków finansowych, o których mowa w art. 9 ust. 10, wyrażoną jako procent kwalifikowanych kosztów inwestycji, mając na względzie zapewnienie kontynuacji inwestycji niezbędnych do spełnienia warunków wymaganych do uznania organizacji producentów.”;
 
-- **1)** określi, w drodze rozporządzenia, szczegółowe warunki przyznawania pomocy finansowej oraz wykaz kwalifikowanych kosztów inwestycji, o których mowa w art. 9 ust. 1 pkt 3 lit. b, mając na względzie zapewnienie prawidłowego wykorzystania pomocy finansowej na inwestycje realizowane w ramach zatwierdzonego planu dochodzenia do uznania;
-- **2)** w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość krajowych środków finansowych, o których mowa w art. 9 ust. 10, wyrażoną jako procent kwalifikowanych kosztów inwestycji, mając na względzie zapewnienie kontynuacji inwestycji niezbędnych do spełnienia warunków wymaganych do uznania organizacji producentów.”;
 - **7)** w art. 20:
     - **a)** w ust. 1 w pkt 4 lit. e otrzymuje brzmienie: „e) powierzchni uprawy chmielu - na podstawie zgłoszenia producenta chmielu;”,
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Zgłoszenie, o którym mowa w ust. 1 pkt 4 lit. e:
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Zgłoszenie, o którym mowa w ust. 1 pkt 4 lit. e: 1) przekazuje się w terminie do dnia 31 maja roku zbioru na formularzu opracowanym i udostępnionym przez Inspekcję Jakości Handlowej Artykułów Rolno-Spożywczych; 2) zawiera w szczególności: a) imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres oraz numer identyfikacyjny producenta chmielu, b) nazwę i adres siedziby grupy producentów chmielu, jeżeli producent chmielu jest członkiem grupy producentów chmielu, c) wielkość powierzchni każdej uprawy, miejsce jej położenia, numer ewidencyjny uprawy, jej wiek oraz numer albo numery działek ewidencyjnych - w odniesieniu do każdej odmiany chmielu.”;
 
-- **1)** przekazuje się w terminie do dnia 31 maja roku zbioru na formularzu opracowanym i udostępnionym przez Inspekcję Jakości Handlowej Artykułów Rolno-Spożywczych;
-- **2)** zawiera w szczególności:
-    - **a)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres oraz numer identyfikacyjny producenta chmielu,
-    - **b)** nazwę i adres siedziby grupy producentów chmielu, jeżeli producent chmielu jest członkiem grupy producentów chmielu,
-    - **c)** wielkość powierzchni każdej uprawy, miejsce jej położenia, numer ewidencyjny uprawy, jej wiek oraz numer albo numery działek ewidencyjnych - w odniesieniu do każdej odmiany chmielu.”;
-
-- **8)** rozdział 5 otrzymuje brzmienie: „Rozdział 5 Rynek suszu paszowego
-
-**Art. 34.** Użyte w niniejszym rozdziale określenie „zatwierdzenie” oznacza odpowiednie krajowe zezwolenie, o którym mowa w rozporządzeniu Komisji (WE) nr 382/2005 z dnia 7 marca 2005 r. ustanawiającym szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1786/2003 w sprawie wspólnej organizacji rynku suszu paszowego (Dz.Urz. UE L 61 z 8.03.2005, str. 4), zwanym dalej „rozporządzeniem Komisji 382/2005”.
+- **8)** rozdział 5 otrzymuje brzmienie: „Rozdział 5 Rynek suszu paszowego Art. 34. Użyte w niniejszym rozdziale określenie „zatwierdzenie” oznacza odpowiednie krajowe zezwolenie, o którym mowa w rozporządzeniu Komisji (WE) nr 382/2005 z dnia 7 marca 2005 r. ustanawiającym szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1786/2003 w sprawie wspólnej organizacji rynku suszu paszowego (Dz.Urz. UE L 61 z 8.03.2005, str. 4), zwanym dalej „rozporządzeniem Komisji 382/2005”.
 
 **Art. 35.**
 
@@ -242,12 +188,7 @@ source: pdf
 - **1)** o ewolucji powierzchni przeznaczonych pod uprawę roślin strączkowych i innych pasz zielonych, zgodnie z załącznikiem II do rozporządzenia Komisji 382/2005;
 - **2)** określone w art. 33 ust. 2 lit. g rozporządzenia Komisji 382/2005.”;
 - **9)** w art. 40:
-    - **a)** po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „4a. Kto wbrew obowiązkowi, o którym mowa w art. 3 rozporządzenia Rady (WE) nr 2200/96 z dnia 28 października 1996 r. w sprawie wspólnej organizacji rynku owoców i warzyw (Dz. Urz. WE L 297 z 21.11.1996, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 20, str. 55, z późn. zm. ), dokonuje prezentacji, oferuje do sprzedaży, sprzedaje albo w innej formie wprowadza do obrotu owoce i warzywa niezgodnie z wymaganiami jakości handlowej, podlega karze grzywny.
-
-4b. Kto:
-
-- **1)** udaremnia lub utrudnia wojewódzkiemu inspektorowi przeprowadzanie kontroli jakości handlowej owoców i warzyw wprowadzanych do obrotu albo kontroli składowania lub transportowania tych artykułów,
-- **2)** nie przekazuje wojewódzkiemu inspektorowi informacji, o których mowa w art. 17 ust. 1 - podlega karze grzywny.”,
+    - **a)** po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „4a. Kto wbrew obowiązkowi, o którym mowa w art. 3 rozporządzenia Rady (WE) nr 2200/96 z dnia 28 października 1996 r. w sprawie wspólnej organizacji rynku owoców i warzyw (Dz. Urz. WE L 297 z 21.11.1996, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 20, str. 55, z późn. zm. ), dokonuje prezentacji, oferuje do sprzedaży, sprzedaje albo w innej formie wprowadza do obrotu owoce i warzywa niezgodnie z wymaganiami jakości handlowej, podlega karze grzywny. 4b. Kto: 1) udaremnia lub utrudnia wojewódzkiemu inspektorowi przeprowadzanie kontroli jakości handlowej owoców i warzyw wprowadzanych do obrotu albo kontroli składowania lub transportowania tych artykułów, 2) nie przekazuje wojewódzkiemu inspektorowi informacji, o których mowa w art. 17 ust. 1 - podlega karze grzywny.”,
     - **b)** ust. 5 otrzymuje brzmienie: „5. Orzekanie w sprawach, o których mowa w ust. 1-4b, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.”.
 
 **Art. 3.** W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych (Dz. U. Nr 42, poz. 386, Nr 97, poz. 964, z 2005 r. Nr 14, poz. 115) po art. 19 dodaje się art. 19a w brzmieniu: „Art. 19a. Nale¿ności ustalane w drodze decyzji administracyjnej lub wierzytelności wynikające z umów cywilnoprawnych z tytułów płatności realizowanych przez Agencję na rzecz przedsiębiorców, o których mowa w art. 22 ust. 1 pkt 1 i 2, ze środków Europejskiego Funduszu Orientacji i Gwarancji Rolnej oraz środków krajowych, nie podlegają zajęciu na podstawie przepisów ustawy - Kodeks postępowania cywilnego oraz przepisów o postępowaniu egzekucyjnym w administracji.”.

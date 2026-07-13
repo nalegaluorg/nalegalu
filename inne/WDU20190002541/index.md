@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002541) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2541/text.pdf) |
 
 zmieniające rozporządzenie w sprawie sposobu dokumentowania przeprowadzonej kontroli przewozu towarów oraz wzorów dokumentów Na podstawie art. 13 ust. 8 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu olejami opałowymi (Dz. U. z 2018 r. poz. 2332 oraz z 2019 r. poz. 730, 1123 i 1556) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 13 sierpnia 2018 r. w sprawie sposobu dokumentowania przeprowadzonej kontroli przewozu towarów oraz wzorów dokumentów (Dz. U. poz. 1624) w § 11 wyrazy „do dnia 31 grudnia 2019 r.” zastępuje się wyrazami „do dnia 31 grudnia 2021 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2019 r.
-Minister Finansów: wz. L. Skiba
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 13 sierpnia 2018 r. w sprawie sposobu dokumentowania przeprowadzonej kontroli przewozu towarów oraz wzorów dokumentów (Dz. U. poz. 1624) w § 11 wyrazy „do dnia 31 grudnia 2019 r.” zastępuje się wyrazami „do dnia 31 grudnia 2021 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 31 grudnia 2019 r. Minister Finansów: wz. L. Skiba
 

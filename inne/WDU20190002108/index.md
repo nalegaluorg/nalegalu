@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002108) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2108/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zapotrzebowań oraz wydawania z apteki produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych Na podstawie art. 96 ust. 9 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 12 października 2018 r. w sprawie zapotrzebowań oraz wydawania z apteki produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych (Dz. U. poz. 2008) w załącznikach nr 2 i 4 do rozporządzenia wyrazy „pieczęć albo identyfikator usługodawcy” zastępuje się wyrazami „nazwa i adres apteki (w formie pieczątki albo nadruku) albo jej identyfikator (w formie pieczątki, nadruku albo czytelnego wpisu odręcznego)”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. J. Cieszyński
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 12 października 2018 r. w sprawie zapotrzebowań oraz wydawania z apteki produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych (Dz. U. poz. 2008) w załącznikach nr 2 i 4 do rozporządzenia wyrazy „pieczęć albo identyfikator usługodawcy” zastępuje się wyrazami „nazwa i adres apteki (w formie pieczątki albo nadruku) albo jej identyfikator (w formie pieczątki, nadruku albo czytelnego wpisu odręcznego)”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. J. Cieszyński
 

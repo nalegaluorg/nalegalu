@@ -30,12 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 6 marca 1981 r. o Państwowej Inspekcji Pracy (Dz.U. z 1985 r. Nr 54, poz. 276, z 1989 r. Nr 34, poz. 178, z 1996 r. Nr 24, poz. 110 i Nr 106, poz. 496, z 1998 r. Nr 113, poz. 717 i Nr 162, poz. 1126 oraz z 1999 r. Nr 49, poz. 483) wprowadza się następujące zmiany:
 
 - **1)** w art. 4 ust. 1 otrzymuje brzmienie: „1. Okręgowy inspektorat pracy obejmuje zakresem swojej właściwości terytorialnej obszar jednego lub więcej województw.”;
-- **2)** art. 5 otrzymuje brzmienie: „Art. 5. 1. Marszałek Sejmu na wniosek Głównego Inspektora Pracy ustala:
-- **1)** siedziby i zakres właściwości terytorialnej okręgowych inspektoratów pracy,
-- **2)** statut Państwowej Inspekcji Pracy.
-
-2. Zarządzenia Marszałka Sejmu w sprawach, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej Monitor Polski.”;
-
+- **2)** art. 5 otrzymuje brzmienie: „Art. 5. 1. Marszałek Sejmu na wniosek Głównego Inspektora Pracy ustala: 1) siedziby i zakres właściwości terytorialnej okręgowych inspektoratów pracy, 2) statut Państwowej Inspekcji Pracy. 2. Zarządzenia Marszałka Sejmu w sprawach, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej Monitor Polski.”;
 - **3)** w art. 6:
     - **a)** w ust. 2 wyrazy „Prezydium Sejmu” zastępuje się wyrazami „Marszałek Sejmu”,
     - **b)** w ust. 3 po wyrazach „ogólnokrajowe organizacje międzyzwiązkowe,” dodaje się wyrazy „ogólnokrajowe federacje i konfederacje pracodawców,”,
@@ -43,11 +38,11 @@ source: pdf
     - **d)** ust. 4 otrzymuje brzmienie: „4. Zasady reprezentacji w Radzie oraz wysokość diety członków Rady za udział w jej pracach określa Marszałek Sejmu w drodze zarządzenia.”;
 
 - **4)** w art. 7 w ust. 1 wyrazy „zakłady pracy i nadzorujące je jednostki organizacyjne oraz organy administracji państwowej i organizacje społeczne” zastępuje się wyrazami „podmioty kontrolowane i organy sprawujące nadzór nad przedsiębiorstwami lub innymi jednostkami organizacyjnymi państwowymi albo samorządowymi”;
-- **5)** w art. 8: Zarządzenie Marszałka Sejmu podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej Monitor Polski.”;
+- **5)** w art. 8:
     - **a)** w ust. 1: - w pkt 1 i 4 wyrazy „zakłady pracy” zastępuje się wyrazem „pracodawców”, - w pkt 7 wyraz „zakłady” zastępuje się wyrazem „pracodawców”,
     - **b)** w ust. 1 w pkt 4 po wyrazie „zadań” dodaje się wyrazy „i prac”,
     - **c)** w ust. 2 skreśla się wyrazy „przez zakłady pracy”,
-    - **d)** po ust. 3 dodaje się ust. 4 w brzmieniu: „4. Marszałek Sejmu, na wniosek Głównego Inspektora Pracy, ustala w drodze zarządzenia wzór legitymacji służbowej, o której mowa w ust. 3.
+    - **d)** po ust. 3 dodaje się ust. 4 w brzmieniu: „4. Marszałek Sejmu, na wniosek Głównego Inspektora Pracy, ustala w drodze zarządzenia wzór legitymacji służbowej, o której mowa w ust. 3. Zarządzenie Marszałka Sejmu podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej Monitor Polski.”;
 
 - **6)** w art. 8a:
     - **a)** w ust. 1 wyrazy „Ministrem Pracy i Polityki Socjalnej” zastępuje się wyrazami „ministrem właściwym do spraw pracy”,
@@ -67,8 +62,8 @@ source: pdf
     - **a)** w ust. 1 po wyrazach „związkami zawodowymi,” dodaje się wyrazy „organizacjami pracodawców,”,
     - **b)** w ust. 1 skreśla się wyrazy „właściwego okręgowego”;
 
-- **10)** w art. 14: Profesora Jana Rosnera,”, - po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) rozpatrywanie odwołań od nakazów i innych decyzji okręgowych inspektorów pracy,”,
-    - **a)** w ust. 1: - pkt 5 otrzymuje brzmienie: „5) przedstawianie wniosków w sprawach nauczania i szkolenia w dziedzinie bezpieczeństwa i higieny pracy, prowadzenie działalności w zakresie szkolenia inspektorów pracy oraz nadzór nad działalnością Ośrodka Szkolenia Państwowej Inspekcji Pracy im.
+- **10)** w art. 14:
+    - **a)** w ust. 1: - pkt 5 otrzymuje brzmienie: „5) przedstawianie wniosków w sprawach nauczania i szkolenia w dziedzinie bezpieczeństwa i higieny pracy, prowadzenie działalności w zakresie szkolenia inspektorów pracy oraz nadzór nad działalnością Ośrodka Szkolenia Państwowej Inspekcji Pracy im. Profesora Jana Rosnera,”, - po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) rozpatrywanie odwołań od nakazów i innych decyzji okręgowych inspektorów pracy,”,
     - **b)** po ust. 2 dodaje się ust. 2 w brzmieniu: „2 . Główny Inspektor Pracy jest pracodawcą, w rozumieniu prawa pracy, dla pracowników Głównego Inspektoratu Pracy oraz pracowników wykonujących lub nadzorujących czynności kontrolne.”,
     - **c)** w ust. 3 wyrazy „Ministrowi Pracy, Płac i Spraw Socjalnych” zastępuje się wyrazami „ministrowi właściwemu do spraw pracy”;
 
@@ -80,157 +75,16 @@ source: pdf
 - **13)** skreśla się art. 17;
 - **14)** art. 18 otrzymuje brzmienie: „Art. 18. Okręgowy inspektor pracy wydaje nakazy, o których mowa w art. 9 pkt 3. Nakazy te wydaje z własnej inicjatywy bądź na wniosek inspektora pracy.”;
 - **15)** w art. 19 wyrazy „właściwym terenowym organom władzy i administracji państwowej stopnia wojewódzkiego” zastępuje się wyrazami „wojewodzie, marszałkowi województwa”;
-- **16)** po art. 19 dodaje się art. 19a -19i w brzmieniu: „Art. 19a. Kontrola ma na celu ustalenie stanu faktycznego w zakresie przestrzegania przez podmiot kontrolowany prawa pracy, w szczególności przepisów i zasad bezpieczeństwa i higieny pracy, oraz udokumentowanie dokonanych ustaleń.
-
-**Art. 19b.** Dla realizacji celu, o którym mowa w art. 19a, inspektor pracy ma prawo:
-
-- **1)** swobodnego wstępu na teren oraz do obiektów i pomieszczeń podmiotów kontrolowanych,
-- **2)** przeprowadzania oględzin obiektów, stanowisk pracy, maszyn i urządzeń oraz przebiegu procesów technologicznych i pracy,
-- **3)** żądania od pracodawcy lub innego kontrolowanego podmiotu oraz od wszystkich pracowników lub osób, które pracodawca zatrudnia lub zatrudniał, albo które wykonują lub wykonywały pracę na rzecz kontrolowanego podmiotu, pisemnych i ustnych informacji w sprawach objętych kontrolą oraz wzywania i przesłuchiwania tych osób w związku z przeprowadzaną kontrolą.
-- **4)** żądania okazania dokumentów dotyczących budowy, przebudowy lub modernizacji oraz uruchomienia zakładu pracy, planów i rysunków technicznych, dokumentacji technicznej i technologicznej, wyników ekspertyz, badań i pomiarów dotyczących produkcji bądź innej działalności zakładu, jak również dostarczenia mu próbek surowców i materiałów używanych, wytwarzanych lub powstających w toku produkcji, w ilości niezbędnej do przeprowadzenia analiz lub badań, gdy mają one związek z przeprowadzaną kontrolą,
-- **5)** żądania od pracodawcy lub innego podmiotu kontrolowanego przedłożenia akt osobowych oraz dokumentów związanych z zatrudnianiem pracowników lub innych osób wykonujących pracę na rzecz podmiotu kontrolowanego na innej podstawie niż stosunek pracy,
-- **6)** zapoznania się z decyzjami wydanymi przez inne organy kontroli i nadzoru nad warunkami pracy oraz ich realizacją,
-- **7)** utrwalania przebiegu i wyników oględzin, o których mowa w pkt 2, za pomocą aparatury i środków technicznych służących do utrwalania obrazu lub dźwięku,
-- **8)** sporządzania niezbędnych dla kontroli odpisów lub wyciągów z dokumentów, jak również zestawień i obliczeń na podstawie dokumentów, a w razie potrzeby zażądania tego od podmiotu kontrolowanego,
-- **9)** sprawdzania tożsamości osób wykonujących pracę,
-- **10)** korzystania z pomocy biegłych i specjalistów.
-
-**Art. 19c.** Podmiot kontrolowany ma obowiązek zapewnić inspektorowi pracy warunki i środki niezbędne do sprawnego przeprowadzenia kontroli, a w szczególności niezwłocznie przedstawić żądane dokumenty i materiały, zapewnić terminowe udzielanie informacji przez osoby, o których mowa w art. 19b pkt 3, udostępnić urządzenia techniczne oraz, w miarę możliwości, oddzielne pomieszczenie z odpowiednim wyposażeniem.
-
-**Art. 19d.**
-
-1. Kontrolę przeprowadza się w siedzibie podmiotu kontrolowanego oraz w innych miejscach wykonywania jego zadań.
-
-2. Kontrola lub poszczególne jej czynności mogą być również prowadzone w siedzibie jednostki organizacyjnej Państwowej Inspekcji Pracy.
-
-3. Przed podjęciem czynności kontrolnych inspektor pracy zgłasza swoją obecność pracodawcy, z wyjątkiem przypadków, gdy uzna, że takie zawiadomienie może wpłynąć na obiektywny wynik kontroli.
-
-4. Inspektor pracy jest upoważniony do swobodnego wstępu i poruszania się po terenie kontrolowanego podmiotu bez obowiązku uzyskiwania przepustki oraz jest zwolniony od rewizji osobistej.
-
-**Art. 19e.** Inspektor pracy, przystępując do sprawdzenia tożsamości osoby wykonującej pracę, jest obowiązany okazać legitymację służbową w taki sposób, aby osoba ta mogła odczytać i zanotować jego dane osobowe.
-
-**Art. 19f.** W kontroli mogą brać udział biegli i specjaliści na podstawie imiennego upoważnienia wydanego przez Głównego Inspektora Pracy lub okręgowego inspektora pracy.
-
-**Art. 19g.**
-
-1. W toku wykonywania czynności kontrolnych inspektor pracy współdziała ze związkami zawodowymi, organami samorządu załogi i społeczną inspekcją pracy.
-
-2. Współdziałanie, o którym mowa w ust. 1, polega w szczególności na:
-
-- **1)** informowaniu o tematyce i zakresie przeprowadzanej kontroli,
-- **2)** analizowaniu uwag i spostrzeżeń wnoszonych przez zakładowe organizacje związkowe, organy samorządu załogi i społecznych inspektorów pracy w trakcie wykonywania czynności kontrolnych,
-- **3)** poinformowaniu o wynikach kontroli i podjętych decyzjach,
-- **4)** udzielaniu porad i informacji z zakresu prawa pracy.
-
-**Art. 19h.** Podczas czynności kontrolnych inspektor pracy oraz osoby, o których mowa w art. 19f, obowiązani są do przestrzegania przepisów bezpieczeństwa i higieny pracy, przepisów przeciwpożarowych oraz przepisów o ochronie informacji niejawnych.
-
-**Art. 19i.**
-
-1. Ustalenia z kontroli dokumentowane są, z zastrzeżeniem ust. 9, w formie protokołu.
-
-2. Protokół kontroli powinien zawierać:
-
-- **1)** nazwę pracodawcy w pełnym brzmieniu i jego adres oraz numer z krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON),
-- **2)** imię i nazwisko oraz stanowisko służbowe inspektora pracy,
-- **3)** imię i nazwisko pracodawcy albo imię i nazwisko osoby lub nazwę organu reprezentującego pracodawcę,
-- **4)** datę rozpoczęcia działalności przez pracodawcę i datę objęcia stanowiska przez osobę lub powołania organu reprezentującego pracodawcę,
-- **5)** oznaczenie dni, w których przeprowadzano kontrolę,
-- **6)** informację o realizacji uprzednich decyzji i wystąpień organów Państwowej Inspekcji Pracy oraz wniosków, zaleceń i decyzji innych organów kontroli i nadzoru nad warunkami pracy; informacji tej można nie podawać w przypadku, gdy kontrola związana jest z rozpatrzeniem skargi lub udziałem w przejmowaniu zakładów pracy lub ich części do eksploatacji,
-- **7)** opis stwierdzonych naruszeń prawa pracy w zakresie zagadnień objętych kontrolą oraz inne informacje mające istotne znaczenie dla rozstrzygania spraw,
-- **8)** dane osoby legitymowanej oraz określenie czasu, miejsca i przyczyny legitymowania,
-- **9)** informację o pobraniu próbek surowców i materiałów używanych, wytwarzanych lub powstających w toku produkcji,
-- **10)** treść decyzji ustnych oraz informację o ich realizacji,
-- **11)** informację o liczbie i rodzaju udzielonych porad z zakresu prawa pracy,
-- **12)** liczbę i wyszczególnienie załączników stanowiących składową część protokołu,
-- **13)** informację o osobach, w których obecności przeprowadzano kontrolę,
-- **14)** wzmiankę o wniesieniu lub niewniesieniu zastrzeżeń do treści protokołu,
-- **15)** datę i miejsce podpisania protokołu przez osobę kontrolującą oraz przez pracodawcę albo osobę lub organ reprezentujący pracodawcę.
-
-3. Protokół podpisuje inspektor pracy prowadzący kontrolę oraz pracodawca albo osoba lub organ reprezentujący pracodawcę.
-
-4. Pracodawcy albo osobie lub organowi reprezentującemu pracodawcę przysługuje prawo zgłoszenia, przed podpisaniem protokołu kontroli, umotywowanych zastrzeżeń do ustaleń zawartych w protokole.
-
-5. Zastrzeżenia należy zgłosić na piśmie w terminie 7 dni od dnia przedstawienia protokołu.
-
-6. W razie zgłoszenia zastrzeżeń, o których mowa w ust. 4, inspektor pracy przeprowadzający kontrolę zobowiązany jest je zbadać, a w przypadku stwierdzenia zasadności zastrzeżeń zmienić lub uzupełnić odpowiednią część protokołu.
-
-7. Odmowa podpisania protokołu przez pracodawcę albo osobę lub organ reprezentujący pracodawcę nie stanowi przeszkody do zastosowania przez inspektora pracy stosownych środków prawnych przewidzianych ustawą.
-
-8. Kopię protokołu kontroli inspektor pracy pozostawia pracodawcy.
-
-9. W przypadku niewydania decyzji ustalenia z kontroli mogą być dokumentowane w formie notatki urzędowej.
-
-10. Notatka urzędowa, o której mowa w ust. 9, powinna zawierać w szczególności dane określone w ust. 2 pkt 1, 2, 3, 8, 11 i 12 oraz krótki opis stanu stwierdzonego w czasie kontroli.
-
-11. Notatkę urzędową podpisuje inspektor pracy.
-
-12. Do dokumentowania ustaleń z kontroli podmiotów innych niż pracodawcy, na rzecz których jest świadczona praca przez osoby fizyczne, ust. 9-11 stosuje się odpowiednio.”;
-
+- **16)** po art. 19 dodaje się art. 19a -19i w brzmieniu: „Art. 19a. Kontrola ma na celu ustalenie stanu faktycznego w zakresie przestrzegania przez podmiot kontrolowany prawa pracy, w szczególności przepisów i zasad bezpieczeństwa i higieny pracy, oraz udokumentowanie dokonanych ustaleń. Art. 19b. Dla realizacji celu, o którym mowa w art. 19a, inspektor pracy ma prawo: 1) swobodnego wstępu na teren oraz do obiektów i pomieszczeń podmiotów kontrolowanych, 2) przeprowadzania oględzin obiektów, stanowisk pracy, maszyn i urządzeń oraz przebiegu procesów technologicznych i pracy, 3) żądania od pracodawcy lub innego kontrolowanego podmiotu oraz od wszystkich pracowników lub osób, które pracodawca zatrudnia lub zatrudniał, albo które wykonują lub wykonywały pracę na rzecz kontrolowanego podmiotu, pisemnych i ustnych informacji w sprawach objętych kontrolą oraz wzywania i przesłuchiwania tych osób w związku z przeprowadzaną kontrolą. 4) żądania okazania dokumentów dotyczących budowy, przebudowy lub modernizacji oraz uruchomienia zakładu pracy, planów i rysunków technicznych, dokumentacji technicznej i technologicznej, wyników ekspertyz, badań i pomiarów dotyczących produkcji bądź innej działalności zakładu, jak również dostarczenia mu próbek surowców i materiałów używanych, wytwarzanych lub powstających w toku produkcji, w ilości niezbędnej do przeprowadzenia analiz lub badań, gdy mają one związek z przeprowadzaną kontrolą, 5) żądania od pracodawcy lub innego podmiotu kontrolowanego przedłożenia akt osobowych oraz dokumentów związanych z zatrudnianiem pracowników lub innych osób wykonujących pracę na rzecz podmiotu kontrolowanego na innej podstawie niż stosunek pracy, 6) zapoznania się z decyzjami wydanymi przez inne organy kontroli i nadzoru nad warunkami pracy oraz ich realizacją, 7) utrwalania przebiegu i wyników oględzin, o których mowa w pkt 2, za pomocą aparatury i środków technicznych służących do utrwalania obrazu lub dźwięku, 8) sporządzania niezbędnych dla kontroli odpisów lub wyciągów z dokumentów, jak również zestawień i obliczeń na podstawie dokumentów, a w razie potrzeby zażądania tego od podmiotu kontrolowanego, 9) sprawdzania tożsamości osób wykonujących pracę, 10) korzystania z pomocy biegłych i specjalistów. Art. 19c. Podmiot kontrolowany ma obowiązek zapewnić inspektorowi pracy warunki i środki niezbędne do sprawnego przeprowadzenia kontroli, a w szczególności niezwłocznie przedstawić żądane dokumenty i materiały, zapewnić terminowe udzielanie informacji przez osoby, o których mowa w art. 19b pkt 3, udostępnić urządzenia techniczne oraz, w miarę możliwości, oddzielne pomieszczenie z odpowiednim wyposażeniem. Art. 19d. 1. Kontrolę przeprowadza się w siedzibie podmiotu kontrolowanego oraz w innych miejscach wykonywania jego zadań. 2. Kontrola lub poszczególne jej czynności mogą być również prowadzone w siedzibie jednostki organizacyjnej Państwowej Inspekcji Pracy. 3. Przed podjęciem czynności kontrolnych inspektor pracy zgłasza swoją obecność pracodawcy, z wyjątkiem przypadków, gdy uzna, że takie zawiadomienie może wpłynąć na obiektywny wynik kontroli. 4. Inspektor pracy jest upoważniony do swobodnego wstępu i poruszania się po terenie kontrolowanego podmiotu bez obowiązku uzyskiwania przepustki oraz jest zwolniony od rewizji osobistej. Art. 19e. Inspektor pracy, przystępując do sprawdzenia tożsamości osoby wykonującej pracę, jest obowiązany okazać legitymację służbową w taki sposób, aby osoba ta mogła odczytać i zanotować jego dane osobowe. Art. 19f. W kontroli mogą brać udział biegli i specjaliści na podstawie imiennego upoważnienia wydanego przez Głównego Inspektora Pracy lub okręgowego inspektora pracy. Art. 19g. 1. W toku wykonywania czynności kontrolnych inspektor pracy współdziała ze związkami zawodowymi, organami samorządu załogi i społeczną inspekcją pracy. 2. Współdziałanie, o którym mowa w ust. 1, polega w szczególności na: 1) informowaniu o tematyce i zakresie przeprowadzanej kontroli, 2) analizowaniu uwag i spostrzeżeń wnoszonych przez zakładowe organizacje związkowe, organy samorządu załogi i społecznych inspektorów pracy w trakcie wykonywania czynności kontrolnych, 3) poinformowaniu o wynikach kontroli i podjętych decyzjach, 4) udzielaniu porad i informacji z zakresu prawa pracy. Art. 19h. Podczas czynności kontrolnych inspektor pracy oraz osoby, o których mowa w art. 19f, obowiązani są do przestrzegania przepisów bezpieczeństwa i higieny pracy, przepisów przeciwpożarowych oraz przepisów o ochronie informacji niejawnych. Art. 19i. 1. Ustalenia z kontroli dokumentowane są, z zastrzeżeniem ust. 9, w formie protokołu. 2. Protokół kontroli powinien zawierać: 1) nazwę pracodawcy w pełnym brzmieniu i jego adres oraz numer z krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON), 2) imię i nazwisko oraz stanowisko służbowe inspektora pracy, 3) imię i nazwisko pracodawcy albo imię i nazwisko osoby lub nazwę organu reprezentującego pracodawcę, 4) datę rozpoczęcia działalności przez pracodawcę i datę objęcia stanowiska przez osobę lub powołania organu reprezentującego pracodawcę, 5) oznaczenie dni, w których przeprowadzano kontrolę, 6) informację o realizacji uprzednich decyzji i wystąpień organów Państwowej Inspekcji Pracy oraz wniosków, zaleceń i decyzji innych organów kontroli i nadzoru nad warunkami pracy; informacji tej można nie podawać w przypadku, gdy kontrola związana jest z rozpatrzeniem skargi lub udziałem w przejmowaniu zakładów pracy lub ich części do eksploatacji, 7) opis stwierdzonych naruszeń prawa pracy w zakresie zagadnień objętych kontrolą oraz inne informacje mające istotne znaczenie dla rozstrzygania spraw, 8) dane osoby legitymowanej oraz określenie czasu, miejsca i przyczyny legitymowania, 9) informację o pobraniu próbek surowców i materiałów używanych, wytwarzanych lub powstających w toku produkcji, 10) treść decyzji ustnych oraz informację o ich realizacji, 11) informację o liczbie i rodzaju udzielonych porad z zakresu prawa pracy, 12) liczbę i wyszczególnienie załączników stanowiących składową część protokołu, 13) informację o osobach, w których obecności przeprowadzano kontrolę, 14) wzmiankę o wniesieniu lub niewniesieniu zastrzeżeń do treści protokołu, 15) datę i miejsce podpisania protokołu przez osobę kontrolującą oraz przez pracodawcę albo osobę lub organ reprezentujący pracodawcę. 3. Protokół podpisuje inspektor pracy prowadzący kontrolę oraz pracodawca albo osoba lub organ reprezentujący pracodawcę. 4. Pracodawcy albo osobie lub organowi reprezentującemu pracodawcę przysługuje prawo zgłoszenia, przed podpisaniem protokołu kontroli, umotywowanych zastrzeżeń do ustaleń zawartych w protokole. 5. Zastrzeżenia należy zgłosić na piśmie w terminie 7 dni od dnia przedstawienia protokołu. 6. W razie zgłoszenia zastrzeżeń, o których mowa w ust. 4, inspektor pracy przeprowadzający kontrolę zobowiązany jest je zbadać, a w przypadku stwierdzenia zasadności zastrzeżeń zmienić lub uzupełnić odpowiednią część protokołu. 7. Odmowa podpisania protokołu przez pracodawcę albo osobę lub organ reprezentujący pracodawcę nie stanowi przeszkody do zastosowania przez inspektora pracy stosownych środków prawnych przewidzianych ustawą. 8. Kopię protokołu kontroli inspektor pracy pozostawia pracodawcy. 9. W przypadku niewydania decyzji ustalenia z kontroli mogą być dokumentowane w formie notatki urzędowej. 10. Notatka urzędowa, o której mowa w ust. 9, powinna zawierać w szczególności dane określone w ust. 2 pkt 1, 2, 3, 8, 11 i 12 oraz krótki opis stanu stwierdzonego w czasie kontroli. 11. Notatkę urzędową podpisuje inspektor pracy. 12. Do dokumentowania ustaleń z kontroli podmiotów innych niż pracodawcy, na rzecz których jest świadczona praca przez osoby fizyczne, ust. 9-11 stosuje się odpowiednio.”;
 - **17)** skreśla się art. 20;
-- **18)** art. 21 otrzymuje brzmienie: „Art. 21. W wyniku ustaleń dokonanych w toku kontroli oraz po przeprowadzeniu postępowania wynikającego z przepisów ustawy inspektor pracy:
-- **1)** wydaje nakazy i zgłasza sprzeciwy, o których mowa w art. 9 pkt 1-2a i 4,
-- **2)** kieruje wystąpienia, o których mowa w art. 9 pkt 5,
-- **3)** wnosi powództwa oraz wstępuje do postępowania w sprawach, o których mowa w art. 8 ust. 1 pkt 11a,
-- **4)** podejmuje inne działania, jeżeli prawo lub obowiązek ich podjęcia wynika z odrębnych przepisów.”;
-- **19)** po art. 21 dodaje się art. 21a-21f w brzmieniu: „Art. 21a. 1. Nakazy, o których mowa w art. 9 pkt 1-2a, inspektor pracy wydaje w formie decyzji:
-- **1)** pisemnej,
-- **2)** stanowiącej wpis do dziennika budowy,
-- **3)** ustnej.
-
-2. Decyzja inspektora pracy, o której mowa w ust. 1 pkt 1 i 2 powinna, oprócz treści, zawierać określenie podstawy prawnej, termin realizacji oraz pouczenie o przysługujących środkach odwoławczych.
-
-3. W przypadku wydawania decyzji w formie wpisu do dziennika budowy, kopia lub odpis tych decyzji stanowi załącznik do protokołu kontroli.
-
-4. Decyzje ustne, o których mowa w ust. 1 pkt 3, inspektor pracy wydaje w celu usunięcia ujawnionych w toku kontroli nieprawidłowości w zakresie bezpieczeństwa i higieny pracy, jeżeli mogą być one usunięte podczas trwania kontroli.
-
-5. W razie gdy zakład pracy posiada wydzielone terenowe jednostki organizacyjne, inspektor pracy wydaje decyzję, o której mowa w ust. 1, osobie kierującej taką wydzieloną jednostką organizacyjną, jeżeli usunięcie naruszeń przepisów prawa pracy nie wymaga decyzji pracodawcy, a także gdy nie można inaczej uniknąć niebezpieczeństwa zagrażającego życiu lub zdrowiu pracowników.
-
-6. W razie wniesienia odwołania od nakazu, o którym mowa w art. 9 pkt 1 i 2, inspektor pracy lub okręgowy inspektor pracy może wstrzymać wykonanie nakazu do czasu rozpatrzenia odwołania, jeżeli podjęte przez pracodawcę przedsięwzięcia wyłączają bezpośrednie zagrożenie życia lub zdrowia pracowników.
-
-**Art. 21b.** Sprzeciw, o którym mowa w art. 9 pkt 4, inspektor pracy zgłasza niezwłocznie po stwierdzeniu, że uruchomienie wybudowanego lub przebudowanego zakładu pracy lub jego części mogłoby spowodować bezpośrednie zagrożenie życia lub zdrowia przyszłych pracowników.
-
-**Art. 21c.** Podmiot do którego została skierowana decyzja, o której mowa w art. 9 pkt 1-4, ma obowiązek informowania odpowiedniego organu Państwowej Inspekcji Pracy o jej realizacji z upływem terminów określonych w decyzji.
-
-**Art. 21d.**
-
-1. Wystąpienie inspektora pracy, o którym mowa w art. 9 pkt 5, powinno zawierać określenie wniosków i podstawy prawnej przy uwzględnieniu stanu faktycznego wynikającego z ustaleń protokołu kontroli lub notatki urzędowej.
-
-2. Pracodawca lub organ sprawujący nadzór nad przedsiębiorstwem lub inną jednostką organizacyjną państwową albo samorzą dową, do którego skierowano wystąpienie jest obowiązany w terminie określonym w wystąpieniu, nie dłuższym niż 30 dni, zawiadomić inspektora pracy o terminie i sposobie wykonania ujętych w wystąpieniu wniosków.
-
-**Art. 21e.** Jeżeli ustalenia w toku kontroli wskazują na potrzebę zajęcia stanowiska przez naczelne lub centralne organy administracji państwowej albo organy samorządowe lub administracji rządowej stopnia wojewódzkiego, wystąpienie o podjęcie niezbędnych decyzji kieruje odpowiednio Główny Inspektor Pracy lub okręgowy inspektor pracy.
-
-**Art. 21f.** Marszałek Sejmu określa, w drodze zarządzenia, wzory druków stosowanych w działalności kontrolnej Państwowej Inspekcji Pracy.”;
-
-- **20)** w art. 23 po ust. 2 dodaje się ust. 3-6 w brzmieniu: „3. Pracownicy Państwowej Inspekcji Pracy zatrudnieni na stanowiskach: nadinspektora pracy, starszego inspektora pracy - głównego specjalisty, starszego inspektora pracy - specjalisty, starszego inspektora pracy, inspektora pracy oraz młodszego inspektora pracy, zwani inspektorami pracy, nadzorują i przeprowadzają kontrolę przestrzegania prawa pracy, w szczególności przepisów i zasad bezpieczeństwa i higieny pracy, na terenie objętym zakresem właściwości okręgowego inspektoratu pracy.
-
-4. Pracownikami nadzorującymi czynności kontrolne są pracownicy Głównego Inspektoratu Pracy i okręgowych inspektoratów pracy wyznaczeni do wykonywania tych czynności
-
-5. Kontrolę, o której mowa w ust. 3, mogą również przeprowadzać, wspólnie z inspektorami pracy, pracownicy nadzorujący czynności kontrolne oraz podinspektorzy pracy, na podstawie imiennego upoważnienia, wydanego odpowiednio przez Głównego Inspektora Pracy lub okręgowego inspektora pracy.
-
-6. Główny Inspektor Pracy może upoważnić inspektora pracy do wykonywania czynności kontrolnych na terenie działania innego okręgowego inspektoratu pracy, a także poza terytorium Rzeczypospolitej Polskiej, gdzie stosunek pracy podlega przepisom polskiego prawa pracy.”;
-
-- **21)** w art. 24 po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Pracownicy, o których mowa w ust. 1, obowiązani są w szczególności do:
-- **1)** przestrzegania, również po zaprzestaniu pracy w Państwowej Inspekcji Pracy, tajemnicy dotyczącej działalności prowadzonej przez kontrolowane podmioty,
-- **2)** nieujawniania informacji, że kontrola przeprowadzana jest w następstwie skargi, chyba że zgłaszający skargę wyrazi na to pisemną zgodę,
-- **3)** nieuczestniczenia w interesach podmiotów kontrolowanych.”;
-- **22)** po art. 24 dodaje się art. 24a i 24b w brzmieniu: „Art. 24a. 1. Pracownikowi wykonującemu lub nadzorującemu czynności kontrolne, delegowanemu służbowo do zajęć poza stałym miejscem pracy, przysługują, z zastrzeżeniem ust. 2, zwrot kosztów podróży i zakwaterowania oraz diety na zasadach określonych w odrębnych przepisach.
-
-2. Pracownikowi, o którym mowa w ust. 1, na obszarze kraju przysługuje dieta w podwójnej wysokości.
-
-**Art. 24b.** Główny Inspektor Pracy może udzielić pracownikowi wykonującemu lub nadzorującemu czynności kontrolne płatnego urlopu zdrowotnego na podstawie skierowania na leczenie sanatoryjne, uzdrowiskowe lub profilaktyczne na okres ustalony w tym skierowaniu, nie przekraczający 30 dni w roku kalendarzowym.”;
-
+- **18)** art. 21 otrzymuje brzmienie: „Art. 21. W wyniku ustaleń dokonanych w toku kontroli oraz po przeprowadzeniu postępowania wynikającego z przepisów ustawy inspektor pracy: 1) wydaje nakazy i zgłasza sprzeciwy, o których mowa w art. 9 pkt 1-2a i 4, 2) kieruje wystąpienia, o których mowa w art. 9 pkt 5, 3) wnosi powództwa oraz wstępuje do postępowania w sprawach, o których mowa w art. 8 ust. 1 pkt 11a, 4) podejmuje inne działania, jeżeli prawo lub obowiązek ich podjęcia wynika z odrębnych przepisów.”;
+- **19)** po art. 21 dodaje się art. 21a-21f w brzmieniu: „Art. 21a. 1. Nakazy, o których mowa w art. 9 pkt 1-2a, inspektor pracy wydaje w formie decyzji: 1) pisemnej, 2) stanowiącej wpis do dziennika budowy, 3) ustnej. 2. Decyzja inspektora pracy, o której mowa w ust. 1 pkt 1 i 2 powinna, oprócz treści, zawierać określenie podstawy prawnej, termin realizacji oraz pouczenie o przysługujących środkach odwoławczych. 3. W przypadku wydawania decyzji w formie wpisu do dziennika budowy, kopia lub odpis tych decyzji stanowi załącznik do protokołu kontroli. 4. Decyzje ustne, o których mowa w ust. 1 pkt 3, inspektor pracy wydaje w celu usunięcia ujawnionych w toku kontroli nieprawidłowości w zakresie bezpieczeństwa i higieny pracy, jeżeli mogą być one usunięte podczas trwania kontroli. 5. W razie gdy zakład pracy posiada wydzielone terenowe jednostki organizacyjne, inspektor pracy wydaje decyzję, o której mowa w ust. 1, osobie kierującej taką wydzieloną jednostką organizacyjną, jeżeli usunięcie naruszeń przepisów prawa pracy nie wymaga decyzji pracodawcy, a także gdy nie można inaczej uniknąć niebezpieczeństwa zagrażającego życiu lub zdrowiu pracowników. 6. W razie wniesienia odwołania od nakazu, o którym mowa w art. 9 pkt 1 i 2, inspektor pracy lub okręgowy inspektor pracy może wstrzymać wykonanie nakazu do czasu rozpatrzenia odwołania, jeżeli podjęte przez pracodawcę przedsięwzięcia wyłączają bezpośrednie zagrożenie życia lub zdrowia pracowników. Art. 21b. Sprzeciw, o którym mowa w art. 9 pkt 4, inspektor pracy zgłasza niezwłocznie po stwierdzeniu, że uruchomienie wybudowanego lub przebudowanego zakładu pracy lub jego części mogłoby spowodować bezpośrednie zagrożenie życia lub zdrowia przyszłych pracowników. Art. 21c. Podmiot do którego została skierowana decyzja, o której mowa w art. 9 pkt 1-4, ma obowiązek informowania odpowiedniego organu Państwowej Inspekcji Pracy o jej realizacji z upływem terminów określonych w decyzji. Art. 21d. 1. Wystąpienie inspektora pracy, o którym mowa w art. 9 pkt 5, powinno zawierać określenie wniosków i podstawy prawnej przy uwzględnieniu stanu faktycznego wynikającego z ustaleń protokołu kontroli lub notatki urzędowej. 2. Pracodawca lub organ sprawujący nadzór nad przedsiębiorstwem lub inną jednostką organizacyjną państwową albo samorzą dową, do którego skierowano wystąpienie jest obowiązany w terminie określonym w wystąpieniu, nie dłuższym niż 30 dni, zawiadomić inspektora pracy o terminie i sposobie wykonania ujętych w wystąpieniu wniosków. Art. 21e. Jeżeli ustalenia w toku kontroli wskazują na potrzebę zajęcia stanowiska przez naczelne lub centralne organy administracji państwowej albo organy samorządowe lub administracji rządowej stopnia wojewódzkiego, wystąpienie o podjęcie niezbędnych decyzji kieruje odpowiednio Główny Inspektor Pracy lub okręgowy inspektor pracy. Art. 21f. Marszałek Sejmu określa, w drodze zarządzenia, wzory druków stosowanych w działalności kontrolnej Państwowej Inspekcji Pracy.”;
+- **20)** w art. 23 po ust. 2 dodaje się ust. 3-6 w brzmieniu: „3. Pracownicy Państwowej Inspekcji Pracy zatrudnieni na stanowiskach: nadinspektora pracy, starszego inspektora pracy - głównego specjalisty, starszego inspektora pracy - specjalisty, starszego inspektora pracy, inspektora pracy oraz młodszego inspektora pracy, zwani inspektorami pracy, nadzorują i przeprowadzają kontrolę przestrzegania prawa pracy, w szczególności przepisów i zasad bezpieczeństwa i higieny pracy, na terenie objętym zakresem właściwości okręgowego inspektoratu pracy. 4. Pracownikami nadzorującymi czynności kontrolne są pracownicy Głównego Inspektoratu Pracy i okręgowych inspektoratów pracy wyznaczeni do wykonywania tych czynności 5. Kontrolę, o której mowa w ust. 3, mogą również przeprowadzać, wspólnie z inspektorami pracy, pracownicy nadzorujący czynności kontrolne oraz podinspektorzy pracy, na podstawie imiennego upoważnienia, wydanego odpowiednio przez Głównego Inspektora Pracy lub okręgowego inspektora pracy. 6. Główny Inspektor Pracy może upoważnić inspektora pracy do wykonywania czynności kontrolnych na terenie działania innego okręgowego inspektoratu pracy, a także poza terytorium Rzeczypospolitej Polskiej, gdzie stosunek pracy podlega przepisom polskiego prawa pracy.”;
+- **21)** w art. 24 po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Pracownicy, o których mowa w ust. 1, obowiązani są w szczególności do: 1) przestrzegania, również po zaprzestaniu pracy w Państwowej Inspekcji Pracy, tajemnicy dotyczącej działalności prowadzonej przez kontrolowane podmioty, 2) nieujawniania informacji, że kontrola przeprowadzana jest w następstwie skargi, chyba że zgłaszający skargę wyrazi na to pisemną zgodę, 3) nieuczestniczenia w interesach podmiotów kontrolowanych.”;
+- **22)** po art. 24 dodaje się art. 24a i 24b w brzmieniu: „Art. 24a. 1. Pracownikowi wykonującemu lub nadzorującemu czynności kontrolne, delegowanemu służbowo do zajęć poza stałym miejscem pracy, przysługują, z zastrzeżeniem ust. 2, zwrot kosztów podróży i zakwaterowania oraz diety na zasadach określonych w odrębnych przepisach. 2. Pracownikowi, o którym mowa w ust. 1, na obszarze kraju przysługuje dieta w podwójnej wysokości. Art. 24b. Główny Inspektor Pracy może udzielić pracownikowi wykonującemu lub nadzorującemu czynności kontrolne płatnego urlopu zdrowotnego na podstawie skierowania na leczenie sanatoryjne, uzdrowiskowe lub profilaktyczne na okres ustalony w tym skierowaniu, nie przekraczający 30 dni w roku kalendarzowym.”;
 - **23)** w art. 25:
-    - **a)** ust. 3 otrzymuje brzmienie: „3. Okręgowych inspektorów pracy i ich zastępców oraz:
-    - **a)** w okręgowym inspektoracie pracy - głównego księgowego, nadinspektorów pracy - kierowników oddziałów, doradców oraz kierowników sekcji,
-    - **b)** w Głównym Inspektoracie Pracy - dyrektora i wicedyrektora Gabinetu Głównego Inspektora Pracy, dyrektorów i wicedyrektorów departamentów, głównego księgowego, doradców, ekspertów i rzecznika prasowego oraz kierowników sekcji,
-    - **c)** w Ośrodku Szkolenia Państwowej Inspekcji Pracy - dyrektora i jego zastępcę oraz głównego księgowego, powołuje i odwołuje Główny Inspektor Pracy.”,
-    - **b)** po ust. 3 dodaje się ust. 3 -3 w brzmieniu: „3 . Osobie odwołanej ze stanowiska, o którym mowa w ust. 3, która przed powołaniem na to stanowisko była pracownikiem Państwowej Inspekcji Pracy, przysługuje prawo do nawiązania stosunku pracy na stanowisku równorzędnym z zajmowanym przed powołaniem. Przepis art. 45 ust. 2 ustawy, o której mowa w ust. 4, stosuje się odpowiednio.
-
-3. Stosunek pracy z pracownikami Państwowej Inspekcji Pracy wymienionymi w art. 23 ust. 3 nawiązuje się na podstawie mianowania.
-
-3. Przed mianowaniem, o którym mowa w ust. 3 pracownik może być zatrudniony na podstawie umowy o pracę na okres nie przekraczający dwóch lat.
-
-3. Przepisów ust. 3 i 3 nie stosuje się do pracowników zatrudnionych w niepełnym wymiarze czasu pracy.”.
+    - **a)** ust. 3 otrzymuje brzmienie: „3. Okręgowych inspektorów pracy i ich zastępców oraz: a) w okręgowym inspektoracie pracy - głównego księgowego, nadinspektorów pracy - kierowników oddziałów, doradców oraz kierowników sekcji, b) w Głównym Inspektoracie Pracy - dyrektora i wicedyrektora Gabinetu Głównego Inspektora Pracy, dyrektorów i wicedyrektorów departamentów, głównego księgowego, doradców, ekspertów i rzecznika prasowego oraz kierowników sekcji, c) w Ośrodku Szkolenia Państwowej Inspekcji Pracy - dyrektora i jego zastępcę oraz głównego księgowego, powołuje i odwołuje Główny Inspektor Pracy.”,
+    - **b)** po ust. 3 dodaje się ust. 3 -3 w brzmieniu: „3 . Osobie odwołanej ze stanowiska, o którym mowa w ust. 3, która przed powołaniem na to stanowisko była pracownikiem Państwowej Inspekcji Pracy, przysługuje prawo do nawiązania stosunku pracy na stanowisku równorzędnym z zajmowanym przed powołaniem. Przepis art. 45 ust. 2 ustawy, o której mowa w ust. 4, stosuje się odpowiednio. 3 . Stosunek pracy z pracownikami Państwowej Inspekcji Pracy wymienionymi w art. 23 ust. 3 nawiązuje się na podstawie mianowania. 3 . Przed mianowaniem, o którym mowa w ust. 3 pracownik może być zatrudniony na podstawie umowy o pracę na okres nie przekraczający dwóch lat. 3 . Przepisów ust. 3 i 3 nie stosuje się do pracowników zatrudnionych w niepełnym wymiarze czasu pracy.”.
 
 **Art. 2.** Stosunki pracy z pracownikami zatrudnionymi na podstawie mianowania na stanowiskach, określonych w art. 25 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, przekształcają się z dniem wejścia w życie niniejszej ustawy, w stosunki pracy na podstawie powołania.
 

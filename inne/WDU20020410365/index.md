@@ -106,90 +106,21 @@ source: pdf
 - **2)** w art. 61 w § 1 kropkę zastępuje się przecinkiem i dodaje się wyrazy „uwzględniając jednostki organizacyjne ustanowione na podstawie art. 284 § 4.”;
 - **3)** w art. 253 w § 2 wyrazy „dyrektorem urzędu celnego” zastępuje się wyrazami „organem celnym”;
 - **4)** w art. 258 w § 3 po wyrazach „jest zobowiązana do złożenia” dodaje się wyrazy „dyrektorowi właściwej izby celnej”;
-- **5)** dodaje się art. 262 i 262 w brzmieniu: „Art. 262 . § 1. Od decyzji wydanej w pierwszej instancji przez dyrektora izby celnej nie służy odwołanie, jednak strona niezadowolona z decyzji może zwrócić się do tego organu z wnioskiem o ponowne rozpatrzenie sprawy. Do wniosku stosuje się odpowiednio przepisy dotyczące odwołań, z uwzględnieniem § 2.
-
-§ 2. Pracownik lub funkcjonariusz celny, który brał udział w wydaniu decyzji, której dotyczy wniosek o ponowne rozpatrzenie sprawy, podlega wyłączeniu od udziału w ponownym rozpatrzeniu sprawy i wydaniu decyzji.
-
-§ 3. Przepisy § 1 i 2 stosuje się odpowiednio do postanowień.
-
-**Art. 262².**
-
-§ 1. W sprawach wznowienia postępowania zakończonego decyzją ostateczną dyrektora izby celnej, stwierdzenia nieważności oraz uchylenia lub zmiany takiej decyzji właściwy jest ten organ.
-
-§ 2. Minister właściwy do spraw finansów publicznych może z urzędu wszcząć postępowanie i stwierdzić nieważność decyzji ostatecznej wydanej przez dyrektora izby celnej.”;
-
-- **6)** art. 263 otrzymuje brzmienie: „Art. 263. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
-- **1)** właściwość miejscową organów celnych, uwzględniając kierunki i nasilenie obrotu towarowego z zagranicą w ramach polskiego obszaru celnego,
-- **2)** dyrektora lub dyrektorów izb celnych wyznaczonych do prowadzenia postępowań dotyczących pozwoleń na karnet TIR oraz decyzji w sprawach ochrony praw własności intelektualnej, uwzględniając potrzebę zapewnienia jednolitości rozstrzygania spraw w tych postępowaniach.”;
+- **5)** dodaje się art. 262 i 262 w brzmieniu: „Art. 262 . § 1. Od decyzji wydanej w pierwszej instancji przez dyrektora izby celnej nie służy odwołanie, jednak strona niezadowolona z decyzji może zwrócić się do tego organu z wnioskiem o ponowne rozpatrzenie sprawy. Do wniosku stosuje się odpowiednio przepisy dotyczące odwołań, z uwzględnieniem § 2. § 2. Pracownik lub funkcjonariusz celny, który brał udział w wydaniu decyzji, której dotyczy wniosek o ponowne rozpatrzenie sprawy, podlega wyłączeniu od udziału w ponownym rozpatrzeniu sprawy i wydaniu decyzji. § 3. Przepisy § 1 i 2 stosuje się odpowiednio do postanowień. Art. 262 2 . § 1. W sprawach wznowienia postępowania zakończonego decyzją ostateczną dyrektora izby celnej, stwierdzenia nieważności oraz uchylenia lub zmiany takiej decyzji właściwy jest ten organ. § 2. Minister właściwy do spraw finansów publicznych może z urzędu wszcząć postępowanie i stwierdzić nieważność decyzji ostatecznej wydanej przez dyrektora izby celnej.”;
+- **6)** art. 263 otrzymuje brzmienie: „Art. 263. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia: 1) właściwość miejscową organów celnych, uwzględniając kierunki i nasilenie obrotu towarowego z zagranicą w ramach polskiego obszaru celnego, 2) dyrektora lub dyrektorów izb celnych wyznaczonych do prowadzenia postępowań dotyczących pozwoleń na karnet TIR oraz decyzji w sprawach ochrony praw własności intelektualnej, uwzględniając potrzebę zapewnienia jednolitości rozstrzygania spraw w tych postępowaniach.”;
 - **7)** w art. 277 w § 1 wyrazy „dyrektora urzędu celnego” zastępuje się wyrazami „organu celnego”;
 - **8)** tytuł X otrzymuje brzmienie: „Organy właściwe w sprawach celnych”;
-- **9)** art. 278 i 279 otrzymują brzmienie: „Art. 278. Minister właściwy do spraw finansów publicznych:
-- **1)** sprawuje nadzór w sprawach celnych,
-- **2)** współdziała w kształtowaniu polityki celnej państwa,
-- **3)** realizuje budżet państwa w zakresie ustalonym dla organów celnych,
-- **4)** kształtuje politykę kadrową i szkoleniową w organach celnych,
-- **5)** współpracuje z organami celnymi innych państw oraz organizacjami międzynarodowymi,
-- **6)** prowadzi postępowania w sprawach celnych określonych w ustawie,
-- **7)** wykonuje inne zadania określone w ustawie oraz w przepisach odrębnych.
-
-**Art. 279.**
-
-§ 1. Organami celnymi, stosownie do ich właściwości, są:
-
-- **1)** naczelnik urzędu celnego - jako organ pierwszej instancji, chyba że przepis szczególny stanowi inaczej,
-- **2)** dyrektor izby celnej - jako organ odwoławczy od decyzji i postanowień naczelnika urzędu celnego.
-
-§ 2. W rozumieniu niniejszego tytułu urzędem celnym jest urząd, o którym mowa w art. 284 § 2.
-
-§ 3. Organem celnym wyższego stopnia dla naczelnika urzędu celnego jest dyrektor izby celnej.”;
-
-- **10)** dodaje się art. 279 w brzmieniu: „Art. 279 § 1. Minister właściwy do spraw finansów publicznych może powołać Radę Celną jako organ opiniodawczo-doradczy w sprawach celnych.
-
-§ 2. Minister właściwy do spraw finansów publicznych, powołując Radę Celną, określi, w drodze zarządzenia, zadania, tryb pracy oraz organizację, w tym liczbę członków Rady.
-
-§ 3. Członków Rady Celnej powołuje minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii organizacji reprezentujących środowiska gospodarcze.
-
-§ 4. Przewodniczącego Rady Celnej powołuje minister właściwy do spraw finansów publicznych, zaś wiceprzewodniczących wybierają ze swojego grona członkowie Rady.”;
-
-- **11)** art. 280 otrzymuje brzmienie: „Art. 280. § 1. Do zadań dyrektora izby celnej należy:
-- **1)** realizacja polityki celnej państwa,
-- **2)** sprawowanie nadzoru nad naczelnikami urzędów celnych,
-- **3)** rozstrzyganie w II instancji w sprawach należących w I instancji do naczelników urzędów celnych,
-- **4)** rozstrzyganie w I instancji w sprawach celnych określonych w przepisach szczególnych,
-- **5)** realizacja polityki kadrowej i szkoleniowej w podległych jednostkach organizacyjnych Służby Celnej,
-- **6)** sprawowanie dozoru celnego i wykonywanie kontroli celnej,
-- **7)** zwalczanie i ściganie przestępstw skarbowych i wykroczeń skarbowych w zakresie ustalonym Kodeksem karnym skarbowym,
-- **8)** wykonywanie innych zadań określonych w ustawie oraz w przepisach odrębnych.
-
-§ 2. Do zadań wyznaczonych przez ministra właściwego do spraw finansów publicznych dyrektorów izb celnych należy ponadto prowadzenie indywidualnych postępowań dotyczących:
-
-- **1)** pozwoleń na karnet TIR,
-- **2)** decyzji w sprawach ochrony praw własności intelektualnej.”;
+- **9)** art. 278 i 279 otrzymują brzmienie: „Art. 278. Minister właściwy do spraw finansów publicznych: 1) sprawuje nadzór w sprawach celnych, 2) współdziała w kształtowaniu polityki celnej państwa, 3) realizuje budżet państwa w zakresie ustalonym dla organów celnych, 4) kształtuje politykę kadrową i szkoleniową w organach celnych, 5) współpracuje z organami celnymi innych państw oraz organizacjami międzynarodowymi, 6) prowadzi postępowania w sprawach celnych określonych w ustawie, 7) wykonuje inne zadania określone w ustawie oraz w przepisach odrębnych. Art. 279. § 1. Organami celnymi, stosownie do ich właściwości, są: 1) naczelnik urzędu celnego - jako organ pierwszej instancji, chyba że przepis szczególny stanowi inaczej, 2) dyrektor izby celnej - jako organ odwoławczy od decyzji i postanowień naczelnika urzędu celnego. § 2. W rozumieniu niniejszego tytułu urzędem celnym jest urząd, o którym mowa w art. 284 § 2. § 3. Organem celnym wyższego stopnia dla naczelnika urzędu celnego jest dyrektor izby celnej.”;
+- **10)** dodaje się art. 279 w brzmieniu: „Art. 279 § 1. Minister właściwy do spraw finansów publicznych może powołać Radę Celną jako organ opiniodawczo-doradczy w sprawach celnych. § 2. Minister właściwy do spraw finansów publicznych, powołując Radę Celną, określi, w drodze zarządzenia, zadania, tryb pracy oraz organizację, w tym liczbę członków Rady. § 3. Członków Rady Celnej powołuje minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii organizacji reprezentujących środowiska gospodarcze. § 4. Przewodniczącego Rady Celnej powołuje minister właściwy do spraw finansów publicznych, zaś wiceprzewodniczących wybierają ze swojego grona członkowie Rady.”;
+- **11)** art. 280 otrzymuje brzmienie: „Art. 280. § 1. Do zadań dyrektora izby celnej należy: 1) realizacja polityki celnej państwa, 2) sprawowanie nadzoru nad naczelnikami urzędów celnych, 3) rozstrzyganie w II instancji w sprawach należących w I instancji do naczelników urzędów celnych, 4) rozstrzyganie w I instancji w sprawach celnych określonych w przepisach szczególnych, 5) realizacja polityki kadrowej i szkoleniowej w podległych jednostkach organizacyjnych Służby Celnej, 6) sprawowanie dozoru celnego i wykonywanie kontroli celnej, 7) zwalczanie i ściganie przestępstw skarbowych i wykroczeń skarbowych w zakresie ustalonym Kodeksem karnym skarbowym, 8) wykonywanie innych zadań określonych w ustawie oraz w przepisach odrębnych. § 2. Do zadań wyznaczonych przez ministra właściwego do spraw finansów publicznych dyrektorów izb celnych należy ponadto prowadzenie indywidualnych postępowań dotyczących: 1) pozwoleń na karnet TIR, 2) decyzji w sprawach ochrony praw własności intelektualnej.”;
 - **12)** skreśla się art. 281;
-- **13)** art. 282 otrzymuje brzmienie: „Art. 282. § 1. Dyrektora izby celnej i jego zastępcę powołuje i odwołuje minister właściwy do spraw finansów publicznych.
-
-§ 2. Naczelnika urzędu celnego powołuje i odwołuje minister właściwy do spraw finansów publicznych na wniosek dyrektora izby celnej.
-
-§ 3. Zastępcę naczelnika urzędu celnego powołuje i odwołuje dyrektor izby celnej na wniosek naczelnika urzędu celnego.”;
-
+- **13)** art. 282 otrzymuje brzmienie: „Art. 282. § 1. Dyrektora izby celnej i jego zastępcę powołuje i odwołuje minister właściwy do spraw finansów publicznych. § 2. Naczelnika urzędu celnego powołuje i odwołuje minister właściwy do spraw finansów publicznych na wniosek dyrektora izby celnej. § 3. Zastępcę naczelnika urzędu celnego powołuje i odwołuje dyrektor izby celnej na wniosek naczelnika urzędu celnego.”;
 - **14)** w art. 283:
     - **a)** w zdaniu wstępnym wyrazy „dyrektora urzędu celnego” zastępuje się wyrazami „naczelnika urzędu celnego”,
     - **b)** pkt 4 otrzymuje brzmienie: „4) zwalczanie i ściganie przestępstw skarbowych i wykroczeń skarbowych w zakresie ustalonym Kodeksem karnym skarbowym,”;
 
-- **15)** art. 284 otrzymuje brzmienie: „Art. 284. § 1. Dyrektorzy izb celnych wykonują zadania przy pomocy podległych urzędów oraz za pośrednictwem naczelników urzędów celnych.
-
-§ 2. Naczelnicy urzędów celnych wykonują zadania przy pomocy podległych urzędów.
-
-§ 3. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, tworzy i znosi izby i urzędy, o których mowa w § 1 i 2, oraz określa ich siedziby, uwzględniając kierunki i nasilenie obrotu towarowego z zagranicą w ramach polskiego obszaru celnego.
-
-§ 4. Organizację izb celnych i urzędów celnych określa statut nadany, w drodze zarządzenia, przez ministra właściwego do spraw finansów publicznych.
-
-§ 5. Minister właściwy do spraw finansów publicznych tworzy Centralne Laboratorium Celne oraz ośrodki szkoleniowe, a także określa ich organizację i zakres działania.”;
-
-- **16)** art. 288 otrzymuje brzmienie: „Art. 288. § 1. Właściwym w sprawach wyznaczenia lub uznania miejsca przez organ celny jest dyrektor izby celnej.
-
-§ 2. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wypadki, w których czynności przewidziane przepisami prawa celnego mogą być dokonywane w miejscu wyznaczonym lub uznanym przez organ celny oraz warunki, jakie musi spełniać to miejsce, uwzględniając w szczególności konieczność skutecznego sprawowania dozoru celnego.”;
-
+- **15)** art. 284 otrzymuje brzmienie: „Art. 284. § 1. Dyrektorzy izb celnych wykonują zadania przy pomocy podległych urzędów oraz za pośrednictwem naczelników urzędów celnych. § 2. Naczelnicy urzędów celnych wykonują zadania przy pomocy podległych urzędów. § 3. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, tworzy i znosi izby i urzędy, o których mowa w § 1 i 2, oraz określa ich siedziby, uwzględniając kierunki i nasilenie obrotu towarowego z zagranicą w ramach polskiego obszaru celnego. § 4. Organizację izb celnych i urzędów celnych określa statut nadany, w drodze zarządzenia, przez ministra właściwego do spraw finansów publicznych. § 5. Minister właściwy do spraw finansów publicznych tworzy Centralne Laboratorium Celne oraz ośrodki szkoleniowe, a także określa ich organizację i zakres działania.”;
+- **16)** art. 288 otrzymuje brzmienie: „Art. 288. § 1. Właściwym w sprawach wyznaczenia lub uznania miejsca przez organ celny jest dyrektor izby celnej. § 2. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wypadki, w których czynności przewidziane przepisami prawa celnego mogą być dokonywane w miejscu wyznaczonym lub uznanym przez organ celny oraz warunki, jakie musi spełniać to miejsce, uwzględniając w szczególności konieczność skutecznego sprawowania dozoru celnego.”;
 - **17)** w art. 6 w § 6, w art. 12 w § 2, w art. 226 w § 5, w art. 257 oraz w art. 276 w § 3 i 4 użyte w różnych przypadkach wyrazy „Prezes Głównego Urzędu Ceł” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw finansów publicznych”;
 - **18)** w art. 7 w § 2, w art. 105 w § 2, w art. 106 oraz w art. 110 użyte w różnych przypadkach wyrazy „Prezes Głównego Urzędu Ceł” zastępuje się użytymi w odpowiednich przypadkach wyrazami „dyrektor izby celnej”;
 - **19)** w art. 79 w § 1, 2 i 3, w art. 80 w § 2, w art. 100 § 1, w art. 170 oraz w art. 197 w § 1 i 3a użyte w różnych przypadkach wyrazy „organ celny” zastępuje się użytymi w odpowiednich przypadkach wyrazami „dyrektor izby celnej”.
@@ -222,18 +153,14 @@ source: pdf
 
 - **1)** w art. 1:
     - **a)** skreśla się ust. 6,
-    - **b)** ust. 7 i 8 otrzymują brzmienie: „7. Urzędem w rozumieniu niniejszej ustawy jest urząd, o którym mowa w art. 284 § 1 Kodeksu celnego wraz z podległymi mu urzędami celnymi.
+    - **b)** ust. 7 i 8 otrzymują brzmienie: „7. Urzędem w rozumieniu niniejszej ustawy jest urząd, o którym mowa w art. 284 § 1 Kodeksu celnego wraz z podległymi mu urzędami celnymi. 8. Kierownikiem urzędu w rozumieniu niniejszej ustawy jest dyrektor izby celnej.”,
+    - **c)** dodaje się ust. 8a w brzmieniu: „8a. Uprawnienia kierownika urzędu określone w niniejszej ustawie wobec funkcjonariuszy celnych pełniących służbę w urzędzie obsługującym ministra właściwego do spraw finansów publicznych przysługują Szefowi Służby Celnej.”;
 
-8. Kierownikiem urzędu w rozumieniu niniejszej ustawy jest dyrektor izby celnej.”,
-
-- **c)** dodaje się ust. 8a w brzmieniu: „8a. Uprawnienia kierownika urzędu określone w niniejszej ustawie wobec funkcjonariuszy celnych pełniących służbę w urzędzie obsługującym ministra właściwego do spraw finansów publicznych przysługują Szefowi Służby Celnej.”;
 - **2)** w art. 7 dodaje się ust. 1a w brzmieniu: „1a. Funkcjonariusze celni mogą pełnić służbę w urzędzie obsługującym ministra właściwego do spraw finansów publicznych.”;
 - **3)** w art. 8:
-    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Szefowi Służby Celnej przysługuje z mocy ustawy stopień krajowego komisarza celnego, zaś jego zastępcy - stopień generalnego komisarza celnego.
+    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Szefowi Służby Celnej przysługuje z mocy ustawy stopień krajowego komisarza celnego, zaś jego zastępcy - stopień generalnego komisarza celnego. 3. Nadania stopni: podkomisarz celny, komisarz celny i nadkomisarz celny dokonuje minister właściwy do spraw finansów publicznych.”,
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Dyrektorom izb celnych i ich zastępcom oraz naczelnikom urzędów celnych stopnie nadaje minister właściwy do spraw finansów publicznych.”;
 
-3. Nadania stopni: podkomisarz celny, komisarz celny i nadkomisarz celny dokonuje minister właściwy do spraw finansów publicznych.”,
-
-- **b)** ust. 5 otrzymuje brzmienie: „5. Dyrektorom izb celnych i ich zastępcom oraz naczelnikom urzędów celnych stopnie nadaje minister właściwy do spraw finansów publicznych.”;
 - **4)** w art. 9:
     - **a)** w ust. 1 wyrazy „pkt 2-14” zastępuje się wyrazami „pkt 2-13”,
     - **b)** w ust. 2 skreśla się pkt 12;
@@ -243,45 +170,13 @@ source: pdf
     - **b)** w ust. 6 wyrazy „pkt 2 i 3” zastępuje się wyrazami „pkt 3-6”;
 
 - **6)** w art. 17:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Stanowiska:
-
-- **1)** Szefa Służby Celnej,
-- **2)** zastępcy Szefa Służby Celnej,
-- **3)** dyrektora izby celnej,
-- **4)** zastępców dyrektora izby celnej,
-- **5)** naczelnika urzędu celnego,
-- **6)** zastępców naczelnika urzędu celnego - są wyższymi stanowiskami kierowniczymi w jednostkach organizacyjnych Służby Celnej.”,
-    - **b)** dodaje się ust. 1a-1f w brzmieniu: „1a. W urzędzie obsługującym ministra właściwego do spraw finansów publicznych działa Szef Służby Celnej powoływany przez tego ministra na pięcioletnią kadencję.
-
-1b. Szef Służby Celnej wykonuje czynności wynikające z określonych w niniejszej ustawie uprawnień i obowiązków przysługujących ministrowi właściwemu do spraw finansów publicznych wobec funkcjonariuszy celnych.
-
-1c. Szef Służby Celnej może być odwołany przez ministra właściwego do spraw finansów publicznych przed upływem kadencji z następujących przyczyn:
-
-- **1)** złożenia rezygnacji,
-- **2)** niewypełniania obowiązków na skutek długotrwałej choroby trwającej ponad 6 miesięcy, stwierdzonej orzeczeniem lekarskim,
-- **3)** rażącego naruszenia prawa,
-- **4)** skazania prawomocnym wyrokiem sądu za przestępstwo.
-
-1d. W razie śmierci Szefa Służby Celnej jego kadencja wygasa.
-
-1e. Zastępcę Szefa Służby Celnej mianuje, na wniosek Szefa Służby Celnej, minister właściwy do spraw finansów publicznych.
-
-1f. Osoby, o których mowa w ust. 1 pkt 1 i 2, powinny posiadać:
-
-- **1)** wyłącznie obywatelstwo polskie,
-- **2)** wyższe wykształcenie magisterskie,
-- **3)** co najmniej czteroletnie doświadczenie w zakresie obejmującym zagadnienia podatkowe lub celne,
-- **4)** co najmniej czteroletnie zatrudnienie w organach administracji publicznej, w tym co najmniej trzyletnie doświadczenie na stanowisku kierowniczym.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Stanowiska: 1) Szefa Służby Celnej, 2) zastępcy Szefa Służby Celnej, 3) dyrektora izby celnej, 4) zastępców dyrektora izby celnej, 5) naczelnika urzędu celnego, 6) zastępców naczelnika urzędu celnego - są wyższymi stanowiskami kierowniczymi w jednostkach organizacyjnych Służby Celnej.”,
+    - **b)** dodaje się ust. 1a-1f w brzmieniu: „1a. W urzędzie obsługującym ministra właściwego do spraw finansów publicznych działa Szef Służby Celnej powoływany przez tego ministra na pięcioletnią kadencję. 1b. Szef Służby Celnej wykonuje czynności wynikające z określonych w niniejszej ustawie uprawnień i obowiązków przysługujących ministrowi właściwemu do spraw finansów publicznych wobec funkcjonariuszy celnych. 1c. Szef Służby Celnej może być odwołany przez ministra właściwego do spraw finansów publicznych przed upływem kadencji z następujących przyczyn: 1) złożenia rezygnacji, 2) niewypełniania obowiązków na skutek długotrwałej choroby trwającej ponad 6 miesięcy, stwierdzonej orzeczeniem lekarskim, 3) rażącego naruszenia prawa, 4) skazania prawomocnym wyrokiem sądu za przestępstwo. 1d. W razie śmierci Szefa Służby Celnej jego kadencja wygasa. 1e. Zastępcę Szefa Służby Celnej mianuje, na wniosek Szefa Służby Celnej, minister właściwy do spraw finansów publicznych. 1f. Osoby, o których mowa w ust. 1 pkt 1 i 2, powinny posiadać: 1) wyłącznie obywatelstwo polskie, 2) wyższe wykształcenie magisterskie, 3) co najmniej czteroletnie doświadczenie w zakresie obejmującym zagadnienia podatkowe lub celne, 4) co najmniej czteroletnie zatrudnienie w organach administracji publicznej, w tym co najmniej trzyletnie doświadczenie na stanowisku kierowniczym.”,
     - **c)** ust. 2 otrzymuje brzmienie: „2. Dobór kandydatów na stanowiska, o których mowa w ust. 1 pkt 2 i 3, jest dokonywany w drodze konkursu. Konkurs przeprowadza minister właściwy do spraw finansów publicznych. Do czasu wyłonienia kandydata w drodze konkursu, minister właściwy do spraw finansów publicznych wyznacza osobę pełniącą obowiązki.”,
     - **d)** ust. 5 otrzymuje brzmienie: „5. W wypadku braku odpowiedniej liczby kandydatów do przeprowadzenia konkursu, zastępcę Szefa Służby Celnej oraz dyrektora izby celnej powołuje minister właściwy do spraw finansów publicznych bez postępowania konkursowego.”,
     - **e)** w ust. 7 wyrazy „dyrektorzy określeni” zastępuje się wyrazem „określone”;
 
-- **7)** dodaje się art. 18a w brzmieniu: „Art. 18a. 1. Funkcjonariusz celny może ubiegać się o stanowisko dyrektora departamentu i jego zastępcy w urzędzie obsługującym ministra właściwego do spraw finansów publicznych, obsadzane w drodze konkursu przeprowadzanego zgodnie z przepisami ustawy o służbie cywilnej.
-
-2. Funkcjonariusza celnego, wyłonionego w drodze konkursu, przenosi na stanowisko, o którym mowa w ust. 1, Szef Służby Celnej na wniosek Szefa Służby Cywilnej.
-
-3. Uposażenie funkcjonariusza celnego, o którym mowa w ust. 2, ustala się w wysokości określonej dla dyrektora izby celnej w przepisach wydanych na podstawie art. 51.”;
-
+- **7)** dodaje się art. 18a w brzmieniu: „Art. 18a. 1. Funkcjonariusz celny może ubiegać się o stanowisko dyrektora departamentu i jego zastępcy w urzędzie obsługującym ministra właściwego do spraw finansów publicznych, obsadzane w drodze konkursu przeprowadzanego zgodnie z przepisami ustawy o służbie cywilnej. 2. Funkcjonariusza celnego, wyłonionego w drodze konkursu, przenosi na stanowisko, o którym mowa w ust. 1, Szef Służby Celnej na wniosek Szefa Służby Cywilnej. 3. Uposażenie funkcjonariusza celnego, o którym mowa w ust. 2, ustala się w wysokości określonej dla dyrektora izby celnej w przepisach wydanych na podstawie art. 51.”;
 - **8)** w art. 25 ust. 3 otrzymuje brzmienie: „3. Odwołanie osób ze stanowisk, o których mowa w art. 17 ust. 1 pkt 3-6, w jednostkach organizacyjnych Służby Celnej regulują przepisy Kodeksu celnego.”;
 - **9)** w art. 26 w pkt 7 po wyrazie „urzędu” skreśla się wyraz „celnego”;
 - **10)** w art. 37 ust. 1 otrzymuje brzmienie: „1. Funkcjonariusz celny może wykonywać dodatkowe zajęcia zarobkowe jedynie za zgodą kierownika urzędu. W odniesieniu do dyrektora izby celnej lub jego zastępcy zgody udziela minister właściwy do spraw finansów publicznych.”;
@@ -293,24 +188,9 @@ source: pdf
     - **e)** w ust. 8 zdanie drugie otrzymuje brzmienie: „W wypadku wydania opinii służbowej przez dyrektora izby celnej, ust. 7 stosuje się odpowiednio.”;
 
 - **12)** w art. 62 skreśla się ust. 2;
-- **13)** art. 64 otrzymuje brzmienie: „Art. 64. 1. Orzekanie kar dyscyplinarnych należy odpowiednio do naczelnika urzędu celnego, dyrektora izby celnej lub ministra właściwego do spraw finansów publicznych w odniesieniu do podległych im funkcjonariuszy celnych.
-
-2. W stosunku do naczelnika urzędu celnego i jego zastępcy kary dyscyplinarne orzeka dyrektor izby celnej.
-
-3. W stosunku do dyrektora izby celnej i jego zastępcy oraz funkcjonariuszy celnych pełniących służbę w urzędzie obsługującym ministra właściwego do spraw finansów publicznych kary dyscyplinarne orzeka ten minister lub osoba przez niego upoważniona.
-
-4. Jeżeli postępowanie dyscyplinarne dotyczy funkcjonariusza celnego pełniącego służbę w:
-
-- **1)** urzędzie celnym - naczelnik urzędu celnego może upoważnić do orzekania kary dyscyplinarnej zastępcę naczelnika urzędu,
-- **2)** izbie celnej - dyrektor izby celnej może upoważnić do orzekania kary dyscyplinarnej zastępcę dyrektora izby celnej.
-
-5. Orzekanie kar, o których mowa w art. 63 ust. 1 pkt 4-7, należy wyłącznie do właściwości odpowiednio naczelnika urzędu celnego, dyrektora izby celnej lub ministra właściwego do spraw finansów publicznych.”;
-
+- **13)** art. 64 otrzymuje brzmienie: „Art. 64. 1. Orzekanie kar dyscyplinarnych należy odpowiednio do naczelnika urzędu celnego, dyrektora izby celnej lub ministra właściwego do spraw finansów publicznych w odniesieniu do podległych im funkcjonariuszy celnych. 2. W stosunku do naczelnika urzędu celnego i jego zastępcy kary dyscyplinarne orzeka dyrektor izby celnej. 3. W stosunku do dyrektora izby celnej i jego zastępcy oraz funkcjonariuszy celnych pełniących służbę w urzędzie obsługującym ministra właściwego do spraw finansów publicznych kary dyscyplinarne orzeka ten minister lub osoba przez niego upoważniona. 4. Jeżeli postępowanie dyscyplinarne dotyczy funkcjonariusza celnego pełniącego służbę w: 1) urzędzie celnym - naczelnik urzędu celnego może upoważnić do orzekania kary dyscyplinarnej zastępcę naczelnika urzędu, 2) izbie celnej - dyrektor izby celnej może upoważnić do orzekania kary dyscyplinarnej zastępcę dyrektora izby celnej. 5. Orzekanie kar, o których mowa w art. 63 ust. 1 pkt 4-7, należy wyłącznie do właściwości odpowiednio naczelnika urzędu celnego, dyrektora izby celnej lub ministra właściwego do spraw finansów publicznych.”;
 - **14)** art. 65 otrzymuje brzmienie: „Art. 65. Postępowanie dyscyplinarne wszczyna osoba uprawniona do orzekania kar dyscyplinarnych.”;
-- **15)** art. 72 otrzymuje brzmienie: „Art. 72. 1. Od orzeczenia dyscyplinarnego wydanego przez naczelnika urzędu celnego ukarany może odwołać się do dyrektora izby celnej w terminie 14 dni od daty doręczenia orzeczenia.
-
-2. W wypadku wydania orzeczenia dyscyplinarnego przez ministra właściwego do spraw finansów publicznych lub dyrektora izby celnej, ukaranemu przysługuje, w terminie 14 dni od daty doręczenia orzeczenia, prawo do złożenia wniosku o ponowne rozpatrzenie sprawy.”;
-
+- **15)** art. 72 otrzymuje brzmienie: „Art. 72. 1. Od orzeczenia dyscyplinarnego wydanego przez naczelnika urzędu celnego ukarany może odwołać się do dyrektora izby celnej w terminie 14 dni od daty doręczenia orzeczenia. 2. W wypadku wydania orzeczenia dyscyplinarnego przez ministra właściwego do spraw finansów publicznych lub dyrektora izby celnej, ukaranemu przysługuje, w terminie 14 dni od daty doręczenia orzeczenia, prawo do złożenia wniosku o ponowne rozpatrzenie sprawy.”;
 - **16)** art. 74 otrzymuje brzmienie: „Art. 74. Od orzeczeń dyscyplinarnych wydanych w postępowaniu odwoławczym lub postępowaniu z wniosku o ponowne rozpatrzenie sprawy przysługuje prawo do wniesienia skargi do Naczelnego Sądu Administracyjnego na zasadach określonych w odrębnych przepisach.”;
 - **17)** w art. 78 wyrazy „kierownika urzędu” zastępuje się wyrazami „organ prowadzący postępowanie”;
 - **18)** w art. 81:

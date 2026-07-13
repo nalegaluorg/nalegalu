@@ -32,12 +32,16 @@ zmieniającym rozporządzenie w sprawie Krajowej Tablicy Przeznaczeń Częstotli
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 30 września 2021 r. zmieniającego rozporządzenie w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości (Dz. U. poz. 1884), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 22 sierpnia 2022 r. (Dz. U. poz. 1988)
 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 grudnia 2013 r.
 w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości Na podstawie art. 111 ust. 3 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2022 r. poz. 1648 i 1933) zarządza się, co następuje:
-§ 1. 1. Ustala się Krajową Tablicę Przeznaczeń Częstotliwości, zwaną dalej „Tablicą”, stanowiącą załącznik nr 1 do rozporządzenia.
+
+**§ 1.**
+
+1. Ustala się Krajową Tablicę Przeznaczeń Częstotliwości, zwaną dalej „Tablicą”, stanowiącą załącznik nr 1 do rozporządzenia.
+
 2. Uwagi do przeznaczeń zakresów częstotliwości określonych w Tablicy zawiera załącznik nr 2 do rozporządzenia.
+
 3. Objaśnienia do Tablicy zawiera załącznik nr 3 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Rozporządzenie zostało ogłoszone w dniu 3 lutego 2014 r.
-Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 29 czerwca 2005 r. w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości (Dz. U. poz. 1127, z 2006 r. poz. 1792, z 2008 r. poz. 629, z 2009 r. poz. 1086, z 2010 r. poz. 627 oraz z 2012 r. poz. 537), które zgodnie z art. 25 ust. 1 ustawy z dnia 16 listopada 2012 r. o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw (Dz. U. poz. 1445 oraz z 2013 r. poz. 1635) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Rozporządzenie zostało ogłoszone w dniu 3 lutego 2014 r. Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 29 czerwca 2005 r. w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości (Dz. U. poz. 1127, z 2006 r. poz. 1792, z 2008 r. poz. 629, z 2009 r. poz. 1086, z 2010 r. poz. 627 oraz z 2012 r. poz. 537), które zgodnie z art. 25 ust. 1 ustawy z dnia 16 listopada 2012 r. o zmianie ustawy – Prawo telekomunikacyjne oraz niektórych innych ustaw (Dz. U. poz. 1445 oraz z 2013 r. poz. 1635) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 ## Załącznik nr 1 — Załącznik nr 1 KRAJOWA KRAJOWA TABLICA TABLICA PRZEZNACZEŃ PRZEZNACZEŃ CZĘSTOTLIWOŚCI CZĘSTOTLIWOŚCI Lp. f (kHz) f (kHz) Przeznaczenie Użytkowanie 1 Poniżej 8,3 kHz (Nie przeznaczono)
 

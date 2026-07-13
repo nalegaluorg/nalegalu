@@ -35,16 +35,30 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 9 listopada 2015 r.
 w sprawie opłaty za udostępnienie danych z centralnej ewidencji pojazdów Na podstawie art. 80ch ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r.
 poz. 128, 60 i 379) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wysokość opłaty za udostępnienie danych jednostkowych z centralnej ewidencji pojazdów, zwanej dalej „ewidencją”;
-2) warunki i sposób wnoszenia opłaty za udostępnienie danych z ewidencji;
-3) sposób dokumentowania wniesienia opłaty za udostępnienie danych z ewidencji.
-§ 2. Opłatę za udostępnienie danych z ewidencji wnosi się na rachunek bankowy Funduszu – Centralna Ewidencja Pojazdów i Kierowców.
-§ 3. 1. Opłata za udostępnienie danych jednostkowych z ewidencji wynosi 30,40 zł.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wysokość opłaty za udostępnienie danych jednostkowych z centralnej ewidencji pojazdów, zwanej dalej „ewidencją”;
+- **2)** warunki i sposób wnoszenia opłaty za udostępnienie danych z ewidencji;
+- **3)** sposób dokumentowania wniesienia opłaty za udostępnienie danych z ewidencji.
+
+**§ 2.** Opłatę za udostępnienie danych z ewidencji wnosi się na rachunek bankowy Funduszu – Centralna Ewidencja Pojazdów i Kierowców.
+
+**§ 3.**
+
+1. Opłata za udostępnienie danych jednostkowych z ewidencji wynosi 30,40 zł.
+
 2. Opłatę wnosi się przed złożeniem wniosku o udostępnienie danych jednostkowych z ewidencji.
+
 3. Dowód wniesienia opłaty dołącza się do złożonego wniosku o udostępnienie danych jednostkowych.
+
 4. Dowód wniesienia opłaty może mieć postać wydruku lub dokumentu elektronicznego potwierdzającego dokonanie operacji bankowej.
-§ 4. 1. Informacja o wysokości opłaty za udostępnienie danych do celów komercyjnych i niekomercyjnych z ewidencji jest przekazywana do wnioskodawcy w celu jej zaakceptowania. W przypadku braku akceptacji wysokości opłaty wniosek o udostępnienie danych pozostawia się bez rozpoznania.
+
+**§ 4.**
+
+1. Informacja o wysokości opłaty za udostępnienie danych do celów komercyjnych i niekomercyjnych z ewidencji jest przekazywana do wnioskodawcy w celu jej zaakceptowania. W przypadku braku akceptacji wysokości opłaty wniosek o udostępnienie danych pozostawia się bez rozpoznania.
+
 2. Opłatę wnosi się w terminie 7 dni od dnia udostępnienia danych do celów komercyjnych i niekomercyjnych z ewidencji.
-§ 5. Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.
 

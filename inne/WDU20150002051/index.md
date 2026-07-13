@@ -25,50 +25,58 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002051) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2051/text.pdf) |
 
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 18 lutego 2013 Parkowi Narodowemu z siedzibą w Ustrzykach Górnych (Dz. U. poz.
-brzmienie: „§ 2. Organizację wewnętrzną Parku stanowią następujące pracy:
-1) Dział Administracji i Gospodarowania Mieniem, w skład którego
-a) Zespół do spraw Administracyjno-Gospodarczych,
-b) Zespół do spraw Transportu;
-2) Dział Badań Naukowych i Planowania Ochrony Przyrody, w
-a) Pracownia Naukowa,
-b) Zespół do spraw Informatyki i GIS,
-c) Terenowa Stacja Badań Naukowych w Moczarnem,
-d) Terenowa Stacja Badań Naukowych w Wołosatem;
-3) Dział Edukacji Ekologicznej, w skład którego wchodzą:
-a) Ośrodek Edukacji Ekologicznej i Muzeum Przyrodnicze,
-b) Terenowa Stacja Edukacji Ekologicznej w Suchych Rzekach,
-c) Terenowa Stacja Edukacji Ekologicznej w Wołosatem;
-4) Dział Finansowo-Księgowy;
-5) Dział Ochrony Przyrody;
-6) Dział Udostępniania Parku i Komunikacji Społecznej, w skład
-a) Zespół do spraw Udostępniania Parku i Komunikacji Społecznej,
-b) Ośrodek Informacji i Edukacji Turystycznej w Lutowiskach,
-c) Punkt Informacji i Edukacji Turystycznej w Tarnawie Niżnej,
-d) Punkt Informacji i Edukacji Turystycznej w Wołosatem;
-7) Obręb Ochronny Południowo-Wschodni, podzielony na obwody
-a) Górny San,
-b) Tarnawa,
-c) Tarnica,
-d) Ustrzyki Górne,
-e) Wołosate;
-8) Obręb Ochronny Północno-Zachodni, podzielony na obwody
-a) Caryńskie,
-b) Moczarne,
-c) Osada,
-d) Suche Rzeki;
-9) Posterunek Straży Parku;
-10) Zachowawcza Hodowla Konia Huculskiego, w skład której
-a) Ośrodek Zachowawczej Hodowli Konia Huculskiego w
-b) Ośrodek Zachowawczej Hodowli Konia Huculskiego w
-11) Samodzielne Stanowisko do spraw Archiwizacji i Obiegu Dokumentów;
-12) Samodzielne Stanowisko do spraw BHP;
-13) Samodzielne Stanowisko do spraw Budżetu Zadaniowego, Kontroli
-14) Samodzielne Stanowisko do spraw Obronnych;
-15) Samodzielne Stanowisko do spraw Obsługi Prawnej;
-16) Samodzielne Stanowisko do spraw Obsługi Sekretariatu;
-17) Samodzielne Stanowisko do spraw Ochrony Przyrody;
-18) Samodzielne Stanowisko do spraw Pracowniczych;
-19) Samodzielne Stanowisko do spraw Zamówień Publicznych.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 18 lutego 2013 Parkowi Narodowemu z siedzibą w Ustrzykach Górnych (Dz. U. poz. brzmienie: „§ 2. Organizację wewnętrzną Parku stanowią następujące pracy:
+
+- **1)** Dział Administracji i Gospodarowania Mieniem, w skład którego
+    - **a)** Zespół do spraw Administracyjno-Gospodarczych,
+    - **b)** Zespół do spraw Transportu;
+
+- **2)** Dział Badań Naukowych i Planowania Ochrony Przyrody, w
+    - **a)** Pracownia Naukowa,
+    - **b)** Zespół do spraw Informatyki i GIS,
+    - **c)** Terenowa Stacja Badań Naukowych w Moczarnem,
+    - **d)** Terenowa Stacja Badań Naukowych w Wołosatem;
+
+- **3)** Dział Edukacji Ekologicznej, w skład którego wchodzą:
+    - **a)** Ośrodek Edukacji Ekologicznej i Muzeum Przyrodnicze,
+    - **b)** Terenowa Stacja Edukacji Ekologicznej w Suchych Rzekach,
+    - **c)** Terenowa Stacja Edukacji Ekologicznej w Wołosatem;
+
+- **4)** Dział Finansowo-Księgowy;
+- **5)** Dział Ochrony Przyrody;
+- **6)** Dział Udostępniania Parku i Komunikacji Społecznej, w skład
+    - **a)** Zespół do spraw Udostępniania Parku i Komunikacji Społecznej,
+    - **b)** Ośrodek Informacji i Edukacji Turystycznej w Lutowiskach,
+    - **c)** Punkt Informacji i Edukacji Turystycznej w Tarnawie Niżnej,
+    - **d)** Punkt Informacji i Edukacji Turystycznej w Wołosatem;
+
+- **7)** Obręb Ochronny Południowo-Wschodni, podzielony na obwody
+    - **a)** Górny San,
+    - **b)** Tarnawa,
+    - **c)** Tarnica,
+    - **d)** Ustrzyki Górne,
+    - **e)** Wołosate;
+
+- **8)** Obręb Ochronny Północno-Zachodni, podzielony na obwody
+    - **a)** Caryńskie,
+    - **b)** Moczarne,
+    - **c)** Osada,
+    - **d)** Suche Rzeki;
+
+- **9)** Posterunek Straży Parku;
+- **10)** Zachowawcza Hodowla Konia Huculskiego, w skład której
+    - **a)** Ośrodek Zachowawczej Hodowli Konia Huculskiego w
+    - **b)** Ośrodek Zachowawczej Hodowli Konia Huculskiego w
+
+- **11)** Samodzielne Stanowisko do spraw Archiwizacji i Obiegu Dokumentów;
+- **12)** Samodzielne Stanowisko do spraw BHP;
+- **13)** Samodzielne Stanowisko do spraw Budżetu Zadaniowego, Kontroli
+- **14)** Samodzielne Stanowisko do spraw Obronnych;
+- **15)** Samodzielne Stanowisko do spraw Obsługi Prawnej;
+- **16)** Samodzielne Stanowisko do spraw Obsługi Sekretariatu;
+- **17)** Samodzielne Stanowisko do spraw Ochrony Przyrody;
+- **18)** Samodzielne Stanowisko do spraw Pracowniczych;
+- **19)** Samodzielne Stanowisko do spraw Zamówień Publicznych.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

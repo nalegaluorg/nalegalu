@@ -26,11 +26,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000860) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/860/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Działania informacyjne i promocyjne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. Nr 64, poz. 427, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 8 czerwca 2009 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Działania informacyjne i promocyjne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 99, poz. 830 i Nr 200, poz. 1539 oraz z 2011 r. Nr 13, poz. 63) wprowadza się następujące zmiany:
-1) w § 2 w pkt 3:
-a) lit. e otrzymuje brzmienie: „e) zgodnie ze specyfikacją i standardami systemu „Jakość Tradycja”, lub”,
-b) dodaje się lit. f w brzmieniu: „f) zgodnie ze specyfikacją i standardami systemu „Quality Meat Program”;”;
-2) w § 5 uchyla się ust. 3 i 4.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. K. Plocke
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 8 czerwca 2009 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach działania „Działania informacyjne i promocyjne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. Nr 99, poz. 830 i Nr 200, poz. 1539 oraz z 2011 r. Nr 13, poz. 63) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w pkt 3:
+    - **a)** lit. e otrzymuje brzmienie: „e) zgodnie ze specyfikacją i standardami systemu „Jakość Tradycja”, lub”,
+    - **b)** dodaje się lit. f w brzmieniu: „f) zgodnie ze specyfikacją i standardami systemu „Quality Meat Program”;”;
+
+- **2)** w § 5 uchyla się ust. 3 i 4.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: wz. K. Plocke
 

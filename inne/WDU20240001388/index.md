@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowego zakresu danych zdarzenia medycznego przetwarzanego w systemie informacji oraz sposobu i terminów przekazywania tych danych do Systemu Informacji Medycznej Na podstawie art. 11 ust. 4a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r.
 poz. 2465) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 26 czerwca 2020 r. w sprawie szczegółowego zakresu danych zdarzenia medycznego przetwarzanego w systemie informacji oraz sposobu i terminów przekazywania tych danych do Systemu Informacji Medycznej (Dz. U. z 2023 r. poz. 738) w § 2 w ust. 1 w pkt 3 lit. m otrzymuje brzmienie: „m) informacje o ciąży, o ile usługodawca uzyska te informacje w związku z udzielaniem świadczenia zdrowotnego lub realizacją istotnej procedury medycznej; informacje o ciąży usługodawca przekazuje wyłącznie na wniosek usługobiorcy;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: I. Leszczyna
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 26 czerwca 2020 r. w sprawie szczegółowego zakresu danych zdarzenia medycznego przetwarzanego w systemie informacji oraz sposobu i terminów przekazywania tych danych do Systemu Informacji Medycznej (Dz. U. z 2023 r. poz. 738) w § 2 w ust. 1 w pkt 3 lit. m otrzymuje brzmienie: „m) informacje o ciąży, o ile usługodawca uzyska te informacje w związku z udzielaniem świadczenia zdrowotnego lub realizacją istotnej procedury medycznej; informacje o ciąży usługodawca przekazuje wyłącznie na wniosek usługobiorcy;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: I. Leszczyna
 

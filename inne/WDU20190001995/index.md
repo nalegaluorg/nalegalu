@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001995) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1995/text.pdf) |
 
 zmieniające rozporządzenie w sprawie badań i pomiarów czynników szkodliwych dla zdrowia w środowisku pracy Na podstawie art. 227 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2019 r. poz. 1040, 1043 i 1495) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 2 lutego 2011 r. w sprawie badań i pomiarów czynników szkodliwych dla zdrowia w środowisku pracy (Dz. U. poz. 166) w załączniku nr 1 do rozporządzenia rubryki „pieczątka zakładu pracy” oraz „nr statystyczny – REGON” zastępuje się rubryką „pieczątka, nadruk lub naklejka zakładu pracy zawierające nazwę, adres, NIP i REGON”.
-§ 2. Rejestr czynników szkodliwych dla zdrowia występujących na stanowisku pracy prowadzony według wzoru określonego w załączniku nr 1 do rozporządzenia zmienianego w § 1 pracodawca może prowadzić według dotychczasowego wzoru.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. J. Cieszyński
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 2 lutego 2011 r. w sprawie badań i pomiarów czynników szkodliwych dla zdrowia w środowisku pracy (Dz. U. poz. 166) w załączniku nr 1 do rozporządzenia rubryki „pieczątka zakładu pracy” oraz „nr statystyczny – REGON” zastępuje się rubryką „pieczątka, nadruk lub naklejka zakładu pracy zawierające nazwę, adres, NIP i REGON”.
+
+**§ 2.** Rejestr czynników szkodliwych dla zdrowia występujących na stanowisku pracy prowadzony według wzoru określonego w załączniku nr 1 do rozporządzenia zmienianego w § 1 pracodawca może prowadzić według dotychczasowego wzoru.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. J. Cieszyński
 

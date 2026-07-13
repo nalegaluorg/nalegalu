@@ -28,12 +28,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie sposobu przesyłania deklaracji i podań oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone Na podstawie art. 3b § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 19 września 2017 r. w sprawie sposobu przesyłania deklaracji i podań oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone (Dz. U. z 2025 r. poz. 327 i 842) wprowadza się następujące zmiany:
-1) po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Rozporządzenia nie stosuje się do przesyłania deklaracji i podań za pośrednictwem e-Urzędu Skarbowego.”;
-2) w § 2 dodaje się ust. 5 w brzmieniu: „5. Deklaracje i podania, o których mowa w ust. 1 pkt 1, są przesyłane według wzoru dokumentu elektronicznego udostępnionego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.”;
-3) w § 4 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) podpisem zaufanym, jeżeli są przesyłane w sposób, o którym mowa w § 2 ust. 1 pkt 1, albo”;
-4) po § 9 dodaje się § 9a w brzmieniu: „§ 9a. Podpisem elektronicznym, o którym mowa w § 4 pkt 2a, może być opatrywana informacja o opodatkowaniu wyrównawczym (GIR-1).”;
-5) w § 11 pkt 23 otrzymuje brzmienie: „23) informacja o wysokości niektórych dochodów z kapitałów pieniężnych (PIT-8C);”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2026 r.
-Minister Finansów i Gospodarki: wz. J. Neneman
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 19 września 2017 r. w sprawie sposobu przesyłania deklaracji i podań oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone (Dz. U. z 2025 r. poz. 327 i 842) wprowadza się następujące zmiany:
+
+- **1)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Rozporządzenia nie stosuje się do przesyłania deklaracji i podań za pośrednictwem e-Urzędu Skarbowego.”;
+- **2)** w § 2 dodaje się ust. 5 w brzmieniu: „5. Deklaracje i podania, o których mowa w ust. 1 pkt 1, są przesyłane według wzoru dokumentu elektronicznego udostępnionego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.”;
+- **3)** w § 4 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) podpisem zaufanym, jeżeli są przesyłane w sposób, o którym mowa w § 2 ust. 1 pkt 1, albo”;
+- **4)** po § 9 dodaje się § 9a w brzmieniu: „§ 9a. Podpisem elektronicznym, o którym mowa w § 4 pkt 2a, może być opatrywana informacja o opodatkowaniu wyrównawczym (GIR-1).”;
+- **5)** w § 11 pkt 23 otrzymuje brzmienie: „23) informacja o wysokości niektórych dochodów z kapitałów pieniężnych (PIT-8C);”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2026 r. Minister Finansów i Gospodarki: wz. J. Neneman
 

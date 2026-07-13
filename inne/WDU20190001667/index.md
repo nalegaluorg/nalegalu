@@ -33,17 +33,9 @@ source: pdf
 - **2)** w art. 29 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Prezes Urzędu jest organem odpowiedzialnym w rozumieniu art. 7 ust. 1 rozporządzenia 2018/302 w zakresie przeciwdziałania praktykom ograniczającym konkurencję oraz praktykom naruszającym zbiorowe interesy konsumentów.”;
 - **3)** w art. 31 po pkt 7a dodaje się pkt 7b w brzmieniu: „7b) wykonywanie zadań organu odpowiedzialnego w rozumieniu art. 7 ust. 1 rozporządzenia 2018/302 w zakresie przeciwdziałania praktykom ograniczającym konkurencję oraz praktykom naruszającym zbiorowe interesy konsumentów;”;
 - **4)** w art. 32a po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Punkt kontaktowy realizuje również zadania, o których mowa w art. 8 rozporządzenia 2018/302.”;
-- **5)** art. 33 i art. 34 otrzymują brzmienie: „Art. 33. W skład Urzędu wchodzą Centrala w Warszawie, delegatury Urzędu oraz laboratoria nadzorowane przez Prezesa Urzędu.
-
-**Art. 34.** Prezes Rady Ministrów, w drodze zarządzenia, nadaje Urzędowi statut określający jego organizację oraz zadania i rozmieszczenie delegatur Urzędu.”;
-
+- **5)** art. 33 i art. 34 otrzymują brzmienie: „Art. 33. W skład Urzędu wchodzą Centrala w Warszawie, delegatury Urzędu oraz laboratoria nadzorowane przez Prezesa Urzędu. Art. 34. Prezes Rady Ministrów, w drodze zarządzenia, nadaje Urzędowi statut określający jego organizację oraz zadania i rozmieszczenie delegatur Urzędu.”;
 - **6)** w art. 42 w ust. 1 pkt 4 otrzymuje brzmienie: „4) współdziałanie z Prezesem Urzędu, organami Inspekcji Handlowej oraz organizacjami konsumenckimi;”;
-- **7)** art. 43 otrzymuje brzmienie: „Art. 43. 1. Rzecznik konsumentów, w terminie do dnia 31 marca każdego roku, przedkłada staroście (prezydentowi miasta) do zaopiniowania roczne sprawozdanie ze swojej działalności w roku poprzednim oraz przekazuje je Prezesowi Urzędu w terminie 7 dni od zaopiniowania przez starostę (prezydenta miasta).
-
-2. W przypadku niezaopiniowania przez starostę (prezydenta miasta) sprawozdania, o którym mowa w ust. 1, rzecznik konsumentów przekazuje sprawozdanie Prezesowi Urzędu w terminie do dnia 10 maja każdego roku.
-
-3. Rzecznik konsumentów przekazuje na bieżąco Prezesowi Urzędu wnioski i sygnalizuje problemy dotyczące ochrony konsumentów, które wymagają podjęcia działań przez organy administracji rządowej.”;
-
+- **7)** art. 43 otrzymuje brzmienie: „Art. 43. 1. Rzecznik konsumentów, w terminie do dnia 31 marca każdego roku, przedkłada staroście (prezydentowi miasta) do zaopiniowania roczne sprawozdanie ze swojej działalności w roku poprzednim oraz przekazuje je Prezesowi Urzędu w terminie 7 dni od zaopiniowania przez starostę (prezydenta miasta). 2. W przypadku niezaopiniowania przez starostę (prezydenta miasta) sprawozdania, o którym mowa w ust. 1, rzecznik konsumentów przekazuje sprawozdanie Prezesowi Urzędu w terminie do dnia 10 maja każdego roku. 3. Rzecznik konsumentów przekazuje na bieżąco Prezesowi Urzędu wnioski i sygnalizuje problemy dotyczące ochrony konsumentów, które wymagają podjęcia działań przez organy administracji rządowej.”;
 - **8)** w art. 44:
     - **a)** ust. 4 otrzymuje brzmienie: „4. W skład Rady wchodzi szesnastu rzeczników konsumentów po jednym z każdego województwa.”,
     - **b)** w ust. 5 zdanie drugie otrzymuje brzmienie: „Powołanie następuje za pisemną zgodą powoływanych rzeczników konsumentów.”;

@@ -6,7 +6,7 @@ publisher: DU
 year: 2022
 pos: 2837
 act_type: Rozporządzenie
-status: obowiązujący
+status: akt posiada tekst jednolity
 domain: null
 source: pdf
 ---
@@ -18,21 +18,29 @@ source: pdf
 | Adres publikacyjny | Dz.U. 2022 poz. 2837 |
 | ISAP | WDU20220002837 |
 | Typ aktu | Rozporządzenie |
-| Status | obowiązujący |
+| Status | akt posiada tekst jednolity |
 | W mocy | tak |
 | Data ogłoszenia | 2022-12-28 |
 | Data wydania | 2022-12-29 |
-| Ostatnia zmiana | 2025-07-09 |
+| Ostatnia zmiana | 2026-06-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002837) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2837/text.pdf) |
 
 w sprawie nadania statutu Krajowemu Zasobowi Nieruchomości Na podstawie art. 4 ust. 6 ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2021 r.
 poz. 1961 oraz z 2022 r. poz. 807 i 1561) zarządza się, co następuje:
-§ 1. Krajowemu Zasobowi Nieruchomości nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Traci moc rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 14 listopada 2017 r. w sprawie nadania statutu Krajowemu Zasobowi Nieruchomości (Dz. U. z 2020 r. poz. 1977).
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Funduszy i Polityki Regionalnej: G. Puda STATUT KRAJOWEGO ZASOBU NIERUCHOMOŚCI
+
+**§ 1.** Krajowemu Zasobowi Nieruchomości nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Traci moc rozporządzenie Ministra Infrastruktury i Budownictwa z dnia 14 listopada 2017 r. w sprawie nadania statutu Krajowemu Zasobowi Nieruchomości (Dz. U. z 2020 r. poz. 1977).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Funduszy i Polityki Regionalnej: G. Puda STATUT KRAJOWEGO ZASOBU NIERUCHOMOŚCI
+
+#### Rozdział 1 Postanowienie ogólne
+
+## Załącznik
+
 § 1. Krajowy Zasób Nieruchomości, zwany dalej „KZN”, działa na podstawie ustawy z dnia 20 lipca 2017 r.
 o Krajowym Zasobie Nieruchomości (Dz. U. z 2021 r. poz. 1961 oraz z 2022 r. poz. 807 i 1561), zwanej dalej „ustawą”, oraz niniejszego statutu.
+Rozdział 2 Rada Nadzorcza KZN
 § 2. 1. Posiedzenia Rady Nadzorczej KZN odbywają się stosownie do potrzeb, jednak nie rzadziej niż raz na dwa miesiące.
 2. Posiedzenia Rady Nadzorczej KZN zwołuje Przewodniczący Rady Nadzorczej KZN, zwany dalej „Przewodniczącym”, z własnej inicjatywy albo na pisemny wniosek:
 1) ministra, o którym mowa w art. 31 ust. 3 ustawy;
@@ -71,6 +79,7 @@ W przypadku gdy Przewodniczący zdecyduje o podjęciu uchwały w trybie obiegowy
 4. Z podjęcia uchwały w trybie, o którym mowa w § 5 ust. 5, sporządza się protokół zawierający stanowisko poszczególnych członków Rady Nadzorczej KZN. Przepisy ust. 2 i 3 stosuje się odpowiednio.
 5. Protokoły wraz z załącznikami, o których mowa w ust. 3, przechowuje się w Biurze KZN.
 § 7. Rada Nadzorcza KZN, w zakresie nieuregulowanym niniejszym statutem, może określić szczegółowy tryb swojej pracy w formie regulaminu.
+Rozdział 3 Prezes KZN i organizacja Biura KZN
 § 8. 1. W przypadku powołania dwóch zastępców Prezesa KZN Prezes KZN wyznacza spośród nich pierwszego zastępcę.
 2. Prezes KZN określa zakres zadań zastępców Prezesa KZN.
 3. Zastępca Prezesa KZN, a w przypadku, o którym mowa w ust. 1, pierwszy zastępca Prezesa KZN, wykonuje w stosunku do Prezesa KZN następujące czynności z zakresu prawa pracy:
@@ -98,10 +107,4 @@ W przypadku gdy Przewodniczący zdecyduje o podjęciu uchwały w trybie obiegowy
 3. Szczegółowy wykaz wydziałów, zespołów oraz samodzielnych stanowisk pracy, o których mowa w ust. 1, a także ich zakresy działania, jak również podporządkowanie organizacyjne określa regulamin Biura KZN.
 § 12. 1. Do realizacji określonych zadań Prezes KZN może powoływać stałe lub doraźne komisje problemowe.
 2. W skład komisji problemowych, o których mowa w ust. 1, wchodzą pracownicy Biura KZN oraz eksperci spośród przedstawicieli nauki i praktyki.
-
-#### Rozdział 1 Postanowienie ogólne
-
-#### Rozdział 2 Rada Nadzorcza KZN
-
-#### Rozdział 3 Prezes KZN i organizacja Biura KZN
 

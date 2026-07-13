@@ -30,6 +30,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 17 grudnia 2015 r. zmieniającego rozporządzenie w sprawie nadania osobowości prawnej Misjonarkom Krwi Chrystusa (Dz. U. z 2016 r. poz. 22), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 5 czerwca 2002 r.
 w sprawie nadania osobowości prawnej Misjonarkom Krwi Chrystusa Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2013 r. poz. 1169, z 2014 r. poz. 498, z 2016 r. poz. 1948 oraz z 2017 r. poz. 60) zarządza się, co następuje:
-§ 1. Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Misjonarki Krwi Chrystusa z siedzibą w Chrustach, erygowanej przez Biskupa Chełmińskiego.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Misjonarki Krwi Chrystusa z siedzibą w Chrustach, erygowanej przez Biskupa Chełmińskiego.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

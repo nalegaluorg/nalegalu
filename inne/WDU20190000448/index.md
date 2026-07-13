@@ -25,85 +25,121 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000448) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/448/text.pdf) |
 
-§ 1. 1. Stanowisko kontrolne znajduje się w wydzielonej części pomieszczenia o wymiarach i bramach dostosowanych do wielkości pojazdów (zespołów pojazdów) przewidzianych do badania.
+**§ 1.**
+
+1. Stanowisko kontrolne znajduje się w wydzielonej części pomieszczenia o wymiarach i bramach dostosowanych do wielkości pojazdów (zespołów pojazdów) przewidzianych do badania.
+
 2. Stanowisko kontrolne składa się z:
-1) płaskiej i poziomej powierzchni mieszczącej badany pojazd (zespół pojazdów), zwanej dalej „ławą pomiarową”, i powierzchni pomocniczej mieszczącej urządzenia i przyrządy kontrolno-pomiarowe;
-2) kanału przeglądowego i urządzenia do podnoszenia osi pojazdu; kanał przeglądowy może być zastąpiony urządzeniem do podnoszenia całego pojazdu;
-3) urządzeń i przyrządów kontrolno-pomiarowych;
-4) wyposażenia technologicznego;
-5) stanowiska zewnętrznego do pomiarów akustycznych, zwanego dalej „stanowiskiem zewnętrznym”.
-II. Ława pomiarowa
-§ 2. 1. Wymiary ławy pomiarowej odpowiadają następującym warunkom:
-1) długość zapewnia możliwość ustawienia na niej wszystkimi kołami każdego badanego pojazdu oraz umieszczenia przed jego przednimi światłami przyrządu do pomiaru ustawienia i światłości świateł (oświetleniowych); w przypadku gdy przewiduje się przetaczanie pojazdu podczas pomiaru zbieżności kół, długość ławy powiększa się o długość drogi przetoczenia pojazdu;
-2) rozstaw krawędzi zewnętrznych nie powinien być mniejszy niż:
-a) 2,4 m – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t,
-b) 2,8 m – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej powyżej 3,5 t – przy czym rozstaw krawędzi wewnętrznych powinien odpowiadać szerokości kanału przeglądowego.
+
+- **1)** płaskiej i poziomej powierzchni mieszczącej badany pojazd (zespół pojazdów), zwanej dalej „ławą pomiarową”, i powierzchni pomocniczej mieszczącej urządzenia i przyrządy kontrolno-pomiarowe;
+- **2)** kanału przeglądowego i urządzenia do podnoszenia osi pojazdu; kanał przeglądowy może być zastąpiony urządzeniem do podnoszenia całego pojazdu;
+- **3)** urządzeń i przyrządów kontrolno-pomiarowych;
+- **4)** wyposażenia technologicznego;
+- **5)** stanowiska zewnętrznego do pomiarów akustycznych, zwanego dalej „stanowiskiem zewnętrznym”. II. Ława pomiarowa
+
+**§ 2.**
+
+1. Wymiary ławy pomiarowej odpowiadają następującym warunkom:
+
+- **1)** długość zapewnia możliwość ustawienia na niej wszystkimi kołami każdego badanego pojazdu oraz umieszczenia przed jego przednimi światłami przyrządu do pomiaru ustawienia i światłości świateł (oświetleniowych); w przypadku gdy przewiduje się przetaczanie pojazdu podczas pomiaru zbieżności kół, długość ławy powiększa się o długość drogi przetoczenia pojazdu;
+- **2)** rozstaw krawędzi zewnętrznych nie powinien być mniejszy niż:
+    - **a)** 2,4 m – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t,
+    - **b)** 2,8 m – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej powyżej 3,5 t – przy czym rozstaw krawędzi wewnętrznych powinien odpowiadać szerokości kanału przeglądowego.
+
 2. Nawierzchnia ławy pomiarowej spełnia następujące wymagania:
-1) dopuszczalne odchylenie od poziomu nie przekracza:
-a) 3 mm/m – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t,
-b) 4 mm/m – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej powyżej 3,5 t;
-2) na szerokości czynnej rolek urządzenia do kontroli działania hamulców są odporne na ścieranie.
-3. Część składową ławy pomiarowej może stanowić urządzenie do podnoszenia całego pojazdu, jeżeli odpowiada warunkom, o których mowa w ust. 2.
-III. Kanał przeglądowy
-§ 3. 1. Wymiary kanału przeglądowego odpowiadają następującym warunkom:
-1) długość powinna być większa niż długość pojazdu (zespołu pojazdów) co najmniej o długość schodów prowadzących do kanału, jeżeli znajdują się one na końcu lub na początku kanału, a ponadto zapewniać:
-a) wygodne wykonanie wymaganych oględzin i czynności kontrolnych,
-b) natychmiastowe opuszczenie kanału przez znajdującego się w nim pracownika – w razie niebezpieczeństwa;
-2) szerokość na poziomie ławy pomiarowej mieści się w granicach:
-a) 0,6–0,9 m – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t,
-b) 0,7–1,0 m – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej powyżej 3,5 t;
-3) głębokość wynosi od 1,3 m do 1,8 m; wewnątrz kanału przeglądowego znajdują się przesuwne platformy lub stałe boczne stopnie umożliwiające diagnoście zajęcie pozycji podwyższonej.
+
+- **1)** dopuszczalne odchylenie od poziomu nie przekracza:
+    - **a)** 3 mm/m – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t,
+    - **b)** 4 mm/m – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej powyżej 3,5 t;
+
+- **2)** na szerokości czynnej rolek urządzenia do kontroli działania hamulców są odporne na ścieranie.
+
+3. Część składową ławy pomiarowej może stanowić urządzenie do podnoszenia całego pojazdu, jeżeli odpowiada warunkom, o których mowa w ust. 2. III. Kanał przeglądowy
+
+**§ 3.**
+
+1. Wymiary kanału przeglądowego odpowiadają następującym warunkom:
+
+- **1)** długość powinna być większa niż długość pojazdu (zespołu pojazdów) co najmniej o długość schodów prowadzących do kanału, jeżeli znajdują się one na końcu lub na początku kanału, a ponadto zapewniać:
+    - **a)** wygodne wykonanie wymaganych oględzin i czynności kontrolnych,
+    - **b)** natychmiastowe opuszczenie kanału przez znajdującego się w nim pracownika – w razie niebezpieczeństwa;
+
+- **2)** szerokość na poziomie ławy pomiarowej mieści się w granicach:
+    - **a)** 0,6–0,9 m – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t,
+    - **b)** 0,7–1,0 m – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej powyżej 3,5 t;
+
+- **3)** głębokość wynosi od 1,3 m do 1,8 m; wewnątrz kanału przeglądowego znajdują się przesuwne platformy lub stałe boczne stopnie umożliwiające diagnoście zajęcie pozycji podwyższonej.
+
 2. Kanał przeglądowy ma zapewnione odwodnienie oraz wentylację.
+
 3. Kanał przeglądowy jest wyposażony w:
-1) oświetlenie:
-a) światło możliwie rozproszone, oświetlające miejsce pracy,
-b) światło skupione o bezpiecznym napięciu zasilania, kierowane w razie potrzeby na elementy pojazdu;
-2) półki wewnętrzne na narzędzia i klucze;
-3) urządzenie do podnoszenia osi pojazdu o udźwigu co najmniej:
-a) 20 kN – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t,
-b) 115 kN – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej powyżej 3,5 t;
-4) podłogę lub obrzeże umożliwiające przeciążenie urządzenia do podnoszenia osi pojazdu o 25% nominalnego udźwigu, przy czym powinno być możliwe ustawienie urządzenia do podnoszenia osi pojazdu również między obrotnicami do kontroli geometrii ustawienia kół.
-IV. Urządzenia i przyrządy kontrolno-pomiarowe
-§ 4. 1. Stanowisko kontrolne wyposaża się co najmniej w następujące urządzenia i przyrządy:
-1) urządzenie rolkowe lub urządzenie płytowe (najazdowe) do pomiaru sił hamujących lub w inne urządzenie służące do sprawdzania skuteczności działania hamulców;
-2) opóźnieniomierz – w przypadku gdy nie jest możliwe przeprowadzenie badania sił hamujących lub sprawdzenie skuteczności działania hamulców za pomocą urządzeń, o których mowa w pkt 1;
-3) przyrząd do pomiaru zbieżności kół lub urządzenie do kontroli prawidłowości ustawienia kół;
-4) przyrząd do pomiaru i regulacji ciśnienia powietrza w ogumieniu;
-5) przyrząd do pomiaru ustawienia i światłości świateł;
-6) miernik poziomu dźwięku;
-7) dymomierz;
-8) przyrząd do kontroli złącza elektrycznego pojazd – przyczepa;
-9) przyrząd do wymuszania kontrolowanego nacisku na mechanizm sterowania hamulcem najazdowym przyczepy; dotyczy to stacji, których zakres badań obejmuje przyczepy;
-10) urządzenie do wymuszania szarpnięć kołami pojazdu;
-11) analizator spalin samochodowych;
-12) zestaw narzędzi monterskich;
-13) podstawowy zestaw przyrządów mierniczych ogólnego przeznaczenia;
-14) czytnik informacji diagnostycznych do układu OBDII/EOBD.
+
+- **1)** oświetlenie:
+    - **a)** światło możliwie rozproszone, oświetlające miejsce pracy,
+    - **b)** światło skupione o bezpiecznym napięciu zasilania, kierowane w razie potrzeby na elementy pojazdu;
+
+- **2)** półki wewnętrzne na narzędzia i klucze;
+- **3)** urządzenie do podnoszenia osi pojazdu o udźwigu co najmniej:
+    - **a)** 20 kN – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t,
+    - **b)** 115 kN – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej powyżej 3,5 t;
+
+- **4)** podłogę lub obrzeże umożliwiające przeciążenie urządzenia do podnoszenia osi pojazdu o 25% nominalnego udźwigu, przy czym powinno być możliwe ustawienie urządzenia do podnoszenia osi pojazdu również między obrotnicami do kontroli geometrii ustawienia kół. IV. Urządzenia i przyrządy kontrolno-pomiarowe
+
+**§ 4.**
+
+1. Stanowisko kontrolne wyposaża się co najmniej w następujące urządzenia i przyrządy:
+
+- **1)** urządzenie rolkowe lub urządzenie płytowe (najazdowe) do pomiaru sił hamujących lub w inne urządzenie służące do sprawdzania skuteczności działania hamulców;
+- **2)** opóźnieniomierz – w przypadku gdy nie jest możliwe przeprowadzenie badania sił hamujących lub sprawdzenie skuteczności działania hamulców za pomocą urządzeń, o których mowa w pkt 1;
+- **3)** przyrząd do pomiaru zbieżności kół lub urządzenie do kontroli prawidłowości ustawienia kół;
+- **4)** przyrząd do pomiaru i regulacji ciśnienia powietrza w ogumieniu;
+- **5)** przyrząd do pomiaru ustawienia i światłości świateł;
+- **6)** miernik poziomu dźwięku;
+- **7)** dymomierz;
+- **8)** przyrząd do kontroli złącza elektrycznego pojazd – przyczepa;
+- **9)** przyrząd do wymuszania kontrolowanego nacisku na mechanizm sterowania hamulcem najazdowym przyczepy; dotyczy to stacji, których zakres badań obejmuje przyczepy;
+- **10)** urządzenie do wymuszania szarpnięć kołami pojazdu;
+- **11)** analizator spalin samochodowych;
+- **12)** zestaw narzędzi monterskich;
+- **13)** podstawowy zestaw przyrządów mierniczych ogólnego przeznaczenia;
+- **14)** czytnik informacji diagnostycznych do układu OBDII/EOBD.
+
 2. Stanowisko kontrolne w okręgowej stacji kontroli pojazdów oraz stacji, o której mowa w art. 83 ust. 1 pkt 1 lit. b ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, wyposaża się w urządzenia i przyrządy, o których mowa w ust. 1, a ponadto co najmniej w:
-1) przyrząd do kontroli geometrii ustawienia kół i osi pojazdu,
-2) urządzenie do kontroli skuteczności tłumienia drgań zawieszenia pojazdu o dopuszczalnej masie całkowitej do 3,5 t,
-3) urządzenie lub przyrząd do kontroli instalacji zasilania gazem pojazdu samochodowego,
-4) komplet kluczy dynamometrycznych w zakresie od 20 do 400 Nm – jeżeli zakres badań technicznych przeprowadzanych przez daną stację wymaga stosowania tych przyrządów lub urządzeń.
+
+- **1)** przyrząd do kontroli geometrii ustawienia kół i osi pojazdu,
+- **2)** urządzenie do kontroli skuteczności tłumienia drgań zawieszenia pojazdu o dopuszczalnej masie całkowitej do 3,5 t,
+- **3)** urządzenie lub przyrząd do kontroli instalacji zasilania gazem pojazdu samochodowego,
+- **4)** komplet kluczy dynamometrycznych w zakresie od 20 do 400 Nm – jeżeli zakres badań technicznych przeprowadzanych przez daną stację wymaga stosowania tych przyrządów lub urządzeń.
+
 3. Dopuszcza się wyposażenie stanowiska kontrolnego w okręgowej stacji kontroli pojazdów w legalizowaną wagę samochodową.
+
 4. Urządzenia i przyrządy mogą stanowić część wspólną wyposażenia kilku stanowisk kontrolnych, jeżeli istnieje możliwość wykonania badania technicznego zgodnie z wymaganiami w tym zakresie.
-§ 5. Warunki dopuszczenia urządzeń i przyrządów kontrolno-pomiarowych stanowiących wyposażenie stanowiska kontrolnego do użytkowania w stacjach kontroli pojazdów są określone w przepisach wydanych na podstawie art. 84a ust. 1 pkt 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
-V. Wyposażenie technologiczne
-§ 6. Wyposażenie technologiczne stanowiska kontrolnego obejmuje co najmniej:
-1) ogólne oświetlenie elektryczne oraz punkty odbioru energii elektrycznej o napięciu zapewniającym prawidłowe działanie urządzeń i przyrządów stanowiska kontrolnego i napięciu bezpiecznym z możliwością poboru mocy wystarczającej do zasilania eksploatowanych urządzeń i przyrządów kontrolno-pomiarowych;
-2) instalację sprężonego powietrza o ciśnieniu roboczym co najmniej 0,6 MPa;
-3) doprowadzenie wody ciepłej lub nagrzewanej miejscowo do umywalki do mycia rąk;
-4) odpływ ogólny ścieków przez łapacz błota, olejów i paliw lub odpływ ścieków z kanałów przez łapacz błota, olejów i paliw do kanalizacji ogólnej, lub system odwadniania kubełkowego;
-5) wentylację:
-a) naturalną oraz mechaniczną nawiewno-wywiewną zapewniającą dodatkową awaryjną wymianę powietrza, przy czym stanowisko kontrolne wyposaża się w alarmowy czujnik niedopuszczalnego poziomu stężenia tlenku węgla, który automatycznie uruchamia tryb awaryjny wentylacji,
-b) indywidualne wyciągi spalin z końcówkami na rury wydechowe o wydajności dostosowanej do rodzajów badanych pojazdów;
-6) ogrzewanie pomieszczenia;
-7) alarmowy czujnik nadmiernego poziomu stężenia gazu płynnego i ziemnego w stacji kontroli pojazdów przeprowadzającej badania pojazdów przystosowanych do zasilania gazem.
-VI. Stanowisko zewnętrzne
-§ 7. 1. Stanowisko zewnętrzne powinno znajdować się na zewnątrz pomieszczenia stacji kontroli pojazdów oraz innych pomieszczeń.
+
+**§ 5.** Warunki dopuszczenia urządzeń i przyrządów kontrolno-pomiarowych stanowiących wyposażenie stanowiska kontrolnego do użytkowania w stacjach kontroli pojazdów są określone w przepisach wydanych na podstawie art. 84a ust. 1 pkt 1 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym. V. Wyposażenie technologiczne
+
+**§ 6.** Wyposażenie technologiczne stanowiska kontrolnego obejmuje co najmniej:
+
+- **1)** ogólne oświetlenie elektryczne oraz punkty odbioru energii elektrycznej o napięciu zapewniającym prawidłowe działanie urządzeń i przyrządów stanowiska kontrolnego i napięciu bezpiecznym z możliwością poboru mocy wystarczającej do zasilania eksploatowanych urządzeń i przyrządów kontrolno-pomiarowych;
+- **2)** instalację sprężonego powietrza o ciśnieniu roboczym co najmniej 0,6 MPa;
+- **3)** doprowadzenie wody ciepłej lub nagrzewanej miejscowo do umywalki do mycia rąk;
+- **4)** odpływ ogólny ścieków przez łapacz błota, olejów i paliw lub odpływ ścieków z kanałów przez łapacz błota, olejów i paliw do kanalizacji ogólnej, lub system odwadniania kubełkowego;
+- **5)** wentylację:
+    - **a)** naturalną oraz mechaniczną nawiewno-wywiewną zapewniającą dodatkową awaryjną wymianę powietrza, przy czym stanowisko kontrolne wyposaża się w alarmowy czujnik niedopuszczalnego poziomu stężenia tlenku węgla, który automatycznie uruchamia tryb awaryjny wentylacji,
+    - **b)** indywidualne wyciągi spalin z końcówkami na rury wydechowe o wydajności dostosowanej do rodzajów badanych pojazdów;
+
+- **6)** ogrzewanie pomieszczenia;
+- **7)** alarmowy czujnik nadmiernego poziomu stężenia gazu płynnego i ziemnego w stacji kontroli pojazdów przeprowadzającej badania pojazdów przystosowanych do zasilania gazem. VI. Stanowisko zewnętrzne
+
+**§ 7.**
+
+1. Stanowisko zewnętrzne powinno znajdować się na zewnątrz pomieszczenia stacji kontroli pojazdów oraz innych pomieszczeń.
+
 2. Wymiary stanowiska zewnętrznego nie są mniejsze niż:
-1) 7,0 × 8,0 m – w odniesieniu do stacji przeprowadzającej badania techniczne motocykla i motoroweru;
-2) 8,5 × 10,5 m – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t;
-3) 8,5 × 12,5 m – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej powyżej 3,5 t.
+
+- **1)** 7,0 × 8,0 m – w odniesieniu do stacji przeprowadzającej badania techniczne motocykla i motoroweru;
+- **2)** 8,5 × 10,5 m – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t;
+- **3)** 8,5 × 12,5 m – w odniesieniu do stacji przeprowadzającej badania techniczne pojazdów o dopuszczalnej masie całkowitej powyżej 3,5 t.
+
 3. Nawierzchnia stanowiska zewnętrznego powinna być utwardzona (np. beton, asfalt).
 
 ## Załącznik nr 2 — WZÓR Wniosek o wydanie upoważnienia do przeprowadzania badań technicznych pojazdów ........................................................... ..................................., dnia .....................

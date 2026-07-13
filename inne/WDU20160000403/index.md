@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000403) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/403/text.pdf) |
 
 zmieniające rozporządzenie w sprawie powołania Komisji Heraldycznej Na podstawie art. 2a ust. 1 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2016 r. poz. 38) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 stycznia 2000 r. w sprawie powołania Komisji Heraldycznej (Dz. U. poz. 83, z późn. zm. ) w § 1 pkt 9 otrzymuje brzmienie: „9) Robert Szydlik – członek,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 stycznia 2000 r. w sprawie powołania Komisji Heraldycznej (Dz. U. poz. 83, z późn. zm. ) w § 1 pkt 9 otrzymuje brzmienie: „9) Robert Szydlik – członek,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 

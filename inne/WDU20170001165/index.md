@@ -26,23 +26,36 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001165) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1165/text.pdf) |
 
 w sprawie wykazu stanowisk, wymaganych kwalifikacji, zasad wynagradzania i przyznawania innych świadczeń pracownikom Instytutu Zachodniego im. Zygmunta Wojciechowskiego Na podstawie art. 9 ustawy z dnia 17 grudnia 2015 r. o Instytucie Zachodnim im. Zygmunta Wojciechowskiego (Dz. U. poz. 2292) zarządza się, co następuje:
-§ 1. Rozporządzenie stosuje się do zatrudnionych w Instytucie Zachodnim im. Zygmunta Wojciechowskiego, zwanym dalej „Instytutem”:
-1) Dyrektora Instytutu, zastępców Dyrektora Instytutu i głównego księgowego, zwanych dalej „pracownikami zarządzającymi”;
-2) pracowników pionu badawczego;
-3) pracowników pionu wsparcia.
-§ 2. Ustala się tabele stanowisk, kwalifikacji i wynagrodzenia zasadniczego, stanowiące załącznik do rozporządzenia.
-§ 3. Pracownikowi zatrudnionemu w niepełnym wymiarze czasu pracy przysługuje wynagrodzenie zasadnicze i inne składniki wynagrodzenia w wysokości proporcjonalnej do wymiaru czasu pracy określonego w umowie o pracę.
-§ 4. 1. Z tytułu okresowego zwiększenia zakresu obowiązków służbowych lub powierzenia dodatkowych zadań albo ze względu na charakter pracy lub warunki wykonywania pracy pracodawca może przyznać pracownikowi dodatek specjalny.
+
+**§ 1.** Rozporządzenie stosuje się do zatrudnionych w Instytucie Zachodnim im. Zygmunta Wojciechowskiego, zwanym dalej „Instytutem”:
+
+- **1)** Dyrektora Instytutu, zastępców Dyrektora Instytutu i głównego księgowego, zwanych dalej „pracownikami zarządzającymi”;
+- **2)** pracowników pionu badawczego;
+- **3)** pracowników pionu wsparcia.
+
+**§ 2.** Ustala się tabele stanowisk, kwalifikacji i wynagrodzenia zasadniczego, stanowiące załącznik do rozporządzenia.
+
+**§ 3.** Pracownikowi zatrudnionemu w niepełnym wymiarze czasu pracy przysługuje wynagrodzenie zasadnicze i inne składniki wynagrodzenia w wysokości proporcjonalnej do wymiaru czasu pracy określonego w umowie o pracę.
+
+**§ 4.**
+
+1. Z tytułu okresowego zwiększenia zakresu obowiązków służbowych lub powierzenia dodatkowych zadań albo ze względu na charakter pracy lub warunki wykonywania pracy pracodawca może przyznać pracownikowi dodatek specjalny.
+
 2. Dodatek specjalny przyznaje się na czas określony, a w uzasadnionych przypadkach na czas nieokreślony.
+
 3. Dodatek specjalny jest wypłacany w ramach posiadanych środków na wynagrodzenia, w kwocie nieprzekraczającej 40% wynagrodzenia zasadniczego przysługującego pracownikowi.
-§ 5. 1. Z tytułu realizacji zadań finansowanych lub współfinansowanych z udziałem środków pochodzących między innymi z budżetu Unii Europejskiej, państw członkowskich UE, innych podmiotów prawa międzynarodowego, krajowych lub międzynarodowych programów badawczych Dyrektor Instytutu może przyznać pracownikom dodatek projektowy na czas określony.
+
+**§ 5.**
+
+1. Z tytułu realizacji zadań finansowanych lub współfinansowanych z udziałem środków pochodzących między innymi z budżetu Unii Europejskiej, państw członkowskich UE, innych podmiotów prawa międzynarodowego, krajowych lub międzynarodowych programów badawczych Dyrektor Instytutu może przyznać pracownikom dodatek projektowy na czas określony.
+
 2. Dodatek projektowy jest wypłacany ze środków, o których mowa w ust. 1.
+
 3. Dodatek projektowy jest wypłacany w kwocie nieprzekraczającej 100% wynagrodzenia zasadniczego przysługującego pracownikowi.
-§ 6. W ramach posiadanych środków na wynagrodzenia może być tworzony fundusz nagród z przeznaczeniem na nagrody za szczególne osiągnięcia w pracy zawodowej, pozostający w dyspozycji Dyrektora Instytutu.
-§ 7. Pracownik, który nie posiada kwalifikacji zawodowych przewidzianych dla stanowiska zajmowanego przez niego w dniu wejścia w życie rozporządzenia, może być nadal zatrudniany na tym stanowisku.
-§ 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: B. Szydło TABELE STANOWISK, KWALIFIKACJI I WYNAGRODZENIA ZASADNICZEGO PRACOWNIKÓW INSTYTUTU ZACHODNIEGO IM. ZYGMUNTA WOJCIECHOWSKIEGO I. Tabela stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników zarządzających A. B. C.
-Lp. Wynagrodzenie Stanowisko Wymagane kwalifikacje zasadnicze w złotych stopień doktora, 3-letnie doświadczenie 1 Dyrektor w zarządzaniu zespołami pracowniczymi, 10000–14000 znajomość języka obcego wykształcenie wyższe, 3-letnie doświadczenie 2 Zastępca Dyrektora w zarządzaniu zespołami pracowniczymi, 8000–12000 znajomość języka obcego 3 Główny księgowy według odrębnych przepisów 5500–9500 II. Tabela stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników pionu badawczego A. B. C.
-Lp. Wynagrodzenie Stanowisko Wymagane kwalifikacje zasadnicze w złotych 1 Kierownik Zespołu wykształcenie wyższe, 3 lata stażu pracy, 5500–9500 znajomość języka obcego 2 Koordynator projektu wykształcenie wyższe, 3 lata stażu pracy, 4500–8000 znajomość języka obcego 3 Główny analityk wykształcenie wyższe, 3 lata stażu pracy, 4000–7000 znajomość języka obcego 4 Starszy analityk wykształcenie wyższe, 2 lata stażu pracy, 3000–5000 znajomość języka obcego 5 Analityk wykształcenie wyższe, 2500–4000 znajomość języka obcego III. Tabela stanowisk, kwalifikacji i wynagrodzenia zasadniczego pracowników pionu wsparcia A. B. C.
-Lp. Wynagrodzenie Stanowisko Wymagane kwalifikacje zasadnicze w złotych 1 Kierownik wykształcenie wyższe, 3 lata stażu pracy 4000–7000 2 Główny specjalista wykształcenie wyższe, 3 lata stażu pracy 3500–6000 3 Starszy specjalista wykształcenie wyższe, 2 lata stażu pracy 3000–5000 4 Specjalista wykształcenie wyższe 2500–4500 5 Starszy referent wykształcenie średnie 2000–4000 6 Referent wykształcenie średnie 2000–3000 7 Pracownik obsługi wykształcenie podstawowe 2000–3000
+
+**§ 6.** W ramach posiadanych środków na wynagrodzenia może być tworzony fundusz nagród z przeznaczeniem na nagrody za szczególne osiągnięcia w pracy zawodowej, pozostający w dyspozycji Dyrektora Instytutu.
+
+**§ 7.** Pracownik, który nie posiada kwalifikacji zawodowych przewidzianych dla stanowiska zajmowanego przez niego w dniu wejścia w życie rozporządzenia, może być nadal zatrudniany na tym stanowisku.
+
+**§ 8.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

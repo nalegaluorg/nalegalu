@@ -26,10 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002004) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2004/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania osobowości prawnej „Centrum Opatrzności Bożej – Wotum Narodu – Miejsce Kultu, Pamięci, Kultury” Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2018 r. poz. 380 i 1669) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 kwietnia 2008 r. w sprawie nadania osobowości prawnej „Centrum Opatrzności Bożej – Wotum Narodu – Miejsce Kultu, Pamięci, Kultury” (Dz. U. poz. 462) wprowadza się następujące zmiany:
-1) tytuł otrzymuje brzmienie: „w sprawie nadania osobowości prawnej Centrum Opatrzności Bożej – Wotum Narodu – Miejsce Kultu, Pamięci, Kultury”;
-2) § 1 otrzymuje brzmienie: „§ 1. Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Centrum Opatrzności Bożej – Wotum Narodu – Miejsce Kultu, Pamięci, Kultury, erygowanej przez Arcybiskupa Metropolitę Warszawskiego.”;
-3) po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Siedzibą Centrum Opatrzności Bożej – Wotum Narodu – Miejsce Kultu, Pamięci, Kultury jest Warszawa.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 17 kwietnia 2008 r. w sprawie nadania osobowości prawnej „Centrum Opatrzności Bożej – Wotum Narodu – Miejsce Kultu, Pamięci, Kultury” (Dz. U. poz. 462) wprowadza się następujące zmiany:
+
+- **1)** tytuł otrzymuje brzmienie: „w sprawie nadania osobowości prawnej Centrum Opatrzności Bożej – Wotum Narodu – Miejsce Kultu, Pamięci, Kultury”;
+- **2)** § 1 otrzymuje brzmienie: „§ 1. Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Centrum Opatrzności Bożej – Wotum Narodu – Miejsce Kultu, Pamięci, Kultury, erygowanej przez Arcybiskupa Metropolitę Warszawskiego.”;
+- **3)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Siedzibą Centrum Opatrzności Bożej – Wotum Narodu – Miejsce Kultu, Pamięci, Kultury jest Warszawa.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
 

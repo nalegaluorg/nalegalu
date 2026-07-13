@@ -33,18 +33,11 @@ poz. 533),
 3) ustawą z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588) oraz zmian wynikających z przepisów ogłoszonych przed dniem 24 maja 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U.
-poz. 412), który stanowi: „Art. 169. Ustawa wchodzi w życie z dniem 15 marca 2023 r., z wyjątkiem:
-1) art. 145, który wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia;
-2) art. 135 pkt 3 w zakresie art. 10c ust. 12, który wchodzi w życie z dniem 1 czerwca 2023 r.;
-3) art. 122 pkt 6 lit. b, art. 127 pkt 2, art. 129 pkt 1 i 5, art. 130 pkt 1 oraz art. 142, które wchodzą w życie z dniem 1 stycznia 2024 r.;
-4) art. 56 ust. 8 pkt 2, który wchodzi w życie z dniem 1 stycznia 2025 r.”;
-2) art. 2–4 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. poz. 533), które stanowią: „Art. 2. Do postępowań w sprawach, o których mowa w art. 9a ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
-
-**Art. 3.** W przypadku dokonania przed dniem wejścia w życie niniejszej ustawy zmiany, o której mowa w art. 13 ust. 1 pkt 3 ustawy zmienianej w art. 1, informację o tej zmianie przekazuje się w terminie, o którym mowa w art. 13 ust. 1 pkt 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”;
-
-- **3)** art. 82 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588), który stanowi: „Art. 82. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek USTAWA z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu
+poz. 412), który stanowi: „ Art. 169. Ustawa wchodzi w życie z dniem 15 marca 2023 r., z wyjątkiem: 1) art. 145, który wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia; 2) art. 135 pkt 3 w zakresie art. 10c ust. 12, który wchodzi w życie z dniem 1 czerwca 2023 r.; 3) art. 122 pkt 6 lit. b, art. 127 pkt 2, art. 129 pkt 1 i 5, art. 130 pkt 1 oraz art. 142, które wchodzą w życie z dniem 1 stycznia 2024 r.; 4) art. 56 ust. 8 pkt 2, który wchodzi w życie z dniem 1 stycznia 2025 r.”;
+2) art. 2–4 ustawy z dnia 9 marca 2023 r. o zmianie ustawy o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. poz. 533), które stanowią: „ Art. 2. Do postępowań w sprawach, o których mowa w art. 9a ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe. Art. 3. W przypadku dokonania przed dniem wejścia w życie niniejszej ustawy zmiany, o której mowa w art. 13 ust. 1 pkt 3 ustawy zmienianej w art. 1, informację o tej zmianie przekazuje się w terminie, o którym mowa w art. 13 ust. 1 pkt 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą. Art. 4. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”;
+3) art. 82 ustawy z dnia 9 marca 2023 r. o rejestracji i ochronie nazw pochodzenia, oznaczeń geograficznych oraz gwarantowanych tradycyjnych specjalności produktów rolnych i środków spożywczych, win lub napojów spirytusowych oraz o produktach tradycyjnych (Dz. U. poz. 588), który stanowi: „ Art. 82. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek
+USTAWA z dnia 19 grudnia 2003 r.
+o organizacji rynków owoców i warzyw oraz rynku chmielu
 
 #### Rozdział 1 Przepisy ogólne
 

@@ -31,14 +31,21 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkoln
 ROZPORZĄDZENIE MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO z dnia 9 września 2010 r.
 w sprawie statutu Narodowego Centrum Badań i Rozwoju Na podstawie art. 1 ust. 5 ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2019 r.
 poz. 1770 i 2020) zarządza się, co następuje:
-§ 1. Narodowemu Centrum Badań i Rozwoju nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2010 r.
-STATUT NARODOWEGO CENTRUM BADAŃ I ROZWOJU
+
+**§ 1.** Narodowemu Centrum Badań i Rozwoju nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2010 r. STATUT NARODOWEGO CENTRUM BADAŃ I ROZWOJU
+
+#### Rozdział 1 Postanowienia ogólne
+
+## Załącznik
+
 § 1. 1. Narodowe Centrum Badań i Rozwoju, zwane dalej „Centrum”, działa na podstawie ustawy z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju (Dz. U. z 2019 r. poz. 1770 i 2020), zwanej dalej „ustawą”, oraz niniejszego statutu.
 2. Statut określa:
 1) szczegółowy zakres zadań i tryb pracy organów Centrum, o których mowa w art. 3 ustawy;
 2) organizację Biura Centrum;
 3) wartość majątku, powyżej której rozporządzanie nim przez Dyrektora Centrum wymaga zgody Rady Centrum, zwanej dalej „Radą”.
+Rozdział 2 Szczegółowy zakres zadań i tryb pracy organów Centrum
 § 2. 1. Dyrektor Centrum, zwany dalej „Dyrektorem”, kieruje działalnością Centrum i reprezentuje je na zewnątrz oraz wykonuje inne zadania określone w ustawie.
 2. Do zadań Dyrektora należy:
 1) przygotowanie i przedstawienie do zatwierdzenia ministrowi właściwemu do spraw szkolnictwa wyższego i nauki, zwanemu dalej „Ministrem”, projektu rocznego planu działalności Centrum;
@@ -102,6 +109,7 @@ STATUT NARODOWEGO CENTRUM BADAŃ I ROZWOJU
 2. Przewodniczący Komitetu Sterującego zatwierdza protokół posiedzenia Komitetu Sterującego i przekazuje go Dyrektorowi, a jego kopię Ministrowi.
 3. Protokoły oraz uchwały Komitetu Sterującego przechowuje się w Biurze Centrum.
 4. Obsługę Komitetu Sterującego wykonuje Biuro Centrum.
+Rozdział 3 Organizacja Biura Centrum
 § 11. 1. W skład Biura Centrum wchodzą:
 1) komórki organizacyjne właściwe do spraw:
 a) zarządzania strategicznymi programami badań naukowych i prac rozwojowych,
@@ -122,10 +130,4 @@ m) prawnych;
 3. Bezpośredni nadzór nad komórką właściwą do spraw finansowo-księgowych sprawuje główny księgowy Centrum.
 4. Dyrektor może tworzyć samodzielne stanowiska pracy lub zespoły problemowe o charakterze stałym lub doraźnym, określając nazwę, skład osobowy zespołu, zakres zadań i tryb pracy.
 5. Szczegółową organizację i sposób działania Biura Centrum, w tym nazwy oraz zadania komórek organizacyjnych, określa regulamin organizacyjny Biura Centrum nadawany przez Dyrektora.
-
-#### Rozdział 1 Postanowienia ogólne
-
-#### Rozdział 2 Szczegółowy zakres zadań i tryb pracy organów Centrum
-
-#### Rozdział 3 Organizacja Biura Centrum
 

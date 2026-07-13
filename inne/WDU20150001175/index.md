@@ -27,9 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie maksymalnych stawek taksy notarialnej Na podstawie art. 5 § 3 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 28 czerwca 2004 r. w sprawie maksymalnych stawek taksy notarialnej (Dz. U. z 2013 r. poz. 237) w § 10a po ust. 2 dodaje się ust. 2a–2c w brzmieniu: „2a. Za czynności dotyczące europejskiego poświadczenia spadkowego, z wyłączeniem czynności, o których mowa w ust. 2b i 2c oraz § 12, maksymalna stawka wynosi 400 zł.
-2b. Za sporządzenie projektu protokołu dziedziczenia maksymalna stawka wynosi 100 zł.
-2c. Za sporządzenie protokołu obejmującego oświadczenie o wyrażeniu zgody na spisanie protokołu dziedziczenia zgodnie z jego projektem maksymalna stawka wynosi 50 zł.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 17 sierpnia 2015 r.
-Minister Sprawiedliwości: wz. J. Kozdroń
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 28 czerwca 2004 r. w sprawie maksymalnych stawek taksy notarialnej (Dz. U. z 2013 r. poz. 237) w § 10a po ust. 2 dodaje się ust. 2a–2c w brzmieniu: „2a. Za czynności dotyczące europejskiego poświadczenia spadkowego, z wyłączeniem czynności, o których mowa w ust. 2b i 2c oraz § 12, maksymalna stawka wynosi 400 zł. 2b. Za sporządzenie projektu protokołu dziedziczenia maksymalna stawka wynosi 100 zł. 2c. Za sporządzenie protokołu obejmującego oświadczenie o wyrażeniu zgody na spisanie protokołu dziedziczenia zgodnie z jego projektem maksymalna stawka wynosi 50 zł.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 17 sierpnia 2015 r. Minister Sprawiedliwości: wz. J. Kozdroń
 

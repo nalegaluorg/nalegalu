@@ -30,9 +30,16 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwoś
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Sprawiedliwości z dnia 25 marca 2016 r. zmieniającego rozporządzenie w sprawie minimalnej funkcjonalności oraz warunków organizacyjno-technicznych funkcjonowania systemu teleinformatycznego, w którym Krajowa Rada Notarialna prowadzi listę notariuszy oraz zastępców notarialnych (Dz. U. poz. 409), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r.”. Minister Sprawiedliwości: Z. Ziobro
 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 4 grudnia 2015 r.
 w sprawie minimalnej funkcjonalności oraz warunków organizacyjno-technicznych funkcjonowania systemu teleinformatycznego, w którym Krajowa Rada Notarialna prowadzi listę notariuszy oraz zastępców notarialnych Na podstawie art. 41a § 4 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2016 r. poz. 1796, 1948, 2175 i 2261) zarządza się, co następuje:
-§ 1. Rozporządzenie określa minimalną funkcjonalność oraz warunki organizacyjno-techniczne funkcjonowania systemu teleinformatycznego, w którym Krajowa Rada Notarialna prowadzi listę notariuszy oraz zastępców notarialnych.
-§ 2. 1. System teleinformatyczny, w którym prowadzona jest lista notariuszy oraz zastępców notarialnych, zwany dalej „systemem”, w ramach minimalnej funkcjonalności umożliwia weryfikację danych wprowadzonych do systemu obsługującego postępowanie wieczystoksięgowe wszczynane na wniosek składany za pośrednictwem tego systemu z danymi osobowymi oraz uprawnieniami notariuszy i zastępców notarialnych do składania wniosków o wpis w księdze wieczystej za pośrednictwem tego systemu.
+
+**§ 1.** Rozporządzenie określa minimalną funkcjonalność oraz warunki organizacyjno-techniczne funkcjonowania systemu teleinformatycznego, w którym Krajowa Rada Notarialna prowadzi listę notariuszy oraz zastępców notarialnych.
+
+**§ 2.**
+
+1. System teleinformatyczny, w którym prowadzona jest lista notariuszy oraz zastępców notarialnych, zwany dalej „systemem”, w ramach minimalnej funkcjonalności umożliwia weryfikację danych wprowadzonych do systemu obsługującego postępowanie wieczystoksięgowe wszczynane na wniosek składany za pośrednictwem tego systemu z danymi osobowymi oraz uprawnieniami notariuszy i zastępców notarialnych do składania wniosków o wpis w księdze wieczystej za pośrednictwem tego systemu.
+
 2. Realizując minimalną funkcjonalność, o której mowa w ust. 1, system umożliwia automatyczne obsłużenie zapytania pochodzącego z systemu teleinformatycznego obsługującego postępowanie wieczystoksięgowe wszczynane na wniosek składany za pośrednictwem tego systemu.
-§ 3. System zapewnia odnotowanie każdej zmiany dotyczącej osoby, której dane przechowywane są w systemie.
-§ 4. Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.
+
+**§ 3.** System zapewnia odnotowanie każdej zmiany dotyczącej osoby, której dane przechowywane są w systemie.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.
 

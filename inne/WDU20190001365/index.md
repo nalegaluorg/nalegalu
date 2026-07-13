@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001365) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1365/text.pdf) |
 
 zmieniające rozporządzenie w sprawie opiniowania służbowego policjantów Na podstawie art. 35 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2019 r. poz. 161, 125 i 1091) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2010 r. w sprawie opiniowania służbowego policjantów (Dz. U. z 2013 r. poz. 883, z 2014 r. poz. 1231, z 2018 r. poz. 215 oraz z 2019 r. poz. 441) wprowadza się następujące zmiany:
-1) w § 3 w ust. 3 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) ukończenia lub przerwania w Wyższej Szkole Policji w Szczytnie studiów I stopnia o profilu praktycznym na kierunku nauka o Policji, jeżeli od ostatniego opiniowania minęło co najmniej 6 miesięcy.”;
-2) w § 5 po pkt 13 dodaje się pkt 13a w brzmieniu: „13a) kierownik komórki organizacyjnej Wyższej Szkoły Policji w Szczytnie właściwej w sprawach dowodzenia, w stosunku do podległych mu policjantów, w tym odbywających w Wyższej Szkole Policji w Szczytnie studia I stopnia o profilu praktycznym na kierunku nauka o Policji w przypadkach, o których mowa w § 3 ust. 1 pkt 1 i 2 oraz ust. 3 pkt 3;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2019 r.
-Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2010 r. w sprawie opiniowania służbowego policjantów (Dz. U. z 2013 r. poz. 883, z 2014 r. poz. 1231, z 2018 r. poz. 215 oraz z 2019 r. poz. 441) wprowadza się następujące zmiany:
+
+- **1)** w § 3 w ust. 3 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) ukończenia lub przerwania w Wyższej Szkole Policji w Szczytnie studiów I stopnia o profilu praktycznym na kierunku nauka o Policji, jeżeli od ostatniego opiniowania minęło co najmniej 6 miesięcy.”;
+- **2)** w § 5 po pkt 13 dodaje się pkt 13a w brzmieniu: „13a) kierownik komórki organizacyjnej Wyższej Szkoły Policji w Szczytnie właściwej w sprawach dowodzenia, w stosunku do podległych mu policjantów, w tym odbywających w Wyższej Szkole Policji w Szczytnie studia I stopnia o profilu praktycznym na kierunku nauka o Policji w przypadkach, o których mowa w § 3 ust. 1 pkt 1 i 2 oraz ust. 3 pkt 3;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2019 r. Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
 

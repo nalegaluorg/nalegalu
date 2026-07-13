@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002584) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2584/text.pdf) |
 
 zmieniające rozporządzenie w sprawie utworzenia, ustalenia siedzib i obszarów właściwości ośrodków zamiejscowych prokuratur regionalnych, okręgowych i rejonowych poza siedzibą prokuratury Na podstawie art. 35 § 4 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2022 r. poz. 1247, 1259 i 2582) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 19 lutego 2016 r. w sprawie utworzenia, ustalenia siedzib i obszarów właściwości ośrodków zamiejscowych prokuratur regionalnych, okręgowych i rejonowych poza siedzibą prokuratury (Dz. U. poz. 268 i 2084) w § 2 uchyla się pkt 3.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 19 lutego 2016 r. w sprawie utworzenia, ustalenia siedzib i obszarów właściwości ośrodków zamiejscowych prokuratur regionalnych, okręgowych i rejonowych poza siedzibą prokuratury (Dz. U. poz. 268 i 2084) w § 2 uchyla się pkt 3.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. Minister Sprawiedliwości: Z. Ziobro
 

@@ -31,11 +31,14 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sp
 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 18 grudnia 2015 r.
 w sprawie wysokości opłaty za sporządzenie kopii oraz odpisu dokumentów Na podstawie art. 270b ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. Opłata za sporządzenie przez organ podatkowy kopii lub odpisu dokumentu wynosi:
-1) 0,60 zł – za jedną stronę w przypadku kopii lub odpisu jednostronnego w formacie A4;
-2) 0,80 zł – za dwie strony w przypadku kopii lub odpisu dwustronnego w formacie A4;
-3) 0,90 zł – za jedną stronę w przypadku kopii lub odpisu jednostronnego w formacie A3;
-4) 1,20 zł – za dwie strony w przypadku kopii lub odpisu dwustronnego w formacie A3;
-5) 0,40 zł – za jedną stronę zeskanowanego dokumentu papierowego.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
+
+**§ 1.** Opłata za sporządzenie przez organ podatkowy kopii lub odpisu dokumentu wynosi:
+
+- **1)** 0,60 zł – za jedną stronę w przypadku kopii lub odpisu jednostronnego w formacie A4;
+- **2)** 0,80 zł – za dwie strony w przypadku kopii lub odpisu dwustronnego w formacie A4;
+- **3)** 0,90 zł – za jedną stronę w przypadku kopii lub odpisu jednostronnego w formacie A3;
+- **4)** 1,20 zł – za dwie strony w przypadku kopii lub odpisu dwustronnego w formacie A3;
+- **5)** 0,40 zł – za jedną stronę zeskanowanego dokumentu papierowego.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.
 

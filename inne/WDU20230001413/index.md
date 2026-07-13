@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001413) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1413/text.pdf) |
 
 zmieniające rozporządzenie w sprawie warunków bezpieczeństwa i higieny służby w trakcie realizacji szkoleń w Policji Na podstawie art. 71a ust. 10 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 16 lipca 2019 r. w sprawie warunków bezpieczeństwa i higieny służby w trakcie realizacji szkoleń w Policji (Dz. U. poz. 1375, z 2020 r. poz. 1263 oraz z 2022 r.
-poz. 36 i 741) w § 2 pkt 1 otrzymuje brzmienie: „1) organizatorze szkolenia – należy przez to rozumieć Komendanta Głównego Policji, Komendanta Centralnego Biura Śledczego Policji, Komendanta Biura Spraw Wewnętrznych Policji, Komendanta Centralnego Biura Zwalczania Cyberprzestępczości, Dyrektora Centralnego Laboratorium Kryminalistycznego Policji, komendantów wojewódzkich Policji, Komendanta Stołecznego Policji, komendantów powiatowych (miejskich) Policji, komendantów rejonowych Policji, dyrektora instytutu badawczego, Komendanta-Rektora Akademii Policji w Szczytnie i komendantów szkół policyjnych lub kierującego podmiotem pozapolicyjnym;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 16 lipca 2019 r. w sprawie warunków bezpieczeństwa i higieny służby w trakcie realizacji szkoleń w Policji (Dz. U. poz. 1375, z 2020 r. poz. 1263 oraz z 2022 r. poz. 36 i 741) w § 2 pkt 1 otrzymuje brzmienie: „1) organizatorze szkolenia – należy przez to rozumieć Komendanta Głównego Policji, Komendanta Centralnego Biura Śledczego Policji, Komendanta Biura Spraw Wewnętrznych Policji, Komendanta Centralnego Biura Zwalczania Cyberprzestępczości, Dyrektora Centralnego Laboratorium Kryminalistycznego Policji, komendantów wojewódzkich Policji, Komendanta Stołecznego Policji, komendantów powiatowych (miejskich) Policji, komendantów rejonowych Policji, dyrektora instytutu badawczego, Komendanta-Rektora Akademii Policji w Szczytnie i komendantów szkół policyjnych lub kierującego podmiotem pozapolicyjnym;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

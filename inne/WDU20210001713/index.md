@@ -35,285 +35,6 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Bu
 RozpoRządzenie MiniSTRA TRAnSpoRTu, BudownicTwA i GoSpodARki MoRSkiej z dnia 2 września 2013 r.
 w sprawie licencjonowania personelu lotniczego Na podstawie art. 104 ust. 1 pkt 1–5 w związku z art. 94 ust. 8 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U.
 z 2020 r. poz. 1970 oraz z 2021 r. poz. 784 i 847) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzory licencji;
-2) uprawnienia przyznawane i wpisywane do licencji;
-3) szczegółowe wymagania dla poszczególnych rodzajów licencji, dotyczące kwalifikacji lotniczych w zakresie wiedzy, umiejętności i praktyki;
-4) szczegółowe warunki i sposób:
-a) wydawania, przedłużania, wznawiania, wymiany, cofania, ograniczania, zawieszania i przywracania licencji oraz wynikających z nich uprawnień,
-b) uznawania, zawieszania uznania, cofania uznania, przywracania uznania obcych licencji oraz wynikających z nich uprawnień, wydanych przez właściwy organ obcego państwa,
-c) uzyskiwania i sprawdzania kwalifikacji lotniczych,
-d) prowadzenia rejestru personelu lotniczego,
-e) prowadzenia szkolenia lotniczego;
-5) szczegółowe warunki wykonywania uprawnień wynikających z licencji;
-6) specjalności personelu lotniczego wykonującego czynności w załodze statków powietrznych i inne czynności lotnicze, w stosunku do których wprowadza się wymóg posiadania licencji.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) Dzienniku Urzędowym – rozumie się przez to Dziennik Urzędowy Urzędu Lotnictwa Cywilnego, o którym mowa w art. 23 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
-2) egzaminatorze praktycznym – rozumie się przez to członka komisji egzaminacyjnej, o której mowa w art. 99 ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, upoważnionego do przeprowadzenia części praktycznej egzaminu państwowego;
-3) egzaminatorze teoretycznym – rozumie się przez to członka komisji egzaminacyjnej, o której mowa w art. 99 ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, upoważnionego do przeprowadzenia części teoretycznej egzaminu państwowego;
-4) egzaminie państwowym – rozumie się przez to egzamin składający się z części teoretycznej lub praktycznej, składany przed komisją egzaminacyjną albo organizacją szkoleniową zgodnie z przepisami wydanymi na podstawie art. 99 ust. 6 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
-5) egzaminie praktycznym – rozumie się przez to część praktyczną egzaminu państwowego;
-6) egzaminie teoretycznym – rozumie się przez to część teoretyczną egzaminu państwowego;
-7) Konwencji – rozumie się przez to Konwencję o międzynarodowym lotnictwie cywilnym, sporządzoną w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z późn. zm. );
-8) licencjach – rozumie się przez to licencje dla specjalności personelu lotniczego, o których mowa w art. 94 ust. 6 pkt 1, 3 i 5 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
-9) PPL(A) – rozumie się przez to licencję pilota samolotowego turystycznego;
-10) CPL(A) – rozumie się przez to licencję pilota samolotowego zawodowego;
-11) ATPL(A) – rozumie się przez to licencję pilota samolotowego liniowego;
-12) MPL – rozumie się przez to licencję pilota samolotowego w załodze wieloosobowej;
-13) PPL(H) – rozumie się przez to licencję pilota śmigłowcowego turystycznego;
-14) CPL(H) – rozumie się przez to licencję pilota śmigłowcowego zawodowego;
-15) ATPL(H) – rozumie się przez to licencję pilota śmigłowcowego liniowego;
-16) SPL – rozumie się przez to licencję pilota szybowcowego;
-17) PPL(AS) – rozumie się przez to licencję pilota sterowcowego turystycznego;
-18) CPL(AS) – rozumie się przez to licencję pilota sterowcowego zawodowego;
-19) BPL – rozumie się przez to licencję pilota balonowego;
-20) PPL(AG) – rozumie się przez to licencję pilota wiatrakowcowego;
-21) CPL(AG) – rozumie się przez to licencję pilota wiatrakowcowego zawodowego;
-22) FNL – rozumie się przez to licencję nawigatora lotniczego;
-23) FEL – rozumie się przez to licencję mechanika pokładowego;
-24) FDL – rozumie się przez to licencję dyspozytora lotniczego;
-25) (uchylony);
-26) MML – rozumie się przez to licencję mechanika lotniczego obsługi technicznej statków powietrznych nieobjętych rozporządzeniem nr 2018/1139 i rozporządzeniem Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 3 czerwca 2013 r. w sprawie świadectw kwalifikacji (Dz. U. z 2017 r. poz. 288 oraz z 2021 r. poz. 939);
-27) LAPL(A) – rozumie się przez to licencję pilota samolotowego rekreacyjnego;
-28) LAPL(H) – rozumie się przez to licencję pilota śmigłowcowego rekreacyjnego;
-29) LAPL(S) – rozumie się przez to licencję pilota szybowcowego rekreacyjnego;
-30) LAPL(B) – rozumie się przez to licencję pilota balonowego rekreacyjnego;
-31) IFR – rozumie się przez to przepisy dla lotów według wskazań przyrządów;
-32) VFR – rozumie się przez to przepisy dla lotów z widocznością;
-33) obcej licencji – rozumie się przez to licencję wydaną lub potwierdzoną przez właściwy organ państwa obcego;
-34) orzeczeniu lotniczo-lekarskim – rozumie się przez to orzeczenie o braku przeciwwskazań do wykonywania funkcji członka personelu lotniczego, o którym mowa w art. 110 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
-35) Prezesie Urzędu – należy przez to rozumieć Prezesa Urzędu Lotnictwa Cywilnego;
-36) (uchylony);
-37) rozporządzeniu nr 1321/2014 – rozumie się przez to rozporządzenie Komisji (UE) nr 1321/2014 z dnia 26 listopada 2014 r. w sprawie ciągłej zdatności do lotu statków powietrznych oraz wyrobów lotniczych, części i wyposażenia, a także w sprawie zatwierdzeń udzielanych organizacjom i personelowi zaangażowanym w takie zadania (Dz. Urz. UE L 362 z 17.12.2014, str. 1, z późn. zm.);
-38) rozporządzeniu nr 1178/2011 – rozumie się przez to rozporządzenie Komisji (UE) nr 1178/2011 z dnia 3 listopada 2011 r. ustanawiające wymagania techniczne i procedury administracyjne odnoszące się do załóg w lotnictwie cywilnym zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 311 z 25.11.2011, str. 1, z późn. zm.);
-38a) rozporządzeniu nr 748/2012 – rozumie się przez to rozporządzenie Komisji (UE) nr 748/2012 z dnia 3 sierpnia 2012 r.
-ustanawiające przepisy wykonawcze dotyczące certyfikacji statków powietrznych i związanych z nimi wyrobów, części i akcesoriów w zakresie zdatności do lotu i ochrony środowiska oraz dotyczące certyfikacji organizacji projektujących i produkujących (Dz. Urz. UE L 224 z 21.08.2012, str. 1, z późn. zm.);
-38b) rozporządzeniu nr 2018/1139 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2018/1139 z dnia 4 lipca 2018 r. w sprawie wspólnych zasad w dziedzinie lotnictwa cywilnego i utworzenia Agencji Unii Europejskiej ds. Bezpieczeństwa Lotniczego oraz zmieniające rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 2111/2005, (WE) nr 1008/2008, (UE) nr 996/2010, (UE) nr 376/2014 i dyrektywy Parlamentu Europejskiego i Rady 2014/30/UE i 2014/53/UE, a także uchylające rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 552/2004 i (WE) nr 216/2008 i rozporządzenie Rady (EWG) nr 3922/91 (Dz. Urz. UE L 212 z 22.08.2018, str. 1);
-39) rozporządzeniu w sprawie certyfikacji – rozumie się przez to rozporządzenie wydane na podstawie art. 163 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
-40) uprawnieniu – rozumie się przez to upoważnienie wpisane do licencji lub związane z licencją i stanowiące jej część określające szczególne warunki, możliwości lub ograniczenia odnoszące się do takiej licencji w odniesieniu w szczególności do klasy lub typu statku powietrznego lub warunków lotu;
-40a) TPR – rozumie się przez to uprawnienie pilota doświadczalnego odpowiedniej kategorii prób w locie;
-41) Urzędzie – należy przez to rozumieć Urząd Lotnictwa Cywilnego;
-42) uprawnieniu uzupełniającym w zakresie języka – rozumie się przez to upoważnienie wpisane do licencji i stanowiące jej część, określające biegłość językową posiadacza na poziomie minimum 4 operacyjnym według skali klasyfikacji podanej w Dodatku A do Załącznika 1 do Konwencji;
-43) ustawie – rozumie się przez to ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze;
-44) Załączniku 1 – rozumie się przez to Załącznik 1 do Konwencji (Dz. Urz. ULC z 2008 r. poz. 6).
-§ 3. 1. Przepisy rozporządzenia stosuje się do:
-1) PPL(A), CPL(A), ATPL(A), MPL, PPL(H), CPL(H), ATPL(H), SPL, PPL(AS), CPL(AS), BPL;
-2) FNL, FEL, FDL, MML;
-3) PPL(AG), CPL(AG).
-2. Przepisy rozporządzenia stosuje się również do LAPL(A), LAPL(B), LAPL(H) i LAPL(S), o których mowa w rozporządzeniu nr 1178/2011.
-§ 4. Do spraw określonych w rozporządzeniu w odniesieniu do licencji, o których mowa w § 3 ust. 1 pkt 1 i 2, stosuje się normy i zalecane metody postępowania określone w Załączniku 1, z wyjątkiem norm oraz zalecanych metod postępowania określonych w pkt 1.1, 1.2.6.1.1, 1.2.9.4, 2.1.1.1, 2.4.6.1.1.1, 4.6.1.1, 6.3.1.2.1, 6.3.1.3, 6.3.2.2.1 i 6.4.2.2.1 oraz w załączniku 2 i 4 do tego Załącznika.
-§ 5. 1. Prezes Urzędu zawiadamia Organizację Międzynarodowego Lotnictwa Cywilnego o różnicach w rozumieniu art. 38 Konwencji.
-2. Różnice, o których mowa w ust. 1, są ogłaszane w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego oraz w Zintegrowanym Pakiecie Informacji Lotniczych, w Zbiorze Informacji Lotniczych Polska (AIP Polska).
-§ 6. 1. Wzór licencji, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 2, określa Dodatek I do załącznika VI (Część ARA) do rozporządzenia nr 1178/2011.
-2. Nazwy specjalności członków personelu lotniczego i symbole licencji, o których mowa w § 3 ust. 1 pkt 2 i 3, określa załącznik nr 1 do rozporządzenia.
-3. Wzory licencji, o których mowa w § 3 ust. 1 pkt 2 i 3, określa załącznik nr 2 do rozporządzenia.
-§ 7. 1. Prezes Urzędu wydaje licencje, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 2, wraz z wpisywanymi do nich uprawnieniami kandydatowi, który spełnił wymagania określone w załączniku I (Część FCL) do rozporządzenia nr 1178/2011 odpowiednio dla poszczególnych licencji i uprawnień ujętych w tym załączniku.
-2. Prezes Urzędu wydaje licencje, o których mowa w § 3 ust. 1 pkt 2, wraz z wpisywanymi do nich uprawnieniami kandydatowi, który spełnił wymagania określone w Załączniku 1, a w zakresie uprawnień nieuregulowanych w tym Załączniku – wymagania określone w załączniku nr 3 do rozporządzenia.
-3. Prezes Urzędu wydaje licencje, o których mowa w § 3 ust. 1 pkt 3, wraz z wpisywanymi do nich uprawnieniami kandydatowi, który spełnił wymagania określone w załączniku nr 3 do rozporządzenia.
-4. Zakresy wpisów uprawnień do licencji, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 2, oraz skróty nazw tych uprawnień określają przepisy załącznika I (Część FCL) do rozporządzenia nr 1178/2011.
-5. Nazwy i skróty nazw uprawnień wpisywanych do licencji, o których mowa w § 3 ust. 1 pkt 2 i 3, określa załącznik nr 4 do rozporządzenia.
-§ 8. 1. Warunki przedłużania i wznawiania uprawnień wpisywanych do licencji, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 2, określają przepisy załącznika I (Część FCL) do rozporządzenia nr 1178/2011.
-2. Warunki przedłużania i wznawiania uprawnień wpisywanych do licencji, o których mowa w § 3 ust. 1 pkt 2 i 3, określają przepisy załącznika nr 3 do rozporządzenia.
-§ 9. 1. Licencję lub uprawnienie wydaje się na wniosek złożony do Prezesa Urzędu.
-2. Do wniosku, o którym mowa w ust. 1, dołącza się kopie dokumentów potwierdzających spełnienie wymagań niezbędnych do wydania licencji lub uprawnienia.
-§ 10. 1. Licencja podlega wymianie:
-1) po uzyskaniu uprawnienia wpisywanego do licencji;
-2) po utracie lub przedłużeniu ważności uprawnienia uzupełniającego w zakresie języka;
-3) po wznowieniu lub przywróceniu ważności uprawnienia, o którym mowa w pkt 1, które uprzednio nie było wpisane do licencji;
-4) po przywróceniu ważności licencji lub wpisanego do niej uprawnienia;
-5) w razie zmiany danych osobowych wpisywanych do licencji;
-6) w razie konieczności sprostowania błędu;
-7) po zapełnieniu miejsc na wpisy;
-8) w razie uszkodzenia dokumentu licencji;
-9) w razie dokonania wpisu niestandardowego.
-2. Wymiany licencji dokonuje się na wniosek złożony do Prezesa Urzędu albo z urzędu. Przepis § 9 ust. 2 stosuje się.
-3. W wyniku wymiany licencji Prezes Urzędu wydaje nowy dokument licencji, do którego wpisuje się wyłącznie ważne uprawnienia posiadane przez członka personelu lotniczego w dniu wydania nowego dokumentu licencji.
-4. Członek personelu lotniczego w przypadkach, o których mowa w ust. 1, zwraca Prezesowi Urzędu podlegający wymianie dokument licencji. Zwrot dokumentu licencji jest warunkiem wydania nowego dokumentu, o którym mowa w ust. 3.
-5. W przypadku utraty lub zniszczenia dokumentu licencji:
-1) członek personelu lotniczego informuje pisemnie Prezesa Urzędu o dacie i okolicznościach utraty lub zniszczenia dokumentu licencji;
-2) jest wydawany duplikat dokumentu, który znajduje się w teczce osobowej członka personelu lotniczego, uaktualniony w zakresie ważności uprawnień, na podstawie protokołów ze sprawdzenia wiedzy i umiejętności oraz innych dokumentów dotyczących posiadanych uprawnień i ograniczeń, znajdujących się w tej teczce osobowej.
-§ 11. 1. Zawieszenie albo cofnięcie licencji, o których mowa w § 3:
-1) ust. 1 pkt 1 oraz ust. 2, a także uprawnień do nich wpisanych, z wyłączeniem uprawnień, o których mowa w § 2 pkt 40a, następuje w przypadkach określonych w przepisach FCL.070 załącznika I oraz ARA.FCL.250 sekcja II załącznika VI do rozporządzenia nr 1178/2011;
-2) ust. 1 pkt 2 i 3, a także uprawnień do nich wpisanych oraz uprawnień, o których mowa w § 2 pkt 40a, następuje w przypadkach określonych w art. 100 ustawy.
-2. Zawieszając licencję lub uprawnienie:
-1) określa się okres zawieszenia;
-2) można wskazać termin i sposób spełnienia wymagań określonych w art. 96 ust. 1 ustawy niezbędnych do przywrócenia zawieszonej licencji lub uprawnienia.
-3. Osoba, której licencja lub uprawnienie zostały cofnięte albo zawieszone i zatrzymane zgodnie z przepisami art. 100 ustawy, niezwłocznie przekazuje dokument licencji, za pokwitowaniem, Prezesowi Urzędu, chyba że licencja została już uprzednio zatrzymana przez Prezesa Urzędu lub inny właściwy organ.
-§ 12. 1. Zawieszoną licencję albo uprawnienie przywraca się na wniosek zainteresowanego członka personelu lotniczego, jeżeli upłynął okres zawieszenia lub zostały spełnione wymagania niezbędne do przywrócenia zawieszonej licencji lub uprawnienia określone zgodnie z § 11 ust. 2 pkt 2.
-2. Do wniosku, o którym mowa w ust. 1, dołącza się kopię orzeczenia lotniczo-lekarskiego odpowiedniej klasy oraz dokumenty potwierdzające spełnienie wymagań niezbędnych do przywrócenia zawieszonej licencji lub uprawnienia, jeżeli zostały określone zgodnie z § 11 ust. 2 pkt 2.
-3. Jeżeli upłynął okres zawieszenia licencji lub uprawnienia, a członek personelu lotniczego nie spełnił wymagań niezbędnych do przywrócenia licencji lub uprawnienia, Prezes Urzędu cofa zawieszoną licencję lub uprawnienie.
-§ 13. Uznanie obcych licencji stwierdzających posiadanie kwalifikacji niezbędnych do uzyskania licencji, o których mowa w § 3 ust. 1 pkt 1, następuje zgodnie z art. 8 ust. 1 oraz częścią A załącznika III do rozporządzenia nr 1178/2011, z zastrzeżeniem § 14.
-§ 14. 1. Obca licencja stwierdzająca posiadanie kwalifikacji do wykonywania lotów rekreacyjnych lub sportowych może zostać uznana odpowiednio do PPL(A), PPL(H), SPL, BPL albo PPL(AG) z ograniczeniem do wykonywania lotów rekreacyjnych lub sportowych, które mają być wykonywane w polskiej przestrzeni powietrznej.
-2. Uznanie obcej licencji, o której mowa w ust. 1, następuje na wniosek zainteresowanego złożony do Prezesa Urzędu.
-3. Do wniosku dołącza się kopię obcej licencji oraz kopię orzeczenia lotniczo-lekarskiego, które spełnia co najmniej jeden z następujących warunków:
-1) zostało wydane zgodnie z wymaganiami Załącznika 1;
-2) zostało wydane przez państwo, z którym Rzeczpospolita Polska zawarła umowę o uznawaniu orzeczeń lotniczo-lekarskich;
-3) zostało wydane zgodnie z art. 106 ust. 1 ustawy.
-§ 15. Osoba ubiegająca się o uznanie obcej licencji stwierdzającej posiadanie kwalifikacji niezbędnych do uzyskania licencji, o których mowa w § 3 ust. 1 pkt 2 i 3, powinna:
-1) złożyć do Prezesa Urzędu wniosek o uznanie obcej licencji wraz z kopią tej licencji;
-2) uzyskać pozytywny wynik egzaminu praktycznego przed egzaminatorem praktycznym w zakresie wymaganym do wydania licencji odpowiedniej dla kwalifikacji stwierdzonych w obcej licencji, która jest przedmiotem uznania;
-3) przedstawić orzeczenie lotniczo-lekarskie spełniające co najmniej jeden z następujących warunków:
-a) zostało wydane przez państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym,
-b) zostało wydane przez państwo, z którym Rzeczpospolita Polska zawarła umowę o uznawaniu orzeczeń lotniczo-lekarskich,
-c) zostało wydane zgodnie z art. 106 ust. 1 ustawy;
-4) posiadać ważne uprawnienia, które odpowiadają uprawnieniom wpisywanym do licencji, o których mowa w § 3 ust. 1 pkt 2 i 3.
-§ 16. Prezes Urzędu może wystąpić do właściwego organu państwa obcego, który wydał obcą licencję albo orzeczenie lotniczo-lekarskie, o którym mowa w § 15 pkt 3 lit. a lub b, o potwierdzenie ważności tych dokumentów.
-§ 17. 1. Uznania obcej licencji dokonuje się każdorazowo na okres jej ważności lub na okres ważności badań lotniczo-lekarskich, jeżeli termin ważności obcej licencji nie jest określony, jednakże nie dłużej niż na rok.
-2. Prezes Urzędu, uznając obcą licencję odpowiednio do licencji, o której mowa w § 3 ust. 1, wydaje decyzję o uznaniu, której załącznik stanowi świadectwo uznania. Wzór świadectwa uznania określa załącznik nr 5 do rozporządzenia.
-§ 18. Uznanie obcej licencji uprawnia jej posiadacza do wykonywania lotów i innych czynności lotniczych w zakresie określonym w decyzji o uznaniu.
-§ 19. 1. Prezes Urzędu może cofnąć albo zawiesić:
-1) uznanie obcej licencji lub uprawnienia wynikającego z licencji w przypadkach, o których mowa w art. 100 ustawy;
-2) obcą licencję lub uprawnienie wynikające z tej licencji, jeżeli takie prawo wynika z wiążącej Rzeczpospolitą Polską umowy międzynarodowej lub przepisów międzynarodowych.
-2. Do cofnięcia, zawieszenia oraz przywrócenia uznania obcej licencji i uprawnienia z niej wynikającego stosuje się odpowiednio przepisy § 11 i § 12.
-§ 20. Przepisy niniejszego rozdziału stosuje się odpowiednio do dokumentów równoważnych licencjom, o których mowa w § 3, wydanych lub potwierdzonych przez właściwy organ państwa obcego.
-§ 21. 1. Szczegółowe warunki i sposób prowadzenia szkolenia lotniczego wymaganego w celu uzyskania licencji, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 2, a także wpisywanych do nich uprawnień określa załącznik IV do rozporządzenia nr 2018/1139 i załącznik I (Część FCL) do rozporządzenia nr 1178/2011.
-2. Szczegółowe warunki i sposób prowadzenia szkolenia lotniczego wymaganego w celu uzyskania licencji, o których mowa w § 3 ust. 1 pkt 2 oraz 3, a także wpisywanych do nich uprawnień określa załącznik nr 3 do rozporządzenia.
-§ 22. Szkolenie lotnicze składa się z:
-1) szkolenia teoretycznego – w celu uzyskania licencji, o których mowa w § 3;
-2) szkolenia praktycznego na ziemi i w locie – w celu uzyskania licencji, o których mowa w § 3 ust. 1 pkt 1 i 3 oraz ust. 2, a także FNL i FEL;
-3) szkolenia praktycznego na ziemi – w celu uzyskania FDL i MML;
-4) uzupełniającego szkolenia praktycznego – w formie nadzorowanej praktyki lotniczej, w zakresie wymaganym dla uzyskania uprawnień instruktorskich do licencji, o których mowa § 3 ust. 1 pkt 2 i 3 – na warunkach określonych w załączniku nr 3 do rozporządzenia.
-§ 23. Szkolenie praktyczne na ziemi i w locie prowadzi się na statkach powietrznych spełniających wymagania określone w art. 31 ust. 1 ustawy lub na polskich państwowych statkach powietrznych, które odpowiadają rodzajowi i zakresowi szkolenia, a w odniesieniu do szkolenia pilotów również przy zastosowaniu odpowiednich do rodzaju i zakresu szkolenia szkoleniowych urządzeń symulacji lotu określonych w rozporządzeniu nr 1178/2011.
-§ 24. Uczestnik szkolenia teoretycznego lub praktycznego prowadzonego w celu uzyskania licencji, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 2, a także wpisywanych do nich uprawnień, powinien spełniać wymagania określone w załączniku IV do rozporządzenia nr 2018/1139, załączniku I (Część FCL) i załączniku IV (Część MED) do rozporządzenia nr 1178/2011.
-§ 25. 1. Uczestnik szkolenia teoretycznego lub praktycznego prowadzonego w celu uzyskania licencji, o których mowa w § 3 ust. 1 pkt 2, oraz wpisywanych do nich uprawnień, powinien spełniać wymagania określone w załączniku nr 3 do rozporządzenia, a przed rozpoczęciem szkolenia praktycznego dodatkowo uzyskać orzeczenie lotniczo-lekarskie klasy odpowiedniej dla danej licencji, jeżeli jest wymagane.
-2. Uczestnik szkolenia teoretycznego i praktycznego prowadzonego w celu uzyskania licencji, o których mowa w § 3 ust. 1 pkt 3, oraz wpisywanych do nich uprawnień, powinien spełniać wymagania określone w załączniku nr 3 do rozporządzenia, a przed wykonaniem pierwszego samodzielnego lotu uzyskać orzeczenie lotniczo-lekarskie klasy odpowiedniej dla danej licencji.
-3. Spełnianie przez uczestnika szkolenia wymagań, o których mowa w ust. 1 i 2, stwierdza ośrodek szkolenia lotniczego przed rozpoczęciem szkolenia oraz w trakcie jego trwania.
-§ 26. 1. Szkolenie lotnicze prowadzi się w ośrodku szkolenia lotniczego będącym samodzielną organizacją lotniczą albo jednostką organizacyjną innego podmiotu. W przypadku gdy ośrodek jest jednostką organizacyjną innego podmiotu, osoba kierująca ośrodkiem szkolenia lotniczego jest bezpośrednio podporządkowana służbowo osobie kierującej tym podmiotem, z wyjątkiem przypadku, gdy ta sama osoba kieruje podmiotem i wchodzącym w jego skład ośrodkiem szkolenia lotniczego.
-2. Szkolenie mechaników lotniczych obsługi technicznej statku powietrznego dotyczące typu statku powietrznego prowadzi się wyłącznie:
-1) w organizacji szkolenia lotniczego zatwierdzonej zgodnie z wymaganiami rozporządzenia nr 1321/2014;
-2) w organizacji obsługi technicznej statków powietrznych, certyfikowanej do obsługi danego typu statku powietrznego, w zakresie obsługi, której dotyczy szkolenie, po każdorazowym zatwierdzeniu szkolenia przez Prezesa Urzędu;
-3) w ośrodku szkolenia mechaników lotniczych obsługi technicznej;
-4) u producenta statku powietrznego, po każdorazowym zatwierdzeniu szkolenia przez Prezesa Urzędu.
-3. Szkolenie pilotów doświadczalnych, z wyłączeniem szkolenia, o którym mowa w załączniku I (Część FCL) do rozporządzenia nr 1178/2011, może prowadzić ośrodek szkolenia lotniczego, o którym mowa w § 28 ust. 5, o ile ośrodek ten posiada uprawnienia do prowadzenia szkolenia pilotów doświadczalnych.
-§ 27. Ośrodek szkolenia lotniczego prowadzi szkolenie lotnicze w zakresie objętym posiadanym certyfikatem wydanym na podstawie art. 160 ust. 3 pkt 2 ustawy.
-§ 28. 1. Szkolenie lotnicze prowadzi się:
-1) zgodnie z zatwierdzonymi przez Prezesa Urzędu do użytku w tym ośrodku i wprowadzonymi w życie instrukcjami wykonawczymi oraz dokumentami regulaminowymi:
-a) instrukcją szkolenia, a w przypadku ośrodka szkolenia mechaników lotniczych obsługi technicznej – charakterystyką ośrodka określającą organizację i procedury szkolenia lotniczego oraz struktury zarządzania szkoleniem i jego nadzorowanie,
-b) instrukcją operacyjną określającą zasady, zakres współpracy z innymi organizacjami i procedury organizacji i wykonywania operacji lotniczych związanych ze szkoleniem w locie, kierowania tymi operacjami i sprawowania nad nimi bieżącego nadzoru operacyjnego – w przypadku ośrodków prowadzących szkolenie podczas operacji statków powietrznych,
-c) instrukcją systemu monitorowania zgodności z wymaganiami,
-d) programami szkoleń;
-2) z udziałem kadry dydaktycznej posiadającej kwalifikacje i uprawnienia odpowiednie do rodzaju i zakresu szkolenia lotniczego;
-3) przy wykorzystaniu bazy dydaktycznej odpowiedniej do rodzaju i zakresu szkolenia lotniczego;
-4) przy wykorzystaniu statków powietrznych albo szkoleniowych urządzeń symulacji lotu, odpowiednich do rodzaju i zakresu szkolenia lotniczego.
-2. Ośrodek szkolenia lotniczego:
-1) aktualizuje dokumenty, o których mowa w ust. 1 pkt 1, stosownie do zmian w przepisach prawa lotniczego, zmian w funkcjonowaniu lub wyposażeniu ośrodka szkolenia lotniczego oraz przedkłada te dokumenty Prezesowi Urzędu do zatwierdzenia;
-2) prowadzi szkolenie w zakresie określonym w otrzymanym certyfikacie lub zgodnie z programami szkoleń lotniczych specjalistycznych, o których mowa w ust. 4, lub w zakresie szkoleń do uzyskania TPR;
-3) informuje Prezesa Urzędu o planowanych kursach szkoleniowych lub szkoleniach indywidualnych przed rozpoczęciem kursu lub szkolenia.
-3. Przepisy ust. 2 pkt 1 i 3 stosuje się odpowiednio do podmiotów wymienionych w § 26 ust. 2.
-4. Ośrodek szkolenia lotniczego może prowadzić szkolenia lotnicze specjalistyczne w zakresie, o którym mowa w rozdziale 4 załącznika nr 3 do rozporządzenia, na podstawie programów szkoleń specjalistycznych zatwierdzonych przez kierownika szkolenia ośrodka szkolenia lotniczego.
-5. Ośrodek szkolenia lotniczego prowadzący szkolenia w celu uzyskania licencji, o których mowa w § 2 pkt 10, 11, 14–16, 18, 19 lub 21, może prowadzić szkolenia lotnicze w zakresie, o którym mowa w rozdziale 3 załącznika nr 3 do rozporządzenia.
-§ 29. 1. Szkolenie lotnicze w celu uzyskania licencji, o których mowa w § 3, lub uprawnień może być prowadzone według indywidualnego toku szkolenia zatwierdzanego przez kierownika szkolenia ośrodka szkolenia lotniczego dla osoby, która nabyła w części wymaganą wiedzę lub umiejętności lub odbyła w części wymaganą praktykę, w celu:
-1) dokończenia szkolenia lotniczego rozpoczętego wcześniej w innym certyfikowanym ośrodku szkolenia lotniczego na terytorium Rzeczypospolitej Polskiej lub w państwie obcym;
-2) przywrócenia albo wznowienia licencji lub uprawnienia;
-3) wydania licencji na podstawie obcej licencji lub dokumentu równoważnego stwierdzającego posiadane kwalifikacje dotyczące specjalności członka personelu lotniczego wydanych lub potwierdzonych przez właściwy organ państwa obcego.
-2. Indywidualny tok szkolenia opracowuje się w oparciu o weryfikację wiedzy, umiejętności lub udokumentowanej praktyki lotniczej osoby, o której mowa w ust. 1, na podstawie programu szkolenia, o którym mowa w § 28 ust. 1 pkt 1 lit. d, odpowiedniego do rodzaju licencji lub uprawnienia.
-3. Indywidualnego toku szkolenia nie opracowuje się, w przypadku gdy w trakcie weryfikacji wiedzy, umiejętności lub udokumentowanej praktyki lotniczej stwierdzono, że osoba spełnia wymagania w zakresie szkolenia lotniczego w celu uzyskania licencji, o których mowa w § 3 ust. 1 pkt 2 i 3, lub wpisywanych do nich uprawnień. W takim przypadku prowadzący szkolenie lotnicze wystawia zaświadczenie o spełnieniu wymagań w zakresie szkolenia lotniczego w celu uzyskania danej licencji lub uprawnienia.
-4. Przepisu ust. 3 nie stosuje się do TPR.
-§ 30. Prowadzący szkolenie lotnicze wystawia zaświadczenie o ukończeniu szkolenia lotniczego albo jego części.
-§ 31. Sprawdzenie kwalifikacji lotniczych w zakresie wiedzy, umiejętności i praktyki, zwane dalej „sprawdzeniem kwalifikacji lotniczych”, dotyczące licencji, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 2, odbywa się zgodnie z przepisami załącznika I (Część FCL) do rozporządzenia nr 1178/2011, z uwzględnieniem § 32, 34 i 35.
-§ 32. 1. Sprawdzanie kwalifikacji lotniczych następuje:
-1) w procesie szkolenia lotniczego teoretycznego i praktycznego, zgodnie z zatwierdzonymi programami szkolenia lotniczego;
-2) przed wydaniem licencji lub uprawnienia;
-3) w celu przedłużenia albo wznowienia ważności uprawnienia;
-4) przed dokonaniem wpisu do licencji uprawnienia uzupełniającego w zakresie języka oraz przed dokonaniem wpisu do licencji upoważnienia do prowadzenia korespondencji radiotelefonicznej R/T w przypadku braku tego wpisu w posiadanej licencji;
-5) jeżeli licencja została zawieszona na skutek powstania uzasadnionego przypuszczenia, że członek personelu lotniczego nie posiada wymaganej wiedzy lub umiejętności, w szczególności w wyniku badania wypadku albo incydentu lotniczego lub wykonywania czynności nadzoru lotniczego.
-2. Sprawdzenia kwalifikacji lotniczych, o którym mowa w ust. 1 pkt 3, nie przeprowadza się w stosunku do mechanika lotniczego obsługi technicznej, jeżeli udokumentuje on wykonywanie czynności obsługowych przez okres 6 miesięcy w ciągu ostatnich 2 lat.
-§ 33. 1. Sprawdzenie kwalifikacji lotniczych w celu przedłużenia ważności uprawnienia, którego ważność zgodnie z załącznikiem nr 3 do rozporządzenia wynosi:
-1) 12 miesięcy – jest przeprowadzane w okresie jego ważności, jednak nie wcześniej niż na 3 miesiące przed jej upływem;
-2) 3 lata – jest przeprowadzane w okresie jego ważności, jednak nie wcześniej niż na 12 miesięcy przed jej upływem.
-2. W razie upływu ważności uprawnienia, o którym mowa w ust. 1, wznawia się jego ważność. Wznowienie ważności uprawnienia może nastąpić po sprawdzeniu kwalifikacji lotniczych dokonanym przez egzaminatora praktycznego, po wcześniejszym odbyciu szkolenia lotniczego, z uwzględnieniem przepisów załącznika nr 3 do rozporządzenia.
-3. W razie negatywnego wyniku sprawdzenia kwalifikacji lotniczych, o którym mowa w ust. 1 i 2, w celu przedłużenia lub wznowienia ważności uprawnienia egzaminowany odbywa szkolenie lotnicze w zakresie wskazanym przez egzaminatora państwowego w protokole egzaminacyjnym, z uwzględnieniem przepisów załącznika nr 3 do rozporządzenia.
-§ 34. 1. Sprawdzenie kwalifikacji lotniczych w przypadku, o którym mowa w § 32 ust. 1 pkt 1, przeprowadza ośrodek szkolenia lotniczego w zakresie szkolenia objętego posiadanym certyfikatem.
-2. Sprawdzenia kwalifikacji lotniczych w przypadkach, o których mowa w § 32 ust. 1 pkt 2–5, dokonuje się w formie egzaminu teoretycznego lub egzaminu praktycznego.
-§ 35. 1. Sprawdzenie kwalifikacji lotniczych w zakresie umiejętności posługiwania się w łączności radiowej frazeologią lotniczą oraz językiem polskim lub angielskim następuje zgodnie z przepisami załącznika I (Część FCL) do rozporządzenia nr 1178/2011.
-2. Sprawdzenie kwalifikacji lotniczych, o którym mowa w ust. 1, potwierdza się wpisem uprawnienia uzupełniającego w zakresie języka dokonywanego w PPL(A), CPL(A) ATPL(A), PPL(H), CPL(H), ATPL(H), MPL, PPL(AS), CPL(AS), FNL, LAPL(A) i LAPL(H).
-§ 36. Szczegółowe warunki wykonywania uprawnień wynikających z licencji, o których mowa w § 3 ust. 1 pkt 1 i ust. 2, określa załącznik I (Część FCL) i załącznik IV (Część MED) do rozporządzenia nr 1178/2011, z uwzględnieniem § 37.
-§ 37. 1. Licencje, o których mowa w § 3 ust. 1 pkt 1 i 3 oraz ust. 2, uprawniają ich posiadaczy do wykonywania czynności lotniczych na statkach powietrznych wymienionych w załączniku I do rozporządzenia nr 2018/1139.
-2. Czynności lotnicze, o których mowa w ust. 1, mogą być wykonywane jedynie na tej kategorii statku powietrznego wymienionego w załączniku I do rozporządzenia nr 2018/1139, do którego odnosi się posiadana przez pilota licencja wymieniona w § 3 ust. 1 pkt 1 i 3 oraz ust. 2, pod warunkiem posiadania:
-1) ważnego uprawnienia na klasę statku powietrznego oraz kwalifikacji potwierdzonych w dokumentacji osobistej pilota na dany wariant statku powietrznego w ramach klasy albo
-2) wpisanego do licencji uprawnienia na typ statku powietrznego, albo
-3) TPR, jeżeli dotyczy.
-3. Wykonywanie czynności pilota podczas prób w locie wymaga posiadania TPR klasy odpowiedniej do prób w locie.
-4. Szczegółowe warunki wydania TPR i zakres uprawnień wynikających z jego posiadania określa rozdział 3 załącznika nr 3 do rozporządzenia.
-5. W przypadku braku pilota posiadającego CPL(AG), spełniającego wymagania do uzyskania TPR pilota doświadczalnego wiatrakowcowego, czynności pilota doświadczalnego wiatrakowcowego może wykonywać, posiadacz:
-1) CPL(H) albo ATPL(H), z wpisanym TPR pilota śmigłowcowego, lub
-2) CPL(A) albo ATPL(A), z wpisanym TPR pilota samolotowego, oraz świadectwa kwalifikacji pilota wiatrakowcowego o maksymalnej masie startowej (MTOM) do 560 kg (UAGP).
-§ 38. 1. Członek personelu lotniczego może wykonywać czynności lotnicze wyłącznie w zakresie wynikającym z:
-1) licencji, z uwzględnieniem ograniczeń do niej wpisanych;
-2) uprawnień wpisanych do licencji;
-3) potwierdzeń odbycia szkoleń lotniczych specjalistycznych, o których mowa w rozdziale 4 załącznika nr 3 do rozporządzenia, wpisanych do osobistego dokumentu praktyki lotniczej.
-2. Członek personelu lotniczego podczas wykonywania czynności lotniczych, do których uprawnia licencja, posiada ją przy sobie wraz z następującymi dokumentami:
-1) orzeczeniem lotniczo-lekarskim, jeżeli jest ono wymagane;
-2) dokumentem tożsamości ze zdjęciem;
-3) zaktualizowanym osobistym dokumentem praktyki lotniczej.
-3. Posiadacz MML może poświadczać obsługę wyłącznie w zakresie wynikającym z:
-1) licencji, z uwzględnieniem wpisanych do niej ograniczeń;
-2) uprawnień lotniczych, wpisanych do jego licencji albo upoważnień wydanych przez zatrudniającą organizację obsługową.
-4. Posiadacz MML może poświadczać wykonanie obsługi technicznej statku powietrznego, jeżeli:
-1) ukończył z wynikiem pozytywnym szkolenie specjalistyczne w zakresie tego typu statku powietrznego w jednym z podmiotów, o których mowa w § 26 ust. 2, i posiada wpis typu statku powietrznego oraz praktyki do osobistego dokumentu praktyki lotniczej albo zaliczył egzamin teoretyczny i egzamin praktyczny na uprawnienie na typ statku powietrznego w zakresie MML;
-2) w ciągu ostatnich 2 lat wykazał się 6-miesięczną praktyką w obsłudze statków powietrznych wpisanych do dokumentu praktyki lotniczej mechanika lotniczego obsługi technicznej.
-5. Mechanik lotniczy posiadający licencję na obsługę techniczną statku powietrznego Part-66 w kategorii lub podkategorii B1, B2, B3 lub L, wydaną zgodnie z wymaganiami rozporządzenia nr 1321/2014, może poświadczać obsługę statków powietrznych objętych niniejszym rozporządzeniem, właściwych dla kategorii lub podkategorii licencji, z uwzględnieniem ograniczeń do niej wpisanych po spełnieniu warunków, o których mowa w ust. 4.
-§ 39. Członek personelu lotniczego i uczestnik szkolenia lotniczego odbywający szkolenie w celu uzyskania licencji lub uprawnienia powstrzymuje się od wykonywania czynności lotniczych w przypadku, gdy:
-1) odczuwa dolegliwość fizyczną lub psychiczną, która utrudnia jemu wykonywanie tych czynności w sposób bezpieczny;
-2) znajduje się pod wpływem środków ograniczających sprawność psychiczną lub fizyczną w szczególności:
-a) leków,
-b) alkoholu,
-c) narkotyków albo innych środków odurzających.
-§ 40. 1. Członek personelu lotniczego przy wykonywaniu czynności lotniczych stosuje się do ograniczeń medycznych zamieszczonych w orzeczeniu lotniczo-lekarskim.
-2. Jeżeli z ograniczenia, o którym mowa w ust. 1, wynika obowiązek wykonywania czynności lotniczych tylko przy użyciu szkieł korekcyjnych, członek personelu lotniczego posiada podczas wykonywania tych czynności zapasowe szkła korekcyjne.
-3. Przepisy ust. 1 i 2 stosuje się również do uczestnika szkolenia lotniczego odbywającego szkolenie w celu uzyskania licencji lub uprawnienia. Ograniczenie wymienione w ust. 1 wpisuje się do dokumentu przebiegu szkolenia praktycznego.
-§ 41. 1. W ramach rejestru personelu lotniczego, o którym mowa w art. 102 ustawy, Prezes Urzędu prowadzi rejestr personelu lotniczego, zwany dalej „rejestrem”, na który składają się teczki osobowe członków personelu lotniczego wraz z zawartymi w nich dokumentami.
-2. Teczka osobowa członka personelu lotniczego zawiera:
-1) podstawowe dane osobowe członka personelu lotniczego:
-a) imiona i nazwisko,
-b) miejsce urodzenia i numer PESEL, a w przypadku osób, które nie mają przyznanego numeru PESEL – datę urodzenia,
-c) obywatelstwo,
-d) adres zamieszkania oraz, na żądanie członka personelu lotniczego, adres do korespondencji;
-2) osobisty numer członka personelu lotniczego, którym są oznaczane wszystkie wydane jemu licencje;
-3) wykaz wszystkich licencji z uwzględnieniem:
-a) oznaczenia licencji,
-b) daty wydania licencji,
-c) wpisanych do licencji uprawnień, z oznaczeniem terminu ich ważności i przedłużenia ich ważności,
-d) okresów zawieszeń licencji i uprawnień do nich wpisanych oraz dat przywrócenia ich ważności,
-e) oznaczenia oraz daty wydania decyzji dotyczących cofnięcia, zmiany, zawieszenia i przywrócenia ważności licencji oraz wydania, wznowienia ważności i cofnięcia uprawnienia wpisywanego do licencji oraz prawomocnych orzeczeń sądowych;
-4) dokumenty złożone w związku z ubieganiem się o wydanie licencji oraz o wydanie, przedłużenie albo wznowienie ważności wpisywanych do niej uprawnień;
-5) protokoły z przeprowadzonych egzaminów państwowych wymaganych do wydania licencji lub do wydania, przedłużenia albo wznowienia ważności wpisywanych do niej uprawnień;
-6) decyzje dotyczące cofnięcia, zmiany, zawieszenia i przywrócenia ważności licencji oraz wydania, wznowienia ważności i cofnięcia uprawnienia wpisywanego do licencji oraz prawomocne orzeczenia sądowe;
-7) informacje dotyczące wypadków i incydentów lotniczych z udziałem członka personelu lotniczego;
-8) pisemne informacje o dacie i okolicznościach utraty lub zniszczenia dokumentu licencji.
-§ 42. 1. Rejestr obejmuje odrębnie prowadzony dział osób, którym wydano świadectwa uznania obcych licencji lub równoważnych im dokumentów wydanych przez właściwy organ obcego państwa.
-2. Do działu rejestru, o którym mowa w ust. 1, stosuje się odpowiednio § 41 ust. 2, z tym że rejestr uzupełnia się o daty ważności wydanych świadectw uznania obcych licencji.
-§ 43. 1. Skreślenie członka personelu lotniczego z rejestru następuje:
-1) w razie śmierci albo uznania członka personelu lotniczego za zmarłego;
-2) w razie cofnięcia wszystkich licencji.
-2. Teczkę osobową członka personelu lotniczego skreślonego z rejestru przechowuje się w rejestrze przez okres:
-1) 3 lat następujących po roku, w którym nastąpiła śmierć członka personelu lotniczego;
-2) 10 lat następujących po roku, w którym członek personelu lotniczego został uznany za zmarłego;
-3) 5 lat następujących po roku, w którym decyzja o cofnięciu ostatniej licencji stała się ostateczna.
-§ 44. 1. Licencje oraz wpisane do nich uprawnienia wydane przed dniem wejścia rozporządzenia w życie zachowują ważność przez okres, na jaki zostały wydane.
-2. Prezes Urzędu Lotnictwa Cywilnego dokonuje, na wniosek członka personelu lotniczego, wymiany jego licencji i uprawnień do nich wpisanych, wydanych przed dniem wejścia w życie rozporządzenia na licencje i uprawnienia na warunkach określonych w ust. 3 i 4.
-3. Wymiana, o której mowa w ust. 2, może nastąpić najpóźniej w dniu upływu ważności dotychczasowej licencji.
-4. Licencje i uprawnienia, o których mowa w ust. 1, podlegają wymianie na odpowiadające im licencje i uprawnienia o tych samych nazwach.
-5. (uchylony).
-6. Licencja wydana przed dniem wejścia w życie rozporządzenia, która utraciła swoją ważność, podlega wymianie zgodnie z ust. 2–4, po wznowieniu ważności odpowiedniego uprawnienia.
-7. Do licencji wydanej w wyniku wymiany wpisuje się tylko ważne uprawnienia.
-8. Uprawnienie, w stosunku do którego złożono przed dniem wejścia w życie rozporządzenia wniosek o przedłużenie jego ważności, a którego ważność upłynęła przed dniem wejścia w życie rozporządzenia, uznaje się za ważne i przedłuża w przypadku, gdy w dniu złożenia wniosku członek personelu lotniczego spełniał wymagania niezbędne do przedłużenia ważności tego uprawnienia.
-9. Licencje, o których mowa w § 3 ust. 1 pkt 2, w stosunku do których złożono przed dniem wejścia w życie rozporządzenia wniosek o przedłużenie ich ważności, a których ważność upłynęła przed dniem wejścia w życie rozporządzenia, uznaje się za ważne i wymienia na odpowiadające im licencje o tych samych nazwach w przypadku, gdy w dniu złożenia wniosku członek personelu lotniczego spełniał wymagania niezbędne do przedłużenia ważności licencji.
-§ 45. 1. Członek personelu lotniczego posiadający kwalifikacje wynikające z wpisu do osobistego dokumentu praktyki lotniczej może wykonywać czynności lotnicze na podstawie takiego wpisu do czasu wymiany posiadanej licencji na licencję wydaną zgodnie z przepisami rozporządzenia.
-2. Członek personelu lotniczego posiadający licencję pilota szybowcowego, licencję pilota samolotowego turystycznego, licencję pilota samolotowego zawodowego lub licencję pilota samolotowego liniowego oraz posiadający wpis akrobacji podstawowej do osobistego dokumentu praktyki lotniczej może wykonywać loty akrobacyjne w zakresie akrobacji podstawowej w charakterze dowódcy statku powietrznego na podstawie takiego wpisu do dnia 7 kwietnia 2015 r.
-§ 46. 1. Zaświadczenia o ukończeniu szkolenia lotniczego teoretycznego i praktycznego do licencji, o których mowa w § 3 ust. 1 pkt 2, lub uprawnień do nich wpisywanych, wydane przed dniem wejścia w życie rozporządzenia, zachowują ważność przez okres 12 miesięcy od dnia jego wejścia w życie, z tym że zaświadczenia o ukończeniu szkolenia teoretycznego i praktycznego do licencji mechanika lotniczego obsługi technicznej statków powietrznych innych niż samoloty i śmigłowce oraz obsługi statków powietrznych wymienionych w załączniku II do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 216/2008 z dnia 20 lutego 2008 r. w sprawie wspólnych zasad w zakresie lotnictwa cywilnego i utworzenia Europejskiej Agencji Bezpieczeństwa Lotniczego oraz uchylającego dyrektywę Rady 91/670/EWG, rozporządzenie (WE) nr 1592/2002 i dyrektywę 2004/36/WE oraz wpisywanych do niej uprawnień, są ważne bezterminowo.
-2. Zaświadczenia o ukończeniu szkolenia lotniczego teoretycznego i praktycznego do licencji pilota balonu wolnego PL(FB) i licencji pilota szybowcowego PL(G) lub uprawnień do nich wpisywanych, wydane przed dniem wejścia w życie rozporządzenia, zachowują ważność przez okres 12 miesięcy od daty wydania zaświadczenia.
-3. Szkolenie lotnicze do licencji pilota balonowego i licencji pilota szybowcowego wraz z wpisywanymi do nich uprawnieniami oraz dotychczasowe szkolenia lotnicze specjalistyczne dotyczące tych licencji mogą odbywać się do dnia 7 kwietnia 2015 r. na podstawie programów szkolenia oraz instrukcji wykonawczych ośrodków szkolenia lotniczego zatwierdzonych przez Prezesa Urzędu Lotnictwa Cywilnego przed dniem wejścia w życie rozporządzenia.
-§ 47. 1. Szkolenie lotnicze rozpoczęte przed dniem wejścia w życie rozporządzenia uznaje się za przeprowadzone zgodnie z przepisami rozporządzenia.
-2. Szkolenia lotnicze specjalistyczne, których odbycie potwierdza się wpisem do osobistego dokumentu praktyki lotniczej pilota, rozpoczęte przed dniem wejścia w życie rozporządzenia, polegające na wykonywaniu w charakterze dowódcy statku powietrznego lotów akrobacyjnych, połączonych z holowaniem statku powietrznego przez inny statek powietrzny lub połączonych z holowaniem banerów przez statek powietrzny uznaje się za szkolenia do uzyskania uprawnień dodatkowych określonych w przepisach FCL.800 i FCL.805 załącznika I (Część FCL) do rozporządzenia Komisji (UE) nr 1178/2011 z dnia 3 listopada 2011 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do załóg w lotnictwie cywilnym zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 311 z 25.11.2011, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1178/2011”, po uprzednim zweryfikowaniu szkolenia specjalistycznego przez ośrodek szkolenia lotniczego na jego zgodność z wymaganiami rozporządzenia nr 1178/2011.
-3. Szkolenia lotnicze do uprawnienia pilota doświadczalnego klasy 3 albo 2, rozpoczęte i zakończone przed dniem 19 marca 2013 r., uznaje się za szkolenia do uzyskania uprawnień pilota doświadczanego określonych w przepisach FCL.820 załącznika I (Część FCL) do rozporządzenia nr 1178/2011.
-4. Szkolenia lotnicze do uprawnienia pilota doświadczalnego klasy 3 albo 2, rozpoczęte i niezakończone przed dniem 19 marca 2013 r., uznaje się za szkolenia do uzyskania uprawnień pilota doświadczanego określonych w przepisach FCL.820 załącznika I (Część FCL) do rozporządzenia nr 1178/2011, po uprzednim zweryfikowaniu szkolenia przez ośrodek szkolenia lotniczego na jego zgodność z wymaganiami rozporządzenia nr 1178/2011.
-5. Nadzorowaną praktykę instruktorską rozpoczętą przed dniem wejścia w życie rozporządzenia uznaje się za odbytą zgodnie z przepisami rozporządzenia.
-6. W przypadku rozpoczęcia nadzorowanej praktyki lotniczej w celu uzyskania uprawnienia instruktorskiego wpisywanego do licencji pilota balonowego albo licencji pilota szybowcowego i niezakończenia jej przed dniem wejścia w życie rozporządzenia, Prezes Urzędu Lotnictwa Cywilnego, na wniosek członka personelu lotniczego o wpis uprawnienia instruktora szkolenia ogólnego FI, dokonuje wpisu uprawnienia instruktora szkolenia ogólnego ograniczonego do prowadzenia szkolenia w locie pod nadzorem innego instruktora szkolenia ogólnego FI(R) odpowiednio do licencji pilota balonowego albo licencji pilota szybowcowego.
-§ 48. Prezes Urzędu Lotnictwa Cywilnego dokonuje, na wniosek członka personelu lotniczego, wpisów uprawnień dodatkowych, o których mowa w przepisach FCL.800 oraz FCL.805 załącznika 1 do rozporządzenia nr 1178/2011, do licencji wydanej zgodnie z przepisami rozporządzenia, na podstawie wpisów wynikających z osobistego dokumentu praktyki lotniczej pilota.
-§ 49. Posiadacz uprawnienia instruktora szkolenia ogólnego klasy 1 FI1 lub uprawnienia instruktora szkolenia ogólnego klasy 2 FI2 wpisanego do licencji pilota szybowcowego PL(G) lub licencji pilota balonu wolnego PL(FB) otrzymuje uprawnienie instruktora uprawnionego do szkolenia instruktorów FI/FI wpisane do licencji pilota szybowcowego lub licencji pilota balonowego na podstawie wniosku złożonego do Prezesa Urzędu Lotnictwa Cywilnego po spełnieniu wymogu określonego przepisem FCL.905.FI (i) załącznika I do rozporządzenia nr 1178/2011.
-§ 50. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia .
-NAZWY SPECJALNOŚCI CZŁONKA PERSONELU LOTNICZEGO I SYMBOLE LICENCJI nazwy dla poszczególnych rodzajów licencji są zamieszczone w poniższej tabeli wraz z symbolami licencji: Nazwa specjalności członka personelu lotniczego Symbol literowy licencji 1 2 3 pilot wiatrakowcowy turystyczny private pilot (autogiro) PPL(AG) pilot wiatrakowcowy zawodowy commercial pilot (autogiro) CPL(AG) nawigator lotniczy flight navigator FNL mechanik pokładowy flight engineer FEL mechanik lotniczy obsługi technicznej aircraft maintenance mechanic MML dyspozytor lotniczy flight dispatcher FDL SZCZEGÓŁOWE WYMAGANIA DLA POSZCZEGÓLNYCH RODZAJÓW LICENCJI ORAZ RODZAJE UPRAWNIEŃ WPISYWANYCH DO TYCH LICENCJI
 1.1. określenia i skróty Użyte w załączniku określenia i skróty oznaczają:
 1.1.1 dowódca (pierwszy pilot). Pilot wyznaczony do pełnienia czynności dowódcy statku powietrznego.
 1.1.2 drugi pilot. Pilot wchodzący w skład załogi wieloosobowej statku powietrznego, niebędący jego dowódcą.
@@ -857,21 +578,510 @@ Intentionally left blank.
 
 #### Rozdział 1 przepisy ogólne
 
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzory licencji;
+- **2)** uprawnienia przyznawane i wpisywane do licencji;
+- **3)** szczegółowe wymagania dla poszczególnych rodzajów licencji, dotyczące kwalifikacji lotniczych w zakresie wiedzy, umiejętności i praktyki;
+- **4)** szczegółowe warunki i sposób:
+    - **a)** wydawania, przedłużania, wznawiania, wymiany, cofania, ograniczania, zawieszania i przywracania licencji oraz wynikających z nich uprawnień,
+    - **b)** uznawania, zawieszania uznania, cofania uznania, przywracania uznania obcych licencji oraz wynikających z nich uprawnień, wydanych przez właściwy organ obcego państwa,
+    - **c)** uzyskiwania i sprawdzania kwalifikacji lotniczych,
+    - **d)** prowadzenia rejestru personelu lotniczego,
+    - **e)** prowadzenia szkolenia lotniczego;
+
+- **5)** szczegółowe warunki wykonywania uprawnień wynikających z licencji;
+- **6)** specjalności personelu lotniczego wykonującego czynności w załodze statków powietrznych i inne czynności lotnicze, w stosunku do których wprowadza się wymóg posiadania licencji.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** Dzienniku Urzędowym – rozumie się przez to Dziennik Urzędowy Urzędu Lotnictwa Cywilnego, o którym mowa w art. 23 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
+- **2)** egzaminatorze praktycznym – rozumie się przez to członka komisji egzaminacyjnej, o której mowa w art. 99 ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, upoważnionego do przeprowadzenia części praktycznej egzaminu państwowego;
+- **3)** egzaminatorze teoretycznym – rozumie się przez to członka komisji egzaminacyjnej, o której mowa w art. 99 ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, upoważnionego do przeprowadzenia części teoretycznej egzaminu państwowego;
+- **4)** egzaminie państwowym – rozumie się przez to egzamin składający się z części teoretycznej lub praktycznej, składany przed komisją egzaminacyjną albo organizacją szkoleniową zgodnie z przepisami wydanymi na podstawie art. 99 ust. 6 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
+- **5)** egzaminie praktycznym – rozumie się przez to część praktyczną egzaminu państwowego;
+- **6)** egzaminie teoretycznym – rozumie się przez to część teoretyczną egzaminu państwowego;
+- **7)** Konwencji – rozumie się przez to Konwencję o międzynarodowym lotnictwie cywilnym, sporządzoną w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212 i 214, z późn. zm. );
+- **8)** licencjach – rozumie się przez to licencje dla specjalności personelu lotniczego, o których mowa w art. 94 ust. 6 pkt 1, 3 i 5 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
+- **9)** PPL(A) – rozumie się przez to licencję pilota samolotowego turystycznego;
+- **10)** CPL(A) – rozumie się przez to licencję pilota samolotowego zawodowego;
+- **11)** ATPL(A) – rozumie się przez to licencję pilota samolotowego liniowego;
+- **12)** MPL – rozumie się przez to licencję pilota samolotowego w załodze wieloosobowej;
+- **13)** PPL(H) – rozumie się przez to licencję pilota śmigłowcowego turystycznego;
+- **14)** CPL(H) – rozumie się przez to licencję pilota śmigłowcowego zawodowego;
+- **15)** ATPL(H) – rozumie się przez to licencję pilota śmigłowcowego liniowego;
+- **16)** SPL – rozumie się przez to licencję pilota szybowcowego;
+- **17)** PPL(AS) – rozumie się przez to licencję pilota sterowcowego turystycznego;
+- **18)** CPL(AS) – rozumie się przez to licencję pilota sterowcowego zawodowego;
+- **19)** BPL – rozumie się przez to licencję pilota balonowego;
+- **20)** PPL(AG) – rozumie się przez to licencję pilota wiatrakowcowego;
+- **21)** CPL(AG) – rozumie się przez to licencję pilota wiatrakowcowego zawodowego;
+- **22)** FNL – rozumie się przez to licencję nawigatora lotniczego;
+- **23)** FEL – rozumie się przez to licencję mechanika pokładowego;
+- **24)** FDL – rozumie się przez to licencję dyspozytora lotniczego;
+- **25)** (uchylony);
+- **26)** MML – rozumie się przez to licencję mechanika lotniczego obsługi technicznej statków powietrznych nieobjętych rozporządzeniem nr 2018/1139 i rozporządzeniem Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 3 czerwca 2013 r. w sprawie świadectw kwalifikacji (Dz. U. z 2017 r. poz. 288 oraz z 2021 r. poz. 939);
+- **27)** LAPL(A) – rozumie się przez to licencję pilota samolotowego rekreacyjnego;
+- **28)** LAPL(H) – rozumie się przez to licencję pilota śmigłowcowego rekreacyjnego;
+- **29)** LAPL(S) – rozumie się przez to licencję pilota szybowcowego rekreacyjnego;
+- **30)** LAPL(B) – rozumie się przez to licencję pilota balonowego rekreacyjnego;
+- **31)** IFR – rozumie się przez to przepisy dla lotów według wskazań przyrządów;
+- **32)** VFR – rozumie się przez to przepisy dla lotów z widocznością;
+- **33)** obcej licencji – rozumie się przez to licencję wydaną lub potwierdzoną przez właściwy organ państwa obcego;
+- **34)** orzeczeniu lotniczo-lekarskim – rozumie się przez to orzeczenie o braku przeciwwskazań do wykonywania funkcji członka personelu lotniczego, o którym mowa w art. 110 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
+- **35)** Prezesie Urzędu – należy przez to rozumieć Prezesa Urzędu Lotnictwa Cywilnego;
+- **36)** (uchylony);
+- **37)** rozporządzeniu nr 1321/2014 – rozumie się przez to rozporządzenie Komisji (UE) nr 1321/2014 z dnia 26 listopada 2014 r. w sprawie ciągłej zdatności do lotu statków powietrznych oraz wyrobów lotniczych, części i wyposażenia, a także w sprawie zatwierdzeń udzielanych organizacjom i personelowi zaangażowanym w takie zadania (Dz. Urz. UE L 362 z 17.12.2014, str. 1, z późn. zm.);
+- **38)** rozporządzeniu nr 1178/2011 – rozumie się przez to rozporządzenie Komisji (UE) nr 1178/2011 z dnia 3 listopada 2011 r. ustanawiające wymagania techniczne i procedury administracyjne odnoszące się do załóg w lotnictwie cywilnym zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 311 z 25.11.2011, str. 1, z późn. zm.);
+- **38a)** rozporządzeniu nr 748/2012 – rozumie się przez to rozporządzenie Komisji (UE) nr 748/2012 z dnia 3 sierpnia 2012 r. ustanawiające przepisy wykonawcze dotyczące certyfikacji statków powietrznych i związanych z nimi wyrobów, części i akcesoriów w zakresie zdatności do lotu i ochrony środowiska oraz dotyczące certyfikacji organizacji projektujących i produkujących (Dz. Urz. UE L 224 z 21.08.2012, str. 1, z późn. zm.);
+- **38b)** rozporządzeniu nr 2018/1139 – rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2018/1139 z dnia 4 lipca 2018 r. w sprawie wspólnych zasad w dziedzinie lotnictwa cywilnego i utworzenia Agencji Unii Europejskiej ds. Bezpieczeństwa Lotniczego oraz zmieniające rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 2111/2005, (WE) nr 1008/2008, (UE) nr 996/2010, (UE) nr 376/2014 i dyrektywy Parlamentu Europejskiego i Rady 2014/30/UE i 2014/53/UE, a także uchylające rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 552/2004 i (WE) nr 216/2008 i rozporządzenie Rady (EWG) nr 3922/91 (Dz. Urz. UE L 212 z 22.08.2018, str. 1);
+- **39)** rozporządzeniu w sprawie certyfikacji – rozumie się przez to rozporządzenie wydane na podstawie art. 163 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze;
+- **40)** uprawnieniu – rozumie się przez to upoważnienie wpisane do licencji lub związane z licencją i stanowiące jej część określające szczególne warunki, możliwości lub ograniczenia odnoszące się do takiej licencji w odniesieniu w szczególności do klasy lub typu statku powietrznego lub warunków lotu;
+- **40a)** TPR – rozumie się przez to uprawnienie pilota doświadczalnego odpowiedniej kategorii prób w locie;
+- **41)** Urzędzie – należy przez to rozumieć Urząd Lotnictwa Cywilnego;
+- **42)** uprawnieniu uzupełniającym w zakresie języka – rozumie się przez to upoważnienie wpisane do licencji i stanowiące jej część, określające biegłość językową posiadacza na poziomie minimum 4 operacyjnym według skali klasyfikacji podanej w Dodatku A do Załącznika 1 do Konwencji;
+- **43)** ustawie – rozumie się przez to ustawę z dnia 3 lipca 2002 r. – Prawo lotnicze;
+- **44)** Załączniku 1 – rozumie się przez to Załącznik 1 do Konwencji (Dz. Urz. ULC z 2008 r. poz. 6).
+
+**§ 3.**
+
+1. Przepisy rozporządzenia stosuje się do:
+
+- **1)** PPL(A), CPL(A), ATPL(A), MPL, PPL(H), CPL(H), ATPL(H), SPL, PPL(AS), CPL(AS), BPL;
+- **2)** FNL, FEL, FDL, MML;
+- **3)** PPL(AG), CPL(AG).
+
+2. Przepisy rozporządzenia stosuje się również do LAPL(A), LAPL(B), LAPL(H) i LAPL(S), o których mowa w rozporządzeniu nr 1178/2011.
+
+**§ 4.** Do spraw określonych w rozporządzeniu w odniesieniu do licencji, o których mowa w § 3 ust. 1 pkt 1 i 2, stosuje się normy i zalecane metody postępowania określone w Załączniku 1, z wyjątkiem norm oraz zalecanych metod postępowania określonych w pkt 1.1, 1.2.6.1.1, 1.2.9.4, 2.1.1.1, 2.4.6.1.1.1, 4.6.1.1, 6.3.1.2.1, 6.3.1.3, 6.3.2.2.1 i 6.4.2.2.1 oraz w załączniku 2 i 4 do tego Załącznika.
+
+**§ 5.**
+
+1. Prezes Urzędu zawiadamia Organizację Międzynarodowego Lotnictwa Cywilnego o różnicach w rozumieniu art. 38 Konwencji.
+
+2. Różnice, o których mowa w ust. 1, są ogłaszane w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego oraz w Zintegrowanym Pakiecie Informacji Lotniczych, w Zbiorze Informacji Lotniczych Polska (AIP Polska).
+
+**§ 6.**
+
+1. Wzór licencji, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 2, określa Dodatek I do załącznika VI (Część ARA) do rozporządzenia nr 1178/2011.
+
+2. Nazwy specjalności członków personelu lotniczego i symbole licencji, o których mowa w § 3 ust. 1 pkt 2 i 3, określa załącznik nr 1 do rozporządzenia.
+
+3. Wzory licencji, o których mowa w § 3 ust. 1 pkt 2 i 3, określa załącznik nr 2 do rozporządzenia.
+
 #### Rozdział 2 uprawnienia przyznawane i wpisywane do licencji oraz szczegółowe warunki i sposób wydawania, przedłużania, wznawiania, wymiany, cofania, ograniczania, zawieszania i przywracania licencji oraz wynikających z nich uprawnień
+
+**§ 7.**
+
+1. Prezes Urzędu wydaje licencje, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 2, wraz z wpisywanymi do nich uprawnieniami kandydatowi, który spełnił wymagania określone w załączniku I (Część FCL) do rozporządzenia nr 1178/2011 odpowiednio dla poszczególnych licencji i uprawnień ujętych w tym załączniku.
+
+2. Prezes Urzędu wydaje licencje, o których mowa w § 3 ust. 1 pkt 2, wraz z wpisywanymi do nich uprawnieniami kandydatowi, który spełnił wymagania określone w Załączniku 1, a w zakresie uprawnień nieuregulowanych w tym Załączniku – wymagania określone w załączniku nr 3 do rozporządzenia.
+
+3. Prezes Urzędu wydaje licencje, o których mowa w § 3 ust. 1 pkt 3, wraz z wpisywanymi do nich uprawnieniami kandydatowi, który spełnił wymagania określone w załączniku nr 3 do rozporządzenia.
+
+4. Zakresy wpisów uprawnień do licencji, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 2, oraz skróty nazw tych uprawnień określają przepisy załącznika I (Część FCL) do rozporządzenia nr 1178/2011.
+
+5. Nazwy i skróty nazw uprawnień wpisywanych do licencji, o których mowa w § 3 ust. 1 pkt 2 i 3, określa załącznik nr 4 do rozporządzenia.
+
+**§ 8.**
+
+1. Warunki przedłużania i wznawiania uprawnień wpisywanych do licencji, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 2, określają przepisy załącznika I (Część FCL) do rozporządzenia nr 1178/2011.
+
+2. Warunki przedłużania i wznawiania uprawnień wpisywanych do licencji, o których mowa w § 3 ust. 1 pkt 2 i 3, określają przepisy załącznika nr 3 do rozporządzenia.
+
+**§ 9.**
+
+1. Licencję lub uprawnienie wydaje się na wniosek złożony do Prezesa Urzędu.
+
+2. Do wniosku, o którym mowa w ust. 1, dołącza się kopie dokumentów potwierdzających spełnienie wymagań niezbędnych do wydania licencji lub uprawnienia.
+
+**§ 10.**
+
+1. Licencja podlega wymianie:
+
+- **1)** po uzyskaniu uprawnienia wpisywanego do licencji;
+- **2)** po utracie lub przedłużeniu ważności uprawnienia uzupełniającego w zakresie języka;
+- **3)** po wznowieniu lub przywróceniu ważności uprawnienia, o którym mowa w pkt 1, które uprzednio nie było wpisane do licencji;
+- **4)** po przywróceniu ważności licencji lub wpisanego do niej uprawnienia;
+- **5)** w razie zmiany danych osobowych wpisywanych do licencji;
+- **6)** w razie konieczności sprostowania błędu;
+- **7)** po zapełnieniu miejsc na wpisy;
+- **8)** w razie uszkodzenia dokumentu licencji;
+- **9)** w razie dokonania wpisu niestandardowego.
+
+2. Wymiany licencji dokonuje się na wniosek złożony do Prezesa Urzędu albo z urzędu. Przepis § 9 ust. 2 stosuje się.
+
+3. W wyniku wymiany licencji Prezes Urzędu wydaje nowy dokument licencji, do którego wpisuje się wyłącznie ważne uprawnienia posiadane przez członka personelu lotniczego w dniu wydania nowego dokumentu licencji.
+
+4. Członek personelu lotniczego w przypadkach, o których mowa w ust. 1, zwraca Prezesowi Urzędu podlegający wymianie dokument licencji. Zwrot dokumentu licencji jest warunkiem wydania nowego dokumentu, o którym mowa w ust. 3.
+
+5. W przypadku utraty lub zniszczenia dokumentu licencji:
+
+- **1)** członek personelu lotniczego informuje pisemnie Prezesa Urzędu o dacie i okolicznościach utraty lub zniszczenia dokumentu licencji;
+- **2)** jest wydawany duplikat dokumentu, który znajduje się w teczce osobowej członka personelu lotniczego, uaktualniony w zakresie ważności uprawnień, na podstawie protokołów ze sprawdzenia wiedzy i umiejętności oraz innych dokumentów dotyczących posiadanych uprawnień i ograniczeń, znajdujących się w tej teczce osobowej.
+
+**§ 11.**
+
+1. Zawieszenie albo cofnięcie licencji, o których mowa w § 3:
+
+- **1)** ust. 1 pkt 1 oraz ust. 2, a także uprawnień do nich wpisanych, z wyłączeniem uprawnień, o których mowa w § 2 pkt 40a, następuje w przypadkach określonych w przepisach FCL.070 załącznika I oraz ARA.FCL.250 sekcja II załącznika VI do rozporządzenia nr 1178/2011;
+- **2)** ust. 1 pkt 2 i 3, a także uprawnień do nich wpisanych oraz uprawnień, o których mowa w § 2 pkt 40a, następuje w przypadkach określonych w art. 100 ustawy.
+
+2. Zawieszając licencję lub uprawnienie:
+
+- **1)** określa się okres zawieszenia;
+- **2)** można wskazać termin i sposób spełnienia wymagań określonych w art. 96 ust. 1 ustawy niezbędnych do przywrócenia zawieszonej licencji lub uprawnienia.
+
+3. Osoba, której licencja lub uprawnienie zostały cofnięte albo zawieszone i zatrzymane zgodnie z przepisami art. 100 ustawy, niezwłocznie przekazuje dokument licencji, za pokwitowaniem, Prezesowi Urzędu, chyba że licencja została już uprzednio zatrzymana przez Prezesa Urzędu lub inny właściwy organ.
+
+**§ 12.**
+
+1. Zawieszoną licencję albo uprawnienie przywraca się na wniosek zainteresowanego członka personelu lotniczego, jeżeli upłynął okres zawieszenia lub zostały spełnione wymagania niezbędne do przywrócenia zawieszonej licencji lub uprawnienia określone zgodnie z § 11 ust. 2 pkt 2.
+
+2. Do wniosku, o którym mowa w ust. 1, dołącza się kopię orzeczenia lotniczo-lekarskiego odpowiedniej klasy oraz dokumenty potwierdzające spełnienie wymagań niezbędnych do przywrócenia zawieszonej licencji lub uprawnienia, jeżeli zostały określone zgodnie z § 11 ust. 2 pkt 2.
+
+3. Jeżeli upłynął okres zawieszenia licencji lub uprawnienia, a członek personelu lotniczego nie spełnił wymagań niezbędnych do przywrócenia licencji lub uprawnienia, Prezes Urzędu cofa zawieszoną licencję lub uprawnienie.
 
 #### Rozdział 3 Szczegółowe warunki i sposób uznawania, zawieszania uznania, cofania uznania, przywracania uznania obcych licencji oraz wynikających z nich uprawnień wydanych przez właściwy organ obcego państwa
 
+**§ 13.** Uznanie obcych licencji stwierdzających posiadanie kwalifikacji niezbędnych do uzyskania licencji, o których mowa w § 3 ust. 1 pkt 1, następuje zgodnie z art. 8 ust. 1 oraz częścią A załącznika III do rozporządzenia nr 1178/2011, z zastrzeżeniem § 14.
+
+**§ 14.**
+
+1. Obca licencja stwierdzająca posiadanie kwalifikacji do wykonywania lotów rekreacyjnych lub sportowych może zostać uznana odpowiednio do PPL(A), PPL(H), SPL, BPL albo PPL(AG) z ograniczeniem do wykonywania lotów rekreacyjnych lub sportowych, które mają być wykonywane w polskiej przestrzeni powietrznej.
+
+2. Uznanie obcej licencji, o której mowa w ust. 1, następuje na wniosek zainteresowanego złożony do Prezesa Urzędu.
+
+3. Do wniosku dołącza się kopię obcej licencji oraz kopię orzeczenia lotniczo-lekarskiego, które spełnia co najmniej jeden z następujących warunków:
+
+- **1)** zostało wydane zgodnie z wymaganiami Załącznika 1;
+- **2)** zostało wydane przez państwo, z którym Rzeczpospolita Polska zawarła umowę o uznawaniu orzeczeń lotniczo-lekarskich;
+- **3)** zostało wydane zgodnie z art. 106 ust. 1 ustawy.
+
+**§ 15.** Osoba ubiegająca się o uznanie obcej licencji stwierdzającej posiadanie kwalifikacji niezbędnych do uzyskania licencji, o których mowa w § 3 ust. 1 pkt 2 i 3, powinna:
+
+- **1)** złożyć do Prezesa Urzędu wniosek o uznanie obcej licencji wraz z kopią tej licencji;
+- **2)** uzyskać pozytywny wynik egzaminu praktycznego przed egzaminatorem praktycznym w zakresie wymaganym do wydania licencji odpowiedniej dla kwalifikacji stwierdzonych w obcej licencji, która jest przedmiotem uznania;
+- **3)** przedstawić orzeczenie lotniczo-lekarskie spełniające co najmniej jeden z następujących warunków:
+    - **a)** zostało wydane przez państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym,
+    - **b)** zostało wydane przez państwo, z którym Rzeczpospolita Polska zawarła umowę o uznawaniu orzeczeń lotniczo-lekarskich,
+    - **c)** zostało wydane zgodnie z art. 106 ust. 1 ustawy;
+
+- **4)** posiadać ważne uprawnienia, które odpowiadają uprawnieniom wpisywanym do licencji, o których mowa w § 3 ust. 1 pkt 2 i 3.
+
+**§ 16.** Prezes Urzędu może wystąpić do właściwego organu państwa obcego, który wydał obcą licencję albo orzeczenie lotniczo-lekarskie, o którym mowa w § 15 pkt 3 lit. a lub b, o potwierdzenie ważności tych dokumentów.
+
+**§ 17.**
+
+1. Uznania obcej licencji dokonuje się każdorazowo na okres jej ważności lub na okres ważności badań lotniczo-lekarskich, jeżeli termin ważności obcej licencji nie jest określony, jednakże nie dłużej niż na rok.
+
+2. Prezes Urzędu, uznając obcą licencję odpowiednio do licencji, o której mowa w § 3 ust. 1, wydaje decyzję o uznaniu, której załącznik stanowi świadectwo uznania. Wzór świadectwa uznania określa załącznik nr 5 do rozporządzenia.
+
+**§ 18.** Uznanie obcej licencji uprawnia jej posiadacza do wykonywania lotów i innych czynności lotniczych w zakresie określonym w decyzji o uznaniu.
+
+**§ 19.**
+
+1. Prezes Urzędu może cofnąć albo zawiesić:
+
+- **1)** uznanie obcej licencji lub uprawnienia wynikającego z licencji w przypadkach, o których mowa w art. 100 ustawy;
+- **2)** obcą licencję lub uprawnienie wynikające z tej licencji, jeżeli takie prawo wynika z wiążącej Rzeczpospolitą Polską umowy międzynarodowej lub przepisów międzynarodowych.
+
+2. Do cofnięcia, zawieszenia oraz przywrócenia uznania obcej licencji i uprawnienia z niej wynikającego stosuje się odpowiednio przepisy § 11 i § 12.
+
+**§ 20.** Przepisy niniejszego rozdziału stosuje się odpowiednio do dokumentów równoważnych licencjom, o których mowa w § 3, wydanych lub potwierdzonych przez właściwy organ państwa obcego.
+
 #### Rozdział 4 Szczegółowe warunki i sposób prowadzenia szkolenia lotniczego oraz uzyskiwania kwalifikacji lotniczych
+
+**§ 21.**
+
+1. Szczegółowe warunki i sposób prowadzenia szkolenia lotniczego wymaganego w celu uzyskania licencji, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 2, a także wpisywanych do nich uprawnień określa załącznik IV do rozporządzenia nr 2018/1139 i załącznik I (Część FCL) do rozporządzenia nr 1178/2011.
+
+2. Szczegółowe warunki i sposób prowadzenia szkolenia lotniczego wymaganego w celu uzyskania licencji, o których mowa w § 3 ust. 1 pkt 2 oraz 3, a także wpisywanych do nich uprawnień określa załącznik nr 3 do rozporządzenia.
+
+**§ 22.** Szkolenie lotnicze składa się z:
+
+- **1)** szkolenia teoretycznego – w celu uzyskania licencji, o których mowa w § 3;
+- **2)** szkolenia praktycznego na ziemi i w locie – w celu uzyskania licencji, o których mowa w § 3 ust. 1 pkt 1 i 3 oraz ust. 2, a także FNL i FEL;
+- **3)** szkolenia praktycznego na ziemi – w celu uzyskania FDL i MML;
+- **4)** uzupełniającego szkolenia praktycznego – w formie nadzorowanej praktyki lotniczej, w zakresie wymaganym dla uzyskania uprawnień instruktorskich do licencji, o których mowa § 3 ust. 1 pkt 2 i 3 – na warunkach określonych w załączniku nr 3 do rozporządzenia.
+
+**§ 23.** Szkolenie praktyczne na ziemi i w locie prowadzi się na statkach powietrznych spełniających wymagania określone w art. 31 ust. 1 ustawy lub na polskich państwowych statkach powietrznych, które odpowiadają rodzajowi i zakresowi szkolenia, a w odniesieniu do szkolenia pilotów również przy zastosowaniu odpowiednich do rodzaju i zakresu szkolenia szkoleniowych urządzeń symulacji lotu określonych w rozporządzeniu nr 1178/2011.
+
+**§ 24.** Uczestnik szkolenia teoretycznego lub praktycznego prowadzonego w celu uzyskania licencji, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 2, a także wpisywanych do nich uprawnień, powinien spełniać wymagania określone w załączniku IV do rozporządzenia nr 2018/1139, załączniku I (Część FCL) i załączniku IV (Część MED) do rozporządzenia nr 1178/2011.
+
+**§ 25.**
+
+1. Uczestnik szkolenia teoretycznego lub praktycznego prowadzonego w celu uzyskania licencji, o których mowa w § 3 ust. 1 pkt 2, oraz wpisywanych do nich uprawnień, powinien spełniać wymagania określone w załączniku nr 3 do rozporządzenia, a przed rozpoczęciem szkolenia praktycznego dodatkowo uzyskać orzeczenie lotniczo-lekarskie klasy odpowiedniej dla danej licencji, jeżeli jest wymagane.
+
+2. Uczestnik szkolenia teoretycznego i praktycznego prowadzonego w celu uzyskania licencji, o których mowa w § 3 ust. 1 pkt 3, oraz wpisywanych do nich uprawnień, powinien spełniać wymagania określone w załączniku nr 3 do rozporządzenia, a przed wykonaniem pierwszego samodzielnego lotu uzyskać orzeczenie lotniczo-lekarskie klasy odpowiedniej dla danej licencji.
+
+3. Spełnianie przez uczestnika szkolenia wymagań, o których mowa w ust. 1 i 2, stwierdza ośrodek szkolenia lotniczego przed rozpoczęciem szkolenia oraz w trakcie jego trwania.
+
+**§ 26.**
+
+1. Szkolenie lotnicze prowadzi się w ośrodku szkolenia lotniczego będącym samodzielną organizacją lotniczą albo jednostką organizacyjną innego podmiotu. W przypadku gdy ośrodek jest jednostką organizacyjną innego podmiotu, osoba kierująca ośrodkiem szkolenia lotniczego jest bezpośrednio podporządkowana służbowo osobie kierującej tym podmiotem, z wyjątkiem przypadku, gdy ta sama osoba kieruje podmiotem i wchodzącym w jego skład ośrodkiem szkolenia lotniczego.
+
+2. Szkolenie mechaników lotniczych obsługi technicznej statku powietrznego dotyczące typu statku powietrznego prowadzi się wyłącznie:
+
+- **1)** w organizacji szkolenia lotniczego zatwierdzonej zgodnie z wymaganiami rozporządzenia nr 1321/2014;
+- **2)** w organizacji obsługi technicznej statków powietrznych, certyfikowanej do obsługi danego typu statku powietrznego, w zakresie obsługi, której dotyczy szkolenie, po każdorazowym zatwierdzeniu szkolenia przez Prezesa Urzędu;
+- **3)** w ośrodku szkolenia mechaników lotniczych obsługi technicznej;
+- **4)** u producenta statku powietrznego, po każdorazowym zatwierdzeniu szkolenia przez Prezesa Urzędu.
+
+3. Szkolenie pilotów doświadczalnych, z wyłączeniem szkolenia, o którym mowa w załączniku I (Część FCL) do rozporządzenia nr 1178/2011, może prowadzić ośrodek szkolenia lotniczego, o którym mowa w § 28 ust. 5, o ile ośrodek ten posiada uprawnienia do prowadzenia szkolenia pilotów doświadczalnych.
+
+**§ 27.** Ośrodek szkolenia lotniczego prowadzi szkolenie lotnicze w zakresie objętym posiadanym certyfikatem wydanym na podstawie art. 160 ust. 3 pkt 2 ustawy.
+
+**§ 28.**
+
+1. Szkolenie lotnicze prowadzi się:
+
+- **1)** zgodnie z zatwierdzonymi przez Prezesa Urzędu do użytku w tym ośrodku i wprowadzonymi w życie instrukcjami wykonawczymi oraz dokumentami regulaminowymi:
+    - **a)** instrukcją szkolenia, a w przypadku ośrodka szkolenia mechaników lotniczych obsługi technicznej – charakterystyką ośrodka określającą organizację i procedury szkolenia lotniczego oraz struktury zarządzania szkoleniem i jego nadzorowanie,
+    - **b)** instrukcją operacyjną określającą zasady, zakres współpracy z innymi organizacjami i procedury organizacji i wykonywania operacji lotniczych związanych ze szkoleniem w locie, kierowania tymi operacjami i sprawowania nad nimi bieżącego nadzoru operacyjnego – w przypadku ośrodków prowadzących szkolenie podczas operacji statków powietrznych,
+    - **c)** instrukcją systemu monitorowania zgodności z wymaganiami,
+    - **d)** programami szkoleń;
+
+- **2)** z udziałem kadry dydaktycznej posiadającej kwalifikacje i uprawnienia odpowiednie do rodzaju i zakresu szkolenia lotniczego;
+- **3)** przy wykorzystaniu bazy dydaktycznej odpowiedniej do rodzaju i zakresu szkolenia lotniczego;
+- **4)** przy wykorzystaniu statków powietrznych albo szkoleniowych urządzeń symulacji lotu, odpowiednich do rodzaju i zakresu szkolenia lotniczego.
+
+2. Ośrodek szkolenia lotniczego:
+
+- **1)** aktualizuje dokumenty, o których mowa w ust. 1 pkt 1, stosownie do zmian w przepisach prawa lotniczego, zmian w funkcjonowaniu lub wyposażeniu ośrodka szkolenia lotniczego oraz przedkłada te dokumenty Prezesowi Urzędu do zatwierdzenia;
+- **2)** prowadzi szkolenie w zakresie określonym w otrzymanym certyfikacie lub zgodnie z programami szkoleń lotniczych specjalistycznych, o których mowa w ust. 4, lub w zakresie szkoleń do uzyskania TPR;
+- **3)** informuje Prezesa Urzędu o planowanych kursach szkoleniowych lub szkoleniach indywidualnych przed rozpoczęciem kursu lub szkolenia.
+
+3. Przepisy ust. 2 pkt 1 i 3 stosuje się odpowiednio do podmiotów wymienionych w § 26 ust. 2.
+
+4. Ośrodek szkolenia lotniczego może prowadzić szkolenia lotnicze specjalistyczne w zakresie, o którym mowa w rozdziale 4 załącznika nr 3 do rozporządzenia, na podstawie programów szkoleń specjalistycznych zatwierdzonych przez kierownika szkolenia ośrodka szkolenia lotniczego.
+
+5. Ośrodek szkolenia lotniczego prowadzący szkolenia w celu uzyskania licencji, o których mowa w § 2 pkt 10, 11, 14–16, 18, 19 lub 21, może prowadzić szkolenia lotnicze w zakresie, o którym mowa w rozdziale 3 załącznika nr 3 do rozporządzenia.
+
+**§ 29.**
+
+1. Szkolenie lotnicze w celu uzyskania licencji, o których mowa w § 3, lub uprawnień może być prowadzone według indywidualnego toku szkolenia zatwierdzanego przez kierownika szkolenia ośrodka szkolenia lotniczego dla osoby, która nabyła w części wymaganą wiedzę lub umiejętności lub odbyła w części wymaganą praktykę, w celu:
+
+- **1)** dokończenia szkolenia lotniczego rozpoczętego wcześniej w innym certyfikowanym ośrodku szkolenia lotniczego na terytorium Rzeczypospolitej Polskiej lub w państwie obcym;
+- **2)** przywrócenia albo wznowienia licencji lub uprawnienia;
+- **3)** wydania licencji na podstawie obcej licencji lub dokumentu równoważnego stwierdzającego posiadane kwalifikacje dotyczące specjalności członka personelu lotniczego wydanych lub potwierdzonych przez właściwy organ państwa obcego.
+
+2. Indywidualny tok szkolenia opracowuje się w oparciu o weryfikację wiedzy, umiejętności lub udokumentowanej praktyki lotniczej osoby, o której mowa w ust. 1, na podstawie programu szkolenia, o którym mowa w § 28 ust. 1 pkt 1 lit. d, odpowiedniego do rodzaju licencji lub uprawnienia.
+
+3. Indywidualnego toku szkolenia nie opracowuje się, w przypadku gdy w trakcie weryfikacji wiedzy, umiejętności lub udokumentowanej praktyki lotniczej stwierdzono, że osoba spełnia wymagania w zakresie szkolenia lotniczego w celu uzyskania licencji, o których mowa w § 3 ust. 1 pkt 2 i 3, lub wpisywanych do nich uprawnień. W takim przypadku prowadzący szkolenie lotnicze wystawia zaświadczenie o spełnieniu wymagań w zakresie szkolenia lotniczego w celu uzyskania danej licencji lub uprawnienia.
+
+4. Przepisu ust. 3 nie stosuje się do TPR.
+
+**§ 30.** Prowadzący szkolenie lotnicze wystawia zaświadczenie o ukończeniu szkolenia lotniczego albo jego części.
 
 #### Rozdział 5 Szczegółowe warunki i sposób sprawdzania kwalifikacji lotniczych w zakresie wiedzy, umiejętności i praktyki
 
+**§ 31.** Sprawdzenie kwalifikacji lotniczych w zakresie wiedzy, umiejętności i praktyki, zwane dalej „sprawdzeniem kwalifikacji lotniczych”, dotyczące licencji, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 2, odbywa się zgodnie z przepisami załącznika I (Część FCL) do rozporządzenia nr 1178/2011, z uwzględnieniem § 32, 34 i 35.
+
+**§ 32.**
+
+1. Sprawdzanie kwalifikacji lotniczych następuje:
+
+- **1)** w procesie szkolenia lotniczego teoretycznego i praktycznego, zgodnie z zatwierdzonymi programami szkolenia lotniczego;
+- **2)** przed wydaniem licencji lub uprawnienia;
+- **3)** w celu przedłużenia albo wznowienia ważności uprawnienia;
+- **4)** przed dokonaniem wpisu do licencji uprawnienia uzupełniającego w zakresie języka oraz przed dokonaniem wpisu do licencji upoważnienia do prowadzenia korespondencji radiotelefonicznej R/T w przypadku braku tego wpisu w posiadanej licencji;
+- **5)** jeżeli licencja została zawieszona na skutek powstania uzasadnionego przypuszczenia, że członek personelu lotniczego nie posiada wymaganej wiedzy lub umiejętności, w szczególności w wyniku badania wypadku albo incydentu lotniczego lub wykonywania czynności nadzoru lotniczego.
+
+2. Sprawdzenia kwalifikacji lotniczych, o którym mowa w ust. 1 pkt 3, nie przeprowadza się w stosunku do mechanika lotniczego obsługi technicznej, jeżeli udokumentuje on wykonywanie czynności obsługowych przez okres 6 miesięcy w ciągu ostatnich 2 lat.
+
+**§ 33.**
+
+1. Sprawdzenie kwalifikacji lotniczych w celu przedłużenia ważności uprawnienia, którego ważność zgodnie z załącznikiem nr 3 do rozporządzenia wynosi:
+
+- **1)** 12 miesięcy – jest przeprowadzane w okresie jego ważności, jednak nie wcześniej niż na 3 miesiące przed jej upływem;
+- **2)** 3 lata – jest przeprowadzane w okresie jego ważności, jednak nie wcześniej niż na 12 miesięcy przed jej upływem.
+
+2. W razie upływu ważności uprawnienia, o którym mowa w ust. 1, wznawia się jego ważność. Wznowienie ważności uprawnienia może nastąpić po sprawdzeniu kwalifikacji lotniczych dokonanym przez egzaminatora praktycznego, po wcześniejszym odbyciu szkolenia lotniczego, z uwzględnieniem przepisów załącznika nr 3 do rozporządzenia.
+
+3. W razie negatywnego wyniku sprawdzenia kwalifikacji lotniczych, o którym mowa w ust. 1 i 2, w celu przedłużenia lub wznowienia ważności uprawnienia egzaminowany odbywa szkolenie lotnicze w zakresie wskazanym przez egzaminatora państwowego w protokole egzaminacyjnym, z uwzględnieniem przepisów załącznika nr 3 do rozporządzenia.
+
+**§ 34.**
+
+1. Sprawdzenie kwalifikacji lotniczych w przypadku, o którym mowa w § 32 ust. 1 pkt 1, przeprowadza ośrodek szkolenia lotniczego w zakresie szkolenia objętego posiadanym certyfikatem.
+
+2. Sprawdzenia kwalifikacji lotniczych w przypadkach, o których mowa w § 32 ust. 1 pkt 2–5, dokonuje się w formie egzaminu teoretycznego lub egzaminu praktycznego.
+
+**§ 35.**
+
+1. Sprawdzenie kwalifikacji lotniczych w zakresie umiejętności posługiwania się w łączności radiowej frazeologią lotniczą oraz językiem polskim lub angielskim następuje zgodnie z przepisami załącznika I (Część FCL) do rozporządzenia nr 1178/2011.
+
+2. Sprawdzenie kwalifikacji lotniczych, o którym mowa w ust. 1, potwierdza się wpisem uprawnienia uzupełniającego w zakresie języka dokonywanego w PPL(A), CPL(A) ATPL(A), PPL(H), CPL(H), ATPL(H), MPL, PPL(AS), CPL(AS), FNL, LAPL(A) i LAPL(H).
+
 #### Rozdział 6 Szczegółowe warunki wykonywania uprawnień wynikających z licencji
+
+**§ 36.** Szczegółowe warunki wykonywania uprawnień wynikających z licencji, o których mowa w § 3 ust. 1 pkt 1 i ust. 2, określa załącznik I (Część FCL) i załącznik IV (Część MED) do rozporządzenia nr 1178/2011, z uwzględnieniem § 37.
+
+**§ 37.**
+
+1. Licencje, o których mowa w § 3 ust. 1 pkt 1 i 3 oraz ust. 2, uprawniają ich posiadaczy do wykonywania czynności lotniczych na statkach powietrznych wymienionych w załączniku I do rozporządzenia nr 2018/1139.
+
+2. Czynności lotnicze, o których mowa w ust. 1, mogą być wykonywane jedynie na tej kategorii statku powietrznego wymienionego w załączniku I do rozporządzenia nr 2018/1139, do którego odnosi się posiadana przez pilota licencja wymieniona w § 3 ust. 1 pkt 1 i 3 oraz ust. 2, pod warunkiem posiadania:
+
+- **1)** ważnego uprawnienia na klasę statku powietrznego oraz kwalifikacji potwierdzonych w dokumentacji osobistej pilota na dany wariant statku powietrznego w ramach klasy albo
+- **2)** wpisanego do licencji uprawnienia na typ statku powietrznego, albo
+- **3)** TPR, jeżeli dotyczy.
+
+3. Wykonywanie czynności pilota podczas prób w locie wymaga posiadania TPR klasy odpowiedniej do prób w locie.
+
+4. Szczegółowe warunki wydania TPR i zakres uprawnień wynikających z jego posiadania określa rozdział 3 załącznika nr 3 do rozporządzenia.
+
+5. W przypadku braku pilota posiadającego CPL(AG), spełniającego wymagania do uzyskania TPR pilota doświadczalnego wiatrakowcowego, czynności pilota doświadczalnego wiatrakowcowego może wykonywać, posiadacz:
+
+- **1)** CPL(H) albo ATPL(H), z wpisanym TPR pilota śmigłowcowego, lub
+- **2)** CPL(A) albo ATPL(A), z wpisanym TPR pilota samolotowego, oraz świadectwa kwalifikacji pilota wiatrakowcowego o maksymalnej masie startowej (MTOM) do 560 kg (UAGP).
+
+**§ 38.**
+
+1. Członek personelu lotniczego może wykonywać czynności lotnicze wyłącznie w zakresie wynikającym z:
+
+- **1)** licencji, z uwzględnieniem ograniczeń do niej wpisanych;
+- **2)** uprawnień wpisanych do licencji;
+- **3)** potwierdzeń odbycia szkoleń lotniczych specjalistycznych, o których mowa w rozdziale 4 załącznika nr 3 do rozporządzenia, wpisanych do osobistego dokumentu praktyki lotniczej.
+
+2. Członek personelu lotniczego podczas wykonywania czynności lotniczych, do których uprawnia licencja, posiada ją przy sobie wraz z następującymi dokumentami:
+
+- **1)** orzeczeniem lotniczo-lekarskim, jeżeli jest ono wymagane;
+- **2)** dokumentem tożsamości ze zdjęciem;
+- **3)** zaktualizowanym osobistym dokumentem praktyki lotniczej.
+
+3. Posiadacz MML może poświadczać obsługę wyłącznie w zakresie wynikającym z:
+
+- **1)** licencji, z uwzględnieniem wpisanych do niej ograniczeń;
+- **2)** uprawnień lotniczych, wpisanych do jego licencji albo upoważnień wydanych przez zatrudniającą organizację obsługową.
+
+4. Posiadacz MML może poświadczać wykonanie obsługi technicznej statku powietrznego, jeżeli:
+
+- **1)** ukończył z wynikiem pozytywnym szkolenie specjalistyczne w zakresie tego typu statku powietrznego w jednym z podmiotów, o których mowa w § 26 ust. 2, i posiada wpis typu statku powietrznego oraz praktyki do osobistego dokumentu praktyki lotniczej albo zaliczył egzamin teoretyczny i egzamin praktyczny na uprawnienie na typ statku powietrznego w zakresie MML;
+- **2)** w ciągu ostatnich 2 lat wykazał się 6-miesięczną praktyką w obsłudze statków powietrznych wpisanych do dokumentu praktyki lotniczej mechanika lotniczego obsługi technicznej.
+
+5. Mechanik lotniczy posiadający licencję na obsługę techniczną statku powietrznego Part-66 w kategorii lub podkategorii B1, B2, B3 lub L, wydaną zgodnie z wymaganiami rozporządzenia nr 1321/2014, może poświadczać obsługę statków powietrznych objętych niniejszym rozporządzeniem, właściwych dla kategorii lub podkategorii licencji, z uwzględnieniem ograniczeń do niej wpisanych po spełnieniu warunków, o których mowa w ust. 4.
+
+**§ 39.** Członek personelu lotniczego i uczestnik szkolenia lotniczego odbywający szkolenie w celu uzyskania licencji lub uprawnienia powstrzymuje się od wykonywania czynności lotniczych w przypadku, gdy:
+
+- **1)** odczuwa dolegliwość fizyczną lub psychiczną, która utrudnia jemu wykonywanie tych czynności w sposób bezpieczny;
+- **2)** znajduje się pod wpływem środków ograniczających sprawność psychiczną lub fizyczną w szczególności:
+    - **a)** leków,
+    - **b)** alkoholu,
+    - **c)** narkotyków albo innych środków odurzających.
+
+**§ 40.**
+
+1. Członek personelu lotniczego przy wykonywaniu czynności lotniczych stosuje się do ograniczeń medycznych zamieszczonych w orzeczeniu lotniczo-lekarskim.
+
+2. Jeżeli z ograniczenia, o którym mowa w ust. 1, wynika obowiązek wykonywania czynności lotniczych tylko przy użyciu szkieł korekcyjnych, członek personelu lotniczego posiada podczas wykonywania tych czynności zapasowe szkła korekcyjne.
+
+3. Przepisy ust. 1 i 2 stosuje się również do uczestnika szkolenia lotniczego odbywającego szkolenie w celu uzyskania licencji lub uprawnienia. Ograniczenie wymienione w ust. 1 wpisuje się do dokumentu przebiegu szkolenia praktycznego.
 
 #### Rozdział 7 Szczegółowe warunki i sposób prowadzenia rejestru personelu lotniczego
 
+**§ 41.**
+
+1. W ramach rejestru personelu lotniczego, o którym mowa w art. 102 ustawy, Prezes Urzędu prowadzi rejestr personelu lotniczego, zwany dalej „rejestrem”, na który składają się teczki osobowe członków personelu lotniczego wraz z zawartymi w nich dokumentami.
+
+2. Teczka osobowa członka personelu lotniczego zawiera:
+
+- **1)** podstawowe dane osobowe członka personelu lotniczego:
+    - **a)** imiona i nazwisko,
+    - **b)** miejsce urodzenia i numer PESEL, a w przypadku osób, które nie mają przyznanego numeru PESEL – datę urodzenia,
+    - **c)** obywatelstwo,
+    - **d)** adres zamieszkania oraz, na żądanie członka personelu lotniczego, adres do korespondencji;
+
+- **2)** osobisty numer członka personelu lotniczego, którym są oznaczane wszystkie wydane jemu licencje;
+- **3)** wykaz wszystkich licencji z uwzględnieniem:
+    - **a)** oznaczenia licencji,
+    - **b)** daty wydania licencji,
+    - **c)** wpisanych do licencji uprawnień, z oznaczeniem terminu ich ważności i przedłużenia ich ważności,
+    - **d)** okresów zawieszeń licencji i uprawnień do nich wpisanych oraz dat przywrócenia ich ważności,
+    - **e)** oznaczenia oraz daty wydania decyzji dotyczących cofnięcia, zmiany, zawieszenia i przywrócenia ważności licencji oraz wydania, wznowienia ważności i cofnięcia uprawnienia wpisywanego do licencji oraz prawomocnych orzeczeń sądowych;
+
+- **4)** dokumenty złożone w związku z ubieganiem się o wydanie licencji oraz o wydanie, przedłużenie albo wznowienie ważności wpisywanych do niej uprawnień;
+- **5)** protokoły z przeprowadzonych egzaminów państwowych wymaganych do wydania licencji lub do wydania, przedłużenia albo wznowienia ważności wpisywanych do niej uprawnień;
+- **6)** decyzje dotyczące cofnięcia, zmiany, zawieszenia i przywrócenia ważności licencji oraz wydania, wznowienia ważności i cofnięcia uprawnienia wpisywanego do licencji oraz prawomocne orzeczenia sądowe;
+- **7)** informacje dotyczące wypadków i incydentów lotniczych z udziałem członka personelu lotniczego;
+- **8)** pisemne informacje o dacie i okolicznościach utraty lub zniszczenia dokumentu licencji.
+
+**§ 42.**
+
+1. Rejestr obejmuje odrębnie prowadzony dział osób, którym wydano świadectwa uznania obcych licencji lub równoważnych im dokumentów wydanych przez właściwy organ obcego państwa.
+
+2. Do działu rejestru, o którym mowa w ust. 1, stosuje się odpowiednio § 41 ust. 2, z tym że rejestr uzupełnia się o daty ważności wydanych świadectw uznania obcych licencji.
+
+**§ 43.**
+
+1. Skreślenie członka personelu lotniczego z rejestru następuje:
+
+- **1)** w razie śmierci albo uznania członka personelu lotniczego za zmarłego;
+- **2)** w razie cofnięcia wszystkich licencji.
+
+2. Teczkę osobową członka personelu lotniczego skreślonego z rejestru przechowuje się w rejestrze przez okres:
+
+- **1)** 3 lat następujących po roku, w którym nastąpiła śmierć członka personelu lotniczego;
+- **2)** 10 lat następujących po roku, w którym członek personelu lotniczego został uznany za zmarłego;
+- **3)** 5 lat następujących po roku, w którym decyzja o cofnięciu ostatniej licencji stała się ostateczna.
+
 #### Rozdział 8 przepisy przejściowe i dostosowujące
 
+**§ 44.**
+
+1. Licencje oraz wpisane do nich uprawnienia wydane przed dniem wejścia rozporządzenia w życie zachowują ważność przez okres, na jaki zostały wydane.
+
+2. Prezes Urzędu Lotnictwa Cywilnego dokonuje, na wniosek członka personelu lotniczego, wymiany jego licencji i uprawnień do nich wpisanych, wydanych przed dniem wejścia w życie rozporządzenia na licencje i uprawnienia na warunkach określonych w ust. 3 i 4.
+
+3. Wymiana, o której mowa w ust. 2, może nastąpić najpóźniej w dniu upływu ważności dotychczasowej licencji.
+
+4. Licencje i uprawnienia, o których mowa w ust. 1, podlegają wymianie na odpowiadające im licencje i uprawnienia o tych samych nazwach.
+
+5. (uchylony).
+
+6. Licencja wydana przed dniem wejścia w życie rozporządzenia, która utraciła swoją ważność, podlega wymianie zgodnie z ust. 2–4, po wznowieniu ważności odpowiedniego uprawnienia.
+
+7. Do licencji wydanej w wyniku wymiany wpisuje się tylko ważne uprawnienia.
+
+8. Uprawnienie, w stosunku do którego złożono przed dniem wejścia w życie rozporządzenia wniosek o przedłużenie jego ważności, a którego ważność upłynęła przed dniem wejścia w życie rozporządzenia, uznaje się za ważne i przedłuża w przypadku, gdy w dniu złożenia wniosku członek personelu lotniczego spełniał wymagania niezbędne do przedłużenia ważności tego uprawnienia.
+
+9. Licencje, o których mowa w § 3 ust. 1 pkt 2, w stosunku do których złożono przed dniem wejścia w życie rozporządzenia wniosek o przedłużenie ich ważności, a których ważność upłynęła przed dniem wejścia w życie rozporządzenia, uznaje się za ważne i wymienia na odpowiadające im licencje o tych samych nazwach w przypadku, gdy w dniu złożenia wniosku członek personelu lotniczego spełniał wymagania niezbędne do przedłużenia ważności licencji.
+
+**§ 45.**
+
+1. Członek personelu lotniczego posiadający kwalifikacje wynikające z wpisu do osobistego dokumentu praktyki lotniczej może wykonywać czynności lotnicze na podstawie takiego wpisu do czasu wymiany posiadanej licencji na licencję wydaną zgodnie z przepisami rozporządzenia.
+
+2. Członek personelu lotniczego posiadający licencję pilota szybowcowego, licencję pilota samolotowego turystycznego, licencję pilota samolotowego zawodowego lub licencję pilota samolotowego liniowego oraz posiadający wpis akrobacji podstawowej do osobistego dokumentu praktyki lotniczej może wykonywać loty akrobacyjne w zakresie akrobacji podstawowej w charakterze dowódcy statku powietrznego na podstawie takiego wpisu do dnia 7 kwietnia 2015 r.
+
+**§ 46.**
+
+1. Zaświadczenia o ukończeniu szkolenia lotniczego teoretycznego i praktycznego do licencji, o których mowa w § 3 ust. 1 pkt 2, lub uprawnień do nich wpisywanych, wydane przed dniem wejścia w życie rozporządzenia, zachowują ważność przez okres 12 miesięcy od dnia jego wejścia w życie, z tym że zaświadczenia o ukończeniu szkolenia teoretycznego i praktycznego do licencji mechanika lotniczego obsługi technicznej statków powietrznych innych niż samoloty i śmigłowce oraz obsługi statków powietrznych wymienionych w załączniku II do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 216/2008 z dnia 20 lutego 2008 r. w sprawie wspólnych zasad w zakresie lotnictwa cywilnego i utworzenia Europejskiej Agencji Bezpieczeństwa Lotniczego oraz uchylającego dyrektywę Rady 91/670/EWG, rozporządzenie (WE) nr 1592/2002 i dyrektywę 2004/36/WE oraz wpisywanych do niej uprawnień, są ważne bezterminowo.
+
+2. Zaświadczenia o ukończeniu szkolenia lotniczego teoretycznego i praktycznego do licencji pilota balonu wolnego PL(FB) i licencji pilota szybowcowego PL(G) lub uprawnień do nich wpisywanych, wydane przed dniem wejścia w życie rozporządzenia, zachowują ważność przez okres 12 miesięcy od daty wydania zaświadczenia.
+
+3. Szkolenie lotnicze do licencji pilota balonowego i licencji pilota szybowcowego wraz z wpisywanymi do nich uprawnieniami oraz dotychczasowe szkolenia lotnicze specjalistyczne dotyczące tych licencji mogą odbywać się do dnia 7 kwietnia 2015 r. na podstawie programów szkolenia oraz instrukcji wykonawczych ośrodków szkolenia lotniczego zatwierdzonych przez Prezesa Urzędu Lotnictwa Cywilnego przed dniem wejścia w życie rozporządzenia.
+
+**§ 47.**
+
+1. Szkolenie lotnicze rozpoczęte przed dniem wejścia w życie rozporządzenia uznaje się za przeprowadzone zgodnie z przepisami rozporządzenia.
+
+2. Szkolenia lotnicze specjalistyczne, których odbycie potwierdza się wpisem do osobistego dokumentu praktyki lotniczej pilota, rozpoczęte przed dniem wejścia w życie rozporządzenia, polegające na wykonywaniu w charakterze dowódcy statku powietrznego lotów akrobacyjnych, połączonych z holowaniem statku powietrznego przez inny statek powietrzny lub połączonych z holowaniem banerów przez statek powietrzny uznaje się za szkolenia do uzyskania uprawnień dodatkowych określonych w przepisach FCL.800 i FCL.805 załącznika I (Część FCL) do rozporządzenia Komisji (UE) nr 1178/2011 z dnia 3 listopada 2011 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do załóg w lotnictwie cywilnym zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 311 z 25.11.2011, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1178/2011”, po uprzednim zweryfikowaniu szkolenia specjalistycznego przez ośrodek szkolenia lotniczego na jego zgodność z wymaganiami rozporządzenia nr 1178/2011.
+
+3. Szkolenia lotnicze do uprawnienia pilota doświadczalnego klasy 3 albo 2, rozpoczęte i zakończone przed dniem 19 marca 2013 r., uznaje się za szkolenia do uzyskania uprawnień pilota doświadczanego określonych w przepisach FCL.820 załącznika I (Część FCL) do rozporządzenia nr 1178/2011.
+
+4. Szkolenia lotnicze do uprawnienia pilota doświadczalnego klasy 3 albo 2, rozpoczęte i niezakończone przed dniem 19 marca 2013 r., uznaje się za szkolenia do uzyskania uprawnień pilota doświadczanego określonych w przepisach FCL.820 załącznika I (Część FCL) do rozporządzenia nr 1178/2011, po uprzednim zweryfikowaniu szkolenia przez ośrodek szkolenia lotniczego na jego zgodność z wymaganiami rozporządzenia nr 1178/2011.
+
+5. Nadzorowaną praktykę instruktorską rozpoczętą przed dniem wejścia w życie rozporządzenia uznaje się za odbytą zgodnie z przepisami rozporządzenia.
+
+6. W przypadku rozpoczęcia nadzorowanej praktyki lotniczej w celu uzyskania uprawnienia instruktorskiego wpisywanego do licencji pilota balonowego albo licencji pilota szybowcowego i niezakończenia jej przed dniem wejścia w życie rozporządzenia, Prezes Urzędu Lotnictwa Cywilnego, na wniosek członka personelu lotniczego o wpis uprawnienia instruktora szkolenia ogólnego FI, dokonuje wpisu uprawnienia instruktora szkolenia ogólnego ograniczonego do prowadzenia szkolenia w locie pod nadzorem innego instruktora szkolenia ogólnego FI(R) odpowiednio do licencji pilota balonowego albo licencji pilota szybowcowego.
+
+**§ 48.** Prezes Urzędu Lotnictwa Cywilnego dokonuje, na wniosek członka personelu lotniczego, wpisów uprawnień dodatkowych, o których mowa w przepisach FCL.800 oraz FCL.805 załącznika 1 do rozporządzenia nr 1178/2011, do licencji wydanej zgodnie z przepisami rozporządzenia, na podstawie wpisów wynikających z osobistego dokumentu praktyki lotniczej pilota.
+
+**§ 49.** Posiadacz uprawnienia instruktora szkolenia ogólnego klasy 1 FI1 lub uprawnienia instruktora szkolenia ogólnego klasy 2 FI2 wpisanego do licencji pilota szybowcowego PL(G) lub licencji pilota balonu wolnego PL(FB) otrzymuje uprawnienie instruktora uprawnionego do szkolenia instruktorów FI/FI wpisane do licencji pilota szybowcowego lub licencji pilota balonowego na podstawie wniosku złożonego do Prezesa Urzędu Lotnictwa Cywilnego po spełnieniu wymogu określonego przepisem FCL.905.FI (i) załącznika I do rozporządzenia nr 1178/2011.
+
 #### Rozdział 9 przepis końcowy
+
+**§ 50.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia . NAZWY SPECJALNOŚCI CZŁONKA PERSONELU LOTNICZEGO I SYMBOLE LICENCJI nazwy dla poszczególnych rodzajów licencji są zamieszczone w poniższej tabeli wraz z symbolami licencji: Nazwa specjalności członka personelu lotniczego Symbol literowy licencji 1 2 3 pilot wiatrakowcowy turystyczny private pilot (autogiro) PPL(AG) pilot wiatrakowcowy zawodowy commercial pilot (autogiro) CPL(AG) nawigator lotniczy flight navigator FNL mechanik pokładowy flight engineer FEL mechanik lotniczy obsługi technicznej aircraft maintenance mechanic MML dyspozytor lotniczy flight dispatcher FDL SZCZEGÓŁOWE WYMAGANIA DLA POSZCZEGÓLNYCH RODZAJÓW LICENCJI ORAZ RODZAJE UPRAWNIEŃ WPISYWANYCH DO TYCH LICENCJI
 
 #### Rozdział 1 określenia i przepisy wspólne
 

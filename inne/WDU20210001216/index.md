@@ -27,10 +27,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego Na podstawie art. 14 ust. 1 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2018 r.
 poz. 577) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U.
-poz. 485, z późn. zm. ) w załączniku nr 4 do rozporządzenia w tabeli:
-a) po wierszu „Funkcja punktu kontaktowego Europejskiej Sieci Sądowej w sprawach cywilnych i handlowych” dodaje się wiersz w brzmieniu: Funkcja jednego koordynatora do spraw dostępności do 901 dla obszaru apelacji
-§ 2. Przepisy niniejszego rozporządzenia mają zastosowanie przy ustalaniu dodatku do wynagrodzenia z tytułu pełnienia funkcji koordynatora do spraw dostępności od dnia 1 stycznia 2021 r.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. poz. 485, z późn. zm. ) w załączniku nr 4 do rozporządzenia w tabeli:
+
+- **a)** po wierszu „Funkcja punktu kontaktowego Europejskiej Sieci Sądowej w sprawach cywilnych i handlowych” dodaje się wiersz w brzmieniu: Funkcja jednego koordynatora do spraw dostępności do 901 dla obszaru apelacji
+
+**§ 2.** Przepisy niniejszego rozporządzenia mają zastosowanie przy ustalaniu dodatku do wynagrodzenia z tytułu pełnienia funkcji koordynatora do spraw dostępności od dnia 1 stycznia 2021 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

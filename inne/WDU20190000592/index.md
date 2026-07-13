@@ -26,9 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000592) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/592/text.pdf) |
 
 w sprawie statutu Centrum Łukasiewicz Na podstawie art. 7 ust. 1 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. poz. 534) zarządza się, co następuje:
-§ 1. Centrum Łukasiewicz nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2019 r.
-Minister Nauki i Szkolnictwa Wyższego: J. Gowin STATUT CENTRUM ŁUKASIEWICZ
+
+**§ 1.** Centrum Łukasiewicz nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2019 r. Minister Nauki i Szkolnictwa Wyższego: J. Gowin STATUT CENTRUM ŁUKASIEWICZ
+
+## Załącznik
+
 § 1. Centrum Łukasiewicz, zwane dalej „Centrum”, działa na podstawie ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. poz. 534), zwanej dalej „ustawą”, oraz niniejszego statutu.
 § 2. Prezes Centrum, zwany dalej „Prezesem”, działa przy pomocy:
 1) Wiceprezesów;

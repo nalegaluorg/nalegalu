@@ -8,10 +8,10 @@ pos: 435
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 13 marca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 435 Załącznik nr 2 Nazwa Rodzaj Czas otwarcia Lp. przejścia przejścia Dozwolony rodzaj ruchu przejścia granicznego grani- granicznego granicznego cznego
 
 | Pole | Wartość |
 |---|---|
@@ -25,27 +25,28 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-11-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000435) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/435/text.pdf) |
 
-granicznego cznego granicznego granicznego
 a) granica państwowa z Federacją Rosyjską:
-1. Braniewo Mamonowo
-2. Bezledy - osobowy: samochodami Bagrationowsk osobowymi*, pojazdami o nacisku na oś do 8 t wykonującymi przewozy międzynarodowe
-3. Głomno Bagrationowsk
-4. Skandawa Żeleznodorożnyj
-5. Grzechotki - osobowy: samochodami Mamonowo II osobowymi *,
+1. Braniewo - kolejowe towarowy całodobowo Mamonowo
+2. Bezledy - drogowe osobowy: samochodami całodobowo Bagrationowsk osobowymi*, towarowy pojazdami o nacisku na oś do 8 t wykonującymi przewozy międzynarodowe
+3. Głomno - kolejowe towarowy całodobowo Bagrationowsk
+4. Skandawa - kolejowe towarowy całodobowo Żeleznodorożnyj
+5. Grzechotki - drogowe osobowy: samochodami całodobowo Mamonowo II osobowymi *, towarowy
 b) granica państwowa z Republiką Białoruś:
-1. Kuźnica Białostocka -Grodno
-2. Kuźnica Białostocka osobowy: samochodami -Bruzgi osobowymi *,
-3. Bobrowniki - osobowy: samochodami Bierestowica osobowymi*,
-4. Zubki Białostockie Bierestowica
-5. Siemianówka Swisłocz
-6. Kukuryki Kozłowiczy
-7. Terespol - Brześć
-8. Terespol - Brześć osobowy: samochodami osobowymi*
-2. Dorohusk -Jagodzin
-3. Hrubieszów Włodzimierz Wołyński
-4. Hrebenne -Rawa osobowy: samochodami Ruska osobowymi*,
-5. Werchrata -Rawa Ruska 6 Korczowa - osobowy: samochodami Krakowiec osobowymi*,
-7. Przemyśl -Mościska * W powyższych przejściach granicznych w zakresie ruchu osobowego na kierunku wjazdowym do Rzeczypospolitej Polskiej przekraczać granicę państwową będą mogli:
+1. Kuźnica Białostocka kolejowe towarowy całodobowo -Grodno
+2. Kuźnica Białostocka drogowe osobowy: samochodami całodobowo -Bruzgi osobowymi *, towarowy
+3. Bobrowniki - drogowe osobowy: samochodami całodobowo Bierestowica osobowymi*, towarowy
+4. Zubki Białostockie - kolejowe towarowy całodobowo Bierestowica
+5. Siemianówka - kolejowe towarowy całodobowo Swisłocz
+6. Kukuryki - drogowe towarowy całodobowo Kozłowiczy
+7. Terespol - Brześć kolejowe towarowy całodobowo
+8. Terespol - Brześć drogowe osobowy: samochodami całodobowo osobowymi*
+c) granica państwowa z Ukrainą:
+1. Dorohusk -Jagodzin drogowe osobowy: samochodami całodobowo osobowymi*, towarowy
+2. Dorohusk -Jagodzin kolejowe towarowy całodobowo
+3. Hrubieszów - kolejowe towarowy całodobowo Włodzimierz Wołyński
+4. Hrebenne -Rawa drogowe osobowy: samochodami całodobowo Ruska osobowymi*, towarowy
+5. Werchrata -Rawa kolejowe towarowy całodobowo Ruska 6 Korczowa - drogowe osobowy: samochodami całodobowo Krakowiec osobowymi*, towarowy
+7. Przemyśl -Mościska kolejowe towarowy całodobowo * W powyższych przejściach granicznych w zakresie ruchu osobowego na kierunku wjazdowym do Rzeczypospolitej Polskiej przekraczać granicę państwową będą mogli:
 1) obywatele Rzeczypospolitej Polskiej,
 2) cudzoziemcy, którzy są małżonkami albo dziećmi obywateli Rzeczypospolitej Polskiej albo pozostają pod stałą opieką obywateli Rzeczypospolitej Polskiej,
 3) cudzoziemcy posiadający Kartę Polaka,

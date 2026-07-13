@@ -8,10 +8,10 @@ pos: 132
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Ustawa z dnia 16 czerwca 1988 r. o zmianie niektórych ustaw regulujących zasady funkcjonowania terenowych organów władzy i administracji państwowej
+# , - 293 od tych szacunkowy Lwydatków "tlo wych, pa'nsfwa ,,/raz z na podsta wojewódzkich, na których wie zobiektywizowanych kryte'riów, terenie , dochodów dla tererio .J ". dla wych ;draz bilans finansowy którego jest z proj,e,k:{em o narodowym pranie spo administracji ", stwow:ej stopnia podstawowego, po dodaje w b>fzmiieniu,: siada bilans, na terenie ,,3. Rada Ministrów, w drodze' innych jednostek terytorial- zobiektywfzowane kryteria ustalania "', nego sfopnia podstawowego sie dotacji ogólnych dlit ,dziba - to docho / terenowych,'"; , dy z podatku dochodowego tych 7) wart. 63 w ust. 3 po wwazfe' dodaje do rad na wyraz "sa.modzielnie";
 
 | Pole | Wartość |
 |---|---|
@@ -25,84 +25,30 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19880190132) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1988/132/text.pdf) |
 
-**Art. 1.** W dekrecie z dnia 27 grudnia 1974 r. o służbie funkcjonariuszy pożarnictwa (Dz. U. Nr 50, poz. 321 i z 1975 r. Nr 20, poz. 106) w art. 2:
+rodowych stopnia podstawowego, na których terenie wart. G8 otnyDluje bFmnenie: jednostka z Rady narodowe swoje prezydia i do dokonywania kredytów . o których mowa wart. 1-8 ust. wych dziatami i Przeniesienie pkt 2, posiad'a kredytów do wyrriaga upq;edniej bilans, na te opnrn komisji spraw renie jednostek te- ' O kredytów .'"rytodalnego stopnia podstawowego powia:damia' komisje do spraw siedziba - to' docho dy z podatku i podatku chodowego, od w arl. po ust. ust. 2a w brzmieniu: dów (oddziailów);, s.q przekazywane ,,2a. Ziundus.zu :zasooowego narodowe do rad narodowych stop terenowym nia podstawowego, na których tere nisko'plocentowychkredytÓJW na cele rozwojowe nie' war.uD,ki ich przyznawania oraz
+2. Minister Finansów i ter - miny ro:diczani. dochodów, o których w r. wchodzi w z dniem stycznia 1989' . 6) wart. 28: otrz:ymu,ie . Rady z. K..
+,,1. Rada Minisbów p,:iedstawia Sejmowi bilans Sekretarz Rady Z.
+132
+USTAWA z dnia czerwca. r.
+" o ni'ektórycb ustaw zasady funkcjonowania tereBowy,cJa org.uów I administracji .
 
-**Art. 2.** W ustawie z dnia 12 czerwca 1975 r. o ochronie przeciwpożarowej (Dz. U. Nr 20, poz. 106) wprowadza się następujące zmiany:
+**Art. 1.** W dekrecie z dnia 27 .grudnia, 1974 r. danta wojewódzkieg.o wymaga 'funkcjonariuszy (Dz, Nr 50, poz. 321 i z p6rnzumienia z Komendantem 1975 r. Nr 20, poz, 106) w art. ' ' - a) ust. 3 otrzymuje brzmienie:' h)' ust. 4 otrzymuje brzmie~e: , ... 4. Komendanta rejonowego nHa .. 3. wojewódzkiego pozarnych. nuje terenowy orgaIl administracji i terenowy OIgan administracji (). ogólli " \-" .'.,- "'{{<11 ".\~~~ , . Dziennik Ustaw Nr 19 294 132 ~:.~; :~~~':~~~H~t::~~ia (~:'9 ;:N':'"~
 
-**Art. 18.**
+**Art. 2.** W usta\vie z dnia 12 czerwca 1975 r. ochro nie (Dz. H. Nr. 20. poz. 106) wprowadza zmiany: .,., 18 otrzymuje brzmienie: "Art. 6, Dysponentami funduszów odnowy zabytków rady narodowe. "Art. 18. Terenowym organem administracji 2, Terenowe organy administracji państwo:' ~ stwowej o szczególnej do spraw. ochrony stoP • wej o ogólnej nia wojewódzkiego jest komendant wo do uchwalenia jewódzki radzie narodowej projekty programów odnowy zabytków i innych przedsięwZiE:ć 2. Komendant . wojewódżki straży pożar finansowanych ze terenowych / nych wykonuje swoje zaq!lnia przy po funduszów. ochrony zabytków, a mocy komendantów rejonowych z · realizacji pOZarnych i im zawodowych tych programów. ' . , 3. administracji 3. Kbmepdant rejonowY wej o 'ogólnej przed przedsta wykonuje zadania .operacyjno-techniczne wieniem radzie 'narodowej projektów ochrony w rejonie gramów, o których mowa w ust. 2, obszar jednej lub. opinii organizacji i jednostek terytorialnego stop po nia podstawowego. inicjatywy w dzieTerenowe organy admi,nistracji państWo- dzinie odnowy zabytków. \ . wej o ogólnej stopnia-wo 4. Srodkami jewódzkiego ko we terenowe orgap.y. administracji mendy wojewódzkiej strazy stwowej o ogólnej, zgodnie w .' trybie w. przepisach z programem odnowy zabytków, uchwa wydanych ria pOdstawie art. 141 ust. lonym przez pkt 2 ustawy z dnia 20lJpca 1983 r.. o systemie rad narodowych Art. 4. W ustawie z dnia 26 stycznia 1982 r. - Karta: teryt()rialnego (Dz. U. . Nr 41. poz. 185 .Nauczyciela (Dz. U, Nr 3, poz. 19. Nr 25, poz. 187 i Nr 31, l Nr 62, poz. 286, z 1984 r. Nr 21, poz. 100 poz. oraz z 1983 r. Nr 5, poz. 33) wart. 92: i Nr 31; 173, r. Nr 14, poz. z 1986 r. Nr 47,..poz. 227, z 1987 r. Nr ust. 2 otrzymuje poz .. 83 l Nr 33, poz. 181 Qraz z 1988 Tryb powoływania i odwoływania ku{atorów.!. _ Nr 7, poz. 54). . oraz inspektorów i wychowania, .. 5. Tryb woje eych organami o " wódzkiego rejonowego szczególnej, p'rzepisyustawy z nych przepisy. dnia lipca 1983 o systemie. . rad narodpwych Minister Spraw w po'" i terytorialnego (Dz. Nr 4h poz. 185 rozumieniu z ministrem ' do i Nr 62, poz. 286, z r. Nr 24, poz. spraw administracji' w drodze Nr poz. 173, z z 1985r. Nr. 14, poz. 60, z 1986 r. siedziby. i terytorialny Nr 47, poz. 227, 1987 r.' Nr 14, poz: 83 i Nr, 33, komend rejonowych poz. 181 oraz z 1988 r. Nr 7, poz. . b) ust. 3 19 otrzymuje brzmienie: Art. 5. ·W ustawie z 4 maja 1982 r. o _Narodo- · . "Art. 19. Terenowy organ administracji - wej Radzie U: Kultury o Funduszu Kultury w.ej o ogólnej stopnia pod (Dz. Nr 14, poz. 111) wprowadza stawowego do wykonywania okre zlPiany': ' . ;. operacyjno-technicz wart. 12 ust. 3 po wyrazach "terenowe nych ochrony powo administracji dodaje wyrazy komendanta gminnego ogólnej"; nych.
 
-1. Terenowym organem administracji państwowej o właściwości szczególnej do spraw ochrony przeciwpożarowej stopnia wojewódzkiego jest komendant wojewódzki straży pożarnych.
+- **2)** wart. 13: '2. Terenowy organ administracji wej o szczególnej stopnia a) ust. 2. otrzymuje brzmienie: podstilwowego do ochrony prze -,,2. Srodkami funduszów wojewódzkfch, miejskich, ,- zasadach miejsko-gminnych gminnych wart: 1,37 usL 5 ustawy, rady narodowe.", o któreji mowa wart. 18 ust. 4 - po kome.udantowi rejonowemu stra b) dodaje ust. 3 i 4 w brzmieniu: prowadzenie niektórych Funduszem administruje t~renowy organ admi spraw do jego nistracji o ogólnej,
 
-2. Komendant wojewódzki straży pożarnych wykonuje swoje zadania przy pomocy komendantów rejonowych straży pożarnych i podległych im zawodowych straży pożarnych.
+3. Rada Ministrów, 'w drodze z planeIp. uchwalonym .przez nia, powQ , komendantów, o których mo- Rada na-ródowa sprawuje wykonania wa ust. L" . oraz wydatków funduszu."; ' .. .. , , NJ 1,9 Poz. 132 w art. .l4 w ust. po wyrazach "terenowe organy 2) w :art ust. 2, art. ust. 2, art. 19 i 'art: 27 wyrazy ust. ustawy: Vf}frazy "wojewod-a(prezydent miasta ogólnej". , ' , \ , stopnia wojewódZkiego)'" ; Arr. 6. W ustawie: z, dnia: 16 1982 r. o pra odpowiednich przypa,dkach wyrazami "terenoWy organ U. Nr 31, poz. 214 administraaji szczególnej , i 'z 1"984 r. Nt 35, poz. 187) arf. otrzymuje brzmienie: w sprawach. ' "Art. 45. ustawy -(~~ Art. /10 • .W . ~ust~awie'~-;ż~_dn~a 26 kwietnia' ą pra upowszechBianiukulturyóraz o prawach i cy nie st'osuje siEt do 'osób pracowników up'owszec'luliania ' kultury {Dz. Nr' 26, nych funkcji . organów admi. poi. 129) nistracji oraz na inne sta'· 1) wart. 1'1 w· ust. pkt .,2 'otrzymuj~ brzmienie: kierownicze- . w admin,istracji ,,2) terenowe organy -,administracji o w ,trybie w popstawie przepis aGh szczególnych. . * rady narodoweji"; Osobie' oqwołanej f.~nkcji lub stano· '2) w. art. 13 ust." 7 po wyraza:ch "terenowy organ wiska, w ust. która przed administracji dódaje . wyrazy' poV{oIanieIll na lub stano· "o w' spraw.ach ,kultut-y " wf;;ko lsituki"i p.rawodo mia wart. 17 ust. otrzymuje brzmienie: nowania na stanowisko z zajmowanym przed Rady naroddwe stosownie, do' ,swojej - os"oba', ,tii s{lełnia wymogi. okt6ryćh , mowa 'wart. 3 pkt i placówek' uP?wSzechniania tworzonych na podstawie, ustawie 'z dnia 14 grudnia 1982 o ubez- , , ,.instytucji i 'plilcówek upowszechniapia: kuftury . rolników , indy:widualnych prowadzonych przez jednQstki gospodarki uspo ko.w ich rodzin U.Nr 40, poz. 2PB" z 198'4 Nr 52, inne osoby pfawne oraz osoby " 269 ( 1986 r. Nr 42, poz. 202) wart. ust. 2 na ich
 
-3. Komendant rejonowy straży pożarnych wykonuje zadania operacyjno-techniczne ochrony przeciwpożarowej w rejonie obejmującym obszar jednej lub więcej jednostek podziału terytorialnego stopnia podstawowego.
+8. W . ustawie zonia 29 grudnia 1982 r: o Art. U. W ustaAde ~ dnia 3' lipca 1984 r. o kulturze Finansów' oraz i skarbo . fizycznej a) (Dz. N;i 34, poz. 18t) wart. 44: 'Twych. poz; 289,' z 1985' r. Nr 12, poz. ust. 2 otrzymuje brzmienie: ' 4 Nr 50, poz. 262 oraz z 1987 r. Nr 3, poz. 18' i 3\.:1, ,,2. ~rodk&mi Centralnego Fąnduszu RozwoJu Kultury ,poz. zmiany: Fizycznej Komitet do Spraw 9: ' " - , i Kultury FizyczneJ.' a terenowych 'fun-· " 'a) po ust. dodaje ust. Sa w brzmieniu: duszów rozwoju fizycznej rady narodo1Ye.", \. . "Sa. Izby' \skaib~w.e realizują wytyczne polityki finansowej, ustalane przez wojewódzkie rady . b) po ust 2 dodaje ust. 2a i 2b w brzmieniu: , ; narodowe' w zakresie spraw do , .,,2a. 'teren'owego administruje te- ' rad narodowych.", renowy org,an o
 
-4. Terenowe organy administracji państwowej o właściwości ogólnej stopnia wojewódzkiego określają organizację komendy wojewódzkiej straży pożarnych w trybie przewidzianym w przepisach wydanych na podstawie art. 141 ust. 2 pkt 2 ustawy z dnia 20 lipca 1983 r. o systemie rad narodowych i samorządu terytorialnego (Dz. U. Nr 41, poz. 185 i Nr 62, poz. 286, z 1984 r. Nr 21, poz. 100 i Nr 31, poz. 173, z 1985 r. Nr 14, poz. 60, z 1986 r. Nr 47, poz. 227, z 1987 r. Nr 14, poz. 83 i Nr 33, poz. 181 oraz z 1988 r. Nr 7, poz. 54).
+- **b)** ust. 8 , ogólnej, z planem uchwalonym przez , 2}poart. dodaje się art. ~a '-w bizmien-iu: 2b. Projekty planów funduszów terenowych oraz "Art. ·9a. t. skarbowe Ministrowi roczne spra'Y0zdania z wykonania planów przed· Finarisów sprawozdania ' ze swojej dzia radzie narod<.>wej treno",e organy' admi o ogólnej."
 
-5. Tryb powoływania komendanta wojewódzkiego i rejonowego straży pożarnych regulują odrębne przepisy.
+2. kim radom narodowym roczne infor- . 12. W ustawie z dnia 15 listopada 1984 r.o macje o. o któ duszu ! 9,minnym i hinduszlI . miejskim (Dz. U. Nr 52, rych 'mowa wart. 9 ust. 5a, oraz. okre poz. 269) zmiany: sowe s,prawozdwia o: ustalaniu i pobo- l) wart. 2 w ust. 1 w pkt 3 wyrazy "pomoc' '. rze podatków oraz .. innych i" " ' ' -dochody tereno 2) wart. 3 w ust. 1, pkt 2 wyrazy "do 20 tys. mie.szwych.
 
-6. Minister Spraw Wewnętrznych w porozumieniu z ministrem właściwym do spraw administracji określi, w drodze rozporządzenia, siedziby i terytorialny zasięg działania komend rejonowych straży pożarnych. ” ;
+3. skarbowe na, danie zainteresowanych rad narodowych 3) w art. 5: stopnia pOdstawoweg,o,ókresowe spra a) Vi ust. pkt 2, skreśla się, ad9tYChczas;~y pkt 3 . wozdania o " nstalimlu " poborze po oznacza jako pkt 2, ' datków .oraz stano b) doda-je ust. 3 -dochooy tych rad.!' ,,3. Rada narodow;a "stopnia poCIstawowego : .. Art" 9. ustawie z dnia 6 kwietni'a' ,1984 o gos'po z ,przepJsu ,ust. 2, 'prze ene:rgetyczne-j' (Dz. U. Nr 21 .. 'po ,z. 96 i z 1987 znaczenie funduszu mi inne 'Nr 33, poz. 180) zmiany: cele, z na terenie jej ,~ '/ 'Art. '13 .. 'Vi.~ u~t~W;i~ zdńia ·31 stycznia, !9ą5 o d~ob :uej .. U. Nr 3" poz. 11 z Nr 33, .poz.,t81(w ," ". ' ust, 4 otr'iyń)u}e ,brzmienie; . , . Art.i~. W ustawie~z. dnia 2rroar-ca.: Dysponentami ,wojewódzkie rady '(OZ. U. Nr 14',' poz. OO} w:·'ilrl,·. .. ' naro'do'we/ ,;" ' .w Fazy. ,;doktórych .. komunalnej" --. . 'k:' .... o bactwie-' śr9d1ądowym .(Dz.' U~ ~r:' ii, 1p'~Ż, -91,.-' 'stqpriia wójęwÓCłzkiego, zgodnie z p1c~nęm uchwa ust. -4 _ '1:. .l onvm 'Rriez' ' . K"'Qinendant 4b . .P rQiektty Pl~~'w~,fyhd~SZów' 'oraz-,roczile" sprawo~ o.r..az . 'praco.wnikami miast: z~fania :z,-w§korianJa;pi:aąów ptzedśtawiają radzie -kowa , narodoweJ" o' terenowE}.; QigaI\y administracji 'stwowej ' " Art. 14 .• z 14 marca 1985. o -pOdat Wart: 6..w ust. 1 na kODcuzdariia 'kac'h ,lokalnych .(Oz. U. Nr 12,-'poz.,·SO).'·wpro ... waaża 'się rtastępujące . zmiany: :al' w,.art. '11,', '. Rada M!ni,trów., .~ dotyc~~~~ówą· treŚć ozn,acza się ja~o usfi 1, ' 31 gr~~nla 198ą r,.· dO .......' . . . . " . \ narodowyth teryt('rlć1l.lnl!gb/.Zć(s~a-,dyii;~lt$pq~II;)~; i' Wp-l~w~/i' 6Płd~, kttórychm,owa w ust~ 2, 'ś.rri:Q.w~ą- dOChód· odp.owiedqich. funduszów: Pize'\Y~,aniczący ~Ra(y" Pa,6st~a: ,. ,glJlhin-yćh miejskich."; ' . ~ekr'e.tarz lt'adY· Pąństwa:'t. , , , .. . ,
 
-- **2)** art. 19 otrzymuje brzmienie: „
+- **b)** po"ust. 4b w/ bFzmieniu: ~ ,,,4~. ,Sro'dka:ll!i' -iiuI}~uszu admlnishuj~ tereno~y. organ 16; W, ustawie z' dnia. t8 'kwietnia' .
+- **b)** docla;je,. się':~St. 2, ,3 wbr~mieni'u3' ~ania i', .nl~trowania' 'teire~iol~~i;.~fu,n'd\i§l,qJl~~ ,,,2. Raay:',rulI-:9dOwe. stopnla wojęwódz~iego:~og'ą', ini,,'a w .~c?!e-gólnośCl: punduszeDi " ~n~ "W:Ilio{ek terenowYch organ6w";adJn.iitistiacJi fiindus,zęuf; Ro~ojU_I.Wbd~iąg~w ;,i o.' wojew,6dzkiego, :.uzgodnión-y z;',Ministtem ,Pi- ' /' ' i:, ,;." wprowadza c na, .' "'., .inne 1 . .fo- ',. Uslawa wcllodzi ' _ -:, ka1n~':·i;;.us,talać ich ,stawkio'raz 'śpos6b, '~~ ·l~89,,r:X~ wYjątld~mart. ,18/który':w~~Ó~\~ .. ' ,' bcir.u.'·' . ,.' . . . . ,'\";
 
-**Art. 19.**
-
-1. Terenowy organ administracji państwowej o właściwości ogólnej stopnia podstawowego może do wykonywania określonych czynności operacyjno-technicznych ochrony przeciwpożarowej powołać komendanta gminnego straży pożarnych.
-
-2. Terenowy organ administracji państwowej o właściwości szczególnej stopnia podstawowego do spraw ochrony przeciwpożarowej może – na zasadach określonych w art. 137 ust. 5 ustawy, o której mowa w art. 18 ust. 4 – powierzyć komendantowi rejonowemu straży pożarnych prowadzenie niektórych spraw należących do jego właściwości.
-
-3. Rada Ministrów, w drodze rozporządzenia, określi szczegółowe zasady powoływania komendantów, o których mowa w ust. 1. ”
-
-**Art. 3.** W ustawie z dnia 26 kwietnia 1979 r. o terenowych funduszach odnowy zabytków (Dz. U. Nr 8, poz. 46) art. 6 otrzymuje brzmienie: „
-
-**Art. 6.**
-
-1. Dysponentami funduszów odnowy zabytków są właściwe rady narodowe.
-
-2. Terenowe organy administracji państwowej o właściwości ogólnej opracowują i przedstawiają do uchwalenia właściwej radzie narodowej projekty programów odnowy zabytków i innych przedsięwzięć finansowanych ze środków terenowych funduszów ochrony zabytków, a także przedstawiają sprawozdania z realizacji tych programów.
-
-3. Terenowe organy administracji państwowej o właściwości ogólnej przed przedstawieniem radzie narodowej projektów programów, o których mowa w ust. 2, zasięgają opinii organizacji społecznych i stowarzyszeń społeczno-kulturalnych, podejmujących inicjatywy społeczne w dziedzinie odnowy zabytków.
-
-4. Środkami funduszu administrują właściwe terenowe organy administracji państwowej o właściwości ogólnej, zgodnie z programem odnowy zabytków, uchwalonym przez właściwą radę narodową. ”
-
-**Art. 4.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. Nr 3, poz. 19, Nr 25, poz. 187 i Nr 31, poz. 214 oraz z 1983 r. Nr 5, poz. 33) w art. 92:
-
-**Art. 5.** W ustawie z dnia 4 maja 1982 r. o Narodowej Radzie Kultury oraz o Funduszu Rozwoju Kultury (Dz. U. Nr 14, poz. 111) wprowadza się następujące zmiany:
-
-**Art. 45.**
-
-1. Przepisów ustawy dotyczących nawiązywania i rozwiązywania stosunku pracy nie stosuje się do osób powoływanych do pełnienia funkcji organów administracji państwowej oraz na inne stanowiska kierownicze w administracji państwowej, w trybie określonym w przepisach szczególnych.
-
-2. Osobie odwołanej z funkcji lub stanowiska, określonych w ust. 1, która przed powołaniem na tę funkcję lub stanowisko była urzędnikiem państwowym mianowanym, przysługuje prawo do mianowania na stanowisko równorzędne z zajmowanym przed powołaniem, jeżeli osoba ta spełnia wymogi, o których mowa w art. 3 pkt 4. ”
-
-**Art. 7.** W ustawie z dnia 14 grudnia 1982 r. o ubezpieczeniu społecznym rolników indywidualnych i członków ich rodzin (Dz. U. Nr 40, poz. 268, z 1984 r. Nr 52, poz. 269 oraz z 1986 r. Nr 42, poz. 202) w art. 13 ust. 2 skreśla się.
-
-**Art. 8.** W ustawie z dnia 29 grudnia 1982 r. o urzędzie Ministra Finansów oraz urzędach i izbach skarbowych (Dz. U. Nr 45, poz. 289, z 1985 r. Nr 12, poz. 50 i Nr 50, poz. 262 oraz z 1987 r. Nr 3, poz. 18 i Nr 33, poz. 180) wprowadza się następujące zmiany:
-
-**Art. 9a.**
-
-1. Izby skarbowe przedstawiają Ministrowi Finansów sprawozdania ze swojej działalności.
-
-2. Izby skarbowe przedstawiają wojewódzkim radom narodowym roczne informacje o realizacji wytycznych, o których mowa w art. 9 ust. 5a, oraz okresowe sprawozdania o ustalaniu i poborze podatków oraz innych należności stanowiących dochody budżetów terenowych.
-
-3. Urzędy skarbowe przedstawiają, na żądanie zainteresowanych rad narodowych stopnia podstawowego, okresowe sprawozdania o ustalaniu i poborze podatków oraz innych należności stanowiących dochody budżetów tych rad. ” W ustawie z dnia 6 kwietnia 1984 r. o gospodarce energetycznej (Dz. U. Nr 21, poz. 96 i z 1987 r. Nr 33, poz. 180) wprowadza się następujące zmiany:
-
-- **1)** w art. 6 w ust. 1 na początku zdania wyrazy „Terenowe organy administracji państwowej” zastępuje się wyrazami „Rady narodowe”;
-- **2)** użyte w art. 10 ust. 2, art. 18 ust. 2, art. 19 i art. 27 ust. 1 ustawy wyrazy „wojewoda (prezydent miasta stopnia wojewódzkiego)” zastępuje się użytymi w odpowiednich przypadkach wyrazami „terenowy organ administracji państwowej o właściwości szczególnej w sprawach gospodarki energetycznej.”
-
-**Art. 10.** W ustawie z dnia 26 kwietnia 1984 r. o upowszechnianiu kultury oraz o prawach i obowiązkach pracowników upowszechniania kultury (Dz. U. Nr 26, poz. 129) wprowadza się następujące zmiany:
-
-**Art. 11.** W ustawie z dnia 3 lipca 1984 r. o kulturze fizycznej (Dz. U. Nr 34, poz. 181) w art. 44:
-
-**Art. 12.** W ustawie z dnia 15 listopada 1984 r. o funduszu gminnym i funduszu miejskim (Dz. U. Nr 52, poz. 269) wprowadza się następujące zmiany:
-
-**Art. 13.** W ustawie z dnia 31 stycznia 1985 r. o drobnej wytwórczości (Dz. U. Nr 3, poz. 11 i z 1987 r. Nr 33, poz. 181) w art. 18:
-
-**Art. 14.** W ustawie z dnia 14 marca 1985 r. o podatkach i opłatach lokalnych (Dz. U. Nr 12, poz. 50) wprowadza się następujące zmiany:
-
-**Art. 15.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. Nr 14, poz. 60) w art. 22 w ust. 1 wyrazy „do których zakresu działania należą sprawy gospodarki komunalnej” skreśla się.
-
-**Art. 16.** W ustawie z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. Nr 21, poz. 91) w art. 22 ust. 4 otrzymuje brzmienie: „ 4. Komendant Państwowej Straży Rybackiej i jego zastępca są pracownikami urzędów wojewódzkich oraz urzędów miast: stołecznego Warszawy, Krakowa i Łodzi. ”
-
-**Art. 17.** W ustawie z dnia 29 września 1986 r. – Prawo o aktach stanu cywilnego (Dz. U. Nr 36, poz. 180) w art. 6 w ust. 1 na końcu zdania kropkę skreśla się i dodaje się wyrazy „lub zastępca kierownika.” Rada Ministrów dostosuje w terminie do 31 grudnia 1988 r. do rozwiązań ustawy o systemie rad narodowych i samorządu terytorialnego zasady dysponowania i administrowania terenowymi funduszami celowymi, a w szczególności: Funduszem Gospodarki Wodnej, Funduszem Rozwoju Wodociągów i Kanalizacji w miastach oraz Funduszem Gospodarki Gruntami i Gospodarki Mieszkaniowej. Ustawa wchodzi w życie z dniem 1 stycznia 1989 r., z wyjątkiem art. 18, który wchodzi w życie z dniem ogłoszenia.
 

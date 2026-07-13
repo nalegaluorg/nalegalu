@@ -8,10 +8,12 @@ pos: 312
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
 # Ustawa z dnia 7 lutego 2014 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
+
+*USTAWA z dnia 7 lutego 2014 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -25,178 +27,72 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000312) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/312/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r. Nr 177, poz. 1054, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 86a.**
-
-1. W przypadku wydatków związanych z pojazdami samochodowymi kwotę podatku naliczonego, o której mowa w art. 86 ust. 2, stanowi 50% kwoty podatku:
-
-- **1)** wynikającej z faktury otrzymanej przez podatnika;
-- **2)** należnego z tytułu: świadczenia usług, dla którego zgodnie z art. 17 ust. 1 pkt 4 podatnikiem jest ich usługobiorca, dostawy towarów, dla której zgodnie z art. 17 ust. 1 pkt 5 podatnikiem jest ich nabywca, wewnątrzwspólnotowego nabycia towarów;
-    - **a)**
-    - **b)**
-    - **c)**
-
-- **3)** należnego, w przypadku, o którym mowa w art. 33a;
-- **4)** wynikającej z otrzymanego dokumentu celnego, deklaracji importowej w przypadku, o którym mowa w art. 33b, oraz z decyzji, o których mowa w art. 33 ust. 2 i 3 oraz art. 34.
-
-2. Do wydatków związanych z pojazdami samochodowymi, o których mowa w ust. 1, zalicza się wydatki dotyczące:
-
-- **1)** nabycia, importu lub wytworzenia tych pojazdów oraz nabycia lub importu ich części składowych;
-- **2)** używania tych pojazdów na podstawie umowy najmu, dzierżawy, leasingu lub innej umowy o podobnym charakterze, związane z tą umową, inne niż wymienione w pkt 3;
-- **3)** nabycia lub importu paliw silnikowych, oleju napędowego i gazu, wykorzystywanych do napędu tych pojazdów, usług naprawy lub konserwacji tych pojazdów oraz innych towarów i usług związanych z eksploatacją lub używaniem tych pojazdów.
-
-3. Przepis ust. 1 nie ma zastosowania:
-
-- **1)** w przypadku gdy pojazdy samochodowe są: wykorzystywane wyłącznie do działalności gospodarczej podatnika lub konstrukcyjnie przeznaczone do przewozu co najmniej 10 osób łącznie z kierowcą, jeżeli z dokumentów wydanych na podstawie przepisów o ruchu drogowym wynika takie przeznaczenie;
-    - **a)**
-    - **b)**
-
-- **2)** do towarów montowanych w pojazdach samochodowych i do związanych z tymi towarami usług montażu, naprawy i konserwacji, jeżeli przeznaczenie tych towarów wskazuje obiektywnie na możliwość ich wykorzystywania wyłącznie do działalności gospodarczej podatnika.
-
-4. Pojazdy samochodowe są uznawane za wykorzystywane wyłącznie do działalności gospodarczej podatnika, jeżeli:
-
-- **1)** sposób wykorzystywania tych pojazdów przez podatnika, zwłaszcza określony w ustalonych przez niego zasadach ich używania, dodatkowo potwierdzony prowadzoną przez podatnika dla tych pojazdów ewidencją przebiegu pojazdu, wyklucza ich użycie do celów niezwiązanych z działalnością gospodarczą lub
-- **2)** konstrukcja tych pojazdów wyklucza ich użycie do celów niezwiązanych z działalnością gospodarczą lub powoduje, że ich użycie do celów niezwiązanych z działalnością gospodarczą jest nieistotne.
-
-5. Warunku prowadzenia ewidencji przebiegu pojazdu nie stosuje się w przypadku pojazdów samochodowych:
-
-- **1)** przeznaczonych wyłącznie do: odprzedaży, sprzedaży, w przypadku pojazdów wytworzonych przez podatnika, oddania w odpłatne używanie na podstawie umowy najmu, dzierżawy, leasingu lub innej umowy o podobnym charakterze jeżeli odprzedaż, sprzedaż lub oddanie w odpłatne używanie tych pojazdów stanowi przedmiot działalności podatnika;
-    - **a)**
-    - **b)**
-    - **c)**
-
-- **2)** w odniesieniu do których: kwotę podatku naliczonego od wydatków z nimi związanych podatnik oblicza zgodnie z ust. 1 lub podatnikowi nie przysługuje prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego od wydatków z nimi związanych.
-    - **a)**
-    - **b)**
-
-6. Ewidencja przebiegu pojazdu jest prowadzona od dnia rozpoczęcia wykorzystywania pojazdu samochodowego wyłącznie do działalności gospodarczej podatnika do dnia zakończenia wykorzystywania tego pojazdu wyłącznie do tej działalności.
-
-7. Ewidencja przebiegu pojazdu powinna zawierać:
-
-- **1)** numer rejestracyjny pojazdu samochodowego;
-- **2)** dzień rozpoczęcia i zakończenia prowadzenia ewidencji;
-- **3)** stan licznika przebiegu pojazdu samochodowego na dzień rozpoczęcia prowadzenia ewidencji, na koniec każdego okresu rozliczeniowego oraz na dzień zakończenia prowadzenia ewidencji;
-- **4)** wpis osoby kierującej pojazdem samochodowym dotyczący każdego wykorzystania tego pojazdu, obejmujący: kolejny numer wpisu, datę i cel wyjazdu, opis trasy (skąd – dokąd), liczbę przejechanych kilometrów, imię i nazwisko osoby kierującej pojazdem potwierdzony przez podatnika na koniec każdego okresu rozliczeniowego w zakresie autentyczności wpisu osoby kierującej pojazdem, jeżeli nie jest ona podatnikiem;
-    - **a)**
-    - **b)**
-    - **c)**
-    - **d)**
-    - **e)**
-
-- **5)** liczbę przejechanych kilometrów na koniec każdego okresu rozliczeniowego oraz na dzień zakończenia prowadzenia ewidencji.
-
-8. W przypadku gdy pojazd samochodowy jest udostępniany osobie niebędącej pracownikiem podatnika, wpis, o którym mowa w ust. 7 pkt 4:
-
-- **1)** jest dokonywany przez osobę, która udostępnia pojazd;
-- **2)** obejmuje: kolejny numer wpisu, datę i cel udostępnienia pojazdu, stan licznika na dzień udostępnienia pojazdu, liczbę przejechanych kilometrów, stan licznika na dzień zwrotu pojazdu, imię i nazwisko osoby, której udostępniony został pojazd.
-    - **a)**
-    - **b)**
-    - **c)**
-    - **d)**
-    - **e)**
-    - **f)**
-
-9. Do pojazdów samochodowych, o których mowa w ust. 4 pkt 2, należą:
-
-- **1)** pojazdy samochodowe, inne niż samochody osobowe, mające jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą: klasyfikowane na podstawie przepisów o ruchu drogowym do podrodzaju: wielozadaniowy, van lub z otwartą częścią przeznaczoną do przewozu ładunków;
-    - **a)**
-    - **b)**
-
-- **2)** pojazdy samochodowe, inne niż samochody osobowe, które posiadają kabinę kierowcy z jednym rzędem siedzeń i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu;
-- **3)** pojazdy specjalne, które spełniają również warunki zawarte w odrębnych przepisach, określone dla następujących przeznaczeń: agregat elektryczny/spawalniczy, do prac wiertniczych, koparka, koparko-spycharka, ładowarka, podnośnik do prac konserwacyjno-montażowych, żuraw samochodowy jeżeli z dokumentów wydanych zgodnie z przepisami o ruchu drogowym wynika, że dany pojazd jest pojazdem specjalnym.
-    - **a)**
-    - **b)**
-    - **c)**
-    - **d)**
-    - **e)**
-    - **f)**
-
-10. Spełnienie wymagań dla pojazdów samochodowych określonych w ust. 9:
-
-- **1)** pkt 1 i 2 stwierdza się na podstawie dodatkowego badania technicznego przeprowadzonego przez okręgową stację kontroli pojazdów, potwierdzonego zaświadczeniem wydanym przez tę stację, oraz dowodu rejestracyjnego pojazdu zawierającego odpowiednią adnotację o spełnieniu tych wymagań;
-- **2)** pkt 3 stwierdza się na podstawie dokumentów wydanych zgodnie z przepisami o ruchu drogowym.
-
-11. W przypadku gdy w pojeździe samochodowym, dla którego wydano zaświadczenie, o którym mowa w ust. 10 pkt 1, zostały wprowadzone zmiany, w wyniku których pojazd nie spełnia wymagań, o których mowa w ust. 9 pkt 1 lub 2, uznaje się, że pojazd nie jest wykorzystywany wyłącznie do działalności gospodarczej:
-
-- **1)** od dnia wprowadzenia zmian,
-- **2)** jeżeli nie można określić dnia wprowadzenia zmian: od okresu rozliczeniowego, w którym podatnik po raz pierwszy odliczył podatek naliczony od wydatków związanych z tym pojazdem samochodowym, z zastrzeżeniem lit. b, od okresu rozliczeniowego następującego po okresie rozliczeniowym, dla którego podatnik wykaże, że pojazd samochodowy spełniał wymagania, o których mowa w ust. 9 pkt 1 lub 2 chyba że zachodzi przypadek, o którym mowa w ust. 4 pkt 1.
-    - **a)**
-    - **b)**
-
-12. Podatnicy wykorzystujący wyłącznie do działalności gospodarczej pojazdy samochodowe, dla których są obowiązani prowadzić ewidencję przebiegu pojazdu, mają obowiązek złożyć naczelnikowi urzędu skarbowego informację o tych pojazdach w terminie 7 dni od dnia, w którym poniosą pierwszy wydatek związany z tymi pojazdami.
-
-13. W przypadku niezłożenia w terminie informacji, o której mowa w ust. 12, uznaje się, że pojazd samochodowy jest wykorzystywany wyłącznie do działalności gospodarczej podatnika dopiero od dnia jej złożenia.
-
-14. W przypadku zmiany wykorzystywania pojazdu samochodowego podatnik jest obowiązany do aktualizacji informacji, o której mowa w ust. 12, najpóźniej przed dniem, w którym dokonuje tej zmiany.
-
-15. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji, o której mowa w ust. 12, uwzględniając potrzebę zawarcia w niej danych pozwalających na identyfikację pojazdu samochodowego, w szczególności marki, modelu pojazdu i jego numeru rejestracyjnego, jak również daty poniesienia pierwszego wydatku związanego z danym pojazdem, oraz uwzględniając potrzebę umożliwienia prawidłowej aktualizacji złożonej informacji.
-
-16. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, inne niż określone w ust. 9 pojazdy samochodowe, o których mowa w ust. 4 pkt 2, uznawane za wykorzystywane wyłącznie do działalności gospodarczej podatnika, wymagania dla tych pojazdów samochodowych oraz dokumenty potwierdzające spełnienie wymagań, uwzględniając specyfikę ich konstrukcji oraz ich zastosowanie, a w przypadku pojazdów mających więcej niż jeden rząd siedzeń – również wymóg, aby dopuszczalna masa całkowita była większa niż 3 tony.
-
-17. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, inne niż wskazane w ust. 5 przypadki, w których nie stosuje się warunku prowadzenia ewidencji przebiegu pojazdu, uwzględniając specyfikę prowadzonej przez podatnika działalności gospodarczej oraz konieczność przeciwdziałania nadużyciom wynikającym z wykorzystywania pojazdów do celów innych niż związane z działalnością gospodarczą. ” ;
-
+- **1)** w art. 2 w pkt 33 kropkę zastępuje się średnikiem i dodaje się pkt 34 w brzmieniu: „34) pojazdach samochodowych – rozumie się przez to pojazdy samochodowe w rozumieniu przepisów o ruchu drogowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony.”;
+- **2)** w art. 8 dodaje się ust. 5 i 6 w brzmieniu: „5. Przepis ust. 2 pkt 1 nie ma zastosowania w przypadku użycia pojazdów samochodowych do celów innych niż działalność gospodarcza podatnika, jeżeli podatnikowi przysługiwało, w całości lub w części, prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, obliczoną zgodnie z art. 86a ust. 1, z tytułu: 1) nabycia, importu lub wytworzenia tych pojazdów lub 2) nabycia, importu lub wytworzenia części składowych do tych pojazdów, jeżeli z tytułu nabycia, importu lub wytworzenia tych pojazdów podatnikowi nie przysługiwało prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego. 6. W przypadku, o którym mowa w ust. 2 pkt 1 i ust. 5, za nabycie towarów uznaje się również przyjęcie ich w używanie na podstawie umowy najmu, dzierżawy, leasingu lub innej umowy o podobnym charakterze.”;
+- **3)** w art. 32 w ust. 1 pkt 1–3 otrzymują brzmienie: „1) niższe od wartości rynkowej, a nabywca towarów lub usług nie ma zgodnie z art. 86, art. 86a, art. 88 i art. 90 oraz z przepisami wydanymi na podstawie art. 92 ust. 3 pełnego prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, 2) niższe od wartości rynkowej, a dokonujący dostawy towarów lub usługodawca nie ma zgodnie z art. 86, art. 86a, art. 88 i art. 90 oraz z przepisami wydanymi na podstawie art. 92 ust. 3 pełnego prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, a dostawa towarów lub świadczenie usług są zwolnione od podatku, 3) wyższe od wartości rynkowej, a dokonujący dostawy towarów lub usługodawca nie ma zgodnie z art. 86, art. 86a, art. 88 i art. 90 oraz z przepisami wydanymi na podstawie art. 92 ust. 3 pełnego prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego”;
+- **4)** art. 86a otrzymuje brzmienie: „Art. 86a. 1. W przypadku wydatków związanych z pojazdami samochodowymi kwotę podatku naliczonego, o której mowa w art. 86 ust. 2, stanowi 50% kwoty podatku: 1) wynikającej z faktury otrzymanej przez podatnika; 2) należnego z tytułu: a) świadczenia usług, dla którego zgodnie z art. 17 ust. 1 pkt 4 podatnikiem jest ich usługobiorca, b) dostawy towarów, dla której zgodnie z art. 17 ust. 1 pkt 5 podatnikiem jest ich nabywca, c) wewnątrzwspólnotowego nabycia towarów; 3) należnego, w przypadku, o którym mowa w art. 33a; 4) wynikającej z otrzymanego dokumentu celnego, deklaracji importowej w przypadku, o którym mowa w art. 33b, oraz z decyzji, o których mowa w art. 33 ust. 2 i 3 oraz art. 34. 2. Do wydatków związanych z pojazdami samochodowymi, o których mowa w ust. 1, zalicza się wydatki dotyczące: 1) nabycia, importu lub wytworzenia tych pojazdów oraz nabycia lub importu ich części składowych; 2) używania tych pojazdów na podstawie umowy najmu, dzierżawy, leasingu lub innej umowy o podobnym charakterze, związane z tą umową, inne niż wymienione w pkt 3; 3) nabycia lub importu paliw silnikowych, oleju napędowego i gazu, wykorzystywanych do napędu tych pojazdów, usług naprawy lub konserwacji tych pojazdów oraz innych towarów i usług związanych z eksploatacją lub używaniem tych pojazdów. 3. Przepis ust. 1 nie ma zastosowania: 1) w przypadku gdy pojazdy samochodowe są: a) wykorzystywane wyłącznie do działalności gospodarczej podatnika lub b) konstrukcyjnie przeznaczone do przewozu co najmniej 10 osób łącznie z kierowcą, jeżeli z dokumentów wydanych na podstawie przepisów o ruchu drogowym wynika takie przeznaczenie; 2) do towarów montowanych w pojazdach samochodowych i do związanych z tymi towarami usług montażu, naprawy i konserwacji, jeżeli przeznaczenie tych towarów wskazuje obiektywnie na możliwość ich wykorzystywania wyłącznie do działalności gospodarczej podatnika. 4. Pojazdy samochodowe są uznawane za wykorzystywane wyłącznie do działalności gospodarczej podatnika, jeżeli: 1) sposób wykorzystywania tych pojazdów przez podatnika, zwłaszcza określony w ustalonych przez niego zasadach ich używania, dodatkowo potwierdzony prowadzoną przez podatnika dla tych pojazdów ewidencją przebiegu pojazdu, wyklucza ich użycie do celów niezwiązanych z działalnością gospodarczą lub 2) konstrukcja tych pojazdów wyklucza ich użycie do celów niezwiązanych z działalnością gospodarczą lub powoduje, że ich użycie do celów niezwiązanych z działalnością gospodarczą jest nieistotne. 5. Warunku prowadzenia ewidencji przebiegu pojazdu nie stosuje się w przypadku pojazdów samochodowych: 1) przeznaczonych wyłącznie do: a) odprzedaży, b) sprzedaży, w przypadku pojazdów wytworzonych przez podatnika, c) oddania w odpłatne używanie na podstawie umowy najmu, dzierżawy, leasingu lub innej umowy o podobnym charakterze – jeżeli odprzedaż, sprzedaż lub oddanie w odpłatne używanie tych pojazdów stanowi przedmiot działalności podatnika; 2) w odniesieniu do których: a) kwotę podatku naliczonego od wydatków z nimi związanych podatnik oblicza zgodnie z ust. 1 lub b) podatnikowi nie przysługuje prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego od wydatków z nimi związanych. 6. Ewidencja przebiegu pojazdu jest prowadzona od dnia rozpoczęcia wykorzystywania pojazdu samochodowego wyłącznie do działalności gospodarczej podatnika do dnia zakończenia wykorzystywania tego pojazdu wyłącznie do tej działalności. 7. Ewidencja przebiegu pojazdu powinna zawierać: 1) numer rejestracyjny pojazdu samochodowego; 2) dzień rozpoczęcia i zakończenia prowadzenia ewidencji; 3) stan licznika przebiegu pojazdu samochodowego na dzień rozpoczęcia prowadzenia ewidencji, na koniec każdego okresu rozliczeniowego oraz na dzień zakończenia prowadzenia ewidencji; 4) wpis osoby kierującej pojazdem samochodowym dotyczący każdego wykorzystania tego pojazdu, obejmujący: a) kolejny numer wpisu, b) datę i cel wyjazdu, c) opis trasy (skąd – dokąd), d) liczbę przejechanych kilometrów, e) imię i nazwisko osoby kierującej pojazdem – potwierdzony przez podatnika na koniec każdego okresu rozliczeniowego w zakresie autentyczności wpisu osoby kierującej pojazdem, jeżeli nie jest ona podatnikiem; 5) liczbę przejechanych kilometrów na koniec każdego okresu rozliczeniowego oraz na dzień zakończenia prowadzenia ewidencji. 8. W przypadku gdy pojazd samochodowy jest udostępniany osobie niebędącej pracownikiem podatnika, wpis, o którym mowa w ust. 7 pkt 4: 1) jest dokonywany przez osobę, która udostępnia pojazd; 2) obejmuje: a) kolejny numer wpisu, b) datę i cel udostępnienia pojazdu, c) stan licznika na dzień udostępnienia pojazdu, d) liczbę przejechanych kilometrów, e) stan licznika na dzień zwrotu pojazdu, f) imię i nazwisko osoby, której udostępniony został pojazd. 9. Do pojazdów samochodowych, o których mowa w ust. 4 pkt 2, należą: 1) pojazdy samochodowe, inne niż samochody osobowe, mające jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą: a) klasyfikowane na podstawie przepisów o ruchu drogowym do podrodzaju: wielozadaniowy, van lub b) z otwartą częścią przeznaczoną do przewozu ładunków; 2) pojazdy samochodowe, inne niż samochody osobowe, które posiadają kabinę kierowcy z jednym rzędem siedzeń i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu; 3) pojazdy specjalne, które spełniają również warunki zawarte w odrębnych przepisach, określone dla następujących przeznaczeń: a) agregat elektryczny/spawalniczy, b) do prac wiertniczych, c) koparka, koparko-spycharka, d) ładowarka, e) podnośnik do prac konserwacyjno-montażowych, f) żuraw samochodowy – jeżeli z dokumentów wydanych zgodnie z przepisami o ruchu drogowym wynika, że dany pojazd jest pojazdem specjalnym. 10. Spełnienie wymagań dla pojazdów samochodowych określonych w ust. 9: 1) pkt 1 i 2 stwierdza się na podstawie dodatkowego badania technicznego przeprowadzonego przez okręgową stację kontroli pojazdów, potwierdzonego zaświadczeniem wydanym przez tę stację, oraz dowodu rejestracyjnego pojazdu zawierającego odpowiednią adnotację o spełnieniu tych wymagań; 2) pkt 3 stwierdza się na podstawie dokumentów wydanych zgodnie z przepisami o ruchu drogowym. 11. W przypadku gdy w pojeździe samochodowym, dla którego wydano zaświadczenie, o którym mowa w ust. 10 pkt 1, zostały wprowadzone zmiany, w wyniku których pojazd nie spełnia wymagań, o których mowa w ust. 9 pkt 1 lub 2, uznaje się, że pojazd nie jest wykorzystywany wyłącznie do działalności gospodarczej: 1) od dnia wprowadzenia zmian, 2) jeżeli nie można określić dnia wprowadzenia zmian: a) od okresu rozliczeniowego, w którym podatnik po raz pierwszy odliczył podatek naliczony od wydatków związanych z tym pojazdem samochodowym, z zastrzeżeniem lit. b, b) od okresu rozliczeniowego następującego po okresie rozliczeniowym, dla którego podatnik wykaże, że pojazd samochodowy spełniał wymagania, o których mowa w ust. 9 pkt 1 lub 2 – chyba że zachodzi przypadek, o którym mowa w ust. 4 pkt 1. 12. Podatnicy wykorzystujący wyłącznie do działalności gospodarczej pojazdy samochodowe, dla których są obowiązani prowadzić ewidencję przebiegu pojazdu, mają obowiązek złożyć naczelnikowi urzędu skarbowego informację o tych pojazdach w terminie 7 dni od dnia, w którym poniosą pierwszy wydatek związany z tymi pojazdami. 13. W przypadku niezłożenia w terminie informacji, o której mowa w ust. 12, uznaje się, że pojazd samochodowy jest wykorzystywany wyłącznie do działalności gospodarczej podatnika dopiero od dnia jej złożenia. 14. W przypadku zmiany wykorzystywania pojazdu samochodowego podatnik jest obowiązany do aktualizacji informacji, o której mowa w ust. 12, najpóźniej przed dniem, w którym dokonuje tej zmiany. 15. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji, o której mowa w ust. 12, uwzględniając potrzebę zawarcia w niej danych pozwalających na identyfikację pojazdu samochodowego, w szczególności marki, modelu pojazdu i jego numeru rejestracyjnego, jak również daty poniesienia pierwszego wydatku związanego z danym pojazdem, oraz uwzględniając potrzebę umożliwienia prawidłowej aktualizacji złożonej informacji. 16. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, inne niż określone w ust. 9 pojazdy samochodowe, o których mowa w ust. 4 pkt 2, uznawane za wykorzystywane wyłącznie do działalności gospodarczej podatnika, wymagania dla tych pojazdów samochodowych oraz dokumenty potwierdzające spełnienie wymagań, uwzględniając specyfikę ich konstrukcji oraz ich zastosowanie, a w przypadku pojazdów mających więcej niż jeden rząd siedzeń – również wymóg, aby dopuszczalna masa całkowita była większa niż 3 tony. 17. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, inne niż wskazane w ust. 5 przypadki, w których nie stosuje się warunku prowadzenia ewidencji przebiegu pojazdu, uwzględniając specyfikę prowadzonej przez podatnika działalności gospodarczej oraz konieczność przeciwdziałania nadużyciom wynikającym z wykorzystywania pojazdów do celów innych niż związane z działalnością gospodarczą.”;
 - **5)** uchyla się art. 88a;
-- **6)** po art. 90a dodaje się art. 90b w brzmieniu: „
-
-**Art. 90b.**
-
-1. W przypadku gdy w ciągu 60 miesięcy, licząc od miesiąca, w którym odpowiednio nabyto, dokonano importu lub oddano do używania pojazd samochodowy:
-
-- **1)** o którym mowa w art. 86a ust. 3 pkt 1 lit. a, nastąpi zmiana jego wykorzystywania na wykorzystywanie do celów działalności gospodarczej i do celów innych niż działalność gospodarcza, podatnik jest obowiązany do dokonania korekty kwoty podatku naliczonego odliczonej przy nabyciu, imporcie lub wytworzeniu tego pojazdu;
-- **2)** w odniesieniu do którego kwotę podatku naliczonego stanowiła kwota, o której mowa w art. 86a ust. 1, nastąpi zmiana jego wykorzystywania na wykorzystywanie wyłącznie do działalności gospodarczej, podatnik jest uprawniony do dokonania korekty kwoty podatku naliczonego odliczonej przy nabyciu, imporcie lub wytworzeniu tego pojazdu.
-
-2. W przypadku gdy w okresie korekty, o której mowa w ust. 1, nastąpi sprzedaż pojazdu samochodowego, uznaje się, że wykorzystanie tego pojazdu zostało zmienione na wykorzystanie wyłącznie do działalności gospodarczej, aż do końca okresu korekty.
-
-3. Przepis ust. 1 pkt 2 stosuje się odpowiednio również w przypadku, o którym mowa w art. 86a ust. 13.
-
-4. Na potrzeby korekty, o której mowa w ust. 1, uznaje się, że pojazd samochodowy odpowiednio nie jest już wykorzystywany wyłącznie do działalności gospodarczej albo jest wykorzystywany wyłącznie do takiej działalności począwszy od miesiąca, w którym nastąpiła zmiana jego wykorzystywania. Korekty tej dokonuje się w deklaracji za okres rozliczeniowy, w którym nastąpiła zmiana, w kwocie proporcjonalnej do pozostałego okresu korekty.
-
-5. W przypadku gdy podatnik wykorzystuje pojazd samochodowy w działalności gospodarczej również do czynności zwolnionych od podatku bez prawa do odliczeń, kwota korekty, o której mowa w ust. 1, powinna uwzględniać proporcję określoną w art. 90, zastosowaną przy odliczeniu.
-
-6. W przypadku pojazdów samochodowych o wartości początkowej nieprzekraczającej 15 000 zł korekty, o której mowa w ust. 1, dokonuje się, jeżeli zmiana ich wykorzystywania nastąpiła w okresie 12 miesięcy, licząc od miesiąca, w którym odpowiednio nabyto, dokonano importu lub oddano do używania ten pojazd samochodowy. Przepisy ust. 2–5 stosuje się odpowiednio. ” ;
-
+- **6)** po art. 90a dodaje się art. 90b w brzmieniu: „Art. 90b. 1. W przypadku gdy w ciągu 60 miesięcy, licząc od miesiąca, w którym odpowiednio nabyto, dokonano importu lub oddano do używania pojazd samochodowy: 1) o którym mowa w art. 86a ust. 3 pkt 1 lit. a, nastąpi zmiana jego wykorzystywania na wykorzystywanie do celów działalności gospodarczej i do celów innych niż działalność gospodarcza, podatnik jest obowiązany do dokonania korekty kwoty podatku naliczonego odliczonej przy nabyciu, imporcie lub wytworzeniu tego pojazdu; 2) w odniesieniu do którego kwotę podatku naliczonego stanowiła kwota, o której mowa w art. 86a ust. 1, nastąpi zmiana jego wykorzystywania na wykorzystywanie wyłącznie do działalności gospodarczej, podatnik jest uprawniony do dokonania korekty kwoty podatku naliczonego odliczonej przy nabyciu, imporcie lub wytworzeniu tego pojazdu. 2. W przypadku gdy w okresie korekty, o której mowa w ust. 1, nastąpi sprzedaż pojazdu samochodowego, uznaje się, że wykorzystanie tego pojazdu zostało zmienione na wykorzystanie wyłącznie do działalności gospodarczej, aż do końca okresu korekty. 3. Przepis ust. 1 pkt 2 stosuje się odpowiednio również w przypadku, o którym mowa w art. 86a ust. 13. 4. Na potrzeby korekty, o której mowa w ust. 1, uznaje się, że pojazd samochodowy odpowiednio nie jest już wykorzystywany wyłącznie do działalności gospodarczej albo jest wykorzystywany wyłącznie do takiej działalności począwszy od miesiąca, w którym nastąpiła zmiana jego wykorzystywania. Korekty tej dokonuje się w deklaracji za okres rozliczeniowy, w którym nastąpiła zmiana, w kwocie proporcjonalnej do pozostałego okresu korekty. 5. W przypadku gdy podatnik wykorzystuje pojazd samochodowy w działalności gospodarczej również do czynności zwolnionych od podatku bez prawa do odliczeń, kwota korekty, o której mowa w ust. 1, powinna uwzględniać proporcję określoną w art. 90, zastosowaną przy odliczeniu. 6. W przypadku pojazdów samochodowych o wartości początkowej nieprzekraczającej 15 000 zł korekty, o której mowa w ust. 1, dokonuje się, jeżeli zmiana ich wykorzystywania nastąpiła w okresie 12 miesięcy, licząc od miesiąca, w którym odpowiednio nabyto, dokonano importu lub oddano do używania ten pojazd samochodowy. Przepisy ust. 2–5 stosuje się odpowiednio.”;
 - **7)** w art. 103 uchyla się ust. 6;
 - **8)** uchyla się art. 105.
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm.) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2012 r. poz. 361, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 5d.** Spełnienie wymagań dla pojazdów samochodowych określonych w:
+- **1)** w art. 5a pkt 19a otrzymuje brzmienie: „19a) samochodzie osobowym – oznacza to pojazd samochodowy w rozumieniu przepisów o ruchu drogowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony, konstrukcyjnie przeznaczony do przewozu nie więcej niż 9 osób łącznie z kierowcą, z wyjątkiem: a) pojazdu samochodowego mającego jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą: – klasyfikowanego na podstawie przepisów o ruchu drogowym do podrodzaju: wielozadaniowy, van lub – z otwartą częścią przeznaczoną do przewozu ładunków, b) pojazdu samochodowego, który posiada kabinę kierowcy z jednym rzędem siedzeń i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu, c) pojazdu specjalnego, jeżeli z dokumentów wydanych zgodnie z przepisami o ruchu drogowym wynika, że dany pojazd jest pojazdem specjalnym, i jeżeli spełnione są również warunki zawarte w odrębnych przepisach, określone dla następujących przeznaczeń: – agregat elektryczny/spawalniczy, – do prac wiertniczych, – koparka, koparko-spycharka, – ładowarka, – podnośnik do prac konserwacyjno-montażowych, – żuraw samochodowy, d) pojazdu samochodowego określonego w przepisach wydanych na podstawie art. 86a ust. 16 ustawy o podatku od towarów i usług;”;
+- **2)** art. 5d otrzymuje brzmienie: „Art. 5d. Spełnienie wymagań dla pojazdów samochodowych określonych w: 1) art. 5a pkt 19a lit. a i b stwierdza się na podstawie dodatkowego badania technicznego przeprowadzonego przez okręgową stację kontroli pojazdów, potwierdzonego zaświadczeniem wydanym przez tę stację, oraz dowodu rejestracyjnego pojazdu zawierającego odpowiednią adnotację o spełnieniu tych wymagań; 2) art. 5a pkt 19a lit. c stwierdza się na podstawie dokumentów wydanych zgodnie z przepisami o ruchu drogowym.”;
+- **3)** w art. 14:
+    - **a)** w ust. 2 w pkt 7f część wspólna otrzymuje brzmienie: „– w tej części, w jakiej dokonano korekty powodującej zwiększenie podatku odliczonego zgodnie z przepisami ustawy o podatku od towarów i usług;”,
+    - **b)** ust. 2d otrzymuje brzmienie: „2d. Przepis ust. 2 pkt 7f stosuje się odpowiednio w przypadku zmiany prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, o której mowa w przepisach ustawy o podatku od towarów i usług.”;
 
-**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm.) wprowadza się następujące zmiany:
+- **4)** w art. 23:
+    - **a)** w ust. 1 w pkt 43 lit. c otrzymuje brzmienie: „c) kwota podatku od towarów i usług, nieuwzględniona w wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, podlegających amortyzacji zgodnie z art. 22a–22o, lub dotycząca innych rzeczy lub praw niebędących środkami trwałymi lub wartościami niematerialnymi i prawnymi podlegającymi tej amortyzacji – w tej części, w jakiej dokonano korekty powodującej zmniejszenie podatku odliczonego zgodnie z przepisami ustawy o podatku od towarów i usług;”,
+    - **b)** ust. 3c otrzymuje brzmienie: „3c. Przepis ust. 1 pkt 43 lit. c stosuje się odpowiednio w przypadku zmiany prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, o której mowa w przepisach ustawy o podatku od towarów i usług.”.
 
-**Art. 4c.** Spełnienie wymagań dla pojazdów samochodowych określonych w:
+**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2011 r. Nr 74, poz. 397, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 56a.**
+- **1)** w art. 4a pkt 9a otrzymuje brzmienie: „9a) samochodzie osobowym – oznacza to pojazd samochodowy w rozumieniu przepisów o ruchu drogowym o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony, konstrukcyjnie przeznaczony do przewozu nie więcej niż 9 osób łącznie z kierowcą, z wyjątkiem: a) pojazdu samochodowego mającego jeden rząd siedzeń, który oddzielony jest od części przeznaczonej do przewozu ładunków ścianą lub trwałą przegrodą: – klasyfikowanego na podstawie przepisów o ruchu drogowym do podrodzaju: wielozadaniowy, van lub – z otwartą częścią przeznaczoną do przewozu ładunków, b) pojazdu samochodowego, który posiada kabinę kierowcy z jednym rzędem siedzeń i nadwozie przeznaczone do przewozu ładunków jako konstrukcyjnie oddzielne elementy pojazdu, c) pojazdu specjalnego, jeżeli z dokumentów wydanych zgodnie z przepisami o ruchu drogowym wynika, że dany pojazd jest pojazdem specjalnym, i jeżeli spełnione są również warunki zawarte w odrębnych przepisach, określone dla następujących przeznaczeń: – agregat elektryczny/spawalniczy, – do prac wiertniczych, – koparka, koparko-spycharka, – ładowarka, – podnośnik do prac konserwacyjno-montażowych, – żuraw samochodowy, d) pojazdu samochodowego określonego w przepisach wydanych na podstawie art. 86a ust. 16 ustawy o podatku od towarów i usług;”;
+- **2)** art. 4c otrzymuje brzmienie: „Art. 4c. Spełnienie wymagań dla pojazdów samochodowych określonych w: 1) art. 4a pkt 9a lit. a i b stwierdza się na podstawie dodatkowego badania technicznego przeprowadzonego przez okręgową stację kontroli pojazdów, potwierdzonego zaświadczeniem wydanym przez tę stację, oraz dowodu rejestracyjnego pojazdu zawierającego odpowiednią adnotację o spełnieniu tych wymagań; 2) art. 4a pkt 9a lit. c stwierdza się na podstawie dokumentów wydanych zgodnie z przepisami o ruchu drogowym.”;
+- **3)** w art. 12:
+    - **a)** w ust. 1 w pkt 4g część wspólna otrzymuje brzmienie: „– w tej części, w jakiej dokonano korekty powodującej zwiększenie podatku odliczonego zgodnie z przepisami ustawy o podatku od towarów i usług;”,
+    - **b)** ust. 10 otrzymuje brzmienie: „10. Przepis ust. 1 pkt 4g stosuje się odpowiednio w przypadku zmiany prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, o której mowa w przepisach ustawy o podatku od towarów i usług.”;
 
-§ 1. Podatnik, który wbrew obowiązkowi nie składa właściwemu organowi podatkowemu informacji, o której mowa w art. 86a ust. 12 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, albo składa ją po terminie lub podaje w niej dane niezgodne ze stanem rzeczywistym, dokonując odliczenia podatku niezgodnie z przepisami o podatku od towarów i usług, podlega karze grzywny do 720 stawek dziennych.
+- **4)** w art. 16:
+    - **a)** w ust. 1 w pkt 46 lit. c otrzymuje brzmienie: „c) kwota podatku od towarów i usług, nieuwzględniona w wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, podlegających amortyzacji zgodnie z art. 16a–16m, lub dotycząca innych rzeczy lub praw niebędących środkami trwałymi lub wartościami niematerialnymi i prawnymi podlegającymi tej amortyzacji – w tej części, w jakiej dokonano korekty powodującej zmniejszenie podatku odliczonego zgodnie z przepisami ustawy o podatku od towarów i usług;”,
+    - **b)** ust. 7c otrzymuje brzmienie: „7c. Przepis ust. 1 pkt 46 lit. c stosuje się odpowiednio w przypadku zmiany prawa do obniżenia kwoty podatku należnego o kwotę podatku naliczonego, o której mowa w przepisach ustawy o podatku od towarów i usług.”.
 
-§ 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.
+**Art. 4.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm. ) wprowadza się następujące zmiany:
 
-§ 3. Nie podlega karze określonej w § 1 i 2 podatnik, który złożył właściwemu organowi podatkowemu informację, o której mowa w art. 86a ust. 12 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, po terminie, jeżeli złożenie tej informacji nastąpiło przed dniem:
+- **1)** w art. 72:
+    - **a)** w ust. 1 uchyla się pkt 8,
+    - **b)** uchyla się ust. 1a;
 
-- **1)** rozpoczęcia czynności sprawdzających w zakresie podatku od towarów i usług;
-- **2)** doręczenia zawiadomienia o zamiarze wszczęcia kontroli podatkowej lub postępowania kontrolnego w ramach kontroli skarbowej w zakresie podatku od towarów i usług, a w przypadku gdy nie stosuje się zawiadomienia – przed dniem wszczęcia takiej kontroli lub postępowania, jeżeli nie miał miejsca przypadek wskazany w pkt 1;
-- **3)** wszczęcia postępowania podatkowego w zakresie podatku od towarów i usług, jeżeli nie miał miejsca przypadek wskazany w pkt 1 lub 2. ” .
+- **2)** w art. 74 ust. 2a otrzymuje brzmienie: „2a. Czasowej rejestracji, o której mowa w ust. 2 pkt 1, można dokonać pomimo braku dołączonych do wniosku o rejestrację dokumentów, o których mowa w art. 72 ust. 1 pkt 6 i 6a. Dokumenty te powinny zostać złożone przed wydaniem dowodu rejestracyjnego.”.
 
-**Art. 6.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2012 r. poz. 1282, z późn. zm.) w załączniku w części II uchyla się ust. 11.
+**Art. 5.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2013 r. poz. 186, z późn. zm. ) po art. 56 dodaje się art. 56a w brzmieniu: „Art. 56a. § 1. Podatnik, który wbrew obowiązkowi nie składa właściwemu organowi podatkowemu informacji, o której mowa w art. 86a ust. 12 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, albo składa ją po terminie lub podaje w niej dane niezgodne ze stanem rzeczywistym, dokonując odliczenia podatku niezgodnie z przepisami o podatku od towarów i usług, podlega karze grzywny do 720 stawek dziennych. § 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe. § 3. Nie podlega karze określonej w § 1 i 2 podatnik, który złożył właściwemu organowi podatkowemu informację, o której mowa w art. 86a ust. 12 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, po terminie, jeżeli złożenie tej informacji nastąpiło przed dniem: 1) rozpoczęcia czynności sprawdzających w zakresie podatku od towarów i usług; 2) doręczenia zawiadomienia o zamiarze wszczęcia kontroli podatkowej lub postępowania kontrolnego w ramach kontroli skarbowej w zakresie podatku od towarów i usług, a w przypadku gdy nie stosuje się zawiadomienia – przed dniem wszczęcia takiej kontroli lub postępowania, jeżeli nie miał miejsca przypadek wskazany w pkt 1; 3) wszczęcia postępowania podatkowego w zakresie podatku od towarów i usług, jeżeli nie miał miejsca przypadek wskazany w pkt 1 lub 2.”.
+
+**Art. 6.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2012 r. poz. 1282, z późn. zm. ) w załączniku w części II uchyla się ust. 11.
 
 **Art. 7.**
 
 1. W przypadku użycia przez podatnika do celów innych niż działalność gospodarcza pojazdów samochodowych nabytych, importowanych lub wytworzonych przez podatnika przed dniem wejścia w życie niniejszej ustawy, przy których nabyciu, imporcie lub wytworzeniu kwotę podatku naliczonego stanowiło 50% lub 60% kwoty podatku:
 
 - **1)** wynikającej z faktury otrzymanej przez podatnika,
-- **2)** należnego z tytułu: świadczenia usług, dla którego zgodnie z art. 17 ust. 1 pkt 4 ustawy zmienianej w art. 1 podatnikiem jest ich usługobiorca, dostawy towarów, dla której zgodnie z art. 17 ust. 1 pkt 5 ustawy zmienianej w art. 1 podatnikiem jest ich nabywca, wewnątrzwspólnotowego nabycia towarów,
-    - **a)**
-    - **b)**
-    - **c)**
+- **2)** należnego z tytułu:
+    - **a)** świadczenia usług, dla którego zgodnie z art. 17 ust. 1 pkt 4 ustawy zmienianej w art. 1 podatnikiem jest ich usługobiorca,
+    - **b)** dostawy towarów, dla której zgodnie z art. 17 ust. 1 pkt 5 ustawy zmienianej w art. 1 podatnikiem jest ich nabywca,
+    - **c)** wewnątrzwspólnotowego nabycia towarów,
 
 - **3)** należnego, w przypadku, o którym mowa w art. 33a ustawy zmienianej w art. 1,
-- **4)** wynikającej z otrzymanego dokumentu celnego, deklaracji importowej w przypadku, o którym mowa w art. 33b ustawy zmienianej w art. 1, oraz z decyzji, o których mowa w art. 33 ust. 2 i 3 oraz art. 34 tej ustawy nie więcej jednak niż odpowiednio 5000 zł lub 6000 zł, nie stosuje się przepisu art. 8 ust. 2 pkt 1 ustawy zmienianej w art. 1.
+- **4)** wynikającej z otrzymanego dokumentu celnego, deklaracji importowej w przypadku, o którym mowa w art. 33b ustawy zmienianej w art. 1, oraz z decyzji, o których mowa w art. 33 ust. 2 i 3 oraz art. 34 tej ustawy – nie więcej jednak niż odpowiednio 5000 zł lub 6000 zł, nie stosuje się przepisu art. 8 ust. 2 pkt 1 ustawy zmienianej w art. 1.
 
 2. Na potrzeby ust. 1 przepis art. 8 ust. 6 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
 **Art. 8.** W przypadku pojazdów, o których mowa w art. 86a ust. 4 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nabytych, importowanych lub wytworzonych przez podatnika, lub używanych na podstawie umowy najmu, dzierżawy, leasingu lub innej umowy o podobnym charakterze przed dniem wejścia w życie niniejszej ustawy:
+
+- **1)** ewidencję, o której mowa w art. 86a ust. 4 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, prowadzi się począwszy od dnia, w którym poniesiono pierwszy, od dnia wejścia w życie niniejszej ustawy, wydatek związany z tymi pojazdami;
+- **2)** informację, o której mowa w art. 86a ust. 12 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, składa się w terminie 7 dni od dnia, w którym poniesiono pierwszy, od dnia wejścia w życie niniejszej ustawy, wydatek związany z tymi pojazdami.
 
 **Art. 9.**
 
@@ -219,10 +115,10 @@ source: "eli-html"
 1. Obniżenia kwoty lub zwrotu różnicy podatku należnego nie stosuje się do nabywanych przez podatnika do dnia 30 czerwca 2015 r. paliw silnikowych, oleju napędowego oraz gazu, wykorzystywanych do napędu:
 
 - **1)** samochodów osobowych;
-- **2)** innych niż samochody osobowe pojazdów samochodowych o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony, w których liczba miejsc (siedzeń) łącznie z miejscem dla kierowcy wynosi: 1 – jeżeli dopuszczalna ładowność jest mniejsza niż 425 kg, 2 – jeżeli dopuszczalna ładowność jest mniejsza niż 493 kg, 3 lub więcej – jeżeli dopuszczalna ładowność jest mniejsza niż 500 kg.
-    - **a)**
-    - **b)**
-    - **c)**
+- **2)** innych niż samochody osobowe pojazdów samochodowych o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony, w których liczba miejsc (siedzeń) łącznie z miejscem dla kierowcy wynosi:
+    - **a)** 1 – jeżeli dopuszczalna ładowność jest mniejsza niż 425 kg,
+    - **b)** 2 – jeżeli dopuszczalna ładowność jest mniejsza niż 493 kg,
+    - **c)** 3 lub więcej – jeżeli dopuszczalna ładowność jest mniejsza niż 500 kg.
 
 2. Przepis ust. 1 nie dotyczy pojazdów samochodowych, które są wykorzystywane przez podatnika wyłącznie do działalności gospodarczej.
 
@@ -235,9 +131,9 @@ source: "eli-html"
 2. Przepis ust. 1 ma zastosowanie w odniesieniu do umów, o których mowa w tym przepisie:
 
 - **1)** bez uwzględnienia zmian umowy dokonywanych od dnia wejścia w życie niniejszej ustawy oraz
-- **2)** pod warunkiem że: pojazdy samochodowe będące przedmiotem tych umów zostały wydane podatnikowi przed dniem wejścia w życie niniejszej ustawy, umowa została zarejestrowana przez podatnika dokonującego odliczenia u właściwego dla niego naczelnika urzędu skarbowego najpóźniej w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
-    - **a)**
-    - **b)**
+- **2)** pod warunkiem że:
+    - **a)** pojazdy samochodowe będące przedmiotem tych umów zostały wydane podatnikowi przed dniem wejścia w życie niniejszej ustawy,
+    - **b)** umowa została zarejestrowana przez podatnika dokonującego odliczenia u właściwego dla niego naczelnika urzędu skarbowego najpóźniej w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 14.**
 

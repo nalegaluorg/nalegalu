@@ -8,10 +8,10 @@ pos: 1289
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 11 lipca 2019 ROZPORZĄDZENIE RADY MINISTRÓW dnia 11 lipca 2019 sprawie wykazu dokumentów publicznych Na podstawie 6 dnia 22 listopada dokumentach publicznych (Dz. 2019 53 1091) zarządza się, co następuje: § 1. Rozporządzenie określa wykaz dokumentów publicznych należących do drugiej trzeciej kategorii dokumentów publicznych.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1289 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 11 lipca 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,133 +25,173 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-03-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001289) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1289/text.pdf) |
 
-§ 2. Dokumentami publicznymi kategorii drugiej są:
-1) dokumenty, których ustawie dnia 21 maja 1999 broni amunicji (Dz. 2019 284 1214), zwanej dalej „ustawą”:
-a) Europejska karta broni palnej, której 10a ustawy,
-b) zaświadczenia uprawniające do przewozu lub przywozu broni amunicji, zastępujące pozwolenie na broń, uprawniające do nabycia broni lub amunicji zgoda na wywóz terytorium Rzeczypospolitej Polskiej broni lub amunicji, których przepisach wydanych na podstawie 44 ustawy,
-c) legitymacja posiadacza broni legitymacja posiadacza terminowego pozwolenia na broń, których przepisach wydanych na podstawie 31 1 39 3 ustawy,
-d) zaświadczenie uprawniające do nabycia broni, 12 2 ustawy,
-e) legitymacja osoby dopuszczonej do posiadania broni, której 30 4 ustawy,
-f) świadectwo broni, przepisach wydanych na podstawie 31 1 ustawy,
-g) karta rejestracyjna broni, której 13 5 ustawy,
-h) zaświadczenie uprawniające do nabycia broni lub amunicji, przepisach wydanych na podstawie 44 ustawy,
-i) zgoda na wywóz terytorium Rzeczypospolitej Polskiej broni lub amunicji;
-2) licencja maszynisty, której 18 1 dnia 28 marca 2003 transporcie kolejowym (Dz.
-2019 710, 730 1214);
-3) dokumenty, których ustawie dnia 19 sierpnia 2011 przewozie towarów niebezpiecznych (Dz. 2019 382, 534, 730 1123), zwanej dalej „ustawą”:
-a) świadectwo dopuszczenia statku ADN do przewozu niektórych towarów niebezpiecznych dla statków do przewozu ładunków suchych tymczasowe świadectwo dopuszczenia statku ADN do przewozu towarów niebezpiecznych dla statków do przewozu ładunków suchych, których przepisach wydanych na podstawie 63 2 ustawy,
-5) dokumenty, których ustawie dnia 20 lipca Prawo szkolnictwie wyższym nauce (Dz. 1668, późn. zm. ), zwanej dalej „ustawą”:
-a) dyplom ukończenia studiów, 77 1 ustawy,
-b) świadectwo dyplomowanego specjalisty, 161 4 ustawy,
-c) świadectwo dyplomowanego specjalisty technologa, 161 4 ustawy;
-6) dokument, 4e 4 dnia 19 kwietnia 1991 izbach aptekarskich (Dz. 2016 1496, 1669 2019 399 577) „Prawo wykonywania zawodu farmaceuty”;
-7) dyplom uzyskania tytułu specjalisty, 107zc dnia 6 września 2001 Prawo farmaceutyczne (Dz. 2019 499, 399 959);
-8) dokumenty, których ustawie dnia 25 września 2015 zawodzie fizjoterapeuty (Dz. 2019 952), zwanej dalej „ustawą”:
-a) „Prawo wykonywania zawodu fizjoterapeuty”, 24 1 ustawy,
-b) dyplom uzyskania tytułu specjalisty, 58 1 ustawy;
-9) dokumenty, których ustawie dnia 15 lipca 2011 zawodach pielęgniarki położnej (Dz. 2019 576 577), zwanej dalej „ustawą”:
-a) „Prawo wykonywania zawodu pielęgniarki” lub „Prawo wykonywania zawodu położnej” „Ograniczone prawo wykonywania zawodu pielęgniarki” „Ograniczone prawo wykonywania zawodu położnej”, których 41 1 ustawy,
-b) dyplom pielęgniarki specjalisty, dyplom pielęgniarza specjalisty, dyplom położnej specjalisty dyplom położnego specjalisty, których przepisach wydanych na podstawie 74 1 ustawy;
-10) dokumenty, których ustawie dnia 21 grudnia 1990 zawodzie lekarza weterynarii izbach lekarsko-weterynaryjnych (Dz. 2019 1140), zwanej dalej „ustawą”:
-a) zaświadczenie prawie wykonywania zawodu lekarza weterynarii, 2d 3 ustawy,
-b) dyplom uzyskania tytułu specjalisty dziedzinach weterynarii, 3 ustawy;
-11) dowody rejestracyjne pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej, Służby Ochrony Państwa, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Krajowej Administracji Skarbowej wykorzystywane przez Służbę Celno-Skarbową, których 73 3 dnia 20 czerwca 1997 Prawo ruchu drogowym (Dz. 1990, późn. zm. );
-12) dyplom uzyskania tytułu specjalisty, 16w 7 dnia 5 grudnia 1996 zawodach lekarza lekarza dentysty (Dz. 2019 537, 577 730);
-13) dokumenty, których ustawie dnia 27 lipca 2001 diagnostyce laboratoryjnej (Dz. 2019 849), zwanej dalej „ustawą”:
-a) „Prawo wykonywania zawodu diagnosty laboratoryjnego”, 10 1 ustawy,
-b) dyplom uzyskania tytułu specjalisty, 30z 4 ustawy;
-14) dyplom uzyskania tytułu specjalisty dziedzinach mających zastosowanie ochronie zdrowia, 43 1 dnia 24 lutego 2017 uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zdrowia (Dz. 2019 786);
-§ 3. Dokumentami publicznymi kategorii trzeciej są:
-1) dokumenty, których ustawie dnia 6 września 2001 transporcie drogowym (Dz. 2019 58, późn. zm. ), zwanej dalej „ustawą”:
-a) zezwolenie na wykonywanie zawodu przewoźnika drogowego, 5 1 ustawy,
-b) licencja wspólnotowa, której 5a ustawy,
-c) licencja na wykonywanie krajowego transportu drogowego zakresie przewozu osób samochodem osobowym, której 5b 1 ustawy,
-d) licencja na wykonywanie krajowego transportu drogowego zakresie przewozu osób pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 nie więcej niż 9 osób łącznie kierowcą, której 5b 1 ustawy,
-e) licencja na wykonywanie transportu drogowego zakresie pośrednictwa przy przewozie rzeczy, której 5b 2 ustawy,
-f) licencja na wykonywanie krajowego transportu drogowego zakresie przewozu osób taksówką, której 5b 1 pkt 3 ustawy,
-g) licencja na wykonywanie krajowego transportu drogowego osób,
-h) licencja na wykonywanie krajowego transportu drogowego rzeczy,
-i) zezwolenie na wykonywanie regularnych przewozów osób krajowym transporcie drogowym, przepisach wydanych na podstawie 20 2 ustawy,
-j) zezwolenie na wykonywanie regularnych specjalnych przewozów osób krajowym transporcie drogowym, przepisach wydanych na podstawie 20 2 ustawy,
-k) świadectwo kwalifikacji zawodowej, 39c 1 39e 1 ustawy,
-l) zaświadczenie na przewozy drogowe na potrzeby własne, 33 4 ustawy,
-m) zaświadczenie na międzynarodowy niezarobkowy przewóz drogowy, 33 5 ustawy,
-n) certyfikat potwierdzający spełnienie przez pojazd odpowiednich wymogów bezpieczeństwa lub warunków dopuszczenia do ruchu, 30 10 ustawy,
-o) zezwolenie ministra właściwego do spraw transportu, 28 1 ustawy,
-p) zezwolenie na wykonywanie przewozów regularnych przewozów regularnych specjalnych międzynarodowym transporcie drogowym, 18 1 pkt 2 ustawy,
-q) zezwolenie na wykonywanie przewozów okazjonalnych międzynarodowym transporcie drogowym, 18 2 ustawy,
-r) zezwolenie na wykonywanie przewozów wahadłowych międzynarodowym transporcie drogowym, 18 2 ustawy;
-2) zaświadczenie na przewozy na potrzeby własne międzynarodowym przewozie drogowym osób, rozporządzeniu Parlamentu Europejskiego Rady (WE) nr 1073/2009 dnia 21 października 2009 sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych autobusowych zmieniającym rozporządzenie (WE) nr 561/2006 (Dz. Urz. UE L 300 14.11.2009, str. 88, późn. zm. );
-b) potwierdzenie zgłoszenia przewozu, 34 1 ustawy;
-5) dokumenty, których ustawie dnia 5 stycznia 2011 kierujących pojazdami (Dz. 2019 341, 622 1287), zwanej dalej „ustawą”:
-a) legitymacja instruktora, której 36 1 ustawy,
-b) legitymacja egzaminatora, której 62 1 ustawy,
-c) zaświadczenie wpisie do ewidencji wykładowców, 38 2 ustawy,
-d) zaświadczenie wpisie do ewidencji instruktorów techniki jazdy (świadectwo instruktora techniki jazdy), 117 3 ustawy,
-e) zezwolenie na kierowanie pojazdem uprzywilejowanym, 108 ustawy,
-f) zezwolenie na kierowanie pojazdem przewożącym wartości pieniężne, 110 ustawy,
-g) międzynarodowe prawo jazdy, 4 1 pkt 1 lit. c ustawy;
-6) dokumenty, których ustawie dnia 20 czerwca 1997 Prawo ruchu drogowym, zwanej dalej „ustawą”:
-a) zezwolenie na przejazd pojazdu nienormatywnego, 64 1 ustawy,
-b) karta parkingowa, której 8 ustawy,
-c) zaświadczenie potwierdzające wpis na listę rzeczoznawców samochodowych, 79a 2 ustawy;
-7) dokumenty, których ustawie dnia 3 lipca 2002 Prawo lotnicze (Dz. 1183, 1629 1637 2019 235 730), zwanej dalej „ustawą”:
-a) certyfikat jednostki obsługi technicznej napraw (AMO Approved Maintenance Organization), załączniku nr 6 do ustawy,
-b) certyfikat zarządzania ciągłą zdatnością do lotu (CAMO Continuing Airworthiness Management Organisation), załączniku nr 6 do ustawy,
-c) świadectwo zdatności zakresie hałasu, 53 2 ustawy,
-d) świadectwo rejestracji, 37 6 ustawy,
-e) świadectwo zdatności do lotu Europejskiej Agencji Bezpieczeństwa Lotniczego (EASA),
-f) świadectwo zdatności do lotu wydawane przez Prezesa Urzędu Lotnictwa Cywilnego, 49 1 ustawy,
-g) ograniczone świadectwo zdatności do lotu,
-h) świadectwo zdatności do lotu (UCL),
-i) certyfikat operatora kontroli bezpieczeństwa, 186b 10 ustawy,
-j) certyfikat operatora kontroli,
-k) certyfikat inspektora lotnictwa cywilnego,
-l) certyfikat instytucji zapewniającej służby żeglugi powietrznej, 127 4 ustawy,
-m) zezwolenie na wykonywanie operacji specjalistycznych wysokiego ryzyka (SPO HR),
-n) wykaz zatwierdzeń szczególnych (dla nieskomplikowanych) statków powietrznych,
-o) certyfikat przewoźnika lotniczego (AOC Air Operation Certificate), załączniku nr 6 do ustawy,
-p) certyfikat usług lotniczych (AWC Aerial Works Certificate), załączniku nr 6 do ustawy,
-w) upoważnienie egzaminatora;
-8) licencja na wykonywanie przewozów kolejowych osób lub rzeczy albo na świadczenie usług trakcyjnych, której 43 dnia 28 marca 2003 transporcie kolejowym;
-9) dokumenty, których ustawie dnia 21 grudnia 2000 żegludze śródlądowej (Dz. 2017 2128, 1137 1694 2019 125, 642 730), zwanej dalej „ustawą”:
-a) patenty świadectwa kwalifikacji zawodowych żegludze śródlądowej, których 35 2 ustawy,
-b) unijne świadectwo zdolności żeglugowej, 28 1 ustawy,
-c) tymczasowe unijne świadectwo zdolności żeglugowej, 28 1 ustawy,
-d) świadectwo zdolności żeglugowej, 28 1 ustawy,
-e) uproszczone świadectwo zdolności żeglugowej, 28 1 ustawy,
-f) dokument rejestracyjny statku żeglugi śródlądowej czasowy dokument rejestracyjny statku żeglugi śródlądowej, których 20 4 ustawy;
-10) zaświadczenie stwierdzające charakter, okres rodzaj działalności wykonywanej Rzeczypospolitej Polskiej zawierające informacje doświadczeniu zawodowym nabytym podczas wykonywania tej działalności na własny rachunek podczas zatrudnienia przy jej wykonywaniu, tym charakterze kierownika przedsiębiorstwa, 10 1 dnia 22 grudnia 2015 zasadach uznawania kwalifikacji zawodowych nabytych państwach członkowskich Unii Europejskiej (Dz. 2272 2019 534 577);
-11) świadectwo fitosanitarne dla roślin, produktów roślinnych lub przedmiotów wyprowadzanych terytorium Rzeczypospolitej Polskiej do państw trzecich, 18 1 dnia 18 grudnia 2003 ochronie roślin (Dz. 2019 972);
-12) Karta Dużej Rodziny, której 1 dnia 5 grudnia 2014 Karcie Dużej Rodziny (Dz.
-2017 1832, późn. zm. );
-13) legitymacja studencka, której 74 4 dnia 20 lipca Prawo szkolnictwie wyższym nauce;
-14) dokumenty, których przepisach wydanych na podstawie 11 2, 11b 32a 4 dnia 7 września 1991 systemie oświaty:
-a) świadectwa ukończenia szkół,
-b) świadectwa ukończenia szkół artystycznych dyplomy szkół artystycznych,
-c) świadectwa potwierdzające kwalifikację zawodzie dyplomy potwierdzające kwalifikacje zawodowe,
-d) certyfikaty kwalifikacji zawodowych dyplomy zawodowe,
-e) zaświadczenie szczegółowych wynikach egzaminu ósmoklasisty,
-f) zaświadczenie szczegółowych wynikach egzaminu gimnazjalnego,
-g) zaświadczenie zdaniu egzaminów eksternistycznych,
-h) legitymacje szkolne,
-i) legitymacje przedszkolne dla dzieci niepełnosprawnych;
-15) świadectwo ukończenia kursu kwalifikacyjnego, przepisach wydanych na podstawie 188 1 pkt 1 dnia 14 grudnia 2016 Prawo oświatowe (Dz. 2019 1148, 1078 1287);
-19) świadectwo czeladnicze, dyplom mistrzowski zaświadczenie zdaniu egzaminu sprawdzającego, których przepisach wydanych na podstawie 3 4 dnia 22 marca 1989 rzemiośle (Dz.
-1267 2245);
-20) zaświadczenie dokonaniu wpisu na listę kwalifikowanych pracowników ochrony fizycznej zaświadczenie dokonaniu wpisu na listę kwalifikowanych pracowników zabezpieczenia technicznego, których 29 3 dnia 22 sierpnia 1997 ochronie osób mienia (Dz. 2142 2245);
-21) legitymacja służbowa strażaka, której 23 8 pkt 4 dnia 24 sierpnia 1991 Państwowej Straży Pożarnej (Dz. 1313, 1592 1669 2019 730 1091);
-22) legitymacja emeryta-rencisty, której 68 1 pkt 2a dnia 13 października 1998 systemie ubezpieczeń społecznych (Dz. 2019 300, 303 730);
-23) legitymacja emeryta-rencisty policyjnego, której przepisach wydanych na podstawie 38 3 dnia 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej Służby Więziennej ich rodzin (Dz. 2019 288 730);
-24) pozwolenia dokumenty uprawniające do przywozu, wywozu środków odurzających, substancji psychotropowych lub prekursorów kategorii 1, których przepisach wydanych na podstawie 37 12 dnia 29 lipca 2005 przeciwdziałaniu narkomanii (Dz. 2019 852);
-25) pozwolenie na kierowanie tramwajem, 7 1 pkt 1 dnia 5 stycznia 2011 kierujących pojazdami;
-26) legitymacja emeryta-rencisty wojskowego, której przepisach wydanych na podstawie 37 dnia 10 grudnia 1993 zaopatrzeniu emerytalnym żołnierzy zawodowych ich rodzin (Dz. 2019 289
-730);
-27) legitymacja weterana legitymacja weterana poszkodowanego, których 9 1 dnia 19 sierpnia 2011 weteranach działań poza granicami państwa (Dz. 937 2019
-730);
-28) dokumenty poświadczające uprawnienie do korzystania ulgowych przejazdów związku pobieraniem nauki albo nauczaniem języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych języku polskim, wydawane na podstawie 6 3 dnia 20 czerwca 1992 uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. 295);
-29) świadectwo złożenia Lekarskiego Egzaminu Końcowego świadectwo złożenia Lekarsko-Dentystycznego Egzaminu Końcowego, których 14e 6 dnia 5 grudnia 1996 zawodach lekarza lekarza dentysty;
-30) legitymacja osoby deportowanej do pracy przymusowej lub osadzonej obozie pracy przez III Rzeszę lub Związek Socjalistycznych Republik Radzieckich, której 6a dnia 31 maja 1996 osobach deportowanych do pracy przymusowej osadzonych obozach pracy przez III Rzeszę Związek Socjalistycznych Republik Radzieckich (Dz. 2019 1168);
-31) legitymacja działacza opozycji antykomunistycznej lub osoby represjonowanej powodów politycznych, której 6 3 dnia 20 marca 2015 działaczach opozycji antykomunistycznej osobach represjonowanych powodów politycznych (Dz. 690 2019 730, 752 992);
-32) legitymacja członka Korpusu Weteranów Walk Niepodległość Rzeczypospolitej Polskiej, której 62 3 dnia 24 stycznia 1991 kombatantach niektórych osobach będących ofiarami represji wojen§ 4. Rozporządzenie wchodzi życie dniem 12 lipca 2019 r., wyjątkiem § 3 pkt 14 lit. d, który wchodzi życie dniem 1 września 2019 Prezes Rady Ministrów: M. Morawiecki
+w sprawie wykazu dokumentów publicznych Na podstawie art. 6 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2019 r. poz. 53 i 1091) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa wykaz dokumentów publicznych należących do drugiej i trzeciej kategorii dokumentów publicznych.
+
+**§ 2.** Dokumentami publicznymi kategorii drugiej są:
+
+- **1)** dokumenty, o których mowa w ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2019 r. poz. 284 i 1214), zwanej dalej „ustawą”:
+    - **a)** Europejska karta broni palnej, o której mowa w art. 10a ustawy,
+    - **b)** zaświadczenia uprawniające do przewozu lub przywozu broni i amunicji, zastępujące pozwolenie na broń, uprawniające do nabycia broni lub amunicji oraz zgoda na wywóz z terytorium Rzeczypospolitej Polskiej broni lub amunicji, o których mowa w przepisach wydanych na podstawie art. 44 ustawy,
+    - **c)** legitymacja posiadacza broni oraz legitymacja posiadacza terminowego pozwolenia na broń, o których mowa w przepisach wydanych na podstawie art. 31 ust. 1 oraz art. 39 ust. 3 ustawy,
+    - **d)** zaświadczenie uprawniające do nabycia broni, o którym mowa w art. 12 ust. 2 ustawy,
+    - **e)** legitymacja osoby dopuszczonej do posiadania broni, o której mowa w art. 30 ust. 4 ustawy,
+    - **f)** świadectwo broni, o którym mowa w przepisach wydanych na podstawie art. 31 ust. 1 ustawy,
+    - **g)** karta rejestracyjna broni, o której mowa w art. 13 ust. 5 ustawy,
+    - **h)** zaświadczenie uprawniające do nabycia broni lub amunicji, o którym mowa w przepisach wydanych na podstawie art. 44 ustawy,
+    - **i)** zgoda na wywóz z terytorium Rzeczypospolitej Polskiej broni lub amunicji;
+
+- **2)** licencja maszynisty, o której mowa w art. 18 ust. 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2019 r. poz. 710, 730 i 1214);
+- **3)** dokumenty, o których mowa w ustawie z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2019 r. poz. 382, 534, 730 i 1123), zwanej dalej „ustawą”:
+    - **a)** świadectwo dopuszczenia statku ADN do przewozu niektórych towarów niebezpiecznych dla statków do przewozu ładunków suchych i tymczasowe świadectwo dopuszczenia statku ADN do przewozu towarów niebezpiecznych dla statków do przewozu ładunków suchych, o których mowa w przepisach wydanych na podstawie art. 63 ust. 2 ustawy,
+    - **b)** świadectwo eksperta ADN, eksperta ADN do spraw przewozu gazów i eksperta ADN do spraw przewozu chemikaliów, o których mowa w art. 32 ust. 5 i 6 ustawy,
+    - **c)** świadectwo doradcy do spraw bezpieczeństwa przewozu towarów niebezpiecznych, o którym mowa w art. 9 ust. 1 pkt 4 lit. e ustawy,
+    - **d)** świadectwo dopuszczenia pojazdu ADR, o którym mowa w art. 9 ust. 1 pkt 4 lit. d ustawy;
+
+- **4)** świadectwo dojrzałości, aneks do świadectwa dojrzałości oraz zaświadczenie o wynikach egzaminu maturalnego, o których mowa w art. 44zzl, art. 44zzo i art. 44zzp ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2018 r. poz. 1457, 1560, 1669 i 2245 oraz z 2019 r. poz. 730 i 761);
+- **5)** dokumenty, o których mowa w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm. ), zwanej dalej „ustawą”:
+    - **a)** dyplom ukończenia studiów, o którym mowa w art. 77 ust. 1 ustawy,
+    - **b)** świadectwo dyplomowanego specjalisty, o którym mowa w art. 161 ust. 4 ustawy,
+    - **c)** świadectwo dyplomowanego specjalisty technologa, o którym mowa w art. 161 ust. 4 ustawy;
+
+- **6)** dokument, o którym mowa w art. 4e ust. 4 ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2016 r. poz. 1496, z 2018 r. poz. 1669 oraz z 2019 r. poz. 399 i 577) – „Prawo wykonywania zawodu farmaceuty”;
+- **7)** dyplom uzyskania tytułu specjalisty, o którym mowa w art. 107zc ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2019 r. poz. 499, 399 i 959);
+- **8)** dokumenty, o których mowa w ustawie z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. z 2019 r. poz. 952), zwanej dalej „ustawą”:
+    - **a)** „Prawo wykonywania zawodu fizjoterapeuty”, o którym mowa w art. 24 ust. 1 ustawy,
+    - **b)** dyplom uzyskania tytułu specjalisty, o którym mowa w art. 58 ust. 1 ustawy;
+
+- **9)** dokumenty, o których mowa w ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2019 r. poz. 576 i 577), zwanej dalej „ustawą”:
+    - **a)** „Prawo wykonywania zawodu pielęgniarki” lub „Prawo wykonywania zawodu położnej” oraz „Ograniczone prawo wykonywania zawodu pielęgniarki” i „Ograniczone prawo wykonywania zawodu położnej”, o których mowa w art. 41 ust. 1 ustawy,
+    - **b)** dyplom pielęgniarki specjalisty, dyplom pielęgniarza specjalisty, dyplom położnej specjalisty oraz dyplom położnego specjalisty, o których mowa w przepisach wydanych na podstawie art. 74 ust. 1 ustawy;
+
+- **10)** dokumenty, o których mowa w ustawie z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2019 r. poz. 1140), zwanej dalej „ustawą”:
+    - **a)** zaświadczenie o prawie wykonywania zawodu lekarza weterynarii, o którym mowa w art. 2d ust. 3 ustawy,
+    - **b)** dyplom uzyskania tytułu specjalisty w dziedzinach weterynarii, o którym mowa w art. 3 ustawy;
+
+- **11)** dowody rejestracyjne pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej, Służby Ochrony Państwa, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Krajowej Administracji Skarbowej wykorzystywane przez Służbę Celno-Skarbową, o których mowa w art. 73 ust. 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm. );
+- **12)** dyplom uzyskania tytułu specjalisty, o którym mowa w art. 16w ust. 7 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2019 r. poz. 537, 577 i 730);
+- **13)** dokumenty, o których mowa w ustawie z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2019 r. poz. 849), zwanej dalej „ustawą”:
+    - **a)** „Prawo wykonywania zawodu diagnosty laboratoryjnego”, o którym mowa w art. 10 ust. 1 ustawy,
+    - **b)** dyplom uzyskania tytułu specjalisty, o którym mowa w art. 30z ust. 4 ustawy;
+
+- **14)** dyplom uzyskania tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, o którym mowa w art. 43 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia (Dz. U. z 2019 r. poz. 786);
+- **15)** legitymacja służbowa sędziego, o której mowa w art. 84 ust. 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2019 r. poz. 52, 55, 60 i 125);
+- **16)** identyfikator wydawany przez Krajową Radę Komorniczą, o którym mowa w art. 29 ust. 1 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244 oraz z 2019 r. poz. 55 i 730);
+- **17)** legitymacja służbowa inspektora dozoru jądrowego, o której mowa w art. 65a ust. 2 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2018 r. poz. 792, 1669 i 2227 oraz z 2019 r. poz. 730).
+
+**§ 3.** Dokumentami publicznymi kategorii trzeciej są:
+
+- **1)** dokumenty, o których mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2019 r. poz. 58, z późn. zm. ), zwanej dalej „ustawą”:
+    - **a)** zezwolenie na wykonywanie zawodu przewoźnika drogowego, o którym mowa w art. 5 ust. 1 ustawy,
+    - **b)** licencja wspólnotowa, o której mowa w art. 5a ustawy,
+    - **c)** licencja na wykonywanie krajowego transportu drogowego w zakresie przewozu osób samochodem osobowym, o której mowa w art. 5b ust. 1 ustawy,
+    - **d)** licencja na wykonywanie krajowego transportu drogowego w zakresie przewozu osób pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu powyżej 7 i nie więcej niż 9 osób łącznie z kierowcą, o której mowa w art. 5b ust. 1 ustawy,
+    - **e)** licencja na wykonywanie transportu drogowego w zakresie pośrednictwa przy przewozie rzeczy, o której mowa w art. 5b ust. 2 ustawy,
+    - **f)** licencja na wykonywanie krajowego transportu drogowego w zakresie przewozu osób taksówką, o której mowa w art. 5b ust. 1 pkt 3 ustawy,
+    - **g)** licencja na wykonywanie krajowego transportu drogowego osób,
+    - **h)** licencja na wykonywanie krajowego transportu drogowego rzeczy,
+    - **i)** zezwolenie na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, o którym mowa w przepisach wydanych na podstawie art. 20 ust. 2 ustawy,
+    - **j)** zezwolenie na wykonywanie regularnych specjalnych przewozów osób w krajowym transporcie drogowym, o którym mowa w przepisach wydanych na podstawie art. 20 ust. 2 ustawy,
+    - **k)** świadectwo kwalifikacji zawodowej, o którym mowa w art. 39c ust. 1 i art. 39e ust. 1 ustawy,
+    - **l)** zaświadczenie na przewozy drogowe na potrzeby własne, o którym mowa w art. 33 ust. 4 ustawy,
+    - **m)** zaświadczenie na międzynarodowy niezarobkowy przewóz drogowy, o którym mowa w art. 33 ust. 5 ustawy,
+    - **n)** certyfikat potwierdzający spełnienie przez pojazd odpowiednich wymogów bezpieczeństwa lub warunków dopuszczenia do ruchu, o którym mowa w art. 30 ust. 10 ustawy,
+    - **o)** zezwolenie ministra właściwego do spraw transportu, o którym mowa w art. 28 ust. 1 ustawy,
+    - **p)** zezwolenie na wykonywanie przewozów regularnych i przewozów regularnych specjalnych w międzynarodowym transporcie drogowym, o którym mowa w art. 18 ust. 1 pkt 2 ustawy,
+    - **q)** zezwolenie na wykonywanie przewozów okazjonalnych w międzynarodowym transporcie drogowym, o którym mowa w art. 18 ust. 2 ustawy,
+    - **r)** zezwolenie na wykonywanie przewozów wahadłowych w międzynarodowym transporcie drogowym, o którym mowa w art. 18 ust. 2 ustawy;
+
+- **2)** zaświadczenie na przewozy na potrzeby własne w międzynarodowym przewozie drogowym osób, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającym rozporządzenie (WE) nr 561/2006 (Dz. Urz. UE L 300 z 14.11.2009, str. 88, z późn. zm. );
+- **3)** świadectwo kierowcy, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1072/2009 z dnia 21 października 2009 r. dotyczącym zasad dostępu do rynku międzynarodowych przewozów drogowych (Dz. Urz. UE L 300 z 14.11.2009, str. 72);
+- **4)** dokumenty, o których mowa w ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2018 r. poz. 2016 i 2435 oraz z 2019 r. poz. 730), zwanej dalej „ustawą”:
+    - **a)** zaświadczenie na wykonywanie publicznego transportu zbiorowego, o którym mowa w art. 28 ust. 1 ustawy,
+    - **b)** potwierdzenie zgłoszenia przewozu, o którym mowa w art. 34 ust. 1 ustawy;
+
+- **5)** dokumenty, o których mowa w ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2019 r. poz. 341, 622 i 1287), zwanej dalej „ustawą”:
+    - **a)** legitymacja instruktora, o której mowa w art. 36 ust. 1 ustawy,
+    - **b)** legitymacja egzaminatora, o której mowa w art. 62 ust. 1 ustawy,
+    - **c)** zaświadczenie o wpisie do ewidencji wykładowców, o którym mowa w art. 38 ust. 2 ustawy,
+    - **d)** zaświadczenie o wpisie do ewidencji instruktorów techniki jazdy (świadectwo instruktora techniki jazdy), o którym mowa w art. 117 ust. 3 ustawy,
+    - **e)** zezwolenie na kierowanie pojazdem uprzywilejowanym, o którym mowa w art. 108 ustawy,
+    - **f)** zezwolenie na kierowanie pojazdem przewożącym wartości pieniężne, o którym mowa w art. 110 ustawy,
+    - **g)** międzynarodowe prawo jazdy, o którym mowa w art. 4 ust. 1 pkt 1 lit. c ustawy;
+
+- **6)** dokumenty, o których mowa w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zwanej dalej „ustawą”:
+    - **a)** zezwolenie na przejazd pojazdu nienormatywnego, o którym mowa w art. 64 ust. 1 ustawy,
+    - **b)** karta parkingowa, o której mowa w art. 8 ustawy,
+    - **c)** zaświadczenie potwierdzające wpis na listę rzeczoznawców samochodowych, o którym mowa w art. 79a ust. 2 ustawy;
+
+- **7)** dokumenty, o których mowa w ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2018 r. poz. 1183, 1629 i 1637 oraz z 2019 r. poz. 235 i 730), zwanej dalej „ustawą”:
+    - **a)** certyfikat jednostki obsługi technicznej i napraw (AMO – Approved Maintenance Organization), o którym mowa w załączniku nr 6 do ustawy,
+    - **b)** certyfikat zarządzania ciągłą zdatnością do lotu (CAMO – Continuing Airworthiness Management Organisation), o którym mowa w załączniku nr 6 do ustawy,
+    - **c)** świadectwo zdatności w zakresie hałasu, o którym mowa w art. 53 ust. 2 ustawy,
+    - **d)** świadectwo rejestracji, o którym mowa w art. 37 ust. 6 ustawy,
+    - **e)** świadectwo zdatności do lotu Europejskiej Agencji Bezpieczeństwa Lotniczego (EASA),
+    - **f)** świadectwo zdatności do lotu wydawane przez Prezesa Urzędu Lotnictwa Cywilnego, o którym mowa w art. 49 ust. 1 ustawy,
+    - **g)** ograniczone świadectwo zdatności do lotu,
+    - **h)** świadectwo zdatności do lotu (UCL),
+    - **i)** certyfikat operatora kontroli bezpieczeństwa, o którym mowa w art. 186b ust. 10 ustawy,
+    - **j)** certyfikat operatora kontroli,
+    - **k)** certyfikat inspektora lotnictwa cywilnego,
+    - **l)** certyfikat instytucji zapewniającej służby żeglugi powietrznej, o którym mowa w art. 127 ust. 4 ustawy,
+    - **m)** zezwolenie na wykonywanie operacji specjalistycznych wysokiego ryzyka (SPO HR),
+    - **n)** wykaz zatwierdzeń szczególnych (dla nieskomplikowanych) statków powietrznych,
+    - **o)** certyfikat przewoźnika lotniczego (AOC – Air Operation Certificate), o którym mowa w załączniku nr 6 do ustawy,
+    - **p)** certyfikat usług lotniczych (AWC – Aerial Works Certificate), o którym mowa w załączniku nr 6 do ustawy,
+    - **q)** certyfikat agenta obsługi naziemnej (AHAC – Airport Handling Agent Certificate), o którym mowa w art. 66b ust. 1 ustawy,
+    - **r)** licencja członka personelu lotniczego, o której mowa w art. 94 ustawy,
+    - **s)** świadectwo kwalifikacji członka personelu lotniczego, o którym mowa w art. 95 ustawy,
+    - **t)** świadectwo uznania,
+    - **u)** certyfikaty dla podmiotów prowadzących działalność szkoleniową w lotnictwie cywilnym,
+    - **v)** zaświadczenie o dokonaniu wpisu do rejestru podmiotów szkolących, o którym mowa w art. 95a ust. 3b ustawy,
+    - **w)** upoważnienie egzaminatora;
+
+- **8)** licencja na wykonywanie przewozów kolejowych osób lub rzeczy albo na świadczenie usług trakcyjnych, o której mowa w art. 43 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym;
+- **9)** dokumenty, o których mowa w ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2017 r. poz. 2128, z 2018 r. poz. 1137 i 1694 oraz z 2019 r. poz. 125, 642 i 730), zwanej dalej „ustawą”:
+    - **a)** patenty i świadectwa kwalifikacji zawodowych w żegludze śródlądowej, o których mowa w art. 35 ust. 2 ustawy,
+    - **b)** unijne świadectwo zdolności żeglugowej, o którym mowa w art. 28 ust. 1 ustawy,
+    - **c)** tymczasowe unijne świadectwo zdolności żeglugowej, o którym mowa w art. 28 ust. 1 ustawy,
+    - **d)** świadectwo zdolności żeglugowej, o którym mowa w art. 28 ust. 1 ustawy,
+    - **e)** uproszczone świadectwo zdolności żeglugowej, o którym mowa w art. 28 ust. 1 ustawy,
+    - **f)** dokument rejestracyjny statku żeglugi śródlądowej i czasowy dokument rejestracyjny statku żeglugi śródlądowej, o których mowa w art. 20 ust. 4 ustawy;
+
+- **10)** zaświadczenie stwierdzające charakter, okres i rodzaj działalności wykonywanej w Rzeczypospolitej Polskiej oraz zawierające informacje o doświadczeniu zawodowym nabytym podczas wykonywania tej działalności na własny rachunek oraz podczas zatrudnienia przy jej wykonywaniu, w tym w charakterze kierownika przedsiębiorstwa, o którym mowa w art. 10 ust. 1 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2018 r. poz. 2272 oraz z 2019 r. poz. 534 i 577);
+- **11)** świadectwo fitosanitarne dla roślin, produktów roślinnych lub przedmiotów wyprowadzanych z terytorium Rzeczypospolitej Polskiej do państw trzecich, o którym mowa w art. 18 ust. 1 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2019 r. poz. 972);
+- **12)** Karta Dużej Rodziny, o której mowa w art. 1 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny (Dz. U. z 2017 r. poz. 1832, z późn. zm. );
+- **13)** legitymacja studencka, o której mowa w art. 74 ust. 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
+- **14)** dokumenty, o których mowa w przepisach wydanych na podstawie art. 11 ust. 2, art. 11b i art. 32a ust. 4 ustawy z dnia 7 września 1991 r. o systemie oświaty:
+    - **a)** świadectwa ukończenia szkół,
+    - **b)** świadectwa ukończenia szkół artystycznych i dyplomy szkół artystycznych,
+    - **c)** świadectwa potwierdzające kwalifikację w zawodzie i dyplomy potwierdzające kwalifikacje zawodowe,
+    - **d)** certyfikaty kwalifikacji zawodowych i dyplomy zawodowe,
+    - **e)** zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty,
+    - **f)** zaświadczenie o szczegółowych wynikach egzaminu gimnazjalnego,
+    - **g)** zaświadczenie o zdaniu egzaminów eksternistycznych,
+    - **h)** legitymacje szkolne,
+    - **i)** legitymacje przedszkolne dla dzieci niepełnosprawnych;
+
+- **15)** świadectwo ukończenia kursu kwalifikacyjnego, o którym mowa w przepisach wydanych na podstawie art. 188 ust. 1 pkt 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2019 r. poz. 1148, 1078 i 1287);
+- **16)** legitymacja służbowa nauczyciela, o której mowa w art. 11a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2018 r. poz. 967 i 2245 oraz z 2019 r. poz. 730 i 1287);
+- **17)** licencja detektywa, o której mowa w przepisach wydanych na podstawie art. 36 ust. 2 ustawy z dnia 6 lipca 2001 r. o usługach detektywistycznych (Dz. U. z 2018 r. poz. 2163 oraz z 2019 r. poz. 55, 730 i 1214);
+- **18)** świadectwo nadania uprawnień zawodowych w zakresie szacowania nieruchomości, o którym mowa w art. 192 i art. 231 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2018 r. poz. 2204 i 2348 oraz z 2019 r. poz. 270, 492 i 801) oraz w przepisach wydanych na podstawie art. 197 pkt 1–5 tej ustawy;
+- **19)** świadectwo czeladnicze, dyplom mistrzowski i zaświadczenie o zdaniu egzaminu sprawdzającego, o których mowa w przepisach wydanych na podstawie art. 3 ust. 4 ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2018 r. poz. 1267 i 2245);
+- **20)** zaświadczenie o dokonaniu wpisu na listę kwalifikowanych pracowników ochrony fizycznej oraz zaświadczenie o dokonaniu wpisu na listę kwalifikowanych pracowników zabezpieczenia technicznego, o których mowa w art. 29 ust. 3 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2018 r. poz. 2142 i 2245);
+- **21)** legitymacja służbowa strażaka, o której mowa w art. 23 ust. 8 pkt 4 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2018 r. poz. 1313, 1592 i 1669 oraz z 2019 r. poz. 730 i 1091);
+- **22)** legitymacja emeryta-rencisty, o której mowa w art. 68 ust. 1 pkt 2a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2019 r. poz. 300, 303 i 730);
+- **23)** legitymacja emeryta-rencisty policyjnego, o której mowa w przepisach wydanych na podstawie art. 38 ust. 3 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2019 r. poz. 288 i 730);
+- **24)** pozwolenia i dokumenty uprawniające do przywozu, wywozu środków odurzających, substancji psychotropowych lub prekursorów kategorii 1, o których mowa w przepisach wydanych na podstawie art. 37 ust. 12 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2019 r. poz. 852);
+- **25)** pozwolenie na kierowanie tramwajem, o którym mowa w art. 7 ust. 1 pkt 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
+- **26)** legitymacja emeryta-rencisty wojskowego, o której mowa w przepisach wydanych na podstawie art. 37 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2019 r. poz. 289 i 730);
+- **27)** legitymacja weterana oraz legitymacja weterana poszkodowanego, o których mowa w art. 9 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. z 2018 r. poz. 937 i 2018 oraz z 2019 r. poz. 730);
+- **28)** dokumenty poświadczające uprawnienie do korzystania z ulgowych przejazdów – w związku z pobieraniem nauki albo nauczaniem języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych w języku polskim, wydawane na podstawie art. 6 ust. 3 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2018 r. poz. 295);
+- **29)** świadectwo złożenia Lekarskiego Egzaminu Końcowego oraz świadectwo złożenia Lekarsko-Dentystycznego Egzaminu Końcowego, o których mowa w art. 14e ust. 6 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty;
+- **30)** legitymacja osoby deportowanej do pracy przymusowej lub osadzonej w obozie pracy przez III Rzeszę lub Związek Socjalistycznych Republik Radzieckich, o której mowa w art. 6a ustawy z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich (Dz. U. z 2019 r. poz. 1168);
+- **31)** legitymacja działacza opozycji antykomunistycznej lub osoby represjonowanej z powodów politycznych, o której mowa w art. 6 ust. 3 ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (Dz. U. z 2018 r. poz. 690 oraz z 2019 r. poz. 730, 752 i 992);
+- **32)** legitymacja członka Korpusu Weteranów Walk o Niepodległość Rzeczypospolitej Polskiej, o której mowa w art. 62 ust. 3 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2018 r. poz. 276 oraz z 2019 r. poz. 752);
+- **33)** licencja doradcy restrukturyzacyjnego, o której mowa w art. 16 ustawy z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego (Dz. U. z 2016 r. poz. 883 oraz z 2019 r. poz. 55, 730 i 912);
+- **34)** dokument potwierdzający przysługujące uprawnienia osoby poszkodowanej poza granicami państwa, o którym mowa w art. 47b ust. 1 i 1a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2018 r. poz. 1510, z późn. zm. );
+- **35)** legitymacja służbowa strażnika Państwowej Straży Rybackiej, o której mowa w art. 26 ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2018 r. poz. 1476 oraz z 2019 r. poz. 125 i 730).
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem 12 lipca 2019 r., z wyjątkiem § 3 pkt 14 lit. d, który wchodzi w życie z dniem 1 września 2019 r.
 

@@ -8,10 +8,10 @@ pos: 2755
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 23 grudnia 2022 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2755 ROZPORZĄDZENIE MINISTRA FUNDUSZY I POLITYKI REGIONALNEJ z dnia 11 grudnia 2022 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,61 +25,157 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-10-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002755) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2755/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA FUNDUSZY I POLITYKI REGIONALNEJ dnia 11 grudnia 2022 r.
-sprawie udzielania oraz publicznej ramach programów Interreg lata 2021–2027 Na podstawie 30 4 ustawy dnia 28 kwietnia 2022 r. realizacji zadań finansowanych ze środków europejskich perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) zarządza się, co następuje: Rozporządzenie określa szczegółowe przeznaczenie, warunki tryb udzielania przedsiębiorcom minimis oraz publicznej, ramach następujących programów Interreg lata 2021–2027: Programu Współpracy Interreg Polska–Słowacja 2021–2027, Programu Współpracy Interreg Polska–Saksonia 2021–2027,
-3) Programu Współpracy Interreg Polska–Dania–Niemcy–Litwa–Szwecja (Południowy Bałtyk) 2021–2027,
-4) Programu Współpracy Interreg NEXT Polska–Ukraina 2021–2027 a także podmioty udzielające tej pomocy.
-2. Pomoc jest udzielana rozporządzeniu Komisji (UE) 1407/2013 dnia 18 grudnia 2013 r. sprawie stosowania 107 108 Traktatu funkcjonowaniu Unii Europejskiej do minimis (Dz. 352 24.12.2013, 1, późn. zm. ), zwanym dalej „rozporządzeniem 1407/2013”.
-3. Pomoc publiczna jest udzielana rozporządzeniu Komisji (UE) 651/2014 dnia 17 czerwca 2014 r. uznającym niektóre rodzaje za zgodne rynkiem wewnętrznym zastosowaniu 107 108 Traktatu (Dz. 187 26.06.2014, 1, późn. zm. ), zwanym dalej „rozporządzeniem 651/2014”.
-4. Ilekroć rozporządzeniu jest o: intensywności należy przez to rozumieć intensywność rozumieniu 2 pkt 26 rozporządzenia 651/2014;
-jednym przedsiębiorcy należy przez to rozumieć jedno przedsiębiorstwo rozumieniu 2 2 rozporządzenia 1407/2013;
-3) przedsiębiorcy należy przez to rozumieć przedsiębiorstwo rozumieniu 1 załącznika I do rozporządzenia 651/2014;
-4) wielofunkcyjnej infrastrukturze rekreacyjnej należy przez to rozumieć wielofunkcyjną infrastrukturę rekreacyjną, której 55 3 rozporządzenia 651/2014.
-pomoc publiczna mogą zostać udzielone, jeżeli możliwość ich udzielania przewidują umowa lub porozumienie, których 2 pkt 32 lit. c ustawy dnia 28 kwietnia 2022 r. realizacji zadań finansowanych ze środków europejskich perspektywie finansowej 2021–2027.
-6. Pomoc może zostać udzielona przedsiębiorcom działającym we wszystkich sektorach wyłączeniem przypadków, których 1 1 rozporządzenia 1407/2013, oraz przypadków, których 7 1 rozporządzenia Parlamentu Europejskiego Rady (UE) 2021/1058 dnia 24 czerwca 2021 r. sprawie Europejskiego Funduszu Rozwoju Regionalnego Funduszu Spójności (Dz. 231 30.06.2021, 60, późn.
-zm. ).
-2. Pomoc jest udzielana formach 4 1 2 rozporządzenia 1407/2013.
-3. Wartość dopuszczalnej udzielonej jednemu przedsiębiorcy ustala się zgodnie 3 2–9 rozporządzenia 1407/2013.
-4. Pomoc udzielaną podstawie niniejszego rozporządzenia można łączyć inną lub 5 rozporządzenia 1407/2013.
-7. Przepisów rozporządzenia zakresie publicznej nie stosuje się do pomocy, której 1 2 lit. c oraz d, 3 lit. a–d, 4 lit. c oraz 5 rozporządzenia 651/2014.
-2. Pomoc publiczna nie może zostać udzielona ani wypłacona przedsiębiorcy, którym ciąży obowiązek zwrotu publicznej wynikający decyzji Komisji Europejskiej uznającej taką pomoc przyznaną przez Rzeczpospolitą Polską za niezgodną prawem oraz rynkiem wewnętrznym, wyjątkiem programów mających celu naprawienie szkód spowodowanych niektórymi klęskami żywiołowymi.
-3. Niniejsze rozporządzenie stosuje się do publicznej, która wywołuje efekt zachęty, którym 6 1 rozporządzenia 651/2014, uwzględnieniem 6 5 lit. h oraz rozporządzenia 651/2014.
-4. Pomoc publiczna jest udzielana formach 5 2 lit. a rozporządzenia 651/2014.
-5. Pomoc udzielaną podstawie niniejszego rozporządzenia można łączyć inną lub 8 rozporządzenia 651/2014.
-6. Do obliczania intensywności publicznej kosztów kwalifikowalnych stosuje się 7 1 rozporządzenia 651/2014.
-7. Wartość udzielonej publicznej nie może przekroczyć progów 4 1 rozporządzenia 651/2014.
-8. Pomoc publiczna jest udzielana zgodnie warunkiem, którym 5 2 lit. ea rozporządzenia 651/2014.
-8. Pomoc publiczna koszty ponoszone przez przedsiębiorstwa uczestniczące projektach ramach programów Interreg, których 1, jest udzielana: zachowaniem warunków 20 1 rozporządzenia 651/2014;
-pokrycie kosztów kwalifikowalnych, których 20 2 rozporządzenia 651/2014.
-2. Maksymalną intensywność publicznej koszty ponoszone przez przedsiębiorstwa uczestniczące projektach ramach programów Interreg ustala się zgodnie 20 3 rozporządzenia 651/2014.
-9. Pomoc publiczna dla przedsiębiorstw związku udziałem projektach ramach programów Interreg, których 1, jest udzielana zachowaniem warunków 20a 1 rozporządzenia 651/2014.
-2. Całkowitą kwotę publicznej dla przedsiębiorstw związku udziałem projektach ramach progra4) pokrycie kosztów kwalifikowalnych, których 53 4 5 oraz 9 zdanie trzecie rozporządzenia 651/2014.
-2. Wartość dopuszczalnej publicznej kulturę zachowanie dziedzictwa kulturowego ustala się zgodnie 53 6 7 oraz 9 zdanie pierwsze drugie rozporządzenia 651/2014.
-3. W przypadku publicznej kulturę zachowanie dziedzictwa kulturowego nieprzekraczającej równowartości 2 mln euro wartość dopuszczalnej może zostać ustalona zgodnie 53 8 rozporządzenia 651/2014.
-11. Pomoc publiczna infrastrukturę sportową wielofunkcyjną infrastrukturę rekreacyjną jest udzielana: zachowaniem warunków 55 1 rozporządzenia 651/2014;
-formach 55 7 rozporządzenia 651/2014;
-3) pokrycie kosztów kwalifikowalnych, których 55 8 9 rozporządzenia 651/2014.
-2. Udostępnianie infrastruktury sportowej objętej infrastrukturę sportową wielofunkcyjną infrastrukturę rekreacyjną odbywa się 55 2 4 rozporządzenia 651/2014.
-3. Udostępnianie wielofunkcyjnej infrastruktury rekreacyjnej objętej infrastrukturę sportową wielofunkcyjną infrastrukturę rekreacyjną odbywa się 55 4 rozporządzenia 651/2014.
-4. Pomoc publiczna infrastrukturę sportową wielofunkcyjną infrastrukturę rekreacyjną jest udzielana, jeżeli są spełnione warunki, których 55 5 rozporządzenia 651/2014.
-5. Powierzenie osobie trzeciej zadań, których 55 6 rozporządzenia 651/2014, jest możliwe po spełnieniu warunków tym przepisie.
-6. Wartość dopuszczalnej infrastrukturę sportową wielofunkcyjną infrastrukturę rekreacyjną ustala się zgodnie 55 10 11 rozporządzenia 651/2014.
-7. W przypadku infrastrukturę sportową wielofunkcyjną infrastrukturę rekreacyjną nieprzekraczającej równowartości 2 mln euro wartość dopuszczalnej może zostać ustalona zgodnie 55 12 rozporządzenia 651/2014.
-12. Pomoc publiczna inwestycyjna infrastrukturę lokalną jest udzielana zachowaniem warunków określonych 56 1 rozporządzenia 651/2014.
-2. Udostępnianie powierzanie eksploatacji infrastruktury lokalnej objętej inwestycyjną infrastrukturę lokalną odbywa się 56 3 4 rozporządzenia 651/2014.
-3. Pomoc inwestycyjna infrastrukturę lokalną jest udzielana pokrycie kosztów kwalifikowalnych, których 56 5 rozporządzenia 651/2014.
-4. Wartość dopuszczalnej publicznej inwestycyjnej infrastrukturę lokalną ustala się zgodnie 56 6 rozporządzenia 651/2014.
-13. Przedsiębiorca ubiegający się pomoc lub pomoc składa do podmiotu udzielającego odpowiednio lub publicznej wniosek udzielenie pomocy, zwany dalej „wnioskiem”.
-2. Wniosek zawiera: nazwę przedsiębiorcy informację jego wielkości;
-miejsce realizacji przedsięwzięcia;
-tach dotyczących naboru.
-3. Przedsiębiorca ubiegający się pomoc załącza do wniosku dodatkowo: kopie zaświadczeń lub zaświadczeń rolnictwie, lub zaświadczeń rybołówstwie albo oświadczenie wielkości otrzymanej minimis, albo oświadczenie nieotrzymaniu minimis, których 37 1 pkt 1 oraz 2 pkt 1 ustawy dnia 30 kwietnia 2004 r. postępowaniu sprawach dotyczących publicznej (Dz. U. 2021 r. poz. 743 oraz 2022 r. poz. 807);
-informacje, których 37 1 pkt 2 ustawy, której pkt
-4. Do wniosku udzielenie publicznej przedsiębiorca załącza informacje, których 37 5 ustawy dnia 30 kwietnia 2004 r. postępowaniu sprawach dotyczących publicznej, określone rozporządzeniu Rady Ministrów dnia 29 marca 2010 r. sprawie zakresu informacji przedstawianych przez podmiot ubiegający się pomoc inną niż pomoc lub pomoc rolnictwie lub rybołówstwie (Dz. U. poz. 312 1704, 2016 r. poz. 238 oraz 2020 r. poz. 1338).
-14. Podmiot udzielający dokonuje oceny wniosku oparciu warunki dopuszczalności pomocy.
-2. Przedsiębiorca przed podpisaniem umowy dofinansowanie projektu przedstawia podmiotowi udzielającemu pomocy: kopie zaświadczeń lub zaświadczeń rolnictwie, lub zaświadczeń rybołówstwie albo oświadczenie wielkości otrzymanej minimis, albo oświadczenie nieotrzymaniu minimis, których 37 1 pkt 1 oraz 2 pkt 1 ustawy, której 13 3 pkt 1, informacje, których 37 1 pkt 2 ustawy, której 13 3 pkt 1 dotyczące okresu od dnia złożenia wniosku do dnia podpisania umowy dofinansowanie projektu.
-15. Pomoc jest udzielana do końca okresu, którym 7 4, związku 8 rozporządzenia 1407/2013.
-16. Pomoc publiczna jest udzielana do końca okresu dostosowawczego, którym 58 4 zdanie pierwsze, związku 59 rozporządzenia 651/2014.
-17. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
-Minister Funduszy Polityki Regionalnej: G. Puda
+w sprawie udzielania pomocy de minimis oraz pomocy publicznej w ramach programów Interreg na lata 2021–2027 Na podstawie art. 30 ust. 4 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom pomocy de minimis oraz pomocy publicznej, w ramach następujących programów Interreg na lata 2021–2027:
+
+- **1)** Programu Współpracy Interreg Polska–Słowacja 2021–2027,
+- **2)** Programu Współpracy Interreg Polska–Saksonia 2021–2027,
+- **3)** Programu Współpracy Interreg Polska–Dania–Niemcy–Litwa–Szwecja (Południowy Bałtyk) 2021–2027,
+- **4)** Programu Współpracy Interreg NEXT Polska–Ukraina 2021–2027 – a także podmioty udzielające tej pomocy.
+
+**§ 2.** Pomoc de minimis jest udzielana na zasadach określonych w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1, z późn. zm. ), zwanym dalej „rozporządzeniem nr 1407/2013”.
+
+**§ 3.** Pomoc publiczna jest udzielana na zasadach określonych w rozporządzeniu Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającym niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ), zwanym dalej „rozporządzeniem nr 651/2014”.
+
+**§ 4.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** intensywności pomocy – należy przez to rozumieć intensywność pomocy w rozumieniu art. 2 pkt 26 rozporządzenia nr 651/2014;
+- **2)** jednym przedsiębiorcy – należy przez to rozumieć jedno przedsiębiorstwo w rozumieniu art. 2 ust. 2 rozporządzenia nr 1407/2013;
+- **3)** przedsiębiorcy – należy przez to rozumieć przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia nr 651/2014;
+- **4)** wielofunkcyjnej infrastrukturze rekreacyjnej – należy przez to rozumieć wielofunkcyjną infrastrukturę rekreacyjną, o której mowa w art. 55 ust. 3 rozporządzenia nr 651/2014.
+
+**§ 5.**
+
+1. Podmiotem udzielającym pomocy de minimis i pomocy publicznej może być:
+
+- **1)** instytucja zarządzająca;
+- **2)** beneficjent.
+
+2. W przypadku gdy podmiotem udzielającym pomocy de minimis lub pomocy publicznej jest beneficjent, pomoc de minimis i pomoc publiczna mogą zostać udzielone, jeżeli możliwość ich udzielania przewidują umowa lub porozumienie, o których mowa w art. 2 pkt 32 lit. c ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027.
+
+**§ 6.**
+
+1. Pomoc de minimis może zostać udzielona przedsiębiorcom działającym we wszystkich sektorach z wyłączeniem przypadków, o których mowa w art. 1 ust. 1 rozporządzenia nr 1407/2013, oraz przypadków, o których mowa w art. 7 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1058 z dnia 24 czerwca 2021 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i Funduszu Spójności (Dz. Urz. UE L 231 z 30.06.2021, str. 60, z późn. zm. ).
+
+2. Pomoc de minimis jest udzielana w formach i na zasadach określonych w art. 4 ust. 1 i 2 rozporządzenia nr 1407/2013.
+
+3. Wartość dopuszczalnej pomocy de minimis udzielonej jednemu przedsiębiorcy ustala się zgodnie z art. 3 ust. 2–9 rozporządzenia nr 1407/2013.
+
+4. Pomoc de minimis udzielaną na podstawie niniejszego rozporządzenia można łączyć z inną pomocą de minimis lub pomocą publiczną na zasadach określonych w art. 5 rozporządzenia nr 1407/2013.
+
+**§ 7.**
+
+1. Przepisów rozporządzenia w zakresie pomocy publicznej nie stosuje się do pomocy, o której mowa w art. 1 ust. 2 lit. c oraz d, ust. 3 lit. a–d, ust. 4 lit. c oraz ust. 5 rozporządzenia nr 651/2014.
+
+2. Pomoc publiczna nie może zostać udzielona ani wypłacona przedsiębiorcy, na którym ciąży obowiązek zwrotu pomocy publicznej wynikający z decyzji Komisji Europejskiej uznającej taką pomoc przyznaną przez Rzeczpospolitą Polską za niezgodną z prawem oraz z rynkiem wewnętrznym, z wyjątkiem programów pomocy mających na celu naprawienie szkód spowodowanych niektórymi klęskami żywiołowymi.
+
+3. Niniejsze rozporządzenie stosuje się do pomocy publicznej, która wywołuje efekt zachęty, o którym mowa w art. 6 ust. 1 rozporządzenia nr 651/2014, z uwzględnieniem art. 6 ust. 5 lit. h oraz i rozporządzenia nr 651/2014.
+
+4. Pomoc publiczna jest udzielana w formach określonych w art. 5 ust. 2 lit. a rozporządzenia nr 651/2014.
+
+5. Pomoc publiczną udzielaną na podstawie niniejszego rozporządzenia można łączyć z inną pomocą publiczną lub pomocą de minimis na zasadach określonych w art. 8 rozporządzenia nr 651/2014.
+
+6. Do obliczania intensywności pomocy publicznej i kosztów kwalifikowalnych stosuje się art. 7 ust. 1 rozporządzenia nr 651/2014.
+
+7. Wartość udzielonej pomocy publicznej nie może przekroczyć progów określonych w art. 4 ust. 1 rozporządzenia nr 651/2014.
+
+8. Pomoc publiczna jest udzielana zgodnie z warunkiem, o którym mowa w art. 5 ust. 2 lit. ea rozporządzenia nr 651/2014.
+
+**§ 8.**
+
+1. Pomoc publiczna na koszty ponoszone przez przedsiębiorstwa uczestniczące w projektach w ramach programów Interreg, o których mowa w § 1, jest udzielana:
+
+- **1)** z zachowaniem warunków określonych w art. 20 ust. 1 rozporządzenia nr 651/2014;
+- **2)** na pokrycie kosztów kwalifikowalnych, o których mowa w art. 20 ust. 2 rozporządzenia nr 651/2014.
+
+2. Maksymalną intensywność pomocy publicznej na koszty ponoszone przez przedsiębiorstwa uczestniczące w projektach w ramach programów Interreg ustala się zgodnie z art. 20 ust. 3 rozporządzenia nr 651/2014.
+
+**§ 9.**
+
+1. Pomoc publiczna dla przedsiębiorstw w związku z udziałem w projektach w ramach programów Interreg, o których mowa w § 1, jest udzielana z zachowaniem warunków określonych w art. 20a ust. 1 rozporządzenia nr 651/2014.
+
+2. Całkowitą kwotę pomocy publicznej dla przedsiębiorstw w związku z udziałem w projektach w ramach programów Interreg, o których mowa w § 1, ustala się zgodnie z art. 20a ust. 2 rozporządzenia nr 651/2014.
+
+**§ 10.**
+
+1. Pomoc publiczna na kulturę i zachowanie dziedzictwa kulturowego jest udzielana:
+
+- **1)** z zachowaniem warunków określonych w art. 53 ust. 1 rozporządzenia nr 651/2014;
+- **2)** na cele i działania kulturalne określone w art. 53 ust. 2 rozporządzenia nr 651/2014;
+- **3)** w formach określonych w art. 53 ust. 3 rozporządzenia nr 651/2014;
+- **4)** na pokrycie kosztów kwalifikowalnych, o których mowa w art. 53 ust. 4 i 5 oraz ust. 9 zdanie trzecie rozporządzenia nr 651/2014.
+
+2. Wartość dopuszczalnej pomocy publicznej na kulturę i zachowanie dziedzictwa kulturowego ustala się zgodnie z art. 53 ust. 6 i 7 oraz ust. 9 zdanie pierwsze i drugie rozporządzenia nr 651/2014.
+
+3. W przypadku pomocy publicznej na kulturę i zachowanie dziedzictwa kulturowego nieprzekraczającej równowartości 2 mln euro wartość dopuszczalnej pomocy może zostać ustalona zgodnie z art. 53 ust. 8 rozporządzenia nr 651/2014.
+
+**§ 11.**
+
+1. Pomoc publiczna na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną jest udzielana:
+
+- **1)** z zachowaniem warunków określonych w art. 55 ust. 1 rozporządzenia nr 651/2014;
+- **2)** w formach określonych w art. 55 ust. 7 rozporządzenia nr 651/2014;
+- **3)** na pokrycie kosztów kwalifikowalnych, o których mowa w art. 55 ust. 8 i 9 rozporządzenia nr 651/2014.
+
+2. Udostępnianie infrastruktury sportowej objętej pomocą publiczną na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną odbywa się na zasadach określonych w art. 55 ust. 2 i 4 rozporządzenia nr 651/2014.
+
+3. Udostępnianie wielofunkcyjnej infrastruktury rekreacyjnej objętej pomocą publiczną na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną odbywa się na zasadach określonych w art. 55 ust. 4 rozporządzenia nr 651/2014.
+
+4. Pomoc publiczna na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną jest udzielana, jeżeli są spełnione warunki, o których mowa w art. 55 ust. 5 rozporządzenia nr 651/2014.
+
+5. Powierzenie osobie trzeciej zadań, o których mowa w art. 55 ust. 6 rozporządzenia nr 651/2014, jest możliwe po spełnieniu warunków określonych w tym przepisie.
+
+6. Wartość dopuszczalnej pomocy na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną ustala się zgodnie z art. 55 ust. 10 i 11 rozporządzenia nr 651/2014.
+
+7. W przypadku pomocy na infrastrukturę sportową i wielofunkcyjną infrastrukturę rekreacyjną nieprzekraczającej równowartości 2 mln euro wartość dopuszczalnej pomocy może zostać ustalona zgodnie z art. 55 ust. 12 rozporządzenia nr 651/2014.
+
+**§ 12.**
+
+1. Pomoc publiczna inwestycyjna na infrastrukturę lokalną jest udzielana z zachowaniem warunków określonych w art. 56 ust. 1 rozporządzenia nr 651/2014.
+
+2. Udostępnianie i powierzanie eksploatacji infrastruktury lokalnej objętej pomocą publiczną inwestycyjną na infrastrukturę lokalną odbywa się na zasadach określonych w art. 56 ust. 3 i 4 rozporządzenia nr 651/2014.
+
+3. Pomoc inwestycyjna na infrastrukturę lokalną jest udzielana na pokrycie kosztów kwalifikowalnych, o których mowa w art. 56 ust. 5 rozporządzenia nr 651/2014.
+
+4. Wartość dopuszczalnej pomocy publicznej inwestycyjnej na infrastrukturę lokalną ustala się zgodnie z art. 56 ust. 6 rozporządzenia nr 651/2014.
+
+**§ 13.**
+
+1. Przedsiębiorca ubiegający się o pomoc de minimis lub pomoc publiczną składa do podmiotu udzielającego odpowiednio pomocy de minimis lub pomocy publicznej wniosek o udzielenie pomocy, zwany dalej „wnioskiem”.
+
+2. Wniosek zawiera:
+
+- **1)** nazwę przedsiębiorcy i informację o jego wielkości;
+- **2)** miejsce realizacji przedsięwzięcia;
+- **3)** cel realizacji przedsięwzięcia;
+- **4)** opis przedsięwzięcia;
+- **5)** planowane daty rozpoczęcia i zakończenia realizacji przedsięwzięcia;
+- **6)** wartość przedsięwzięcia;
+- **7)** koszty kwalifikowalne;
+- **8)** wnioskowaną kwotę pomocy;
+- **9)** źródła finansowania przedsięwzięcia;
+- **10)** inne informacje, niezbędne do dokonania oceny wniosku, wskazane przez podmiot udzielający pomocy w dokumentach dotyczących naboru.
+
+3. Przedsiębiorca ubiegający się o pomoc de minimis załącza do wniosku dodatkowo:
+
+- **1)** kopie zaświadczeń o pomocy de minimis lub zaświadczeń o pomocy de minimis w rolnictwie, lub zaświadczeń o pomocy de minimis w rybołówstwie albo oświadczenie o wielkości otrzymanej pomocy de minimis, albo oświadczenie o nieotrzymaniu pomocy de minimis, o których mowa w art. 37 ust. 1 pkt 1 oraz ust. 2 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743 oraz z 2022 r. poz. 807);
+- **2)** informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy, o której mowa w pkt 1.
+
+4. Do wniosku o udzielenie pomocy publicznej przedsiębiorca załącza informacje, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, określone w rozporządzeniu Rady Ministrów z dnia 29 marca 2010 r. w sprawie zakresu informacji przedstawianych przez podmiot ubiegający się o pomoc inną niż pomoc de minimis lub pomoc de minimis w rolnictwie lub rybołówstwie (Dz. U. poz. 312 i 1704, z 2016 r. poz. 238 oraz z 2020 r. poz. 1338).
+
+**§ 14.**
+
+1. Podmiot udzielający pomocy dokonuje oceny wniosku w oparciu o warunki dopuszczalności pomocy.
+
+2. Przedsiębiorca przed podpisaniem umowy o dofinansowanie projektu przedstawia podmiotowi udzielającemu pomocy:
+
+- **1)** kopie zaświadczeń o pomocy de minimis lub zaświadczeń o pomocy de minimis w rolnictwie, lub zaświadczeń o pomocy de minimis w rybołówstwie albo oświadczenie o wielkości otrzymanej pomocy de minimis, albo oświadczenie o nieotrzymaniu pomocy de minimis, o których mowa w art. 37 ust. 1 pkt 1 oraz ust. 2 pkt 1 ustawy, o której mowa w § 13 ust. 3 pkt 1,
+- **2)** informacje, o których mowa w art. 37 ust. 1 pkt 2 ustawy, o której mowa w § 13 ust. 3 pkt 1 – dotyczące okresu od dnia złożenia wniosku do dnia podpisania umowy o dofinansowanie projektu.
+
+**§ 15.** Pomoc de minimis jest udzielana do końca okresu, o którym mowa w art. 7 ust. 4, w związku z art. 8 rozporządzenia nr 1407/2013.
+
+**§ 16.** Pomoc publiczna jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze, w związku z art. 59 rozporządzenia nr 651/2014.
+
+**§ 17.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Funduszy i Polityki Regionalnej: G. Puda
 

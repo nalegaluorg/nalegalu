@@ -8,10 +8,10 @@ pos: 2492
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 grudnia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2492 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 21 grudnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,94 +25,154 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-12-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002492) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2492/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 21 grudnia 2018 r.
-w sprawie nieodpłatnej pomocy prawnej oraz nieodpłatnego poradnictwa obywatelskiego Na podstawie art. 13 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2017 r. poz. 2030 oraz z 2018 r. poz. 1467 i 2212) zarządza się, co następuje: § 1. Rozporządzenie określa:
-1) sposób udzielania nieodpłatnej pomocy prawnej i świadczenia nieodpłatnego poradnictwa obywatelskiego, w tym wymogi dotyczące lokalu, w którym będzie usytuowany punkt, w którym udzielana będzie nieodpłatna pomoc prawna lub świadczone będzie nieodpłatne poradnictwo obywatelskie, zwany dalej „punktem”;
-2) wzór karty informacyjnej poradnictwa, o której mowa w art. 5 ust. 5 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej;
-3) wzór karty nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego, zwanej dalej „kartą pomocy”;
-4) sposób gromadzenia i przekazywania opinii osób uprawnionych o udzielonej pomocy;
-5) sposób dokonywania przez wojewodę oceny wybranych porad udzielonych w ramach świadczenia nieodpłatnego poradnictwa obywatelskiego w punkcie;
-6) zakres i sposób przekazywania przez starostę zbiorczej informacji o wykonaniu zadań, o których mowa w art. 8 ust. 1 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej, na obszarze powiatu.
-§ 2. Użyte w rozporządzeniu skróty oznaczają:
-1) ustawa ustawę z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej;
-2) osoba udzielająca nieodpłatnej pomocy prawnej osobę, o której mowa odpowiednio w art. 5 ust. 1 i art. 11 ust. 3 ustawy;
-3) osoba świadcząca nieodpłatne poradnictwo obywatelskie osobę, o której mowa w art. 11 ust. 3a ustawy;
-4) mediator osobę, o której mowa w art. 4a ust. 6 ustawy.
-§ 3. 1. Udzielanie nieodpłatnej pomocy prawnej oraz świadczenie nieodpłatnego poradnictwa obywatelskiego odbywa się w punktach nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego usytuowanych w lokalach, o których mowa w art. 8 ust. 10 ustawy.
+w sprawie nieodpłatnej pomocy prawnej oraz nieodpłatnego poradnictwa obywatelskiego Na podstawie art. 13 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2017 r. poz. 2030 oraz z 2018 r. poz. 1467 i 2212) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** sposób udzielania nieodpłatnej pomocy prawnej i świadczenia nieodpłatnego poradnictwa obywatelskiego, w tym wymogi dotyczące lokalu, w którym będzie usytuowany punkt, w którym udzielana będzie nieodpłatna pomoc prawna lub świadczone będzie nieodpłatne poradnictwo obywatelskie, zwany dalej „punktem”;
+- **2)** wzór karty informacyjnej poradnictwa, o której mowa w art. 5 ust. 5 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej;
+- **3)** wzór karty nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego, zwanej dalej „kartą pomocy”;
+- **4)** sposób gromadzenia i przekazywania opinii osób uprawnionych o udzielonej pomocy;
+- **5)** sposób dokonywania przez wojewodę oceny wybranych porad udzielonych w ramach świadczenia nieodpłatnego poradnictwa obywatelskiego w punkcie;
+- **6)** zakres i sposób przekazywania przez starostę zbiorczej informacji o wykonaniu zadań, o których mowa w art. 8 ust. 1 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej, na obszarze powiatu.
+
+**§ 2.** Użyte w rozporządzeniu skróty oznaczają:
+
+- **1)** ustawa – ustawę z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej;
+- **2)** osoba udzielająca nieodpłatnej pomocy prawnej – osobę, o której mowa odpowiednio w art. 5 ust. 1 i art. 11 ust. 3 ustawy;
+- **3)** osoba świadcząca nieodpłatne poradnictwo obywatelskie – osobę, o której mowa w art. 11 ust. 3a ustawy;
+- **4)** mediator – osobę, o której mowa w art. 4a ust. 6 ustawy.
+
+**§ 3.**
+
+1. Udzielanie nieodpłatnej pomocy prawnej oraz świadczenie nieodpłatnego poradnictwa obywatelskiego odbywa się w punktach nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego usytuowanych w lokalach, o których mowa w art. 8 ust. 10 ustawy.
+
 2. Dostęp do lokali, o których mowa w art. 8 ust. 10 ustawy, usytuowanych na terenie powiatu, uwzględnia potrzeby osób niepełnosprawnych.
-3. Osobie uprawnionej udziela się nieodpłatnej pomocy prawnej lub świadczy nieodpłatne poradnictwo obywatelskie § 4. 1. Osobom, o których mowa w art. 8 ust. 8 ustawy, może być udzielana nieodpłatna pomoc prawna lub świadczone nieodpłatne poradnictwo obywatelskie, z wyłączeniem nieodpłatnej mediacji, również przez zorganizowanie wizyty w miejscu zamieszkania tych osób lub w miejscu wyposażonym w urządzenie ułatwiające porozumiewanie się z osobami doświadczającymi trudności w komunikowaniu się lub w miejscu, w którym zapewnia się możliwość skorzystania z pomocy tłumacza języka migowego.
+
+3. Osobie uprawnionej udziela się nieodpłatnej pomocy prawnej lub świadczy nieodpłatne poradnictwo obywatelskie osobiście, z wyłączeniem użycia środków porozumiewania się na odległość, z zastrzeżeniem § 4 ust. 2.
+
+**§ 4.**
+
+1. Osobom, o których mowa w art. 8 ust. 8 ustawy, może być udzielana nieodpłatna pomoc prawna lub świadczone nieodpłatne poradnictwo obywatelskie, z wyłączeniem nieodpłatnej mediacji, również przez zorganizowanie wizyty w miejscu zamieszkania tych osób lub w miejscu wyposażonym w urządzenie ułatwiające porozumiewanie się z osobami doświadczającymi trudności w komunikowaniu się lub w miejscu, w którym zapewnia się możliwość skorzystania z pomocy tłumacza języka migowego.
+
 2. Osoby, o których mowa w art. 8 ust. 8 ustawy, które zgłoszą uzasadnioną potrzebę komunikacji za pośrednictwem środków porozumiewania się na odległość, przed uzyskaniem nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego składają staroście, w formie papierowej lub elektronicznej, oświadczenie, o którym mowa w art. 4 ust. 2 ustawy, wraz ze wskazaniem okoliczności to uzasadniających oraz dostępnych tej osobie środków porozumiewania się na odległość. Osoba udzielająca nieodpłatnej pomocy prawnej lub świadcząca nieodpłatne poradnictwo obywatelskie, po otrzymaniu od starosty drogą elektroniczną oświadczenia i danych kontaktowych osoby uprawnionej, porozumiewa się z nią w umówionym terminie.
-§ 5. 1. W lokalu, w którym jest udzielana nieodpłatna pomoc prawna lub świadczone nieodpłatne poradnictwo obywatelskie, zapewnia się:
-1) wyodrębnione pomieszczenie przeznaczone do udzielania nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego poradnictwa obywatelskiego umożliwiające zachowanie dyskrecji przy uzyskiwaniu tej pomocy przez osoby uprawnione, przy czym w przypadku prowadzenia w lokalu nieodpłatnej mediacji, pomieszczenie wyposaża się w stół wraz z miejscami siedzącymi dla co najmniej czterech osób;
-2) miejsce przeznaczone dla osób oczekujących na udzielenie nieodpłatnej pomocy prawnej lub świadczenie nieodpłatnego poradnictwa obywatelskiego;
-3) dostęp do instalacji energetycznej, telekomunikacyjnej oraz dostęp do Internetu, przy czym w pomieszczeniu, o którym mowa w pkt 1, zapewnia się komputer z dostępem do oprogramowania do edycji tekstów, oprogramowania umożliwiającego przesyłanie, odbieranie danych i porozumiewanie się na odległość środkami komunikacji elektronicznej i komputerowego systemu informacji prawnej, wraz z bazą aktów prawnych, w tym przepisów prawa powszechnie obowiązującego, orzecznictwa i materiałów pomocniczych, z dostępem do bazy aktów prawa miejscowego obowiązującego na obszarze danego powiatu i powiatów ościennych, w tym gmin wchodzących w skład danego powiatu, a także dostęp do drukarki, urządzenia pozwalającego na przenoszenie dokumentacji do postaci elektronicznej oraz do materiałów biurowych.
+
+**§ 5.**
+
+1. W lokalu, w którym jest udzielana nieodpłatna pomoc prawna lub świadczone nieodpłatne poradnictwo obywatelskie, zapewnia się:
+
+- **1)** wyodrębnione pomieszczenie przeznaczone do udzielania nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego poradnictwa obywatelskiego umożliwiające zachowanie dyskrecji przy uzyskiwaniu tej pomocy przez osoby uprawnione, przy czym w przypadku prowadzenia w lokalu nieodpłatnej mediacji, pomieszczenie wyposaża się w stół wraz z miejscami siedzącymi dla co najmniej czterech osób;
+- **2)** miejsce przeznaczone dla osób oczekujących na udzielenie nieodpłatnej pomocy prawnej lub świadczenie nieodpłatnego poradnictwa obywatelskiego;
+- **3)** dostęp do instalacji energetycznej, telekomunikacyjnej oraz dostęp do Internetu, przy czym w pomieszczeniu, o którym mowa w pkt 1, zapewnia się komputer z dostępem do oprogramowania do edycji tekstów, oprogramowania umożliwiającego przesyłanie, odbieranie danych i porozumiewanie się na odległość środkami komunikacji elektronicznej i komputerowego systemu informacji prawnej, wraz z bazą aktów prawnych, w tym przepisów prawa powszechnie obowiązującego, orzecznictwa i materiałów pomocniczych, z dostępem do bazy aktów prawa miejscowego obowiązującego na obszarze danego powiatu i powiatów ościennych, w tym gmin wchodzących w skład danego powiatu, a także dostęp do drukarki, urządzenia pozwalającego na przenoszenie dokumentacji do postaci elektronicznej oraz do materiałów biurowych.
+
 2. Wyposażenie lokalu zapewnia bezpieczne przechowywanie dokumentów zawierających dane osobowe, w sposób uniemożliwiający dostęp do nich osobom nieupoważnionym.
+
 3. W oznaczeniu lokalu określa się, czy jest w nim udzielana nieodpłatna pomoc prawna, w tym nieodpłatna mediacja, albo świadczone nieodpłatne poradnictwo obywatelskie, w tym nieodpłatna mediacja, albo udzielana nieodpłatna pomoc prawna, świadczone nieodpłatne poradnictwo obywatelskie, w tym nieodpłatna mediacja, przy czym w oznaczeniu określa się również dni i godziny dyżurów, a także dane kontaktowe potrzebne do zgłoszenia wizyty, o których mowa w art. 8 ust. 5 ustawy.
+
 4. W miejscu przeznaczonym dla osób oczekujących na udzielenie nieodpłatnej pomocy prawnej lub świadczenie nieodpłatnego poradnictwa obywatelskiego udostępnia się:
-1) informacje o zasadach i zakresie udzielania nieodpłatnej pomocy prawnej i świadczenia nieodpłatnego poradnictwa obywatelskiego oraz osobach uprawnionych do ich otrzymania;
-2) listę jednostek nieodpłatnego poradnictwa, o której mowa w art. 8a ust. 1 ustawy, zawierającą również informacje o tematycznych infoliniach oraz innych formach poradnictwa świadczonego za pośrednictwem środków komunikacji elektronicznej, a także wskazanie punktów usytuowanych w lokalach z dogodnym dostępem dla osób poruszających się na wózkach inwalidzkich;
-3) karty informacyjne poradnictwa dotyczące nieodpłatnej pomocy prawnej, nieodpłatnej mediacji, nieodpłatnego poradnictwa obywatelskiego, o ile jest świadczone w danym powiecie, a także poradnictwa dla osób pokrzywdzonych przestępstwem;
-4) o ile jest to możliwe, karty informacyjne poradnictwa innego typu niż wymienione w pkt 3, dostępnego dla mieszkańców powiatu;
-5) zamkniętą, nieprzezroczystą i oznakowaną urnę, w której osoba uprawniona osobiście umieszcza wypełnioną część B karty pomocy;
-6) informację o możliwości przekazywania przez osoby uprawnione opinii o udzielonej nieodpłatnej pomocy prawnej
+
+- **1)** informacje o zasadach i zakresie udzielania nieodpłatnej pomocy prawnej i świadczenia nieodpłatnego poradnictwa obywatelskiego oraz osobach uprawnionych do ich otrzymania;
+- **2)** listę jednostek nieodpłatnego poradnictwa, o której mowa w art. 8a ust. 1 ustawy, zawierającą również informacje o tematycznych infoliniach oraz innych formach poradnictwa świadczonego za pośrednictwem środków komunikacji elektronicznej, a także wskazanie punktów usytuowanych w lokalach z dogodnym dostępem dla osób poruszających się na wózkach inwalidzkich;
+- **3)** karty informacyjne poradnictwa dotyczące nieodpłatnej pomocy prawnej, nieodpłatnej mediacji, nieodpłatnego poradnictwa obywatelskiego, o ile jest świadczone w danym powiecie, a także poradnictwa dla osób pokrzywdzonych przestępstwem;
+- **4)** o ile jest to możliwe, karty informacyjne poradnictwa innego typu niż wymienione w pkt 3, dostępnego dla mieszkańców powiatu;
+- **5)** zamkniętą, nieprzezroczystą i oznakowaną urnę, w której osoba uprawniona osobiście umieszcza wypełnioną część B karty pomocy;
+- **6)** informację o możliwości przekazywania przez osoby uprawnione opinii o udzielonej nieodpłatnej pomocy prawnej lub świadczonym nieodpłatnym poradnictwie obywatelskim.
+
 5. Podczas udzielania nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego poradnictwa obywatelskiego, w pomieszczeniu, o którym mowa w ust. 1 pkt 1, przebywają wyłącznie: osoba udzielająca nieodpłatnej pomocy prawnej lub świadcząca nieodpłatne poradnictwo obywatelskie, osoba uprawniona, a także osoby, na których obecność osoba uprawniona wyraziła zgodę.
-§ 6. Karta informacyjna poradnictwa, zawierająca ofertę jednostki nieodpłatnego poradnictwa, o której mowa w art. 5 ust. 5 ustawy, jest sporządzana według wzoru, który jest określony w załączniku nr 1 do rozporządzenia.
-§ 7. 1. Mediator, przystępując do przeprowadzenia mediacji, o której mowa w art. 4a ust. 1 pkt 4 ustawy:
-1) informuje o istocie, zasadach i przebiegu mediacji;
-2) weryfikuje, czy osoba uprawniona wnosząca o przeprowadzenie mediacji oraz druga strona wyrażają zgodę na przystąpienie do mediacji.
+
+**§ 6.** Karta informacyjna poradnictwa, zawierająca ofertę jednostki nieodpłatnego poradnictwa, o której mowa w art. 5 ust. 5 ustawy, jest sporządzana według wzoru, który jest określony w załączniku nr 1 do rozporządzenia.
+
+**§ 7.**
+
+1. Mediator, przystępując do przeprowadzenia mediacji, o której mowa w art. 4a ust. 1 pkt 4 ustawy:
+
+- **1)** informuje o istocie, zasadach i przebiegu mediacji;
+- **2)** weryfikuje, czy osoba uprawniona wnosząca o przeprowadzenie mediacji oraz druga strona wyrażają zgodę na przystąpienie do mediacji.
+
 2. Mediator, przeprowadzając mediację, wspiera strony w znalezieniu przez nie satysfakcjonującego porozumienia.
+
 3. Mediacja może być prowadzona:
-1) z udziałem stron jednocześnie lub
-2) z każdą ze stron osobno, lub
-3) z udziałem stron jednocześnie, a w razie potrzeby z każdą ze stron osobno.
+
+- **1)** z udziałem stron jednocześnie lub
+- **2)** z każdą ze stron osobno, lub
+- **3)** z udziałem stron jednocześnie, a w razie potrzeby z każdą ze stron osobno.
+
 4. Jeśli podczas przeprowadzania mediacji, o której mowa w art. 4a ust. 1 pkt 4 ustawy, doszło do zawarcia porozumienia, mediator spisuje uzgodnienia stron w projekcie ugody i przedkłada stronom.
-5. Na zakończenie mediacji mediator sporządza protokół z przeprowadzonej mediacji, który przekazuje każdej ze stron.
-Jeśli strony w wyniku mediacji zawarły ugodę, stanowi ona załącznik do protokołu.
+
+5. Na zakończenie mediacji mediator sporządza protokół z przeprowadzonej mediacji, który przekazuje każdej ze stron. Jeśli strony w wyniku mediacji zawarły ugodę, stanowi ona załącznik do protokołu.
+
 6. Protokół, o którym mowa w ust. 5, załącza się do karty pomocy po uprzednim usunięciu danych osobowych i wszelkich innych danych umożliwiających identyfikację stron.
-§ 8. 1. Każdy przypadek udzielania nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego poradnictwa obywatelskiego dokumentuje się przez wypełnienie karty pomocy, której wzór jest określony w załączniku nr 2 do rozporządzenia.
-Karta pomocy składa się z części A i części B.
+
+**§ 8.**
+
+1. Każdy przypadek udzielania nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego poradnictwa obywatelskiego dokumentuje się przez wypełnienie karty pomocy, której wzór jest określony w załączniku nr 2 do rozporządzenia. Karta pomocy składa się z części A i części B.
+
 2. W części A karty pomocy zamieszcza się dane dotyczące kategorii sprawy, stanowiącej sprawę zasadniczą, zgodnie z wykazem, który jest określony w załączniku nr 3 do rozporządzenia.
+
 3. Część A karty pomocy wypełnia osoba udzielająca nieodpłatnej pomocy prawnej lub świadcząca nieodpłatne poradnictwo obywatelskie, przy czym pozycje zawierające informacje dotyczące osoby uprawnionej mogą być wypełnione przy udziale tej osoby.
+
 4. Część B karty pomocy, obejmującą opinię osoby uprawnionej o udzielonej nieodpłatnej pomocy prawnej lub świadczonym nieodpłatnym poradnictwie obywatelskim, wypełnia osobiście osoba uprawniona, z wyjątkiem danych zawartych w pkt 1 tej części karty pomocy. Po udzielonej nieodpłatnej pomocy prawnej lub świadczonym nieodpłatnym poradnictwie obywatelskim osobie uprawnionej przekazuje się część B karty pomocy, uprzednio wypełnioną w zakresie danych zawartych w pkt 1, a także opatrzoną pieczątką komórki organizacyjnej starostwa powiatowego obsługującego pod względem organizacyjno-technicznym zadanie, o którym mowa w art. 8 ust. 1 ustawy. Wypełnienie części B karty pomocy, obejmującej opinię osoby uprawnionej, jest dobrowolne.
+
 5. Części B karty pomocy nie przekazuje się osobie uprawnionej w przypadku udzielania nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego poradnictwa obywatelskiego poza punktem lub za pośrednictwem środków porozumiewania się na odległość. Po udzielonej nieodpłatnej pomocy prawnej lub świadczonym nieodpłatnym poradnictwie obywatelskim osobę uprawnioną informuje się o możliwości przekazania anonimowej opinii o udzielonej nieodpłatnej pomocy prawnej lub świadczonym nieodpłatnym poradnictwie obywatelskim pod wskazanym numerem telefonu lub adresem poczty elektronicznej lub listownie, bezpośrednio do komórki organizacyjnej starostwa powiatowego obsługującej pod względem organizacyjno-technicznym zadanie, o którym mowa w art. 8 ust. 1 ustawy. Anonimowa opinia jest dołączana do części B karty pomocy wypełnionej w zakresie danych zawartych w pkt 1. Przepisy ust. 9 oraz § 9 ust. 1 i 2 stosuje się odpowiednio.
+
 6. Część A i B karty pomocy opatruje się danymi o miejscu oraz dacie jej sporządzenia, imieniem i nazwiskiem lub symbolem identyfikującym osobę udzielającą nieodpłatnej pomocy prawnej lub świadczącą nieodpłatne poradnictwo obywatelskie oraz danymi dotyczącymi punktu i dyżuru nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego. Symbol identyfikujący osobę udzielającą nieodpłatnej pomocy prawnej lub świadczącą nieodpłatne poradnictwo obywatelskie składa się z nazwy powiatu, w którym jest zlokalizowany punkt nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego, oraz nadanego przez starostę numeru punktu zlokalizowanego na terenie powiatu i numeru osoby udzielającej nieodpłatnej pomocy prawnej lub świadczącej nieodpłatne poradnictwo obywatelskie w danym punkcie.
+
 7. W przypadku gdy osoba uprawniona wyrazi zgodę na wypełnienie części B karty pomocy, zapewnia się jej miejsce i warunki do anonimowego jej wypełnienia. Osoba uprawniona osobiście umieszcza wypełnioną część B karty pomocy w urnie, o której mowa w § 5 ust. 4 pkt 5. Osoba udzielająca nieodpłatnej pomocy prawnej, osoba świadcząca nieodpłatne poradnictwo obywatelskie i mediator nie mają dostępu do zawartości tej urny.
+
 8. Część A wypełnionej karty pomocy oraz oświadczenie, o którym mowa w art. 4 ust. 2 ustawy, przekazuje się właściwemu staroście w terminie i w sposób, o którym mowa w art. 7 ust. 3 ustawy.
+
 9. Starosta co najmniej raz w miesiącu odbiera części B karty pomocy zgromadzone w urnie, o której mowa w § 5 ust. 4 pkt 5. Zgromadzone w ten sposób opinie, przekazane na formularzach opatrzonych pieczątką komórki organizacyjnej starostwa powiatowego obsługującego pod względem organizacyjno-technicznym zadanie, o którym mowa w art. 8 ust. 1 ustawy, stanowią podstawę przeprowadzenia analizy, o której mowa w art. 7 ust. 5 ustawy, a także są przekazywane do wykorzystania w ramach sprawowanej kontroli nad wykonywaniem umowy przez organizację pozarządową, o której mowa w art. 11 ust. 8 ustawy.
-§ 9. 1. Starosta co najmniej raz w miesiącu przekazuje dziekanom właściwej okręgowej rady adwokackiej lub rady okręgowej izby radców prawnych zawarte w części B kart pomocy opinie osób uprawnionych o udzielonej nieodpłatnej pomocy prawnej, które mogą mieć wpływ na sposób wykonania przez właściwą okręgową radę adwokacką albo właściwą radę okręgowej izby radców prawnych zobowiązania, o którym mowa w art. 10 ust. 1 pkt 2 ustawy.
+
+**§ 9.**
+
+1. Starosta co najmniej raz w miesiącu przekazuje dziekanom właściwej okręgowej rady adwokackiej lub rady okręgowej izby radców prawnych zawarte w części B kart pomocy opinie osób uprawnionych o udzielonej nieodpłatnej pomocy prawnej, które mogą mieć wpływ na sposób wykonania przez właściwą okręgową radę adwokacką albo właściwą radę okręgowej izby radców prawnych zobowiązania, o którym mowa w art. 10 ust. 1 pkt 2 ustawy.
+
 2. Starosta co najmniej raz w miesiącu przekazuje właściwej organizacji pozarządowej zawarte w części B kart pomocy opinie osób uprawnionych o udzielonej nieodpłatnej pomocy prawnej lub świadczonym poradnictwie obywatelskim, które mogą mieć wpływ na sposób realizacji przez organizację standardów obsługi oraz sprawowanie wewnętrznego systemu kontroli jakości nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego z uwzględnieniem treści dokumentu dołączonego do wniosku o wpis na listę, o którym mowa w art. 11d ust. 8 pkt 4 ustawy.
+
 3. Opinie, o których mowa w ust. 1 i 2, są przekazywane drogą elektroniczną.
+
 4. Przed przekazaniem opinii, o których mowa w ust. 1, starosta dokonuje powiązania tych opinii z imieniem i nazwiskiem osoby, która udzielała w danym dniu nieodpłatnej pomocy prawnej podczas dyżuru w punktach powierzonych do prowadzenia adwokatom lub radcom prawnym.
-5. Opinie osób uprawnionych zawarte w części B karty pomocy przekazuje się podmiotom, o których mowa w ust. 1 i 2.
-Starosta usuwa wszelkie dane zawarte w części B karty pomocy, które mogłyby identyfikować osobę uprawnioną, a także nie przekazuje opinii w formie kopii pisma odręcznego osoby uprawnionej.
+
+5. Opinie osób uprawnionych zawarte w części B karty pomocy przekazuje się podmiotom, o których mowa w ust. 1 i 2. Starosta usuwa wszelkie dane zawarte w części B karty pomocy, które mogłyby identyfikować osobę uprawnioną, a także nie przekazuje opinii w formie kopii pisma odręcznego osoby uprawnionej.
+
 6. Karty pomocy, o których mowa w § 8, w tym opinie, mogą być udostępniane wojewodzie i Ministrowi Sprawiedliwości, na ich wniosek stosownie do potrzeb, w szczególności drogą elektroniczną.
-§ 10. 1. W celu dokonania oceny, o której mowa w art. 11d ust. 11 ustawy, wojewoda w sposób losowy dokonuje wyboru co najmniej 1% porad udzielonych w ramach świadczenia nieodpłatnego poradnictwa obywatelskiego z każdego punktu usytuowanego na obszarze powiatów wchodzących w skład danego województwa, które następnie przekazuje doradcy posiadającemu rekomendację podmiotu, o którym mowa w art. 11b ust. 1 ustawy, zlecając mu opracowanie recenzji przekazanych porad.
+
+**§ 10.**
+
+1. W celu dokonania oceny, o której mowa w art. 11d ust. 11 ustawy, wojewoda w sposób losowy dokonuje wyboru co najmniej 1% porad udzielonych w ramach świadczenia nieodpłatnego poradnictwa obywatelskiego z każdego punktu usytuowanego na obszarze powiatów wchodzących w skład danego województwa, które następnie przekazuje doradcy posiadającemu rekomendację podmiotu, o którym mowa w art. 11b ust. 1 ustawy, zlecając mu opracowanie recenzji przekazanych porad.
+
 2. W celu zagwarantowania bezstronności opracowywanych recenzji, wojewoda przekazuje doradcy karty pomocy w sposób uniemożliwiający identyfikację punktu, organizacji prowadzącej punkt oraz osoby świadczącej nieodpłatne poradnictwo obywatelskie w punkcie.
+
 3. Doradca, o którym mowa w ust. 1, przedkłada wojewodzie recenzję obejmującą wnioski sformułowane na podstawie kryteriów:
-1) adekwatności udzielonej porady do indywidualnej sytuacji osoby uprawnionej i rozpoznanego problemu, w tym czy porada jest kompletna pod względem przedstawionych opcji rozwiązań oraz czy w razie potrzeby sporządzono wspólnie z osobą uprawnioną plan działania w celu wsparcia w samodzielnym rozwiązaniu problemu;
-2) prawidłowości udzielonej informacji o uprawnieniach i obowiązkach, w tym w miarę potrzeby trafności wskazania instytucji lub innej jednostki wspierającej w załatwieniu sprawy.
+
+- **1)** adekwatności udzielonej porady do indywidualnej sytuacji osoby uprawnionej i rozpoznanego problemu, w tym czy porada jest kompletna pod względem przedstawionych opcji rozwiązań oraz czy w razie potrzeby sporządzono wspólnie z osobą uprawnioną plan działania w celu wsparcia w samodzielnym rozwiązaniu problemu;
+- **2)** prawidłowości udzielonej informacji o uprawnieniach i obowiązkach, w tym w miarę potrzeby trafności wskazania instytucji lub innej jednostki wspierającej w załatwieniu sprawy.
+
 4. Recenzja może zawierać inne uwagi i wnioski recenzenta.
-5. Termin dokonania oceny, o której mowa w ust. 1, nie może być dłuższy niż miesiąc od dnia otrzymania recenzji.
-Wojewoda przekazuje właściwemu staroście dokonaną ocenę, w szczególności w celu uwzględnienia w bieżących działaniach starosty podejmowanych w ramach kontroli, o której mowa w art. 11 ust. 8 ustawy.
-§ 11. 1. Starosta sporządza zbiorczą informację, o której mowa w art. 12 ust. 1 ustawy, na podstawie kart pomocy przekazanych mu za okres kwartału ze wszystkich punktów nieodpłatnej pomocy prawnej i nieodpłatnego poradnictwa obywatelskiego zlokalizowanych na obszarze powiatu, którą przekazuje, za pośrednictwem właściwego wojewody, Ministrowi Sprawiedliwości, w terminie określonym w art. 12 ust. 1 ustawy. Wzór zbiorczej informacji jest określony w załączniku nr 4 do rozporządzenia.
+
+5. Termin dokonania oceny, o której mowa w ust. 1, nie może być dłuższy niż miesiąc od dnia otrzymania recenzji. Wojewoda przekazuje właściwemu staroście dokonaną ocenę, w szczególności w celu uwzględnienia w bieżących działaniach starosty podejmowanych w ramach kontroli, o której mowa w art. 11 ust. 8 ustawy.
+
+**§ 11.**
+
+1. Starosta sporządza zbiorczą informację, o której mowa w art. 12 ust. 1 ustawy, na podstawie kart pomocy przekazanych mu za okres kwartału ze wszystkich punktów nieodpłatnej pomocy prawnej i nieodpłatnego poradnictwa obywatelskiego zlokalizowanych na obszarze powiatu, którą przekazuje, za pośrednictwem właściwego wojewody, Ministrowi Sprawiedliwości, w terminie określonym w art. 12 ust. 1 ustawy. Wzór zbiorczej informacji jest określony w załączniku nr 4 do rozporządzenia.
+
 2. Właściwy wojewoda przekazuje Ministrowi Sprawiedliwości zbiorcze informacje z poszczególnych powiatów oraz zliczenie tych informacji dla terenu województwa. Zbiorcze informacje mogą być przekazywane drogą elektroniczną.
-§ 12. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-Minister Sprawiedliwości: wz. M. Wójcik Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 15 grudnia 2015 r. w sprawie sposobu udzielania i dokumentowania nieodpłatnej pomocy prawnej (Dz. U. z 2018 r. poz. 318), które traci moc na podstawie art. 17 ustawy z dnia 15 czerwca 2018 r. o zmianie ustawy o nieodpłatnej pomocy prawnej oraz edukacji prawnej oraz niektórych innych Załącznik nr 1 WZÓR z dnia 21 grudnia 2018 r. (poz. ….) Załącznik nr 1 WZÓR KARTA INFORMACYJNA PORADNICTWA ………………………………..………….……………………… Tytuł usługi Opis usługi …………………….……………..………….……………………..….
-Kto może ………………………….………..………….………………………… skorzystać Forma zapisu …………………….………………………...………………………… Inne informacje ……..……………….………………………...…………….………… ……..……………….………………………...…………….………… Jednostka prowadząca adres dni i godziny dyżurów telefon, e-mail, www ………….……...… …………………… ……………………………… …………………… …………………… ……………………………… …………………… …………………… ……………………………… …………………… …………………… ……………………………… …………………… …………………… ……………………………… …………………… …………………… …………………… …………………… …………………… Karta informacyjna poradnictwa może zawierać znaki graficzne lub kolorystykę zgodne z identyfikacją wizualną przyjętą w danym powiecie, regionie lub przez jednostkę organizującą dany rodzaj poradnictwa.
+
+**§ 12.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. Minister Sprawiedliwości: wz. M. Wójcik Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Sprawiedliwości z dnia 15 grudnia 2015 r. w sprawie sposobu udzielania i dokumentowania nieodpłatnej pomocy prawnej (Dz. U. z 2018 r. poz. 318), które traci moc na podstawie art. 17 ustawy z dnia 15 czerwca 2018 r. o zmianie ustawy o nieodpłatnej pomocy prawnej oraz edukacji prawnej oraz niektórych innych ustaw (Dz. U. poz. 1467) z dniem wejścia w życie niniejszego rozporządzenia.
+
+## Załącznik nr 1 — nr 1 WZÓR WZÓR KARTA INFORMACYJNA PORADNICTWA ………………………………..………….……………………… Tytuł usługi Opis usługi …………………….……………..………….……………………..….
+
+Kto może ………………………….………..………….………………………… skorzystać Forma zapisu …………………….………………………...………………………… Inne informacje ……..……………….………………………...…………….………… ……..……………….………………………...…………….………… Jednostka adres dni i godziny dyżurów telefon, e-mail, prowadząca www ………….……...… …………………… ……………………………… …………………… …………………… …………………… ……………………………… …………………… …………………… …………………… ……………………………… …………………… …………………… …………………… ……………………………… …………………… …………………… …………………… ……………………………… …………………… Karta informacyjna poradnictwa może zawierać znaki graficzne lub kolorystykę zgodne z identyfikacją wizualną przyjętą w danym powiecie, regionie lub przez jednostkę organizującą dany rodzaj poradnictwa.
 Na karcie informacyjnej poradnictwa w jej ostatecznej postaci nie uwidacznia się objaśnień oznaczonych pismem pochyłym W przypadku tytułu usługi podaje się jej nazwę lub tematykę lub określa się grupę adresatów poradnictwa.
 W karcie informacyjnej poradnictwa dotyczącej usług świadczonych na podstawie ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2017 r. poz. 2030, z późn. zm.) nie podaje się odrębnych danych o numerze telefonu, adresie poczty elektronicznej czy stronach internetowych podmiotów prowadzących każdy punkt nieodpłatnej pomocy prawnej lub poradnictwa obywatelskiego, a jedynie dane kontaktowe do dokonywania zgłoszeń osób uprawnionych w danym powiecie, w szczególności numer telefonu wskazany przez starostę.
-
-## Załącznik nr 2 — WZÓR Załącznik nr 2 WZÓR KARTA POMOCY część A Zaznaczyć właściwe. Można zaznaczyć kilka odpowiedzi.
-
-Należy wskazać tylko jedną kategorię. W przypadku przedstawienia kilku problemów ściśle ze sobą powiązanych należy wskazać problem zasadniczy. W przypadku przedstawienia kilku różnych niepowiązanych problemów dla każdej sprawy należy wypełnić osobną kartę pomocy i przypisać odpowiednią kategorię.
-Zaznaczyć właściwe. Można zaznaczyć kilka odpowiedzi.
-Dokumentowane dane
+Załącznik Załącznik nr nr 2 2 WZÓR WZÓR KARTA POMOCY – część A Poz. Dokumentowane dane
 1. Dziedzina prawa, z której udzielono nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego :  prawo rodzinne  prawo pracy  sprawa z zakresu rozpoczęcia działalności gospodarczej  prawo cywilne  prawo ubezpieczeń społecznych, prawa do opieki zdrowotnej  prawo administracyjne z wyjątkiem prawa podatkowego  prawo podatkowe  prawo karne  inne
 2. Kategoria sprawy z zakresu nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego zgodnie z trzycyfrowym numerem z wykazu, o którym mowa w § 8 ust. 2 rozporządzenia: …. ….. …..
-3. Forma udzielonej nieodpłatnej pomocy prawnej lub świadczonego nieodpłatnego poradnictwa obywatelskiego :  poinformowanie osoby uprawnionej o obowiązującym stanie prawnym, o przysługujących jej uprawnieniach lub o spoczywających na niej obowiązkach, w tym w związku z toczącym się postępowaniem przygotowawczym, administracyjnym, sądowym lub sądowoadministracyjnym  wskazanie osobie uprawnionej sposobu rozwiązania jej problemu prawnego  sporządzenie projektu pisma w sprawach, o których mowa w art. 3 ust. 1 pkt 1 i 2 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2017 r. poz. 2030, z późn. zm.), z wyłączeniem pism procesowych w toczącym się postępowaniu przygotowawczym lub sądowym i pism w toczącym się postępowaniu sądowoadministracyjnym  sporządzenie projektu pisma o zwolnienie od kosztów sądowych lub ustanowienie pełnomocnika z urzędu w postępowaniu sądowym lub ustanowienie adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego w postępowaniu sądowoadministracyjnym  poinformowanie osoby uprawnionej o obowiązującym stanie prawnym i możliwościach skorzystania z polubownych metod rozwiązywania sporów, w szczególności mediacji  sporządzenie umowy o mediację lub wniosku o przeprowadzenie mediacji  przygotowanie projektu wniosku o przeprowadzenie postępowania mediacyjnego w sprawie karnej  przeprowadzenie mediacji  udzielenie pomocy w sporządzeniu do sądu wniosku o zatwierdzenie ugody zawartej przed mediatorem  porada obywatelska  porada obywatelska ze sporządzeniem wspólnie z osobą uprawnioną planu działania  przekazanie osobie uprawnionej informacji o innych jednostkach nieodpłatnego poradnictwa, o których mowa w art. 5 ust. 4 ustawy z dnia 5 sierpnia 2015 r.
-o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej tematyka poradnictwa, o której poinformowano:  rodzinne  prawa pacjenta  psychologiczne  ubezpieczenia społeczne  pedagogiczne  prawo podatkowe  z zakresu pomocy społecznej  prawo pracy  rozwiązywanie problemów  dla osób bezrobotnych alkoholowych i innych uzależnień  przeciwdziałanie przemocy  dla osób w sporze z podmiotami w rodzinie rynku finansowego Rubryka nie dotyczy odbytych spotkań mediacyjnych i sporządzania wniosku o zatwierdzenie ugody przez sąd, o których mowa w art. 4a ust. 1 pkt 4 i pkt 5 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej, które dokumentuje się w rubryce nr 5.1.
-Rubryki 5.1-5.3 wypełnić jednorazowo, po zakończeniu wszystkich spotkań mediacyjnych.
- poradnictwo w ramach interwencji  dla osób pokrzywdzonych kryzysowej przestępstwem  prawa konsumenta  inne  prawa dziecka
+3. Forma udzielonej nieodpłatnej pomocy prawnej lub świadczonego nieodpłatnego poradnictwa obywatelskiego :  poinformowanie osoby uprawnionej o obowiązującym stanie prawnym, o przysługujących jej uprawnieniach lub o spoczywających na niej obowiązkach, w tym w związku z toczącym się postępowaniem przygotowawczym, administracyjnym, sądowym lub sądowoadministracyjnym  wskazanie osobie uprawnionej sposobu rozwiązania jej problemu prawnego  sporządzenie projektu pisma w sprawach, o których mowa w art. 3 ust. 1 pkt 1 i 2 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym Zaznaczyć właściwe. Można zaznaczyć kilka odpowiedzi.
+Należy wskazać tylko jedną kategorię. W przypadku przedstawienia kilku problemów ściśle ze sobą powiązanych należy wskazać problem zasadniczy. W przypadku przedstawienia kilku różnych niepowiązanych problemów dla każdej sprawy należy wypełnić osobną kartę pomocy i przypisać odpowiednią kategorię.
+Zaznaczyć właściwe. Można zaznaczyć kilka odpowiedzi.
+poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2017 r. poz. 2030, z późn. zm.), z wyłączeniem pism procesowych w toczącym się postępowaniu przygotowawczym lub sądowym i pism w toczącym się postępowaniu sądowoadministracyjnym  sporządzenie projektu pisma o zwolnienie od kosztów sądowych lub ustanowienie pełnomocnika z urzędu w postępowaniu sądowym lub ustanowienie adwokata, radcy prawnego, doradcy podatkowego lub rzecznika patentowego w postępowaniu sądowoadministracyjnym  poinformowanie osoby uprawnionej o obowiązującym stanie prawnym i możliwościach skorzystania z polubownych metod rozwiązywania sporów, w szczególności mediacji  sporządzenie umowy o mediację lub wniosku o przeprowadzenie mediacji  przygotowanie projektu wniosku o przeprowadzenie postępowania mediacyjnego w sprawie karnej  przeprowadzenie mediacji  udzielenie pomocy w sporządzeniu do sądu wniosku o zatwierdzenie ugody zawartej przed mediatorem  porada obywatelska  porada obywatelska ze sporządzeniem wspólnie z osobą uprawnioną planu działania  przekazanie osobie uprawnionej informacji o innych jednostkach nieodpłatnego poradnictwa, o których mowa w art. 5 ust. 4 ustawy z dnia 5 sierpnia 2015 r.
+o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej – tematyka poradnictwa, o której poinformowano:  rodzinne  prawa pacjenta  psychologiczne  ubezpieczenia społeczne  pedagogiczne  prawo podatkowe  z zakresu pomocy społecznej  prawo pracy  rozwiązywanie problemów  dla osób bezrobotnych alkoholowych i innych uzależnień  przeciwdziałanie przemocy  dla osób w sporze z podmiotami w rodzinie rynku finansowego  poradnictwo w ramach interwencji  dla osób pokrzywdzonych kryzysowej przestępstwem  prawa konsumenta  inne  prawa dziecka
 4. Czas poświęcony na udzielenie nieodpłatnej pomocy prawnej lub świadczenie nieodpłatnego poradnictwa obywatelskiego w sprawie zgłoszonej podczas danej wizyty, z uwzględnieniem łącznego nakładu czasu na wizytę i bezpośrednią obsługę osoby uprawnionej oraz na inne czynności, w tym analizę i sporządzanie projektu pisma:  do 15 min.  powyżej 2 godz. do 3 godz.
  powyżej 15 min. do 30 min.  powyżej 3 godz. do 4 godz.
  powyżej 30 min. do 45 min.  powyżej 4 godz. do 5 godz.
@@ -125,34 +185,36 @@ Rubryki 5.1-5.3 wypełnić jednorazowo, po zakończeniu wszystkich spotkań medi
  powyżej 1 godz. do 2 godz.  powyżej 8 godz. do 9 godz.
  powyżej 2 godz. do 3 godz.  powyżej 9 godz. do 10 godz.
  powyżej 3 godz. do 4 godz.  powyżej 10 godz. do 11 godz.
-Poza wszelkimi danymi osobowymi należy również pominąć opis wszystkich faktów, które mogą bezsprzecznie identyfikować osobę, np. faktów znanych publicznie.
+Rubryka nie dotyczy odbytych spotkań mediacyjnych i sporządzania wniosku o zatwierdzenie ugody przez sąd, o których mowa w art. 4a ust. 1 pkt 4 i pkt 5 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej, które dokumentuje się w rubryce nr 5.1.
+Rubryki 5.1-5.3 wypełnić jednorazowo, po zakończeniu wszystkich spotkań mediacyjnych.
  powyżej 4 godz. do 5 godz.  powyżej 11 godz. do 12 godz.
  powyżej 5 godz. do 6 godz.  powyżej 12 godz.
 5.2 Liczba wszystkich spotkań mediacyjnych (jw.):  1  4  7 lub więcej  2  5  3  6
 5.3 Czy w wyniku mediacji zawarto ugodę:  TAK  NIE
-6. ANONIMOWY OPIS SPRAWY DO NIEODPŁATNEJ POMOCY PRAWNEJ LUB PORADNICTWA OBYWATELSKIEGO (opcjonalnie można załączyć pod warunkiem uprzedniej anonimizacji opis sprawy sporządzony na osobnej kartce papieru lub dokumentację otrzymaną od osoby uprawnionej podczas udzielania nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego poradnictwa obywatelskiego) Poza wszelkimi danymi osobowymi należy również pominąć opis wszystkich faktów, które mogą bezsprzecznie identyfikować osobę, np. faktów znanych publicznie. W przypadku przeprowadzenia nieodpłatnej mediacji załącza się protokół z przeprowadzonej mediacji wraz z ugodą, o ile została zawarta.
-7. ANONIMOWY OPIS UDZIELONEJ NIEODPŁATNEJ POMOCY PRAWNEJ LUB ŚWIADCZONEGO NIEODPŁATNEGO PORADNICTWA OBYWATELSKIEGO (opcjonalnie można załączyć pod warunkiem uprzedniej anonimizacji opis sporządzony na osobnej kartce papieru lub dokumentację sporządzoną podczas udzielania nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego poradnictwa obywatelskiego)
+6. ANONIMOWY OPIS SPRAWY DO NIEODPŁATNEJ POMOCY PRAWNEJ LUB PORADNICTWA OBYWATELSKIEGO (opcjonalnie można załączyć – pod warunkiem uprzedniej anonimizacji – opis sprawy sporządzony na osobnej kartce papieru lub dokumentację otrzymaną od osoby uprawnionej podczas udzielania nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego poradnictwa obywatelskiego) Poza wszelkimi danymi osobowymi należy również pominąć opis wszystkich faktów, które mogą bezsprzecznie identyfikować osobę, np. faktów znanych publicznie.
+7. ANONIMOWY OPIS UDZIELONEJ NIEODPŁATNEJ POMOCY PRAWNEJ LUB ŚWIADCZONEGO NIEODPŁATNEGO PORADNICTWA OBYWATELSKIEGO (opcjonalnie można załączyć – pod warunkiem uprzedniej anonimizacji – opis sporządzony na osobnej kartce papieru lub dokumentację sporządzoną podczas udzielania nieodpłatnej pomocy prawnej lub świadczenia nieodpłatnego poradnictwa obywatelskiego) Poza wszelkimi danymi osobowymi należy również pominąć opis wszystkich faktów, które mogą bezsprzecznie identyfikować osobę, np. faktów znanych publicznie. W przypadku przeprowadzenia nieodpłatnej mediacji załącza się protokół z przeprowadzonej mediacji wraz z ugodą, o ile została zawarta.
 8. DODATKOWE ADNOTACJE Informacje dotyczące osoby uprawnionej
-9. W przypadku pomocy prawnej lub porady obywatelskiej w sprawie kontynuowanej podczas kolejnych spotkań kolejny numer wizyty osoby uprawnionej w tej samej sprawie, według oświadczenia osoby uprawnionej:  1  4  7 lub więcej  2  5  3  6
+9. W przypadku pomocy prawnej lub porady obywatelskiej w sprawie kontynuowanej podczas kolejnych spotkań – kolejny numer wizyty osoby uprawnionej w tej samej sprawie, według oświadczenia osoby uprawnionej:  1  4  7 lub więcej  2  5  3  6
 10. Wiek osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego:  do 18 roku życia  powyżej 55 do 60 lat  powyżej 18 do 25 lat  powyżej 60 do 65 lat  powyżej 25 do 35 lat  powyżej 65 do 75 lat  powyżej 35 do 45 lat  powyżej 75 do 85 lat  powyżej 45 do 55 lat  powyżej 85 lat
 11. Płeć osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego:  kobieta  mężczyzna
 12. Wykształcenie osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego:  wyższe II stopnia  zasadnicze zawodowe  wyższe I stopnia (inżynier, licencjat)  gimnazjalne  policealne  podstawowe  średnie zawodowe  pozostałe  średnie ogólnokształcące
-13. Średni miesięczny dochód netto na osobę w gospodarstwie domowym osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego:  bez dochodu  powyżej 1000 zł do 1500 zł  do 600 zł  powyżej 1500 zł do 2000 zł  powyżej 600 zł do 1000 zł  powyżej 2000 zł Zaznaczyć właściwe. Można zaznaczyć kilka odpowiedzi.
-Jednocześnie osoba udzielająca nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego okazuje osobie uprawnionej „Kartę pomocy-część B” z prośbą o dobrowolne anonimowe jej wypełnienie i umieszczenie karty w wyznaczonym miejscu.
+13. Średni miesięczny dochód netto na osobę w gospodarstwie domowym osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego:  bez dochodu  powyżej 1000 zł do 1500 zł  do 600 zł  powyżej 1500 zł do 2000 zł  powyżej 600 zł do 1000 zł  powyżej 2000 zł
 14. Źródło dochodu w gospodarstwie domowym :  praca  świadczenie przedemerytalne  prowadzący działalność gospodarczą  alimenty  na utrzymaniu rodziny  zasiłek dla bezrobotnych/stypendium  emerytura finansowane z Funduszu Pracy  renta z tytułu niezdolności do pracy  zasiłki  renta socjalna  stypendia dla uczących się  renta rodzinna  inne
 15. Liczba członków gospodarstwa domowego osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego:  1  4  7 lub więcej  2  5  3  6
 16. Miejsce zamieszkania osoby korzystającej z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego:  wieś  miasto do 10 000 mieszkańców  miasto powyżej 10 000 do 25 000 mieszkańców  miasto powyżej 25 000 do 100 000 mieszkańców  miasto powyżej 100 000 mieszkańców
-17. Osoba korzystająca z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego :  wyraziła zgodę na anonimowe przekazanie swojej opinii odnośnie do udzielonej pomocy prawnej i poradnictwa obywatelskiego poprzez wypełnienie i przekazanie części B karty pomocy  nie wyraziła zgody na wypełnienie i przekazanie części B karty pomocy Rubryka opcjonalna.
-Zaznaczyć tylko w przypadkach, gdy porada nie była udzielana w trakcie wizyty osoby uprawnionej w punkcie.
+17. Osoba korzystająca z nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego :  wyraziła zgodę na anonimowe przekazanie swojej opinii odnośnie do udzielonej pomocy prawnej i poradnictwa obywatelskiego poprzez wypełnienie i przekazanie części B karty pomocy  nie wyraziła zgody na wypełnienie i przekazanie części B karty pomocy Zaznaczyć właściwe. Można zaznaczyć kilka odpowiedzi.
+Jednocześnie osoba udzielająca nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego okazuje osobie uprawnionej „Kartę pomocy-część B” z prośbą o dobrowolne anonimowe jej wypełnienie i umieszczenie karty w wyznaczonym miejscu.
 18. Nr lub inne oznaczenie porady : …………
 19. Dane dotyczące punktu i dyżuru Miejscowość ………………………. ulica i nr domu ……………………………..… Data …………………..…………… Imię i nazwisko lub symbol identyfikujący osobę udzielającą pomocy prawnej lub poradnictwa obywatelskiego (w formule: Nazwa powiatu/Numer punktu w powiecie/Numer osoby w danym punkcie) …………………………………………………………………………………………..
 Punkt …………………………………………….. prowadzony przez:  adwokatów  radców prawnych  organizację pozarządową o nazwie …….……………..…………………………… Dyżur:  nieodpłatnej pomocy prawnej  nieodpłatnego poradnictwa obywatelskiego
-20. Inne miejsce lub szczególna forma udzielania nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego :  telefonicznie  pocztą elektroniczną  przez komunikator internetowy  w formie wideorozmowy  w miejscu zamieszkania osoby, która nie mogła przybyć osobiście w miejscu wyposażonym w odpowiednie urządzenie, uławiające porozumiewanie się z osobami doświadczającymi trudności w komunikowaniu się  w miejscu z dostępnym wsparciem tłumacza języka migowego  inne „Kartę pomocy-część B” osoba udzielająca nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego na koniec wizyty w punkcie (albo na zakończenie wszystkich spotkań mediacyjnych) przekazuje osobie uprawnionej z prośbą o dobrowolne anonimowe jej wypełnienie i umieszczenie karty w wyznaczonym miejscu.
-Strona 1 „Karty pomocy-część B” drukowana jest jednostronnie, strony 2 i 3 dwustronnie.
-KARTA POMOCY część B 12 Szanowna Pani/Szanowny Panie, uprzejmie prosimy o dokonanie anonimowej oceny udzielonej nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego. Pani/Pana opinia posłuży analizie i sformułowaniu wniosków na temat działalności punktu.
+20. Inne miejsce lub szczególna forma udzielania nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego :  telefonicznie  pocztą elektroniczną  przez komunikator internetowy  w formie wideorozmowy  w miejscu zamieszkania osoby, która nie mogła przybyć osobiście w miejscu wyposażonym w odpowiednie urządzenie, uławiające porozumiewanie się z osobami doświadczającymi trudności w komunikowaniu się  w miejscu z dostępnym wsparciem tłumacza języka migowego  inne Rubryka opcjonalna.
+Zaznaczyć tylko w przypadkach, gdy porada nie była udzielana w trakcie wizyty osoby uprawnionej w punkcie.
+KARTA POMOCY – część B 12 Szanowna Pani/Szanowny Panie, uprzejmie prosimy o dokonanie anonimowej oceny udzielonej nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego. Pani/Pana opinia posłuży analizie i sformułowaniu wniosków na temat działalności punktu.
 Dziękujemy za czas poświęcony na wypełnienie ankiety!
 1. Dane dotyczące punktu i dyżuru Miejscowość ………………………. ulica i nr domu ……………………………..… Data …………………..…………… Imię i nazwisko lub symbol identyfikujący osobę udzielającą pomocy prawnej lub poradnictwa obywatelskiego (w formule: Nazwa powiatu/Numer punktu w powiecie/Numer osoby w danym punkcie) …………………………………………………………………………………………..
-Punkt …………………………………………….. prowadzony przez:  adwokatów  radców prawnych  organizację pozarządową o nazwie …….……………..…………………….……… Dyżur:  nieodpłatnej pomocy prawnej  nieodpłatnego poradnictwa obywatelskiego Inne miejsce lub szczególna forma:  za pośrednictwem środków porozumiewania się na odległość  poza punktem OPINIA
+Punkt …………………………………………….. prowadzony przez:  adwokatów  radców prawnych  organizację pozarządową o nazwie …….……………..…………………….……… Dyżur:  nieodpłatnej pomocy prawnej  nieodpłatnego poradnictwa obywatelskiego Inne miejsce lub szczególna forma:  za pośrednictwem środków porozumiewania się na odległość  poza punktem „Kartę pomocy-część B” osoba udzielająca nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego na koniec wizyty w punkcie (albo na zakończenie wszystkich spotkań mediacyjnych) przekazuje osobie uprawnionej z prośbą o dobrowolne anonimowe jej wypełnienie i umieszczenie karty w wyznaczonym miejscu.
+Strona 1 „Karty pomocy-część B” drukowana jest jednostronnie, strony 2 i 3 – dwustronnie.
+OPINIA
 2. Czy spotkał(a) się Pan(i) z życzliwym przyjęciem w punkcie?
  zdecydowanie tak (uprzejmy sposób obsługi)  raczej tak  raczej nie  zdecydowanie nie (nieuprzejmy sposób obsługi)
 3. Czy informacje zostały przedstawione w sposób zrozumiały?
@@ -162,17 +224,17 @@ Punkt …………………………………………….. prowadzony przez: �
 5. Czy lokal, w którym zorganizowany jest punkt, jest dogodnie położony?
  zdecydowanie tak  raczej tak  raczej nie  zdecydowanie nie
 6. Czy lokal, w którym zorganizowany jest punkt, jest czytelnie oznakowany?
- zdecydowanie tak  raczej tak  raczej nie  zdecydowanie nie [Miejsce na oznaczenie pieczątką komórki organizacyjnej starostwa powiatowego obsługującej pod względem organizacyjno-technicznym realizację zadania polegającego na udzielaniu nieodpłatnej pomocy prawnej lub świadczeniu nieodpłatnego poradnictwa obywatelskiego]
+ zdecydowanie tak  raczej tak  raczej nie  zdecydowanie nie
 7. Czy został(a) Pan(i) przyjęty(-ta) w punkcie w umówionym terminie?
  zdecydowanie tak  raczej tak  raczej nie  zdecydowanie nie
 8. Skąd dowiedział(a) się Pan(i) o działalności punktu?
- inni klienci punktów  prasa  internet  radio  plakaty  telewizja  ulotki lub broszury  w inny sposób jaki?
+ inni klienci punktów  prasa  internet  radio  plakaty  telewizja  ulotki lub broszury  w inny sposób – jaki?
 …………………………………..
 9. Uwagi własne i ewentualnie propozycje usprawnień działalności …………………………………………………………………………………… …………………………………………………………………………………… …………………………………………………………………………………… ……………………………………………………………………………………
 10. Czy zgadza się Pan(i) na udostępnienie numeru telefonu kontaktowego w celu zasięgnięcia opinii o udzielonej nieodpłatnej pomocy prawnej lub nieodpłatnym poradnictwie obywatelskim?
- tak proszę o wpisanie numeru telefonu: ………………………………………  nie Wypełnioną ankietę prosimy złożyć bezpośrednio do specjalnie przygotowanej urny przeznaczonej na opinie.
+ tak – proszę o wpisanie numeru telefonu: ………………………………………  nie Wypełnioną ankietę prosimy złożyć bezpośrednio do specjalnie przygotowanej urny przeznaczonej na opinie.
 Dziękujemy!
-LUB NIEODPŁATNEGO PORADNICTWA OBYWATELSKIEGO
+[Miejsce na oznaczenie pieczątką komórki organizacyjnej starostwa powiatowego obsługującej pod względem organizacyjno-technicznym realizację zadania polegającego na udzielaniu nieodpłatnej pomocy prawnej lub świadczeniu nieodpłatnego poradnictwa obywatelskiego] Załącznik nr 3 KATEGORIE SPRAW Z ZAKRESU NIEODPŁATNEJ POMOCY PRAWNEJ Załącznik nr 3 LUB NIEODPŁATNEGO PORADNICTWA OBYWATELSKIEGO KATEGORIE SPRAW Z ZAKRESU NIEODPŁATNEJ POMOCY PRAWNEJ LUB NIEODPŁATNEGO PORADNICTWA OBYWATELSKIEGO
 1. LOKAL MIESZKALNY
 1.1. Brak lokalu mieszkalnego
 1.1.1. warunki uzyskania lokalu mieszkalnego
@@ -207,7 +269,7 @@ LUB NIEODPŁATNEGO PORADNICTWA OBYWATELSKIEGO
 1.6.1. możliwości przekazania tytułu prawnego do lokalu mieszkalnego
 1.6.2. wynajem całości lub części lokalu mieszkalnego niebędącego własnością
 1.6.3. użyczenie całości lub części lokalu mieszkalnego niebędącego własnością
-1.6.4. inne Załącznik nr 3 KATEGORIE SPRAW Z ZAKRESU NIEODPŁATNEJ POMOCY PRAWNEJ LUB NIEODPŁATNEGO PORADNICTWA OBYWATELSKIEGO
+1.6.4. inne
 1.7. Uzyskanie prawa własności do lokalu mieszkalnego
 1.7.1. procedury związane z uzyskaniem prawa własności lokalu mieszkalnego
 1.7.2. wstrzymanie lub odmowa przekształcenia prawa do lokalu mieszkalnego
@@ -222,7 +284,7 @@ LUB NIEODPŁATNEGO PORADNICTWA OBYWATELSKIEGO
 1.9.1. inne.
 2. PRZESTĘPSTWA I WYKROCZENIA
 2.1. Pokrzywdzeni
-2.1.1. uprawnienia i obowiązki, procedury w postępowaniu przygotowawczym, sądowym i wykonawczym, w sprawach o wykroczenia (w tym bezpłatna pomoc tłumacza)
+2.1.1. uprawnienia i obowiązki, procedury – w postępowaniu przygotowawczym, sądowym i wykonawczym, w sprawach o wykroczenia (w tym bezpłatna pomoc tłumacza)
 2.1.2. osoba małoletnia, ubezwłasnowolniona, nieporadna
 2.1.3. pełnomocnik pokrzywdzonego
 2.1.4. oskarżyciel posiłkowy
@@ -230,13 +292,13 @@ LUB NIEODPŁATNEGO PORADNICTWA OBYWATELSKIEGO
 2.1.6. naprawienie szkody, zadośćuczynienie, nawiązka odszkodowanie, kompensata
 2.1.7. inne
 2.2. Świadkowie
-2.2.1. uprawnienia i obowiązki, procedury w postępowaniu przygotowawczym, sądowym i wykonawczym, w sprawach o wykroczenia
+2.2.1. uprawnienia i obowiązki, procedury – w postępowaniu przygotowawczym, sądowym i wykonawczym, w sprawach o wykroczenia
 2.2.2. osoba małoletnia
 2.2.3. przesłuchanie w miejscu pobytu, na odległość, z wyłączeniem jawności
 2.2.4. prawo odmowy złożenia zeznań
 2.2.5. inne
 2.3. Podejrzani, oskarżeni i obwinieni
-2.3.1. uprawnienia i obowiązki, procedury w postępowaniu przygotowawczym, sądowym i wykonawczym, w sprawach o wykroczenia (w tym bezpłatna pomoc tłumacza)
+2.3.1. uprawnienia i obowiązki, procedury – w postępowaniu przygotowawczym, sądowym i wykonawczym, w sprawach o wykroczenia (w tym bezpłatna pomoc tłumacza)
 2.3.2. obrońca z urzędu
 2.3.3. środki przymusu wraz z środkami zapobiegawczymi (w tym zabezpieczenie majątkowe, zatrzymanie, tymczasowe aresztowanie, dozór policji, zmiana środka, zmiana, uchylenia, przedłużanie środka)
 2.3.4. postępowania szczególne
@@ -618,12 +680,12 @@ LUB NIEODPŁATNEGO PORADNICTWA OBYWATELSKIEGO
 12.1.2. błędy w dokumentach
 12.1.3. potwierdzenie miejsca zamieszkania (w tym zameldowanie)
 12.1.4. inne
-12.2. Postępowanie przed organem lub urzędem (kategoria dotyczy jedynie zapytań o charakterze ogólnym w każdym przypadku, gdy osoba uprawniona ujawnia konkretną tematykę sprawy sądowej lub urzędowej, należy ją skategoryzować pod numerem odpowiedniej kategorii tematycznej z rozdziałów 1–11)
+12.2. Postępowanie przed organem lub urzędem (kategoria dotyczy jedynie zapytań o charakterze ogólnym – w każdym przypadku, gdy osoba uprawniona ujawnia konkretną tematykę sprawy sądowej lub urzędowej, należy ją skategoryzować pod numerem odpowiedniej kategorii tematycznej z rozdziałów 1–11)
 12.2.1. nieznajomość treści przepisów
 12.2.2. procedura (w tym terminy, doręczanie, odwołania, wgląd w dokumentację sprawy, wznowienie postępowania, koszty)
 12.2.3. jakość obsługi (w tym skargi na urzędników)
 12.2.4. inne
-12.3. Postępowanie przed sądem (kategoria dotyczy jedynie zapytań o charakterze ogólnym w każdym przypadku, gdy osoba uprawniona ujawnia konkretną tematykę sprawy sądowej lub urzędowej, należy ją skategoryzować pod numerem odpowiedniej kategorii tematycznej z rozdziałów 1–11)
+12.3. Postępowanie przed sądem (kategoria dotyczy jedynie zapytań o charakterze ogólnym – w każdym przypadku, gdy osoba uprawniona ujawnia konkretną tematykę sprawy sądowej lub urzędowej, należy ją skategoryzować pod numerem odpowiedniej kategorii tematycznej z rozdziałów 1–11)
 12.3.1. nieznajomość treści przepisów
 12.3.2. możliwość zmiany orzeczenia sądu
 12.3.3. procedura sądowa (w tym terminy, doręczenia, reprezentowanie przez członka rodziny, pełnomocnik z urzędu, koszty)
@@ -637,9 +699,8 @@ LUB NIEODPŁATNEGO PORADNICTWA OBYWATELSKIEGO
 12.5. Inne
 12.5.1. inne.
 
-## Załącznik nr 4 — WZÓR ZBIORCZA INFORMACJA o wykonaniu zadania polegającego na udzielaniu nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego oraz edukacji prawnej sporządzona przez Starostę ……………………/Prezydenta Miasta …………………… za …… kwartał …….… roku Lp.
+## Załącznik nr 4 — WZÓR Załącznik nr 4 WZÓR ZBIORCZA INFORMACJA o wykonaniu zadania polegającego na udzielaniu nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego oraz edukacji prawnej sporządzona przez Starostę ……………………/Prezydenta Miasta …………………… za …… kwartał …….… roku Lp. Liczba w punktach prowadzonych przez adwokatów organizacje pozarządowe lub radców Rodzaj danych prawnych pomoc pomoc poradnictwo prawna prawna obywatelskie I. ZADANIA Z ZAKRESU NIEODPŁATNEJ POMOCY PRAWNEJ LUB NIEODPŁATNEGO PORADNICTWA OBYWATELSKIEGO
 
-Rodzaj danych Liczba w punktach prowadzonych przez adwokatów organizacje pozarządowe lub radców prawnych pomoc prawna pomoc prawna poradnictwo obywatelskie I. ZADANIA Z ZAKRESU NIEODPŁATNEJ POMOCY PRAWNEJ LUB NIEODPŁATNEGO PORADNICTWA OBYWATELSKIEGO
 1. Liczba osób (kart), którym udzielono pomocy
 1.1. liczba osób (kart), którym udzielono pomocy
 2. Dziedzina prawa, której dotyczyła nieodpłatna pomoc prawna
@@ -652,7 +713,7 @@ Rodzaj danych Liczba w punktach prowadzonych przez adwokatów organizacje pozarz
 2.7. prawo podatkowe
 2.8. prawo karne
 2.9. inne
-3. Kategoria sprawy, z której udzielono nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego (wyszczególnić liczbę spraw zgłaszanych w poszczególnych kategoriach spraw, o których mowa w § 8 ust. 2 rozporządzenia) Załącznik nr 4 WZÓR
+3. Kategoria sprawy, z której udzielono nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego (wyszczególnić liczbę spraw zgłaszanych w poszczególnych kategoriach spraw, o których mowa w § 8 ust. 2 rozporządzenia)
 3.1. LOKAL MIESZKALNY
 3.1.1. Brak lokalu mieszkalnego
 3.1.1.1. warunki uzyskania lokalu mieszkalnego
@@ -702,7 +763,7 @@ Rodzaj danych Liczba w punktach prowadzonych przez adwokatów organizacje pozarz
 3.1.9.1. Inne
 3.2. PRZESTĘPSTWA I WYKROCZENIA
 3.2.1. Pokrzywdzeni
-3.2.1.1. uprawnienia i obowiązki, procedury w postępowaniu przygotowawczym, sądowym i wykonawczym, w sprawach o wykroczenia (w tym bezpłatna pomoc tłumacza)
+3.2.1.1. uprawnienia i obowiązki, procedury – w postępowaniu przygotowawczym, sądowym i wykonawczym, w sprawach o wykroczenia (w tym bezpłatna pomoc tłumacza)
 3.2.1.2. osoba małoletnia, ubezwłasnowolniona, nieporadna
 3.2.1.3. pełnomocnik pokrzywdzonego
 3.2.1.4. oskarżyciel posiłkowy
@@ -710,13 +771,13 @@ Rodzaj danych Liczba w punktach prowadzonych przez adwokatów organizacje pozarz
 3.2.1.6. naprawienie szkody, zadośćuczynienie, nawiązka odszkodowanie, kompensata
 3.2.1.7. inne
 3.2.2. Świadkowie
-3.2.2.1. uprawnienia i obowiązki, procedury w postępowaniu przygotowawczym, sądowym i wykonawczym, w sprawach o wykroczenia
+3.2.2.1. uprawnienia i obowiązki, procedury – w postępowaniu przygotowawczym, sądowym i wykonawczym, w sprawach o wykroczenia
 3.2.2.2. osoba małoletnia
 3.2.2.3. przesłuchanie w miejscu pobytu, na odległość, z wyłączeniem jawności
 3.2.2.4. prawo odmowy złożenia zeznań
 3.2.2.5. inne
 3.2.3. Podejrzani, oskarżeni i obwinieni
-3.2.3.1. uprawnienia i obowiązki, procedury w postępowaniu przygotowawczym, sądowym i wykonawczym, w sprawach o wykroczenia (w tym bezpłatna pomoc tłumacza)
+3.2.3.1. uprawnienia i obowiązki, procedury – w postępowaniu przygotowawczym, sądowym i wykonawczym, w sprawach o wykroczenia (w tym bezpłatna pomoc tłumacza)
 3.2.3.2. obrońca z urzędu
 3.2.3.3. środki przymusu wraz z środkami zapobiegawczymi (w tym zabezpieczenie majątkowe, zatrzymanie, tymczasowe aresztowanie, dozór policji, zmiana środka, zmiana, uchylenia, przedłużanie środka)
 3.2.3.4. postępowania szczególne
@@ -1128,7 +1189,7 @@ Rodzaj danych Liczba w punktach prowadzonych przez adwokatów organizacje pozarz
 4.9. udzielenie pomocy w sporządzeniu do sądu wniosku o zatwierdzenie ugody zawartej przed mediatorem
 4.10. porada obywatelska
 4.11. porada obywatelska ze sporządzeniem wspólnie z osobą uprawnioną planu działania
-4.12. przekazanie osobie uprawnionej informacji o innych jednostkach poradnictwa, o których mowa w art. 5 ust. 4 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej podać ile razy wskazywano tematy poradnictwa, wg kategorii z poniższej listy
+4.12. przekazanie osobie uprawnionej informacji o innych jednostkach poradnictwa, o których mowa w art. 5 ust. 4 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej – podać ile razy wskazywano tematy poradnictwa, wg kategorii z poniższej listy
 4.12.1. rodzinne
 4.12.2. psychologiczne
 4.12.3. pedagogiczne
@@ -1188,7 +1249,7 @@ o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edu
 6.3.1. tak
 6.3.2. nie
 7. Informacje dotyczące osób uprawnionych
-7.1. W przypadku pomocy prawnej lub porady obywatelskiej w sprawie kontynuowanej podczas kolejnych spotkań kolejny numer wizyty osoby uprawnionej w tej samej sprawie wg oświadczenia osoby uprawnionej
+7.1. W przypadku pomocy prawnej lub porady obywatelskiej w sprawie kontynuowanej podczas kolejnych spotkań – kolejny numer wizyty osoby uprawnionej w tej samej sprawie wg oświadczenia osoby uprawnionej
 7.1.1. 1
 7.1.2. 2
 7.1.3. 3
@@ -1256,8 +1317,8 @@ o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edu
 13.4. miasto powyżej 25 000 do 100 000 mieszkańców
 13.5. miasto powyżej 100 000 mieszkańców
 14. Dane dotyczące zgód na wyrażenie opinii o działalności nieodpłatnej pomocy prawnej i poradnictwa obywatelskiego
-14.1. Liczba osób, które wyraziły zgodę na wyrażenie opinii przez wypełnienie karty pomocy części B
-14.2. Liczba osób, które NIE wyraziły zgody na wyrażenie opinii przez wypełnienie karty pomocy części B
+14.1. Liczba osób, które wyraziły zgodę na wyrażenie opinii przez wypełnienie karty pomocy – części B
+14.2. Liczba osób, które NIE wyraziły zgody na wyrażenie opinii przez wypełnienie karty pomocy – części B
 15. Inne miejsce lub szczególna forma udzielania nieodpłatnej pomocy prawnej lub nieodpłatnego poradnictwa obywatelskiego
 15.1. telefonicznie
 15.2. pocztą elektroniczną
@@ -1308,7 +1369,7 @@ o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edu
 22.8. w inny sposób
 23. Liczba osób, które w ramach opinii zgłosiły uwagi własne i ewentualnie propozycje usprawnień działalności
 24. Liczba osób, które zgodziły się na udostępnienie numeru telefonu kontaktowego w celu zasięgnięcia szerszej opinii o udzielonej pomocy prawnej lub poradzie obywatelskiej II. REALIZACJA ZADAŃ Z ZAKRESU EDUKACJI PRAWNEJ
-1. Liczba i formy zrealizowanych zadań z zakresu edukacji prawnej wypełnić, o ile w danym kwartale zadania takie były zrealizowane
+1. Liczba i formy zrealizowanych zadań z zakresu edukacji prawnej – wypełnić, o ile w danym kwartale zadania takie były zrealizowane
 1.1. Liczba zrealizowanych zadań z zakresu edukacji prawnej w kwartale, według ich form w tym:
 1.1.1. wykłady
 1.1.2. warsztaty
@@ -1318,7 +1379,7 @@ o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edu
 1.1.6. publikacje w mediach
 1.1.7. kampania społeczna
 1.1.8. inne formy
-1.2. Tematyka zadań z zakresu edukacji prawnej realizowanych w danym kwartale podać liczbę przedsięwzięć z zakresu edukacji prawnej o danej tematyce (przypisać do każdej rubryki tematycznej liczbę przedsięwzięć realizowanych w danym kwartale; jeśli dane przedsięwzięcie obejmowało więcej niż jeden obszar tematyczny, można je wykazać jednocześnie w liczbach podawanych w kilku rubrykach)
+1.2. Tematyka zadań z zakresu edukacji prawnej realizowanych w danym kwartale – podać liczbę przedsięwzięć z zakresu edukacji prawnej o danej tematyce (przypisać do każdej rubryki tematycznej liczbę przedsięwzięć realizowanych w danym kwartale; jeśli dane przedsięwzięcie obejmowało więcej niż jeden obszar tematyczny, można je wykazać jednocześnie w liczbach podawanych w kilku rubrykach)
 1.2.1. lokale mieszkalne, z wyłączeniem lokali mieszkalnych własnościowych
 1.2.2. przestępstwa i wykroczenia
 1.2.3. rodzina

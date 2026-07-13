@@ -8,10 +8,10 @@ pos: 1775
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 3 grudnia 2024 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 11777755 ROZPORZĄDZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 22 listopada 2024 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,6 +25,16 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-12-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001775) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1775/text.pdf) |
 
-Poz.
-Profil funkcjonalny strefy planistycznej Lp. Symbol Nazwa strefy literowy planistycznej podstawowy dodatkowy strefa wielofunkcyjna zabudowy mieszkaniowej zabudową wielorodzinnej, usług, 1 SW mieszkaniową komunikacji, zieleni urządzonej, wielorodzinną ogrodów działkowych, technicznej zabudowy mieszkaniowej jednorodzinnej, handlu wielkopowierzchniowego, naturalnej, lasu, strefa wielofunkcyjna zabudowy mieszkaniowej zabudową jednorodzinnej, usług, 2 SJ mieszkaniową komunikacji, zieleni urządzonej, jednorodzinną ogrodów działkowych, technicznej zabudowy letniskowej rekreacji indywidualnej, naturalnej, lasu, zabudowy zagrodowej, produkcji strefa wielofunkcyjna gospodarstwach rolnych, 3 SZ zabudową akwakultury obsługi rybactwa, zagrodową komunikacji, zieleni urządzonej, ogrodów działkowych, technicznej wielkotowarowej produkcji rolnictwa zakazem biogazowni, usług, zieleni naturalnej, lasu, usług, komunikacji, zieleni 4 SU strefa usługowa urządzonej, ogrodów działkowych, technicznej składów magazynów, elektrowni słonecznej, naturalnej, lasu, produkcji, komunikacji, 6 SP strefa gospodarcza zieleni urządzonej, ogrodów działkowych, technicznej usług, zieleni naturalnej, lasu, wód produkcji gospodarstwach rolnych, strefa produkcji wielkotowarowej produkcji rolnej, 7 SR rolniczej akwakultury obsługi rybactwa, komunikacji, ogrodów działkowych, technicznej rolnictwa zakazem zabudowy, biogazowni, elektrowni słonecznej, elektrowni elektrowni wodnej, urządzonej, zieleni naturalnej, lasu, wód technicznej, usług, produkcji, 8 SI strefa infrastrukturalna komunikacji, ogrodów działkowych urządzonej, zieleni naturalnej, lasu, wód 9 SN strefa zieleni rekreacji zieleni urządzonej, plaży, wód, komunikacji, ogrodów działkowych, technicznej usług sportu rekreacji, kultury rozrywki, usług detalicznego, usług gastronomii, usług turystyki, usług usług edukacji, zdrowia pomocy społecznej, zieleni naturalnej, cmentarza, komunikacji, 10 SC strefa cmentarzy zieleni urządzonej, ogrodów działkowych, technicznej usług kultu religijnego, handlu detalicznego, naturalnej, lasu, zieleni urządzonej, naturalnej, lasu, rolnictwa zakazem zabudowy, 12 SO strefa otwarta lasu, zieleni naturalnej, wód, komunikacji, ogrodów działkowych, technicznej elektrowni wiatrowej, elektrowni słonecznej, geotermalnej, elektrowni biogazowni, zieleni urządzonej 13 SK strefa komunikacyjna autostrady, drogi ekspresowej, drogi głównej ruchu przyspieszonego, drogi głównej, komunikacji kolejowej szynowej, komunikacji kolei linowej, komunikacji wodnej, komunikacji lotniczej, obsługi komunikacji, ogrodów działkowych, technicznej drogi zbiorczej, usług detalicznego, usług gastronomii, usług turystyki, urządzonej, lasu, naturalnej, wód racji usług n uki urządzon j zi eni rolnctwa zakazem zabudowy en zieleni na uralnej eren wód ji og odów d iałkowych, en elektrowni wiatrowej wni oneczn j te en ele trowni nej elektrowni wodnej ni zie autostrady drogi ek p es wej gi głównej ruchu pr yspieszonego drogi głównej, omunikacji wej szyn wej komuni acji inowej komunikacji wodne komunikac otnic ej, obs ugi ji og odów d iałkowych, ogi zbiorczej usług ha nego te en usług gast onomii usług turystyki eleni eren lasu t ren en
+zmieniające rozporządzenie w sprawie projektu planu ogólnego gminy, dokumentowania prac planistycznych w zakresie tego planu oraz wydawania z niego wypisów i wyrysów Na podstawie art. 13m ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U.
+z 2024 r. poz. 1130) zarządza się, co następuje:
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Technologii z dnia 8 grudnia 2023 r. w sprawie projektu planu ogólnego gminy, dokumentowania prac planistycznych w zakresie tego planu oraz wydawania z niego wypisów i wyrysów (Dz. U. poz. 2758) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.**
+
+1. Do spraw sporządzenia projektów planów ogólnych gmin i ich uchwalania wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+2. Dokonanych przed dniem wejścia w życie niniejszego rozporządzenia czynności, o których mowa w art. 13i ust. 3 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, nie ponawia się.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rozwoju i Technologii: K. Paszyk M … M W
 

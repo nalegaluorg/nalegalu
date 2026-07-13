@@ -26,9 +26,9 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000168) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/168/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 maja 2014 r. o informowaniu o cenach towarów i usług (Dz. U. z 2019 r. poz. 178), z uwzględnieniem zmian wprowadzonych ustawą z dnia 1 grudnia 2022 r. o zmianie ustawy o prawach konsumenta oraz niektórych innych ustaw (Dz. U. poz. 2581) oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 stycznia 2023 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 10 i art. 11 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o prawach konsumenta oraz niektórych innych ustaw (Dz. U. poz. 2581), które stanowią: „Art. 10. Do postępowań w sprawie nałożenia kar, o których mowa w art. 6 ustawy zmienianej w art. 6, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
-
-**Art. 11.** Ustawa wchodzi w życie z dniem 1 stycznia 2023 r.”. Marszałek Sejmu: E. Witek USTAWA z dnia 9 maja 2014 r. o informowaniu o cenach towarów i usług
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 10 i art. 11 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o prawach konsumenta oraz niektórych innych ustaw (Dz. U. poz. 2581), które stanowią: „ Art. 10. Do postępowań w sprawie nałożenia kar, o których mowa w art. 6 ustawy zmienianej w art. 6, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe. Art. 11. Ustawa wchodzi w życie z dniem 1 stycznia 2023 r.”. Marszałek Sejmu: E. Witek
+USTAWA z dnia 9 maja 2014 r.
+o informowaniu o cenach towarów i usług
 
 **Art. 1.** Ustawa określa sposób informowania o cenach oferowanych towarów i usług oraz skutki nieprzestrzegania jej uregulowań.
 

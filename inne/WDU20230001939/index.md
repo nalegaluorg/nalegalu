@@ -28,24 +28,9 @@ source: pdf
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 172), z uwzględnieniem zmian wprowadzonych ustawą z dnia 7 lipca 2022 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U.
 poz. 2600 oraz z 2023 r. poz. 403) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 sierpnia 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 23–26 i art. 33 ustawy z dnia 7 lipca 2022 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 2600 oraz z 2023 r.
-poz. 403), które stanowią: „Art. 23. W sprawach, w których przed dniem wejścia w życie niniejszej ustawy kara pozbawienia wolności nie została wykonana, do osób warunkowo zwolnionych oraz osób odbywających karę pozbawienia wolności stosuje się przepisy ustawy zmienianej w art. 1 o warunkowym zwolnieniu w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 24.**
-
-1. Przepisy rozdziału IX ustawy zmienianej w art. 1 w brzmieniu dotychczasowym stosuje się do kar prawomocnie orzeczonych przed dniem wejścia w życie niniejszej ustawy.
-
-2. Przepisy rozdziału IX ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą stosuje się do kar prawomocnie orzeczonych po wejściu w życie niniejszej ustawy.
-
-**Art. 25.** Do czynów popełnionych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1 o przedawnieniu w brzmieniu nadanym niniejszą ustawą, chyba że termin przedawnienia już upłynął.
-
-**Art. 26.**
-
-1. Przepis art. 75a ustawy zmienianej w art. 1 stosuje się do spraw, w których postanowienie, chociażby nieprawomocne, o zamianie kary pozbawienia wolności z warunkowym zawieszeniem jej wykonania na karę ograniczenia wolności albo grzywnę zostało wydane przed dniem wejścia w życie niniejszej ustawy.
-
-2. W wypadku zamiany kary pozbawienia wolności na karę ograniczenia wolności albo na grzywnę na podstawie art. 75a ustawy zmienianej w art. 1, zatarcie skazania następuje z upływem okresów wskazanych w art. 107 § 4 i 4a tej ustawy.” „Art. 33. Ustawa wchodzi w życie z dniem 1 października 2023 r., z wyjątkiem:
-
-- **1)** art. 1 pkt 14, 67 lit. c, pkt 68 lit. c oraz art. 9 pkt 11 i 12, które wchodzą w życie z dniem 14 marca 2024 r.;
-- **2)** art. 10 pkt 1–6, 12, 13 i 17, które wchodzą w życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: E. Witek USTAWA z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii
+poz. 403), które stanowią: „ Art. 23. W sprawach, w których przed dniem wejścia w życie niniejszej ustawy kara pozbawienia wolności nie została wykonana, do osób warunkowo zwolnionych oraz osób odbywających karę pozbawienia wolności stosuje się przepisy ustawy zmienianej w art. 1 o warunkowym zwolnieniu w brzmieniu nadanym niniejszą ustawą. Art. 24. 1. Przepisy rozdziału IX ustawy zmienianej w art. 1 w brzmieniu dotychczasowym stosuje się do kar prawomocnie orzeczonych przed dniem wejścia w życie niniejszej ustawy. 2. Przepisy rozdziału IX ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą stosuje się do kar prawomocnie orzeczonych po wejściu w życie niniejszej ustawy. Art. 25. Do czynów popełnionych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1 o przedawnieniu w brzmieniu nadanym niniejszą ustawą, chyba że termin przedawnienia już upłynął. Art. 26. 1. Przepis art. 75a ustawy zmienianej w art. 1 stosuje się do spraw, w których postanowienie, chociażby nieprawomocne, o zamianie kary pozbawienia wolności z warunkowym zawieszeniem jej wykonania na karę ograniczenia wolności albo grzywnę zostało wydane przed dniem wejścia w życie niniejszej ustawy. 2. W wypadku zamiany kary pozbawienia wolności na karę ograniczenia wolności albo na grzywnę na podstawie art. 75a ustawy zmienianej w art. 1, zatarcie skazania następuje z upływem okresów wskazanych w art. 107 § 4 i 4a tej ustawy.” „Art. 33. Ustawa wchodzi w życie z dniem 1 października 2023 r., z wyjątkiem: 1) art. 1 pkt 14, 67 lit. c, pkt 68 lit. c oraz art. 9 pkt 11 i 12, które wchodzą w życie z dniem 14 marca 2024 r.; 2) art. 10 pkt 1–6, 12, 13 i 17, które wchodzą w życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: E. Witek
+USTAWA z dnia 29 lipca 2005 r.
+o przeciwdziałaniu narkomanii
 
 #### Rozdział 1 Przepisy ogólne
 

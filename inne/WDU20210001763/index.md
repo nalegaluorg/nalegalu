@@ -26,13 +26,9 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001763) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1763/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2019 r. poz. 1795), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 września 2021 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 30 i art. 31 ustawy z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112), które stanowią: „Art. 30. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ust. 7 ustawy zmienianej w art. 7 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 7 ustawy zmienianej w art. 7, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 31.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
-
-- **1)** art. 3–5, art. 7 pkt 2, art. 11, art. 13, art. 17, art. 19 i art. 20 pkt 2 w zakresie art. 4g i pkt 5, które wchodzą w życie z dniem następującym po dniu ogłoszenia z mocą od dnia 5 września 2020 r.;
-- **2)** art. 9 w zakresie art. 96 § 1be, który wchodzi w życie po upływie 7 dni od dnia ogłoszenia;
-- **3)** art. 14 pkt 5, który wchodzi w życie z dniem 1 stycznia 2021 r.”. Marszałek Sejmu: E. Witek USTAWA z dnia 29 sierpnia 1997 r. o strażach gminnych
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 30 i art. 31 ustawy z dnia 28 października 2020 r. o zmianie niektórych ustaw w związku z przeciwdziałaniem sytuacjom kryzysowym związanym z wystąpieniem COVID-19 (Dz. U. poz. 2112), które stanowią: „ Art. 30. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ust. 7 ustawy zmienianej w art. 7 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 7 ustawy zmienianej w art. 7, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy. Art. 31. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem: 1) art. 3–5, art. 7 pkt 2, art. 11, art. 13, art. 17, art. 19 i art. 20 pkt 2 w zakresie art. 4g i pkt 5, które wchodzą w życie z dniem następującym po dniu ogłoszenia z mocą od dnia 5 września 2020 r.; 2) art. 9 w zakresie art. 96 § 1be, który wchodzi w życie po upływie 7 dni od dnia ogłoszenia; 3) art. 14 pkt 5, który wchodzi w życie z dniem 1 stycznia 2021 r.”. Marszałek Sejmu: E. Witek
+USTAWA z dnia 29 sierpnia 1997 r.
+o strażach gminnych
 
 #### Rozdział 1 Przepisy ogólne
 

@@ -8,10 +8,10 @@ pos: 395
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 marca 2020 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 395 I. Wywiad epidemiologiczny II. Wykaz badań lekarskich funkcjonariusza po powrocie do kraju po zakończeniu służby poza granicami państwa po przeprowadzonym wywiadzie lekarskim
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-08-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000395) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/395/text.pdf) |
 
-I. Wywiad epidemiologiczny II. Wykaz badań lekarskich funkcjonariusza po powrocie do kraju po zakończeniu służby poza granicami państwa po przeprowadzonym wywiadzie lekarskim
 1. Ogólne badanie lekarskie.
 2. Badania specjalistyczne: internistyczne, dermatologiczne, neurologiczne, laryngologiczne, okulistyczne, psychiatryczne w powiązaniu z opinią psychologiczną, a w przypadku funkcjonariusza-kobiety także ginekologiczne.
 3. Badania diagnostyczne:
@@ -55,7 +54,7 @@ WYWIAD EPIDEMIOLOGICZNY
 3) .........................................................................................................................................................
 4) .........................................................................................................................................................
 5) ..........................................................................................................................................................
-5. Charakter służby poza granicami państwa grupa specjalności:*
+5. Charakter służby poza granicami państwa – grupa specjalności:*
 1) kierowca;
 2) saper (miner, budowa mostów);
 3) operator sprzętu ciężkiego;
@@ -97,11 +96,10 @@ e) potrawy typowe dla rejonu pobytu (produkty i sposób przygotowania) często (
 12. Ewentualne zachorowania w otoczeniu (wypełnia lekarz): ....................................................................................................................................................................
 ....................................................................................................................................................................
 ....................................................................................................................................................................
-______________
 13.Wizyty lekarskie podczas pobytu w tropiku (przyczyna): ....................................................................................................................................................................
 ...........................................................
 ...........................................................
-* I. Wywiad psychologiczny W ramach wywiadu psychologicznego należy wypełnić „Kwestionariusz do wstępnej oceny stanu zdrowia psychicznego funkcjonariusza Służby Kontrwywiadu Wojskowego lub Służby Wywiadu Wojskowego po powrocie do kraju po zakończeniu służby poza granicami państwa”, którego wzór jest określony w załączniku nr 4 do rozporządzenia Ministra Obrony Narodowej z dnia 9 marca 2020 r. w sprawie badań oraz turnusów dla funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego po zakończeniu służby poza granicami państwa.
+______________ * I. Wywiad psychologiczny W ramach wywiadu psychologicznego należy wypełnić „Kwestionariusz do wstępnej oceny stanu zdrowia psychicznego funkcjonariusza Służby Kontrwywiadu Wojskowego lub Służby Wywiadu Wojskowego po powrocie do kraju po zakończeniu służby poza granicami państwa”, którego wzór jest określony w załączniku nr 4 do rozporządzenia Ministra Obrony Narodowej z dnia 9 marca 2020 r. w sprawie badań oraz turnusów dla funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego po zakończeniu służby poza granicami państwa.
 II. Diagnostyczne badania psychologiczne
 1. Badania uwzględniają określenie poziomu funkcjonowania w odniesieniu do doświadczeń urazowych w czasie pełnienia służby poza granicami kraju, radzenia sobie w sytuacjach trudnych, występowania cech zaburzeń stresowych (ASD, PTSD).
 2. Zakres badań psychologicznych może zostać poszerzony, jeżeli psycholog uzna to za niezbędne dla prawidłowej oceny funkcjonowania psychologicznego danej osoby.
@@ -110,15 +108,15 @@ Na podstawie badania psychologicznego przeprowadzonego zgodnie z § 3 rozporząd
 1) brak zaburzeń psychologicznych związanych z pełnieniem służby poza granicami państwa;
 2) występowanie zaburzeń psychologicznych związanych z pełnieniem służby poza granicami państwa.
 ....................................................................................................................................................................
-______ WSKAZANIA PSYCHOLOGA:
+WSKAZANIA PSYCHOLOGA:
 1) wymaga uczestnictwa w turnusie leczniczo-profilaktycznym;
 2) wymaga leczenia specjalistycznego…………………………….…………………………………….;
 3) nie wymaga oddziaływań terapeutycznych.
 .............................................. ................................................
-SZEF SŁUŻBY KONTRWYWIADU WOJSKOWEGO/ SZEF SŁUŻBY WYWIADU WOJSKOWEGO* WNIOSEK O SKIEROWANIE NA TURNUS LECZNICZO-PROFILAKTYCZNY FUNKCJONARIUSZA SŁUŻBY KONTRWYWIADU WOJSKOWEGO LUB SŁUŻBY WYWIADU WOJSKOWEGO PO POWROCIE DO KRAJU PO ZAKOŃCZENIU SŁUŻBY POZA GRANICAMI PAŃSTWA
+______ SZEF SŁUŻBY KONTRWYWIADU WOJSKOWEGO/ SZEF SŁUŻBY WYWIADU WOJSKOWEGO* WNIOSEK O SKIEROWANIE NA TURNUS LECZNICZO-PROFILAKTYCZNY FUNKCJONARIUSZA SŁUŻBY KONTRWYWIADU WOJSKOWEGO LUB SŁUŻBY WYWIADU WOJSKOWEGO PO POWROCIE DO KRAJU PO ZAKOŃCZENIU SŁUŻBY POZA GRANICAMI PAŃSTWA
 1. Dane funkcjonariusza Nazwisko: ................................................................................... imię: ..................................................................
 Adres:……………………………………………………………………………………………….…………… ……… Numer PESEL: ………………………………….
-2. Po przeprowadzeniu badania lekarskiego w dniu ………………… stwierdzam istnienie/brak* wskazań do skierowania osoby określonej w pkt 1 na turnus leczniczo-profilaktyczny wraz z pełnoletnim najbliższym członkiem rodziny * ____ ........................................................... ......................, dnia…………… SKIEROWANIE NA TURNUS LECZNICZO-PROFILAKTYCZNY Kieruję Panią/Pana ....................................................................................................................................................................
+2. Po przeprowadzeniu badania lekarskiego w dniu ………………… stwierdzam istnienie/brak* wskazań do skierowania osoby określonej w pkt 1 na turnus leczniczo-profilaktyczny wraz z pełnoletnim najbliższym członkiem rodziny * ........................................................... ......................, dnia…………… SKIEROWANIE NA TURNUS LECZNICZO-PROFILAKTYCZNY Kieruję Panią/Pana ....................................................................................................................................................................
 zam. ............................................................................................................................................................
 numer PESEL: pełniącą(-cego) służbę w: ....................................................................................................................................................................
 na turnus leczniczo-profilaktyczny w ....................................... Wojskowym Szpitalu Uzdrowiskowo-Rehabilitacyjnym w .......................................................... w terminie od .................... do ................................................. * Uwagi: ....................................................................................................................................................................
@@ -127,7 +125,7 @@ Dane pełnoletniego najbliższego członka rodziny imię, nazwisko, data urodzen
 …………………………………………………………………………………………………………….
 ................................................................
 ........................................................
-I. Część ogólna
+____ I. Część ogólna
 1. Turnus prowadzi się zgodnie z programem profilaktyki psychologicznej pt.: „Trening antystresowy”.
 2. „Trening antystresowy” realizuje się przez oddziaływania psychologiczne i zabiegi rehabilitacyjne, z uwzględnieniem potrzeb funkcjonariuszy wynikających z ich aktualnego stanu zdrowia.
 3. „Trening antystresowy” prowadzą wykwalifikowani psycholodzy kliniczni lub psychoterapeuci i specjaliści leczenia uzdrowiskowego.
@@ -148,7 +146,7 @@ I. Część ogólna
 II. Ramowy plan „Treningu antystresowego" Dzień Rodzaj zajęć przed południem po południu wieczorem 1 2 3 4
 1. Niedziela zakwaterowanie zakwaterowanie zakwaterowanie
 2. Poniedziałek badania lekarskie psychologiczne propozycje organizatora konsultacje indywidualne
-3. Wtorek zabiegi rehabilitacyjne, psychoedukacyjne zajęcia relaksacja, propozycje organizatora możliwość konsultacji grupowe indywidualnych, zabiegi rehabilitacyjne
+3. Wtorek zabiegi rehabilitacyjne, relaksacja, propozycje organizatora psychoedukacyjne zajęcia możliwość konsultacji grupowe indywidualnych, zabiegi rehabilitacyjne
 4. Środa zabiegi rehabilitacyjne, relaksacja, propozycje organizatora psychoedukacyjne zajęcia możliwość konsultacji grupowe indywidualnych, zabiegi rehabilitacyjne
 5. Czwartek zabiegi rehabilitacyjne relaksacja, propozycje organizatora możliwość konsultacji indywidualnych, zabiegi rehabilitacyjne
 6. Piątek zabiegi rehabilitacyjne, relaksacja, propozycje organizatora psychologiczne zajęcia możliwość konsultacji grupowe indywidualnych, zabiegi rehabilitacyjne
@@ -163,7 +161,7 @@ II. Ramowy plan „Treningu antystresowego" Dzień Rodzaj zajęć przed południ
 1. Istnieje możliwość zamiany zajęć przedpołudniowych z popołudniowymi, ale w taki sposób, aby nie zmieniła się ogólna liczba sesji zajęć grupowych (10) i relaksacyjnych (10).
 2. Pozostała część dnia powinna być wypełniona innymi możliwymi zabiegami relaksacyjno-rehabilitacyjnymi, tj. masażem, basenem i innymi związanymi z dostępnym szpitalowi zapleczem czy zaleceniami medycznymi.
 3. Wieczorna część turnusu powinna być zorganizowana przez instruktorów kulturalno-oświatowych w sposób umożliwiający funkcjonariuszom fakultatywne uczestnictwo np. w: spotkaniach zapoznawczych, tanecznych, zawodach, meczach, wycieczkach, projekcjach filmów, wyjściu do kina, teatru, ognisku itp. Zaleca się wcześniejsze zaplanowanie i przedstawienie sposobu organizacji propozycji imprez/spotkań, tak aby mogły być one zaprezentowane pierwszego dnia pobytu w postaci harmonogramu turnusu.
-4. Każdy funkcjonariusz uczestniczący w turnusie „Trening antystresowy” powinien wziąć udział w indywidualnej konsultacji z psychologiem (na początku i pod koniec turnusu), a przez cały czas trwania turnusu mieć możliwość umówienia się na taką konsultację.
+4. Każdy funkcjonariusz uczestniczący w turnusie „Trening antystresowy” powinien wziąć udział w indywidualnej konsultacji z psychologiem (na początku i pod koniec turnusu), a przez cały czas trwania turnusu – mieć możliwość umówienia się na taką konsultację.
 III. Ogólna charakterystyka sesji psychologicznych zajęć grupowych
 1. W czasie trwania turnusu odbywa się 5 sesji zajęć grupowych.
 2. Każda sesja powinna trwać co najmniej 3 godziny.

@@ -8,10 +8,10 @@ pos: 1657
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 31 sierpnia 2017 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ dnia 28 sierpnia 2017 sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia organizowania tych form oraz sposobu ich działania Na podstawie art. 32 ust. 11 ustawy dnia 14 grudnia 2016 Prawo oświatowe 2017 59 949) zarządza się, co następuje: § 1. Wychowanie przedszkolne może być prowadzone następujących, innych niż przedszkola oddziały przedszkolne szkołach podstawowych, formach:
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1657 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 28 sierpnia 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,90 +25,142 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001657) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1657/text.pdf) |
 
-1) punktach przedszkolnych, zwanych dalej „punktami”, których zajęcia są prowadzone przez cały rok szkolny, wyjątkiem przerw ustalonych przez organ prowadzący;
-2) zespołach wychowania przedszkolnego, zwanych dalej „zespołami”, których zajęcia są prowadzone przez cały rok szkolny niektóre dni tygodnia, wyjątkiem przerw ustalonych przez organ prowadzący.
-§ 2. Warunkiem utworzenia jest:
-1) uzyskanie przez organ prowadzący pozytywnych opinii właściwego państwowego inspektora sanitarnego oraz komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej, wydanych zakresie ich właściwości, o zapewnieniu lokalu, którym mają być prowadzone zajęcia ramach zespołu, bezpiecznych higienicznych warunków pobytu dzieci, uwzględniających warunki, o których mowa § 4 § 5;
-2) wyposażenie lokalu, o którym mowa pkt 1, sprzęt pomoce dydaktyczne niezbędne realizacji podstawy programowej wychowania przedszkolnego.
-§ 3. Ilekroć rozporządzeniu jest mowa o: kondygnacji nadziemnej, kategorii zagrożenia ludzi, strefie pożarowej, przejściu ewakuacyjnym, drodze ewakuacyjnej, klasie odporności ogniowej, palności wyrobów (materiałów) budowlanych oraz elementach budynku nierozprzestrzeniających ognia należy przez to rozumieć odpowiednio kondygnację nadziemną, kategorię zagrożenia ludzi, strefę pożarową, przejście ewakuacyjne, drogę ewakuacyjną, klasę odporności ogniowej, palność wyrobów (materiałów) budowlanych oraz elementy budynku nierozprzestrzeniające ognia rozumieniu przepisów sprawie warunków technicznych, jakim powinny odpowiadać budynki ich usytuowanie.
-§ 4. 1. Lokal, którym mają być prowadzone zajęcia ramach zespołu, znajduje się budynku jego części, które spełniają wymagania określone przepisach sprawie warunków technicznych, jakim powinny odpowiadać budynki ich usytuowanie, oraz wymagania ochrony przeciwpożarowej dla kategorii zagrożenia ludzi ZL II, określone przepisach dotyczących ochrony przeciwpożarowej, tym że dopuszcza się spełnienie tych wymagań także sposób określony art. 6a ustawy dnia 24 sierpnia 1991 o ochronie przeciwpożarowej 2017 736 1169).
-1) lokal jest użytkowany przez więcej niż 25 dzieci;
-2) lokal znajduje się na pierwszej kondygnacji nadziemnej budynku stanowi zwarty zespół przylegających siebie powiązanych funkcjonalnie pomieszczeń, przeznaczonych celów prowadzenia zespołu;
-3) lokal znajduje się strefie pożarowej, której elementy budynku są nierozprzestrzeniające ognia; wymaganie to dotyczy kondygnacji zlokalizowanych powyżej drugiej kondygnacji nadziemnej;
-4) lokal posiada co najmniej dwa wyjścia służące celów ewakuacji, które prowadzą na zewnątrz budynku, przy czym jednym nich są drzwi wyjściowe lokalu, a drugim inne drzwi okno, umożliwiające ewakuację dzieci sposób bezpieczny bezpośrednio na zewnątrz budynku; wysokość od dolnej krawędzi okna poziomu, na który ewakuuje się dzieci, powinna przekraczać 0,9 m;
-5) przejście ewakuacyjne pomieszczenia przeznaczonego przebywania dzieci, wyłączeniem pomieszczeń higieniczno-sanitarnych, drzwi, o których mowa pkt 4, prowadzi łącznie przez więcej niż dwa pomieszczenia lokalu, włączając to pomieszczenie przeznaczone przebywania dzieci, posiada długość nieprzekraczającą:
-a) 20 m
-b) 40 m przypadku przejścia ewakuacyjnego prowadzącego drzwi stanowiących wyjście ewakuacyjne lokalu bezpośrednio miejsce bezpieczne na zewnątrz budynku;
-6) lokal jest wyposażony gaśnicę o skuteczności gaśniczej co najmniej 21 A, zgodnie wymaganiami określonymi przepisach dotyczących ochrony przeciwpożarowej budynków, innych obiektów budowlanych terenów, niezależod gaśnic zastosowanych strefie pożarowej, której znajduje się lokal;
-7) elementy wykończenia wnętrz wyposażenia stałego lokalu na drogach ewakuacyjnych lokalu spełniają następujące warunki:
-a) stałe elementy wyposażenia wystroju wnętrz oraz okładziny ścienne wykładziny podłogowe są co najmniej trudno zapalne są intensywnie dymiące,
-b) okładziny sufitów oraz sufity podwieszone są wykonane materiałów niepalnych niezapalnych, niekapiących nieodpadających pod wpływem ognia;
-8) strefa pożarowa, której znajduje się lokal, jest strefą pożarową określaną jako ZL, zgodnie przepisami sprawie warunków technicznych, jakim powinny odpowiadać budynki ich usytuowanie, zlokalizowaną obiekcie innym niż tymczasowy obiekt budowlany;
-9) strefie pożarowej, której znajduje się lokal, występują inne lokale, których są prowadzone przedszkola, inne punkty zespoły, oddziały przedszkolne szkołach podstawowych, ani lokale, których jest sprawowana opieka nad dziećmi lat 3 zgodnie przepisami ustawy dnia 4 lutego 2011 o opiece nad dziećmi wieku lat 3 2016 157 oraz 2017 60 1428);
-10) lokalu na drogach ewakuacyjnych lokalu są spełnione wymagania określone przepisach dotyczących ochrony przeciwpożarowej budynków, innych obiektów budowlanych terenów, właściwe dla kategorii zagrożenia ludzi tej strefy pożarowej, której lokal te drogi się znajdują, szczególności występują tym lokalu ani na tych drogach warunki techniczne będące podstawą uznania budynku za zagrażający życiu ludzi;
-11) drogi ewakuacyjne lokalu posiadają obudowę o klasie odporności ogniowej co najmniej EI 15, a wyjścia pomieszczeń na te drogi są zamykane drzwiami; wymaganie dotyczące klasy odporności ogniowej dotyczy przypadków, których lokalu zapewniono dwie drogi ewakuacyjne, które się pokrywają ani krzyżują.
-§ 5. Lokal wymieniony § 4 ust. 1 ust. 2, którym mają być prowadzone zajęcia ramach zespołu, spełnia następujące warunki:
-1) powierzchnia każdego pomieszczenia przeznaczonego na zbiorowy pobyt od 3 5 dzieci wynosi co najmniej 16 m ;
-przypadku liczby dzieci większej niż 5 powierzchnia ulega odpowiedniemu zwiększeniu na każde kolejne dziecko, tym że:
-a) powierzchnia przypadająca na każde kolejne dziecko wynosi co najmniej 2 m , jeżeli czas pobytu dziecka przekracza 5 godzin dziennie, ni okien przy zastosowaniu wentylacji grawitacyjnej;
-4) pomieszczeniach lokalu jest zapewnione oświetlenie o parametrach zgodnych Polską Normą;
-5) pomieszczeniach przeznaczonych na pobyt dzieci na grzejnikach centralnego ogrzewania są umieszczone osłony ochraniające przed bezpośrednim kontaktem elementem grzejnym;
-6) pomieszczeniach jest zapewniona temperatura co najmniej 20°C;
-7) posiada co najmniej jedno pomieszczenie sanitarno-higieniczne, wyposażone miskę ustępową oraz urządzenia sanitarne utrzymania higieny osobistej, tym przeznaczone mycia ciepłą zimą wodą, szczególności umywalkę brodzik natryskiem, którym:
-a) jest zapewniona jedna miska ustępowa jedna umywalka na więcej niż 15 dzieci,
-b) urządzeniach sanitarnych jest zapewniona centralna regulacja mieszania ciepłej wody,
-c) temperatura ciepłej wody doprowadzonej urządzeń sanitarnych wynosi od 35°C 40°C,
-d) dopuszcza się możliwość korzystania przez osoby wykonujące pracę punkcie zespole urządzeń sanitarnych przewidzianych dla dzieci,
-e) wymaga się wydzielania przedsionka,
-f) wydziela się kabiny ustępowe przypadku wyposażenia pomieszczenia więcej niż jeden ustęp,
-g) jest zapewnione miejsce higienicznego przechowywania przyborów toaletowych ręczników dzieci,
-h) podłoga oraz ściany są wykonane tak, aby było możliwe łatwe utrzymanie pomieszczenia czystości, a ściany pomieszczeń wysokości co najmniej 2 m są pokryte materiałami zmywalnymi, nienasiąkliwymi odpornymi na działanie wilgoci oraz materiałami nietoksycznymi odpornymi na działanie środków dezynfekcyjnych,
-i) dopuszcza się wysokość niższą niż 2,2 m świetle pod warunkiem wyposażenia pomieszczenia oknem co najmniej wentylację grawitacyjną, a pomieszczenia bez okien wentylację mechaniczną wywiewną;
-8) dopuszcza się, aby pomieszczenie sanitarno-higieniczne, o którym mowa pkt 7, było przeznaczone wspólnego użytku chłopców dziewczynek;
-9) jest zapewnione miejsce przechowywania sprzętu środków utrzymania czystości, zabezpieczone przed dostępem dzieci;
-10) jest zapewniona możliwość higienicznego poboru lokalu ciepłej zimnej wody celów porządkowych instalacji wodociągowej oraz odprowadzenia powstałych ścieków instalacji kanalizacyjnej;
-11) jest zapewnione miejsce przechowywania odzieży wierzchniej dzieci osób wykonujących pracę punkcie zespole;
-12) jest zapewniona możliwość leżakowania, jeżeli czas pobytu dziecka przekracza 5 godzin dziennie;
-13) pościel leżaki są wyraźnie oznakowane sposób umożliwiający identyfikację dziecka, które nich korzysta, oraz odpowiednio przechowywane;
-14) meble są dostosowane wymagań ergonomii;
-15) wyposażenie, o którym mowa § 2 pkt 2, posiada atesty certyfikaty;
-16) zabawki spełniają wymagania bezpieczeństwa higieny oraz posiadają oznakowanie CE;
-17) dopuszcza się wykorzystanie pomieszczenia przeznaczonego na zbiorowy pobyt dzieci zabawy, nauki, leżakowania spożywania posiłków, przy zastosowaniu rozwiązań organizacyjnych zapewniających realizację programu wychowania przedszkolnego oraz bezpieczne higieniczne warunki pobytu dzieci;
-18) apteczki lokalu są wyposażone podstawowe środki opatrunkowe;
-19) jest zapewnione utrzymanie czystości porządku lokalu, pomieszczenia są utrzymywane odpowiednim stanie, są przeprowadzane ich okresowe remonty konserwacje.
-ności;
-3) dzienny wymiar godzin zajęć świadczonego punkcie zespole nauczania, wychowania opieki, a przypadku publicznego również dzienny wymiar godzin zajęć bezpłatnego nauczania, wychowania opieki;
-4) dni tygodnia, których są prowadzone zajęcia przypadku zespołu;
-5) prawa obowiązki wychowanków zespołu, tym przypadki, których organ prowadzący może skreślić dziecko listy wychowanków zespołu, zastrzeżeniem ust. 2;
-6) warunki pobytu dzieci punkcie zespole zapewniające im bezpieczeństwo;
-7) sposób sprawowania opieki nad dziećmi czasie zajęć punkcie zespole;
-8) warunki przyprowadzania dzieci na zajęcia odbierania nich przez rodziców upoważnioną przez nich osobę zapewniającą dziecku pełne bezpieczeństwo;
-9) warunki organizowania zajęć czasie przekraczającym wymiar zajęć nauczania, wychowania opieki, o którym mowa pkt 3;
-10) terminy przerw pracy zespołu;
-11) zakres zadań nauczycieli prowadzących zajęcia punkcie zespole, związanych z:
-a) współdziałaniem rodzicami sprawach wychowania nauczania dzieci, uwzględnieniem prawa rodziców znajomości zadań wynikających programu wychowania przedszkolnego realizowanego punkcie zespole oraz uzyskiwania informacji dotyczących dziecka, jego zachowania rozwoju,
-b) zachowaniem właściwej jakości pracy dydaktycznej, wychowawczej opiekuńczej,
-c) prowadzeniem obserwacji pedagogicznych mających na celu poznanie możliwości potrzeb rozwojowych dzieci oraz dokumentowaniem tych obserwacji,
-d) przeprowadzeniem, roku szkolnym poprzedzającym rok szkolny, którym dziecko realizujące obowiązek rocznego przygotowania przedszkolnego rozpoczyna naukę szkole podstawowej, diagnozy gotowości podjęcia nauki szkole,
-e) przeprowadzeniem, na wniosek rodziców dzieci 5-letnich, które mogą rozpocząć naukę szkole podstawowej wieku 6 lat, diagnozy gotowości podjęcia nauki szkole, zgodnie lit. d,
-f) współpracą ze specjalistami świadczącymi dzieciom pomoc psychologiczno-pedagogiczną opiekę zdrowotną;
-12) przyjmowania dzieci na zajęcia tego przypadku niepublicznego innego niż punkt zespół, o którym mowa ust. 2.
-2. Skreślenie dziecka listy wychowanków, o którym mowa ust. 1 pkt 5, dotyczy dziecka realizującego obowiązek rocznego przygotowania przedszkolnego publicznym punkcie zespole niepublicznym punkcie zespole, o którym mowa art. 90 ust. 1c ustawy dnia 7 września 1991 o systemie oświaty 2016 1943, późn. zm. ).
-§ 7. 1. Wychowaniem przedszkolnym punkcie zespole obejmuje się więcej niż 25 dzieci.
-2. Zajęcia punkcie zespole są prowadzone grupach liczących od 3 25 dzieci.
-§ 8. Minimalny dzienny wymiar godzin zajęć świadczonego punkcie zespole nauczania, wychowania opieki wynosi 3 godziny, a minimalny tygodniowy wymiar godzin tych zajęć wynosi:
-1) grupie liczącej od 3 12 dzieci 12 godzin;
-2) grupie liczącej od 13 16 dzieci 16 godzin;
-3) grupie liczącej od 17 20 dzieci 20 godzin;
-4) grupie liczącej od 21 25 dzieci 25 godzin.
-inni pełnoletni członkowie ich rodzin upoważnieni przez rodziców.
-§ 11. Nauczyciel prowadzący zajęcia punkcie zespole współpracuje rodzinami dzieci uczęszczających na zajęcia, szczególności przez:
-1) korzystanie pomocy rodziców innych pełnoletnich członków rodzin dzieci, upoważnionych przez rodziców, sprawowaniu opieki nad dziećmi czasie prowadzenia zajęć;
-2) prowadzenie konsultacji udzielanie porad rodzicom zakresie pracy dziećmi.
-§ 12. 1. Nauczyciele prowadzący zajęcia punkcie zespole oraz inne osoby wykonujące pracę punkcie zespole są obowiązani posiadać orzeczenie lekarskie o braku przeciwwskazań wykonywania tych prac, wydane zgodnie przepisami ustawy dnia 5 grudnia 2008 o zapobieganiu oraz zwalczaniu zakażeń chorób zakaźnych u ludzi 2016 1866, 2003 2173).
-2. Wymóg określony ust. 1 stosuje się odpowiednio osób, o których mowa § 10, uczestniczących zajęciach prowadzonych punkcie zespole.
-§ 13. 1. Przebieg działalności dydaktycznej, wychowawczej opiekuńczej dziećmi punkcie zespole danym roku szkolnym jest dokumentowany dzienniku zajęć zespołu.
-2. W dzienniku zajęć wpisuje się porządku alfabetycznym nazwiska imiona dzieci uczęszczających na zajęcia, daty miejsca ich urodzenia, nazwiska imiona rodziców adresy ich zamieszkania. W dzienniku zajęć odnotowuje się obecność dzieci na zajęciach dydaktycznych, wychowawczych opiekuńczych, a także godziny przyprowadzania odbierania dziecka zespołu.
-3. Nauczyciel potwierdza podpisem dzienniku zajęć przeprowadzenie zajęć dydaktycznych, wychowawczych opiekuńczych danym dniu.
-§ 14. Organy prowadzące publiczne niepubliczne punkty zespoły, założone funkcjonujące przed dniem 1 września 2017 r., dostosują działalność tych punktów zespołów wymagań określonych niniejszym rozporządzeniu dnia 31 sierpnia 2020 § 15. Rozporządzenie wchodzi życie dniem 1 września 2017 Minister Edukacji Narodowej: wz. M. Machałek
+w sprawie rodzajów innych form wychowania przedszkolnego, warunków tworzenia i organizowania tych form oraz sposobu ich działania Na podstawie art. 32 ust. 11 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59 i 949) zarządza się, co następuje:
+
+**§ 1.** Wychowanie przedszkolne może być prowadzone w następujących, innych niż przedszkola i oddziały przedszkolne w szkołach podstawowych, formach:
+
+- **1)** punktach przedszkolnych, zwanych dalej „punktami”, w których zajęcia są prowadzone przez cały rok szkolny, z wyjątkiem przerw ustalonych przez organ prowadzący;
+- **2)** zespołach wychowania przedszkolnego, zwanych dalej „zespołami”, w których zajęcia są prowadzone przez cały rok szkolny w niektóre dni tygodnia, z wyjątkiem przerw ustalonych przez organ prowadzący.
+
+**§ 2.** Warunkiem utworzenia punktu lub zespołu jest:
+
+- **1)** uzyskanie przez organ prowadzący pozytywnych opinii właściwego państwowego inspektora sanitarnego oraz komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej, wydanych w zakresie ich właściwości, o zapewnieniu w lokalu, w którym mają być prowadzone zajęcia w ramach punktu lub zespołu, bezpiecznych i higienicznych warunków pobytu dzieci, uwzględniających warunki, o których mowa w § 4 i § 5;
+- **2)** wyposażenie lokalu, o którym mowa w pkt 1, w sprzęt i pomoce dydaktyczne niezbędne do realizacji podstawy programowej wychowania przedszkolnego.
+
+**§ 3.** Ilekroć w rozporządzeniu jest mowa o: kondygnacji nadziemnej, kategorii zagrożenia ludzi, strefie pożarowej, przejściu ewakuacyjnym, drodze ewakuacyjnej, klasie odporności ogniowej, palności wyrobów (materiałów) budowlanych oraz elementach budynku nierozprzestrzeniających ognia – należy przez to rozumieć odpowiednio kondygnację nadziemną, kategorię zagrożenia ludzi, strefę pożarową, przejście ewakuacyjne, drogę ewakuacyjną, klasę odporności ogniowej, palność wyrobów (materiałów) budowlanych oraz elementy budynku nierozprzestrzeniające ognia w rozumieniu przepisów w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie.
+
+**§ 4.**
+
+1. Lokal, w którym mają być prowadzone zajęcia w ramach punktu lub zespołu, znajduje się w budynku lub jego części, które spełniają wymagania określone w przepisach w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie, oraz wymagania ochrony przeciwpożarowej dla kategorii zagrożenia ludzi ZL II, określone w przepisach dotyczących ochrony przeciwpożarowej, z tym że dopuszcza się spełnienie tych wymagań także w sposób określony w art. 6a ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2017 r. poz. 736 i 1169).
+
+2. Dopuszcza się prowadzenie zajęć w ramach punktu lub zespołu w lokalu znajdującym się w budynku lub jego części, które nie spełniają wymagań określonych w ust. 1, jeżeli:
+
+- **1)** lokal jest użytkowany przez nie więcej niż 25 dzieci;
+- **2)** lokal znajduje się na pierwszej kondygnacji nadziemnej budynku i stanowi zwarty zespół przylegających do siebie i powiązanych funkcjonalnie pomieszczeń, przeznaczonych do celów prowadzenia punktu lub zespołu;
+- **3)** lokal znajduje się w strefie pożarowej, w której elementy budynku są nierozprzestrzeniające ognia; wymaganie to nie dotyczy kondygnacji zlokalizowanych powyżej drugiej kondygnacji nadziemnej;
+- **4)** lokal posiada co najmniej dwa wyjścia służące do celów ewakuacji, które prowadzą na zewnątrz budynku, przy czym jednym z nich są drzwi wyjściowe z lokalu, a drugim – inne drzwi lub okno, umożliwiające ewakuację dzieci w sposób bezpieczny bezpośrednio na zewnątrz budynku; wysokość od dolnej krawędzi okna do poziomu, na który ewakuuje się dzieci, nie powinna przekraczać 0,9 m;
+- **5)** przejście ewakuacyjne z pomieszczenia przeznaczonego do przebywania dzieci, z wyłączeniem pomieszczeń higieniczno-sanitarnych, do drzwi, o których mowa w pkt 4, prowadzi łącznie przez nie więcej niż dwa pomieszczenia lokalu, włączając w to pomieszczenie przeznaczone do przebywania dzieci, i posiada długość nieprzekraczającą:
+    - **a)** 20 m lub
+    - **b)** 40 m – w przypadku przejścia ewakuacyjnego prowadzącego do drzwi stanowiących wyjście ewakuacyjne z lokalu bezpośrednio w miejsce bezpieczne na zewnątrz budynku;
+
+- **6)** lokal jest wyposażony w gaśnicę o skuteczności gaśniczej co najmniej 21 A, zgodnie z wymaganiami określonymi w przepisach dotyczących ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów, niezależnie od gaśnic zastosowanych w strefie pożarowej, w której znajduje się lokal;
+- **7)** elementy wykończenia wnętrz i wyposażenia stałego w lokalu i na drogach ewakuacyjnych z lokalu spełniają następujące warunki:
+    - **a)** stałe elementy wyposażenia i wystroju wnętrz oraz okładziny ścienne i wykładziny podłogowe są co najmniej trudno zapalne i nie są intensywnie dymiące,
+    - **b)** okładziny sufitów oraz sufity podwieszone są wykonane z materiałów niepalnych lub niezapalnych, niekapiących i nieodpadających pod wpływem ognia;
+
+- **8)** strefa pożarowa, w której znajduje się lokal, jest strefą pożarową określaną jako ZL, zgodnie z przepisami w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie, zlokalizowaną w obiekcie innym niż tymczasowy obiekt budowlany;
+- **9)** w strefie pożarowej, w której znajduje się lokal, nie występują inne lokale, w których są prowadzone przedszkola, inne punkty lub zespoły, oddziały przedszkolne w szkołach podstawowych, ani lokale, w których jest sprawowana opieka nad dziećmi do lat 3 zgodnie z przepisami ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2016 r. poz. 157 oraz z 2017 r. poz. 60 i 1428);
+- **10)** w lokalu i na drogach ewakuacyjnych z lokalu są spełnione wymagania określone w przepisach dotyczących ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów, właściwe dla kategorii zagrożenia ludzi tej strefy pożarowej, w której lokal i te drogi się znajdują, w szczególności nie występują w tym lokalu ani na tych drogach warunki techniczne będące podstawą do uznania budynku za zagrażający życiu ludzi;
+- **11)** drogi ewakuacyjne z lokalu posiadają obudowę o klasie odporności ogniowej co najmniej EI 15, a wyjścia z pomieszczeń na te drogi są zamykane drzwiami; wymaganie dotyczące klasy odporności ogniowej nie dotyczy przypadków, w których z lokalu zapewniono dwie drogi ewakuacyjne, które się nie pokrywają ani nie krzyżują.
+
+**§ 5.** Lokal wymieniony w § 4 ust. 1 lub ust. 2, w którym mają być prowadzone zajęcia w ramach punktu lub zespołu, spełnia następujące warunki:
+
+- **1)** powierzchnia każdego pomieszczenia przeznaczonego na zbiorowy pobyt od 3 do 5 dzieci wynosi co najmniej 16 m ; w przypadku liczby dzieci większej niż 5 powierzchnia ulega odpowiedniemu zwiększeniu na każde kolejne dziecko, z tym że:
+    - **a)** powierzchnia przypadająca na każde kolejne dziecko wynosi co najmniej 2 m , jeżeli czas pobytu dziecka nie przekracza 5 godzin dziennie,
+    - **b)** powierzchnia przypadająca na każde kolejne dziecko wynosi co najmniej 2,5 m , jeżeli czas pobytu dziecka przekracza 5 godzin dziennie lub jest zapewniane leżakowanie;
+
+- **2)** wysokość pomieszczeń przeznaczonych na pobyt dzieci wynosi co najmniej 2,5 m;
+- **3)** jest zapewniona możliwość otwierania w pomieszczeniu przeznaczonym na pobyt dzieci co najmniej 50% powierzchni okien przy zastosowaniu wentylacji grawitacyjnej;
+- **4)** w pomieszczeniach lokalu jest zapewnione oświetlenie o parametrach zgodnych z Polską Normą;
+- **5)** w pomieszczeniach przeznaczonych na pobyt dzieci na grzejnikach centralnego ogrzewania są umieszczone osłony ochraniające przed bezpośrednim kontaktem z elementem grzejnym;
+- **6)** w pomieszczeniach jest zapewniona temperatura co najmniej 20°C;
+- **7)** posiada co najmniej jedno pomieszczenie sanitarno-higieniczne, wyposażone w miskę ustępową oraz w urządzenia sanitarne do utrzymania higieny osobistej, w tym przeznaczone do mycia z ciepłą i zimą wodą, w szczególności umywalkę i brodzik z natryskiem, w którym:
+    - **a)** jest zapewniona jedna miska ustępowa i jedna umywalka na nie więcej niż 15 dzieci,
+    - **b)** w urządzeniach sanitarnych jest zapewniona centralna regulacja mieszania ciepłej wody,
+    - **c)** temperatura ciepłej wody doprowadzonej do urządzeń sanitarnych wynosi od 35°C do 40°C,
+    - **d)** dopuszcza się możliwość korzystania przez osoby wykonujące pracę w punkcie lub zespole z urządzeń sanitarnych przewidzianych dla dzieci,
+    - **e)** nie wymaga się wydzielania przedsionka,
+    - **f)** wydziela się kabiny ustępowe – w przypadku wyposażenia pomieszczenia w więcej niż jeden ustęp,
+    - **g)** jest zapewnione miejsce do higienicznego przechowywania przyborów toaletowych i ręczników dzieci,
+    - **h)** podłoga oraz ściany są wykonane tak, aby było możliwe łatwe utrzymanie pomieszczenia w czystości, a ściany pomieszczeń do wysokości co najmniej 2 m są pokryte materiałami zmywalnymi, nienasiąkliwymi i odpornymi na działanie wilgoci oraz materiałami nietoksycznymi i odpornymi na działanie środków dezynfekcyjnych,
+    - **i)** dopuszcza się wysokość nie niższą niż 2,2 m w świetle pod warunkiem wyposażenia pomieszczenia z oknem co najmniej w wentylację grawitacyjną, a pomieszczenia bez okien w wentylację mechaniczną wywiewną;
+
+- **8)** dopuszcza się, aby pomieszczenie sanitarno-higieniczne, o którym mowa w pkt 7, było przeznaczone do wspólnego użytku chłopców i dziewczynek;
+- **9)** jest zapewnione miejsce do przechowywania sprzętu i środków utrzymania czystości, zabezpieczone przed dostępem dzieci;
+- **10)** jest zapewniona możliwość higienicznego poboru w lokalu ciepłej i zimnej wody do celów porządkowych z instalacji wodociągowej oraz odprowadzenia powstałych ścieków do instalacji kanalizacyjnej;
+- **11)** jest zapewnione miejsce do przechowywania odzieży wierzchniej dzieci i osób wykonujących pracę w punkcie lub zespole;
+- **12)** jest zapewniona możliwość leżakowania, jeżeli czas pobytu dziecka przekracza 5 godzin dziennie;
+- **13)** pościel i leżaki są wyraźnie oznakowane w sposób umożliwiający identyfikację dziecka, które z nich korzysta, oraz odpowiednio przechowywane;
+- **14)** meble są dostosowane do wymagań ergonomii;
+- **15)** wyposażenie, o którym mowa w § 2 pkt 2, posiada atesty lub certyfikaty;
+- **16)** zabawki spełniają wymagania bezpieczeństwa i higieny oraz posiadają oznakowanie CE;
+- **17)** dopuszcza się wykorzystanie pomieszczenia przeznaczonego na zbiorowy pobyt dzieci do zabawy, nauki, leżakowania lub spożywania posiłków, przy zastosowaniu rozwiązań organizacyjnych zapewniających realizację programu wychowania przedszkolnego oraz bezpieczne i higieniczne warunki pobytu dzieci;
+- **18)** apteczki w lokalu są wyposażone w podstawowe środki opatrunkowe;
+- **19)** jest zapewnione utrzymanie czystości i porządku w lokalu, pomieszczenia są utrzymywane w odpowiednim stanie, są przeprowadzane ich okresowe remonty i konserwacje.
+
+**§ 6.**
+
+1. Organ prowadzący punkt lub zespół ustala jego organizację, określając w szczególności:
+
+- **1)** nazwę punktu lub zespołu i miejsce jego prowadzenia;
+- **2)** cele i zadania punktu lub zespołu wynikające z przepisów prawa oraz sposób ich realizacji, z uwzględnieniem wspomagania indywidualnego rozwoju dziecka oraz wspomagania rodziny w wychowaniu dziecka i przygotowaniu go do nauki w szkole, a w przypadku dzieci niepełnosprawnych – ze szczególnym uwzględnieniem rodzaju niepełnosprawności;
+- **3)** dzienny wymiar godzin zajęć świadczonego w punkcie lub zespole nauczania, wychowania i opieki, a w przypadku publicznego punktu lub zespołu również dzienny wymiar godzin zajęć bezpłatnego nauczania, wychowania i opieki;
+- **4)** dni tygodnia, w których są prowadzone zajęcia – w przypadku zespołu;
+- **5)** prawa i obowiązki wychowanków punktu lub zespołu, w tym przypadki, w których organ prowadzący może skreślić dziecko z listy wychowanków punktu lub zespołu, z zastrzeżeniem ust. 2;
+- **6)** warunki pobytu dzieci w punkcie lub zespole zapewniające im bezpieczeństwo;
+- **7)** sposób sprawowania opieki nad dziećmi w czasie zajęć w punkcie lub zespole;
+- **8)** warunki przyprowadzania dzieci na zajęcia i odbierania z nich przez rodziców lub upoważnioną przez nich osobę zapewniającą dziecku pełne bezpieczeństwo;
+- **9)** warunki organizowania zajęć w czasie przekraczającym wymiar zajęć nauczania, wychowania i opieki, o którym mowa w pkt 3;
+- **10)** terminy przerw w pracy punktu lub zespołu;
+- **11)** zakres zadań nauczycieli prowadzących zajęcia w punkcie lub zespole, związanych z:
+    - **a)** współdziałaniem z rodzicami w sprawach wychowania i nauczania dzieci, z uwzględnieniem prawa rodziców do znajomości zadań wynikających z programu wychowania przedszkolnego realizowanego w punkcie lub zespole oraz uzyskiwania informacji dotyczących dziecka, jego zachowania i rozwoju,
+    - **b)** zachowaniem właściwej jakości pracy dydaktycznej, wychowawczej i opiekuńczej,
+    - **c)** prowadzeniem obserwacji pedagogicznych mających na celu poznanie możliwości i potrzeb rozwojowych dzieci oraz dokumentowaniem tych obserwacji,
+    - **d)** przeprowadzeniem, w roku szkolnym poprzedzającym rok szkolny, w którym dziecko realizujące obowiązek rocznego przygotowania przedszkolnego rozpoczyna naukę w szkole podstawowej, diagnozy gotowości do podjęcia nauki w szkole,
+    - **e)** przeprowadzeniem, na wniosek rodziców dzieci 5-letnich, które mogą rozpocząć naukę w szkole podstawowej w wieku 6 lat, diagnozy gotowości do podjęcia nauki w szkole, zgodnie z lit. d,
+    - **f)** współpracą ze specjalistami świadczącymi dzieciom pomoc psychologiczno-pedagogiczną lub opiekę zdrowotną;
+
+- **12)** przyjmowania dzieci na zajęcia tego punktu lub zespołu – w przypadku niepublicznego punktu lub zespołu innego niż punkt lub zespół, o którym mowa w ust. 2.
+
+2. Skreślenie dziecka z listy wychowanków, o którym mowa w ust. 1 pkt 5, nie dotyczy dziecka realizującego obowiązek rocznego przygotowania przedszkolnego w publicznym punkcie lub zespole lub niepublicznym punkcie lub zespole, o którym mowa w art. 90 ust. 1c ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm. ).
+
+**§ 7.**
+
+1. Wychowaniem przedszkolnym w punkcie lub zespole obejmuje się nie więcej niż 25 dzieci.
+
+2. Zajęcia w punkcie lub zespole są prowadzone w grupach liczących od 3 do 25 dzieci.
+
+**§ 8.** Minimalny dzienny wymiar godzin zajęć świadczonego w punkcie lub zespole nauczania, wychowania i opieki wynosi 3 godziny, a minimalny tygodniowy wymiar godzin tych zajęć wynosi:
+
+- **1)** w grupie liczącej od 3 do 12 dzieci – 12 godzin;
+- **2)** w grupie liczącej od 13 do 16 dzieci – 16 godzin;
+- **3)** w grupie liczącej od 17 do 20 dzieci – 20 godzin;
+- **4)** w grupie liczącej od 21 do 25 dzieci – 25 godzin.
+
+**§ 9.** Nauczyciel prowadzący zajęcia w punkcie lub zespole realizuje program wychowania przedszkolnego.
+
+**§ 10.** W zajęciach prowadzonych w punkcie lub zespole mogą uczestniczyć rodzice dzieci uczęszczających na zajęcia lub inni pełnoletni członkowie ich rodzin upoważnieni przez rodziców.
+
+**§ 11.** Nauczyciel prowadzący zajęcia w punkcie lub zespole współpracuje z rodzinami dzieci uczęszczających na zajęcia, w szczególności przez:
+
+- **1)** korzystanie z pomocy rodziców lub innych pełnoletnich członków rodzin dzieci, upoważnionych przez rodziców, w sprawowaniu opieki nad dziećmi w czasie prowadzenia zajęć;
+- **2)** prowadzenie konsultacji i udzielanie porad rodzicom w zakresie pracy z dziećmi.
+
+**§ 12.**
+
+1. Nauczyciele prowadzący zajęcia w punkcie lub zespole oraz inne osoby wykonujące pracę w punkcie lub zespole są obowiązani posiadać orzeczenie lekarskie o braku przeciwwskazań do wykonywania tych prac, wydane zgodnie z przepisami ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2016 r. poz. 1866, 2003 i 2173).
+
+2. Wymóg określony w ust. 1 stosuje się odpowiednio do osób, o których mowa w § 10, uczestniczących w zajęciach prowadzonych w punkcie lub zespole.
+
+**§ 13.**
+
+1. Przebieg działalności dydaktycznej, wychowawczej i opiekuńczej z dziećmi w punkcie lub zespole w danym roku szkolnym jest dokumentowany w dzienniku zajęć punktu lub zespołu.
+
+2. W dzienniku zajęć punktu lub zespołu wpisuje się w porządku alfabetycznym nazwiska i imiona dzieci uczęszczających na zajęcia, daty i miejsca ich urodzenia, nazwiska i imiona rodziców i adresy ich zamieszkania. W dzienniku zajęć odnotowuje się obecność dzieci na zajęciach dydaktycznych, wychowawczych i opiekuńczych, a także godziny przyprowadzania i odbierania dziecka z punktu lub zespołu.
+
+3. Nauczyciel potwierdza podpisem w dzienniku zajęć punktu lub zespołu przeprowadzenie zajęć dydaktycznych, wychowawczych i opiekuńczych w danym dniu.
+
+**§ 14.** Organy prowadzące publiczne i niepubliczne punkty i zespoły, założone i funkcjonujące przed dniem 1 września 2017 r., dostosują działalność tych punktów i zespołów do wymagań określonych w niniejszym rozporządzeniu do dnia 31 sierpnia 2020 r.
+
+**§ 15.** Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. Minister Edukacji Narodowej: wz. M. Machałek
 

@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000191) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/191/text.pdf) |
 
 zmieniające rozporządzenie w sprawie rodzaju, zakresu oraz sposobu przeprowadzania przeszkolenia specjalistycznego do mianowania na pierwszy stopień oficerski Straży Granicznej Na podstawie art. 55 ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365 i 2405 oraz z 2018 r. poz. 106 i 138) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2002 r. w sprawie rodzaju, zakresu oraz sposobu przeprowadzania przeszkolenia specjalistycznego do mianowania na pierwszy stopień oficerski Straży Granicznej (Dz. U. poz. 790 oraz z 2014 r. poz. 15) w § 3 ust. 3 otrzymuje brzmienie: „3. Praktyki zawodowe, o których mowa w ust. 2, są przeprowadzane w komórkach organizacyjnych Komendy Głównej Straży Granicznej, Biurze Spraw Wewnętrznych Straży Granicznej, oddziałach, ośrodkach, placówkach i dywizjonach Straży Granicznej.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r.
-Minister Spraw Wewnętrznych i Administracji: J. Brudziński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2002 r. w sprawie rodzaju, zakresu oraz sposobu przeprowadzania przeszkolenia specjalistycznego do mianowania na pierwszy stopień oficerski Straży Granicznej (Dz. U. poz. 790 oraz z 2014 r. poz. 15) w § 3 ust. 3 otrzymuje brzmienie: „3. Praktyki zawodowe, o których mowa w ust. 2, są przeprowadzane w komórkach organizacyjnych Komendy Głównej Straży Granicznej, Biurze Spraw Wewnętrznych Straży Granicznej, oddziałach, ośrodkach, placówkach i dywizjonach Straży Granicznej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 27 stycznia 2018 r. Minister Spraw Wewnętrznych i Administracji: J. Brudziński
 

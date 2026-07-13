@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie wysokości kwoty bazowej w 2021 r.
 Na podstawie art. 20 ust. 5 ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (Dz. U. z 2019 r. poz. 294 oraz z 2020 r. poz. 875 i 1086) zarządza się, co następuje:
-§ 1. W 2021 r. kwota bazowa stanowiąca podstawę ustalenia wysokości dotacji na finansowanie zadań polegających na udzielaniu nieodpłatnej pomocy prawnej, świadczeniu nieodpłatnego poradnictwa obywatelskiego oraz edukacji prawnej, o której mowa w art. 11 ust. 7 zdanie drugie ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej, wynosi 5 500 zł.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W 2021 r. kwota bazowa stanowiąca podstawę ustalenia wysokości dotacji na finansowanie zadań polegających na udzielaniu nieodpłatnej pomocy prawnej, świadczeniu nieodpłatnego poradnictwa obywatelskiego oraz edukacji prawnej, o której mowa w art. 11 ust. 7 zdanie drugie ustawy z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej, wynosi 5 500 zł.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. Minister Sprawiedliwości: Z. Ziobro
 

@@ -36,27 +36,16 @@ source: pdf
 - **2)** w art. 16j po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. W roku 2013 rezydentura jest finansowana przez ministra właściwego do spraw zdrowia ze środków Funduszu Pracy.”;
 - **3)** w art. 16k po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. W roku 2013 szkolenie specjalizacyjne jest dofinansowywane przez ministra właściwego do spraw zdrowia ze środków Funduszu Pracy.”.
 
-**Art. 3.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm. ) po art. 68ga dodaje się art. 68gb w brzmieniu: „Art. 68gb. W roku 2013:
-
-- **1)** pracodawcy zatrudniającemu w przeliczeniu na pełny wymiar czasu pracy mniej niż 25 pracowników oraz pracodawcy zatrudniającemu co najmniej 25 pracowników w przeliczeniu na pełny wymiar czasu pracy i osiągającemu wskaźnik zatrudnienia osób niepełnosprawnych w wysokości co najmniej 6% przysługuje miesięczne dofinansowanie w wysokości:
-    - **a)** 70% kwot, o których mowa w art. 26a ust. 1,
-    - **b)** 90% kwot, o których mowa w art. 26a ust. 1 i 1b;
-
-- **2)** pracodawcy prowadzącemu zakład pracy chronionej przysługuje 100% kwot dofinansowania, o których mowa w art. 26a ust. 1 i 1b.”.
+**Art. 3.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm. ) po art. 68ga dodaje się art. 68gb w brzmieniu: „Art. 68gb. W roku 2013: 1) pracodawcy zatrudniającemu w przeliczeniu na pełny wymiar czasu pracy mniej niż 25 pracowników oraz pracodawcy zatrudniającemu co najmniej 25 pracowników w przeliczeniu na pełny wymiar czasu pracy i osiągającemu wskaźnik zatrudnienia osób niepełnosprawnych w wysokości co najmniej 6% przysługuje miesięczne dofinansowanie w wysokości: a) 70% kwot, o których mowa w art. 26a ust. 1, b) 90% kwot, o których mowa w art. 26a ust. 1 i 1b; 2) pracodawcy prowadzącemu zakład pracy chronionej przysługuje 100% kwot dofinansowania, o których mowa w art. 26a ust. 1 i 1b.”.
 
 **Art. 4.** W ustawie z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2011 r. Nr 79, poz. 431 i Nr 291, poz. 1707) po art. 29j dodaje się art. 29k w brzmieniu: „Art. 29k. Kwotę bazową dla osób zajmujących kierownicze stanowiska państwowe w 2013 r. ustala się w wysokości przysługującej tym osobom w 2008 r. W 2013 r. kwota bazowa dla osób zajmujących kierownicze stanowiska państwowe nie jest waloryzowana.”.
 
 **Art. 5.** W ustawie z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. Nr 26, poz. 306, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 pkt 7 otrzymuje brzmienie: „7) członków organów nadzorczych jednostek organizacyjnych wymienionych w art. 1 pkt 2–8, a w szczególności rad nadzorczych i komisji rewizyjnych,”;
-- **2)** po art. 29c dodaje się art. 29d w brzmieniu: „Art. 29d. 1. Przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale 2009 r. stanowi w 2013 r. podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego, o którym mowa w art. 8, z zastrzeżeniem ust. 2.
+- **2)** po art. 29c dodaje się art. 29d w brzmieniu: „Art. 29d. 1. Przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale 2009 r. stanowi w 2013 r. podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego, o którym mowa w art. 8, z zastrzeżeniem ust. 2. 2. W przypadku członków organów nadzorczych jednostek, o których mowa w art. 2 pkt 7, w jednostkach organizacyjnych wymienionych w art. 1 pkt 8, a w szczególności rad nadzorczych i komisji rewizyjnych, podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego stanowi w 2013 r. przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale 2011 r.”.
 
-2. W przypadku członków organów nadzorczych jednostek, o których mowa w art. 2 pkt 7, w jednostkach organizacyjnych wymienionych w art. 1 pkt 8, a w szczególności rad nadzorczych i komisji rewizyjnych, podstawę do ustalenia maksymalnej wysokości wynagrodzenia miesięcznego stanowi w 2013 r. przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale 2011 r.”.
-
-**Art. 6.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm. ) w art. 108 po ust. 1d dodaje się ust. 1e w brzmieniu: „1e. Ze środków Funduszu Pracy w 2013 r. są finansowane:
-
-- **1)** staże podyplomowe oraz szkolenia specjalizacyjne lekarzy i lekarzy dentystów, o których mowa w przepisach o zawodach lekarza i lekarza dentysty;
-- **2)** staże podyplomowe oraz specjalizacje pielęgniarek i położnych, o których mowa w przepisach o zawodach pielęgniarki i położnej.”.
+**Art. 6.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm. ) w art. 108 po ust. 1d dodaje się ust. 1e w brzmieniu: „1e. Ze środków Funduszu Pracy w 2013 r. są finansowane: 1) staże podyplomowe oraz szkolenia specjalizacyjne lekarzy i lekarzy dentystów, o których mowa w przepisach o zawodach lekarza i lekarza dentysty; 2) staże podyplomowe oraz specjalizacje pielęgniarek i położnych, o których mowa w przepisach o zawodach pielęgniarki i położnej.”.
 
 **Art. 7.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2011 r. Nr 108, poz. 626, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -65,153 +54,50 @@ source: pdf
     - **b)** po pkt 23a dodaje się pkt 23b w brzmieniu: „23b) pośredniczący podmiot tytoniowy – podmiot prowadzący działalność gospodarczą w zakresie sprzedaży suszu tytoniowego, który pisemnie powiadomił właściwego naczelnika urzędu celnego o tej działalności;”;
 
 - **2)** art. 5 otrzymuje brzmienie: „Art. 5. Czynności lub stany faktyczne, o których mowa w art. 8 ust. 1–5, art. 9 ust. 1, art. 9a ust. 1 i 2, art. 9b ust. 1 i 2 oraz art. 100 ust. 1 i 2, są przedmiotem opodatkowania akcyzą niezależnie od tego, czy zostały wykonane lub powstały z zachowaniem warunków oraz form określonych przepisami prawa.”;
-- **3)** po art. 9a dodaje się art. 9b w brzmieniu: „Art. 9b. 1. W przypadku suszu tytoniowego przedmiotem opodatkowania akcyzą jest:
-- **1)** nabycie wewnątrzwspólnotowe suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy lub pośredniczący podmiot tytoniowy;
-- **2)** sprzedaż suszu tytoniowego innemu podmiotowi niż podmiot prowadzący skład podatkowy lub pośredniczący podmiot tytoniowy;
-- **3)** import suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy lub pośredniczący podmiot tytoniowy;
-- **4)** zużycie suszu tytoniowego przez pośredniczący podmiot tytoniowy;
-- **5)** zużycie suszu tytoniowego przez podmiot prowadzący skład podatkowy do innych celów niż produkcja wyrobów tytoniowych;
-- **6)** nabycie lub posiadanie suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy, pośredniczący podmiot tytoniowy lub rolnika, który wyprodukował susz tytoniowy, jeżeli nie została od niego zapłacona akcyza w należnej wysokości i nie można ustalić podmiotu, który dokonał jego sprzedaży.
-
-2. Za sprzedaż uznaje się czynności, o których mowa w art. 9a ust. 2 pkt 1–8.
-
-3. Jeżeli w stosunku do suszu tytoniowego powstał obowiązek podatkowy w związku z wykonaniem jednej z czynności, o których mowa w ust. 1, to nie powstaje obowiązek podatkowy na podstawie innej czynności podlegającej opodatkowaniu akcyzą, jeżeli kwota akcyzy została określona lub zadeklarowana w należnej wysokości.
-
-4. W przypadku sprzedaży suszu tytoniowego, sprzedawca jest obowiązany ustalić, czy sprzedaje ten susz podmiotowi prowadzącemu skład podatkowy lub pośredniczącemu podmiotowi tytoniowemu.
-
-5. W sytuacji, o której mowa w ust. 4, sprzedawca suszu tytoniowego może zażądać od nabywcy przedstawienia zezwolenia na prowadzenie składu podatkowego albo potwierdzenia przyjęcia powiadomienia o zamiarze rozpoczęcia działalności gospodarczej jako pośredniczący podmiot tytoniowy, a w razie odmowy ich przedstawienia przez nabywcę może odmówić sprzedaży suszu tytoniowego po cenie nieuwzględniającej akcyzy.”;
-
-- **4)** po art. 11 dodaje się art. 11a w brzmieniu: „Art. 11a. W przypadku suszu tytoniowego obowiązek podatkowy powstaje z dniem:
-- **1)** nabycia wewnątrzwspólnotowego suszu tytoniowego;
-- **2)** wydania suszu tytoniowego w przypadku dokonania jego sprzedaży;
-- **3)** zużycia suszu tytoniowego;
-- **4)** nabycia lub wejścia w posiadanie suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy, pośredniczący podmiot tytoniowy lub rolnika, który wyprodukował susz tytoniowy, jeżeli nie została od niego zapłacona akcyza w należnej wysokości i nie można ustalić podmiotu, który dokonał sprzedaży suszu tytoniowego;
-- **5)** powstania długu celnego, w przypadku importu suszu tytoniowego.”;
+- **3)** po art. 9a dodaje się art. 9b w brzmieniu: „Art. 9b. 1. W przypadku suszu tytoniowego przedmiotem opodatkowania akcyzą jest: 1) nabycie wewnątrzwspólnotowe suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy lub pośredniczący podmiot tytoniowy; 2) sprzedaż suszu tytoniowego innemu podmiotowi niż podmiot prowadzący skład podatkowy lub pośredniczący podmiot tytoniowy; 3) import suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy lub pośredniczący podmiot tytoniowy; 4) zużycie suszu tytoniowego przez pośredniczący podmiot tytoniowy; 5) zużycie suszu tytoniowego przez podmiot prowadzący skład podatkowy do innych celów niż produkcja wyrobów tytoniowych; 6) nabycie lub posiadanie suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy, pośredniczący podmiot tytoniowy lub rolnika, który wyprodukował susz tytoniowy, jeżeli nie została od niego zapłacona akcyza w należnej wysokości i nie można ustalić podmiotu, który dokonał jego sprzedaży. 2. Za sprzedaż uznaje się czynności, o których mowa w art. 9a ust. 2 pkt 1–8. 3. Jeżeli w stosunku do suszu tytoniowego powstał obowiązek podatkowy w związku z wykonaniem jednej z czynności, o których mowa w ust. 1, to nie powstaje obowiązek podatkowy na podstawie innej czynności podlegającej opodatkowaniu akcyzą, jeżeli kwota akcyzy została określona lub zadeklarowana w należnej wysokości. 4. W przypadku sprzedaży suszu tytoniowego, sprzedawca jest obowiązany ustalić, czy sprzedaje ten susz podmiotowi prowadzącemu skład podatkowy lub pośredniczącemu podmiotowi tytoniowemu. 5. W sytuacji, o której mowa w ust. 4, sprzedawca suszu tytoniowego może zażądać od nabywcy przedstawienia zezwolenia na prowadzenie składu podatkowego albo potwierdzenia przyjęcia powiadomienia o zamiarze rozpoczęcia działalności gospodarczej jako pośredniczący podmiot tytoniowy, a w razie odmowy ich przedstawienia przez nabywcę może odmówić sprzedaży suszu tytoniowego po cenie nieuwzględniającej akcyzy.”;
+- **4)** po art. 11 dodaje się art. 11a w brzmieniu: „Art. 11a. W przypadku suszu tytoniowego obowiązek podatkowy powstaje z dniem: 1) nabycia wewnątrzwspólnotowego suszu tytoniowego; 2) wydania suszu tytoniowego w przypadku dokonania jego sprzedaży; 3) zużycia suszu tytoniowego; 4) nabycia lub wejścia w posiadanie suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy, pośredniczący podmiot tytoniowy lub rolnika, który wyprodukował susz tytoniowy, jeżeli nie została od niego zapłacona akcyza w należnej wysokości i nie można ustalić podmiotu, który dokonał sprzedaży suszu tytoniowego; 5) powstania długu celnego, w przypadku importu suszu tytoniowego.”;
 - **5)** w art. 13 w ust. 1:
     - **a)** po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) będący nabywcą lub posiadaczem suszu tytoniowego niebędący podmiotem prowadzącym skład podatkowy, pośredniczącym podmiotem tytoniowym lub rolnikiem, który wyprodukował susz tytoniowy, jeżeli nie została od tego suszu zapłacona akcyza w należnej wysokości i nie można ustalić podmiotu, który dokonał sprzedaży tego suszu;”,
-    - **b)** w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 i 9 w brzmieniu: „8) będący pośredniczącym podmiotem tytoniowym zużywającym susz tytoniowy;
+    - **b)** w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 i 9 w brzmieniu: „8) będący pośredniczącym podmiotem tytoniowym zużywającym susz tytoniowy; 9) będący podmiotem prowadzącym skład podatkowy zużywającym susz tytoniowy do innych celów niż produkcja wyrobów tytoniowych.”;
 
-- **9)** będący podmiotem prowadzącym skład podatkowy zużywającym susz tytoniowy do innych celów niż produkcja wyrobów tytoniowych.”;
-- **6)** w art. 16 ust. 3a–4a otrzymują brzmienie: „3a. Podmiot zamierzający prowadzić działalność gospodarczą jako pośredniczący podmiot węglowy lub pośredniczący podmiot tytoniowy, zamiast złożenia zgłoszenia rejestracyjnego, o którym mowa w ust. 1, jest obowiązany przed dniem rozpoczęcia tej działalności powiadomić pisemnie o tym właściwego naczelnika urzędu celnego. Powiadomienie powinno zawierać dane dotyczące tego podmiotu i prowadzonej przez niego działalności gospodarczej, w szczególności imię i nazwisko lub nazwę podmiotu, adres jego siedziby lub zamieszkania, NIP lub REGON albo inny numer identyfikacyjny używany w państwie siedziby lub zamieszkania podmiotu oraz określenie rodzaju prowadzonej działalności gospodarczej.
-
-3b. Właściwy naczelnik urzędu celnego bez zbędnej zwłoki pisemnie potwierdza przyjęcie powiadomienia o zamiarze rozpoczęcia działalności gospodarczej jako pośredniczący podmiot węglowy lub pośredniczący podmiot tytoniowy. Potwierdzenie to powinno zawierać dane, o których mowa w ust. 3a, oraz oznaczenie organu potwierdzającego.
-
-3c. Minister właściwy do spraw finansów publicznych lub upoważniony przez niego organ publikuje bez zbędnej zwłoki w Biuletynie Informacji Publicznej aktualną listę pośredniczących podmiotów węglowych oraz pośredniczących podmiotów tytoniowych, obejmującą ich następujące dane: imię i nazwisko lub nazwę oraz adres siedziby lub zamieszkania, NIP lub REGON oraz określenie rodzaju prowadzonej działalności gospodarczej.
-
-4. Jeżeli dane zawarte w zgłoszeniu rejestracyjnym lub pisemnym powiadomieniu o zamiarze rozpoczęcia działalności gospodarczej jako pośredniczący podmiot węglowy lub pośredniczący podmiot tytoniowy ulegną zmianie, podmiot jest obowiązany zgłosić zmianę właściwemu naczelnikowi urzędu celnego w terminie 7 dni, licząc od dnia, w którym nastąpiła zmiana.
-
-4a. Pośredniczący podmiot węglowy oraz pośredniczący podmiot tytoniowy są obowiązani poinformować właściwego naczelnika urzędu celnego o zaprzestaniu prowadzenia działalności gospodarczej w tym charakterze, w terminie 7 dni, licząc od dnia, w którym zaprzestano prowadzenia działalności.”;
-
-- **7)** po art. 16 dodaje się art. 16a w brzmieniu: „Art. 16a. 1. W przypadku sprzedaży przez pośredniczący podmiot tytoniowy suszu tytoniowego nieoznaczonego znakami akcyzy innemu podmiotowi niż podmiot prowadzący skład podatkowy lub pośredniczący podmiot tytoniowy, właściwy naczelnik urzędu celnego wydaje z urzędu decyzję o utracie ważności wydanego wcześniej temu pośredniczącemu podmiotowi tytoniowemu pisemnego potwierdzenia przyjęcia powiadomienia o zamiarze rozpoczęcia działalności gospodarczej jako pośredniczący podmiot tytoniowy oraz o skreśleniu go z listy, o której mowa w art. 16 ust. 3c.
-
-2. Pisemne potwierdzenie przyjęcia powiadomienia o zamiarze rozpoczęcia działalności gospodarczej jako pośredniczący podmiot tytoniowy traci ważność z dniem wydania decyzji, o której mowa w ust. 1.
-
-3. Właściwy naczelnik urzędu celnego po wydaniu decyzji, o której mowa w ust. 1, wykreśla pośredniczący podmiot tytoniowy z listy, o której mowa w art. 16 ust. 3c, oraz zamieszcza w Biuletynie Informacji Publicznej informację o utracie ważności wydanego wcześniej temu pośredniczącemu podmiotowi tytoniowemu pisemnego potwierdzenia przyjęcia powiadomienia o zamiarze rozpoczęcia działalności gospodarczej jako pośredniczący podmiot tytoniowy.
-
-4. Ponowne wydanie podmiotowi, wobec którego została wydana decyzja, o której mowa w ust. 1, pisemnego potwierdzenia przyjęcia powiadomienia o zamiarze rozpoczęcia prowadzenia działalności gospodarczej jako pośredniczący podmiot tytoniowy oraz umieszczenie go na liście, o której mowa w art. 16 ust. 3c, możliwe jest po upływie trzech lat od doręczenia decyzji, o której mowa w ust. 1.”;
-
+- **6)** w art. 16 ust. 3a–4a otrzymują brzmienie: „3a. Podmiot zamierzający prowadzić działalność gospodarczą jako pośredniczący podmiot węglowy lub pośredniczący podmiot tytoniowy, zamiast złożenia zgłoszenia rejestracyjnego, o którym mowa w ust. 1, jest obowiązany przed dniem rozpoczęcia tej działalności powiadomić pisemnie o tym właściwego naczelnika urzędu celnego. Powiadomienie powinno zawierać dane dotyczące tego podmiotu i prowadzonej przez niego działalności gospodarczej, w szczególności imię i nazwisko lub nazwę podmiotu, adres jego siedziby lub zamieszkania, NIP lub REGON albo inny numer identyfikacyjny używany w państwie siedziby lub zamieszkania podmiotu oraz określenie rodzaju prowadzonej działalności gospodarczej. 3b. Właściwy naczelnik urzędu celnego bez zbędnej zwłoki pisemnie potwierdza przyjęcie powiadomienia o zamiarze rozpoczęcia działalności gospodarczej jako pośredniczący podmiot węglowy lub pośredniczący podmiot tytoniowy. Potwierdzenie to powinno zawierać dane, o których mowa w ust. 3a, oraz oznaczenie organu potwierdzającego. 3c. Minister właściwy do spraw finansów publicznych lub upoważniony przez niego organ publikuje bez zbędnej zwłoki w Biuletynie Informacji Publicznej aktualną listę pośredniczących podmiotów węglowych oraz pośredniczących podmiotów tytoniowych, obejmującą ich następujące dane: imię i nazwisko lub nazwę oraz adres siedziby lub zamieszkania, NIP lub REGON oraz określenie rodzaju prowadzonej działalności gospodarczej. 4. Jeżeli dane zawarte w zgłoszeniu rejestracyjnym lub pisemnym powiadomieniu o zamiarze rozpoczęcia działalności gospodarczej jako pośredniczący podmiot węglowy lub pośredniczący podmiot tytoniowy ulegną zmianie, podmiot jest obowiązany zgłosić zmianę właściwemu naczelnikowi urzędu celnego w terminie 7 dni, licząc od dnia, w którym nastąpiła zmiana. 4a. Pośredniczący podmiot węglowy oraz pośredniczący podmiot tytoniowy są obowiązani poinformować właściwego naczelnika urzędu celnego o zaprzestaniu prowadzenia działalności gospodarczej w tym charakterze, w terminie 7 dni, licząc od dnia, w którym zaprzestano prowadzenia działalności.”;
+- **7)** po art. 16 dodaje się art. 16a w brzmieniu: „Art. 16a. 1. W przypadku sprzedaży przez pośredniczący podmiot tytoniowy suszu tytoniowego nieoznaczonego znakami akcyzy innemu podmiotowi niż podmiot prowadzący skład podatkowy lub pośredniczący podmiot tytoniowy, właściwy naczelnik urzędu celnego wydaje z urzędu decyzję o utracie ważności wydanego wcześniej temu pośredniczącemu podmiotowi tytoniowemu pisemnego potwierdzenia przyjęcia powiadomienia o zamiarze rozpoczęcia działalności gospodarczej jako pośredniczący podmiot tytoniowy oraz o skreśleniu go z listy, o której mowa w art. 16 ust. 3c. 2. Pisemne potwierdzenie przyjęcia powiadomienia o zamiarze rozpoczęcia działalności gospodarczej jako pośredniczący podmiot tytoniowy traci ważność z dniem wydania decyzji, o której mowa w ust. 1. 3. Właściwy naczelnik urzędu celnego po wydaniu decyzji, o której mowa w ust. 1, wykreśla pośredniczący podmiot tytoniowy z listy, o której mowa w art. 16 ust. 3c, oraz zamieszcza w Biuletynie Informacji Publicznej informację o utracie ważności wydanego wcześniej temu pośredniczącemu podmiotowi tytoniowemu pisemnego potwierdzenia przyjęcia powiadomienia o zamiarze rozpoczęcia działalności gospodarczej jako pośredniczący podmiot tytoniowy. 4. Ponowne wydanie podmiotowi, wobec którego została wydana decyzja, o której mowa w ust. 1, pisemnego potwierdzenia przyjęcia powiadomienia o zamiarze rozpoczęcia prowadzenia działalności gospodarczej jako pośredniczący podmiot tytoniowy oraz umieszczenie go na liście, o której mowa w art. 16 ust. 3c, możliwe jest po upływie trzech lat od doręczenia decyzji, o której mowa w ust. 1.”;
 - **8)** w art. 21 w ust. 7 w pkt 2 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „e) podmiotu dokonującego czynności, o których mowa w art. 9b ust. 1 pkt 1 i 2;”;
 - **9)** po art. 24 dodaje się art. 24a w brzmieniu: „Art. 24a. W przypadku suszu tytoniowego podatnik jest obowiązany, bez wezwania organu podatkowego, składać właściwemu naczelnikowi urzędu celnego deklaracje podatkowe według ustalonego wzoru oraz obliczać i wpłacać akcyzę na rachunek właściwej izby celnej, za miesięczne okresy rozliczeniowe, w terminie do 25. dnia miesiąca następującego po miesiącu, w którym powstał obowiązek podatkowy, z zastrzeżeniem art. 78 ust. 1 pkt 3.”;
 - **10)** w art. 40 ust. 7 otrzymuje brzmienie: „7. Procedury zawieszenia poboru akcyzy nie stosuje się do energii elektrycznej, wyrobów węglowych oraz suszu tytoniowego.”;
 - **11)** w art. 47 w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) suszu tytoniowego.”;
-- **12)** w art. 96 ust. 4 otrzymuje brzmienie: „4. Stawki akcyzy na napoje fermentowane wynoszą:
-- **1)** na cydr i perry o kodach CN 2206 00 31, 2206 00 51 oraz 2206 00 81, o rzeczywistej objętościowej mocy alkoholu nieprzekraczającej 5,0% objętości – 97,00 zł od 1 hektolitra gotowego wyrobu;
-- **2)** na pozostałe napoje fermentowane – 158,00 zł od 1 hektolitra gotowego wyrobu.”;
+- **12)** w art. 96 ust. 4 otrzymuje brzmienie: „4. Stawki akcyzy na napoje fermentowane wynoszą: 1) na cydr i perry o kodach CN 2206 00 31, 2206 00 51 oraz 2206 00 81, o rzeczywistej objętościowej mocy alkoholu nieprzekraczającej 5,0% objętości – 97,00 zł od 1 hektolitra gotowego wyrobu; 2) na pozostałe napoje fermentowane – 158,00 zł od 1 hektolitra gotowego wyrobu.”;
 - **13)** w dziale IV tytuł rozdziału 3 otrzymuje brzmienie: „Wyroby tytoniowe i susz tytoniowy”;
 - **14)** w art. 99:
-    - **a)** w ust. 2 pkt 1–3 otrzymują brzmienie: „1) na papierosy, z zastrzeżeniem ust. 10 – 188,00 zł za każde 1000 sztuk i 31,41% maksymalnej ceny detalicznej;
+    - **a)** w ust. 2 pkt 1–3 otrzymują brzmienie: „1) na papierosy, z zastrzeżeniem ust. 10 – 188,00 zł za każde 1000 sztuk i 31,41% maksymalnej ceny detalicznej; 2) na tytoń do palenia, z zastrzeżeniem ust. 10 – 128,02 zł za każdy kilogram i 31,41% maksymalnej ceny detalicznej; 3) na cygara i cygaretki – 266,90 zł za każde 1000 sztuk.”,
+    - **b)** w ust. 3 pkt 1 i 2 otrzymują brzmienie: „1) na papierosy – 327,60 zł za każde 1000 sztuk; 2) na tytoń do palenia – 218,40 zł za każdy kilogram.”;
 
-- **2)** na tytoń do palenia, z zastrzeżeniem ust. 10 – 128,02 zł za każdy kilogram i 31,41% maksymalnej ceny detalicznej;
-- **3)** na cygara i cygaretki – 266,90 zł za każde 1000 sztuk.”,
-    - **b)** w ust. 3 pkt 1 i 2 otrzymują brzmienie: „1) na papierosy – 327,60 zł za każde 1000 sztuk;
-
-- **2)** na tytoń do palenia – 218,40 zł za każdy kilogram.”;
-- **15)** po art. 99 dodaje się art. 99a w brzmieniu: „Art. 99a. 1. Za susz tytoniowy uznaje się suchy tytoń niebędący jeszcze wyrobem tytoniowym.
-
-2. Podstawą opodatkowania suszu tytoniowego jest ilość tego suszu wyrażona w kilogramach.
-
-3. Stawka akcyzy na susz tytoniowy wynosi 218,40 zł za każdy kilogram.
-
-4. W przypadku:
-
-- **1)** nabycia wewnątrzwspólnotowego lub importu suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy lub pośredniczący podmiot tytoniowy, lub
-- **2)** sprzedaży suszu tytoniowego innemu podmiotowi niż podmiot prowadzący skład podatkowy lub pośredniczący podmiot tytoniowy – bez jego oznaczenia znakami akcyzy, stawka akcyzy wynosi 436,80 zł za każdy kilogram.
-
-5. W przypadku nabycia lub posiadania suszu tytoniowego nieoznaczonego znakami akcyzy przez inny podmiot niż podmiot prowadzący skład podatkowy, pośredniczący podmiot tytoniowy lub rolnika, który wyprodukował susz tytoniowy, jeżeli nie została od niego zapłacona akcyza w należnej wysokości i nie można ustalić podmiotu, który dokonał sprzedaży tego suszu, stosuje się stawkę akcyzy, o której mowa w ust. 4.
-
-6. Nie dokonuje się:
-
-- **1)** nabycia wewnątrzwspólnotowego lub importu suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy lub pośredniczący podmiot tytoniowy, lub
-- **2)** sprzedaży suszu tytoniowego innemu podmiotowi niż podmiot prowadzący skład podatkowy lub pośredniczący podmiot tytoniowy – luzem bez opakowania.”;
-- **16)** w art. 116: 16, podmiocie będącym:”,
-    - **a)** w ust. 1 zdanie wstępne otrzymuje brzmienie: „Obowiązek oznaczania wyrobów akcyzowych podatkowymi znakami akcyzy, z zastrzeżeniem ust. 1a, ciąży na zarejestrowanym, zgodnie z art.
+- **15)** po art. 99 dodaje się art. 99a w brzmieniu: „Art. 99a. 1. Za susz tytoniowy uznaje się suchy tytoń niebędący jeszcze wyrobem tytoniowym. 2. Podstawą opodatkowania suszu tytoniowego jest ilość tego suszu wyrażona w kilogramach. 3. Stawka akcyzy na susz tytoniowy wynosi 218,40 zł za każdy kilogram. 4. W przypadku: 1) nabycia wewnątrzwspólnotowego lub importu suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy lub pośredniczący podmiot tytoniowy, lub 2) sprzedaży suszu tytoniowego innemu podmiotowi niż podmiot prowadzący skład podatkowy lub pośredniczący podmiot tytoniowy – bez jego oznaczenia znakami akcyzy, stawka akcyzy wynosi 436,80 zł za każdy kilogram. 5. W przypadku nabycia lub posiadania suszu tytoniowego nieoznaczonego znakami akcyzy przez inny podmiot niż podmiot prowadzący skład podatkowy, pośredniczący podmiot tytoniowy lub rolnika, który wyprodukował susz tytoniowy, jeżeli nie została od niego zapłacona akcyza w należnej wysokości i nie można ustalić podmiotu, który dokonał sprzedaży tego suszu, stosuje się stawkę akcyzy, o której mowa w ust. 4. 6. Nie dokonuje się: 1) nabycia wewnątrzwspólnotowego lub importu suszu tytoniowego przez inny podmiot niż podmiot prowadzący skład podatkowy lub pośredniczący podmiot tytoniowy, lub 2) sprzedaży suszu tytoniowego innemu podmiotowi niż podmiot prowadzący skład podatkowy lub pośredniczący podmiot tytoniowy – luzem bez opakowania.”;
+- **16)** w art. 116:
+    - **a)** w ust. 1 zdanie wstępne otrzymuje brzmienie: „Obowiązek oznaczania wyrobów akcyzowych podatkowymi znakami akcyzy, z zastrzeżeniem ust. 1a, ciąży na zarejestrowanym, zgodnie z art. 16, podmiocie będącym:”,
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Obowiązek oznaczania suszu tytoniowego podatkowymi znakami akcyzy ciąży na podmiocie dokonującym czynności, o których mowa w art. 9b ust. 1 pkt 1–3.”;
 
 - **17)** w art. 117 ust. 1 otrzymuje brzmienie: „1. Wyroby akcyzowe podlegające obowiązkowi oznaczania znakami akcyzy powinny być prawidłowo oznaczone odpowiednimi podatkowymi znakami akcyzy przed zakończeniem procedury zawieszenia poboru akcyzy, a w przypadkach, o których mowa w art. 9b ust. 1 pkt 2 oraz w art. 47 ust. 1 pkt 1, 2, 4 lub 5, odpowiednio przed dokonaniem ich sprzedaży lub przekazaniem do magazynu wyrobów gotowych.”;
 - **18)** w art. 125 po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Podatkowe znaki akcyzy otrzymuje również podmiot dokonujący czynności, o których mowa w art. 9b ust. 1 pkt 1–3.”;
 - **19)** w załączniku nr 1 po poz. 44 dodaje się poz. 45 w brzmieniu: „45 bez względu na kod CN Susz tytoniowy”
-- **20)** w załączniku nr 2 po poz. 24 dodaje się poz. 24a w brzmieniu: „24a ex 3811 Środki przeciwstukowe, inhibitory utleniania, inhibitory tworzenia się żywic, dodatki zwiększające lepkość, preparaty antykorozyjne oraz pozostałe preparaty dodawane do olejów mineralnych (włącznie z benzyną) lub do innych cieczy, stosowanych do tych samych celów, co 3811 11 10 oleje mineralne, wyłącznie:
-- **1)** Środki przeciwstukowe, 3811 11 90 na bazie tetraetyloołowiu
-- **2)** Pozostałe środki przeciwstukowe, 3811 19 00 na bazie związków ołowiu 3811 90 00 3) Pozostałe środki przeciwstukowe
-- **4)** Pozostałe”
-- **21)** w załączniku nr 3 po poz. 10 dodaje się poz. 11 w brzmieniu: „11 bez względu na kod CN Susz tytoniowy”.
+- **20)** w załączniku nr 2 po poz. 24 dodaje się poz. 24a w brzmieniu: „24a ex 3811 Środki przeciwstukowe, inhibitory utleniania, inhibitory tworzenia się żywic, dodatki zwiększające lepkość, preparaty antykorozyjne oraz pozostałe preparaty dodawane do olejów mineralnych (włącznie z benzyną) lub do innych cieczy, stosowanych do tych samych celów, co 3811 11 10 oleje mineralne, wyłącznie: 1) Środki przeciwstukowe, 3811 11 90 na bazie tetraetyloołowiu 2) Pozostałe środki przeciwstukowe, 3811 19 00 na bazie związków ołowiu 3811 90 00 3) Pozostałe środki przeciwstukowe 4) Pozostałe” 21) w załączniku nr 3 po poz. 10 dodaje się poz. 11 w brzmieniu: „11 bez względu na kod CN Susz tytoniowy”.
 
 **Art. 8.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** art. 103 otrzymuje brzmienie: „Art. 103. Wieloletni Plan Finansowy Państwa to plan dochodów i wydatków oraz przychodów i rozchodów budżetu państwa sporządzany na cztery lata budżetowe.”;
 - **2)** po art. 103 dodaje się art. 103a w brzmieniu: „Art. 103a. Wieloletni Plan Finansowy Państwa zawiera wstępną prognozę podstawowych wielkości makroekonomicznych.”;
-- **3)** art. 104 otrzymuje brzmienie: „Art. 104. 1. Wieloletni Plan Finansowy Państwa określa:
-- **1)** prognozy dochodów oraz wydatków budżetu państwa;
-- **2)** kwoty wyniku i potrzeb pożyczkowych budżetu państwa oraz źródła ich sfinansowania;
-- **3)** prognozy dochodów i wydatków budżetu środków europejskich;
-- **4)** wynik budżetu środków europejskich;
-- **5)** prognozę wyniku sektora finansów publicznych;
-- **6)** prognozę kwoty państwowego długu publicznego.
-
-2. Prognozę dochodów budżetu państwa ujmuje się w Wieloletnim Planie Finansowym Państwa według głównych kategorii dochodów, z wyszczególnieniem:
-
-- **1)** dochodów podatkowych:
-    - **a)** podatków pośrednich,
-    - **b)** podatków bezpośrednich;
-
-- **2)** dochodów niepodatkowych;
-- **3)** cła;
-- **4)** środków europejskich i środków, o których mowa w art. 5 ust. 3 pkt 5 lit. a i b, na realizację projektów pomocy technicznej oraz środków, o których mowa w art. 5 ust. 3 pkt 4 lit. b tiret drugie, pkt 5 lit. c i d oraz pkt 6, po ich przekazaniu na rachunek dochodów budżetu państwa.
-
-3. Prognozę wydatków budżetu państwa ujmuje się w Wieloletnim Planie Finansowym Państwa w układzie obejmującym funkcje państwa wraz z celami i miernikami stopnia wykonania danej funkcji.”;
-
-- **4)** w art. 107 ust. 1 i 2 otrzymują brzmienie: „1. Wieloletni Plan Finansowy Państwa jest aktualizowany przez Radę Ministrów, w drodze uchwały, raz w roku, w terminie do dnia 30 kwietnia, i uwzględnia prognozę obejmującą dany rok budżetowy i trzy kolejne lata.
-
-2. Aktualizacja polega na doprowadzeniu danych zawartych w Wieloletnim Planie Finansowym Państwa do zgodności z ustawą budżetową na dany rok budżetowy lub, w uzasadnionych przypadkach, do zgodności z danymi dotyczącymi przewidywanego wykonania ustawy budżetowej za poprzedni rok budżetowy.”;
-
+- **3)** art. 104 otrzymuje brzmienie: „Art. 104. 1. Wieloletni Plan Finansowy Państwa określa: 1) prognozy dochodów oraz wydatków budżetu państwa; 2) kwoty wyniku i potrzeb pożyczkowych budżetu państwa oraz źródła ich sfinansowania; 3) prognozy dochodów i wydatków budżetu środków europejskich; 4) wynik budżetu środków europejskich; 5) prognozę wyniku sektora finansów publicznych; 6) prognozę kwoty państwowego długu publicznego. 2. Prognozę dochodów budżetu państwa ujmuje się w Wieloletnim Planie Finansowym Państwa według głównych kategorii dochodów, z wyszczególnieniem: 1) dochodów podatkowych: a) podatków pośrednich, b) podatków bezpośrednich; 2) dochodów niepodatkowych; 3) cła; 4) środków europejskich i środków, o których mowa w art. 5 ust. 3 pkt 5 lit. a i b, na realizację projektów pomocy technicznej oraz środków, o których mowa w art. 5 ust. 3 pkt 4 lit. b tiret drugie, pkt 5 lit. c i d oraz pkt 6, po ich przekazaniu na rachunek dochodów budżetu państwa. 3. Prognozę wydatków budżetu państwa ujmuje się w Wieloletnim Planie Finansowym Państwa w układzie obejmującym funkcje państwa wraz z celami i miernikami stopnia wykonania danej funkcji.”;
+- **4)** w art. 107 ust. 1 i 2 otrzymują brzmienie: „1. Wieloletni Plan Finansowy Państwa jest aktualizowany przez Radę Ministrów, w drodze uchwały, raz w roku, w terminie do dnia 30 kwietnia, i uwzględnia prognozę obejmującą dany rok budżetowy i trzy kolejne lata. 2. Aktualizacja polega na doprowadzeniu danych zawartych w Wieloletnim Planie Finansowym Państwa do zgodności z ustawą budżetową na dany rok budżetowy lub, w uzasadnionych przypadkach, do zgodności z danymi dotyczącymi przewidywanego wykonania ustawy budżetowej za poprzedni rok budżetowy.”;
 - **5)** w art. 142 pkt 11 otrzymuje brzmienie: „11) skonsolidowany plan wydatków na rok budżetowy i dwa kolejne lata państwowych jednostek budżetowych, państwowych funduszy celowych, agencji wykonawczych, instytucji gospodarki budżetowej oraz państwowych osób prawnych, o których mowa w art. 9 pkt 14, sporządzany w układzie zadań budżetowych określonych w art. 2 pkt 3, wraz z celami i miernikami stopnia realizacji celów.”;
 - **6)** w art. 226:
     - **a)** w ust. 1: – uchyla się pkt 7, – dodaje się pkt 8 w brzmieniu: „8) kwoty wydatków bieżących i majątkowych wynikających z limitów wydatków na planowane i realizowane przedsięwzięcia, o których mowa w ust. 3.”,
     - **b)** uchyla się ust. 2,
     - **c)** dodaje się ust. 2a w brzmieniu: „2a. Do wieloletniej prognozy finansowej dołącza się objaśnienia przyjętych wartości. W objaśnieniach mogą być zawarte także informacje uszczegóławiające dane, o których mowa w ust. 1.”,
-    - **d)** ust. 4 otrzymuje brzmienie: „4. Przez przedsięwzięcia, o których mowa w ust. 3, należy rozumieć wieloletnie programy, projekty lub zadania, w tym związane z:
+    - **d)** ust. 4 otrzymuje brzmienie: „4. Przez przedsięwzięcia, o których mowa w ust. 3, należy rozumieć wieloletnie programy, projekty lub zadania, w tym związane z: 1) programami finansowanymi z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3; 2) umowami o partnerstwie publiczno-prywatnym.”;
 
-- **1)** programami finansowanymi z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3;
-- **2)** umowami o partnerstwie publiczno-prywatnym.”;
 - **7)** w art. 227 ust. 1 otrzymuje brzmienie: „1. Wieloletnia prognoza finansowa obejmuje okres roku budżetowego oraz co najmniej trzech kolejnych lat budżetowych.”;
-- **8)** w art. 230 dodaje się ust. 8 i 9 w brzmieniu: „8. Jednostka samorządu terytorialnego przekazuje regionalnej izbie obrachunkowej uchwały i zarządzenia w sprawie wieloletniej prognozy finansowej.
-
-9. Projekt uchwały w sprawie wieloletniej prognozy finansowej lub jej zmiany, o którym mowa w ust. 2, oraz uchwała i zarządzenie w sprawie wieloletniej prognozy finansowej są przekazywane do regionalnej izby obrachunkowej w formie dokumentu elektronicznego.”;
-
-- **9)** po art. 230 dodaje się art. 230a i 230b w brzmieniu: „Art. 230a. Regionalna izba obrachunkowa przekazuje, w formie dokumentu elektronicznego, Ministrowi Finansów:
-- **1)** projekty wieloletnich prognoz finansowych, o których mowa w art. 230 ust. 2, wraz z wynikami opinii;
-- **2)** wieloletnie prognozy finansowe wraz z wynikami rozstrzygnięć nadzorczych.
-
-**Art. 230b.** Minister Finansów określi, w drodze rozporządzenia:
-
-- **1)** wzór wieloletniej prognozy finansowej jednostki samorządu terytorialnego oraz załącznika, o których mowa w art. 226 ust. 1 i 3,
-- **2)** sposób przekazywania przez jednostkę samorządu terytorialnego regionalnej izbie obrachunkowej:
-    - **a)** projektów uchwał, o których mowa w art. 230 ust. 2,
-    - **b)** uchwał i zarządzeń w sprawie wieloletniej prognozy finansowej,
-
-- **3)** sposób i terminy przekazywania przez regionalne izby obrachunkowe Ministrowi Finansów: 230 ust. 2, wraz z wynikami opinii,
-    - **a)** projektów wieloletnich prognoz finansowych, o których mowa w art.
-    - **b)** wieloletnich prognoz finansowych wraz z wynikami rozstrzygnięć nadzorczych – mając na względzie potrzebę zapewnienia jawności i przejrzystości finansów publicznych, sporządzenia realistycznych prognoz finansowych jednostek samorządu terytorialnego oraz uzyskania przez Ministra Finansów informacji umożliwiających realizację zadań, o których mowa w art. 74 i art. 174 pkt 4.”.
+- **8)** w art. 230 dodaje się ust. 8 i 9 w brzmieniu: „8. Jednostka samorządu terytorialnego przekazuje regionalnej izbie obrachunkowej uchwały i zarządzenia w sprawie wieloletniej prognozy finansowej. 9. Projekt uchwały w sprawie wieloletniej prognozy finansowej lub jej zmiany, o którym mowa w ust. 2, oraz uchwała i zarządzenie w sprawie wieloletniej prognozy finansowej są przekazywane do regionalnej izby obrachunkowej w formie dokumentu elektronicznego.”;
+- **9)** po art. 230 dodaje się art. 230a i 230b w brzmieniu: „Art. 230a. Regionalna izba obrachunkowa przekazuje, w formie dokumentu elektronicznego, Ministrowi Finansów: 1) projekty wieloletnich prognoz finansowych, o których mowa w art. 230 ust. 2, wraz z wynikami opinii; 2) wieloletnie prognozy finansowe wraz z wynikami rozstrzygnięć nadzorczych. Art. 230b. Minister Finansów określi, w drodze rozporządzenia: 1) wzór wieloletniej prognozy finansowej jednostki samorządu terytorialnego oraz załącznika, o których mowa w art. 226 ust. 1 i 3, 2) sposób przekazywania przez jednostkę samorządu terytorialnego regionalnej izbie obrachunkowej: a) projektów uchwał, o których mowa w art. 230 ust. 2, b) uchwał i zarządzeń w sprawie wieloletniej prognozy finansowej, 3) sposób i terminy przekazywania przez regionalne izby obrachunkowe Ministrowi Finansów: a) projektów wieloletnich prognoz finansowych, o których mowa w art. 230 ust. 2, wraz z wynikami opinii, b) wieloletnich prognoz finansowych wraz z wynikami rozstrzygnięć nadzorczych – mając na względzie potrzebę zapewnienia jawności i przejrzystości finansów publicznych, sporządzenia realistycznych prognoz finansowych jednostek samorządu terytorialnego oraz uzyskania przez Ministra Finansów informacji umożliwiających realizację zadań, o których mowa w art. 74 i art. 174 pkt 4.”.
 
 **Art. 9.** W ustawie z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. Nr 157, poz. 1241, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -231,9 +117,7 @@ source: pdf
 **Art. 12.** W ustawie z dnia 30 czerwca 2011 r. o wdrożeniu naziemnej telewizji cyfrowej (Dz. U. Nr 153, poz. 903) wprowadza się następujące zmiany:
 
 - **1)** w art. 3 dodaje się ust. 3 w brzmieniu: „3. Minister właściwy do spraw łączności może w roku 2013 przekazać ze środków budżetu państwa dotację celową dla jednostek telewizji publicznej, o których mowa w art. 26 ust. 1 i 2 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm. ), z przeznaczeniem na odtworzenie sygnału analogowego w nadawaniu sygnału cyfrowego telewizji.”;
-- **2)** w art. 30 ust. 1 otrzymuje brzmienie: „1. W latach 2013 – 2022 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi 32 551 tys. zł, z tym że w:
-- **1)** 2013 r. – 32 551 tys. zł;
-- **2)** latach 2014 – 2022 – 0 zł.”.
+- **2)** w art. 30 ust. 1 otrzymuje brzmienie: „1. W latach 2013 – 2022 maksymalny limit wydatków budżetu państwa będący skutkiem finansowym ustawy wynosi 32 551 tys. zł, z tym że w: 1) 2013 r. – 32 551 tys. zł; 2) latach 2014 – 2022 – 0 zł.”.
 
 **Art. 13.** W ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. Nr 174, poz. 1039 i Nr 291, poz. 1707) po art. 96a dodaje się art. 96b w brzmieniu: „Art. 96b. W roku 2013 środki przeznaczone na sfinansowanie stażu podyplomowego na podstawie art. 9 ustawy, o której mowa w art. 103, przekazuje marszałkowi województwa minister właściwy do spraw zdrowia ze środków Funduszu Pracy.”.
 
@@ -251,9 +135,7 @@ source: pdf
 
 - **1)** urzędach organów władzy państwowej, kontroli, ochrony prawa, sądach i trybunałach wymienionych w art. 139 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, z wyłączeniem wynagrodzeń nauczycieli – w zakresie awansu zawodowego oraz skutków przechodzących podwyższenia wynagrodzeń z roku 2012 – zatrudnionych w placówkach prowadzonych przez te organy oraz wynagrodzeń sędziów, prokuratorów i referendarzy sądowych, z tym że:
     - **a)** w części 02 – Kancelaria Sejmu i części 03 – Kancelaria Senatu wielkość wynagrodzeń w roku 2013 ustala się w warunkach porównywalnych z roku 2012 po wyłączeniu wielkości wynagrodzeń wypłaconych w związku ze zmianą kadencji Sejmu i Senatu oraz z realizacją zadań wynikających z przygotowania, obsługi i sprawowania Prezydencji Rzeczypospolitej Polskiej w Radzie Unii Europejskiej,
-    - **b)** w części 05 – Naczelny Sąd Administracyjny i części 15 – Sądy powszechne wielkość wynagrodzeń w roku 2013 ustala się w warunkach porównywalnych z roku 2012, przy uwzględnieniu zmian określonych w art. 24 ust. 3 pkt 2 ustawy z dnia 22 grudnia 2011 r. o zmianie niektórych ustaw związanych z realizacją ustawy budżetowej (Dz. U. Nr 291, poz.
-
-- **1707)** ,
+    - **b)** w części 05 – Naczelny Sąd Administracyjny i części 15 – Sądy powszechne wielkość wynagrodzeń w roku 2013 ustala się w warunkach porównywalnych z roku 2012, przy uwzględnieniu zmian określonych w art. 24 ust. 3 pkt 2 ustawy z dnia 22 grudnia 2011 r. o zmianie niektórych ustaw związanych z realizacją ustawy budżetowej (Dz. U. Nr 291, poz. 1707),
     - **c)** w części 08 – Rzecznik Praw Obywatelskich wielkość wynagrodzeń w roku 2013 ustala się w warunkach porównywalnych z roku 2012, przy uwzględnieniu zmian określonych w art. 24 ust. 3 pkt 3 ustawy, o której mowa w lit. b;
 
 - **2)** agencjach wykonawczych;

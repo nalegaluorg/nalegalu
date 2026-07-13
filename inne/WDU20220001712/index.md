@@ -26,18 +26,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001712) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1712/text.pdf) |
 
 w sprawie wzoru wniosku o wypłatę dodatku węglowego Na podstawie art. 2 ust. 19 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. poz. 1692) zarządza się, co następuje:
-§ 1. Określa się wzór wniosku o wypłatę dodatku węglowego, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U.
-poz. 1949).
-Dziennik Ustaw Załącznik do – 2 rozporządzenia – Ministra Klimatu i Środowiska Poz. 1712 z dnia 16 sierpnia 2022 r. (Dz. U. poz. …) WZÓR WZÓR WNIOSEK O WYPŁATĘ DODATKU WĘGLOWEGO UWAGA!
-Informacje przedstawione we wniosku o wypłatę dodatku węglowego składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń – zgodnie z art. 3 ust. 4 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. poz. 1692).
-Skrócona instrukcja wypełniania:
-1. Należy wypełniać WIELKIMI LITERAMI.
-2. Pola wyboru należy zaznaczać V lub X .
-ORGAN, DO KTÓREGO JEST SKŁADANY WNIOSEK O WYPŁATĘ DODATKU WĘGLOWEGO …………………………………………………………………………………………………………..
-…………………………………………………………………………………………………………..
-Dodatek węglowy wypłaca wójt, burmistrz albo prezydent miasta właściwy ze względu na miejsce zamieszkania osoby fizycznej składającej wniosek o wypłatę dodatku węglowego.
 1. Dane osoby fizycznej składającej wniosek, zwanej dalej „wnioskodawcą”.
 DANE WNIOSKODAWCY
 01. Imię (imiona) ………………………………………………………………………….………………………………………..
@@ -108,6 +96,10 @@ Do wniosku dołączam następujące dokumenty:
 2) ………………………………………………………………………………………………………
 3) ……………………………………………………………………………………………………… Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 ………………………… ………………………… ………………………… (miejscowość) (data: dd / mm / rrrr) (podpis wnioskodawcy)
+
+**§ 1.** Określa się wzór wniosku o wypłatę dodatku węglowego, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949). Dziennik Ustaw Załącznik do – 2 rozporządzenia – Ministra Klimatu i Środowiska Poz. 1712 z dnia 16 sierpnia 2022 r. (Dz. U. poz. …) WZÓR WZÓR WNIOSEK O WYPŁATĘ DODATKU WĘGLOWEGO UWAGA! Informacje przedstawione we wniosku o wypłatę dodatku węglowego składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń – zgodnie z art. 3 ust. 4 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. poz. 1692). Skrócona instrukcja wypełniania: 1. Należy wypełniać WIELKIMI LITERAMI. 2. Pola wyboru należy zaznaczać V lub X . ORGAN, DO KTÓREGO JEST SKŁADANY WNIOSEK O WYPŁATĘ DODATKU WĘGLOWEGO ………………………………………………………………………………………………………….. ………………………………………………………………………………………………………….. Dodatek węglowy wypłaca wójt, burmistrz albo prezydent miasta właściwy ze względu na miejsce zamieszkania osoby fizycznej składającej wniosek o wypłatę dodatku węglowego.
 
 ## CZĘŚĆ I DANE DOTYCZĄCE WNIOSKODAWCY I JEGO GOSPODARSTWA DOMOWEGO
 

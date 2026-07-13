@@ -26,58 +26,88 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000250) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/250/text.pdf) |
 
 w sprawie zajęć rehabilitacji społecznej w domach pomocy społecznej dla osób z zaburzeniami psychicznymi Na podstawie art. 7 ust. 4 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2011 r. Nr 231, poz. 1375) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) cele, rodzaje, zakres programowy oraz wymiar czasu,
-2) sposób prowadzenia,
-3) sposób dokumentowania,
-4) sposób nagradzania uczestników – zajęć rehabilitacji społecznej organizowanych w domach pomocy społecznej dla osób z zaburzeniami psychicznymi, o których mowa w art. 56 pkt 3–5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm. ), zwanych dalej „zajęciami”.
-§ 2. Zajęcia mają na celu:
-1) poprawę funkcjonowania społecznego osób przebywających w domach pomocy społecznej dla osób z zaburzeniami psychicznymi, o których mowa w art. 56 pkt 3–5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, zwanych dalej „domami”, w tym w szczególności:
-a) wyrabianie zaradności osobistej,
-b) pobudzanie aktywności społecznej,
-c) wyrabianie umiejętności samodzielnego wypełniania ról społecznych;
-2) promowanie zdrowia psychicznego przez aktywizację fizyczną mieszkańców domów.
-§ 3. Określa się następujące rodzaje zajęć:
-1) zajęcia terapeutyczne;
-2) zajęcia z psychologiem;
-3) zajęcia ruchowe;
-4) zajęcia przygotowujące do podjęcia zatrudnienia.
-§ 4. Zakres programowy zajęć poszczególnych rodzajów obejmuje:
-1) w przypadku zajęć terapeutycznych:
-a) trening funkcjonowania w codziennym życiu,
-b) trening umiejętności interpersonalnych i umiejętności rozwiązywania problemów,
-c) trening umiejętności spędzania czasu wolnego;
-2) w przypadku zajęć z psychologiem:
-a) badanie psychologiczne,
-b) terapię psychologiczną,
-c) poradnictwo psychologiczne;
-3) w przypadku zajęć ruchowych:
-a) zajęcia sportowe,
-b) turystykę,
-c) rekreację;
-4) w przypadku zajęć przygotowujących do podjęcia zatrudnienia:
-a) terapię manualną, w tym w ramach warsztatów terapii zajęciowej,
-b) zajęcia informatyczne,
-c) pracę, w tym w warunkach pracy chronionej lub na przystosowanym stanowisku pracy.
-§ 5. 1. Zajęcia są prowadzone indywidualnie lub grupowo w wymiarze nie mniejszym niż 10 godzin tygodniowo.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** cele, rodzaje, zakres programowy oraz wymiar czasu,
+- **2)** sposób prowadzenia,
+- **3)** sposób dokumentowania,
+- **4)** sposób nagradzania uczestników – zajęć rehabilitacji społecznej organizowanych w domach pomocy społecznej dla osób z zaburzeniami psychicznymi, o których mowa w art. 56 pkt 3–5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2013 r. poz. 182, ze zm. ), zwanych dalej „zajęciami”.
+
+**§ 2.** Zajęcia mają na celu:
+
+- **1)** poprawę funkcjonowania społecznego osób przebywających w domach pomocy społecznej dla osób z zaburzeniami psychicznymi, o których mowa w art. 56 pkt 3–5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, zwanych dalej „domami”, w tym w szczególności:
+    - **a)** wyrabianie zaradności osobistej,
+    - **b)** pobudzanie aktywności społecznej,
+    - **c)** wyrabianie umiejętności samodzielnego wypełniania ról społecznych;
+
+- **2)** promowanie zdrowia psychicznego przez aktywizację fizyczną mieszkańców domów.
+
+**§ 3.** Określa się następujące rodzaje zajęć:
+
+- **1)** zajęcia terapeutyczne;
+- **2)** zajęcia z psychologiem;
+- **3)** zajęcia ruchowe;
+- **4)** zajęcia przygotowujące do podjęcia zatrudnienia.
+
+**§ 4.** Zakres programowy zajęć poszczególnych rodzajów obejmuje:
+
+- **1)** w przypadku zajęć terapeutycznych:
+    - **a)** trening funkcjonowania w codziennym życiu,
+    - **b)** trening umiejętności interpersonalnych i umiejętności rozwiązywania problemów,
+    - **c)** trening umiejętności spędzania czasu wolnego;
+
+- **2)** w przypadku zajęć z psychologiem:
+    - **a)** badanie psychologiczne,
+    - **b)** terapię psychologiczną,
+    - **c)** poradnictwo psychologiczne;
+
+- **3)** w przypadku zajęć ruchowych:
+    - **a)** zajęcia sportowe,
+    - **b)** turystykę,
+    - **c)** rekreację;
+
+- **4)** w przypadku zajęć przygotowujących do podjęcia zatrudnienia:
+    - **a)** terapię manualną, w tym w ramach warsztatów terapii zajęciowej,
+    - **b)** zajęcia informatyczne,
+    - **c)** pracę, w tym w warunkach pracy chronionej lub na przystosowanym stanowisku pracy.
+
+**§ 5.**
+
+1. Zajęcia są prowadzone indywidualnie lub grupowo w wymiarze nie mniejszym niż 10 godzin tygodniowo.
+
 2. Rodzaj, zakres programowy oraz wymiar czasu zajęć są dostosowane do wieku, stanu zdrowia oraz niezbędnych potrzeb i możliwości mieszkańca domu.
+
 3. Rodzaj, zakres programowy oraz wymiar czasu zajęć są ustalane w indywidualnym planie wsparcia mieszkańca domu, o którym mowa w przepisach wydanych na podstawie art. 57 ust. 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, przez kierownika zespołu terapeutyczno-opiekuńczego, o którym mowa w tych przepisach, zwanego dalej „zespołem terapeutyczno-opiekuńczym”, lub przez pracownika wskazanego przez dyrektora domu, we współdziałaniu z innymi pracownikami zespołu terapeutyczno-opiekuńczego oraz z mieszkańcem domu lub jego przedstawicielem ustawowym.
+
 4. Kierownik zespołu terapeutyczno-opiekuńczego lub pracownik, o którym mowa w ust. 3, ściśle współpracują w zakresie realizacji zajęć z psychologiem oraz, w miarę możliwości, za zgodą mieszkańca domu lub jego przedstawiciela ustawowego, z lekarzem psychiatrą lub neurologiem sprawującymi specjalistyczną opiekę lekarską nad mieszkańcem domu.
-§ 6. 1. Zajęcia indywidualne i grupowe są dokumentowane w dziennikach zajęć prowadzonych przez pracowników zespołu terapeutyczno-opiekuńczego.
+
+**§ 6.**
+
+1. Zajęcia indywidualne i grupowe są dokumentowane w dziennikach zajęć prowadzonych przez pracowników zespołu terapeutyczno-opiekuńczego.
+
 2. W dziennikach zajęć odnotowuje się w szczególności:
-1) rozkład tygodniowy i czas trwania zajęć;
-2) rodzaj i tematykę zajęć oraz imię i nazwisko prowadzącego zajęcia;
-3) imiona i nazwiska mieszkańców domu obecnych na zajęciach;
-4) informacje dotyczące prowadzonych zajęć, służące okresowej ocenie realizacji indywidualnych planów wsparcia mieszkańców domu, o których mowa w przepisach wydanych na podstawie art. 57 ust. 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej:
-a) absencję i jej przyczyny,
-b) ocenę współpracy z terapeutą,
-c) aktywne lub bierne uczestnictwo w zajęciach,
-d) skracanie lub wydłużanie uczestnictwa w zajęciach.
-§ 7. 1. Mieszkańcy domu aktywnie uczestniczący w zajęciach mogą otrzymywać nagrody rzeczowe.
+
+- **1)** rozkład tygodniowy i czas trwania zajęć;
+- **2)** rodzaj i tematykę zajęć oraz imię i nazwisko prowadzącego zajęcia;
+- **3)** imiona i nazwiska mieszkańców domu obecnych na zajęciach;
+- **4)** informacje dotyczące prowadzonych zajęć, służące okresowej ocenie realizacji indywidualnych planów wsparcia mieszkańców domu, o których mowa w przepisach wydanych na podstawie art. 57 ust. 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej:
+    - **a)** absencję i jej przyczyny,
+    - **b)** ocenę współpracy z terapeutą,
+    - **c)** aktywne lub bierne uczestnictwo w zajęciach,
+    - **d)** skracanie lub wydłużanie uczestnictwa w zajęciach.
+
+**§ 7.**
+
+1. Mieszkańcy domu aktywnie uczestniczący w zajęciach mogą otrzymywać nagrody rzeczowe.
+
 2. Wniosek o przyznanie nagrody rzeczowej sporządza kierownik zespołu terapeutyczno-opiekuńczego lub pracownik, o którym mowa w § 5 ust. 3.
+
 3. Wniosek o przyznanie nagrody rzeczowej zawiera imię i nazwisko mieszkańca domu, imię i nazwisko osoby wnioskującej oraz propozycję nagrody rzeczowej wraz z uzasadnieniem.
+
 4. Dyrektor domu zatwierdza wniosek o przyznanie nagrody rzeczowej i określa jej wartość.
+
 5. Wybór i zakup nagrody rzeczowej jest dokonywany w uzgodnieniu z osobą nagradzaną.
-§ 8. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Pracy i Polityki Społecznej: W. Kosiniak-Kamysz
+
+**§ 8.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Pracy i Polityki Społecznej: W. Kosiniak-Kamysz
 

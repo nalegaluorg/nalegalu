@@ -8,10 +8,10 @@ pos: 1029
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, 7 czerwca 2021 1029 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY czerwca 2021 sprawie kontroli prawidłowości uiszczenia elektronicznej wykonywanej Głównego Inspektora Transportu Drogowego Na podstawie 13l 21 marca 1985 drogach publicznych (Dz. U. 470, późn.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1029 ROZPORZĄDZENIE MINISTRA INFRASTRUKTURY z dnia 2 czerwca 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,99 +25,182 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001029) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1029/text.pdf) |
 
-zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowy tryb, sposób zakres kontroli prawidłowości uiszczenia elektronicznej wykonywanej Głównego Inspektora Transportu Drogowego, zwanego dalej „kontrolującym”, tym kontroli używanego pojeździe urządzenia, którym 13i 3a 16l 21 marca 1985 drogach publicznych, zwanej dalej „ustawą”, wykorzystywanego potrzeby pobierania elektronicznej.
-§ 2. Ilekroć rozporządzeniu jest o:
-1) danych geolokalizacyjnych rozumie się to dane wymienione 13i 3b ustawy;
-2) danych rejestrowych rozumie się to dane wymienione 13ia 5 pkt 1–3 ustawy;
-3) dokumentach rejestrowych rozumie się to odwzorowanie cyfrowe dokumentów potwierdzenia, 13ia 7 ustawy;
-4) kategorii pojazdu rozumie się to kategorię, której 13ha 3 ustawy;
-5) karach pieniężnych rozumie się to kary, 13k 1–2d ustawy;
-6) kontroli rozumie się to kontrolę, której 13l ustawy;
-7) kontrolowanym rozumie się to podmiot, którym 13k 4 5 ustawy;
-8) numerze referencyjnym rozumie się to numer referencyjny, którym 13ia 8 ustawy;
-9) obowiązku uiszczenia elektronicznej rozumie się to:
-a) obowiązki, 13 pkt 3, 13i 4a, 4aa, 4b 4c, 13ia 1, 8 10, 13ib 13ic ustawy,
-b) obowiązek podania danych rejestrowych, którym 13ia 5 pkt 1–3 ustawy, uzupełnienia rejestru SPOE KAS, którym 13ib ustawy,
-c) obowiązek dołączenia dokumentów rejestrowych;
-10) opłacie elektronicznej rozumie się to opłatę, której 13 pkt 3 ustawy;
-11) podmiocie zagranicznym rozumie się to podmiot, którym 13m ustawy;
-cyjny urządzenie pokładowe, 13i 3a ustawy, urządzenie, którym 16l ustawy;
-15) urządzeniu SPOE KAS rozumie się to urządzenie mobilne, zewnętrzny system lokalizacyjny urządzenie pokładowe, 13i 3a ustawy.
-§ 3. 1. Kontroli podlega prawidłowość przestrzegania kontrolowanych obowiązków uiszczenia elektronicznej.
-2. W przypadku użytkowników EETS kontrola obejmuje wyłącznie przestrzeganie nich obowiązków, 13 pkt 3 13i 4a, 4aa 4b ustawy.
-§ 4. 1. W ramach kontroli prawidłowości przestrzegania poszczególnych obowiązków uiszczenia elektronicznej kontrolujący prowadzi czynności kontrolne mające celu ustalenie, czy:
-1) dany pojazd podlega opłacie elektronicznej;
-2) kontrolowany dokonał rejestracji rejestrze SPOE KAS albo zawarł umowę świadczenie usługi EETS dostawcą EETS.
-2. W celu stwierdzenia, czy został naruszony obowiązek, którym 13 pkt 3 ustawy, kontrolujący ustala, czy:
-1) pojazd został wyposażony urządzenie poboru elektronicznej funkcjonujące prawidłowo przekazujące aktualne dane geolokalizacyjne podczas przejazdu drogą krajową jej odcinkiem, pobiera się opłatę elektroniczną;
-2) dla urządzenia SPOE KAS został uzyskany numer referencyjny;
-3) urządzenie, które został wyposażony pojazd, zostało:
-a) wykreślone rejestru SPOE KAS podstawie 13ia 15 przypadku urządzenia SPOE KAS,
-b) zablokowane podstawie 16l 6 przypadku urządzenia, którym 16l ustawy;
-4) opłata elektroniczna została wniesiona w:
-a) wysokości nie niższej niż określona przepisach wydanych podstawie 13ha 6 ustawy,
-b) trybie, sposób terminie określonych przepisach wydanych podstawie 40a 5 ustawy, uwzględnieniem 13k 8a 8b ustawy;
-5) naruszenie nie jest wynikiem naruszenia kierującego pojazdem obowiązku, którym 13i 4a ustawy.
-3. W celu stwierdzenia, czy został naruszony obowiązek, którym 13i 4a ustawy, kontrolujący ustala okoliczności wymienione pkt 1–4 ustala, czy urządzenia poboru elektronicznej zostały wprowadzone prawidłowe dane o:
-1) kategorii pojazdu;
-2) liczbie osi pojazdu, jeżeli stawki elektronicznej zostały zróżnicowane ze względu liczbę osi.
-4. W celu stwierdzenia, czy został naruszony obowiązek, którym 13i 4aa ustawy, kontrolujący ustala okoliczności wymienione pkt 1–4 ustala, czy urządzenie poboru elektronicznej, które jest wyposażony pojazd, działa prawidłowo.
-b) dokumentach pojazdu dokumentach identyfikujących kontrolowanego przypadku danych rejestrowych;
-2) ich porównanie rzeczywistą kategorią pojazdu liczbą osi pojazdu wykonującego przejazd drogą krajową jej odcinkiem, pobiera się opłatę elektroniczną, albo numerem rejestracyjnym przyczepy naczepy przypadku danych, 13ib pkt ustawy;
-3) sprawdzenie, czy kontrolowany prawidłowo uzupełnił rejestr SPOE KAS numer referencyjny przypadku, którym 13ib pkt 3 ustawy.
-7. W celu stwierdzenia, czy został naruszony obowiązek wprowadzenia rejestru odwzorowania cyfrowego dokumentów rejestrowych, kontrolujący ustala, czy:
-1) dane, 13ia 5 pkt 3 ustawy, zostały zgłoszone centralnej ewidencji pojazdów;
-2) dokumenty rejestracyjne potwierdzają:
-a) prawidłowość danych, 13ia 5 pkt 3 ustawy, tym czy dokumenty te dotyczą rejestrowanego pojazdu są odpowiednio czytelne, a ich prawdziwość nie budzi uzasadnionych wątpliwości,
-b) złożenie zabezpieczenia wnoszenia elektronicznej, chyba że prawidłowość złożenia tego zabezpieczenia została potwierdzona Szefa Krajowej Administracji Skarbowej.
-8. W celu stwierdzenia, czy zostały naruszone obowiązki, 13ia 10 13ib ustawy, kontrolujący ustala okoliczności wymienione 6 pkt ustala, czy zawarte rejestrze SPOE KAS dane rejestrowe dane, 13ib ustawy, zostały zaktualizowane nie później niż przed rozpoczęciem przejazdu drogą krajową jej odcinkiem, pobiera się opłatę elektroniczną.
-9. W celu stwierdzenia, czy został naruszony obowiązek, którym 13ic ustawy, kontrolujący ustala okoliczności, pkt 1–4 4, a także ustala:
-1) długość przerwy nadawaniu sygnału pozycjonowania satelitarnego transmisji danych, 13i 3a ustawy;
-2) czy kontrolowany niezwłocznie zatrzymał się najbliższym parkingu samochodowym najbliższej zatoce postojowej albo opuścił niezwłocznie drogę krajową jej odcinek, pobiera się opłatę elektroniczną;
-3) czy przerwa nadawaniu sygnału pozycjonowania satelitarnego transmisji danych nie była spowodowana niedostępnością Systemu Poboru Opłaty Elektronicznej KAS;
-4) czy wznowienie przejazdu drogą krajową jej odcinkiem, pobiera się opłatę elektroniczną, nastąpiło po przywróceniu sygnału pozycjonowania satelitarnego transmisji danych.
-§ 5. 1. Kontrola jest prowadzona trybie:
-1) stacjonarnym, zwanym dalej „kontrolą stacjonarną”, pracowników Głównego Inspektoratu Transportu Drogowego
-2) mobilnym, zwanym dalej „kontrolą mobilną”, inspektorów Inspekcji Transportu Drogowego działających upoważnienia:
-a) Głównego Inspektora Transportu Drogowego albo
-b) wojewódzkiego inspektora transportu drogowego przypadku, którym 51 7 6 września 2001 transporcie drogowym (Dz. U. 2021 919 1005).
-2. Kontrolę stacjonarną mogą również prowadzić inspektorzy Inspekcji Transportu Drogowego zakresie obejmująa) rejestrze SPOE KAS,
-b) centralnej ewidencji pojazdów innych rejestrach bazach danych, dostęp posiada kontrolujący,
-c) dokumentach pojazdu dokumentach identyfikujących kontrolowanego innych nośnikach informacji;
-2) analizę danych geolokalizacyjnych przekazywanych Systemu Poboru Opłaty Elektronicznej KAS urządzenie poboru elektronicznej, zainstalowane przewożone pojeździe podlegającym opłacie elektronicznej podczas przejazdu drogą krajową jej odcinkiem, pobiera się opłatę elektroniczną;
-3) ustalenie podmiotu odpowiedzialnego za naruszenie obowiązku uiszczenia elektronicznej podstawie danych informacji:
-a) centralnej ewidencji pojazdów centralnej ewidencji kierowców, rejestru dowodów osobistych rejestru SPOE KAS,
-b) zawartych dokumentach pojazdu innych dokumentach okazanych kontrolowanego,
-c) zapisów tachografu,
-d) pozyskanych od organów rejestrujących pojazd,
-e) wyjaśnień kontrolowanego.
-2. W ramach prowadzenia kontroli stacjonarnej kontrolujący analizuje dane zarejestrowane urządzenia, § 7 pkt 1, dane geolokalizacyjne zarejestrowane System Poboru Opłaty Elektronicznej KAS uzasadnionych przypadkach weryfikuje ich prawidłowość porównanie danymi, pkt 2, występuje Szefa Krajowej Administracji Skarbowej udzielenie niezbędnych wyjaśnień.
-3. W ramach prowadzenia kontroli mobilnej inspektorzy Inspekcji Transportu Drogowego wykonują czynności kontrolne bezpośrednio drodze zasadach określonych ustawie 6 września 2001 transporcie drogowym.
-4. Czynności kontrolne wykonywane ramach kontroli mobilnej mogą obejmować:
-1) zatrzymywanie pojazdów celu przeprowadzenia kontroli;
-2) legitymowanie kierowców;
-3) badanie dokumentów innych nośników informacji objętych zakresem kontroli;
-4) żądanie udzielenia kontrolowanego ustnych pisemnych wyjaśnień;
-5) sporządzanie kopii dokumentów, pkt 3;
-6) sporządzanie dokumentacji fotograficznej, jeżeli może ona stanowić dowód przyczynić się utrwalenia dowodu sprawie będącej przedmiotem kontroli;
-7) badanie urządzeń poboru elektronicznej, które są wyposażone pojazdy podlegające kontroli;
-8) sporządzanie protokołu kontroli przypadku stwierdzenia naruszenia obowiązku uiszczenia elektronicznej uzasadniającego nałożenie kary pieniężnej albo grzywny, której 13na ustawy;
-9) wprowadzanie informacji ujawnionych naruszeniach obowiązku uiszczenia elektronicznej Systemu Poboru Opłaty Elektronicznej KAS;
-10) podejmowanie czynności określonych 13m 2–10 wobec podmiotów zagranicznych.
-§ 7. 1. Do prowadzenia kontroli stacjonarnej wykorzystuje się:
-1) urządzenia:
-a) stacjonarne przenośne, 13o ustawy, zainstalowane pasie drogowym dróg krajob) kategorii pojazdu, a także liczby osi pojazdu, jeżeli stawki elektronicznej zostały zróżnicowane ze względu liczbę osi;
-3) czas datę przeprowadzonej kontroli;
-4) identyfikator urządzenia kontrolnego, który zarejestrował obraz pojazdu, którym pkt 1.
-3. W przypadku danych rejestrowanych ramach kontroli mobilnej, formułowania wniosków wszczęcie postępowań sprawie nałożenia kar pieniężnych mogą być wykorzystywane:
-1) dane, 2, jeżeli zawierają obraz pojazdu będącego przedmiotem kontroli,
-2) dane geolokalizacyjne rejestrowane System Poboru Opłaty Elektronicznej KAS.
-4. Do prowadzenia kontroli mobilnej mogą być wykorzystywane przyrządy ujawniające informacje podejrzeniu naruszenia obowiązku uiszczenia elektronicznej zainstalowane pojazdach służbowych kontrolującego.
-5. W wyniku przeprowadzenia kontroli mobilnej wykorzystaniem przyrządów, 4, rejestracji mogą podlegać dane wymienione identyfikator przyrządu kontrolnego.
-6. Na podstawie danych zarejestrowanych przyrządy, 4, kontrolujący zatrzymuje pojazdy celu podjęcia dalszych czynności kontrolnych.
-7. Kontrolę stacjonarną wykorzystaniem urządzeń kontrolnych kontrolę mobilną przeprowadza się odpowiednim miejscu czasie tak, aby utrudnić kierującym pojazdami omijanie miejsc, są prowadzone czynności kontrolne. Kontrola mobilna ma szczególności celu kontrolę prawidłowości uiszczenia elektronicznej podmioty zagraniczne.
-§ 8. W okresie wskazanego obwieszczeniu ministra właściwego spraw finansów publicznych wydanym podstawie 9 6 maja zmianie drogach publicznych niektórych innych ustaw (Dz. U. 1087 2021 1005) kontroli prawidłowości uiszczenia elektronicznej systemie, którym 13i pkt 3 ustawy, stosuje się przepisy dotychczasowe. Kontrolą są objęte prawidłowość wyposażenia pojazdów urządzenia, 13i 3 ustawy, sposób ich wykorzystywania.
-§ 9. Przepisy rozporządzenia stosuje się od uruchomienia SPOE KAS określonego obwieszczeniu ministra właściwego spraw finansów publicznych wydanym podstawie 9 4 6 maja zmianie drogach publicznych niektórych innych ustaw.
-§ 10. Rozporządzenie wchodzi życie po upływie pięciu dni od ogłoszenia.
-Minister Infrastruktury: wz. M. Horała
+w sprawie kontroli prawidłowości uiszczenia opłaty elektronicznej wykonywanej przez Głównego Inspektora Transportu Drogowego Na podstawie art. 13l ust. 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2020 r. poz. 470, z późn.
+zm. ) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa szczegółowy tryb, sposób i zakres kontroli prawidłowości uiszczenia opłaty elektronicznej wykonywanej przez Głównego Inspektora Transportu Drogowego, zwanego dalej „kontrolującym”, w tym kontroli używanego w pojeździe urządzenia, o którym mowa w art. 13i ust. 3a oraz art. 16l ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, zwanej dalej „ustawą”, wykorzystywanego na potrzeby pobierania opłaty elektronicznej.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** danych geolokalizacyjnych – rozumie się przez to dane wymienione w art. 13i ust. 3b ustawy;
+- **2)** danych rejestrowych – rozumie się przez to dane wymienione w art. 13ia ust. 5 pkt 1–3 ustawy;
+- **3)** dokumentach rejestrowych – rozumie się przez to odwzorowanie cyfrowe dokumentów i potwierdzenia, o których mowa w art. 13ia ust. 7 ustawy;
+- **4)** kategorii pojazdu – rozumie się przez to kategorię, o której mowa w art. 13ha ust. 3 ustawy;
+- **5)** karach pieniężnych – rozumie się przez to kary, o których mowa w art. 13k ust. 1–2d ustawy;
+- **6)** kontroli – rozumie się przez to kontrolę, o której mowa w art. 13l ust. 1 ustawy;
+- **7)** kontrolowanym – rozumie się przez to podmiot, o którym mowa w art. 13k ust. 4 i 5 ustawy;
+- **8)** numerze referencyjnym – rozumie się przez to numer referencyjny, o którym mowa w art. 13ia ust. 8 ustawy;
+- **9)** obowiązku uiszczenia opłaty elektronicznej – rozumie się przez to:
+    - **a)** obowiązki, o których mowa w art. 13 ust. 1 pkt 3, art. 13i ust. 4a, 4aa, 4b i 4c, art. 13ia ust. 1, 8 i 10, art. 13ib ust. 2 oraz art. 13ic ust. 1 ustawy,
+    - **b)** obowiązek podania danych rejestrowych, o którym mowa w art. 13ia ust. 5 pkt 1–3 ustawy, oraz uzupełnienia rejestru SPOE KAS, o którym mowa w art. 13ib ust. 1 ustawy,
+    - **c)** obowiązek dołączenia dokumentów rejestrowych;
+
+- **10)** opłacie elektronicznej – rozumie się przez to opłatę, o której mowa w art. 13 ust. 1 pkt 3 ustawy;
+- **11)** podmiocie zagranicznym – rozumie się przez to podmiot, o którym mowa w art. 13m ust. 2 ustawy;
+- **12)** rejestrze SPOE KAS – rozumie się przez to rejestr uiszczających opłatę elektroniczną, o którym mowa w art. 13ia ust. 1 ustawy;
+- **13)** Systemie Poboru Opłaty Elektronicznej KAS – rozumie się przez to system teleinformatyczny, o którym mowa w art. 13hb ust. 1bb ustawy;
+- **14)** urządzeniu do poboru opłaty elektronicznej – rozumie się przez to urządzenie mobilne, zewnętrzny system lokalizacyjny i urządzenie pokładowe, o których mowa w art. 13i ust. 3a ustawy, oraz urządzenie, o którym mowa w art. 16l ust. 1 ustawy;
+- **15)** urządzeniu SPOE KAS – rozumie się przez to urządzenie mobilne, zewnętrzny system lokalizacyjny i urządzenie pokładowe, o których mowa w art. 13i ust. 3a ustawy.
+
+**§ 3.**
+
+1. Kontroli podlega prawidłowość przestrzegania przez kontrolowanych obowiązków uiszczenia opłaty elektronicznej.
+
+2. W przypadku użytkowników EETS kontrola obejmuje wyłącznie przestrzeganie przez nich obowiązków, o których mowa w art. 13 ust. 1 pkt 3 oraz art. 13i ust. 4a, 4aa i 4b ustawy.
+
+**§ 4.**
+
+1. W ramach kontroli prawidłowości przestrzegania poszczególnych obowiązków uiszczenia opłaty elektronicznej kontrolujący prowadzi czynności kontrolne mające na celu ustalenie, czy:
+
+- **1)** dany pojazd podlega opłacie elektronicznej;
+- **2)** kontrolowany dokonał rejestracji w rejestrze SPOE KAS albo zawarł umowę o świadczenie usługi EETS z dostawcą EETS.
+
+2. W celu stwierdzenia, czy został naruszony obowiązek, o którym mowa w art. 13 ust. 1 pkt 3 ustawy, kontrolujący ustala, czy:
+
+- **1)** pojazd został wyposażony w urządzenie do poboru opłaty elektronicznej funkcjonujące prawidłowo i przekazujące aktualne dane geolokalizacyjne podczas przejazdu drogą krajową lub jej odcinkiem, na których pobiera się opłatę elektroniczną;
+- **2)** dla urządzenia SPOE KAS został uzyskany numer referencyjny;
+- **3)** urządzenie, w które został wyposażony pojazd, zostało:
+    - **a)** wykreślone z rejestru SPOE KAS na podstawie art. 13ia ust. 15 ustawy – w przypadku urządzenia SPOE KAS,
+    - **b)** zablokowane na podstawie art. 16l ust. 6 ustawy – w przypadku urządzenia, o którym mowa w art. 16l ust. 1 ustawy;
+
+- **4)** opłata elektroniczna została wniesiona w:
+    - **a)** wysokości nie niższej niż określona w przepisach wydanych na podstawie art. 13ha ust. 6 ustawy,
+    - **b)** trybie, w sposób i w terminie określonych w przepisach wydanych na podstawie art. 40a ust. 5 ustawy, z uwzględnieniem art. 13k ust. 8a i 8b ustawy;
+
+- **5)** naruszenie nie jest wynikiem naruszenia przez kierującego pojazdem obowiązku, o którym mowa w art. 13i ust. 4a ustawy.
+
+3. W celu stwierdzenia, czy został naruszony obowiązek, o którym mowa w art. 13i ust. 4a ustawy, kontrolujący ustala okoliczności wymienione w ust. 2 pkt 1–4 oraz ustala, czy do urządzenia do poboru opłaty elektronicznej zostały wprowadzone prawidłowe dane o:
+
+- **1)** kategorii pojazdu;
+- **2)** liczbie osi pojazdu, jeżeli stawki opłaty elektronicznej zostały zróżnicowane ze względu na liczbę osi.
+
+4. W celu stwierdzenia, czy został naruszony obowiązek, o którym mowa w art. 13i ust. 4aa ustawy, kontrolujący ustala okoliczności wymienione w ust. 2 pkt 1–4 oraz ustala, czy urządzenie do poboru opłaty elektronicznej, w które jest wyposażony pojazd, działa prawidłowo.
+
+5. W celu stwierdzenia, czy został naruszony obowiązek, o którym mowa w art. 13i ust. 4b ustawy, kontrolujący ustala okoliczności wymienione w ust. 2 pkt 1–4 oraz ustala, czy:
+
+- **1)** urządzenie do poboru opłaty elektronicznej, w które został wyposażony pojazd, jest używane zgodnie z przeznaczeniem;
+- **2)** stwierdzone naruszenie skutkuje uiszczeniem opłaty elektronicznej w niepełnej wysokości.
+
+6. W celu stwierdzenia, czy został naruszony obowiązek podania danych rejestrowych oraz danych, o których mowa w art. 13ib ust. 1 ustawy, kontrolujący ustala, czy dane wprowadzone do rejestru SPOE KAS są zgodne ze stanem faktycznym przez:
+
+- **1)** ich porównanie z danymi dostępnymi w:
+    - **a)** centralnej ewidencji pojazdów oraz innych rejestrach i bazach danych, do których dostęp ma kontrolujący,
+    - **b)** dokumentach pojazdu i dokumentach identyfikujących kontrolowanego – w przypadku danych rejestrowych;
+
+- **2)** ich porównanie z rzeczywistą kategorią pojazdu lub liczbą osi pojazdu wykonującego przejazd drogą krajową lub jej odcinkiem, na których pobiera się opłatę elektroniczną, albo numerem rejestracyjnym przyczepy lub naczepy – w przypadku danych, o których mowa w art. 13ib ust. 1 pkt 1 i 2 ustawy;
+- **3)** sprawdzenie, czy kontrolowany prawidłowo uzupełnił rejestr SPOE KAS o numer referencyjny – w przypadku, o którym mowa w art. 13ib ust. 1 pkt 3 ustawy.
+
+7. W celu stwierdzenia, czy został naruszony obowiązek wprowadzenia do rejestru odwzorowania cyfrowego dokumentów rejestrowych, kontrolujący ustala, czy:
+
+- **1)** dane, o których mowa w art. 13ia ust. 5 pkt 3 ustawy, zostały zgłoszone do centralnej ewidencji pojazdów;
+- **2)** dokumenty rejestracyjne potwierdzają:
+    - **a)** prawidłowość danych, o których mowa w art. 13ia ust. 5 pkt 3 ustawy, w tym czy dokumenty te dotyczą rejestrowanego pojazdu i są odpowiednio czytelne, a ich prawdziwość nie budzi uzasadnionych wątpliwości,
+    - **b)** złożenie zabezpieczenia wnoszenia opłaty elektronicznej, chyba że prawidłowość złożenia tego zabezpieczenia została potwierdzona przez Szefa Krajowej Administracji Skarbowej.
+
+8. W celu stwierdzenia, czy zostały naruszone obowiązki, o których mowa w art. 13ia ust. 10 lub art. 13ib ust. 2 ustawy, kontrolujący ustala okoliczności wymienione w ust. 6 pkt 1 oraz ustala, czy zawarte w rejestrze SPOE KAS dane rejestrowe oraz dane, o których mowa w art. 13ib ust. 1 ustawy, zostały zaktualizowane nie później niż przed rozpoczęciem przejazdu drogą krajową lub jej odcinkiem, na których pobiera się opłatę elektroniczną.
+
+9. W celu stwierdzenia, czy został naruszony obowiązek, o którym mowa w art. 13ic ust. 1 ustawy, kontrolujący ustala okoliczności, o których mowa w ust. 2 pkt 1–4 i ust. 4, a także ustala:
+
+- **1)** długość przerwy w nadawaniu sygnału pozycjonowania satelitarnego lub transmisji danych, o których mowa w art. 13i ust. 3a ustawy;
+- **2)** czy kontrolowany niezwłocznie zatrzymał się na najbliższym parkingu samochodowym lub w najbliższej zatoce postojowej albo opuścił niezwłocznie drogę krajową lub jej odcinek, na których pobiera się opłatę elektroniczną;
+- **3)** czy przerwa w nadawaniu sygnału pozycjonowania satelitarnego lub transmisji danych nie była spowodowana niedostępnością Systemu Poboru Opłaty Elektronicznej KAS;
+- **4)** czy wznowienie przejazdu drogą krajową lub jej odcinkiem, na których pobiera się opłatę elektroniczną, nastąpiło po przywróceniu sygnału pozycjonowania satelitarnego lub transmisji danych.
+
+**§ 5.**
+
+1. Kontrola jest prowadzona w trybie:
+
+- **1)** stacjonarnym, zwanym dalej „kontrolą stacjonarną”, przez pracowników Głównego Inspektoratu Transportu Drogowego lub
+- **2)** mobilnym, zwanym dalej „kontrolą mobilną”, przez inspektorów Inspekcji Transportu Drogowego działających z upoważnienia:
+    - **a)** Głównego Inspektora Transportu Drogowego albo
+    - **b)** wojewódzkiego inspektora transportu drogowego – w przypadku, o którym mowa w art. 51 ust. 7 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2021 r. poz. 919 i 1005).
+
+2. Kontrolę stacjonarną mogą również prowadzić inspektorzy Inspekcji Transportu Drogowego w zakresie obejmującym rejestrowanie naruszeń obowiązku uiszczenia opłaty elektronicznej za pomocą urządzeń, o których mowa w § 7 ust. 1 pkt 1 lit. b.
+
+3. Prawidłowość przestrzegania obowiązków, o których mowa w art. 13i ust. 4aa i art. 13ic ust. 1 ustawy, jest kontrolowana wyłącznie w ramach kontroli mobilnej.
+
+4. Inspektorzy Inspekcji Transportu Drogowego, zatrzymując pojazd w związku z prowadzeniem kontroli mobilnej, każdorazowo kontrolują prawidłowość przestrzegania obowiązków podania danych rejestrowych oraz dołączenia dokumentów rejestrowych, jeżeli posiadają dostęp online do danych lub dokumentów zawartych w rejestrze SPOE KAS.
+
+**§ 6.**
+
+1. Kontrola może obejmować następujące czynności:
+
+- **1)** analizę danych rejestrowych oraz danych, o których mowa w art. 13ib ust. 1 ustawy, zawartych w:
+    - **a)** rejestrze SPOE KAS,
+    - **b)** centralnej ewidencji pojazdów oraz innych rejestrach i bazach danych, do których dostęp posiada kontrolujący,
+    - **c)** dokumentach pojazdu i dokumentach identyfikujących kontrolowanego oraz na innych nośnikach informacji;
+
+- **2)** analizę danych geolokalizacyjnych przekazywanych do Systemu Poboru Opłaty Elektronicznej KAS przez urządzenie do poboru opłaty elektronicznej, zainstalowane lub przewożone w pojeździe podlegającym opłacie elektronicznej podczas przejazdu drogą krajową lub jej odcinkiem, na których pobiera się opłatę elektroniczną;
+- **3)** ustalenie podmiotu odpowiedzialnego za naruszenie obowiązku uiszczenia opłaty elektronicznej na podstawie danych i informacji:
+    - **a)** z centralnej ewidencji pojazdów i centralnej ewidencji kierowców, rejestru dowodów osobistych oraz rejestru SPOE KAS,
+    - **b)** zawartych w dokumentach pojazdu oraz innych dokumentach okazanych przez kontrolowanego,
+    - **c)** zapisów tachografu,
+    - **d)** pozyskanych od organów rejestrujących pojazd,
+    - **e)** z wyjaśnień kontrolowanego.
+
+2. W ramach prowadzenia kontroli stacjonarnej kontrolujący analizuje dane zarejestrowane przez urządzenia, o których mowa w § 7 ust. 1 pkt 1, oraz dane geolokalizacyjne zarejestrowane przez System Poboru Opłaty Elektronicznej KAS i w uzasadnionych przypadkach weryfikuje ich prawidłowość przez porównanie z danymi, o których mowa w ust. 1 pkt 1 i 2, lub występuje do Szefa Krajowej Administracji Skarbowej o udzielenie niezbędnych wyjaśnień.
+
+3. W ramach prowadzenia kontroli mobilnej inspektorzy Inspekcji Transportu Drogowego wykonują czynności kontrolne bezpośrednio na drodze na zasadach określonych w ustawie z dnia 6 września 2001 r. o transporcie drogowym.
+
+4. Czynności kontrolne wykonywane w ramach kontroli mobilnej mogą obejmować:
+
+- **1)** zatrzymywanie pojazdów w celu przeprowadzenia kontroli;
+- **2)** legitymowanie kierowców;
+- **3)** badanie dokumentów i innych nośników informacji objętych zakresem kontroli;
+- **4)** żądanie udzielenia przez kontrolowanego ustnych lub pisemnych wyjaśnień;
+- **5)** sporządzanie kopii dokumentów, o których mowa w pkt 3;
+- **6)** sporządzanie dokumentacji fotograficznej, jeżeli może ona stanowić dowód lub przyczynić się do utrwalenia dowodu w sprawie będącej przedmiotem kontroli;
+- **7)** badanie urządzeń do poboru opłaty elektronicznej, w które są wyposażone pojazdy podlegające kontroli;
+- **8)** sporządzanie protokołu kontroli w przypadku stwierdzenia naruszenia obowiązku uiszczenia opłaty elektronicznej uzasadniającego nałożenie kary pieniężnej albo grzywny, o której mowa w art. 13na ust. 1 ustawy;
+- **9)** wprowadzanie informacji o ujawnionych naruszeniach obowiązku uiszczenia opłaty elektronicznej do Systemu Poboru Opłaty Elektronicznej KAS;
+- **10)** podejmowanie czynności określonych w art. 13m ust. 2–10 ustawy wobec podmiotów zagranicznych.
+
+**§ 7.**
+
+1. Do prowadzenia kontroli stacjonarnej wykorzystuje się:
+
+- **1)** urządzenia:
+    - **a)** stacjonarne i przenośne, o których mowa w art. 13o ust. 1 ustawy, zainstalowane w pasie drogowym dróg krajowych lub ich odcinków, na których pobiera się opłatę elektroniczną,
+    - **b)** zainstalowane w pojazdach służbowych kontrolującego – zwane dalej „urządzeniami kontrolnymi”;
+
+- **2)** System Poboru Opłaty Elektronicznej KAS.
+
+2. Urządzenia kontrolne mogą rejestrować:
+
+- **1)** obrazy pojazdu będącego przedmiotem kontroli, w tym jego numer rejestracyjny;
+- **2)** wymiary i parametry pojazdu umożliwiające ustalenie:
+    - **a)** czy podlega on opłacie elektronicznej,
+    - **b)** kategorii pojazdu, a także liczby osi pojazdu, jeżeli stawki opłaty elektronicznej zostały zróżnicowane ze względu na liczbę osi;
+
+- **3)** czas i datę przeprowadzonej kontroli;
+- **4)** identyfikator urządzenia kontrolnego, który zarejestrował obraz pojazdu, o którym mowa w pkt 1.
+
+3. W przypadku danych rejestrowanych w ramach kontroli mobilnej, do formułowania wniosków o wszczęcie postępowań w sprawie nałożenia kar pieniężnych mogą być wykorzystywane:
+
+- **1)** dane, o których mowa w ust. 2, jeżeli zawierają obraz pojazdu będącego przedmiotem kontroli, lub
+- **2)** dane geolokalizacyjne rejestrowane przez System Poboru Opłaty Elektronicznej KAS.
+
+4. Do prowadzenia kontroli mobilnej mogą być wykorzystywane przyrządy ujawniające informacje o podejrzeniu naruszenia obowiązku uiszczenia opłaty elektronicznej zainstalowane w pojazdach służbowych kontrolującego.
+
+5. W wyniku przeprowadzenia kontroli mobilnej z wykorzystaniem przyrządów, o których mowa w ust. 4, rejestracji mogą podlegać dane wymienione w ust. 2 oraz identyfikator przyrządu kontrolnego.
+
+6. Na podstawie danych zarejestrowanych przez przyrządy, o których mowa w ust. 4, kontrolujący zatrzymuje pojazdy w celu podjęcia dalszych czynności kontrolnych.
+
+7. Kontrolę stacjonarną z wykorzystaniem urządzeń kontrolnych oraz kontrolę mobilną przeprowadza się w odpowiednim miejscu i czasie tak, aby utrudnić kierującym pojazdami omijanie miejsc, w których są prowadzone czynności kontrolne. Kontrola mobilna ma w szczególności na celu kontrolę prawidłowości uiszczenia opłaty elektronicznej przez podmioty zagraniczne.
+
+**§ 8.** W okresie do dnia wskazanego w obwieszczeniu ministra właściwego do spraw finansów publicznych wydanym na podstawie art. 9 ust. 2 ustawy z dnia 6 maja 2020 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1087 oraz z 2021 r. poz. 1005) do kontroli prawidłowości uiszczenia opłaty elektronicznej w systemie, o którym mowa w art. 13i ust. 1 pkt 3 ustawy, stosuje się przepisy dotychczasowe. Kontrolą są objęte prawidłowość wyposażenia pojazdów w urządzenia, o których mowa w art. 13i ust. 3 ustawy, oraz sposób ich wykorzystywania.
+
+**§ 9.** Przepisy rozporządzenia stosuje się od dnia uruchomienia SPOE KAS określonego w obwieszczeniu ministra właściwego do spraw finansów publicznych wydanym na podstawie art. 9 ust. 4 ustawy z dnia 6 maja 2020 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw.
+
+**§ 10.** Rozporządzenie wchodzi w życie po upływie pięciu dni od dnia ogłoszenia. Minister Infrastruktury: wz. M. Horała
 

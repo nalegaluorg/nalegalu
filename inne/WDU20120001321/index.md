@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie komisji egzaminacyjnej II stopnia przy Ministrze Sprawiedliwości do spraw odwołań od wyników egzaminu radcowskiego Na podstawie art. 36 ust. 14 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2010 r. Nr 10, poz. 65, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 24 września 2009 r. w sprawie komisji egzaminacyjnej II stopnia przy Ministrze Sprawiedliwości do spraw odwołań od wyników egzaminu radcowskiego (Dz. U. Nr 164, poz. 1314, z 2011 r.
-Nr 184, poz. 1090 oraz z 2012 r. poz. 703) § 7a otrzymuje brzmienie: „§ 7a. W latach 2012 i 2013 podstawą ustalenia wynagrodzenia przewodniczącego i członków komisji odwoławczej jest przeciętne wynagrodzenie w drugim kwartale 2010 r., ogłoszone w sposób wskazany w § 4 ust. 1 pkt 1.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: J. Gowin
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 24 września 2009 r. w sprawie komisji egzaminacyjnej II stopnia przy Ministrze Sprawiedliwości do spraw odwołań od wyników egzaminu radcowskiego (Dz. U. Nr 164, poz. 1314, z 2011 r. Nr 184, poz. 1090 oraz z 2012 r. poz. 703) § 7a otrzymuje brzmienie: „§ 7a. W latach 2012 i 2013 podstawą ustalenia wynagrodzenia przewodniczącego i członków komisji odwoławczej jest przeciętne wynagrodzenie w drugim kwartale 2010 r., ogłoszone w sposób wskazany w § 4 ust. 1 pkt 1.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Sprawiedliwości: J. Gowin
 

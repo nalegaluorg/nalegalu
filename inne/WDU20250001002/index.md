@@ -27,12 +27,19 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001002) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1002/text.pdf) |
 
 w sprawie szczegółowego zakresu działania Ministra Sportu i Turystyki Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780) zarządza się, co następuje:
-§ 1. 1. Rozporządzenie określa szczegółowy zakres działania Ministra Sportu i Turystyki, zwanego dalej „ministrem”.
+
+**§ 1.**
+
+1. Rozporządzenie określa szczegółowy zakres działania Ministra Sportu i Turystyki, zwanego dalej „ministrem”.
+
 2. Minister kieruje następującymi działami administracji rządowej:
-1) kultura fizyczna;
-2) turystyka.
+
+- **1)** kultura fizyczna;
+- **2)** turystyka.
+
 3. Minister jest dysponentem części 25 i 40 budżetu państwa.
+
 4. Obsługę ministra zapewnia Ministerstwo Sportu i Turystyki.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 24 lipca 2025 r.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 24 lipca 2025 r.
 

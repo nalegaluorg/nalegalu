@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000546) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/546/text.pdf) |
 
 w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2019 r. poz. 1373, z późn. zm. ) zarządza się, co następuje:
-§1. W rozporządzeniu Ministra Zdrowia z dnia 20 grudnia 2019 r. zmieniającym rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 2512) uchyla się § 2.
-§2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2020 r.
-Minister Zdrowia: wz. J. Szczurek-Żelazko
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 20 grudnia 2019 r. zmieniającym rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 2512) uchyla się § 2.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2020 r. Minister Zdrowia: wz. J. Szczurek-Żelazko
 

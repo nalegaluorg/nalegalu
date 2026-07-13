@@ -31,19 +31,7 @@ source: pdf
 
 - **1)** użyte w art. 4 w ust. 2 w pkt 2, w art. 5, w art. 6, w art. 15 w ust. 4, w art. 16 w ust. 2, w art. 23 w ust. 2, w art. 28 w ust. 2 i 3, w art. 32 w ust. 3, w art. 34 w pkt 12, w art. 38 w ust. 1 w pkt 8, w art. 41 w ust. 1 i 2, w art. 43 w ust. 2 i 3 i w art. 44 w ust. 1, 3 i 4, w różnych przypadkach, wyrazy „Minister Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa”, zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw środowiska”;
 - **2)** użyte w art. 5 i w art. 44 w ust. 1, w różnych przypadkach, wyrazy „Minister Rolnictwa i Gospodarki Żywnościowej” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw rolnictwa”;
-- **3)** rozdział 4 otrzymuje brzmienie: „Rozdział 4 Zezwolenia
-
-**Art. 17.**
-
-1. Uzyskania zezwolenia wymaga wykonywanie działalności gospodarczej w zakresie:
-
-- **1)** obrotu zwierzyną żywą, z wyłączeniem sprzedaży dokonywanej przez dzierżawców i zarządców obwodów łowieckich na terytorium Rzeczypospolitej Polskiej,
-- **2)** obrotu tuszami zwierzyny i ich częściami, z wyłączeniem, o którym mowa w pkt 1,
-- **3)** sprzedaży usług turystycznych obejmujących:
-    - **a)** polowania wykonywane przez cudzoziemców na terytorium Rzeczypospolitej Polskiej,
-    - **b)** polowania za granicą.
-
-2. Organem właściwym do wydania, odmowy wydania i cofnięcia zezwolenia jest minister właściwy do spraw środowiska, zwany dalej „organem zezwalającym”.
+- **3)** rozdział 4 otrzymuje brzmienie: „Rozdział 4 Zezwolenia Art.17. 1. Uzyskania zezwolenia wymaga wykonywanie działalności gospodarczej w zakresie: 1) obrotu zwierzyną żywą, z wyłączeniem sprzedaży dokonywanej przez dzierżawców i zarządców obwodów łowieckich na terytorium Rzeczypospolitej Polskiej, 2) obrotu tuszami zwierzyny i ich częściami, z wyłączeniem, o którym mowa w pkt 1, 3) sprzedaży usług turystycznych obejmujących: a) polowania wykonywane przez cudzoziemców na terytorium Rzeczypospolitej Polskiej, b) polowania za granicą. 2. Organem właściwym do wydania, odmowy wydania i cofnięcia zezwolenia jest minister właściwy do spraw środowiska, zwany dalej „organem zezwalającym”.
 
 **Art. 18.** Wniosek o wydanie zezwolenia powinien zawierać informacje o uprzednim wykonywaniu działalności gospodarczej wymagającej uzyskania zezwolenia, o którego wydanie ubiega się przedsiębiorca.
 

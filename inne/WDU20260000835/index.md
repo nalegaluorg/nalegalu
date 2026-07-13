@@ -27,9 +27,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000835) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/835/text.pdf) |
 
 zmieniające rozporządzenie w sprawie katalogu danych gromadzonych w centralnej ewidencji pojazdów Na podstawie art. 80b ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Cyfryzacji z dnia 11 sierpnia 2023 r. w sprawie katalogu danych gromadzonych w centralnej ewidencji pojazdów (Dz. U. poz. 1642 oraz z 2025 r. poz. 554) w § 2:
-1) w pkt 13 po lit. da dodaje się lit. db w brzmieniu: „db) datę i miejsce urodzenia właściciela pojazdu – w przypadku gdy właścicielem pojazdu jest osoba nieposiadająca numeru PESEL, jeżeli dane te są dostępne,”;
-2) w pkt 16 lit. b otrzymuje brzmienie: „b) przyczynę wyrejestrowania pojazdu, a w przypadku gdy przyczyną wyrejestrowania jest demontaż pojazdu za granicą, również dane, o których mowa w pkt 13 lit. a–d, db, e–g,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 30 czerwca 2026 r.
-Minister Cyfryzacji: wz. D. Standerski
+
+**§ 1.** W rozporządzeniu Ministra Cyfryzacji z dnia 11 sierpnia 2023 r. w sprawie katalogu danych gromadzonych w centralnej ewidencji pojazdów (Dz. U. poz. 1642 oraz z 2025 r. poz. 554) w § 2:
+
+- **1)** w pkt 13 po lit. da dodaje się lit. db w brzmieniu: „db) datę i miejsce urodzenia właściciela pojazdu – w przypadku gdy właścicielem pojazdu jest osoba nieposiadająca numeru PESEL, jeżeli dane te są dostępne,”;
+- **2)** w pkt 16 lit. b otrzymuje brzmienie: „b) przyczynę wyrejestrowania pojazdu, a w przypadku gdy przyczyną wyrejestrowania jest demontaż pojazdu za granicą, również dane, o których mowa w pkt 13 lit. a–d, db, e–g,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 30 czerwca 2026 r. Minister Cyfryzacji: wz. D. Standerski
 

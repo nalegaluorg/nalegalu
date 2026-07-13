@@ -27,12 +27,16 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie warunków wynagradzania za pracę i przyznawania związanych z pracą dla pracowników zatrudnionych w państwowych jednostkach działających w zakresie rolnictwa Na podstawie art. 77 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U.
 zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 30 kwietnia 2008 gradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników jednostkach sfery budżetowej działających w zakresie rolnictwa (Dz. U. poz. 497, z 2009 wprowadza się następujące zmiany:
-1) w § 9:
-a) po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W razie równoczesnego pozostawania w więcej niż jednym stosunku jącego do dodatku za wysługę lat wlicza się jeden z tych okresów.”,
-b) uchyla się ust. 3;
-2) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do
-§ 2. Miesięczne stawki wynagrodzenia zasadniczego określone w załączniku do zastosowanie do wynagrodzeń należnych od dnia 1 stycznia 2019 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
-Minister Rodziny, Pracy TABELA MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO Kategoria zaszeregowania Kwota w złotych 1 2 I 1 440–2 250 II 1 450–2 350 III 1 460–2 450 IV 1 470–2 550 V 1 480–2 650 VI 1 490–2 750 VII 1 500–2 850 VIII 1 510–2 950 IX 1 520–3 050 X 1 530–3 150 XI 1 540–3 350 XII 1 550–3 650 XIII 1 570–3 950 XIV 1 590–4 250 XV 1 620–4 650 XVI 1 650–5 050 XVII 1 680–5 450 XVIII 1 720–6 050 XIX 1 760–6 650
+
+**§ 1.** W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 30 kwietnia 2008 gradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników jednostkach sfery budżetowej działających w zakresie rolnictwa (Dz. U. poz. 497, z 2009 wprowadza się następujące zmiany:
+
+- **1)** w § 9:
+    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W razie równoczesnego pozostawania w więcej niż jednym stosunku jącego do dodatku za wysługę lat wlicza się jeden z tych okresów.”,
+    - **b)** uchyla się ust. 3;
+
+- **2)** załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do
+
+**§ 2.** Miesięczne stawki wynagrodzenia zasadniczego określone w załączniku do zastosowanie do wynagrodzeń należnych od dnia 1 stycznia 2019 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. Minister Rodziny, Pracy TABELA MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO Kategoria zaszeregowania Kwota w złotych 1 2 I 1 440–2 250 II 1 450–2 350 III 1 460–2 450 IV 1 470–2 550 V 1 480–2 650 VI 1 490–2 750 VII 1 500–2 850 VIII 1 510–2 950 IX 1 520–3 050 X 1 530–3 150 XI 1 540–3 350 XII 1 550–3 650 XIII 1 570–3 950 XIV 1 590–4 250 XV 1 620–4 650 XVI 1 650–5 050 XVII 1 680–5 450 XVIII 1 720–6 050 XIX 1 760–6 650
 

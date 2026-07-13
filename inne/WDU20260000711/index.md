@@ -29,13 +29,10 @@ source: pdf
 1) ustawą z dnia 25 czerwca 2025 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 1006);
 2) ustawą z dnia 9 lipca 2025 r. o zmianie ustawy – Prawo konsularne (Dz. U. poz. 1171).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 11 ustawy z dnia 25 czerwca 2025 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 1006), który stanowi: „Art. 11. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 3 pkt 2 lit. a i b oraz pkt 3, art. 4 pkt 2, 4 i 5 oraz art. 9, które wchodzą w życie z dniem 30 czerwca 2026 r.;
-2) art. 6, który wchodzi w życie z dniem 17 kwietnia 2026 r.”;
-2) art. 2 i art. 3 ustawy z dnia 9 lipca 2025 r. o zmianie ustawy – Prawo konsularne (Dz. U. poz. 1171), które stanowią: „Art. 2. 1. Postępowania w sprawach o wydanie tymczasowego dokumentu podróży wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy umarza się.
-2. Formularze tymczasowych dokumentów podróży wyprodukowane zgodnie z decyzją 96/409/WPZiB przedstawicieli rządów państw członkowskich zebranych w ramach Rady z dnia 25 czerwca 1996 r. w sprawie ustanowienia tymczasowego dokumentu podróży (Dz. Urz. WE L 168 z 06.07.1996, str. 4, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 18, t. 1, str. 26, z późn. zm.) stają się nieważne i podlegają zniszczeniu przez konsula z dniem wejścia w życie niniejszej ustawy.
-
-**Art. 3.** Ustawa wchodzi w życie z dniem 9 grudnia 2025 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 25 czerwca 2015 r. Prawo konsularne
+1) art. 11 ustawy z dnia 25 czerwca 2025 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 1006), który stanowi: „ Art. 11. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem: 1) art. 3 pkt 2 lit. a i b oraz pkt 3, art. 4 pkt 2, 4 i 5 oraz art. 9, które wchodzą w życie z dniem 30 czerwca 2026 r.; 2) art. 6, który wchodzi w życie z dniem 17 kwietnia 2026 r.”;
+2) art. 2 i art. 3 ustawy z dnia 9 lipca 2025 r. o zmianie ustawy – Prawo konsularne (Dz. U. poz. 1171), które stanowią: „ Art. 2. 1. Postępowania w sprawach o wydanie tymczasowego dokumentu podróży wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy umarza się. 2. Formularze tymczasowych dokumentów podróży wyprodukowane zgodnie z decyzją 96/409/WPZiB przedstawicieli rządów państw członkowskich zebranych w ramach Rady z dnia 25 czerwca 1996 r. w sprawie ustanowienia tymczasowego dokumentu podróży (Dz. Urz. WE L 168 z 06.07.1996, str. 4, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 18, t. 1, str. 26, z późn. zm.) stają się nieważne i podlegają zniszczeniu przez konsula z dniem wejścia w życie niniejszej ustawy. Art. 3. Ustawa wchodzi w życie z dniem 9 grudnia 2025 r.”. Marszałek Sejmu: W. Czarzasty
+USTAWA z dnia 25 czerwca 2015 r.
+Prawo konsularne
 
 ### DZIAŁ I Przepisy ogólne
 

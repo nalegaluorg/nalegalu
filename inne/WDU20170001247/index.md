@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie zagrożeń naturalnych w zakładach górniczych Na podstawie art. 118 ust. 4 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2016 r.
 poz. 1131 i 1991 oraz z 2017 r. poz. 60, 202, 1089 i 1215) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 29 stycznia 2013 r. w sprawie zagrożeń naturalnych w zakładach górniczych (Dz. U. z 2015 r. poz. 1702 i 2204 oraz z 2016 r. poz. 949) § 44 otrzymuje brzmienie: „§ 44. Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r.
-Minister Środowiska: J. Szyszko
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 29 stycznia 2013 r. w sprawie zagrożeń naturalnych w zakładach górniczych (Dz. U. z 2015 r. poz. 1702 i 2204 oraz z 2016 r. poz. 949) § 44 otrzymuje brzmienie: „§ 44. Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2017 r. Minister Środowiska: J. Szyszko
 

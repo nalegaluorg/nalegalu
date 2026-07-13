@@ -31,9 +31,12 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwoś
 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 29 listopada 2012 r.
 w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw należących do właściwości wydziałów rodzinnych i nieletnich z obszarów właściwości innych sądów rejonowych Na podstawie art. 20 pkt 5 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r.
 poz. 23, z późn. zm. ) zarządza się, co następuje:
-§ 1. Następującym sądom rejonowym przekazuje się rozpoznawanie spraw z zakresu prawa rodzinnego i opiekuńczego, spraw dotyczących demoralizacji i czynów karalnych nieletnich, leczenia osób uzależnionych od alkoholu oraz od środków odurzających i psychotropowych z obszarów właściwości innych sądów rejonowych:
-1) w obszarze właściwości Sądu Okręgowego w Gdańsku – Sądowi Rejonowemu Gdańsk-Południe w Gdańsku, z obszaru właściwości Sądu Rejonowego Gdańsk-Północ w Gdańsku;
-2) w obszarze właściwości Sądu Okręgowego w Katowicach – Sądowi Rejonowemu Katowice-Zachód w Katowicach, z obszaru właściwości Sądu Rejonowego Katowice-Wschód w Katowicach;
-3) (uchylony).
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
+
+**§ 1.** Następującym sądom rejonowym przekazuje się rozpoznawanie spraw z zakresu prawa rodzinnego i opiekuńczego, spraw dotyczących demoralizacji i czynów karalnych nieletnich, leczenia osób uzależnionych od alkoholu oraz od środków odurzających i psychotropowych z obszarów właściwości innych sądów rejonowych:
+
+- **1)** w obszarze właściwości Sądu Okręgowego w Gdańsku – Sądowi Rejonowemu Gdańsk-Południe w Gdańsku, z obszaru właściwości Sądu Rejonowego Gdańsk-Północ w Gdańsku;
+- **2)** w obszarze właściwości Sądu Okręgowego w Katowicach – Sądowi Rejonowemu Katowice-Zachód w Katowicach, z obszaru właściwości Sądu Rejonowego Katowice-Wschód w Katowicach;
+- **3)** (uchylony).
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
 

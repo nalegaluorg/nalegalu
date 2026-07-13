@@ -27,10 +27,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie zezwoleń na wykonywanie działalności w zakresie podatku akcyzowego Na podstawie art. 84 ust. 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 12 kwietnia 2019 r. w sprawie zezwoleń na wykonywanie działalności w zakresie podatku akcyzowego (Dz. U. poz. 745) wprowadza się następujące zmiany:
-1) w § 5 w ust. 1 uchyla się pkt 1;
-2) w § 9 w ust. 1 w pkt 3 wyrazy „§ 5 ust. 1 pkt 1 i 3–6” zastępuje się wyrazami „§ 5 ust. 1 pkt 3–6”;
-3) użyte w § 10 w ust. 1 w pkt 2, w § 11 w ust. 1 w pkt 2 oraz w § 12 w ust. 1 w części wspólnej wyrazy „§ 5 ust. 1 pkt 1 i 3–5” zastępuje się wyrazami „§ 5 ust. 1 pkt 3–5”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 maja 2021 r.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 12 kwietnia 2019 r. w sprawie zezwoleń na wykonywanie działalności w zakresie podatku akcyzowego (Dz. U. poz. 745) wprowadza się następujące zmiany:
+
+- **1)** w § 5 w ust. 1 uchyla się pkt 1;
+- **2)** w § 9 w ust. 1 w pkt 3 wyrazy „§ 5 ust. 1 pkt 1 i 3–6” zastępuje się wyrazami „§ 5 ust. 1 pkt 3–6”;
+- **3)** użyte w § 10 w ust. 1 w pkt 2, w § 11 w ust. 1 w pkt 2 oraz w § 12 w ust. 1 w części wspólnej wyrazy „§ 5 ust. 1 pkt 1 i 3–5” zastępuje się wyrazami „§ 5 ust. 1 pkt 3–5”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 maja 2021 r. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
 

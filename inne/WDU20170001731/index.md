@@ -25,38 +25,41 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001731) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1731/text.pdf) |
 
-§ 1. W rozporządzeniu Prezesa Rady Ministrów Komisji do Spraw Najwyższych Dopuszczalnych Pracy (Dz. U. z 2015 r. poz. 1772) § 1 otrzymuje „§ 1. Powołuje się Międzyresortową ników Szkodliwych dla Zdrowia w Środowisku
-1) przewodniczący – Danuta Koradecka,
-2) zastępcy przewodniczącego:
-a) Sławomir Czerczak, Instytut Medycyny
-b) Tomasz Dawidowicz, Ministerstwo
-3) sekretarz – Jolanta Skowroń, Centralny
-4) pozostali członkowie:
-a) Grzegorz Czwordon, Ministerstwo
-b) Wojciech Drebert, Komisja Krajowa
-c) Ewa Garstka, Ministerstwo Rozwoju,
-d) Renata Górna, Ogólnopolskie
-e) Beata Marta Iwańczuk, Państwowa ministracji,
-f) Andrzej Kalus, Wyższy Urząd
-g) Antonina Klara Kisiel-Geisler,
-h) Katarzyna Kitajewska, Ministerstwo
-i) Janusz Kompała, Główny Instytut
-j) Jerzy Król, Ministerstwo Infrastruktury
-k) Małgorzata Kupczewska-Dobecka,
-l) Jan Krzysztof Ludwicki, Narodowy
-m) Anna Margis, Ministerstwo Energii,
-n) Stanisław Marzec, Instytut Medycyny
-o) Marta Matyjek, Związek Pracodawców
-p) Zygmunt Mierzejewski, Forum
-q) Wanda Mikulska, Ministerstwo
-r) Andrzej Milczarek, Instytut Chemii
-s) Ernest Nasternak, Ministerstwo
-t) Andrzej Niechwiej, Pracodawcy
-u) Alfred Owoc, Instytut Medycyny
-v) Sylwia Oziembło-Brzykczy, Główny
-w) Marek Pietrzak, Ministerstwo
-x) Marzena Podpora, Ministerstwo
-y) Małgorzata Pośniak, Centralny
-z) Jacek Romankow, Związek Rzemiosła za) Anna Siwek-Ślusarek, Ministerstwo zb) Elżbieta Sosnowska, Polski Komitet zc) Łukasz Wojciech Stańczak, Polska zd) Jerzy Wroński, Konfederacja
-§ 2. Rozporządzenie wchodzi w życie po
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów Komisji do Spraw Najwyższych Dopuszczalnych Pracy (Dz. U. z 2015 r. poz. 1772) § 1 otrzymuje „§ 1. Powołuje się Międzyresortową ników Szkodliwych dla Zdrowia w Środowisku
+
+- **1)** przewodniczący – Danuta Koradecka,
+- **2)** zastępcy przewodniczącego:
+    - **a)** Sławomir Czerczak, Instytut Medycyny
+    - **b)** Tomasz Dawidowicz, Ministerstwo
+
+- **3)** sekretarz – Jolanta Skowroń, Centralny
+- **4)** pozostali członkowie:
+    - **a)** Grzegorz Czwordon, Ministerstwo
+    - **b)** Wojciech Drebert, Komisja Krajowa
+    - **c)** Ewa Garstka, Ministerstwo Rozwoju,
+    - **d)** Renata Górna, Ogólnopolskie
+    - **e)** Beata Marta Iwańczuk, Państwowa ministracji,
+    - **f)** Andrzej Kalus, Wyższy Urząd
+    - **g)** Antonina Klara Kisiel-Geisler,
+    - **h)** Katarzyna Kitajewska, Ministerstwo
+    - **i)** Janusz Kompała, Główny Instytut
+    - **j)** Jerzy Król, Ministerstwo Infrastruktury
+    - **k)** Małgorzata Kupczewska-Dobecka,
+    - **l)** Jan Krzysztof Ludwicki, Narodowy
+    - **m)** Anna Margis, Ministerstwo Energii,
+    - **n)** Stanisław Marzec, Instytut Medycyny
+    - **o)** Marta Matyjek, Związek Pracodawców
+    - **p)** Zygmunt Mierzejewski, Forum
+    - **q)** Wanda Mikulska, Ministerstwo
+    - **r)** Andrzej Milczarek, Instytut Chemii
+    - **s)** Ernest Nasternak, Ministerstwo
+    - **t)** Andrzej Niechwiej, Pracodawcy
+    - **u)** Alfred Owoc, Instytut Medycyny
+    - **v)** Sylwia Oziembło-Brzykczy, Główny
+    - **w)** Marek Pietrzak, Ministerstwo
+    - **x)** Marzena Podpora, Ministerstwo
+    - **y)** Małgorzata Pośniak, Centralny
+    - **z)** Jacek Romankow, Związek Rzemiosła za) Anna Siwek-Ślusarek, Ministerstwo zb) Elżbieta Sosnowska, Polski Komitet zc) Łukasz Wojciech Stańczak, Polska zd) Jerzy Wroński, Konfederacja
+
+**§ 2.** Rozporządzenie wchodzi w życie po
 

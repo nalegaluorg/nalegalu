@@ -8,12 +8,12 @@ pos: 47
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o kontroli niektórych inwestycji
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 stycznia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy o kontroli niektórych inwestycji
 
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 9 stycznia 2026 r.*
+*USTAWA z dnia 24 lipca 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,51 +24,52 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-01-09 |
 | Data wydania | 2026-01-15 |
-| Ostatnia zmiana | 2026-01-16 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000047) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/47/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji (Dz. U. z 2024 r. poz. 1459), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 lipca 2025 r. o zmianie ustawy o kontroli niektórych inwestycji oraz ustawy o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19 (Dz. U. poz. 973) oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 stycznia 2026 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 3 i art. 4 ustawy z dnia 9 lipca 2025 r. o zmianie ustawy o kontroli niektórych inwestycji oraz ustawy o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19 (Dz. U. poz. 973), które stanowią: „Art. 3. Do spraw wszczętych przez Prezesa Urzędu Ochrony Konkurencji i Konsumentów na podstawie art. 12a–12k ustawy zmienianej w art. 1 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
-
-**Art. 4.** Ustawa wchodzi w życie z dniem 24 lipca 2025 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady i tryb kontroli niektórych inwestycji polegających na nabywaniu:
+    - **a)** udziałów albo akcji,
+    - **b)** ogółu praw i obowiązków wspólnika, mającego prawo prowadzenia spraw spółki lub prawo reprezentacji spółki osobowej,
+    - **c)** przedsiębiorstwa lub jego zorganizowanej części – skutkującym nabyciem lub osiągnięciem istotnego uczestnictwa albo nabyciem dominacji nad spółką, będącą podmiotem podlegającym ochronie;
+
+- **1a)** zasady i tryb kontroli inwestycji skutkujących nabyciem lub osiągnięciem znaczącego uczestnictwa lub nabyciem dominacji nad podmiotem objętym ochroną;
+- **2)** sankcje za naruszenie obowiązków wynikających z ustawy.
+
 **Art. 2.** Kontrola, o której mowa w art. 1 pkt 1, ma na celu ochronę porządku publicznego lub bezpieczeństwa publicznego, o których mowa w art. 52 ust. 1 i art. 65 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej, przy uwzględnieniu art. 4 ust. 2 Traktatu o Unii Europejskiej.
 
-**Art. 2a.**
-
-- **2)** W przypadku nabycia lub osiągnięcia istotnego uczestnictwa albo nabycia dominacji przez Skarb Państwa, z wyjątkiem nabycia pośredniego, o którym mowa w art. 3 ust. 5, przepisów art. 5–12k oraz art. 15–16b nie stosuje się.
+**Art. 2a.** W przypadku nabycia lub osiągnięcia istotnego uczestnictwa albo nabycia dominacji przez Skarb Państwa, z wyjątkiem nabycia pośredniego, o którym mowa w art. 3 ust. 5, przepisów art. 5–12k oraz art. 15–16b nie stosuje się.
 
 **Art. 3.**
 
 1. Ilekroć w ustawie jest mowa o:
 
-- **1)** podmiocie dominującym rozumie się przez to podmiot:
+- **1)** podmiocie dominującym – rozumie się przez to podmiot:
     - **a)** który posiada bezpośrednio lub pośrednio przez inne podmioty większość ogólnej liczby głosów w organach innego podmiotu, także na podstawie porozumień z innymi osobami, lub
     - **b)** który jest uprawniony do powoływania lub odwoływania większości członków organów zarządzających lub nadzorczych innego podmiotu, lub
     - **c)** w przypadku którego więcej niż połowa członków zarządu innego podmiotu jest jednocześnie członkami zarządu, prokurentami lub osobami pełniącymi funkcje kierownicze pierwszego podmiotu bądź innego podmiotu pozostającego z tym pierwszym w stosunku zależności, lub
     - **d)** który posiada udział kapitałowy w spółce osobowej o wartości wynoszącej co najmniej 50 % wartości wszystkich wkładów wniesionych do tej spółki, lub
     - **e)** który posiada zdolność do decydowania w inny sposób o kierunkach działalności innego podmiotu, w szczególności na podstawie umowy przewidującej zarządzanie tym podmiotem lub przekazywanie zysku przez ten podmiot;
 
-- **2)** podmiocie zależnym rozumie się przez to podmiot, w stosunku do którego inny podmiot jest podmiotem dominującym, przy czym wszystkie podmioty zależne od tego podmiotu zależnego uważa się również za podmioty zależne od tego podmiotu dominującego;
-- **3)** ogólnej liczbie głosów rozumie się przez to sumę głosów przypadających na wszystkie akcje albo na wszystkie udziały podmiotu;
-- **4)** istotnym uczestnictwie rozumie się przez to sytuację umożliwiającą wywieranie wpływu na działalność podmiotu poprzez:
+- **2)** podmiocie zależnym – rozumie się przez to podmiot, w stosunku do którego inny podmiot jest podmiotem dominującym, przy czym wszystkie podmioty zależne od tego podmiotu zależnego uważa się również za podmioty zależne od tego podmiotu dominującego;
+- **3)** ogólnej liczbie głosów – rozumie się przez to sumę głosów przypadających na wszystkie akcje albo na wszystkie udziały podmiotu;
+- **4)** istotnym uczestnictwie – rozumie się przez to sytuację umożliwiającą wywieranie wpływu na działalność podmiotu poprzez:
     - **a)** posiadanie udziałów albo akcji dających w okresie ostatnich 2 lat co najmniej 20 % ogólnej liczby głosów, obliczonej jako średnia ważona w tym okresie, w organie stanowiącym podmiotu, w szczególności na walnym zgromadzeniu albo zgromadzeniu wspólników, przy czym zmiany stanu posiadania udziałów albo akcji, w tym również zbycie całości udziałów albo akcji w tym okresie i ich nabycie nie wpływają na określenie istotnego uczestnictwa albo
     - **b)** posiadanie udziału kapitałowego w spółce osobowej o wartości wynoszącej co najmniej 20 % wartości wszystkich wkładów wniesionych do tej spółki;
 
-- **5)** podmiocie podlegającym ochronie rozumie się przez to podmiot umieszczony w wykazie, o którym mowa w przepisach wydanych na podstawie art. 4 ust. 2;
-- **6)** organie kontroli rozumie się przez to:
-    - **a)** ministra właściwego do spraw aktywów państwowych w zakresie określonym w art. 4 ust. 1 pkt 1–6, 8–10, pkt 11–13,
+- **5)** podmiocie podlegającym ochronie – rozumie się przez to podmiot umieszczony w wykazie, o którym mowa w przepisach wydanych na podstawie art. 4 ust. 2;
+- **6)** organie kontroli – rozumie się przez to:
+    - **a)** ministra właściwego do spraw aktywów państwowych – w zakresie określonym w art. 4 ust. 1 pkt 1–6, 8–10, pkt 11–13,
     - **b)** (uchylona)
-    - **c)** Ministra Obrony Narodowej w zakresie określonym w art. 4 ust. 1 pkt 7 i 14,
-    - **d)** ministra właściwego do spraw gospodarki morskiej w zakresie określonym w art. 4 ust. 1 pkt 10a.
+    - **c)** Ministra Obrony Narodowej – w zakresie określonym w art. 4 ust. 1 pkt 7 i 14,
+    - **d)** ministra właściwego do spraw gospodarki morskiej – w zakresie określonym w art. 4 ust. 1 pkt 10a.
 
 2. Ilekroć w ustawie mowa jest o spółce, dominacji nad spółką oraz istotnym uczestnictwie w spółce, należy przez to także rozumieć odpowiednio spółkę jawną, partnerską, komandytową, komandytowo-akcyjną, dominację nad taką spółką oraz istotne uczestnictwo w takiej spółce. Stosunek dominacji i istotne uczestnictwo ustala się w takim przypadku również poprzez stwierdzenie, iż podmiot dominujący jest uprawniony do decydowania w sprawach spółki sam, lub wspólnie z innymi osobami.
 
-3. Przez nabycie dominacji rozumie się osiągnięcie albo przekroczenie 50 % ogólnej liczby głosów w organie stanowiącym podmiotu podlegającego ochronie, w szczególności na walnym zgromadzeniu albo zgromadzeniu wspólników, lub udziału w kapitale zakładowym, a w przypadku prostej spółki akcyjnej ogólnej liczby akcji tej spółki, przez nabycie udziałów albo akcji lub praw z udziałów albo akcji albo objęcie udziałów albo akcji.
+3. Przez nabycie dominacji rozumie się osiągnięcie albo przekroczenie 50 % ogólnej liczby głosów w organie stanowiącym podmiotu podlegającego ochronie, w szczególności na walnym zgromadzeniu albo zgromadzeniu wspólników, lub udziału w kapitale zakładowym, a w przypadku prostej spółki akcyjnej – ogólnej liczby akcji tej spółki, przez nabycie udziałów albo akcji lub praw z udziałów albo akcji albo objęcie udziałów albo akcji.
 
-4. Przez nabycie lub osiągnięcie istotnego uczestnictwa rozumie się nabycie udziałów albo akcji lub praw z udziałów albo akcji albo objęcie udziałów albo akcji, w liczbie zapewniającej osiągnięcie albo przekroczenie odpowiednio 20 %, 25 %, 33 % ogólnej liczby głosów na walnym zgromadzeniu albo zgromadzeniu wspólników lub udziału w kapitale zakładowym, a w przypadku prostej spółki akcyjnej ogólnej liczby akcji tej spółki, uzyskanie istotnego uczestnictwa z upływem okresu, o którym mowa w ust. 1 pkt 4 lit. a, jak również nabycie od podmiotu podlegającego ochronie przedsiębiorstwa lub jego zorganizowanej części.
+4. Przez nabycie lub osiągnięcie istotnego uczestnictwa rozumie się nabycie udziałów albo akcji lub praw z udziałów albo akcji albo objęcie udziałów albo akcji, w liczbie zapewniającej osiągnięcie albo przekroczenie odpowiednio 20 %, 25 %, 33 % ogólnej liczby głosów na walnym zgromadzeniu albo zgromadzeniu wspólników lub udziału w kapitale zakładowym, a w przypadku prostej spółki akcyjnej – ogólnej liczby akcji tej spółki, uzyskanie istotnego uczestnictwa z upływem okresu, o którym mowa w ust. 1 pkt 4 lit. a, jak również nabycie od podmiotu podlegającego ochronie przedsiębiorstwa lub jego zorganizowanej części.
 
 5. Przez nabycie lub osiągnięcie istotnego uczestnictwa albo nabycie dominacji rozumie się również przypadki, gdy:
 
@@ -77,16 +78,16 @@ source: "isap-pdf"
 - **3)** nabycie lub osiągnięcie istotnego uczestnictwa w podmiocie podlegającym ochronie albo nabycie dominacji nad takim podmiotem jest dokonywane w imieniu własnym, ale na zlecenie innego podmiotu, w tym w ramach wykonywania umowy o zarządzanie portfelem w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ),
 - **4)** nabycie lub osiągnięcie istotnego uczestnictwa w podmiocie podlegającym ochronie albo nabycie dominacji nad takim podmiotem jest dokonywane przez podmiot, z którym inny podmiot zawarł umowę, której przedmiotem jest przekazanie uprawnień do wykonywania prawa głosu, bądź innych uprawnień do udziałów albo akcji lub praw z udziałów albo akcji spółki będącej podmiotem podlegającym ochronie,
 - **5)** nabycie lub osiągnięcie istotnego uczestnictwa albo nabycie dominacji nad spółką będącą podmiotem podlegającym ochronie jest dokonywane przez grupę dwóch lub więcej osób, jeżeli chociażby jedną z tych osób jest podmiot, z którym inny podmiot zawarł umowę, dotyczącą nabycia udziałów albo akcji spółki będącej podmiotem podlegającym ochronie, bądź choćby nabywania udziałów albo akcji spółek z siedzibą w Rzeczypospolitej Polskiej, jeżeli przedmiotem tej umowy jest przekazanie uprawnień do wykonywania prawa głosu, bądź innych uprawnień do udziałów albo akcji lub praw z udziałów albo akcji spółki będącej podmiotem podlegającym ochronie,
-- **6)** nabycie lub osiągnięcie istotnego uczestnictwa w spółce będącej podmiotem podlegającym ochronie albo nabycie dominacji nad taką spółką jest dokonywane przez podmiot działający na podstawie pisemnego lub ustnego porozumienia dotyczącego nabywania przez strony takiego porozumienia udziałów albo akcji spółki będącej podmiotem podlegającym ochronie lub nabywania udziałów albo akcji spółek z siedzibą w Rzeczypospolitej Polskiej zwane dalej „nabyciem pośrednim”.
+- **6)** nabycie lub osiągnięcie istotnego uczestnictwa w spółce będącej podmiotem podlegającym ochronie albo nabycie dominacji nad taką spółką jest dokonywane przez podmiot działający na podstawie pisemnego lub ustnego porozumienia dotyczącego nabywania przez strony takiego porozumienia udziałów albo akcji spółki będącej podmiotem podlegającym ochronie lub nabywania udziałów albo akcji spółek z siedzibą w Rzeczypospolitej Polskiej – zwane dalej „nabyciem pośrednim”.
 
-6. Przez nabycie pośrednie rozumie się również przypadki, gdy wskutek transakcji niewymienionej w ust. 3–5 podmiot uzyska status podmiotu dominującego wobec podmiotu posiadającego co najmniej 20 % ogólnej liczby głosów na walnym zgromadzeniu albo zgromadzeniu wspólników lub udziału w kapitale zakładowym spółki, a w przypadku prostej spółki akcyjnej ogólnej liczby akcji tej spółki, będącej podmiotem podlegającym ochronie albo będącego podmiotem dominującym wobec spółki będącej podmiotem podlegającym ochronie bądź posiadającego w niej istotne uczestnictwo, albo wobec podmiotu mającego tytuł prawny do przedsiębiorstwa takiej spółki albo jego zorganizowanej części. Jeżeli nabycie pośrednie nastąpiło wskutek czynności, dokonanej na podstawie przepisów prawa państwa innego niż Rzeczpospolita Polska, w szczególności wskutek połączenia spółek, których siedziby znajdują się poza terytorium Rzeczypospolitej Polskiej, bądź nabycia lub objęcia udziałów albo akcji spółki z siedzibą poza terytorium Rzeczypospolitej Polskiej, będącej spółką dominującą wobec spółki będącej podmiotem podlegającym ochronie, przepisy ustawy stosuje się w zakresie skutków określonych w zdaniu pierwszym.
+6. Przez nabycie pośrednie rozumie się również przypadki, gdy wskutek transakcji niewymienionej w ust. 3–5 podmiot uzyska status podmiotu dominującego wobec podmiotu posiadającego co najmniej 20 % ogólnej liczby głosów na walnym zgromadzeniu albo zgromadzeniu wspólników lub udziału w kapitale zakładowym spółki, a w przypadku prostej spółki akcyjnej – ogólnej liczby akcji tej spółki, będącej podmiotem podlegającym ochronie albo będącego podmiotem dominującym wobec spółki będącej podmiotem podlegającym ochronie bądź posiadającego w niej istotne uczestnictwo, albo wobec podmiotu mającego tytuł prawny do przedsiębiorstwa takiej spółki albo jego zorganizowanej części. Jeżeli nabycie pośrednie nastąpiło wskutek czynności, dokonanej na podstawie przepisów prawa państwa innego niż Rzeczpospolita Polska, w szczególności wskutek połączenia spółek, których siedziby znajdują się poza terytorium Rzeczypospolitej Polskiej, bądź nabycia lub objęcia udziałów albo akcji spółki z siedzibą poza terytorium Rzeczypospolitej Polskiej, będącej spółką dominującą wobec spółki będącej podmiotem podlegającym ochronie, przepisy ustawy stosuje się w zakresie skutków określonych w zdaniu pierwszym.
 
-7. Przez nabycie lub osiągnięcie istotnego uczestnictwa albo nabycie dominacji, o którym mowa w ust. 3, rozumie się również przypadki, gdy podmiot posiadać będzie udziały albo akcje lub prawa z udziałów albo akcji spółki, będącej podmiotem podlegającym ochronie, w tym również w przypadkach określonych w ust. 5, w liczbie zapewniającej osiągnięcie albo przekroczenie odpowiednio 20 %, 25 %, 33 %, 50 % ogólnej liczby głosów na walnym zgromadzeniu albo zgromadzeniu wspólników lub udziału w kapitale zakładowym, a w przypadku prostej spółki akcyjnej w ogólnej liczbie akcji tej spółki, albo będzie podmiotem dominującym wobec spółki będącej podmiotem podlegającym ochronie, bądź nabędzie istotne uczestnictwo, w przypadku:
+7. Przez nabycie lub osiągnięcie istotnego uczestnictwa albo nabycie dominacji, o którym mowa w ust. 3, rozumie się również przypadki, gdy podmiot posiadać będzie udziały albo akcje lub prawa z udziałów albo akcji spółki, będącej podmiotem podlegającym ochronie, w tym również w przypadkach określonych w ust. 5, w liczbie zapewniającej osiągnięcie albo przekroczenie odpowiednio 20 %, 25 %, 33 %, 50 % ogólnej liczby głosów na walnym zgromadzeniu albo zgromadzeniu wspólników lub udziału w kapitale zakładowym, a w przypadku prostej spółki akcyjnej – w ogólnej liczbie akcji tej spółki, albo będzie podmiotem dominującym wobec spółki będącej podmiotem podlegającym ochronie, bądź nabędzie istotne uczestnictwo, w przypadku:
 
 - **1)** umorzenia udziałów albo akcji spółki, będącej podmiotem podlegającym ochronie, bądź nabycia udziałów albo akcji własnych tej spółki,
 - **2)** podziału spółki będącej podmiotem podlegającym ochronie albo połączenia jej z inną spółką,
 - **3)** zmiany umowy albo statutu spółki, będącej podmiotem podlegającym ochronie, w zakresie uprzywilejowania udziałów albo akcji, ustanowienia bądź zmiany lub zniesienia uprawnień przysługujących poszczególnym wspólnikom albo akcjonariuszom tej spółki,
-- **4)** unieważnienia akcji spółki będącej podmiotem podlegającym ochronie zwane dalej „nabyciem następczym”.
+- **4)** unieważnienia akcji spółki będącej podmiotem podlegającym ochronie – zwane dalej „nabyciem następczym”.
 
 8. Istotne uczestnictwo, w rozumieniu ust. 1 pkt 4 lit. a, ustala się również, jeżeli zachodzi ono wskutek posiadania udziałów albo akcji lub praw z akcji albo udziałów przez podmioty, o których mowa w ust. 5, bez względu na liczbę i rodzaj dokonywanych między nimi transakcji.
 
@@ -107,7 +108,7 @@ source: "isap-pdf"
 - **11)** działalność telekomunikacyjna, lub
 - **12)** przesyłanie paliw gazowych, lub
 - **13)** produkcja renu, lub
-- **14)** wydobywanie i przerób rud metali wykorzystywanych do wytwarzania materiałów wybuchowych, broni i amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym może być uznany za podmiot objęty ochroną.
+- **14)** wydobywanie i przerób rud metali wykorzystywanych do wytwarzania materiałów wybuchowych, broni i amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym – może być uznany za podmiot objęty ochroną.
 
 2. Rada Ministrów może określić, w drodze rozporządzenia, wykaz podmiotów podlegających ochronie, a także organ kontroli właściwy dla każdego z ujętych w wykazie podmiotów, uwzględniając istotny udział danego podmiotu w rynku, skalę prowadzonej działalności, rzeczywiste i wystarczająco poważne zagrożenia dla fundamentalnych interesów społeczeństwa związane z prowadzeniem działalności przez podmiot, który ma zostać objęty ochroną, jak również brak możliwości wprowadzenia środka mniej restrykcyjnego i niezbędność, w odniesieniu do podmiotu działającego w danym sektorze, zastosowania kontroli inwestycji na zasadach określonych w ustawie dla zapewnienia ochrony porządku publicznego lub bezpieczeństwa publicznego, o którym mowa w art. 52 ust. 1 i art. 65 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej, a także czas uzasadniający zastosowanie tych środków.
 
@@ -126,11 +127,11 @@ source: "isap-pdf"
 6. W przypadkach, o których mowa w ust. 1 lub 2, zawiadomienia dokonuje się:
 
 - **1)** przed zawarciem jakiejkolwiek umowy rodzącej zobowiązanie do nabycia albo przed dokonaniem innej czynności prawnej albo czynności prawnych prowadzących do nabycia albo
-- **2)** w przypadku wezwania do zapisywania się na sprzedaż lub zamianę akcji spółki publicznej w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592) przed opublikowaniem wezwania.
+- **2)** w przypadku wezwania do zapisywania się na sprzedaż lub zamianę akcji spółki publicznej w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2025 r. poz. 592) – przed opublikowaniem wezwania.
 
 6a. W przypadku gdy do nabycia lub osiągnięcia istotnego uczestnictwa albo nabycia dominacji dochodzi w wyniku zawarcia więcej niż jednej umowy lub dokonania innej czynności prawnej, zawiadomienia dokonuje się przed zawarciem ostatniej umowy albo dokonaniem ostatniej innej czynności prawnej prowadzącej do nabycia lub osiągnięcia istotnego uczestnictwa albo nabycia dominacji.
 
-7. W przypadkach, o których mowa w ust. 3 lub 4, zawiadomienia dokonuje się w terminie 7 dni od dnia nabycia lub osiągnięcia istotnego uczestnictwa albo nabycia dominacji nad spółką, będącej podmiotem podlegającym ochronie, a jeżeli skutek ten nie daje się określić, w szczególności jeżeli przepisy właściwe dla czynności, o której mowa w art. 3 ust. 6 zdanie drugie, nie przewidują wpisu do właściwego rejestru w terminie 30 dni od daty tej czynności.
+7. W przypadkach, o których mowa w ust. 3 lub 4, zawiadomienia dokonuje się w terminie 7 dni od dnia nabycia lub osiągnięcia istotnego uczestnictwa albo nabycia dominacji nad spółką, będącej podmiotem podlegającym ochronie, a jeżeli skutek ten nie daje się określić, w szczególności jeżeli przepisy właściwe dla czynności, o której mowa w art. 3 ust. 6 zdanie drugie, nie przewidują wpisu do właściwego rejestru – w terminie 30 dni od daty tej czynności.
 
 8. W przypadku, o którym mowa w ust. 5, zawiadomienia dokonuje się:
 
@@ -146,7 +147,7 @@ source: "isap-pdf"
 - **1)** posiadanych bezpośrednio lub pośrednio udziałach albo akcjach lub prawach z udziałów albo akcji spółki, będącej podmiotem podlegającym ochronie, jak również o podmiotach dominujących tego podmiotu i zawartych przez ten podmiot porozumieniach oraz o pozostawaniu przez ten podmiot w stanach faktycznych lub prawnych pozwalających innym podmiotom na wykonywanie praw z udziałów albo akcji spółki, będącej podmiotem podlegającym ochronie, lub wykonywanie uprawnień podmiotu dominującego spółki, będącej podmiotem podlegającym ochronie, bądź dającym innym podmiotom prawo do nabycia lub objęcia udziałów albo akcji spółki, będącej podmiotem podlegającym ochronie;
 - **2)** sposobie realizacji zamiaru, którego dotyczy zawiadomienie;
 - **3)** działalności zawodowej, gospodarczej lub statutowej podmiotu składającego zawiadomienie, a w szczególności o przedmiocie tej działalności, zakresie i miejscu jej prowadzenia oraz dotychczasowym jej przebiegu, a także wykształceniu posiadanym przez podmiot składający zawiadomienie, będący osobą fizyczną, lub osoby, wchodzące w skład organów zarządzających i nadzorczych, jeżeli podmiot nie jest osobą fizyczną;
-- **4)** grupie kapitałowej, do której należy podmiot składający zawiadomienie, a w szczególności o jej strukturze, należących do niej podmiotach, prawnych i faktycznych powiązaniach kapitałowych, finansowych i osobowych z innymi podmiotami; a jeżeli podmiot składający zawiadomienie nie jest spółką handlową dane o podmiotach uprawnionych do decydowania o składzie jego organów zarządzających i nadzorczych, podmiotach uprawnionych do otrzymywania wypłat z jego majątku oraz o podmiotach uprawnionych do jego majątku w razie jego rozwiązania lub innej formy jego ustania;
+- **4)** grupie kapitałowej, do której należy podmiot składający zawiadomienie, a w szczególności o jej strukturze, należących do niej podmiotach, prawnych i faktycznych powiązaniach kapitałowych, finansowych i osobowych z innymi podmiotami; a jeżeli podmiot składający zawiadomienie nie jest spółką handlową – dane o podmiotach uprawnionych do decydowania o składzie jego organów zarządzających i nadzorczych, podmiotach uprawnionych do otrzymywania wypłat z jego majątku oraz o podmiotach uprawnionych do jego majątku w razie jego rozwiązania lub innej formy jego ustania;
 - **5)** sytuacji ekonomiczno-finansowej podmiotu składającego zawiadomienie;
 - **6)** skazaniu za przestępstwo lub przestępstwo skarbowe, postępowaniach warunkowo umorzonych oraz zakończonych ukaraniem postępowaniach dyscyplinarnych, jak również innych zakończonych postępowaniach administracyjnych i cywilnych, dotyczących podmiotu składającego zawiadomienie lub osób, o których mowa w pkt 3 i 4;
 - **7)** toczących się postępowaniach karnych, postępowaniach w sprawie o przestępstwo skarbowe, postępowaniach o nałożenie kar za naruszenie obowiązków przewidzianych w przepisach dotyczących rynku kapitałowego lub ochrony środowiska, postępowaniach podatkowych prowadzonych przeciwko podmiotowi składającemu zawiadomienie lub osobom, o których mowa w pkt 3 i 4, albo wobec tych osób, lub postępowaniach związanych z działalnością tego podmiotu lub tych osób, jak też o złożonych wnioskach o ekstradycję i wydanych europejskich nakazach aresztowania wobec tych podmiotów i osób;
@@ -190,7 +191,7 @@ source: "isap-pdf"
 
 4. Odmowa wszczęcia postępowania uzasadniona tym, iż czynność objęta zawiadomieniem nie podlega ustawie, następuje w drodze decyzji organu kontroli. Na decyzję organu kontroli o odmowie wszczęcia postępowania wniosek o ponowne rozpatrzenie sprawy oraz skarga do sądu administracyjnego przysługuje także spółce, będącej podmiotem podlegającym ochronie, której dotyczy zawiadomienie. Spółce tej doręcza się decyzję.
 
-5. Decyzja w sprawie wszczętej zgodnie z ust. 1, jest wydawana niepóźniej niż w terminie 90 dni od dnia otrzymania zawiadomienia albo wszczęcia postępowania z urzędu, przy czym doręczana jest niepóźniej niż w terminie 2 dni roboczych od dnia jej wydania, z wyjątkiem przypadku, o którym mowa w art. 8 ust. 2. Terminy te uważa się za zachowane, jeżeli przed ich upływem decyzja została nadana w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456).
+5. Decyzja w sprawie wszczętej zgodnie z ust. 1, jest wydawana niepóźniej niż w terminie 90 dni od dnia otrzymania zawiadomienia albo wszczęcia postępowania z urzędu, przy czym doręczana jest niepóźniej niż w terminie 2 dni roboczych od dnia jej wydania, z wyjątkiem przypadku, o którym mowa w art. 8 ust. 2. Terminy te uważa się za zachowane, jeżeli przed ich upływem decyzja została nadana w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456).
 
 6. W przypadku uchylenia przez sąd administracyjny decyzji co do istoty sprawy albo postanowienia kończącego postępowanie w sprawie, termin 90 dni, o którym mowa w ust. 5, biegnie od dnia, w którym organowi kontroli doręczono prawomocny wyrok sądu administracyjnego.
 
@@ -218,7 +219,7 @@ source: "isap-pdf"
     - **a)** zapewnienia realizacji spoczywających na Rzeczypospolitej Polskiej obowiązków strzeżenia niepodległości i nienaruszalności terytorium Rzeczypospolitej Polskiej, zapewnienia wolności i praw człowieka i obywatela, bezpieczeństwa obywateli oraz ochrony środowiska,
     - **b)** zapobieżenia działaniom albo zjawiskom społecznym lub politycznym uniemożliwiającym bądź utrudniającym Rzeczypospolitej Polskiej wykonywanie obowiązków wynikających z Traktatu Północnoatlantyckiego, sporządzonego w Waszyngtonie dnia 4 kwietnia 1949 r., jak też uczestnictwa Rzeczypospolitej Polskiej w Organizacji Traktatu Północnoatlantyckiego,
     - **c)** zapobieżenia działaniom albo zjawiskom społecznym lub politycznym, które mogą zakłócić stosunki zagraniczne Rzeczypospolitej Polskiej,
-    - **d)** zapewnienia, bez uszczerbku dla przepisów lit. a, porządku publicznego albo bezpieczeństwa Rzeczypospolitej Polskiej, jak również pokrycia niezbędnych dla ludności potrzeb w celu ochrony zdrowia i życia ludności przy uwzględnieniu art. 52 ust. 1 i art. 65 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej oraz art. 4 ust. 2 Traktatu o Unii Europejskiej.
+    - **d)** zapewnienia, bez uszczerbku dla przepisów lit. a, porządku publicznego albo bezpieczeństwa Rzeczypospolitej Polskiej, jak również pokrycia niezbędnych dla ludności potrzeb w celu ochrony zdrowia i życia ludności – przy uwzględnieniu art. 52 ust. 1 i art. 65 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej oraz art. 4 ust. 2 Traktatu o Unii Europejskiej.
 
 2. Organ kontroli, w przypadku zawiadomienia, o którym mowa w art. 5 ust. 3, w drodze decyzji, stwierdza niedopuszczalność wykonywania praw z udziałów albo akcji spółki, będącej podmiotem podlegającym ochronie, nabytych w przypadkach określonych w art. 3 ust. 6 zdanie drugie, w razie spełnienia się przesłanki lub przesłanek określonych w ust. 1.
 
@@ -226,23 +227,23 @@ source: "isap-pdf"
 
 4. Wydając decyzje, o których mowa w ust. 1–3, organ kontroli uwzględnia założenia polityki państwa w dziedzinach życia społecznego lub gospodarczego posiadających istotne znaczenie dla realizacji celów określonych w ust. 1. Podstawą decyzji organu kontroli nie może być interes ekonomiczny państwa.
 
-5. Do postępowań prowadzonych na podstawie przepisów ustawy, w zakresie nieuregulowanym w niniejszej ustawie, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
+5. Do postępowań prowadzonych na podstawie przepisów ustawy, w zakresie nieuregulowanym w niniejszej ustawie, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
 
 **Art. 12.**
 
 1. Nabycie lub osiągnięcie istotnego uczestnictwa albo nabycie dominacji dokonane:
 
 - **1)** bez złożenia zawiadomienia, o którym mowa w art. 5 ust. 1, 2, 4 lub 5, albo
-- **2)** pomimo zgłoszenia sprzeciwu, o którym mowa w art. 11 ust. 1 jest nieważne, chyba że wydano decyzję, o której mowa w art. 11 ust. 3.
+- **2)** pomimo zgłoszenia sprzeciwu, o którym mowa w art. 11 ust. 1 – jest nieważne, chyba że wydano decyzję, o której mowa w art. 11 ust. 3.
 
 2. W przypadku:
 
 - **1)** niezłożenia zawiadomienia, o którym mowa w art. 5 ust. 3, albo
-- **2)** wydania decyzji, o której mowa w art. 11 ust. 2 z udziałów albo akcji spółki, będącej podmiotem podlegającym ochronie, nabytych w przypadkach określonych w art. 3 ust. 6 nie może być wykonywane prawo głosu, jak też i inne uprawnienia, z wyjątkiem prawa do zbycia tych udziałów albo akcji.
+- **2)** wydania decyzji, o której mowa w art. 11 ust. 2 – z udziałów albo akcji spółki, będącej podmiotem podlegającym ochronie, nabytych w przypadkach określonych w art. 3 ust. 6 nie może być wykonywane prawo głosu, jak też i inne uprawnienia, z wyjątkiem prawa do zbycia tych udziałów albo akcji.
 
 3. W przypadku niezłożenia zawiadomienia, o którym mowa w art. 5 ust. 4, nie może być wykonywane prawo głosu, jak też i inne uprawnienia, z wyjątkiem prawa do zbycia, w stosunku do wszystkich udziałów albo akcji przysługujących podmiotowi obowiązanemu do zawiadomienia. W razie wydania decyzji, o której mowa w art. 11 ust. 3, z udziałów albo akcji spółki, będącej podmiotem podlegającym ochronie, można wykonywać prawa głosu i inne uprawnienia, z wyjątkiem prawa do zbycia udziałów albo akcji, które dają uprawnionemu mniej niż 20 % ogółu uprawnień przysługujących wspólnikom albo akcjonariuszom, bez uwzględnienia przywilejów lub uprawnień przysługujących poszczególnym wspólnikom albo akcjonariuszom.
 
-4. Uchwały walnego zgromadzenia albo zgromadzenia wspólników spółki, będącej podmiotem podlegającym ochronie, podjęte z naruszeniem przepisów ust. 1–3 są nieważne, chyba że spełniają wymogi kworum oraz większości głosów oddanych bez uwzględnienia głosów nieważnych. Prawo wytoczenia powództwa o stwierdzenie nieważności uchwały walnego zgromadzenia albo zgromadzenia wspólników przysługuje również organowi kontroli. Przepisy art. 252 oraz art. 425 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) stosuje się odpowiednio. Termin do zaskarżenia uchwały ulega zawieszeniu przez czas trwania postępowania zakończonego wydaniem decyzji, o której mowa w art. 11 ust. 2 lub 3.
+4. Uchwały walnego zgromadzenia albo zgromadzenia wspólników spółki, będącej podmiotem podlegającym ochronie, podjęte z naruszeniem przepisów ust. 1– 3 są nieważne, chyba że spełniają wymogi kworum oraz większości głosów oddanych bez uwzględnienia głosów nieważnych. Prawo wytoczenia powództwa o stwierdzenie nieważności uchwały walnego zgromadzenia albo zgromadzenia wspólników przysługuje również organowi kontroli. Przepisy art. 252 oraz art. 425 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) stosuje się odpowiednio. Termin do zaskarżenia uchwały ulega zawieszeniu przez czas trwania postępowania zakończonego wydaniem decyzji, o której mowa w art. 11 ust. 2 lub 3.
 
 5. Jeżeli nieważność czynności, o której mowa w ust. 1, dotyczy czynności dokonanych w przypadkach określonych w art. 3 ust. 6, właściwy dla spółki, będącej podmiotem podlegającym ochronie, sąd rejestrowy z urzędu dokonuje wykreślenia we właściwym rejestrze wpisów opartych na nieważnej czynności. Jeżeli wskutek dokonania tych wpisów, zostały dokonane inne wpisy, sąd lub sądy rejestrowe podejmują czynności właściwe dla wpisów niedopuszczalnych ze względu na obowiązujące przepisy, zgodnie z przepisami ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2025 r. poz. 869, 1556 i 1792).
 
@@ -255,8 +256,8 @@ source: "isap-pdf"
 1. W związku z sytuacją wywołaną COVID-19 lub sytuacją międzynarodową zakłócającą rynek lub konkurencję, przepisy art. 12b–12k oraz art. 16a i art. 16b, określają:
 
 - **1)** zasady i tryb kontroli inwestycji skutkujących nabyciem lub osiągnięciem znaczącego uczestnictwa lub nabyciem dominacji nad podmiotem objętym ochroną w rozumieniu art. 12d przez podmiot, który:
-    - **a)** nie posiada obywatelstwa państwa członkowskiego w przypadku osób fizycznych albo
-    - **b)** nie posiada lub nie posiadał od co najmniej dwóch lat od dnia poprzedzającego zgłoszenie siedziby na terytorium państwa członkowskiego w przypadku podmiotów innych niż osoby fizyczne;
+    - **a)** nie posiada obywatelstwa państwa członkowskiego – w przypadku osób fizycznych albo
+    - **b)** nie posiada lub nie posiadał od co najmniej dwóch lat od dnia poprzedzającego zgłoszenie siedziby na terytorium państwa członkowskiego – w przypadku podmiotów innych niż osoby fizyczne;
 
 - **2)** sankcje za naruszenie obowiązków wynikających z przepisów art. 12b–12k.
 
@@ -268,15 +269,17 @@ source: "isap-pdf"
 
 1. Ilekroć w przepisach art. 12a–12k jest mowa o:
 
-- **1)** znaczącym uczestnictwie rozumie się przez to sytuację umożliwiającą wywieranie wpływu na działalność podmiotu przez:
+- **1)** znaczącym uczestnictwie – rozumie się przez to sytuację umożliwiającą wywieranie wpływu na działalność podmiotu przez:
     - **a)** posiadanie udziałów albo akcji reprezentujących co najmniej 20 % ogólnej liczby głosów, albo
     - **b)** posiadanie udziału kapitałowego w spółce osobowej o wartości wynoszącej co najmniej 20 % wartości wszystkich wkładów wniesionych do tej spółki, lub
     - **c)** posiadanie udziału w zyskach innego podmiotu wynoszącego co najmniej 20 %;
 
-- **2)** przedsiębiorcy rozumie się przez to przedsiębiorcę w rozumieniu ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826), instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534 oraz z 2025 r. poz. 1017 i 1080) oraz instytut Sieci w rozumieniu ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. z 2024 r. poz. 925 i 1089);
-- **3)** podmiocie objętym ochroną rozumie się przez to przedsiębiorcę z siedzibą w Rzeczypospolitej Polskiej, który w dniu nabycia lub osiągnięcia znaczącego uczestnictwa albo nabycia dominacji spełnia przesłanki określone w art. 12d ust. 1, 2 lub 3;
-- **4)** organie kontroli rozumie się przez to ministra właściwego do spraw gospodarki;
-- **5)** państwie członkowskim rozumie się przez to państwo, które jest członkiem Unii Europejskiej lub stroną umowy o Europejskim Obszarze Gospodarczym, lub państwem należącym do Organizacji Współpracy Gospodarczej i Rozwoju.
+- **2)** przedsiębiorcy – rozumie się przez to przedsiębiorcę w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i
+- **1826)** , instytut badawczy w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534 oraz z 2025 r. poz. 1017 i
+- **1080)** oraz instytut Sieci w rozumieniu ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. z 2024 r. poz. 925 i 1089);
+- **3)** podmiocie objętym ochroną – rozumie się przez to przedsiębiorcę z siedzibą w Rzeczypospolitej Polskiej, który w dniu nabycia lub osiągnięcia znaczącego uczestnictwa albo nabycia dominacji spełnia przesłanki określone w art. 12d ust. 1, 2 lub 3;
+- **4)** organie kontroli – rozumie się przez to ministra właściwego do spraw gospodarki;
+- **5)** państwie członkowskim – rozumie się przez to państwo, które jest członkiem Unii Europejskiej lub stroną umowy o Europejskim Obszarze Gospodarczym, lub państwem należącym do Organizacji Współpracy Gospodarczej i Rozwoju.
 
 2. Ilekroć w przepisach ust. 4–8, art. 12g ust. 1 pkt 1 i 3, art. 12j ust. 2 i 3 oraz art. 12k ust. 2 i 3 mowa jest o udziałach albo akcjach lub prawach z udziałów albo akcji, należy przez to rozumieć odpowiednio również:
 
@@ -308,7 +311,7 @@ source: "isap-pdf"
 - **3)** nabycie lub osiągnięcie znaczącego uczestnictwa w podmiocie objętym ochroną albo nabycie dominacji nad takim podmiotem jest dokonywane w imieniu własnym, ale na zlecenie innego podmiotu, w tym w ramach wykonywania umowy o zarządzanie portfelem w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi,
 - **4)** nabycie lub osiągnięcie znaczącego uczestnictwa w podmiocie objętym ochroną albo nabycie dominacji nad takim podmiotem jest dokonywane przez podmiot, z którym inny podmiot zawarł umowę, której przedmiotem jest przekazanie uprawnień do wykonywania prawa głosu, bądź innych uprawnień do udziałów, akcji albo innych praw udziałowych lub praw z udziałów, akcji albo innych praw udziałowych podmiotu objętego ochroną,
 - **5)** nabycie lub osiągnięcie znaczącego uczestnictwa albo nabycie dominacji nad podmiotem objętym ochroną jest dokonywane przez grupę dwóch lub więcej osób, jeżeli chociażby jedną z tych osób jest podmiot, z którym inny podmiot zawarł umowę, dotyczącą nabywania udziałów albo akcji podmiotu objętego ochroną, bądź choćby nabywania udziałów albo akcji lub składników majątku przedsiębiorców z siedzibą w Rzeczypospolitej Polskiej, jeżeli przedmiotem tej umowy jest przekazanie uprawnień do wykonywania prawa głosu, bądź innych uprawnień do udziałów albo akcji lub praw z udziałów albo akcji przedsiębiorców z siedzibą w Rzeczypospolitej Polskiej,
-- **6)** nabycie lub osiągnięcie znaczącego uczestnictwa w podmiocie objętym ochroną albo nabycie dominacji nad takim podmiotem jest dokonywane przez podmiot działający na podstawie pisemnego lub ustnego porozumienia dotyczącego nabywania przez strony takiego porozumienia udziałów albo akcji lub składników majątku podmiotu objętego ochroną lub nabywania udziałów albo akcji lub składników majątku przedsiębiorców z siedzibą w Rzeczypospolitej Polskiej zwane dalej „nabyciem pośrednim”.
+- **6)** nabycie lub osiągnięcie znaczącego uczestnictwa w podmiocie objętym ochroną albo nabycie dominacji nad takim podmiotem jest dokonywane przez podmiot działający na podstawie pisemnego lub ustnego porozumienia dotyczącego nabywania przez strony takiego porozumienia udziałów albo akcji lub składników majątku podmiotu objętego ochroną lub nabywania udziałów albo akcji lub składników majątku przedsiębiorców z siedzibą w Rzeczypospolitej Polskiej – zwane dalej „nabyciem pośrednim”.
 
 7. Przez nabycie pośrednie rozumie się również przypadki, gdy wskutek transakcji lub zdarzenia niewymienionego w ust. 4–6 podmiot uzyska status podmiotu dominującego wobec podmiotu posiadającego znaczące uczestnictwo w podmiocie objętym ochroną lub podmiotu dominującego wobec podmiotu objętego ochroną lub wobec podmiotu mającego tytuł prawny do przedsiębiorstwa lub zorganizowanej części przedsiębiorstwa podmiotu objętego ochroną. Jeżeli nabycie pośrednie nastąpiło wskutek czynności, dokonanej na podstawie przepisów prawa państwa innego niż Rzeczpospolita Polska, w szczególności wskutek połączenia spółek, których siedziby znajdują się poza terytorium Rzeczypospolitej Polskiej, bądź nabycie lub objęcie udziałów albo akcji podmiotu z siedzibą poza terytorium Rzeczypospolitej Polskiej, będącego podmiotem posiadającym znaczące uczestnictwo w podmiocie objętym ochroną lub podmiotem dominującym wobec podmiotu objętego ochroną, przepisy art. 12a–12k stosuje się w zakresie skutków określonych w zdaniu pierwszym.
 
@@ -316,7 +319,7 @@ source: "isap-pdf"
 
 - **1)** umorzenia udziałów albo akcji podmiotu objętego ochroną bądź nabycia udziałów albo akcji własnych tego podmiotu,
 - **2)** podziału podmiotu objętego ochroną albo połączenia go z innym podmiotem,
-- **3)** zmiany umowy albo statutu podmiotu objętego ochroną w zakresie uprzywilejowania udziałów albo akcji, udziału w zyskach, ustanowienia bądź zmiany lub zniesienia uprawnień przysługujących poszczególnym wspólnikom, akcjonariuszom albo uczestnikom tego podmiotu zwane dalej „nabyciem następczym”.
+- **3)** zmiany umowy albo statutu podmiotu objętego ochroną w zakresie uprzywilejowania udziałów albo akcji, udziału w zyskach, ustanowienia bądź zmiany lub zniesienia uprawnień przysługujących poszczególnym wspólnikom, akcjonariuszom albo uczestnikom tego podmiotu – zwane dalej „nabyciem następczym”.
 
 **Art. 12d.**
 
@@ -324,7 +327,7 @@ source: "isap-pdf"
 
 2. Podmiotem objętym ochroną jest przedsiębiorca z siedzibą w Rzeczypospolitej Polskiej, który:
 
-- **1)** posiada mienie, które zostało ujawnione w jednolitym wykazie obiektów, instalacji, urządzeń i usług wchodzących w skład infrastruktury krytycznej, o którym mowa w art. 5b ust. 7 pkt 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122, z późn. zm. ), lub
+- **1)** posiada mienie, które zostało ujawnione w wykazie, o którym mowa w art. 6r ust. 1 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122, z późn. zm. ), lub
 - **2)** opracowuje lub modyfikuje oprogramowanie:
     - **a)** do sterowania elektrowniami, sieciami lub obsługą obiektów lub systemów zaopatrzenia w energię elektryczną, gaz, paliwo, olej opałowy lub ciepło sieciowe, lub
     - **b)** do zarządzania, kontrolowania i automatyzacji instalacji zaopatrzenia w wodę pitną lub oczyszczania ścieków, lub
@@ -375,7 +378,7 @@ source: "isap-pdf"
 - **3)** nabył lub osiągnął znaczące uczestnictwo albo
 - **4)** nabył dominację.
 
-2. Organ kontroli może wszcząć wstępne postępowanie sprawdzające z urzędu w przypadku zamiaru nabycia lub osiągnięcia albo nabycia lub osiągnięcia znaczącego uczestnictwa albo zamiaru nabycia dominacji albo nabycia dominacji przez podmiot posiadający obywatelstwo państwa członkowskiego w przypadku osób fizycznych, albo posiadający siedzibę na terytorium państwa członkowskiego w przypadku podmiotów innych niż osoby fizyczne, jeżeli istnieją przesłanki wskazujące na nadużycie lub obejście prawa, w szczególności w celu uniknięcia powstania obowiązku zawiadomienia, o którym mowa w art. 12f ust. 1–4, lub w celu uniknięcia wszczęcia postępowania, o którym mowa w art. 12h ust. 1. Postępowania z urzędu nie wszczyna się, jeżeli od nabycia lub osiągnięcia znaczącego uczestnictwa albo nabycia dominacji minęło 5 lat.
+2. Organ kontroli może wszcząć wstępne postępowanie sprawdzające z urzędu w przypadku zamiaru nabycia lub osiągnięcia albo nabycia lub osiągnięcia znaczącego uczestnictwa albo zamiaru nabycia dominacji albo nabycia dominacji przez podmiot posiadający obywatelstwo państwa członkowskiego – w przypadku osób fizycznych, albo posiadający siedzibę na terytorium państwa członkowskiego – w przypadku podmiotów innych niż osoby fizyczne, jeżeli istnieją przesłanki wskazujące na nadużycie lub obejście prawa, w szczególności w celu uniknięcia powstania obowiązku zawiadomienia, o którym mowa w art. 12f ust. 1–4, lub w celu uniknięcia wszczęcia postępowania, o którym mowa w art. 12h ust. 1. Postępowania z urzędu nie wszczyna się, jeżeli od nabycia lub osiągnięcia znaczącego uczestnictwa albo nabycia dominacji minęło 5 lat.
 
 3. Przesłanki wskazujące na nadużycie lub obejście prawa, o którym mowa w ust. 2, obejmować mogą w szczególności przypadki, w których podmiot nabywający lub osiągający znaczące uczestnictwo albo nabywający dominację:
 
@@ -399,11 +402,11 @@ source: "isap-pdf"
 5. W przypadkach, o których mowa w ust. 1 i 2, zawiadomienia dokonuje się:
 
 - **1)** przed zawarciem jakiejkolwiek umowy rodzącej zobowiązanie do nabycia lub osiągnięcia znaczącego uczestnictwa albo nabycia dominacji bądź przed dokonaniem innej czynności prawnej albo czynności prawnych prowadzących do nabycia lub osiągnięcia znaczącego uczestnictwa albo nabycia dominacji albo
-- **2)** w przypadku wezwania do zapisywania się na sprzedaż lub zamianę akcji spółki publicznej w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych przed opublikowaniem wezwania.
+- **2)** w przypadku wezwania do zapisywania się na sprzedaż lub zamianę akcji spółki publicznej w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych – przed opublikowaniem wezwania.
 
 6. W przypadku gdy do nabycia lub osiągnięcia znaczącego uczestnictwa albo nabycia dominacji dochodzi w wyniku zawarcia więcej niż jednej umowy lub dokonania innej czynności prawnej, zawiadomienia dokonuje się przed zawarciem ostatniej umowy albo dokonaniem ostatniej czynności prawnej prowadzącej do nabycia lub osiągnięcia znaczącego uczestnictwa albo nabycia dominacji.
 
-7. W przypadku, o którym mowa w ust. 3, zawiadomienia dokonuje się w terminie 7 dni od dnia nabycia lub osiągnięcia znaczącego uczestnictwa albo nabycia dominacji nad podmiotem objętym ochroną, a jeżeli skutek ten nie daje się określić, w szczególności jeżeli przepisy właściwe dla czynności, o której mowa w art. 12c ust. 7 zdanie drugie, nie przewidują wpisu do właściwego rejestru w terminie 30 dni od daty tej czynności.
+7. W przypadku, o którym mowa w ust. 3, zawiadomienia dokonuje się w terminie 7 dni od dnia nabycia lub osiągnięcia znaczącego uczestnictwa albo nabycia dominacji nad podmiotem objętym ochroną, a jeżeli skutek ten nie daje się określić, w szczególności jeżeli przepisy właściwe dla czynności, o której mowa w art. 12c ust. 7 zdanie drugie, nie przewidują wpisu do właściwego rejestru – w terminie 30 dni od daty tej czynności.
 
 8. W przypadku, o którym mowa w ust. 4, zawiadomienia dokonuje się:
 
@@ -470,8 +473,8 @@ source: "isap-pdf"
 
 - **1)** podmiot składający zawiadomienie, o którym mowa w art. 12f ust. 1–4, nie uzupełnił w wyznaczonym terminie braków formalnych w zawiadomieniu lub załączanych do zawiadomienia dokumentów lub informacji albo wezwany podmiot nie złożył informacji lub dokumentów na wezwanie organu kontroli, lub
 - **2)** podmiot składający zawiadomienie, o którym mowa w art. 12f ust. 1–4, nie przedstawił dodatkowych pisemnych wyjaśnień w terminie wyznaczonym przez organ kontroli, lub
-- **3)** w związku z nabyciem lub osiągnięciem znaczącego uczestnictwa albo nabyciem dominacji istnieje przynajmniej potencjalne zagrożenie dla porządku publicznego lub bezpieczeństwa publicznego Rzeczypospolitej Polskiej lub zdrowia publicznego w Rzeczypospolitej Polskiej przy uwzględnieniu art. 52 ust. 1 i art. 65 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej oraz art. 4 ust. 2 Traktatu o Unii Europejskiej, lub
-- **4)** brak jest możliwości ustalenia, czy nabywca posiada obywatelstwo państwa członkowskiego w przypadku osób fizycznych albo posiada lub posiadał od co najmniej dwóch lat od dnia poprzedzającego zgłoszenie siedziby na terytorium państwa członkowskiego w przypadku podmiotów innych niż osoby fizyczne lub
+- **3)** w związku z nabyciem lub osiągnięciem znaczącego uczestnictwa albo nabyciem dominacji istnieje przynajmniej potencjalne zagrożenie dla porządku publicznego lub bezpieczeństwa publicznego Rzeczypospolitej Polskiej lub zdrowia publicznego w Rzeczypospolitej Polskiej – przy uwzględnieniu art. 52 ust. 1 i art. 65 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej oraz art. 4 ust. 2 Traktatu o Unii Europejskiej, lub
+- **4)** brak jest możliwości ustalenia, czy nabywca posiada obywatelstwo państwa członkowskiego – w przypadku osób fizycznych albo posiada lub posiadał od co najmniej dwóch lat od dnia poprzedzającego zgłoszenie siedziby na terytorium państwa członkowskiego – w przypadku podmiotów innych niż osoby fizyczne lub
 - **5)** nabycie lub osiągnięcie znaczącego uczestnictwa albo nabycie dominacji może mieć negatywny wpływ na projekty i programy leżące w interesie Unii Europejskiej.
 
 2. Organ kontroli, w przypadku zawiadomienia, o którym mowa w art. 12f ust. 3, w drodze decyzji, stwierdza niedopuszczalność wykonywania praw z udziałów albo akcji podmiotu objętego ochroną, nabytych w przypadkach określonych w art. 12c ust. 7 zdanie drugie, w razie spełnienia się przesłanki lub przesłanek określonych w ust. 1.
@@ -485,16 +488,16 @@ source: "isap-pdf"
 1. Nabycie lub osiągnięcie znaczącego uczestnictwa albo nabycie dominacji dokonane:
 
 - **1)** bez złożenia zawiadomienia, o którym mowa w art. 12f ust. 1, 2 lub 4, albo
-- **2)** pomimo wydania decyzji o sprzeciwie, o której mowa w art. 12j ust. 1 jest nieważne, chyba że wydano decyzję, o której mowa w art. 12j ust. 3.
+- **2)** pomimo wydania decyzji o sprzeciwie, o której mowa w art. 12j ust. 1 – jest nieważne, chyba że wydano decyzję, o której mowa w art. 12j ust. 3.
 
 2. W przypadku:
 
 - **1)** niezłożenia zawiadomienia, o którym mowa w art. 12f ust. 3, albo
-- **2)** wydania decyzji, o której mowa w art. 12j ust. 2 z udziałów albo akcji podmiotu objętego ochroną, nabytych w przypadkach określonych w art. 12c ust. 7, nie może być wykonywane prawo głosu, ani inne uprawnienia, z wyjątkiem prawa do zbycia tych udziałów albo akcji.
+- **2)** wydania decyzji, o której mowa w art. 12j ust. 2 – z udziałów albo akcji podmiotu objętego ochroną, nabytych w przypadkach określonych w art. 12c ust. 7, nie może być wykonywane prawo głosu, ani inne uprawnienia, z wyjątkiem prawa do zbycia tych udziałów albo akcji.
 
 3. W przypadku wydania decyzji, o której mowa w art. 12j ust. 3, z udziałów albo akcji podmiotu objętego ochroną można wykonywać prawa głosu i inne uprawnienia, z wyjątkiem prawa do zbycia udziałów albo akcji, które dają uprawnionemu mniej niż 10 % ogółu uprawnień przysługujących wspólnikom, akcjonariuszom albo innym uczestnikom podmiotu objętego ochroną.
 
-4. Uchwały wspólników lub zgromadzenia wspólników albo akcjonariuszy lub walnego zgromadzenia spółki, będącej podmiotem objętym ochroną, podjęte z naruszeniem przepisów ust. 1–3 są nieważne, chyba że spełniają wymogi kworum oraz większości głosów oddanych bez uwzględnienia głosów nieważnych. Prawo wytoczenia powództwa o stwierdzenie nieważności uchwały wspólników lub zgromadzenia wspólników albo akcjonariuszy lub walnego zgromadzenia przysługuje również organowi kontroli. Przepisy art. 252 oraz art. 425 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych stosuje się odpowiednio. Termin do zaskarżenia uchwały ulega zawieszeniu przez czas trwania postępowania zakończonego wydaniem decyzji, o której mowa w art. 12j ust. 2 lub 3.
+4. Uchwały wspólników lub zgromadzenia wspólników albo akcjonariuszy lub walnego zgromadzenia spółki, będącej podmiotem objętym ochroną, podjęte z naruszeniem przepisów ust. 1–3 są nieważne, chyba że spełniają wymogi kworum oraz większości głosów oddanych bez uwzględnienia głosów nieważnych. Prawo wytoczenia powództwa o stwierdzenie nieważności uchwały wspólników lub zgromadzenia wspólników albo akcjonariuszy lub walnego zgromadzenia przysługuje również organowi kontroli. Przepisy art. 252 oraz art. 425 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych stosuje się odpowiednio. Termin do zaskarżenia uchwały ulega zawieszeniu przez czas trwania postępowania zakończonego wydaniem decyzji, o której mowa w art. 12j ust. 2 lub 3.
 
 5. Jeżeli nieważność czynności, o której mowa w ust. 1, dotyczy czynności dokonanych w przypadkach określonych w art. 12c ust. 7, właściwy dla podmiotu objętego ochroną sąd rejestrowy z urzędu dokonuje wykreślenia we właściwym rejestrze wpisów opartych na nieważnej czynności. Jeżeli wskutek dokonania tych wpisów, zostały dokonane inne wpisy, sąd lub sądy rejestrowe podejmują czynności właściwe dla wpisów niedopuszczalnych ze względu na obowiązujące przepisy, zgodnie z przepisami ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym.
 
@@ -582,19 +585,19 @@ source: "isap-pdf"
 
 **Art. 15.**
 
-1. Kto bez złożenia zawiadomienia nabywa lub osiąga istotne uczestnictwo lub nabywa dominację podlega grzywnie do 100 000 000 zł albo karze pozbawienia wolności od 6 miesięcy do lat 5, albo obu tym karom łącznie.
+1. Kto bez złożenia zawiadomienia nabywa lub osiąga istotne uczestnictwo lub nabywa dominację – podlega grzywnie do 100 000 000 zł albo karze pozbawienia wolności od 6 miesięcy do lat 5, albo obu tym karom łącznie.
 
 2. Karze określonej w ust. 1 podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu lub interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
 
 **Art. 16.**
 
-1. Kto będąc zobowiązany z ustawy lub umowy do zajmowania się sprawami podmiotu zależnego, wiedząc o nabyciu dokonanym w przypadkach określonych w art. 3 ust. 6, nie złoży zawiadomienia podlega grzywnie do 10 000 000 zł albo karze pozbawienia wolności od 6 miesięcy do lat 5, albo obu tym karom łącznie.
+1. Kto będąc zobowiązany z ustawy lub umowy do zajmowania się sprawami podmiotu zależnego, wiedząc o nabyciu dokonanym w przypadkach określonych w art. 3 ust. 6, nie złoży zawiadomienia – podlega grzywnie do 10 000 000 zł albo karze pozbawienia wolności od 6 miesięcy do lat 5, albo obu tym karom łącznie.
 
 2. Tej samej karze podlega, kto działając na walnym zgromadzeniu albo zgromadzeniu wspólników spółki, będącej podmiotem podlegającym ochronie, wykonuje prawa z udziałów albo akcji w imieniu podmiotu, który mimo obowiązku nie dokonał zawiadomienia o osiągnięciu istotnego uczestnictwa w spółce, jeżeli o tej okoliczności wiedział albo mógł się dowiedzieć na podstawie danych udostępnianych na podstawie ustawy.
 
 **Art. 16a.**
 
-1. Kto bez złożenia zawiadomienia, o którym mowa w art. 12f ust. 1–4, nabywa lub osiąga znaczące uczestnictwo albo nabywa dominację podlega grzywnie do 50 000 000 zł albo karze pozbawienia wolności od 6 miesięcy do lat 5, albo obu tym karom łącznie.
+1. Kto bez złożenia zawiadomienia, o którym mowa w art. 12f ust. 1– 4, nabywa lub osiąga znaczące uczestnictwo albo nabywa dominację podlega grzywnie do 50 000 000 zł albo karze pozbawienia wolności od 6 miesięcy do lat 5, albo obu tym karom łącznie.
 
 2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu lub interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
 

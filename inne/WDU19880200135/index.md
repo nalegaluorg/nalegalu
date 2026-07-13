@@ -8,10 +8,10 @@ pos: 135
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Ustawa z dnia 17 czerwca 1988 r. o zmianie niektórych przepisów prawa karnego i prawa o wykroczeniach
+# , '303 "A' rt. 25 Prżepisy ustAwY 'dótyczące Zakładowych ~-", - 'Art. "3; W -u~tawie' z dnIa ,26 ezerwca ł974 r. ~ Ko systelnówwynagr.adZania, o któiyqh mo- ueks pracy ·(Dz. Nr 24, poz. J41. z 1:975 r., Nr 16, 'wa rpzdziale-2, nie zastosowa- " 91, z 1981 r. Nr poz. z i982 Nr 31, poz. 214, ' nia- w pracy, w których .zo-- z 1985 r. Nr 20, 'poz. 85 i Nr: 35, poz.J62, z 1,986 ,Nr 42, zawarta, umO\Vd zbioro- 'poz. 201 oraz 'z-1987 r. Nr 21. poz. 124) wart. 2411' dodajez dniem W tej umO- 6 w brzmieniu:' - '.
 
 | Pole | Wartość |
 |---|---|
@@ -25,190 +25,65 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19880200135) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1988/135/text.pdf) |
 
-§ 1.
-W sprawach o przestępstwa podlegające rozpoznaniu w postępowaniu uproszczonym sąd może w wypadkach pozwalających na orzeczenie kary ograniczenia wolności lub samoistnej grzywny wydać nakaz karny.
-§ 2.
-W postępowaniu nakazowym stosuje się odpowiednio przepisy o postępowaniu uproszczonym, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
-§ 3.
-Sąd może wydać nakaz karny, jeżeli na podstawie zebranych dowodów okoliczności czynu i wina oskarżonego nie budzą wątpliwości.
-§ 4.
-Nakaz karny wydaje sąd na posiedzeniu w składzie jednego sędziego.
-Wydanie nakazu karnego jest niedopuszczalne:
-1)
-w stosunku do sprawcy czynu o charakterze chuligańskim,
-2)
-w stosunku do nieletniego,
-3)
-w stosunku do pozbawionego wolności w tej lub innej sprawie,
-4)
-w sprawie z oskarżenia prywatnego,
-5)
-jeżeli zachodzą okoliczności, o których mowa w art. 70 § 1.
-§ 1.
-Nakazem karnym można orzec karę ograniczenia wolności do 6 miesięcy lub grzywnę do 200 000 złotych.
-§ 2.
-Obok kary zasadniczej można, w wypadkach przewidzianych w ustawie, orzec karę dodatkową przepadku rzeczy, jak również nawiązkę.
-§ 3.
-Sąd może poprzestać na orzeczeniu kary dodatkowej, o której mowa w § 2, jeżeli zachodzą warunki orzeczenia tylko tej kary.
-§ 1.
-Wydając nakaz karny sąd zasądza w całości roszczenie zgłoszone w powództwie cywilnym lub odszkodowanie pieniężne na podstawie art. 363.
-§ 2.
-Jeżeli materiał dowodowy zebrany w postępowaniu przygotowawczym nie wystarcza do rozstrzygnięcia powództwa cywilnego, sąd pozostawia powództwo cywilne bez rozpoznania.
-Nakaz karny powinien zawierać:
-1)
-oznaczenie sądu i sędziego, który go wydał,
-2)
-datę wydania nakazu,
-3)
-imię i nazwisko oraz inne dane określające tożsamość oskarżonego,
-4)
-dokładne ustalenie czynu przypisanego przez sąd oskarżonemu, ze wskazaniem zastosowanych przepisów ustawy karnej,
-5)
-wymiar kary i inne niezbędne rozstrzygnięcia,
-6)
-uzasadnienie.
-§ 1.
-Odpis nakazu karnego doręcza się oskarżycielowi, a oskarżonemu i jego obrońcy – wraz z odpisem aktu oskarżenia i pozwu. W każdym wypadku odpis nakazu karnego doręcza się prokuratorowi. W nakazie należy przytoczyć przepisy o prawie, terminie i sposobie wniesienia sprzeciwu oraz skutkach jego niewniesienia.
-§ 2.
-W razie niemożności doręczenia oskarżonemu nakazu karnego w ciągu 3 miesięcy, sąd może uznać nakaz za bezskuteczny; sprawa podlega rozpoznaniu na zasadach ogólnych.
-§ 1.
-Oskarżonemu i oskarżycielowi przysługuje prawo wniesienia sprzeciwu do sądu, który wydał nakaz karny, w terminie zawitym 7 dni od dnia doręczenia nakazu.
-§ 2.
-Prezes sądu odmawia przyjęcia sprzeciwu, jeżeli został wniesiony po terminie lub przez osobę nie uprawnioną. Na zarządzenie odmawiające przyjęcia sprzeciwu przysługuje zażalenie.
-§ 3.
-W razie wniesienia sprzeciwu nakaz karny traci moc; sprawa podlega rozpoznaniu na zasadach ogólnych.
-§ 4.
-Jeżeli w sprzeciwie podniesiono wy łącznie zarzuty przeciwko rozstrzygnięciu o roszczeniu cywilnym, nakaz karny traci moc tylko w tej części, a sąd na posiedzeniu pozostawia powództwo cywilne bez rozpoznania lub przekazuje pozew sądowi właściwemu do rozpoznawania spraw cywilnych. Nakaz karny traci moc w całości, gdy w sprzeciwie podniesiono zarzuty przeciwko rozstrzygnięciu o zasądzeniu odszkodowania na podstawie art. 363.
-§ 5.
-Sprzeciw może być cofnięty do czasu rozpoczęcia przewodu sądowego na pierwszej rozprawie głównej. W razie cofnięcia sprzeciwu nakaz karny pozostaje w mocy.
-Sąd rozpoznając sprawę po wniesieniu sprzeciwu nie jest związany treścią nakazu karnego, który utracił moc.
-Nakaz karny, od którego nie wniesiono sprzeciwu lub sprzeciw cofnięto, ulega wykonaniu jak prawomocny wyrok skazujący.
-” ;
-5)
-w art. 563 wyrazy „prywatnoskargowym i przyspieszonym” zastępuje się wyrazami „prywatnoskargowym, przyspieszonym i nakazowym”.
+wy,:- których , mowa art. 1 ust .. z dniem 6. Strony w w życie uKładu zbiorowego pracy obej- pracy obJętych 'postanowlejliami układu nie mają .
+mującego te zakłady. zastosowania-\ przepisy ' 2-5; w takun wypadku stosuje art. 22 ust. 1 ustawy z ania
+Art. 25'. ,Po' .dniu . wejścia w życie układu ,zbio 26 'styczn(a 1984 o zasadach tworzenia pracy syste wy:ch systemów' wynagradzania (Dz. Nr 5, poz. ,25, ' mu . wprowadzonego z 1981 ,Nr 33, poz. 181 oraz z 1988 Nr 20;.
+dokonuje z poz.
+niem: art. 25 w drodze umowy zbiorowej. Art. 4. dnia 26 lutego 1982 r. ci plano
+Art. .2 5 którego waniu (Dz. U. z 1987 r. Nr orgaI\Y - stosownie -do przepisów art. · poz. 26 i Nr poz. 181.) wart. pkt .
+24.ft :§ pkt l Kodeksu pracy - nie pozytywnej opinii w sprawie Art. Minister Pracy ( Polityki 'Socjaln'ej w zbiorowego pracy, wpro- Dzienniku Ustaw jednolity tekst ustawy z dJUa 26 s,tyczwynagradza- . nia 1984 r. -o zasadach systemów d!odze P,orozuli;lienia -na ·zasadach wY1;lagr'adzania" .;z zmian (.
+. w: rozdziale z przepisóW- przed' dniem wydania jednolitego , '; 22).' art. 26 --skreśl~ $tę. . tekstu i z zastosowaniem / .
+i punktów. \.
+Art. -2., Zak]ad pracy ,stosuj,cy' '. -wynagradzania 'wprowadzony przed dniem w- Art. Ustawa wchodzi" w z dniem lipca niniejszej ustawy jest przed 1988 r.
+od' ,daty dodatkowy porozumfenia,· :tep system przepisów p'rzewo~dniczą'cy Rady' Państwa: w z.
+-- ustawy. ' , Sekretarz Ritdy Z. SurowIec 135
+USTAWA z dnia 17 czerwca 1988 r.
+o zmlanle:cnlettÓtycb pneplsów prawa 'prawa o .wykroczenlach.· .A rt. l. W Kodeksie karnym: wprowadza b) w.,§ 3 na przeclnkiem zmiany: · i dodaje wyrazy ;,z tym na rzecz tegozakladu na potrzeby art. z wykonywaniem kary albo na wskazany "przez' ' "
+a) l i .br}lI1ienie: ./ " 2) wart. 84 2 -3 brzmienie: wart. 33 § 2 pkt 2 , ,,§2. 'JeŻeliska2any uchyla si,ęod .. odbywania kary polega na wykonyWaniu -- ni e dozo .
+na cele publiczne ! w odpo-' klł~ę g~~~ny,_ przyjmując. miesiąs ograQicZellia wiednitn pracy lub . za 10000 do .' instytucji do publiczneJ w wymia 30 000 a w wypadkach rze od lO 50 godzin w stosunku mie- zastę~zą karę pozbawien'ia woiności; przy,czyni • ograniczenia 'odpowiada 15 '. f 2. W do osoby zatrudnionej w uspo 'dniom. ... pozbawienia -'Kara .
+pracy zamiast obo nie moi;e . górnej. granicy kary po- -, w § i, orzec po,.. zbawienia' prZewidziane) za dane prze 10 do 25 wynagrodzenia za nie jest zagro na Skarb,! albo na cel ..:.-. .6 . pozbawienia .' wskazanX., przez w okresie odbywania, kary' skazany nie ł 3. jeieli skazany nie uiści 'terminie grzywny tat, st,osunku pracy. jak" w- 2, zostanie, stwierdzone, w tymoló:esie prze- jeJ. drodze egzekucji, -- na· - wykonanie. kary po.' ...
+,. ' :}~~~'H',':?;~~r ~~'~~,: .' " ..
+"7': Nr 20 pmy ogra· .G · ............ __f rh: ' woIDoid tS ...... .. •. ....... G. .,..• • Je JPi&fIiiIleuon •.
+'WieDia / .
+Ad. W p:qIpl..,nYJll · stosuje wart. .'prD;pią ~u uprOl,ZCZOD1JD"
+a) 1 i 2 brzniienie: teW' .
+.. 9 Warunkowe zwolnienie po . stano'" iMczej• .
+przez co,nejDmieJ JI01o Art. M1<-' l. W mog, wy kary, . bFt s,prawy a trzecich jut upiZednio stwa w: ..
+pozbaWienia wom*t, jako .zasadniCq• . i' ,l} 156 §'2."arl. ,"1. 1-66, t .1. ait. 171 t. ut. 181 182 't l. art. 23.'
+2. Wanmk'0we, 'ZWolaiaie po m bmego. Jezell ,co najmniej kary one dlUligailsk4.
+'przez skazanego: / II - 2) 199. 203. f 1 l 213 Ko deksu k-amego.
+miota. wy·'
+3) który sam sprawuje nad . lub .-mierzona . nie prze·· IS. do - wykontwema kracze aIotych.
+1& 141. 275 l, ar1.. 280 4} która chwili 2K. K()deksu' . karnego., kania o wanmkowymZWÓ'lili'enw lIR lud. ustawy dnia 22 k:w.iet.
+uk-oilaone tat. albo • ,1959 aralczaniu niedozwo lonego wyrGbu , b) dodaje 5' bizmic::niu: 5} art. 43 usl' l 2 MU art ·44 ustawy' 5, Warunkow,e zwołDiellie może n~Uić nie w- a...
+, odbyciu przez skiu. .. -fcliuwaaiit,' 6, kary pozbawienia Nr- .35. ...: - Nt 31,
+4) art. . 110 ,., ł 9 ~, .,yr.ąr .3JDODO uotyt:h. . zastępuje wyrazalrii ,,1000000 a ,,600 000 - sprawca __ na 1JM<§ wyrazami ;,4000 cym uczynku lub potem
+2. . W Kodeksie karnego wprowa przez Obywiizmiany,: lubiliny or9..aD do.
+w 48 godzin od chwili
+1) wart. 419: , a) w 2. W przewidzi'ape wart. 2; art: prowadzenia;;., 1, art:' f I ad: 284' Kodeksu ,Je, w -,' kameg<?, jego ws:zcZle".,.
+ciii.
+Jlll'2i!widzi;an-e' alt. t.
+2. art.!! 3. if ut. ad. 215 l. kamego, VI trybie takie.
+albo ' o szkoda :nie prze prywatnego., oaee'hir.akter '-.
+aę ,,-,Iw iiEjI·-em spraw o '4>4& ~ J l.' 4 ust. -zailie art. ',,5 'ust: t. ust. 1 ut. ustawy z'> .
+22 r. o zwalcZaniu niedo- 'tRZ1nDie ..
+- ' %W'ol-egewyro'Bu U. Nr 1:1, a~waD. roqJra.wę we wskazanym . dniu' godzinie -,w art. . CZ.;ljCjcym 4B godzin. W tym. wypadku al spraw-Cy w w·e. 'Sprawca wezwany do jest .. ł ..J~e5 w_Óśł p.rzdlniotu pm.estęps.!,wa albo stawie we wskazanym -zamiea.ona przekra teiaia. ' cza 50000 zawjadomieBie prokura 5. .FunkjmmmUu' _ego MiliCji ObywateU!kiej . iota o dochGdzenia h1lb .ol.ganu 1tWe..". da. lM;plimie zabWetdune. prze.z . pro• 'lID) oznaczenie km-al~'D~ie iptzeStm>stWiQ':i 3i:.fi .m:e-Aami ....
+n.s.aa. u.taw Nr 10· ~- - ' domlenie .to. ak. A'Jt. I. Termin.,ott4rym mOWa wart. 370 h' OdpiS' zawiadomienia' oskar- wyltcJsi 3 dni, a w al\f. 393 l - d&ti. , . ' f 2. Akta sprawy Wraz z przedsta f do rozpo wia nieawlo'czhie drugiej m8waJlia sprawy, a art. 299, 305 423 instancji, który rozpoznaje -naj ni stosuje " : w cillgu od ich otrzy
+7. W sprawa cli o rozpozna mania.
+wa,new trybie () Art. 454. Minister po minie uwiadamie p:roku opinii Naczelnej Rady ratara. w rozpra w dl.Eldze sposób zapewnie wie jest. w rozpra Irorzystaniaz pomocy_ wie nie bierze udzia(u prokurator, orga WybOT1;i w po nom, o których 'lhowa 5.
+guje prawo popierania' przed s4dein pierwszej' instancji, po rozdziale 45 dodaje 45a w brzmieniu:.
 
-**Art. 1.** W Kodeksie karnym wprowadza się następujące zmiany:
+**Art. 1.** Postępowanie ' przyspieszone toczy •• na,kazowe. w raiie 'jednorazowego przer wania rozprawy na czas nie Art. 454a. § W sprawach o p""bdle 7 dni. ' . w uproszczonym .' w wypad '2. sprawy nie' w kach na orzeczenie terminie wskazanym w l, roz" Ty ograniczenia lub samo strzyga w kwestii $rodkazapobiegaw istnej grzywny nakaz karny. czego i przekazuje prokurato rowi, .() pokrzyw- nakazowym stosuje ,dzonego. odpowiednio przepisy o 3. w rozprawy stwierdzi, Jlllaniu up.Ioszczonym, przepisy sprawa nie pOdlega rozpoznaniu w nini.ejszego nie pfZyspieszonym, rozpo inaczej. znaje w .tym w try nakaz karny, bie uproszczoDyn:J!, tryb ten na podstawie dowodów oko jest niedopuszczal;ny. W tym wypadku czynu wina przekazuje do nie p&warua. . Nakaz kamy wydaje na posiedze Art;' 449. osoba wezwana charakterze nIu w jednego ka przez lub inny uprawniony organ jest Art. ,Wydanie nakaz'J karnego jest niedopuszw we wskazanym terminie. czalne: 450. ."rzewiduje wymie-, ' w stosunku do sprawcy czynu o char rzenia kary pozb'awiellra roku lub grzywny 500000 w stosunku do nieletni'ego, tYC;h, rozstrzyg.a w' kwestii zapobie gawczego przekaZUje prokura stosunku do pozbawioneg.o torowi. w tej lub innej sprawie, · ..) , w sprawie. z 'prywatnego, . Art. 451:· § l. któremu .wezwanie,· n'ie stawi na o których staw.i jego mowa wart. 70 l: w czasie Art. 45.4f;. NakaZem karnym orzec i wy ograniczenia dq6 rok zaoczny. 'lub do.· 200 000 nie na roz: odczytuje uprzednio kary zas.a$liczej w wy jego padkach przewidzianych w ustawie. orzec przepadku rze ł 3. RozPrawy nie mazna przęprowadzić w, czy. czasie dostatecznie swe niesta. na orzeczeniu wiennict'Vo' o odrOczen,ie roz kary dodatkowej, o której mowa w/ prawy./W takim, wypadku przekazuje warunki orzecze prokuratorowi. . _nia . kary. .... Art. . 452. W razie skazania na pozbawienia wol karny w bez warun:kowega zawieszenia jej lGSzczenle w po 'Wykonania, rozstnyga w· kwestii sto wództwie cywilnym lub odszkodowa sowania zapobiegawczego. nie na podstawie art. 363. Dzlennlk' Ustaw Nr 20 • 2. dowodowy zebratly w , Art. 454h. s.ct- 'rozpoaaJ'c ni. spraw, po wniesieniu przygotowawczym nia jeIt mlPOY treKi, nakazu. Wystarcza do pow6d& . karnego,kt6l'J' 'moc. . twa cywilQ.ego, pozostawia po. wództwo cywilne, Art. 4S4l. Naku karny, ' od którego nie wniesiono 'sprzeciwu lub · spneciw ulega , .. Art. 454e. Nakaz karny powini,en / wykonaniu jak prawomocny wyrok skazu,cy. ; , ozpaczenie' i go J
 
-**Art. 2.** W Kodeksie postępowania karnego wprowadza się następujące zmiany:
+- **5)** w art. Wyrazy oIprywatnOlwgowtm przyspie
+- **2)** wydania nakazu" IlOnym:' '. ,iPrY'Watnoskargo. nazwisko oraz inne dan'e okre wym; przyspieszonym nakUówym". 4} ustalenie czynu przypisanego Art. 3.. W .k.amymwYkonawczym wprowa., przez ze -wstwn,lem dza II, zmiany: - ' zastosowanych przepisów ustawy kar l) art. 55 f 3 otrzymuje brzmienie-:, nej, . wymiar kary "f 3. liajwyżsZ4 nagrod~ stanowi zezwolenie' upraw-' r02'l-' . niaJllce do, opu.zc:z.enia· karnego na czas uzasadnienie, 5 dni. Z nagrody s14 do
 
-#### Rozdział 45 Postępowanie przyspieszone
+**Art. 4541.** l,; Odpis\ nakazu karnego ' ' brym zachowaniem w resocjeli .a i jegO' zacjl. pO Odbyciu co naj~ieJ połowy tej cZęści - wraz z odpisem aktu oskar kary pozbawienia po której mote i pozwu. W wypadku warunkowo przedterminowo zwolniony."; odpis nakazu karnego ,pro kuratorowi. vi nakazie przyto ,2) ut. Otrzymuje, brzmienie: ' \ przepisy o prawie; terminie i spo "Art. 1-16. W razie orzeczenia wykonywania sobie wniesienia sprzeciwu oraz skut dozorowanej pracy na' cele kac:;h jego niewniesienia, publiczne w razie oskar pracy.lub órzeczenia skierowania ska nakazu· karnego w zanego' ,do takiego/ celu 3 nakaz ' za tam pracy, -. od-' bezskuteczny sprawa podlega rozpo pis . praCy, wy znaniu na zasadach ogólnych, znaczonemu przez (prezy
 
-**Art. 446.** W postępowaniu przyspieszonym stosuje się przepisy o postępowaniu uproszczonym, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
+**Art. 454g.** i przy denta . miasta Warszawy. prawo wniesienia sprzeciwu Krakowa i w razie' orze do }ctóry nakaz kamy,. w czenia wykonania dozo w terminie zawitym 7 dni od dnia rowanej pracy na cele publiczne czenia ' instytucji publicznej . instytucii to orzeczenie 2. Prezes odmawia sprze- rodzaj pracy przy ' , dwu" wniesiony PD---!er kierowaniu do wykonania orzeczenia ' minie lub przez nie z rygorem dozorowanej Na pracy Zmiana· przez sprzeciwu .. rodzaju pracy tylko za 3. W razie wniesienia sprzeciwu nakaz ' karny traci sprawa podlega roz pracy poznaniu na 'zas!ldach ogólnych. zane do w celu 4. w -sprzeciwie podniesiono wy wykonywania pracy wy zarzuty przeciwko' rozstrzyg- znacza wojewoda (prezydent . o roszczeniu cywilhym, nakaz Warszawy, Krakowa i f karny traci moc tylko w 'tej dzi), instytucje o których mowa a na pOSiedzeniu pozostawia po w 1 wództwo cywilne bez rozpoznania lub §;I. Skierowania do przekazuje pózew du pracy , lub instytucji. o których do rozpoznawania spraw cywilnych: mowa w § 1 na Nakaz karny traci moc w gdy z przedstawiciela w sprzeclwle podniesiono zarzuty tego lub instytucji wzy przeciwko o wa skazanego do w wy niu odszkodowania na podstawie znaczQnym terminie' do wskazanego art 363. pracy lub instYtucji 5 Sprzeciw do czasu przewodu na 3) wart '117 w 'dodaje zdanie' pierwszej rozprawie W razie poucza skaz-anego konsekwen sprzeciwu nakaz karny, 'pozo- cjach z uchylania Odbywania ., staje w mocy kary" , " '" I
 
-**Art. 447.**
+- **4)** ' alt... U&otayIauje I) wat. 122 ,
 
-§ 1. W postępowaniu przyspieszonym mogą być rozpoznawane sprawy o przestępstwa określone w:
+1. ;~·,Jla • I.:r..u.t, .. ~: ub.... irł._.IU' .'" I.W ..... !vdlJIafa_ ...... adodhywaiil , skierowanego do tego w celu kary otr8lliCRDia zaJdad ' P1=acy. w ,-q ,pna. _. . IlI6ipi bnr jest lIIb __t aay eDla.' .........' łDsI'~. 'o bftJ 8I01Ińt-w 'łIIL ł nie ,-Je\pob. ....., " dca adM"m. "et • t,. ..... ltóty. w cn%enemu podano.eDi.e. Uchylaniem . dl: jeaa ~Datuszanie obawiąt- ' Uw at. ·il3 ,Ko-' f "rt, debu (iraz w 35 Kodebu karnego'," adpowiedmo_" " - , wart. 124 w l i 3 po wYrazaćh .:zakład pracy" do m -le ner. • WJTOy IIIslytucja ..Ad. I. pacy. w któIymjest w , wpaumi ,,' . ' • ' kara.. -egranfaenia woJrrokf. 'o\,az. o 'kt.órej ,mowa- w Art. W Kodeksie tut. J16 f. r. ' ,zmiany: ' , ,. '" ' w ' teTJ:Rinach przez ruendocz w art. ;IW' kary. fI 2 rodzaju przydzielone} pracy. jego stosurik\1 pracy oraz wart. 20 2 pkt ay Pl': doz. rządku pra1.lme90_ ,tacy mwaej .. publiczne Mpo ,mawa wart.' lis wt4!dnim' aspicIlecmimym pracy ' :'.J. publian.ei w wy JDian:e do guclzin w stosunku mie,2. gaJtim:wwe 'pracy jet "',' ',"" p W do __ w uspo §~~., Jemi ~ .. yDie sławił się w ter ..acy organ o'rzeka PACY, lub "JiI .. w DIIGde-Cnee .41 .a 10 do 25°/, wyna nie' JICIIZIIIdlla T n.ecz Skarbu dyscypliay.: ... Instytucja, o której w 118 • diro _ al wskazany przez organ o tym .. w ' Qdbywania "kary ułaiDr aie IIIOier~ać bez zgody orga Kwoty wynaglodzeniu. pracy. jak róW" jakie za., dozo nie, w okresie .... _ , . stanowisko." .. gdy;l)y na :pod'stawie hl w , 3 na l.oiicu, kropkę skreśla się 'i dodaje się umowy o iwiad-, wYJiCiZf • oriec na , czeme a tego zakfadm potrzeby z wykony na :za wafllfem cel wskazany pracy z - przez wyk.onyWaniem,lary. cele le •. Att. ukarany uchyla od wykonywa"; wailiem pJ'acysk.azaD.Ych. mill kaI!Y ograniczf.mia ulega ona .t. Ministrów. w drodze . ramiame grzywny, przy dmma. wJZ1!UI.CZania·p rzez . cz:ym ogral'iiczenia przyj miastal Bml!e;s:f~.%a ~wnowazny grzywnie od 'tO 000 nep za- . do 3fiHlCilO zlGtych, ,a klmów pAcy, Jtt6qdl, wyl[onywa na, to. ze egzekucja grzywny nie na jest kara ograniczenia. ,- na pra PIZY czym ograniczenia cy lub o k\óqcb mowa ' od'(rowiada , 15 dniom aresztu."i, .ut.. 1IIfii I. w tej' kary .oraz zasady . 3), obzymu.je gospodarC?,wania ..A rt. 3!1a. Wsto~unku do , spra:wcy wykroczenia ~ z "6&cmyWania kary agraniczenia spokojowi PIl- ,· JU: bJiclnemu. i spo wynagradzal'lia "'_owni1rów, w t, l'1'ego,. ~oiOJ:J:ego karą aresztu 3 miesię a oireWlf ulgi. w orZec do 50000 ulgi f;·.,.,.ucj:o. P9d'aIlowe. dla . wskazany przez orgiu. - . .. _ .. .:::." 308 '--. ' .. Ad. 5. W -sprawach o 2. Orzeczenia wydarte na pod.śht,Jie p~!ejl~S~t~ bOczenia' zmiany:' wy, o której mowa ust ,podieg~ją :w)r;kql~~)}i~Ei,,.i ,.1) wart., 66-w J 1 200 dó 2000 za JUt. ;ę; A. Jeżeli~a'p,od~tawłe' n~nieją~j ''US,ta;WNr~''~ljt-', itęimJe śiQ' wyrawru"od do Złotych", orzeka 'dólt,ycillctaSI,'-, '- 2),- ,~ art. '98 dodaje, się art. 98a w brzmieniu,:' "- _ gdy"aM ' wniesfono' "Art.' 98a. Przy wykonywaniu kary ogr-aniczenia wol-' tej ustawy. , ' './ ' " , " bOlCC ątosuje się , odpowiednio ' przepisy Sprawy, w których, oizecze~ia' sądu, kO{lczą~~ " Kodeksu karnego wykonaw- uchylone po ,czego.", ':',,' ,piejszej ustaWy, przepisów po tYm dnfu."', ,,', , Art. uSta-wie z dnia 1981 r. o-zwal Cżynńości proces.ow~' dokonanę prie~ d~e~", ~zanius:PekulacJ((In.. U.Ż 1982 r. Nr 36, poz. 243 z 1985 r. Nr 23. poL e .100)' wart. 8 wy:ra'(.y "lat: 2" w niniejszej ustawy wyrazami ;,l:. roku", a wyrazy ,,100000 - ,'wyra dokonano z -zacl10wanieni . przepisQ.w "", zami ,,500 000 Art. ''Yst~wa' życie zd,ńieói,·ii.~'e. wchQQzi Art. t. 'l'raci .'moc, ustawy z dnia 10 maja 1985 r. o' szczególnej odpowiedzialnosci karnej ' Rady Nr 23, poi. 101 l Nr 25; poz.. l ,s Rady ':zl., ' " : ' , . , 40 :);ati' po ;l.oko , w Na ",'.'J, " sprzedaży Akcyden~~~y~n; im. .< : ,. a ir~ Y'I . f;: : - w: NGwym . , . ReJdaJnaCj~ iuedoFęczeńi~POSZc;zegółnY(!h, zgła:,;~ać -należy na / " ', -
 
-- **1)** art. 156 § 2, art. 166, 167 § 1, art. 171 § 1, art. 181 § 1, art. 182 § 1, art. 236 i 237 Kodeksu karnego, jeżeli mają one charakter chuligański,
-- **2)** art. 199, 203, 212 § 1 i art. 213 Kodeksu karnego, jeżeli wartość przedmiotu przestępstwa albo szkoda wyrządzona lub zamierzona nie przekracza 100 000 złotych,
-- **3)** art. 146, 147, 259, 275 § 1, art. 280 § 1 i art. 284 Kodeksu karnego,
-- **4)** art. 3 ust. 1 ustawy z dnia 22 kwietnia 1959 r. o zwalczaniu niedozwolonego wyrobu spirytusu,
-- **5)** art. 43 ust. 1 i 2 oraz art. 44 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. Nr 35, poz. 230, z 1984 r. Nr 34, poz. 184 i z 1987 r. Nr 33, poz. 180) jeżeli sprawca został ujęty na gorącym uczynku lub bezpośrednio potem i doprowadzony przez Milicję Obywatelską lub inny uprawniony organ do sądu, w ciągu 48 godzin od chwili ujęcia.
-
-§ 2. W postępowaniu tym można zaniechać prowadzenia dochodzenia lub prowadzić je w niezbędnym zakresie bez wydania postanowienia o jego wszczęciu.
-
-§ 3. Postępowanie przyspieszone toczy się w trybie publicznoskargowym, także o przestępstwa ścigane z oskarżenia prywatnego, jeśli miały one charakter chuligański.
-
-§ 4. W wypadkach określonych w § 1, z wyłączeniem spraw o przestępstwa o charakterze chuligańskim, można zaniechać doprowadzenia sprawcy do sądu, doręczając mu wezwanie do stawiennictwa na rozprawę we wskazanym dniu i godzinie w okresie nie przekraczającym 48 godzin. W tym wypadku przesłuchanie sprawcy jest obowiązkowe. Sprawca wezwany do sądu jest obowiązany stawić się we wskazanym terminie.
-
-§ 5. Funkcjonariusz Milicji Obywatelskiej lub innego uprawnionego organu składa na piśmie zatwierdzone przez prokuratora zawiadomienie o przestępstwie wraz z wnioskami dowodowymi; zawiadomienie to zastępuje akt oskarżenia. Odpis zawiadomienia doręcza się oskarżonemu.
-
-§ 6. Sąd przystępuje niezwłocznie do rozpoznawania sprawy, a art. 299, 305 i 423 nie stosuje się.
-
-§ 7. W sprawach o przestępstwa rozpoznawane w trybie przyspieszonym o terminie rozprawy zawiadamia się prokuratora. Udział oskarżyciela w rozprawie jest obowiązkowy. Jeżeli w rozprawie nie bierze udziału prokurator, organom, o których mowa w § 5, przysługuje prawo popierania oskarżenia przed sądem pierwszej instancji.
-
-**Art. 448.**
-
-§ 1. Postępowanie przyspieszone toczy się również w razie jednorazowego przerwania rozprawy na czas nie dłuższy niż 7 dni.
-
-§ 2. Jeżeli sprawy nie można rozpoznać w terminie wskazanym w § 1, sąd rozstrzyga w kwestii środka zapobiegawczego i przekazuje sprawę prokuratorowi, zawiadamiając o tym pokrzywdzonego.
-
-§ 3. Jeżeli sąd w toku rozprawy stwierdzi, że sprawa nie podlega rozpoznaniu w postępowaniu przyspieszonym, rozpoznaje ją w tym samym składzie w trybie uproszczonym, chyba że tryb ten jest niedopuszczalny. W tym wypadku przekazuje ją do właściwego postępowania.
-
-**Art. 449.** Każda osoba wezwana w charakterze świadka przez Milicję Obywatelską lub inny uprawniony organ jest obowiązana stawić się w sądzie we wskazanym terminie.
-
-**Art. 450.** Jeżeli sąd przewiduje możliwość wymierzenia kary pozbawienia wolności powyżej 1 roku lub grzywny powyżej 500 000 złotych, rozstrzyga w kwestii środka zapobiegawczego i przekazuje sprawę prokuratorowi.
-
-**Art. 451.**
-
-§ 1. Jeżeli oskarżony, któremu doręczono wezwanie, nie stawi się na rozprawę i nie stawi się również jego obrońca, sąd może rozpoznać sprawę w czasie nieobecności oskarżonego i wydać wyrok zaoczny.
-
-§ 2. Jeżeli oskarżony nie stawił się na rozprawę, odczytuje się uprzednio złożone jego wyjaśnienia.
-
-§ 3. Rozprawy nie można przeprowadzić w czasie nieobecności oskarżonego, jeżeli dostatecznie usprawiedliwił swe niestawiennictwo i wnosił o odroczenie rozprawy. W takim wypadku przekazuje się sprawę prokuratorowi. Art. 452 W razie skazania na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania, sąd rozstrzyga w kwestii stosowania środka zapobiegawczego.
-
-**Art. 453.**
-
-§ 1. Termin, o którym mowa w art. 370 § 1, wynosi 3 dni, a w art. 393 § 1 – 7 dni.
-
-§ 2. Akta sprawy wraz z rewizją przedstawia się niezwłocznie sądowi drugiej instancji, który rozpoznaje sprawę najpóźniej w ciągu miesiąca od ich otrzymania.
-
-**Art. 454.** Minister Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady Adwokackiej, określi w drodze rozporządzenia sposób zapewnienia oskarżonemu korzystania z pomocy obrońcy i możliwości jego wyboru w postępowaniu przyspieszonym. ” ;
-
-#### Rozdział 45a Postępowanie nakazowe
-
-**Art. 3.** W Kodeksie karnym wykonawczym wprowadza się następujące zmiany:
-
-**Art. 116.**
-
-§ 1. W razie orzeczenia wykonywania nieodpłatnej dozorowanej pracy na cele publiczne w uspołecznionym zakładzie pracy lub orzeczenia skierowania skazanego do takiego zakładu w celu podjęcia tam pracy, sąd przesyła odpis orzeczenia zakładowi pracy wyznaczonemu przez wojewodę (prezydenta miasta stołecznego Warszawy, Krakowa i Łodzi), w razie zaś orzeczenia wykonania nieodpłatnej, dozorowanej pracy na cele publiczne w instytucji użyteczności publicznej – instytucji wykonującej to orzeczenie. Sąd może określić rodzaj pracy przy kierowaniu do wykonania orzeczenia z rygorem nieodpłatnej, dozorowanej pracy. Zmiana określonego przez sąd rodzaju pracy może nastąpić tylko za zgodą sądu.
-
-§ 2. Uspołecznione zakłady pracy obowiązane do przyjęcia skazanych w celu wykonywania obowiązku pracy wyznacza wojewoda (prezydent miasta stołecznego Warszawy, Krakowa i Łodzi), instytucje zaś, o których mowa w § 1 – sąd.
-
-§ 3. Skierowania do odpowiedniego zakładu pracy lub instytucji, o których mowa w § 1, sąd może dokonać na posiedzeniu z udziałem przedstawiciela tego zakładu lub instytucji. Sąd wzywa skazanego do stawienia się w wyznaczonym terminie do wskazanego zakładu pracy lub instytucji. ”
-
-- **3)** w art. 117 w § 1 dodaje się zdanie: „ Sąd poucza skazanego o obowiązkach i konsekwencjach wynikających z uchylania się od odbywania kary. ” ;
-- **4)** art. 118 otrzymuje brzmienie: „
-
-**Art. 118.**
-
-§ 1. Zakład pracy zatrudnia skazanego skierowanego do tego zakładu w celu wykonywania pracy przez okres wymieniony w orzeczeniu, a także dokonuje potrącenia, w ciągu tego okresu, procentowo określonej w orzeczeniu części wynagrodzenia za pracę.
-
-§ 2. ”
-
-- **5)** art. 120 otrzymuje brzmienie: „
-
-**Art. 120.**
-
-§ 1. Zakład pracy, w którym jest wykonywana kara ograniczenia wolności, oraz instytucja, o której mowa w art. 116 § 1, mają obowiązek zawiadomić sąd, w terminach przez sąd określonych, jak również niezwłocznie po zakończeniu odbywania kary, o rodzaju przydzielonej skazanemu pracy, jego stosunku do pracy oraz o tym, czy skazany przestrzegał porządku prawnego. Zakłady pracy i instytucje, o których mowa w art. 116 § 1, mają obowiązek wyznaczania pracowników odpowiedzialnych za organizowanie pracy skazanych i jej przebieg.
-
-§ 2. Jeżeli skazany nie stawił się w terminie do pracy lub ją porzucił albo nie przestrzega ustalonego porządku i dyscypliny, zakład pracy lub instytucja, o której mowa w art. 116 § 1 niezwłocznie zawiadamia o tym sąd.
-
-§ 3. Kwoty odpowiadające wynagrodzeniu, jakie za wykonaną, nieodpłatną dozorowaną pracę należałoby zapłacić, gdyby została wykonana na podstawie umowy o pracę lub umowy o świadczenie usług, oraz kwoty potrącone z wynagrodzenia za pracę na rzecz zakładu pracy na potrzeby związane z wykonywaniem kary powinny być w szczególności przeznaczone na cele związane z organizowaniem i dozorowaniem pracy skazanych.
-
-§ 4. Rada Ministrów, w drodze rozporządzenia, określa tryb wyznaczania przez wojewodę (prezydenta miasta stołecznego Warszawy, Krakowa i Łodzi) zakładów pracy, w których wykonywana jest kara ograniczenia wolności, szczegółowe obowiązki zakładów pracy lub instytucji, o których mowa w art. 116 § 1, w zakresie wykonywania tej kary oraz szczegółowe zasady gospodarowania środkami uzyskanymi z wykonywania kary ograniczenia wolności, jak również szczegółowe zasady wynagradzania wyznaczonych pracowników, o których mowa w § 1, a także może określić ulgi, w tym ulgi podatkowe, dla tych zakładów i instytucji. ” ;
-
-- **6)** w art. 122 § 1 otrzymuje brzmienie: „
-
-§ 1. W razie uchylania się skazanego od odbywania kary ograniczenia wolności, zakład pracy, w którym kara jest lub ma być wykonywana, albo instytucja, o której mowa w art. 116 § 1, niezwłocznie zawiadamiają o tym sąd, który wydaje odpowiednie postanowienie. Uchylaniem się jest również uporczywe naruszanie obowiązków wymienionych w art. 113 niniejszego Kodeksu oraz w art. 35 Kodeksu karnego. ”
-
-- **7)** w art. 124 w § 1 i 3 po wyrazach „zakład pracy” dodaje się wyrazy „lub instytucja użyteczności publicznej”, a wyrazy „w którym” zastępuje się wyrazami „w których”.
-
-**Art. 4.** W Kodeksie wykroczeń wprowadza się następujące zmiany:
-
-**Art. 23.** Jeżeli ukarany uchyla się od wykonywania kary ograniczenia wolności, ulega ona zamianie na zastępczą karę grzywny, przy czym miesiąc ograniczenia wolności przyjmuje się za równoważny grzywnie od 10 000 do 30 000 złotych, a jeżeli okoliczności wskazują na to, że egzekucja grzywny nie będzie skuteczna – na zastępczą karę aresztu, przy czym miesiąc ograniczenia wolności odpowiada 15 dniom aresztu. ” ;
-
-**Art. 37a.** W stosunku do sprawcy wykroczenia przeciwko porządkowi i spokojowi publicznemu, instytucjom państwowym i społecznym lub urządzeniom użytku publicznego, zagrożonego karą aresztu 3 miesięcy, można orzec nawiązkę do 50 000 złotych na cel społeczny wskazany przez organ orzekający. ”
-
-**Art. 5.** W Kodeksie postępowania w sprawach o wykroczenia wprowadza się następujące zmiany:
-
-**Art. 98a.** Przy wykonywaniu kary ograniczenia wolności stosuje się odpowiednio przepisy art. 113–123 Kodeksu karnego wykonawczego. ”
-
-**Art. 6.** W ustawie z dnia 25 września 1981 r. o zwalczaniu spekulacji (Dz. U. z 1982 r. Nr 36, poz. 243 i z 1985 r. Nr 23, poz. 100) w art. 8 wyrazy „lat 2” zastępuje się wyrazami „1 roku”, a wyrazy „100 000 zł” – wyrazami „500 000 zł”.
-
-**Art. 7.**
-
-1. Traci moc art. 36 ustawy z dnia 10 maja 1985 r. o szczególnej odpowiedzialności karnej (Dz. U. Nr 23, poz. 101 i Nr 25, poz. 111).
-
-2. Orzeczenia wydane na podstawie przepisów ustawy, o której mowa w ust. 1, podlegają wykonaniu.
-
-**Art. 8.**
-
-1. Jeżeli na podstawie mniejszej ustawy nastąpiła zmiana właściwości sądu, orzeka sąd dotychczas właściwy, gdy akt oskarżenia wniesiono przed dniem wejścia w życie tej ustawy.
-
-2. Sprawy, w których orzeczenia sądu kończące postępowanie zostały uchylone po dniu wejścia w życie niniejszej ustawy, przekazuje się sądowi właściwemu według przepisów obowiązujących po tym dniu.
-
-3. Czynności procesowe dokonane przed dniem wejścia w życie niniejszej ustawy są skuteczne, jeżeli ich dokonano z zachowaniem przepisów dotychczasowych.
-
-**Art. 9.** Ustawa wchodzi w życie z dniem 1 lipca 1988 r.
 

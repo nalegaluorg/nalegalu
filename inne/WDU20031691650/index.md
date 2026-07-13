@@ -26,27 +26,27 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031691650) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1650/text.pdf) |
 
 5) inne informacje mogące usprawnić zawieranie Gospodarki ˚ywnościowej Spółka Akcyjna stanowiąumów zuprawnionymi. cych własność Skarbu Państwa pomiędzy osoby uprawnione (Dz. U. Nr 8, poz. 76), wterminie 30 dni od
-§ 15. Niezwłocznie po dokonaniu czynności związa- dnia wejścia wżycie rozporządzenia.
-nych z przekazaniem akcji osobom uprawnionym BG˚ S.A., banki spółdzielcze oraz banki zrzeszające 4. Dokumentacja, októrej mowa wust. 3, obejmuprzekażą ministrowi właściwemu do spraw Skarbu je wszczególności: oświadczenia osób uprawnionych, Państwa pisemne sprawozdania z dokonanych czyn- zaświadczenia ostażu pracy, listę osób uprawnionych ności. do nabycia akcji BG˚ S.A., dokumenty dotyczące złożonych irozpatrzonych reklamacji.
-§ 16. 1. Osoby uprawnione, które złożyły oświadczenia, o których mowa w art. 5 ust. 2 ustawy z dnia 5. Do listy, októrej mowa w§ 5 ust. 1, BG˚ S.A. do27czerwca 2003 r. ozmianie ustawy ofunkcjonowaniu łącza listy osób uprawnionych, z banków spółdzielbanków spółdzielczych, ich zrzeszaniu się i bankach czych, wktórych postępowanie upadłościowe zostało zrzeszających oraz ustawy o Narodowym Banku Pol- zakończone, sporządzone przez syndyków masy upaskim, dołączają zaświadczenia o stażu pracy za okres dłości na podstawie rozporządzenia wymienionego sprzed przekształcenia BG˚ współkę akcyjną wtermi- wust. 3.
-nie, októrym mowa w§ 3 ust. 1.
-§ 17. Rozporządzenie wchodzi w życie po upływie
-2. Osobom uprawnionym, które nie dołączyły za- 7dni od dnia ogłoszenia.
-świadczeń, októrych mowa wust. 1, staż pracy liczony jest wyłącznie od dnia powstania BG˚ S.A. Minister Skarbu Państwa: P. Czyżewski
-3. Bank spółdzielczy w upadłości przesyła do BG˚ S.A. dokumentację dotyczącą listy osób uprawnionych do nieodpłatnego nabycia akcji BG˚ S.A.
-utworzoną na podstawie rozporządzenia Ministra Skarbu Państwa z dnia 11 stycznia 2002 r. w sprawie szczegółowych zasad itrybu podziału 15 % akcji Banku 1650 OBWIESZCZENIE MINISTRA GOSPODARKI, PRACY IPOLITYKI SPOĘECZNEJ zdnia 28 sierpnia 2003 r.
-wsprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Pracy iPolityki Socjalnej wsprawie ogólnych przepisów bezpieczeństwa ihigieny pracy
-1. Na podstawie § 2 rozporządzenia Ministra Pra- 2. Podany wzałączniku do niniejszego obwieszczecy iPolityki Społecznej zdnia 11 czerwca 2002 r. zmie- nia tekst jednolity rozporządzenia nie obejmuje § 3 rozniającego rozporządzenie wsprawie ogólnych przepi- porządzenia Ministra Pracy iPolityki Społecznej zdnia sów bezpieczeństwa i higieny pracy (Dz. U. Nr 91, 11 czerwca 2002 r. zmieniającego rozporządzenie poz. 811) ogłasza się wzałączniku do niniejszego ob- wsprawie ogólnych przepisów bezpieczeństwa ihigiewieszczenia jednolity tekst rozporządzenia Ministra ny pracy (Dz. U. Nr 91, poz. 811), który stanowi: Pracy i Polityki Socjalnej z dnia 26 września 1997 r.
-w sprawie ogólnych przepisów bezpieczeństwa i hi- Ń§ 3. Rozporządzenie wchodzi w życie po upływie gieny pracy (Dz. U. Nr 129, poz. 844), z uwzględnie- 12miesięcy od dnia ogłoszenia.”.
-niem zmian wprowadzonych rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 11 czerwca 2002r. zmieniającym rozporządzenie wsprawie ogólnych przepisów bezpieczeństwa i higieny pracy (Dz. U. Nr 91, poz. 811) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 sierpnia Minister Gospodarki, Pracy iPolityki Społecznej: 2003 r. J. Hausner Dziennik Ustaw Nr 169 — 11615 — Poz. 1650 ROZPORZÑDZENIE MINISTRA PRACY IPOLITYKI SOCJALNEJ zdnia 26 września 1997 r.
-wsprawie ogólnych przepisów bezpieczeństwa ihigieny pracy Na podstawie art. 237 § 1 Kodeksu pracy zarządza szy niż 2 godziny, awykonywane czynności masię, co następuje: ją charakter dorywczy bądê praca polega na krótkotrwałym przebywaniu związanym z dozoDZIAĘ I rem albo konserwacją urządzeń lub utrzymaniem czystości iporządku, Przepisy wstępne
-b) mają miejsce procesy technologiczne niepo§ 1. 1. Rozporządzenie określa ogólnie obowiązują- zwalające na zapewnienie odpowiednich wace przepisy bezpieczeństwa i higieny pracy w zakła- runków przebywania pracowników w celu ich dach pracy, wszczególności dotyczące: obsługi, bez zastosowania środków ochrony indywidualnej i zachowania specjalnego reżimu
-1) obiektów budowlanych, pomieszczeń pracy itere- organizacji pracy, nu zakładów pracy;
-c) jest prowadzona hodowla roślin lub zwierząt,
-2) procesów pracy; niezależnie od czasu przebywania w nich pracowników zajmujących się obsługą;
-3) pomieszczeń iurządzeń higienicznosanitarnych.
-4) Ńpomieszczeniu stałej pracy” — rozumie się przez
+
+**§ 15.** Niezwłocznie po dokonaniu czynności związa- dnia wejścia wżycie rozporządzenia. nych z przekazaniem akcji osobom uprawnionym BG˚ S.A., banki spółdzielcze oraz banki zrzeszające 4. Dokumentacja, októrej mowa wust. 3, obejmuprzekażą ministrowi właściwemu do spraw Skarbu je wszczególności: oświadczenia osób uprawnionych, Państwa pisemne sprawozdania z dokonanych czyn- zaświadczenia ostażu pracy, listę osób uprawnionych ności. do nabycia akcji BG˚ S.A., dokumenty dotyczące złożonych irozpatrzonych reklamacji.
+
+**§ 16.**
+
+1. Osoby uprawnione, które złożyły oświadczenia, o których mowa w art. 5 ust. 2 ustawy z dnia 5. Do listy, októrej mowa w§ 5 ust. 1, BG˚ S.A. do27czerwca 2003 r. ozmianie ustawy ofunkcjonowaniu łącza listy osób uprawnionych, z banków spółdzielbanków spółdzielczych, ich zrzeszaniu się i bankach czych, wktórych postępowanie upadłościowe zostało zrzeszających oraz ustawy o Narodowym Banku Pol- zakończone, sporządzone przez syndyków masy upaskim, dołączają zaświadczenia o stażu pracy za okres dłości na podstawie rozporządzenia wymienionego sprzed przekształcenia BG˚ współkę akcyjną wtermi- wust. 3. nie, októrym mowa w§ 3 ust. 1.
+
+**§ 17.** Rozporządzenie wchodzi w życie po upływie 2. Osobom uprawnionym, które nie dołączyły za- 7dni od dnia ogłoszenia. świadczeń, októrych mowa wust. 1, staż pracy liczony jest wyłącznie od dnia powstania BG˚ S.A. Minister Skarbu Państwa: P. Czyżewski 3. Bank spółdzielczy w upadłości przesyła do BG˚ S.A. dokumentację dotyczącą listy osób uprawnionych do nieodpłatnego nabycia akcji BG˚ S.A. utworzoną na podstawie rozporządzenia Ministra Skarbu Państwa z dnia 11 stycznia 2002 r. w sprawie szczegółowych zasad itrybu podziału 15 % akcji Banku 1650 OBWIESZCZENIE MINISTRA GOSPODARKI, PRACY IPOLITYKI SPOĘECZNEJ zdnia 28 sierpnia 2003 r. wsprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Pracy iPolityki Socjalnej wsprawie ogólnych przepisów bezpieczeństwa ihigieny pracy 1. Na podstawie § 2 rozporządzenia Ministra Pra- 2. Podany wzałączniku do niniejszego obwieszczecy iPolityki Społecznej zdnia 11 czerwca 2002 r. zmie- nia tekst jednolity rozporządzenia nie obejmuje § 3 rozniającego rozporządzenie wsprawie ogólnych przepi- porządzenia Ministra Pracy iPolityki Społecznej zdnia sów bezpieczeństwa i higieny pracy (Dz. U. Nr 91, 11 czerwca 2002 r. zmieniającego rozporządzenie poz. 811) ogłasza się wzałączniku do niniejszego ob- wsprawie ogólnych przepisów bezpieczeństwa ihigiewieszczenia jednolity tekst rozporządzenia Ministra ny pracy (Dz. U. Nr 91, poz. 811), który stanowi: Pracy i Polityki Socjalnej z dnia 26 września 1997 r. w sprawie ogólnych przepisów bezpieczeństwa i hi- Ń§ 3. Rozporządzenie wchodzi w życie po upływie gieny pracy (Dz. U. Nr 129, poz. 844), z uwzględnie- 12miesięcy od dnia ogłoszenia.”. niem zmian wprowadzonych rozporządzeniem Ministra Pracy i Polityki Społecznej z dnia 11 czerwca 2002r. zmieniającym rozporządzenie wsprawie ogólnych przepisów bezpieczeństwa i higieny pracy (Dz. U. Nr 91, poz. 811) oraz zmian wynikających z przepisów ogłoszonych przed dniem 28 sierpnia Minister Gospodarki, Pracy iPolityki Społecznej: 2003 r. J. Hausner Dziennik Ustaw Nr 169 — 11615 — Poz. 1650 ROZPORZÑDZENIE MINISTRA PRACY IPOLITYKI SOCJALNEJ zdnia 26 września 1997 r. wsprawie ogólnych przepisów bezpieczeństwa ihigieny pracy Na podstawie art. 237 § 1 Kodeksu pracy zarządza szy niż 2 godziny, awykonywane czynności masię, co następuje: ją charakter dorywczy bądê praca polega na krótkotrwałym przebywaniu związanym z dozoDZIAĘ I rem albo konserwacją urządzeń lub utrzymaniem czystości iporządku, Przepisy wstępne
+
+- **b)** mają miejsce procesy technologiczne niepo§ 1. 1. Rozporządzenie określa ogólnie obowiązują- zwalające na zapewnienie odpowiednich wace przepisy bezpieczeństwa i higieny pracy w zakła- runków przebywania pracowników w celu ich dach pracy, wszczególności dotyczące: obsługi, bez zastosowania środków ochrony indywidualnej i zachowania specjalnego reżimu
+- **1)** obiektów budowlanych, pomieszczeń pracy itere- organizacji pracy, nu zakładów pracy;
+    - **c)** jest prowadzona hodowla roślin lub zwierząt,
+
+- **2)** procesów pracy; niezależnie od czasu przebywania w nich pracowników zajmujących się obsługą;
+- **3)** pomieszczeń iurządzeń higienicznosanitarnych.
+- **4)** Ńpomieszczeniu stałej pracy” — rozumie się przez
+
 2. Przepisy rozporządzenia nie dotyczą środków to pomieszczenie pracy, wktórym łączny czas przetransportu kolejowego, lotniczego, morskiego i wod- bywania tego samego pracownika w ciągu jednej nego śródlądowego. doby przekracza 4 godziny;
+
+## Załącznik
+
 § 2. Ilekroć wrozporządzeniu jest mowa o: 5) Ńpomieszczeniu czasowej pracy” — rozumie się przez to pomieszczenie pracy, w którym łączny
 1) Ńosłonie” — rozumie się przez to element lub ze- czas przebywania tego samego pracownika wciąstaw elementów konstrukcyjnych służący do gu jednej doby trwa od 2 do 4 godzin;
 ochrony człowieka przed niebezpiecznymi lub uciążliwymi wpływami pracujących części, mecha- 6) Ńprzepisach techniczno-budowlanych” — rozumie nizmów iukładów roboczych maszyny lub innego się przez to przepisy ustawy — Prawo budowlane urządzenia technicznego; oraz aktów wykonawczych do tej ustawy;
@@ -171,6 +171,7 @@ strukcje bezpieczeństwa ihigieny pracy dotyczące:
 2. Instrukcje, o których mowa w ust. 1, powinny wwidocznych miejscach, powinny być wywieszone inw sposób zrozumiały dla pracowników wskazywać strukcje oudzielaniu pierwszej pomocy wrazie wypadczynności, które należy wykonać przed rozpoczęciem ku oraz wykazy pracowników, októrych mowa wust.3.
 danej pracy, zasady i sposoby bezpiecznego wykonywania pracy, czynności do wykonania po jej zakończe- 5. Punkty pierwszej pomocy imiejsca usytuowania apteczek powinny być odpowiednio oznakowane, zgodnie zPolską Normą, iłatwo dostępne.
 Dziennik Ustaw Nr 169 — 11623 — Poz. 1650
+Rozdział 2 iniszczyć wsposób określony winstrukcji, októrej mowa w§ 41.
 Organizacja stanowisk pracy
 § 47. 1. Do każdego stanowiska pracy powinno być
 § 45. 1. Stanowiska pracy powinny być urządzone zapewnione bezpieczne i wygodne dojście, przy czym stosownie do rodzaju wykonywanych na nich czynno- jego wysokość na całej długości nie powinna być ści oraz psychofizycznych właściwości pracowników, mniejsza wświetle niż 2 m.
@@ -196,6 +197,7 @@ jące uciążliwe zapachy — należy przechowywać w zamkniętych naczyniach z 
 9) wchodzenie ischodzenie zdrabiny plecami do niej; łatwo dostrzegalną izrozumiałą.
 10) przenoszenie drabiny odługości powyżej 4mprzez 2. Maszyny wielostanowiskowe powinny być jedną osobę. wyposażone wurządzenia sygnalizacji dêwiękowej lub
 3. Drabina przystawna powinna wystawać ponad świetlnej automatycznie wysyłające sygnały uprzedzapowierzchnię, na którą prowadzi, co najmniej 0,75 m, jące o uruchomieniu maszyny. Sygnały powinny być akąt jej nachylenia powinien wynosić od 65° do 75°. odbierane na wszystkich stanowiskach pracy przy danej maszynie.
+Rozdział 3 § 55. 1. Elementy ruchome i inne części maszyn, które wrazie zetknięcia się znimi stwarzają zagrożenie, Obsługa istosowanie maszyn, narzędzi powinny być do wysokości co najmniej 2,5 mod pozioiinnych urządzeń technicznych mu podłogi (podestu) stanowiska pracy osłonięte lub
 § 51. 1. Maszyny i inne urządzenia techniczne, zaopatrzone w inne skuteczne urządzenia ochronne, zwane dalej Ńmaszynami”, powinny spełniać wymaga- z wyjątkiem przypadków, gdy spełnienie tych wymagań nie jest możliwe ze względu na funkcję maszyny.
 nia bezpieczeństwa ihigieny pracy, określone wodrębnych przepisach, przez cały okres ich użytkowania. 2. Pasy, łańcuchy, taśmy, koła zębate iinne elementy układów napędowych oraz części maszyn zagrażają2. Montaż, demontaż i eksploatacja maszyn, w tym ce spadnięciem, znajdujące się nad stanowiskami praich obsługa, powinny odbywać się przy zachowaniu wy- cy lub przejściami na wysokości ponad 2,5 mod poziomagań bezpieczeństwa i higieny pracy oraz ergonomii, mu podłogi, powinny być osłonięte co najmniej od douwzględniających instrukcje zawarte w dokumentacji łu trwałymi osłonami.
 techniczno-ruchowej. Miejsce i sposób zainstalowania oraz użytkowania maszyn powinny uwzględniać mini- 3. Osłony stosowane na maszynach powinny uniemalizację ryzyka zawodowego, wszczególności poprzez: możliwiać bezpośredni dostęp do strefy niebezpiecz1) zapewnienie dostatecznej przestrzeni pomiędzy nej. Osłony niepełne (wykonane zsiatki, blachy perforuchomymi częściami maszyn a ruchomymi lub rowanej, prętów itp.) powinny znajdować się w takiej stałymi elementami otoczenia; odległości od elementów niebezpiecznych, aby przy danej wielkości i kształcie otworów nie było możliwe
@@ -220,6 +222,7 @@ idodatkowego obciążenia fizycznego lub psychicznego pracowników. § 61. 1. Je
 ochronnego lub przy jego nieodpowiednim stosowaniu jest niedopuszczalne. 4. Pasy pędne, liny i taśmy pędne mogą być napinane, naprawiane, łączone, skracane i smarowane po
 4. Szczegółowe wymagania dla urządzeń ochron- unieruchomieniu napędu maszyny.
 nych określają Polskie Normy.
+Rozdział 4
 § 57. Maszyny i narzędzia oraz ich urządzenia ochronne powinny być utrzymywane w stanie spraw- Transport wewnętrzny imagazynowanie ności technicznej i czystości zapewniającej użytkowanie ich bez szkody dla bezpieczeństwa i zdrowia pra- § 62. 1. Pracodawca powinien zapewnić zastosowacowników oraz stosowane tylko wprocesach iwarun- nie odpowiednich rozwiązań organizacyjnych i techkach, do których są przeznaczone. nicznych, zwłaszcza w zakresie wyposażenia technicznego, wcelu wyeliminowania potrzeby ręcznego prze§ 58. 1. Odostrzeżonych wadach lub uszkodzeniach mieszczania ciężarów.
 maszyny pracownik powinien niezwłocznie zawiadomić przełożonego. 2. Jeśli nie ma możliwości uniknięcia ręcznego przemieszczania ciężarów, należy podjąć odpowiednie
 2. Maszyny, których uszkodzenie stwierdzono przedsięwzięcia, wtym wyposażyć pracowników wniewczasie pracy, powinny być niezwłocznie zatrzymane zbędne środki wcelu zmniejszenia uciążliwości izagroiwyłączone zzasilania energią. Wznowienie pracy ma- żeń związanych zwykonywaniem tych czynności.
@@ -265,6 +268,7 @@ składowania, stosować kominy wentylacyjne oraz przesypywać lub często przerz
 2) 5 m— od linii wysokiego napięcia do 15 kV; określonych stanowiskach dopuszczalnych wartości hałasu,
 3) 10 m— od linii wysokiego napięcia do 30 kV; — właściwego doboru i sposobu używania indywi4) 15 m — od linii wysokiego napięcia powyżej dualnych ochron słuchu.
 30kV.
+Rozdział 5 Rozdział 6 Ochrona przed hałasem Prace szczególnie niebezpieczne
 § 78. 1. Pracodawca jest obowiązany zapewnić A. Przepisy ogólne ochronę pracowników przed zagrożeniami związanymi z narażeniem na hałas, a w szczególności zapewnić § 80. 1. Przez prace szczególnie niebezpieczne rozustosowanie: mie się prace, októrych mowa wniniejszym rozdziale, oraz prace określone jako szczególnie niebezpieczne
 1) procesów technologicznych niepowodujących winnych przepisach dotyczących bezpieczeństwa ihinadmiernego hałasu; gieny pracy lub w instrukcjach eksploatacji urządzeń
 2) maszyn iinnych urządzeń technicznych powodują- iinstalacji, atakże inne prace ozwiększonym zagrożecych możliwie najmniejszy hałas, nieprzekraczają- niu lub wykonywane w utrudnionych warunkach, cy dopuszczalnych wartości; uznane przez pracodawcę jako szczególnie niebezpieczne.
@@ -375,6 +379,7 @@ Odległość od najdalszego stanowiska pracy do po- § 118. 1. Rozporządzenie w
 2. Pracownikom zatrudnionym wwarunkach, októ- 2. Przepisy § 103 i§ 114 ust. 1 rozporządzenia oraz §3 rych mowa wust. 1, należy stworzyć możliwość obmy- ust. 1, § 34 ust. 2 i § 38 załącznika do rozporządzenia cia ciała, szczególnie w ciepłej porze roku — poprzez wchodzą wżycie po upływie 2 lat od dnia ogłoszenia.
 umieszczenie wpobliżu pomieszczeń pracy natrysków ręcznych na giętkich przewodach, z doprowadzeniem ciepłej wody.
 Dziennik Ustaw Nr 169 — 11634 — Poz. 1650 SZCZEGÓĘOWE ZASADY STOSOWANIA ZNAKÓW ISYGNAĘÓW BEZPIECZE¡STWA
+Rozdział 1 § 6. 1. Stosowane znaki isygnały powinny być odpowiednio czytelne, widoczne i słyszalne. Ich czytelPrzepisy ogólne ność, widoczność i słyszalność nie może być zmniejszana przede wszystkim przez:
 § 1. 1. Pracodawca powinien zapewnić stosowanie znaków lub sygnałów bezpieczeństwa wszędzie tam, 1) jednoczesne stosowanie znaków lub sygnałów tegdzie nie można zlikwidować zagrożenia środkami go samego rodzaju. Wszczególności należy unikać: ochrony zbiorowej lub innymi środkami stosowanymi a) umieszczania zbyt wielu znaków lub sygnałów worganizacji pracy. blisko siebie,
 2. Wzależności od rodzaju stosowanego transpor- b) jednoczesnego stosowania dwóch sygnałów tu — w zakładzie pracy powinny być stosowane znaki świetlnych, które łatwo mogą być pomylone, i sygnały używane w transporcie drogowym, kolejowym, śródlądowym, morskim ipowietrznym. c) stosowania sygnału świetlnego blisko innego êródła światła,
 § 2. Pracodawca powinien zapewnić pracownikom d) używania jednocześnie dwóch sygnałów dêwięinstrukcje dotyczące stosowanych wzakładzie pracy zna- kowych, ków i sygnałów bezpieczeństwa, obejmujące w szczególności znaczenie znaków i sygnałów oraz zasady za- e) stosowania sygnałów dêwiękowych przy zbyt chowania się pracowników, których mogą one dotyczyć. dużym natężeniu hałasu tła (otoczenia);
@@ -393,6 +398,7 @@ munikaty słowne powinny być stosowane, gdy wymaga tego sytuacja, w celu zasygn
 Dziennik Ustaw Nr 169 — 11635 — Poz. 1650
 3. Zadziałanie sygnału świetlnego lub sygnału 3. Przepis ust. 1 dotyczy również stałych dróg na zedêwiękowego powinno nastąpić wczasie, kiedy jest to wnątrz budynków, oile drogi te nie są otoczone odponiezbędne z uwagi na bezpieczeństwo pracowników; wiednimi barierami lub chodnikami.
 działanie tego sygnału powinno trwać do czasu ustania zagrożenia. Rozdział 4
+Rozdział 2 Wymagania dotyczące sygnałów świetlnych Wymagania dotyczące stosowania § 14. 1. Âwiatło emitowane przez urządzenie sygnaznaków bezpieczeństwa lizacyjne powinno kontrastować odpowiednio z otoczeniem i warunkami jego stosowania; nie może ono
 § 9. 1. Znaki bezpieczeństwa powinny być umiesz- być zbyt silne, aby nie powodowało olśnienia, ani zbyt czone odpowiednio do linii wzroku — w miejscu lub słabe, aby nie powodowało złej widoczności sygnału.
 w najbliższym otoczeniu określonego zagrożenia, awprzypadku ogólnego zagrożenia — przy wejściu na 2. Powierzchnia świecąca może być tylko wjednym teren, na którym występuje zagrożenie. kolorze lub zawierać symbol obrazkowy (piktogram) na określonym tle — zgodnie z wymaganiami określony2. Miejsce, wktórym znajdują się znaki bezpieczeń- mi wPolskich Normach.
 stwa, powinno być dobrze oświetlone, łatwo dostępne iwidoczne. Wprzypadku gdy znaki znajdują się wmiej- § 15. 1. Jeżeli urządzenie może wysyłać sygnał scu o niedostatecznym poziomie oświetlenia dzienne- świetlny ciągły iprzerywany (migający) — sygnał przego, miejsce to powinno być oświetlone światłem elek- rywany powinien być używany do informowania trycznym albo powinny być zastosowane znaki wyko- o większym niebezpieczeństwie lub o pilniejszej ponane z materiału posiadającego zdolność emisji świa- trzebie interwencji albo podjęcia określonej akcji, niż to tła po usunięciu êródła wzbudzającego lub pokryte ta- wskazuje sygnał ciągły. Czas trwania każdego błysku kim materiałem. i częstotliwość błysków w sygnale przerywanym powinny być tak dobrane, aby zapewnić dobrą percepcję
@@ -400,6 +406,7 @@ stwa, powinno być dobrze oświetlone, łatwo dostępne iwidoczne. Wprzypadku gd
 § 11. Wymagania dotyczące stosowania znaków 2. Jeżeli sygnał świetlny przerywany jest używany ewakuacyjnych i znaków dotyczących ochrony prze- zamiast lub razem z sygnałem dêwiękowym, kod tego ciwpożarowej określają odrębne przepisy i Polskie sygnału powinien być taki sam.
 Normy.
 3. Urządzenie do wysyłania sygnałów świetlnych,
+Rozdział 3 używane w przypadku poważnego niebezpieczeństwa, powinno zapewniać ciągłość wysyłania sygnaWymagania dotyczące oznaczania przeszkód, łów, w szczególności poprzez zainstalowanie dodatniebezpiecznych miejsc idróg kowego êródła światła lub systematyczne kontrole urządzenia.
 § 12. 1. Miejsca w zakładzie pracy, do których pracownicy mają dostęp podczas pracy, awktórych istnie- Rozdział 5 je ryzyko kolizji z przeszkodami, upadku lub spadania przedmiotów, powinny być oznakowane skośnymi pa- Wymagania dotyczące sygnałów dêwiękowych sami — na przemian żółtymi iczarnymi lub czerwonymi ibiałymi. § 16. 1. Sygnał dêwiękowy powinien:
 2. Wymiary oznaczenia, o którym mowa w ust. 1, 1) być dobrze słyszalny — opoziomie dêwięku odpopowinny być odpowiednie do rozmiaru przeszkody lub wiednio wyższym niż poziom hałasu tła (otoczeniebezpiecznego miejsca. nia), ajednocześnie nie może być nadmiernie głośny lub przykry;
 3. ˚ółte iczarne lub białe iczerwone pasy powinny być narysowane pod kątem około 45° i powinny mieć 2) być łatwo rozpoznawalny, zwłaszcza gdy chodzi zbliżone wymiary. o czas trwania impulsów oraz przerw między impulsami igrupą impulsów;
@@ -410,9 +417,11 @@ Dziennik Ustaw Nr 169 — 11636 — Poz. 1650
 § 17. Dêwiękowy sygnał wzywający do ewakuacji — koniec — oznaczające zatrzymanie działania, powinien być ciągły.
 — szybko — oznaczające konieczność przyspiesze§ 18. Wymagania dotyczące projektowania sygna- nia ruchu ze względów bezpieczeństwa, łów dêwiękowych określone są wPolskich Normach.
 — wolno — oznaczające konieczność powolnego wykonywania ruchu,
+Rozdział 6 — do góry — w znaczeniu Ńpodnieść ładunek do Wymagania dotyczące góry”, stosowania komunikatów słownych — do dołu — wznaczeniu Ńopuścić ładunek wdół”,
 § 19. 1. Komunikat słowny wysyłany przez nadaw- — do przodu — oznaczające kierunek ruchu, który cę lub urządzenie emitujące do jednego lub wielu od- — do dołu jednocześnie powinien być skoordybiorców powinien mieć formę krótkich tekstów, zwro- — wprawo nowany z odpowiednimi sygnałami tów, słów pojedynczych lub grup słów. — wlewo ręcznymi,
 2. Komunikaty słowne powinny być możliwie jak — stop — oznaczające konieczność zatrzymania najkrótsze, najprostsze inajbardziej przejrzyste — przy- wnagłym przypadku.
 stosowane do zdolności werbalnej nadawcy i zdolności słyszenia odbiorcy lub odbiorców.
+Rozdział 7
 3. Komunikat słowny może być przekazywany bez- Wymagania dotyczące pośrednio (wypowiadany przez człowieka) lub pośrednio (emitowany za pomocą odpowiedniego urządzenia). stosowania sygnałów ręcznych
 § 21. 1. Sygnał ręczny powinien być precyzyjny,
 § 20. 1. Osoby, będące nadawcami iodbiorcami ko- prosty, łatwy do wykonania i do zrozumienia, a także munikatu powinny dobrze znać język, w którym jest odróżniać się od innych sygnałów.
@@ -435,6 +444,7 @@ awszczególności czas iprzypadki, wktórych powinny być używane. 2. Ocena, ok
 § 5. Ârodki ochrony indywidualnej powinny być zjej elementów.
 przeznaczone do osobistego użytku. W wyjątkowych przypadkach środek ochrony indywidualnej może być § 8. Przy ustalaniu środków ochrony indywidualnej używany przez więcej niż jedną osobę, oile zastosowa- niezbędnych do stosowania przy określonych pracach no działania wykluczające niepożądany wpływ takiego pracodawca powinien uwzględniać wskazania zawarte użytkowania na zdrowie lub higienę użytkowników. wtabelach nr 1—3.
 Dziennik Ustaw Nr 169 — 11641 — Poz. 1650 Dziennik Ustaw Nr 169 — 11642 — Poz. 1650 Dziennik Ustaw Nr 169 — 11643 — Poz. 1650 Dziennik Ustaw Nr 169 — 11644 — Poz. 1650 Dziennik Ustaw Nr 169 — 11645 — Poz. 1650 Dziennik Ustaw Nr 169 — 11646 — Poz. 1650 Dziennik Ustaw Nr 169 — 11647 — Poz. 1650 Dziennik Ustaw Nr 169 — 11648 — Poz. 1650 Tabela nr 3 Dziennik Ustaw Nr 169 — 11649 — Poz. 1650 Dziennik Ustaw Nr 169 — 11650 — Poz. 1650 WYMAGANIA DLA POMIESZCZE¡ IURZÑDZE¡ HIGIENICZNOSANITARNYCH
+Rozdział 1 dla kobiet i mężczyzn. Nie dotyczy to zakładu pracy, w którym jest zatrudnionych do dziesięciu pracowniPrzepisy ogólne ków na jednej zmianie — pod warunkiem zapewnienia możliwości osobnego korzystania przez kobiety imęż§ 1. 1. Pomieszczenia higienicznosanitarne po- czyzn ztych pomieszczeń.
 winny znajdować się wbudynku, wktórym odbywa się praca, albo w budynku połączonym z nim obudowa- 2. Pracodawca zatrudniający do dwudziestu pranym przejściem, które w przypadku przechodzenia cowników powinien zapewnić im co najmniej ustępy z ogrzewanych pomieszczeń pracy powinno być rów- iumywalki, atakże warunki do higienicznego przechonież ogrzewane. Wymóg ten nie dotyczy pomieszczeń wywania odzieży własnej (domowej), roboczej higienicznosanitarnych, o których mowa w § 27 ust. 4 i ochronnej oraz do higienicznego spożywania posiłi§ 44. ków. Jeżeli w zakładzie pracy takiego pracodawcy nie występują czynniki szkodliwe dla zdrowia i prace bru2. Pomieszczenia higienicznosanitarne powinny dzące lub nie występują szczególne wymagania sanibyć usytuowane w sposób uniemożliwiający pracow- tarne, miejsca do spożywania posiłków, przechowywanikom korzystającym z nich przechodzenie przez po- nia odzieży oraz umywalki mogą znajdować się wjedmieszczenia, wktórych stosowane są substancje trują- nym pomieszczeniu.
 ce lub materiały zakaêne albo wykonywane są prace szczególnie brudzące, jeżeli nie pracują oni w kontak- § 4. 1. Odzież powinna być przechowywana wszatcie ztymi czynnikami. niach lub odpowiednio w pomieszczeniach, o których mowa w§ 3 ust. 2.
 3. Pomieszczenia higienicznosanitarne powinny być ogrzewane, oświetlone iwentylowane zgodnie zprzepi- 2. Pracownicy zatrudnieni wpomieszczeniach biusami techniczno-budowlanymi iPolskimi Normami. rowych mogą przechowywać swoją odzież w przeznaczonych do tego miejscach wpomieszczeniach pracy.
@@ -469,6 +479,7 @@ szczególne wymagania higienicznosanitarne. 3) ruch użytkowników szatni przepu
 2. Szatnia, októrej mowa wust. 1, powinna być wy- obu jej częściami powinien odbywać się wyłącznie posażona w szafy przeznaczone do indywidualnego przez zespół sanitarny znatryskami.
 użytku każdego pracownika. 3. Dla pracowników mających kontakt zsubstancja3. Wpomieszczeniu szatni, októrej mowa wust. 1, mi trującymi lub zakaênymi powinna być przeznaczona powinno przypadać co najmniej 0,3 m wolnej po- odrębna szatnia przepustowa, spełniająca wymagania wierzchni podłogi na każdego pracownika korzystają- określone wust. 2.
 cego ztej szatni.
+Rozdział 3
 4. Szatnia odzieży roboczej i ochronnej powinna mieć bezpośrednie połączenie z umywalnią, z natry- Umywalnie ipomieszczenia znatryskami skami iszatnią odzieży własnej pracowników.
 § 17. W skład zespołu szatni powinny wchodzić Szatnie podstawowe umywalnie łatwo dostępne dla pracowników i zapewniające bezkolizyjny ruch pracowników już umytych
 § 14. 1. Szatnia podstawowa może być urządzona iprzebranych wodzież własną.
@@ -506,6 +517,7 @@ jedną.
 2. W pomieszczeniach umywalni należy zapewnić § 28. 1. Na każdych trzydziestu mężczyzn zatrudnioco najmniej dwukrotną wymianę powietrza w ciągu nych na jednej zmianie powinna przypadać co najgodziny, natomiast w pomieszczeniach z natryskami wymiana ta nie powinna być mniejsza niż pięciokrotna wciągu godziny.
 Dziennik Ustaw Nr 169 — 11654 — Poz. 1650 mniej jedna miska ustępowa i jeden pisuar, lecz nie § 33. Jadalnia typu III powinna odpowiadać wymamniej niż jedna miska ijeden pisuar przy mniejszej licz- ganiom określonym dla jadalni typu II oraz powinna bie zatrudnionych. posiadać węzeł sanitarny dla konsumentów iwęzeł sanitarny zszatnią dla pracowników obsługi.
 2. Na każde dwadzieścia kobiet zatrudnionych na jednej zmianie powinna przypadać jedna miska ustę- § 34. 1. Dla każdego pracownika spożywającego powa, lecz nie mniej niż jedna miska przy mniejszej posiłek w jadalni należy zapewnić indywidualne miejliczbie zatrudnionych. sce siedzące przy stole.
+Rozdział 5 2. Jadalnia powinna być wyposażona w umywalki wilości nie mniejszej niż jedna umywalka na dwadzieJadalnie ścia miejsc siedzących wjadalni, lecz nie mniej niż jedna umywalka. Przy każdej umywalce powinny znajdo§ 29. 1. Pracodawca zatrudniający powyżej dwu- wać się ręczniki jednorazowe lub powinna być zainstadziestu pracowników na jednej zmianie powinien za- lowana suszarka do rąk.
 pewnić pracownikom pomieszczenie do spożywania posiłków, zwane dalej Ńjadalnią”. 3. Wjadalni powinny być zainstalowane urządzenia do podgrzewania przez pracownika posiłku własnego
 2. Obowiązek określony wust. 1 dotyczy również oraz zlewozmywaki dwukomorowe w ilości jeden zlepracodawców zatrudniających dwudziestu imniej pra- wozmywak na dwadzieścia miejsc w jadalni, ale nie cowników, jeżeli narażeni są na kontakt ze szkodliwymi mniej niż jeden zlewozmywak.
 środkami chemicznymi lub promieniotwórczymi, materiałami biologicznie zakaênymi albo przy pracach 4. W jadalniach typu I i II lub przy nich powinny szczególnie brudzących. znajdować się indywidualne zamykane szafki przeznaczone do przechowywania whigienicznych warunkach
@@ -516,6 +528,7 @@ rych wykonywane są prace wyłącznie o charakterze biurowym. § 36. 1. Dla prac
 1) jadalnia przeznaczona do spożywania posiłków własnych (typ I); 2. Jadalnia, o której mowa w ust. 1, powinna być
 2) jadalnia przeznaczona do spożywania posiłków oddzielona od pomieszczeń pracy pomieszczeniem własnych iwydawania napojów (typ II); izolującym, wktórym należy urządzić miejsca do pozostawiania odzieży ochronnej oraz zainstalować umy3) jadalnia zzapleczem — przeznaczona do spożywa- walki zciepłą bieżącą wodą.
 nia posiłków profilaktycznych (typ III).
+Rozdział 6 Dopuszcza się łączenie jadalni typu II iIII.
 Pomieszczenia do wypoczynku
 § 31. 1. W pomieszczeniu jadalni typu I powinno przypadać co najmniej 1,1 m powierzchni na każde- § 37. (skreślony).
 go z pracowników jednocześnie spożywających posiłek. § 38. 1. Wzakładzie pracy zatrudniającym na jedną zmianę więcej niż dwadzieścia kobiet wjednym budyn2. Powierzchnia jadalni nie powinna być mniejsza ku należy urządzić pomieszczenie z miejscami do wyniż 8 m . poczynku wpozycji leżącej dla kobiet wciąży ikarmiących matek, przyjmując co najmniej jedno miejsce na
@@ -525,6 +538,7 @@ go z pracowników jednocześnie spożywających posiłek. § 38. 1. Wzakładzie 
 Dziennik Ustaw Nr 169 — 11655 — Poz. 1650
 2. Powierzchnia pomieszczenia, o którym mowa nej odzieży pranej jednocześnie lub jeżeli jest ona wust.1, nie może być mniejsza niż 8 m . szczególnie zabrudzona, a także gdy wymagają tego specjalne względy higieny produkcji, w zakładzie pra§ 39. W pomieszczeniach higieny osobistej kobiet cy powinna być urządzona specjalna pralnia odzieży oraz wpomieszczeniach, októrych mowa w§ 38, nale- wyposażona wurządzenia mechaniczne do prania.
 ży zapewnić przynajmniej dwukrotną wymianę powietrza wciągu godziny. 2. Przy pralni należy zapewnić możliwość odpylania, degazacji, dezynfekcji, suszenia oraz naprawy
+Rozdział 7 odzieży roboczej iochronnej.
 Palarnie 3. Wzakładzie pracy, wktórym odzież pracowników
 § 40. 1. Palenie tytoniu wzakładach pracy jest do- jest narażona na zanieczyszczenie substancjami trujązwolone wyłącznie w odpowiednio przystosowanych cymi, należy stosować urządzenia służące do neutralipomieszczeniach (palarniach) wyposażonych wdosta- zacji tych substancji.
 teczną ilość popielniczek.
@@ -535,32 +549,4 @@ sięciokrotną wymianę powietrza wciągu godziny.
 2. W pomieszczeniach do ogrzewania się pracowRozdział 8 ników powinna być zapewniona temperatura co najmniej 16 °C (289 K), a na każdego pracownika najliczPomieszczenia do prania, odkażania, suszenia niejszej zmiany powinno przypadać co najmniej 0,1 m iodpylania odzieży roboczej iochronnej powierzchni, przy czym całkowita powierzchnia po§ 43. 1. Jeżeli przeznaczona do prania odzież robo- mieszczenia nie może być mniejsza niż 8 m .
 cza lub ochronna może stać się powodem skażenia in3. Wrazie gdy ze względu na rodzaje prac wykonywanych na otwartej przestrzeni w okresie zimowym nie jest możliwe zapewnienie pomieszczeń, o których mowa wust. 1, należy zapewnić pracownikom wpobliżu miejsca ich pracy odpowiednio urządzone êródła ciepła, przy zachowaniu wymagań ochrony przeciwpożarowej.
 Szanowni Państwo Ceny brutto prenumeraty na 2003 r. (w tym 7% VAT): ISSN 0867-3411 Cena 7,50 zł
-
-#### Rozdział 2 iniszczyć wsposób określony winstrukcji, októrej mowa w§ 41.
-
-#### Rozdział 3 § 55. 1. Elementy ruchome i inne części maszyn, które wrazie zetknięcia się znimi stwarzają zagrożenie, Obsługa istosowanie maszyn, narzędzi powinny być do wysokości co najmniej 2,5 mod pozioiinnych urządzeń technicznych mu podłogi (podestu) stanowiska pracy osłonięte lub
-
-#### Rozdział 4
-
-#### Rozdział 5 Rozdział 6 Ochrona przed hałasem Prace szczególnie niebezpieczne
-
-#### Rozdział 1 § 6. 1. Stosowane znaki isygnały powinny być odpowiednio czytelne, widoczne i słyszalne. Ich czytelPrzepisy ogólne ność, widoczność i słyszalność nie może być zmniejszana przede wszystkim przez:
-
-#### Rozdział 2 Wymagania dotyczące sygnałów świetlnych Wymagania dotyczące stosowania § 14. 1. Âwiatło emitowane przez urządzenie sygnaznaków bezpieczeństwa lizacyjne powinno kontrastować odpowiednio z otoczeniem i warunkami jego stosowania; nie może ono
-
-#### Rozdział 3 używane w przypadku poważnego niebezpieczeństwa, powinno zapewniać ciągłość wysyłania sygnaWymagania dotyczące oznaczania przeszkód, łów, w szczególności poprzez zainstalowanie dodatniebezpiecznych miejsc idróg kowego êródła światła lub systematyczne kontrole urządzenia.
-
-#### Rozdział 6 — do góry — w znaczeniu Ńpodnieść ładunek do Wymagania dotyczące góry”, stosowania komunikatów słownych — do dołu — wznaczeniu Ńopuścić ładunek wdół”,
-
-#### Rozdział 7
-
-#### Rozdział 1 dla kobiet i mężczyzn. Nie dotyczy to zakładu pracy, w którym jest zatrudnionych do dziesięciu pracowniPrzepisy ogólne ków na jednej zmianie — pod warunkiem zapewnienia możliwości osobnego korzystania przez kobiety imęż§ 1. 1. Pomieszczenia higienicznosanitarne po- czyzn ztych pomieszczeń.
-
-#### Rozdział 3
-
-#### Rozdział 5 2. Jadalnia powinna być wyposażona w umywalki wilości nie mniejszej niż jedna umywalka na dwadzieJadalnie ścia miejsc siedzących wjadalni, lecz nie mniej niż jedna umywalka. Przy każdej umywalce powinny znajdo§ 29. 1. Pracodawca zatrudniający powyżej dwu- wać się ręczniki jednorazowe lub powinna być zainstadziestu pracowników na jednej zmianie powinien za- lowana suszarka do rąk.
-
-#### Rozdział 6 Dopuszcza się łączenie jadalni typu II iIII.
-
-#### Rozdział 7 odzieży roboczej iochronnej.
 

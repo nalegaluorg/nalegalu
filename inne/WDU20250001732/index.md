@@ -27,11 +27,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001732) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1732/text.pdf) |
 
 w sprawie wzorów formularzy, na których Bank Gospodarstwa Krajowego przekazuje informacje o udzielonym finansowym wsparciu oraz finansowym wsparciu możliwym do udzielenia z Funduszu Dopłat Na podstawie art. 12a ust. 2 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2024 r. poz. 304 oraz z 2025 r. poz. 680 i 1077) zarządza się, co następuje:
-§ 1. Określa się wzory formularzy informacji o:
-1) udzielonym finansowym wsparciu z Funduszu Dopłat, stanowiący załącznik nr 1 do rozporządzenia;
-2) finansowym wsparciu możliwym do udzielenia z Funduszu Dopłat, stanowiący załącznik nr 2 do rozporządzenia.
-§ 2. Formularze, o których mowa w § 1, stosuje się po raz pierwszy do informacji przekazywanych według stanu na koniec I kwartału 2026 r.
-§ 3. Traci moc rozporządzenie Ministra Rozwoju i Technologii z dnia 29 grudnia 2023 r. w sprawie wzorów formularzy, na których Bank Gospodarstwa Krajowego przekazuje informacje o udzielonym finansowym wsparciu oraz finansowym wsparciu możliwym do udzielenia z Funduszu Dopłat (Dz. U. z 2024 r. poz. 29).
-§ 4. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r.
-Minister Finansów i Gospodarki: wz. M. Jaros … W … …………………
+
+**§ 1.** Określa się wzory formularzy informacji o:
+
+- **1)** udzielonym finansowym wsparciu z Funduszu Dopłat, stanowiący załącznik nr 1 do rozporządzenia;
+- **2)** finansowym wsparciu możliwym do udzielenia z Funduszu Dopłat, stanowiący załącznik nr 2 do rozporządzenia.
+
+**§ 2.** Formularze, o których mowa w § 1, stosuje się po raz pierwszy do informacji przekazywanych według stanu na koniec I kwartału 2026 r.
+
+**§ 3.** Traci moc rozporządzenie Ministra Rozwoju i Technologii z dnia 29 grudnia 2023 r. w sprawie wzorów formularzy, na których Bank Gospodarstwa Krajowego przekazuje informacje o udzielonym finansowym wsparciu oraz finansowym wsparciu możliwym do udzielenia z Funduszu Dopłat (Dz. U. z 2024 r. poz. 29).
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r. Minister Finansów i Gospodarki: wz. M. Jaros … W … …………………
 

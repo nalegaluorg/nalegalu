@@ -35,9 +35,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 21 kwietnia 2017 r.
 w sprawie nadania statutu Krajowemu Ośrodkowi Wsparcia Rolnictwa Na podstawie art. 3 ust. 2 ustawy z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U.
 z 2020 r. poz. 481 oraz z 2022 r. poz. 24) zarządza się, co następuje:
-§ 1. Krajowemu Ośrodkowi Wsparcia Rolnictwa nadaje się statut stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
-STATUT KRAJOWEGO OŚRODKA WSPARCIA ROLNICTWA
+
+**§ 1.** Krajowemu Ośrodkowi Wsparcia Rolnictwa nadaje się statut stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 września 2017 r. STATUT KRAJOWEGO OŚRODKA WSPARCIA ROLNICTWA
+
+## Załącznik
+
 § 1. Krajowy Ośrodek Wsparcia Rolnictwa, zwany dalej „Krajowym Ośrodkiem”, działa na podstawie ustawy z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa oraz niniejszego statutu.
 § 2. 1. W biurze Krajowego Ośrodka, zwanym dalej „Centralą”, wydziela się piony:
 1) innowacji i rozwoju;

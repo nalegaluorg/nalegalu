@@ -28,7 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie udzielania pomocy publicznej na wspieranie działalności podmiotów sektora kultury i przemysłów kreatywnych w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U.
 z 2025 r. poz. 198) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 4 kwietnia 2024 r. w sprawie udzielania pomocy publicznej na wspieranie działalności podmiotów sektora kultury i przemysłów kreatywnych w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 571) § 13 otrzymuje brzmienie: „§ 13. Pomoc publiczna może być udzielana nie później niż do dnia 31 sierpnia 2026 r.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: M. Cienkowska
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 4 kwietnia 2024 r. w sprawie udzielania pomocy publicznej na wspieranie działalności podmiotów sektora kultury i przemysłów kreatywnych w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 571) § 13 otrzymuje brzmienie: „§ 13. Pomoc publiczna może być udzielana nie później niż do dnia 31 sierpnia 2026 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: M. Cienkowska
 

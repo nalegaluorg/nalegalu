@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000418) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/418/text.pdf) |
 
 zmieniające rozporządzenie w sprawie sposobu, szczegółowego zakresu i terminów przekazywania do Narodowego Banku Polskiego danych niezbędnych do ustalania polityki pieniężnej, okresowych ocen sytuacji pieniężnej państwa oraz analiz ryzyka systemowego Na podstawie art. 23 ust. 2c ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2017 r. poz. 1373) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 21 września 2017 r. w sprawie sposobu, szczegółowego zakresu i terminów przekazywania do Narodowego Banku Polskiego danych niezbędnych do ustalania polityki pieniężnej, okresowych ocen sytuacji pieniężnej państwa oraz analiz ryzyka systemowego (Dz. U. poz. 1803) w § 40 ust. 2 otrzymuje brzmienie: „2. Raporty sprawozdawcze funduszy inwestycyjnych i subfunduszy zawierające skorygowane dane za okresy sprawozdawcze, o których mowa w ust. 1, lub za okresy wcześniejsze przekazuje się do dnia 30 września 2019 r., na podstawie przepisów rozporządzenia, o którym mowa w § 43.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: T. Czerwińska
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 21 września 2017 r. w sprawie sposobu, szczegółowego zakresu i terminów przekazywania do Narodowego Banku Polskiego danych niezbędnych do ustalania polityki pieniężnej, okresowych ocen sytuacji pieniężnej państwa oraz analiz ryzyka systemowego (Dz. U. poz. 1803) w § 40 ust. 2 otrzymuje brzmienie: „2. Raporty sprawozdawcze funduszy inwestycyjnych i subfunduszy zawierające skorygowane dane za okresy sprawozdawcze, o których mowa w ust. 1, lub za okresy wcześniejsze przekazuje się do dnia 30 września 2019 r., na podstawie przepisów rozporządzenia, o którym mowa w § 43.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: T. Czerwińska
 

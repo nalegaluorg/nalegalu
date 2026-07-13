@@ -31,16 +31,31 @@ zmieniającym rozporządzenie w sprawie dysponowania rezerwą ogólną budżetu 
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Rady Ministrów z dnia 25 lutego 2022 r. zmieniającego rozporządzenie w sprawie dysponowania rezerwą ogólną budżetu państwa (Dz. U. poz. 545), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: M. Morawiecki
 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 27 lutego 2017 r.
 w sprawie dysponowania rezerwą ogólną budżetu państwa Na podstawie art. 155 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm. ) zarządza się, co następuje:
-§ 1. 1. Prezes Rady Ministrów może, na wniosek właściwego ministra lub innego dysponenta części budżetowej, zwiększyć z rezerwy ogólnej budżetu państwa wydatki odpowiednich części tego budżetu o kwotę do 10 mln zł w poszczególnych przypadkach, z uwzględnieniem ust. 3 .
+
+**§ 1.**
+
+1. Prezes Rady Ministrów może, na wniosek właściwego ministra lub innego dysponenta części budżetowej, zwiększyć z rezerwy ogólnej budżetu państwa wydatki odpowiednich części tego budżetu o kwotę do 10 mln zł w poszczególnych przypadkach, z uwzględnieniem ust. 3 .
+
 1a. W przypadku gdy wniosek, o którym mowa w ust. 1, został złożony przez dysponenta części budżetowej innego niż minister, Prezes Rady Ministrów występuje o wyrażenie opinii do ministra kierującego działem administracji rządowej właściwego w sprawach objętych wnioskiem.
+
 1b. Niewyrażenie opinii, o której mowa w ust. 1a, w terminie 10 dni roboczych od dnia otrzymania wystąpienia uznaje się za wyrażenie opinii pozytywnej, chyba że minister zgłosi Prezesowi Rady Ministrów konieczność przedłużenia terminu na wyrażenie opinii o nie więcej niż kolejnych 5 dni roboczych.
+
 2. Minister Finansów może, na wniosek właściwego ministra lub innego dysponenta części budżetowej, zwiększyć z rezerwy ogólnej budżetu państwa wydatki odpowiednich części tego budżetu o kwotę do 2 mln zł w poszczególnych przypadkach, zawiadamiając o tym Prezesa Rady Ministrów.
+
 3. (uchylony).
-§ 1a. 1. Prezes Rady Ministrów z własnej inicjatywy może wystąpić do właściwego ministra lub innego dysponenta części budżetowej o złożenie wniosku, o którym mowa w § 1 ust. 1.
+
+**§ 1a.**
+
+1. Prezes Rady Ministrów z własnej inicjatywy może wystąpić do właściwego ministra lub innego dysponenta części budżetowej o złożenie wniosku, o którym mowa w § 1 ust. 1.
+
 2. W przypadku, o którym mowa w ust. 1, właściwy minister lub inny dysponent części budżetowej, w nieprzekraczalnym terminie 14 dni od dnia otrzymania wystąpienia:
-1) składa wniosek, o którym mowa w § 1 ust. 1, albo
-2) pisemnie zawiadamia Prezesa Rady Ministrów o braku zasadności złożenia wniosku, o którym mowa w § 1 ust. 1, wraz z merytorycznym uzasadnieniem takiego stanowiska.
-§ 1b. Wniosek, o którym mowa w § 1 ust. 1, wystąpienia, o których mowa w § 1 ust. 1a i § 1a ust. 1, zgłoszenie, o którym mowa w § 1 ust. 1b, oraz zawiadomienie, o którym mowa w § 1a ust. 2 pkt 2, są składane za pośrednictwem Szefa Kancelarii Prezesa Rady Ministrów.
-§ 2. Traci moc rozporządzenie Rady Ministrów z dnia 23 lutego 2010 r. w sprawie dysponowania rezerwą ogólną budżetu państwa (Dz. U. poz. 257).
-§ 3. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
+
+- **1)** składa wniosek, o którym mowa w § 1 ust. 1, albo
+- **2)** pisemnie zawiadamia Prezesa Rady Ministrów o braku zasadności złożenia wniosku, o którym mowa w § 1 ust. 1, wraz z merytorycznym uzasadnieniem takiego stanowiska.
+
+**§ 1b.** Wniosek, o którym mowa w § 1 ust. 1, wystąpienia, o których mowa w § 1 ust. 1a i § 1a ust. 1, zgłoszenie, o którym mowa w § 1 ust. 1b, oraz zawiadomienie, o którym mowa w § 1a ust. 2 pkt 2, są składane za pośrednictwem Szefa Kancelarii Prezesa Rady Ministrów.
+
+**§ 2.** Traci moc rozporządzenie Rady Ministrów z dnia 23 lutego 2010 r. w sprawie dysponowania rezerwą ogólną budżetu państwa (Dz. U. poz. 257).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
 

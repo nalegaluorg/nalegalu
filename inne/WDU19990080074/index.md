@@ -8,10 +8,10 @@ pos: 74
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Obwieszczenie Państwowej Komisji Wyborczejz dnia 25 stycznia 1999 r. w sprawie zmian w treści obwieszczenia o zbiorczych wynikach wyborów do rad na obszarze kraju, przeprowadzonych w dniu 11 października 1998 r.
+# Dziennik Ustaw Nr 8 312 - Poz. 74 OBWIESZCZENIE PAŃSTWOWEJ KOMISJI WYBORCZEJ z dnia 25 stycznia 1999 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +24,9 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990080074) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/74/text.pdf) |
 
-Treść obwieszczenia
-Na podstawie art. 184 ust. 1 ustawy z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. Nr 95, poz. 602 i Nr 160, poz. 1060), w związku z uchwałami Miejskiej Komisji Wyborczej w Krakowie z dnia 29 grudnia 1998 r. w sprawie ponownego sporządzenia zbiorczych protokołów wyników głosowania na obszarze okręgów wyborczych nr 1 i 2 utworzonych dla wyboru Sejmiku Województwa Małopolskiego i uchwałą Wojewódzkiej Komisji Wyborczej w Krakowie z dnia 29 grudnia 1998 r. w sprawie ponownego sporządzenia protokołu z wyborów do Sejmiku Województwa Małopolskiego przeprowadzonych w dniu 11 października 1998 r. oraz obwieszczeniem Wojewódzkiego Komisarza Wyborczego w Krakowie z dnia 30 grudnia 1998 r. w sprawie ponownego obwieszczenia o wynikach wyborów do Sejmiku Województwa Małopolskiego przeprowadzonych w dniu 11 października 1998 r., Państwowa Komisja Wyborcza wprowadza następujące zmiany w obwieszczeniu z dnia 23 października 1998 r. o zbiorczych wynikach wyborów do rad na obszarze kraju przeprowadzonych w dniu 11 października 1998 r. (Dz. U. Nr 131, poz. 861):
-1)
-w części „I. Dane ogólne” w pkt 3 liczbę 28 544 777 zastępuje się liczbą 28 547 673;
-2)
-w części „VI. Wybory do sejmików województw”:
-a)
-w pkt 4 liczbę 28 544 777 zastępuje się liczbą 28 547 673,
-b)
-w pkt 5 liczbę 12 945 043 zastępuje się liczbą 12 946 445,
-c)
-w pkt 6 liczbę 11 721 825 zastępuje się liczbą 11 723 207,
-d)
-w pkt 7 liczbę 1 223 218 zastępuje się liczbą 1 223 238, a liczbę 893 000 zastępuje się liczbą 893 014.
+w sprawie zmian w obwieszczenia o zbiorczych wynikach wyborów do rad na obszarze kraju, przepro wadzonych w dniu 11 1998 r.
+Na podstawie art. 184 ust. 1 ustawy z dnia 16 lip 2) w "VI. Wybory do sejmików województw": ca 1998 r. - Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. Nr 95, a) w pkt 4 28.544.777 poz. 602 i Nr 160, poz. 1060), w z 28.547.673, mi Miejskiej Komisji Wyborczej w Krakowie z dnia b) w pkt 5 12.945.043 29 grudnia 1998 r. w sprawie ponownego 12.946.445, nia zbiorczych wyników na obszarze wyborczych nr 1 i 2 utworzonych c) w pkt 6 11.721.825 dla wyboru Sejmiku Województwa 11.723.207, i Wojewódzkiej Komisji Wyborczej w Kra d) w pkt 7 1.223.218 kowie z dnia 29 grudnia 1998 r. w sprawie ponowne 1.223.238, a 893.000 go z wyborów do Sejmiku 893.014.
+Województwa przeprowadzonych w dniu 11 1998 r. oraz obwieszczeniem Wojewódzkiego Komisarza Wyborczego w Krakowie Komisji Wyborczej z dnia 30 grudnia 1998 r. w sprawie ponownego ob Ferdynand Rymarz wieszczenia o wynikach wyborów do Sejmiku Woje wództwa przeprowadzonych w dniu 11 1998 r., Komisja Wybor Komisji Wyborczej: cza wprowadza zmiany w obwieszcze Stanisfaw KosmaI niu z dnia 23 1998 r. o zbiorczych wyni Andrzej Wróblewski kach wyborów do rad na obszarze kraju przeprowa dzonych w dniu 11 1998 r. (Dz. U. Komisji Wyborczej: Nr 131, poz. 861): Stefan Jaworski Andrzej
+1) w "I. Dane ogólne" w pkt 3 28.544.777 Zbigniel(V Szonert
+28.547.673; Tadeusz Zyznowski o ISSN 0867-3411 Cena 3 24 gr
 

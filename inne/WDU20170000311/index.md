@@ -30,51 +30,6 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 17 lutego 2016 r. zmieniającego rozporządzenie w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji (Dz. U. poz. 206), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 20 lutego 2016 r.”. Minister Zdrowia: K. Radziwiłł
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 12 stycznia 2011 r.
 w sprawie wymagań zasadniczych oraz procedur oceny zgodności aktywnych wyrobów medycznych do implantacji Na podstawie art. 23 ust. 4 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2017 r. poz. 211) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wymagania zasadnicze dla aktywnych wyrobów medycznych do implantacji;
-2) procedury oceny zgodności aktywnych wyrobów medycznych do implantacji;
-3) wykaz procedur oceny zgodności, które mogą być prowadzone przez autoryzowanego przedstawiciela;
-4) wysokość opłaty, o której mowa w art. 29 ust. 9 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych, zwanej dalej „ustawą”.
-§ 2. Wymagania zasadnicze dla aktywnych wyrobów medycznych do implantacji są określone w załączniku nr 1 do rozporządzenia.
-§ 3. 1. Wytwórca aktywnych wyrobów medycznych do implantacji, innych niż wyroby wykonane na zamówienie i wyroby do badań klinicznych, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedury:
-1) deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, albo
-2) badania typu WE, określonej w załączniku nr 3 do rozporządzenia, łącznie z procedurą:
-a) weryfikacji WE, określoną w załączniku nr 4 do rozporządzenia, albo
-b) deklaracji WE zgodności z typem – zapewnienie jakości produkcji, określoną w załączniku nr 5 do rozporządzenia.
-2. Wytwórca aktywnego wyrobu medycznego do implantacji będącego wyrobem wykonanym na zamówienie albo wyrobem do badania klinicznego przeprowadza jego ocenę zgodności i sporządza oświadczenie zgodnie z załącznikiem nr 6 do rozporządzenia.
-§ 4. 1. Ocena kliniczna prowadzona w ramach oceny zgodności aktywnych wyrobów medycznych do implantacji jest dokumentowana. Dokumentacja ta albo wskazanie miejsca jej przechowywania lub danych bibliograficznych są dołączane do oceny zgodności danego wyrobu.
-2. Ocena kliniczna aktywnych wyrobów medycznych do implantacji jest na bieżąco aktualizowana danymi pochodzącymi z nadzoru po wprowadzeniu danego wyrobu do obrotu, chyba że obserwacja kliniczna po wprowadzeniu wyrobu do obrotu nie jest konieczna, co należy uzasadnić i udokumentować w dokumentacji oceny zgodności.
-3. (uchylony).
-4. (uchylony).
-§ 5. Certyfikaty zgodności, wydane przez jednostki notyfikowane zgodnie z załącznikami nr 2, 3 i 5 do rozporządzenia wydaje się na okres nie dłuższy niż 5 lat. Okres ten może być przedłużany na wniosek wytwórcy lub autoryzowanego przedstawiciela, złożony w terminie uzgodnionym umową, na kolejne okresy, nie dłuższe niż 5 lat.
-§ 6. Autoryzowany przedstawiciel może przeprowadzić ocenę zgodności aktywnego wyrobu medycznego do implantacji z zastosowaniem procedur określonych w załącznikach nr 3, 4 i 6 do rozporządzenia.
-§ 7. Wysokość opłaty za wydanie przez Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, zwanego dalej „Prezesem Urzędu”, opinii, o której mowa w art. 29 ust. 9 ustawy, w przypadku opinii dotyczącej:
-1) substancji, która stosowana oddzielnie byłaby produktem leczniczym antyseptycznym, tradycyjnym produktem leczniczym roślinnym, o którym mowa w art. 20a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U.
-z 2016 r. poz. 2142 i 2003), zwanej dalej „Prawem farmaceutycznym”, lub produktem leczniczym roślinnym, dla którego opracowano monografię wspólnotową – wynosi 240% minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, zwanego dalej „minimalnym wynagrodzeniem”;
-2) zmiany, o której mowa w ust. 10 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 1 – wynosi 100% minimalnego wynagrodzenia;
-3) substancji będącej dopuszczonym do obrotu produktem leczniczym – wynosi 120% minimalnego wynagrodzenia;
-4) substancji, która stosowana oddzielnie byłaby produktem leczniczym roślinnym innym niż te, o których mowa w art. 20a Prawa farmaceutycznego – wynosi 650% minimalnego wynagrodzenia;
-5) zmiany, o której mowa w ust. 10 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 4 – wynosi 400% minimalnego wynagrodzenia;
-6) substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa w pkt 4 – wynosi 325% minimalnego wynagrodzenia;
-7) substancji, która stosowana oddzielnie byłaby produktem leczniczym wytwarzanym metodami przemysłowymi zgodnie z przepisami Farmakopei Polskiej – wynosi 100% minimalnego wynagrodzenia;
-8) zmiany, o której mowa w ust. 10 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 7 – wynosi 25% minimalnego wynagrodzenia;
-9) substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa w pkt 7 – wynosi 50% minimalnego wynagrodzenia;
-10) substancji, która stosowana oddzielnie byłaby referencyjnym produktem leczniczym, o którym mowa w art. 2 pkt 35b Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 2000% minimalnego wynagrodzenia;
-11) substancji, która stosowana oddzielnie byłaby produktem leczniczym, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7, którego substancje czynne mają ugruntowane zastosowanie medyczne, o którym mowa w art. 16 ust. 2 Prawa farmaceutycznego – wynosi 1600% minimalnego wynagrodzenia;
-12) substancji, która stosowana oddzielnie byłaby produktem leczniczym będącym odpowiednikiem referencyjnego produktu leczniczego, o którym mowa w art. 15 ust. 8 Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 650% minimalnego wynagrodzenia;
-13) substancji, która stosowana oddzielnie byłaby produktem leczniczym, o którym mowa w art. 15 ust. 12 Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 1040% minimalnego wynagrodzenia;
-14) zmiany, o której mowa w ust. 10 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 10–13 – wynosi 400% minimalnego wynagrodzenia;
-15) substancji będącej dopuszczonym do obrotu produktem leczniczym innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 500% minimalnego wynagrodzenia.
-§ 8. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
-WYMAGANIA ZASADNICZE DLA AKTYWNYCH WYROBÓW MEDYCZNYCH DO IMPLANTACJI Część I. Wymagania ogólne
-1. Aktywne wyroby medyczne do implantacji muszą być zaprojektowane i wytworzone tak, aby ich stosowanie nie zagrażało zdrowiu i bezpieczeństwu pacjentów, jeżeli zostały wszczepione we właściwych warunkach i zgodnie z przewidzianym zastosowaniem. Wyroby te nie mogą stwarzać żadnego zagrożenia dla osób dokonujących wszczepienia ani innych osób.
-2. Aktywne wyroby medyczne do implantacji muszą osiągać parametry działania przewidziane przez wytwórcę, tzn.
-być zaprojektowane i wytworzone odpowiednio do funkcji wyrobu określonych przez wytwórcę.
-3. Właściwości i parametry działania, o których mowa w ust. 1 i 2, nie mogą ulec pogorszeniu w stopniu powodującym, że stan zdrowia i bezpieczeństwo pacjentów oraz, jeżeli ma to zastosowanie, innych osób będą zagrożone podczas przewidzianego przez wytwórcę okresu użytkowania aktywnego wyrobu medycznego do implantacji, jeżeli podlega on obciążeniom, które mogą wystąpić w normalnych warunkach używania.
-4. Aktywne wyroby medyczne do implantacji muszą być zaprojektowane, wytworzone i opakowane w taki sposób, aby ich właściwości i parametry działania nie uległy pogorszeniu na skutek transportu i przechowywania w warunkach podanych przez wytwórcę, w szczególności temperatury i wilgotności.
-5. Dla aktywnego wyrobu medycznego do implantacji:
-1) ryzyko działań niepożądanych musi być możliwe do przyjęcia, uwzględniając przewidziane działanie aktywnego wyrobu medycznego do implantacji;
-2) wykazanie zgodności z wymaganiami zasadniczymi musi obejmować ocenę kliniczną, chyba że wykazanie zgodności z wymaganiami zasadniczymi bez wykonania oceny klinicznej jest należycie uzasadnione.
 6. Rozwiązania przyjęte przez wytwórcę w projekcie i konstrukcji aktywnego wyrobu medycznego do implantacji muszą odpowiadać zasadom bezpieczeństwa, z uwzględnieniem aktualnego stanu wiedzy.
 7. Aktywne wyroby medyczne do implantacji muszą być zaprojektowane, wytworzone i opakowane w opakowania jednorazowego użytku zgodnie z odpowiednimi procedurami, w sposób zapewniający ich sterylność podczas wprowadzania do obrotu oraz przechowywania i transportu w warunkach przewidzianych przez wytwórcę, aż do momentu, gdy opakowanie zostanie usunięte, a sam wyrób zostanie wszczepiony.
 8. Aktywne wyroby medyczne do implantacji muszą być zaprojektowane i wytworzone w sposób eliminujący lub minimalizujący, na tyle, na ile jest to możliwe, ryzyko:
@@ -331,6 +286,63 @@ f) wyniki wykonanych obliczeń projektowych, kontroli i badań technicznych.
 Wytwórca podejmuje niezbędne środki w celu zapewnienia, że wyroby wytwarzane są według dokumentacji, o której mowa w pkt 2, i zatwierdza ocenę skuteczności podjętych środków albo, jeżeli to niezbędne, przeprowadza audyt skuteczności tych środków.
 4. Informacje zawarte w oświadczeniach, o których mowa w niniejszym załączniku, są przechowywane przez okres określony w art. 32 ust. 2 ustawy.
 5. Dla wyrobów wykonanych na zamówienie wytwórca jest obowiązany do przeglądu i dokumentowania doświadczeń uzyskanych po wprowadzeniu aktywnego wyrobu medycznego do implantacji do obrotu, w tym pochodzących z oceny klinicznej aktualizowanej zgodnie z § 4 ust. 2, do wdrożenia właściwych środków do prowadzenia wszelkich koniecznych działań korygujących oraz do postępowania zgodnie z przepisami rozdziału 9 ustawy w przypadku powzięcia informacji o wystąpieniu incydentu medycznego.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wymagania zasadnicze dla aktywnych wyrobów medycznych do implantacji;
+- **2)** procedury oceny zgodności aktywnych wyrobów medycznych do implantacji;
+- **3)** wykaz procedur oceny zgodności, które mogą być prowadzone przez autoryzowanego przedstawiciela;
+- **4)** wysokość opłaty, o której mowa w art. 29 ust. 9 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych, zwanej dalej „ustawą”.
+
+**§ 2.** Wymagania zasadnicze dla aktywnych wyrobów medycznych do implantacji są określone w załączniku nr 1 do rozporządzenia.
+
+**§ 3.**
+
+1. Wytwórca aktywnych wyrobów medycznych do implantacji, innych niż wyroby wykonane na zamówienie i wyroby do badań klinicznych, w celu oznakowania ich znakiem CE przeprowadza ocenę zgodności z zastosowaniem procedury:
+
+- **1)** deklaracji zgodności WE – pełny system zapewnienia jakości, określonej w załączniku nr 2 do rozporządzenia, albo
+- **2)** badania typu WE, określonej w załączniku nr 3 do rozporządzenia, łącznie z procedurą:
+    - **a)** weryfikacji WE, określoną w załączniku nr 4 do rozporządzenia, albo
+    - **b)** deklaracji WE zgodności z typem – zapewnienie jakości produkcji, określoną w załączniku nr 5 do rozporządzenia.
+
+2. Wytwórca aktywnego wyrobu medycznego do implantacji będącego wyrobem wykonanym na zamówienie albo wyrobem do badania klinicznego przeprowadza jego ocenę zgodności i sporządza oświadczenie zgodnie z załącznikiem nr 6 do rozporządzenia.
+
+**§ 4.**
+
+1. Ocena kliniczna prowadzona w ramach oceny zgodności aktywnych wyrobów medycznych do implantacji jest dokumentowana. Dokumentacja ta albo wskazanie miejsca jej przechowywania lub danych bibliograficznych są dołączane do oceny zgodności danego wyrobu.
+
+2. Ocena kliniczna aktywnych wyrobów medycznych do implantacji jest na bieżąco aktualizowana danymi pochodzącymi z nadzoru po wprowadzeniu danego wyrobu do obrotu, chyba że obserwacja kliniczna po wprowadzeniu wyrobu do obrotu nie jest konieczna, co należy uzasadnić i udokumentować w dokumentacji oceny zgodności.
+
+3. (uchylony).
+
+4. (uchylony).
+
+**§ 5.** Certyfikaty zgodności, wydane przez jednostki notyfikowane zgodnie z załącznikami nr 2, 3 i 5 do rozporządzenia wydaje się na okres nie dłuższy niż 5 lat. Okres ten może być przedłużany na wniosek wytwórcy lub autoryzowanego przedstawiciela, złożony w terminie uzgodnionym umową, na kolejne okresy, nie dłuższe niż 5 lat.
+
+**§ 6.** Autoryzowany przedstawiciel może przeprowadzić ocenę zgodności aktywnego wyrobu medycznego do implantacji z zastosowaniem procedur określonych w załącznikach nr 3, 4 i 6 do rozporządzenia.
+
+**§ 7.** Wysokość opłaty za wydanie przez Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, zwanego dalej „Prezesem Urzędu”, opinii, o której mowa w art. 29 ust. 9 ustawy, w przypadku opinii dotyczącej:
+
+- **1)** substancji, która stosowana oddzielnie byłaby produktem leczniczym antyseptycznym, tradycyjnym produktem leczniczym roślinnym, o którym mowa w art. 20a ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2016 r. poz. 2142 i 2003), zwanej dalej „Prawem farmaceutycznym”, lub produktem leczniczym roślinnym, dla którego opracowano monografię wspólnotową – wynosi 240% minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, zwanego dalej „minimalnym wynagrodzeniem”;
+- **2)** zmiany, o której mowa w ust. 10 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 1 – wynosi 100% minimalnego wynagrodzenia;
+- **3)** substancji będącej dopuszczonym do obrotu produktem leczniczym – wynosi 120% minimalnego wynagrodzenia;
+- **4)** substancji, która stosowana oddzielnie byłaby produktem leczniczym roślinnym innym niż te, o których mowa w art. 20a Prawa farmaceutycznego – wynosi 650% minimalnego wynagrodzenia;
+- **5)** zmiany, o której mowa w ust. 10 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 4 – wynosi 400% minimalnego wynagrodzenia;
+- **6)** substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa w pkt 4 – wynosi 325% minimalnego wynagrodzenia;
+- **7)** substancji, która stosowana oddzielnie byłaby produktem leczniczym wytwarzanym metodami przemysłowymi zgodnie z przepisami Farmakopei Polskiej – wynosi 100% minimalnego wynagrodzenia;
+- **8)** zmiany, o której mowa w ust. 10 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 7 – wynosi 25% minimalnego wynagrodzenia;
+- **9)** substancji będącej dopuszczonym do obrotu produktem leczniczym, o którym mowa w pkt 7 – wynosi 50% minimalnego wynagrodzenia;
+- **10)** substancji, która stosowana oddzielnie byłaby referencyjnym produktem leczniczym, o którym mowa w art. 2 pkt 35b Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 2000% minimalnego wynagrodzenia;
+- **11)** substancji, która stosowana oddzielnie byłaby produktem leczniczym, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7, którego substancje czynne mają ugruntowane zastosowanie medyczne, o którym mowa w art. 16 ust. 2 Prawa farmaceutycznego – wynosi 1600% minimalnego wynagrodzenia;
+- **12)** substancji, która stosowana oddzielnie byłaby produktem leczniczym będącym odpowiednikiem referencyjnego produktu leczniczego, o którym mowa w art. 15 ust. 8 Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 650% minimalnego wynagrodzenia;
+- **13)** substancji, która stosowana oddzielnie byłaby produktem leczniczym, o którym mowa w art. 15 ust. 12 Prawa farmaceutycznego, innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 1040% minimalnego wynagrodzenia;
+- **14)** zmiany, o której mowa w ust. 10 załącznika nr 1 do rozporządzenia, dotyczącej substancji, o której mowa w pkt 10–13 – wynosi 400% minimalnego wynagrodzenia;
+- **15)** substancji będącej dopuszczonym do obrotu produktem leczniczym innym niż produkty lecznicze wymienione w pkt 1, 4 i 7 – wynosi 500% minimalnego wynagrodzenia.
+
+**§ 8.** Rozporządzenie wchodzi w życie z dniem ogłoszenia . WYMAGANIA ZASADNICZE DLA AKTYWNYCH WYROBÓW MEDYCZNYCH DO IMPLANTACJI Część I. Wymagania ogólne 1. Aktywne wyroby medyczne do implantacji muszą być zaprojektowane i wytworzone tak, aby ich stosowanie nie zagrażało zdrowiu i bezpieczeństwu pacjentów, jeżeli zostały wszczepione we właściwych warunkach i zgodnie z przewidzianym zastosowaniem. Wyroby te nie mogą stwarzać żadnego zagrożenia dla osób dokonujących wszczepienia ani innych osób. 2. Aktywne wyroby medyczne do implantacji muszą osiągać parametry działania przewidziane przez wytwórcę, tzn. być zaprojektowane i wytworzone odpowiednio do funkcji wyrobu określonych przez wytwórcę. 3. Właściwości i parametry działania, o których mowa w ust. 1 i 2, nie mogą ulec pogorszeniu w stopniu powodującym, że stan zdrowia i bezpieczeństwo pacjentów oraz, jeżeli ma to zastosowanie, innych osób będą zagrożone podczas przewidzianego przez wytwórcę okresu użytkowania aktywnego wyrobu medycznego do implantacji, jeżeli podlega on obciążeniom, które mogą wystąpić w normalnych warunkach używania. 4. Aktywne wyroby medyczne do implantacji muszą być zaprojektowane, wytworzone i opakowane w taki sposób, aby ich właściwości i parametry działania nie uległy pogorszeniu na skutek transportu i przechowywania w warunkach podanych przez wytwórcę, w szczególności temperatury i wilgotności. 5. Dla aktywnego wyrobu medycznego do implantacji:
+
+- **1)** ryzyko działań niepożądanych musi być możliwe do przyjęcia, uwzględniając przewidziane działanie aktywnego wyrobu medycznego do implantacji;
+- **2)** wykazanie zgodności z wymaganiami zasadniczymi musi obejmować ocenę kliniczną, chyba że wykazanie zgodności z wymaganiami zasadniczymi bez wykonania oceny klinicznej jest należycie uzasadnione.
 
 ## Część II. Wymagania dotyczące projektu i wykonania
 

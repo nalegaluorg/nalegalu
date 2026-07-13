@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1060/text.pdf) |
 
 w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie wydawania dokumentów stwierdzających uprawnienia do kierowania pojazdami Na podstawie art. 20 ust. 1 pkt 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury i Budownictwa z dnia 23 grudnia 2016 r. zmieniającym rozporządzenie w sprawie wydawania dokumentów stwierdzających uprawnienia do kierowania pojazdami (Dz. U. poz. 2252) wprowadza się następujące zmiany:
-1) w § 3 wyrazy „3 czerwca 2018 r.” zastępuje się wyrazami „wdrożenia rozwiązań technicznych umożliwiających wprowadzanie, przekazywanie, gromadzenie i udostępnianie danych, na zasadach określonych w art. 100aa–100aq ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn. zm. ), określonego w komunikacie, o którym mowa w art. 13 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 957),”;
-2) w § 4 wyrazy „4 czerwca 2018 r.” zastępuje się wyrazami „wdrożenia rozwiązań technicznych umożliwiających wprowadzanie, przekazywanie, gromadzenie i udostępnianie danych, na zasadach określonych w art. 100aa–100aq ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, określonym w komunikacie, o którym mowa w art. 13 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 3 czerwca 2018 r.
-Minister Infrastruktury: wz. A. Bittel
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury i Budownictwa z dnia 23 grudnia 2016 r. zmieniającym rozporządzenie w sprawie wydawania dokumentów stwierdzających uprawnienia do kierowania pojazdami (Dz. U. poz. 2252) wprowadza się następujące zmiany:
+
+- **1)** w § 3 wyrazy „3 czerwca 2018 r.” zastępuje się wyrazami „wdrożenia rozwiązań technicznych umożliwiających wprowadzanie, przekazywanie, gromadzenie i udostępnianie danych, na zasadach określonych w art. 100aa–100aq ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn. zm. ), określonego w komunikacie, o którym mowa w art. 13 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 957),”;
+- **2)** w § 4 wyrazy „4 czerwca 2018 r.” zastępuje się wyrazami „wdrożenia rozwiązań technicznych umożliwiających wprowadzanie, przekazywanie, gromadzenie i udostępnianie danych, na zasadach określonych w art. 100aa–100aq ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, określonym w komunikacie, o którym mowa w art. 13 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 3 czerwca 2018 r. Minister Infrastruktury: wz. A. Bittel
 

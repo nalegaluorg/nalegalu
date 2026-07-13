@@ -31,32 +31,62 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 30 lipca 2009 r.
 w sprawie prowadzenia depozytu w stacjonarnym zakładzie opieki zdrowotnej Na podstawie art. 40 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2020 r.
 poz. 849) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) zakres spisu przedmiotów oddawanych do depozytu;
-2) sposób zabezpieczenia przedmiotów oddanych do depozytu;
-3) sposób i warunki prowadzenia i przechowywania księgi depozytów.
-§ 2. 1. Potwierdzenie przyjęcia rzeczy wartościowych oddawanych do depozytu w stacjonarnym zakładzie opieki zdrowotnej , zwanym dalej „zakładem”, na czas pozostawania pacjenta w tym zakładzie , stanowi karta depozytowa.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** zakres spisu przedmiotów oddawanych do depozytu;
+- **2)** sposób zabezpieczenia przedmiotów oddanych do depozytu;
+- **3)** sposób i warunki prowadzenia i przechowywania księgi depozytów.
+
+**§ 2.**
+
+1. Potwierdzenie przyjęcia rzeczy wartościowych oddawanych do depozytu w stacjonarnym zakładzie opieki zdrowotnej , zwanym dalej „zakładem”, na czas pozostawania pacjenta w tym zakładzie , stanowi karta depozytowa.
+
 2. Oryginał karty depozytowej wydaje się pacjentowi przekazującemu rzeczy wartościowe do depozytu.
+
 3. Kopia karty depozytowej jest przechowywana w księdze depozytów.
-§ 3. 1. Księga depozytów składa się z kopii kart depozytowych.
+
+**§ 3.**
+
+1. Księga depozytów składa się z kopii kart depozytowych.
+
 2. Karta depozytowa zawiera:
-1) kolejny numer karty, odpowiadający numerowi kolejnego zapisu w księdze depozytowej;
-2) oznaczenie zakładu ;
-3) dane osobowe niezbędne do zidentyfikowania pacjenta:
-a) imię i nazwisko,
-b) datę i miejsce urodzenia,
-c) adres miejsca zamieszkania lub adres do korespondencji;
-4) spis rzeczy wartościowych oddanych do depozytu i ich opis;
-5) datę sporządzenia karty.
+
+- **1)** kolejny numer karty, odpowiadający numerowi kolejnego zapisu w księdze depozytowej;
+- **2)** oznaczenie zakładu ;
+- **3)** dane osobowe niezbędne do zidentyfikowania pacjenta:
+    - **a)** imię i nazwisko,
+    - **b)** datę i miejsce urodzenia,
+    - **c)** adres miejsca zamieszkania lub adres do korespondencji;
+
+- **4)** spis rzeczy wartościowych oddanych do depozytu i ich opis;
+- **5)** datę sporządzenia karty.
+
 3. Karta depozytowa jest opatrzona własnoręcznymi podpisami osoby przyjmującej depozyt, o której mowa w § 5 ust. 1, oraz pacjenta.
+
 4. W karcie depozytowej dokonuje się opisu rzeczy wartościowych oddanych do depozytu, określając ich cechy indywidualne, w szczególności nazwę, rodzaj, szacunkową wartość, barwę, markę i stan zużycia. W przypadku braku cech indywidualnych dokonuje się odpowiedniej adnotacji w karcie depozytowej.
-§ 4. 1. Rzeczy wartościowe w depozycie przechowuje się w opakowaniu trwale zamkniętym, oznaczonym nadrukiem, naklejką lub pieczęcią zakładu , zawierającymi nazwę zakładu , jego adres, numer identyfikacji podatkowej (NIP) i numer telefonu, oraz oznaczonym numerem, pod którym depozyt został zapisany w księdze depozytów.
+
+**§ 4.**
+
+1. Rzeczy wartościowe w depozycie przechowuje się w opakowaniu trwale zamkniętym, oznaczonym nadrukiem, naklejką lub pieczęcią zakładu , zawierającymi nazwę zakładu , jego adres, numer identyfikacji podatkowej (NIP) i numer telefonu, oraz oznaczonym numerem, pod którym depozyt został zapisany w księdze depozytów.
+
 2. Opakowanie, w którym jest przechowywany depozyt, po wpisaniu do księgi depozytów, przechowuje się w sejfie albo szafie pancernej.
-§ 5. 1. Rzeczy wartościowe do depozytu przyjmuje oraz wydaje z depozytu, a także księgę depozytów prowadzi i przechowuje osoba wyznaczona przez kierownika zakładu .
+
+**§ 5.**
+
+1. Rzeczy wartościowe do depozytu przyjmuje oraz wydaje z depozytu, a także księgę depozytów prowadzi i przechowuje osoba wyznaczona przez kierownika zakładu .
+
 2. Poza godzinami pracy oraz w razie nieobecności osoby, o której mowa w ust. 1, rzeczy wartościowe przyjmuje do depozytu inna osoba wskazana przez kierownika zakładu i umieszcza je w zamkniętej na klucz szufladzie lub szafie oraz wydaje pokwitowanie depozytu. Do pokwitowania stosuje się odpowiednio przepisy § 3 ust. 2 pkt 2–5 oraz ust. 3 i 4.
+
 3. Depozyt przyjęty w sposób określony w ust. 2 jest przekazywany osobie, o której mowa w ust. 1, wraz z kopią pokwitowania, o którym mowa w ust. 2, niezwłocznie po jej stawieniu się w zakładzie , w celu wpisania depozytu w księdze depozytów.
-§ 6. 1. W przypadku gdy pacjent jest nieprzytomny lub niezdolny do zrozumienia znaczenia informacji, osoba, o której mowa w § 5 ust. 1 i 2, niezwłocznie przyjmuje rzeczy wartościowe do depozytu. Oryginał karty depozytowej przechowuje się wraz z przedmiotami oddanymi do depozytu.
+
+**§ 6.**
+
+1. W przypadku gdy pacjent jest nieprzytomny lub niezdolny do zrozumienia znaczenia informacji, osoba, o której mowa w § 5 ust. 1 i 2, niezwłocznie przyjmuje rzeczy wartościowe do depozytu. Oryginał karty depozytowej przechowuje się wraz z przedmiotami oddanymi do depozytu.
+
 2. Niezwłocznie po ustaniu okoliczności, o których mowa w ust. 1, zawiadamia się pacjenta o złożeniu rzeczy wartościowych do depozytu. W przypadku wyrażenia woli dalszego przechowywania rzeczy wartościowych w depozycie, pacjent składa podpis na karcie depozytowej wraz z aktualną datą.
+
 3. W przypadku trwania okoliczności, o których mowa w ust. 1, przez okres dłuższy niż 24 godziny od czasu przyjęcia pacjenta do zakładu , kierownik zakładu albo osoba przez niego upoważniona informuje o przyjęciu rzeczy wartościowych do depozytu małżonka, wstępnych, zstępnych lub rodzeństwo pacjenta, a także inne osoby uprawnione, na podstawie odrębnych przepisów, do dysponowania ruchomościami pacjenta.
-§ 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 7.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

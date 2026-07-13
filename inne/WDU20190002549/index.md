@@ -26,14 +26,16 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002549) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2549/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wymagań dla kotłów na paliwo stałe Na podstawie art. 169 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 1 sierpnia 2017 r. w sprawie wymagań dla kotłów na paliwo stałe (Dz. U. poz. 1690 oraz z 2019 r. poz. 363) wprowadza się następujące zmiany:
-1) § 1 otrzymuje brzmienie: „§ 1. Rozporządzenie określa szczegółowe wymagania dla wprowadzanych do obrotu kotłów na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW w rozumieniu art. 172a pkt 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, zwanych dalej „kotłami”.”;
-2) uchyla się § 2;
-3) w § 3 w ust. 4 wyrazy „EN 303-5:2012 „Kotły grzewcze – Część 5: Kotły grzewcze na paliwa stałe z ręcznym i automatycznym zasypem paliwa o mocy nominalnej do 500 kW – Terminologia, wymagania, badania i oznakowanie”” zastępuje się wyrazami „EN 303-5”;
-4) uchyla się § 6;
-5) w załączniku do rozporządzenia:
-a) w pkt 1 w objaśnieniach w lit. a wyrazy „normy PN-EN 303-5” zastępuje się wyrazami „normy przenoszącej normę europejską EN 303-5”,
-b) w pkt 2 w zdaniu drugim wyrazy „EN 303-5:2012” zastępuje się wyrazami „EN 303-5”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.
-Minister Rozwoju: J. Emilewicz
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 1 sierpnia 2017 r. w sprawie wymagań dla kotłów na paliwo stałe (Dz. U. poz. 1690 oraz z 2019 r. poz. 363) wprowadza się następujące zmiany:
+
+- **1)** § 1 otrzymuje brzmienie: „§ 1. Rozporządzenie określa szczegółowe wymagania dla wprowadzanych do obrotu kotłów na paliwo stałe o znamionowej mocy cieplnej nie większej niż 500 kW w rozumieniu art. 172a pkt 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, zwanych dalej „kotłami”.”;
+- **2)** uchyla się § 2;
+- **3)** w § 3 w ust. 4 wyrazy „EN 303-5:2012 „Kotły grzewcze – Część 5: Kotły grzewcze na paliwa stałe z ręcznym i automatycznym zasypem paliwa o mocy nominalnej do 500 kW – Terminologia, wymagania, badania i oznakowanie”” zastępuje się wyrazami „EN 303-5”;
+- **4)** uchyla się § 6;
+- **5)** w załączniku do rozporządzenia:
+    - **a)** w pkt 1 w objaśnieniach w lit. a wyrazy „normy PN-EN 303-5” zastępuje się wyrazami „normy przenoszącej normę europejską EN 303-5”,
+    - **b)** w pkt 2 w zdaniu drugim wyrazy „EN 303-5:2012” zastępuje się wyrazami „EN 303-5”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r. Minister Rozwoju: J. Emilewicz
 

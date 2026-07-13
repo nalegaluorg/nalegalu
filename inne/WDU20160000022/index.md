@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000022) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/22/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania osobowości prawnej Misjonarkom Krwi Chrystusa Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2013 r. poz. 1169 oraz z 2014 r. poz. 498) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 5 czerwca 2002 r. w sprawie nadania osobowości prawnej Misjonarkom Krwi Chrystusa (Dz. U. Nr 82, poz. 747) § 1 otrzymuje brzmienie: „§ 1. Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Misjonarki Krwi Chrystusa z siedzibą w Chrustach, erygowanej przez Biskupa Chełmińskiego.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 5 czerwca 2002 r. w sprawie nadania osobowości prawnej Misjonarkom Krwi Chrystusa (Dz. U. Nr 82, poz. 747) § 1 otrzymuje brzmienie: „§ 1. Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Misjonarki Krwi Chrystusa z siedzibą w Chrustach, erygowanej przez Biskupa Chełmińskiego.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak
 

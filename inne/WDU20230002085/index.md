@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002085) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2085/text.pdf) |
 
 zmieniające rozporządzenie w sprawie specjalnego obszaru ochrony siedlisk Warmińskie Buczyny (PLH280033) Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Klimatu i Środowiska z dnia 12 stycznia 2022 r. w sprawie specjalnego obszaru ochrony siedlisk Warmińskie Buczyny (PLH280033) (Dz. U. poz. 373) załącznik nr 4 do rozporządzenia otrzymuje brzmienie okreś lone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa GATUNKI ZWIERZĄT INNYCH NIŻ PTAKI, BĘDĄCE PRZEDMIOTEM OCHRONY NA SPECJALNYM OBSZARZE OCHRONY SIEDLISK WARMIŃSKIE BUCZYNY (PLH280033) Lp. Nazwa polska Nazwa naukowa Populacja objęta ochroną 1 bóbr europejski Castor fiber osiadła 2 czerwończyk nieparek Lycaena dispar osiadła 3 wydra Lutra lutra osiadła
+
+**§ 1.** W rozporządzeniu Ministra Klimatu i Środowiska z dnia 12 stycznia 2022 r. w sprawie specjalnego obszaru ochrony siedlisk Warmińskie Buczyny (PLH280033) (Dz. U. poz. 373) załącznik nr 4 do rozporządzenia otrzymuje brzmienie okreś lone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa GATUNKI ZWIERZĄT INNYCH NIŻ PTAKI, BĘDĄCE PRZEDMIOTEM OCHRONY NA SPECJALNYM OBSZARZE OCHRONY SIEDLISK WARMIŃSKIE BUCZYNY (PLH280033) Lp. Nazwa polska Nazwa naukowa Populacja objęta ochroną 1 bóbr europejski Castor fiber osiadła 2 czerwończyk nieparek Lycaena dispar osiadła 3 wydra Lutra lutra osiadła
 

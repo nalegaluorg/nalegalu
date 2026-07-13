@@ -26,10 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001359) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1359/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowego zakresu działania Ministra Rozwoju Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 28 lipca 2016 r.
-Prezes Rady Ministrów: B. Szydło WYKAZ ORGANÓW PODLEGŁYCH MINISTROWI ROZWOJU LUB PRZEZ NIEGO NADZOROWANYCH
-1) Prezes Głównego Urzędu Miar;
-2) Prezes Urzędu Zamówień Publicznych;
-3) Urząd Patentowy Rzeczypospolitej Polskiej.
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 28 lipca 2016 r. Prezes Rady Ministrów: B. Szydło WYKAZ ORGANÓW PODLEGŁYCH MINISTROWI ROZWOJU LUB PRZEZ NIEGO NADZOROWANYCH
+
+- **1)** Prezes Głównego Urzędu Miar;
+- **2)** Prezes Urzędu Zamówień Publicznych;
+- **3)** Urząd Patentowy Rzeczypospolitej Polskiej.
+
 

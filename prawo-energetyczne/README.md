@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo energetyczne**.
 
-Łącznie: **35** aktów
+Łącznie: **34** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -39,7 +39,6 @@ Akty prawne z dziedziny: **Prawo energetyczne**.
 | [WDU20000480555](WDU20000480555/index.md) | Ustawa z dnia 26 maja 2000 r. o zmianie ustawy - Prawo energetyczne. | Ustawa | akt objęty tekstem jednolitym | [tak](WDU20000480555/orzecznictwo.md) |
 | [WDU19990880980](WDU19990880980/index.md) | Ustawa z dnia 10 września 1999 r. o zmianie ustawy - Prawo energetyczne. | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19980940594](WDU19980940594/index.md) | Ustawa z dnia 2 lipca 1998 r. o zmianie ustawy - Prawo energetyczne. | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19980940594/orzecznictwo.md) |
-| [WDU19971581042](WDU19971581042/index.md) | Ustawa z dnia 4 grudnia 1997 r. o zmianie ustawy - Prawo budżetowe i ustawy | Ustawa | obowiązujący |  |
 | [WDU19970540348](WDU19970540348/index.md) | Ustawa z dnia 10 kwietnia 1997 r. - Prawo energetyczne. | Ustawa | akt posiada tekst jednolity | [tak](WDU19970540348/orzecznictwo.md) |
 
-*35 aktów • [← Powrót do spisu głównego](../README.md)*
+*34 aktów • [← Powrót do spisu głównego](../README.md)*

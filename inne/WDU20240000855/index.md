@@ -31,44 +31,49 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 18 czerwca 2001 r.
 w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia Na podstawie art. 16 ust. 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2024 r.
 poz. 388) zarządza się, co następuje:
-§ 1. Ustala się następujące morskie i stałe lotnicze przejścia graniczne oraz rodzaj ruchu dozwolonego przez te przejścia:
-1) morskie przejścia graniczne:
-a) Darłowo – ruch osobowy i towarowy,
-b) Dziwnów – ruch osobowy morskimi statkami sportowymi i towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
-c) Elbląg – ruch osobowy i towarowy,
-d) Frombork – ruch osobowy i towarowy,
-e) Gdańsk–Górki Zachodnie – ruch osobowy morskimi statkami sportowymi i towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
-f) Gdańsk–Port – ruch osobowy i towarowy,
-g) (uchylona),
-h) Gdynia – ruch osobowy i towarowy,
-i) Hel – ruch osobowy i towarowy,
-j) Jastarnia – ruch osobowy morskimi statkami sportowymi i towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
-k) Kołobrzeg – ruch osobowy i towarowy,
-l) Łeba – ruch osobowy i towarowy, ł) Mrzeżyno – ruch towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
-m) Nowe Warpno – ruch osobowy,
-n) Szczecin – ruch osobowy i towarowy,
-o) Świnoujście – ruch osobowy i towarowy,
-p) Trzebież – ruch osobowy,
-r) Ustka – ruch osobowy i towarowy,
-s) Władysławowo – ruch osobowy i towarowy,
-t) (uchylona),
-u) Nowy Świat – ruch osobowy i towarowy;
-2) stałe lotnicze przejścia graniczne:
-a) Gdańsk–Rębiechowo – ruch osobowy i towarowy,
-b) Katowice–Pyrzowice – ruch osobowy i towarowy,
-c) Kraków–Balice – ruch osobowy i towarowy,
-d) Poznań–Ławica – ruch osobowy i towarowy,
-e) Rzeszów–Jasionka – ruch osobowy i towarowy,
-f) Szczecin–Goleniów – ruch osobowy i towarowy,
-g) Warszawa–Okęcie – ruch osobowy i towarowy,
-h) Wrocław–Strachowice – ruch osobowy i towarowy,
-i) Bydgoszcz – ruch osobowy i towarowy,
-j) (uchylona),
-k) Łódź–Lublinek – ruch osobowy i towarowy,
-l) (uchylona),
-m) Warszawa/Modlin – ruch osobowy i towarowy,
-n) Świdnik k/Lublina – ruch osobowy i towarowy,
-o) Radom–Sadków – ruch osobowy i towarowy.
-§ 2. Traci moc rozporządzenie Rady Ministrów z dnia 22 listopada 1994 r. w sprawie ustalenia morskich i stałych lotniczych przejść granicznych (Dz. U. poz. 659, z 1995 r. poz. 548 oraz z 1996 r. poz. 579).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Ustala się następujące morskie i stałe lotnicze przejścia graniczne oraz rodzaj ruchu dozwolonego przez te przejścia:
+
+- **1)** morskie przejścia graniczne:
+    - **a)** Darłowo – ruch osobowy i towarowy,
+    - **b)** Dziwnów – ruch osobowy morskimi statkami sportowymi i towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
+    - **c)** Elbląg – ruch osobowy i towarowy,
+    - **d)** Frombork – ruch osobowy i towarowy,
+    - **e)** Gdańsk–Górki Zachodnie – ruch osobowy morskimi statkami sportowymi i towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
+    - **f)** Gdańsk–Port – ruch osobowy i towarowy,
+    - **g)** (uchylona),
+    - **h)** Gdynia – ruch osobowy i towarowy,
+    - **i)** Hel – ruch osobowy i towarowy,
+    - **j)** Jastarnia – ruch osobowy morskimi statkami sportowymi i towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
+    - **k)** Kołobrzeg – ruch osobowy i towarowy,
+    - **l)** Łeba – ruch osobowy i towarowy, ł) Mrzeżyno – ruch towarowy statkami rybackimi o polskiej przynależności, wykonującymi rybołówstwo morskie,
+    - **m)** Nowe Warpno – ruch osobowy,
+    - **n)** Szczecin – ruch osobowy i towarowy,
+    - **o)** Świnoujście – ruch osobowy i towarowy,
+    - **p)** Trzebież – ruch osobowy,
+    - **r)** Ustka – ruch osobowy i towarowy,
+    - **s)** Władysławowo – ruch osobowy i towarowy,
+    - **t)** (uchylona),
+    - **u)** Nowy Świat – ruch osobowy i towarowy;
+
+- **2)** stałe lotnicze przejścia graniczne:
+    - **a)** Gdańsk–Rębiechowo – ruch osobowy i towarowy,
+    - **b)** Katowice–Pyrzowice – ruch osobowy i towarowy,
+    - **c)** Kraków–Balice – ruch osobowy i towarowy,
+    - **d)** Poznań–Ławica – ruch osobowy i towarowy,
+    - **e)** Rzeszów–Jasionka – ruch osobowy i towarowy,
+    - **f)** Szczecin–Goleniów – ruch osobowy i towarowy,
+    - **g)** Warszawa–Okęcie – ruch osobowy i towarowy,
+    - **h)** Wrocław–Strachowice – ruch osobowy i towarowy,
+    - **i)** Bydgoszcz – ruch osobowy i towarowy,
+    - **j)** (uchylona),
+    - **k)** Łódź–Lublinek – ruch osobowy i towarowy,
+    - **l)** (uchylona),
+    - **m)** Warszawa/Modlin – ruch osobowy i towarowy,
+    - **n)** Świdnik k/Lublina – ruch osobowy i towarowy,
+    - **o)** Radom–Sadków – ruch osobowy i towarowy.
+
+**§ 2.** Traci moc rozporządzenie Rady Ministrów z dnia 22 listopada 1994 r. w sprawie ustalenia morskich i stałych lotniczych przejść granicznych (Dz. U. poz. 659, z 1995 r. poz. 548 oraz z 1996 r. poz. 579).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

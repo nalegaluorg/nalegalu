@@ -26,13 +26,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000729) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/729/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wzorów protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji Na podstawie art. 30 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2021 r. poz. 497 oraz z 2022 r. poz. 2206) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 17 lutego 2015 r. w sprawie wzorów protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji (Dz. U. z 2021 r. poz. 513):
-1) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
-2) załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
-§ 2. Protokoły z kontroli systemu ogrzewania lub systemu klimatyzacji sporządzone przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność do dnia następnej kontroli wskazanej w tych protokołach.
-§ 3. Rozporządzenie wchodzi w życie z dniem 28 kwietnia 2023 r.
-Minister Rozwoju i Technologii: W. Buda Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838).
-Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13, Dz. Urz. UE L 156 z 19.06.2018, str. 75 oraz Dz. Urz. UE L 328 z 21.12.2018, str. 1).
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury i Rozwoju z dnia 17 lutego 2015 r. w sprawie wzorów protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji (Dz. U. z 2021 r. poz. 513):
+
+- **1)** załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+- **2)** załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
+
+**§ 2.** Protokoły z kontroli systemu ogrzewania lub systemu klimatyzacji sporządzone przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność do dnia następnej kontroli wskazanej w tych protokołach.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 28 kwietnia 2023 r. Minister Rozwoju i Technologii: W. Buda Minister Rozwoju i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838). Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13, Dz. Urz. UE L 156 z 19.06.2018, str. 75 oraz Dz. Urz. UE L 328 z 21.12.2018, str. 1).
 
 ## Załącznik nr 1 — WZÓR WZÓR PROTOKOŁU PROTOKOŁU Z Z KONTROLI KONTROLI SYSTEMU SYSTEMU OGRZEWANIA OGRZEWANIA PROTOKÓŁ Z KONTROLI SYSTEMU OGRZEWANIA Numer protokołu Dane identyfikacyjne budynku Rodzaj budynku Przeznaczenie budynku Adres budynku Rok oddania budynku do użytkowania Powierzchnia całkowita budynku Kubatura budynku Świadectwo charakterystyki energetycznej budynku tak (nr świadectwa w wykazie … ) brak pełna Dokumentacja techniczna budynku częściowa brak Dostępna dokumentacja z przeprowadzonej … kontroli Projektowe obciążenie cieplne … kW ogrzewanie Przeznaczenie systemu ogrzewania ciepła woda użytkowa inne … Dane identyfikacyjne systemu ogrzewania wraz z oceną sprawności systemu i dostosowania go do potrzeb użytkowych budynku
 

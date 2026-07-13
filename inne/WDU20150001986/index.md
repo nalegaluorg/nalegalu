@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki Na podstawie art. 21 ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U.
 z 2014 r. poz. 1649, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju Regionalnego z dnia 15 grudnia 2010 r. w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. z 2015 r. poz. 1959) wprowadza się następujące zmiany:
-1) w § 41 po wyrazach „objętych pomocą de minimis ” kropkę zastępuje się przecinkiem i dodaje się wyrazy „z zastrzeżeniem § 41a.”;
-2) po § 41 dodaje się § 41a w brzmieniu: „§ 41a. Rozporządzenie stosuje się do dnia 31 marca 2017 r. w odniesieniu do wydatków kwalifikowalnych objętych pomocą de minimis , o której mowa w § 33 ust. 1 pkt 3a.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Infrastruktury i Rozwoju: M. Wasiak
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju Regionalnego z dnia 15 grudnia 2010 r. w sprawie udzielania pomocy publicznej w ramach Programu Operacyjnego Kapitał Ludzki (Dz. U. z 2015 r. poz. 1959) wprowadza się następujące zmiany:
+
+- **1)** w § 41 po wyrazach „objętych pomocą de minimis ” kropkę zastępuje się przecinkiem i dodaje się wyrazy „z zastrzeżeniem § 41a.”;
+- **2)** po § 41 dodaje się § 41a w brzmieniu: „§ 41a. Rozporządzenie stosuje się do dnia 31 marca 2017 r. w odniesieniu do wydatków kwalifikowalnych objętych pomocą de minimis , o której mowa w § 33 ust. 1 pkt 3a.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Infrastruktury i Rozwoju: M. Wasiak
 

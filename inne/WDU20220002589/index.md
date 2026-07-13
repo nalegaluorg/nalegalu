@@ -29,29 +29,13 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, 1002, 1768 i 1783) wprowadza się następujące zmiany:
 
-- **1)** w art. 119 po ust. 2 dodaje się ust. 2a–2d w brzmieniu: „2a. Przychodem ośrodka może być dotacja podmiotowa albo celowa, udzielana z budżetu województwa, na finansowanie lub dofinansowanie kosztów realizacji zadań, o których mowa w art. 117 ust. 1 i 2, niebędących działalnością gospodarczą.
-
-2b. Dotacje, o których mowa w ust. 2a, dla ośrodka nie mogą przekroczyć 50% kosztów jego działalności na realizację zadań, o których mowa w art. 117 ust. 1 i 2, niebędących działalnością gospodarczą.
-
-2c. Zasady udzielania dotacji, o których mowa w ust. 2a, tryb postępowania w sprawie ich udzielania i sposób ich rozliczania określa sejmik województwa, w drodze uchwały będącej aktem prawa miejscowego, mając na względzie konieczność zapewnienia realizacji zadań, o których mowa w art. 117 ust. 1 i 2, niebędących działalnością gospodarczą oraz mając na względzie dostępność środków na ten cel w budżecie województwa.
-
-2d. Udzielenie dotacji, o których mowa w ust. 2a, następuje na podstawie umowy zawartej przez marszałka województwa z dyrektorem ośrodka.”;
-
+- **1)** w art. 119 po ust. 2 dodaje się ust. 2a–2d w brzmieniu: „2a. Przychodem ośrodka może być dotacja podmiotowa albo celowa, udzielana z budżetu województwa, na finansowanie lub dofinansowanie kosztów realizacji zadań, o których mowa w art. 117 ust. 1 i 2, niebędących działalnością gospodarczą. 2b. Dotacje, o których mowa w ust. 2a, dla ośrodka nie mogą przekroczyć 50% kosztów jego działalności na realizację zadań, o których mowa w art. 117 ust. 1 i 2, niebędących działalnością gospodarczą. 2c. Zasady udzielania dotacji, o których mowa w ust. 2a, tryb postępowania w sprawie ich udzielania i sposób ich rozliczania określa sejmik województwa, w drodze uchwały będącej aktem prawa miejscowego, mając na względzie konieczność zapewnienia realizacji zadań, o których mowa w art. 117 ust. 1 i 2, niebędących działalnością gospodarczą oraz mając na względzie dostępność środków na ten cel w budżecie województwa. 2d. Udzielenie dotacji, o których mowa w ust. 2a, następuje na podstawie umowy zawartej przez marszałka województwa z dyrektorem ośrodka.”;
 - **2)** w art. 121 uchyla się pkt 2;
-- **3)** po art. 121 dodaje się art. 121a w brzmieniu: „Art. 121a. 1. Warunki wynagradzania egzaminatorów określa sejmik województwa, w drodze uchwały będącej aktem prawa miejscowego, kierując się charakterem pracy wykonywanej przez egzaminatorów i potrzebą zapewnienia odpowiedniego poziomu wykonywania przez nich zadań.
-
-2. Warunki wynagradzania egzaminatorów określone każdorazowo w uchwale sejmiku województwa, o której mowa w ust. 1, nie mogą być mniej korzystne niż warunki wynagradzania egzaminatorów określone w poprzedniej uchwale.”.
+- **3)** po art. 121 dodaje się art. 121a w brzmieniu: „Art. 121a. 1. Warunki wynagradzania egzaminatorów określa sejmik województwa, w drodze uchwały będącej aktem prawa miejscowego, kierując się charakterem pracy wykonywanej przez egzaminatorów i potrzebą zapewnienia odpowiedniego poziomu wykonywania przez nich zadań. 2. Warunki wynagradzania egzaminatorów określone każdorazowo w uchwale sejmiku województwa, o której mowa w ust. 1, nie mogą być mniej korzystne niż warunki wynagradzania egzaminatorów określone w poprzedniej uchwale.”.
 
 **Art. 2.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2021 r. poz. 1212, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** po art. 56 dodaje się art. 56a i art. 56b w brzmieniu: „Art. 56a. 1. Wysokość opłaty za przeprowadzenie egzaminu państwowego określa sejmik województwa, w drodze uchwały będącej aktem prawa miejscowego, przy czym wysokość opłaty za przeprowadzenie części teoretycznej egzaminu w zakresie uprawnień każdej kategorii prawa jazdy nie może przekroczyć 50 zł, a za przeprowadzenie części praktycznej:
-- **1)** 200 zł w zakresie uprawnień prawa jazdy kategorii AM, A1, A2, A, B1, B, C1, D1 lub T albo uprawnienia do kierowania tramwajem;
-- **2)** 250 zł w zakresie uprawnień prawa jazdy kategorii B+E, C1+E, C, C+E, D, D+E lub D1+E.
-
-2. W uchwale, o której mowa w ust. 1, uwzględnia się koszty rzeczowe i osobowe związane z przeprowadzaniem egzaminów państwowych.
-
-**Art. 56b.** Maksymalne stawki opłat, o których mowa w art. 56a ust. 1, ulegają corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym średniorocznemu wskaźnikowi cen towarów i usług konsumpcyjnych ogółem, ogłaszanemu przez Prezesa Głównego Urzędu Statystycznego.”;
-
+- **1)** po art. 56 dodaje się art. 56a i art. 56b w brzmieniu: „Art. 56a. 1. Wysokość opłaty za przeprowadzenie egzaminu państwowego określa sejmik województwa, w drodze uchwały będącej aktem prawa miejscowego, przy czym wysokość opłaty za przeprowadzenie części teoretycznej egzaminu w zakresie uprawnień każdej kategorii prawa jazdy nie może przekroczyć 50 zł, a za przeprowadzenie części praktycznej: 1) 200 zł w zakresie uprawnień prawa jazdy kategorii AM, A1, A2, A, B1, B, C1, D1 lub T albo uprawnienia do kierowania tramwajem; 2) 250 zł w zakresie uprawnień prawa jazdy kategorii B+E, C1+E, C, C+E, D, D+E lub D1+E. 2. W uchwale, o której mowa w ust. 1, uwzględnia się koszty rzeczowe i osobowe związane z przeprowadzaniem egzaminów państwowych. Art. 56b. Maksymalne stawki opłat, o których mowa w art. 56a ust. 1, ulegają corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym średniorocznemu wskaźnikowi cen towarów i usług konsumpcyjnych ogółem, ogłaszanemu przez Prezesa Głównego Urzędu Statystycznego.”;
 - **2)** w art. 66:
     - **a)** w ust. 1 w pkt 6 uchyla się lit. a,
     - **b)** w ust. 2 pkt 6 otrzymuje brzmienie: „6) koszty rzeczowe i osobowe związane z prowadzeniem ewidencji egzaminatorów;”.

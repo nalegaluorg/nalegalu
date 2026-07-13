@@ -39,112 +39,32 @@ source: pdf
 - **5)** w art. 87:
     - **a)** w ust. 2 wyrazy „ust. 6” zastępuje się wyrazami „ust. 5b, 6”,
     - **b)** w ust. 2c wyrazy „ust. 2, 5a” zastępuje się wyrazami „ust. 2, 5a, 5b”,
-    - **c)** po ust. 5a dodaje się ust. 5b–5d w brzmieniu: „5b. Urząd skarbowy jest obowiązany dokonać zwrotu różnicy podatku, o której mowa w ust. 2, w terminie 40 dni, licząc od dnia złożenia rozliczenia, w przypadku gdy łącznie są spełnione następujące warunki:
-
-- **1)** w związku z wykonywaniem czynności, dla których występował obowiązek wystawienia faktur na podstawie art. 106b ust. 1:
-    - **a)** pkt 1 lub
-    - **b)** pkt 3, lub
-    - **c)** pkt 4 – w zakresie, w jakim dotyczy otrzymania całości lub części zapłaty przed dokonaniem czynności, o których mowa w art. 106b ust. 1 pkt 1, uwzględnionych w rozliczeniu podatnika za dany okres rozliczeniowy – podatnik wystawiał wyłącznie faktury ustrukturyzowane,
-
-- **2)** kwota podatku naliczonego lub różnicy podatku, o której mowa w ust. 1, nierozliczona w poprzednich okresach rozliczeniowych i wykazana w deklaracji, nie przekracza 3000 zł,
-- **3)** podatnik przez kolejne 12 miesięcy poprzedzających bezpośrednio okres, w rozliczeniu za który występuje z wnioskiem o zwrot:
-    - **a)** był zarejestrowany jako podatnik VAT czynny,
-    - **b)** składał za każdy okres rozliczeniowy deklaracje, o których mowa w art. 99 ust. 1–3,
-    - **c)** posiadał rachunek rozliczeniowy lub imienny rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, zawarty w wykazie, o którym mowa w art. 96b ust. 1 – przy czym przepisy ust. 2 zdanie drugie i trzecie, ust. 2a–2c oraz ust. 4a–4f stosuje się odpowiednio.
-
-5c. Przepis ust. 5b stosuje się również w przypadku, gdy w danym okresie rozliczeniowym podatnik oprócz faktur ustrukturyzowanych wystawiał faktury:
-
-- **1)** których nie wystawia się w postaci faktury ustrukturyzowanej z powodu braku zgodności z wzorem faktury ustrukturyzowanej, udostępnionym na elektronicznej platformie usług administracji publicznej zgodnie z art. 106nc ust. 3, lub
-- **2)** o których mowa w art. 106e ust. 5 pkt 3 – w przypadku sprzedaży zaewidencjonowanej przy zastosowaniu kasy rejestrującej.
-
-5d. Spełnienie warunków, o których mowa w ust. 5b, jest weryfikowane z wykorzystaniem zasobów teleinformatycznych Szefa Krajowej Administracji Skarbowej.”;
+    - **c)** po ust. 5a dodaje się ust. 5b–5d w brzmieniu: „5b. Urząd skarbowy jest obowiązany dokonać zwrotu różnicy podatku, o której mowa w ust. 2, w terminie 40 dni, licząc od dnia złożenia rozliczenia, w przypadku gdy łącznie są spełnione następujące warunki: 1) w związku z wykonywaniem czynności, dla których występował obowiązek wystawienia faktur na podstawie art. 106b ust. 1: a) pkt 1 lub b) pkt 3, lub c) pkt 4 – w zakresie, w jakim dotyczy otrzymania całości lub części zapłaty przed dokonaniem czynności, o których mowa w art. 106b ust. 1 pkt 1, uwzględnionych w rozliczeniu podatnika za dany okres rozliczeniowy – podatnik wystawiał wyłącznie faktury ustrukturyzowane, 2) kwota podatku naliczonego lub różnicy podatku, o której mowa w ust. 1, nierozliczona w poprzednich okresach rozliczeniowych i wykazana w deklaracji, nie przekracza 3000 zł, 3) podatnik przez kolejne 12 miesięcy poprzedzających bezpośrednio okres, w rozliczeniu za który występuje z wnioskiem o zwrot: a) był zarejestrowany jako podatnik VAT czynny, b) składał za każdy okres rozliczeniowy deklaracje, o których mowa w art. 99 ust. 1–3, c) posiadał rachunek rozliczeniowy lub imienny rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, zawarty w wykazie, o którym mowa w art. 96b ust. 1 – przy czym przepisy ust. 2 zdanie drugie i trzecie, ust. 2a–2c oraz ust. 4a–4f stosuje się odpowiednio. 5c. Przepis ust. 5b stosuje się również w przypadku, gdy w danym okresie rozliczeniowym podatnik oprócz faktur ustrukturyzowanych wystawiał faktury: 1) których nie wystawia się w postaci faktury ustrukturyzowanej z powodu braku zgodności z wzorem faktury ustrukturyzowanej, udostępnionym na elektronicznej platformie usług administracji publicznej zgodnie z art. 106nc ust. 3, lub 2) o których mowa w art. 106e ust. 5 pkt 3 – w przypadku sprzedaży zaewidencjonowanej przy zastosowaniu kasy rejestrującej. 5d. Spełnienie warunków, o których mowa w ust. 5b, jest weryfikowane z wykorzystaniem zasobów teleinformatycznych Szefa Krajowej Administracji Skarbowej.”;
 
 - **6)** w art. 88 w ust. 3b po wyrazach „do duplikatów faktur” dodaje się wyrazy „oraz kolejnych egzemplarzy faktur”;
 - **7)** w art. 106f w ust. 1 w pkt 4 skreśla się wyrazy „cenę jednostkową netto,”;
 - **8)** w art. 106g:
-    - **a)** po ust. 3 dodaje się ust. 3a–3c w brzmieniu: „3a. Faktura ustrukturyzowana jest udostępniana i otrzymywana za pomocą oprogramowania interfejsowego, o którym mowa w art. 106nc ust. 1.
+    - **a)** po ust. 3 dodaje się ust. 3a–3c w brzmieniu: „3a. Faktura ustrukturyzowana jest udostępniana i otrzymywana za pomocą oprogramowania interfejsowego, o którym mowa w art. 106nc ust. 1. 3b. Jeżeli odbiorca faktury nie wyraził akceptacji, o której mowa w art. 106na ust. 2, faktura ustrukturyzowana może być przesłana temu podmiotowi w postaci z nim uzgodnionej. Przepisy ust. 1–3 stosuje się odpowiednio. 3c. Dostęp do faktury ustrukturyzowanej jest możliwy przez podanie danych tej faktury określonych w przepisach wydanych na podstawie art. 106r pkt 4.”,
+    - **b)** w ust. 4 dodaje się zdanie drugie w brzmieniu: „Przepisu nie stosuje się do faktur ustrukturyzowanych.”;
 
-3b. Jeżeli odbiorca faktury nie wyraził akceptacji, o której mowa w art. 106na ust. 2, faktura ustrukturyzowana może być przesłana temu podmiotowi w postaci z nim uzgodnionej. Przepisy ust. 1–3 stosuje się odpowiednio.
-
-3c. Dostęp do faktury ustrukturyzowanej jest możliwy przez podanie danych tej faktury określonych w przepisach wydanych na podstawie art. 106r pkt 4.”,
-
-- **b)** w ust. 4 dodaje się zdanie drugie w brzmieniu: „Przepisu nie stosuje się do faktur ustrukturyzowanych.”;
 - **9)** w art. 106i w ust. 7 we wprowadzeniu do wyliczenia wyrazy „30. dnia” zastępuje się wyrazami „60. dnia”;
 - **10)** w art. 106j:
     - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) podstawa opodatkowania lub kwota podatku wskazana w fakturze uległa zmianie,”, – uchyla się pkt 2, – pkt 5 otrzymuje brzmienie: „5) stwierdzono pomyłkę w jakiejkolwiek pozycji faktury”,
     - **b)** w ust. 2: – uchyla się pkt 1, – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) numer identyfikujący w Krajowym Systemie e-Faktur fakturę, której dotyczy faktura korygująca – w przypadku faktury korygującej w postaci faktury ustrukturyzowanej;”, – w pkt 3 lit. a otrzymuje brzmienie: „a) określone w art. 106e ust. 1 pkt 1–5,”, – uchyla się pkt 4,
-    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Faktura korygująca może zawierać:
+    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Faktura korygująca może zawierać: 1) wyrazy „FAKTURA KORYGUJĄCA” albo „KOREKTA”;
 
-- **1)** wyrazy „FAKTURA KORYGUJĄCA” albo „KOREKTA”;
 - **2)** przyczynę korekty.”,
-    - **d)** ust. 3 otrzymuje brzmienie: „3. W przypadku gdy podatnik udziela opustu lub obniżki ceny, może wystawić fakturę korygującą dotyczącą dostaw towarów lub świadczenia usług na rzecz jednego odbiorcy w danym okresie, która:
-
-- **1)** zawiera dodatkowo wskazanie okresu, do którego odnoszą się udzielany opust lub udzielana obniżka;
-- **2)** może nie zawierać nazwy (rodzaju) towaru lub usługi objętych korektą – w przypadku gdy korekta dotyczy wszystkich dostaw towarów i świadczonych usług.”,
+    - **d)** ust. 3 otrzymuje brzmienie: „3. W przypadku gdy podatnik udziela opustu lub obniżki ceny, może wystawić fakturę korygującą dotyczącą dostaw towarów lub świadczenia usług na rzecz jednego odbiorcy w danym okresie, która: 1) zawiera dodatkowo wskazanie okresu, do którego odnoszą się udzielany opust lub udzielana obniżka; 2) może nie zawierać nazwy (rodzaju) towaru lub usługi objętych korektą – w przypadku gdy korekta dotyczy wszystkich dostaw towarów i świadczonych usług.”,
     - **e)** dodaje się ust. 4 w brzmieniu: „4. Fakturę korygującą fakturę ustrukturyzowaną wystawia się w postaci faktury ustrukturyzowanej.”;
 
-- **11)** w art. 106l ust. 2 otrzymuje brzmienie: „2. Faktura wystawiona ponownie:
-- **1)** zawiera datę wystawienia;
-- **2)** może zawierać wyraz „DUPLIKAT”.”;
+- **11)** w art. 106l ust. 2 otrzymuje brzmienie: „2. Faktura wystawiona ponownie: 1) zawiera datę wystawienia; 2) może zawierać wyraz „DUPLIKAT”.”;
 - **12)** w art. 106m w ust. 5:
     - **a)** w pkt 2 wyrazy „jej danych.” zastępuje się wyrazami „jej danych, lub”,
     - **b)** dodaje się pkt 3 w brzmieniu: „3) Krajowego Systemu e-Faktur – w odniesieniu do faktur ustrukturyzowanych otrzymanych przy użyciu Krajowego Systemu e-Faktur.”;
 
-- **13)** po art. 106n dodaje się art. 106na–106ne w brzmieniu: „Art. 106na. 1. Fakturę ustrukturyzowaną uznaje się za wystawioną w dniu jej przesłania do Krajowego Systemu e-Faktur.
-
-2. Otrzymywanie faktur ustrukturyzowanych przy użyciu Krajowego Systemu e-Faktur wymaga akceptacji odbiorcy faktury.
-
-3. Faktura ustrukturyzowana jest uznana za otrzymaną przy użyciu Krajowego Systemu e-Faktur w dniu przydzielenia w tym systemie numeru identyfikującego tę fakturę.
-
-**Art. 106nb.** Z Krajowego Systemu e-Faktur mogą korzystać:
-
-- **1)** podatnik,
-- **2)** podmioty wskazane przez podatnika,
-- **3)** podmioty, o których mowa w art. 106c,
-- **4)** osoby fizyczne wskazane przez podmioty, o których mowa w art. 106c,
-- **5)** osoby fizyczne wskazane w zawiadomieniu o nadaniu lub odebraniu uprawnień do korzystania z Krajowego Systemu e-Faktur, którym podatnik lub podmioty, o których mowa w art. 106c, nadali uprawnienia do korzystania z tego systemu,
-- **6)** podmioty inne, niż wymienione w pkt 1–5, wskazane przez osoby fizyczne korzystające z Krajowego Systemu e-Faktur, jeżeli prawo do wskazywania innego podmiotu wynika z uprawnień nadanych tym osobom fizycznym – uwierzytelnieni w sposób określony w przepisach wydanych na podstawie art. 106r pkt 3.
-
-**Art. 106nc.**
-
-1. Faktura ustrukturyzowana jest wystawiana i otrzymywana przy użyciu Krajowego Systemu e-Faktur za pomocą oprogramowania interfejsowego, w postaci elektronicznej i zgodnie z wzorem dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
-
-2. Oprogramowanie interfejsowe, o którym mowa w ust. 1, jest dostępne na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
-
-3. Minister właściwy do spraw finansów publicznych udostępnia na elektronicznej platformie usług administracji publicznej wzór faktury ustrukturyzowanej.
-
-**Art. 106nd.**
-
-1. Szef Krajowej Administracji Skarbowej prowadzi Krajowy System e-Faktur i jest administratorem danych w nim zawartych.
-
-2. Krajowy System e-Faktur jest systemem teleinformatycznym służącym do:
-
-- **1)** nadawania, zmiany lub odbierania uprawnień do korzystania z Krajowego Systemu e-Faktur;
-- **2)** powiadamiania podmiotów, o których mowa w art. 106nb, o nadanych uprawnieniach do korzystania z Krajowego Systemu e-Faktur lub ich odebraniu;
-- **3)** uwierzytelnienia oraz weryfikacji uprawnień do korzystania z Krajowego Systemu e-Faktur, posiadanych przez podmioty, o których mowa w art. 106nb;
-- **4)** wystawiania faktur ustrukturyzowanych;
-- **5)** dostępu do faktur ustrukturyzowanych;
-- **6)** otrzymywania faktur ustrukturyzowanych;
-- **7)** przechowywania faktur ustrukturyzowanych;
-- **8)** oznaczania faktur ustrukturyzowanych numerem identyfikującym przydzielonym w Krajowym Systemie e-Faktur;
-- **9)** analizy i kontroli prawidłowości danych z faktur ustrukturyzowanych;
-- **10)** powiadamiania podmiotów, o których mowa w art. 106nb, o:
-    - **a)** dacie i czasie wystawienia faktury ustrukturyzowanej oraz numerze identyfikującym fakturę ustrukturyzowaną przydzielonym w Krajowym Systemie e-Faktur oraz dacie i czasie jego przydzielenia,
-    - **b)** dacie i czasie odrzucenia faktury w przypadku jej niezgodności z wzorem, o którym mowa w art. 106nc ust. 3,
-    - **c)** braku możliwości wystawienia faktury ustrukturyzowanej – w przypadku niedostępności Krajowego Systemu e-Faktur;
-
-- **11)** powiadamiania podmiotów innych niż określone w art. 106nb o braku uprawnień do korzystania z Krajowego Systemu e-Faktur.
-
-**Art. 106ne.** Minister właściwy do spraw finansów publicznych zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra komunikaty dotyczące niedostępności Krajowego Systemu e-Faktur.”;
-
-- **14)** po art. 106q dodaje się art. 106r w brzmieniu: „Art. 106r. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
-- **1)** rodzaje uprawnień do korzystania z Krajowego Systemu e-Faktur,
-- **2)** sposoby nadawania, zmiany lub odbierania uprawnień do korzystania z Krajowego Systemu e-Faktur oraz wzór zawiadomienia o nadaniu lub odebraniu tych uprawnień,
-- **3)** sposoby uwierzytelnienia podmiotów korzystających z Krajowego Systemu e-Faktur,
-- **4)** dane faktury ustrukturyzowanej, których podanie umożliwia dostęp do tej faktury w Krajowym Systemie e-Faktur – uwzględniając konieczność zapewnienia prawidłowej identyfikacji i weryfikacji podmiotów, o których mowa w art. 106nb, oraz zapewnienia dostępu do faktur ustrukturyzowanych i możliwości zapoznania się z ich treścią.”;
-- **15)** po art. 112a dodaje się art. 112aa w brzmieniu: „Art. 112aa. 1. Faktury ustrukturyzowane są przechowywane w Krajowym Systemie e-Faktur przez okres 10 lat, licząc od końca roku, w którym zostały wystawione. Przepisów art. 112 i art. 112a nie stosuje się.
-
-2. Po upływie okresu przechowywania faktur, o którym mowa w ust. 1, podatnik przechowuje faktury ustrukturyzowane poza Krajowym Systemem e-Faktur do czasu upływu terminu przedawnienia zobowiązania podatkowego. Przepisy art. 112 i art. 112a stosuje się odpowiednio.”.
+- **13)** po art. 106n dodaje się art. 106na–106ne w brzmieniu: „Art. 106na. 1. Fakturę ustrukturyzowaną uznaje się za wystawioną w dniu jej przesłania do Krajowego Systemu e-Faktur. 2. Otrzymywanie faktur ustrukturyzowanych przy użyciu Krajowego Systemu e-Faktur wymaga akceptacji odbiorcy faktury. 3. Faktura ustrukturyzowana jest uznana za otrzymaną przy użyciu Krajowego Systemu e-Faktur w dniu przydzielenia w tym systemie numeru identyfikującego tę fakturę. Art. 106nb. Z Krajowego Systemu e-Faktur mogą korzystać: 1) podatnik, 2) podmioty wskazane przez podatnika, 3) podmioty, o których mowa w art. 106c, 4) osoby fizyczne wskazane przez podmioty, o których mowa w art. 106c, 5) osoby fizyczne wskazane w zawiadomieniu o nadaniu lub odebraniu uprawnień do korzystania z Krajowego Systemu e-Faktur, którym podatnik lub podmioty, o których mowa w art. 106c, nadali uprawnienia do korzystania z tego systemu, 6) podmioty inne, niż wymienione w pkt 1–5, wskazane przez osoby fizyczne korzystające z Krajowego Systemu e-Faktur, jeżeli prawo do wskazywania innego podmiotu wynika z uprawnień nadanych tym osobom fizycznym – uwierzytelnieni w sposób określony w przepisach wydanych na podstawie art. 106r pkt 3. Art. 106nc. 1. Faktura ustrukturyzowana jest wystawiana i otrzymywana przy użyciu Krajowego Systemu e-Faktur za pomocą oprogramowania interfejsowego, w postaci elektronicznej i zgodnie z wzorem dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. 2. Oprogramowanie interfejsowe, o którym mowa w ust. 1, jest dostępne na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych. 3. Minister właściwy do spraw finansów publicznych udostępnia na elektronicznej platformie usług administracji publicznej wzór faktury ustrukturyzowanej. Art. 106nd. 1. Szef Krajowej Administracji Skarbowej prowadzi Krajowy System e-Faktur i jest administratorem danych w nim zawartych. 2. Krajowy System e-Faktur jest systemem teleinformatycznym służącym do: 1) nadawania, zmiany lub odbierania uprawnień do korzystania z Krajowego Systemu e-Faktur; 2) powiadamiania podmiotów, o których mowa w art. 106nb, o nadanych uprawnieniach do korzystania z Krajowego Systemu e-Faktur lub ich odebraniu; 3) uwierzytelnienia oraz weryfikacji uprawnień do korzystania z Krajowego Systemu e-Faktur, posiadanych przez podmioty, o których mowa w art. 106nb; 4) wystawiania faktur ustrukturyzowanych; 5) dostępu do faktur ustrukturyzowanych; 6) otrzymywania faktur ustrukturyzowanych; 7) przechowywania faktur ustrukturyzowanych; 8) oznaczania faktur ustrukturyzowanych numerem identyfikującym przydzielonym w Krajowym Systemie e-Faktur; 9) analizy i kontroli prawidłowości danych z faktur ustrukturyzowanych; 10) powiadamiania podmiotów, o których mowa w art. 106nb, o: a) dacie i czasie wystawienia faktury ustrukturyzowanej oraz numerze identyfikującym fakturę ustrukturyzowaną przydzielonym w Krajowym Systemie e-Faktur oraz dacie i czasie jego przydzielenia, b) dacie i czasie odrzucenia faktury w przypadku jej niezgodności z wzorem, o którym mowa w art. 106nc ust. 3, c) braku możliwości wystawienia faktury ustrukturyzowanej – w przypadku niedostępności Krajowego Systemu e-Faktur; 11) powiadamiania podmiotów innych niż określone w art. 106nb o braku uprawnień do korzystania z Krajowego Systemu e-Faktur. Art. 106ne. Minister właściwy do spraw finansów publicznych zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra komunikaty dotyczące niedostępności Krajowego Systemu e-Faktur.”;
+- **14)** po art. 106q dodaje się art. 106r w brzmieniu: „Art. 106r. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia: 1) rodzaje uprawnień do korzystania z Krajowego Systemu e-Faktur, 2) sposoby nadawania, zmiany lub odbierania uprawnień do korzystania z Krajowego Systemu e-Faktur oraz wzór zawiadomienia o nadaniu lub odebraniu tych uprawnień, 3) sposoby uwierzytelnienia podmiotów korzystających z Krajowego Systemu e-Faktur, 4) dane faktury ustrukturyzowanej, których podanie umożliwia dostęp do tej faktury w Krajowym Systemie e-Faktur – uwzględniając konieczność zapewnienia prawidłowej identyfikacji i weryfikacji podmiotów, o których mowa w art. 106nb, oraz zapewnienia dostępu do faktur ustrukturyzowanych i możliwości zapoznania się z ich treścią.”;
+- **15)** po art. 112a dodaje się art. 112aa w brzmieniu: „Art. 112aa. 1. Faktury ustrukturyzowane są przechowywane w Krajowym Systemie e-Faktur przez okres 10 lat, licząc od końca roku, w którym zostały wystawione. Przepisów art. 112 i art. 112a nie stosuje się. 2. Po upływie okresu przechowywania faktur, o którym mowa w ust. 1, podatnik przechowuje faktury ustrukturyzowane poza Krajowym Systemem e-Faktur do czasu upływu terminu przedawnienia zobowiązania podatkowego. Przepisy art. 112 i art. 112a stosuje się odpowiednio.”.
 
 **Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540 i 1598) w art. 193a po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Przepisu § 1 nie stosuje się do faktur ustrukturyzowanych w rozumieniu art. 2 pkt 32a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.”.
 

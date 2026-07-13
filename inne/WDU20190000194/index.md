@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000194) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/194/text.pdf) |
 
 w sprawie wykazu podmiotów posiadających istotne znaczenie dla polityki transportowej realizowanej przez państwo Na podstawie art. 12 ust. 2 pkt 1 ustawy z dnia 9 czerwca 2016 r. o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami (Dz. U. z 2017 r. poz. 2190 i 2215) zarządza się, co następuje:
-§ 1. Określa się wykaz podmiotów posiadających istotne znaczenie dla polityki transportowej realizowanej przez państwo:
-1) Polska Agencja Żeglugi Powietrznej;
-2) przedsiębiorstwo państwowe „Porty Lotnicze”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 lutego 2019 r.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** Określa się wykaz podmiotów posiadających istotne znaczenie dla polityki transportowej realizowanej przez państwo:
+
+- **1)** Polska Agencja Żeglugi Powietrznej;
+- **2)** przedsiębiorstwo państwowe „Porty Lotnicze”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 lutego 2019 r.
 

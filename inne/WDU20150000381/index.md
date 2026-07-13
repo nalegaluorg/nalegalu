@@ -8,10 +8,10 @@ pos: 381
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 19 marca 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 381 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 13 marca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,44 +22,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-03-13 |
 | Data wydania | 2015-03-19 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-05-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/381/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 13 marca 2015 r.
-w sprawie wymagań Dobrej Praktyki Dystrybucyjnej Na podstawie art. 79 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn.
-zm. ) zarządza się, co następuje: § 1. Wymagania Dobrej Praktyki Dystrybucyjnej dotyczące przedsiębiorców prowadzących obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, oraz pośredników w obrocie takimi produktami leczniczymi, określa załącznik do rozporządzenia.
-§ 2. Przedsiębiorcy prowadzący w dniu wejścia w życie rozporządzenia obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, dostosują się do wymagań określonych w rozporządzeniu w terminie 12 miesięcy od dnia wejścia w życie rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: B.A. Arłukowicz WYMAGANIA DOBREJ PRAKTYKI DYSTRYBUCYJNEJ DOTYCZĄCE PRZEDSIĘBIORCÓW PROWADZĄCYCH OBRÓT HURTOWY PRODUKTAMI LECZNICZYMI, Z WYŁĄCZENIEM PRODUKTÓW LECZNICZYCH WETERYNARYJNYCH, ORAZ POŚREDNIKÓW W OBROCIE PRODUKTAMI LECZNICZYMI ROZDZIAŁ 1 ZARZĄDZANIE JAKOŚCIĄ
-1.1 Warunki ogólne Przedsiębiorcy prowadzący obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, zwani dalej „przedsiębiorcami”, stosują system jakości określający obowiązki, procesy i zasady zarządzania ryzykiem związane z ich działalnością. Działania podejmowane w zakresie dystrybucji są jasno zdefiniowane i podlegają systematycznemu przeglądowi. Należy udokumentować, a w uzasadnionych przypadkach zwalidować, kluczowe dla jakości produktów leczniczych etapy procesów dystrybucji i ich istotne zmiany. Za system jakości odpowiedzialne są osoby kierujące przedsiębiorstwem.
-1.2 System jakości
-1) system jakości obejmuje strukturę organizacyjną, procedury, procesy i zasoby, a także działania niezbędne do zapewnienia, że dostarczony produkt leczniczy utrzymuje jakość oraz pochodzi z legalnego źródła dostaw i pozostaje w legalnym łańcuchu dostaw podczas przechowywania i transportu;
-2) system jakości jest udokumentowany, monitoruje się jego skuteczność, a działania z nim związane są zdefiniowane i udokumentowane w księdze jakości w postaci papierowej lub elektronicznej;
-3) p rzedsiębiorca wyznacza osobę odpowiedzialną za wprowadzenie i stosowanie systemu jakości i nadaje tej osobie wystarczające i jasno określone kompetencje;
-4) p rzedsiębiorca zapewnia kompetentny personel do obsługi wszystkich elementów systemu jakości, a także przeznacza na jego potrzeby odpowiednie pomieszczenia i wyposażenie;
-5) p rzy tworzeniu lub zmianach systemu jakości należy brać pod uwagę skalę, strukturę i złożoność działalności przedsiębiorcy;
-6) p rzedsiębiorca wprowadza skuteczny system kontroli zmian, zgodny z procedurami zarządzania ryzykiem w zakresie jakości;
-7) system jakości zapewnia:
-a) zamawianie, dostawę, przyjmowanie, przechowywanie, wydawanie lub wysyłkę produktów leczniczych w sposób zgodny z wymogami Dobrej Praktyki Dystrybucyjnej, zwanej dalej „GDP”,
-b) jasne określenie zakresu obowiązków i uprawnień kierownictwa,
-c) dostarczanie produktów leczniczych uprawnionym odbiorcom w odpowiednim terminie,
-d) bieżące dokumentowanie działań,
-e) dokumentowanie i badanie odstępstw od ustalonych procedur,
-f) podejmowanie działań naprawczych i zapobiegawczych w celu usunięcia odstępstw i zapobiegania im zgodnie z procedurami zarządzania ryzykiem w zakresie jakości.
-1.3 Zarządzanie działaniami zlecanymi podmiotom zewnętrznym System jakości obejmuje kontrolę i przegląd działań zlecanych podmiotom zewnętrznym, związanych z zamawianiem, zakupem, przechowywaniem, dostawą, eksportem i transportem produktów leczniczych. Procesy te są zgodne z zarządzaniem ryzykiem w zakresie jakości i obejmują:
-1) ocenę kompetencji zleceniobiorcy do przeprowadzenia danego działania, a także sprawdzenie, czy posiada stosowne zezwolenie, jeżeli jest ono wymagane;
-2) określenie obowiązków i sposobu wymiany informacji w odniesieniu do związanych z jakością działań zaangażowanych podmiotów;
-3) monitorowanie i przegląd realizacji zlecenia przez zleceniobiorcę, regularne wprowadzanie niezbędnych usprawnień.
-1.4 Przegląd zarządczy i monitorowanie
-1) przedsiębiorca ustanowi formalny proces okresowego przeglądu systemu jakości, który obejmuje:
-a) pomiar realizacji celów systemu jakości,
-b) ocenę wskaźników wykonania, które mogą być wykorzystane do monitorowania efektywności procesów w ramach systemu jakości, takich jak reklamacje, odstępstwa, działania naprawcze i zapobiegawcze,
-c) zmiany procesów, informacje zwrotne dotyczące działań zlecanych podmiotom zewnętrznym; procesy samooceny, w tym ocenę ryzyka i audyty, oraz oceny zewnętrzne, takie jak inspekcje, niezgodności zaobserwowane w ich trakcie i audyty przeprowadzane przez zleceniodawców,
-d) nowe przepisy, wytyczne i kwestie związane z jakością, które mogą wpływać na system zarządzania jakością,
-e) innowacje, które mogą usprawniać system jakości,
-f) zmiany otoczenia biznesowego i zmiany celów;
-2) wyniki przeglądu zarządczego systemu jakości są udokumentowane niezwłocznie po jego zakończeniu w postaci papierowej lub elektronicznej, a o wynikach przeglądu informuje się odpowiedni personel.
-1.5 Zarządzanie ryzykiem w zakresie jakości Zarządzanie ryzykiem w zakresie jakości jest systematycznym procesem oceny, kontroli, wymiany informacji i przeglądu ryzyka związanego z jakością produktów leczniczych. Można go stosować zarówno prospektywnie, jak i retrospektywnie. Zarządzanie ryzykiem w zakresie jakości zapewnia, aby ocena ryzyka związanego z jakością była oparta na wiedzy naukowej, doświadczeniach w stosowaniu danego procesu, a także by ocena ta w ostatecznym wyniku była związana z ochroną pacjenta. Nakład pracy, stopień sformalizowania i zakres dokumentowania danego procesu jest współmierny do poziomu ryzyka.
+w sprawie wymagań Dobrej Praktyki Dystrybucyjnej Na podstawie art. 79 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn.
+zm. ) zarządza się, co następuje:
 2.1 Warunki ogólne Konieczne jest zatrudnienie wystarczającej liczby kompetentnego personelu do wykonania zadań związanych z obrotem produktami leczniczymi, za które odpowiedzialny jest przedsiębiorca. Personel przechodzi szkolenie wstępne, stanowiskowe oraz szkolenia przypominające wynikające z przeglądu ryzyka związanego z jakością produktów leczniczych. Szkolenia personelu podlegają udokumentowaniu. Zakres zadań poszczególnych pracowników jest jednoznacznie zdefiniowany, a ich realizacja jest rejestrowana.
 2.2 Osoba Odpowiedzialna
 1) przedsiębiorca wyznacza Osobę Odpowiedzialną;
@@ -67,14 +34,15 @@ f) zmiany otoczenia biznesowego i zmiany celów;
 3) Osoba Odpowiedzialna może pisemnie przekazać swoje zadania innej osobie posiadającej kwalifikacje wymagane dla Osoby Odpowiedzialnej, na czas określony, ale odpowiedzialność za podejmowane przez taką upoważnioną osobę czynności ponosi Osoba Odpowiedzialna;
 4) kopię pisemnego przekazania zadań przesyła się niezwłocznie do Głównego Inspektora Farmaceutycznego;
 5) opis stanowiska pracy Osoby Odpowiedzialnej sporządza się na piśmie, nadaje on uprawnienia decyzyjne Osobie Odpowiedzialnej niezbędne do wykonywania jej obowiązków, dodatkowo przedsiębiorca przekazuje Osobie Odpowiedzialnej uprawnienia i dostęp do wszelkich zasobów niezbędnych do wypełniania jej obowiązków;
-6) Osoba Odpowiedzialna wykonuje swoje zadania w taki sposób, aby zapewnić przedsiębiorcy możliwość wykazania, iż przestrzega on zasad wynikających z ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U.
+6) Osoba Odpowiedzialna wykonuje swoje zadania w taki sposób, aby zapewnić przedsiębiorcy możliwość wykazania, iż przestrzega on zasad wynikających z ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U.
 z 2008 r. Nr 45, poz. 271, z późn. zm.) i z GDP oraz że zapewniona jest prawidłowa dystrybucja produktów leczniczych;
 7) obowiązki Osoby Odpowiedzialnej obejmują:
 a) zapewnienie, że system jakości został wprowadzony i jest stosowany,
 b) zarządzanie działalnością objętą zezwoleniem,
 c) zapewnienie, że działania przedsiębiorcy w zakresie obrotu hurtowego produktami leczniczymi zostały należycie udokumentowane,
 d) zapewnienie, że programy kształcenia i doskonalenia zawodowego zostały wprowadzone i były realizowane,
-e) koordynację i niezwłoczne przeprowadzanie czynności związanych z wycofaniem i wstrzymywaniem prof) zapewnianie efektywnego załatwiania reklamacji,
+e) koordynację i niezwłoczne przeprowadzanie czynności związanych z wycofaniem i wstrzymywaniem produktów leczniczych,
+f) zapewnianie efektywnego załatwiania reklamacji,
 g) zapewnienie, że dostawcy, odbiorcy, zleceniobiorcy i zleceniodawcy są uprawnieni do wykonywanych czynności,
 h) pisemne zatwierdzanie zlecenia podwykonawcom działań, które mogą mieć wpływ na GDP,
 i) zapewnienie w regularnych odstępach czasu, nie rzadziej niż raz na rok, przeprowadzania kontroli wewnętrznych według ustalonego programu i zapewnienie wprowadzania odpowiednich środków naprawczych i zapobiegawczych,
@@ -102,7 +70,7 @@ l) zatwierdzanie zwrotów do zapasów przeznaczonych do sprzedaży lub zbycia;
 3) pomieszczenie magazynowe jest wyposażone w odpowiednie oświetlenie;
 4) pomieszczenie magazynowe jest dostosowane do zakresu zezwolenia i określonego w nim asortymentu produktów leczniczych;
 5) przechowywanie produktów leczniczych odbywa się wyłącznie w pomieszczeniach objętych zezwoleniem na obrót hurtowy produktami leczniczymi, a w przypadku posiadaczy zezwolenia na wytwarzanie lub import produktów leczniczych w pomieszczeniach objętych takim zezwoleniem;
-6) produkty lecznicze oddziela się od innego asortymentu określonego w art. 72 ust. 5 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, przechowując je w oddzielonych, jednoznacznie oznakowanych pomieszczeniach, do których dostęp ma wyłącznie upoważniony personel, lub oddziela się przy pomocy zwalidowanego skomputeryzowanego systemu zapewniającego równoważne bezpieczeństwo;
+6) produkty lecznicze oddziela się od innego asortymentu określonego w art. 72 ust. 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, przechowując je w oddzielonych, jednoznacznie oznakowanych pomieszczeniach, do których dostęp ma wyłącznie upoważniony personel, lub oddziela się przy pomocy zwalidowanego skomputeryzowanego systemu zapewniającego równoważne bezpieczeństwo;
 7) produkty lecznicze, w przypadku których rozpatrywana jest decyzja o utylizacji, oraz produkty wycofane z zapasów przeznaczonych do sprzedaży lub zbycia oddziela się fizycznie lub przy pomocy zwalidowanego skomputeryzowanego systemu zapewniającego równoważne bezpieczeństwo, przy czym produkty lecznicze otrzymane z państwa trzeciego, ale nieprzeznaczone na rynek Unii Europejskiej, są fizycznie oddzielone;
 8) produkty lecznicze: sfałszowane, przeterminowane, wycofane lub wstrzymane zostają niezwłocznie fizycznie oddzielone od produktów leczniczych przeznaczonych do dystrybucji i są przechowywane w dedykowanym im pomieszczeniu, do którego dostęp ma wyłącznie upoważniony personel;
 9) przedsiębiorca, który przechowuje produkty lecznicze wymagające szczególnych warunków przechowywania, zapewnia ich przechowywanie w pomieszczeniu stanowiącym konstrukcyjnie samodzielną całość, odpowiednio zabezpieczonym, zapewniającym bezpieczeństwo życia, zdrowia, mienia oraz środowiska;
@@ -149,7 +117,8 @@ h) inny sprzęt mający wpływ na jakość produktów leczniczych.
 8) przedsiębiorca określi procedury na wypadek błędu lub awarii systemu, obejmujące sposób odzyskiwania danych.
 3.6 Kwalifikacja i walidacja
 1) przedsiębiorca ustali, w jakich przypadkach niezbędna jest kwalifikacja najważniejszego sprzętu lub walidacja najważniejszych procesów, aby zapewnić prawidłową instalację i funkcjonowanie sprzętu, przy czym zakres i zasięg działań związanych z kwalifikacją lub walidacją jest zgodny z podejściem opartym na udokumentowanej ocenie ryzyka;
-2) sprzęt i procesy przed rozpoczęciem ich stosowania oraz po istotnej zmianie, naprawie lub konserwacji wymaga3) przedsiębiorca sporządza raporty z walidacji i kwalifikacji, zawierające podsumowanie uzyskanych wyników i uwagi na temat odnotowanych odstępstw;
+2) sprzęt i procesy przed rozpoczęciem ich stosowania oraz po istotnej zmianie, naprawie lub konserwacji wymagają zwalidowania lub kwalifikacji;
+3) przedsiębiorca sporządza raporty z walidacji i kwalifikacji, zawierające podsumowanie uzyskanych wyników i uwagi na temat odnotowanych odstępstw;
 4) dokumentuje się odstępstwa od ustalonych procedur oraz podejmuje działania w celu usunięcia odstępstw i uniknięcia ich ponownego wystąpienia (działania naprawcze i zapobiegawcze);
 5) personel sporządza i zatwierdza dokumenty poświadczające wykonaną walidację i akceptację poszczególnych odstępstw od procesów lub sprzętu.
 4.1 Warunki ogólne
@@ -178,6 +147,7 @@ g) nazwę i adres dostawcy, jeżeli dotyczy,
 h) nazwę i adres przechowującego, jeżeli dotyczy,
 i) nazwę i adres pośrednika, jeżeli dotyczy,
 j) nazwę i adres odbiorcy, jeżeli dotyczy;
+16) przeprowadzenie danej operacji jest na bieżąco ewidencjonowane.
 5.1 Warunki ogólne
 1) czynności podejmowane przez przedsiębiorcę zapewniają zachowanie tożsamości produktu leczniczego oraz prowadzenie dystrybucji produktów leczniczych zgodnie z informacjami na opakowaniu zbiorczym zewnętrznym;
 2) przedsiębiorca wykorzystuje dostępne środki, aby ograniczyć do minimum ryzyko wprowadzenia sfałszowanych produktów leczniczych do legalnego łańcucha dostaw;
@@ -197,14 +167,14 @@ d) ceny niższe lub wyższe od zwyczajowo stosowanych.
 1) przedsiębiorca upewnia się, że dostarcza produkty lecznicze jedynie podmiotom uprawnionym do dystrybucji produktów leczniczych;
 2) przedsiębiorca monitoruje swoje transakcje i sprawdza nieprawidłowości w strukturze sprzedaży substancji odurzających, substancji psychotropowych i innych niebezpiecznych substancji;
 3) przedsiębiorca bada i w stosownych przypadkach zgłasza właściwym organom przypadki nietypowej struktury sprzedaży, które mogą stanowić nielegalne lub niewłaściwe wykorzystywanie produktu leczniczego, a w uzasadnionych przypadkach przedsiębiorca może odmówić sprzedaży, jeżeli nie spowoduje to zagrożenia życia lub zdrowia pacjenta;
-4) przedsiębiorca w celu zapewnienia odpowiedniej do potrzeb pacjentów ilości produktów leczniczych, określonej w art. 36z ust. 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, zaopatruje w pierwszej kolejności apteki, działy farmacji szpitalnej i punkty apteczne na terytorium Rzeczypospolitej Polskiej.
+4) przedsiębiorca w celu zapewnienia odpowiedniej do potrzeb pacjentów ilości produktów leczniczych, określonej w art. 36z ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, zaopatruje w pierwszej kolejności apteki, działy farmacji szpitalnej i punkty apteczne na terytorium Rzeczypospolitej Polskiej.
 5.4 Przyjmowanie produktów leczniczych
 1) w procesie przyjmowania produktów leczniczych sprawdza się zgodność przychodzącej dostawy z zamówieniem oraz czy produkty lecznicze pochodzą od zatwierdzonych dostawców i czy nie zostały one w widoczny sposób uszkodzone podczas transportu;
 2) pierwszeństwo daje się produktom leczniczym wymagającym specjalnych warunków przechowywania lub zachowania specjalnych środków bezpieczeństwa, które po sprawdzeniu niezwłocznie kieruje się do właściwych pomieszczeń magazynowych;
-3) serie produktów leczniczych przeznaczone do państw Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) stron umowy o Europejskim Obszarze Gospodarczym, mogą być kierowane do zapasów przeznaczonych do sprzedaży lub zbycia dopiero po sprawdzeniu, zgodnie z pisemnymi
+3) serie produktów leczniczych przeznaczone do państw Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, mogą być kierowane do zapasów przeznaczonych do sprzedaży lub zbycia dopiero po sprawdzeniu, zgodnie z pisemnymi procedurami, że produkty te są dopuszczone do obrotu na terenie kraju sprzedaży lub ich zbycia;
 4) w przypadku serii pochodzących z innego państwa członkowskiego, odpowiednio przeszkolony personel, przed skierowaniem ich do zapasów przeznaczonych do sprzedaży lub zbycia, sprawdzi zabezpieczenia, o których mowa w art. 51 ust. 1 dyrektywy 2001/83/WE Parlamentu Europejskiego i Rady z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi (Dz. Urz. WE L 311 z 28.11.2001, str. 67, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 27, str. 69), lub inny dowód wprowadzenia produktów leczniczych do obrotu w danym państwie, sporządzony na podstawie równoważnego systemu.
 5.5 Przechowywanie
-1) produkty lecznicze przechowywane są oddzielnie od innego asortymentu określonego w art. 72 ust. 5 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne;
+1) produkty lecznicze przechowywane są oddzielnie od innego asortymentu określonego w art. 72 ust. 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne;
 2) produkty lecznicze oraz wyroby medyczne chroni się od szkodliwego wpływu światła, temperatury, wilgoci i innych czynników zewnętrznych;
 3) dostarczane opakowania zbiorcze zewnętrzne dla produktów leczniczych są, w razie potrzeby, czyszczone przed skierowaniem do pomieszczenia magazynowego;
 4) podejmowane czynności zapewniają utrzymanie właściwych warunków przechowywania i pozwalają na odpowiednie zabezpieczenie zapasów;
@@ -220,7 +190,7 @@ d) ceny niższe lub wyższe od zwyczajowo stosowanych.
 5.8 Dostawy Do dostawy dołącza się dokument zawierający datę, nazwę i postać farmaceutyczną produktu leczniczego, numer serii i datę ważności, dostarczaną ilość, nazwę i adres dostawcy, nazwę odbiorcy i jego adres, adres dostawy (adres, pod którym rzeczywiście znajdują się pomieszczenia magazynowe) oraz warunki transportu i przechowywania danych produktów leczniczych, a dokumentację prowadzi się w taki sposób, aby móc ustalić, gdzie w danym momencie rzeczywiście znajduje się produkt leczniczy.
 5.9 Eksport do państw trzecich
 1) przedsiębiorca wprowadza środki zapobiegające wprowadzeniu do obrotu na teren państw Unii Europejskiej produktów leczniczych przeznaczonych wyłącznie na eksport, które nie posiadają pozwolenia na dopuszczenie do obrotu na terenie Unii Europejskiej;
-2) przedsiębiorcy dostarczają produkty lecznicze podmiotom w państwach trzecich, zapewniając, aby takie dostawy trafiały wyłącznie do podmiotów posiadających zezwolenie lub uprawnienie do otrzymywania produktów leczniczych do dystrybucji hurtowej lub do dostaw dla ludności zgodnie z właściwymi przepisami prawnymi i adminiROZDZIAŁ 6 REKLAMACJE, ZWROTY, PODEJRZENIA SFAŁSZOWANIA PRODUKTÓW LECZNICZYCH, WSTRZYMANIE I WYCOFANIE PRODUKTÓW LECZNICZYCH
+2) przedsiębiorcy dostarczają produkty lecznicze podmiotom w państwach trzecich, zapewniając, aby takie dostawy trafiały wyłącznie do podmiotów posiadających zezwolenie lub uprawnienie do otrzymywania produktów leczniczych do dystrybucji hurtowej lub do dostaw dla ludności zgodnie z właściwymi przepisami prawnymi i administracyjnymi w tych państwach.
 6.1 Warunki ogólne
 1) ewidencjonuje się i rozpatruje, zgodnie z pisemnymi procedurami, reklamacje oraz sprawy dotyczące zwrotów, podejrzeń fałszowania produktów leczniczych oraz przypadki wstrzymania i wycofania produktów leczniczych, udostępniając powyższą dokumentację właściwym organom;
 2) przed dopuszczeniem zwróconych produktów leczniczych do ponownego zbycia lub sprzedaży należy poddać je ocenie, przy czym warunkiem skutecznego przeciwdziałania fałszowaniu produktów leczniczych jest stosowanie spójnego podejścia przez partnerów w całym łańcuchu dostaw.
@@ -247,7 +217,7 @@ e) dokumenty w zakresie pobrania produktu leczniczego i jego zwrot do dystrybuto
 f) powrót produktu leczniczego do lodówki w miejscu dystrybucji,
 g) czas przechowywania, jeżeli do niego doszło;
 4) produkty lecznicze zwrócone do zapasów przeznaczonych do sprzedaży lub zbycia rozmieszcza się w taki sposób, aby zapewnić efektywność systemu opartego na metodzie FEFO; odstępstwa od tej zasady odnotowuje się w dokumentacji;
-5) skradzione produkty lecznicze, które odzyskano, nie mogą powrócić do zapasów przeznaczonych do sprzedaży
+5) skradzione produkty lecznicze, które odzyskano, nie mogą powrócić do zapasów przeznaczonych do sprzedaży lub zbycia.
 6.4 Sfałszowane produkty lecznicze
 1) przedsiębiorca niezwłocznie powiadomi właściwe organy i posiadacza pozwolenia na dopuszczenie do obrotu o produkcie leczniczym, w przypadku którego stwierdzono lub podejrzewa się sfałszowanie, zgodnie z opracowaną procedurą dotyczącą takich przypadków;
 2) przedsiębiorca ewidencjonuje wraz z oryginalnymi dokumentami dotyczącymi danej sprawy oraz bada przypadki, w których stwierdzono lub podejrzewa się sfałszowanie;
@@ -256,7 +226,7 @@ g) czas przechowywania, jeżeli do niego doszło;
 6.5 Wycofanie lub wstrzymanie produktów leczniczych
 1) regularnie (przynajmniej raz w roku) ocenia się skuteczność procedur dotyczących wycofania lub wstrzymania produktów leczniczych;
 2) rozpoczęcie czynności związanych z wycofaniem lub wstrzymaniem produktu leczniczego jest możliwe bezzwłocznie i w każdym momencie;
-3) przedsiębiorca postępuje zgodnie z przepisami wydanymi na podstawie art. 121 ust. 5 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne;
+3) przedsiębiorca postępuje zgodnie z przepisami wydanymi na podstawie art. 121 ust. 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne;
 4) czynności związane z wycofaniem lub wstrzymaniem produktu leczniczego są ewidencjonowane w momencie ich podjęcia, a dokumentację udostępnia się właściwym organom;
 5) osoby odpowiedzialne za wycofanie lub wstrzymanie produktu leczniczego mają łatwy i bezpośredni dostęp do dokumentacji dotyczącej dystrybucji, zawierającej pełne informacje o dostawcach i odbiorcach, którym bezpośrednio dostarczono ten produkt (wraz z adresami, numerami telefonu lub faksu w godzinach pracy i poza nimi, numerami serii, datami ważności, oraz informacje o dostarczonych ilościach), w tym informacje dotyczące wywiezionych produktów i próbek produktów leczniczych;
 6) przebieg procesu wycofania lub wstrzymania produktu leczniczego jest dokumentowany w celu sporządzenia końcowego raportu.
@@ -292,7 +262,8 @@ g) czas przechowywania, jeżeli do niego doszło;
 3) wprowadza się procedurę dotyczącą badania wahań temperatury i postępowania w przypadku odchyleń od wartości granicznych;
 4) przedsiębiorca odpowiada za to, aby pojazdy, sprzęt i pomieszczenia komór przeładunkowych używane w procesie transportu produktów leczniczych nadawały się do takiego zastosowania i stanowiły skuteczne zabezpieczenie przed warunkami, które mogłyby wpłynąć na jakość lub integralność produktów leczniczych;
 5) wprowadza się pisemne procedury dotyczące korzystania z pojazdów i sprzętu używanego w procesie dystrybucji oraz procedury ich konserwacji, które obejmują kwestie czyszczenia pojazdów i sprzętu oraz środki ostrożności;
-6) przeprowadza się oceny ryzyka tras dostawy, aby ustalić, w jakich przypadkach wymagana jest kontrola tempe7) sprzęt używany do monitorowania temperatury w czasie transportu w pojazdach lub w kontenerach jest regularnie, przynajmniej raz w roku, konserwowany i kalibrowany;
+6) przeprowadza się oceny ryzyka tras dostawy, aby ustalić, w jakich przypadkach wymagana jest kontrola temperatury;
+7) sprzęt używany do monitorowania temperatury w czasie transportu w pojazdach lub w kontenerach jest regularnie, przynajmniej raz w roku, konserwowany i kalibrowany;
 8) do transportu produktów leczniczych używa się, jeżeli to możliwe, pojazdów i sprzętu specjalnie przeznaczonych do tego celu; jeżeli używane są inne pojazdy lub sprzęt, wprowadza się procedury zapewniające utrzymanie jakości produktów leczniczych;
 9) produkty lecznicze są doręczane na adres wskazany w specyfikacji wysyłkowej, pod nadzorem odbiorcy do jego pomieszczeń; nie pozostawia się produktów leczniczych w innych pomieszczeniach;
 10) przedsiębiorca wyznaczy osoby do obsługi dostaw nadzwyczajnych poza zwykłymi godzinami pracy przedsiębiorstwa oraz wprowadzi pisemne procedury dotyczące takich przypadków;
@@ -308,11 +279,12 @@ g) czas przechowywania, jeżeli do niego doszło;
 5) etykiety na kontenerach umożliwiają identyfikację ich zawartości i ustalenie pochodzenia produktów leczniczych.
 9.4 Produkty lecznicze wymagające specjalnych warunków
 1) w odniesieniu do produktów leczniczych wymagających specjalnych warunków, określonych odrębnymi przepisami, przedsiębiorca utrzymuje łańcuch dostaw, zgodnie z wymogami zawartymi w odrębnych przepisach, i wprowadza dodatkowe systemy kontrolne oraz procedury postępowania na wypadek kradzieży;
-2) produkty lecznicze zawierające materiały wysoce aktywne i radioaktywne są transportowane w kontenerach i pojazdach tylko do tego przeznaczonych i zabezpieczonych, a stosowane środki bezpieczeństwa mają być zgodne w szczególności z przepisami ustawy z dnia 29 listopada 2000 r. Prawo atomowe (Dz. U. z 2014 r. poz. 1512);
+2) produkty lecznicze zawierające materiały wysoce aktywne i radioaktywne są transportowane w kontenerach i pojazdach tylko do tego przeznaczonych i zabezpieczonych, a stosowane środki bezpieczeństwa mają być zgodne w szczególności z przepisami ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2014 r. poz. 1512);
 3) w przypadku produktów leczniczych wrażliwych na temperaturę używa się specjalnego sprzętu (np. opakowań termicznych, kontenerów i pojazdów o regulowanej temperaturze), aby zapewnić utrzymanie właściwych warunków transportu między wytwórcą, przedsiębiorcą i odbiorcą;
 4) w pojazdach o regulowanej temperaturze przeprowadza się mapowanie temperatury w reprezentatywnych warunkach, biorąc pod uwagę wahania sezonowe, a sprzęt do monitorowania temperatury używany podczas transportu poddaje się regularnie konserwacji i kalibracji;
 5) na żądanie odbiorcy udostępnia się dokumentację potwierdzającą zachowanie prawidłowej temperatury przechowywania produktów leczniczych podczas transportu;
-6) jeżeli w izolowanych pojemnikach stosowane są wkłady chłodzące, należy je umieścić w taki sposób, aby pro7) personel jest przeszkolony w zakresie obsługi izolowanych pojemników (ustawienia sezonowe) i ponownego wykorzystania wkładów chłodzących;
+6) jeżeli w izolowanych pojemnikach stosowane są wkłady chłodzące, należy je umieścić w taki sposób, aby produkt leczniczy nie stykał się z nimi bezpośrednio;
+7) personel jest przeszkolony w zakresie obsługi izolowanych pojemników (ustawienia sezonowe) i ponownego wykorzystania wkładów chłodzących;
 8) przedsiębiorca wprowadzi system kontroli ponownego wykorzystania wkładów chłodzących, zapobiegający omyłkowemu użyciu nie w pełni schłodzonych wkładów;
 9) przedsiębiorca odpowiednio fizycznie oddzieli zamrożone i schłodzone wkłady chłodzące;
 10) przedsiębiorca w pisemnej procedurze określi proces dostawy wrażliwych produktów leczniczych oraz kontrolę sezonowych wahań temperatury.
@@ -320,7 +292,7 @@ g) czas przechowywania, jeżeli do niego doszło;
 1) system jakości pośrednika jest udokumentowany, monitoruje się jego skuteczność, a podejmowane działania z nim związane są zdefiniowane i udokumentowane w księdze jakości w postaci papierowej lub elektronicznej;
 2) system jakości pośrednika określa obowiązki, procesy i zarządzanie ryzykiem w zakresie działalności pośrednika;
 3) system jakości pośrednika obejmuje co najmniej procedury postępowania w przypadku wstrzymania bądź wycofania produktu leczniczego, procedury postępowania w przypadku podejrzenia sfałszowania produktu leczniczego, procedury kwalifikacji uprawnień podmiotów prowadzących obrót produktami leczniczymi.
-10.2 Personel pośrednika Personel zajmujący się pośrednictwem jest przeszkolony w zakresie przepisów ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne oraz GDP.
+10.2 Personel pośrednika Personel zajmujący się pośrednictwem jest przeszkolony w zakresie przepisów ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne oraz GDP.
 10.3 Dokumentacja
 1) pośrednik wprowadzi i udokumentuje przestrzeganie co najmniej procedur:
 a) rozpatrywania reklamacji,
@@ -328,21 +300,63 @@ b) zgłaszania podejrzeń sfałszowania produktów leczniczych właściwym organ
 c) współpracy w zakresie wstrzymania bądź wycofania produktów leczniczych,
 d) mających na celu upewnienie się, że produkty lecznicze będące przedmiotem pośrednictwa są objęte pozwoleniem na dopuszczenie do obrotu,
 e) kwalifikacji uprawnień podmiotów prowadzących obrót produktami leczniczymi;
-2) pośrednik prowadzi, w postaci pisemnej lub elektronicznej, ewidencję transakcji kupna lub sprzedaży, o której mowa w art. 73e pkt 4 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne.
+2) pośrednik prowadzi, w postaci pisemnej lub elektronicznej, ewidencję transakcji kupna lub sprzedaży, o której mowa w art. 73e pkt 4 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
 
-#### ROZDZIAŁ 2 PERSONEL
+**§ 1.** Wymagania Dobrej Praktyki Dystrybucyjnej dotyczące przedsiębiorców prowadzących obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, oraz pośredników w obrocie takimi produktami leczniczymi, określa załącznik do rozporządzenia.
 
-#### ROZDZIAŁ 3 POMIESZCZENIA I SPRZĘT
+**§ 2.** Przedsiębiorcy prowadzący w dniu wejścia w życie rozporządzenia obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, dostosują się do wymagań określonych w rozporządzeniu w terminie 12 miesięcy od dnia wejścia w życie rozporządzenia.
 
-#### ROZDZIAŁ 4 DOKUMENTACJA
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: B.A. Arłukowicz WYMAGANIA DOBREJ PRAKTYKI DYSTRYBUCYJNEJ DOTYCZĄCE PRZEDSIĘBIORCÓW PROWADZĄCYCH OBRÓT HURTOWY PRODUKTAMI LECZNICZYMI, Z WYŁĄCZENIEM PRODUKTÓW LECZNICZYCH WETERYNARYJNYCH, ORAZ POŚREDNIKÓW W OBROCIE PRODUKTAMI LECZNICZYMI ROZDZIAŁ 1 – ZARZĄDZANIE JAKOŚCIĄ 1.1 Warunki ogólne Przedsiębiorcy prowadzący obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, zwani dalej „przedsiębiorcami”, stosują system jakości określający obowiązki, procesy i zasady zarządzania ryzykiem związane z ich działalnością. Działania podejmowane w zakresie dystrybucji są jasno zdefiniowane i podlegają systematycznemu przeglądowi. Należy udokumentować, a w uzasadnionych przypadkach zwalidować, kluczowe dla jakości produktów leczniczych etapy procesów dystrybucji i ich istotne zmiany. Za system jakości odpowiedzialne są osoby kierujące przedsiębiorstwem. 1.2 System jakości
 
-#### ROZDZIAŁ 5 CZYNNOŚCI
+- **1)** system jakości obejmuje strukturę organizacyjną, procedury, procesy i zasoby, a także działania niezbędne do zapewnienia, że dostarczony produkt leczniczy utrzymuje jakość oraz pochodzi z legalnego źródła dostaw i pozostaje w legalnym łańcuchu dostaw podczas przechowywania i transportu;
+- **2)** system jakości jest udokumentowany, monitoruje się jego skuteczność, a działania z nim związane są zdefiniowane i udokumentowane w księdze jakości w postaci papierowej lub elektronicznej;
+- **3)** przedsiębiorca wyznacza osobę odpowiedzialną za wprowadzenie i stosowanie systemu jakości i nadaje tej osobie wystarczające i jasno określone kompetencje;
+- **4)** przedsiębiorca zapewnia kompetentny personel do obsługi wszystkich elementów systemu jakości, a także przeznacza na jego potrzeby odpowiednie pomieszczenia i wyposażenie;
+- **5)** przy tworzeniu lub zmianach systemu jakości należy brać pod uwagę skalę, strukturę i złożoność działalności przedsiębiorcy;
+- **6)** przedsiębiorca wprowadza skuteczny system kontroli zmian, zgodny z procedurami zarządzania ryzykiem w zakresie jakości;
+- **7)** system jakości zapewnia:
+    - **a)** zamawianie, dostawę, przyjmowanie, przechowywanie, wydawanie lub wysyłkę produktów leczniczych w sposób zgodny z wymogami Dobrej Praktyki Dystrybucyjnej, zwanej dalej „GDP”,
+    - **b)** jasne określenie zakresu obowiązków i uprawnień kierownictwa,
+    - **c)** dostarczanie produktów leczniczych uprawnionym odbiorcom w odpowiednim terminie,
+    - **d)** bieżące dokumentowanie działań,
+    - **e)** dokumentowanie i badanie odstępstw od ustalonych procedur,
+    - **f)** podejmowanie działań naprawczych i zapobiegawczych w celu usunięcia odstępstw i zapobiegania im zgodnie z procedurami zarządzania ryzykiem w zakresie jakości.
 
-#### ROZDZIAŁ 7 DZIAŁANIA ZLECANE PODMIOTOM ZEWNĘTRZNYM
+1. 3 Zarządzanie działaniami zlecanymi podmiotom zewnętrznym System jakości obejmuje kontrolę i przegląd działań zlecanych podmiotom zewnętrznym, związanych z zamawianiem, zakupem, przechowywaniem, dostawą, eksportem i transportem produktów leczniczych. Procesy te są zgodne z zarządzaniem ryzykiem w zakresie jakości i obejmują:
 
-#### ROZDZIAŁ 8 KONTROLE WEWNĘTRZNE
+- **1)** ocenę kompetencji zleceniobiorcy do przeprowadzenia danego działania, a także sprawdzenie, czy posiada stosowne zezwolenie, jeżeli jest ono wymagane;
+- **2)** określenie obowiązków i sposobu wymiany informacji w odniesieniu do związanych z jakością działań zaangażowanych podmiotów;
+- **3)** monitorowanie i przegląd realizacji zlecenia przez zleceniobiorcę, regularne wprowadzanie niezbędnych usprawnień.
 
-#### ROZDZIAŁ 9 TRANSPORT
+1. 4 Przegląd zarządczy i monitorowanie
 
-#### ROZDZIAŁ 10 SZCZEGÓLNE WARUNKI DOTYCZĄCE POŚREDNIKÓW W OBROCIE PRODUKTAMI LECZNICZYMI
+- **1)** przedsiębiorca ustanowi formalny proces okresowego przeglądu systemu jakości, który obejmuje:
+    - **a)** pomiar realizacji celów systemu jakości,
+    - **b)** ocenę wskaźników wykonania, które mogą być wykorzystane do monitorowania efektywności procesów w ramach systemu jakości, takich jak reklamacje, odstępstwa, działania naprawcze i zapobiegawcze,
+    - **c)** zmiany procesów, informacje zwrotne dotyczące działań zlecanych podmiotom zewnętrznym; procesy samooceny, w tym ocenę ryzyka i audyty, oraz oceny zewnętrzne, takie jak inspekcje, niezgodności zaobserwowane w ich trakcie i audyty przeprowadzane przez zleceniodawców,
+    - **d)** nowe przepisy, wytyczne i kwestie związane z jakością, które mogą wpływać na system zarządzania jakością,
+    - **e)** innowacje, które mogą usprawniać system jakości,
+    - **f)** zmiany otoczenia biznesowego i zmiany celów;
+
+- **2)** wyniki przeglądu zarządczego systemu jakości są udokumentowane niezwłocznie po jego zakończeniu w postaci papierowej lub elektronicznej, a o wynikach przeglądu informuje się odpowiedni personel.
+
+1. 5 Zarządzanie ryzykiem w zakresie jakości Zarządzanie ryzykiem w zakresie jakości jest systematycznym procesem oceny, kontroli, wymiany informacji i przeglądu ryzyka związanego z jakością produktów leczniczych. Można go stosować zarówno prospektywnie, jak i retrospektywnie. Zarządzanie ryzykiem w zakresie jakości zapewnia, aby ocena ryzyka związanego z jakością była oparta na wiedzy naukowej, doświadczeniach w stosowaniu danego procesu, a także by ocena ta w ostatecznym wyniku była związana z ochroną pacjenta. Nakład pracy, stopień sformalizowania i zakres dokumentowania danego procesu jest współmierny do poziomu ryzyka.
+
+#### ROZDZIAŁ 2 – PERSONEL
+
+#### ROZDZIAŁ 3 – POMIESZCZENIA I SPRZĘT
+
+#### ROZDZIAŁ 4 – DOKUMENTACJA
+
+#### ROZDZIAŁ 5 – CZYNNOŚCI
+
+#### ROZDZIAŁ 6 – REKLAMACJE, ZWROTY, PODEJRZENIA SFAŁSZOWANIA PRODUKTÓW LECZNICZYCH, WSTRZYMANIE I WYCOFANIE PRODUKTÓW LECZNICZYCH
+
+#### ROZDZIAŁ 7 – DZIAŁANIA ZLECANE PODMIOTOM ZEWNĘTRZNYM
+
+#### ROZDZIAŁ 8 – KONTROLE WEWNĘTRZNE
+
+#### ROZDZIAŁ 9 – TRANSPORT
+
+#### ROZDZIAŁ 10 – SZCZEGÓLNE WARUNKI DOTYCZĄCE POŚREDNIKÓW W OBROCIE PRODUKTAMI LECZNICZYMI
 

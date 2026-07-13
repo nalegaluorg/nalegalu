@@ -26,9 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000362) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/362/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ustanowienia Odznaki Honorowej „Bene merito”, ustalenia jej wzoru, zasad i trybu nadawania oraz noszenia Na podstawie art. 4 ust. 2 i art. 6 ust. 1 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. z 2016 poz. 38) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 5 listopada 2009 r. w sprawie ustanowienia Odznaki Honorowej „Bene merito”, ustalenia jej wzoru, zasad i trybu nadawania oraz noszenia (Dz. U. poz. 1469) załącznik nr 5 otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki Załącznik do rozporządzenia RadyMinistrów z dnia 16 lutego 2021 r.
-(poz. ) WZÓR LEGITYMACJIODZNAKIHONOROWEJ „BENEMERITO” WZÓR LEGITYMACJI ODZNAKI HONOROWEJ „BENE MERITO” MINISTERSTWO PANI/PAN SPRAW ZAGRANICZNYCH ……………………………….
-ODZNAKA POSIADA PRAWO DO NOSZENIA ODZNAKI HONOROWEJ Nr ………………… „BENE MERITO” DYREKTOR BIURA MINISTRA
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 5 listopada 2009 r. w sprawie ustanowienia Odznaki Honorowej „Bene merito”, ustalenia jej wzoru, zasad i trybu nadawania oraz noszenia (Dz. U. poz. 1469) załącznik nr 5 otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

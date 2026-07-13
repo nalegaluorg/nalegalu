@@ -26,18 +26,23 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001274) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1274/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Przygotowanie i realizacja działań w zakresie współpracy z lokalną grupą działania” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 Na podstawie art. 45 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2020 r. poz. 217, 300 i 695) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 19 października 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Przygotowanie i realizacja działań w zakresie współpracy z lokalną grupą działania” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U.
-poz. 1839, z 2018 r. poz. 1015 oraz z 2019 r. poz. 1698) wprowadza się następujące zmiany:
-1) w § 6 w pkt 4 we wprowadzeniu do wyliczenia po wyrazie „współpracy” dodaje się wyrazy „lub członków tych LGD”;
-2) w § 7 w ust. 1 wyrazy „5%” zastępuje się wyrazami „10%”;
-3) w § 8 w ust. 2 w pkt 2 uchyla się lit. c;
-4) w § 20 w ust. 1 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „10) zabezpieczenia należytego wykonania zobowiązań określonych w umowie.”;
-5) uchyla się § 21;
-6) w § 22:
-a) po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Środki finansowe z tytułu pomocy są wypłacane, jeżeli wszystkie LGD uczestniczące w realizacji operacji złożyły weksel niezupełny (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu udostępnionym przez zarząd województwa, nie później niż do dnia złożenia pierwszego wniosku o płatność, a gdy zostały wezwane do usunięcia braków w tym wniosku, zgodnie z § 24 ust. 1 lub 2 – nie później niż w terminie 21 dni od dnia doręczenia tego wezwania.”,
-b) w ust. 2 w pkt 1 uchyla się lit. b.
-§ 2. 1. Do przyznawania pomocy finansowej w ramach poddziałania „Przygotowanie i realizacja działań w zakresie współpracy z lokalną grupą działania” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, zwanej dalej „pomocą”, w sprawach objętych postępowaniami wszczętymi i niezakończonymi do dnia wejścia w życie niniejszego rozporządzenia zawarciem umowy o przyznaniu pomocy stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 19 października 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach poddziałania „Przygotowanie i realizacja działań w zakresie współpracy z lokalną grupą działania” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1839, z 2018 r. poz. 1015 oraz z 2019 r. poz. 1698) wprowadza się następujące zmiany:
+
+- **1)** w § 6 w pkt 4 we wprowadzeniu do wyliczenia po wyrazie „współpracy” dodaje się wyrazy „lub członków tych LGD”;
+- **2)** w § 7 w ust. 1 wyrazy „5%” zastępuje się wyrazami „10%”;
+- **3)** w § 8 w ust. 2 w pkt 2 uchyla się lit. c;
+- **4)** w § 20 w ust. 1 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „10) zabezpieczenia należytego wykonania zobowiązań określonych w umowie.”;
+- **5)** uchyla się § 21;
+- **6)** w § 22:
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Środki finansowe z tytułu pomocy są wypłacane, jeżeli wszystkie LGD uczestniczące w realizacji operacji złożyły weksel niezupełny (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu udostępnionym przez zarząd województwa, nie później niż do dnia złożenia pierwszego wniosku o płatność, a gdy zostały wezwane do usunięcia braków w tym wniosku, zgodnie z § 24 ust. 1 lub 2 – nie później niż w terminie 21 dni od dnia doręczenia tego wezwania.”,
+    - **b)** w ust. 2 w pkt 1 uchyla się lit. b.
+
+**§ 2.**
+
+1. Do przyznawania pomocy finansowej w ramach poddziałania „Przygotowanie i realizacja działań w zakresie współpracy z lokalną grupą działania” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014–2020, zwanej dalej „pomocą”, w sprawach objętych postępowaniami wszczętymi i niezakończonymi do dnia wejścia w życie niniejszego rozporządzenia zawarciem umowy o przyznaniu pomocy stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
 2. Do wypłaty środków finansowych z tytułu pomocy przyznanej przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. J. Białkowski
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: wz. J. Białkowski
 

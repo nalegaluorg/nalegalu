@@ -27,43 +27,56 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001220) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1220/text.pdf) |
 
 zmieniające rozporządzenie w sprawie studiów Na podstawie art. 81 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 27 września 2018 r. w sprawie studiów (Dz. U.
-z 2023 r. poz. 2787) wprowadza się następujące zmiany:
-1) w § 7 w ust. 6 wyrazy „w BIP” zastępuje się wyrazami „w Biuletynie Informacji Publicznej”;
-2) § 10 otrzymuje brzmienie: „§ 10. 1. Wniosek o pozwolenie na utworzenie studiów sporządza się w systemie teleinformatycznym wskazanym przez ministra właściwego do spraw szkolnictwa wyższego i nauki na jego stronie podmiotowej w Biuletynie Informacji Publicznej.
-2. Wniosek o pozwolenie na utworzenie studiów generuje się z systemu teleinformatycznego, o którym mowa w ust. 1, w formacie PDF. Rektor opatruje wniosek podpisem zaufanym albo kwalifikowanym podpisem elektronicznym.
-3. Wniosek o pozwolenie na utworzenie studiów, o którym mowa w ust. 2, składa się na adres do doręczeń elektronicznych ministra właściwego do spraw szkolnictwa wyższego i nauki.”;
-3) w § 15 ust. 4 otrzymuje brzmienie: „4. Teczkę akt osobowych studenta, z wyłączeniem dokumentów, o których mowa w ust. 1 pkt 1 lit. a oraz pkt 2 i 3, przechowuje się w archiwum uczelni przez okres 50 lat.”;
-4) w § 17:
-a) w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) nazwę kierunku, poziomu i profilu studiów;”,
-b) w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „Ukończenie studiów odnotowuje się w:”;
-5) w § 18 ust. 1 otrzymuje brzmienie: „1. Protokół egzaminu dyplomowego zawiera datę egzaminu, imiona i nazwisko studenta, numer albumu, nazwę kierunku, poziomu i profilu studiów, imiona i nazwiska, podpisy oraz tytuł profesora, stopnie naukowe lub stopnie w zakresie sztuki lub tytuły zawodowe członków komisji egzaminacyjnej, treść zadanych pytań i uzyskane oceny, średnią ocen uzyskaną w okresie studiów, tytuł i ocenę pracy dyplomowej, ocenę egzaminu dyplomowego, ostateczny wynik studiów oraz uzyskany tytuł zawodowy.”;
-6) § 19a–21 otrzymują brzmienie: „§ 19a. Dokumentacja przebiegu studiów w postaci elektronicznej jest prowadzona i przechowywana w systemie teleinformatycznym w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717 oraz z 2025 r. poz. 1006, 1019 i 1158).
-§ 20. 1. Wzór legitymacji studenckiej wydawanej w postaci:
-1) dokumentu mobilnego będącego dokumentem elektronicznym obsługiwanym za pośrednictwem usługi udostępnianej w aplikacji mObywatel, zwanego dalej „mLegitymacją studencką”,
-2) elektronicznej karty procesorowej, zwanej dalej „elektroniczną legitymacją studencką” – jest określony w załączniku nr 1 do rozporządzenia.
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 27 września 2018 r. w sprawie studiów (Dz. U. z 2023 r. poz. 2787) wprowadza się następujące zmiany:
+
+- **1)** w § 7 w ust. 6 wyrazy „w BIP” zastępuje się wyrazami „w Biuletynie Informacji Publicznej”;
+- **2)** § 10 otrzymuje brzmienie: „§ 10. 1. Wniosek o pozwolenie na utworzenie studiów sporządza się w systemie teleinformatycznym wskazanym przez ministra właściwego do spraw szkolnictwa wyższego i nauki na jego stronie podmiotowej w Biuletynie Informacji Publicznej. 2. Wniosek o pozwolenie na utworzenie studiów generuje się z systemu teleinformatycznego, o którym mowa w ust. 1, w formacie PDF. Rektor opatruje wniosek podpisem zaufanym albo kwalifikowanym podpisem elektronicznym. 3. Wniosek o pozwolenie na utworzenie studiów, o którym mowa w ust. 2, składa się na adres do doręczeń elektronicznych ministra właściwego do spraw szkolnictwa wyższego i nauki.”;
+- **3)** w § 15 ust. 4 otrzymuje brzmienie: „4. Teczkę akt osobowych studenta, z wyłączeniem dokumentów, o których mowa w ust. 1 pkt 1 lit. a oraz pkt 2 i 3, przechowuje się w archiwum uczelni przez okres 50 lat.”;
+- **4)** w § 17:
+    - **a)** w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) nazwę kierunku, poziomu i profilu studiów;”,
+    - **b)** w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „Ukończenie studiów odnotowuje się w:”;
+
+- **5)** w § 18 ust. 1 otrzymuje brzmienie: „1. Protokół egzaminu dyplomowego zawiera datę egzaminu, imiona i nazwisko studenta, numer albumu, nazwę kierunku, poziomu i profilu studiów, imiona i nazwiska, podpisy oraz tytuł profesora, stopnie naukowe lub stopnie w zakresie sztuki lub tytuły zawodowe członków komisji egzaminacyjnej, treść zadanych pytań i uzyskane oceny, średnią ocen uzyskaną w okresie studiów, tytuł i ocenę pracy dyplomowej, ocenę egzaminu dyplomowego, ostateczny wynik studiów oraz uzyskany tytuł zawodowy.”;
+- **6)** § 19a–21 otrzymują brzmienie: „§ 19a. Dokumentacja przebiegu studiów w postaci elektronicznej jest prowadzona i przechowywana w systemie teleinformatycznym w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717 oraz z 2025 r. poz. 1006, 1019 i 1158). § 20. 1. Wzór legitymacji studenckiej wydawanej w postaci: 1) dokumentu mobilnego będącego dokumentem elektronicznym obsługiwanym za pośrednictwem usługi udostępnianej w aplikacji mObywatel, zwanego dalej „mLegitymacją studencką”,
+- **2)** elektronicznej karty procesorowej, zwanej dalej „elektroniczną legitymacją studencką” – jest określony w załączniku nr 1 do rozporządzenia.
+
 2. Wydanie legitymacji studenckiej odnotowuje się w rejestrze wydanych legitymacji, w którym wpisuje się imiona i nazwisko studenta, numer albumu, datę wydania legitymacji oraz postać tej legitymacji. Rejestr może być prowadzony w postaci elektronicznej.
-§ 21. 1. Ważność legitymacji studenckiej potwierdza się co semestr:
-1) w przypadku mLegitymacji studenckiej – przez wydanie certyfikatu studenta zgodnie z art. 12 ust. 2 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019);
-2) w przypadku elektronicznej legitymacji studenckiej – przez aktualizację danych w układzie scalonym oraz umieszczenie w kolejno oznaczonych polach legitymacji hologramu sporządzonego zgodnie z opisem określonym w załączniku nr 2 do rozporządzenia.
+
+**§ 21.**
+
+1. Ważność legitymacji studenckiej potwierdza się co semestr:
+
+- **1)** w przypadku mLegitymacji studenckiej – przez wydanie certyfikatu studenta zgodnie z art. 12 ust. 2 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019);
+- **2)** w przypadku elektronicznej legitymacji studenckiej – przez aktualizację danych w układzie scalonym oraz umieszczenie w kolejno oznaczonych polach legitymacji hologramu sporządzonego zgodnie z opisem określonym w załączniku nr 2 do rozporządzenia.
+
 2. Hologram, o którym mowa w ust. 1 pkt 2, jest drukiem ścisłego zarachowania.
+
 3. Legitymacja studencka zachowuje ważność nie dłużej niż do dnia ukończenia studiów, zawieszenia w prawach studenta lub skreślenia z listy studentów, a w przypadku ukończenia studiów pierwszego stopnia – do dnia 31 października roku ukończenia tych studiów.
+
 4. Uczelnia unieważnia mLegitymację studencką:
-1) w dniu następującym po dniu ukończenia studiów – w przypadku ukończenia studiów drugiego stopnia lub jednolitych studiów magisterskich;
-2) w przypadku zawieszenia w prawach studenta lub skreślenia z listy studentów;
-3) w przypadku przeniesienia się studenta do innej uczelni;
-4) w przypadku zgłoszenia przez studenta jej utraty na skutek uszkodzenia, nieprawidłowego działania lub utraty urządzenia mobilnego, w którym była przechowywana;
-5) w przypadku błędów lub omyłek w niej zawartych.
+
+- **1)** w dniu następującym po dniu ukończenia studiów – w przypadku ukończenia studiów drugiego stopnia lub jednolitych studiów magisterskich;
+- **2)** w przypadku zawieszenia w prawach studenta lub skreślenia z listy studentów;
+- **3)** w przypadku przeniesienia się studenta do innej uczelni;
+- **4)** w przypadku zgłoszenia przez studenta jej utraty na skutek uszkodzenia, nieprawidłowego działania lub utraty urządzenia mobilnego, w którym była przechowywana;
+- **5)** w przypadku błędów lub omyłek w niej zawartych.
+
 5. W przypadkach, o których mowa w ust. 4 pkt 4 i 5, stosuje się przepis ust. 1 pkt 1.”;
-7) w § 22:
-a) po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W odpisie dyplomu wspólnego w języku obcym nazwa uczelni oraz wynik ukończenia studiów mogą być podane w języku obcym, o którym mowa w art. 77 ust. 2 pkt 1 ustawy.”,
-b) ust. 4 otrzymuje brzmienie: „4. Do odpisów dyplomu wspólnego przepis ust. 3 stosuje się odpowiednio.”;
-8) w § 23 ust. 1 otrzymuje brzmienie: „1. W przypadku utraty oryginału dyplomu lub oryginału suplementu do dyplomu absolwent może wystąpić z wnioskiem o wydanie duplikatu utraconego dokumentu, który sporządza się na podstawie dokumentów zawartych w teczce akt osobowych studenta.”;
-9) w § 25 dodaje się ust. 6 w brzmieniu: „6. W przypadku błędów lub omyłek w dyplomie ukończenia studiów lub suplemencie do dyplomu, stwierdzonych po zmianie nazwy uczelni, na wniosek absolwenta wymianie podlegają łącznie dyplom ukończenia studiów i suplement do dyplomu wraz z ich odpisami.”;
-10) użyte w § 29 w pkt 2, w § 30 w pkt 2 oraz w § 31 w pkt 6 wyrazy „Szkole Głównej Służby Pożarniczej” zastępuje się wyrazami „Akademii Pożarniczej”;
-11) w § 33 dodaje się ust. 4 w brzmieniu: „4. W przypadku studiów wspólnych, o których mowa w art. 60 ust. 1 ustawy, prowadzonych z podmiotem zagranicznym w dyplomie wspólnym obok tytułu zawodowego, o którym mowa w § 32 pkt 9, można zamieścić także tytuł zawodowy nadany przez ten podmiot.”;
-12) załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
-13) w załączniku nr 3 do rozporządzenia odnośnik nr 2 otrzymuje brzmienie: „ W przypadku tłumaczenia na język obcy nazwę uczelni pozostawia się w oryginalnym brzmieniu, a tytuł zawodowy oraz wynik ukończenia studiów – w języku polskim; w odpisie suplementu do dyplomu wspólnego w języku obcym nazwa uczelni oraz wynik ukończenia studiów mogą być podane w języku obcym, o którym mowa w art. 77 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm.).”.
+
+- **7)** w § 22:
+    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W odpisie dyplomu wspólnego w języku obcym nazwa uczelni oraz wynik ukończenia studiów mogą być podane w języku obcym, o którym mowa w art. 77 ust. 2 pkt 1 ustawy.”,
+    - **b)** ust. 4 otrzymuje brzmienie: „4. Do odpisów dyplomu wspólnego przepis ust. 3 stosuje się odpowiednio.”;
+
+- **8)** w § 23 ust. 1 otrzymuje brzmienie: „1. W przypadku utraty oryginału dyplomu lub oryginału suplementu do dyplomu absolwent może wystąpić z wnioskiem o wydanie duplikatu utraconego dokumentu, który sporządza się na podstawie dokumentów zawartych w teczce akt osobowych studenta.”;
+- **9)** w § 25 dodaje się ust. 6 w brzmieniu: „6. W przypadku błędów lub omyłek w dyplomie ukończenia studiów lub suplemencie do dyplomu, stwierdzonych po zmianie nazwy uczelni, na wniosek absolwenta wymianie podlegają łącznie dyplom ukończenia studiów i suplement do dyplomu wraz z ich odpisami.”;
+- **10)** użyte w § 29 w pkt 2, w § 30 w pkt 2 oraz w § 31 w pkt 6 wyrazy „Szkole Głównej Służby Pożarniczej” zastępuje się wyrazami „Akademii Pożarniczej”;
+- **11)** w § 33 dodaje się ust. 4 w brzmieniu: „4. W przypadku studiów wspólnych, o których mowa w art. 60 ust. 1 ustawy, prowadzonych z podmiotem zagranicznym w dyplomie wspólnym obok tytułu zawodowego, o którym mowa w § 32 pkt 9, można zamieścić także tytuł zawodowy nadany przez ten podmiot.”;
+- **12)** załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia;
+- **13)** w załączniku nr 3 do rozporządzenia odnośnik nr 2 otrzymuje brzmienie: „ W przypadku tłumaczenia na język obcy nazwę uczelni pozostawia się w oryginalnym brzmieniu, a tytuł zawodowy oraz wynik ukończenia studiów – w języku polskim; w odpisie suplementu do dyplomu wspólnego w języku obcym nazwa uczelni oraz wynik ukończenia studiów mogą być podane w języku obcym, o którym mowa w art. 77 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm.).”.
+
+## Załącznik
+
 § 2. Wnioski o pozwolenie na utworzenie studiów złożone i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia podlegają rozpatrzeniu.
 § 3. 1. Legitymacje studenckie w postaci elektronicznej karty procesorowej i dokumentu elektronicznego przechowywanego i okazywanego przy użyciu publicznej aplikacji mobilnej, wydane przed dniem wejścia w życie rozporządzenia zmienianego w § 1 i ważne w tym dniu zachowują ważność nie dłużej niż do dnia ukończenia studiów, zawieszenia w prawach studenta lub skreślenia z listy studentów, a w przypadku ukończenia studiów pierwszego stopnia – do dnia 31 października roku ukończenia tych studiów.
 2. Ważność legitymacji studenckich, o których mowa w ust. 1, potwierdza się zgodnie z § 21 ust. 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.

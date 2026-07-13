@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie charakterystyk drugiego stopnia Polskiej Ramy Kwalifikacji typowych dla kwalifikacji o charakterze zawodowym – poziomy 1–8 Na podstawie art. 7 ust. 4 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2016 r.
 poz. 64) zarządza się, co następuje:
-§ 1. Charakterystyki drugiego stopnia Polskiej Ramy Kwalifikacji typowe dla kwalifikacji o charakterze zawodowym – poziomy 1–8 określa załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji Narodowej: A. Zalewska
+
+**§ 1.** Charakterystyki drugiego stopnia Polskiej Ramy Kwalifikacji typowe dla kwalifikacji o charakterze zawodowym – poziomy 1–8 określa załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Edukacji Narodowej: A. Zalewska
 

@@ -27,15 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wysokości wynagrodzenia przysługującego członkom instytucji, organów i zespołów oraz ekspertom i rzecznikom dyscyplinarnym działającym w systemie szkolnictwa wyższego i nauki Na podstawie art. 403 ust. 4 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r.
 poz. 574, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 14 grudnia 2018 r. w sprawie wysokości wynagrodzenia przysługującego członkom instytucji, organów i zespołów oraz ekspertom i rzecznikom dyscyplinarnym działającym w systemie szkolnictwa wyższego i nauki (Dz. U. z 2020 r. poz. 2208) w § 7:
-1) ust. 2 otrzymuje brzmienie: „2. Za udział w posiedzeniach zespołów doradczych powołanych na podstawie art. 341 ustawy w celu wspierania ministra w:
-1) kształtowaniu polityki naukowej państwa w poszczególnych obszarach związanych z funkcjonowaniem systemu szkolnictwa wyższego i nauki, w szczególności w obszarze rozwoju dziedzin nauki lub dziedziny sztuki lub w obszarze wspierania rozwoju młodych naukowców, przysługuje wynagrodzenie w wysokości:
-a) 1200 zł – dla przewodniczącego albo członka zespołu prowadzącego posiedzenie w zastępstwie nieobecnego przewodniczącego,
-b) 1000 zł – dla pozostałych członków zespołu;
-2) realizacji zadań związanych z udziałem podmiotów systemu szkolnictwa wyższego i nauki, o których mowa w art. 7 ust. 1 pkt 1 i 4–6b ustawy, we wspólnym międzynarodowym programie lub przedsięwzięciu w zakresie strategicznej infrastruktury badawczej, przysługuje wynagrodzenie w wysokości:
-a) 1000 zł – dla przewodniczącego albo członka zespołu prowadzącego posiedzenie w zastępstwie nieobecnego przewodniczącego,
-b) 800 zł – dla pozostałych członków zespołu.”;
-2) w ust. 4 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) o którym mowa w ust. 2 pkt 2, przysługuje wynagrodzenie w wysokości od 700 zł do 1500 zł za przygotowanie projektu każdej opinii, w zależności od jej przedmiotu i zakresu;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Edukacji i Nauki: P. Czarnek
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 14 grudnia 2018 r. w sprawie wysokości wynagrodzenia przysługującego członkom instytucji, organów i zespołów oraz ekspertom i rzecznikom dyscyplinarnym działającym w systemie szkolnictwa wyższego i nauki (Dz. U. z 2020 r. poz. 2208) w § 7:
+
+- **1)** ust. 2 otrzymuje brzmienie: „2. Za udział w posiedzeniach zespołów doradczych powołanych na podstawie art. 341 ustawy w celu wspierania ministra w: 1) kształtowaniu polityki naukowej państwa w poszczególnych obszarach związanych z funkcjonowaniem systemu szkolnictwa wyższego i nauki, w szczególności w obszarze rozwoju dziedzin nauki lub dziedziny sztuki lub w obszarze wspierania rozwoju młodych naukowców, przysługuje wynagrodzenie w wysokości: a) 1200 zł – dla przewodniczącego albo członka zespołu prowadzącego posiedzenie w zastępstwie nieobecnego przewodniczącego, b) 1000 zł – dla pozostałych członków zespołu; 2) realizacji zadań związanych z udziałem podmiotów systemu szkolnictwa wyższego i nauki, o których mowa w art. 7 ust. 1 pkt 1 i 4–6b ustawy, we wspólnym międzynarodowym programie lub przedsięwzięciu w zakresie strategicznej infrastruktury badawczej, przysługuje wynagrodzenie w wysokości: a) 1000 zł – dla przewodniczącego albo członka zespołu prowadzącego posiedzenie w zastępstwie nieobecnego przewodniczącego, b) 800 zł – dla pozostałych członków zespołu.”;
+- **2)** w ust. 4 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) o którym mowa w ust. 2 pkt 2, przysługuje wynagrodzenie w wysokości od 700 zł do 1500 zł za przygotowanie projektu każdej opinii, w zależności od jej przedmiotu i zakresu;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Edukacji i Nauki: P. Czarnek
 

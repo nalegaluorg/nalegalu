@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie stanowisk służbowych funkcjonariuszy Służby Celno-Skarbowej, trybu awansowania oraz dokonywania zmian na stanowiskach służbowych Na podstawie art. 190 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r.
 poz. 508 i 650) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. w sprawie stanowisk służbowych funkcjonariuszy Służby Celno-Skarbowej, trybu awansowania oraz dokonywania zmian na stanowiskach służbowych (Dz. U.
-poz. 444) w § 5 w ust. 1 uchyla się pkt 1.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: T. Czerwińska
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. w sprawie stanowisk służbowych funkcjonariuszy Służby Celno-Skarbowej, trybu awansowania oraz dokonywania zmian na stanowiskach służbowych (Dz. U. poz. 444) w § 5 w ust. 1 uchyla się pkt 1.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: T. Czerwińska
 

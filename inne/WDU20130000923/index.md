@@ -36,7 +36,10 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 3) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 19 czerwca 2012 r. zmieniającego rozporządzenie w sprawie mieszanek paszowych dietetycznych (Dz. U. poz. 726), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Rolnictwa i Rozwoju Wsi: S. Kalemba
 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 2 kwietnia 2007 r.
 w sprawie mieszanek paszowych dietetycznych Na podstawie art. 28 ust. 2 ustawy z dnia 22 lipca 2006 r. o paszach (Dz. U. Nr 144, poz. 1045, późn. zm. ) zarządza się, co następuje:
-§ 1. Przeznaczenie mieszanek paszowych dietetycznych, zwanych dalej „mieszankami”, w tym gatunki lub kategorie zwierząt, u których można je stosować, właściwości pokarmowe tych mieszanek, dodatkowe wymagania, jakie powinno spełniać oznakowanie mieszanek, oraz zalecenia, zgodnie z którymi mają być stosowane te mieszanki, są określone w załączniku do rozporządzenia.
-§ 2. Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 lutego 2003 r. w sprawie mieszanek paszowych dietetycznych (Dz. U. Nr 50, poz. 431).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Przeznaczenie mieszanek paszowych dietetycznych, zwanych dalej „mieszankami”, w tym gatunki lub kategorie zwierząt, u których można je stosować, właściwości pokarmowe tych mieszanek, dodatkowe wymagania, jakie powinno spełniać oznakowanie mieszanek, oraz zalecenia, zgodnie z którymi mają być stosowane te mieszanki, są określone w załączniku do rozporządzenia.
+
+**§ 2.** Traci moc rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 24 lutego 2003 r. w sprawie mieszanek paszowych dietetycznych (Dz. U. Nr 50, poz. 431).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

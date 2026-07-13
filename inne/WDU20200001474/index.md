@@ -27,11 +27,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny Na podstawie art. 23 ust. 4 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U.
 z 2019 r. poz. 1569 i 1726) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 12 marca 2012 r. w sprawie pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny (Dz. U. z 2014 r. poz. 1791) wprowadza się następujące zmiany:
-1) w § 6:
-a) w ust. 1: – pkt 1 otrzymuje brzmienie: „1) psychologów w jednostkach wojskowych – do psychologów koordynujących działalność psychologiczną w Dowództwie Generalnym Rodzajów Sił Zbrojnych, w Dowództwie Operacyjnym Rodzajów Sił Zbrojnych, w Inspektoracie Wsparcia Sił Zbrojnych, w Komendzie Głównej Żandarmerii Wojskowej, w Dowództwie Garnizonu Warszawa oraz w Dowództwie Wojsk Obrony Terytorialnej;”, – pkt 3 otrzymuje brzmienie: „3) psychologów w podmiotach leczniczych utworzonych i nadzorowanych przez Ministra Obrony Narodowej – do dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia.”,
-b) ust. 2 otrzymuje brzmienie: „2. Zbiorcze sprawozdania obejmujące sprawozdania, o których mowa w ust. 1 pkt 1 i 2, są przesyłane, drogą służbową, do dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia w terminie do dnia 31 marca każdego roku za rok poprzedni.”;
-2) w § 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „Dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia:”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: wz. W. Skurkiewicz
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 12 marca 2012 r. w sprawie pomocy psychologicznej udzielanej weteranowi-żołnierzowi lub weteranowi poszkodowanemu-żołnierzowi oraz najbliższym członkom jego rodziny (Dz. U. z 2014 r. poz. 1791) wprowadza się następujące zmiany:
+
+- **1)** w § 6:
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) psychologów w jednostkach wojskowych – do psychologów koordynujących działalność psychologiczną w Dowództwie Generalnym Rodzajów Sił Zbrojnych, w Dowództwie Operacyjnym Rodzajów Sił Zbrojnych, w Inspektoracie Wsparcia Sił Zbrojnych, w Komendzie Głównej Żandarmerii Wojskowej, w Dowództwie Garnizonu Warszawa oraz w Dowództwie Wojsk Obrony Terytorialnej;”, – pkt 3 otrzymuje brzmienie: „3) psychologów w podmiotach leczniczych utworzonych i nadzorowanych przez Ministra Obrony Narodowej – do dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Zbiorcze sprawozdania obejmujące sprawozdania, o których mowa w ust. 1 pkt 1 i 2, są przesyłane, drogą służbową, do dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia w terminie do dnia 31 marca każdego roku za rok poprzedni.”;
+
+- **2)** w § 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „Dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia:”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: wz. W. Skurkiewicz
 

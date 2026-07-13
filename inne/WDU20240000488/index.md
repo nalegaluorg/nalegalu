@@ -26,10 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000488) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/488/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wzorów wniosków o wypłatę wyrównania i wzoru wniosku o rozliczenie wyrównań Na podstawie art. 12d ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw (Dz. U. z 2023 r. poz. 1772, 1693 i 2760) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Klimatu i Środowiska z dnia 10 marca 2023 r. w sprawie wzorów wniosków o wypłatę wyrównania i wzoru wniosku o rozliczenie wyrównań (Dz. U. poz. 2623) wprowadza się następujące zmiany:
-1) tytuł rozporządzenia otrzymuje brzmienie: „w sprawie wzorów wniosków o wypłatę wyrównania i wzoru wniosku o rozliczenie wyrównania”;
-2) w § 1 pkt 3 otrzymuje brzmienie: „3) r ozliczenie wyrównania, o którym mowa w art. 12a ust. 1 ustawy, stanowiącego załącznik nr 3 do rozporządzenia.”;
-3) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: P. Hennig-Kloska W … W M W W W W W W W W W W
+
+**§ 1.** W rozporządzeniu Ministra Klimatu i Środowiska z dnia 10 marca 2023 r. w sprawie wzorów wniosków o wypłatę wyrównania i wzoru wniosku o rozliczenie wyrównań (Dz. U. poz. 2623) wprowadza się następujące zmiany:
+
+- **1)** tytuł rozporządzenia otrzymuje brzmienie: „w sprawie wzorów wniosków o wypłatę wyrównania i wzoru wniosku o rozliczenie wyrównania”;
+- **2)** w § 1 pkt 3 otrzymuje brzmienie: „3) r ozliczenie wyrównania, o którym mowa w art. 12a ust. 1 ustawy, stanowiącego załącznik nr 3 do rozporządzenia.”;
+- **3)** załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: P. Hennig-Kloska W … W M W W W W W W W W W W
 

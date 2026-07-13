@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000093) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/93/text.pdf) |
 
 w sprawie określenia obszaru działania i siedzib okręgowych urzędów probierczych Na podstawie art. 33 ust. 1 ustawy z dnia 1 kwietnia 2011 r. – Prawo probiercze (Dz. U. Nr 92, poz. 529) zarządza się, co następuje:
-§ 1. Ustala się siedziby i obszary działania okręgowych urzędów probierczych:
-1) Okręgowy Urząd Probierczy z siedzibą w Warszawie obejmujący województwa: mazowieckie, kujawsko-pomorskie, lubelskie, łódzkie, podlaskie, pomorskie, warmińsko-mazurskie;
-2) Okręgowy Urząd Probierczy z siedzibą w Krakowie obejmujący województwa: małopolskie, dolnośląskie, lubuskie, opolskie, podkarpackie, śląskie, świętokrzyskie, wielkopolskie, zachodniopomorskie.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Gospodarki: wz. M. Kasprzak
+
+**§ 1.** Ustala się siedziby i obszary działania okręgowych urzędów probierczych:
+
+- **1)** Okręgowy Urząd Probierczy z siedzibą w Warszawie obejmujący województwa: mazowieckie, kujawsko-pomorskie, lubelskie, łódzkie, podlaskie, pomorskie, warmińsko-mazurskie;
+- **2)** Okręgowy Urząd Probierczy z siedzibą w Krakowie obejmujący województwa: małopolskie, dolnośląskie, lubuskie, opolskie, podkarpackie, śląskie, świętokrzyskie, wielkopolskie, zachodniopomorskie.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Gospodarki: wz. M. Kasprzak
 

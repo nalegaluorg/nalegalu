@@ -114,83 +114,148 @@ poz. 134), z uwzględnieniem zmian wprowadzonych:
 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 2 lutego 2010 r.
 w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek Na podstawie art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2, art. 24 ust. 2 w związku z art. 43 ust. 1 i 2, art. 44, art. 46 i art. 53 ust. 3 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2022 r. poz. 2290 oraz z 2023 r.
 poz. 181) zarządza się, co następuje:
-§ 1. 1. Rozporządzenie stosuje się do:
-1) pracowników wymienionych w art. 1 ust. 1 pkt 8a, 12 i 14 oraz ust. 2 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych, zwanej dalej „ustawą”,
-2) pracowników zatrudnionych w:
-a) jednostkach wojskowych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, o których mowa w art. 43 ust. 2 ustawy,
-b) Kancelarii Polskiej Akademii Nauk,
-c) (uchylona),
-d) Państwowej Komisji Badania Wypadków Lotniczych,
-e) Państwowej Komisji Badania Wypadków Kolejowych, ea) Państwowej Komisji Badania Wypadków Morskich,
-f) jednostkach organizacyjnych Służby Więziennej,
-g) Zakładzie Emerytalno-Rentowym Ministerstwa Spraw Wewnętrznych ,
-3) strażników Państwowej Straży Rybackiej,
-4) przewodniczącego Centralnej Morskiej Komisji Egzaminacyjnej, zastępców przewodniczącego Centralnej Morskiej Komisji Egzaminacyjnej,
-5) Rzecznika Praw Pasażera Kolei przy Prezesie Urzędu Transportu Kolejowego,
-6) Koordynatora do spraw negocjacji przy Prezesie Urzędu Regulacji Energetyki – zwanych dalej „pracownikami”.
+
+**§ 1.**
+
+1. Rozporządzenie stosuje się do:
+
+- **1)** pracowników wymienionych w art. 1 ust. 1 pkt 8a, 12 i 14 oraz ust. 2 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych, zwanej dalej „ustawą”,
+- **2)** pracowników zatrudnionych w:
+    - **a)** jednostkach wojskowych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, o których mowa w art. 43 ust. 2 ustawy,
+    - **b)** Kancelarii Polskiej Akademii Nauk,
+    - **c)** (uchylona),
+    - **d)** Państwowej Komisji Badania Wypadków Lotniczych,
+    - **e)** Państwowej Komisji Badania Wypadków Kolejowych, ea) Państwowej Komisji Badania Wypadków Morskich,
+    - **f)** jednostkach organizacyjnych Służby Więziennej,
+    - **g)** Zakładzie Emerytalno-Rentowym Ministerstwa Spraw Wewnętrznych ,
+
+- **3)** strażników Państwowej Straży Rybackiej,
+- **4)** przewodniczącego Centralnej Morskiej Komisji Egzaminacyjnej, zastępców przewodniczącego Centralnej Morskiej Komisji Egzaminacyjnej,
+- **5)** Rzecznika Praw Pasażera Kolei przy Prezesie Urzędu Transportu Kolejowego,
+- **6)** Koordynatora do spraw negocjacji przy Prezesie Urzędu Regulacji Energetyki – zwanych dalej „pracownikami”.
+
 2. Rozporządzenia nie stosuje się do:
-1) pracowników Kancelarii Prezesa Rady Ministrów – w zakresie uregulowanym w przepisach wydanych na podstawie art. 21 ust. 3a ustawy;
-2) strażników Państwowej Straży Rybackiej – w zakresie uregulowanym w przepisach wydanych na podstawie art. 26 ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2022 r. poz. 883);
-3) pracowników regionalnych izb obrachunkowych – w zakresie uregulowanym w przepisach wydanych na podstawie art. 26a ust. 6 ustawy z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych (Dz. U. z 2022 r. poz. 1668).
-§ 2. Ustala się:
-1) tabele miesięcznych stawek wynagrodzenia zasadniczego, które są określone w załączniku nr 1 do rozporządzenia;
-2) tabelę stawek dodatku funkcyjnego, która jest określona w załączniku nr 2 do rozporządzenia;
-3) tabele stanowisk, zaszeregowań i kwalifikacji pracowników, które są określone w załączniku nr 3 do rozporządzenia;
-4) tabele stanowisk, kwot wynagrodzenia zasadniczego i dodatku funkcyjnego oraz kwalifikacji:
-a) zastępcy Prezesa, dyrektora generalnego i dyrektorów Archiwum Instytutu Pamięci Narodowej, Biura Edukacji Narodowej, Biura Badań Historycznych, Biura Upamiętniania Walk i Męczeństwa oraz Biura Poszukiwań i Identyfikacji w Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu,
-b) członków Państwowej Komisji Badania Wypadków Lotniczych, Państwowej Komisji Badania Wypadków Kolejowych oraz Państwowej Komisji Badania Wypadków Morskich,
-c) dyrektora Oddziału Generalnej Dyrekcji Dróg Krajowych i Autostrad,
-d) regionalnego dyrektora ochrony środowiska i zastępcy regionalnego dyrektora ochrony środowiska,
-e) przewodniczącego Centralnej Morskiej Komisji Egzaminacyjnej, zastępców przewodniczącego Centralnej Morskiej Komisji Egzaminacyjnej,
-f) Rzecznika Praw Pasażera Kolei przy Prezesie Urzędu Transportu Kolejowego,
-g) Koordynatora do spraw negocjacji przy Prezesie Urzędu Regulacji Energetyki,
-h) (uchylona),
-i) pracowników zatrudnionych w Biurze Rzecznika Małych i Średnich Przedsiębiorców – które są określone w załączniku nr 4 do rozporządzenia;
-5) tabele miesięcznych stawek wynagrodzenia zasadniczego, dodatku funkcyjnego oraz stanowisk, zaszeregowań i kwalifikacji pracowników Służby Więziennej, które są określone w załączniku nr 5 do rozporządzenia.
-§ 3. Ilekroć w rozporządzeniu jest mowa o „najniższym wynagrodzeniu zasadniczym”, rozumie się przez to najniższe wynagrodzenie zasadnicze w pierwszej kategorii zaszeregowania, ustalone w tabelach miesięcznych stawek wynagrodzenia zasadniczego, o których mowa w § 2 pkt 1.
-§ 4. Godzinową stawkę wynagrodzenia zasadniczego, wynikającego z osobistego zaszeregowania pracownika, określonego stawką miesięczną, ustala się, dzieląc miesięczną stawkę wynagrodzenia przez liczbę godzin pracy przypadających do przepracowania w danym miesiącu.
-§ 5. 1. Pracownikowi zatrudnionemu na stanowisku związanym z kierowaniem zespołem oraz radcy prawnemu przysługuje dodatek funkcyjny.
+
+- **1)** pracowników Kancelarii Prezesa Rady Ministrów – w zakresie uregulowanym w przepisach wydanych na podstawie art. 21 ust. 3a ustawy;
+- **2)** strażników Państwowej Straży Rybackiej – w zakresie uregulowanym w przepisach wydanych na podstawie art. 26 ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2022 r. poz. 883);
+- **3)** pracowników regionalnych izb obrachunkowych – w zakresie uregulowanym w przepisach wydanych na podstawie art. 26a ust. 6 ustawy z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych (Dz. U. z 2022 r. poz. 1668).
+
+**§ 2.** Ustala się:
+
+- **1)** tabele miesięcznych stawek wynagrodzenia zasadniczego, które są określone w załączniku nr 1 do rozporządzenia;
+- **2)** tabelę stawek dodatku funkcyjnego, która jest określona w załączniku nr 2 do rozporządzenia;
+- **3)** tabele stanowisk, zaszeregowań i kwalifikacji pracowników, które są określone w załączniku nr 3 do rozporządzenia;
+- **4)** tabele stanowisk, kwot wynagrodzenia zasadniczego i dodatku funkcyjnego oraz kwalifikacji:
+    - **a)** zastępcy Prezesa, dyrektora generalnego i dyrektorów Archiwum Instytutu Pamięci Narodowej, Biura Edukacji Narodowej, Biura Badań Historycznych, Biura Upamiętniania Walk i Męczeństwa oraz Biura Poszukiwań i Identyfikacji w Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu,
+    - **b)** członków Państwowej Komisji Badania Wypadków Lotniczych, Państwowej Komisji Badania Wypadków Kolejowych oraz Państwowej Komisji Badania Wypadków Morskich,
+    - **c)** dyrektora Oddziału Generalnej Dyrekcji Dróg Krajowych i Autostrad,
+    - **d)** regionalnego dyrektora ochrony środowiska i zastępcy regionalnego dyrektora ochrony środowiska,
+    - **e)** przewodniczącego Centralnej Morskiej Komisji Egzaminacyjnej, zastępców przewodniczącego Centralnej Morskiej Komisji Egzaminacyjnej,
+    - **f)** Rzecznika Praw Pasażera Kolei przy Prezesie Urzędu Transportu Kolejowego,
+    - **g)** Koordynatora do spraw negocjacji przy Prezesie Urzędu Regulacji Energetyki,
+    - **h)** (uchylona),
+    - **i)** pracowników zatrudnionych w Biurze Rzecznika Małych i Średnich Przedsiębiorców – które są określone w załączniku nr 4 do rozporządzenia;
+
+- **5)** tabele miesięcznych stawek wynagrodzenia zasadniczego, dodatku funkcyjnego oraz stanowisk, zaszeregowań i kwalifikacji pracowników Służby Więziennej, które są określone w załączniku nr 5 do rozporządzenia.
+
+**§ 3.** Ilekroć w rozporządzeniu jest mowa o „najniższym wynagrodzeniu zasadniczym”, rozumie się przez to najniższe wynagrodzenie zasadnicze w pierwszej kategorii zaszeregowania, ustalone w tabelach miesięcznych stawek wynagrodzenia zasadniczego, o których mowa w § 2 pkt 1.
+
+**§ 4.** Godzinową stawkę wynagrodzenia zasadniczego, wynikającego z osobistego zaszeregowania pracownika, określonego stawką miesięczną, ustala się, dzieląc miesięczną stawkę wynagrodzenia przez liczbę godzin pracy przypadających do przepracowania w danym miesiącu.
+
+**§ 5.**
+
+1. Pracownikowi zatrudnionemu na stanowisku związanym z kierowaniem zespołem oraz radcy prawnemu przysługuje dodatek funkcyjny.
+
 2. Dodatek funkcyjny przysługuje również pracownikowi zatrudnionemu na stanowisku niezwiązanym z kierowaniem zespołem, dla którego w tabelach, o których mowa w § 2 pkt 3, przewiduje się dodatek funkcyjny, z tym że maksymalna stawka tego dodatku przewidziana dla danego stanowiska jest niższa o jedną stawkę.
-§ 6. 1. Z tytułu okresowego zwiększenia obowiązków służbowych lub powierzenia dodatkowych zadań albo ze względu na charakter pracy lub warunki wykonywania pracy kierownik urzędu lub jednostki, o których mowa w § 1 ust. 1, zwany dalej „kierownikiem urzędu lub jednostki”, może przyznać pracownikowi dodatek specjalny.
+
+**§ 6.**
+
+1. Z tytułu okresowego zwiększenia obowiązków służbowych lub powierzenia dodatkowych zadań albo ze względu na charakter pracy lub warunki wykonywania pracy kierownik urzędu lub jednostki, o których mowa w § 1 ust. 1, zwany dalej „kierownikiem urzędu lub jednostki”, może przyznać pracownikowi dodatek specjalny.
+
 2. Dodatek specjalny przyznaje się na czas określony, a w indywidualnych przypadkach także na czas nieokreślony.
+
 3. Dodatek specjalny jest wypłacany w ramach posiadanych środków na wynagrodzenia, w kwocie nieprzekraczającej 40% łącznie wynagrodzenia zasadniczego i dodatku funkcyjnego pracownika.
+
 4. W szczególnie uzasadnionych przypadkach dodatek specjalny może być przyznany w wysokości wyższej niż określona w ust. 3.
-§ 7. Pracownikowi wykonującemu pracę w porze nocnej przysługuje dodatek do wynagrodzenia za każdą godzinę pracy w porze nocnej w wysokości 20% stawki godzinowej wynagrodzenia zasadniczego, nie niższy jednak od dodatku ustalonego na podstawie art. 151 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240).
-§ 8. 1. Do okresów pracy uprawniających do dodatku za wieloletnią pracę w urzędach i jednostkach, zwanego dalej „dodatkiem za wysługę lat”, wlicza się wszystkie poprzednie zakończone okresy zatrudnienia oraz inne okresy, jeżeli z mocy odrębnych przepisów podlegają one wliczeniu do okresu pracy, od którego zależą uprawnienia pracownicze.
+
+**§ 7.** Pracownikowi wykonującemu pracę w porze nocnej przysługuje dodatek do wynagrodzenia za każdą godzinę pracy w porze nocnej w wysokości 20% stawki godzinowej wynagrodzenia zasadniczego, nie niższy jednak od dodatku ustalonego na podstawie art. 151 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240).
+
+**§ 8.**
+
+1. Do okresów pracy uprawniających do dodatku za wieloletnią pracę w urzędach i jednostkach, zwanego dalej „dodatkiem za wysługę lat”, wlicza się wszystkie poprzednie zakończone okresy zatrudnienia oraz inne okresy, jeżeli z mocy odrębnych przepisów podlegają one wliczeniu do okresu pracy, od którego zależą uprawnienia pracownicze.
+
 1a. Pracownikowi, który wykonuje pracę w urzędzie lub jednostce w czasie urlopu bezpłatnego udzielonego przez pracodawcę w celu wykonywania tej pracy, okres zatrudnienia u tego pracodawcy poprzedzający dzień rozpoczęcia urlopu bezpłatnego wlicza się do okresu pracy uprawniającego do dodatku za wysługę lat.
+
 2. Jeżeli praca w urzędzie lub jednostce stanowi dodatkowe zatrudnienie, do okresu dodatkowego zatrudnienia nie podlegają zaliczeniu okresy zatrudnienia podstawowego.
+
 3. Dodatek za wysługę lat przysługuje pracownikowi za dni, za które otrzymuje wynagrodzenie, oraz za dni nieobecności w pracy z powodu niezdolności do pracy wskutek choroby albo konieczności osobistego sprawowania opieki nad dzieckiem lub chorym członkiem rodziny, za które pracownik otrzymuje z tego tytułu zasiłek z ubezpieczenia społecznego.
+
 4. Dodatek za wysługę lat jest wypłacany w terminie wypłaty wynagrodzenia:
-1) począwszy od pierwszego dnia miesiąca kalendarzowego następującego po miesiącu, w którym pracownik nabył prawo do dodatku za wysługę lat lub wyższej stawki dodatku za wysługę lat, jeżeli nabycie prawa nastąpiło w ciągu miesiąca;
-2) za dany miesiąc, jeżeli nabycie prawa do dodatku za wysługę lat lub do wyższej stawki dodatku za wysługę lat nastąpiło pierwszego dnia miesiąca.
-5. Jeżeli w aktach osobowych pracownika brak jest odpowiedniej dokumentacji, dodatek za wysługę lat wypłaca się po udokumentowaniu przez pracownika prawa do dodatku za wysługę lat lub prawa do wyższej stawki dodatku za wysługę lat.
-Przepis ust. 4 stosuje się odpowiednio.
-§ 9. 1. Dla pracowników zatrudnionych na stanowiskach pomocniczych, robotniczych i obsługi oraz załogi jednostek pływających tworzy się fundusz premiowy w ramach posiadanych środków na wynagrodzenia. W ramach posiadanych środków na wynagrodzenia dla pracowników Służby Więziennej może być tworzony fundusz premiowy.
+
+- **1)** począwszy od pierwszego dnia miesiąca kalendarzowego następującego po miesiącu, w którym pracownik nabył prawo do dodatku za wysługę lat lub wyższej stawki dodatku za wysługę lat, jeżeli nabycie prawa nastąpiło w ciągu miesiąca;
+- **2)** za dany miesiąc, jeżeli nabycie prawa do dodatku za wysługę lat lub do wyższej stawki dodatku za wysługę lat nastąpiło pierwszego dnia miesiąca.
+
+5. Jeżeli w aktach osobowych pracownika brak jest odpowiedniej dokumentacji, dodatek za wysługę lat wypłaca się po udokumentowaniu przez pracownika prawa do dodatku za wysługę lat lub prawa do wyższej stawki dodatku za wysługę lat. Przepis ust. 4 stosuje się odpowiednio.
+
+**§ 9.**
+
+1. Dla pracowników zatrudnionych na stanowiskach pomocniczych, robotniczych i obsługi oraz załogi jednostek pływających tworzy się fundusz premiowy w ramach posiadanych środków na wynagrodzenia. W ramach posiadanych środków na wynagrodzenia dla pracowników Służby Więziennej może być tworzony fundusz premiowy.
+
 2. Wysokość funduszu premiowego, o którym mowa w ust. 1, oraz warunki przyznawania premii ustala kierownik urzędu lub jednostki.
-§ 10. 1. Tworzy się fundusz nagród, z przeznaczeniem na nagrody za szczególne osiągnięcia w pracy zawodowej, w wysokości 3% planowanych wynagrodzeń osobowych, pozostający w dyspozycji kierowników urzędów lub jednostek.
+
+**§ 10.**
+
+1. Tworzy się fundusz nagród, z przeznaczeniem na nagrody za szczególne osiągnięcia w pracy zawodowej, w wysokości 3% planowanych wynagrodzeń osobowych, pozostający w dyspozycji kierowników urzędów lub jednostek.
+
 2. Fundusz nagród, o którym mowa w ust. 1, może być podwyższany przez kierowników urzędów lub jednostek w ramach posiadanych środków na wynagrodzenia.
-§ 11. 1. Do okresu pracy uprawniającego do nagrody jubileuszowej wlicza się wszystkie poprzednie zakończone okresy zatrudnienia oraz inne okresy, jeżeli z mocy odrębnych przepisów podlegają one wliczeniu do okresu pracy, od którego zależą uprawnienia pracownicze.
+
+**§ 11.**
+
+1. Do okresu pracy uprawniającego do nagrody jubileuszowej wlicza się wszystkie poprzednie zakończone okresy zatrudnienia oraz inne okresy, jeżeli z mocy odrębnych przepisów podlegają one wliczeniu do okresu pracy, od którego zależą uprawnienia pracownicze.
+
 1a. Pracownikowi, który wykonuje pracę w urzędzie lub jednostce w czasie urlopu bezpłatnego udzielonego przez pracodawcę w celu wykonywania tej pracy, okres zatrudnienia u tego pracodawcy poprzedzający dzień rozpoczęcia urlopu bezpłatnego wlicza się do okresu pracy uprawniającego do nagrody jubileuszowej.
+
 2. W razie równoczesnego pozostawania w więcej niż jednym stosunku pracy, do okresu pracy uprawniającego do nagrody jubileuszowej wlicza się jeden z tych okresów.
+
 3. Pracownik nabywa prawo do nagrody jubileuszowej w dniu upływu okresu uprawniającego do tej nagrody albo w dniu wejścia w życie przepisów wprowadzających nagrody jubileuszowe.
+
 4. Wypłata nagrody jubileuszowej następuje niezwłocznie po nabyciu przez pracownika prawa do tej nagrody, a jeżeli w aktach osobowych pracownika brak jest odpowiedniej dokumentacji – niezwłocznie po udokumentowaniu przez pracownika prawa do nagrody jubileuszowej.
+
 5. W razie ustania stosunku pracy w związku z przejściem na rentę z tytułu niezdolności do pracy lub emeryturę, pracownikowi, któremu do nabycia prawa do nagrody jubileuszowej brakuje mniej niż 12 miesięcy, licząc od dnia ustania stosunku pracy, nagrodę tę wypłaca się w dniu ustania stosunku pracy.
+
 6. Jeżeli w dniu wejścia w życie przepisów wprowadzających zaliczalność do okresów uprawniających do świadczeń pracowniczych okresów niepodlegających dotychczas wliczeniu pracownikowi upływa okres uprawniający go do dwóch lub więcej nagród jubileuszowych, wypłaca mu się tylko jedną nagrodę – najwyższą.
+
 7. Pracownikowi, który w dniu wejścia w życie przepisów, o których mowa w ust. 6, ma okres dłuższy niż wymagany do nagrody jubileuszowej danego stopnia, a w ciągu 12 miesięcy od tego dnia upłynie okres uprawniający go do nabycia nagrody jubileuszowej wyższego stopnia, nagrodę niższą wypłaca się w pełnej wysokości, a w dniu nabycia prawa do nagrody wyższej – różnicę między kwotą nagrody wyższej a kwotą nagrody niższej.
+
 8. Przepisy ust. 6 i 7 mają odpowiednio zastosowanie, jeżeli w dniu, w którym pracownik udokumentował swoje prawo do nagrody jubileuszowej, był uprawniony do nagrody wyższego stopnia oraz w razie gdy pracownik prawo to nabędzie w ciągu 12 miesięcy od tego dnia.
+
 9. Przy ustalaniu prawa do nagrody jubileuszowej przysługującej pracownikowi, który był zatrudniony w urzędzie lub jednostce w dniu 27 stycznia 1995 r., a przed tym dniem nabył prawo do nagrody jubileuszowej z uwzględnieniem okresów podlegających wliczeniu do okresu pracy uprawniającego do nagrody jubileuszowej na podstawie przepisów obowiązujących przed tym dniem, okresy te podlegają wliczeniu na dotychczasowych zasadach.
+
 10. Pracownik, który podjął zatrudnienie w urzędzie lub jednostce po dniu 27 stycznia 1995 r., nabywa prawo do nagrody jubileuszowej na zasadach określonych w ust. 1–8, niezależnie od wcześniejszego nabycia prawa do nagrody jubileuszowej za dany okres pracy.
-§ 12. 1. Podstawę obliczenia nagrody jubileuszowej stanowi wynagrodzenie przysługujące pracownikowi w dniu nabycia prawa do nagrody, a jeżeli dla pracownika jest to korzystniejsze – wynagrodzenie przysługujące mu w dniu jej wypłaty.
-Jeżeli pracownik nabył prawo do nagrody jubileuszowej, będąc zatrudniony w innym wymiarze czasu pracy niż w dniu jej wypłaty, podstawę obliczenia nagrody stanowi wynagrodzenie przysługujące pracownikowi w dniu nabycia prawa do nagrody jubileuszowej.
+
+**§ 12.**
+
+1. Podstawę obliczenia nagrody jubileuszowej stanowi wynagrodzenie przysługujące pracownikowi w dniu nabycia prawa do nagrody, a jeżeli dla pracownika jest to korzystniejsze – wynagrodzenie przysługujące mu w dniu jej wypłaty. Jeżeli pracownik nabył prawo do nagrody jubileuszowej, będąc zatrudniony w innym wymiarze czasu pracy niż w dniu jej wypłaty, podstawę obliczenia nagrody stanowi wynagrodzenie przysługujące pracownikowi w dniu nabycia prawa do nagrody jubileuszowej.
+
 2. Nagrodę jubileuszową oblicza się zgodnie z przepisami obowiązującymi przy ustalaniu ekwiwalentu pieniężnego za urlop wypoczynkowy.
-§ 13. Pracownik urzędu morskiego biorący udział w próbach technicznych statków na morzu po budowie lub remoncie albo wykonujący w czasie pracy statku zadania statutowe urzędu otrzymuje bezpłatne wyżywienie lub ekwiwalent pieniężny według norm stosowanych w czasie eksploatacji statku.
-§ 14. 1. Pracownikowi zatrudnionemu na stanowisku inspekcyjno-technicznym w urzędzie górniczym przysługują uprawnienia w zakresie przewidzianym w rozporządzeniu Rady Ministrów z dnia 30 grudnia 1981 r. w sprawie szczególnych przywilejów dla pracowników górnictwa – Karta górnika (Dz. U. z 1982 r. poz. 13).
+
+**§ 13.** Pracownik urzędu morskiego biorący udział w próbach technicznych statków na morzu po budowie lub remoncie albo wykonujący w czasie pracy statku zadania statutowe urzędu otrzymuje bezpłatne wyżywienie lub ekwiwalent pieniężny według norm stosowanych w czasie eksploatacji statku.
+
+**§ 14.**
+
+1. Pracownikowi zatrudnionemu na stanowisku inspekcyjno-technicznym w urzędzie górniczym przysługują uprawnienia w zakresie przewidzianym w rozporządzeniu Rady Ministrów z dnia 30 grudnia 1981 r. w sprawie szczególnych przywilejów dla pracowników górnictwa – Karta górnika (Dz. U. z 1982 r. poz. 13).
+
 2. Pracownikowi, o którym mowa w ust. 1, uprawnionemu do dodatku za wysługę lat i do szczególnych świadczeń w zakresie płac określonych w rozporządzeniu, o którym mowa w ust. 1, przysługuje uprawnienie z jednego tytułu wybranego przez pracownika.
-§ 15. Kierownik urzędu lub jednostki, a w odniesieniu do stanowiska kierownika urzędu lub jednostki oraz jego zastępcy organ uprawniony do obsadzenia tego stanowiska może, w uzasadnionych przypadkach, w szczególności z uwagi na prowadzoną działalność naukową lub dydaktyczną, skrócić okres pracy zawodowej wymagany od pracownika na danym stanowisku, z wyłączeniem stanowisk, dla których wymagany okres pracy zawodowej określają odrębne przepisy.
-§ 16. Pracownik, który nie spełnia wymagań kwalifikacyjnych przewidzianych dla stanowiska zajmowanego przez niego w dniu wejścia w życie rozporządzenia, może być nadal zatrudniany na tym stanowisku.
-§ 17. Pracownik, który przed dniem wejścia w życie rozporządzenia nabył prawo do dodatku za wysługę lat lub do nagrody jubileuszowej z uwzględnieniem okresu zatrudnienia poprzedzającego dzień rozpoczęcia urlopu bezpłatnego u pracodawcy, który udzielił mu urlopu bezpłatnego w celu wykonywania pracy w urzędzie lub jednostce, zachowuje prawo do dodatku za wysługę lat oraz do nagrody jubileuszowej z uwzględnieniem tego okresu.
-§ 18. Traci moc rozporządzenie Rady Ministrów z dnia 6 marca 2007 r. w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek (Dz. U. poz. 290 i 1225, z 2008 r. poz. 452 oraz z 2009 r. poz. 536).
-§ 19. Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia , z tym że do dyrektora i wicedyrektora biura w Prokuratorii Generalnej Skarbu Państwa oraz dyrektora i wicedyrektora biura (komórki równorzędnej) w Centrali Kasy Rolniczego Ubezpieczenia Społecznego przepisy rozporządzenia mają zastosowanie od dnia 1 stycznia 2010 r.
+
+**§ 15.** Kierownik urzędu lub jednostki, a w odniesieniu do stanowiska kierownika urzędu lub jednostki oraz jego zastępcy organ uprawniony do obsadzenia tego stanowiska może, w uzasadnionych przypadkach, w szczególności z uwagi na prowadzoną działalność naukową lub dydaktyczną, skrócić okres pracy zawodowej wymagany od pracownika na danym stanowisku, z wyłączeniem stanowisk, dla których wymagany okres pracy zawodowej określają odrębne przepisy.
+
+**§ 16.** Pracownik, który nie spełnia wymagań kwalifikacyjnych przewidzianych dla stanowiska zajmowanego przez niego w dniu wejścia w życie rozporządzenia, może być nadal zatrudniany na tym stanowisku.
+
+**§ 17.** Pracownik, który przed dniem wejścia w życie rozporządzenia nabył prawo do dodatku za wysługę lat lub do nagrody jubileuszowej z uwzględnieniem okresu zatrudnienia poprzedzającego dzień rozpoczęcia urlopu bezpłatnego u pracodawcy, który udzielił mu urlopu bezpłatnego w celu wykonywania pracy w urzędzie lub jednostce, zachowuje prawo do dodatku za wysługę lat oraz do nagrody jubileuszowej z uwzględnieniem tego okresu.
+
+**§ 18.** Traci moc rozporządzenie Rady Ministrów z dnia 6 marca 2007 r. w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek (Dz. U. poz. 290 i 1225, z 2008 r. poz. 452 oraz z 2009 r. poz. 536).
+
+**§ 19.** Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia , z tym że do dyrektora i wicedyrektora biura w Prokuratorii Generalnej Skarbu Państwa oraz dyrektora i wicedyrektora biura (komórki równorzędnej) w Centrali Kasy Rolniczego Ubezpieczenia Społecznego przepisy rozporządzenia mają zastosowanie od dnia 1 stycznia 2010 r.
 
 ## Załączniki do rozporządzenia Rady Ministrów z dnia 2 lutego 2010 r.
 

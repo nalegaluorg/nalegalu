@@ -27,14 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowych wymagań technicznych dla stacji gazu ziemnego Na podstawie art. 29 ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U.
 z 2023 r. poz. 875, 1394, 1506 i 1681) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Klimatu i Środowiska z dnia 15 czerwca 2023 r. w sprawie szczegółowych wymagań technicznych dla stacji gazu ziemnego (Dz. U. poz. 1182) po § 5 dodaje się § 5a w brzmieniu: „§ 5a. 1. Punkty tankowania sprężonego gazu ziemnego (CNG) przeznaczone do samodzielnego tankowania gazu ziemnego są wyposażone w:
-1) widoczne oznaczenia o przeznaczeniu danego punktu tankowania do samodzielnego tankowania gazu ziemnego;
-2) czytelne instrukcje obsługi samodzielnego tankowania sprężonego gazu ziemnego (CNG) w postaci piktogramów i tekstu;
-3) system alarmowy, wytwarzający sygnał dźwiękowy lub świetlny, umożliwiający użytkownikowi poinformowanie personelu stacji o zaistnieniu sytuacji alarmowej.
-2. Stacja gazu ziemnego jest wyposażona w system umożliwiający obserwację przez personel tej stacji punktów tankowania sprężonego gazu ziemnego (CNG) przeznaczonych do samodzielnego tankowania gazu ziemnego.
-3. Dystrybutory punktu tankowania sprężonego gazu ziemnego (CNG) przeznaczonego do samodzielnego tankowania gazu ziemnego są wyposażone w:
-1) ręczny zawór odcinający wstrzymujący przepływ gazu do węża lub manualny wyłącznik bezpieczeństwa umożliwiający natychmiastowe wyłączenie urządzenia;
-2) typ króćca, który pozwala na dostarczanie gazu tylko wtedy, gdy króciec jest połączony z odpowiadającym gniazdem tankowania w pojeździe.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: P. Hennig-Kloska
+
+**§ 1.** W rozporządzeniu Ministra Klimatu i Środowiska z dnia 15 czerwca 2023 r. w sprawie szczegółowych wymagań technicznych dla stacji gazu ziemnego (Dz. U. poz. 1182) po § 5 dodaje się § 5a w brzmieniu: „§ 5a. 1. Punkty tankowania sprężonego gazu ziemnego (CNG) przeznaczone do samodzielnego tankowania gazu ziemnego są wyposażone w: 1) widoczne oznaczenia o przeznaczeniu danego punktu tankowania do samodzielnego tankowania gazu ziemnego; 2) czytelne instrukcje obsługi samodzielnego tankowania sprężonego gazu ziemnego (CNG) w postaci piktogramów i tekstu; 3) system alarmowy, wytwarzający sygnał dźwiękowy lub świetlny, umożliwiający użytkownikowi poinformowanie personelu stacji o zaistnieniu sytuacji alarmowej. 2. Stacja gazu ziemnego jest wyposażona w system umożliwiający obserwację przez personel tej stacji punktów tankowania sprężonego gazu ziemnego (CNG) przeznaczonych do samodzielnego tankowania gazu ziemnego. 3. Dystrybutory punktu tankowania sprężonego gazu ziemnego (CNG) przeznaczonego do samodzielnego tankowania gazu ziemnego są wyposażone w: 1) ręczny zawór odcinający wstrzymujący przepływ gazu do węża lub manualny wyłącznik bezpieczeństwa umożliwiający natychmiastowe wyłączenie urządzenia; 2) typ króćca, który pozwala na dostarczanie gazu tylko wtedy, gdy króciec jest połączony z odpowiadającym gniazdem tankowania w pojeździe.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: P. Hennig-Kloska
 

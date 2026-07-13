@@ -27,74 +27,27 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000385) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/385/text.pdf) |
 
 zmieniające rozporządzenie w sprawie konkursu na dyrektora Polskiego Instytutu Sztuki Filmowej Na podstawie art. 14 ust. 9 ustawy z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2023 r. poz. 130) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury z dnia 18 sierpnia 2005 r. w sprawie konkursu na dyrektora Polskiego Instytutu Sztuki Filmowej (Dz. U. poz. 1352) wprowadza się następujące zmiany:
-1) w § 2 dodaje się ust. 5 w brzmieniu: „5. Termin, o którym mowa w ust. 2, nie może być krótszy niż 30 dni od dnia podania do publicznej wiadomości ogłoszenia o konkursie, a termin, o którym mowa w ust. 3, nie może być krótszy niż 14 dni od dnia podania do publicznej wiadomości ogłoszenia, o którym mowa w ust. 3.”;
-2) w § 4:
-a) ust. 1 otrzymuje brzmienie: „1. Komisja dokonuje oceny kandydatów na dyrektora na podstawie dokonanych zgłoszeń, uwzględniając następujące kryteria:
-1) przygotowanie teoretyczne kandydata, w tym profil wykształcenia;
-2) wiedzę i doświadczenie kandydata w dziedzinie kinematografii, w tym znajomość rynku filmowego;
-3) wiedzę z zakresu finansów publicznych, administracji oraz przepisów prawa w zakresie kinematografii;
-4) znajomość języków obcych;
-5) znajomość europejskiego modelu wspierania kultury filmowej oraz zagadnień międzynarodowej współpracy w dziedzinie kinematografii;
-6) przedstawioną koncepcję rozwoju Polskiego Instytutu Sztuki Filmowej.”,
-b) uchyla się ust. 2,
-c) dodaje się ust. 3 w brzmieniu: „3. Przy dokonywaniu oceny, o której mowa w ust. 1, komisja bierze także pod uwagę rekomendacje organizacji działających w obszarze kinematografii.”;
-3) w § 5 ust. 1 i 2 otrzymują brzmienie: „1. Komisja składa się z 15 członków.
-2. W skład komisji minister powołuje:
-1) po jednym przedstawicielu zgłoszonym przez:
-a) organizacje społeczne twórców działające w sektorze kinematografii,
-b) producentów filmów fabularnych,
-c) producentów filmów dokumentalnych,
-d) producentów filmów animowanych,
-e) jednostki publicznej telewizji,
-f) nadawców telewizyjnych innych niż wymienieni w lit. e lub dostawców audiowizualnych usług medialnych na żądanie,
-g) dystrybutorów filmów,
-h) podmioty dokonujące reemisji programów telewizyjnych,
-i) podmioty prowadzące kina,
-j) związki zawodowe działające w kinematografii;
-2) 2 twórców filmów fabularnych, w tym jednego scenarzystę;
-3) 1 twórcę filmów dokumentalnych;
-4) 1 twórcę filmów animowanych;
-5) 1 przedstawiciela ministra.”;
-4) § 6 otrzymuje brzmienie: „§ 6. 1. Kandydaci na dyrektora zgłaszają swoje kandydatury w terminie, o którym mowa w § 2 ust. 2.
-2. W terminie, o którym mowa w § 2 ust. 3, są zgłaszani kandydaci na członków komisji, o których mowa w § 5 ust. 2, z tym że kandydaci, o których mowa w pkt 2–4, mogą również zgłaszać swoje kandydatury samodzielnie.
-3. Publikacja danych osobowych członków komisji, którzy wyrazili na to zgodę, nastąpi na stronie podmiotowej w Biuletynie Informacji Publicznej ministra po upływie terminu przewidzianego do zgłaszania kandydatów na dyrektora.”;
-5) w § 7 w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „6) oświadczenie kandydata na dyrektora zawierające zgodę albo brak zgody na publikację imienia i nazwiska oraz na publikację koncepcji rozwoju Polskiego Instytutu Sztuki Filmowej, o których mowa w § 14 ust. 3;
-7) rekomendację organizacji działającej w obszarze kinematografii.”;
-6) w § 8 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „6) oświadczenie kandydata na członka komisji zawierające zgodę na uczestnictwo w komisji;
-7) oświadczenie kandydata na członka komisji zawierające zgodę albo brak zgody na publikację imienia i nazwiska, o której mowa w § 14 ust. 3.”;
-7) w § 10:
-a) uchyla się ust. 2,
-b) po ust. 2 dodaje się ust. 2a–2d w brzmieniu: „2a. Członek komisji lub inne osoby wykonujące czynności związane z przeprowadzeniem konkursu podlegają wyłączeniu z dokonywania tych czynności w odniesieniu do kandydata na dyrektora, względem którego osoby te pozostają w konflikcie interesów.
-2b. Konflikt interesów istnieje, gdy osoby wymienione w ust. 2a pozostają z kandydatem na dyrektora w stosunku prawnym lub faktycznym, w szczególności są małżonkiem takiej osoby, jej krewnym, powinowatym, pracownikiem, pracodawcą, lub gdy łączą je z kandydatem na dyrektora relacje zawodowe, które mogą budzić uzasadnione wątpliwości co do ich obiektywizmu lub bezstronności.
-2c. Osoby, o których mowa w ust. 2a, składają oświadczenie w formie pisemnej o istnieniu albo braku istnienia konfliktu interesów.
-2d. Oświadczenie o istnieniu konfliktu interesów składa się niezwłocznie po powzięciu wiadomości o jego istnieniu, w szczególności po zapoznaniu się ze zgłoszeniami kandydatów na dyrektora.”,
-c) ust. 3 otrzymuje brzmienie: „3. W przypadku, w którym członek komisji złożył oświadczenie o istnieniu konfliktu interesów, minister może powołać w miejsce tego członka nowego członka komisji według swojego wyboru, w miarę możliwości z listy kandydatów zgłoszonych na członków komisji.”;
-8) po § 12 dodaje się § 12a w brzmieniu: „§ 12a. W czasie trwania postępowania konkursowego sekretarz przechowuje i zabezpiecza wszystkie materiały niezbędne do jego przeprowadzenia, w tym wszystkie zestawy przygotowanych pytań konkursowych.”;
-9) w § 14 dodaje się ust. 3–6 w brzmieniu: „3. Publikacja imienia i nazwiska członka komisji oraz kandydata na dyrektora, a także zgłoszonej przez kandydata na dyrektora koncepcji rozwoju Polskiego Instytutu Sztuki Filmowej, która jest dokonywana na stronie podmiotowej w Biuletynie Informacji Publicznej ministra, następuje za zgodą, odpowiednio, członka komisji lub kandydata na dyrektora.
-4. Z przesłuchania kandydata na dyrektora sporządza się stenogram, który może zostać udostępniony przez ministra na umotywowany wniosek po zakończeniu postępowania konkursowego i który jest dołączany do protokołu.
-Na potrzeby przygotowania stenogramu jest możliwa rejestracja przebiegu przesłuchania kandydata na dyrektora, która po sporządzeniu stenogramu zostaje zniszczona.
-5. Na stronie podmiotowej w Biuletynie Informacji Publicznej ministra, w terminie 14 dni od dnia powołania na dyrektora Polskiego Instytutu Sztuki Filmowej, publikuje się zgłoszoną do konkursu przez zwycięskiego kandydata na dyrektora koncepcję rozwoju Polskiego Instytutu Sztuki Filmowej.
-6. Na stronie podmiotowej w Biuletynie Informacji Publicznej ministra publikuje się także pozostałe zgłoszone do konkursu koncepcje rozwoju Polskiego Instytutu Sztuki Filmowej.”;
-10) po § 14 dodaje się § 14a w brzmieniu: „§ 14a. 1. Przesłuchanie kandydata na dyrektora składa się z etapu odpowiadania przez kandydata na pytania konkursowe oraz etapu autoprezentacji kandydata.
-2. Pytania konkursowe zatwierdza komisja konkursowa.
-3. Pytania konkursowe są pogrupowane w trzy zestawy odpowiadające następującym zagadnieniom:
-1) wiedza w dziedzinie kinematografii, w tym znajomość rynku filmowego;
-2) wiedza z zakresu finansów publicznych, administracji publicznej oraz przepisów prawa w zakresie kinematografii i finansowego wspierania produkcji audiowizualnej;
-3) znajomość europejskiego modelu wspierania kultury filmowej oraz zagadnień międzynarodowej współpracy w dziedzinie kinematografii.
-4. Każdy zestaw zawiera liczbę pytań konkursowych nie mniejszą niż liczba kandydatów na dyrektora.
-5. W ramach etapu odpowiadania na pytania konkursowe kandydat na dyrektora losuje po jednym pytaniu konkursowym z każdego zestawu.
-6. Każdemu kandydatowi na dyrektora jest zadawane pytanie dodatkowe w języku angielskim, które nie jest wliczane do zestawu, o którym mowa w ust. 3.
-7. Pytanie dodatkowe w języku angielskim dotyczy dowolnej kwestii z zakresu kinematografii. Zadaje je członek komisji posługujący się językiem angielskim. Odpowiedź na pytanie zadane w języku angielskim jest udzielana także w tym języku.
-8. Odpowiedź kandydata na dyrektora składa się z wypowiedzi swobodnej oraz rozmowy kandydata z członkami komisji dotyczącej wylosowanego zagadnienia. W celu uzupełnienia udzielonej przez kandydata na dyrektora odpowiedzi członkowie komisji mogą zadawać kandydatowi na dyrektora pytania uzupełniające.
-9. W trakcie etapu odpowiadania na pytania konkursowe kandydatom na dyrektora nie udziela się żadnych wyjaśnień dotyczących wylosowanych pytań konkursowych ani ich nie komentuje.
-10. W przypadku stwierdzenia przez kandydata na dyrektora, że zadane przez członka komisji pytanie uzupełniające nie mieści się w zakresie zadanego pytania konkursowego, kandydat na dyrektora może uchylić się od udzielenia odpowiedzi na to pytanie. Fakt uchylenia się od odpowiedzi, jak i treść pytania uzupełniającego, co do którego kandydat na dyrektora uchylił się od odpowiedzi, zostaje odnotowana w protokole przez sekretarza.
-11. W ramach etapu autoprezentacji kandydat na dyrektora w wypowiedzi przed komisją omawia w szczególności:
-1) swoje przygotowanie oraz doświadczenie niezbędne do sprawowania funkcji dyrektora Polskiego Instytutu Sztuki Filmowej, w tym profil wykształcenia;
-2) swoją znajomość języków obcych;
-3) złożoną w ofercie konkursowej koncepcję rozwoju Polskiego Instytutu Sztuki Filmowej.
-12. Autoprezentacja kandydata na dyrektora, o której mowa w ust. 11, może być w całości lub w części przeprowadzona z wykorzystaniem materiałów w formie plików elektronicznych.
-13. Członkowie komisji mogą zadawać kandydatowi na dyrektora pytania po zakończonej przez niego autoprezentacji.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: H. Wróblewska
+
+**§ 1.** W rozporządzeniu Ministra Kultury z dnia 18 sierpnia 2005 r. w sprawie konkursu na dyrektora Polskiego Instytutu Sztuki Filmowej (Dz. U. poz. 1352) wprowadza się następujące zmiany:
+
+- **1)** w § 2 dodaje się ust. 5 w brzmieniu: „5. Termin, o którym mowa w ust. 2, nie może być krótszy niż 30 dni od dnia podania do publicznej wiadomości ogłoszenia o konkursie, a termin, o którym mowa w ust. 3, nie może być krótszy niż 14 dni od dnia podania do publicznej wiadomości ogłoszenia, o którym mowa w ust. 3.”;
+- **2)** w § 4:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Komisja dokonuje oceny kandydatów na dyrektora na podstawie dokonanych zgłoszeń, uwzględniając następujące kryteria: 1) przygotowanie teoretyczne kandydata, w tym profil wykształcenia; 2) wiedzę i doświadczenie kandydata w dziedzinie kinematografii, w tym znajomość rynku filmowego; 3) wiedzę z zakresu finansów publicznych, administracji oraz przepisów prawa w zakresie kinematografii; 4) znajomość języków obcych; 5) znajomość europejskiego modelu wspierania kultury filmowej oraz zagadnień międzynarodowej współpracy w dziedzinie kinematografii; 6) przedstawioną koncepcję rozwoju Polskiego Instytutu Sztuki Filmowej.”,
+    - **b)** uchyla się ust. 2,
+    - **c)** dodaje się ust. 3 w brzmieniu: „3. Przy dokonywaniu oceny, o której mowa w ust. 1, komisja bierze także pod uwagę rekomendacje organizacji działających w obszarze kinematografii.”;
+
+- **3)** w § 5 ust. 1 i 2 otrzymują brzmienie: „1. Komisja składa się z 15 członków. 2. W skład komisji minister powołuje: 1) po jednym przedstawicielu zgłoszonym przez: a) organizacje społeczne twórców działające w sektorze kinematografii, b) producentów filmów fabularnych, c) producentów filmów dokumentalnych, d) producentów filmów animowanych, e) jednostki publicznej telewizji, f) nadawców telewizyjnych innych niż wymienieni w lit. e lub dostawców audiowizualnych usług medialnych na żądanie, g) dystrybutorów filmów, h) podmioty dokonujące reemisji programów telewizyjnych, i) podmioty prowadzące kina, j) związki zawodowe działające w kinematografii; 2) 2 twórców filmów fabularnych, w tym jednego scenarzystę; 3) 1 twórcę filmów dokumentalnych; 4) 1 twórcę filmów animowanych; 5) 1 przedstawiciela ministra.”;
+- **4)** § 6 otrzymuje brzmienie: „§ 6. 1. Kandydaci na dyrektora zgłaszają swoje kandydatury w terminie, o którym mowa w § 2 ust. 2. 2. W terminie, o którym mowa w § 2 ust. 3, są zgłaszani kandydaci na członków komisji, o których mowa w § 5 ust. 2, z tym że kandydaci, o których mowa w pkt 2–4, mogą również zgłaszać swoje kandydatury samodzielnie. 3. Publikacja danych osobowych członków komisji, którzy wyrazili na to zgodę, nastąpi na stronie podmiotowej w Biuletynie Informacji Publicznej ministra po upływie terminu przewidzianego do zgłaszania kandydatów na dyrektora.”;
+- **5)** w § 7 w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „6) oświadczenie kandydata na dyrektora zawierające zgodę albo brak zgody na publikację imienia i nazwiska oraz na publikację koncepcji rozwoju Polskiego Instytutu Sztuki Filmowej, o których mowa w § 14 ust. 3; 7) rekomendację organizacji działającej w obszarze kinematografii.”;
+- **6)** w § 8 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: „6) oświadczenie kandydata na członka komisji zawierające zgodę na uczestnictwo w komisji; 7) oświadczenie kandydata na członka komisji zawierające zgodę albo brak zgody na publikację imienia i nazwiska, o której mowa w § 14 ust. 3.”;
+- **7)** w § 10:
+    - **a)** uchyla się ust. 2,
+    - **b)** po ust. 2 dodaje się ust. 2a–2d w brzmieniu: „2a. Członek komisji lub inne osoby wykonujące czynności związane z przeprowadzeniem konkursu podlegają wyłączeniu z dokonywania tych czynności w odniesieniu do kandydata na dyrektora, względem którego osoby te pozostają w konflikcie interesów. 2b. Konflikt interesów istnieje, gdy osoby wymienione w ust. 2a pozostają z kandydatem na dyrektora w stosunku prawnym lub faktycznym, w szczególności są małżonkiem takiej osoby, jej krewnym, powinowatym, pracownikiem, pracodawcą, lub gdy łączą je z kandydatem na dyrektora relacje zawodowe, które mogą budzić uzasadnione wątpliwości co do ich obiektywizmu lub bezstronności. 2c. Osoby, o których mowa w ust. 2a, składają oświadczenie w formie pisemnej o istnieniu albo braku istnienia konfliktu interesów. 2d. Oświadczenie o istnieniu konfliktu interesów składa się niezwłocznie po powzięciu wiadomości o jego istnieniu, w szczególności po zapoznaniu się ze zgłoszeniami kandydatów na dyrektora.”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. W przypadku, w którym członek komisji złożył oświadczenie o istnieniu konfliktu interesów, minister może powołać w miejsce tego członka nowego członka komisji według swojego wyboru, w miarę możliwości z listy kandydatów zgłoszonych na członków komisji.”;
+
+- **8)** po § 12 dodaje się § 12a w brzmieniu: „§ 12a. W czasie trwania postępowania konkursowego sekretarz przechowuje i zabezpiecza wszystkie materiały niezbędne do jego przeprowadzenia, w tym wszystkie zestawy przygotowanych pytań konkursowych.”;
+- **9)** w § 14 dodaje się ust. 3–6 w brzmieniu: „3. Publikacja imienia i nazwiska członka komisji oraz kandydata na dyrektora, a także zgłoszonej przez kandydata na dyrektora koncepcji rozwoju Polskiego Instytutu Sztuki Filmowej, która jest dokonywana na stronie podmiotowej w Biuletynie Informacji Publicznej ministra, następuje za zgodą, odpowiednio, członka komisji lub kandydata na dyrektora. 4. Z przesłuchania kandydata na dyrektora sporządza się stenogram, który może zostać udostępniony przez ministra na umotywowany wniosek po zakończeniu postępowania konkursowego i który jest dołączany do protokołu. Na potrzeby przygotowania stenogramu jest możliwa rejestracja przebiegu przesłuchania kandydata na dyrektora, która po sporządzeniu stenogramu zostaje zniszczona. 5. Na stronie podmiotowej w Biuletynie Informacji Publicznej ministra, w terminie 14 dni od dnia powołania na dyrektora Polskiego Instytutu Sztuki Filmowej, publikuje się zgłoszoną do konkursu przez zwycięskiego kandydata na dyrektora koncepcję rozwoju Polskiego Instytutu Sztuki Filmowej. 6. Na stronie podmiotowej w Biuletynie Informacji Publicznej ministra publikuje się także pozostałe zgłoszone do konkursu koncepcje rozwoju Polskiego Instytutu Sztuki Filmowej.”;
+- **10)** po § 14 dodaje się § 14a w brzmieniu: „§ 14a. 1. Przesłuchanie kandydata na dyrektora składa się z etapu odpowiadania przez kandydata na pytania konkursowe oraz etapu autoprezentacji kandydata. 2. Pytania konkursowe zatwierdza komisja konkursowa. 3. Pytania konkursowe są pogrupowane w trzy zestawy odpowiadające następującym zagadnieniom: 1) wiedza w dziedzinie kinematografii, w tym znajomość rynku filmowego; 2) wiedza z zakresu finansów publicznych, administracji publicznej oraz przepisów prawa w zakresie kinematografii i finansowego wspierania produkcji audiowizualnej; 3) znajomość europejskiego modelu wspierania kultury filmowej oraz zagadnień międzynarodowej współpracy w dziedzinie kinematografii. 4. Każdy zestaw zawiera liczbę pytań konkursowych nie mniejszą niż liczba kandydatów na dyrektora. 5. W ramach etapu odpowiadania na pytania konkursowe kandydat na dyrektora losuje po jednym pytaniu konkursowym z każdego zestawu. 6. Każdemu kandydatowi na dyrektora jest zadawane pytanie dodatkowe w języku angielskim, które nie jest wliczane do zestawu, o którym mowa w ust. 3. 7. Pytanie dodatkowe w języku angielskim dotyczy dowolnej kwestii z zakresu kinematografii. Zadaje je członek komisji posługujący się językiem angielskim. Odpowiedź na pytanie zadane w języku angielskim jest udzielana także w tym języku. 8. Odpowiedź kandydata na dyrektora składa się z wypowiedzi swobodnej oraz rozmowy kandydata z członkami komisji dotyczącej wylosowanego zagadnienia. W celu uzupełnienia udzielonej przez kandydata na dyrektora odpowiedzi członkowie komisji mogą zadawać kandydatowi na dyrektora pytania uzupełniające. 9. W trakcie etapu odpowiadania na pytania konkursowe kandydatom na dyrektora nie udziela się żadnych wyjaśnień dotyczących wylosowanych pytań konkursowych ani ich nie komentuje. 10. W przypadku stwierdzenia przez kandydata na dyrektora, że zadane przez członka komisji pytanie uzupełniające nie mieści się w zakresie zadanego pytania konkursowego, kandydat na dyrektora może uchylić się od udzielenia odpowiedzi na to pytanie. Fakt uchylenia się od odpowiedzi, jak i treść pytania uzupełniającego, co do którego kandydat na dyrektora uchylił się od odpowiedzi, zostaje odnotowana w protokole przez sekretarza. 11. W ramach etapu autoprezentacji kandydat na dyrektora w wypowiedzi przed komisją omawia w szczególności: 1) swoje przygotowanie oraz doświadczenie niezbędne do sprawowania funkcji dyrektora Polskiego Instytutu Sztuki Filmowej, w tym profil wykształcenia; 2) swoją znajomość języków obcych; 3) złożoną w ofercie konkursowej koncepcję rozwoju Polskiego Instytutu Sztuki Filmowej. 12. Autoprezentacja kandydata na dyrektora, o której mowa w ust. 11, może być w całości lub w części przeprowadzona z wykorzystaniem materiałów w formie plików elektronicznych. 13. Członkowie komisji mogą zadawać kandydatowi na dyrektora pytania po zakończonej przez niego autoprezentacji.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: H. Wróblewska
 

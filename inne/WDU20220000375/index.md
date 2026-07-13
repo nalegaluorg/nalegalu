@@ -31,26 +31,7 @@ source: pdf
 
 - **1)** w art. 24 ust. 1 otrzymuje brzmienie: „1. Prezes Instytutu Pamięci składa Sejmowi i Senatowi, raz w roku, informację o działalności Instytutu Pamięci oraz o działalności Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL, zwanego dalej „Muzeum”.”;
 - **2)** w art. 53j dodaje się ust. 4 w brzmieniu: „4. Prezes Instytutu Pamięci prowadzi Muzeum.”;
-- **3)** po rozdziale 6c dodaje się rozdział 6d w brzmieniu: „Rozdział 6d Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL
-
-**Art. 53r.**
-
-1. Organizatorem Muzeum powołanego na mocy zarządzenia Ministra Sprawiedliwości z dnia 1 marca 2020 r. w sprawie przekształcenia Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL w państwową instytucję kultury oraz nadania statutu Muzeum (Dz. Urz. Min. Sprawiedl. poz. 83) jest Prezes Instytutu Pamięci.
-
-2. Muzeum jest państwową instytucją kultury i działa na podstawie:
-
-- **1)** niniejszej ustawy, z wyjątkiem art. 53m;
-- **2)** ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2020 r. poz. 194);
-- **3)** ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2020 r. poz. 902 oraz z 2021 r. poz. 1641), z wyjątkiem art. 6 ust. 1, art. 8, art. 11, art. 23, art. 24 i art. 27;
-- **4)** statutu, o którym mowa w art. 53s.
-
-3. Przedmiotem działania Muzeum jest upamiętnienie historii Polski i działalności Żołnierzy Wyklętych, a także działaczy podziemia antykomunistycznego i opozycji antykomunistycznej w Polsce w latach 1944–1990.
-
-**Art. 53s.** Prezes Instytutu Pamięci nadaje statut Muzeum, określający w szczególności jego siedzibę i majątek, źródła finansowania, rodzaj i zakres gromadzonych zbiorów, cele, zasady, formy i zakres działalności oraz organizację. Statut może zawierać również inne postanowienia, w szczególności dotyczące prowadzenia działalności gospodarczej.
-
-**Art. 53t.** Dyrektora Muzeum powołuje i odwołuje Prezes Instytutu Pamięci. Przepisów art. 15 i art. 16 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej nie stosuje się.
-
-**Art. 53u.** Szczegółowe zasady postępowania z muzealiami, w razie likwidacji Muzeum, określi Prezes Instytutu Pamięci w drodze decyzji.”.
+- **3)** po rozdziale 6c dodaje się rozdział 6d w brzmieniu: „Rozdział 6d Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL Art. 53r. 1. Organizatorem Muzeum powołanego na mocy zarządzenia Ministra Sprawiedliwości z dnia 1 marca 2020 r. w sprawie przekształcenia Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL w państwową instytucję kultury oraz nadania statutu Muzeum (Dz. Urz. Min. Sprawiedl. poz. 83) jest Prezes Instytutu Pamięci. 2. Muzeum jest państwową instytucją kultury i działa na podstawie: 1) niniejszej ustawy, z wyjątkiem art. 53m; 2) ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2020 r. poz. 194); 3) ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2020 r. poz. 902 oraz z 2021 r. poz. 1641), z wyjątkiem art. 6 ust. 1, art. 8, art. 11, art. 23, art. 24 i art. 27; 4) statutu, o którym mowa w art. 53s. 3. Przedmiotem działania Muzeum jest upamiętnienie historii Polski i działalności Żołnierzy Wyklętych, a także działaczy podziemia antykomunistycznego i opozycji antykomunistycznej w Polsce w latach 1944–1990. Art. 53s. Prezes Instytutu Pamięci nadaje statut Muzeum, określający w szczególności jego siedzibę i majątek, źródła finansowania, rodzaj i zakres gromadzonych zbiorów, cele, zasady, formy i zakres działalności oraz organizację. Statut może zawierać również inne postanowienia, w szczególności dotyczące prowadzenia działalności gospodarczej. Art. 53t. Dyrektora Muzeum powołuje i odwołuje Prezes Instytutu Pamięci. Przepisów art. 15 i art. 16 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej nie stosuje się. Art. 53u. Szczegółowe zasady postępowania z muzealiami, w razie likwidacji Muzeum, określi Prezes Instytutu Pamięci w drodze decyzji.”.
 
 **Art. 2.** Prezesowi Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu przekazuje się do dalszego organizowania i prowadzenia Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL, zwane dalej „Muzeum”.
 

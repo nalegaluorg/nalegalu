@@ -26,12 +26,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001975) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1975/text.pdf) |
 
 zmieniające rozporządzenie w sprawie specjalnego obszaru ochrony siedlisk Pojezierze Myśliborskie (PLH320014) Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Klimatu i Środowiska z dnia 1 grudnia 2022 r. w sprawie specjalnego obszaru ochrony siedlisk Pojezierze Myśliborskie (PLH320014) (Dz. U. z 2023 r. poz. 33) wprowadza się następujące zmiany:
-1) w § 3:
-a) w pkt 1: − w lit. b skreśla się przecinek i dodaje się wyraz „lub”, − uchyla się lit. c,
-b) pkt 2 otrzymuje brzmienie: „2) odtworzenia właściwego stanu ochrony siedlisk przyrodniczych lub właściwego stanu ochrony gatunków, o których mowa w pkt 1 lit. b”;
-2) w § 4 w pkt 2 średnik zastępuje się kropką i uchyla się pkt 3;
-3) uchyla się załącznik nr 5 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa
+
+**§ 1.** W rozporządzeniu Ministra Klimatu i Środowiska z dnia 1 grudnia 2022 r. w sprawie specjalnego obszaru ochrony siedlisk Pojezierze Myśliborskie (PLH320014) (Dz. U. z 2023 r. poz. 33) wprowadza się następujące zmiany:
+
+- **1)** w § 3:
+    - **a)** w pkt 1: − w lit. b skreśla się przecinek i dodaje się wyraz „lub”, − uchyla się lit. c,
+    - **b)** pkt 2 otrzymuje brzmienie: „2) odtworzenia właściwego stanu ochrony siedlisk przyrodniczych lub właściwego stanu ochrony gatunków, o których mowa w pkt 1 lit. b”;
+
+- **2)** w § 4 w pkt 2 średnik zastępuje się kropką i uchyla się pkt 3;
+- **3)** uchyla się załącznik nr 5 do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa
 

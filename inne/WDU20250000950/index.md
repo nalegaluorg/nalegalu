@@ -27,93 +27,149 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000950) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/950/text.pdf) |
 
 w sprawie warunków i trybu prowadzenia, koordynacji i wdrażania systemu wczesnego ostrzegania o zagrożeniach występujących w sieci Internet Na podstawie art. 32aa ust. 9 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) warunki i tryb:
-a) wdrażania systemu wczesnego ostrzegania o zagrożeniach występujących w sieci Internet, zwanego dalej „systemem ostrzegania”, w tym czynności niezbędne do uruchomienia systemu ostrzegania w infrastrukturze podmiotu, o którym mowa w art. 32aa ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, zwanego dalej „Uczestnikiem”,
-b) prowadzenia, w tym utrzymania, systemu ostrzegania,
-c) koordynacji systemu ostrzegania;
-2) wzór porozumienia w sprawie technicznych aspektów uczestnictwa w systemie ostrzegania oraz modelu konfiguracji systemu, zwanego dalej „porozumieniem”.
-§ 2. 1. Agencja Bezpieczeństwa Wewnętrznego, zwana dalej „ABW”, przekazuje Uczestnikowi, u którego wdrożenie systemu ostrzegania następuje zgodnie z rocznym planem wdrożenia, informacje o:
-1) technicznych aspektach uczestnictwa w systemie ostrzegania niezbędnych do wdrożenia systemu ostrzegania, w szczególności jego uruchomienia, zwanych dalej „technicznymi aspektami uczestnictwa”;
-2) proponowanym terminie wdrożenia systemu ostrzegania.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** warunki i tryb:
+    - **a)** wdrażania systemu wczesnego ostrzegania o zagrożeniach występujących w sieci Internet, zwanego dalej „systemem ostrzegania”, w tym czynności niezbędne do uruchomienia systemu ostrzegania w infrastrukturze podmiotu, o którym mowa w art. 32aa ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, zwanego dalej „Uczestnikiem”,
+    - **b)** prowadzenia, w tym utrzymania, systemu ostrzegania,
+    - **c)** koordynacji systemu ostrzegania;
+
+- **2)** wzór porozumienia w sprawie technicznych aspektów uczestnictwa w systemie ostrzegania oraz modelu konfiguracji systemu, zwanego dalej „porozumieniem”.
+
+**§ 2.**
+
+1. Agencja Bezpieczeństwa Wewnętrznego, zwana dalej „ABW”, przekazuje Uczestnikowi, u którego wdrożenie systemu ostrzegania następuje zgodnie z rocznym planem wdrożenia, informacje o:
+
+- **1)** technicznych aspektach uczestnictwa w systemie ostrzegania niezbędnych do wdrożenia systemu ostrzegania, w szczególności jego uruchomienia, zwanych dalej „technicznymi aspektami uczestnictwa”;
+- **2)** proponowanym terminie wdrożenia systemu ostrzegania.
+
 2. Informacje, o których mowa w ust. 1, ABW przekazuje Uczestnikowi w terminie do dnia 1 grudnia roku poprzedzającego rok, na który został opracowany roczny plan wdrożenia systemu ostrzegania, o którym mowa w art. 32aa ust. 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, zwanej dalej „ustawą”.
+
 3. Podmiotowi, o którym mowa w art. 32aa ust. 2 zdanie drugie ustawy, który złożył, wraz z uzasadnieniem, wniosek o wdrożenie systemu ostrzegania z pominięciem rocznego planu wdrożenia systemu ostrzegania, ABW przekazuje informację o sposobie rozpatrzenia tego wniosku w terminie 3 miesięcy od dnia jego złożenia.
+
 4. W przypadku pozytywnego rozpatrzenia wniosku ABW przekazuje Uczestnikowi, w postaci elektronicznej, a w przypadku braku możliwości przekazania w postaci elektronicznej – przy użyciu innych dostępnych środków komunikacji, informacje o technicznych aspektach uczestnictwa.
-§ 3. Uczestnik, w terminie 14 dni od dnia otrzymania informacji o technicznych aspektach uczestnictwa, przekazuje do ABW, w postaci elektronicznej, a w przypadku braku możliwości przekazania w postaci elektronicznej – przy użyciu innych dostępnych środków komunikacji, informację o:
-1) spełnieniu technicznych aspektów uczestnictwa albo
-2) niespełnianiu technicznych aspektów uczestnictwa na dzień przekazania informacji oraz o terminie, do którego dostosuje użytkowaną infrastrukturę do technicznych aspektów uczestnictwa.
-§ 4. 1. W przypadku przekazania informacji, o której mowa w § 3 pkt 2, jeżeli termin, w którym Uczestnik przekazujący informację dostosuje użytkowaną infrastrukturę do technicznych aspektów uczestnictwa, zostanie określony w sposób umożliwiający wdrożenie systemu ostrzegania, w szczególności jego uruchomienie, zgodnie z planem, o którym mowa w art. 32aa ust. 2 ustawy, Uczestnik, po dostosowaniu użytkowanej infrastruktury, niezwłocznie informuje ABW w postaci elektronicznej, a w przypadku braku możliwości przekazania informacji w postaci elektronicznej – przy użyciu innych dostępnych środków komunikacji, o spełnieniu technicznych aspektów uczestnictwa.
+
+**§ 3.** Uczestnik, w terminie 14 dni od dnia otrzymania informacji o technicznych aspektach uczestnictwa, przekazuje do ABW, w postaci elektronicznej, a w przypadku braku możliwości przekazania w postaci elektronicznej – przy użyciu innych dostępnych środków komunikacji, informację o:
+
+- **1)** spełnieniu technicznych aspektów uczestnictwa albo
+- **2)** niespełnianiu technicznych aspektów uczestnictwa na dzień przekazania informacji oraz o terminie, do którego dostosuje użytkowaną infrastrukturę do technicznych aspektów uczestnictwa.
+
+**§ 4.**
+
+1. W przypadku przekazania informacji, o której mowa w § 3 pkt 2, jeżeli termin, w którym Uczestnik przekazujący informację dostosuje użytkowaną infrastrukturę do technicznych aspektów uczestnictwa, zostanie określony w sposób umożliwiający wdrożenie systemu ostrzegania, w szczególności jego uruchomienie, zgodnie z planem, o którym mowa w art. 32aa ust. 2 ustawy, Uczestnik, po dostosowaniu użytkowanej infrastruktury, niezwłocznie informuje ABW w postaci elektronicznej, a w przypadku braku możliwości przekazania informacji w postaci elektronicznej – przy użyciu innych dostępnych środków komunikacji, o spełnieniu technicznych aspektów uczestnictwa.
+
 2. W przypadku przekazania informacji, o której mowa w § 3 pkt 2, jeżeli termin, w którym Uczestnik przekazujący informację dostosuje użytkowaną infrastrukturę do technicznych aspektów uczestnictwa, zostanie określony w sposób uniemożliwiający wdrożenie systemu ostrzegania, w szczególności jego uruchomienie, zgodnie z planem, o którym mowa w art. 32aa ust. 2 ustawy, ABW informuje o tym fakcie podmiot nadzorujący Uczestnika oraz uwzględnia tego Uczestnika w planie wdrożenia na rok następny.
-§ 5. 1. Uczestnictwo w systemie ostrzegania wymaga:
-1) niezwłocznego usuwania awarii infrastruktury sieciowej i zasilającej system ostrzegania w celu zachowania pełnej sprawności systemu ostrzegania;
-2) monitorowania i analizy we własnym zakresie informacji generowanych przez system ostrzegania w celu podjęcia działań naprawczych i zabezpieczających będących w jego zakresie;
-3) nieprzekazywania innym podmiotom:
-a) informacji dotyczących systemu ostrzegania,
-b) całości ani części udostępnionego przez ABW oprogramowania oraz platformy sprzętowej,
-c) informacji o platformie sprzętowej wchodzącej w skład systemu ostrzegania oraz aspektach technicznych związanych z budową i funkcjonowaniem systemu ostrzegania.
+
+**§ 5.**
+
+1. Uczestnictwo w systemie ostrzegania wymaga:
+
+- **1)** niezwłocznego usuwania awarii infrastruktury sieciowej i zasilającej system ostrzegania w celu zachowania pełnej sprawności systemu ostrzegania;
+- **2)** monitorowania i analizy we własnym zakresie informacji generowanych przez system ostrzegania w celu podjęcia działań naprawczych i zabezpieczających będących w jego zakresie;
+- **3)** nieprzekazywania innym podmiotom:
+    - **a)** informacji dotyczących systemu ostrzegania,
+    - **b)** całości ani części udostępnionego przez ABW oprogramowania oraz platformy sprzętowej,
+    - **c)** informacji o platformie sprzętowej wchodzącej w skład systemu ostrzegania oraz aspektach technicznych związanych z budową i funkcjonowaniem systemu ostrzegania.
+
 2. W uzasadnionych przypadkach ABW może wyrazić zgodę na przekazanie przez Uczestnika innemu podmiotowi informacji dotyczących systemu ostrzegania lub udostępnienie całości lub części oprogramowania albo platformy sprzętowej wchodzącej w skład tego systemu.
+
 3. Zgoda może zostać wydana przez ABW na wniosek Uczestnika, przekazany w postaci elektronicznej, a w przypadku braku możliwości przekazania w postaci elektronicznej – przy użyciu innych dostępnych środków komunikacji, zawierający:
-1) pełne dane podmiotu, który miałby otrzymać informacje, oprogramowanie albo platformę sprzętową;
-2) szczegółowy zakres przekazywanych informacji, udostępnionego oprogramowania lub platformy sprzętowej;
-3) uzasadnienie.
+
+- **1)** pełne dane podmiotu, który miałby otrzymać informacje, oprogramowanie albo platformę sprzętową;
+- **2)** szczegółowy zakres przekazywanych informacji, udostępnionego oprogramowania lub platformy sprzętowej;
+- **3)** uzasadnienie.
+
 4. ABW, z uwagi na bezpieczeństwo narodowe, może, bez podania przyczyny, odmówić udzielenia zgody na przekazanie przez Uczestnika innemu podmiotowi informacji lub udostępnienie oprogramowania lub platformy sprzętowej.
-§ 6. 1. W przypadku przekazania informacji, o której mowa w § 3 pkt 1 albo § 4 ust. 1, ABW uzgadnia z Uczestnikiem sposób i termin zawarcia porozumienia.
+
+**§ 6.**
+
+1. W przypadku przekazania informacji, o której mowa w § 3 pkt 1 albo § 4 ust. 1, ABW uzgadnia z Uczestnikiem sposób i termin zawarcia porozumienia.
+
 2. Wzór porozumienia jest określony w załączniku do rozporządzenia.
-§ 7. 1. Przed rozpoczęciem wdrożenia systemu ostrzegania Uczestnik przekazuje ABW, w postaci elektronicznej, a w przypadku braku możliwości przekazania w postaci elektronicznej – przy użyciu innych dostępnych środków komunikacji, wypełniony wniosek o nadanie uprawnień do systemu ostrzegania.
+
+**§ 7.**
+
+1. Przed rozpoczęciem wdrożenia systemu ostrzegania Uczestnik przekazuje ABW, w postaci elektronicznej, a w przypadku braku możliwości przekazania w postaci elektronicznej – przy użyciu innych dostępnych środków komunikacji, wypełniony wniosek o nadanie uprawnień do systemu ostrzegania.
+
 2. Wniosek zawiera:
-1) nazwę Uczestnika;
-2) adres korespondencyjny Uczestnika;
-3) publiczne adresy IP, z których będzie realizowany dostęp do graficznego interfejsu użytkownika (GUI) systemu ostrzegania;
-4) imiona i nazwiska co najmniej dwóch osób wyznaczonych przez Uczestnika, dla których będą utworzone konta dostępowe w systemie ostrzegania, zwanych dalej „osobami wyznaczonymi”;
-5) dane kontaktowe osób wyznaczonych, zawierające adresy poczty elektronicznej i numery telefonów.
+
+- **1)** nazwę Uczestnika;
+- **2)** adres korespondencyjny Uczestnika;
+- **3)** publiczne adresy IP, z których będzie realizowany dostęp do graficznego interfejsu użytkownika (GUI) systemu ostrzegania;
+- **4)** imiona i nazwiska co najmniej dwóch osób wyznaczonych przez Uczestnika, dla których będą utworzone konta dostępowe w systemie ostrzegania, zwanych dalej „osobami wyznaczonymi”;
+- **5)** dane kontaktowe osób wyznaczonych, zawierające adresy poczty elektronicznej i numery telefonów.
+
 3. Na podstawie danych zawartych we wniosku o nadanie uprawnień do systemu ostrzegania ABW tworzy konta dostępowe w systemie ostrzegania.
+
 4. Informacja o utworzeniu konta dostępowego w systemie ostrzegania oraz dane niezbędne do logowania do tego systemu są osobom wyznaczonym przekazywane za pomocą poczty elektronicznej.
-§ 8. 1. W ramach wdrożenia systemu ostrzegania ABW:
-1) użycza Uczestnikowi platformę sprzętową albo instaluje elementy systemu ostrzegania na platformie sprzętowej użytkowanej przez Uczestnika;
-2) konfiguruje system ostrzegania;
-3) sprawdza poprawność funkcjonowania systemu ostrzegania.
+
+**§ 8.**
+
+1. W ramach wdrożenia systemu ostrzegania ABW:
+
+- **1)** użycza Uczestnikowi platformę sprzętową albo instaluje elementy systemu ostrzegania na platformie sprzętowej użytkowanej przez Uczestnika;
+- **2)** konfiguruje system ostrzegania;
+- **3)** sprawdza poprawność funkcjonowania systemu ostrzegania.
+
 2. ABW niezwłocznie usuwa awarie programowe i sprzętowe platformy sprzętowej użyczonej Uczestnikowi przez ABW.
-§ 9. 1. ABW przeprowadza serwisowanie platformy sprzętowej użyczonej Uczestnikowi, w tym wymianę na nową platformę sprzętową w przypadku jej trwałego uszkodzenia.
+
+**§ 9.**
+
+1. ABW przeprowadza serwisowanie platformy sprzętowej użyczonej Uczestnikowi, w tym wymianę na nową platformę sprzętową w przypadku jej trwałego uszkodzenia.
+
 2. Uczestnik zwraca użyczoną platformę sprzętową na żądanie ABW.
+
 3. Użyczenia oraz zwrotu użyczonej Uczestnikowi platformy sprzętowej dokonuje się na podstawie protokołów użyczenia albo zwrotu platformy sprzętowej określających nazwę, liczbę, numer fabryczny i lokalizację użyczonych składników majątku.
-§ 10. W ramach wdrożenia systemu ostrzegania ABW określa, w uzgodnieniu z Uczestnikiem, zakres:
-1) czynności niezbędnych do przeprowadzenia wdrożenia, w szczególności instalacji platformy sprzętowej w użytkowanej przez Uczestnika infrastrukturze, albo
-2) instalacji elementów systemu ostrzegania na platformie sprzętowej użytkowanej przez tego Uczestnika – które zostaną zrealizowane przez tego Uczestnika.
-§ 11. 1. W ramach prowadzenia systemu ostrzegania, w szczególności w zakresie utrzymania tego systemu, ABW:
-1) administruje systemem ostrzegania i koordynuje jego działanie;
-2) monitoruje poprawność funkcjonowania systemu ostrzegania oraz poszczególnych elementów systemu ostrzegania zainstalowanych w infrastrukturze Uczestnika, w szczególności łączności z siecią Internet;
-3) monitoruje alarmy generowane na podstawie analizy ruchu sieciowego w oparciu o posiadane reguły bazujące na uprzednio zidentyfikowanych połączeniach wykazujących cechy złośliwe, przekazywane przez elementy systemu ostrzegania zainstalowane w infrastrukturze Uczestnika;
-4) monitoruje alarmy generowane na podstawie analizy ruchu sieciowego w oparciu o reguły bazujące na uprzednio zidentyfikowanych połączeniach umożliwiających dostęp do treści o charakterze terrorystycznym lub uprawdopodobniających popełnienie przestępstwa szpiegostwa, przekazywane przez elementy systemu ostrzegania zainstalowane w infrastrukturze Uczestnika;
-5) dokonuje aktualizacji systemu ostrzegania oraz mechanizmów alarmowych;
-6) dokonuje analizy wydajności platformy sprzętowej i informuje Uczestnika o potrzebie modernizacji platformy sprzętowej użytkowanej przez tego Uczestnika;
-7) uzgadnia z Uczestnikiem kwestie związane z modernizacją platformy sprzętowej użytkowanej przez tego Uczestnika.
+
+**§ 10.** W ramach wdrożenia systemu ostrzegania ABW określa, w uzgodnieniu z Uczestnikiem, zakres:
+
+- **1)** czynności niezbędnych do przeprowadzenia wdrożenia, w szczególności instalacji platformy sprzętowej w użytkowanej przez Uczestnika infrastrukturze, albo
+- **2)** instalacji elementów systemu ostrzegania na platformie sprzętowej użytkowanej przez tego Uczestnika – które zostaną zrealizowane przez tego Uczestnika.
+
+**§ 11.**
+
+1. W ramach prowadzenia systemu ostrzegania, w szczególności w zakresie utrzymania tego systemu, ABW:
+
+- **1)** administruje systemem ostrzegania i koordynuje jego działanie;
+- **2)** monitoruje poprawność funkcjonowania systemu ostrzegania oraz poszczególnych elementów systemu ostrzegania zainstalowanych w infrastrukturze Uczestnika, w szczególności łączności z siecią Internet;
+- **3)** monitoruje alarmy generowane na podstawie analizy ruchu sieciowego w oparciu o posiadane reguły bazujące na uprzednio zidentyfikowanych połączeniach wykazujących cechy złośliwe, przekazywane przez elementy systemu ostrzegania zainstalowane w infrastrukturze Uczestnika;
+- **4)** monitoruje alarmy generowane na podstawie analizy ruchu sieciowego w oparciu o reguły bazujące na uprzednio zidentyfikowanych połączeniach umożliwiających dostęp do treści o charakterze terrorystycznym lub uprawdopodobniających popełnienie przestępstwa szpiegostwa, przekazywane przez elementy systemu ostrzegania zainstalowane w infrastrukturze Uczestnika;
+- **5)** dokonuje aktualizacji systemu ostrzegania oraz mechanizmów alarmowych;
+- **6)** dokonuje analizy wydajności platformy sprzętowej i informuje Uczestnika o potrzebie modernizacji platformy sprzętowej użytkowanej przez tego Uczestnika;
+- **7)** uzgadnia z Uczestnikiem kwestie związane z modernizacją platformy sprzętowej użytkowanej przez tego Uczestnika.
+
 2. W przypadku stwierdzenia w ramach czynności, o których mowa w ust. 1 pkt 2, nieprawidłowości w funkcjonowaniu systemu ostrzegania, ABW:
-1) informuje Uczestnika o rodzaju stwierdzonej nieprawidłowości;
-2) przekazuje Uczestnikowi instrukcje dotyczące postępowania mającego na celu przywrócenie prawidłowego funkcjonowania systemu ostrzegania.
-§ 12. Uczestnik w ramach systemu ostrzegania:
-1) dokonuje analizy alarmów przekazywanych przez elementy systemu ostrzegania zainstalowane w infrastrukturze tego Uczestnika w celu podjęcia działań naprawczych i zabezpieczających będących w jego zakresie;
-2) czuwa nad prawidłowym funkcjonowaniem elementów systemu ostrzegania zainstalowanych w infrastrukturze tego Uczestnika, w szczególności użyczonej platformy sprzętowej;
-3) zapewnia łączność elementów systemu ostrzegania zainstalowanych w infrastrukturze tego Uczestnika z siecią Internet zgodnie z technicznymi aspektami uczestnictwa;
-4) informuje ABW o:
-a) zamiarze podjęcia działań mogących wpłynąć na prawidłowe funkcjonowanie systemu ostrzegania, w szczególności o zamiarze odłączenia od infrastruktury Uczestnika jakiegokolwiek elementu systemu ostrzegania,
-b) wykrytej lub planowanej przerwie w dostępności łączności elementów systemu ostrzegania zainstalowanych w infrastrukturze tego Uczestnika z siecią Internet,
-c) wykrytych nieprawidłowościach w działaniu systemu ostrzegania;
-5) wykonuje działania zgodnie z instrukcjami, o których mowa w § 11 ust. 2 pkt 2, oraz informuje ABW o efektach ich wykonania;
-6) nie wykonuje samodzielnie czynności dotyczących elementów systemu ostrzegania zainstalowanych w infrastrukturze tego Uczestnika, w szczególności użyczonej platformy sprzętowej, z wyłączeniem instrukcji, o których mowa w § 11 ust. 2 pkt 2;
-7) współpracuje z ABW w zakresie modernizacji oraz bieżących prac związanych z utrzymaniem poprawności funkcjonowania platformy sprzętowej użytkowanej przez tego Uczestnika.
-§ 13. 1. W ramach koordynacji systemu ostrzegania, w związku z wykonywaniem czynności, o których mowa w § 11 ust. 1 pkt 3, w przypadku powzięcia przez ABW informacji o wystąpieniu alarmu klasyfikowanego jako pilny ABW informuje o tym osoby wyznaczone.
+
+- **1)** informuje Uczestnika o rodzaju stwierdzonej nieprawidłowości;
+- **2)** przekazuje Uczestnikowi instrukcje dotyczące postępowania mającego na celu przywrócenie prawidłowego funkcjonowania systemu ostrzegania.
+
+**§ 12.** Uczestnik w ramach systemu ostrzegania:
+
+- **1)** dokonuje analizy alarmów przekazywanych przez elementy systemu ostrzegania zainstalowane w infrastrukturze tego Uczestnika w celu podjęcia działań naprawczych i zabezpieczających będących w jego zakresie;
+- **2)** czuwa nad prawidłowym funkcjonowaniem elementów systemu ostrzegania zainstalowanych w infrastrukturze tego Uczestnika, w szczególności użyczonej platformy sprzętowej;
+- **3)** zapewnia łączność elementów systemu ostrzegania zainstalowanych w infrastrukturze tego Uczestnika z siecią Internet zgodnie z technicznymi aspektami uczestnictwa;
+- **4)** informuje ABW o:
+    - **a)** zamiarze podjęcia działań mogących wpłynąć na prawidłowe funkcjonowanie systemu ostrzegania, w szczególności o zamiarze odłączenia od infrastruktury Uczestnika jakiegokolwiek elementu systemu ostrzegania,
+    - **b)** wykrytej lub planowanej przerwie w dostępności łączności elementów systemu ostrzegania zainstalowanych w infrastrukturze tego Uczestnika z siecią Internet,
+    - **c)** wykrytych nieprawidłowościach w działaniu systemu ostrzegania;
+
+- **5)** wykonuje działania zgodnie z instrukcjami, o których mowa w § 11 ust. 2 pkt 2, oraz informuje ABW o efektach ich wykonania;
+- **6)** nie wykonuje samodzielnie czynności dotyczących elementów systemu ostrzegania zainstalowanych w infrastrukturze tego Uczestnika, w szczególności użyczonej platformy sprzętowej, z wyłączeniem instrukcji, o których mowa w § 11 ust. 2 pkt 2;
+- **7)** współpracuje z ABW w zakresie modernizacji oraz bieżących prac związanych z utrzymaniem poprawności funkcjonowania platformy sprzętowej użytkowanej przez tego Uczestnika.
+
+**§ 13.**
+
+1. W ramach koordynacji systemu ostrzegania, w związku z wykonywaniem czynności, o których mowa w § 11 ust. 1 pkt 3, w przypadku powzięcia przez ABW informacji o wystąpieniu alarmu klasyfikowanego jako pilny ABW informuje o tym osoby wyznaczone.
+
 2. ABW klasyfikuje alarm jako pilny na podstawie analizy przeprowadzonej przez system ostrzegania.
+
 3. Uczestnik, w przypadku otrzymania informacji, o której mowa w ust. 1, niezwłocznie podejmuje niezbędne działania mające na celu przeciwdziałanie zagrożeniu oraz informuje ABW o podjętych działaniach oraz o ich wynikach.
-§ 14. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: D. Tusk Załącznik do rozporządzenia Prezesa Rady Ministrów z dnia WZÓR (Dz. U. poz. ) WZÓR ...........................................
-.....................................
-Egz. nr .....................
-POROZUMIENIE zawarte w dniu ………………………… w Warszawie w sprawie technicznych aspektów uczestnictwa w systemie ostrzegania oraz modelu konfiguracji systemu między Szefem Agencji Bezpieczeństwa Wewnętrznego z siedzibą w Warszawie (adres siedziby: ul. Rakowiecka 2A, 00-993 Warszawa), NIP: 5213199092, REGON: 015179728, reprezentowanym przez ................................................................................................................
-......................................................................................................................................................, a .......................................................................................................................................................
-......................................................................................................................................................, zwanym(-ną) dalej „Uczestnikiem”, reprezentowanym(-ną) przez .............................................
-.......................................................................................................................................................
-.......................................................................................................................................................
-– zwanymi dalej łącznie „Stronami”, a każdy z osobna „Stroną”.
+
+**§ 14.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezes Rady Ministrów: D. Tusk Załącznik do rozporządzenia Prezesa Rady Ministrów z dnia WZÓR (Dz. U. poz. ) WZÓR ........................................... ..................................... Egz. nr ..................... POROZUMIENIE zawarte w dniu ………………………… w Warszawie w sprawie technicznych aspektów uczestnictwa w systemie ostrzegania oraz modelu konfiguracji systemu między Szefem Agencji Bezpieczeństwa Wewnętrznego z siedzibą w Warszawie (adres siedziby: ul. Rakowiecka 2A, 00-993 Warszawa), NIP: 5213199092, REGON: 015179728, reprezentowanym przez ................................................................................................................ ......................................................................................................................................................, a ....................................................................................................................................................... ......................................................................................................................................................, zwanym(-ną) dalej „Uczestnikiem”, reprezentowanym(-ną) przez ............................................. ....................................................................................................................................................... ....................................................................................................................................................... – zwanymi dalej łącznie „Stronami”, a każdy z osobna „Stroną”.
+
+## Załącznik
+
 § 1.
 Celem porozumienia jest uzgodnienie między Agencją Bezpieczeństwa Wewnętrznego, zwaną dalej „ABW”, a Uczestnikiem kwestii związanych z technicznymi aspektami uczestnictwa Uczestnika w systemie wczesnego ostrzegania o zagrożeniach występujących w sieci Internet, o którym mowa w art. 32aa ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902), zwanym dalej „systemem ostrzegania”.
 Strona 1 z 5 ...........................................

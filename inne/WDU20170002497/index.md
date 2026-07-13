@@ -28,68 +28,96 @@ source: pdf
 zawarta w dniu …………....................……………… pomiędzy: …………………………………………......, zwanym dalej „Bankiem”, reprezentowanym przez: ..…….………………….............................................……...........................................................
 oraz ………………………………………..................................................…………….....................
 zwanym dalej „Zleceniodawcą”, reprezentowanym przez: …………………………………………………………….........................................................., zwanymi dalej łącznie „Stronami”.
-§ 1.
+
+**§ 1.**
+
 1. Strony zawierają umowę o turystyczny rachunek powierniczy, zwaną dalej „Umową”, zgodnie z wnioskiem nr ………………, który stanowi załącznik do niej.
+
 2. Umowa reguluje warunki i zasady prowadzenia turystycznego rachunku powierniczego.
+
 3. W kwestiach nieuregulowanych w Umowie zastosowanie mają regulacje wewnętrzne Banku stosowane do rachunków bieżących prowadzonych dla przedsiębiorców.
-§ 2.
+
+**§ 2.**
+
 1. Zleceniodawca, który wykonuje imprezy turystyczne na terytorium Rzeczypospolitej Polskiej lub ułatwia nabywanie powiązanych usług turystycznych wykonywanych wyłącznie na terytorium Rzeczypospolitej Polskiej zobowiązuje się do przyjmowania wpłat podróżnych, odrębnie dla każdej umowy o udział w imprezie turystycznej lub usługi opłaconej przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych, na turystyczny rachunek powierniczy prowadzony przez Bank.
+
 2. Bank zobowiązuje się do prowadzenia w walucie polskiej turystycznego rachunku powierniczego o nr ……………….
-§ 3.
+
+**§ 3.**
+
 1. Bank ewidencjonuje wpłaty podróżnych i wypłaty dla Zleceniodawcy odrębnie dla każdej umowy o udział w imprezie turystycznej lub usługi opłaconej przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych.
+
 2. Zleceniodawca jest zobowiązany do gromadzenia i przekazania Bankowi:
-1) imienia i nazwiska oraz adresu do korespondencji podróżnego, z którym zawarł umowę, o której mowa w ust. 1;
-2) informacji o dacie, numerze oraz przedmiocie umowy zawartej z podróżnym, z tytułu której została dokonana wpłata na turystyczny rachunek powierniczy.
+
+- **1)** imienia i nazwiska oraz adresu do korespondencji podróżnego, z którym zawarł umowę, o której mowa w ust. 1;
+- **2)** informacji o dacie, numerze oraz przedmiocie umowy zawartej z podróżnym, z tytułu której została dokonana wpłata na turystyczny rachunek powierniczy.
+
 3. Administratorami danych osobowych zawartych w umowie są jej Strony, które są zobowiązane do szczególnej staranności w celu ochrony interesów osób, których te dane dotyczą. Strony umowy są uprawnione do przetwarzania zgromadzonych danych osobowych.
-§ 4.
+
+**§ 4.**
+
 1. Bank wypłaca podróżnemu środki wpłacone na turystyczny rachunek powierniczy Zleceniodawcy do wysokości kwoty określonej w umowie o udział w imprezie turystycznej lub wartości usługi opłaconej przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych w trybie określonym w art. 11 ust. 3 ustawy z dnia 24 listopada 2017 r. o imprezach turystycznych i powiązanych usługach turystycznych (Dz. U. poz. 2361), zwanej dalej „ustawą”.
+
 2. Wypłata następuje na rachunek bankowy lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, wskazany przez podróżnego.
-§ 5.
+
+**§ 5.**
+
 1. W przypadku otrzymania od Marszałka Województwa …………, zwanego dalej „Marszałkiem Województwa”, oświadczenia o niewypłacalności Zleceniodawcy, o którym mowa w art. 13 ust. 1 pkt 1 ustawy, albo na podstawie wystąpienia Marszałka Województwa, o którym mowa w art. 13 ust. 2 ustawy, Bank bezwarunkowo i niezwłocznie wypłaca podróżnym w całości środki wpłacone na turystyczny rachunek powierniczy Zleceniodawcy.
+
 2. Dokumenty, o których mowa w ust. 1, mogą być przekazane Bankowi drogą elektroniczną lub faksem.
-§ 6.
+
+**§ 6.**
+
 1. Wpłaty dokonane przez podróżnych są przekazywane na rachunek Zleceniodawcy po potwierdzeniu Bankowi przez podróżnego wykonania imprezy turystycznej lub każdej usługi opłaconej przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych.
+
 2. Brak odmowy potwierdzenia przez podróżnego, o którym mowa w ust. 1, w terminie 7 dni od dnia planowanego zakończenia imprezy turystycznej lub każdej usługi opłaconej przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych jest równoznaczny z potwierdzeniem przez podróżnego wykonania imprezy turystycznej lub każdej usługi opłaconej przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych. W przypadku odmowy potwierdzenia przez podróżnego wykonania imprezy turystycznej lub każdej usługi opłaconej przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych złożonej na piśmie do Banku oraz do Zleceniodawcy w terminie 7 dni od dnia planowanego zakończenia imprezy turystycznej lub każdej usługi opłaconej przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych, środki pieniężne wpłacone na turystyczny rachunek powierniczy przez tego podróżnego pozostają po upływie tego terminu na turystycznym rachunku powierniczym na okres kolejnych 14 dni.
+
 3. Środki pieniężne wpłacone przez podróżnego, znajdujące się na turystycznym rachunku powierniczym są niezwłocznie przekazywane na rachunek Zleceniodawcy po upływie terminu, o którym mowa w ust. 2, chyba że podróżny i Zleceniodawca przed jego upływem złożą wobec Banku zgodnie oświadczenie, o którym mowa w art. 11 ust. 3 pkt 3 ustawy.
+
 4. Zleceniodawca informuje podróżnego, od którego przyjmuje wpłaty na turystyczny rachunek powierniczy, o sposobie, trybie i terminie potwierdzania wykonania imprezy turystycznej lub każdej usługi opłaconej przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych objętych umową oraz możliwości odmowy potwierdzenia ich wykonania.
+
 5. W przypadku wystąpienia przez podróżnego z powództwem w związku z niewykonaniem imprezy turystycznej lub każdej usługi opłaconej przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych, przed dokonaniem wypłaty środków z turystycznego rachunku powierniczego, po upływie terminów, o których mowa w ust. 2, środki pieniężne pozostają na turystycznym rachunku powierniczym do czasu wydania prawomocnego orzeczenia sądowego.
+
 6. Postanowienia ust. 1–5 nie dotyczą sytuacji, w której podróżny uznał, że impreza turystyczna lub każda usługa opłacona przedsiębiorcy ułatwiającemu nabywanie powiązanych usług turystycznych, została nienależycie wykonana.
-§ 7.
+
+**§ 7.**
+
 1. W przypadku wypłaty przez Bank środków z turystycznego rachunku powierniczego podróżnemu, na podstawie § 5 Umowy, Bank niezwłocznie informuje o tej wypłacie Marszałka Województwa.
+
 2. Informacja, o której mowa w ust. 1, zawiera:
-1) nazwę i adres Zleceniodawcy, z którego turystycznego rachunku powierniczego zostały dokonane wypłaty podróżnemu;
-2) informację o wysokości wypłaconych podróżnemu kwot z turystycznego rachunku powierniczego i terminie dokonanej wypłaty;
-3) imię i nazwisko oraz adres do korespondencji podróżnego, któremu dokonano wypłaty z turystycznego rachunku powierniczego.
-§ 8.
-Środki wpłacone na turystyczny rachunek powierniczy służą ochronie wszystkich należności podróżnych, o których mowa w § 2 Umowy, w tym powstałych w wyniku umyślnego działania lub zaniechania, lub na skutek rażącego niedbalstwa Zleceniodawcy lub osób działających w jego imieniu.
-§ 9.
+
+- **1)** nazwę i adres Zleceniodawcy, z którego turystycznego rachunku powierniczego zostały dokonane wypłaty podróżnemu;
+- **2)** informację o wysokości wypłaconych podróżnemu kwot z turystycznego rachunku powierniczego i terminie dokonanej wypłaty;
+- **3)** imię i nazwisko oraz adres do korespondencji podróżnego, któremu dokonano wypłaty z turystycznego rachunku powierniczego.
+
+**§ 8.** Środki wpłacone na turystyczny rachunek powierniczy służą ochronie wszystkich należności podróżnych, o których mowa w § 2 Umowy, w tym powstałych w wyniku umyślnego działania lub zaniechania, lub na skutek rażącego niedbalstwa Zleceniodawcy lub osób działających w jego imieniu.
+
+**§ 9.**
+
 1. Umowa zostaje zawarta na czas: nieokreślony/określony od dnia .........…. do dnia ….........
+
 2. Umowa może być rozwiązana na mocy zgodnego porozumienia Stron zawartego w formie pisemnej, a także w drodze wypowiedzenia przez każdą ze Stron złożonego w formie pisemnej z zachowaniem 30-dniowego okresu wypowiedzenia.
+
 3. W przypadku wypowiedzenia Umowy przez którąkolwiek ze Stron, Bank niezwłocznie informuje o tym fakcie Marszałka Województwa.
-§ 10.
+
+**§ 10.**
+
 1. Wszelkie dyspozycje, polecenia i powiadomienia będą kierowane do osób odpowiedzialnych za bieżącą realizację Umowy:
-1) ze strony Zleceniodawcy: do Pani/Pana: …...................................................
-Adres : …..............................................................
-…..........................................................................
-Telefon służbowy: …...........................................
-faks: …...................................................................
-służbowy e-mail: …..............................................
-2) ze strony Banku: do Pani/Pana: ........................................................
-adres: ....................................................................
-............................................................................
-Telefon służbowy: .............................................
-faks: ....................................................................
-Służbowy e-mail: …..........................................
+
+- **1)** ze strony Zleceniodawcy: do Pani/Pana: …................................................... Adres : ….............................................................. ….......................................................................... Telefon służbowy: …........................................... faks: …................................................................... służbowy e-mail: …..............................................
+- **2)** ze strony Banku: do Pani/Pana: ........................................................ adres: .................................................................... ............................................................................ Telefon służbowy: ............................................. faks: .................................................................... Służbowy e-mail: …..........................................
+
 2. Zmiana osób odpowiedzialnych za bieżącą realizację Umowy wskazanych w ust. 1 oraz adresów, numerów telefonów i faksów oraz adresów poczty elektronicznej nie wymaga zmiany Umowy. Zmiana jest skuteczna od dnia, w którym nowe dane, o których mowa w ust. 1, zostaną w sposób skuteczny doręczone Zleceniodawcy lub Bankowi, na piśmie lub drogą elektroniczną.
-§ 11.
-Do Umowy, w zakresie w niej nieuregulowanym, stosuje się odpowiednio w szczególności:
-1) ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876 i 2361);
-2) ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132).
-§ 12.
-Umowę sporządzono w trzech jednobrzmiących egzemplarzach, po jednym dla Banku, Zleceniodawcy i Marszałka Województwa.
-……………….....……........…………….. …………….....................……………….
-(podpis Zleceniodawcy) (podpis Banku) Załącznik nr 2 WZÓR GWARANCJA BANKOWA w związku z działalnością wykonywaną przez organizatorów turystyki lub przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych nr ….
-z dnia …………....................………………
+
+**§ 11.** Do Umowy, w zakresie w niej nieuregulowanym, stosuje się odpowiednio w szczególności:
+
+- **1)** ustawę z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876 i 2361);
+- **2)** ustawę z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2017 r. poz. 459, 933 i 1132).
+
+**§ 12.** Umowę sporządzono w trzech jednobrzmiących egzemplarzach, po jednym dla Banku, Zleceniodawcy i Marszałka Województwa. ……………….....……........…………….. …………….....................………………. (podpis Zleceniodawcy) (podpis Banku) Załącznik nr 2 WZÓR GWARANCJA BANKOWA w związku z działalnością wykonywaną przez organizatorów turystyki lub przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych nr …. z dnia …………....................………………
+
+## Załącznik
+
 § 1.
 …………………………………………......................................................................................, zwany dalej „Gwarantem”, reprezentowany przez: …….……………………………………………...……........................, działając na zlecenie ………………………………………………………………………….............................
 zwanego dalej „Zleceniodawcą”, reprezentowanego przez: …………………………………………………………....................., zobowiązuje się, na wypadek niewypłacalności Zleceniodawcy stwierdzonej zgodnie z § 8 niniejszej gwarancji bankowej, zwanej dalej „Gwarancją”, bezwarunkowo i niezwłocznie do:

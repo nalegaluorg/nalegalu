@@ -8,10 +8,10 @@ pos: 1656
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Poz. 1656 ROZPORZĄDZENIE MINISTRA FINANSÓW dnia 21 sierpnia sprawie wyłączenia niektórych obowiązków zakresie zgłoszeń przewozu towarów Na podstawie art. 7b ust. 2 dnia 9 marca 2017 o systemie monitorowania drogowego kolejowego przewozu towarów oraz obrotu paliwami opałowymi 2018 2332 oraz 730, 1123 1556) zarządza się, co następuje: § 1. Rozporządzenie określa:
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1656 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 21 sierpnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,22 +22,40 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-08-21 |
 | Data wydania | 2019-08-30 |
-| Ostatnia zmiana | 2026-05-12 |
+| Ostatnia zmiana | 2026-06-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001656) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1656/text.pdf) |
 
-1) przypadki, których przewóz towarów jest wyłączony obowiązku:
-a) przesłania zgłoszenia do rejestru zgłoszeń, o którym mowa art. 4 ust. 1 pkt 1 dnia 9 marca 2017 o systemie monitorowania drogowego kolejowego przewozu towarów oraz obrotu paliwami opałowymi, zwanego dalej „rejestrem”,
-b) o którym mowa art. 5 ust. 5 oraz art. 10a ust. 1 2 dnia 9 marca 2017 o systemie monitorowania drogowego kolejowego przewozu towarów oraz obrotu paliwami opałowymi, zwanej dalej „ustawą”;
-2) warunki wyłączenia przypadkach, o których mowa pkt 1.
-§ 2. 1. Z obowiązku przesłania zgłoszenia do rejestru jest wyłączony przewóz towarów objętych:
-1) pozycją CN 2710, które są przedmiotem dostawy towarów rozumieniu dnia 11 marca 2004 o podatku od towarów usług 2018 2174, późn. zm. ), zwanej dalej „dostawą towarów”, dokonywanej ze stacji paliw ciekłych, jeżeli obrót tymi towarami jest dokonywany na podstawie koncesji na obrót paliwami ciekłymi;
-2) pozycją CN 2710 19 81;
-3) pozycją CN ex 2917 36 00 ‒ kwas tereftalowy;
-4) pozycją CN ex 3403 19 20 ‒ preparaty do smarowania maszyn, urządzeń pojazdów;
-5) pozycją CN ex 3403 19 80 ‒ preparaty do smarowania maszyn, urządzeń pojazdów.
-2. Wyłączenie, o którym mowa ust. 1:
-1) pkt 1, stosuje się pod warunkiem przewozu towarów bezpośrednio po dokonaniu dostawy towarów udokumentowanej fakturą lub przypadku częściowej dostawy towarów udokumentowanej innym dokumentem potwierdzającym wydanie towarów ramach takiej dostawy towarów;
-2) pkt 2, 4 5, stosuje się pod warunkiem przewozu towarów opakowaniach jednostkowych, których masa brutto nie przekracza 20 kg lub objętość nie przekracza 20 litrów.
-§ 4. Z obowiązku, o którym mowa art. 10a ust. 1 2 ustawy, jest wyłączony przewóz towarów po krajowej sieci kolejowej środkiem transportu, o którym mowa art. 2 pkt 11 lit. b ustawy.
-§ 5. Rozporządzenie wchodzi życie dniem 1 września Minister Finansów: M. Banaś
+w sprawie wyłączenia niektórych obowiązków w zakresie zgłoszeń przewozu towarów Na podstawie art. 7b ust. 2 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2018 r. poz. 2332 oraz z 2019 r. poz. 730, 1123 i 1556) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** przypadki, w których przewóz towarów jest wyłączony z obowiązku: o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, zwanego dalej „rejestrem”,
+    - **a)** przesłania zgłoszenia do rejestru zgłoszeń, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 9 marca 2017 r.
+    - **b)** o którym mowa w art. 5 ust. 5 oraz art. 10a ust. 1 i 2 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi, zwanej dalej „ustawą”;
+
+- **2)** warunki wyłączenia w przypadkach, o których mowa w pkt 1.
+
+**§ 2.**
+
+1. Z obowiązku przesłania zgłoszenia do rejestru jest wyłączony przewóz towarów objętych:
+
+- **1)** pozycją CN 2710, które są przedmiotem dostawy towarów w rozumieniu ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm. ), zwanej dalej „dostawą towarów”, dokonywanej ze stacji paliw ciekłych, jeżeli obrót tymi towarami jest dokonywany na podstawie koncesji na obrót paliwami ciekłymi;
+- **2)** pozycją CN 2710 19 81;
+- **3)** pozycją CN ex 2917 36 00 ‒ kwas tereftalowy;
+- **4)** pozycją CN ex 3403 19 20 ‒ preparaty do smarowania maszyn, urządzeń i pojazdów;
+- **5)** pozycją CN ex 3403 19 80 ‒ preparaty do smarowania maszyn, urządzeń i pojazdów.
+
+2. Wyłączenie, o którym mowa w ust. 1:
+
+- **1)** pkt 1, stosuje się pod warunkiem przewozu towarów bezpośrednio po dokonaniu dostawy towarów udokumentowanej fakturą lub w przypadku częściowej dostawy towarów udokumentowanej innym dokumentem potwierdzającym wydanie towarów w ramach takiej dostawy towarów;
+- **2)** pkt 2, 4 i 5, stosuje się pod warunkiem przewozu towarów w opakowaniach jednostkowych, których masa brutto nie przekracza 20 kg lub objętość nie przekracza 20 litrów.
+
+**§ 3.** Z obowiązku, o którym mowa w art. 5 ust. 5 ustawy, jest wyłączony przewóz towarów objętych pozycją CN 2710 będących przedmiotem dostawy towarów bezpośrednio do:
+
+- **1)** statków powietrznych w rozumieniu ustawy z dnia 3 lipca 2002 r. ‒ Prawo lotnicze (Dz. U. z 2019 r. poz. 1580 i 1495),
+- **2)** statków morskich w rozumieniu ustawy z dnia 18 września 2001 r. ‒ Kodeks morski (Dz. U. z 2018 r. poz. 2175) ‒ pod warunkiem potwierdzenia ich odbioru odpowiednio na dokumencie dostawy zgodnie z ustawą z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2019 r. poz. 864, 1123, 1495, 1501, 1520 i 1556) albo w raporcie odbioru w systemie, o którym mowa w art. 2 ust. 1 pkt 26 lit. b ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.
+
+**§ 4.** Z obowiązku, o którym mowa w art. 10a ust. 1 i 2 ustawy, jest wyłączony przewóz towarów po krajowej sieci kolejowej środkiem transportu, o którym mowa w art. 2 pkt 11 lit. b ustawy.
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. Minister Finansów: M. Banaś
 

@@ -26,10 +26,9 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001135) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1135/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. z 2022 r. poz. 530), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 26 kwietnia 2024 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw (Dz. U. poz. 721) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 lipca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 4 i art. 5 ustawy z dnia 26 kwietnia 2024 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw (Dz. U. poz. 721), które stanowią: „Art. 4. 1. Osoba wyznaczona przez Prezesa Rady Ministrów do pełnienia funkcji wójta (burmistrza, prezydenta miasta) przed dniem wejścia w życie niniejszej ustawy, pełni tę funkcję do czasu objęcia obowiązków przez nowo wybranego wójta (burmistrza, prezydenta miasta).
-2. Do osób, o których mowa w art. 4 ust. 3 ustawy zmienianej w art. 2, wyznaczonych lub powołanych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy art. 4 ust. 3 i 4 ustawy zmienianej w art. 2.
-
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 21 listopada 2008 r. o pracownikach samorządowych
+2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje art. 4 i art. 5 ustawy z dnia 26 kwietnia 2024 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw (Dz. U. poz. 721), które stanowią: „ Art. 4. 1. Osoba wyznaczona przez Prezesa Rady Ministrów do pełnienia funkcji wójta (burmistrza, prezydenta miasta) przed dniem wejścia w życie niniejszej ustawy, pełni tę funkcję do czasu objęcia obowiązków przez nowo wybranego wójta (burmistrza, prezydenta miasta). 2. Do osób, o których mowa w art. 4 ust. 3 ustawy zmienianej w art. 2, wyznaczonych lub powołanych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy art. 4 ust. 3 i 4 ustawy zmienianej w art. 2. Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: S. Hołownia
+USTAWA z dnia 21 listopada 2008 r.
+o pracownikach samorządowych
 
 #### Rozdział 1 Przepisy ogólne
 

@@ -29,133 +29,21 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2017 r. poz. 1221 i 2491) wprowadza się następujące zmiany:
 
-- **1)** w art. 2 w pkt 36 kropkę zastępuje się średnikiem i dodaje się pkt 37 w brzmieniu: „37) rachunku VAT – rozumie się przez to rachunek VAT, o którym mowa w:
-    - **a)** art. 62a ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876, 2361 i 2491 oraz z 2018 r. poz. 62),
-    - **b)** art. 3b ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2017 r. poz. 2065, 2486 i 2491 oraz z 2018 r. poz. 62).”;
-
+- **1)** w art. 2 w pkt 36 kropkę zastępuje się średnikiem i dodaje się pkt 37 w brzmieniu: „37) rachunku VAT – rozumie się przez to rachunek VAT, o którym mowa w: a) art. 62a ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876, 2361 i 2491 oraz z 2018 r. poz. 62), b) art. 3b ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2017 r. poz. 2065, 2486 i 2491 oraz z 2018 r. poz. 62).”;
 - **2)** w art. 87:
     - **a)** w ust. 2 zdanie pierwsze otrzymuje brzmienie: „Zwrot różnicy podatku, z zastrzeżeniem ust. 6 i 6a, następuje w terminie 60 dni od dnia złożenia rozliczenia przez podatnika na rachunek bankowy podatnika w banku mającym siedzibę na terytorium kraju albo na rachunek podatnika w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem, wskazany w zgłoszeniu identyfikacyjnym, o którym mowa w odrębnych przepisach, lub na wskazany przez podatnika rachunek banku mającego siedzibę na terytorium kraju lub na rachunek spółdzielczej kasy oszczędnościowo-kredytowej, jako zabezpieczenie udzielanego przez ten bank lub przez tę kasę kredytu, na podstawie złożonego przez podatnika do naczelnika urzędu skarbowego, w terminie do złożenia deklaracji podatkowej, pisemnego, nieodwołalnego upoważnienia organu podatkowego, potwierdzonego przez bank lub spółdzielczą kasę oszczędnościowo-kredytową udzielających kredytu, do przekazania tego zwrotu.”,
-    - **b)** po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „6a. Na wniosek podatnika, złożony wraz z deklaracją podatkową, urząd skarbowy jest obowiązany dokonać zwrotu różnicy podatku, o której mowa w ust. 2, na rachunek VAT podatnika w terminie 25 dni, licząc od dnia złożenia rozliczenia.
+    - **b)** po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „6a. Na wniosek podatnika, złożony wraz z deklaracją podatkową, urząd skarbowy jest obowiązany dokonać zwrotu różnicy podatku, o której mowa w ust. 2, na rachunek VAT podatnika w terminie 25 dni, licząc od dnia złożenia rozliczenia. 6b. Zwrot różnicy podatku, o którym mowa w ust. 6a, jest dokonywany przez urząd skarbowy przy użyciu komunikatu przelewu, o którym mowa w art. 108a ust. 3, w którym urząd skarbowy wskazuje w miejsce informacji, o których mowa w art. 108a ust. 3: 1) pkt 1 i 2 – kwotę odpowiadającą zwracanej kwocie różnicy podatku; 2) pkt 3 – okres rozliczeniowy, którego dotyczy wniosek o zwrot; 3) pkt 4 – numer, za pomocą którego podatnik jest zidentyfikowany na potrzeby podatku.”;
 
-6b. Zwrot różnicy podatku, o którym mowa w ust. 6a, jest dokonywany przez urząd skarbowy przy użyciu komunikatu przelewu, o którym mowa w art. 108a ust. 3, w którym urząd skarbowy wskazuje w miejsce informacji, o których mowa w art. 108a ust. 3:
+- **3)** po art. 103 dodaje się art. 103a w brzmieniu: „Art. 103a. W przypadku gdy podatek jest pobierany przez płatnika, o którym mowa w art. 17a, wpłacanie kwot podatku przez podatnika, o którym mowa w art. 103 ust. 5a, może być dokonywane na rachunek VAT płatnika przy użyciu komunikatu przelewu, o którym mowa w art. 108a ust. 3, w którym podatnik wskazuje w miejsce informacji, o których mowa w art. 108a ust. 3: 1) pkt 1 i 2 – kwotę podatku, o której mowa w art. 103 ust. 5a, która ma zostać zapłacona w mechanizmie podzielonej płatności; 2) pkt 3 – numer dokumentu związanego z płatnością wystawionego przez płatnika, o którym mowa w art. 17a; 3) pkt 4 – numer, za pomocą którego płatnik jest zidentyfikowany na potrzeby podatku.”;
+- **4)** po art. 108 dodaje się rozdział 1a w brzmieniu: „Rozdział 1a Mechanizm podzielonej płatności Art. 108a. 1. Podatnicy, którzy otrzymali fakturę z wykazaną kwotą podatku, przy dokonywaniu płatności kwoty należności wynikającej z tej faktury mogą zastosować mechanizm podzielonej płatności. 2. Zastosowanie mechanizmu podzielonej płatności polega na tym, że: 1) zapłata kwoty odpowiadającej całości albo części kwoty podatku wynikającej z otrzymanej faktury jest dokonywana na rachunek VAT; 2) zapłata całości albo części kwoty odpowiadającej wartości sprzedaży netto wynikającej z otrzymanej faktury jest dokonywana na rachunek bankowy albo na rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, dla których jest prowadzony rachunek VAT, albo jest rozliczana w inny sposób. 3. Zapłata z zastosowaniem mechanizmu podzielonej płatności dokonywana jest w złotych polskich przy użyciu komunikatu przelewu udostępnionego przez bank lub spółdzielczą kasę oszczędnościowo-kredytową, przeznaczonego do dokonywania płatności w mechanizmie podzielonej płatności, w którym podatnik wskazuje: 1) kwotę odpowiadającą całości albo części kwoty podatku wynikającej z faktury, która ma zostać zapłacona w mechanizmie podzielonej płatności; 2) kwotę odpowiadającą całości albo części wartości sprzedaży brutto; 3) numer faktury, w związku z którą dokonywana jest płatność; 4) numer, za pomocą którego dostawca towaru lub usługodawca jest zidentyfikowany na potrzeby podatku. 4. W przypadkach określonych w art. 29a ust. 10 pkt 1–3 i ust. 14 zwrot całości albo części zapłaty może być dokonywany przy użyciu komunikatu przelewu, o którym mowa w ust. 3, w którym podatnik w miejsce informacji, o której mowa w ust. 3 pkt 4, wskazuje numer, za pomocą którego nabywca towaru lub usługobiorca jest zidentyfikowany na potrzeby podatku. 5. W przypadku gdy płatność zostanie dokonana w sposób określony w ust. 2 na rzecz podatnika innego niż wskazany na fakturze, o której mowa w ust. 3 pkt 3, podatnik, na rzecz którego dokonano tej płatności, odpowiada solidarnie wraz z dostawcą tych towarów lub usługodawcą za nierozliczony przez dostawcę towarów lub usługodawcę podatek wynikający z tej dostawy towarów lub tego świadczenia usług do wysokości kwoty otrzymanej na rachunek VAT. 6. Odpowiedzialność solidarna podatnika, o którym mowa w ust. 5, jest wyłączona w przypadku dokonania przez tego podatnika płatności na rachunek VAT dostawcy towarów lub usługodawcy wskazanego na fakturze, o której mowa w ust. 3 pkt 3, albo zwrotu otrzymanej płatności na rachunek VAT podatnika, od którego otrzymano tę płatność, niezwłocznie po powzięciu informacji o jej otrzymaniu, w kwocie otrzymanej na rachunek VAT. Przepis ust. 3 stosuje się odpowiednio. Art. 108b. 1. Na wniosek podatnika naczelnik urzędu skarbowego wydaje, w drodze postanowienia, zgodę na przekazanie środków zgromadzonych na wskazanym przez podatnika rachunku VAT na wskazany przez niego rachunek bankowy albo rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, dla których jest prowadzony ten rachunek VAT. 2. Podatnik we wniosku określa wysokość środków zgromadzonych na rachunku VAT, jaka ma zostać przekazana. 3. Naczelnik urzędu skarbowego wydaje postanowienie w terminie 60 dni od dnia otrzymania wniosku. W postanowieniu naczelnik urzędu skarbowego określa wysokość środków, jaka ma zostać przekazana. 4. Naczelnik urzędu skarbowego przekazuje, przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej, informację o postanowieniu, o którym mowa w ust. 1, bankowi albo spółdzielczej kasie oszczędnościowo-kredytowej, które prowadzą rachunek VAT wskazany we wniosku. Informacja zawiera dane niezbędne do realizacji postanowienia, w tym: 1) numer rachunku VAT, o którym mowa w ust. 1; 2) numer rachunku bankowego albo rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, o których mowa w ust. 1; 3) wysokość środków, o których mowa w ust. 3. 5. Naczelnik urzędu skarbowego odmawia, w drodze decyzji, wydania zgody na przekazanie środków zgromadzonych na rachunku VAT: 1) w przypadku posiadania przez podatnika zaległości podatkowej w podatku – w wysokości odpowiadającej zaległości podatkowej w podatku wraz z odsetkami za zwłokę, istniejącej na dzień wydania decyzji; 2) w przypadku gdy zachodzi uzasadniona obawa, że: a) zobowiązanie podatkowe z tytułu podatku nie zostanie wykonane, w szczególności gdy podatnik trwale nie uiszcza wymagalnych zobowiązań z tytułu podatku lub dokonuje czynności polegających na zbywaniu majątku, które mogą utrudnić lub udaremnić egzekucję zobowiązań z tytułu podatku, lub b) wystąpi zaległość podatkowa w podatku lub zostanie ustalone dodatkowe zobowiązanie podatkowe. 6. Podatnik będący państwową jednostką budżetową dysponuje środkami zgromadzonymi na rachunkach VAT prowadzonych dla rachunków rozliczeniowych, o których mowa w art. 196 ust. 1 pkt 2 i 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077 oraz z 2018 r. poz. 62), na podstawie przepisów tej ustawy. Art. 108c. 1. Do wysokości kwoty odpowiadającej kwocie podatku wynikającej z otrzymanej faktury, zapłaconej z zastosowaniem mechanizmu podzielonej płatności, przepisów art. 105a ust. 1, art. 112b ust. 1 pkt 1 i ust. 2 pkt 1 oraz art. 112c nie stosuje się. 2. Do zaległości w podatku powstałej za okres rozliczeniowy, za który podatnik w złożonej deklaracji podatkowej wykazał kwotę podatku naliczonego, której co najmniej 95% wynika z otrzymanych przez podatnika faktur, które zostały zapłacone z zastosowaniem mechanizmu podzielonej płatności, przepisu art. 56b Ordynacji podatkowej nie stosuje się. 3. Przepisów ust. 1 i 2 nie stosuje się do podatnika, który wiedział, że faktura zapłacona z zastosowaniem mechanizmu podzielonej płatności: 1) została wystawiona przez podmiot nieistniejący; 2) stwierdza czynności, które nie zostały dokonane; 3) podaje kwoty niezgodne z rzeczywistością; 4) potwierdza czynności, do których mają zastosowanie przepisy art. 58 i art. 83 Kodeksu cywilnego. 4. Przepisu ust. 2 nie stosuje się do zaległości podatkowej w podatku przekraczającej dwukrotność kwoty podatku naliczonego wykazanej w złożonej deklaracji podatkowej. Art. 108d. 1. Jeżeli zapłata zobowiązania podatkowego z tytułu podatku następuje w całości z rachunku VAT w terminie wcześniejszym niż termin zapłaty podatku, kwotę zobowiązania podatkowego z tytułu podatku można obniżyć o kwotę wyliczoną według wzoru: 𝑛 𝑆 = 𝑍 ×𝑟× 360 w którym poszczególne symbole oznaczają: S – kwotę, o którą obniża się kwotę zobowiązania podatkowego z tytułu podatku, Z – kwotę zobowiązania podatkowego z tytułu podatku wynikającą z deklaracji podatkowej przed obniżeniem tego zobowiązania, r – stopę referencyjną Narodowego Banku Polskiego obowiązującą na dwa dni robocze przed dniem zapłaty podatku, n – liczbę dni od dnia, w którym obciążono rachunek bankowy albo rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, dla których jest prowadzony rachunek VAT, z wyłączeniem tego dnia, do dnia, w którym upływa termin zapłaty podatku, włącznie z tym dniem. 2. Kwotę, o którą obniża się kwotę zobowiązania podatkowego z tytułu podatku, zaokrągla się do pełnych złotych. 3. Do zaokrąglenia kwoty, o którą obniża się kwotę zobowiązania podatkowego z tytułu podatku, stosuje się przepis art. 63 § 1 Ordynacji podatkowej.”.
 
-- **1)** pkt 1 i 2 – kwotę odpowiadającą zwracanej kwocie różnicy podatku;
-- **2)** pkt 3 – okres rozliczeniowy, którego dotyczy wniosek o zwrot;
-- **3)** pkt 4 – numer, za pomocą którego podatnik jest zidentyfikowany na potrzeby podatku.”;
-- **3)** po art. 103 dodaje się art. 103a w brzmieniu: „Art. 103a. W przypadku gdy podatek jest pobierany przez płatnika, o którym mowa w art. 17a, wpłacanie kwot podatku przez podatnika, o którym mowa w art. 103 ust. 5a, może być dokonywane na rachunek VAT płatnika przy użyciu komunikatu przelewu, o którym mowa w art. 108a ust. 3, w którym podatnik wskazuje w miejsce informacji, o których mowa w art. 108a ust. 3:
-- **1)** pkt 1 i 2 – kwotę podatku, o której mowa w art. 103 ust. 5a, która ma zostać zapłacona w mechanizmie podzielonej płatności;
-- **2)** pkt 3 – numer dokumentu związanego z płatnością wystawionego przez płatnika, o którym mowa w art. 17a;
-- **3)** pkt 4 – numer, za pomocą którego płatnik jest zidentyfikowany na potrzeby podatku.”;
-- **4)** po art. 108 dodaje się rozdział 1a w brzmieniu: „Rozdział 1a Mechanizm podzielonej płatności
-
-**Art. 108a.**
-
-1. Podatnicy, którzy otrzymali fakturę z wykazaną kwotą podatku, przy dokonywaniu płatności kwoty należności wynikającej z tej faktury mogą zastosować mechanizm podzielonej płatności.
-
-2. Zastosowanie mechanizmu podzielonej płatności polega na tym, że:
-
-- **1)** zapłata kwoty odpowiadającej całości albo części kwoty podatku wynikającej z otrzymanej faktury jest dokonywana na rachunek VAT;
-- **2)** zapłata całości albo części kwoty odpowiadającej wartości sprzedaży netto wynikającej z otrzymanej faktury jest dokonywana na rachunek bankowy albo na rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, dla których jest prowadzony rachunek VAT, albo jest rozliczana w inny sposób.
-
-3. Zapłata z zastosowaniem mechanizmu podzielonej płatności dokonywana jest w złotych polskich przy użyciu komunikatu przelewu udostępnionego przez bank lub spółdzielczą kasę oszczędnościowo-kredytową, przeznaczonego do dokonywania płatności w mechanizmie podzielonej płatności, w którym podatnik wskazuje:
-
-- **1)** kwotę odpowiadającą całości albo części kwoty podatku wynikającej z faktury, która ma zostać zapłacona w mechanizmie podzielonej płatności;
-- **2)** kwotę odpowiadającą całości albo części wartości sprzedaży brutto;
-- **3)** numer faktury, w związku z którą dokonywana jest płatność;
-- **4)** numer, za pomocą którego dostawca towaru lub usługodawca jest zidentyfikowany na potrzeby podatku.
-
-4. W przypadkach określonych w art. 29a ust. 10 pkt 1–3 i ust. 14 zwrot całości albo części zapłaty może być dokonywany przy użyciu komunikatu przelewu, o którym mowa w ust. 3, w którym podatnik w miejsce informacji, o której mowa w ust. 3 pkt 4, wskazuje numer, za pomocą którego nabywca towaru lub usługobiorca jest zidentyfikowany na potrzeby podatku.
-
-5. W przypadku gdy płatność zostanie dokonana w sposób określony w ust. 2 na rzecz podatnika innego niż wskazany na fakturze, o której mowa w ust. 3 pkt 3, podatnik, na rzecz którego dokonano tej płatności, odpowiada solidarnie wraz z dostawcą tych towarów lub usługodawcą za nierozliczony przez dostawcę towarów lub usługodawcę podatek wynikający z tej dostawy towarów lub tego świadczenia usług do wysokości kwoty otrzymanej na rachunek VAT.
-
-6. Odpowiedzialność solidarna podatnika, o którym mowa w ust. 5, jest wyłączona w przypadku dokonania przez tego podatnika płatności na rachunek VAT dostawcy towarów lub usługodawcy wskazanego na fakturze, o której mowa w ust. 3 pkt 3, albo zwrotu otrzymanej płatności na rachunek VAT podatnika, od którego otrzymano tę płatność, niezwłocznie po powzięciu informacji o jej otrzymaniu, w kwocie otrzymanej na rachunek VAT. Przepis ust. 3 stosuje się odpowiednio.
-
-**Art. 108b.**
-
-1. Na wniosek podatnika naczelnik urzędu skarbowego wydaje, w drodze postanowienia, zgodę na przekazanie środków zgromadzonych na wskazanym przez podatnika rachunku VAT na wskazany przez niego rachunek bankowy albo rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, dla których jest prowadzony ten rachunek VAT.
-
-2. Podatnik we wniosku określa wysokość środków zgromadzonych na rachunku VAT, jaka ma zostać przekazana.
-
-3. Naczelnik urzędu skarbowego wydaje postanowienie w terminie 60 dni od dnia otrzymania wniosku. W postanowieniu naczelnik urzędu skarbowego określa wysokość środków, jaka ma zostać przekazana.
-
-4. Naczelnik urzędu skarbowego przekazuje, przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej, informację o postanowieniu, o którym mowa w ust. 1, bankowi albo spółdzielczej kasie oszczędnościowo-kredytowej, które prowadzą rachunek VAT wskazany we wniosku. Informacja zawiera dane niezbędne do realizacji postanowienia, w tym:
-
-- **1)** numer rachunku VAT, o którym mowa w ust. 1;
-- **2)** numer rachunku bankowego albo rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, o których mowa w ust. 1;
-- **3)** wysokość środków, o których mowa w ust. 3.
-
-5. Naczelnik urzędu skarbowego odmawia, w drodze decyzji, wydania zgody na przekazanie środków zgromadzonych na rachunku VAT:
-
-- **1)** w przypadku posiadania przez podatnika zaległości podatkowej w podatku – w wysokości odpowiadającej zaległości podatkowej w podatku wraz z odsetkami za zwłokę, istniejącej na dzień wydania decyzji;
-- **2)** w przypadku gdy zachodzi uzasadniona obawa, że:
-    - **a)** zobowiązanie podatkowe z tytułu podatku nie zostanie wykonane, w szczególności gdy podatnik trwale nie uiszcza wymagalnych zobowiązań z tytułu podatku lub dokonuje czynności polegających na zbywaniu majątku, które mogą utrudnić lub udaremnić egzekucję zobowiązań z tytułu podatku, lub
-    - **b)** wystąpi zaległość podatkowa w podatku lub zostanie ustalone dodatkowe zobowiązanie podatkowe.
-
-6. Podatnik będący państwową jednostką budżetową dysponuje środkami zgromadzonymi na rachunkach VAT prowadzonych dla rachunków rozliczeniowych, o których mowa w art. 196 ust. 1 pkt 2 i 5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077 oraz z 2018 r. poz. 62), na podstawie przepisów tej ustawy.
-
-**Art. 108c.**
-
-1. Do wysokości kwoty odpowiadającej kwocie podatku wynikającej z otrzymanej faktury, zapłaconej z zastosowaniem mechanizmu podzielonej płatności, przepisów art. 105a ust. 1, art. 112b ust. 1 pkt 1 i ust. 2 pkt 1 oraz art. 112c nie stosuje się.
-
-2. Do zaległości w podatku powstałej za okres rozliczeniowy, za który podatnik w złożonej deklaracji podatkowej wykazał kwotę podatku naliczonego, której co najmniej 95% wynika z otrzymanych przez podatnika faktur, które zostały zapłacone z zastosowaniem mechanizmu podzielonej płatności, przepisu art. 56b Ordynacji podatkowej nie stosuje się.
-
-3. Przepisów ust. 1 i 2 nie stosuje się do podatnika, który wiedział, że faktura zapłacona z zastosowaniem mechanizmu podzielonej płatności:
-
-- **1)** została wystawiona przez podmiot nieistniejący;
-- **2)** stwierdza czynności, które nie zostały dokonane;
-- **3)** podaje kwoty niezgodne z rzeczywistością;
-- **4)** potwierdza czynności, do których mają zastosowanie przepisy art. 58 i art. 83 Kodeksu cywilnego.
-
-4. Przepisu ust. 2 nie stosuje się do zaległości podatkowej w podatku przekraczającej dwukrotność kwoty podatku naliczonego wykazanej w złożonej deklaracji podatkowej.
-
-**Art. 108d.**
-
-1. Jeżeli zapłata zobowiązania podatkowego z tytułu podatku następuje w całości z rachunku VAT w terminie wcześniejszym niż termin zapłaty podatku, kwotę zobowiązania podatkowego z tytułu podatku można obniżyć o kwotę wyliczoną według wzoru: 𝑛 𝑆 = 𝑍 ×𝑟× 360 w którym poszczególne symbole oznaczają: S – kwotę, o którą obniża się kwotę zobowiązania podatkowego z tytułu podatku, Z – kwotę zobowiązania podatkowego z tytułu podatku wynikającą z deklaracji podatkowej przed obniżeniem tego zobowiązania, r – stopę referencyjną Narodowego Banku Polskiego obowiązującą na dwa dni robocze przed dniem zapłaty podatku, n – liczbę dni od dnia, w którym obciążono rachunek bankowy albo rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, dla których jest prowadzony rachunek VAT, z wyłączeniem tego dnia, do dnia, w którym upływa termin zapłaty podatku, włącznie z tym dniem.
-
-2. Kwotę, o którą obniża się kwotę zobowiązania podatkowego z tytułu podatku, zaokrągla się do pełnych złotych.
-
-3. Do zaokrąglenia kwoty, o którą obniża się kwotę zobowiązania podatkowego z tytułu podatku, stosuje się przepis art. 63 § 1 Ordynacji podatkowej.”.
-
-**Art. 2.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2017 r. poz. 2342 i 2201) w załączniku nr 1 do ustawy w części „Dodatkowe informacje i objaśnienia” w ust. 1 w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18 w brzmieniu: „18) środki pieniężne zgromadzone na rachunku VAT, o którym mowa w:
-
-- **a)** art. 62a ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876, 2361 i 2491 oraz z 2018 r. poz. 62),
-- **b)** art. 3b ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2017 r. poz. 2065, 2486 i 2491 oraz z 2018 r. poz. 62).”.
+**Art. 2.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2017 r. poz. 2342 i 2201) w załączniku nr 1 do ustawy w części „Dodatkowe informacje i objaśnienia” w ust. 1 w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18 w brzmieniu: „18) środki pieniężne zgromadzone na rachunku VAT, o którym mowa w: a) art. 62a ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876, 2361 i 2491 oraz z 2018 r. poz. 62), b) art. 3b ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2017 r. poz. 2065, 2486 i 2491 oraz z 2018 r. poz. 62).”.
 
 **Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876, 2361 i 2491) wprowadza się następujące zmiany:
 
 - **1)** w art. 49 w ust. 1 pkt 1 otrzymuje brzmienie: „1) rachunki rozliczeniowe, w tym bieżące i pomocnicze, oraz prowadzone dla nich na zasadach określonych w rozdziale 3a rachunki VAT;”;
 - **2)** w art. 50 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Przepisu ust. 1 nie stosuje się do rachunku VAT, o którym mowa w rozdziale 3a.”;
-- **3)** po art. 62 dodaje się rozdział 3a w brzmieniu: „Rozdział 3a Rachunek VAT
-
-**Art. 62a.**
-
-1. Dla rachunku rozliczeniowego bank prowadzi rachunek VAT.
-
-2. Rachunek VAT jest prowadzony w walucie polskiej.
-
-3. Dla rachunków rozliczeniowych prowadzonych dla tego samego posiadacza bank prowadzi jeden rachunek VAT, niezależnie od liczby prowadzonych dla tego posiadacza rachunków rozliczeniowych. W przypadku prowadzenia więcej niż jednego rachunku rozliczeniowego dla tego samego posiadacza bank prowadzi, na wniosek tego posiadacza, więcej niż jeden rachunek VAT.
-
-4. W przypadku rachunków rozliczeniowych prowadzonych przez Narodowy Bank Polski dla tego samego posiadacza Bank ten prowadzi rachunek VAT dla każdego rachunku rozliczeniowego. Narodowy Bank Polski prowadzi rachunek VAT dla więcej niż jednego rachunku rozliczeniowego tego samego posiadacza na jego wniosek lub na podstawie przepisów o finansach publicznych.
-
-5. Przepisu ust. 1 nie stosuje się do rachunku rozliczeniowego prowadzonego w innej walucie niż waluta polska.
-
-6. Otwarcie i prowadzenie rachunku VAT nie wymaga zawarcia odrębnej umowy.
-
-7. Otwarcie i prowadzenie rachunku VAT jest wolne od dodatkowych prowizji i opłat dla banku.
-
-8. Środki pieniężne zgromadzone na rachunku VAT mogą być, zgodnie z ustaleniami stron, oprocentowane.
-
-9. Bank informuje posiadacza rachunku rozliczeniowego o numerze rachunku VAT oraz ustalonych zasadach i terminach informowania posiadacza rachunku rozliczeniowego o saldzie na rachunku VAT. Do rachunku VAT nie stosuje się przepisu art. 728 Kodeksu cywilnego.
-
-10. Bank nie wydaje do rachunku VAT instrumentu płatniczego.
-
-11. Przepis ust. 1 stosuje się również do rachunku niebędącego rachunkiem rozliczeniowym, jeżeli bank prowadzi go w ramach gospodarki własnej.
-
-**Art. 62b.**
-
-1. Rachunek VAT może być uznany wyłącznie środkami pieniężnymi pochodzącymi z tytułu:
-
-- **1)** zapłaty kwoty odpowiadającej kwocie podatku od towarów i usług, przy użyciu komunikatu przelewu, o którym mowa w art. 108a ust. 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2017 r. poz. 1221 i 2491 oraz z 2018 r. poz. 62), zwanego dalej „komunikatem przelewu”;
+- **3)** po art. 62 dodaje się rozdział 3a w brzmieniu: „Rozdział 3a Rachunek VAT Art. 62a. 1. Dla rachunku rozliczeniowego bank prowadzi rachunek VAT. 2. Rachunek VAT jest prowadzony w walucie polskiej. 3. Dla rachunków rozliczeniowych prowadzonych dla tego samego posiadacza bank prowadzi jeden rachunek VAT, niezależnie od liczby prowadzonych dla tego posiadacza rachunków rozliczeniowych. W przypadku prowadzenia więcej niż jednego rachunku rozliczeniowego dla tego samego posiadacza bank prowadzi, na wniosek tego posiadacza, więcej niż jeden rachunek VAT. 4. W przypadku rachunków rozliczeniowych prowadzonych przez Narodowy Bank Polski dla tego samego posiadacza Bank ten prowadzi rachunek VAT dla każdego rachunku rozliczeniowego. Narodowy Bank Polski prowadzi rachunek VAT dla więcej niż jednego rachunku rozliczeniowego tego samego posiadacza na jego wniosek lub na podstawie przepisów o finansach publicznych. 5. Przepisu ust. 1 nie stosuje się do rachunku rozliczeniowego prowadzonego w innej walucie niż waluta polska. 6. Otwarcie i prowadzenie rachunku VAT nie wymaga zawarcia odrębnej umowy. 7. Otwarcie i prowadzenie rachunku VAT jest wolne od dodatkowych prowizji i opłat dla banku. 8. Środki pieniężne zgromadzone na rachunku VAT mogą być, zgodnie z ustaleniami stron, oprocentowane. 9. Bank informuje posiadacza rachunku rozliczeniowego o numerze rachunku VAT oraz ustalonych zasadach i terminach informowania posiadacza rachunku rozliczeniowego o saldzie na rachunku VAT. Do rachunku VAT nie stosuje się przepisu art. 728 Kodeksu cywilnego. 10. Bank nie wydaje do rachunku VAT instrumentu płatniczego. 11. Przepis ust. 1 stosuje się również do rachunku niebędącego rachunkiem rozliczeniowym, jeżeli bank prowadzi go w ramach gospodarki własnej. Art. 62b. 1. Rachunek VAT może być uznany wyłącznie środkami pieniężnymi pochodzącymi z tytułu: 1) zapłaty kwoty odpowiadającej kwocie podatku od towarów i usług, przy użyciu komunikatu przelewu, o którym mowa w art. 108a ust. 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2017 r. poz. 1221 i 2491 oraz z 2018 r. poz. 62), zwanego dalej „komunikatem przelewu”;
 - **2)** wpłaty kwoty podatku od towarów i usług przez podatnika, o którym mowa w art. 103 ust. 5a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, na rzecz płatnika, o którym mowa w art. 17a tej ustawy, przy użyciu komunikatu przelewu;
 - **3)** przekazania środków z innego rachunku VAT posiadacza rachunku VAT prowadzonego w tym samym banku;
 - **4)** zwrotu:
@@ -243,15 +131,12 @@ source: pdf
     - **c)** banków spółdzielczych prowadzonych przez bank zrzeszający,
     - **d)** spółdzielczych kas oszczędnościowo-kredytowych prowadzonych przez Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową – które służą wyłącznie rozliczeniom z tytułu wykonania czynności, do których nie mają zastosowania przepisy ustawy z dnia 11 marca 2004 r.
 
-- **4)** w art. 63d dodaje się ust. 10 i 11 w brzmieniu: „10. Do transakcji polecenia zapłaty z tytułu zapłaty faktury między wierzycielem i dłużnikiem będącymi przedsiębiorcami stosuje się odpowiednio przepisy rozdziału 3a.
-
-11. Zgoda dłużnika, o której mowa w ust. 2 pkt 2, oznacza także zgodę udzieloną przez dłużnika wierzycielowi na obciążanie, w drodze polecenia zapłaty, rachunku rozliczeniowego dłużnika.”.
+- **4)** w art. 63d dodaje się ust. 10 i 11 w brzmieniu: „10. Do transakcji polecenia zapłaty z tytułu zapłaty faktury między wierzycielem i dłużnikiem będącymi przedsiębiorcami stosuje się odpowiednio przepisy rozdziału 3a. 11. Zgoda dłużnika, o której mowa w ust. 2 pkt 2, oznacza także zgodę udzieloną przez dłużnika wierzycielowi na obciążanie, w drodze polecenia zapłaty, rachunku rozliczeniowego dłużnika.”.
 
 **Art. 4.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077) w art. 196 w ust. 1:
 
 - **1)** pkt 2 otrzymuje brzmienie: „2) rachunki bieżące państwowych jednostek budżetowych, z wyodrębnieniem rachunków dochodów i wydatków, oraz prowadzone dla tych rachunków rachunki VAT, o których mowa w rozdziale 3a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876, 2361 i 2491 oraz z 2018 r. poz. 62);”;
-- **2)** pkt 4 i 5 otrzymują brzmienie: „4) rachunki bieżące państwowych funduszy celowych, o ile odrębne ustawy nie stanowią inaczej, oraz prowadzone dla tych rachunków rachunki VAT, o których mowa w rozdziale 3a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
-- **5)** rachunki pomocnicze oraz prowadzone dla tych rachunków rachunki VAT, o których mowa w rozdziale 3a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;”.
+- **2)** pkt 4 i 5 otrzymują brzmienie: „4) rachunki bieżące państwowych funduszy celowych, o ile odrębne ustawy nie stanowią inaczej, oraz prowadzone dla tych rachunków rachunki VAT, o których mowa w rozdziale 3a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe; 5) rachunki pomocnicze oraz prowadzone dla tych rachunków rachunki VAT, o których mowa w rozdziale 3a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;”.
 
 **Art. 5.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2017 r. poz. 2065, 2486 i 2491) po art. 3a dodaje się art. 3b w brzmieniu: „Art. 3b. 1. Kasa prowadzi dla członka kasy, który posiada w kasie imienny rachunek otwarty w związku z prowadzoną przez niego działalnością gospodarczą, rachunek VAT. Otwierając dla członka kasy imienny rachunek, kasa jednocześnie otwiera rachunek VAT. 2. Do rachunku VAT przepisy rozdziału 3a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe stosuje się odpowiednio.”.
 

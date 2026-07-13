@@ -30,10 +30,15 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 3 czerwca 2016 r. zmieniającego rozporządzenie w sprawie nadania statutu Krajowej Radzie Transplantacyjnej (Dz. U. poz. 820), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: K. Radziwiłł
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 10 maja 2006 r.
 w sprawie nadania statutu Krajowej Radzie Transplantacyjnej Na podstawie art. 41 ust. 8 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów (Dz. U. z 2015 r. poz. 793, 1893 i 1991 oraz z 2017 r. poz. 767 i 798) zarządza się, co następuje:
-§ 1. Krajowej Radzie Transplantacyjnej nadaje się statut stanowiący załącznik do rozporządzenia.
-§ 2. Traci moc zarządzenie Ministra Zdrowia i Opieki Społecznej z dnia 20 stycznia 1997 r. w sprawie nadania statutu Krajowej Radzie Transplantacyjnej (Dz. Urz. MZ i OS poz. 3 i 35).
-§ 3. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
-STATUT KRAJOWEJ RADY TRANSPLANTACYJNEJ
+
+**§ 1.** Krajowej Radzie Transplantacyjnej nadaje się statut stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Traci moc zarządzenie Ministra Zdrowia i Opieki Społecznej z dnia 20 stycznia 1997 r. w sprawie nadania statutu Krajowej Radzie Transplantacyjnej (Dz. Urz. MZ i OS poz. 3 i 35).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem ogłoszenia . STATUT KRAJOWEJ RADY TRANSPLANTACYJNEJ
+
+## Załącznik
+
 § 1. 1. W skład Krajowej Rady Transplantacyjnej, zwanej dalej „Radą”, wchodzą powołani przez ministra właściwego do spraw zdrowia, jako członkowie:
 1) konsultanci krajowi z następujących dziedzin: transplantologii klinicznej, hematologii, intensywnej terapii, anestezjologii i intensywnej terapii, nefrologii, ortopedii i traumatologii narządu ruchu, chirurgii ogólnej, okulistyki i immunologii klinicznej;
 2) eksperci w dziedzinach: etyki, socjologii, filozofii i prawa;

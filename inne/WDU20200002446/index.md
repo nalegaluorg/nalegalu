@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw Na podstawie art. 20 pkt 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r.
 poz. 2072) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 28 grudnia 2018 r. w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw (Dz. U. poz. 2548, z późn. zm. ) w § 3 w pkt 15 lit. a otrzymuje brzmienie: „a) Sąd Rejonowy w Chrzanowie – dla gmin: Alwernia, Babice, Chrzanów, Libiąż i Trzebinia oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy i ubezpieczeń społecznych, a także do prowadzenia ksiąg wieczystych,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 28 grudnia 2018 r. w sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz zakresu rozpoznawanych przez nie spraw (Dz. U. poz. 2548, z późn. zm. ) w § 3 w pkt 15 lit. a otrzymuje brzmienie: „a) Sąd Rejonowy w Chrzanowie – dla gmin: Alwernia, Babice, Chrzanów, Libiąż i Trzebinia oraz do rozpoznawania spraw z zakresu prawa: cywilnego, rodzinnego i opiekuńczego, karnego, pracy i ubezpieczeń społecznych, a także do prowadzenia ksiąg wieczystych,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r. Minister Sprawiedliwości: Z. Ziobro
 

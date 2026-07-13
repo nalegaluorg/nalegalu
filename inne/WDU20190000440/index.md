@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie sposobu prowadzenia dokumentacji dotyczącej materiału siewnego oraz zakresu i terminów składania informacji dotyczących obrotu materiałem siewnym Na podstawie art. 92 ust. 5 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2017 r. poz. 633 oraz z 2018 r.
 poz. 650) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 22 stycznia 2014 r. w sprawie sposobu prowadzenia dokumentacji dotyczącej materiału siewnego oraz zakresu i terminów składania informacji dotyczących obrotu materiałem siewnym (Dz. U. poz. 182 oraz z 2017 r. poz. 2246) w § 3 w ust. 1 pkt 8 otrzymuje brzmienie: „8) czytelny podpis wystawcy dokumentu sprzedaży.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. R. Romanowski
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 22 stycznia 2014 r. w sprawie sposobu prowadzenia dokumentacji dotyczącej materiału siewnego oraz zakresu i terminów składania informacji dotyczących obrotu materiałem siewnym (Dz. U. poz. 182 oraz z 2017 r. poz. 2246) w § 3 w ust. 1 pkt 8 otrzymuje brzmienie: „8) czytelny podpis wystawcy dokumentu sprzedaży.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: wz. R. Romanowski
 

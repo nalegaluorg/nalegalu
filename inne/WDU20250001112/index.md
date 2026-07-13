@@ -28,9 +28,12 @@ source: pdf
 
 w sprawie wielokrotności kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy Służby Celno-Skarbowej Na podstawie art. 223 ust. 5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r.
 poz. 615, z późn. zm. ) zarządza się, co następuje:
-§ 1. Wielokrotność kwoty bazowej, stanowiącą przeciętne uposażenie funkcjonariuszy Służby Celno-Skarbowej, ustala się na 4,79.
-§ 2. Przepis § 1 stosuje się od dnia 1 stycznia 2025 r.
-§ 3. Traci moc rozporządzenie Rady Ministrów z dnia 27 czerwca 2024 r. w sprawie wielokrotności kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 973).
-§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** Wielokrotność kwoty bazowej, stanowiącą przeciętne uposażenie funkcjonariuszy Służby Celno-Skarbowej, ustala się na 4,79.
+
+**§ 2.** Przepis § 1 stosuje się od dnia 1 stycznia 2025 r.
+
+**§ 3.** Traci moc rozporządzenie Rady Ministrów z dnia 27 czerwca 2024 r. w sprawie wielokrotności kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy Służby Celno-Skarbowej (Dz. U. poz. 973).
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

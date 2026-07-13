@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001240) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1240/text.pdf) |
 
 zmieniające rozporządzenie w sprawie przekazywania środków z Funduszu Rozwoju Kultury Fizycznej Na podstawie art. 86 ust. 6 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2025 r. poz. 595) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sportu i Turystyki z dnia 27 listopada 2024 r. w sprawie przekazywania środków z Funduszu Rozwoju Kultury Fizycznej (Dz. U. poz. 1753) w § 8 w ust. 1 wyrazy „ujęte w wojewódzkich wieloletnich programach rozwoju bazy sportowej, uchwalanych przez sejmiki województw” zastępuje się wyrazami „wskazane przez samorządy województw”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sportu i Turystyki: J. Rutnicki
+
+**§ 1.** W rozporządzeniu Ministra Sportu i Turystyki z dnia 27 listopada 2024 r. w sprawie przekazywania środków z Funduszu Rozwoju Kultury Fizycznej (Dz. U. poz. 1753) w § 8 w ust. 1 wyrazy „ujęte w wojewódzkich wieloletnich programach rozwoju bazy sportowej, uchwalanych przez sejmiki województw” zastępuje się wyrazami „wskazane przez samorządy województw”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sportu i Turystyki: J. Rutnicki
 

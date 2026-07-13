@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie niektórych wymagań weterynaryjnych, jakie powinny być spełnione przy produkcji produktów pochodzenia zwierzęcego w określonych zakładach o małej zdolności produkcyjnej Na podstawie art. 11 ust. 2 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2019 r.
 poz. 824 oraz z 2020 r. poz. 148 i 285) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 19 maja 2010 r. w sprawie niektórych wymagań weterynaryjnych, jakie powinny być spełnione przy produkcji produktów pochodzenia zwierzęcego w określonych zakładach o małej zdolności produkcyjnej (Dz. U. poz. 629) wprowadza się następujące zmiany:
-1) w § 2 w pkt 4 oraz w § 3 w pkt 4 wyraz „niepakownym” zastępuje się wyrazem „niepakowanym”;
-2) uchyla się § 5 i 6.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. J. Białkowski
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 19 maja 2010 r. w sprawie niektórych wymagań weterynaryjnych, jakie powinny być spełnione przy produkcji produktów pochodzenia zwierzęcego w określonych zakładach o małej zdolności produkcyjnej (Dz. U. poz. 629) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w pkt 4 oraz w § 3 w pkt 4 wyraz „niepakownym” zastępuje się wyrazem „niepakowanym”;
+- **2)** uchyla się § 5 i 6.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: wz. J. Białkowski
 

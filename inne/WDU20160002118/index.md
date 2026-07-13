@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie opłaty za udostępnienie danych z centralnej ewidencji kierowców Na podstawie art. 100ap ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r.
 poz. 1137, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 9 listopada 2015 r. w sprawie opłaty za udostępnienie danych z centralnej ewidencji kierowców (Dz. U. poz. 1933 i 2345) § 5 otrzymuje brzmienie: „§ 5. Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-Minister Cyfryzacji: A. Streżyńska Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).
-Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970, z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1830, 1844, 1893, 2183 i 2281 oraz z 2016 r. poz. 266, 352, 1250, 1948 i 2001.
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 9 listopada 2015 r. w sprawie opłaty za udostępnienie danych z centralnej ewidencji kierowców (Dz. U. poz. 1933 i 2345) § 5 otrzymuje brzmienie: „§ 5. Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. Minister Cyfryzacji: A. Streżyńska Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090). Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970, z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1830, 1844, 1893, 2183 i 2281 oraz z 2016 r. poz. 266, 352, 1250, 1948 i 2001.
 

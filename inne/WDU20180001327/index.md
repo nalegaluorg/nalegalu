@@ -27,12 +27,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych Na podstawie art. 126 ust. 12 pkt 2 ustawy z dnia 16 lipca 2004 r. − Prawo telekomunikacyjne (Dz. U. z 2017 r.
 poz. 1907 i 2201 oraz z 2018 r. poz. 106, 138, 650 i 1118) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Administracji i Cyfryzacji z dnia 19 marca 2014 r. w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych (Dz. U. poz. 471) w załączniku wprowadza się następujące zmiany:
-1) w ust. 3:
-a) pkt 3 i 4 otrzymują brzmienie: „3) minimalny przydzielony blok numerów powinien składać się z 10 000 NN o tych samych cyfrach ABSPQ;
-4) przydzielony zakres numeracji powinien stanowić wielokrotność 10 000 NN.”,
-b) uchyla się pkt 5;
-2) ust. 16 otrzymuje brzmienie: „16. Cofnięcie przydziału numeracji dotyczy minimalnych bloków numerów przydzielanych zgodnie z wymaganiami dla odpowiedniego rodzaju numeracji lub ich wielokrotności.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Cyfryzacji: M. Zagórski
+
+**§ 1.** W rozporządzeniu Ministra Administracji i Cyfryzacji z dnia 19 marca 2014 r. w sprawie szczegółowych wymagań dotyczących gospodarowania numeracją w publicznych sieciach telekomunikacyjnych (Dz. U. poz. 471) w załączniku wprowadza się następujące zmiany:
+
+- **1)** w ust. 3:
+    - **a)** pkt 3 i 4 otrzymują brzmienie: „3) minimalny przydzielony blok numerów powinien składać się z 10 000 NN o tych samych cyfrach ABSPQ; 4) przydzielony zakres numeracji powinien stanowić wielokrotność 10 000 NN.”,
+    - **b)** uchyla się pkt 5;
+
+- **2)** ust. 16 otrzymuje brzmienie: „16. Cofnięcie przydziału numeracji dotyczy minimalnych bloków numerów przydzielanych zgodnie z wymaganiami dla odpowiedniego rodzaju numeracji lub ich wielokrotności.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Cyfryzacji: M. Zagórski
 

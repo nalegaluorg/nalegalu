@@ -30,6 +30,8 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 22 sierpnia 2019 r. zmieniającego rozporządzenie w sprawie określenia stopni zagrożenia lawinowego oraz odpowiadających im zaleceń dla ruchu osób (Dz. U. poz. 1723), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 22 grudnia 2011 r.
 w sprawie określenia stopni zagrożenia lawinowego oraz odpowiadających im zaleceń dla ruchu osób Na podstawie art. 16 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich (Dz. U. z 2022 r. poz. 1425 i 2705) zarządza się, co następuje:
-§ 1. Ustala się stopnie zagrożenia lawinowego oraz odpowiadające im zalecenia dla ruchu osób określone w załączniku do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2011 r.
+
+**§ 1.** Ustala się stopnie zagrożenia lawinowego oraz odpowiadające im zalecenia dla ruchu osób określone w załączniku do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 31 grudnia 2011 r.
 

@@ -28,8 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie sposobu przesyłania, utrwalonego w postaci elektronicznej, pełnomocnictwa ogólnego, pełnomocnictwa szczególnego oraz pełnomocnictwa do doręczeń Na podstawie art. 138j § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn.
 zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 11 kwietnia 2024 r. w sprawie sposobu przesyłania, utrwalonego w postaci elektronicznej, pełnomocnictwa ogólnego, pełnomocnictwa szczególnego oraz pełnomocnictwa do doręczeń (Dz. U.
-poz. 613) w § 1 w ust. 1 w pkt 1 wyrazy „portalu podatkowego” zastępuje się wyrazami „konta w e-Urzędzie Skarbowym”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów i Gospodarki: wz. J. Drop
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 11 kwietnia 2024 r. w sprawie sposobu przesyłania, utrwalonego w postaci elektronicznej, pełnomocnictwa ogólnego, pełnomocnictwa szczególnego oraz pełnomocnictwa do doręczeń (Dz. U. poz. 613) w § 1 w ust. 1 w pkt 1 wyrazy „portalu podatkowego” zastępuje się wyrazami „konta w e-Urzędzie Skarbowym”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów i Gospodarki: wz. J. Drop
 

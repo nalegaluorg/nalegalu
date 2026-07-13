@@ -8,10 +8,10 @@ pos: 160
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej
+# Ustawa z dnia 9 stycznia 2026 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej
 
 *USTAWA z dnia 9 stycznia 2026 r.*
 
@@ -31,53 +31,11 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780) wprowadza się następujące zmiany:
 
-**Art. 8b.**
-
-1. Prezes Rady Ministrów i ministrowie prowadzą odpowiednio wykazy prac legislacyjnych obejmujące projekty rozporządzeń Prezesa Rady Ministrów i ministrów.
-
-2. W wykazach, o których mowa w ust. 1, określa się planowany termin wydania rozporządzenia i zamieszcza się imię i nazwisko oraz stanowisko lub funkcję osoby odpowiedzialnej za opracowanie projektu. Przepisy art. 8a ust. 2 pkt 1 i 2 oraz ust. 4 i 5 stosuje się odpowiednio.”;
-
-- **2)** po art. 9a dodaje się art. 9b w brzmieniu: „Art. 9b. 1. Koordynację realizacji obowiązków Rządu wobec Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej oraz uczestnictwa przedstawicieli Rządu w pracach parlamentarnych zapewnia Sekretarz do Spraw Parlamentarnych w Kancelarii Prezesa Rady Ministrów.
-
-2. Funkcję Sekretarza do Spraw Parlamentarnych pełni wyznaczony przez Prezesa Rady Ministrów minister, sekretarz stanu albo podsekretarz stanu w Kancelarii Prezesa Rady Ministrów albo pracownik Kancelarii Prezesa Rady Ministrów.
-
-3. Do zadań Sekretarza do Spraw Parlamentarnych należy w szczególności monitorowanie terminowej realizacji obowiązków Rządu wobec Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej, przygotowania i przedstawiania stanowiska Rządu, a także zapewnienia właściwej reprezentacji Rządu w pracach parlamentarnych.”;
-
+- **1)** po art. 8 dodaje się art. 8a i art. 8b w brzmieniu: „Art. 8a. 1. Rada Ministrów prowadzi wykaz prac legislacyjnych i programowych Rady Ministrów, zwany dalej „wykazem”, obejmujący projekty: 1) ustaw; 2) rozporządzeń Rady Ministrów; 3) innych dokumentów rządowych dotyczących planowanych działań Rady Ministrów, w szczególności strategii albo programów. 2. Wykaz zawiera w szczególności: 1) zwięzłą informację o przyczynach i potrzebie wprowadzenia rozwiązań, które planuje się zawrzeć w projekcie; 2) wskazanie istoty rozwiązań, które planuje się zawrzeć w projekcie; 3) wskazanie organu odpowiedzialnego za opracowanie projektu; 4) wskazanie organu odpowiedzialnego za przedłożenie projektu Radzie Ministrów; 5) termin planowanego przyjęcia projektu przez Radę Ministrów. 3. W wykazie zamieszcza się imię i nazwisko oraz stanowisko lub funkcję osoby odpowiedzialnej za opracowanie projektu. 4. W przypadku rezygnacji z prac nad projektem w wykazie zamieszcza się informację o rezygnacji, z podaniem przyczyny tej rezygnacji. 5. Wykaz podlega udostępnieniu w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Art. 8b. 1. Prezes Rady Ministrów i ministrowie prowadzą odpowiednio wykazy prac legislacyjnych obejmujące projekty rozporządzeń Prezesa Rady Ministrów i ministrów. 2. W wykazach, o których mowa w ust. 1, określa się planowany termin wydania rozporządzenia i zamieszcza się imię i nazwisko oraz stanowisko lub funkcję osoby odpowiedzialnej za opracowanie projektu. Przepisy art. 8a ust. 2 pkt 1 i 2 oraz ust. 4 i 5 stosuje się odpowiednio.”;
+- **2)** po art. 9a dodaje się art. 9b w brzmieniu: „Art. 9b. 1. Koordynację realizacji obowiązków Rządu wobec Sejmu Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej oraz uczestnictwa przedstawicieli Rządu w pracach parlamentarnych zapewnia Sekretarz do Spraw Parlamentarnych w Kancelarii Prezesa Rady Ministrów. 2. Funkcję Sekretarza do Spraw Parlamentarnych pełni wyznaczony przez Prezesa Rady Ministrów minister, sekretarz stanu albo podsekretarz stanu w Kancelarii Prezesa Rady Ministrów albo pracownik Kancelarii Prezesa Rady Ministrów. 3. Do zadań Sekretarza do Spraw Parlamentarnych należy w szczególności monitorowanie terminowej realizacji obowiązków Rządu wobec Sejmu Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej, przygotowania i przedstawiania stanowiska Rządu, a także zapewnienia właściwej reprezentacji Rządu w pracach parlamentarnych.”;
 - **3)** uchyla się art. 10c;
 - **4)** w art. 14b w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) zapewnia dostęp do informacji o prawie oraz o przebiegu rządowego procesu legislacyjnego.”;
-- **5)** po art. 14c dodaje się art. 14ca–14ce w brzmieniu: „Art. 14ca. 1. Aplikantem aplikacji legislacyjnej może być:
-- **1)** mający wykształcenie prawnicze:
-    - **a)** członek korpusu służby cywilnej, o którym mowa w art. 110 ust. 1 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409, z 2025 r. poz. 620 i 1661 oraz z 2026 r. poz. 26 i 160),
-    - **b)** urzędnik, o którym mowa w art. 7 ust. 1 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2025 r. poz. 1459 oraz z 2026 r. poz. 26 i 160),
-    - **c)** żołnierz zawodowy,
-    - **d)** funkcjonariusz służby,
-    - **e)** pracownik samorządowy;
-
-- **2)** adwokat;
-- **3)** notariusz;
-- **4)** prokurator;
-- **5)** radca prawny;
-- **6)** sędzia.
-
-2. W szczególnie uzasadnionych przypadkach Prezes Centrum może wyrazić zgodę na udział w aplikacji legislacyjnej osoby mającej wykształcenie prawnicze, zatrudnionej na stanowisku do spraw legislacji, innej niż osoby wymienione w ust. 1. Art. 14cb. Aplikacja legislacyjna kończy się egzaminem składanym przed komisją egzaminacyjną. Art. 14cc. 1. Prezes Centrum powołuje i odwołuje:
-
-- **1)** Radę Programową;
-- **2)** kierownika aplikacji legislacyjnej.
-
-2. Do zadań Rady Programowej należy wspieranie Prezesa Centrum oraz kierownika aplikacji legislacyjnej w zakresie ustalania przebiegu aplikacji legislacyjnej.
-
-3. Do zadań kierownika aplikacji legislacyjnej należy zapewnienie należytego przebiegu aplikacji legislacyjnej. Art. 14cd. 1. Aplikacja legislacyjna jest odpłatna.
-
-2. Wysokość opłaty wynosi do 4-krotności przeciętnego wynagrodzenia w gospodarce narodowej ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26). Art. 14ce. Prezes Rady Ministrów określi, w drodze rozporządzenia:
-
-- **1)** szczegółowe warunki prowadzenia aplikacji legislacyjnej,
-- **2)** sposób i tryb organizowania i odbywania aplikacji legislacyjnej, w tym skład komisji egzaminacyjnej,
-- **3)** szczegółowe zadania Rady Programowej i liczbę jej członków,
-- **4)** szczegółowe zadania kierownika aplikacji legislacyjnej,
-- **5)** zadania aplikantów aplikacji legislacyjnej,
-- **6)** sposób zorganizowania obsługi aplikacji legislacyjnej, w tym przekazywania środków przeznaczonych na finansowanie tej aplikacji i rozliczania wydatków związanych z tą aplikacją,
-- **7)** wysokość opłaty za udział w aplikacji legislacyjnej i sposób jej uiszczania,
-- **8)** wzór zaświadczenia stwierdzającego zdanie egzaminu i ukończenie aplikacji legislacyjnej – uwzględniając konieczność zapewnienia wysokiego poziomu kształcenia w ramach aplikacji legislacyjnej, w tym zapewnienia znajomości przepisów prawa istotnych dla poprawnego przebiegu procesu legislacyjnego oraz zasad techniki prawodawczej, właściwej organizacji aplikacji legislacyjnej, a także konieczność prawidłowego wydania zaświadczenia.”;
+- **5)** po art. 14c dodaje się art. 14ca–14ce w brzmieniu: „Art. 14ca. 1. Aplikantem aplikacji legislacyjnej może być: 1) mający wykształcenie prawnicze: a) członek korpusu służby cywilnej, o którym mowa w art. 110 ust. 1 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409, z 2025 r. poz. 620 i 1661 oraz z 2026 r. poz. 26 i 160), b) urzędnik, o którym mowa w art. 7 ust. 1 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2025 r. poz. 1459 oraz z 2026 r. poz. 26 i 160), c) żołnierz zawodowy, d) funkcjonariusz służby, e) pracownik samorządowy; 2) adwokat; 3) notariusz; 4) prokurator; 5) radca prawny; 6) sędzia. 2. W szczególnie uzasadnionych przypadkach Prezes Centrum może wyrazić zgodę na udział w aplikacji legislacyjnej osoby mającej wykształcenie prawnicze, zatrudnionej na stanowisku do spraw legislacji, innej niż osoby wymienione w ust. 1. Art. 14cb. Aplikacja legislacyjna kończy się egzaminem składanym przed komisją egzaminacyjną. Art. 14cc. 1. Prezes Centrum powołuje i odwołuje: 1) Radę Programową; 2) kierownika aplikacji legislacyjnej. 2. Do zadań Rady Programowej należy wspieranie Prezesa Centrum oraz kierownika aplikacji legislacyjnej w zakresie ustalania przebiegu aplikacji legislacyjnej. 3. Do zadań kierownika aplikacji legislacyjnej należy zapewnienie należytego przebiegu aplikacji legislacyjnej. Art. 14cd. 1. Aplikacja legislacyjna jest odpłatna. 2. Wysokość opłaty wynosi do 4-krotności przeciętnego wynagrodzenia w gospodarce narodowej ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26). Art. 14ce. Prezes Rady Ministrów określi, w drodze rozporządzenia: 1) szczegółowe warunki prowadzenia aplikacji legislacyjnej, 2) sposób i tryb organizowania i odbywania aplikacji legislacyjnej, w tym skład komisji egzaminacyjnej, 3) szczegółowe zadania Rady Programowej i liczbę jej członków, 4) szczegółowe zadania kierownika aplikacji legislacyjnej, 5) zadania aplikantów aplikacji legislacyjnej, 6) sposób zorganizowania obsługi aplikacji legislacyjnej, w tym przekazywania środków przeznaczonych na finansowanie tej aplikacji i rozliczania wydatków związanych z tą aplikacją, 7) wysokość opłaty za udział w aplikacji legislacyjnej i sposób jej uiszczania, 8) wzór zaświadczenia stwierdzającego zdanie egzaminu i ukończenie aplikacji legislacyjnej – uwzględniając konieczność zapewnienia wysokiego poziomu kształcenia w ramach aplikacji legislacyjnej, w tym zapewnienia znajomości przepisów prawa istotnych dla poprawnego przebiegu procesu legislacyjnego oraz zasad techniki prawodawczej, właściwej organizacji aplikacji legislacyjnej, a także konieczność prawidłowego wydania zaświadczenia.”;
 - **6)** w art. 26 w ust. 2 po wyrazach „może obsługiwać również” dodaje się wyraz „ministra,”;
 - **7)** w art. 35 w ust. 2 w pkt 3 średnik zastępuje się kropką i uchyla się pkt 4;
 - **8)** w art. 39:
@@ -88,13 +46,32 @@ source: "isap-pdf"
 
 **Art. 4.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2025 r. poz. 1275 i 1846) wprowadza się następujące zmiany:
 
+- **1)** w art. 2 skreśla się wyrazy „oraz z zastrzeżeniem art. 18”;
+- **2)** w art. 10 w ust. 4:
+    - **a)** wyrazy „Akademią Morską w Gdyni” zastępuje się wyrazami „Uniwersytetem Morskim w Gdyni”,
+    - **b)** skreśla się wyrazy „ , Instytutem Morskim w Gdańsku”;
+
+- **3)** w art. 13 w ust. 4 w pkt 2 wyrazy „ust. 2” zastępuje się wyrazami „ust. 1”.
+
 **Art. 5.** W ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703) wprowadza się następujące zmiany:
+
+- **1)** po art. 4a dodaje się art. 4aa w brzmieniu: „Art. 4aa. 1. W przypadku uzasadnionym istotnym interesem bezpieczeństwa państwa Prezes Rady Ministrów, na wniosek Szefa Kancelarii Prezesa Rady Ministrów, może powierzyć realizację obsługi informatycznej Kancelarii Prezesa Rady Ministrów na czas określony, instytucji, o której mowa w art. 4a ust. 1. 2. Informację o powierzeniu realizacji zadania, o którym mowa w ust. 1, otrzymuje: 1) wnioskodawca; 2) instytucja, o której mowa w art. 4a ust. 1, oraz 3) minister właściwy do spraw informatyzacji. 3. Koszty realizacji zadania, o którym mowa w ust. 1, ponosi Kancelaria Prezesa Rady Ministrów. Przepisy art. 4a ust. 2 pkt 1 stosuje się odpowiednio.”;
+- **2)** po art. 19ac dodaje się art. 19ad w brzmieniu: „Art. 19ad. 1. Minister właściwy do spraw informatyzacji może realizować zadania polegające na utworzeniu, utrzymaniu lub rozwoju rozwiązania informatycznego lub systemu teleinformatycznego, służącego zapewnieniu możliwości wykonywania przez Prezesa Rady Ministrów, ministrów, jednostki organizacyjne podległe Prezesowi Rady Ministrów lub przez niego nadzorowane, Zakład Ubezpieczeń Społecznych i Narodowy Fundusz Zdrowia zadań związanych z realizacją obowiązków tych podmiotów w obszarze informatyzacji. 2. Szczegółowy zakres i sposób realizacji zadania określa się w porozumieniu zawartym między ministrem właściwym do spraw informatyzacji a podmiotem wymienionym w ust. 1, na rzecz którego minister właściwy do spraw informatyzacji realizuje to zadanie.”.
 
 **Art. 6.** W ustawie z dnia 7 lipca 2005 r. o działalności lobbingowej w procesie stanowienia prawa (Dz. U. z 2025 r. poz. 677) wprowadza się następujące zmiany:
 
-**Art. 6.** Z chwilą udostępnienia w Biuletynie Informacji Publicznej wykazów, o których mowa w art. 8a i art. 8b ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780 oraz z 2026 r. poz. 160), albo – w przypadku gdy projekt ustawy lub projekt rozporządzenia nie był zawarty w żadnym z tych wykazów – z chwilą udostępnienia projektu ustawy lub projektu rozporządzenia w Biuletynie Informacji Publicznej udostępnieniu w Biuletynie Informacji Publicznej podlegają również wszelkie dokumenty dotyczące prac nad projektem ustawy lub projektem rozporządzenia.”;
+- **1)** uchyla się art. 3–4;
+- **2)** art. 5 i art. 6 otrzymują brzmienie: „Art. 5. Projekty ustaw oraz projekty rozporządzeń podlegają udostępnieniu w Biuletynie Informacji Publicznej z chwilą przekazania projektów do uzgodnień z członkami Rady Ministrów. Art. 6. Z chwilą udostępnienia w Biuletynie Informacji Publicznej wykazów, o których mowa w art. 8a i art. 8b ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780 oraz z 2026 r. poz. 160), albo – w przypadku gdy projekt ustawy lub projekt rozporządzenia nie był zawarty w żadnym z tych wykazów – z chwilą udostępnienia projektu ustawy lub projektu rozporządzenia w Biuletynie Informacji Publicznej udostępnieniu w Biuletynie Informacji Publicznej podlegają również wszelkie dokumenty dotyczące prac nad projektem ustawy lub projektem rozporządzenia.”;
+- **3)** w art. 7:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Z chwilą udostępnienia w Biuletynie Informacji Publicznej wykazów, o których mowa w art. 8a i art. 8b ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów, albo – w przypadku gdy projekt ustawy lub projekt rozporządzenia nie był zawarty w żadnym z tych wykazów – z chwilą udostępnienia projektu ustawy lub projektu rozporządzenia w Biuletynie Informacji Publicznej każdy może zgłosić zainteresowanie pracami nad projektem ustawy lub projektem rozporządzenia.”,
+    - **b)** skreśla się użyte w: – ust. 2 w pkt 1 i w ust. 6 w pkt 1 wyrazy „projektu założeń projektu ustawy lub”, – ust. 3, w ust. 4 w pkt 1, w ust. 6 we wprowadzeniu do wyliczenia oraz w ust. 7 w pkt 1 i 2 wyrazy „projektem założeń projektu ustawy,”.
 
 **Art. 7.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej (Dz. U. z 2024 r. poz. 1673) wprowadza się następujące zmiany:
+
+- **1)** w art. 8 wprowadzenie do wyliczenia otrzymuje brzmienie: „Do zadań podmiotu, o którym mowa w art. 18 ust. 2 ustawy z dnia 3 grudnia 2010 r. o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania (Dz. U. z 2025 r. poz. 1452 oraz z 2026 r. poz. 160), zwanego dalej „podmiotem, o którym mowa w art. 18 ust. 2 ustawy o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania”, należy w szczególności:”;
+- **2)** użyte w art. 10a w ust. 1, w art. 10b w ust. 1 we wprowadzeniu do wyliczenia, w ust. 2 we wprowadzeniu do wyliczenia i w ust. 4 w zdaniu pierwszym oraz w art. 10e, w różnym przypadku, wyrazy „Minister do spraw Równości” zastępuje się użytymi w odpowiednim przypadku wyrazami „podmiot, o którym mowa w art. 18 ust. 2 ustawy o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania”;
+- **3)** w art. 10b w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) w przypadku niewywiązywania się przez członka Zespołu z obowiązków, w szczególności gdy członek Zespołu nie bierze udziału w pracach Zespołu lub uchyla się od wykonywania wyznaczonych zadań.”;
+- **4)** w art. 10c ust. 3 otrzymuje brzmienie: „3. Członkowie Zespołu korzystają ze zwolnień w pracy w celu uczestniczenia w posiedzeniach Zespołu i przysługuje im zwrot kosztów podróży ze środków budżetu państwa z części, z której są pokrywane koszty obsługi podmiotu, o którym mowa w art. 18 ust. 2 ustawy o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania.”.
 
 **Art. 8.** W ustawie z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712 oraz z 2025 r. poz. 321, 368, 620 i 769) w art. 14 w ust. 1 wyrazy „Ministrem do spraw Równości” zastępuje się wyrazami „podmiotem, o którym mowa w art. 18 ust. 2 ustawy z dnia 3 grudnia 2010 r. o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania (Dz. U. z 2025 r. poz. 1452 oraz z 2026 r. poz. 160),”.
 
@@ -104,15 +81,47 @@ source: "isap-pdf"
 
 **Art. 11.** W ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534 oraz z 2025 r. poz. 1017 i 1080) w art. 37:
 
+- **1)** uchyla się ust. 1a;
+- **2)** w ust. 2 uchyla się pkt 2.
+
 **Art. 12.** W ustawie z dnia 3 grudnia 2010 r. o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania (Dz. U. z 2025 r. poz. 1452) wprowadza się następujące zmiany:
 
+- **1)** art. 18 otrzymuje brzmienie: „Art. 18. 1. Wykonywanie zadań dotyczących realizacji zasady równego traktowania powierza się Rzecznikowi Praw Obywatelskich. 2. Wykonywanie zadań, o których mowa w ust. 1, powierza się również członkowi Rady Ministrów, sekretarzowi stanu, podsekretarzowi stanu albo Pełnomocnikowi Rządu do Spraw Równości.”;
+- **2)** po art. 18 dodaje się art. 18a w brzmieniu: „Art. 18a. 1. W przypadku zmiany podmiotu, któremu powierzono wykonywanie zadań na podstawie art. 18 ust. 2, lub urzędu obsługującego ten podmiot z dniem dokonania tej zmiany: 1) podmiot, który przejął zadania i kompetencje, przejmuje związane z tymi zadaniami i kompetencjami prawa i obowiązki podmiotu, który utracił te zadania i kompetencje; 2) dysponent części budżetu państwa, z której w wyniku zmiany będą pokrywane koszty obsługi podmiotu, któremu powierzono wykonywanie zadań na podstawie art. 18 ust. 2, przejmuje prawa i obowiązki dysponenta części budżetu państwa, z którego dotychczas były pokrywane koszty obsługi tego podmiotu, związane z zadaniami i kompetencjami tego podmiotu oraz jego obsługą; 3) urząd, który w wyniku zmiany będzie zapewniał obsługę podmiotu, któremu powierzono wykonywanie zadań na podstawie art. 18 ust. 2, przejmuje prawa i obowiązki urzędu, który dotychczas zapewniał obsługę tego podmiotu, związane z zadaniami i kompetencjami tego podmiotu oraz jego obsługą; 4) pracownicy zatrudnieni w urzędzie obsługującym podmiot, który utracił zadania i kompetencje, realizujący zadania i kompetencje podmiotu, któremu powierzono wykonywanie zadań na podstawie art. 18 ust. 2, stają się pracownikami zatrudnionymi w urzędzie obsługującym podmiot, który przejął te zadania i kompetencje. 2. W przypadku, o którym mowa w ust. 1, Prezes Rady Ministrów może: 1) dokonać, w drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych, w tym wynagrodzeń, dotacji podmiotowej i celowej, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikających z ustawy budżetowej; 2) określić, w drodze zarządzenia, przeznaczenie składników majątkowych będących przed dniem zmiany urzędu obsługującego podmiot, o którym mowa w art. 18 ust. 2, w posiadaniu urzędu zapewniającego tę obsługę.”;
+- **3)** po art. 20 dodaje się art. 20a w brzmieniu: „Art. 20a. 1. Pełnomocnik Rządu do Spraw Równości może zostać powołany i odwołany przez Prezesa Rady Ministrów. 2. Pełnomocnik Rządu do Spraw Równości podlega Prezesowi Rady Ministrów. 3. Pełnomocnikiem Rządu do Spraw Równości może być sekretarz stanu albo podsekretarz stanu. 4. Pełnomocnik Rządu do Spraw Równości może wnosić, za zgodą Prezesa Rady Ministrów, opracowane przez siebie projekty dokumentów rządowych, wynikające z zakresu jego działania, w tym programy na rzecz zasady równego traktowania oraz przeciwdziałania dyskryminacji, do rozpatrzenia przez Radę Ministrów. 5. Pełnomocnik Rządu do Spraw Równości może inicjować, realizować, koordynować lub monitorować programy na rzecz zasady równego traktowania oraz przeciwdziałania naruszeniom zasady równego traktowania, we współpracy z właściwymi ministrami. 6. Obsługę merytoryczną, organizacyjno-prawną, techniczną i kancelaryjno-biurową Pełnomocnika Rządu do Spraw Równości zapewnia urząd wskazany przez Prezesa Rady Ministrów.”;
+- **4)** użyty w art. 21 w ust. 1, w ust. 2 we wprowadzeniu do wyliczenia i w pkt 2, w ust. 3 we wprowadzeniu do wyliczenia oraz w ust. 6 i 7, w art. 22 we wprowadzeniu do wyliczenia oraz w art. 23 we wprowadzeniu do wyliczenia, w różnym przypadku, wyraz „Minister” zastępuje się użytymi w odpowiednim przypadku wyrazami „podmiot, o którym mowa w art. 18 ust. 2”.
+
 **Art. 13.** W ustawie z dnia 11 września 2015 r. o osobach starszych (Dz. U. poz. 1705 oraz z 2024 r. poz. 834) wprowadza się następujące zmiany:
+
+- **1)** w art. 6 w ust. 2 wyrazy „Minister do spraw Polityki Senioralnej” zastępuje się wyrazami „minister właściwy do spraw zabezpieczenia społecznego albo Pełnomocnik Rządu do spraw Polityki Senioralnej, o ile został ustanowiony”;
+- **2)** po art. 6 dodaje się art. 6a w brzmieniu: „Art. 6a. 1. W przypadku zmiany organu, o którym mowa w art. 6 ust. 2, lub urzędu obsługującego ten organ z dniem dokonania tej zmiany: 1) organ, który przejął zadania i kompetencje, przejmuje związane z tymi zadaniami i kompetencjami prawa i obowiązki organu, który utracił te zadania i kompetencje; 2) dysponent części budżetu państwa, z której w wyniku zmiany będą pokrywane koszty obsługi organu, o którym mowa w art. 6 ust. 2, przejmuje prawa i obowiązki dysponenta części budżetu państwa, z którego dotychczas były pokrywane koszty obsługi tego organu, związane z zadaniami i kompetencjami tego organu oraz jego obsługą; 3) urząd, który w wyniku zmiany będzie zapewniał obsługę organu, o którym mowa w art. 6 ust. 2, przejmuje prawa i obowiązki urzędu, który dotychczas zapewniał obsługę tego organu, związane z zadaniami i kompetencjami tego organu oraz jego obsługą; 4) pracownicy zatrudnieni w urzędzie obsługującym organ, który utracił zadania i kompetencje, realizujący zadania i kompetencje organu, o którym mowa w art. 6 ust. 2, stają się pracownikami zatrudnionymi w urzędzie obsługującym podmiot, który przejął te zadania i kompetencje. 2. W przypadku, o którym mowa w ust. 1, Prezes Rady Ministrów może: 1) dokonać, w drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych, w tym wynagrodzeń, dotacji podmiotowej i celowej, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikających z ustawy budżetowej; 2) określić, w drodze zarządzenia, przeznaczenie składników majątkowych będących przed dniem zmiany urzędu obsługującego organ, o którym mowa w art. 6 ust. 2, w posiadaniu urzędu zapewniającego tę obsługę.”.
 
 **Art. 14.** W ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125, 834, 1823, 1897 i 1940) w art. 8a dodaje się ust. 4 w brzmieniu: „4. Minister właściwy do spraw aktywów państwowych udostępnia Prezesowi Rady Ministrów dane, o których mowa w ust. 1, w zakresie niezbędnym do wykonywania przez Prezesa Rady Ministrów zadań, o których mowa w art. 7 ust. 1.”.
 
 **Art. 15.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ) w art. 65 w ust. 32 w zdaniu drugim wyrazy „Kancelaria Prezesa Rady Ministrów we współpracy z ministrem właściwym do spraw oświaty i wychowania” zastępuje się wyrazami „urząd obsługujący ministra właściwego do spraw oświaty i wychowania”.
 
 **Art. 16.** W ustawie z dnia 12 maja 2022 r. o Zespole Pomocy Humanitarno-Medycznej (Dz. U. z 2024 r. poz. 345) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w pkt 1 wyrazy „przy Prezesie Rady Ministrów” zastępuje się wyrazami „przy ministrze właściwym do spraw zdrowia”;
+- **2)** w art. 3 w ust. 2, w art. 8 w ust. 1 i 2, w art. 8a w ust. 1, w art. 9 w ust. 3, w art. 12 w ust. 2 i 5, w art. 16 w ust. 1 i w art. 20 w ust. 3 wyrazy „Szef Kancelarii Prezesa Rady Ministrów” zastępuje się wyrazami „minister właściwy do spraw zdrowia”;
+- **3)** po art. 3 dodaje się art. 3a w brzmieniu: „Art. 3a. 1. W okresie obowiązywania stanu klęski żywiołowej, stanu epidemii, stanu zagrożenia epidemicznego lub w sytuacji kryzysowej w rozumieniu ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122, z późn. zm. ) lub w celu zapobiegania klęsce żywiołowej lub sytuacji kryzysowej, a także w celu usunięcia ich skutków ZPHM może podejmować działania na terytorium Rzeczypospolitej Polskiej dotyczące: 1) wsparcia jednostek systemu Państwowego Ratownictwa Medycznego oraz innych podmiotów wykonujących działania ratunkowe w akcjach ratunkowo-ewakuacyjnych lub w medycznych czynnościach ratunkowych, 2) organizacji i realizacji transportu medycznego – po zadysponowaniu ZPHM przez ministra właściwego do spraw zdrowia do realizacji takich zadań. 2. Przepisy dotyczące funkcjonowania i prac ZPHM w sytuacji, o której mowa w ust. 1, stosuje się odpowiednio.”;
+- **4)** w art. 4:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw zdrowia wykonuje czynności związane z zapewnieniem prawidłowej realizacji zadań przez ZPHM.”,
+    - **b)** uchyla się ust. 3,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Czynności z zakresu obsługi organizacyjnej ZPHM realizuje urząd obsługujący ministra właściwego do spraw zdrowia.”;
+
+- **5)** w art. 6 w ust. 1 i 2 wyrazy „Prezesa Rady Ministrów” zastępuje się wyrazami „ministra właściwego do spraw zdrowia”;
+- **6)** w art. 7 w ust. 2 i 4 wyrazy „Kancelarii Prezesa Rady Ministrów” zastępuje się wyrazami „urzędu obsługującego ministra właściwego do spraw zdrowia”;
+- **7)** w art. 8 w ust. 8 wyrazy „Prezes Rady Ministrów” zastępuje się wyrazami „Minister właściwy do spraw zdrowia”;
+- **8)** w art. 11 w ust. 1 wyrazy „Prezes Rady Ministrów” zastępuje się wyrazami „Minister właściwy do spraw zdrowia”;
+- **9)** w art. 12 w ust. 1 uchyla się pkt 2;
+- **10)** w art. 13:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Podstawą funkcjonowania ZPHM jest plan organizacji i działania opracowywany przez Szefa ZPHM i zatwierdzany przez ministra właściwego do spraw zdrowia.”,
+    - **b)** ust. 7–9 otrzymują brzmienie: „7. Podmioty, o których mowa w art. 12 ust. 1, w terminie określonym przez Szefa ZPHM, niekrótszym niż 14 dni, mogą zgłosić uwagi dotyczące projektu planu organizacji i działania ZPHM, w zakresie wykorzystania ich zasobów kadrowych i sprzętowych. Nieprzedstawienie stanowiska w terminie uznaje się za uzgodnienie planu organizacji i działania ZPHM. 8. W przypadku zgłoszenia uwag, o których mowa w ust. 7, Szef ZPHM dokonuje w terminie 14 dni zmian w projekcie planu organizacji i działania ZPHM albo informuje podmioty, które zgłosiły uwagi, o przyczynach ich nieuwzględnienia. 9. Szef ZPHM przedkłada ministrowi właściwemu do spraw zdrowia projekt planu organizacji i działania ZPHM do zatwierdzenia.”,
+    - **c)** uchyla się ust. 10,
+    - **d)** w ust. 11 wyrazy „ust. 2 i 6–10” zastępuje się wyrazami „ust. 2 i 6–9”;
+
+- **11)** w art. 15 w ust. 9 wyrazy „Kancelarii Prezesa Rady Ministrów” zastępuje się wyrazami „urzędu obsługującego ministra właściwego do spraw zdrowia”.
 
 **Art. 17.** W ustawie z dnia 15 grudnia 2022 r. o Państwowym Instytucie Medycznym Ministerstwa Spraw Wewnętrznych i Administracji (Dz. U. z 2025 r. poz. 447) w art. 5 w ust. 1 skreśla się wyrazy „lub ministrowi nadzorującemu została powierzona realizacja zadania na podstawie art. 10c ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2024 r. poz. 1050 i 1473)”.
 

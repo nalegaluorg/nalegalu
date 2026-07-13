@@ -28,43 +28,50 @@ source: pdf
 Warszawa, dnia 29 lutego 2012 v r.
 Pozycja 229 o ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 16 lutego g 2012 r.
 w sprawie wzoru legitymacji weterana i weterana poszkodowanego oraz trybu ich wydania, wymiany lub zwrotu Na podstawie art. 10 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. Nr 205, poz. 1203) zarządza się, co następuje: .
-§ 1. Rozporządzenie określa:
-1) wzór zaświadczenia, o którym mowa w art. 7 ust. l 1 pkt 2 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa;
-c
-2) wzór legitymacji weterana oraz weterana poszkodowanego;
-3) tryb wydawania, wymiany lub zwrotu legitymacji, o których mowa w pkt 2.
-§ 2. 1. Zaświadczenie potwierdzające udział w działaniach poza granicami państwa w ramach misji pokojowej lub stabilizacyjnej wydaje się na wniosek r osoby ubiegającej się o zaświadczenie.
-2. Wzór zaświadczenia, o którym mowa w ust. 1, określa załącznik nr 1 do rozporządzenia.
-.
-§ 3. 1. Wzór legitymacji weterana określa załącznik nr 2 do rozporządzenia.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzór zaświadczenia, o którym mowa w art. 7 ust. l 1 pkt 2 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa; c
+- **2)** wzór legitymacji weterana oraz weterana poszkodowanego;
+- **3)** tryb wydawania, wymiany lub zwrotu legitymacji, o których mowa w pkt 2.
+
+**§ 2.**
+
+1. Zaświadczenie potwierdzające udział w działaniach poza granicami państwa w ramach misji pokojowej lub stabilizacyjnej wydaje się na wniosek r osoby ubiegającej się o zaświadczenie.
+
+2. Wzór zaświadczenia, o którym mowa w ust. 1, określa załącznik nr 1 do rozporządzenia. .
+
+**§ 3.**
+
+1. Wzór legitymacji weterana określa załącznik nr 2 do rozporządzenia.
+
 2. Wzór legitymacji w weterana poszkodowanego określa załącznik nr 3 do rozporządzenia.
-§ 4. 1. Legitymację weterana albo weterana poszkodowanego, zwaną dalej „legitymacją”, z upoważnienia Ministra Obrony Narodowej wydaje dyrektor komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw weteranów i przesyła odpowiednio weteranowi albo weteranowi poszkodowanemu na adres przez niego wskazany.
+
+**§ 4.**
+
+1. Legitymację weterana albo weterana poszkodowanego, zwaną dalej „legitymacją”, z upoważnienia Ministra Obrony Narodowej wydaje dyrektor komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw weteranów i przesyła odpowiednio weteranowi albo weteranowi poszkodowanemu na adres przez niego wskazany.
+
 2. Rejestr wydanych legitymacji prowadzi komórka organizacyjna Ministerstwa Obrony Narodowej właściwa do spraw weteranów. w
-§ 5. 1. Legitymacja podlega wymianie w przypadku zniszczenia, uszkodzenia, a także zmiany danych w niej zawartych.
+
+**§ 5.**
+
+1. Legitymacja podlega wymianie w przypadku zniszczenia, uszkodzenia, a także zmiany danych w niej zawartych.
+
 2. Legitymację wymienia się na wniosek osoby uprawnionej.
-3. Wniosek powinien zawierać oświadczenie o zniszczeniu, uszkodzeniu lub o zmianie danych zawartych w legitymacji.
-w 4. W przypadku wymiany legitymacji osoba uprawniona zwraca dotychczasową legitymację.
+
+3. Wniosek powinien zawierać oświadczenie o zniszczeniu, uszkodzeniu lub o zmianie danych zawartych w legitymacji. w 4. W przypadku wymiany legitymacji osoba uprawniona zwraca dotychczasową legitymację.
+
 5. Zwrócona legitymacja podlega zniszczeniu z dniem wydania nowej legitymacji.
-§ 6. 1. W przypadku utraty legitymacji, na wniosek osoby uprawnionej, dyrektor komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw weteranów, z upoważnienia Ministra Obrony Narodowej, wydaje nową legitymację.
+
+**§ 6.**
+
+1. W przypadku utraty legitymacji, na wniosek osoby uprawnionej, dyrektor komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw weteranów, z upoważnienia Ministra Obrony Narodowej, wydaje nową legitymację.
+
 2. Wniosek powinien zawierać oświadczenie o utracie legitymacji i jej okolicznościach.
+
 3. W przypadku odzyskania utraconej legitymacji osoba uprawniona obowiązana jest do jej zwrotu.
-§ 7. Rozporządzenie wchodzi w życie z dniem 30 marca 2012 r.
-Minister Obrony Narodowej: T. Siemoniak WZÓR .
-....................................................
-..................................................... v Nr ................................................
-o ZAŚWIADCZENIE Na podstawie art. 217 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r.
-Nr 98, poz. 1071, z późn. zm.), w związku z art. 7 ust. 1 pkt g 2 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. Nr 205, poz. 1203), oraz dokumentów ewidencyjnych, przedłożonych dokumentów i innych dowodów stwierdza się, że: Pan/i ............................................................................................................................................................................................
-.
-uczestniczył/a w działaniach poza granicami państwa: l 1 ..................................................................................................................................................................................................
-c .....................................................................................................................................................................................................
-od ............................................................................................ do ..............................................................................................
-r i zajmował/a stanowisko: .
-.....................................................................................................................................................................................................
-w 2 ..................................................................................................................................................................................................
-.....................................................................................................................................................................................................
-od ............................................................................................ do ..............................................................................................
-i zajmował/a stanowisko: .....................................................................................................................................................................................................
-w ..............................................................
+
+**§ 7.** Rozporządzenie wchodzi w życie z dniem 30 marca 2012 r. Minister Obrony Narodowej: T. Siemoniak WZÓR . .................................................... ..................................................... v Nr ................................................ o ZAŚWIADCZENIE Na podstawie art. 217 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.), w związku z art. 7 ust. 1 pkt g 2 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. Nr 205, poz. 1203), oraz dokumentów ewidencyjnych, przedłożonych dokumentów i innych dowodów stwierdza się, że: Pan/i ............................................................................................................................................................................................ . uczestniczył/a w działaniach poza granicami państwa: l 1 .................................................................................................................................................................................................. c ..................................................................................................................................................................................................... od ............................................................................................ do .............................................................................................. r i zajmował/a stanowisko: . ..................................................................................................................................................................................................... w 2 .................................................................................................................................................................................................. ..................................................................................................................................................................................................... od ............................................................................................ do .............................................................................................. i zajmował/a stanowisko: ..................................................................................................................................................................................................... w ..............................................................
 
 ## Załącznik nr 2 — WZÓR LEGITYMACJI WETERANA Legitymacja pozioma, o wymiarach 54 mm x 86 mm, o krawędziach zaokrąglonych, koloru zielono -żółtego cieniowanego z naniesionymi WZÓR liniami LEGITYMACJI gilosza, wykonana WETERANA z PVC.
 

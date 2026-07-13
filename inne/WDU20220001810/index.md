@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001810) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1810/text.pdf) |
 
 zmieniające rozporządzenie w sprawie organizacji roku szkolnego Na podstawie art. 47 ust. 1 pkt 6 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2021 r. poz. 1082, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w sprawie organizacji roku szkolnego (Dz. U. poz. 1603 oraz z 2019 r. poz. 318 i 1093) w § 5 w ust. 1 pkt 2 i 3 otrzymują brzmienie: „2) liceów ogólnokształcących – do 10 dni;
-3) techników, branżowych szkół I stopnia, branżowych szkół II stopnia, szkół policealnych i centrów kształcenia zawodowego – do 10 dni;”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2022 r.
-Minister Edukacji i Nauki: P. Czarnek
+
+**§ 1.** W rozporządzeniu Ministra Edukacji Narodowej z dnia 11 sierpnia 2017 r. w sprawie organizacji roku szkolnego (Dz. U. poz. 1603 oraz z 2019 r. poz. 318 i 1093) w § 5 w ust. 1 pkt 2 i 3 otrzymują brzmienie: „2) liceów ogólnokształcących – do 10 dni; 3) techników, branżowych szkół I stopnia, branżowych szkół II stopnia, szkół policealnych i centrów kształcenia zawodowego – do 10 dni;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 września 2022 r. Minister Edukacji i Nauki: P. Czarnek
 

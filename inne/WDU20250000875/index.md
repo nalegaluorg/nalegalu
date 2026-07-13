@@ -27,8 +27,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000875) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/875/text.pdf) |
 
 w sprawie nadania osobowości prawnej jednostce organizacyjnej Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej pod nazwą Hope Media Polska Na podstawie art. 5 ustawy z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 2616) zarządza się, co następuje:
-§ 1. Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej pod nazwą Hope Media Polska, powołanej uchwałą Rady Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej.
-§ 2. Siedzibą jednostki organizacyjnej Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej pod nazwą Hope Media Polska jest Warszawa.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. T. Szymański
+
+**§ 1.** Nadaje się osobowość prawną jednostce organizacyjnej Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej pod nazwą Hope Media Polska, powołanej uchwałą Rady Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej.
+
+**§ 2.** Siedzibą jednostki organizacyjnej Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej pod nazwą Hope Media Polska jest Warszawa.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. T. Szymański
 

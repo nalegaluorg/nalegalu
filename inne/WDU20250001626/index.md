@@ -27,10 +27,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001626) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1626/text.pdf) |
 
 zmieniające rozporządzenie w sprawie programu pilotażowego w centrach zdrowia psychicznego Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461 i 1537) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 27 kwietnia 2018 r. w sprawie programu pilotażowego w centrach zdrowia psychicznego (Dz. U. z 2024 r. poz. 875 i 1503 oraz z 2025 r. poz. 824) wprowadza się następujące zmiany:
-1) w § 4 wyrazy „31 grudnia 2025 r.” zastępuje się wyrazami „31 grudnia 2026 r.”;
-2) w § 20 w ust. 2 w pkt 1 wyrazy „75,74 zł” zastępuje się wyrazami „82,55 zł”.
-§ 2. Kwotę ryczałtu, o której mowa w § 20 ust. 2 pkt 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do rozliczania świadczeń opieki zdrowotnej udzielanych od dnia 1 lipca 2025 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. K. Kęcka
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 27 kwietnia 2018 r. w sprawie programu pilotażowego w centrach zdrowia psychicznego (Dz. U. z 2024 r. poz. 875 i 1503 oraz z 2025 r. poz. 824) wprowadza się następujące zmiany:
+
+- **1)** w § 4 wyrazy „31 grudnia 2025 r.” zastępuje się wyrazami „31 grudnia 2026 r.”;
+- **2)** w § 20 w ust. 2 w pkt 1 wyrazy „75,74 zł” zastępuje się wyrazami „82,55 zł”.
+
+**§ 2.** Kwotę ryczałtu, o której mowa w § 20 ust. 2 pkt 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do rozliczania świadczeń opieki zdrowotnej udzielanych od dnia 1 lipca 2025 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: wz. K. Kęcka
 

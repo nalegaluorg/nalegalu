@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000858) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/858/text.pdf) |
 
 zmieniające rozporządzenie w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów Na podstawie art. 32a ust. 9 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2020 r. poz. 95 i 695) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów (Dz. U. poz. 2110) w § 52 w ust. 1 wyrazy „6 miesięcy” zastępuje się wyrazami „8 miesięcy”.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Minister Finansów: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. w sprawie postępowania podmiotów prowadzących działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa oraz tytułów uczestnictwa, a także doradztwa inwestycyjnego w odniesieniu do takich instrumentów (Dz. U. poz. 2110) w § 52 w ust. 1 wyrazy „6 miesięcy” zastępuje się wyrazami „8 miesięcy”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia. Minister Finansów: T. Kościński
 

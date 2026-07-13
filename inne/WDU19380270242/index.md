@@ -8,7 +8,7 @@ pos: 242
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
 # Ustawa z dnia 9 kwietnia 1938 r. o nadaniu Katolickiemu Uniwersytetowi Lubelskiemu pełnych praw państwowych szkół akademickich

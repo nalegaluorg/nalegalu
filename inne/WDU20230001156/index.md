@@ -27,8 +27,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie warunków wynagradzania za pracę pracowników działających w formie jednostki budżetowej Na podstawie art. 88 ust. 9 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz.
 rządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 17 lipca 2014 r. w sprawie warunków wynagradzania ków podmiotów leczniczych działających w formie jednostki budżetowej (Dz. U. z 2022 r. poz. 1530 rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Miesięczne stawki wynagrodzenia zasadniczego określone w załączniku nr 1 do rozporządzenia w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie do wynagrodzeń należnych
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister TABELA MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO Kategoria zaszeregowania Kwota w zł I 3490–5000 II 3510–5030 III 3530–5110 IV 3550–5170 V 3570–5270 VI 3590–5440 VII 3610–5860 VIII 3630–5920 IX 3650–6540 X 3670–6850 XI 3690–8200 XII 3710–8660 XIII 3730–9470 XIV 3750–9560 XV 3770–9600 XVI 3790–9800 XVII 3810–10 000 XVIII 3830–10 200 XIX 3850–10 400 XX 3870–10 600
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 17 lipca 2014 r. w sprawie warunków wynagradzania ków podmiotów leczniczych działających w formie jednostki budżetowej (Dz. U. z 2022 r. poz. 1530 rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Miesięczne stawki wynagrodzenia zasadniczego określone w załączniku nr 1 do rozporządzenia w brzmieniu nadanym niniejszym rozporządzeniem, mają zastosowanie do wynagrodzeń należnych
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister TABELA MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO Kategoria zaszeregowania Kwota w zł I 3490–5000 II 3510–5030 III 3530–5110 IV 3550–5170 V 3570–5270 VI 3590–5440 VII 3610–5860 VIII 3630–5920 IX 3650–6540 X 3670–6850 XI 3690–8200 XII 3710–8660 XIII 3730–9470 XIV 3750–9560 XV 3770–9600 XVI 3790–9800 XVII 3810–10 000 XVIII 3830–10 200 XIX 3850–10 400 XX 3870–10 600
 

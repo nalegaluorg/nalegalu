@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001921) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1921/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zespołu do przygotowania pytań testowych na egzamin wstępny na aplikację notarialną oraz wykazu tytułów aktów prawnych Na podstawie art. 71c § 12 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, 993 i 1585) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 29 kwietnia 2009 r. w sprawie zespołu do przygotowania pytań testowych na egzamin wstępny na aplikację notarialną oraz wykazu tytułów aktów prawnych (Dz. U. z 2013 poz. 834 i 1600) § 10 otrzymuje brzmienie: „§ 10. 1. Przewodniczącemu zespołu przysługuje wynagrodzenie w wysokości 11 200 zł.
-2. Członkom zespołu przysługuje wynagrodzenie w wysokości 8000 zł.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
-Minister Sprawiedliwości: C. Grabarczyk
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 29 kwietnia 2009 r. w sprawie zespołu do przygotowania pytań testowych na egzamin wstępny na aplikację notarialną oraz wykazu tytułów aktów prawnych (Dz. U. z 2013 poz. 834 i 1600) § 10 otrzymuje brzmienie: „§ 10. 1. Przewodniczącemu zespołu przysługuje wynagrodzenie w wysokości 11 200 zł. 2. Członkom zespołu przysługuje wynagrodzenie w wysokości 8000 zł.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. Minister Sprawiedliwości: C. Grabarczyk
 

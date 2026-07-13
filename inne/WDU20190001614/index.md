@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001614) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1614/text.pdf) |
 
 zmieniające rozporządzenie w sprawie egzaminu na pośrednika kredytu hipotecznego Na podstawie art. 53 ust. 10 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. poz. 819 oraz z 2018 r. poz. 2245) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 9 sierpnia 2017 r. w sprawie egzaminu na pośrednika kredytu hipotecznego (Dz. U. poz. 1536) wprowadza się następujące zmiany:
-1) w § 2 ust. 2 otrzymuje brzmienie: „2. Opłata egzaminacyjna dla osób składających egzamin jest wnoszona na rachunek bieżący Urzędu Komisji Nadzoru Finansowego.”;
-2) w § 3 w ust. 1, w ust. 2 w pkt 4 oraz w ust. 3 wyrazy „Komisji Nadzoru Finansowego” zastępuje się wyrazami „Urzędu Komisji Nadzoru Finansowego”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: wz. L. Skiba
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 9 sierpnia 2017 r. w sprawie egzaminu na pośrednika kredytu hipotecznego (Dz. U. poz. 1536) wprowadza się następujące zmiany:
+
+- **1)** w § 2 ust. 2 otrzymuje brzmienie: „2. Opłata egzaminacyjna dla osób składających egzamin jest wnoszona na rachunek bieżący Urzędu Komisji Nadzoru Finansowego.”;
+- **2)** w § 3 w ust. 1, w ust. 2 w pkt 4 oraz w ust. 3 wyrazy „Komisji Nadzoru Finansowego” zastępuje się wyrazami „Urzędu Komisji Nadzoru Finansowego”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: wz. L. Skiba
 

@@ -27,29 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz.
 z 2014 r. poz. 1438, z 2015 r. poz. 308 i 349 oraz z 2016 r. poz. 50) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2015 r. poz. 877 oraz z 2016 r. poz. 175) w załączniku w ust. 1 otrzymuje brzmienie: „1. W skład Centrali Agencji wchodzą:
-1) Biuro Prasowe;
-2) Biuro Prezesa;
-3) Departament Administracyjno-Gospodarczy;
-4) Departament Analiz i Sprawozdawczości;
-5) Departament Audytu Wewnętrznego;
-6) Departament Baz Referencyjnych i Kontroli Terenowych;
-7) Departament Działań Delegowanych;
-8) Departament Działań Inwestycyjnych;
-9) Departament Działań Społecznych i Organizacji Producentów;
-10) Departament Ewidencji Producentów i Rejestracji Zwierząt;
-11) Departament Finansowy;
-12) Departament Informatyki;
-13) Departament Kontroli i Bezpieczeństwa;
-14) Departament Księgowości;
-15) Departament Oceny Projektów Inwestycyjnych;
-16) Departament Płatności Bezpośrednich;
-17) Departament Pomocy Technicznej;
-18) Departament Prawny i Zamówień Publicznych;
-19) Departament Wsparcia Krajowego;
-20) Departament Wsparcia Rybactwa;
-21) Departament Zarządzania Należnościami;
-22) Departament Zarządzania Zasobami Ludzkimi.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2015 r. poz. 877 oraz z 2016 r. poz. 175) w załączniku w ust. 1 otrzymuje brzmienie: „1. W skład Centrali Agencji wchodzą: 1) Biuro Prasowe; 2) Biuro Prezesa; 3) Departament Administracyjno-Gospodarczy; 4) Departament Analiz i Sprawozdawczości; 5) Departament Audytu Wewnętrznego; 6) Departament Baz Referencyjnych i Kontroli Terenowych; 7) Departament Działań Delegowanych; 8) Departament Działań Inwestycyjnych; 9) Departament Działań Społecznych i Organizacji Producentów; 10) Departament Ewidencji Producentów i Rejestracji Zwierząt; 11) Departament Finansowy; 12) Departament Informatyki; 13) Departament Kontroli i Bezpieczeństwa; 14) Departament Księgowości; 15) Departament Oceny Projektów Inwestycyjnych; 16) Departament Płatności Bezpośrednich; 17) Departament Pomocy Technicznej; 18) Departament Prawny i Zamówień Publicznych; 19) Departament Wsparcia Krajowego; 20) Departament Wsparcia Rybactwa; 21) Departament Zarządzania Należnościami; 22) Departament Zarządzania Zasobami Ludzkimi.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
 

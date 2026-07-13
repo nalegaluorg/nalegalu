@@ -8,10 +8,10 @@ pos: 1999
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 listopada 2021 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1999 ROZPORZĄDZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 25 października 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,10 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-01-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001999) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1999/text.pdf) |
 
-Poz. 1999 ROZPORZĄDZENIE MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ z dnia 25 października 2021 r.
 w sprawie zadań Krajowej Administracji Skarbowej, które mogą być wykonywane przez naczelników urzędów skarbowych na obszarze całego kraju lub jego części, niezależnie od terytorialnego zasięgu ich działania Na podstawie art. 11 ust. 5a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2021 r.
-poz. 422, z późn. zm. ) zarządza się, co następuje: § 1. Zadania, o których mowa w art. 28 ust. 1 pkt 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, mogą być wykonywane przez naczelników urzędów skarbowych na obszarze całego województwa, w którym znajduje się siedziba danego naczelnika urzędu skarbowego, niezależnie od terytorialnego zasięgu ich działania.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
+poz. 422, z późn. zm. ) zarządza się, co następuje:
+
+**§ 1.** Zadania, o których mowa w art. 28 ust. 1 pkt 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, mogą być wykonywane przez naczelników urzędów skarbowych na obszarze całego województwa, w którym znajduje się siedziba danego naczelnika urzędu skarbowego, niezależnie od terytorialnego zasięgu ich działania.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński
 

@@ -34,71 +34,6 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w spraw
 2) § 2–4 rozporządzenia Rady Ministrów z dnia 22 października 2025 r. zmieniającego rozporządzenie w sprawie sprawozdań o udzielonej pomocy publicznej, informacji o nieudzieleniu takiej pomocy oraz sprawozdań o zaległościach przedsiębiorców we wpłatach świadczeń należnych na rzecz sektora finansów publicznych (Dz. U. poz. 1515), które stanowią: „ § 2. Do sprawozdań o udzielonej pomocy publicznej nieprzekazanych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem. § 3. Od dnia wejścia w życie niniejszego rozporządzenia do dnia 31 grudnia 2026 r. podmiot udzielający pomocy w sprawozdaniach o udzielonej pomocy publicznej podaje klasę działalności, w związku z którą beneficjent pomocy otrzymał pomoc, zgodnie z rozporządzeniem Rady Ministrów z dnia 24 grudnia 2007 r. w sprawie Polskiej Klasyfikacji Działalności (PKD) (Dz. U. poz. 1885, z 2009 r. poz. 489, z 2017 r. poz. 2440 oraz z 2020 r. poz. 1249), jeżeli beneficjent pomocy nie dostosował tej klasy działalności do rozporządzenia Rady Ministrów z dnia 18 grudnia 2024 w sprawie Polskiej Klasyfikacji Działalności (PKD) (Dz. U. poz. 1936), z tym że w przypadkach określonych w § rozporządzenia Rady Ministrów z dnia 18 grudnia 2024 r. w sprawie Polskiej Klasyfikacji Działalności (PKD) do dnia 31 grudnia 2025 r. może być podawany kod PKD 93.29.Z według PKD 2007. § 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Prezes Rady Ministrów: D. Tusk
 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 7 sierpnia 2008 r.
 w sprawie sprawozdań o udzielonej pomocy publicznej, informacji o nieudzieleniu takiej pomocy oraz sprawozdań o zaległościach przedsiębiorców we wpłatach świadczeń należnych na rzecz sektora finansów publicznych Na podstawie art. 35 pkt 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2025 r. poz. 468 i 1652) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) zakres sprawozdań o udzielonej pomocy publicznej, zwanej dalej „pomocą”, o których mowa w art. 32 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, zwanej dalej „ustawą”;
-2) zakres informacji o nieudzieleniu pomocy, o której mowa w art. 32 ust. 1 ustawy;
-3) zakres sprawozdań o zaległościach przedsiębiorców we wpłatach świadczeń należnych na rzecz sektora finansów publicznych, o których mowa w art. 34 ust. 1 ustawy;
-4) okresy sprawozdawcze;
-5) terminy składania sprawozdań i informacji, o których mowa w pkt 1–3, w tym terminy składania niektórych zaktualizowanych sprawozdań;
-6) wzory formularzy sprawozdań;
-7) wzór formularza informacji, o której mowa w pkt 2.
-§ 2. 1. W sprawozdaniach o udzielonej pomocy podaje się następujące informacje:
-1) nazwę podmiotu udzielającego pomocy;
-2) numer identyfikacji podatkowej podmiotu udzielającego pomocy (NIP);
-3) akty normatywne będące podstawą prawną udzielonej pomocy;
-4) datę, symbol i opis aktu ogólnego pomocy rozumianego jako akt o charakterze indywidualnym, na podstawie którego beneficjent nabył prawo do pomocy;
-5) symbol zmienianego aktu ogólnego pomocy;
-6) dzień udzielenia pomocy;
-7) symbol i opis aktu szczegółowego pomocy rozumianego jako akt o charakterze indywidualnym, z którego wynika wartość pomocy, do której beneficjent nabył prawo;
-8) imię i nazwisko albo nazwę beneficjenta pomocy;
-9) formę prawną beneficjenta pomocy;
-10) wielkość beneficjenta pomocy;
-11) numer identyfikacji podatkowej beneficjenta pomocy (NIP);
-12) identyfikator terytorialny gminy, określony zgodnie z rozporządzeniem Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. poz. 1031, z późn. zm. ), na obszarze której beneficjent pomocy ma siedzibę lub miejsce zamieszkania;
-13) klasę działalności, w związku z którą beneficjent pomocy otrzymał pomoc;
-14) numer środka pomocowego;
-15) wartość nominalną pomocy;
-16) wartość pomocy brutto wyrażoną ekwiwalentem dotacji brutto;
-17) formę pomocy;
-18) przeznaczenie pomocy;
-19) źródło pochodzenia pomocy.
-1a. (uchylony).
-1b. (uchylony).
-2. Sprawozdania, o których mowa w ust. 1, sporządza się na formularzu, którego wzór określa załącznik nr 1 do rozporządzenia.
-§ 3. (uchylony).
-§ 3a. (uchylony).
-§ 4. 1. W informacji, o której mowa w § 1 pkt 2, podaje się: nazwę, siedzibę, numer identyfikacji podatkowej (NIP) i kategorię podmiotu uprawnionego do udzielania pomocy oraz wskazanie roku kalendarzowego, za który sporządza się informację.
-2. Informację, o której mowa w ust. 1, sporządza się na formularzu, którego wzór określa załącznik nr 3 do rozporządzenia.
-§ 5. 1. W sprawozdaniach, o których mowa w § 1 pkt 3, podaje się następujące informacje:
-1) nazwę organu właściwego do poboru należności;
-2) numer identyfikacji podatkowej organu właściwego do poboru należności (NIP);
-3) nazwę i identyfikator terytorialny województwa, na którego obszar rozciąga się właściwość terytorialna organu właściwego do poboru należności;
-4) wskazanie roku kalendarzowego, za który sporządza się sprawozdanie;
-5) rodzaje i wartość zaległości przedsiębiorców we wpłatach świadczeń należnych na rzecz sektora finansów publicznych wraz z odsetkami za zwłokę, z wyłączeniem zaległych należności, w stosunku do których organ uprawniony podjął decyzję o odroczeniu płatności lub rozłożeniu jej na raty.
-2. Sprawozdania, o których mowa w § 1 pkt 3, sporządza się na formularzu, którego wzór określa załącznik nr 4 do rozporządzenia.
-§ 6. 1. (uchylony).
-2. Podmiot udzielający pomocy sporządza i przekazuje sprawozdania, o których mowa w § 2 ust. 1, o pomocy udzielonej w danym dniu, w terminie 7 dni od dnia udzielenia pomocy.
-2a. Sprawozdania, o których mowa w § 2 ust. 1, dotyczące pomocy udzielanej na podstawie art. 34a ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2012 r. poz. 657, z 2013 r. poz. 198 oraz z 2014 r. poz. 84 i 1662) sporządza się i przekazuje w terminie 45 dni od udzielenia pomocy.
-3. Organ właściwy do poboru należności sporządza sprawozdania, o których mowa w § 1 pkt 3, według stanu na koniec roku kalendarzowego i przekazuje je w terminie 60 dni od dnia zakończenia roku kalendarzowego.
-4. (uchylony).
-§ 7. (uchylony).
-§ 8. Podmiot, który nie udzielił żadnej pomocy w danym roku kalendarzowym, sporządza informację o nieudzieleniu pomocy, o której mowa w § 1 pkt 2, za dany rok kalendarzowy i przekazuje ją w terminie 7 dni od dnia zakończenia roku kalendarzowego.
-§ 8a. 1. W przypadku zmiany wartości pomocy brutto wykazanej w sprawozdaniu, o którym mowa w § 2 ust. 1, podmiot udzielający pomocy przekazuje zaktualizowane sprawozdanie, w terminie 7 dni od dnia uzyskania informacji o zmianie.
-2. (uchylony).
-3. W przypadku gdy zmiana wartości pomocy brutto wynika ze zmiany:
-1) harmonogramu realizacji płatności ‒ podmiot udzielający pomocy przekazuje zaktualizowane sprawozdanie, o którym mowa w ust. 1, w terminie 7 dni od dnia realizacji ostatniej płatności;
-2) harmonogramu spłaty rat ‒ podmiot udzielający pomocy przekazuje zaktualizowane sprawozdanie, o którym mowa w ust. 1, w terminie 7 dni od dnia dokonania spłaty ostatniej raty.
-4. (uchylony).
-5. Podmiot udzielający pomocy, który po upływie terminu przekazania sprawozdania, o którym mowa w § 6, uzyskał informację o udzielonej pomocy, o której mowa w art. 6 ust. 2 ustawy, sporządza i przekazuje sprawozdanie, o którym mowa w § 2 ust. 1, bezzwłocznie.
-6. (uchylony).
-§ 9. W zakresie sprawozdań, o których mowa w § 2, rozporządzenie stosuje się po raz pierwszy do sprawozdań sporządzanych za trzeci kwartał 2008 r.
-§ 10. Traci moc rozporządzenie Rady Ministrów z dnia 12 lipca 2007 r. w sprawie sprawozdań o udzielonej pomocy publicznej oraz sprawozdań o zaległych należnościach przedsiębiorców z tytułu świadczeń na rzecz sektora finansów publicznych (Dz. U. poz. 923).
-§ 11. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-M M W W W Instrukcja sporządzania sprawozdania Kolejne pozycje sprawozdania wypełnia się według poniższych wyjaśnień: I. Nazwa podmiotu udzielającego pomocy.
-II. Numer identyfikacji podatkowej (NIP) podmiotu udzielającego pomocy.
-Dane o beneficjencie pomocy podaje się według stanu na dzień wydania aktu ogólnego pomocy i nie podlegają one zmianom przez cały okres realizacji pomocy. W przypadku braku aktu ogólnego pomocy wszystkie informacje o udzielonej pomocy podaje się według stanu na dzień udzielenia pomocy.
-Tabela Uwaga: istnieją następujące możliwości łączenia elementów tworzących podstawę prawną udzielenia pomocy, które należy wpisać w poszczególnych kolumnach tabeli w sposób przedstawiony poniżej.
-Akt normatywny 2a 2b 2c 3a 3b kod ustawy tytuł ustawy przepis ustawy rozporządzenie i jego uchwała i jej przepis lub inny przepis program pomocowy i jego przepis kod ustawy tytuł ustawy przepis ustawy rozporządzenie i jego brak* przepis kod ustawy tytuł ustawy przepis ustawy brak* uchwała i jej przepis lub inny program pomocowy i jego przepis kod ustawy tytuł ustawy przepis ustawy brak* brak* Kol. 2a. Ustawa: należy podać właściwy kod wskazujący ustawę będącą podstawą prawną udzielenia pomocy.
 Wówczas w kolumnie 2b należy podać w następującej kolejności: datę aktu i tytuł aktu oraz oznaczenie roku i pozycji Dziennika Ustaw, w którym akt został ogłoszony.
 Kol. 2c. Przepis ustawy: należy podać oznaczenie przepisu będącego podstawą prawną udzielenia pomocy (w kolejności: artykuł, ustęp, punkt, litera, tiret).
 Kol. 3a. Tytuł i przepis rozporządzenia: jeżeli podstawą udzielenia pomocy było rozporządzenie, należy podać w następującej kolejności: nazwę organu wydającego akt, datę aktu i tytuł aktu oraz oznaczenie roku i pozycji Dziennika Ustaw, w którym akt został ogłoszony. Rozporządzenie powinno być aktem wykonawczym do ustawy wskazanej w kol. 2a albo kol. 2b. W kol. 3a należy także wskazać przepis rozporządzenia będącego podstawą udzielenia pomocy (w kolejności: rozdział, paragraf, ustęp, punkt, litera, tiret), odnoszącego się do konkretnego przeznaczenia czy konkretnej formy pomocy.
@@ -159,6 +94,107 @@ Uwagi:
 2. Sprawozdanie obejmuje zaległości wymagalne na ostatni dzień roku, którego dotyczy sprawozdanie.
 3. Sprawozdanie nie obejmuje zaległości i/lub odsetek, co do których organ właściwy do poboru należności zastosował ulgę w spłacie stanowiącą pomoc publiczną (raty, odroczenie) i które nie są wymagalne na ostatni dzień roku, którego dotyczy sprawozdanie.
 4. Sprawozdania należy wypełnić w rachunku narastającym.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** zakres sprawozdań o udzielonej pomocy publicznej, zwanej dalej „pomocą”, o których mowa w art. 32 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, zwanej dalej „ustawą”;
+- **2)** zakres informacji o nieudzieleniu pomocy, o której mowa w art. 32 ust. 1 ustawy;
+- **3)** zakres sprawozdań o zaległościach przedsiębiorców we wpłatach świadczeń należnych na rzecz sektora finansów publicznych, o których mowa w art. 34 ust. 1 ustawy;
+- **4)** okresy sprawozdawcze;
+- **5)** terminy składania sprawozdań i informacji, o których mowa w pkt 1–3, w tym terminy składania niektórych zaktualizowanych sprawozdań;
+- **6)** wzory formularzy sprawozdań;
+- **7)** wzór formularza informacji, o której mowa w pkt 2.
+
+**§ 2.**
+
+1. W sprawozdaniach o udzielonej pomocy podaje się następujące informacje:
+
+- **1)** nazwę podmiotu udzielającego pomocy;
+- **2)** numer identyfikacji podatkowej podmiotu udzielającego pomocy (NIP);
+- **3)** akty normatywne będące podstawą prawną udzielonej pomocy;
+- **4)** datę, symbol i opis aktu ogólnego pomocy rozumianego jako akt o charakterze indywidualnym, na podstawie którego beneficjent nabył prawo do pomocy;
+- **5)** symbol zmienianego aktu ogólnego pomocy;
+- **6)** dzień udzielenia pomocy;
+- **7)** symbol i opis aktu szczegółowego pomocy rozumianego jako akt o charakterze indywidualnym, z którego wynika wartość pomocy, do której beneficjent nabył prawo;
+- **8)** imię i nazwisko albo nazwę beneficjenta pomocy;
+- **9)** formę prawną beneficjenta pomocy;
+- **10)** wielkość beneficjenta pomocy;
+- **11)** numer identyfikacji podatkowej beneficjenta pomocy (NIP);
+- **12)** identyfikator terytorialny gminy, określony zgodnie z rozporządzeniem Rady Ministrów z dnia 15 grudnia 1998 r. w sprawie szczegółowych zasad prowadzenia, stosowania i udostępniania krajowego rejestru urzędowego podziału terytorialnego kraju oraz związanych z tym obowiązków organów administracji rządowej i jednostek samorządu terytorialnego (Dz. U. poz. 1031, z późn. zm. ), na obszarze której beneficjent pomocy ma siedzibę lub miejsce zamieszkania;
+- **13)** klasę działalności, w związku z którą beneficjent pomocy otrzymał pomoc;
+- **14)** numer środka pomocowego;
+- **15)** wartość nominalną pomocy;
+- **16)** wartość pomocy brutto wyrażoną ekwiwalentem dotacji brutto;
+- **17)** formę pomocy;
+- **18)** przeznaczenie pomocy;
+- **19)** źródło pochodzenia pomocy.
+
+1a. (uchylony).
+
+1b. (uchylony).
+
+2. Sprawozdania, o których mowa w ust. 1, sporządza się na formularzu, którego wzór określa załącznik nr 1 do rozporządzenia.
+
+**§ 3.** (uchylony).
+
+**§ 3a.** (uchylony).
+
+**§ 4.**
+
+1. W informacji, o której mowa w § 1 pkt 2, podaje się: nazwę, siedzibę, numer identyfikacji podatkowej (NIP) i kategorię podmiotu uprawnionego do udzielania pomocy oraz wskazanie roku kalendarzowego, za który sporządza się informację.
+
+2. Informację, o której mowa w ust. 1, sporządza się na formularzu, którego wzór określa załącznik nr 3 do rozporządzenia.
+
+**§ 5.**
+
+1. W sprawozdaniach, o których mowa w § 1 pkt 3, podaje się następujące informacje:
+
+- **1)** nazwę organu właściwego do poboru należności;
+- **2)** numer identyfikacji podatkowej organu właściwego do poboru należności (NIP);
+- **3)** nazwę i identyfikator terytorialny województwa, na którego obszar rozciąga się właściwość terytorialna organu właściwego do poboru należności;
+- **4)** wskazanie roku kalendarzowego, za który sporządza się sprawozdanie;
+- **5)** rodzaje i wartość zaległości przedsiębiorców we wpłatach świadczeń należnych na rzecz sektora finansów publicznych wraz z odsetkami za zwłokę, z wyłączeniem zaległych należności, w stosunku do których organ uprawniony podjął decyzję o odroczeniu płatności lub rozłożeniu jej na raty.
+
+2. Sprawozdania, o których mowa w § 1 pkt 3, sporządza się na formularzu, którego wzór określa załącznik nr 4 do rozporządzenia.
+
+**§ 6.**
+
+1. (uchylony).
+
+2. Podmiot udzielający pomocy sporządza i przekazuje sprawozdania, o których mowa w § 2 ust. 1, o pomocy udzielonej w danym dniu, w terminie 7 dni od dnia udzielenia pomocy.
+
+2a. Sprawozdania, o których mowa w § 2 ust. 1, dotyczące pomocy udzielanej na podstawie art. 34a ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2012 r. poz. 657, z 2013 r. poz. 198 oraz z 2014 r. poz. 84 i 1662) sporządza się i przekazuje w terminie 45 dni od udzielenia pomocy.
+
+3. Organ właściwy do poboru należności sporządza sprawozdania, o których mowa w § 1 pkt 3, według stanu na koniec roku kalendarzowego i przekazuje je w terminie 60 dni od dnia zakończenia roku kalendarzowego.
+
+4. (uchylony).
+
+**§ 7.** (uchylony).
+
+**§ 8.** Podmiot, który nie udzielił żadnej pomocy w danym roku kalendarzowym, sporządza informację o nieudzieleniu pomocy, o której mowa w § 1 pkt 2, za dany rok kalendarzowy i przekazuje ją w terminie 7 dni od dnia zakończenia roku kalendarzowego.
+
+**§ 8a.**
+
+1. W przypadku zmiany wartości pomocy brutto wykazanej w sprawozdaniu, o którym mowa w § 2 ust. 1, podmiot udzielający pomocy przekazuje zaktualizowane sprawozdanie, w terminie 7 dni od dnia uzyskania informacji o zmianie.
+
+2. (uchylony).
+
+3. W przypadku gdy zmiana wartości pomocy brutto wynika ze zmiany:
+
+- **1)** harmonogramu realizacji płatności ‒ podmiot udzielający pomocy przekazuje zaktualizowane sprawozdanie, o którym mowa w ust. 1, w terminie 7 dni od dnia realizacji ostatniej płatności;
+- **2)** harmonogramu spłaty rat ‒ podmiot udzielający pomocy przekazuje zaktualizowane sprawozdanie, o którym mowa w ust. 1, w terminie 7 dni od dnia dokonania spłaty ostatniej raty.
+
+4. (uchylony).
+
+5. Podmiot udzielający pomocy, który po upływie terminu przekazania sprawozdania, o którym mowa w § 6, uzyskał informację o udzielonej pomocy, o której mowa w art. 6 ust. 2 ustawy, sporządza i przekazuje sprawozdanie, o którym mowa w § 2 ust. 1, bezzwłocznie.
+
+6. (uchylony).
+
+**§ 9.** W zakresie sprawozdań, o których mowa w § 2, rozporządzenie stosuje się po raz pierwszy do sprawozdań sporządzanych za trzeci kwartał 2008 r.
+
+**§ 10.** Traci moc rozporządzenie Rady Ministrów z dnia 12 lipca 2007 r. w sprawie sprawozdań o udzielonej pomocy publicznej oraz sprawozdań o zaległych należnościach przedsiębiorców z tytułu świadczeń na rzecz sektora finansów publicznych (Dz. U. poz. 923).
+
+**§ 11.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . M M W W W Instrukcja sporządzania sprawozdania Kolejne pozycje sprawozdania wypełnia się według poniższych wyjaśnień: I. Nazwa podmiotu udzielającego pomocy. II. Numer identyfikacji podatkowej (NIP) podmiotu udzielającego pomocy. Dane o beneficjencie pomocy podaje się według stanu na dzień wydania aktu ogólnego pomocy i nie podlegają one zmianom przez cały okres realizacji pomocy. W przypadku braku aktu ogólnego pomocy wszystkie informacje o udzielonej pomocy podaje się według stanu na dzień udzielenia pomocy. Tabela Uwaga: istnieją następujące możliwości łączenia elementów tworzących podstawę prawną udzielenia pomocy, które należy wpisać w poszczególnych kolumnach tabeli w sposób przedstawiony poniżej. Akt normatywny 2a 2b 2c 3a 3b kod ustawy tytuł ustawy przepis ustawy rozporządzenie i jego uchwała i jej przepis lub inny przepis program pomocowy i jego przepis kod ustawy tytuł ustawy przepis ustawy rozporządzenie i jego brak* przepis kod ustawy tytuł ustawy przepis ustawy brak* uchwała i jej przepis lub inny program pomocowy i jego przepis kod ustawy tytuł ustawy przepis ustawy brak* brak* Kol. 2a. Ustawa: należy podać właściwy kod wskazujący ustawę będącą podstawą prawną udzielenia pomocy.
 
 ## Tytuł ustawy Kod ustawa budżetowa (na kolejne lata) 1.1 ustawa z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa 1.2 ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych 1.3 ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych 1.4 ustawa z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób 1.6 niepełnosprawnych ustawa z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska 1.7 ustawa z dnia 14 grudnia 2012 r. o odpadach 1.8 ustawa z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych 1.10 ustawa z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych 1.11 ustawa z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre 1.13 osoby prawne ustawa z dnia 7 lipca 1994 r. o ubezpieczeniach gwarantowanych przez Skarb Państwa 1.14 ustawa z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami 1.15 ustawa z dnia 5 stycznia 1995 r. o dopłatach do oprocentowania niektórych kredytów bankowych 1.18 ustawa z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych 1.22 ustawa z dnia 27 sierpnia 2009 r. o finansach publicznych 1.24 ustawa z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy 1.25 ustawa z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego 1.31 i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej ustawa z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki 1.33 ustawa z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego 1.34 „Polskie Koleje Państwowe” ustawa z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości 1.36 ustawa z dnia 20 grudnia 1996 r. o portach i przystaniach morskich 1.37 ustawa z dnia 28 marca 2003 r. o transporcie kolejowym 1.40 ustawa z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi 1.42 ustawa z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi 1.43 odpadami oraz o opłacie produktowej ustawa z dnia 25 września 1981 r. o przedsiębiorstwach państwowych 1.44 ustawa z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa 1.45 ustawa z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali 1.51 ustawa z dnia 30 sierpnia 2002 r. o restrukturyzacji niektórych należności publicznoprawnych 1.52 od przedsiębiorców ustawa z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy 1.54 ustawa z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego 1.55 ustawa z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu 1.56 dla rynku pracy ustawa z dnia 23 listopada 2012 r. – Prawo pocztowe 1.57 ustawa z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów 1.58 osiąganych przez osoby fizyczne ustawa z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych 1.59 ustawa z dnia 30 października 2002 r. o podatku leśnym 1.61 ustawa z dnia 19 marca 2004 r. – Prawo celne 1.62 ustawa z dnia 6 grudnia 2008 r. o podatku akcyzowym 1.64 ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług 1.65 ustawa z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju 1.66 ustawa z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego 1.67 transportu zbiorowego ustawa z dnia 8 marca 1990 r. o samorządzie gminnym 1.68 ustawa z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych 1.70 ustaw ustawa z dnia 3 marca 2005 r. o dopłatach do umów na budowę niektórych typów statków morskich 1.71 ustawa z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji 1.72 ustawa z dnia 19 listopada 2009 r. o grach hazardowych 1.73 ustawa z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej 1.74 ustawa z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju 1.76 ustawa z dnia 3 lipca 2002 r. – Prawo lotnicze 1.77 ustawa z dnia 24 sierpnia 2006 r. o podatku tonażowym 1.78 ustawa z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej 1.79 ustawa z dnia 16 grudnia 2005 r. o Funduszu Kolejowym 1.80 ustawa z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym 1.81 ustawa z dnia 31 stycznia 1989 r. o gospodarce finansowej przedsiębiorstw państwowych 1.83 ustawa z dnia 1 grudnia 1995 r. o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa 1.84 ustawa z dnia 12 grudnia 2013 r. o cudzoziemcach 1.85 ustawa z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych 1.86 ustawa z dnia 23 kwietnia 1964 r. – Kodeks cywilny 1.87 ustawa z dnia 28 sierpnia 1997 r. o zatrudnianiu osób pozbawionych wolności 1.88 ustawa z dnia 15 września 2000 r. – Kodeks spółek handlowych 1.89 ustawa z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami 1.90 ustawa z dnia 30 czerwca 2005 r. o kinematografii 1.92 ustawa z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju 1.93 ustawa z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki 1.94 ustawa z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku 1.95 z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej ustawa z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym 1.96 ustawa z dnia 25 lipca 2008 r. o szczególnych rozwiązaniach dla podatników uzyskujących niektóre 1.99 przychody poza terytorium Rzeczypospolitej Polskiej ustawa z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej 2.00 ustawa z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych 2.01 ustawa z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym 2.02 ustawa z dnia 15 listopada 1984 r. o podatku rolnym 2.03 ustawa z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności 2.04 nieruchomości ustawa z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi 2.05 ustawa z dnia 9 listopada 2000 r. o repatriacji 2.06 ustawa z dnia 6 września 2001 r. o transporcie drogowym 2.07 ustawa z dnia 7 września 1991 r. o systemie oświaty 2.08 ustawa z dnia 28 września 1991 r. o lasach 2.09 ustawa z dnia 10 czerwca 1994 r. o zagospodarowaniu nieruchomości Skarbu Państwa przejętych od wojsk 2.10 Federacji Rosyjskiej ustawa z dnia 20 grudnia 1996 r. o gospodarce komunalnej 2.11 ustawa z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi 2.12 ustawa z dnia 11 sierpnia 2001 r. o szczególnych zasadach odbudowy, remontów i rozbiórek obiektów 2.13 budowlanych zniszczonych lub uszkodzonych w wyniku działania żywiołu ustawa z dnia 12 sierpnia 2010 r. o wspieraniu przedsiębiorców dotkniętych skutkami powodzi z 2010 r. 2.14 ustawa z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego 2.15 ustawa z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków 2.16 Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 ustawa z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa 2.17 ustawa z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji 2.18 emisyjności budynków ustawa z dnia 16 kwietnia 2004 r. o ochronie przyrody 2.19 ustawa z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie 2.20 ustawa z dnia 5 czerwca 1998 r. o samorządzie województwa 2.21 ustawa z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym 2.22 ustawa z dnia 9 listopada 2012 r. o umorzeniu należności powstałych z tytułu nieopłaconych składek 2.23 przez osoby prowadzące pozarolniczą działalność ustawa z dnia 29 grudnia 1992 r. o radiofonii i telewizji 2.24 ustawa z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów 2.25 ustawa z dnia 30 sierpnia 2013 r. o dotacji przeznaczonej dla niektórych podmiotów 2.26 ustawa z dnia 11 października 2013 r. o szczególnych rozwiązaniach związanych z ochroną miejsc pracy 2.27 ustawa z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych 2.28 ustawa z dnia 10 kwietnia 1997 r. – Prawo energetyczne 2.29 ustawa z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych 2.30 w perspektywie finansowej 2014–2020 ustawa z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach 2.31 ustawa z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne 2.32 ustawa z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem 2.33 i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych ustawa z dnia 16 kwietnia 2020 r. o szczególnych instrumentach wsparcia w związku z rozprzestrzenianiem 2.34 się wirusa SARS-CoV-2 ustawa z dnia 4 lipca 2019 r. o systemie instytucji rozwoju 2.35 ustawa z dnia 14 grudnia 2016 r. – Prawo oświatowe 2.36 ustawa z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce 2.37 ustawa z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego 2.38 ustawa z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych 2.39 na cele mieszkaniowe w prawo własności tych gruntów ustawa z dnia 19 lipca 2019 r. o systemie rekompensat dla sektorów i podsektorów energochłonnych 2.40 ustawa z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji 2.41 ustawa z dnia 28 lipca 1983 r. o podatku od spadków i darowizn 2.42 ustawa z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze 2.43 ustawa z dnia 20 lipca 2017 r. – Prawo wodne 2.44 ustawa z dnia 3 lutego 1993 r. o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie 2.45 niektórych ustaw ustawa z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników 2.46 ustawa z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym 2.47 ustawa z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów 2.49 oraz obrotu paliwami opałowymi ustawa z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem 2.50 Europejskiego Funduszu Morskiego i Rybackiego ustawa z dnia 5 czerwca 1998 r. o samorządzie powiatowym 2.51 ustawa z dnia 25 czerwca 2010 r. o sporcie 2.52 ustawa z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym 2.53 ustawa z dnia 9 października 2015 r. o rewitalizacji 2.54 ustawa z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach 2.55 ustawa z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych 2.56 ustawa z dnia 31 lipca 2019 r. o wsparciu finansowym armatorów śródlądowych, Funduszu Żeglugi 2.57 Śródlądowej i Funduszu Rezerwowym ustawa z dnia 3 kwietnia 2020 r. o szczególnych rozwiązaniach wspierających realizację programów 2.58 operacyjnych ustawa z dnia 20 lutego 2015 r. o odnawialnych źródłach energii 2.60 ustawa z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania 2.61 depozytów oraz przymusowej restrukturyzacji ustawa z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej 2.62 ustawa z dnia 14 grudnia 2018 r. o promowaniu energii elektrycznej z wysokosprawnej kogeneracji 2.63 ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami 2.64 ustawa z dnia 16 lipca 2020 r. o udzielaniu pomocy publicznej w celu ratowania lub restrukturyzacji 2.65 przedsiębiorców ustawa z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach 2.66 wiatrowych ustawa z dnia 21 lutego 2019 r. o Agencji Badań Medycznych 2.67 ustawa z dnia 8 grudnia 2017 r. o rynku mocy 2.68 ustawa z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw 2.69 ustawa z dnia 5 sierpnia 2015 r. o pracy na morzu 2.70 ustawa z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa 2.71 ustawa z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności 2.72 publicznej ustawa z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich 2.73 w perspektywie finansowej 2021–2027 ustawa z dnia 18 listopada 2020 r. o doręczeniach elektronicznych 2.74 ustawa z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym 2.75 na terytorium tego państwa ustawa z dnia 2 września 2022 r. o szczególnym wsparciu podmiotów poszkodowanych w związku 2.76 z sytuacją ekologiczną na rzece Odrze ustawa z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych 2.77 ustawa z dnia 5 sierpnia 2015 r. o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim 2.78 oraz edukacji prawnej ustawa z dnia 7 lipca 2017 r. o wykonywaniu zadań z zakresu promocji polskiej gospodarki przez Polską 2.79 Agencję Inwestycji i Handlu Spółka Akcyjna ustawa z dnia 5 sierpnia 2022 r. o ekonomii społecznej 2.80 ustawa z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia 2.81 cen energii elektrycznej, gazu ziemnego i ciepła systemowego ustawa z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego 2.82 ustawa z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia 2.83 ustawa z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem 2.84 Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027 inne ustawy 9.99 Kol. 2b. Tytuł ustawy: to pole należy obowiązkowo uzupełnić jedynie w sytuacji, gdy pomoc została udzielona na podstawie ustawy nieoznaczonej kodami wskazującymi ustawę i został wybrany kod 9.99.
 

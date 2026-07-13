@@ -26,15 +26,16 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000318) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/318/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zaświadczeń wydawanych przez organy podatkowe Na podstawie art. 306j ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 29 grudnia 2015 r. w sprawie zaświadczeń wydawanych przez organy podatkowe (Dz. U. poz. 2355) wprowadza się następujące zmiany:
-1) § 5 otrzymuje brzmienie: „§ 5. Naczelnik urzędu skarbowego wykonujący zadania, o których mowa w art. 29 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947 i 2255 oraz z 2017 r. poz. 88 i 244), wydaje zaświadczenie na podstawie informacji uzyskanych od naczelników urzędów skarbowych właściwych miejscowo w sprawach poszczególnych zobowiązań podatkowych.”;
-2) § 7 i 8 otrzymują brzmienie: „§ 7. Zaświadczenie doręczane w formie dokumentu elektronicznego jest uwierzytelniane kwalifikowanym podpisem elektronicznym lub podpisem potwierdzonym profilem zaufanym ePUAP.
-§ 8. Zaświadczenia są wydawane przez organ podatkowy właściwy rzeczowo i miejscowo w sprawach poszczególnych zobowiązań podatkowych, chyba że odrębne przepisy stanowią inaczej.”;
-3) w § 9 ust. 3 otrzymuje brzmienie: „3. W przypadku, o którym mowa w § 5, informację o wydaniu zaświadczenia naczelnik urzędu skarbowego wpisuje w odrębnie prowadzonym rejestrze zaświadczeń.”;
-4) w § 10 ust. 4 otrzymuje brzmienie: „4. W przypadku, o którym mowa w § 5, przekazanie lub otrzymanie informacji w sprawie zaświadczenia naczelnik urzędu skarbowego wpisuje w odrębnie prowadzonej ewidencji.”;
-5) załączniki nr 3–11 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1–9 do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 1, 3 i 4, które wchodzą w życie z dniem 1 marca 2017 r.
-Minister Rozwoju i Finansów: wz. W. Janczyk Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 29 grudnia 2015 r. w sprawie zaświadczeń wydawanych przez organy podatkowe (Dz. U. poz. 2355) wprowadza się następujące zmiany:
+
+- **1)** § 5 otrzymuje brzmienie: „§ 5. Naczelnik urzędu skarbowego wykonujący zadania, o których mowa w art. 29 ust. 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947 i 2255 oraz z 2017 r. poz. 88 i 244), wydaje zaświadczenie na podstawie informacji uzyskanych od naczelników urzędów skarbowych właściwych miejscowo w sprawach poszczególnych zobowiązań podatkowych.”;
+- **2)** § 7 i 8 otrzymują brzmienie: „§ 7. Zaświadczenie doręczane w formie dokumentu elektronicznego jest uwierzytelniane kwalifikowanym podpisem elektronicznym lub podpisem potwierdzonym profilem zaufanym ePUAP. § 8. Zaświadczenia są wydawane przez organ podatkowy właściwy rzeczowo i miejscowo w sprawach poszczególnych zobowiązań podatkowych, chyba że odrębne przepisy stanowią inaczej.”;
+- **3)** w § 9 ust. 3 otrzymuje brzmienie: „3. W przypadku, o którym mowa w § 5, informację o wydaniu zaświadczenia naczelnik urzędu skarbowego wpisuje w odrębnie prowadzonym rejestrze zaświadczeń.”;
+- **4)** w § 10 ust. 4 otrzymuje brzmienie: „4. W przypadku, o którym mowa w § 5, przekazanie lub otrzymanie informacji w sprawie zaświadczenia naczelnik urzędu skarbowego wpisuje w odrębnie prowadzonej ewidencji.”;
+- **5)** załączniki nr 3–11 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1–9 do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 1, 3 i 4, które wchodzą w życie z dniem 1 marca 2017 r. Minister Rozwoju i Finansów: wz. W. Janczyk Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595).
 
 ## Załącznik nr 1 — ZAS-W ZAŚWIADCZENIE O NIEZALEGANIU W PODATKACH LUB STWIERDZAJĄCE STAN ZALEGŁOŚCI / A. DANE WNIOSKODAWCY A.1. DANE IDENTYFIKACYJNE A.2. ADRES SIEDZIBY / ADRES ZAMIESZKANIA I . Zaświadcza się, że nie ujawniono zaległości podatkowych / ujawniono zaległości podatkowe ** wnioskodawcy, wymienionego w części A, wg stanu na dzień wynoszą ogółem zł gr, słownie: z tego, z tytułu za okres w kwocie zł gr, z tego, z tytułu za okres w kwocie zł gr, z tego, z tytułu za okres w kwocie zł gr, z tego, z tytułu za okres w kwocie zł gr.
 

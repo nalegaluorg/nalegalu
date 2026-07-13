@@ -34,11 +34,7 @@ source: pdf
 - **3)** w art. 43 w ust. 1 wyrazy „ust. 2 pkt 1, 4 i 6” zastępuje się wyrazami „ust. 2 pkt 1 i 6”;
 - **4)** w art. 108 w ust. 1 po pkt 5c dodaje się pkt 5d w brzmieniu: „5d) świadczenie za długoletnią służbę;”;
 - **5)** w art. 117 ust. 1 otrzymuje brzmienie: „1. Policjantowi w służbie stałej, zwolnionemu ze służby na podstawie art. 41 ust. 1 pkt 1 albo który nabył prawo do zaopatrzenia emerytalnego z tytułu osiągnięcia 30 lat wysługi emerytalnej i został zwolniony ze służby na podstawie art. 41 ust. 2 pkt 6 albo ust. 3, wypłaca się co miesiąc przez okres roku po zwolnieniu ze służby świadczenie pieniężne w wysokości odpowiadającej uposażeniu zasadniczemu wraz z dodatkami o charakterze stałym, pobieranymi na ostatnio zajmowanym stanowisku służbowym.”;
-- **6)** po art. 120c dodaje się art. 120d w brzmieniu: „Art. 120d. 1. Policjantowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby.
-
-2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem policjanta ze służby, z jego śmiercią lub zaginięciem.
-
-3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 105 ust. 2 oraz art. 120a ust. 2.”.
+- **6)** po art. 120c dodaje się art. 120d w brzmieniu: „Art. 120d. 1. Policjantowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby. 2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem policjanta ze służby, z jego śmiercią lub zaginięciem. 3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 105 ust. 2 oraz art. 120a ust. 2.”.
 
 **Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -46,12 +42,7 @@ source: pdf
 - **2)** w art. 45 w ust. 2 uchyla się pkt 4;
 - **3)** w art. 47 w ust. 1 wyrazy „ust. 2 pkt 1, 4, 6 i 7” zastępuje się wyrazami „ust. 2 pkt 1, 6 i 7”;
 - **4)** w art. 112 w ust. 1 po pkt 5c dodaje się pkt 5d w brzmieniu: „5d) świadczenie za długoletnią służbę;”;
-- **5)** po art. 117e dodaje się art. 117f w brzmieniu: „Art. 117f. 1. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby.
-
-2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem.
-
-3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 109 ust. 1 i 2 oraz art. 117d ust. 2.”;
-
+- **5)** po art. 117e dodaje się art. 117f w brzmieniu: „Art. 117f. 1. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby. 2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. 3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 109 ust. 1 i 2 oraz art. 117d ust. 2.”;
 - **6)** w art. 118 w ust. 1 we wprowadzeniu do wyliczenia wyrazy „ust. 2 pkt 1, 3–8 i 12” zastępuje się wyrazami „ust. 2 pkt 1, 3, 5–8 i 12”;
 - **7)** w art. 121 ust. 1 otrzymuje brzmienie: „1. Funkcjonariuszowi w służbie stałej, zwolnionemu ze służby na podstawie art. 45 ust. 1 pkt 1 albo który nabył prawo do zaopatrzenia emerytalnego z tytułu osiągnięcia 30 lat wysługi emerytalnej i został zwolniony ze służby na podstawie art. 45 ust. 2 pkt 7 albo ust. 3, wypłaca się co miesiąc przez okres roku po zwolnieniu ze służby świadczenie pieniężne w wysokości odpowiadającej uposażeniu zasadniczemu wraz z dodatkami o charakterze stałym, pobieranymi na ostatnio zajmowanym stanowisku służbowym.”.
 
@@ -62,12 +53,7 @@ source: pdf
 - **3)** w art. 43 w ust. 3 uchyla się pkt 3;
 - **4)** w art. 45 w ust. 1 wyrazy „ust. 3 pkt 3 i 4a” zastępuje się wyrazami „ust. 3 pkt 4a”;
 - **5)** w art. 93 w ust. 1 po pkt 5b dodaje się pkt 5c w brzmieniu: „5c) świadczenie za długoletnią służbę;”;
-- **6)** po art. 97e dodaje się art. 97f w brzmieniu: „Art. 97f. 1. Strażakowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby.
-
-2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem strażaka ze służby, z jego śmiercią lub zaginięciem.
-
-3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 90 ust. 1 oraz art. 97e ust. 2.”;
-
+- **6)** po art. 97e dodaje się art. 97f w brzmieniu: „Art. 97f. 1. Strażakowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby. 2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem strażaka ze służby, z jego śmiercią lub zaginięciem. 3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 90 ust. 1 oraz art. 97e ust. 2.”;
 - **7)** w art. 98 w ust. 1 wyrazy „ust. 3 pkt 3–5” zastępuje się wyrazami „ust. 3 pkt 4–5”;
 - **8)** w art. 101 ust. 1 otrzymuje brzmienie: „1. Strażakowi mianowanemu na stałe, zwolnionemu ze służby na podstawie art. 43 ust. 2 pkt 1 albo który nabył prawo do zaopatrzenia emerytalnego z tytułu osiągnięcia 30 lat wysługi emerytalnej i został zwolniony ze służby na podstawie art. 43 ust. 2 pkt 5 albo ust. 3 pkt 4, wypłaca się co miesiąc przez okres roku po zwolnieniu ze służby świadczenie pieniężne w wysokości odpowiadającej uposażeniu zasadniczemu wraz z dodatkami o charakterze stałym, pobieranymi na ostatnio zajmowanym stanowisku służbowym.”.
 
@@ -75,334 +61,58 @@ source: pdf
 
 **Art. 5.** W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2022 r. poz. 1626 i 2476) wprowadza się następujące zmiany:
 
-- **1)** w art. 5 po ust. 1b dodaje się ust. 1c w brzmieniu: „1c. Świadczenie za długoletnią służbę, o którym mowa w:
-- **1)** art. 120d ust. 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240, 289 i 347),
-- **2)** art. 117f ust. 1 i 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, z późn. zm. ),
-- **3)** art. 97f ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969 oraz z 2023 r. poz. 240 i 347),
-- **4)** art. 125b ust. 1 i 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557, 1488 i 2185 oraz z 2023 r. poz. 240 i 347),
-- **5)** art. 99c ust. 1 i 2 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2022 r. poz. 1900 oraz z 2023 r. poz. 240 i 347),
-- **6)** art. 83c ust. 1 i 2 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2022 r. poz. 1328 oraz z 2023 r. poz. 347),
-- **7)** art. 208g ust. 1 i 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2022 r. poz. 2470 oraz z 2023 r. poz. 240 i 347),
-- **8)** art. 226a ust. 1 i 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm. ),
-- **9)** art. 172d ust. 1 i 2 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z 2022 r. poz. 2600 oraz z 2023 r. poz. 240 i 347),
-- **10)** art. 81b ust. 1 i 2 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2022 r. poz. 1727 oraz z 2023 r. poz. 240 i 347) – wlicza się do podstawy wymiaru emerytury lub renty inwalidzkiej po osiągnięciu 32 lat wysługi emerytalnej.”;
+- **1)** w art. 5 po ust. 1b dodaje się ust. 1c w brzmieniu: „1c. Świadczenie za długoletnią służbę, o którym mowa w: 1) art. 120d ust. 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z 2022 r. poz. 2600 oraz z 2023 r. poz. 185, 240, 289 i 347), 2) art. 117f ust. 1 i 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061, z późn. zm. ), 3) art. 97f ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2022 r. poz. 1969 oraz z 2023 r. poz. 240 i 347), 4) art. 125b ust. 1 i 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557, 1488 i 2185 oraz z 2023 r. poz. 240 i 347), 5) art. 99c ust. 1 i 2 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2022 r. poz. 1900 oraz z 2023 r. poz. 240 i 347), 6) art. 83c ust. 1 i 2 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2022 r. poz. 1328 oraz z 2023 r. poz. 347), 7) art. 208g ust. 1 i 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2022 r. poz. 2470 oraz z 2023 r. poz. 240 i 347), 8) art. 226a ust. 1 i 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm. ), 9) art. 172d ust. 1 i 2 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z 2022 r. poz. 2600 oraz z 2023 r. poz. 240 i 347), 10) art. 81b ust. 1 i 2 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2022 r. poz. 1727 oraz z 2023 r. poz. 240 i 347) – wlicza się do podstawy wymiaru emerytury lub renty inwalidzkiej po osiągnięciu 32 lat wysługi emerytalnej.”;
 - **2)** w art. 18f:
-    - **a)** po ust. 2d dodaje się ust. 2e w brzmieniu: „2e. Świadczenie za długoletnią służbę, o którym mowa w:
-
-- **1)** art. 120d ust. 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji,
-- **2)** art. 117f ust. 1 i 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej,
-- **3)** art. 97f ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej,
-- **4)** art. 125b ust. 1 i 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu,
-- **5)** art. 99c ust. 1 i 2 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym,
-- **6)** art. 83c ust. 1 i 2 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego,
-- **7)** art. 208g ust. 1 i 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej,
-- **8)** art. 226a ust. 1 i 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej,
-- **9)** art. 172d ust. 1 i 2 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa,
-- **10)** art. 81b ust. 1 i 2 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej – wlicza się do podstawy wymiaru emerytury lub renty inwalidzkiej po osiągnięciu 32 lat wysługi emerytalnej.”,
+    - **a)** po ust. 2d dodaje się ust. 2e w brzmieniu: „2e. Świadczenie za długoletnią służbę, o którym mowa w: 1) art. 120d ust. 1 i 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, 2) art. 117f ust. 1 i 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej, 3) art. 97f ust. 1 i 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, 4) art. 125b ust. 1 i 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, 5) art. 99c ust. 1 i 2 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, 6) art. 83c ust. 1 i 2 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego, 7) art. 208g ust. 1 i 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej, 8) art. 226a ust. 1 i 2 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, 9) art. 172d ust. 1 i 2 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, 10) art. 81b ust. 1 i 2 ustawy z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej – wlicza się do podstawy wymiaru emerytury lub renty inwalidzkiej po osiągnięciu 32 lat wysługi emerytalnej.”,
     - **b)** w ust. 3 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) do kwoty obliczonej zgodnie z pkt 4 dodaje się świadczenie za długoletnią służbę, o którym mowa w ust. 2e, w wysokości przysługującej w dniu zwolnienia ze służby.”.
 
 **Art. 6.** W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557, 1488 i 2185 oraz z 2023 r. poz. 240) wprowadza się następujące zmiany:
 
-- **1)** w art. 123 w ust. 1 po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „2a) świadczenie motywacyjne;
-- **2b)** świadczenie za długoletnią służbę;”;
-- **2)** po art. 125 dodaje się art. 125a i art. 125b w brzmieniu: „Art. 125a. 1. Funkcjonariuszowi przyznaje się świadczenie motywacyjne po osiągnięciu:
-- **1)** 25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy – w wysokości 1500 zł miesięcznie albo
-- **2)** 28 lat i 6 miesięcy służby – w wysokości 2500 zł miesięcznie.
-
-2. Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
-
-- **1)** służby w Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu;
-- **2)** służby w Policji, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej;
-- **3)** traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2022 r. poz. 1626 i 2476 oraz z 2023 r. poz. 347).
-
-3. Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego Szefowie Agencji, każdy w zakresie swojej właściwości, wydają nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza stażu służby, o którym mowa w ust. 1 pkt 1 lub 2.
-
-4. Przed wydaniem decyzji o przyznaniu świadczenia motywacyjnego funkcjonariusz podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 53, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące.
-
-5. Prezes Rady Ministrów lub upoważniony przez niego minister powołany w celu koordynowania działalności służb specjalnych przyznaje świadczenie motywacyjne Szefowi ABW oraz Szefowi AW.
-
-6. Szef ABW oraz Szef AW przyznają świadczenie motywacyjne swoim zastępcom.
-
-7. Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi:
-
-- **1)** który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 57 ust. 2 pkt 2 albo 3 albo art. 60 ust. 1 pkt 2 albo ust. 2 pkt 1 – przez okres jednego roku od dnia wydania ostatecznej opinii służbowej;
-- **2)** przeciwko któremu wszczęto postępowanie karne w sprawie o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne – do czasu prawomocnego zakończenia tego postępowania;
-- **3)** ukaranemu karą dyscyplinarną – do czasu jej zatarcia;
-- **4)** skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone – przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
-
-8. Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 7, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia.
-
-9. Od decyzji o odmowie przyznania świadczenia motywacyjnego oraz od decyzji stwierdzającej ustanie prawa do wypłaty świadczenia motywacyjnego wydanej przez Prezesa Rady Ministrów, ministra powołanego w celu koordynowania działalności służb specjalnych, Szefa ABW lub Szefa AW funkcjonariuszowi przysługuje wniosek o ponowne rozpatrzenie sprawy w terminie 7 dni od dnia doręczenia decyzji.
-
-10. Świadczenia motywacyjnego nie wypłaca się za okres:
-
-- **1)** korzystania z urlopu bezpłatnego,
-- **2)** przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz nie zachował prawa do uposażenia, wymienionych w art. 141 ust. 1–3,
-- **3)** zawieszenia w czynnościach służbowych albo tymczasowego aresztowania,
-- **4)** zwolnienia od zajęć służbowych, o którym mowa w art. 136b ust. 2 pkt 1 i 3–5,
-- **5)** innej nieobecności trwającej co najmniej jeden miesiąc – proporcjonalnie do tego okresu.
-
-11. Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego.
-
-12. Świadczenie motywacyjne płatne jest z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje.
-
-13. Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 8, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się.
-
-**Art. 125b.**
-
-1. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby.
-
-2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, a prawo do niego wygasa z ostatnim dniem miesiąca, w którym nastąpiło zwolnienie funkcjonariusza ze służby lub zaistniały inne okoliczności uzasadniające wygaśnięcie tego prawa.
-
-3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 120 oraz art. 125a ust. 2.”.
+- **1)** w art. 123 w ust. 1 po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „2a) świadczenie motywacyjne; 2b) świadczenie za długoletnią służbę;”;
+- **2)** po art. 125 dodaje się art. 125a i art. 125b w brzmieniu: „Art. 125a. 1. Funkcjonariuszowi przyznaje się świadczenie motywacyjne po osiągnięciu: 1) 25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy – w wysokości 1500 zł miesięcznie albo 2) 28 lat i 6 miesięcy służby – w wysokości 2500 zł miesięcznie. 2. Do stażu służby, o którym mowa w ust. 1, zalicza się okresy: 1) służby w Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu; 2) służby w Policji, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej; 3) traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2022 r. poz. 1626 i 2476 oraz z 2023 r. poz. 347). 3. Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego Szefowie Agencji, każdy w zakresie swojej właściwości, wydają nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza stażu służby, o którym mowa w ust. 1 pkt 1 lub 2. 4. Przed wydaniem decyzji o przyznaniu świadczenia motywacyjnego funkcjonariusz podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 53, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące. 5. Prezes Rady Ministrów lub upoważniony przez niego minister powołany w celu koordynowania działalności służb specjalnych przyznaje świadczenie motywacyjne Szefowi ABW oraz Szefowi AW. 6. Szef ABW oraz Szef AW przyznają świadczenie motywacyjne swoim zastępcom. 7. Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi: 1) który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 57 ust. 2 pkt 2 albo 3 albo art. 60 ust. 1 pkt 2 albo ust. 2 pkt 1 – przez okres jednego roku od dnia wydania ostatecznej opinii służbowej; 2) przeciwko któremu wszczęto postępowanie karne w sprawie o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne – do czasu prawomocnego zakończenia tego postępowania; 3) ukaranemu karą dyscyplinarną – do czasu jej zatarcia; 4) skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone – przez okres jednego roku od dnia uprawomocnienia się orzeczenia. 8. Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 7, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia. 9. Od decyzji o odmowie przyznania świadczenia motywacyjnego oraz od decyzji stwierdzającej ustanie prawa do wypłaty świadczenia motywacyjnego wydanej przez Prezesa Rady Ministrów, ministra powołanego w celu koordynowania działalności służb specjalnych, Szefa ABW lub Szefa AW funkcjonariuszowi przysługuje wniosek o ponowne rozpatrzenie sprawy w terminie 7 dni od dnia doręczenia decyzji. 10. Świadczenia motywacyjnego nie wypłaca się za okres: 1) korzystania z urlopu bezpłatnego, 2) przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz nie zachował prawa do uposażenia, wymienionych w art. 141 ust. 1–3, 3) zawieszenia w czynnościach służbowych albo tymczasowego aresztowania, 4) zwolnienia od zajęć służbowych, o którym mowa w art. 136b ust. 2 pkt 1 i 3–5, 5) innej nieobecności trwającej co najmniej jeden miesiąc – proporcjonalnie do tego okresu. 11. Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego. 12. Świadczenie motywacyjne płatne jest z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje. 13. Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 8, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się. Art. 125b. 1. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby. 2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, a prawo do niego wygasa z ostatnim dniem miesiąca, w którym nastąpiło zwolnienie funkcjonariusza ze służby lub zaistniały inne okoliczności uzasadniające wygaśnięcie tego prawa. 3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 120 oraz art. 125a ust. 2.”.
 
 **Art. 7.** W ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2022 r. poz. 1900 oraz z 2023 r. poz. 240) wprowadza się następujące zmiany:
 
-- **1)** w art. 92 po ust. 1a dodaje się ust. 1b i 1c w brzmieniu: „1b. Funkcjonariuszowi przysługuje świadczenie motywacyjne.
-
-1c. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę.”;
-
-- **2)** po art. 99a dodaje się art. 99b i art. 99c w brzmieniu: „Art. 99b. 1. Funkcjonariuszowi przyznaje się świadczenie motywacyjne po osiągnięciu:
-- **1)** 25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy – w wysokości 1500 zł miesięcznie albo
-- **2)** 28 lat i 6 miesięcy służby – w wysokości 2500 zł miesięcznie.
-
-2. Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
-
-- **1)** służby w Centralnym Biurze Antykorupcyjnym;
-- **2)** służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Straży Granicznej, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej;
-- **3)** traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2022 r. poz. 1626 i 2476 oraz z 2023 r. poz. 347).
-
-3. Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego Szef CBA wydaje nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza stażu służby, o którym mowa w ust. 1 pkt 1 lub 2.
-
-4. Przed wydaniem decyzji o przyznaniu świadczenia motywacyjnego funkcjonariusz podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 57, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące.
-
-5. Prezes Rady Ministrów lub upoważniony przez niego minister powołany w celu koordynowania działalności służb specjalnych przyznaje świadczenie motywacyjne Szefowi CBA.
-
-6. Szef CBA przyznaje świadczenie motywacyjne swoim zastępcom.
-
-7. Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi:
-
-- **1)** który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 61 ust. 2 pkt 2 albo 3 albo art. 64 ust. 1 pkt 2 albo ust. 2 pkt 1 – przez okres jednego roku od dnia wydania ostatecznej opinii służbowej;
-- **2)** przeciwko któremu wszczęto postępowanie karne w sprawie o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne – do czasu prawomocnego zakończenia tego postępowania;
-- **3)** ukaranemu karą dyscyplinarną – do czasu jej zatarcia;
-- **4)** skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone – przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
-
-8. Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 7, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia.
-
-9. Od decyzji o odmowie przyznania świadczenia motywacyjnego oraz od decyzji stwierdzającej ustanie prawa do wypłaty świadczenia motywacyjnego wydanej przez Prezesa Rady Ministrów, ministra powołanego w celu koordynowania działalności służb specjalnych lub Szefa CBA funkcjonariuszowi przysługuje wniosek o ponowne rozpatrzenie sprawy w terminie 7 dni od dnia doręczenia decyzji.
-
-10. Świadczenia motywacyjnego nie wypłaca się za okres:
-
-- **1)** korzystania z urlopu bezpłatnego,
-- **2)** przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz nie zachował prawa do uposażenia, wymienionych w art. 105 ust. 1–3,
-- **3)** zawieszenia w czynnościach służbowych albo tymczasowego aresztowania,
-- **4)** zwolnienia od zajęć służbowych, o którym mowa w art. 102b ust. 2 pkt 1 i 3–5,
-- **5)** innej nieobecności trwającej co najmniej jeden miesiąc – proporcjonalnie do tego okresu.
-
-11. Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego.
-
-12. Świadczenie motywacyjne płatne jest z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje.
-
-13. Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 8, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się.
-
-**Art. 99c.**
-
-1. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby.
-
-2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem.
-
-3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 89 ust. 7 oraz art. 99b ust. 2.”.
+- **1)** w art. 92 po ust. 1a dodaje się ust. 1b i 1c w brzmieniu: „1b. Funkcjonariuszowi przysługuje świadczenie motywacyjne. 1c. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę.”;
+- **2)** po art. 99a dodaje się art. 99b i art. 99c w brzmieniu: „Art. 99b. 1. Funkcjonariuszowi przyznaje się świadczenie motywacyjne po osiągnięciu: 1) 25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy – w wysokości 1500 zł miesięcznie albo 2) 28 lat i 6 miesięcy służby – w wysokości 2500 zł miesięcznie. 2. Do stażu służby, o którym mowa w ust. 1, zalicza się okresy: 1) służby w Centralnym Biurze Antykorupcyjnym; 2) służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Straży Granicznej, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej; 3) traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2022 r. poz. 1626 i 2476 oraz z 2023 r. poz. 347). 3. Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego Szef CBA wydaje nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza stażu służby, o którym mowa w ust. 1 pkt 1 lub 2. 4. Przed wydaniem decyzji o przyznaniu świadczenia motywacyjnego funkcjonariusz podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 57, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące. 5. Prezes Rady Ministrów lub upoważniony przez niego minister powołany w celu koordynowania działalności służb specjalnych przyznaje świadczenie motywacyjne Szefowi CBA. 6. Szef CBA przyznaje świadczenie motywacyjne swoim zastępcom. 7. Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi: 1) który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 61 ust. 2 pkt 2 albo 3 albo art. 64 ust. 1 pkt 2 albo ust. 2 pkt 1 – przez okres jednego roku od dnia wydania ostatecznej opinii służbowej; 2) przeciwko któremu wszczęto postępowanie karne w sprawie o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne – do czasu prawomocnego zakończenia tego postępowania; 3) ukaranemu karą dyscyplinarną – do czasu jej zatarcia; 4) skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone – przez okres jednego roku od dnia uprawomocnienia się orzeczenia. 8. Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 7, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia. 9. Od decyzji o odmowie przyznania świadczenia motywacyjnego oraz od decyzji stwierdzającej ustanie prawa do wypłaty świadczenia motywacyjnego wydanej przez Prezesa Rady Ministrów, ministra powołanego w celu koordynowania działalności służb specjalnych lub Szefa CBA funkcjonariuszowi przysługuje wniosek o ponowne rozpatrzenie sprawy w terminie 7 dni od dnia doręczenia decyzji. 10. Świadczenia motywacyjnego nie wypłaca się za okres: 1) korzystania z urlopu bezpłatnego, 2) przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz nie zachował prawa do uposażenia, wymienionych w art. 105 ust. 1–3, 3) zawieszenia w czynnościach służbowych albo tymczasowego aresztowania, 4) zwolnienia od zajęć służbowych, o którym mowa w art. 102b ust. 2 pkt 1 i 3–5, 5) innej nieobecności trwającej co najmniej jeden miesiąc – proporcjonalnie do tego okresu. 11. Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego. 12. Świadczenie motywacyjne płatne jest z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje. 13. Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 8, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się. Art. 99c. 1. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby. 2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. 3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 89 ust. 7 oraz art. 99b ust. 2.”.
 
 **Art. 8.** W ustawie z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2022 r. poz. 1328) wprowadza się następujące zmiany:
 
-- **1)** w art. 83 po ust. 1a dodaje się ust. 1b i 1c w brzmieniu: „1b. Funkcjonariuszowi przysługuje świadczenie motywacyjne.
-
-1c. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę.”;
-
-- **2)** po art. 83a dodaje się art. 83b i art. 83c w brzmieniu: „Art. 83b. 1. Funkcjonariuszowi przyznaje się świadczenie motywacyjne po osiągnięciu:
-- **1)** 25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy – w wysokości 1500 zł miesięcznie albo
-- **2)** 28 lat i 6 miesięcy służby – w wysokości 2500 zł miesięcznie.
-
-2. Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
-
-- **1)** służby w Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego;
-- **2)** służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej;
-- **3)** traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2022 r. poz. 1626 i 2476 oraz z 2023 r. poz. 347).
-
-3. Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego Szef SKW i Szef SWW, każdy w zakresie swojej właściwości, wydają nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza stażu służby, o którym mowa w ust. 1 pkt 1 lub 2.
-
-4. Przed wydaniem decyzji o przyznaniu świadczenia motywacyjnego funkcjonariusz podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 12, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące.
-
-5. Minister Obrony Narodowej przyznaje świadczenie motywacyjne Szefowi SKW i jego zastępcom oraz Szefowi SWW i jego zastępcom.
-
-6. Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi:
-
-- **1)** który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 16 ust. 2 pkt 2 albo 3 albo art. 19 ust. 1 pkt 2 albo ust. 2 pkt 1 – przez okres jednego roku od dnia wydania ostatecznej opinii służbowej;
-- **2)** przeciwko któremu wszczęto postępowanie karne w sprawie o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne – do czasu prawomocnego zakończenia tego postępowania;
-- **3)** ukaranemu karą dyscyplinarną – do czasu jej zatarcia;
-- **4)** skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone – przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
-
-7. Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 6, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia.
-
-8. Od decyzji o odmowie przyznania świadczenia motywacyjnego oraz od decyzji stwierdzającej ustanie prawa do wypłaty świadczenia motywacyjnego wydanej przez Ministra Obrony Narodowej, Szefa SKW lub Szefa SWW funkcjonariuszowi przysługuje wniosek o ponowne rozpatrzenie sprawy w terminie 7 dni od dnia doręczenia decyzji.
-
-9. Świadczenia motywacyjnego nie wypłaca się za okres:
-
-- **1)** korzystania z urlopu bezpłatnego,
-- **2)** przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz nie zachował prawa do uposażenia, wymienionych w art. 101 ust. 1–3,
-- **3)** zawieszenia w czynnościach służbowych albo tymczasowego aresztowania,
-- **4)** zwolnienia od zajęć służbowych, o którym mowa w art. 96b ust. 2 pkt 1 i 3–5,
-- **5)** innej nieobecności trwającej co najmniej jeden miesiąc – proporcjonalnie do tego okresu.
-
-10. Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego.
-
-11. Świadczenie motywacyjne płatne jest z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje.
-
-12. Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 7, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się.
-
-**Art. 83c.**
-
-1. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby.
-
-2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, a prawo do niego wygasa z ostatnim dniem miesiąca, w którym nastąpiło zwolnienie funkcjonariusza ze służby lub zaistniały inne okoliczności uzasadniające wygaśnięcie tego prawa.
-
-3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 80 oraz art. 83b ust. 2.”.
+- **1)** w art. 83 po ust. 1a dodaje się ust. 1b i 1c w brzmieniu: „1b. Funkcjonariuszowi przysługuje świadczenie motywacyjne. 1c. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę.”;
+- **2)** po art. 83a dodaje się art. 83b i art. 83c w brzmieniu: „Art. 83b. 1. Funkcjonariuszowi przyznaje się świadczenie motywacyjne po osiągnięciu: 1) 25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy – w wysokości 1500 zł miesięcznie albo 2) 28 lat i 6 miesięcy służby – w wysokości 2500 zł miesięcznie. 2. Do stażu służby, o którym mowa w ust. 1, zalicza się okresy: 1) służby w Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego; 2) służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej; 3) traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2022 r. poz. 1626 i 2476 oraz z 2023 r. poz. 347). 3. Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego Szef SKW i Szef SWW, każdy w zakresie swojej właściwości, wydają nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza stażu służby, o którym mowa w ust. 1 pkt 1 lub 2. 4. Przed wydaniem decyzji o przyznaniu świadczenia motywacyjnego funkcjonariusz podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 12, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące. 5. Minister Obrony Narodowej przyznaje świadczenie motywacyjne Szefowi SKW i jego zastępcom oraz Szefowi SWW i jego zastępcom. 6. Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi: 1) który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 16 ust. 2 pkt 2 albo 3 albo art. 19 ust. 1 pkt 2 albo ust. 2 pkt 1 – przez okres jednego roku od dnia wydania ostatecznej opinii służbowej; 2) przeciwko któremu wszczęto postępowanie karne w sprawie o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne – do czasu prawomocnego zakończenia tego postępowania; 3) ukaranemu karą dyscyplinarną – do czasu jej zatarcia; 4) skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone – przez okres jednego roku od dnia uprawomocnienia się orzeczenia. 7. Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 6, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia. 8. Od decyzji o odmowie przyznania świadczenia motywacyjnego oraz od decyzji stwierdzającej ustanie prawa do wypłaty świadczenia motywacyjnego wydanej przez Ministra Obrony Narodowej, Szefa SKW lub Szefa SWW funkcjonariuszowi przysługuje wniosek o ponowne rozpatrzenie sprawy w terminie 7 dni od dnia doręczenia decyzji. 9. Świadczenia motywacyjnego nie wypłaca się za okres: 1) korzystania z urlopu bezpłatnego, 2) przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz nie zachował prawa do uposażenia, wymienionych w art. 101 ust. 1–3, 3) zawieszenia w czynnościach służbowych albo tymczasowego aresztowania, 4) zwolnienia od zajęć służbowych, o którym mowa w art. 96b ust. 2 pkt 1 i 3–5, 5) innej nieobecności trwającej co najmniej jeden miesiąc – proporcjonalnie do tego okresu. 10. Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego. 11. Świadczenie motywacyjne płatne jest z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje. 12. Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 7, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się. Art. 83c. 1. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby. 2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, a prawo do niego wygasa z ostatnim dniem miesiąca, w którym nastąpiło zwolnienie funkcjonariusza ze służby lub zaistniały inne okoliczności uzasadniające wygaśnięcie tego prawa. 3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 80 oraz art. 83b ust. 2.”.
 
 **Art. 9.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2022 r. poz. 2470 oraz z 2023 r. poz. 240) wprowadza się następujące zmiany:
 
 - **1)** w art. 193 w ust. 1 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) świadczenie za długoletnią służbę.”;
-- **2)** po art. 208f dodaje się art. 208g w brzmieniu: „Art. 208g. 1. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby.
+- **2)** po art. 208f dodaje się art. 208g w brzmieniu: „Art. 208g. 1. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby. 2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. 3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 62 oraz art. 208f ust. 2.”.
 
-2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem.
-
-3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 62 oraz art. 208f ust. 2.”.
-
-**Art. 10.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm. ) po art. 226 dodaje się art. 226a i art. 226b w brzmieniu: „Art. 226a. 1. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby. 2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. 3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 227 oraz art. 240 ust. 3 i 4. Art 226b. 1. Funkcjonariuszowi przyznaje się świadczenie motywacyjne po osiągnięciu:
-
-- **1)** 25 lat służby w Służbie Celno-Skarbowej, ale nie więcej niż 28 lat i 6 miesięcy – w wysokości 1500 zł miesięcznie albo
-- **2)** 28 lat i 6 miesięcy służby w Służbie Celno-Skarbowej – w wysokości 2500 zł miesięcznie.
-
-2. Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
-
-- **1)** służby w Służbie Celno-Skarbowej i służby w Służbie Celnej;
-- **2)** służby w Policji, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Służbie Więziennej;
-- **3)** traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin.
-
-3. Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego kierownik jednostki organizacyjnej wydaje nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza stażu służby, o którym mowa w ust. 1 pkt 1 lub 2.
-
-4. Decyzję, o której mowa w ust. 3, w przypadku świadczenia motywacyjnego przyznawanego Szefowi Krajowej Administracji Skarbowej oraz Zastępcy Szefa Krajowej Administracji Skarbowej wydaje minister właściwy do spraw finansów publicznych.
-
-5. Przed wydaniem decyzji o przyznaniu świadczenia motywacyjnego funkcjonariusz podlega ocenie okresowej, o której mowa w art. 206, a w przypadku funkcjonariusza w służbie przygotowawczej opinii, o której mowa w art. 156, jeżeli od dnia sporządzenia ostatniej tej oceny okresowej lub tej opinii upłynęły co najmniej 3 miesiące. Przepisu nie stosuje się w przypadku świadczenia motywacyjnego przyznawanego Szefowi Krajowej Administracji Skarbowej oraz Zastępcy Szefa Krajowej Administracji Skarbowej.
-
-6. Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi:
-
-- **1)** w przypadkach, o których mowa w art. 173 ust. 1 pkt 1 albo art. 180 ust. 1 pkt 1 albo pkt 3 albo art. 179 ust. 1 pkt 4;
-- **2)** przeciwko któremu wszczęto postępowanie karne w sprawie o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne – do czasu prawomocnego zakończenia tego postępowania;
-- **3)** ukaranemu karą dyscyplinarną – do czasu jej zatarcia;
-- **4)** skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone – przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
-
-7. Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 6, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia.
-
-8. Od decyzji o odmowie przyznania świadczenia motywacyjnego oraz od decyzji stwierdzającej ustanie prawa do wypłaty świadczenia motywacyjnego funkcjonariuszowi przysługuje odwołanie w terminie 7 dni od dnia doręczenia decyzji. W przypadku decyzji wydanej przez ministra właściwego do spraw finansów publicznych albo Szefa Krajowej Administracji Skarbowej przysługuje, w takim samym terminie, wniosek o ponowne rozpatrzenie sprawy.
-
-9. Świadczenia motywacyjnego nie wypłaca się za okres:
-
-- **1)** korzystania z urlopu bezpłatnego,
-- **2)** przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz nie zachował prawa do uposażenia, wymienionych w art. 229,
-- **3)** zawieszenia w czynnościach służbowych albo tymczasowego aresztowania,
-- **4)** zwolnienia od zajęć służbowych, o którym mowa w art. 233 ust. 1 pkt 1–4,
-- **5)** innej nieobecności trwającej co najmniej jeden miesiąc – proporcjonalnie do tego okresu.
-
-10. Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego.
-
-11. Świadczenie motywacyjne jest płatne z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje.
-
-12. Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 7, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się.”.
+**Art. 10.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, z późn. zm. ) po art. 226 dodaje się art. 226a i art. 226b w brzmieniu: „Art. 226a. 1. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby. 2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. 3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 227 oraz art. 240 ust. 3 i 4. Art 226b. 1. Funkcjonariuszowi przyznaje się świadczenie motywacyjne po osiągnięciu: 1) 25 lat służby w Służbie Celno-Skarbowej, ale nie więcej niż 28 lat i 6 miesięcy – w wysokości 1500 zł miesięcznie albo 2) 28 lat i 6 miesięcy służby w Służbie Celno-Skarbowej – w wysokości 2500 zł miesięcznie. 2. Do stażu służby, o którym mowa w ust. 1, zalicza się okresy: 1) służby w Służbie Celno-Skarbowej i służby w Służbie Celnej; 2) służby w Policji, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Służbie Więziennej; 3) traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin. 3. Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego kierownik jednostki organizacyjnej wydaje nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza stażu służby, o którym mowa w ust. 1 pkt 1 lub 2. 4. Decyzję, o której mowa w ust. 3, w przypadku świadczenia motywacyjnego przyznawanego Szefowi Krajowej Administracji Skarbowej oraz Zastępcy Szefa Krajowej Administracji Skarbowej wydaje minister właściwy do spraw finansów publicznych. 5. Przed wydaniem decyzji o przyznaniu świadczenia motywacyjnego funkcjonariusz podlega ocenie okresowej, o której mowa w art. 206, a w przypadku funkcjonariusza w służbie przygotowawczej opinii, o której mowa w art. 156, jeżeli od dnia sporządzenia ostatniej tej oceny okresowej lub tej opinii upłynęły co najmniej 3 miesiące. Przepisu nie stosuje się w przypadku świadczenia motywacyjnego przyznawanego Szefowi Krajowej Administracji Skarbowej oraz Zastępcy Szefa Krajowej Administracji Skarbowej. 6. Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi: 1) w przypadkach, o których mowa w art. 173 ust. 1 pkt 1 albo art. 180 ust. 1 pkt 1 albo pkt 3 albo art. 179 ust. 1 pkt 4; 2) przeciwko któremu wszczęto postępowanie karne w sprawie o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne – do czasu prawomocnego zakończenia tego postępowania; 3) ukaranemu karą dyscyplinarną – do czasu jej zatarcia; 4) skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone – przez okres jednego roku od dnia uprawomocnienia się orzeczenia. 7. Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 6, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia. 8. Od decyzji o odmowie przyznania świadczenia motywacyjnego oraz od decyzji stwierdzającej ustanie prawa do wypłaty świadczenia motywacyjnego funkcjonariuszowi przysługuje odwołanie w terminie 7 dni od dnia doręczenia decyzji. W przypadku decyzji wydanej przez ministra właściwego do spraw finansów publicznych albo Szefa Krajowej Administracji Skarbowej przysługuje, w takim samym terminie, wniosek o ponowne rozpatrzenie sprawy. 9. Świadczenia motywacyjnego nie wypłaca się za okres: 1) korzystania z urlopu bezpłatnego, 2) przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz nie zachował prawa do uposażenia, wymienionych w art. 229, 3) zawieszenia w czynnościach służbowych albo tymczasowego aresztowania, 4) zwolnienia od zajęć służbowych, o którym mowa w art. 233 ust. 1 pkt 1–4, 5) innej nieobecności trwającej co najmniej jeden miesiąc – proporcjonalnie do tego okresu. 10. Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego. 11. Świadczenie motywacyjne jest płatne z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje. 12. Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 7, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się.”.
 
 **Art. 11.** W ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z 2022 r. poz. 2600 oraz z 2023 r. poz. 240) wprowadza się następujące zmiany:
 
 - **1)** w art. 162 ust. 5 otrzymuje brzmienie: „5. Łączna wysokość dodatku specjalnego oraz dodatku uzasadnionego szczególnymi kwalifikacjami, warunkami lub miejscem pełnienia służby nie może przekroczyć 80% uposażenia zasadniczego.”;
 - **2)** w art. 172 w ust. 1 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „10) świadczenie za długoletnią służbę.”;
-- **3)** po art. 172c dodaje się art. 172d w brzmieniu: „Art. 172d. 1. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby.
-
-2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem.
-
-3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 164 oraz art. 172b ust. 2.”.
+- **3)** po art. 172c dodaje się art. 172d w brzmieniu: „Art. 172d. 1. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby. 2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. 3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 164 oraz art. 172b ust. 2.”.
 
 **Art. 12.** W ustawie z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. z 2022 r. poz. 1727 oraz z 2023 r. poz. 240) wprowadza się następujące zmiany:
 
 - **1)** w art. 67:
     - **a)** ust. 6 otrzymuje brzmienie: „6. Wysokość dodatku uzasadnionego szczególnymi kwalifikacjami lub warunkami pełnienia służby nie może przekroczyć 30% uposażenia zasadniczego.”,
-    - **b)** w ust. 15 po pkt 5a dodaje się pkt 5b i 5c w brzmieniu: „5b) świadczenie motywacyjne;
+    - **b)** w ust. 15 po pkt 5a dodaje się pkt 5b i 5c w brzmieniu: „5b) świadczenie motywacyjne; 5c) świadczenie za długoletnią służbę;”;
 
-- **5c)** świadczenie za długoletnią służbę;”;
-- **2)** po art. 81 dodaje się art. 81a i art. 81b w brzmieniu: „Art. 81a. 1. Funkcjonariuszowi Straży Marszałkowskiej przyznaje się świadczenie motywacyjne po osiągnięciu:
-- **1)** 25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy – w wysokości 1500 zł miesięcznie albo
-- **2)** 28 lat i 6 miesięcy służby – w wysokości 2500 zł miesięcznie.
-
-2. Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
-
-- **1)** służby w Straży Marszałkowskiej;
-- **2)** służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej;
-- **3)** traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin.
-
-3. Przełożony przyznaje lub odmawia przyznania świadczenia motywacyjnego nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza Straży Marszałkowskiej stażu służby, o którym mowa w ust. 1 pkt 1 lub 2.
-
-4. Przed przyznaniem świadczenia motywacyjnego funkcjonariusz Straży Marszałkowskiej podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 24, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące.
-
-5. Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi Straży Marszałkowskiej:
-
-- **1)** który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 25 ust. 2 pkt 2 albo 3 albo art. 29 ust. 1 pkt 2 albo ust. 2 pkt 1 – przez okres jednego roku od dnia wydania ostatecznej opinii służbowej;
-- **2)** przeciwko któremu wszczęto postępowanie karne w sprawie o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne – do czasu prawomocnego zakończenia tego postępowania;
-- **3)** ukaranemu karą dyscyplinarną – do czasu jej zatarcia;
-- **4)** skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone – przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
-
-6. Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 5, przełożony niezwłocznie stwierdza ustanie prawa do wypłaty tego świadczenia.
-
-7. Świadczenia motywacyjnego nie wypłaca się za okres:
-
-- **1)** korzystania z urlopu bezpłatnego,
-- **2)** przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz Straży Marszałkowskiej nie zachował prawa do uposażenia, wymienionych w art. 95,
-- **3)** zawieszenia w czynnościach służbowych albo tymczasowego aresztowania,
-- **4)** zwolnienia od zajęć służbowych, o którym mowa w art. 87 ust. 2 pkt 1 i 3–5,
-- **5)** innej nieobecności trwającej co najmniej jeden miesiąc – proporcjonalnie do tego okresu.
-
-8. Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym przyznano świadczenie motywacyjne.
-
-9. Świadczenie motywacyjne płatne jest z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje.
-
-10. Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym przełożony stwierdził ustanie prawa do wypłaty tego świadczenia lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza Straży Marszałkowskiej ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się.
-
-**Art. 81b.**
-
-1. Funkcjonariuszowi Straży Marszałkowskiej przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby.
-
-2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem funkcjonariusza Straży Marszałkowskiej ze służby, z jego śmiercią lub zaginięciem.
-
-3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepis art. 81a ust. 2.”.
+- **2)** po art. 81 dodaje się art. 81a i art. 81b w brzmieniu: „Art. 81a. 1. Funkcjonariuszowi Straży Marszałkowskiej przyznaje się świadczenie motywacyjne po osiągnięciu: 1) 25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy – w wysokości 1500 zł miesięcznie albo 2) 28 lat i 6 miesięcy służby – w wysokości 2500 zł miesięcznie. 2. Do stażu służby, o którym mowa w ust. 1, zalicza się okresy: 1) służby w Straży Marszałkowskiej; 2) służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej; 3) traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin. 3. Przełożony przyznaje lub odmawia przyznania świadczenia motywacyjnego nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza Straży Marszałkowskiej stażu służby, o którym mowa w ust. 1 pkt 1 lub 2. 4. Przed przyznaniem świadczenia motywacyjnego funkcjonariusz Straży Marszałkowskiej podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 24, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące. 5. Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi Straży Marszałkowskiej: 1) który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 25 ust. 2 pkt 2 albo 3 albo art. 29 ust. 1 pkt 2 albo ust. 2 pkt 1 – przez okres jednego roku od dnia wydania ostatecznej opinii służbowej; 2) przeciwko któremu wszczęto postępowanie karne w sprawie o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne – do czasu prawomocnego zakończenia tego postępowania; 3) ukaranemu karą dyscyplinarną – do czasu jej zatarcia; 4) skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone – przez okres jednego roku od dnia uprawomocnienia się orzeczenia. 6. Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 5, przełożony niezwłocznie stwierdza ustanie prawa do wypłaty tego świadczenia. 7. Świadczenia motywacyjnego nie wypłaca się za okres: 1) korzystania z urlopu bezpłatnego, 2) przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz Straży Marszałkowskiej nie zachował prawa do uposażenia, wymienionych w art. 95, 3) zawieszenia w czynnościach służbowych albo tymczasowego aresztowania, 4) zwolnienia od zajęć służbowych, o którym mowa w art. 87 ust. 2 pkt 1 i 3–5, 5) innej nieobecności trwającej co najmniej jeden miesiąc – proporcjonalnie do tego okresu. 8. Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym przyznano świadczenie motywacyjne. 9. Świadczenie motywacyjne płatne jest z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje. 10. Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym przełożony stwierdził ustanie prawa do wypłaty tego świadczenia lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza Straży Marszałkowskiej ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się. Art. 81b. 1. Funkcjonariuszowi Straży Marszałkowskiej przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby. 2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem funkcjonariusza Straży Marszałkowskiej ze służby, z jego śmiercią lub zaginięciem. 3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepis art. 81a ust. 2.”.
 
 **Art. 13.** W ustawie z dnia 19 lipca 2019 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw (Dz. U. poz. 1635 oraz z 2020 r. poz. 1610) w art. 25 w ust. 1:
 
 - **1)** we wprowadzeniu do wyliczenia wyrazy „30 100 tys. zł” zastępuje się wyrazami „36 010 tys. zł”;
-- **2)** pkt 5–10 otrzymują brzmienie: „5) 2023 r. – 4 030 tys. zł;
-- **6)** 2024 r. – 4 160 tys. zł;
-- **7)** 2025 r. – 4 160 tys. zł;
-- **8)** 2026 r. – 4 290 tys. zł;
-- **9)** 2027 r. – 4 420 tys. zł;
-- **10)** 2028 r. – 4 550 tys. zł.”.
+- **2)** pkt 5–10 otrzymują brzmienie: „5) 2023 r. – 4 030 tys. zł; 6) 2024 r. – 4 160 tys. zł; 7) 2025 r. – 4 160 tys. zł; 8) 2026 r. – 4 290 tys. zł; 9) 2027 r. – 4 420 tys. zł; 10) 2028 r. – 4 550 tys. zł.”.
 
 **Art. 14.** W ustawie z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610) w art. 47 uchyla się ust. 1.
 
 **Art. 15.** W ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305) wprowadza się następujące zmiany:
 
 - **1)** w art. 432 w ust. 1 po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) świadczenie za długoletnią służbę wojskową;”;
-- **2)** po art. 449 dodaje się art. 449a w brzmieniu: „Art. 449a. 1. Żołnierzowi zawodowemu przyznaje się świadczenie za długoletnią służbę wojskową po osiągnięciu 15 lat służby wojskowej w wysokości 5% należnego uposażenia zasadniczego miesięcznie.
-
-2. Świadczenie za długoletnią służbę wojskową zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rok służby wojskowej, nie więcej jednak niż do wysokości 15% po 25 latach tej służby.
-
-3. Decyzję w przedmiocie przyznania świadczenia za długoletnią służbę wojskową organ, o którym mowa w art. 470, wydaje jednorazowo na czas pełnienia przez żołnierza zawodowej służby wojskowej. Świadczenie za długoletnią służbę wojskową wypłaca się do dnia zwolnienia żołnierza z zawodowej służby wojskowej albo wygaśnięcia stosunku służbowego.
-
-4. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 435 ust. 3, art. 440 ust. 1 i art. 456.”.
+- **2)** po art. 449 dodaje się art. 449a w brzmieniu: „Art. 449a. 1. Żołnierzowi zawodowemu przyznaje się świadczenie za długoletnią służbę wojskową po osiągnięciu 15 lat służby wojskowej w wysokości 5% należnego uposażenia zasadniczego miesięcznie. 2. Świadczenie za długoletnią służbę wojskową zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rok służby wojskowej, nie więcej jednak niż do wysokości 15% po 25 latach tej służby. 3. Decyzję w przedmiocie przyznania świadczenia za długoletnią służbę wojskową organ, o którym mowa w art. 470, wydaje jednorazowo na czas pełnienia przez żołnierza zawodowej służby wojskowej. Świadczenie za długoletnią służbę wojskową wypłaca się do dnia zwolnienia żołnierza z zawodowej służby wojskowej albo wygaśnięcia stosunku służbowego. 4. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 435 ust. 3, art. 440 ust. 1 i art. 456.”.
 
 **Art. 16.** W stosunku do funkcjonariuszy, którzy w dniu wejścia w życie niniejszej ustawy osiągnęli staż służby, o którym mowa w art. 125a ust. 1 ustawy zmienianej w art. 6, art. 99b ust. 1 ustawy zmienianej w art. 7, art. 83b ust. 1 ustawy zmienianej w art. 8 oraz art. 226b ust. 1 ustawy zmienianej w art. 10, decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego wydaje się w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy. W przypadku wydania decyzji o przyznaniu świadczenia motywacyjnego wypłata świadczenia następuje za okres od dnia wejścia w życie niniejszej ustawy.
 

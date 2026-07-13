@@ -37,42 +37,18 @@ source: pdf
 - **6)** w art. 11 ust. 1 otrzymuje brzmienie: „1. Członkowie Komisji wybierają spośród siebie przewodniczącego Komisji. Uchwałę w tej sprawie Komisja podejmuje większością głosów, w głosowaniu jawnym, w obecności co najmniej 5 członków Komisji.”;
 - **7)** w art. 12 ust. 7 otrzymuje brzmienie: „7. Komisja określa, w drodze uchwały, regulamin swojego działania. Przepisy art. 15 ust. 1–3 stosuje się odpowiednio.”;
 - **8)** w art. 22 ust. 1 otrzymuje brzmienie: „1. W toku postępowania Komisja przeprowadza rozprawę.”;
-- **9)** po art. 29 dodaje się art. 29a w brzmieniu: „Art. 29a. Nie wolno przesłuchiwać jako świadków:
-- **1)** obrońcy albo adwokata lub radcy prawnego działającego na podstawie art. 245 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, co do faktów, o których dowiedział się udzielając porady prawnej lub prowadząc sprawę;
-- **2)** duchownego, co do faktów, o których dowiedział się przy spowiedzi;
-- **3)** mediatora, co do faktów, o których dowiedział się od oskarżonego lub pokrzywdzonego prowadząc postępowanie mediacyjne w postępowaniu karnym przeciwko osobie, o której mowa w art. 4 ust. 1, z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”;
+- **9)** po art. 29 dodaje się art. 29a w brzmieniu: „Art. 29a. Nie wolno przesłuchiwać jako świadków: 1) obrońcy albo adwokata lub radcy prawnego działającego na podstawie art. 245 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, co do faktów, o których dowiedział się udzielając porady prawnej lub prowadząc sprawę; 2) duchownego, co do faktów, o których dowiedział się przy spowiedzi; 3) mediatora, co do faktów, o których dowiedział się od oskarżonego lub pokrzywdzonego prowadząc postępowanie mediacyjne w postępowaniu karnym przeciwko osobie, o której mowa w art. 4 ust. 1, z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”;
 - **10)** w art. 31 uchyla się ust. 2;
 - **11)** art. 33 otrzymuje brzmienie: „Art. 33. Posiedzenia Komisji wyznaczone poza rozprawą są jawne, chyba że przewodniczący Komisji zarządzi inaczej. Przepis art. 22 ust. 3 stosuje się odpowiednio.”;
-- **12)** art. 36 otrzymuje brzmienie: „Art. 36. W wyniku postępowania Komisja wydaje decyzję administracyjną, w której stwierdza, że działanie osoby, o której mowa w art. 4 ust. 1:
-- **1)** było działaniem pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, albo
-- **2)** nie było działaniem pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej.”;
+- **12)** art. 36 otrzymuje brzmienie: „Art. 36. W wyniku postępowania Komisja wydaje decyzję administracyjną, w której stwierdza, że działanie osoby, o której mowa w art. 4 ust. 1: 1) było działaniem pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, albo 2) nie było działaniem pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej.”;
 - **13)** uchyla się art. 37;
 - **14)** w art. 38 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Jeżeli postępowanie wykaże, że zachodzi sytuacja, o której mowa w art. 4 ust. 1 pkt 2, Komisja wydaje decyzję administracyjną, w której stwierdza wydanie decyzji administracyjnej pod wpływem rosyjskim na szkodę interesów Rzeczypospolitej Polskiej, i:”;
-- **15)** po art. 39 dodaje się art. 39a i art. 39b w brzmieniu: „Art. 39a. 1. Osobie w stosunku do której została wydana decyzja administracyjna, o której mowa w art. 36 pkt 1, przysługuje od tej decyzji apelacja do sądu apelacyjnego. Apelację wnosi się do sądu apelacyjnego właściwego ze względu na miejsce zamieszkania tej osoby albo Sądu Apelacyjnego w Warszawie, za pośrednictwem Komisji, w terminie miesiąca od dnia doręczenia tej osobie decyzji administracyjnej, o której mowa w art. 36 pkt 1.
-
-2. Wniesienie apelacji powoduje, że decyzja administracyjna, o której mowa w art. 36 pkt 1, nie wywołuje skutków do czasu rozstrzygnięcia o apelacji przez sąd apelacyjny.
-
-3. Komisja niezwłocznie, nie później jednak niż w terminie miesiąca od dnia otrzymania apelacji, przekazuje apelację sądowi apelacyjnemu wraz z aktami postępowania oraz sporządzoną przez Komisję odpowiedzią na apelację.
-
-4. Stronami postępowania w sprawie apelacji są osoba wnosząca apelację i Komisja.
-
-5. Do postępowania w sprawie apelacji stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) dotyczące apelacji.
-
-**Art. 39b.**
-
-1. Od wydanego przez sąd apelacyjny prawomocnego wyroku lub postanowienia w przedmiocie odrzucenia apelacji albo umorzenia postępowania przed sądem apelacyjnym przysługuje skarga kasacyjna do Sądu Najwyższego.
-
-2. Do postępowania w sprawie skargi kasacyjnej stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego dotyczące skargi kasacyjnej.”;
-
+- **15)** po art. 39 dodaje się art. 39a i art. 39b w brzmieniu: „Art. 39a. 1. Osobie w stosunku do której została wydana decyzja administracyjna, o której mowa w art. 36 pkt 1, przysługuje od tej decyzji apelacja do sądu apelacyjnego. Apelację wnosi się do sądu apelacyjnego właściwego ze względu na miejsce zamieszkania tej osoby albo Sądu Apelacyjnego w Warszawie, za pośrednictwem Komisji, w terminie miesiąca od dnia doręczenia tej osobie decyzji administracyjnej, o której mowa w art. 36 pkt 1. 2. Wniesienie apelacji powoduje, że decyzja administracyjna, o której mowa w art. 36 pkt 1, nie wywołuje skutków do czasu rozstrzygnięcia o apelacji przez sąd apelacyjny. 3. Komisja niezwłocznie, nie później jednak niż w terminie miesiąca od dnia otrzymania apelacji, przekazuje apelację sądowi apelacyjnemu wraz z aktami postępowania oraz sporządzoną przez Komisję odpowiedzią na apelację. 4. Stronami postępowania w sprawie apelacji są osoba wnosząca apelację i Komisja. 5. Do postępowania w sprawie apelacji stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) dotyczące apelacji. Art. 39b. 1. Od wydanego przez sąd apelacyjny prawomocnego wyroku lub postanowienia w przedmiocie odrzucenia apelacji albo umorzenia postępowania przed sądem apelacyjnym przysługuje skarga kasacyjna do Sądu Najwyższego. 2. Do postępowania w sprawie skargi kasacyjnej stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego dotyczące skargi kasacyjnej.”;
 - **16)** w art. 40 w ust. 1 po wyrazach „art. 96a–96n,” dodaje się wyrazy „art. 108,”;
 - **17)** w art. 41 w ust. 1 w pkt 2 skreśla się wyrazy „i zastosowanych w nich środkach zaradczych”;
 - **18)** uchyla się art. 47;
 - **19)** po art. 49 dodaje się art. 49a w brzmieniu: „Art. 49a. W przypadku nieprzedstawienia kandydatów na członków Komisji zgodnie z art. 49 ust. 1 kluby poselskie lub parlamentarne przedstawiają kandydatów na członków Komisji Marszałkowi Sejmu w terminie wskazanym w postanowieniu Marszałka Sejmu. Przepis art. 49 ust. 2 stosuje się odpowiednio.”;
-- **20)** art. 50 i art. 51 otrzymują brzmienie: „Art. 50. 1. Członkowie Komisji wybierają spośród siebie przewodniczącego Komisji w terminie 14 dni od dnia powołania członka na ostatni wakat w Komisji, zgodnie z art. 49a.
-
-2. Jeżeli członkowie Komisji nie wybiorą spośród siebie przewodniczącego Komisji w terminie, o którym mowa w ust. 1, przewodniczącego Komisji wybiera Prezes Rady Ministrów, w terminie 14 dni od dnia upływu terminu, o którym mowa w ust. 1.
-
-**Art. 51.** Komisja określa regulamin, o którym mowa w art. 12 ust. 7, w terminie 14 dni od dnia wyboru przewodniczącego Komisji.”.
+- **20)** art. 50 i art. 51 otrzymują brzmienie: „Art. 50. 1. Członkowie Komisji wybierają spośród siebie przewodniczącego Komisji w terminie 14 dni od dnia powołania członka na ostatni wakat w Komisji, zgodnie z art. 49a. 2. Jeżeli członkowie Komisji nie wybiorą spośród siebie przewodniczącego Komisji w terminie, o którym mowa w ust. 1, przewodniczącego Komisji wybiera Prezes Rady Ministrów, w terminie 14 dni od dnia upływu terminu, o którym mowa w ust. 1. Art. 51. Komisja określa regulamin, o którym mowa w art. 12 ust. 7, w terminie 14 dni od dnia wyboru przewodniczącego Komisji.”.
 
 **Art. 2.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2022 r. poz. 2516 oraz z 2023 r. poz. 535, 803 i 1030) wprowadza się następujące zmiany:
 
@@ -83,12 +59,7 @@ source: pdf
 
 - **1)** art. 188 otrzymuje brzmienie: „Art. 188. Prawomocne orzeczenie o odpowiedzialności za naruszenie dyscypliny finansów publicznych podlega wpisowi do rejestru prowadzonego przez Główną Komisję Orzekającą.”;
 - **2)** w art. 189:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Wpisowi do rejestru podlegają także:
-
-- **1)** data wydania orzeczenia i nazwa komisji, która wydała orzeczenie;
-- **2)** określenie orzeczonej kary lub informacja o odstąpieniu od wymierzenia kary;
-- **3)** data rozpoczęcia wykonywania kary;
-- **4)** data zatarcia ukarania.”,
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Wpisowi do rejestru podlegają także: 1) data wydania orzeczenia i nazwa komisji, która wydała orzeczenie; 2) określenie orzeczonej kary lub informacja o odstąpieniu od wymierzenia kary; 3) data rozpoczęcia wykonywania kary; 4) data zatarcia ukarania.”,
     - **b)** uchyla się ust. 3a;
 
 - **3)** w art. 190 w pkt 2 skreśla się wyrazy „lub decyzji Komisji”.

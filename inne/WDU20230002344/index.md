@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie utworzenia Publicznej Uczelni Zawodowej w Grudziądzu Na podstawie art. 35 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r.
 poz. 742, 1088, 1234, 1672, 1872 i 2005) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji i Nauki z dnia 15 września 2023 r. w sprawie utworzenia Publicznej Uczelni Zawodowej w Grudziądzu (Dz. U. poz. 1986) w § 1 ust. 1 otrzymuje brzmienie: „1. Tworzy się z dniem 1 listopada 2023 r. Publiczną Uczelnię Zawodową w Grudziądzu, zwaną dalej „Uczelnią”.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji i Nauki: P. Czarnek
+
+**§ 1.** W rozporządzeniu Ministra Edukacji i Nauki z dnia 15 września 2023 r. w sprawie utworzenia Publicznej Uczelni Zawodowej w Grudziądzu (Dz. U. poz. 1986) w § 1 ust. 1 otrzymuje brzmienie: „1. Tworzy się z dniem 1 listopada 2023 r. Publiczną Uczelnię Zawodową w Grudziądzu, zwaną dalej „Uczelnią”.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Edukacji i Nauki: P. Czarnek
 

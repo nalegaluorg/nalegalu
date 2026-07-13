@@ -32,11 +32,9 @@ source: pdf
 - **1)** po art. 1 dodaje się art. 1a w brzmieniu: „Art. 1a. Zadania, o których mowa w art. 4 ust. 1 i 2 oraz art. 5, są zadaniami z zakresu administracji rządowej.”;
 - **2)** użyty w art. 4 w ust. 1 i 2, w różnym przypadku, wyraz „Władza” zastępuje się użytymi w odpowiednim przypadku wyrazami „Wójt (burmistrz, prezydent miasta)”;
 - **3)** użyty w art. 5 dwukrotnie wyraz „władzy” zastępuje się wyrazem „wojewody”;
-- **4)** w art. 6: zwierzchni nadzór nad nimi sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, z zachowaniem uprawnień przysługujących związkom wyznaniowym oraz wójtom (burmistrzom, prezydentom miast) na podstawie ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U z 2000 r. Nr 23, poz. 295, z późn. zm. ).”,
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Groby i cmentarze wojenne pozostają pod opieką Państwa;
-    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może, w drodze porozumienia, powierzyć gminie obowiązek utrzymania grobów i cmentarzy wojennych z jednoczesnym przekazaniem odpowiednich funduszy, jeżeli gmina nie przejmie tego obowiązku bezpłatnie.
-
-4. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może powierzyć fundacjom, stowarzyszeniom i instytucjom społecznym, za ich zgodą, obowiązek utrzymania grobów i cmentarzy wojennych.”.
+- **4)** w art. 6:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Groby i cmentarze wojenne pozostają pod opieką Państwa; zwierzchni nadzór nad nimi sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, z zachowaniem uprawnień przysługujących związkom wyznaniowym oraz wójtom (burmistrzom, prezydentom miast) na podstawie ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U z 2000 r. Nr 23, poz. 295, z późn. zm. ).”,
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może, w drodze porozumienia, powierzyć gminie obowiązek utrzymania grobów i cmentarzy wojennych z jednoczesnym przekazaniem odpowiednich funduszy, jeżeli gmina nie przejmie tego obowiązku bezpłatnie. 4. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może powierzyć fundacjom, stowarzyszeniom i instytucjom społecznym, za ich zgodą, obowiązek utrzymania grobów i cmentarzy wojennych.”.
 
 **Art. 2.** W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2002 r. Nr 171, poz. 1396, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -45,11 +43,8 @@ source: pdf
 
 **Art. 3.** W ustawie z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. z 1991 r. Nr 46, poz. 203, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 9 ust. 2 otrzymuje brzmienie: „2. O wpisaniu fundacji do Krajowego Rejestru Sądowego sąd zawiadamia ministra właściwego ze względu na zakres jego działania oraz cele fundacji, zwanego dalej „właściwym ministrem”, oraz właściwego ze względu na siedzibę fundacji starostę, przesyłając jednocześnie statut.;
-- **2)** użyty w art. 12 w ust. 1 oraz w art. 13, w różnym przypadku, wyraz „wojewoda” zastępuje się użytym w odpowiednim przypadku wyrazem „starosta”X”;
-- **3)** po art. 15 dodaje się art. 15a w brzmieniu: „Art. 15a. 1. W stosunku do fundacji korzystającej ze środków publicznych i prowadzącej działalność na obszarze całego kraju, w zakresie działalności prowadzonej na obszarze właściwości miejscowej samorządu powiatowego, starosta wykonuje uprawnienia wynikające z przepisów art. 12–15.
-
-2. Zadania starosty, o których mowa w ustawie, są zadaniami z zakresu administracji rządowej.”.
+- **1)** w art. 9 ust. 2 otrzymuje brzmienie: „2. O wpisaniu fundacji do Krajowego Rejestru Sądowego sąd zawiadamia ministra właściwego ze względu na zakres jego działania oraz cele fundacji, zwanego dalej „właściwym ministrem”, oraz właściwego ze względu na siedzibę fundacji starostę, przesyłając jednocześnie statut.; 2) użyty w art. 12 w ust. 1 oraz w art. 13, w różnym przypadku, wyraz „wojewoda” zastępuje się użytym w odpowiednim przypadku wyrazem „starosta”X”;
+- **3)** po art. 15 dodaje się art. 15a w brzmieniu: „Art. 15a. 1. W stosunku do fundacji korzystającej ze środków publicznych i prowadzącej działalność na obszarze całego kraju, w zakresie działalności prowadzonej na obszarze właściwości miejscowej samorządu powiatowego, starosta wykonuje uprawnienia wynikające z przepisów art. 12–15. 2. Zadania starosty, o których mowa w ustawie, są zadaniami z zakresu administracji rządowej.”.
 
 **Art. 4.** W ustawie z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U z 1993 r. Nr 94, poz. 431, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -69,32 +64,22 @@ source: pdf
     - **a)** w ust. 1 i 3 wyraz „wojewoda” zastępuje się wyrazami „zarząd województwa”,
     - **b)** dodaje się ust. 4 w brzmieniu: „4. Uchwałę zarządu województwa podjętą w sprawie, o której mowa w ust. 3, ogłasza się w sposób zwyczajowo przyjęty oraz publikuje w wojewódzkim dzienniku urzędowym.”;
 
-- **5)** art. 18 otrzymuje brzmienie: „Art. 18. 1. W obwodach rybackich, przez które przebiega granica województw, w sprawach dotyczących rybactwa właściwy jest zarząd tego województwa, na którego terenie znajduje się większa część powierzchni obwodu rybackiego. W innych przypadkach właściwość miejscową w sprawach dotyczących rybactwa ustalają, w drodze porozumienia, zainteresowane zarządy województw.
-
-2. W obwodach rybackich, przez które przebiega granica powiatów, w sprawach dotyczących rybactwa właściwy jest starosta tego powiatu, na którego terenie znajduje się większa część powierzchni obwodu rybackiego. W innych przypadkach właściwość miejscową w sprawach dotyczących rybactwa ustalają, w drodze porozumienia, zainteresowani starostowie.”;
-
+- **5)** art. 18 otrzymuje brzmienie: „Art. 18. 1. W obwodach rybackich, przez które przebiega granica województw, w sprawach dotyczących rybactwa właściwy jest zarząd tego województwa, na którego terenie znajduje się większa część powierzchni obwodu rybackiego. W innych przypadkach właściwość miejscową w sprawach dotyczących rybactwa ustalają, w drodze porozumienia, zainteresowane zarządy województw. 2. W obwodach rybackich, przez które przebiega granica powiatów, w sprawach dotyczących rybactwa właściwy jest starosta tego powiatu, na którego terenie znajduje się większa część powierzchni obwodu rybackiego. W innych przypadkach właściwość miejscową w sprawach dotyczących rybactwa ustalają, w drodze porozumienia, zainteresowani starostowie.”;
 - **6)** w art. 27b ust. 2 otrzymuje brzmienie: „2. Orzekanie w sprawach określonych w ust. 1 następuje w trybie przewidzianym przepisami Kodeksu postępowania w sprawach o wykroczenia, na podstawie wniosku o ukaranie złożonego przez właściwy zarząd województwa.”.
 
 **Art. 6.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2002 r. Nr 9, poz. 84, z późn. zm. ) w art. 17:
 
 - **1)** ust. 3 otrzymuje brzmienie: „3. Rada Ministrów, w drodze rozporządzenia, określa minimalne warunki, jakie powinna spełniać miejscowość, w której można pobierać opłatę miejscową, uwzględniając zróżnicowanie warunków regionalnych i lokalnych.”;
-- **2)** dodaje się ust. 4 i 5 w brzmieniu: „4. Rada Ministrów w rozporządzeniu, o którym mowa w ust. 3, określa warunki:
-- **1)** klimatyczne,
-- **2)** krajobrazowe,
-- **3)** umożliwiające pobyt osób w celach wypoczynkowych, zdrowotnych, szkoleniowych lub turystycznych.
-
-5. Rada gminy ustala miejscowości odpowiadające warunkom określonym w przepisach wydanych na podstawie ust. 3 i 4, w których pobiera się opłatę miejscową.”.
+- **2)** dodaje się ust. 4 i 5 w brzmieniu: „4. Rada Ministrów w rozporządzeniu, o którym mowa w ust. 3, określa warunki: 1) klimatyczne, 2) krajobrazowe, 3) umożliwiające pobyt osób w celach wypoczynkowych, zdrowotnych, szkoleniowych lub turystycznych. 5. Rada gminy ustala miejscowości odpowiadające warunkom określonym w przepisach wydanych na podstawie ust. 3 i 4, w których pobiera się opłatę miejscową.”.
 
 **Art. 7.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435) wprowadza się następujące zmiany:
 
 - **1)** w art. 5:
     - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) starosta – w lasach niestanowiących własności Skarbu Państwa.”,
-    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. W przypadku lasu, który obejmuje obszar więcej niż jednego powiatu, właściwy miejscowo jest starosta powiatu, na którego terenie znajduje się większa część tego lasu. Starosta ten może powierzyć, w drodze porozumienia, prowadzenie w jego imieniu spraw z zakresu nadzoru, o którym mowa w ust. 1 pkt 2, w tym wydawanie decyzji administracyjnych w pierwszej instancji, dyrektorowi regionalnej dyrekcji Lasów Państwowych.
+    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. W przypadku lasu, który obejmuje obszar więcej niż jednego powiatu, właściwy miejscowo jest starosta powiatu, na którego terenie znajduje się większa część tego lasu. Starosta ten może powierzyć, w drodze porozumienia, prowadzenie w jego imieniu spraw z zakresu nadzoru, o którym mowa w ust. 1 pkt 2, w tym wydawanie decyzji administracyjnych w pierwszej instancji, dyrektorowi regionalnej dyrekcji Lasów Państwowych. 3. W przypadku lasów, które znajdują się na terenie powiatu, starosta może powierzyć, w drodze porozumienia, prowadzenie w jego imieniu spraw z zakresu nadzoru, o którym mowa w ust. 1 pkt 2, w tym wydawanie decyzji administracyjnych w pierwszej instancji, nadleśniczemu Lasów Państwowych, zwanemu dalej „nadleśniczym”.”,
+    - **c)** ust. 4 otrzymuje brzmienie: „4. Dyrektor regionalnej dyrekcji Lasów Państwowych i nadleśniczy prowadzą powierzone przez starostę sprawy, o których mowa w ust. 2 i 3, po zapewnieniu przez powierzającego środków finansowych na te cele.”,
+    - **d)** dodaje się ust. 5 w brzmieniu: „5. Zadania starosty, o których mowa w art. 13 ust. 3 pkt 2, art. 16 ust. 1a, art. 22 ust. 2 i art. 38a ust. 2, są zadaniami z zakresu administracji rządowej.”;
 
-3. W przypadku lasów, które znajdują się na terenie powiatu, starosta może powierzyć, w drodze porozumienia, prowadzenie w jego imieniu spraw z zakresu nadzoru, o którym mowa w ust. 1 pkt 2, w tym wydawanie decyzji administracyjnych w pierwszej instancji, nadleśniczemu Lasów Państwowych, zwanemu dalej „nadleśniczym”.”, 1a, art. 22 ust. 2 i art. 38a ust. 2, są zadaniami z zakresu administracji rządowej.”;
-
-- **c)** ust. 4 otrzymuje brzmienie: „4. Dyrektor regionalnej dyrekcji Lasów Państwowych i nadleśniczy prowadzą powierzone przez starostę sprawy, o których mowa w ust. 2 i 3, po zapewnieniu przez powierzającego środków finansowych na te cele.”,
-- **d)** dodaje się ust. 5 w brzmieniu: „5. Zadania starosty, o których mowa w art. 13 ust. 3 pkt 2, art. 16 ust.
 - **2)** w art. 13 w ust. 3 pkt 2 otrzymuje brzmienie: „2) w stosunku do lasów niestanowiących własności Skarbu Państwa decyzję wydaje starosta na wniosek właściciela lasu.”;
 - **3)** w art. 16 ust. 1a otrzymuje brzmienie: „1a. Starosta, po uzgodnieniu z właścicielem lasu i po zasięgnięciu opinii rady gminy, w drodze decyzji, uznaje las za ochronny lub pozbawia go tego charakteru - w odniesieniu do pozostałych lasów.”;
 - **4)** w art. 22 ust. 2 otrzymuje brzmienie: „2. Starosta, po uzyskaniu opinii właściwego terytorialnie nadleśniczego, zatwierdza uproszczony plan urządzenia lasu.”;
@@ -136,10 +121,7 @@ source: pdf
 - **1)** art. 7 otrzymuje brzmienie: „Art. 7. Jeżeli ustawa nie stanowi inaczej, administrację w zakresie łowiectwa sprawuje samorząd województwa jako zadanie z zakresu administracji rządowej.”;
 - **2)** użyty w art. 8 w ust. 3e, w art. 17 w ust. 2, w art. 44 w ust. 2, w różnej liczbie i przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „marszałek województwa”.
 - **3)** w art. 18 w ust. 3 pkt 3 otrzymuje brzmienie: „3) blokadzie środków finansowych na rachunku bankowym, na rzecz właściwego zarządu województwa, w wysokości 4% rocznego przychodu z tytułu wykonywania przez przedsiębiorcę działalności gospodarczej, o której mowa w art. 17 ust. 1, uzyskanego w roku obrotowym poprzedzającym rok zawarcia umowy, jednak nie mniej niż równowartość w złotych 20 000 euro obliczoną według średniego kursu walut obcych ogłaszanego przez Narodowy Bank Polski ostatniego dnia miesiąca poprzedzającego miesiąc, w którym została dokonana blokada środków.”;
-- **4)** w art. 27 ust. 1 i 2 otrzymują brzmienie: „1. Podziału na obwody łowieckie oraz zmiany granic tych obwodów dokonuje w obrębie województwa właściwy sejmik województwa, w drodze uchwały, po zasięgnięciu opinii właściwego dyrektora regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe i Polskiego Związku Łowieckiego, a także właściwej izby rolniczej.
-
-2. Jeżeli obwód łowiecki ma się znajdować w obszarze więcej niż jednego województwa, uchwałę, o której mowa w ust. 1, podejmuje sejmik województwa właściwy dla przeważającego obszaru gruntów w uzgodnieniu z sejmikiem województwa właściwym dla pozostałego gruntu.”;
-
+- **4)** w art. 27 ust. 1 i 2 otrzymują brzmienie: „1. Podziału na obwody łowieckie oraz zmiany granic tych obwodów dokonuje w obrębie województwa właściwy sejmik województwa, w drodze uchwały, po zasięgnięciu opinii właściwego dyrektora regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe i Polskiego Związku Łowieckiego, a także właściwej izby rolniczej. 2. Jeżeli obwód łowiecki ma się znajdować w obszarze więcej niż jednego województwa, uchwałę, o której mowa w ust. 1, podejmuje sejmik województwa właściwy dla przeważającego obszaru gruntów w uzgodnieniu z sejmikiem województwa właściwym dla pozostałego gruntu.”;
 - **5)** w art. 43 w ust. 2 w pkt 1 lit. a otrzymuje brzmienie: „a) konieczność zapewnienia w składzie komisji egzaminacyjnej przedstawicieli Polskiego Związku Łowieckiego, zarządu województwa, Państwowego Gospodarstwa Leśnego Lasy Państwowe i Policji,”;
 - **6)** w art. 48 pkt 2 otrzymuje brzmienie: „2) posiadaczom uszkodzonych upraw lub płodów rolnych, którzy nie dokonali ich sprzętu w terminie odbiegającym więcej niż 14 dni od dnia zakończenia okresu zbioru tego gatunku roślin w danym regionie, określonego przez zarząd województwa,”;
 - **7)** w art. 50 w ust. 2 pkt 2 otrzymuje brzmienie: „2) obwodów łowieckich polnych i obszarach niewchodzących w skład obwodów łowieckich odszkodowania wypłaca zarząd województwa ze środków budżetu państwa.”.
@@ -163,14 +145,7 @@ source: pdf
 - **1)** w art. 1 dodaje się ust. 3 w brzmieniu: „3. Zadania samorządu województwa, o których mowa w art. 75a ust. 1, 3, 5 i 9, art. 97 ust. 3, art. 98 ust. 5, art. 110 ust. 1 pkt 10, art. 111 ust. 1, art. 112 ust. 1, art. 113 ust. 1, art. 114 ust. 3, art. 122 ust. 8 i 9, art. 124a ust. 3 i 10, art. 124b ust. 1-3 i 5, art. 140 ust. 4, art. 140g ust. 2, art. 140i i art. 140k, są zadaniami z zakresu administracji rządowej.”;
 - **2)** użyty w art. 75a w ust. 1 w zdaniu wstępnym, w ust. 3, 5 i 9, w art. 110 w ust. 1 w pkt 10, w art. 111 w ust. 1, w art. 112 w ust. 1, w art. 113 w ust. 1, w art. 122 w ust. 8, w art. 124a w ust. 3 i 10, w art. 124b w ust. 1-3 i 5, w art. 140g w ust. 2 i w art. 140k, w różnym przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiednim przypadku wyrazami „marszałek województwa”;
 - **3)** użyte w art. 97 w ust. 3, w art. 98 w ust. 5, w art. 114 w ust. 3, w art. 122 w ust. 9, w art. 140 w ust. 4 wyrazy „wojewoda mazowiecki” zastępuje się wyrazami „marszałek województwa mazowieckiego”;
-- **4)** art. 140i otrzymuje brzmienie: „Art. 140i. W skład Wojewódzkiej Rady wchodzą:
-- **1)** przewodniczący - marszałek województwa;
-- **2)** zastępcy przewodniczącego:
-    - **a)** wojewoda,
-    - **b)** wojewódzki komendant Policji;
-
-- **3)** sekretarz - wskazany przez marszałka województwa;
-- **4)** członkowie Wojewódzkiej Rady wskazani przez wojewodę, zarząd województwa, zarządy powiatów, wójtów (burmistrzów, prezydentów miast), komendanta wojewódzkiego Policji, Komendanta Państwowej Straży Pożarnej, dyrektora właściwego oddziału terenowego Generalnej Dyrekcji Dróg Krajowych i Autostrad, zarząd dróg wojewódzkich, zarządy dróg powiatowych, wojewódzkiego kuratora oświaty.”.
+- **4)** art. 140i otrzymuje brzmienie: „Art. 140i. W skład Wojewódzkiej Rady wchodzą: 1) przewodniczący - marszałek województwa; 2) zastępcy przewodniczącego: a) wojewoda, b) wojewódzki komendant Policji; 3) sekretarz - wskazany przez marszałka województwa; 4) członkowie Wojewódzkiej Rady wskazani przez wojewodę, zarząd województwa, zarządy powiatów, wójtów (burmistrzów, prezydentów miast), komendanta wojewódzkiego Policji, Komendanta Państwowej Straży Pożarnej, dyrektora właściwego oddziału terenowego Generalnej Dyrekcji Dróg Krajowych i Autostrad, zarząd dróg wojewódzkich, zarządy dróg powiatowych, wojewódzkiego kuratora oświaty.”.
 
 **Art. 15.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2003 r. Nr 106, poz. 1002, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -180,10 +155,7 @@ source: pdf
 
 **Art. 16.** W ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2004 r. Nr 223, poz. 2268 i Nr 273, poz. 2703) wprowadza się następujące zmiany:
 
-- **1)** po art. 2 dodaje się art. 2a i 2b w brzmieniu: „Art. 2a. Zadania marszałka województwa, o których mowa w ustawie, są zadaniami z zakresu administracji rządowej.
-
-**Art. 2b.** Minister właściwy do spraw turystyki jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w art. 9 ust. 3, w art. 24 ust. 1, w art. 28 ust. 1, w art. 39a ust. 3, w art. 42 ust. 1, oraz od decyzji marszałka województwa o odmowie wpisu do rejestru, o którym mowa w art. 4 ust. 1.”;
-
+- **1)** po art. 2 dodaje się art. 2a i 2b w brzmieniu: „Art. 2a. Zadania marszałka województwa, o których mowa w ustawie, są zadaniami z zakresu administracji rządowej. Art. 2b. Minister właściwy do spraw turystyki jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w art. 9 ust. 3, w art. 24 ust. 1, w art. 28 ust. 1, w art. 39a ust. 3, w art. 42 ust. 1, oraz od decyzji marszałka województwa o odmowie wpisu do rejestru, o którym mowa w art. 4 ust. 1.”;
 - **2)** użyty w art. 5 w ust. 1 w pkt 3, w ust. 4 i 5, w art. 7 w ust. 1 i 2, w art. 8 w ust. 1, 5, 6 i 9, w art. 9 w ust. 1-3, w art. 10a w pkt 2, w art. 23 w ust. 2, w art. 24 w ust. 1, w art. 24a w ust. 1-3, w art. 25 w ust. 1 i 2, w art. 26 w ust. 2, w art. 27 w pkt 3, w art. 28 w ust. 1-4, w art. 29 w ust. 3-5, w art. 32 w ust. 3, w art. 34 w ust. 1 w pkt 1 i w ust. 2, w art. 38 w ust. 1, w art. 39 w ust. 2 oraz w art. 39a w ust. 2 i 7, w różnej liczbie i przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „marszałek województwa”.
 
 **Art. 17.** W ustawie z dnia 5 czerwca 1998 r. o administracji rządowej w województwie (Dz. U. z 2001 r. Nr 80, poz. 872, z późn. zm. ) wprowadza się następujące zmiany:
@@ -201,16 +173,9 @@ source: pdf
 **Art. 19.** W ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska (Dz. U. Nr 62, poz. 627, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** użyty w art. 30 w ust. 2 w pkt 1, w art. 49 w ust. 5 w pkt 1, w art. 89 w ust. 1a, w art. 91 w ust. 4, 8 i 9, w art. 92a w ust. 1-3, w art. 93 w ust. 1, w art. 94 w ust. 22b, w art. 95 w ust. 1, w art. 162 w ust. 3, 6 i 7, w art. 163 w ust. 3 w pkt 4 i 5, w ust. 6 i 8, w art. 212 w ust. 2, w art. 346 w ust. 1, w art. 395 w ust. 4, w art. 396 w ust. 1 i 3 w pkt 1, w ust. 4 i 5, w art. 397 w ust. 2, w art. 426 w ust. 2 i 5, w art. 428 w ust. 1, w art. 430 w ust. 2, w art. 434, w art. 435 w ust. 2, 3, 5 i 6, w art. 437 w ust. 1, 4 i 8 oraz w art. 441 w ust. 1, 2 i 4, w różnej liczbie i przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „marszałek województwa”;
-- **2)** w art. 91: 89 ust. 1, przedstawia do zaopiniowania właściwym starostom projekt uchwały w sprawie programu ochrony powietrza, mającego na celu osiągnięcie poziomów dopuszczalnych substancji w powietrzu.
-    - **a)** ust. 1-3 otrzymują brzmienie: „1. Dla stref, o których mowa w art. 89 ust. 1 pkt 1, marszałek województwa, w terminie 12 miesięcy od dnia otrzymania wyników oceny poziomów substancji w powietrzu i klasyfikacji stref, o których mowa w art.
-
-2. Starosta jest obowiązany do wydania opinii w terminie miesiąca od dnia otrzymania projektu uchwały w sprawie programu ochrony powietrza, o którym mowa w ust. 1.
-
-3. Sejmik województwa, w terminie 15 miesięcy od dnia otrzymania wyników oceny poziomów substancji w powietrzu i klasyfikacji stref, o których mowa w art. 89 ust. 1, określa, w drodze uchwały, program ochrony powietrza.”, 89 ust. 1, po zasięgnięciu opinii właściwych starostów, określa, w drodze uchwały, program ochrony powietrza, mający na celu osiągnięcie poziomów docelowych substancji w powietrzu.
-
-- **b)** ust. 5 i 6 otrzymują brzmienie: „5. Dla stref, o których mowa w art. 89 ust. 1 pkt 4, sejmik województwa, w terminie 15 miesięcy od dnia otrzymania wyników oceny poziomów substancji w powietrzu i klasyfikacji stref, o których mowa w art.
-
-6. Starosta jest obowiązany do wydania opinii w terminie miesiąca od dnia otrzymania projektu uchwały w sprawie programu ochrony powietrza, o którym mowa w ust. 5.”;
+- **2)** w art. 91:
+    - **a)** ust. 1-3 otrzymują brzmienie: „1. Dla stref, o których mowa w art. 89 ust. 1 pkt 1, marszałek województwa, w terminie 12 miesięcy od dnia otrzymania wyników oceny poziomów substancji w powietrzu i klasyfikacji stref, o których mowa w art. 89 ust. 1, przedstawia do zaopiniowania właściwym starostom projekt uchwały w sprawie programu ochrony powietrza, mającego na celu osiągnięcie poziomów dopuszczalnych substancji w powietrzu. 2. Starosta jest obowiązany do wydania opinii w terminie miesiąca od dnia otrzymania projektu uchwały w sprawie programu ochrony powietrza, o którym mowa w ust. 1. 3. Sejmik województwa, w terminie 15 miesięcy od dnia otrzymania wyników oceny poziomów substancji w powietrzu i klasyfikacji stref, o których mowa w art. 89 ust. 1, określa, w drodze uchwały, program ochrony powietrza.”,
+    - **b)** ust. 5 i 6 otrzymują brzmienie: „5. Dla stref, o których mowa w art. 89 ust. 1 pkt 4, sejmik województwa, w terminie 15 miesięcy od dnia otrzymania wyników oceny poziomów substancji w powietrzu i klasyfikacji stref, o których mowa w art. 89 ust. 1, po zasięgnięciu opinii właściwych starostów, określa, w drodze uchwały, program ochrony powietrza, mający na celu osiągnięcie poziomów docelowych substancji w powietrzu. 6. Starosta jest obowiązany do wydania opinii w terminie miesiąca od dnia otrzymania projektu uchwały w sprawie programu ochrony powietrza, o którym mowa w ust. 5.”;
 
 - **3)** art. 96 otrzymuje brzmienie: „Art. 96. Sejmik województwa może, w drodze aktu prawa miejscowego uchwały, w celu zapobieżenia negatywnemu oddziaływaniu na środowisko lub zabytki na zabytki określić dla terenu województwa bądź jego części rodzaje lub jakość paliw dopuszczonych do stosowania, a także sposób realizacji i kontroli tego obowiązku.”;
 - **4)** w art. 119 ust. 2 otrzymuje brzmienie: „2. Dla terenów, o których mowa w art. 117 ust. 2 pkt 1 i ust. 3, programy uchwala rada powiatu, a dla terenów, o których mowa w art. 117 ust. 2 pkt 2, programy określa, w drodze uchwały, sejmik województwa.”;
@@ -219,11 +184,8 @@ source: pdf
 - **7)** po art. 377 dodaje się art. 377a w brzmieniu: „Art. 377a. Minister właściwy do spraw środowiska jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w art. 95 ust. 1, art. 378 ust. 2a, art. 434, art. 435 ust. 3 i 6 oraz art. 441 ust. 1 i 4.”;
 - **8)** w art. 378:
     - **a)** ust. 2 otrzymuje brzmienie: „2. Wojewoda jest właściwy w sprawach przedsięwzięć i zdarzeń na terenach zamkniętych.”,
-    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Marszałek województwa jest właściwy w sprawach:
-
-- **1)** przedsięwzięć i zdarzeń na terenach zakładów, gdzie jest eksploatowana instalacja, która jest kwalifikowana jako przedsięwzięcie mogące znacząco oddziaływać na środowisko, dla którego sporządzenie raportu o oddziaływaniu przedsięwzięcia na środowisko jest obowiązkowe,
-- **2)** przedsięwzięcia mogącego znacząco oddziaływać na środowisko, dla którego sporządzenie raportu o oddziaływaniu przedsięwzięcia na środowisko jest obowiązkowe, realizowanego na terenach innych niż wymienione w pkt 1.”, 30 ust. 2 pkt 1, art. 49 ust. 5 pkt 1, art. 89 ust. 1a, art. 91 ust. 1, 3-5, 8 i 9, art. 92a ust. 1-3, art. 93 ust. 1, art. 94 ust. 2-2b, art. 95 ust. 1, art. 96, art. 119 ust. 2, art. 135 ust. 2, art. 162 ust. 3, 6 i 7, art. 395 ust. 4, art. 396 ust. 1, 2, 3 pkt 1, ust. 4 i 5, art. 397 ust. 2, art. 426 ust. 2 i 5, art. 428 ust. 1, art. 430 ust. 2, art. 434, art. 435 ust. 3, 5 i 6, art. 437 ust. 1, 2, 4 i 8 oraz art. 441 ust. 1, 2 i 4, są zadaniami z zakresu administracji rządowej.”;
-    - **c)** dodaje się ust. 4 w brzmieniu: „4. Zadania samorządu województwa, o których mowa w ust. 2a, art.
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Marszałek województwa jest właściwy w sprawach: 1) przedsięwzięć i zdarzeń na terenach zakładów, gdzie jest eksploatowana instalacja, która jest kwalifikowana jako przedsięwzięcie mogące znacząco oddziaływać na środowisko, dla którego sporządzenie raportu o oddziaływaniu przedsięwzięcia na środowisko jest obowiązkowe, 2) przedsięwzięcia mogącego znacząco oddziaływać na środowisko, dla którego sporządzenie raportu o oddziaływaniu przedsięwzięcia na środowisko jest obowiązkowe, realizowanego na terenach innych niż wymienione w pkt 1.”,
+    - **c)** dodaje się ust. 4 w brzmieniu: „4. Zadania samorządu województwa, o których mowa w ust. 2a, art. 30 ust. 2 pkt 1, art. 49 ust. 5 pkt 1, art. 89 ust. 1a, art. 91 ust. 1, 3-5, 8 i 9, art. 92a ust. 1-3, art. 93 ust. 1, art. 94 ust. 2-2b, art. 95 ust. 1, art. 96, art. 119 ust. 2, art. 135 ust. 2, art. 162 ust. 3, 6 i 7, art. 395 ust. 4, art. 396 ust. 1, 2, 3 pkt 1, ust. 4 i 5, art. 397 ust. 2, art. 426 ust. 2 i 5, art. 428 ust. 1, art. 430 ust. 2, art. 434, art. 435 ust. 3, 5 i 6, art. 437 ust. 1, 2, 4 i 8 oraz art. 441 ust. 1, 2 i 4, są zadaniami z zakresu administracji rządowej.”;
 
 - **9)** w art. 396 ust. 2 otrzymuje brzmienie: „2. Przewodniczącego wojewódzkiej komisji, zastępcę przewodniczącego, sekretarza i członków komisji, w liczbie od 20 do 40, powołuje i odwołuje marszałek województwa w porozumieniu z wojewodą spośród przedstawicieli nauki, praktyki oraz organizacji ekologicznych.”;
 - **10)** w art. 397 ust. 1 otrzymuje brzmienie: „1. Wydatki związane z działalnością Krajowej Komisji pokrywane są z części budżetu państwa, której dysponentem jest minister właściwy do spraw środowiska.”;
@@ -233,10 +195,7 @@ source: pdf
 
 **Art. 20.** W ustawie z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. Nr 62, poz. 628, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** po art. 4 dodaje się art. 4a w brzmieniu: „Art. 4a. 1. Minister właściwy do spraw środowiska jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w art. 13 ust. 4, art. 19 ust. 2 pkt 1, art. 22 ust. 1, art. 26 ust 2, art. 29, art. 53 ust. 3 pkt 1 oraz art. 54 ust. 2 pkt 1 i ust. 5.
-
-2. Zadania samorządu województwa, o których mowa w art. 13 ust. 4, art. 19 ust. 2 pkt 1 i ust. 4, art. 24 ust. 2 pkt 1, art. 26 ust. 2, art. 29 ust. 3, art. 49 ust. 2 i 4, art. 37 ust. 6, art. 53 ust. 3 pkt 1 oraz art. 54 ust. 2 pkt 1 i ust. 5, są zadaniami z zakresu administracji rządowej.”;
-
+- **1)** po art. 4 dodaje się art. 4a w brzmieniu: „Art. 4a. 1. Minister właściwy do spraw środowiska jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w art. 13 ust. 4, art. 19 ust. 2 pkt 1, art. 22 ust. 1, art. 26 ust 2, art. 29, art. 53 ust. 3 pkt 1 oraz art. 54 ust. 2 pkt 1 i ust. 5. 2. Zadania samorządu województwa, o których mowa w art. 13 ust. 4, art. 19 ust. 2 pkt 1 i ust. 4, art. 24 ust. 2 pkt 1, art. 26 ust. 2, art. 29 ust. 3, art. 49 ust. 2 i 4, art. 37 ust. 6, art. 53 ust. 3 pkt 1 oraz art. 54 ust. 2 pkt 1 i ust. 5, są zadaniami z zakresu administracji rządowej.”;
 - **2)** użyty w art. 13 w ust. 4, w art. 29 w ust. 3 oraz w art. 49 w ust. 2 i 4, w różnej liczbie i przypadku, wyraz „wojewoda” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „marszałek województwa”;
 - **3)** w art. 18 w ust. 4, w art. 19 w ust. 6, w art. 22 w ust. 2, w art. 24 w ust. 9, w art. 26 w ust. 7 i w art. 30 w ust. 7 skreśla się wyrazy „wojewoda lub”;
 - **4)** w art. 19:
@@ -260,9 +219,7 @@ source: pdf
 **Art. 22.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2004 r. Nr 204, poz. 2088, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 51 w ust. 1 pkt 2 otrzymuje brzmienie: „2) wojewoda działający za pośrednictwem wojewódzkiego inspektora transportu drogowego, zwanego dalej „wojewódzkim inspektorem”, jako kierownika wojewódzkiej inspekcji transportu drogowego wchodzącej w skład wojewódzkiej administracji zespolonej.”;
-- **2)** w art. 53 ust. 4 i 5 otrzymują brzmienie: „4. Wojewódzkiego inspektora powołuje i odwołuje wojewoda w porozumieniu z Głównym Inspektorem.
-
-5. Zastępcę wojewódzkiego inspektora powołuje i odwołuje wojewoda na wniosek wojewódzkiego inspektora.”.
+- **2)** w art. 53 ust. 4 i 5 otrzymują brzmienie: „4. Wojewódzkiego inspektora powołuje i odwołuje wojewoda w porozumieniu z Głównym Inspektorem. 5. Zastępcę wojewódzkiego inspektora powołuje i odwołuje wojewoda na wniosek wojewódzkiego inspektora.”.
 
 **Art. 23.** W ustawie z dnia 3 lipca 2002 r. - Prawo lotnicze (Dz. U. Nr 130, poz. 1112, z późz. zm. ) w art. 197 ust. 1 otrzymuje brzmienie: „1. Na wniosek właściwej jednostki samorządu terytorialnego Prezes Urzędu może zarządzić, aby określona trasa o stosunkowo nieznacznym ruchu, lecz ważna dla miasta lub regionu, była obsługiwana na zasadzie obowiązku użyteczności publicznej, z zachowaniem przez przewoźnika określonych wymagań dotyczących w szczególności ciągłości i regularności przewozów, zdolności przewozowej i poziomu opłat za przewozy, ogłaszając ten fakt w dzienniku urzędowym Urzędu.”.
 

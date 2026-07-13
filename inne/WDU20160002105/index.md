@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie zakresu danych udostępnianych podmiotom obowiązanym do przekazywania danych do centralnej ewidencji kierowców Na podstawie art. 100ad ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r.
 poz. 1137, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Cyfryzacji z dnia 23 marca 2016 r. w sprawie zakresu danych udostępnianych podmiotom obowiązanym do przekazywania danych do centralnej ewidencji kierowców (Dz. U. poz. 412) § 13 otrzymuje brzmienie: „§ 13. Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-Minister Cyfryzacji: A. Streżyńska
+
+**§ 1.** W rozporządzeniu Ministra Cyfryzacji z dnia 23 marca 2016 r. w sprawie zakresu danych udostępnianych podmiotom obowiązanym do przekazywania danych do centralnej ewidencji kierowców (Dz. U. poz. 412) § 13 otrzymuje brzmienie: „§ 13. Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. Minister Cyfryzacji: A. Streżyńska
 

@@ -27,34 +27,52 @@ source: pdf
 
 Poz. 1293 o ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH z dnia 13 listopada g 2012 r.
 w sprawie warunków technicznych parkingów, na które są usuwane pojazdy przewożące towary niebezpieczne Na podstawie art. 106 ust. 2 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. Nr 227, poz. 1367 i Nr 244, poz. 1454) zarządza się, co następuje: .
-§ 1. Rozporządzenie określa warunki techniczne l parkingów, na które są usuwane pojazdy przewożące towary niebezpieczne, wraz z miejscami przeładunkowymi towarów niebezpiecznych.
-c
-§ 2. 1. Na parkingu, o którym mowa w § 1, wyznacza się:
-1) co najmniej dwa stanowiska postojowe przeznaczone dla usuniętych pojazdów przewożących towary niebezpieczne, z których przynajmniej jedno powinno być przelotowe i mieć wymiary co najmniej 3,5 m x 20 m;
-2) miejsce przeładunku o wymiarach r co najmniej 30 m x 20 m, umożliwiające przeładunek towarów niebezpiecznych lub dokonanie innych czynności zabezpieczających.
+
+**§ 1.** Rozporządzenie określa warunki techniczne l parkingów, na które są usuwane pojazdy przewożące towary niebezpieczne, wraz z miejscami przeładunkowymi towarów niebezpiecznych. c
+
+**§ 2.**
+
+1. Na parkingu, o którym mowa w § 1, wyznacza się:
+
+- **1)** co najmniej dwa stanowiska postojowe przeznaczone dla usuniętych pojazdów przewożących towary niebezpieczne, z których przynajmniej jedno powinno być przelotowe i mieć wymiary co najmniej 3,5 m x 20 m;
+- **2)** miejsce przeładunku o wymiarach r co najmniej 30 m x 20 m, umożliwiające przeładunek towarów niebezpiecznych lub dokonanie innych czynności zabezpieczających.
+
 2. Miejsca przeładunku można . nie wyznaczać, jeżeli co najmniej jedno stanowisko postojowe ma wymiary umożliwiające przeładunek towaru niebezpiecznego do innego pojazdu lub dokonanie innych czynności zabezpieczających, w tym również z użyciem w urządzeń służących do przenoszenia ładunków.
-§ 3. 1. Stanowisko postojowe oraz miejsce przeładunku, o których mowa w § 2 ust. 1:
-1) nie może być usytuowane w odległości mniejszej niż:
-a) 30 m od stanowisk postojowych dla innych pojazdów, urządzeń inżynieryjnych niezwiązanych z parkingiem, granicy sąsiedniej działki oraz budynków i obiektów nieprzeznaczonych na pobyt ludzi,
-b) 40 m od lasu o powierzchni powyżej 3 ha, gazociągów wysokiego ciśnienia i torów kolejowych,
-c) 300 m od budynków mieszkalnych lub innych obiektów przeznaczonych na pobyt ludzi, ujęć wody, studni publicznych lub urządzeń służących do magazynowania i uzdatniania wody,
-d) 15 m od obiektów, o których mowa w lit. a, w przypadku zastosowania wolno stojącej ściany oddzielenia przeciwpożarowego o klasie odporności ogniowej co najmniej REI 120 i wysokości co najmniej 4 m, w e) 150 m od budynków mieszkalnych lub innych obiektów przeznaczonych na pobyt ludzi, ujęć wody, studni publicznych lub urządzeń służących do magazynowania i uzdatniania wody, w przypadku zastosowania wolno stojącej ściany oddzielenia przeciwpożarowego o klasie odporności ogniowej co najmniej REI 120 i wysokości co najmniej 4 m;
-2) nie może być usytuowane w zagłębieniach terenu, na terenie podmokłym oraz w odległości mniejszej niż 10 m od rowów, studzienek i urządzeń melioracyjnych;
-3) powinno mieć odrębny, szczelny system odwadniania, zaopatrzony w urządzenia do zbierania i neutralizacji wycieków materiałów niebezpiecznych.
+
+**§ 3.**
+
+1. Stanowisko postojowe oraz miejsce przeładunku, o których mowa w § 2 ust. 1:
+
+- **1)** nie może być usytuowane w odległości mniejszej niż:
+    - **a)** 30 m od stanowisk postojowych dla innych pojazdów, urządzeń inżynieryjnych niezwiązanych z parkingiem, granicy sąsiedniej działki oraz budynków i obiektów nieprzeznaczonych na pobyt ludzi,
+    - **b)** 40 m od lasu o powierzchni powyżej 3 ha, gazociągów wysokiego ciśnienia i torów kolejowych,
+    - **c)** 300 m od budynków mieszkalnych lub innych obiektów przeznaczonych na pobyt ludzi, ujęć wody, studni publicznych lub urządzeń służących do magazynowania i uzdatniania wody,
+    - **d)** 15 m od obiektów, o których mowa w lit. a, w przypadku zastosowania wolno stojącej ściany oddzielenia przeciwpożarowego o klasie odporności ogniowej co najmniej REI 120 i wysokości co najmniej 4 m, w e) 150 m od budynków mieszkalnych lub innych obiektów przeznaczonych na pobyt ludzi, ujęć wody, studni publicznych lub urządzeń służących do magazynowania i uzdatniania wody, w przypadku zastosowania wolno stojącej ściany oddzielenia przeciwpożarowego o klasie odporności ogniowej co najmniej REI 120 i wysokości co najmniej 4 m;
+
+- **2)** nie może być usytuowane w zagłębieniach terenu, na terenie podmokłym oraz w odległości mniejszej niż 10 m od rowów, studzienek i urządzeń melioracyjnych;
+- **3)** powinno mieć odrębny, szczelny system odwadniania, zaopatrzony w urządzenia do zbierania i neutralizacji wycieków materiałów niebezpiecznych.
+
 2. Nawierzchnia stanowiska postojowego oraz miejsca przeładunku powinna być utwardzona, nienasiąkliwa oraz zapobiegająca przenikaniu materiałów niebezpiecznych do gruntu, urządzeń wodnych v i wód.
+
 3. Ukształtowanie nawierzchni stanowiska postojowego oraz miejsca przeładunku powinno uniemożliwiać rozprzestrzenianie się ewentualnego rozlewiska materiałów niebezpiecznych poza terenem stanowiska.
+
 4. Do stanowiska postojowego oraz miejsca przeładunku zapewnia o się dojazd o parametrach technicznych określonych w przepisach dotyczących wymagań w zakresie dróg pożarowych.
-§ 4. 1. Parking, o którym mowa w § 1, wyposaża się w:
-1) odpowiednie znaki drogowe oraz znaki informacyjno-ostrzegawcze; g
-2) sprzęt przeciwpożarowy, w szczególności:
-a) gaśnicę przewoźną 25 kg proszkową lub CO ,
-b) dwie gaśnice proszkowe 6 kg, .
-c) 2 koce gaśnicze,
-d) skrzynię zawierającą co najmniej 1 m piasku, l
-e) substancje i materiały neutralizujące c i pochłaniające;
-3) dostęp do bieżącej wody.
-2. Parking, mający więcej niż 4 stanowiska postojowe dla pojazdów przewożących towary niebezpieczne, powinien mieć źródło wody o wydajności co r najmniej 10 dm /s lub zapas wody w ilości 100 m w przeciwpożarowym zbiorniku wodnym, zgodnie z wymogami określonymi w przepisach dotyczących wymagań w zakresie przeciwpożarowego zaopatrzenia w wodę.
-.
-§ 5. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-w Minister Spraw Wewnętrznych: J. Cichocki w
+
+**§ 4.**
+
+1. Parking, o którym mowa w § 1, wyposaża się w:
+
+- **1)** odpowiednie znaki drogowe oraz znaki informacyjno-ostrzegawcze; g
+- **2)** sprzęt przeciwpożarowy, w szczególności:
+    - **a)** gaśnicę przewoźną 25 kg proszkową lub CO ,
+    - **b)** dwie gaśnice proszkowe 6 kg, .
+    - **c)** 2 koce gaśnicze,
+    - **d)** skrzynię zawierającą co najmniej 1 m piasku, l
+    - **e)** substancje i materiały neutralizujące c i pochłaniające;
+
+- **3)** dostęp do bieżącej wody.
+
+2. Parking, mający więcej niż 4 stanowiska postojowe dla pojazdów przewożących towary niebezpieczne, powinien mieć źródło wody o wydajności co r najmniej 10 dm /s lub zapas wody w ilości 100 m w przeciwpożarowym zbiorniku wodnym, zgodnie z wymogami określonymi w przepisach dotyczących wymagań w zakresie przeciwpożarowego zaopatrzenia w wodę. .
+
+**§ 5.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. w Minister Spraw Wewnętrznych: J. Cichocki w
 

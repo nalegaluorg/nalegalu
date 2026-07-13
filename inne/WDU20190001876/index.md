@@ -25,8 +25,12 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001876) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1876/text.pdf) |
 
-§ 1. Rozporządzenie określa: ROZPORZĄDZENIE usługę dostępu do informacji o rachunku
-1) terminy uiszczania, wysokość PREZESA i sposób RADY obliczania MINISTRÓW wpłat wnoszonych przez dostawców świadczących Na podstawie wyłącznie art. 117c ust. usługę 3 ustawy z dnia dostępu 23 z września dnia do 19 2019 informacji sierpnia r. 2011 o r. rachunku, o usługach zwanych płatniczych dalej (Dz. w „dostawcami”, sprawie U. z 2019 wpłat r. na poz. na pokrycie pokrycie 659, 730 kosztów i kosztów 1495) nadzoru zarządza nadzoru nad dostawcami się, nad co następuje: dostawcami, świadczącymi zwanych wyłącznie usługę dalej dostępu „kosztami do informacji o rachunku nadzoru”;
+**§ 1.** Rozporządzenie określa: ROZPORZĄDZENIE usługę dostępu do informacji o rachunku
+
+- **1)** terminy uiszczania, wysokość PREZESA i sposób RADY obliczania MINISTRÓW wpłat wnoszonych przez dostawców świadczących Na podstawie wyłącznie art. 117c ust. usługę 3 ustawy z dnia dostępu 23 z września dnia do 19 2019 informacji sierpnia r. 2011 o r. rachunku, o usługach zwanych płatniczych dalej (Dz. w „dostawcami”, sprawie U. z 2019 wpłat r. na poz. na pokrycie pokrycie 659, 730 kosztów i kosztów 1495) nadzoru zarządza nadzoru nad dostawcami się, nad co następuje: dostawcami, świadczącymi zwanych wyłącznie usługę dalej dostępu „kosztami do informacji o rachunku nadzoru”;
+
+## Załącznik
+
 § 1. Rozporządzenie określa: Na podstawie art. 117c ust. 3 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2019 r. poz. 659, 730 i 2) 1495) sposób i terminy rozliczenia należności z tytułu wpłat, o których mowa w pkt 1.
 1) zarządza terminy się, co uiszczania, następuje: wysokość i sposób obliczania wpłat wnoszonych przez dostawców
 § 1. § Rozporządzenie 2. świadczących 1. Wysokość określa: wyłącznie należnej wpłaty usługę dostępu od dostawcy do informacji na pokrycie o rachunku, kosztów zwanych nadzoru za dalej dany
@@ -63,8 +67,4 @@ PK o nadzorze – oznacza nad rynkiem planowane finansowym, koszty ujęte nadzor
 4. Deklarację, o której mowa w ust. 2, sporządza się na formularzu, którego wzór określa załącznik do rozporządzenia.
 § 5. Dostawca rozpoczynający działalność pierwszą należną wpłatę uiszcza za rok kalendarzowy następujący po roku, w którym rozpoczął działalność.
 § 6. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki Załącznik do rozporządzenia Prezesa Rady Ministrów (poz. ) WZÓR WZÓR DEKLARACJA O WYSOKOŚCI NALEŻNEJ WPŁATY OD DOSTAWCÓW ŚWIADCZĄCYCH WYŁĄCZNIE USŁUGĘ DOSTĘPU DO INFORMACJI O RACHUNKU NA POKRYCIE KOSZTÓW NADZORU ZA ROK … Nazwa dostawcy świadczącego wyłącznie usługę dostępu do informacji o rachunku: …………………………………..
-…………………………………..
-NIP: …………………………………..
-POZ. WYSZCZEGÓLNIENIE DANE, W TYM KWOTY ZAOKRĄGLONE DO PEŁNYCH ZŁOTYCH 1 Liczba użytkowników, dla których dostawca świadczył usługę dostępu do informacji o rachunku w poprzednim roku kalendarzowym 2 Wysokość stawki obowiązującej w danym roku kalendarzowym 3 Wysokość należnej wpłaty 4 Kwota wpłaty dokonanej na rachunek bankowy Urzędu Komisji Nadzoru Finansowego 5 Data wpłaty, o której mowa w poz. 4 Osoba upoważniona do złożenia deklaracji: …............................…………………………………… …............................……………………………………
 

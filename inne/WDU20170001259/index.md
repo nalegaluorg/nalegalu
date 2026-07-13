@@ -31,18 +31,27 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 7 lipca 2010 r.
 w sprawie wymagań weterynaryjnych przy produkcji produktów mlecznych o tradycyjnym charakterze Na podstawie art. 14 ust. 2 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2017 r.
 poz. 242 i 471) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wymagania weterynaryjne, jakie powinny być spełnione przy produkcji:
-1) redykołki,
-2) oscypka,
-3) bryndzy podhalańskiej,
-4) bundzu,
-5) żentycy – w zakładach zlokalizowanych w regionach o szczególnych ograniczeniach geograficznych.
-§ 2. Za regiony o szczególnych ograniczeniach geograficznych uważa się obszary o niekorzystnych warunkach gospodarowania typu górskiego oraz typu ze specyficznymi utrudnieniami, określone zgodnie z przepisami o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich.
-§ 3. W zakładach produkujących produkty mleczne o tradycyjnym charakterze, o których mowa w § 1, można odstąpić od spełniania wymagań określonych w rozporządzeniu (WE) nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych (Dz. Urz. UE L 139 z 30.04.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 319), zwanym dalej „rozporządzeniem (WE) nr 852/2004”, w załączniku II w rozdziale I w ust. 2 lit. a–b, jeżeli w zakładach tych stosuje się procedury gwarantujące, że wprowadzane na rynek produkty nie będą zawierały zanieczyszczeń.
-§ 4. W zakładach produkujących produkty mleczne o tradycyjnym charakterze, o których mowa w § 1, można odstąpić od spełniania wymagań określonych w rozporządzeniu (WE) nr 852/2004 w załączniku II w rozdziale I w ust. 3, 4 i 8, jeżeli w zakładach tych stosuje się procedury zapewniające bezpieczeństwo produktów pochodzenia zwierzęcego oraz realizację celów w zakresie higieny tych produktów, określonych w tym rozporządzeniu.
-§ 5. W przypadku mleka surowego pozyskiwanego do produkcji produktów mlecznych o tradycyjnym charakterze, o których mowa w § 1:
-1) liczba drobnoustrojów, o której mowa w rozporządzeniu (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającym szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14) w załączniku III w sekcji IX w rozdziale I w części III w ust. 3, jest ustalana przez wyliczenie średniej geometrycznej z okresu 2 miesięcy przy pobraniu przynajmniej jednej próbki w miesiącu;
-2) pierwsza kontrola, o której mowa w rozporządzeniu (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającym szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego w załączniku III w sekcji IX w rozdziale I w części III w ust. 2, mająca na celu sprawdzenie, czy reprezentatywna liczba pobranych losowo próbek surowego mleka z gospodarstwa produkującego mleko jest zgodna z wymaganiami określonymi w załączniku III w sekcji IX w rozdziale I w części III w ust. 4 tego rozporządzenia, jest przeprowadzana przed rozpoczęciem pozyskiwania mleka surowego do produkcji.
-§ 6. Procedury, o których mowa w § 3 i 4, są opracowywane przez podmioty prowadzące zakłady produkujące produkty mleczne o tradycyjnym charakterze, o których mowa w § 1.
-§ 7. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Rozporządzenie określa wymagania weterynaryjne, jakie powinny być spełnione przy produkcji:
+
+- **1)** redykołki,
+- **2)** oscypka,
+- **3)** bryndzy podhalańskiej,
+- **4)** bundzu,
+- **5)** żentycy – w zakładach zlokalizowanych w regionach o szczególnych ograniczeniach geograficznych.
+
+**§ 2.** Za regiony o szczególnych ograniczeniach geograficznych uważa się obszary o niekorzystnych warunkach gospodarowania typu górskiego oraz typu ze specyficznymi utrudnieniami, określone zgodnie z przepisami o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich.
+
+**§ 3.** W zakładach produkujących produkty mleczne o tradycyjnym charakterze, o których mowa w § 1, można odstąpić od spełniania wymagań określonych w rozporządzeniu (WE) nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych (Dz. Urz. UE L 139 z 30.04.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 319), zwanym dalej „rozporządzeniem (WE) nr 852/2004”, w załączniku II w rozdziale I w ust. 2 lit. a–b, jeżeli w zakładach tych stosuje się procedury gwarantujące, że wprowadzane na rynek produkty nie będą zawierały zanieczyszczeń.
+
+**§ 4.** W zakładach produkujących produkty mleczne o tradycyjnym charakterze, o których mowa w § 1, można odstąpić od spełniania wymagań określonych w rozporządzeniu (WE) nr 852/2004 w załączniku II w rozdziale I w ust. 3, 4 i 8, jeżeli w zakładach tych stosuje się procedury zapewniające bezpieczeństwo produktów pochodzenia zwierzęcego oraz realizację celów w zakresie higieny tych produktów, określonych w tym rozporządzeniu.
+
+**§ 5.** W przypadku mleka surowego pozyskiwanego do produkcji produktów mlecznych o tradycyjnym charakterze, o których mowa w § 1:
+
+- **1)** liczba drobnoustrojów, o której mowa w rozporządzeniu (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającym szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14) w załączniku III w sekcji IX w rozdziale I w części III w ust. 3, jest ustalana przez wyliczenie średniej geometrycznej z okresu 2 miesięcy przy pobraniu przynajmniej jednej próbki w miesiącu;
+- **2)** pierwsza kontrola, o której mowa w rozporządzeniu (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającym szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego w załączniku III w sekcji IX w rozdziale I w części III w ust. 2, mająca na celu sprawdzenie, czy reprezentatywna liczba pobranych losowo próbek surowego mleka z gospodarstwa produkującego mleko jest zgodna z wymaganiami określonymi w załączniku III w sekcji IX w rozdziale I w części III w ust. 4 tego rozporządzenia, jest przeprowadzana przed rozpoczęciem pozyskiwania mleka surowego do produkcji.
+
+**§ 6.** Procedury, o których mowa w § 3 i 4, są opracowywane przez podmioty prowadzące zakłady produkujące produkty mleczne o tradycyjnym charakterze, o których mowa w § 1.
+
+**§ 7.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

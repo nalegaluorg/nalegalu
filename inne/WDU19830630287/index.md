@@ -8,7 +8,7 @@ pos: 287
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
 # Ustawa z dnia 22 listopada 1983 r. o zmianie ustawy o amnestii

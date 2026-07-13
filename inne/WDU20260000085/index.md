@@ -26,9 +26,9 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000085) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/85/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 maja 2025 r. o zmianie niektórych ustaw w celu zapewnienia stosowania przepisów prawa Unii Europejskiej poprawiających funkcjonowanie rynku wewnętrznego (Dz. U. poz. 794) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 stycznia 2026 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 i art. 6 ustawy z dnia 9 maja 2025 r. o zmianie niektórych ustaw w celu zapewnienia stosowania przepisów prawa Unii Europejskiej poprawiających funkcjonowanie rynku wewnętrznego (Dz. U. poz. 794), które stanowią: „Art. 5. Minister właściwy do spraw gospodarki przekazuje Komisji Europejskiej listę, o której mowa w art. 19a ustawy zmienianej w art. 1, nie później niż w terminie 7 dni od dnia dokonania pierwszego wpisu na tę listę.
-
-**Art. 6.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 i art. 6 ustawy z dnia 9 maja 2025 r. o zmianie niektórych ustaw w celu zapewnienia stosowania przepisów prawa Unii Europejskiej poprawiających funkcjonowanie rynku wewnętrznego (Dz. U. poz. 794), które stanowią: „ Art. 5. Minister właściwy do spraw gospodarki przekazuje Komisji Europejskiej listę, o której mowa w art. 19a ustawy zmienianej w art. 1, nie później niż w terminie 7 dni od dnia dokonania pierwszego wpisu na tę listę. Art. 6. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty
+USTAWA z dnia 16 kwietnia 1993 r.
+o zwalczaniu nieuczciwej konkurencji
 
 #### Rozdział 1 Przepisy ogólne
 

@@ -27,13 +27,7 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001503) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1503/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2020 r. poz. 261, 284, 568, 695 i 1086) po art. 184e dodaje się art. 184f i art. 184g w brzmieniu: „Art. 184f. Od dnia 1 października 2020 r. do dnia 31 grudnia 2021 r. za drewno energetyczne uznaje się:
-
-- **1)** surowiec drzewny niebędący drewnem tartacznym i skrawanym, stanowiącym dłużyce, kłody tartaczne i skrawane oraz niebędący materiałem drzewnym powstałym w wyniku procesu celowego rozdrobnienia tego surowca drzewnego;
-- **2)** produkty uboczne będące efektem przetworzenia surowca drzewnego, niezanieczyszczone substancjami niewystępującymi naturalnie w drewnie;
-- **3)** odpady, będące efektem przetworzenia surowca drzewnego, niezanieczyszczone substancjami niewystępującymi naturalnie w drewnie, zagospodarowywane zgodnie z hierarchią sposobów postępowania z odpadami.
-
-**Art. 184g.** W okresie od dnia 1 października 2020 r. do dnia 31 grudnia 2021 r. do drewna energetycznego w rozumieniu art. 184f nie stosuje się przepisów wydanych na podstawie art. 119a.”.
+**Art. 1.** W ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2020 r. poz. 261, 284, 568, 695 i 1086) po art. 184e dodaje się art. 184f i art. 184g w brzmieniu: „Art. 184f. Od dnia 1 października 2020 r. do dnia 31 grudnia 2021 r. za drewno energetyczne uznaje się: 1) surowiec drzewny niebędący drewnem tartacznym i skrawanym, stanowiącym dłużyce, kłody tartaczne i skrawane oraz niebędący materiałem drzewnym powstałym w wyniku procesu celowego rozdrobnienia tego surowca drzewnego; 2) produkty uboczne będące efektem przetworzenia surowca drzewnego, niezanieczyszczone substancjami niewystępującymi naturalnie w drewnie; 3) odpady, będące efektem przetworzenia surowca drzewnego, niezanieczyszczone substancjami niewystępującymi naturalnie w drewnie, zagospodarowywane zgodnie z hierarchią sposobów postępowania z odpadami. Art. 184g. W okresie od dnia 1 października 2020 r. do dnia 31 grudnia 2021 r. do drewna energetycznego w rozumieniu art. 184f nie stosuje się przepisów wydanych na podstawie art. 119a.”.
 
 **Art. 2.**
 

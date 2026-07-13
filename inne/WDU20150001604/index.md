@@ -34,17 +34,15 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętr
 2) § 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 grudnia 2014 r. zmieniającego rozporządzenie w sprawie określenia wzorów wniosków o udostępnienie danych z Rejestru Dowodów Osobistych oraz dokumentacji związanej z dowodami osobistymi (Dz. U. poz. 1945), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2014 r.”. Minister Spraw Wewnętrznych: wz. P. Stachańczyk Minister Spraw Wewnętrznych kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych (Dz. U. poz. 1265).
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 7 października 2011 r.
 w sprawie określenia wzorów wniosków o udostępnienie danych z Rejestru Dowodów Osobistych oraz dokumentacji związanej z dowodami osobistymi Na podstawie art. 78 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. Nr 167, poz. 1131, z późn. zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzór wniosku o udostępnienie danych w trybie jednostkowym z Rejestru Dowodów Osobistych – stanowiący załącznik nr 1 do rozporządzenia;
-2) wzór wniosku o udostępnianie danych w trybie pełnej teletransmisji danych z Rejestru Dowodów Osobistych – stanowiący załącznik nr 2 do rozporządzenia;
-3) wzór wniosku o udostępnianie danych w trybie ograniczonej teletransmisji danych z Rejestru Dowodów Osobistych – stanowiący załącznik nr 3 do rozporządzenia;
-4) wzór wniosku o udostępnienie dokumentacji związanej z dowodami osobistymi – stanowiący załącznik nr 4 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r.
-Obecnie działem administracji rządowej − sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych (Dz. U. poz. 1265).
-Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 133, poz. 768, z 2012 r. poz. 1407 oraz z 2014 r. poz. 1741 i 1888.
-W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 grudnia 2014 r. zmieniającego rozporządzenie w sprawie określenia wzorów wniosków o udostępnienie danych z Rejestru Dowodów Osobistych oraz dokumentacji związanej z dowodami osobistymi (Dz. U. poz. 1945), które weszło w życie z dniem 31 grudnia 2014 r.
-Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 19 listopada 2008 r.
-w sprawie określenia wzorów wniosków o udostępnienie danych z ewidencji ludności, zbioru PESEL oraz ewidencji wydanych i unieważnionych dowodów osobistych (Dz. U. Nr 214, poz. 1353 oraz z 2010 r. Nr 105, poz. 667).
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzór wniosku o udostępnienie danych w trybie jednostkowym z Rejestru Dowodów Osobistych – stanowiący załącznik nr 1 do rozporządzenia;
+- **2)** wzór wniosku o udostępnianie danych w trybie pełnej teletransmisji danych z Rejestru Dowodów Osobistych – stanowiący załącznik nr 2 do rozporządzenia;
+- **3)** wzór wniosku o udostępnianie danych w trybie ograniczonej teletransmisji danych z Rejestru Dowodów Osobistych – stanowiący załącznik nr 3 do rozporządzenia;
+- **4)** wzór wniosku o udostępnienie dokumentacji związanej z dowodami osobistymi – stanowiący załącznik nr 4 do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 marca 2015 r. Obecnie działem administracji rządowej − sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych (Dz. U. poz. 1265). Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 133, poz. 768, z 2012 r. poz. 1407 oraz z 2014 r. poz. 1741 i 1888. W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 24 grudnia 2014 r. zmieniającego rozporządzenie w sprawie określenia wzorów wniosków o udostępnienie danych z Rejestru Dowodów Osobistych oraz dokumentacji związanej z dowodami osobistymi (Dz. U. poz. 1945), które weszło w życie z dniem 31 grudnia 2014 r. Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 19 listopada 2008 r. w sprawie określenia wzorów wniosków o udostępnienie danych z ewidencji ludności, zbioru PESEL oraz ewidencji wydanych i unieważnionych dowodów osobistych (Dz. U. Nr 214, poz. 1353 oraz z 2010 r. Nr 105, poz. 667).
 
 ## Załącznik nr 1 — WZÓR ...............................................
 

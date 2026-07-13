@@ -27,113 +27,156 @@ source: pdf
 
 w sprawie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym w środowisku pracy Na podstawie art. 222 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r.
 poz. 878) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wykaz substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym i sposób ich rejestrowania;
-2) sposób prowadzenia rejestru prac, których wykonywanie powoduje konieczność pozostawania w kontakcie z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym;
-3) sposób prowadzenia rejestru pracowników zatrudnionych przy pracach, o których mowa w pkt 2;
-4) wzory dokumentów dotyczących poziomu narażenia pracowników na substancje chemiczne, ich mieszaniny, czynniki lub procesy technologiczne o działaniu rakotwórczym, mutagennym lub reprotoksycznym oraz sposób przechowywania i przekazywania tych dokumentów do podmiotów właściwych do rozpoznawania lub stwierdzania chorób zawodowych;
-5) szczegółowe warunki ochrony pracowników przed zagrożeniami spowodowanymi przez substancje chemiczne, ich mieszaniny, czynniki lub procesy technologiczne o działaniu rakotwórczym, mutagennym lub reprotoksycznym;
-6) warunki i sposób monitorowania stanu zdrowia pracowników zatrudnionych przy pracach, których wykonywanie powoduje konieczność pozostawania w kontakcie z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym.
-§ 2. Użyte w rozporządzeniu określenia oznaczają:
-1) czynnik o działaniu rakotwórczym:
-a) substancję chemiczną lub mieszaninę, która spełnia kryteria klasyfikacji jako rakotwórcza kategorii 1A lub 1B zgodnie z załącznikiem I do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 (Dz. Urz.
-UE L 353 z 31.12.2008, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 1272/2008”,
-b) czynnik lub proces technologiczny, o których mowa w załączniku nr 1 do rozporządzenia;
-2) czynnik o działaniu mutagennym:
-a) substancję chemiczną lub mieszaninę, która spełnia kryteria klasyfikacji jako działająca mutagennie na komórki rozrodcze kategorii 1A lub 1B zgodnie z załącznikiem I do rozporządzenia nr 1272/2008,
-b) czynnik lub proces technologiczny, o których mowa w załączniku nr 1 do rozporządzenia;
-3) substancja o działaniu reprotoksycznym – substancję chemiczną lub mieszaninę, która spełnia kryteria klasyfikacji jako działająca szkodliwie na rozrodczość kategorii 1A lub 1B zgodnie z załącznikiem I do rozporządzenia nr 1272/2008;
-4) nieprogowa substancja reprotoksyczna – substancję reprotoksyczną, dla której nie istnieje bezpieczny poziom narażenia zdrowia pracowników i którą określono jako taką w przepisach wydanych na podstawie art. 228 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, zwanej dalej „Kodeksem pracy”;
-5) progowa substancja reprotoksyczna – substancję reprotoksyczną, dla której istnieje bezpieczny poziom narażenia, poniżej którego nie występuje zagrożenie dla zdrowia pracowników, i którą określono jako taką w przepisach wydanych na podstawie art. 228 § 3 Kodeksu pracy.
-§ 3. Wykaz substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym obejmuje:
-1) substancje chemiczne spełniające kryteria klasyfikacji jako rakotwórcze, mutagenne lub działające szkodliwie na rozrodczość kategorii 1A lub 1B zgodnie z rozporządzeniem nr 1272/2008;
-2) mieszaniny zawierające substancje chemiczne wymienione w pkt 1 w stężeniach powodujących spełnienie kryteriów klasyfikacji mieszaniny jako rakotwórczej, mutagennej lub działającej szkodliwie na rozrodczość kategorii 1A lub 1B zgodnie z rozporządzeniem nr 1272/2008;
-3) czynniki lub procesy technologiczne związane z uwalnianiem substancji chemicznych i mieszanin o działaniu rakotwórczym lub mutagennym określone w załączniku nr 1 do rozporządzenia.
-§ 4. 1. Pracodawca zatrudniający pracownika przy pracach, których wykonywanie powoduje konieczność pozostawania w kontakcie z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym, zwany dalej „pracodawcą”, wykonuje pomiary tych substancji chemicznych, mieszanin lub czynników, w trybie i z częstotliwością określonymi w przepisach wydanych na podstawie art. 227 § 2 Kodeksu pracy, w szczególności stosuje metody wczesnego wykrywania narażenia na te substancje chemiczne, mieszaniny lub czynniki podczas awarii lub w przypadku wystąpienia innych nieprzewidzianych okoliczności.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wykaz substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym i sposób ich rejestrowania;
+- **2)** sposób prowadzenia rejestru prac, których wykonywanie powoduje konieczność pozostawania w kontakcie z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym;
+- **3)** sposób prowadzenia rejestru pracowników zatrudnionych przy pracach, o których mowa w pkt 2;
+- **4)** wzory dokumentów dotyczących poziomu narażenia pracowników na substancje chemiczne, ich mieszaniny, czynniki lub procesy technologiczne o działaniu rakotwórczym, mutagennym lub reprotoksycznym oraz sposób przechowywania i przekazywania tych dokumentów do podmiotów właściwych do rozpoznawania lub stwierdzania chorób zawodowych;
+- **5)** szczegółowe warunki ochrony pracowników przed zagrożeniami spowodowanymi przez substancje chemiczne, ich mieszaniny, czynniki lub procesy technologiczne o działaniu rakotwórczym, mutagennym lub reprotoksycznym;
+- **6)** warunki i sposób monitorowania stanu zdrowia pracowników zatrudnionych przy pracach, których wykonywanie powoduje konieczność pozostawania w kontakcie z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym.
+
+**§ 2.** Użyte w rozporządzeniu określenia oznaczają:
+
+- **1)** czynnik o działaniu rakotwórczym: UE L 353 z 31.12.2008, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 1272/2008”,
+    - **a)** substancję chemiczną lub mieszaninę, która spełnia kryteria klasyfikacji jako rakotwórcza kategorii 1A lub 1B zgodnie z załącznikiem I do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 (Dz. Urz.
+    - **b)** czynnik lub proces technologiczny, o których mowa w załączniku nr 1 do rozporządzenia;
+
+- **2)** czynnik o działaniu mutagennym:
+    - **a)** substancję chemiczną lub mieszaninę, która spełnia kryteria klasyfikacji jako działająca mutagennie na komórki rozrodcze kategorii 1A lub 1B zgodnie z załącznikiem I do rozporządzenia nr 1272/2008,
+    - **b)** czynnik lub proces technologiczny, o których mowa w załączniku nr 1 do rozporządzenia;
+
+- **3)** substancja o działaniu reprotoksycznym – substancję chemiczną lub mieszaninę, która spełnia kryteria klasyfikacji jako działająca szkodliwie na rozrodczość kategorii 1A lub 1B zgodnie z załącznikiem I do rozporządzenia nr 1272/2008;
+- **4)** nieprogowa substancja reprotoksyczna – substancję reprotoksyczną, dla której nie istnieje bezpieczny poziom narażenia zdrowia pracowników i którą określono jako taką w przepisach wydanych na podstawie art. 228 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, zwanej dalej „Kodeksem pracy”;
+- **5)** progowa substancja reprotoksyczna – substancję reprotoksyczną, dla której istnieje bezpieczny poziom narażenia, poniżej którego nie występuje zagrożenie dla zdrowia pracowników, i którą określono jako taką w przepisach wydanych na podstawie art. 228 § 3 Kodeksu pracy.
+
+**§ 3.** Wykaz substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym obejmuje:
+
+- **1)** substancje chemiczne spełniające kryteria klasyfikacji jako rakotwórcze, mutagenne lub działające szkodliwie na rozrodczość kategorii 1A lub 1B zgodnie z rozporządzeniem nr 1272/2008;
+- **2)** mieszaniny zawierające substancje chemiczne wymienione w pkt 1 w stężeniach powodujących spełnienie kryteriów klasyfikacji mieszaniny jako rakotwórczej, mutagennej lub działającej szkodliwie na rozrodczość kategorii 1A lub 1B zgodnie z rozporządzeniem nr 1272/2008;
+- **3)** czynniki lub procesy technologiczne związane z uwalnianiem substancji chemicznych i mieszanin o działaniu rakotwórczym lub mutagennym określone w załączniku nr 1 do rozporządzenia.
+
+**§ 4.**
+
+1. Pracodawca zatrudniający pracownika przy pracach, których wykonywanie powoduje konieczność pozostawania w kontakcie z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym, zwany dalej „pracodawcą”, wykonuje pomiary tych substancji chemicznych, mieszanin lub czynników, w trybie i z częstotliwością określonymi w przepisach wydanych na podstawie art. 227 § 2 Kodeksu pracy, w szczególności stosuje metody wczesnego wykrywania narażenia na te substancje chemiczne, mieszaniny lub czynniki podczas awarii lub w przypadku wystąpienia innych nieprzewidzianych okoliczności.
+
 2. Jeżeli z przyczyn technicznych niemożliwe jest zastąpienie czynnika o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznej substancją chemiczną, mieszaniną lub procesem technologicznym, które podczas użytkowania są bezpieczne lub są mniej niebezpieczne dla zdrowia lub bezpieczeństwa pracownika, pracodawca zapewnia, aby wytwarzanie i używanie czynnika o działaniu rakotwórczym lub mutagennym lub substancji reprotoksycznej, w miarę istnienia technicznych możliwości, odbywało się w systemie zamkniętym.
+
 3. Jeżeli z przyczyn technicznych zastosowanie systemu zamkniętego jest niemożliwe, pracodawca zapewnia zmniejszenie narażenia pracowników na działanie czynnika o działaniu rakotwórczym, mutagennym lub nieprogowej substancji reprotoksycznej do tak niskiego poziomu, na jaki pozwalają możliwości techniczne.
+
 4. Jeżeli z przyczyn technicznych używanie lub wytwarzanie progowej substancji reprotoksycznej w systemie zamkniętym jest niemożliwe, pracodawca zapewnia ograniczenie do minimum zagrożenia związanego z narażeniem pracowników na działanie tej progowej substancji reprotoksycznej.
+
 5. Do substancji reprotoksycznych innych niż nieprogowe substancje reprotoksyczne i progowe substancje reprotoksyczne stosuje się ust. 4. W takim przypadku dokonując oceny ryzyka zawodowego, o której mowa w przepisach wydanych na podstawie art. 237 § 2 Kodeksu pracy, pracodawca uwzględnia możliwość, że dla takiej substancji reprotoksycznej nie istnieje bezpieczny poziom narażenia zdrowia pracownika na działanie takiej substancji, i zapewnia wprowadzenie odpowiednich środków w tym zakresie.
-§ 5. W przypadku używania czynników o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznej, pracodawca:
-1) ogranicza ilość czynnika o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznej w miejscu pracy;
-2) utrzymuje na jak najniższym poziomie liczbę pracowników, którzy są lub mogą być narażeni na działanie czynników o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznych;
-3) projektuje tak procesy pracy i środki kontroli technicznej, aby uniknąć powstawania czynników o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznych w miejscu pracy lub ograniczyć ich powstawanie do minimum;
-4) usuwa czynniki o działaniu rakotwórczym, mutagennym lub substancje reprotoksyczne w miejscu ich powstawania, do miejscowego wyciągu lub do ogólnego systemu wentylacji, w należyty sposób i zgodnie z wymogami ochrony zdrowia i środowiska;
-5) stosuje właściwe metody i procedury pracy, w tym wykorzystuje istniejące procedury badań i pomiarów czynników o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznych określone w przepisach wydanych na podstawie art. 227 § 2 Kodeksu pracy, w celu wczesnego wykrywania nadmiernego zagrożenia powstałego w wyniku nieprzewidywalnego zdarzenia lub wypadku;
-6) stosuje środki ochrony zbiorowej lub – tam, gdzie nie można uniknąć narażenia na działanie czynników o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznych za pomocą innych środków – środki ochrony indywidualnej;
-7) stosuje środki higieny, szczególnie regularne czyszczenie podłóg, ścian i innych powierzchni;
-8) odgranicza miejsca zagrożone i stosuje odpowiednie znaki ostrzegawcze, włącznie ze znakami ,,zakaz paleniaˮ, w miejscach, w których pracownicy są lub mogą być narażeni na działanie czynników o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznych;
-9) określa plan działania w nagłych wypadkach, które mogą wyniknąć z nadmiernego narażenia na działanie czynników o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznych;
-10) stosuje sposoby bezpiecznego przechowywania, przeładunku i transportu, szczególnie przez zastosowanie pojemników szczelnie zamkniętych i oznakowanych w sposób czytelny i widoczny;
-11) stosuje sposoby bezpiecznego gromadzenia, przechowywania i usuwania odpadów, włącznie z zastosowaniem pojemników szczelnie zamkniętych i oznakowanych w sposób czytelny i widoczny.
-§ 6. 1. Pracodawca prowadzi rejestr prac, których wykonywanie powoduje konieczność pozostawania w kontakcie z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym, zawierający następujące dane:
-1) wykaz procesów technologicznych i prac, w których substancje chemiczne i ich mieszaniny lub czynniki o działaniu rakotwórczym, mutagennym lub reprotoksycznym są stosowane, produkowane lub występują jako zanieczyszczenia bądź produkt uboczny, oraz wykaz tych substancji chemicznych i ich mieszanin oraz czynników wraz z podaniem wielkości produkcji lub stosowania;
-2) uzasadnienie konieczności stosowania substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym, o których mowa w pkt 1;
-3) wykaz i opis stanowisk pracy, na których występuje konieczność pozostawania w kontakcie z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym;
-4) liczbę pracowników zatrudnionych przy pracach, o których mowa w pkt 3, z podziałem na liczbę pracowników zatrudnionych przy pracach w stężeniach do 0,1 (włącznie) wartości najwyższego dopuszczalnego stężenia (NDS), określonego w przepisach wydanych na podstawie art. 228 § 3 Kodeksu pracy, i pozostałych pracowników, z uwzględnieniem płci, przy czym za pracowników zatrudnionych przy pracach w stężeniach do 0,1 (włącznie) wartości NDS uznaje się pracowników zatrudnionych w warunkach spełniających przynajmniej jedno z następujących kryteriów:
-a) na ich stanowiskach pracy występuje substancja chemiczna spełniająca kryteria, o których mowa w § 3 pkt 1, zarówno w postaci własnej, jak i jako zanieczyszczenie lub składnik innych substancji spełniających kryteria, o których mowa w § 3 pkt 1, lub jako składnik mieszanin spełniających kryteria, o których mowa w § 3 pkt 2, w przypadku której w przepisach wydanych na podstawie art. 228 § 3 Kodeksu pracy została ustalona wartość NDS w środowisku pracy i dwa kolejne pomiary stężeń tej substancji w powietrzu środowiska pracy, przeprowadzone w odstępie czasu określonym w przepisach wydanych na podstawie art. 227 § 2 Kodeksu pracy, nie wykazały stężeń powyżej 0,1 wartości NDS,
-b) na ich stanowiskach pracy występuje wymieniony w załączniku nr 1 do rozporządzenia proces technologiczny, w przypadku którego w przepisach wydanych na podstawie art. 228 § 3 Kodeksu pracy została ustalona wartość NDS w środowisku pracy czynnika chemicznego lub pyłowego wskazanego w danym procesie technologicznym i dwa kolejne pomiary stężeń tego czynnika, przeprowadzone w odstępie czasu określonym w przepisach wydanych na podstawie art. 227 § 2 Kodeksu pracy, nie wykazały stężeń powyżej 0,1 wartości NDS,
-c) pracują przy badaniach naukowych i rozwojowych określonych w rozporządzeniu (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH), utworzenia Europejskiej Agencji Chemikaliów, zmieniającym dyrektywę 1999/45/WE oraz uchylającym rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm. ), obejmujących doświadczenia naukowe, analizy lub badania chemiczne, w których substancje chemiczne o działaniu rakotwórczym, mutagennym lub reprotoksycznym występują zarówno w postaci własnej, jak i jako zanieczyszczenia lub składniki innych substancji o działaniu rakotwórczym, mutagennym lub reprotoksycznym lub mieszanin o działaniu rakotwórczym, mutagennym lub reprotoksycznym, przeprowadzane w kontrolowanych warunkach z użyciem substancji w ilości mniejszej niż 1 tona rocznie;
-5) określenie rodzaju substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym występujących na stanowisku pracy, drogi i poziomu narażenia na ich działanie oraz czasu trwania tego narażenia;
-6) rodzaje podjętych środków i działań ograniczających poziom narażenia na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym.
+
+**§ 5.** W przypadku używania czynników o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznej, pracodawca:
+
+- **1)** ogranicza ilość czynnika o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznej w miejscu pracy;
+- **2)** utrzymuje na jak najniższym poziomie liczbę pracowników, którzy są lub mogą być narażeni na działanie czynników o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznych;
+- **3)** projektuje tak procesy pracy i środki kontroli technicznej, aby uniknąć powstawania czynników o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznych w miejscu pracy lub ograniczyć ich powstawanie do minimum;
+- **4)** usuwa czynniki o działaniu rakotwórczym, mutagennym lub substancje reprotoksyczne w miejscu ich powstawania, do miejscowego wyciągu lub do ogólnego systemu wentylacji, w należyty sposób i zgodnie z wymogami ochrony zdrowia i środowiska;
+- **5)** stosuje właściwe metody i procedury pracy, w tym wykorzystuje istniejące procedury badań i pomiarów czynników o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznych określone w przepisach wydanych na podstawie art. 227 § 2 Kodeksu pracy, w celu wczesnego wykrywania nadmiernego zagrożenia powstałego w wyniku nieprzewidywalnego zdarzenia lub wypadku;
+- **6)** stosuje środki ochrony zbiorowej lub – tam, gdzie nie można uniknąć narażenia na działanie czynników o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznych za pomocą innych środków – środki ochrony indywidualnej;
+- **7)** stosuje środki higieny, szczególnie regularne czyszczenie podłóg, ścian i innych powierzchni;
+- **8)** odgranicza miejsca zagrożone i stosuje odpowiednie znaki ostrzegawcze, włącznie ze znakami ,,zakaz paleniaˮ, w miejscach, w których pracownicy są lub mogą być narażeni na działanie czynników o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznych;
+- **9)** określa plan działania w nagłych wypadkach, które mogą wyniknąć z nadmiernego narażenia na działanie czynników o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznych;
+- **10)** stosuje sposoby bezpiecznego przechowywania, przeładunku i transportu, szczególnie przez zastosowanie pojemników szczelnie zamkniętych i oznakowanych w sposób czytelny i widoczny;
+- **11)** stosuje sposoby bezpiecznego gromadzenia, przechowywania i usuwania odpadów, włącznie z zastosowaniem pojemników szczelnie zamkniętych i oznakowanych w sposób czytelny i widoczny.
+
+**§ 6.**
+
+1. Pracodawca prowadzi rejestr prac, których wykonywanie powoduje konieczność pozostawania w kontakcie z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym, zawierający następujące dane:
+
+- **1)** wykaz procesów technologicznych i prac, w których substancje chemiczne i ich mieszaniny lub czynniki o działaniu rakotwórczym, mutagennym lub reprotoksycznym są stosowane, produkowane lub występują jako zanieczyszczenia bądź produkt uboczny, oraz wykaz tych substancji chemicznych i ich mieszanin oraz czynników wraz z podaniem wielkości produkcji lub stosowania;
+- **2)** uzasadnienie konieczności stosowania substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym, o których mowa w pkt 1;
+- **3)** wykaz i opis stanowisk pracy, na których występuje konieczność pozostawania w kontakcie z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym;
+- **4)** liczbę pracowników zatrudnionych przy pracach, o których mowa w pkt 3, z podziałem na liczbę pracowników zatrudnionych przy pracach w stężeniach do 0,1 (włącznie) wartości najwyższego dopuszczalnego stężenia (NDS), określonego w przepisach wydanych na podstawie art. 228 § 3 Kodeksu pracy, i pozostałych pracowników, z uwzględnieniem płci, przy czym za pracowników zatrudnionych przy pracach w stężeniach do 0,1 (włącznie) wartości NDS uznaje się pracowników zatrudnionych w warunkach spełniających przynajmniej jedno z następujących kryteriów:
+    - **a)** na ich stanowiskach pracy występuje substancja chemiczna spełniająca kryteria, o których mowa w § 3 pkt 1, zarówno w postaci własnej, jak i jako zanieczyszczenie lub składnik innych substancji spełniających kryteria, o których mowa w § 3 pkt 1, lub jako składnik mieszanin spełniających kryteria, o których mowa w § 3 pkt 2, w przypadku której w przepisach wydanych na podstawie art. 228 § 3 Kodeksu pracy została ustalona wartość NDS w środowisku pracy i dwa kolejne pomiary stężeń tej substancji w powietrzu środowiska pracy, przeprowadzone w odstępie czasu określonym w przepisach wydanych na podstawie art. 227 § 2 Kodeksu pracy, nie wykazały stężeń powyżej 0,1 wartości NDS,
+    - **b)** na ich stanowiskach pracy występuje wymieniony w załączniku nr 1 do rozporządzenia proces technologiczny, w przypadku którego w przepisach wydanych na podstawie art. 228 § 3 Kodeksu pracy została ustalona wartość NDS w środowisku pracy czynnika chemicznego lub pyłowego wskazanego w danym procesie technologicznym i dwa kolejne pomiary stężeń tego czynnika, przeprowadzone w odstępie czasu określonym w przepisach wydanych na podstawie art. 227 § 2 Kodeksu pracy, nie wykazały stężeń powyżej 0,1 wartości NDS,
+    - **c)** pracują przy badaniach naukowych i rozwojowych określonych w rozporządzeniu (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH), utworzenia Europejskiej Agencji Chemikaliów, zmieniającym dyrektywę 1999/45/WE oraz uchylającym rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm. ), obejmujących doświadczenia naukowe, analizy lub badania chemiczne, w których substancje chemiczne o działaniu rakotwórczym, mutagennym lub reprotoksycznym występują zarówno w postaci własnej, jak i jako zanieczyszczenia lub składniki innych substancji o działaniu rakotwórczym, mutagennym lub reprotoksycznym lub mieszanin o działaniu rakotwórczym, mutagennym lub reprotoksycznym, przeprowadzane w kontrolowanych warunkach z użyciem substancji w ilości mniejszej niż 1 tona rocznie;
+
+- **5)** określenie rodzaju substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym występujących na stanowisku pracy, drogi i poziomu narażenia na ich działanie oraz czasu trwania tego narażenia;
+- **6)** rodzaje podjętych środków i działań ograniczających poziom narażenia na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym.
+
 2. Pracodawca przekazuje informację o substancjach chemicznych, ich mieszaninach, czynnikach lub procesach technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym właściwemu państwowemu wojewódzkiemu inspektorowi sanitarnemu oraz właściwemu okręgowemu inspektorowi pracy niezwłocznie po rozpoczęciu działalności oraz corocznie, w terminie do dnia 15 stycznia za rok poprzedni, albo na ich wniosek. Informacja uwzględnia dane, o których mowa w ust. 1, i jest sporządzana według wzoru stanowiącego załącznik nr 2 do rozporządzenia.
+
 3. Na podstawie danych, o których mowa w ust. 1, przekazanych przez państwowych wojewódzkich inspektorów sanitarnych Instytut Medycyny Pracy im. prof. dr. J. Nofera w Łodzi prowadzi Centralny rejestr danych o narażeniu na substancje chemiczne, ich mieszaniny, czynniki lub procesy technologiczne o działaniu rakotwórczym, mutagennym lub reprotoksycznym.
+
 4. W przypadku jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych pracodawca przekazuje informację, o której mowa w ust. 2, komendantowi właściwego terytorialnie wojskowego ośrodka medycyny prewencyjnej w trybie i w terminach i według wzoru wskazanych w tym przepisie.
+
 5. Na podstawie danych przekazanych przez komendantów właściwych terytorialnie wojskowych ośrodków medycyny prewencyjnej Wojskowy Instytut Higieny i Epidemiologii imienia Generała Karola Kaczkowskiego w Warszawie prowadzi rejestr substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym występujących w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych.
-§ 7. 1. Pracodawca prowadzi rejestr pracowników zatrudnionych przy pracach, których wykonywanie powoduje konieczność pozostawania w kontakcie z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym.
+
+**§ 7.**
+
+1. Pracodawca prowadzi rejestr pracowników zatrudnionych przy pracach, których wykonywanie powoduje konieczność pozostawania w kontakcie z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym.
+
 2. Rejestr, o którym mowa w ust. 1, zawiera:
-1) datę wpisu do rejestru;
-2) imię i nazwisko pracownika oraz jego stanowisko pracy, o którym mowa w § 6 ust. 1 pkt 3;
-3) numer PESEL, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość.
-§ 8. 1. Rejestr pracowników, o którym mowa w § 7 ust. 1, wraz z rejestrem prac, o którym mowa w § 6 ust. 1, dotyczący:
-1) czynników o działaniu rakotwórczym lub mutagennym przechowuje się przez okres 40 lat po ustaniu narażenia na te czynniki;
-2) substancji reprotoksycznych niebędących jednocześnie czynnikami o działaniu rakotwórczym lub mutagennym przechowuje się przez okres 5 lat po ustaniu narażenia na te substancje.
+
+- **1)** datę wpisu do rejestru;
+- **2)** imię i nazwisko pracownika oraz jego stanowisko pracy, o którym mowa w § 6 ust. 1 pkt 3;
+- **3)** numer PESEL, a w przypadku jego braku – numer dokumentu potwierdzającego tożsamość.
+
+**§ 8.**
+
+1. Rejestr pracowników, o którym mowa w § 7 ust. 1, wraz z rejestrem prac, o którym mowa w § 6 ust. 1, dotyczący:
+
+- **1)** czynników o działaniu rakotwórczym lub mutagennym przechowuje się przez okres 40 lat po ustaniu narażenia na te czynniki;
+- **2)** substancji reprotoksycznych niebędących jednocześnie czynnikami o działaniu rakotwórczym lub mutagennym przechowuje się przez okres 5 lat po ustaniu narażenia na te substancje.
+
 2. W przypadku likwidacji zakładu pracy pracodawca przekazuje rejestry, o których mowa w § 6 ust. 1 i § 7 ust. 1, właściwemu państwowemu wojewódzkiemu inspektorowi sanitarnemu, a w przypadku jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych – komendantowi właściwego terytorialnie wojskowego ośrodka medycyny prewencyjnej.
-§ 9. Rejestry, o których mowa w § 6 ust. 1, 3 i 5 oraz § 7 ust. 1, prowadzi się w formie papierowej lub w postaci elektronicznej.
-§ 10. Dane z rejestrów, o których mowa w § 6 ust. 1 i 5 oraz § 7 ust. 1, są udostępniane:
-1) lekarzom sprawującym profilaktyczną opiekę zdrowotną nad pracownikami, których dane dotyczą;
-2) lekarzom uprawnionym do orzekania w zakresie chorób zawodowych określonych w przepisach wydanych na podstawie art. 237 § 1 pkt 3–6 i § 1 Kodeksu pracy;
-3) pracownikom – w zakresie informacji, które dotyczą ich osobiście, oraz przedstawicielom pracowników – w zakresie anonimowych informacji zbiorowych;
-4) organom Państwowej Inspekcji Sanitarnej oraz Wojskowej Inspekcji Sanitarnej w związku z postępowaniem w zakresie chorób zawodowych prowadzonym w zakresie określonym w przepisach wydanych na podstawie art. 237 § 1 pkt 3–6 i § 1 Kodeksu pracy;
-5) podmiotom wykonującym na podstawie odrębnych przepisów nadzór nad realizacją zadań z zakresu bezpieczeństwa pracy i ochrony zdrowia pracowników.
-§ 11. Pracodawca:
-1) informuje pracownika o opakowaniu, zbiorniku i instalacji zawierających substancje chemiczne, ich mieszaniny lub czynniki o działaniu rakotwórczym, mutagennym lub reprotoksycznym, a także o wymaganiach dotyczących oznakowania i znakach ostrzegawczych;
-2) przeprowadza okresowe szkolenia pracownika w zakresie:
-a) ryzyka dla zdrowia, jakie wynika z oceny narażenia na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym, i dodatkowego ryzyka, które wynika z palenia tytoniu, oraz w zakresie środków ostrożności, które powinny być podejmowane w celu ograniczenia tego narażenia,
-b) wymagań higienicznych, które powinny być spełnione w celu ograniczenia narażenia na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym,
-c) konieczności używania środków ochrony indywidualnej, w tym odzieży ochronnej,
-d) działań zapobiegających wypadkom oraz działań, które powinni podjąć pracownicy, w tym pracownicy pełniący obowiązki ratownicze, podczas działań ratowniczych oraz wypadków;
-3) zapewnia kontrolę zdrowia pracownika związaną z indywidualną oceną pracownika – w celu określenia stanu jego zdrowia w związku z narażeniem na działanie określonych czynników o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznych podczas pracy, zgodnie z zasadami określonymi w ustawie z dnia 27 czerwca 1997 r.
-o służbie medycyny pracy (Dz. U. z 2022 r. poz. 437) oraz w art. 229 Kodeksu pracy;
-4) informuje pracownika, przed powierzeniem pracy z substancjami chemicznymi, ich mieszaninami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym, w przypadku których ustalono wartość dopuszczalnego stężenia określonych substancji w materiale biologicznym, o konieczności przeprowadzania kontroli jego zdrowia związanej z tymi wartościami dopuszczalnymi.
-§ 12. Pracodawca:
-1) zapewnia udział pracowników lub ich przedstawicieli w projektowaniu i realizacji działań zapobiegających narażeniu na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym lub ograniczających poziom tego narażenia;
-2) umożliwia pracownikom lub ich przedstawicielom kontrolę stosowania wymagań określonych w rozporządzeniu oraz w innych przepisach regulujących zasady bezpieczeństwa i higieny pracy;
-3) informuje na bieżąco pracowników lub ich przedstawicieli o narażeniu na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym, a w przypadkach narażenia powstałego w wyniku awarii i innych zakłóceń procesu technologicznego lub w wyniku podejmowanych prac remontowych, konserwacyjnych i w innych okolicznościach – o przyczynach powstałego narażenia oraz o środkach zapobiegawczych, jakie już zostały podjęte lub będą podjęte w celu poprawy sytuacji.
-§ 13. 1. Lekarz sprawujący profilaktyczną opiekę zdrowotną nad pracownikami zapoznaje się z warunkami ich pracy i posiada udokumentowane informacje dotyczące rodzaju i wielkości narażenia na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym.
+
+**§ 9.** Rejestry, o których mowa w § 6 ust. 1, 3 i 5 oraz § 7 ust. 1, prowadzi się w formie papierowej lub w postaci elektronicznej.
+
+**§ 10.** Dane z rejestrów, o których mowa w § 6 ust. 1 i 5 oraz § 7 ust. 1, są udostępniane:
+
+- **1)** lekarzom sprawującym profilaktyczną opiekę zdrowotną nad pracownikami, których dane dotyczą;
+- **2)** lekarzom uprawnionym do orzekania w zakresie chorób zawodowych określonych w przepisach wydanych na podstawie art. 237 § 1 pkt 3–6 i § 1 Kodeksu pracy;
+- **3)** pracownikom – w zakresie informacji, które dotyczą ich osobiście, oraz przedstawicielom pracowników – w zakresie anonimowych informacji zbiorowych;
+- **4)** organom Państwowej Inspekcji Sanitarnej oraz Wojskowej Inspekcji Sanitarnej w związku z postępowaniem w zakresie chorób zawodowych prowadzonym w zakresie określonym w przepisach wydanych na podstawie art. 237 § 1 pkt 3–6 i § 1 Kodeksu pracy;
+- **5)** podmiotom wykonującym na podstawie odrębnych przepisów nadzór nad realizacją zadań z zakresu bezpieczeństwa pracy i ochrony zdrowia pracowników.
+
+**§ 11.** Pracodawca:
+
+- **1)** informuje pracownika o opakowaniu, zbiorniku i instalacji zawierających substancje chemiczne, ich mieszaniny lub czynniki o działaniu rakotwórczym, mutagennym lub reprotoksycznym, a także o wymaganiach dotyczących oznakowania i znakach ostrzegawczych;
+- **2)** przeprowadza okresowe szkolenia pracownika w zakresie:
+    - **a)** ryzyka dla zdrowia, jakie wynika z oceny narażenia na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym, i dodatkowego ryzyka, które wynika z palenia tytoniu, oraz w zakresie środków ostrożności, które powinny być podejmowane w celu ograniczenia tego narażenia,
+    - **b)** wymagań higienicznych, które powinny być spełnione w celu ograniczenia narażenia na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym,
+    - **c)** konieczności używania środków ochrony indywidualnej, w tym odzieży ochronnej,
+    - **d)** działań zapobiegających wypadkom oraz działań, które powinni podjąć pracownicy, w tym pracownicy pełniący obowiązki ratownicze, podczas działań ratowniczych oraz wypadków;
+
+- **3)** zapewnia kontrolę zdrowia pracownika związaną z indywidualną oceną pracownika – w celu określenia stanu jego zdrowia w związku z narażeniem na działanie określonych czynników o działaniu rakotwórczym, mutagennym lub substancji reprotoksycznych podczas pracy, zgodnie z zasadami określonymi w ustawie z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2022 r. poz. 437) oraz w art. 229 Kodeksu pracy;
+- **4)** informuje pracownika, przed powierzeniem pracy z substancjami chemicznymi, ich mieszaninami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym, w przypadku których ustalono wartość dopuszczalnego stężenia określonych substancji w materiale biologicznym, o konieczności przeprowadzania kontroli jego zdrowia związanej z tymi wartościami dopuszczalnymi.
+
+**§ 12.** Pracodawca:
+
+- **1)** zapewnia udział pracowników lub ich przedstawicieli w projektowaniu i realizacji działań zapobiegających narażeniu na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym lub ograniczających poziom tego narażenia;
+- **2)** umożliwia pracownikom lub ich przedstawicielom kontrolę stosowania wymagań określonych w rozporządzeniu oraz w innych przepisach regulujących zasady bezpieczeństwa i higieny pracy;
+- **3)** informuje na bieżąco pracowników lub ich przedstawicieli o narażeniu na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym, a w przypadkach narażenia powstałego w wyniku awarii i innych zakłóceń procesu technologicznego lub w wyniku podejmowanych prac remontowych, konserwacyjnych i w innych okolicznościach – o przyczynach powstałego narażenia oraz o środkach zapobiegawczych, jakie już zostały podjęte lub będą podjęte w celu poprawy sytuacji.
+
+**§ 13.**
+
+1. Lekarz sprawujący profilaktyczną opiekę zdrowotną nad pracownikami zapoznaje się z warunkami ich pracy i posiada udokumentowane informacje dotyczące rodzaju i wielkości narażenia na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym.
+
 2. Pracodawca, na wniosek lekarza, o którym mowa w ust. 1, zleca prowadzenie biologicznego monitorowania narażenia na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym oraz stosuje inne metody umożliwiające wczesne wykrycie skutków tego narażenia.
+
 3. Lekarz sprawujący profilaktyczną opiekę zdrowotną nad pracownikami udziela informacji:
-1) pracownikowi – o wynikach badań i ocenie jego stanu zdrowia oraz o zakresie profilaktycznej opieki zdrowotnej, jakiej powinien się poddać po ustaniu zatrudnienia przy pracach z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym;
-2) pracodawcy, przedstawicielom pracowników oraz działającej u pracodawcy komisji bezpieczeństwa i higieny pracy – o ocenie stanu zdrowia pracowników, z zachowaniem tajemnicy lekarskiej;
-3) pracodawcy – zbiorczo o przypadkach nowotworu złośliwego, niekorzystnego wpływu na funkcje seksualne i płodność u dorosłych płci męskiej i żeńskiej lub na rozwój potomstwa, jeżeli uzna to za wynik zawodowego narażenia na czynnik rakotwórczy, mutagen lub substancję reprotoksyczną, z zachowaniem tajemnicy lekarskiej.
+
+- **1)** pracownikowi – o wynikach badań i ocenie jego stanu zdrowia oraz o zakresie profilaktycznej opieki zdrowotnej, jakiej powinien się poddać po ustaniu zatrudnienia przy pracach z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym, mutagennym lub reprotoksycznym;
+- **2)** pracodawcy, przedstawicielom pracowników oraz działającej u pracodawcy komisji bezpieczeństwa i higieny pracy – o ocenie stanu zdrowia pracowników, z zachowaniem tajemnicy lekarskiej;
+- **3)** pracodawcy – zbiorczo o przypadkach nowotworu złośliwego, niekorzystnego wpływu na funkcje seksualne i płodność u dorosłych płci męskiej i żeńskiej lub na rozwój potomstwa, jeżeli uzna to za wynik zawodowego narażenia na czynnik rakotwórczy, mutagen lub substancję reprotoksyczną, z zachowaniem tajemnicy lekarskiej.
+
 4. Informację, o której mowa w ust. 3 pkt 3, pracodawca przekazuje wraz z informacją przekazywaną na podstawie § 6 ust. 2 albo 4, w terminie do dnia 15 stycznia za rok poprzedni.
-§ 14. W przypadku rozpoznania lub podejrzenia u pracownika zmian w stanie zdrowia, co do których istnieje podejrzenie, że powstały w wyniku narażenia na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym, lub w przypadku stwierdzenia przekroczenia dopuszczalnego stężenia określonych substancji w materiale biologicznym pracodawca, na wniosek lekarza, o którym mowa w § 13 ust. 1, zleca przeprowadzenie dodatkowych badań stanu zdrowia innych pracowników narażonych w podobny sposób, dokonuje weryfikacji uprzedniej oceny tego narażenia, a w razie potrzeby – stosuje odpowiednie dodatkowe środki zapobiegawcze.
-§ 15. Wnioski o zlecenie:
-1) prowadzenia biologicznego monitorowania narażenia na substancje chemiczne, mieszaniny, czynniki lub procesy technologiczne o działaniu rakotwórczym lub mutagennym lub zastosowania innych metod umożliwiających wykrycie wczesnych skutków tego narażenia,
-2) przeprowadzenia dodatkowych badań stanu zdrowia innych pracowników, którzy są narażeni zawodowo na działanie substancji chemicznych, mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym lub mutagennym, dokonania weryfikacji uprzedniej oceny narażenia zawodowego lub zastosowania odpowiednich dodatkowych środków zapobiegawczych – złożone i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia podlegają rozpatrzeniu na podstawie przepisów dotychczasowych.
-§ 16. Rejestry, o których mowa w § 4 ust. 1 i 3, § 5 ust. 1 oraz § 6 ust. 1 rozporządzenia Ministra Zdrowia z dnia 24 lipca 2012 r. w sprawie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym lub mutagennym w środowisku pracy (Dz. U. z 2024 r. poz. 156), stają się odpowiednio rejestrami, o których mowa w § 6 ust. 1, 3 i 5 oraz § 7 ust. 1 niniejszego rozporządzenia.
-§ 17. Rozporządzenie wchodzi w życie z dniem 28 lipca 2024 r.
-Minister Zdrowia: wz. W. Konieczny Załączniki do rozporządzenia Ministra Zdrowia z dnia … 2024 r. (Dz. U. poz.…) Załącznik nr 1 WYKAZ WYKAZ CZYNNIKÓW CZYNNIKÓW ORAZ ORAZ PROCESÓW PROCESÓW TECHNOLOGICZNYCH TECHNOLOGICZNYCH ZWIĄZANYCH ZWIĄZANYCH Z Z UWALNIANIEM UWALNIANIEM SUBSTANCJI SUBSTANCJI CHEMICZNYCH CHEMICZNYCH I MIESZANIN I MIESZANIN O O DZIAŁANIU DZIAŁANIU RAKOTWÓRCZYM RAKOTWÓRCZYM LUB LUB MUTAGENNYM MUTAGENNYM I. Czynniki fizyczne
-1. Promieniowanie jonizujące.
-II. Procesy technologiczne, w których dochodzi do uwalniania substancji chemicznych, ich mieszanin lub czynników o działaniu rakotwórczym lub mutagennym
-1. Produkcja auraminy.
-2. Prace związane z narażeniem na wielopierścieniowe węglowodory aromatyczne, obecne w sadzy węglowej, smołach węglowych i pakach węglowych.
-3. Prace związane z narażeniem na pyły, dymy i aerozole tworzące się podczas wypalania i elektrorafinowania surówek miedziowo-niklowych.
-4. Produkcja alkoholu izopropylowego metodą mocnych kwasów.
-5. Prace związane z narażeniem na pył drewna.
-6. Prace związane z narażeniem na krzemionkę krystaliczną – frakcję respirabilną powstającą w trakcie pracy.
-7. Prace związane z narażeniem przez skórę na działanie olejów mineralnych użytych wcześniej w silnikach spalinowych wewnętrznego spalania w celu smarowania i schładzania części ruchomych silnika.
-8. Prace związane z narażeniem na spaliny emitowane z silników Diesla.
+
+**§ 14.** W przypadku rozpoznania lub podejrzenia u pracownika zmian w stanie zdrowia, co do których istnieje podejrzenie, że powstały w wyniku narażenia na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym, mutagennym lub reprotoksycznym, lub w przypadku stwierdzenia przekroczenia dopuszczalnego stężenia określonych substancji w materiale biologicznym pracodawca, na wniosek lekarza, o którym mowa w § 13 ust. 1, zleca przeprowadzenie dodatkowych badań stanu zdrowia innych pracowników narażonych w podobny sposób, dokonuje weryfikacji uprzedniej oceny tego narażenia, a w razie potrzeby – stosuje odpowiednie dodatkowe środki zapobiegawcze.
+
+**§ 15.** Wnioski o zlecenie:
+
+- **1)** prowadzenia biologicznego monitorowania narażenia na substancje chemiczne, mieszaniny, czynniki lub procesy technologiczne o działaniu rakotwórczym lub mutagennym lub zastosowania innych metod umożliwiających wykrycie wczesnych skutków tego narażenia,
+- **2)** przeprowadzenia dodatkowych badań stanu zdrowia innych pracowników, którzy są narażeni zawodowo na działanie substancji chemicznych, mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym lub mutagennym, dokonania weryfikacji uprzedniej oceny narażenia zawodowego lub zastosowania odpowiednich dodatkowych środków zapobiegawczych – złożone i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia podlegają rozpatrzeniu na podstawie przepisów dotychczasowych.
+
+**§ 16.** Rejestry, o których mowa w § 4 ust. 1 i 3, § 5 ust. 1 oraz § 6 ust. 1 rozporządzenia Ministra Zdrowia z dnia 24 lipca 2012 r. w sprawie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym lub mutagennym w środowisku pracy (Dz. U. z 2024 r. poz. 156), stają się odpowiednio rejestrami, o których mowa w § 6 ust. 1, 3 i 5 oraz § 7 ust. 1 niniejszego rozporządzenia.
+
+**§ 17.** Rozporządzenie wchodzi w życie z dniem 28 lipca 2024 r. Minister Zdrowia: wz. W. Konieczny Załączniki do rozporządzenia Ministra Zdrowia z dnia … 2024 r. (Dz. U. poz.…) Załącznik nr 1 WYKAZ WYKAZ CZYNNIKÓW CZYNNIKÓW ORAZ ORAZ PROCESÓW PROCESÓW TECHNOLOGICZNYCH TECHNOLOGICZNYCH ZWIĄZANYCH ZWIĄZANYCH Z Z UWALNIANIEM UWALNIANIEM SUBSTANCJI SUBSTANCJI CHEMICZNYCH CHEMICZNYCH I MIESZANIN I MIESZANIN O O DZIAŁANIU DZIAŁANIU RAKOTWÓRCZYM RAKOTWÓRCZYM LUB LUB MUTAGENNYM MUTAGENNYM I. Czynniki fizyczne 1. Promieniowanie jonizujące. II. Procesy technologiczne, w których dochodzi do uwalniania substancji chemicznych, ich mieszanin lub czynników o działaniu rakotwórczym lub mutagennym 1. Produkcja auraminy. 2. Prace związane z narażeniem na wielopierścieniowe węglowodory aromatyczne, obecne w sadzy węglowej, smołach węglowych i pakach węglowych. 3. Prace związane z narażeniem na pyły, dymy i aerozole tworzące się podczas wypalania i elektrorafinowania surówek miedziowo-niklowych. 4. Produkcja alkoholu izopropylowego metodą mocnych kwasów. 5. Prace związane z narażeniem na pył drewna. 6. Prace związane z narażeniem na krzemionkę krystaliczną – frakcję respirabilną powstającą w trakcie pracy. 7. Prace związane z narażeniem przez skórę na działanie olejów mineralnych użytych wcześniej w silnikach spalinowych wewnętrznego spalania w celu smarowania i schładzania części ruchomych silnika. 8. Prace związane z narażeniem na spaliny emitowane z silników Diesla.
 
 ## Załącznik nr 2 — INFORMACJA O SUBSTANCJACH CHEMICZNYCH, WZÓR ICH MIESZANINACH, CZYNNIKACH LUB PROCESACH INFORMACJA TECHNOLOGICZNYCH O SUBSTANCJACH O CHEMICZNYCH, DZIAŁANIU RAKOTWÓRCZYM, ICH MIESZANINACH, MUTAGENNYM CZYNNIKACH LUB LUB PROCESACH TECHNOLOGICZNYCH O DZIAŁANIU RAKOTWÓRCZYM, MUTAGENNYM LUB REPROTOKSYCZNYM REPROTOKSYCZNYM
 

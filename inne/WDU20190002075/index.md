@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002075) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2075/text.pdf) |
 
 zmieniające rozporządzenie w sprawie preparatów zawierających środki odurzające lub substancje psychotropowe, które mogą być posiadane i stosowane w celach medycznych oraz do badań klinicznych, po uzyskaniu zgody wojewódzkiego inspektora farmaceutycznego Na podstawie art. 42 ust. 4 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2019 r. poz. 852, 1655 i 1818) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 20 października 2015 r. w sprawie preparatów zawierających środki odurzające lub substancje psychotropowe, które mogą być posiadane i stosowane w celach medycznych oraz do badań klinicznych, po uzyskaniu zgody wojewódzkiego inspektora farmaceutycznego (Dz. U. poz. 1819) w § 5 w ust. 3 pkt 8 otrzymuje brzmienie: „8) datę sporządzenia zapotrzebowania oraz imię, nazwisko i podpis osoby upoważnionej do reprezentowania podmiotu zamawiającego.”.
-§ 2. Zapotrzebowania, o których mowa w § 5 ust. 1 i 2 rozporządzenia zmienianego w § 1, wystawione przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność przez okres 14 dni od dnia ich wystawienia.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. J. Cieszyński
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 20 października 2015 r. w sprawie preparatów zawierających środki odurzające lub substancje psychotropowe, które mogą być posiadane i stosowane w celach medycznych oraz do badań klinicznych, po uzyskaniu zgody wojewódzkiego inspektora farmaceutycznego (Dz. U. poz. 1819) w § 5 w ust. 3 pkt 8 otrzymuje brzmienie: „8) datę sporządzenia zapotrzebowania oraz imię, nazwisko i podpis osoby upoważnionej do reprezentowania podmiotu zamawiającego.”.
+
+**§ 2.** Zapotrzebowania, o których mowa w § 5 ust. 1 i 2 rozporządzenia zmienianego w § 1, wystawione przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność przez okres 14 dni od dnia ich wystawienia.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. J. Cieszyński
 

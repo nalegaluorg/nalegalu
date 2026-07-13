@@ -36,11 +36,8 @@ source: pdf
 
 **Art. 3.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz.U. Nr 91, poz. 578 i Nr 155, poz. 1014, z 2000 r. Nr 12, poz. 136, Nr 26, poz. 306, Nr 48, poz. 552, Nr 62, poz. 718, Nr 88, poz. 985, Nr 91, poz. 1009 i Nr 95, poz. 1041 oraz z 2001 r. Nr 45, poz. 497) w art. 29 wprowadza się następujące zmiany:
 
-- Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz.U. Nr 95, poz. 602 i Nr 160, poz. 1060 oraz z 2001 r. Nr 45, poz.
-
-- **a)** ust. 6 otrzymuje brzmienie: „6. Organy powiatu ulegają rozwiązaniu z mocy prawa również w przypadkach określonych w art. 197 ust. 1 pkt 4 oraz ust. 5 ustawy z dnia 16 lipca 1998 r.
-- **497)** .”,
-    - **b)** po ust. 6 dodaje się ust. 7 w brzmieniu: „7. W przypadku zmian w podziale terytorialnym państwa, których skutki określa art. 197 ust. 3 i 5 ustawy, o której mowa w ust. 6, stosuje się odpowiednio przepisy ust. 2-5 z uwzględnieniem zasady, że osobę, która w tym okresie pełni funkcję organów powiatu, wyznacza się dla każdego z powiatów powstałych w wyniku zmian w podziale terytorialnym państwa.”.
+- **a)** ust. 6 otrzymuje brzmienie: „6. Organy powiatu ulegają rozwiązaniu z mocy prawa również w przypadkach określonych w art. 197 ust. 1 pkt 4 oraz ust. 5 ustawy z dnia 16 lipca 1998 r. - Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz.U. Nr 95, poz. 602 i Nr 160, poz. 1060 oraz z 2001 r. Nr 45, poz. 497).”,
+- **b)** po ust. 6 dodaje się ust. 7 w brzmieniu: „7. W przypadku zmian w podziale terytorialnym państwa, których skutki określa art. 197 ust. 3 i 5 ustawy, o której mowa w ust. 6, stosuje się odpowiednio przepisy ust. 2-5 z uwzględnieniem zasady, że osobę, która w tym okresie pełni funkcję organów powiatu, wyznacza się dla każdego z powiatów powstałych w wyniku zmian w podziale terytorialnym państwa.”.
 
 **Art. 4.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz.U. Nr 91, poz. 576, Nr 155, poz. 1014, Nr 160, poz. 1060 i Nr 162, poz. 1126, z 2000 r. Nr 12, poz. 136, Nr 26, poz. 306, Nr 48, poz. 550 i 552, Nr 62, poz. 718, Nr 88, poz. 985, Nr 91, poz. 1009 i Nr 95, poz. 1041 oraz z 2001 r. Nr 45, poz. 497) w art. 33 wprowadza się następujące zmiany:
 
@@ -55,9 +52,7 @@ source: pdf
 - **d)** w ust. 6 wyrazy „w ust. 1 pkt 1 i 4” zastępuje się wyrazami „w ust. 1 pkt 4”,
 - **e)** ust. 8 otrzymuje brzmienie: „8. Wyborów nowych rad nie przeprowadza się, jeżeli ich data przypadałaby w okresie 6 miesięcy przed zakończeniem kadencji rad.”.
 
-**Art. 6.** W ustawie z dnia 11 kwietnia 2001 r. o zmianie ustaw: o samorządzie gminnym, o samorządzie powiatowym, o samorządzie województwa, o administracji rządowej w województwie oraz o zmianie niektórych innych ustaw (Dz.U. Nr 45, poz. 497) po art. 15 dodaje się art. 15a i art. 15b w brzmieniu: „Art. 15a. Do końca kadencji organów stanowiących jednostek samorządu terytorialnego, w czasie której ustawa weszła w życie, przepis art. 27 ust. 1 ustawy, o której mowa w art. 2, w zakresie ustalającym liczbę członków zarządu powiatu ma zastosowanie w brzmieniu dotychczasowym.
-
-**Art. 15b.** W przypadku zmian w podziale terytorialnym państwa dokonanych na podstawie oceny, o której mowa w art. 7 ust. 1 ustawy, o której mowa w art. 9, wyborów do nowych rad jednostek samorządu terytorialnego objętych zmianami nie przeprowadza się przed końcem kadencji organów stanowiących jednostek samorządu terytorialnego, w czasie której zmiany weszły w życie”.
+**Art. 6.** W ustawie z dnia 11 kwietnia 2001 r. o zmianie ustaw: o samorządzie gminnym, o samorządzie powiatowym, o samorządzie województwa, o administracji rządowej w województwie oraz o zmianie niektórych innych ustaw (Dz.U. Nr 45, poz. 497) po art. 15 dodaje się art. 15a i art. 15b w brzmieniu: „Art. 15a. Do końca kadencji organów stanowiących jednostek samorządu terytorialnego, w czasie której ustawa weszła w życie, przepis art. 27 ust. 1 ustawy, o której mowa w art. 2, w zakresie ustalającym liczbę członków zarządu powiatu ma zastosowanie w brzmieniu dotychczasowym. Art. 15b. W przypadku zmian w podziale terytorialnym państwa dokonanych na podstawie oceny, o której mowa w art. 7 ust. 1 ustawy, o której mowa w art. 9, wyborów do nowych rad jednostek samorządu terytorialnego objętych zmianami nie przeprowadza się przed końcem kadencji organów stanowiących jednostek samorządu terytorialnego, w czasie której zmiany weszły w życie”.
 
 **Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6, który wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 30 maja 2001 r.
 

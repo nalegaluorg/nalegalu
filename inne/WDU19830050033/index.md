@@ -8,10 +8,10 @@ pos: 33
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Ustawa z dnia 1 lutego 1983 r. o zmianie niektórych przepisów o świadczeniach z ubezpieczenia społecznego i o zaopatrzeniu emerytalnym
+# D:zi'ennik Ustaw Nr 5 69 '- , ,Poz. 32 l 33 z 1-977 Nr poz. 43 oraz z r. Nr 7, poz. 60), zwa 14, 16-25, 31, 33,-34, 36, 43, 45,' 67, 68 ust 3, art. 69-80, nej: dalej przyznaje z 85-112,115-120 126 ustawy wymienionej wart 3.
 
 | Pole | Wartość |
 |---|---|
@@ -25,228 +25,96 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830050033) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1983/33/text.pdf) |
 
-**Art. 1.**
+art.. 23. zamiast . 2. ustawa do przepisów o wi'ednie górnicze eme.cytury i renty w niniej emerytalnym pracowników i ich rodzin, -szel 'ustawie, z zastos-owaniem zasad w ,art. pr-awo 'do lub. ich od posiadania 12'1-125 ustawy wymierrionej wart. 3. ustalonego okresu zatrudnienia, przy _ ustalaniu prawa do -na podstawie ustawy lub ich
 
-1. Osobom pobierającym w dniu wejścia w życie ustawy emerytury, renty inwalidzkie lub renty rodzinne przysługujące na podstawie przepisów:
+**Art. 23.** Wdowóm w _d niu odpowiednio okresy pracy górniczej: pra w ustawy gó.rnicze- renty wd()wie na podstawie cy z i 'okresy zaliczalne do ustawy d'otychczasowej oraz innym rodziny pracy górniczej. górnika renty rodzJnne na podstawie usta- Art. 25.' Do g.órniczych emerytur i rent przyzrianych . wy' z dai'a 23 stycznia 1968 o p-owszechnym zaopatrze w ustawy nie dotychczas n;il1 emerytalnym pracowników i rodzin (Dz. U. 3; re,j<ompensaty z cen. po,z, 6 z zmianami) - z za Art. 26'. Przepis art. 11 ust. 3 stosuje do okre-· stQso-w.anrem las.ad wymienion,ych wart. zamiast tych' sÓw pJ:-acy górniczej pod wykonywanej po dniu _ 1 1982 r. wdowa rodziny górnika, , . Art. 27. Traci moc ustawa z dnia, 28, maja 1951 r. rym, zilill'i-ast 'poprzedn:io _p obieranych . przy o zaopatrzeniu emerytalnym górnikó 121-125. ustawy wy z 1968 r. Nr 3, poz. 19, z 1912 r. Nr 53, poz. 341.z.1914 r. mienioneJ wart. J., f.lfzyznaje się n-a teh' wn~,iJsek - ui Nr 21. poz. 116, z 1977 r: Nr 11, poz. 43 oraz z\ 1'982 r~ miast f.enty - . gÓrnik Nr p-oz. 60). chwili, .smierei warunki<, o .których mowa w, Art. 28. Ustawa wchodzi w z dniem art. niniejszej ?stawy. z od dnia stycznia 1983
 
-- **1)** ustawy z dnia 27 września 1973 r. o zaopatrzeniu emerytalnym twórców i ich rodzin (Dz. U. Nr 38, poz. 225, z 1974 r. Nr 21, poz. 117 i z 1977 r. Nr 11, poz. 43),
-- **2)** ustawy z dnia 12 czerwca 1975 r. o świadczeniach z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. Nr 20, poz. 105 i z 1977 r. Nr 11, poz. 43),
-- **3)** ustawy z dnia 19 grudnia 1975 r. o ubezpieczeniu społecznym osób wykonujących pracę na rzecz jednostek gospodarki uspołecznionej na podstawie umowy agencyjnej lub umowy zlecenia (Dz. U. Nr 45, poz. 232, z 1976 r. Nr 40, poz. 235 i z 1977 r. Nr 11, poz. 43 oraz Nr 32, poz. 140),
-- **4)** dekretu z dnia 4 marca 1976 r. o ubezpieczeniu społecznym członków rolniczych spółdzielni produkcyjnych i spółdzielni kółek rolniczych oraz ich rodzin (Dz. U. Nr 10, poz. 54, z 1977 r. Nr 11, poz. 43 oraz Nr 32, poz. 140);
-- **5)** ustawy z dnia 18 grudnia 1976 r. o ubezpieczeniu społecznym rzemieślników i niektórych innych osób prowadzących działalność zarobkową na własny rachunek oraz ich rodzin (Dz. U. Nr 40, poz. 235 i z 1977 r. Nr 11, poz. 43 oraz Nr 32, poz. 140), przyznaje się zamiast tych świadczeń odpowiednio emerytury lub renty określone w tych przepisach, ze zmianami wprowadzonymi niniejszą ustawą oraz z zastosowaniem zasad określonych w art. 122–126 ustawy z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin (Dz. U. Nr 40, poz. 267).
+**Art. 24.** sprawach n'ie unormowanych Przewodniczący Rady Państwa: H .. Jabłoński stosti'ie oap0wiedrno pl'zep-fsy -art. 4, 5, 10, 12, Sekretarz _R ady E. Dudcr 33 USTAWA z dnIa lutego r. o zmlanle niektórych. o z . ubezpieczenia ,polec mego l, o zaopatrzeniu Art. t. 1. Osobam w dniu w 14 grudnia 1982 r. o zaopaf~zeniu ~~eryt~iii~pr~~ow'; iyci:e ustawy 'emerytury, renty inwalidzkie lub renty ro mków I ich rodzin (DZ: u. Nr 40, poz. f67): .'/" , podstawie przepisów': - Jeżeli emerytura lub r~nta . pr~ysług~ją~a- na. . pod ustawy z dnia 27 1973r. o zaopatrzeniu przepisów wymienionych. w' U5\:.1 emerytalnym twórców i ich rodzin (Dz.U.Nr 38; poz. 225, z 1974 r. Nr, 21. PO;l.,117 i z 1977 Nr 11', płacana w wyso~ości po~staw.owej, z'ą" pod~t9.wę. jer VlY~. miaru przyjmuje i śWiadczeń,określ0.l1ąw tyc~ p~zepis~ch-, z: u'wźględnie~ l:lstawyz dnia 12 czerwca 1975 r. niem ust. 3. -" . - .' .., . .' . ., .. : " '. ' z tytułu wypadków przy pracy chorób ża~odówych (Dz. u,. NI 20, poz. 105 iz 1977 r.Nr 1 L poz. 43), . .3. emerytury,lub renty Ita· crsta,wy z dnia 19· grudnia 1975 o ubezpieczeniu nowH dochód (przychód) 'ustalony kwocie osób na rzecz jedno lub w, kwocie górnejgratlicy';dochodu gospodarki na podstawie umowy (przychodu) przyjmowanego do podstawy· wymiaru agencyjnej lub umowy " zlecenia U. Nr. 45, za rok przyznania emerytury lub renty na wniosek poz. 232, z 1976 Nr 40, poz. 235 i z 1977 r. Nr, 11, rencisty rok,' w ktÓfymte kwoty .. poz. OTaz 'Nr poz. 140), wadzone. : .. ''dekretu z dnia marca' 1-976 r. o ubezpieczeniu spo 4. Podstawa \ wymiarurJ~ty iriwalid~kiej o[a':2:' renty leczn ym 'rotniczych produkcyj· rodzinnej •. na ustawy, :l!-tórej rolniczych oraz ich rodzin mowa w ust. 1 pkt 2, nie .. od kwoty od· (Oz: U. Nr ro, poz. 54, z 1'977' r. Nr '11, poz. 43 oraz wynagrodze Nr 32, poz. 140), ' niu za wyniiar . czasu pracy pracowni· uśtQwy _ z dnia 18 grudnia '_1976 r. o ubezpieczenIu ków pracy, i niektórych innych osób w dniu <w iycie' n'iniejszeJ na ra ustawy. " chunek oraz ich rodzin (Dz. U. :n- Nr 40, poz. 2351 21 1971 r. Nr 11,' poz. 43 Ol'az Nr poz. 140), 2. 1. W 'usta~ie z,_ Qni~ '17g;udn:a': 1974, r. przyznaje się zamiast' tych świadczeń odpowiednio eme~ z . rytury lub tenty okreŚlone w tych. przepisach, ze ;zńlia. w .razie .chorobyi ',mac.i'e}zyiisl\Va z ,1975' Nr 34., nami wprowadwnymi z zastoso wprOwadza: .. waniem zasad wart. 122-126 z dnia 1) ·art.'U otrzymuje brzmienie; ' '-, -.; t "Art. 11. ' 1. chorobowy- z za prawo· do wymiaru ust. 2-4 - , wynosi: chorobqwego za jeden
 
-2. Jeżeli emerytura lub renta przysługująca na podstawie przepisów wymienionych w ust. 1 pkt 1 jest wypłacana w wysokości podstawowej, za podstawę jej wymiaru przyjmuje się najniższą podstawę wymiaru składek i świadczeń, określoną w tych przepisach, z uwzględnieniem ust. 3.
+- **l)** -100°/8 wynagrodzenia do pracy z powodu choroby stanowi jedna wymiaru ...,- dla d~iesta część tego ' ~ynagrodzenia. ''''\ pracowników okres zatrud Przy' ustalaniu podstawy wymiani. choro liienia 8 lat. bowego wynagrodzenia 8oofo wynagrodzenia z pracy 'w ramach stosunku wymlaru dla pracy Iiormalnym. pracownika pracowników okres zatnid czasie pracy, 'z wynagro n,ienia od 3 do 8 lat, o którym
+- **3)** }5 /owynagrodzenia lilowa wart. ,13 ,pkt L"j wymiaru .-.:. dla 3) w art. 13 pkt 1 otrzymuje brzmienie: pnicownikJ w mających okres za trud składnik;i wynagrodzenia, których nie uwzględnia 3 lata. przy ustalaniu, podstawy. wymiaru chor<rbowy ' za pierwsze choro bo,weg o." 3 dni pracy z powodu po rozdziale 2 qodaje 2a w brzmieniu: choroby _ wyiuj)si ' 50% wynagrodzenia "Rozdział 2a, Swiadcz~n{e' rehabilitacy jne; za-.,---'
 
-3. Jeżeli podstawę wymiaru emerytury lub renty stanowił dochód (przychód) ustalony w kwocie ryczałtowej lub w kwocie odpowiadającej górnej granicy dochodu (przychodu) przyjmowanego do podstawy wymiaru świadczeń, za rok przyznania emerytury lub renty na wniosek rencisty uważa się rok, w którym te kwoty zostały wprowadzone.
+**Art. 19a.** ' 1. Pracownikowi; kt6ry po wyczerpaniu 3. ust. 2 nie' s-tosuje nie chorobowego jest nadal do pracy spowodowana ny do pracy, a dalsze' leczenie lub' cher.bami, wykaz Mi habilitacja odzyskanie nister Zdrowia do pracy. rehal Opieki w bilitacyjne. ' , 4: - ,, 2. $wiadczenie wynosi 100% wynagrodzenia stano- przez okres do przywrócenia wymiaru bez do pracy, nie jednak na okres zatrudnienia pracow przez nika: .3. O o których mowa od pierwszeg'o dnia do ust. i kOInisje' lekarskieqo' pracy z powodu nie spra,w inwalidztwa i zatrudnienia. Orze-' cienie komisji lekarskiej do sprav.i do pracy wskutek '}Vypadku przy pracy, wypadku w Inwalidztwa i zatrudnieriia stanowi' drodze do lub pracy albo do reh; w,skutek zawodowej, litacyjnego. ' Od ~ pierwszego dnia nieZdolności do 4., Minister Pracy. I. Spraw Socjal pracy z powodu .choroby, nych w ,porozumieniu z Ministrem jeżeli nie, v.cia i Opielvi w do pracy przypada na okres dze zdsady, i tIKb . kania sprawach: których mowa za okres ' nieprzerwanej ust. do. pracy ponad 30 dni od trzydziestego' pierw- Art. l,9b; ' Swiadczenie "rehabilitacyjne "wynosi/50/o ,;szegodni.a :lej. wynagrodzenia.' które wymiaru zasiłku chorobowego" a jezeli 5. - za zdolność do pracy PO',vstała wskutJk dzier'l do pracy. nie padku przy pracy, wypadku w -drodze dni wolnych od pracy. pracy lub z pracy albo wskutek choroby Przy ustalaniu okresu ,zatrudnienia, od zawodowej - 100% tego wynirgrodzenia. którego cho Przepis art. 53 5 Kodeksu pracy 'stósuje 'rob0wego" odpowiednio do pracownika okresy . cego rehabilitacyjne, je'Mli 7. Rada Ministrów w drodze roz on swój powrót do pracy okresy z po wyczerpaniu tego $wiad o,k resami ,z?-truqbienia, w czenia. po ' czeniu dq okres ll ,zatrudnienia, od któ ,od stosunku pracy. rego za!eżywy~,ąf.ość zasiłku choro Art: 19d. w przepisach ubezpieczeniu, 'bowego. krótszy o emerytalnym, okres, zatrudnienia, także w przepis~ch. które' uzaJeżni'iiją w w od dochodu rodziny,jest mowa usL I pkt i 2."; o chotobowym; przez to warL 12 ust. 'I i 2 brzmienie: rehabilitachorobowego stanowi cyjne. , ' wynagrodzenie Art. 1ge. Przepisy art: ust. art. 13, 16, pracownikowi za okres 3 kalendarzo-' i, 19 odpowiednio do w którym po- nia , . , DzienrrikUstaw Nr 5 71 Poz. 33 wart. . mocOlcze oraz prawo do przysposobieilia- zawo aj ust.. 'otrzymuJe :dowt:go i innych w .naturze dla Zasile·k wy/;ównawczy sta'n0wi cownlka . lub rencisty 'oraz ' dla wynagrodze tych osób."; " . niem z okresu .ostatnich. 3 zaIrudnie 2) wart. 19 pkt otrzymuje brzmienie: nia przed powstaniem prawa do tego ,,2) '75% podstawy wymiaru renty - dla' pracownika a _ wynagrod'zeniem . , zaliczonego do III grupy inwalidÓw."; podczas pracy w wa'runkach w art. 20 otrzymuje brzmien\e: ,art. 20 ust. lub w art. 21 ust. "Art.' 20. Podstawę wymiaru renty inwalidzkiej '
 
-4. Podstawa wymiaru renty inwalidzkiej oraz renty rodzinnej przysługującej na podstawie ustawy, o której mowa w ust. 1 pkt 2, nie może być niższa od kwoty odpowiadającej półtorakrotnemu najniższemu wynagrodzeniu za pełny miesięczny wymiar czasu pracy pracowników zatrudnionych w uspołecznionych zakładach pracy, obowiązującemu w dniu wejścia w życie niniejszej ustawy.
+- **b)** , w ust. powolanie .. 12. (13 zast~puje się po- stanowi wynagro jart. 12 ust. 3, art. 13 pkt· art. .29 dzenie . pracownika ustalone, w sposób ust. 3: , w przepisach o zaopatrzeniu
+- **6)** . wart. 26: emerytalnym praco,wuików i ich todzin. ust.' otrzymuje brzmienie: 2. Podstawa wymiaru renty . inwalidzkiej "i. Zasiłek porodowy wyplac;a się . w wysokości nie byc od kwóty odpowia-' ',' dwukrotnego rodz.innego, jaki przy dającej półtonłkrotnemu naJlllzszemu słuyi.wałby na urodzbne dzieclw, niezależnie wynagrodzeniu za wy- ' . '.-od tego, czy rodzinny miar: czasu pracy pr.acowników ,zatrud nie .mniej jednak 2.500'. zl.", · . nionych pracy, zwanemu da'leJ "naj wy. h) po ~~t. 2 doiaje się' ust. 2a: w brzmieniu: w dniu ,,2a. Osobom uprawnion ym do porodo wniosku 'o wego nie przewidzianego w od "
 
-**Art. 2.**
+3. Rada Ministrów ~o~e określić w 'drodze ych przepisach, ,rozporządzeniamijpi2:szą podstawę wy z t urodzenia dziecka."; miaru . i- podstawy wy
 
-1. W ustawie z dnia 17 grudnia 1974 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 1975 r. Nr 34, poz. 188) wprowadza się następujące zmiany:
+- **7)** ' w. art. 29 ust. 3 brzll1i.enie: miaru renty inW'alidzkiej, gdy wskutek ,,3: wymraruzasilku .sta . wypadku przy pracy lub thoroby . nowi, wynagrodzenie 'd owe} zmniejszyia ' w znacznym ' pracow.!}Jcy za okres 3 w ka stopniu mo~Iiwoś·t,'~zyskania przez pr~: którym / cownika wynagTOdzenia w '. powstało . p~awo d0 'tego zasiłku, ' z wyłączeniem ,.. ' . nagród i wynagrodzenia nie maj/l /4) po art. 20 dodaje art: 20a" 'w brzmieniu: cych charakteru przez Rad. ,;.Aft. 20a. 1. P~dsta~a wynliaru renty ' inwalidzkiej Mihistr-ów w drodze ulega' Ćoroc~n'l'til, .... podwY2:kom stqsow
+- **8)** wart. 34 w ust. 2 -art II ust. 4 nie 'do wżr.óstu" ~rzeciętnego miesięcz. att. II ',ust', 5: nego w · gosp9(iarce ~) art. 43 w ust. pkt' otrzymuje brzmienie: . W-":'roku ,; "l) uspołecznione zakł~dy praty -;- 'Swoim pra-.ow:' • fok podwyzki . i. w termi nikom -w 'czasie trW:Q,nia ich, zatrudnienia. a nach ok'reilortytif' w . przepisa'cti o -za 'po' ustaniu' .zatrudnienia, do 'opatrzeniu errteI'ytalnym pracowników pracy przed ustaniem .. . I
 
-- **1)** art. 11 otrzymuje brzmienie: „
+2. "Jezeli renty inwa
 
-**Art. 11.**
+- **10)** , po art. 50 dodaj":, art. 50a w IidzkiejLislalóna·: w ust 1 jest "Art. Przepisy art.' 43-50 ,stosuje odpo obo-. wiednio do. ( " naJl).lZ nego .." ; za.
+- **11)** w. art. 53 ust. ótrzymuje brzmienie: . wymiaru . R'ada Ministrów w drodze rozpofZ4-.. 5) wart. dZElllia ' zasady i tryb pokrywani~' pr~ez ~'akła~y ust. 1 otrzym.llje brzmien'ie; ,\(" pracy wydatków na okrei z w' razie chO--:, '1) dOdatki rodi'rnne ot1iz' dodatek roby i qoktó,rych prawo przed , cyjnytiit zasadach' oK·:e:';!o dniem w e niniejszej ustawy. n'ych. w 'przeprsacho' taopdtrzeniu eme! na zasadach w w przepisach do- " :'talnym -j-'ich [odozin, " tychciasowych. 2} ' nieodplatne I'eczn icz-e, polozni
 
-1. Miesięczny zasiłek chorobowy – z zastrzeżeniem ust. 2–4 – wynosi:
+**Art. 3.** W ustawie z dnia' 12 czerwca 1975 r. o czej w leki, Crl:eniach z tytułu wypadków przy pracy ' i ,chorób zawo przedmIOtY: or'tope dya 'ne, protezy, ki . dowych (Dz. U. Nr 20. pO'L. 105 i z 1971, f:. Nr 11, poz. 43) opartunkowe i" pprri'6cn'icze OrdZ 'pobyt wprowadza zmiany: \ \ . domu pomocy: na zasadach .okre ,.w, przepisach o eme-.
 
-- **1)** 100% wynagrodzenia stanowiącego podstawę wymiaru zasiłku – dla pracowników mających okres zatrudnienia dłuższy niż 8 lat,
-- **2)** 80% wynagrodzenia stanowiącego podstawę wymiaru zasiłku – dla pracowników mających okres zatrudnienia od 3 do 8 lat,
-- **3)** 75% wynagrodzenia stanowiącego podstawę wymiaru zasiłku – dla pracowników mających okres zatrudnienia krótszy niż 3 lata.
+.. 7) . lecznicze. cJ;enia 'rehabilitacyjne. zaopatrzenie w leki. przedmioty rodziny osoby"~prawrijonej do ren'ty inwa: ottopedyczn,:. ,protezy. opatrunkowe . r po- lidzkiej, • Dziennik __- --: Ustaw ___ Nr 5 _______- '--__ - 72 ______- -.:. _______ prawo do przysposobienia zawodowego na b) zaopatrzenie w leki. przedmioty ortopedyczne, zasadach przei Ministra Zdro protezy. i pom0cnicze. wia i Opieki w drodzerozpo- c) pobyt w domu pomocy . w ust. 2 ust. pkt po w art,A: ust. 1 pkt 2 i 3; aj po ust. 1 dodaje' ust. la i b w brzmieniu: wart. 24 ust. 2 oraz oznaczenie ust. 1 "la. Okres twórczej wymagany do pIZyznania renty inwalidzkiej wynosi lat,' wart. 26: w tym co najmniej 5 lat w okresie ostatnie podstawy wymiaru renty do. pkt 3. twór renty uprawniona jest jedna osoba," po raz pierwszy po 40 lat
 
-2. Zasiłek chorobowy za każde pierwsze 3 dni niezdolności do pracy z powodu choroby wynosi 50% wynagrodzenia stanowiącego podstawę wymiaru zasiłku.
+- **l)** w ·art. 2_pkt 7 otrz}'l!luje bfzmienie: rytalnym ich r0clzio;
+- **a)** w ust. 1 pkt otrzymuje brzmienie: go o' którym mowa w ust.
+- **b)** ust. 2 i 3 brzmienie: Prczy ustalaniu podstawy wymiaru renty sto 1 b. Przepis ust. I a stosuje odpowiednio do suje odpowiednio przepisy art. 20 i 20a. twórcy. 'który po 40 lat
 
-3. Przepisu ust. 2 nie stosuje się, jeżeli niezdolność do pracy spowodowana została chorobami, których wykaz określa Minister Zdrowia i Opieki Społecznej w drodze rozporządzenia.
+3. Osobie uprawnionej do renty rodzinnej przy po lat dodatek i dodatek dla zaprzestania poprzednio wykonywanej sierot na zasadach i w twórczej albo od zatrud" w przepisach o zaopatrzeniu elfie nienia lub okresu okresem rytaln ym pracowników i ich rodzin oraz inne zatrudnienia myśl przepisów o z~opa • wart. 21 ust. 1 i trzeniu emerytalnym pracowników i "ich ro art. 22."; dzin .... hl po ust. 4 dodaje ust. 4a i 4b w br!mi-eniu:
 
-4. Miesięczny zasiłek chorobowy wynosi jednakże 100% wynagrodzenia stanowiącego podstawę wymiaru zasiłku bez względu na okres zatrudnienia pracownika:
+- **8)** w art. 28: ,,4a. Twórcy. który stal I lub IIg'ruw plf.t 1 powolanie art. 24 ust. po- -py przed twórczej.' art. 24. renta inwalidzka. po 'pkt 2 skreśla się; okresu wykuny)Vania -twórczej art. 3Sotrzymuje brzmienie: c wraz z okresami do. tego okresu: .. Art.' 38. S~ory o świadczenia przysługujące cod pracy organy wla .1) 5 lat w ostatniego we do rozstrzygania sporów ze sto- przed _ wniOsku o inwa7 sunku pracy. -- , , albo ,, 2. Spory od 10 lat. oraz po raz pie}wszy po 40 Jat. od do spraw zaopatrzenia 4b. Przepis ust. 4a stosuje odpowiednio. do : emerytalne,go kolejowych jednostek or': twórcy. który I lub II gru ganizacyjnyc,hpodlegajci' rozpatrzeniu w_ py po upływie lS· miesięcy od zaprżestania trYl?ie, dla rozpatrywania , wykonywania, twórczej. od decyzji w sprawach emery ponowne twórczej naten t. "; po 10 lat od zaprzestania 'twórczej. okresów poaIt. 42 art. 42aw brzmieniu: sprzed .tej przerwy nie zalicza "Art. 42a. Osoba uprawniona 40 renty inwalidzkiej art. otrzymuje brzmienie: ',z i1rwalidztwa, które wskutek wypadku przy pracy. choroby za .. Art. 7. L Osobie uprawnionej do emerytury lub wQdo_wej lub wypadku w drodze do pracy ' rent)' lubi, pc'acy, na po z twór wieku 55 lat kobieta i 60 lat czej w podstawy'wymiamęż'qyzl1a., jeżeli ma o~res zatrudnienia ru emerytury lub renty. - . ' . do przyznania' emerytury. okre 2. Osobie uprawniolfej do emerytury lub przepisach o zaopatrzeniu em'e renty prawo do dodatków tytaln}-m r ,ich rodzin albo 1) rodzinnych. w innych przepisach -o spo 2) lub zaopatrzeniu emerytal 3) .z nym,";
+- **4)** dla sierot art. . . na warunkaCh w Art: 4. W ustawie 'z rlnia wrzesnJa r. o za- , nych, w przepisach o zaopatrzeniu eme opatrzeniu twórców rodzin (Oz, rytalnym 'pracowników ich rodzin .. Nr 3S, poz, 225, z Nr poz, i z r. Nr 3. oraz dodatki. pOZ. zmiany: ' których mowa w ust. i w ust. 2 pkt -3. wart. .2 nie renta inwalidzka lub renta rodzinna jestwypłacan'a' w wy w naturze: w przepisach o dotychczasowa oZI1aczenie ust. 1. protezy, .opatrunkowe i pomocnicze kiej i renty rodzinnej ulega corocznym pod - na zasadach w terminach okre stosownie do wzrostu w -przepisach o zaopatrzeniu emery- , wynagrodzenia w gospodarce talnym pracowników i ich' rodzin. w roku rok 4. Kwota z ust. 3 nie jest - na zasadach i iN terminach okre ograniczona podstawy w-y w przepisach ' o zaopatrzeniu emery-" miaru i talnym pracowni!<-ów i ich rodzin. z w art. 8 zdanie pierwsze otrzymuje -brzmienie:
+    - **a)** lecznicze. rehabiJi- czeniach· z wypadków przy pracy tacyjue. ichoIóbzawodowych."; , D~iennik Ustaw Wr 5 73 Poz. 33' wart. 10: trzenie 'w leki, przedmioty ortopedyc.Lne.
+    - **b)** dodaje ust. 2-4,-w oraz pobyt w domu pomocy - brzmieniu: b) dodaje usL 3 i 4 w brzmieniu: ,.2. emerytura lub renta jest w podstawowej, za wymiaru ,,3. Podstawa wymiaru emerytury; renty ' inwalidz tych odpowiada kiej renty rodzinnej ulega corocznym pod podstawie wymiaru stosownie do wzrostu' -wynagrodzenia w gospodarce ' . ,3. Podstawa wymiaru 'emerytury, renty inwalidz w roku rck.
 
-- **1)** od pierwszego dnia niezdolności do pracy z powodu choroby, jeżeli niezdolność do pracy powstała wskutek wypadku przy pracy, wypadku w drodze do pracy lub z pracy albo wskutek choroby zawodowej,
-- **2)** od pierwszego dnia niezdolności do pracy z powodu choroby, jeżeli niezdolność do pracy przypada na okres ciąży,
-- **3)** za okres nieprzerwanej niezdolności do pracy trwającej ponad 30 dni – począwszy od trzydziestego pierwszego dnia tej niezdolności.
+4. Kwota podwyżki wynikająca ust. 3 nie jest "Art. 8. Swiadczenia lecznicze" polożnicz~,o reha'bllł ograniczona 110dstawy wy- tacyjne, zaGpatrzen-ie w leki, przedmIoty miaru i , ortopedyczne, proteL.y, ppatrunk.owI
 
-5. Zasiłek chorobowy wypłaca się za każdy dzień niezdolności do pracy, nie wyłączając dni wolnych od pracy.
+- **5)** art. 13 otrzymuje brzmieńie: pomocnicze "Art.13. 1. Prawo do emerytllry lub renty podlega 3) 4 'otrzymuje brzmienie: zawieszeniu - z ust. rodzinne i n! zasadach w przepisach ,o zaopatrzeniu emerytalnym pracowni 4) art. 12 otrzymuje brzmienie: ków, ich rodzin. .,Art. 12. Zasiłki rodz'inne i zasiłek pielęgnacyjny
 
-6. Przy ustalaniu okresu zatrudnienia, od którego zależy wysokość zasiłku chorobowego, uwzględnia się również okresy poprzedniego zatrudnienia.
+2. przychodów z w w !wórczej nie powoduje zawieszenia ani drodze Minister' Pracy, zmniejszenia emerytury lub' z Spraw Socjalnych."; , opatrzenia w niniejszej wart. 13 przed ust. 1 dodaje jlst. la w brzmieniu ustawie."; "la. Ubezp-ieczony naby'waprawo .do rodzin art. 19 otrzymuje brzmienie: nego z pierwszym dniem kalendarz.o "Art. 19. W sprawach nie u'regulowanych ustawie. wego. w którym ubezpieczeniem."1 stosuje odpowiednio: " ,wart. 15:
 
-7. Rada Ministrów określa w drodze rozporządzenia okresy równorzędne z okresami zatrudnienia, podlegające wliczeniu do okresu zatrudnienia, od którego zależy wysokość zasiłku chorobowego, a także może ustalić krótszy okres zatrudnienia, uprawniający do zasiłku w wysokości określonej w ust. 1 pkt 1 i 2. ” .
+- **1)** przepisy ustawy ,dnia 14 grudnia «;lotychczas.owa .otrzymuje .oznaczenie ust. 1982 o 2iaopatrzeniu emerytalnym pra dodaje usi. ,2 w brzmieniu: cowników i ich rodzin (Dz. U. Nr 40. i,2. Ubezpieczonemu, 'który wiek emery 'poz. 267l, wyjątkienl art. 27 i 28, ' przepisy ustawy dnia 17, czerwca talny po, 5 lat 'po ustaniu ubezpiecze nia, emerytura 1975 r.o świadcZe~ią.cł). z tytułu wy padków przy pracy i chorób zawodo 1) ma okres ubezpieczenra, 'wraz z cki~sami wych (Dz. U. Nr 20, poz. 105 i z 1977 ),". zaliczalnymi do tego okreśu, wynoszący có Nr 11. poz. 43), z 2 pkt najmniej 30 'lat dla kobiety i ' 35 lat dla 1-3 i 6, art. 9-17, 29, 30 i 40:"; " albo
 
-- **2)** w art. 12 ust. 1 i 2 otrzymują brzmienie: „
+**Art. 5.** W ustawie z dnia 19 grUdnia 1975 r. o ma okres ubezpieczenia co naj, pieczeniu. osób na .rzecz mniej 20 lat dla kobiety i25 lat dla na podstawie umo czyz.ny i wiek emerytalny w wy agencyjnej lub umowy zleCenia (Dz. U. Nr 45, poz. 232. okresie pobierania renty inwalidzkiej llib z 1976 r. Nr 40, poz. 235 i z 1977 Nr 11, poz. 43 oraz renty rodzinnej."; , Nr- 32, poz. t40) wprowadza, zmiany: J) wart. 16 dodaje ust. 3-6 brzmieniu: wart. 6: •• 3. Okres , wymagany do
 
-1. Podstawę wymiaru zasiłku chorobowego stanowi przeciętne miesięczne wynagrodzenie wypłacone pracownikowi za okres 3 miesięcy kalendarzowych poprzedzających miesiąc, w którym powstało prawo do zasiłku. Podstawę wymiaru zasiłku chorobowego za jeden dzień niezdolności do pracy z powodu choroby stanowi jedna trzydziesta część tego wynagrodzenia.
+- **a)** w ust. l' renty inwalidzkiej wynosi 10 lat, w tym co naj mniej 5 lat w okresie ostatniego - brzmienie: o którym w usL 1 pkt ubezpie .;1) lecznicze i zaopatrze czony ubezpieczeniem po raz pierw nie w ,leki; przedmiot y- orto'pedyczne, protezy. szy po uk0l1czeniu 40 lat opatrunkowe i pomocnicze, Przepis usL 3 -stosuje do' ubez w 'razie choroby i ma pieczonego, który po 40 lat' Z.ochorobowy,' os tal ubezpieczeniem po upiywie 10 lat od rehabilitacyjne, porodowy o ,okresu ubezpieczenia albo - cd ustania zatrudnienia lub okresu
+- **3)** rodzinne i go z okresem zatrudnienia w przepisów' o pkt 8 otI brzmienie:_ zaopatrzeniu emerytalnym pracowników i ich .. 8) w naturze, z pobiera rodzin. ' , nia, ,emerytury lub renty: lecz 5. Ubezpieczonemu, który lub lllcze; rehabiJitacy jne, zaopa,- II g[ upyprzed ubezpieczeniem, renta .... bziennik -----' - Ustaw _ .'-- Nr 5 74 . - -'--.-'----_._---- Poz. . inwalidzka . : po okresu ,,3. Podst~wa 'wymiaru emerytury~ renty inwalidz-' ubezpieczeni/) okresami za- kiej i renty rOcl~ińn~j ' ulega corocznym liczalnymi do ·okresu: , , stosó,wnie do wzrostu' '. lat w ciągu ostatniego dziesięciole'cia przed 'wynagrodzenla Vi gospodarce' , zgIoszen.tem wniosku o' albo iio nej w. rokl,!:·· "rok
 
-2. Przy ustalaniu podstawy wymiaru zasiłku chorobowego uwzględnia się składniki wynagrodzenia z tytułu wykonywania pracy w ramach stosunku pracy w normalnym, obowiązującym pracownika czasie pracy, z wyjątkiem składników wynagrodzenia określonych w rozporządzeniu, o którym mowa w art. 13 pkt 1. ” ;
+10. lat" ubezpieczeniem' po -' zasadach w. ,raz pjerwszy po lat. lonych Wzepisach o 'zaopatrZeniu etn,erytal' uym pracowników i, iCh ro<:izin."i
 
-- **3)** w art. 13 pkt 1 otrzymuje brzmienie: „
-- **1)** składniki wynagrodzenia, których nie uwzględnia się przy ustalaniu podstawy wymiaru zasiłku chorobowego, ” ;
-- **4)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „
+6. : Pr~epis' ust., 5 stosuje śięodpowiedńio' do ubez" pie<;zon~go,. k~órystał' się inwalidą ł lub II grupy 'wart., zdanie pierwsze po od ustania ubezpieczenia. "Art. Świact'czenia lennicze, położnicze, rehabili~a~ Je*e[i. P9nowne ubezpieczeniem, cyjne. zaopatI:zenie w' leki, 'przedmioty ,orto-, po lat od ustania' ubezpieczenia', okre pedyczne. protezy,' opatrunkowe i po sów ubezpiecierria ' sprzed tej nie za mocnicze l(cza •• ' art. 9 otrzymuje' brzmienie: '" , wart. pkt A otrzymuje bl:zmienie;, 9: •. 4t pobie;ania pó ustaniu oliowią:zku u'be~pieczenia "Art. ~wiadczeni.e rehabilitacyjne ' przysługuje na zas'ilku choro-bowego lub..J macierzyńskiego albo . zasadach w ,przeRisach .o swiad . 'renty chorobowej, ng ppdstawie prze . ubezpieczenia plSOW przed 'dniem stycznia ,nego, w choroby 'S) art. H otrzymuje brzmienie: , wart. u!?L ()trzymuje ZasNki ' rodzinne: l zasiłek.· "pielęgnacyjny Minister Pracy. PlaG i Spraw Socjalnych przysługują ,w wY50koki,. którą określa w w vi Mihister Pracy. Plac, sprawach do kontynuO-: i Spra'w Socjalnych:"; . wania uhezpieq:euia, zasady . ustala artj t2'przed'ust. dodaje ust. la w brzmieniu: nia p.rawa pieyeh."; . . , ' . "ta., Ub~zpieczohy nabywa, prawo' do zasiłku rodzin ,-art. nego z kalendarzowe w w ' Al't.~6~ dekrecie dnia ,~'ait.a' ~1976 o ubez 'w' .art, . pieczeniu spolecznym człolJków rolniczyc'h 'sp6łdzrelni pro dukCy jn,ych sp6/(tiielni ' kółel{ 'rO:ląićzyth ,oraz ich d~tychczasó'wa , treść "otr-zymuje ozńaćzenie ust .. dzin (Oz, Nf z Nr poz. .' b) dódaje 2' W· blzih)'enitl: oraz Nr 32. poz, 1'40) wprowad~~~'się ri~Śtępuj"ce zmiany: ,,2. Ub'ezpleczonemu, który wiekemery w 'art. pkt 'Otrzymuje brzmienie: . talny 'po lat ustania człon.ków spółdzielni k9łekrolnićiyćh-iTi~szdnyclr "w . .w Krajowym 'Rolników:. I(ólekl ma okres q ktÓrym mowa' w ust: . zacji Rolniczych. wzespo-' pkt . co najmniej lat dta lat , dla wart. albo 'ma okres: pracy; o którym mowa' 'w ust. usL 1: 'pkt i wiek emerytalny w okr'esie pkt )2 , ' ".1)świ~dcze~jił lecz~icze .{ pqIQ,Ż~Jcze. 'zaorra 'pobfe:ra nia ,renty ,inwalidzkiej lub; renty rodzilwej."; . ' trzenie w leKi, .,ortopedyczne. -Protezy. i , pQ[llocnicze, . ,. w .. " choroby a) poush dodaje się ust. 'la i w brzmienhi: . i mac.ierzytl?twa: "la ...W arunek Vi ust. pkt rerabilitacy joe, p,orodowy, ,za spelr\iony.., zasiłek m~derzyi)~kL i, ~a~ił~,Kj:)piekunczy;'! przez okres ostatnich lat prted , - "po pkt- -2 dodaje pkt, niem ' do w gospodar ,,2a) wychowa,w:c:zT:';" stwie rolnym praca ta -stańowiłii dla ~iepkt' 3 otrt'ymujebrzmldnie:, .,,' . .- : .," go utrzymania albo rodzinne i 2) ~niósł do spółdziel~i lub ~zekazał jej ,----.' na, rolne. o obsza-' pkt 9 otrzymule 'brz1l)ieflie: ,,; " ,rze nie mniejszym 0,5 ha i jeieli praca , św-iadczeni 9 ",' w' ,naturze.'·z ,tytułu ",pobiera" w.Jym gospodarstwie' p.rzez okres o,statnich nia emeryt.ury lub renty: lecz 5 lat przed do stanicze. 'pbToinicze "i' ~ rehabilitacyjne. ' z'aopat . nowiJa dla niego utrzylna rżenie ' w ' leki, " przeqniIoty ' órtop~dycz~e, Jlia; " opatrunkowe i , pdmocnicze . Ib. Osoba', która w oraz pobyt domu pomocy wyniku o. których bl w ust. 2 dodaje się pkt 5 w brzmieriiut mowa yv ust. la pkt 2. traci do niej prawo, ~~otycz~cymiurlopów wychowawczych."; jeieli wniesione . do grunty· zostaz . o którym mowa w ust. pkt ust. la, art. 16 i ust. 1."i ubezpi'eczony zostal ubezpif1cze: ' po 'art. 19 dodaje art. 19a w brzm.ieniu: , po raz pierwszy po 40 lat "Art. 19a .. W sprawie zawieSzania prawa do emerytu ry lub renty i ich zmniejszania stos,uje 2b .. Przepis ust. 2a stosuje odpoWiednio do odpowiednio zasady w przepisacn . u'bezpieczonego, który po lat o. zaopatrzeniu emerytalnym pracQwnikó-w zostal ubezpieczen"iem po ich rodzin." wie 10 'Iat od .ustania okresu ubezpieczenia albo' od ustania zatrudnienia --..14) w art.2Ia: lub ok:esu z okresem zatrud ust. r otrzymuje ,brzmienie: nienia w przepisów o zaopatrzeniu eme- ,;1. ,Osobom, które po dniu 31. grudnia 1982 r. ryta In ym pracowników i ich , gospodarstwa rolne Ubezpieczonemu, który' stal lub na na pod II grupy przed ubezpieczeniem, ren stawie dekretu emeryt'ury· lub renty ta inwalidzka po okre . , su ubezpieczenia wraz z okre sami zaliczalnymi dd· tego okresu:- l) z tytułu wartości 'przekazanego, gospodar stwa o kwoty przewidziane w ustawie I) 5 Idt w ostatniego z dnia 14 grudnia 198i r. ubezpieczen.iu przed wni·osku o inwa· rolników iJidywidualnych alb.o . ich rodzin (Dz, U.·Nr poz. 268)
 
-#### Rozdział 2a Świadczenie rehabilitacyjne
+- **c)** U,5t. 3 iW .brzmieniu: , Iy niej , wycofane.". . ' Dziennik Ustaw Nr 5 po ust. 2 doc41je ust. 2a - 2d w· brzmieniu: . '·"Ar,t.IR Przy' ustalaniu ' wzrostu emeryrury w· lub ren- ' .. 2a. Okres ubezpiec;zenia wymagany do przyzna ty 'z okresu' zatrudnienia Polsce 'niarenty inwalidzkiej wynosi 10 lat, w tym Ludowej :okresy pracy co najmniej 5 -lat w okres'ie Qstatniego dzie- . okresy wymienione w art.
+- **2)** lat. jeżeli został objęty ubezpieczeniem' dla rolników po raz pierwszy po lat. gospodarstwa rolne Przepis' ust. 2c 'stosuje odpowiednio do z uprzedniego ubezpieczonego, który po 9runt9wych przez co najmniej upływie miesięcy od ustania ubezpiec~enia.; przez 5 lat - o Jezedi . ponowne u'bezpieq:eniem oa niej po lat od ustania·ubezpie- canej przez w okresie ' . czenia, okresów sprzed tej przerwy zalicza nich .5 la,t przed rokiem, w którym gospo , . ,darstwo. przekazane na , 9) wart. IS dodaje ust. 3 w brzmieniu: ni.", Osoba, która po ubez ust. 3-5 w brzmieniu: piecwnym, klól w cllwili wa ,,3. Przy przekazy;waniu ' gospodarstw rolnych na .. runki do ulyslulllia emerytury lub renty inwa stosuje odpo:viednio lidzkIe)' dJbo 'mial . ustdlone ,prawo' do jednego z o', ubezpieczeniu rolni -- tych w wyniku' zaliczenia okresu pra ków 'ihd,ywidualnych i· ich rodzin. mu, w r,oku okres tego 5: reJ ubezpieczeniu na podstawie' osoba;' kto mowa w usL jest , deicretu - w wymiarze nie } , innych nie 6 lat. ; , w g?spodarstwa rolnego, z wnioskiem" do o U)w art. 17 ust. 1 tych Do okresu pracy w s.pótdzielni wymaganego do wart-; ,25: przyznania emerytury 'zalicza okresy pracy w gospodarstwie ,roln ym . po 16, . a) w ust. pkt 3' lat, ale przed do b) , w ust. 2 pkt 2 oraz oznac:ienie pl-'t 1 , praca ~. tym gospodarstwie ' .stanowiła . główne 16)' w 'art 28 pkt 2 . utrzymania, . zaliczenia tych okresów pracy jest 'przepracowanie 'w "f) dochód z pracy w co 10 Iilt, a ubezpieczony podstawę wymiaru składek- na ubezpJeczenie uwa-' do lub jej na grun za z 'wynagrodzeniem z· tyty 9 óbszarze nie, mniejszym ' 0,5 ha co . .najnmiej 5 lat."; Art. 7. W 'ustawie z dnia '18 grudnia 1976 t,. o ubez
+    - **c)** ' w gospodarst-wie rojnym, traci do, niej prawo, pl'2:ekazywania gospodarstw tolnych wniesione dd grunty z z ' tym, przekazanie gospod'arstwa niej rolnego; na' 'Własn~ŚĆ' spółdzielni rt'astępuje w art. 16 dodaje pkt 4 w brzmieniu: .. drodze umowy zawartej W 'formie aktu no_o , tal ialflego. ' zwolnien od pracy w, cel·u sprawowania opieki na cclle gosndd dZIeckiem udzielanych na podstawie " .' " "}lodarstwó roJne lub' jego przepisów prawa ubezpieczone· . ·'zagospodarowania.
 
-**Art. 19a.**
+- **12)** art. 18 ot~zymuje brzmienie: . pieczehi'u społecznym rzemieślników i niektórych. . innych Dziennik Ustaw Nr 5 . ....... Poz. 33 osób na ra .w przepisa!=ho zaopatrzeniu chunek oraz ich (Dz; U. Nr 40. poz. . 2.35 I z 1977 r. emerytalnym pracowników i ich rodzin. Nr 11, poz. 43 oraz Nr 32, pez. 140) na 2. Dodatki, o których mowa w ust. 1 pkt 3. zmiany: nie renta 'w art. 5: lub renta rodzinna jest w - pkt 2-4 w przepisach o w z wypadków przy razie. choroby oraz pracy i chorób zawodowych."; , zasitek chorobowy, nie , .rehabilltacyJneoraz porodowy wart. 15 w ust. pkt 4 otrzymuje brzmienie: i, ;.4) pobierania renty chorobowej przyznanej na pod'
+- **3)** rOdzinnej i stawie przepisów przed dniem stycznia 1983 r :"; 4) emerytaine: In i CI) w art. 16 ust. 1 otrzymuje brzmienie: - pkt- 8 otrzymuje, brzmienie: W razie zalega.nia przez .dzia w naturze z' pobier,!nla z na emerytury lub renty: lecznicze. czenie na składKę, świadctenia, których mowa· w art. 5 r:ehabHitaeyjne, zaopatrzenie. w leki. przedmioty ortopedyc:z.ne,. ni'e~ przysługUją do czasu opła~eri,ia. w Qpatrunkowe pomocnicze oraz pobyt w . za ych . . mu pomocy 7) art. '1:7 'otrzymuje brzmienie: art. otrzymuje brzmienfe: .. Art. 17. W sprawie zawieszania. . prawa d,o i zmniejszania stosuje zasady "Art. 8. rodzinne przepisach' o zaopatr.zeniu na zasadach w emerytalnym ich rodzin." pr.zepisach o ubezpieczeniu rodzinnym. 2; zasilkówrodzinrrych Art. 8: W ustawie z :dnia 26 stycznia 1,982 Ka.rtd oraz tryb Nauczyciela (Dz. Nr 3; poz. i 25, poz. 287 w sprawie przyznaw~nia wyPłaca -rqr. 3l.' .poz. 214) wprowadza zmiany; nia t Spraw l) w art.'41: Socjalnych w dr.odZe ,a) dotychczasqwa' treść otrzymuje ozn,aczenie ust. wart. 9: "', b) dodaje list. 2-4, w brzmieniu: ust. I i 2 brzmienie: .. 2: Za ' pierwsze ' trzy dni Swiadczenia na zasil pracy 'z powod'u choroby nauczyci~l zacho. dach i w Qk,eMonych w przepisach wu}e, prawocto, wynayroclzenia w o, zaopatrzeniu\ emeryta)nY?l.:, pracowników 90°/0. ' Przy obliczaniu tego wynagrodzenia i ich rodzin, } ust. 2-4a. wynagrodzenie 'za jeden '
 
-1. Pracownikowi, który po wyczerpaniu zasiłku chorobowego jest nadal niezdolny do pracy, a dalsze leczenie lub rehabilitacja rokują odzyskanie zdolności do pracy, przysługuje świadczenie rehabilitacyjne.
+2. Wiek wymagany do . przyznania emerytury ,d,zień oznaCZa· jedną ·· trzydziestą wynagro<;lze-, wynosi: 60 Jat dta kobiet i 65 lat dla . . czyzn .... 3. PrzepisÓw ust. 2 n,ie stosuje w wypadkach. bi· po ust. 4 dodaje ust. 4a) 4b w brzmieniu: o których mowa .w art, 11 ust. 3 i 4 pkt I i 2 ustawy z dnia 17 g.rudni·a 1974 o .. 4a. Podsta,,;a wymiaru emerytury, renty inwa- 'cteniach ych z ubezp'ieczenia Jiclzkiej, i ren'tyl rodzinnej "'ulega corocznym nego w iazie ctioroby ; (Dz. U., stosownie po wzrostu z .1975 Nr 34. poz. 188). go w gospodar ce w . rqku 4. za dni do pracy, z powodu rok na zasadach i w terminach choroby, w wyso IN pr-zepi:sach' :'0 zaopatrzeniu w' ust. 2. to . emerytalnym ' pracown'i'ków i ich rodzin. nica podlega odliczeniu z wynagrodzenia przy- . .. z-a kalendarzo 4b. Kwota :j: wymial'~l skla.~,rk i ś~;i'~ą~'Zeń."; wart. 89 ust. 1 i brzmienie: art. 1.1\ otrzymuje' brzmIenie: " Nauczycielom uprawnionym do emerytury lub "Art. 11. up'rawn'i0n'ej do emerytury lu!? renty inwalidzkiej ,dodatek do eme ' r~dJy 'pr~yi;luguJ~.~:pr'awo do dodatk6wl rytury iu'b renty w 15% podstawy wy, 1),. rodzinnych, i '. ...... miaru tych uprawniony do eme
 
-2. Świadczenie rehabilitacyjne przysługuje przez okres niezbędny do przywrócenia zdolności do pracy, nie dłużej jednak niż przez 12 miesięcy.
+- **2)** rytury w szkole co . najmme] przez is lat, a uprawniony do
+- **3)** .Z renty - co .najmniejpTZez 5 lat. ...
+- **4)** d~a sier6t zu,pełnych ,,3. Przyznanie dodatku· wymienionego w ust. 1 dla - na warunkach w. okl:e- nauczycieli. którzy przeszli na lub ren, Dziennik Ustaw Nr 5 '- . 77 Poz. 33 przed dniem w ustawy, bl ust., 4 otrzymuje brzmienie: puje na ich wniosek."; .. .4. Przyznanie dodatków wymienionyc'h w ust. wart. dla pracowników , naukowo-dydaktycznych, 1 brzmienie: którzy przeszli na lub przed dniem w ustawy, na "l. Nauczycielom, którzy w czasie okupacji pro ich wniosek."; wadzili tajne nauczalfie, .. dodatek do emerytury ,lub renty w 20% wart. 159 ust. 2 otrzymuje brzmiEmie': podstawy wymiaru tych nie ,,2. Podstawa wymiaru emerytury, renty inwalidzkiej cej jednak 3.000 nie i' renty rodzinnej 'ulega corocznym takiego dodatku z innego stosownie do wzrostu dodaje się ust. 3 wbrzmie~iu: • w gospodarce w roku rok - na zasa Przyznanie dodatku, o którym mowa w ,ust. .dach i w terminach w' .przepisach i na wniosek zainteresowanego.", zaopatrzeniu emerytalnym i ich ar,Ł91 otI;zymuje brzmi'enie: ' rodzin." , 91. Podstawa wymiaru emerytury,' renty inwa Art. 10. Wart. 24 ustawy z dnia 26 maja 1982 lidzkiej ,I renty rodzinnej uiega ' corocznym Prawo o adwokaturze (Dz. U, Nr 16, poz. 124) dodaje podwy;ikomstosownie ' do wzrostu prze ust., w. brzmieniu: , wynagrodzenia ' w '" ,,5. rodzinnych 'i pie gospodarce w roku poprze ,w drodze - na zasadach i w Minister Pracy, Plac i Spraw Socjalnych po za terminach' w przepisach o za sięg'nięciu opinii Naczelnej Rady Adwokackiej." opatrzeniu emerytalnym pracowników i Ich Art. 11. W Kodeksie cywilnego wprorodzin." wadza zmiany: .
 
-3. O okolicznościach, o których mowa w ust. 1 i 2, orzekają komisje lekarskie do spraw inwalidztwa i zatrudnienia. Orzeczenie komisji lekarskiej do spraw inwalidztwa i zatrudnienia stanowi podstawę do wypłaty świadczenia rehabilitacyjnego.
+**Art. 9.** W ustawie z dnia 4 maja 1982 r. o szkol ... }}"'art. "833' otrzymuje br'zmienie: nictwle (Dz. U. Nr 1.4, 113) f,~Art,)~3. § 1. Wynagrodzenie ze stosunku pracy eg:zekucji w zakresie. okre wart. 148 ust. w brzmieniu: w przepisach Kodeksu pracy. .§' Przepis§ .1 stosuje odpowiednio .. Za pierwsze' 3 dni'" do pracy ," .,' do diet czlonków z powódu ' choroby pracownik rolniczych ' produkcyjnych tyC:MJ.y zachowuje prawo do wynagr'odzenia w , i ich domowników z pracy w 50%. Przy obli<;zaniu tego 'wynagro • dzenia wynagrodzenie"za jeden ,pracy 'oraz · wszystkich o:(:nilcza wynagrodzenia świ'adczeń . powt~u,zających się, któ rych celem jest. zapewnienie ,utrzy6. Przepisów ust., 5 ' nie stosuje w wypadkach, mania. o 'których mowa wart. 11 ust. 3 I 4 pkt 1 ! 2. § przewidzianych w§ :2 usta wy z 'dnia 17 grudnia 1974 o nie stosuje do ' z w razie rolniczych pru choroby i ,(Dz. U. 1975 r. Nr 34" dukcyjnych z w ,poz. 188). ' chodach przypadaj'le ycn 1. za dni do pracy, z' powodu im wIliesionych- do choroby, wynagrodzenie w w ust. 5, tu pod § 4. Swiadczeni'a pieniężne przewidziane lega odliczeniu z wynagrodzenia w przepisac'h o zaopatrzeni emery za y kalendarzowy, Odliczenie to talnym egzekucji w Za nie stanowi w rozumieniu art. Ko kresie w przepideksu pracy."; sach, ". 5. Do z rent
 
-4. Minister Pracy, Płac i Spraw Socjalnych w porozumieniu z Ministrem Zdrowia i Opieki Społecznej określa w drodze rozporządzenia zasady i tryb orzekania w sprawach, o których mowa w ust. 1–3. Świadczenie rehabilitacyjne wynosi 75% wynagrodzenia, które stanowiło podstawę wymiaru zasiłku chorobowego, a jeżeli niezdolność do pracy powstała wskutek wypadku przy pracy, wypadku w drodze do pracy lub z pracy albo wskutek choroby zawodowej – 100% tego wynagrodzenia. Przepis art. 53 § 5 Kodeksu pracy stosuje się odpowiednio do pracownika pobierającego świadczenie rehabilitacyjne, jeżeli zgłosi on swój powrót do zakładu pracy niezwłocznie po wyczerpaniu tego świadczenia, choćby nastąpiło to po upływie 6 miesięcy od rozwiązania stosunku pracy. Ilekroć w przepisach o ubezpieczeniu społecznym, o zaopatrzeniu emerytalnym, a także w przepisach, które uzależniają uprawnienia od dochodu rodziny, jest mowa o zasiłku chorobowym, należy przez to rozumieć również świadczenie rehabilitacyjne. Przepisy art. 11 ust. 5, art. 13, 14, 16, 18 i 19 stosuje się odpowiednio do świadczenia rehabilitacyjnego. ” ;
+- **2)** wart. 158: z wypadku przy' . pracy lub w ust. 1: choroby 'zawodowej i z ren.t - pkt brzmienie: dzonych przez lub ustalonych umową za' utratę zdolnoŚci do pracy "l) 15 pod$tawy wymiaru' tych albo za uprawniony w szko canych dobrowolnego' le na 'stanowiskach: profesora, do nia rentowego oraz . egLekucji ze centa, adiunkta. starszego kustosza dyplo . mowanego lub kustosza dyplomowanego" z ,ubezpieczEmia .tarszegoaaystenta l asystenta, razie choroby i macierzynstwa slo: 100/opodatawy wymiaru tych suje. .. , przepisy o egzekucji ze uprawniony w przewidzianych przepi-' l. na Innych stanowiskach 5ach o' ' zaopatrzeniu emerytalnym pkt, l.", "praco,,:ników . ich rodzi n. Dziennik Ustaw Nr 5~ 78 Poz. 331,34
 
-- **5)** w art. 22: ust. 1 otrzymuje brzmienie: „
-    - **a)**
+6. Nie egzekucji 2. w innych przepisach jest mowa .,rend. alimęntac;yjne oraz zasiłki i dodatki . chorobowej", nal,eiy przez to,' r~umieć '"śwladcżen1.r .. ,rodZInne, porodowe, llabiIitacyjne". i -d,la !;ieifOt Art. 13. emerytury i renty przyznane na podstawie art., ust. 1 nie rekompensaty w arl 1083: z tytułu podwyżek ,cen, wypłacane na podstawie prze",a) § 1 otrzymuje brzmienier, pisów '
 
-1. Zasiłek wyrównawczy stanowi różnicę między przeciętnym miesięcznym pełnym wynagrodzeniem z okresu ostatnich 3 miesięcy zatrudnienia przed powstaniem prawa do tego zasiłku a wynagrodzeniem miesięcznym osiąganym podczas pracy w warunkach określonych w art. 20 ust. 1 lub w art. 21 ust. 1. ” , w ust. 2 powołanie art. 12 i 13 zastępuje się powołaniem art. 12 ust. 3, art. 13 pkt 2–4 i art. 29 ust. 3;
+**Art. 14.** Minister Pracy, l Spraw, Socfjalnych , "ł 1. Dochody wymieńione wart. 831 l pkt 2 ogJosi w Qzienniku Ustaw jednolite' teksty ustaw I :de egzekucji na zaspokojenie alimen kretu wymienionych wart: 2-1, z Zmian tów do trZech piątych części."j z przepisów przed dnielIl' wy dania, jednolitych tekstów I z zastosowaniem nub) § 3· • meracji i punktów. art. 1084 skr'eśla się. ' Art. 15. Ustawa wchodzi w z dniem od dnia stycznia .1983 -r., z tym przepisy,
 
-- **b)**
-- **6)** w art. 26: ust. 1 otrzymuje brzmienie: „
-    - **a)**
+**Art. 12.**
 
-1. Zasiłek porodowy wypłaca się w wysokości dwukrotnego zasiłku rodzinnego, jaki przysługiwałby na urodzone dziecko, niezależnie od tego, czy przysługuje zasiłek rodzinny – nie mniej jednak niż 2.500 zł. ” , po ust. 2 dodaje się ust. 2a w brzmieniu: „
+1. w' przepisach wymienionych tej ustawy ,zasHku chorobowego oraz art.. 8 2-10 okre$lenie "o powszechnym zaopatrzeniu eme pkt i art. w z drtiem marca rytalnym pracowników i ich rodzin" okra 1983 r. ,'leniem "o emerytalnym pracowników i ich Rady Pai:'tstwa: H. rodzin". Sekretarz Rady 84 łł,OZPORZĄDZENIB RADY MINISTRÓW ". .tycznia. r. w sprawie nieKtórych praw • celnej. Na podstawie art. 2 pkt -1, art. " ust.J, ad 26 uSt. 2 §3.1. Funkcjqnariuszem celnym mianowanym może 47 ustawy z dnia 16 1982 r. o pracównl- , kach (Dz. U. Nr 31,poz. 214)Z4-' l) warunki' w 2, • co. 2), zna co najmniej jeden obcy, zakresie L 1. Rozporządzenie st~~uje .ię do u.rzędnikóW " liwiającJjn wyko~ywanie obowi(z~ów służbo~ycn. administracji celnej, zwanych ,dalej "funkcjonariuszam,f , i celnymi". ' ocenę kwalifikacyjI)ą, ' ~ któ.fej mowa w ,5 ust. • 2, Funkcjbnariuszamicelnymi osoby zatrudnione 2. Prezes w uzasadniow urzędach celnych , na następujących stanowiskach nych wypadkach odstąpić' od wymagań określonych pracy: ' ust. 1 pkt 2 i 3. ' ' , ,d"yrektora ,-:- '
 
-- **b)**
+4. ,,1. S ,losune k ' pracy ( z un k' Cjonanuszaml , ce nyml, 2i zastępcy, <fyrektora urz~du" z J;astrzefeniem 5" na wiąZUJe się na podsta wie mianoin.spektora ' wania kierownika ' organu administracji celnej za7 pracownika. dziah.!, radcy prawnego, " 2. Dyrektorów celnych oraz ich dyspozytora" do mianuje Prezes GłÓwnego UrzęduCe.ł. Może on zastrzec' ',e k sperta celnego. ' swojej mianowanie funkcjonariuszy na inne stanowiska w celnych. '
 
-2a. Osobom uprawnionym do zasiłku porodowego nie wypłaca się, przewidzianego w odrębnych przepisach, jednorazowego zasiłku z tytułu urodzenia dziecka. ” ;
+- **8)** kierownika zmiany, posterunku, .referatu• .
+- **9)** , inspektora celnego, • § 5. i. Mianowanie funkcjonariusza celnego jest po '/10) starszego kontrolera, celnego, przedzone zatrudnieniem w adminiśtracji celne) ·w służbie
+- **11)** kontrolera celnegO, przygotowawczej. S!.użba ·przygotowawcza trwa 3 lata • i jest zakOllczona'
+- **12)** celnego, . przez kierownika admfnistracji celnej zatrudnia pracownikli. .
 
-- **7)** w art. 29 ust. 3 otrzymuje brzmienie: „
+2. Wokresi,e przygotowawczej funkcjonariusz . 3. Funkcjonariuszami celnytl1i rówmez celny jest zatrudniony' na umowY' o na 'czas ' '
 
-3. Podstawę wymiaru zasiłku macierzyńskiego stanowi przeciętne miesięczne pełne wynagrodzenie wypłacone pracownicy za okres 3 miesięcy kalendarzowych poprzedzających miesiąc, w którym powstało prawo do tego zasiłku, z wyłączeniem nagród i składników wynagrodzenia nie mających charakteru stałego, określonych przez Radę Ministrów w drodze rozporządzenia. ” ;
+2. Fl1nkcjonar!uszem ,celnym osob?, która W okresie służby przygotowawczej funkcjonariusz wYJllagani,;l wart. 3 z dnia jest 16 U: ;i982' przeszkolenie praktyczne, wych '(Oz. Nr)Lpoz.' 2Hl. zwanej dalej ' ,.UStdWą", zasadniczy kurs' celny I ,nie' była K~rar,d'za p;ze'sfępstw'o umyśln~. " "' ' ,:,'; ,kwalifikacyjnym, , \
 
-- **8)** w art. 34 w ust. 2 powołanie art. 11 ust. 4 zastępuje się powołaniem art. 11 ust. 5;
-- **9)** w art. 43 w ust. 1 pkt 1 otrzymuje brzmienie: „
-- **1)** uspołecznione zakłady pracy – swoim pracownikom w czasie trwania ich zatrudnienia, a także po ustaniu zatrudnienia, jeżeli niezdolność do pracy powstała przed ustaniem zatrudnienia, ” ;
-- **10)** po art. 50 dodaje się art. 50a w brzmieniu: „
-
-**Art. 50a.** Przepisy art. 43–50 stosuje się odpowiednio do świadczenia rehabilitacyjnego. ” ;
-
-**Art. 3.** W ustawie z dnia 12 czerwca 1975 r. o świadczeniach z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. Nr 20, poz. 105 i z 1977 r. Nr 11, poz. 43) wprowadza się następujące zmiany:
-
-**Art. 20.**
-
-1. Podstawę wymiaru renty inwalidzkiej stanowi przeciętne miesięczne wynagrodzenie pracownika ustalone w sposób określony w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
-
-2. Podstawa wymiaru renty inwalidzkiej nie może być niższa od kwoty odpowiadającej półtorakrotnemu najniższemu wynagrodzeniu za pełny miesięczny wymiar czasu pracy pracowników zatrudnionych w uspołecznionych zakładach pracy, zwanemu dalej „najniższym wynagrodzeniem”, obowiązującemu w dniu zgłoszenia wniosku o rentę.
-
-3. Rada Ministrów może określić w drodze rozporządzenia najniższą podstawę wymiaru i zasady ustalania podstawy wymiaru renty inwalidzkiej, gdy wskutek wypadku przy pracy lub choroby zawodowej zmniejszyła się w znacznym stopniu możliwość uzyskania przez pracownika wyższego wynagrodzenia w przyszłości. ” ;
-
-- **4)** po art. 20 dodaje się art. 20a w brzmieniu: „
-
-1. Podstawa wymiaru renty inwalidzkiej ulega corocznym podwyżkom stosownie do wzrostu przeciętnego miesięcznego wynagrodzenia w gospodarce uspołecznionej w roku poprzedzającym rok podwyżki na zasadach i w terminach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
-
-2. Jeżeli podstawa wymiaru renty inwalidzkiej ustalona w myśl ust. 1 jest niższa od kwoty odpowiadającej obowiązującemu półtorakrotnemu najniższemu wynagrodzeniu, za podstawę wymiaru przyjmuje się tę kwotę. ” ;
-
-- **5)** w art. 21: ust.1 otrzymuje brzmienie: „
-    - **a)**
-
-1. Osobie uprawnionej do renty inwalidzkiej przysługują:
-
-- **1)** dodatki rodzinne oraz dodatek pielęgnacyjny na zasadach i w wysokości określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin,
-- **2)** nieodpłatne świadczenia lecznicze, położnicze i rehabilitacyjne, zaopatrzenie w leki, przedmioty ortopedyczne, protezy, środki opatrunkowe i pomocnicze oraz pobyt w domu pomocy społecznej na zasadach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin; świadczenia te przysługują również członkom rodziny osoby uprawnionej do renty inwalidzkiej,
-- **3)** prawo do przysposobienia zawodowego na zasadach określonych przez Ministra Zdrowia i Opieki Społecznej w drodze rozporządzenia. ” , w ust. 2 powołanie ust. 1 pkt 2 zastępuje się powołaniem ust. 1 pkt 2 i 3;
-    - **b)**
-
-- **6)** w art. 24 ust. 2 oraz oznaczenie ust. 1 skreśla się;
-- **7)** w art. 26: w ust. 1 pkt 1 otrzymuje brzmienie: „
-    - **a)**
-
-- **1)** 70% podstawy wymiaru renty – jeżeli do renty uprawniona jest jedna osoba, ” ust. 2 i 3 otrzymują brzmienie: „
-    - **b)**
-
-2. Przy ustalaniu podstawy wymiaru renty stosuje się odpowiednio przepisy art. 20 i 20a.
-
-3. Osobie uprawnionej do renty rodzinnej przysługują: dodatek pielęgnacyjny i dodatek dla sierot zupełnych na zasadach i w wysokości określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin oraz inne świadczenia określone w art. 21 ust. 1 i w art. 22. ” ;
-
-- **8)** w art. 28: – w pkt 1 powołanie art. 24 ust. 1 zastępuje się powołaniem art. 24, – pkt 2 skreśla się;
-- **9)** art. 38 otrzymuje brzmienie: „
-
-**Art. 38.**
-
-1. Spory o świadczenia przysługujące od zakładów pracy rozpatrują organy właściwe do rozstrzygania sporów ze stosunku pracy.
-
-2. Spory o świadczenia przysługujące od Zakładu Ubezpieczeń Społecznych oraz od właściwych do spraw zaopatrzenia emerytalnego kolejowych jednostek organizacyjnych podlegają rozpatrzeniu w trybie określonym dla rozpatrywania odwołań od decyzji w sprawach emerytur i rent. ” ;
-
-- **10)** po art. 42 dodaje się art. 42a w brzmieniu: „
-
-**Art. 42a.** Osoba uprawniona do renty inwalidzkiej z tytułu inwalidztwa, które powstało wskutek wypadku przy pracy, choroby zawodowej lub wypadku w drodze do pracy lub z pracy, może przejść na emeryturę po osiągnięciu wieku 55 lat kobieta i 60 lat mężczyzna, jeżeli ma okres zatrudnienia wymagany do przyznania emerytury, określony w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin albo w innych przepisach o ubezpieczeniu społecznym lub o zaopatrzeniu emerytalnym. ” ;
-
-**Art. 4.** W ustawie z dnia 27 września 1973 r. o zaopatrzeniu emerytalnym twórców i ich rodzin (Dz. U. Nr 38, poz. 225, z 1974 r. Nr 21, poz. 117 i z 1977 r. Nr 11, poz. 43) wprowadza się następujące zmiany:
-
-**Art. 7.**
-
-1. Osobie uprawnionej do emerytury lub renty inwalidzkiej przysługuje podwyżka świadczenia z tytułu działalności twórczej w wysokości 15% podstawy wymiaru emerytury lub renty.
-
-2. Osobie uprawnionej do emerytury lub renty przysługuje prawo do dodatków:
-
-- **1)** rodzinnych,
-- **2)** pielęgnacyjnego,
-- **3)** z tytułu odznaczeń państwowych,
-- **4)** dla sierot zupełnych na warunkach i w wysokości określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
-
-3. Podwyżka świadczenia oraz dodatki, o których mowa w ust. 1 i w ust. 2 pkt 3, nie przysługują, jeżeli renta inwalidzka lub renta rodzinna jest wypłacana w wysokości określonej w przepisach o świadczeniach z tytułu wypadków przy pracy i chorób zawodowych. ” ;
-
-- **4)** w art. 10: dotychczasowa treść otrzymuje oznaczenie ust. 1, dodaje się ust. 2–4 w brzmieniu: „
-    - **a)**
-    - **b)**
-
-2. Jeżeli emerytura lub renta jest wypłacana w wysokości podstawowej, za podstawę wymiaru tych świadczeń uważa się kwotę odpowiadającą najniższej podstawie wymiaru składek i świadczeń.
-
-3. Podstawa wymiaru emerytury, renty inwalidzkiej i renty rodzinnej ulega corocznym podwyżkom stosownie do wzrostu przeciętnego miesięcznego wynagrodzenia w gospodarce uspołecznionej w roku poprzedzającym rok podwyżki – na zasadach i w terminach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
-
-4. Kwota podwyżki wynikająca z ust. 3 nie jest ograniczona kwotą najwyższej podstawy wymiaru składek i świadczeń. ” ;
-
-- **5)** art. 13 otrzymuje brzmienie: „
-
-**Art. 13.**
-
-1. Prawo do emerytury lub renty podlega zawieszeniu – z zastrzeżeniem ust. 2 – na zasadach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
-
-2. Osiąganie przychodów z działalności twórczej nie powoduje zawieszenia ani zmniejszenia emerytury lub renty z zaopatrzenia określonego w niniejszej ustawie. ” ;
-
-- **6)** art. 19 otrzymuje brzmienie: „ W sprawach nie uregulowanych w ustawie stosuje się odpowiednio:
-- **1)** przepisy ustawy z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin (Dz. U. Nr 40, poz. 267), z wyjątkiem art. 27 i 28,
-- **2)** przepisy ustawy z dnia 12 czerwca 1975 r. o świadczeniach z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. Nr 20, poz. 105 i z 1977 r. Nr 11, poz. 43), z wyjątkiem art. 2 pkt 1–3 i 6, art. 9–17, 29, 30 i 40. ” ;
-
-**Art. 5.** W ustawie z dnia 19 grudnia 1975 r. o ubezpieczeniu społecznym osób wykonujących pracę na rzecz jednostek gospodarki uspołecznionej na podstawie umowy agencyjnej lub umowy zlecenia (Dz. U. Nr 45, poz. 232, z 1976 r. Nr 40, poz. 235 i z 1977 r. Nr 11, poz. 43 oraz Nr 32, poz. 140) wprowadza się następujące zmiany:
-
-**Art. 8.** Świadczenia lecznicze, położnicze, rehabilitacyjne, zaopatrzenie w leki, przedmioty ortopedyczne, protezy, środki opatrunkowe i pomocnicze przysługują: ” ;
-
-**Art. 12.** Zasiłki rodzinne i zasiłek pielęgnacyjny przysługują w wysokości, którą określa w drodze rozporządzenia Minister Pracy, Płac i Spraw Socjalnych. ” ;
-
-**Art. 6.** W dekrecie z dnia 4 marca 1976 r. o ubezpieczeniu społecznym członków rolniczych spółdzielni produkcyjnych i spółdzielni kółek rolniczych oraz ich rodzin (Dz. U. Nr 10, poz. 54 i z 1977 r. Nr 11, poz. 43 oraz Nr 32, poz. 140) wprowadza się następujące zmiany:
-
-**Art. 9.** Świadczenie rehabilitacyjne przysługuje na zasadach określonych w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa. ” ;
-
-**Art. 18.** Przy ustalaniu wzrostu emerytury lub renty z tytułu okresu zatrudnienia w Polsce Ludowej uwzględnia się okresy pracy w spółdzielni oraz okresy wymienione w art. 14 ust. 1a, art. 16 i 17 ust. 1. ” ;
-
-**Art. 17.** W sprawie zawieszania prawa do świadczeń i ich zmniejszania stosuje się zasady określone w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin. ” W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. Nr 3, poz. 19 i Nr 25, poz. 287 oraz Nr 31, poz. 214) wprowadza się następujące zmiany:
-
-**Art. 91.** Podstawa wymiaru emerytury, renty inwalidzkiej i renty rodzinnej ulega corocznym podwyżkom stosownie do wzrostu przeciętnego miesięcznego wynagrodzenia w gospodarce uspołecznionej w roku poprzedzającym rok podwyżki – na zasadach i w terminach określonych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin. ” W ustawie z dnia 4 maja 1982 r. o szkolnictwie wyższym (Dz. U. Nr 14, poz. 113) wprowadza się następujące zmiany:
-
-**Art. 10.** W art. 24 ustawy z dnia 26 maja 1982 r.- Prawo o adwokaturze (Dz. U. Nr 16, poz. 124) dodaje się ust. 5 w brzmieniu: „ 5. Wysokość zasiłków rodzinnych i zasiłku pielęgnacyjnego określa w drodze rozporządzenia Minister Pracy, Płac i Spraw Socjalnych po zasięgnięciu opinii Naczelnej Rady Adwokackiej. ” W Kodeksie postępowania cywilnego wprowadza się następujące zmiany:
-
-**Art. 833.**
-
-§ 1. Wynagrodzenie ze stosunku pracy podlega egzekucji w zakresie określonym w przepisach Kodeksu pracy.
-
-§ 2. Przepis § 1 stosuje się odpowiednio do diet posłów, należności członków rolniczych spółdzielni produkcyjnych i ich domowników z tytułu pracy w spółdzielni, wynagrodzeń członków spółdzielni pracy oraz wszystkich świadczeń powtarzających się, których celem jest zapewnienie utrzymania.
-
-§ 3. Ograniczeń przewidzianych w § 2 nie stosuje się do wierzytelności członków rolniczych spółdzielni produkcyjnych z tytułu udziału w dochodach spółdzielni przypadających im od wniesionych do spółdzielni wkładów.
-
-§ 4. Świadczenia pieniężne przewidziane w przepisach o zaopatrzeniu emerytalnym podlegają egzekucji w zakresie określonym w tych przepisach.
-
-§ 5. Do egzekucji z rent przysługujących z tytułu wypadku przy pracy lub choroby zawodowej i z rent zasądzonych przez sąd lub ustalonych umową za utratę zdolności do pracy albo za śmierć żywiciela lub wypłacanych z dobrowolnego ubezpieczenia rentowego oraz do egzekucji ze świadczeń pieniężnych przysługujących z ubezpieczenia społecznego w razie choroby i macierzyństwa stosuje się przepisy o egzekucji ze świadczeń przewidzianych w przepisach o zaopatrzeniu emerytalnym pracowników i ich rodzin.
-
-§ 6. Nie podlegają egzekucji świadczenia alimentacyjne oraz zasiłki i dodatki rodzinne, pielęgnacyjne, porodowe i dla sierot zupełnych. ” ;
-
-- **2)** w art. 1083: § 1 otrzymuje brzmienie: „
-    - **a)**
-
-§ 1. Dochody wymienione w art. 831 § 1 pkt 2 podlegają egzekucji na zaspokojenie alimentów do trzech piątych części. ” ; § 3 skreśla się;
-
-- **b)**
-- **3)** art. 1084 skreśla się. 1. Użyte w przepisach wymienionych w art. 2–10 określenie „o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin” zastępuje się określeniem „o zaopatrzeniu emerytalnym pracowników i ich rodzin”. 2. Ilekroć w innych przepisach jest mowa o „rencie chorobowej”, należy przez to rozumieć „świadczenie rehabilitacyjne”. Pobierającym emerytury i renty przyznane na podstawie art. 1 ust. 1 nie przysługują rekompensaty z tytułu podwyżek cen, wypłacane na podstawie przepisów dotychczasowych.
-
-**Art. 14.** Minister Pracy, Płac i Spraw Socjalnych ogłosi w Dzienniku Ustaw jednolite teksty ustaw i dekretu wymienionych w art. 2–7, z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitych tekstów i z zastosowaniem ciągłej numeracji rozdziałów, artykułów, ustępów i punktów.
-
-**Art. 15.** Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1983 r., z tym że przepisy tej ustawy dotyczące zasiłku chorobowego oraz art. 8 pkt 1 i art. 9 pkt 1 wchodzą w życie z dniem 1 marca 1983 r.
 

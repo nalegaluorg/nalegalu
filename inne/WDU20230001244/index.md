@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001244) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1244/text.pdf) |
 
 w sprawie obywatelstw, w przypadku posiadania których nie pobiera się opłaty za wydanie polskiego dokumentu podróży dla cudzoziemca Na podstawie art. 236 ust. 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2023 r. poz. 519, 185 i 547) zarządza się, co następuje:
-§ 1. Obywatelstwem, w przypadku posiadania którego nie pobiera się od cudzoziemca opłaty za wydanie polskiego dokumentu podróży dla cudzoziemca, jest obywatelstwo Republiki Białorusi.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2023 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** Obywatelstwem, w przypadku posiadania którego nie pobiera się od cudzoziemca opłaty za wydanie polskiego dokumentu podróży dla cudzoziemca, jest obywatelstwo Republiki Białorusi.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2023 r. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

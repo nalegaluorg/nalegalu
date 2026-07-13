@@ -32,10 +32,17 @@ zmieniającym rozporządzenie w sprawie nadania statutu Narodowemu Funduszowi Zd
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 18 sierpnia 2023 r. zmieniającego rozporządzenie w sprawie nadania statutu Narodowemu Funduszowi Zdrowia (Dz. U. poz. 1736), które stanowią: „ § 2. Regulaminy organizacyjne centrali Narodowego Funduszu Zdrowia i oddziałów wojewódzkich Narodowego Funduszu Zdrowia nadane na podstawie dotychczasowych przepisów zachowują moc do czasu nadania regulaminów organizacyjnych centrali Narodowego Funduszu Zdrowia i oddziałów wojewódzkich Narodowego Funduszu Zdrowia na podstawie rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, nie dłużej jednak niż przez 30 dni od dnia wejścia w życie niniejszego rozporządzenia. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: wz. W. Konieczny
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 11 grudnia 2014 r.
 w sprawie nadania statutu Narodowemu Funduszowi Zdrowia Na podstawie art. 96 ust. 8 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146 i 858) zarządza się, co następuje:
-§ 1. Narodowemu Funduszowi Zdrowia nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Regulaminy organizacyjne centrali Narodowego Funduszu Zdrowia i oddziałów wojewódzkich Narodowego Funduszu Zdrowia nadane na podstawie dotychczasowych przepisów zachowują moc do czasu nadania regulaminów organizacyjnych centrali Narodowego Funduszu Zdrowia i oddziałów wojewódzkich Narodowego Funduszu Zdrowia na podstawie niniejszego rozporządzenia, nie dłużej jednak niż do dnia 31 marca 2015 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
-STATUT NARODOWEGO FUNDUSZU ZDROWIA
+
+**§ 1.** Narodowemu Funduszowi Zdrowia nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Regulaminy organizacyjne centrali Narodowego Funduszu Zdrowia i oddziałów wojewódzkich Narodowego Funduszu Zdrowia nadane na podstawie dotychczasowych przepisów zachowują moc do czasu nadania regulaminów organizacyjnych centrali Narodowego Funduszu Zdrowia i oddziałów wojewódzkich Narodowego Funduszu Zdrowia na podstawie niniejszego rozporządzenia, nie dłużej jednak niż do dnia 31 marca 2015 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. STATUT NARODOWEGO FUNDUSZU ZDROWIA
+
+#### Rozdział 1 Postanowienia ogólne
+
+## Załącznik
+
 § 1. Zakres działania organów Narodowego Funduszu Zdrowia, zwanego dalej „Funduszem”, określają przepisy ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, zwanej dalej „ustawą”, oraz niniejszego statutu.
 § 2. 1. Prezes Funduszu kieruje Funduszem przy pomocy trzech zastępców, w tym zastępcy Prezesa Funduszu do spraw służb mundurowych.
 2. Prezes Funduszu może podejmować, w imieniu Funduszu, rozstrzygnięcia w sprawach dotyczących majątku Funduszu i inwestycji do wysokości 8 000 000 złotych.
@@ -56,6 +63,7 @@ b) w zakresie zastrzeżonym dla Prezesa Funduszu, za zgodą albo na polecenie Pr
 9) przygotowywanie sprawozdań i informacji dotyczących prac podległych komórek organizacyjnych centrali Funduszu w zakresie i terminach określonych przez Prezesa Funduszu;
 10) wykonywanie innych poleceń Prezesa Funduszu.
 2. Zastępcy Prezesa Funduszu podejmują rozstrzygnięcia w zakresie powierzonych im spraw.
+Rozdział 2 Struktura organizacyjna Funduszu
 § 4. 1. W skład centrali Funduszu wchodzą następujące komórki organizacyjne:
 1) Gabinet Prezesa Funduszu;
 2) Biuro Rady Funduszu;
@@ -141,8 +149,4 @@ b) w zakresie zastrzeżonym dla Prezesa Funduszu, za zgodą albo na polecenie Pr
 § 8. 1. Szczegółową organizację oddziałów wojewódzkich Funduszu oraz zakres ich zadań określają regulaminy organizacyjne nadane przez dyrektorów oddziałów wojewódzkich Funduszu, po uzyskaniu pozytywnej opinii Prezesa Funduszu.
 2. Nadzór merytoryczny nad realizacją zadań w centrach usług wspólnych sprawują dyrektorzy komórek organizacyjnych, o których mowa w § 4 ust. 1, właściwych dla danej sprawy.
 3. Nadzór merytoryczny nad realizacją zadań w punktach obsługi klientów sprawuje dyrektor Departamentu Obsługi Klientów i Profilaktyki.
-
-#### Rozdział 1 Postanowienia ogólne
-
-#### Rozdział 2 Struktura organizacyjna Funduszu
 

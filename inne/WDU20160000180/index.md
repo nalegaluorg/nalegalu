@@ -26,18 +26,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000180) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/180/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wyznaczenia organów wojskowych sprawujących nadzór nad wytwarzaniem i obrotem produktami leczniczymi i wyrobami medycznymi Na podstawie art. 118 ust. 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 15 maja 2013 r. w sprawie wyznaczenia organów wojskowych sprawujących nadzór nad wytwarzaniem i obrotem produktami leczniczymi i wyrobami medycznymi (Dz. U.
-poz. 698) wprowadza się następujące zmiany:
-1) w § 1 w ust. 5 uchyla się pkt 6;
-2) w § 3 ust. 2 otrzymuje brzmienie: „2. Naczelny Inspektor Farmaceutyczny Wojska Polskiego podlega służbowo dyrektorowi departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia.”;
-3) w § 4 ust. 1 otrzymuje brzmienie: „1. Naczelnego Inspektora Farmaceutycznego Wojska Polskiego wyznacza na stanowisko służbowe i zwalnia z niego Minister Obrony Narodowej na wniosek dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia.”;
-4) w § 5 ust. 1 otrzymuje brzmienie: „1. Zastępcę Naczelnego Inspektora Farmaceutycznego Wojska Polskiego wyznacza na stanowisko służbowe i zwalnia z niego Minister Obrony Narodowej na wniosek dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia.”;
-5) w § 6 ust. 1 otrzymuje brzmienie: „1. Szefa zespołu nadzoru farmaceutycznego wojskowego ośrodka medycyny prewencyjnej wyznacza na stanowisko służbowe i zwalnia z niego dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw kadr, na wniosek dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia.”;
-6) § 11 otrzymuje brzmienie: „§ 11. Naczelny Inspektor Farmaceutyczny Wojska Polskiego i wojskowi inspektorzy farmaceutyczni, wykonując swoje zadania, posługują się legitymacją wojskowego inspektora farmaceutycznego, wydaną przez dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia, na wniosek Naczelnego Inspektora Farmaceutycznego Wojska Polskiego.”;
-7) § 13 otrzymuje brzmienie: „§ 13. Wojskowa Inspekcja Farmaceutyczna posługuje się pieczęciami urzędowymi i służbowymi stosownie do realizowanych zadań i uprawnień organów inspekcji, według wzorów określonych w załączniku nr 3 do rozporządzenia.”;
-8) w załączniku nr 2 do rozporządzenia w pkt 5.2 ppkt 2 otrzymuje brzmienie: „2) poniżej „wystawcą legitymacji jest Biuro Ewidencji Osobowej Wojska Polskiego 00-907 Warszawa, Al. Jerozolimskie 97, tel. 261846560, faks 261845071” – drukowane małą czcionką, krojem Arial Bold 8 pkt, w czterech wierszach.”;
-9) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: T. Siemoniak Załącznik do rozporządzenia Ministra Obrony Narodowej z dnia 9 listopada 2015 r. (poz. …….) WZORY PIECZĘCI URZĘDOWYCH I SŁUŻBOWYCH DLA WOJSKOWEJ INSPEKCJI WZORY PIECZĘCI URZĘDOWYCH I SŁUŻBOWYCH FARMACEUTYCZNEJ DLA WOJSKOWEJ INSPEKCJI FARMACEUTYCZNEJ Wzory pieczęci urzędowych Ø 36 mm, przewidzianych dla Naczelnego Inspektora Farmaceutycznego WP oraz pozostałych wojskowych organów Inspekcji Farmaceutycznej.
-Wzory pieczęci służbowych.
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 15 maja 2013 r. w sprawie wyznaczenia organów wojskowych sprawujących nadzór nad wytwarzaniem i obrotem produktami leczniczymi i wyrobami medycznymi (Dz. U. poz. 698) wprowadza się następujące zmiany:
+
+- **1)** w § 1 w ust. 5 uchyla się pkt 6;
+- **2)** w § 3 ust. 2 otrzymuje brzmienie: „2. Naczelny Inspektor Farmaceutyczny Wojska Polskiego podlega służbowo dyrektorowi departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia.”;
+- **3)** w § 4 ust. 1 otrzymuje brzmienie: „1. Naczelnego Inspektora Farmaceutycznego Wojska Polskiego wyznacza na stanowisko służbowe i zwalnia z niego Minister Obrony Narodowej na wniosek dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia.”;
+- **4)** w § 5 ust. 1 otrzymuje brzmienie: „1. Zastępcę Naczelnego Inspektora Farmaceutycznego Wojska Polskiego wyznacza na stanowisko służbowe i zwalnia z niego Minister Obrony Narodowej na wniosek dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia.”;
+- **5)** w § 6 ust. 1 otrzymuje brzmienie: „1. Szefa zespołu nadzoru farmaceutycznego wojskowego ośrodka medycyny prewencyjnej wyznacza na stanowisko służbowe i zwalnia z niego dyrektor departamentu Ministerstwa Obrony Narodowej właściwego do spraw kadr, na wniosek dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia.”;
+- **6)** § 11 otrzymuje brzmienie: „§ 11. Naczelny Inspektor Farmaceutyczny Wojska Polskiego i wojskowi inspektorzy farmaceutyczni, wykonując swoje zadania, posługują się legitymacją wojskowego inspektora farmaceutycznego, wydaną przez dyrektora departamentu Ministerstwa Obrony Narodowej właściwego do spraw zdrowia, na wniosek Naczelnego Inspektora Farmaceutycznego Wojska Polskiego.”;
+- **7)** § 13 otrzymuje brzmienie: „§ 13. Wojskowa Inspekcja Farmaceutyczna posługuje się pieczęciami urzędowymi i służbowymi stosownie do realizowanych zadań i uprawnień organów inspekcji, według wzorów określonych w załączniku nr 3 do rozporządzenia.”;
+- **8)** w załączniku nr 2 do rozporządzenia w pkt 5.2 ppkt 2 otrzymuje brzmienie: „2) poniżej „wystawcą legitymacji jest Biuro Ewidencji Osobowej Wojska Polskiego 00-907 Warszawa, Al. Jerozolimskie 97, tel. 261846560, faks 261845071” – drukowane małą czcionką, krojem Arial Bold 8 pkt, w czterech wierszach.”;
+- **9)** załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: T. Siemoniak Załącznik do rozporządzenia Ministra Obrony Narodowej z dnia 9 listopada 2015 r. (poz. …….) WZORY PIECZĘCI URZĘDOWYCH I SŁUŻBOWYCH DLA WOJSKOWEJ INSPEKCJI WZORY PIECZĘCI URZĘDOWYCH I SŁUŻBOWYCH FARMACEUTYCZNEJ DLA WOJSKOWEJ INSPEKCJI FARMACEUTYCZNEJ Wzory pieczęci urzędowych Ø 36 mm, przewidzianych dla Naczelnego Inspektora Farmaceutycznego WP oraz pozostałych wojskowych organów Inspekcji Farmaceutycznej. Wzory pieczęci służbowych.
 

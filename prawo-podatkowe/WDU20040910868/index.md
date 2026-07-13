@@ -30,35 +30,15 @@ source: pdf
 **Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz.U. Nr 137, poz. 926, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 82 § 3 otrzymuje brzmienie: „§ 3. Banki oraz inne instytucje finansowe, na pisemne żądanie ministra właściwego do spraw finansów publicznych lub jego upoważnionego przedstawiciela, są obowiązane do udzielenia informacji w razie wystąpienia władz państw obcych - w zakresie i na zasadach określonych w rozdziale 2 działu VIIa oraz wynikających z umów o unikaniu podwójnego opodatkowania i innych ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska.”;
-- **2)** art. 295 otrzymuje brzmienie: „Art. 295. W toku postępowania podatkowego dostęp do informacji pochodzących z banku lub innej instytucji finansowej, a także do informacji uzyskanych z banku lub innej instytucji finansowej mających siedzibę na terytorium państw członkowskich Unii Europejskiej, przysługuje:
-- **1)** funkcjonariuszowi celnemu lub pracownikowi - załatwiającym sprawę, ich bezpośrednim przełożonym, naczelnikowi urzędu skarbowego oraz naczelnikowi urzędu celnego,
-- **2)** organom i pracownikom organów, o których mowa w art. 305c, właściwym w zakresie udzielania i występowania o udzielenie informacji.”;
+- **2)** art. 295 otrzymuje brzmienie: „Art. 295. W toku postępowania podatkowego dostęp do informacji pochodzących z banku lub innej instytucji finansowej, a także do informacji uzyskanych z banku lub innej instytucji finansowej mających siedzibę na terytorium państw członkowskich Unii Europejskiej, przysługuje: 1) funkcjonariuszowi celnemu lub pracownikowi - załatwiającym sprawę, ich bezpośrednim przełożonym, naczelnikowi urzędu skarbowego oraz naczelnikowi urzędu celnego, 2) organom i pracownikom organów, o których mowa w art. 305c, właściwym w zakresie udzielania i występowania o udzielenie informacji.”;
 - **3)** w art. 296:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. Akta spraw zawierające informacje:
-
-- **1)** pochodzące z banków, z wyłączeniem informacji, o których mowa w art. 82 § 2, oraz z innych instytucji finansowych,
-- **2)** określone w art. 305b, uzyskane od państw członkowskich Unii Europejskiej, pochodzące z banków oraz innych instytucji finansowych - przechowuje się w pomieszczeniach zabezpieczonych zgodnie z przepisami o ochronie informacji niejawnych.”,
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Akta spraw zawierające informacje: 1)pochodzące z banków, z wyłączeniem informacji, o których mowa w art. 82 § 2, oraz z innych instytucji finansowych, 2)określone w art. 305b, uzyskane od państw członkowskich Unii Europejskiej, pochodzące z banków oraz innych instytucji finansowych - przechowuje się w pomieszczeniach zabezpieczonych zgodnie z przepisami o ochronie informacji niejawnych.”,
     - **b)** § 3 otrzymuje brzmienie: „§ 3. Ponowne włączenie do akt sprawy informacji, o których mowa w § 1, następuje wyłącznie w przypadkach określonych w art. 297 i 297a.”;
 
 - **4)** w art. 297 § 2 otrzymuje brzmienie: „§ 2. W przypadkach określonych w § 1 pkt 1 lub 2 stosuje się odpowiednio przepis art. 295.”;
-- **5)** po art. 297 dodaje się art. 297a w brzmieniu: „Art. 297a. § 1. Informacje określone w art. 305b, uzyskane od państw członkowskich Unii Europejskiej, lub akta zawierające takie informacje, są udostępniane wyłącznie organom wymienionym w art. 297, na zasadach określonych w tym przepisie, gdy toczące się przed tym organem postępowanie lub czynności wykonywane przez ten organ są związane z prawidłowym określaniem podstaw opodatkowania i wysokości zobowiązania podatkowego lub wymiarem innych należności, których dochodzenie, zgodnie z przepisami o postępowaniu egzekucyjnym w administracji, jest możliwe na wniosek obcego państwa.
-
-§ 2. Udostępnienie informacji dla celów innych niż wymienione w § 1, wymaga uzyskania zgody właściwej władzy państwa członkowskiego Unii Europejskiej, od którego otrzymano informacje.”;
-
+- **5)** po art. 297 dodaje się art. 297a w brzmieniu: „Art. 297a. § 1. Informacje określone w art. 305b, uzyskane od państw członkowskich Unii Europejskiej, lub akta zawierające takie informacje, są udostępniane wyłącznie organom wymienionym w art. 297, na zasadach określonych w tym przepisie, gdy toczące się przed tym organem postępowanie lub czynności wykonywane przez ten organ są związane z prawidłowym określaniem podstaw opodatkowania i wysokości zobowiązania podatkowego lub wymiarem innych należności, których dochodzenie, zgodnie z przepisami o postępowaniu egzekucyjnym w administracji, jest możliwe na wniosek obcego państwa. § 2. Udostępnienie informacji dla celów innych niż wymienione w § 1, wymaga uzyskania zgody właściwej władzy państwa członkowskiego Unii Europejskiej, od którego otrzymano informacje.”;
 - **6)** uchyla się art. 300;
-- **7)** po art. 305 dodaje się dział VIIa w brzmieniu: „Dział VIIa Wymiana informacji podatkowych z innymi państwami
-
-#### Rozdział 1 Zasady ogólne wymiany informacji podatkowych
-
-**Art. 305a.** W zakresie i na zasadach wynikających z umów o unikaniu podwójnego opodatkowania oraz z innych ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, informacje zawarte w aktach spraw podatkowych lub inne informacje podatkowe mogą być udostępniane właściwym władzom państw obcych, pod warunkiem, że wykorzystanie udostępnionych informacji nastąpi zgodnie z zasadami określonymi w tych umowach.
-
-#### Rozdział 2 Szczegółowe zasady wymiany informacji podatkowych z państwami członkowskimi Unii Europejskiej
-
-**Art. 305b.** Wymiana informacji podatkowych obejmuje wszelkie informacje istotne dla prawidłowego określania podstaw opodatkowania i wysokości zobowiązania podatkowego w zakresie:
-
-- **1)** opodatkowania dochodu, majątku lub kapitału, bez względu na sposób i formę opodatkowania, w tym opodatkowania dochodu ze sprzedaży rzeczy lub praw majątkowych oraz przyrostu wartości majątku lub kapitału,
-- **2)** podatku akcyzowego od olei mineralnych, alkoholi, napojów alkoholowych i wyrobów tytoniowych,
-- **3)** opodatkowania składek ubezpieczeniowych - zwane dalej „informacjami”.
+- **7)** po art. 305 dodaje się dział VIIa w brzmieniu: „Dział VIIa Wymiana informacji podatkowych z innymi państwami Rozdział 1 Zasady ogólne wymiany informacji podatkowych Art. 305a. W zakresie i na zasadach wynikających z umów o unikaniu podwójnego opodatkowania oraz z innych ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, informacje zawarte w aktach spraw podatkowych lub inne informacje podatkowe mogą być udostępniane właściwym władzom państw obcych, pod warunkiem, że wykorzystanie udostępnionych informacji nastąpi zgodnie z zasadami określonymi w tych umowach. Rozdział 2 Szczegółowe zasady wymiany informacji podatkowych z państwami członkowskimi Unii Europejskiej Art. 305b. Wymiana informacji podatkowych obejmuje wszelkie informacje istotne dla prawidłowego określania podstaw opodatkowania i wysokości zobowiązania podatkowego w zakresie: 1) opodatkowania dochodu, majątku lub kapitału, bez względu na sposób i formę opodatkowania, w tym opodatkowania dochodu ze sprzedaży rzeczy lub praw majątkowych oraz przyrostu wartości majątku lub kapitału, 2) podatku akcyzowego od olei mineralnych, alkoholi, napojów alkoholowych i wyrobów tytoniowych, 3) opodatkowania składek ubezpieczeniowych - zwane dalej „informacjami”.
 
 **Art. 305c.**
 

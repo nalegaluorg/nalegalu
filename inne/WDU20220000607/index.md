@@ -26,9 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000607) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/607/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wymagań, jakim powinna odpowiadać ochrona wartości pieniężnych przechowywanych i transportowanych przez przedsiębiorców i inne jednostki organizacyjne Na podstawie art. 6 ust. 2 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2021 r. poz. 1995) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 września 2010 r. w sprawie wymagań, jakim powinna odpowiadać ochrona wartości pieniężnych przechowywanych i transportowanych przez przedsiębiorców i inne jednostki organizacyjne (Dz. U. z 2016 r. poz. 793, z 2021 r. poz. 1739 oraz z 2022 r. poz. 495) po § 14a dodaje się § 14b w brzmieniu: „§ 14b. W okresie od dnia 16 marca 2022 r. do dnia 31 marca 2022 r.:
-1) wartości pieniężne powyżej 48 jednostek obliczeniowych są transportowane bankowozem typu A;
-2) transport wartości pieniężnych do 16 jednostek obliczeniowych z użyciem bankowozu typu C, wyposażonego w pojemniki specjalistyczne co najmniej klasy D, może być wykonywany przez nieuzbrojonego pracownika ochrony posiadającego legitymację kwalifikowanego pracownika ochrony fizycznej, bez udziału konwojenta.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 16 marca 2022 r.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 września 2010 r. w sprawie wymagań, jakim powinna odpowiadać ochrona wartości pieniężnych przechowywanych i transportowanych przez przedsiębiorców i inne jednostki organizacyjne (Dz. U. z 2016 r. poz. 793, z 2021 r. poz. 1739 oraz z 2022 r. poz. 495) po § 14a dodaje się § 14b w brzmieniu: „§ 14b. W okresie od dnia 16 marca 2022 r. do dnia 31 marca 2022 r.: 1) wartości pieniężne powyżej 48 jednostek obliczeniowych są transportowane bankowozem typu A; 2) transport wartości pieniężnych do 16 jednostek obliczeniowych z użyciem bankowozu typu C, wyposażonego w pojemniki specjalistyczne co najmniej klasy D, może być wykonywany przez nieuzbrojonego pracownika ochrony posiadającego legitymację kwalifikowanego pracownika ochrony fizycznej, bez udziału konwojenta.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 16 marca 2022 r. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 

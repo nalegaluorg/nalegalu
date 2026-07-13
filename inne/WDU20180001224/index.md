@@ -26,10 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001224) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1224/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania osobowości prawnej Katolickiemu Stowarzyszeniu Młodzieży w Warszawie Na podstawie art. 10 ustawy z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2018 r. poz. 380) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra–Szefa Urzędu Rady Ministrów z dnia 23 czerwca 1993 r. w sprawie nadania osobowości prawnej Katolickiemu Stowarzyszeniu Młodzieży w Warszawie (Dz. U. poz. 263) wprowadza się następujące zmiany:
-1) tytuł rozporządzenia otrzymuje brzmienie: „w sprawie nadania osobowości prawnej Katolickiemu Stowarzyszeniu Młodzieży”;
-2) § 1 otrzymuje brzmienie: „§ 1. Nadaje się osobowość prawną organizacji kościelnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Katolickie Stowarzyszenie Młodzieży, o zasięgu ponaddiecezjalnym, erygowanej przez Konferencję Episkopatu Polski.”;
-3) po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Siedzibą Katolickiego Stowarzyszenia Młodzieży jest Warszawa.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
+
+**§ 1.** W rozporządzeniu Ministra–Szefa Urzędu Rady Ministrów z dnia 23 czerwca 1993 r. w sprawie nadania osobowości prawnej Katolickiemu Stowarzyszeniu Młodzieży w Warszawie (Dz. U. poz. 263) wprowadza się następujące zmiany:
+
+- **1)** tytuł rozporządzenia otrzymuje brzmienie: „w sprawie nadania osobowości prawnej Katolickiemu Stowarzyszeniu Młodzieży”;
+- **2)** § 1 otrzymuje brzmienie: „§ 1. Nadaje się osobowość prawną organizacji kościelnej Kościoła Katolickiego w Rzeczypospolitej Polskiej pod nazwą Katolickie Stowarzyszenie Młodzieży, o zasięgu ponaddiecezjalnym, erygowanej przez Konferencję Episkopatu Polski.”;
+- **3)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Siedzibą Katolickiego Stowarzyszenia Młodzieży jest Warszawa.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski
 

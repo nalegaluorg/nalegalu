@@ -27,14 +27,9 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. z 2022 r.
 poz. 2506), z uwzględnieniem zmian wprowadzonych ustawą z dnia 1 grudnia 2022 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2707) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 marca 2023 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 23 i art. 24 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2707), które stanowią: „Art. 23. Przepisy art. 6 ust. 8a, 8b, 10a i 10b ustawy zmienianej w art. 7 stosuje się również do niezaspokojonych w dniu wejścia w życie niniejszej ustawy odpowiednio należności Skarbu Państwa z tytułu wypłaty gwarancji dla Narodowego Banku Polskiego oraz należności Narodowego Banku Polskiego z tytułu udzielenia kredytu refinansowego.
-
-**Art. 24.** Ustawa wchodzi w życie z dniem 1 stycznia 2023 r., z wyjątkiem:
-
-- **1)** art. 17, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 7 lipca 2022 r.;
-- **2)** art. 10, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
-- **3)** art. 1 pkt 30, art. 3, art. 4 pkt 2–4, art. 6, art. 8, art. 9, art. 11, art. 12, art. 13 pkt 1, art. 14, art. 15 i art. 19, które wchodzą w życie z dniem 31 grudnia 2022 r.;
-- **4)** art. 1 pkt 5 lit. b w zakresie art. 21 ust. 3 pkt 5, pkt 15 i pkt 24, art. 2 oraz art. 16 pkt 1–3, które wchodzą w życie z dniem 13 lutego 2023 r.”. Marszałek Sejmu: E. Witek USTAWA z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 23 i art. 24 ustawy z dnia 1 grudnia 2022 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2707), które stanowią: „ Art. 23. Przepisy art. 6 ust. 8a, 8b, 10a i 10b ustawy zmienianej w art. 7 stosuje się również do niezaspokojonych w dniu wejścia w życie niniejszej ustawy odpowiednio należności Skarbu Państwa z tytułu wypłaty gwarancji dla Narodowego Banku Polskiego oraz należności Narodowego Banku Polskiego z tytułu udzielenia kredytu refinansowego. Art. 24. Ustawa wchodzi w życie z dniem 1 stycznia 2023 r., z wyjątkiem: 1) art. 17, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 7 lipca 2022 r.; 2) art. 10, który wchodzi w życie z dniem następującym po dniu ogłoszenia; 3) art. 1 pkt 30, art. 3, art. 4 pkt 2–4, art. 6, art. 8, art. 9, art. 11, art. 12, art. 13 pkt 1, art. 14, art. 15 i art. 19, które wchodzą w życie z dniem 31 grudnia 2022 r.; 4) art. 1 pkt 5 lit. b w zakresie art. 21 ust. 3 pkt 5, pkt 15 i pkt 24, art. 2 oraz art. 16 pkt 1–3, które wchodzą w życie z dniem 13 lutego 2023 r.”. Marszałek Sejmu: E. Witek
+USTAWA z dnia 12 lutego 2009 r.
+o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym
 
 **Art. 1.** Ustawa określa formy, warunki i tryb udzielania przez Skarb Państwa wsparcia instytucjom finansowym przeznaczonego na przedsięwzięcia mające na celu utrzymanie płynności płatniczej, w tym w związku z rozwojem akcji kredytowej banku krajowego, oraz wszczęciem przymusowej restrukturyzacji.
 

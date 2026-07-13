@@ -27,35 +27,50 @@ source: pdf
 
 Poz. 420 o RozpoRządzenie MinistRa zdRowia z dnia 10 kwietnia 2012 r.
 g w sprawie sposobu postępowania podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne ze zwłokami pacjenta w przypadku śmierci pacjenta Na podstawie art. 28 ust. 7 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. Nr 112, poz. 654, Nr 149, poz. 887, Nr 174, poz. 1039 i Nr 185, poz. 1092) zarządza . się, co następuje:
-§ 1. Osoba wskazana w regulaminie organizacyjnym podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne, zwanego l dalej „podmiotem”, niezwłocznie zawiadamia lekarza leczącego lub lekarza dyżurnego o śmierci pacjenta przebywającego w przedsiębiorstwie podmiotu, zwanego dalej „osobą zmarłą”.
-c
-§ 2. 1. Lekarz, o którym mowa w § 1, po przeprowadzeniu oględzin, stwierdza zgon i jego przyczynę oraz wystawia kartę zgonu.
+
+**§ 1.** Osoba wskazana w regulaminie organizacyjnym podmiotu leczniczego wykonującego działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne, zwanego l dalej „podmiotem”, niezwłocznie zawiadamia lekarza leczącego lub lekarza dyżurnego o śmierci pacjenta przebywającego w przedsiębiorstwie podmiotu, zwanego dalej „osobą zmarłą”. c
+
+**§ 2.**
+
+1. Lekarz, o którym mowa w § 1, po przeprowadzeniu oględzin, stwierdza zgon i jego przyczynę oraz wystawia kartę zgonu.
+
 2. W przypadku przeprowadzania r sekcji zwłok stwierdzenie przyczyny zgonu następuje po jej przeprowadzeniu.
-3. Osoba wskazana w regulaminie organizacyjnym podmiotu, o której mowa w § 1, niezwłocznie po stwierdzeniu zgonu osoby zmarłej zawiadamia osobę . lub instytucję, o których mowa w art. 28 ust. 1 pkt 1 ustawy z dnia 15 kwietnia 2011 r.
-o działalności leczniczej, o śmierci osoby zmarłej.
+
+3. Osoba wskazana w regulaminie organizacyjnym podmiotu, o której mowa w § 1, niezwłocznie po stwierdzeniu zgonu osoby zmarłej zawiadamia osobę . lub instytucję, o których mowa w art. 28 ust. 1 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, o śmierci osoby zmarłej.
+
 4. Po wystawieniu w karty zgonu przez lekarza, o którym mowa w § 1, pielęgniarka niezwłocznie przekazuje ją do kancelarii przedsiębiorstwa podmiotu.
-§ 3. 1. Pielęgniarka, o której mowa w § 2 ust. 4, sporządza kartę skierowania zwłok do chłodni oraz zakłada na przegub dłoni albo stopy osoby zmarłej identyfikator wykonany z tasiemki, płótna lub tworzywa sztucznego.
-w 2. Karta skierowania zwłok do chłodni zawiera:
-1) imię i nazwisko osoby zmarłej;
-2) n umer PESEL osoby zmarłej, a w przypadku braku numeru PESEL – serię i numer dokumentu stwierdzającego tożsamość;
-3) datę i godzinę zgonu;
-4) godzinę skierowania zwłok osoby zmarłej do chłodni;
-5) imię, nazwisko i podpis pielęgniarki sporządzającej kartę;
-6) godzinę przyjęcia zwłok osoby zmarłej do chłodni;
-7) imię, nazwisko i podpis osoby przyjmującej zwłoki osoby zmarłej do chłodni.
+
+**§ 3.**
+
+1. Pielęgniarka, o której mowa w § 2 ust. 4, sporządza kartę skierowania zwłok do chłodni oraz zakłada na przegub dłoni albo stopy osoby zmarłej identyfikator wykonany z tasiemki, płótna lub tworzywa sztucznego. w 2. Karta skierowania zwłok do chłodni zawiera:
+
+- **1)** imię i nazwisko osoby zmarłej;
+- **2)** n umer PESEL osoby zmarłej, a w przypadku braku numeru PESEL – serię i numer dokumentu stwierdzającego tożsamość;
+- **3)** datę i godzinę zgonu;
+- **4)** godzinę skierowania zwłok osoby zmarłej do chłodni;
+- **5)** imię, nazwisko i podpis pielęgniarki sporządzającej kartę;
+- **6)** godzinę przyjęcia zwłok osoby zmarłej do chłodni;
+- **7)** imię, nazwisko i podpis osoby przyjmującej zwłoki osoby zmarłej do chłodni.
+
 3. Dane, o których mowa w ust. 2 pkt 1–5, wpisuje pielęgniarka, o której mowa w § 2 ust. 4.
+
 4. Dane, o których mowa w ust. 2 pkt 6 i 7, wpisuje osoba przyjmująca zwłoki osoby zmarłej do chłodni.
+
 5. Identyfikator, o którym mowa w ust. 1, zawiera:
-1) imię i nazwisko osoby zmarłej;
-2) n umer PESEL osoby zmarłej, a w przypadku braku numeru PESEL – serię i v numer dokumentu stwierdzającego tożsamość;
-3) datę i godzinę zgonu.
-o
+
+- **1)** imię i nazwisko osoby zmarłej;
+- **2)** n umer PESEL osoby zmarłej, a w przypadku braku numeru PESEL – serię i v numer dokumentu stwierdzającego tożsamość;
+- **3)** datę i godzinę zgonu. o
+
 6. Jeżeli nie jest możliwe ustalenie tożsamości osoby zmarłej, w karcie skierowania zwłok do chłodni oraz na identyfikatorze, o których mowa w ust. 1, dokonuje się oznaczenia „NN” z podaniem przyczyny i okoliczności uniemożliwiających ustalenie tożsamości.
+
 7. Zwłoki osoby zmarłej wraz z wypełnioną kartą skierowania g zwłok do chłodni i identyfikatorem są przewożone do chłodni nie wcześniej niż po upływie dwóch godzin od czasu zgonu, wskazanego w dokumentacji medycznej.
+
 8. W okresie pomiędzy stwierdzeniem zgonu a przewiezieniem do chłodni zwłoki osoby zmarłej są przechowywane w specjalnie przeznaczonym do tego celu pomieszczeniu, a w razie jego braku – w innym miejscu, z zachowaniem godności należnej zmarłemu. .
-§ 4. W razie zgonu osoby zmarłej na chorobę zakaźną stosuje się przepisy wydane na podstawie art. 20 ust. 3 ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu l zmarłych (Dz. U. z 2011 r. Nr 118, poz. 687 i Nr 144, poz. 853).
-§ 5. W razie zgonu osoby zmarłej w czasie c odbywania kary pozbawienia wolności, stosuje się przepisy wydane na podstawie art. 10 ust. 5 ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych.
-§ 6. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-r Minister Zdrowia: B.A. Arłukowicz .
-w w
+
+**§ 4.** W razie zgonu osoby zmarłej na chorobę zakaźną stosuje się przepisy wydane na podstawie art. 20 ust. 3 ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu l zmarłych (Dz. U. z 2011 r. Nr 118, poz. 687 i Nr 144, poz. 853).
+
+**§ 5.** W razie zgonu osoby zmarłej w czasie c odbywania kary pozbawienia wolności, stosuje się przepisy wydane na podstawie art. 10 ust. 5 ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych.
+
+**§ 6.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. r Minister Zdrowia: B.A. Arłukowicz . w w
 

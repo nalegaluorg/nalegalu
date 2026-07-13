@@ -8,10 +8,10 @@ pos: 727
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Obwieszczenie Ministra Spraw Zagranicznychz dnia 29 lipca 1999 r. o wykonaniu Konkordatu między Stolicą Apostolską i Rzecząpospolitą Polską
+# Dziennik Ustaw Nr 63 - 3547 - Poz. 727 OBWIESZCZENIE MINISTRA SPRAW ZAGRANICZNYCH z dnia 29 lipca 1999 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,80 +24,35 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990630727) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/727/text.pdf) |
 
-Treść obwieszczenia
-Załącznik – Umowa
-Treść obwieszczenia
-W wykonaniu art. 15 ust. 2 Konkordatu między Stolicą Apostolską i Rzecząpospolitą Polską, podpisanego w Warszawie dnia 28 lipca 1993 r. (Dz. U. z 1998 r. Nr 51, poz. 318), i zgodnie z § 15 Umowy między Rządem Rzeczypospolitej Polskiej a Konferencją Episkopatu Polski w sprawie statusu prawnego szkół wyższych zakładanych i prowadzonych przez Kościół Katolicki, w tym uniwersytetów, odrębnych wydziałów i wyższych seminariów duchownych, oraz w sprawie trybu i zakresu uznawania przez Państwo stopni i tytułów nadawanych przez te szkoły wyższe, podpisanej w Warszawie dnia 1 lipca 1999 r., w załączniku do niniejszego obwieszczenia podaje się do wiadomości tekst wymienionej umowy.
-Załącznik – Umowa
-między Rządem Rzeczypospolitej Polskiej a Konferencją Episkopatu Polski w sprawie statusu prawnego szkół wyższych zakładanych i prowadzonych przez Kościół Katolicki, w tym uniwersytetów, odrębnych wydziałów i wyższych seminariów duchownych, oraz w sprawie trybu i zakresu uznawania przez Państwo stopni i tytułów nadawanych przez te szkoły wyższe. Zgodnie z art. 15 ust. 2 Konkordatu między Stolicą Apostolską i Rzecząpospolitą Polską, podpisanego w Warszawie dnia 28 lipca 1993 r. (Dz. U. z 1998 r. Nr 51, poz. 318), Rząd Rzeczypospolitej Polskiej i Konferencja Episkopatu Polski, działająca z upoważnienia udzielonego jej przez Stolicę Apostolską, uzgodniły, co następuje:
-§ 1.
-1.
-U mowę stosuje się do szkół wyższych, w tym uniwersytetów, odrębnych wydziałów i wyższych seminariów duchownych, zakładanych i prowadzonych przez Kościół Katolicki, zwanych dalej „kościelnymi szkołami wyższymi”.
-2.
-Diecezjalne i zakonne szkoły wyższe kształcące osoby świeckie w zakresie nauk kościelnych, jeśli spełniają wymogi ustawowe dotyczące kadry i programów studiów, mają status kościelnych szkół wyższych.
-§ 2.
-1.
-Kościelne szkoły wyższe, w tym istniejące w dniu wejścia w życie niniejszej umowy uczelnie:
-1)
-Katolicki Uniwersytet Lubelski,
-2)
-Papieska Akademia Teologiczna w Krakowie,
-3)
-Papieski Wydział Teologiczny we Wrocławiu,
-4)
-Papieski Wydział Teologiczny w Warszawie,
-5)
-Wyższa Szkoła Filozoficzno-Pedagogiczna „Ignatianum” w Krakowie, dawniej Wydział Filozoficzny Towarzystwa Jezusowego w Krakowie,
-posiadają osobowość prawną oraz uprawnienia określone w umowie.
-2.
-Papieski Wydział Teologiczny w Warszawie dzieli się na dwie sekcje:
-1)
-Sekcję św. Jana Chrzciciela,
-2)
-Sekcję św. Andrzeja Boboli „Bobolanum”.
-Każda z tych sekcji posiada osobowość prawną.
-§ 3.
-W stosunku do Katolickiego Uniwersytetu Lubelskiego mają odpowiednie zastosowanie przepisy ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385 z późniejszymi zmianami) i ustawy z dnia 12 września 1990 r. o tytule naukowym i stopniach naukowych (Dz. U. Nr 65, poz. 386 z późniejszymi zmianami).
-§ 4.
-Do odbywania studiów w kościelnych szkołach wyższych mogą być dopuszczone osoby spełniające warunki określone w art. 140 ust. 1 ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. Nr 65, poz. 385 z późniejszymi zmianami). Statut kościelnej szkoły wyższej może określić dodatkowe warunki, które powinny być spełnione przez kandydatów do tych szkół.
-§ 5.
-Studentom kościelnych szkół wyższych przysługują prawa studentów uczelni utworzonych na podstawie ustawy, o której mowa w § 4, oraz na podstawie ustawy z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz. U. Nr 96, poz. 590 z późniejszymi zmianami).
-§ 6.
-1.
-Państwo uznaje tytuły zawodowe nadawane absolwentom przez kościelne szkoły wyższe, spełniające warunki prowadzenia kierunku studiów, określone w obowiązujących przepisach dotyczących szkolnictwa wyższego.
-2.
-Władze kościelnych szkół wyższych przesyłają ministrowi właściwemu do spraw szkolnictwa wyższego statut szkoły oraz jego zmiany, plany studiów i ich zmiany, informacje o zmianach na stanowiskach organów jednoosobowych szkoły oraz corocznie wykazy kadry nauczycieli akademickich dla poszczególnych kierunków studiów prowadzonych w szkołach.
-3.
-Spełnienie przez kościelną szkołę wyższą warunków, o których mowa w ust. 1, stwierdza w drodze decyzji administracyjnej minister właściwy do spraw szkolnictwa wyższego.
-§ 7.
-1.
-Kościelne szkoły wyższe nie mające prawa nadawania tytułu zawodowego magistra mogą zawierać umowy o współpracy w zakresie kształcenia na poziomie magisterskim z kościelnymi szkołami wyższymi posiadającymi takie prawa.
-2.
-Alumni wyższych seminariów duchownych, prowadzących sześcioletnie studia zgodnie z wymaganiami prawa kościelnego, mogą uzyskiwać tytuł zawodowy magistra kierunku „teologia” na podstawie umów o współpracy zawartych w oparciu o Konstytucję Apostolską „Sapientia Christiana” z kościelnymi szkołami wyższymi oraz z uczelniami państwowymi, w których strukturze znajdują się wydziały teologii, posiadającymi prawo prowadzenia studiów magisterskich na tym kierunku.
-§ 8.
-Państwo uznaje kościelne stopnie naukowe doktora i doktora habilitowanego, nadane przez kościelne szkoły wyższe, jeżeli:
-1)
-spełniają one warunki określone w art. 3 i 4 ustawy z dnia 12 września 1990 r. o tytule naukowym i stopniach naukowych, zwanej dalej „ustawą”, oraz
-2)
-przeprowadzają przewody doktorskie i habilitacyjne oraz nadają te stopnie zgodnie z postanowieniami ustawy.
-§ 9.
-1.
-Państwo uznaje kościelny tytuł naukowy profesora nadany przez władzę kościelną, określoną w statucie kościelnej szkoły wyższej, jeżeli postępowanie o nadanie tytułu naukowego oraz postępowanie w przedmiocie przedstawienia kandydata do tego tytułu zostało przeprowadzone zgodnie z przepisami ustawy.
-2.
-Władza kościelnej szkoły wyższej zawiadamia Prezydenta Rzeczypospolitej Polskiej o nadaniu tytułu naukowego.
-§ 10.
-Osoba ubiegająca się o nadanie stopnia lub tytułu naukowego może wnosić od uchwał, o których mowa w art. 12 ust. 2, art. 16 ust. 2 i art. 26 ust. 3 ustawy, odwołanie do Centralnej Komisji do Spraw Tytułu Naukowego i Stopni Naukowych na zasadach i w trybie określonych w ustawie.
-§ 11.
-Uczelnie wymienione w § 2 niniejszej umowy, uprawnione do nadawania stopni naukowych na podstawie dotychczasowych przepisów, zachowują to uprawnienie, jeżeli spełniają wymogi określone w ustawie.
-§ 12.
-Tytuły naukowe nadane na podstawie dotychczasowych przepisów odpowiadają tytułowi naukowemu profesora określonemu w ustawie.
-§ 13.
-Wszczęte przed dniem wejścia w życie umowy przewody doktorskie i habilitacyjne oraz postępowania o nadanie tytułu naukowego prowadzone są w dalszym ciągu na podstawie przepisów niniejszej umowy.
-§ 14.
-Traci moc umowa z dnia 30 czerwca 1989 r. między Rządem Polskiej Rzeczypospolitej Ludowej a Konferencją Episkopatu Polski w sprawie uregulowania statusu wyższych uczelni papieskich oraz trybu i zakresu uznawania przez Państwo stopni i tytułów naukowych nadawanych przez te uczelnie (Monitor Polski Nr 22, poz. 174).
-§ 15.
-Umowa zostanie ogłoszona w Dzienniku Ustaw Rzeczypospolitej Polskiej w terminie 30 dni od jej podpisania.
-§ 16.
-Umowa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Warszawa, dnia 1 lipca 1999 r.
+o wykonaniu Konkordatu i W wykonaniu art. 15 ust. 2 Konkordatu Sto minariów duchownych, oraz w sprawie trybu i zakresu i podpisanego uznawania przez stopni i nadawa w Warszawie dnia 28 lipca 1993 r. (Dz. U. z 1998 r. Nr 51, nych przez te podpisanej w Warszawie poz. 318), i zgodnie z 15 Umowy Rze dnia 1 lipca 1999 r., w do niniejszego ob czypospolitej Polskiej a Episkopatu Polski wieszczenia podaje do tekst wymienio w sprawie statusu prawnego nej umowy.
+nych i prowadzonych przez Katolicki, w tym uniwersytetów, i se- Minister Spraw Zagranicznych: UMOWA Rzeczypospolitej Polskiej a Episkopatu Polski w sprawie statusu prawnego i prowadzonych przez Katolicki, w tym uniwersytetów, i seminariów duchownych, oraz w sprawie trybu i zakresu uznawania przez stopni i tytunadawanych przez te Zgodnie z art. 15 ust. 2 Konkordatu 2. Papieski Teologiczny w Warszawie dziei podpisanego li na dwie sekcje: w Warszawie dnia 28 lipca 1993 r. (Dz. U. z 1998 r. Nr 51, poz. 318), Rzeczypospolitej Polskiej i Konferencja 1) Jana Chrzciciela, Episkopatu Polski, z udzielone 2) Andrzeja Boboli "Bobolanum".
+go jej przez co z tych sekcji posiada
+1. 1. stosuje do wtym uniwersytetów, i se 3. W stosunku do Katolickiego Uniwersytetu Lu minariów duchownych, i prowadzonych belskiego odpowiednie zastosowanie przepisy przez Katolicki, zwanych dalej ustawy z dnia 12 1990 r. o szkolnictwie szym (Dz. U. Nr 65, poz. 385 z zmianami) i ustawy z dnia 12 1990 r. o tytule naukowym
+2. Diecezjalne i zakonne i stopniach naukowych (Dz. U. Nr 65, poz. 386 z osoby w zakresie nauk szymi zmianami).
+wymogi ustawowe kadry i programów studiów, status 4. Do odbywania studiów w dopuszczone osoby
+2. 1. w tym warunki wart. 140 ust. 1 ustawy z dnia 12 w dniu w niniejszej umowy uczelnie: 1990 r. szkolnictwie (Dz. U. Nr 65, poz. 385 z zmianami). Statut
+1) Katolicki Uniwersytet Lubelski, dodatkowe warunki, któ re powinny przez kandydatów do tych
+2) Papieska Akademia Teologiczna w Krakowie,
+3) Papieski Teologiczny we 5. Studentom przy
+4) Papieski Teologiczny w Warszawie, prawa studentów uczelni utworzonych na pod stawie ustawy, o której mowa w 4, oraz na podstawie
+5) Filozoficzno-Pedagogiczna "Ignatia ustawy z dnia 26 czerwca 1997 r. o num" w Krakowie, dawniej Filozoficzny zawodowych (Dz. U. Nr 96, poz. 590 z Towarzystwa Jezusowego w Krakowie, zmianami).
+oraz uprawnienia okre 6. 1. uznaje zawodowe nadawane w umowie. absolwentom przez Dziennik Ustaw Nr 63 - 3548- Poz. 727 ce warunki prowadzenia kierunku studiów, przeprowadzone zgodnie z przepisami usta w przepisach szkolnictwa wy.
+2. zawiadamia
+2. Prezydenta Rzeczypospolitej Polskiej o nadaniu ministrowi do spraw szkolnictwa naukowego.
+go statut oraz jego zmiany, plany studiów i ich zmiany, informacje o zmianach na stanowiskach orga 10. Osoba o nadanie stopnia lub nów jednoosobowych oraz corocznie wykazy naukowego od o których kadry nauczycieli akademickich dla poszczególnych mowa wart. 12 ust. 2, art. 16 ust. 2 i art. 26 ust. 3 usta kierunków studiów prowadzonych w wy, do Centralnej Komisji do Spraw Naukowego i Stopni Naukowych na zasadach i w try
+3. przez warun bie w ustawie.
+ków, o których mowa w ust. 1, stwierdza w drodze de- .
+cyzji administracyjnej minister do spraw 11. Uczelnie wymienione w 2 niniejszej umowy, szkolnictwa uprawnione do nadawania stopni naukowych na pod
+7. 1. nie prawa stawie dotychczasowych przepisów, to nadawania zawodowego magistra zawie uprawnienie, wymogi umowy o w zakresie na po w ustawie.
+ziomie magisterskim z takie prawa. 12. naukowe nadane na podstawie dotych czasowych przepisów naukowe
+2. Alumni seminariów duchownych, pro mu profesora w ustawie.
+studia zgodnie z wymagania mi prawa zawodo 13. przed dniem w umo wy magistra kierunku "teologia" na podstawie umów wy przewody doktorskie i habilitacyjne oraz o zawartych w oparciu o Apo wania o nadanie naukowego prowadzone "Sapientia Christiana" z w dalszym na podstawie przepisów niniejszej oraz z uczelniami w których umowy.
+strukturze teologii, mi prawo prowadzenia studiów magisterskich na tym 14. Traci moc umowa z dnia 30 czerwca 1989 r.
+kierunku. Polskiej Rzeczypospolitej Ludowej a Episkopatu Polski w sprawie uregulowa
+8. uznaje stopnie naukowe nia statusu uczelni papieskich oraz trybu i za doktora i doktora habilitowanego, nadane przez ko kresu uznawania przez stopni i na ukowych nadawanych przez te uczelnie (Monitor Polski
+1) one warunki wart. 3 i 4 ustawy Nr 22, poz. 174).
+z dnia 12 1990 r. o tytule naukowym 15. Umowa zostanie w Dzienniku i stopniach naukowych, zwanej dalej Ustaw Rzeczypospolitej Polskiej w terminie 30 dni od oraz jej podpisania.
+2) przewody doktorskie i habilitacyj ne oraz te stopnie zgodnie z postanowienia 16. Umowa wchodzi w po 14 dni od mi ustawy. dnia
+9. 1. uznaje naukowy pro Warszawa, dnia 1 lipca 1999 r.
+fesora nadany przez w sta tucie W imieniu Konferencji W imieniu o nadanie naukowego oraz Episkopatu Polski: Rzeczypospolitej Polskiej: w przedmiocie przedstawienia kandydata do tego tytu- +Józef kard. Glemp M. Handke ISSN 0867-3411 Cena 4 68 gr
 

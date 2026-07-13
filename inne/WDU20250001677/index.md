@@ -34,71 +34,131 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Bu
 2) § 2 rozporządzenia Ministra Infrastruktury z dnia 2 lipca 2024 r. zmieniającego rozporządzenie w sprawie warunków produkcji i sposobu dystrybucji tablic rejestracyjnych i znaków legalizacyjnych (Dz. U. poz. 987), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”. Minister Infrastruktury: wz. S. Bukowiec Minister Infrastruktury kieruje działem administracji rządowej – transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
 ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 2 maja 2012 r.
 w sprawie warunków produkcji i sposobu dystrybucji tablic rejestracyjnych i znaków legalizacyjnych Na podstawie art. 75c pkt 1 i 3 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251 oraz z 2025 r. poz. 820, 1006 i 1676) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) warunki produkcji i szczegółowy sposób dystrybucji tablic rejestracyjnych i znaków legalizacyjnych oraz sposób prowadzenia ewidencji, o których mowa w art. 75a ust. 6 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
-2) materiały mające szczególne znaczenie do produkcji tablic rejestracyjnych.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) ustawie – rozumie się przez to ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
-2) producencie tablic – rozumie się przez to przedsiębiorcę, o którym mowa w art. 75a ust. 3 ustawy;
-3) organie rejestrującym – rozumie się przez to odpowiednio starostę, Wojewodę Mazowieckiego oraz organy dokonujące rejestracji pojazdów, o których mowa w art. 73 ust. 2b i 3 ustawy;
-4) znakach legalizacyjnych – rozumie się przez to znaki legalizacyjne, o których mowa w przepisach w sprawie legalizacji tablic rejestracyjnych.
-§ 3. 1. Tablice rejestracyjne produkuje się w zakładzie, w którym mogą być produkowane także inne tablice i oznaczenia pojazdów.
-2. Materiałem mającym szczególne znaczenie do produkcji tablic rejestracyjnych jest folia odblaskowa, dla której wymagania, parametry i wzory określają przepisy w sprawie rejestracji i oznaczania pojazdów.
-3. Przepis ust. 1 nie dotyczy produkcji folii odblaskowej, o której mowa w ust. 2.
-4. W zakładzie, w którym produkowane są tablice rejestracyjne, wydziela się część produkcyjną oraz część magazynową, które zabezpiecza się przed dostępem osób nieupoważnionych.
-5. Do produkcji tablic rejestracyjnych wykorzystuje się wyłącznie maszyny, urządzenia i wyposażenie zapewniające przebieg procesów produkcyjnych gwarantujący wykonanie tablic rejestracyjnych zgodnie z wzorami i warunkami technicznymi, określonymi w przepisach w sprawie rejestracji i oznaczania pojazdów.
-6. Producent tablic przeprowadza kontrolę wyprodukowanych tablic rejestracyjnych w zakresie ich zgodności z wzorami i warunkami technicznymi, określonymi w przepisach w sprawie rejestracji i oznaczania pojazdów.
-§ 4. Do produkcji tablic rejestracyjnych używa się wyłącznie materiałów odpowiadających warunkom technicznym określonym w przepisach w sprawie rejestracji i oznaczania pojazdów.
-Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
-§ 5. 1. Producent tablic prowadzi, odpowiednio do zakresu wykonywanej produkcji tablic rejestracyjnych, ewidencje, o których mowa w art. 75a ust. 6 ustawy.
-2. W ewidencji materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych zamieszcza się informacje o ilości wyprodukowanej albo sprowadzonej z zagranicy oraz sprzedanej folii odblaskowej.
-3. W ewidencji przetworzonych materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych zamieszcza się informacje o:
-1) ilości folii odblaskowej naklejonej na taśmę aluminiową,
-2) ilości folii odblaskowej naklejonej na taśmę aluminiową, przyciętej zgodnie z wymiarem tablic rejestracyjnych – z wyszczególnieniem przetworzonego materiału, o którym mowa w § 7 ust. 1 pkt 2.
-4. W ewidencji wyprodukowanych tablic rejestracyjnych zamieszcza się informacje o ilości wyprodukowanych tablic rejestracyjnych:
-1) bez wytłoczonych numerów rejestracyjnych,
-2) z wytłoczonymi numerami rejestracyjnymi – z wyszczególnieniem tablic rejestracyjnych, o których mowa w § 7 ust. 1 pkt 1.
-5. W ewidencji sprzedanych tablic rejestracyjnych zamieszcza się informacje o ilości sprzedanych tablic rejestracyjnych:
-1) bez wytłoczonych numerów rejestracyjnych;
-2) z wytłoczonymi numerami rejestracyjnymi.
-6. Podstawą do zamieszczenia lub zmiany danych zawartych w ewidencji są odpowiednio dokumenty potwierdzające wyprodukowanie, nabycie, sprzedaż lub zniszczenie tablic rejestracyjnych lub folii odblaskowej, o której mowa w ust. 2, oraz dokumenty potwierdzające przetworzenie lub zniszczenie materiałów, o których mowa w ust. 3.
-7. Do prowadzenia ewidencji oraz składania i realizacji zamówień, o których mowa w art. 75a ust. 4 i 5 ustawy, wykorzystuje się katalog kodów oznaczeń materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych, przetworzonych materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych oraz tablic rejestracyjnych, które określa załącznik nr 1 do rozporządzenia.
-8. Szczegółowy sposób prowadzenia ewidencji, o których mowa w art. 75a ust. 6 ustawy, jest określony w załączniku nr 2 do rozporządzenia.
-§ 6. Tablice rejestracyjne z wytłoczonymi numerami rejestracyjnymi producent tablic sprzedaje w opakowaniach jednostkowych lub zbiorczych, na których zamieszcza się nazwę producenta tablic oraz specyfikację zawartości opakowania, w szczególności ilość tablic i zakres numerów rejestracyjnych.
-§ 7. 1. Producent tablic niszczy, w sposób uniemożliwiający dalsze użycie, i zagospodarowuje zgodnie z przepisami o odpadach:
-1) wyprodukowane tablice rejestracyjne nieodpowiadające wzorom lub wymaganym warunkom technicznym oraz tablice rejestracyjne wyprodukowane niezgodnie z zamówieniem, o którym mowa w art. 75a ust. 4 ustawy;
-2) przetworzone materiały będące folią odblaskową naklejoną na taśmę aluminiową lub folią odblaskową naklejoną na taśmę aluminiową, przyciętą zgodnie z wymiarem tablic rejestracyjnych, nieodpowiadające wymaganym warunkom technicznym lub przetworzone niezgodnie z zamówieniem, o którym mowa w art. 75a ust. 5 ustawy;
-3) wycofane z użytku tablice rejestracyjne, o których mowa w art. 74b ust. 1 ustawy.
-2. Producent tablic sporządza protokół zniszczenia tablic rejestracyjnych i przetworzonych materiałów, o których mowa w ust. 1.
-§ 8. 1. Tablice rejestracyjne z wytłoczonymi numerami rejestracyjnymi producent tablic, z zastrzeżeniem ust. 2, dostarcza w sposób gwarantujący terminowość dostaw oraz bezpieczeństwo transportu do organów rejestrujących.
-2. Organy rejestrujące, o których mowa w art. 73 ust. 2b i 3 ustawy, mogą przez upoważnionego przedstawiciela dokonać odbioru tablic rejestracyjnych u producenta tablic, z zachowaniem zasad bezpieczeństwa transportu.
-3. Producenci tablic ustalają wzajemnie sposób, zasady bezpieczeństwa oraz środki transportu tablic rejestracyjnych bez wytłoczonych numerów rejestracyjnych i materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych oraz przetworzonych materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych.
-4. Tablice rejestracyjne, o których mowa w art. 74b ust. 1 ustawy, producent tablic odbiera od organów rejestrujących w sposób gwarantujący bezpieczeństwo transportu.
-§ 9. 1. Producent tablic, który zakończył działalność gospodarczą w zakresie produkcji tablic rejestracyjnych, niszczy albo przekazuje innemu producentowi tablic posiadane tablice rejestracyjne i materiały mające szczególne znaczenie do produkcji tablic rejestracyjnych oraz przetworzone materiały mające szczególne znaczenie do produkcji tablic rejestracyjnych.
-2. Producent tablic sporządza protokół zniszczenia tablic rejestracyjnych, materiałów i przetworzonych materiałów, o których mowa w ust. 1.
-3. Ewidencje, o których mowa w § 5, przekazuje się właściwemu organowi, o którym mowa w art. 75aa ust. 1 ustawy.
-§ 10. 1. Producent znaków legalizacyjnych zapewnia przebieg procesów produkcyjnych gwarantujący wykonanie znaków legalizacyjnych odpowiadających wzorom i warunkom technicznym, określonym w przepisach w sprawie legalizacji tablic rejestracyjnych.
-2. W zakładzie, w którym produkowane są znaki legalizacyjne, wydziela się część produkcyjną oraz część magazynową, które zabezpiecza się przed dostępem osób nieupoważnionych.
-3. Producent znaków legalizacyjnych przeprowadza kontrolę wyprodukowanych znaków legalizacyjnych w zakresie ich zgodności z wzorami i warunkami technicznymi, określonymi w przepisach w sprawie legalizacji tablic rejestracyjnych.
-§ 11. 1. Znaki legalizacyjne sprzedaje się banderolowane w opakowaniach zbiorczych, na których zamieszcza się nazwę ich producenta oraz specyfikację zawartości opakowania, w szczególności ilość i zakres numerowy znaków legalizacyjnych.
-2. Zakresu numerowego znaków legalizacyjnych nie podaje się w przypadku nalepek na tablice rejestracyjne tymczasowe.
-§ 12. 1. Znaki legalizacyjne są produkowane na zamówienie organów rejestrujących.
-2. Producent znaków legalizacyjnych dostarcza je do organów rejestrujących w sposób gwarantujący terminowość dostaw oraz bezpieczeństwo transportu.
-3. Organ rejestrujący może dokonać odbioru znaków legalizacyjnych u producenta tych znaków, przez upoważnionego przedstawiciela tego organu, z zachowaniem zasad bezpieczeństwa transportu.
-§ 13. 1. Wyprodukowane znaki legalizacyjne nieodpowiadające określonemu wzorowi lub wymaganym warunkom technicznym podlegają zniszczeniu przez ich producenta, w sposób uniemożliwiający ich użycie.
-2. Producent znaków legalizacyjnych sporządza protokół zniszczenia znaków, o których mowa w ust. 1.
-§ 14. Ewidencje, o których mowa w § 5, prowadzone w tabelach według wzorów określonych w dotychczasowych przepisach zachowują ważność.
-§ 15. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
-Rozporządzenie zostało ogłoszone w dniu 25 maja 2012 r.
-Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 14 listopada 2002 r. w sprawie warunków produkcji oraz sposobu dystrybucji tablic rejestracyjnych i znaków legalizacyjnych (Dz. U. poz. 1618 oraz z 2010 r. poz. 73), które na podstawie art. 93 ust. 1 ustawy z dnia 25 marca 2011 r. o ograniczaniu barier administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 622, 764, 767 i 1110) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 #### Rozdział 1 Przepisy ogólne
 
+**§ 1.** Rozporządzenie określa:
+
+- **1)** warunki produkcji i szczegółowy sposób dystrybucji tablic rejestracyjnych i znaków legalizacyjnych oraz sposób prowadzenia ewidencji, o których mowa w art. 75a ust. 6 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
+- **2)** materiały mające szczególne znaczenie do produkcji tablic rejestracyjnych.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** ustawie – rozumie się przez to ustawę z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
+- **2)** producencie tablic – rozumie się przez to przedsiębiorcę, o którym mowa w art. 75a ust. 3 ustawy;
+- **3)** organie rejestrującym – rozumie się przez to odpowiednio starostę, Wojewodę Mazowieckiego oraz organy dokonujące rejestracji pojazdów, o których mowa w art. 73 ust. 2b i 3 ustawy;
+- **4)** znakach legalizacyjnych – rozumie się przez to znaki legalizacyjne, o których mowa w przepisach w sprawie legalizacji tablic rejestracyjnych.
+
 #### Rozdział 2 Produkcja i dystrybucja tablic rejestracyjnych oraz sposób prowadzenia ewidencji
+
+**§ 3.**
+
+1. Tablice rejestracyjne produkuje się w zakładzie, w którym mogą być produkowane także inne tablice i oznaczenia pojazdów.
+
+2. Materiałem mającym szczególne znaczenie do produkcji tablic rejestracyjnych jest folia odblaskowa, dla której wymagania, parametry i wzory określają przepisy w sprawie rejestracji i oznaczania pojazdów.
+
+3. Przepis ust. 1 nie dotyczy produkcji folii odblaskowej, o której mowa w ust. 2.
+
+4. W zakładzie, w którym produkowane są tablice rejestracyjne, wydziela się część produkcyjną oraz część magazynową, które zabezpiecza się przed dostępem osób nieupoważnionych.
+
+5. Do produkcji tablic rejestracyjnych wykorzystuje się wyłącznie maszyny, urządzenia i wyposażenie zapewniające przebieg procesów produkcyjnych gwarantujący wykonanie tablic rejestracyjnych zgodnie z wzorami i warunkami technicznymi, określonymi w przepisach w sprawie rejestracji i oznaczania pojazdów.
+
+6. Producent tablic przeprowadza kontrolę wyprodukowanych tablic rejestracyjnych w zakresie ich zgodności z wzorami i warunkami technicznymi, określonymi w przepisach w sprawie rejestracji i oznaczania pojazdów.
+
+**§ 4.** Do produkcji tablic rejestracyjnych używa się wyłącznie materiałów odpowiadających warunkom technicznym określonym w przepisach w sprawie rejestracji i oznaczania pojazdów. Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
+
+**§ 5.**
+
+1. Producent tablic prowadzi, odpowiednio do zakresu wykonywanej produkcji tablic rejestracyjnych, ewidencje, o których mowa w art. 75a ust. 6 ustawy.
+
+2. W ewidencji materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych zamieszcza się informacje o ilości wyprodukowanej albo sprowadzonej z zagranicy oraz sprzedanej folii odblaskowej.
+
+3. W ewidencji przetworzonych materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych zamieszcza się informacje o:
+
+- **1)** ilości folii odblaskowej naklejonej na taśmę aluminiową,
+- **2)** ilości folii odblaskowej naklejonej na taśmę aluminiową, przyciętej zgodnie z wymiarem tablic rejestracyjnych – z wyszczególnieniem przetworzonego materiału, o którym mowa w § 7 ust. 1 pkt 2.
+
+4. W ewidencji wyprodukowanych tablic rejestracyjnych zamieszcza się informacje o ilości wyprodukowanych tablic rejestracyjnych:
+
+- **1)** bez wytłoczonych numerów rejestracyjnych,
+- **2)** z wytłoczonymi numerami rejestracyjnymi – z wyszczególnieniem tablic rejestracyjnych, o których mowa w § 7 ust. 1 pkt 1.
+
+5. W ewidencji sprzedanych tablic rejestracyjnych zamieszcza się informacje o ilości sprzedanych tablic rejestracyjnych:
+
+- **1)** bez wytłoczonych numerów rejestracyjnych;
+- **2)** z wytłoczonymi numerami rejestracyjnymi.
+
+6. Podstawą do zamieszczenia lub zmiany danych zawartych w ewidencji są odpowiednio dokumenty potwierdzające wyprodukowanie, nabycie, sprzedaż lub zniszczenie tablic rejestracyjnych lub folii odblaskowej, o której mowa w ust. 2, oraz dokumenty potwierdzające przetworzenie lub zniszczenie materiałów, o których mowa w ust. 3.
+
+7. Do prowadzenia ewidencji oraz składania i realizacji zamówień, o których mowa w art. 75a ust. 4 i 5 ustawy, wykorzystuje się katalog kodów oznaczeń materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych, przetworzonych materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych oraz tablic rejestracyjnych, które określa załącznik nr 1 do rozporządzenia.
+
+8. Szczegółowy sposób prowadzenia ewidencji, o których mowa w art. 75a ust. 6 ustawy, jest określony w załączniku nr 2 do rozporządzenia.
+
+**§ 6.** Tablice rejestracyjne z wytłoczonymi numerami rejestracyjnymi producent tablic sprzedaje w opakowaniach jednostkowych lub zbiorczych, na których zamieszcza się nazwę producenta tablic oraz specyfikację zawartości opakowania, w szczególności ilość tablic i zakres numerów rejestracyjnych.
+
+**§ 7.**
+
+1. Producent tablic niszczy, w sposób uniemożliwiający dalsze użycie, i zagospodarowuje zgodnie z przepisami o odpadach:
+
+- **1)** wyprodukowane tablice rejestracyjne nieodpowiadające wzorom lub wymaganym warunkom technicznym oraz tablice rejestracyjne wyprodukowane niezgodnie z zamówieniem, o którym mowa w art. 75a ust. 4 ustawy;
+- **2)** przetworzone materiały będące folią odblaskową naklejoną na taśmę aluminiową lub folią odblaskową naklejoną na taśmę aluminiową, przyciętą zgodnie z wymiarem tablic rejestracyjnych, nieodpowiadające wymaganym warunkom technicznym lub przetworzone niezgodnie z zamówieniem, o którym mowa w art. 75a ust. 5 ustawy;
+- **3)** wycofane z użytku tablice rejestracyjne, o których mowa w art. 74b ust. 1 ustawy.
+
+2. Producent tablic sporządza protokół zniszczenia tablic rejestracyjnych i przetworzonych materiałów, o których mowa w ust. 1.
+
+**§ 8.**
+
+1. Tablice rejestracyjne z wytłoczonymi numerami rejestracyjnymi producent tablic, z zastrzeżeniem ust. 2, dostarcza w sposób gwarantujący terminowość dostaw oraz bezpieczeństwo transportu do organów rejestrujących.
+
+2. Organy rejestrujące, o których mowa w art. 73 ust. 2b i 3 ustawy, mogą przez upoważnionego przedstawiciela dokonać odbioru tablic rejestracyjnych u producenta tablic, z zachowaniem zasad bezpieczeństwa transportu.
+
+3. Producenci tablic ustalają wzajemnie sposób, zasady bezpieczeństwa oraz środki transportu tablic rejestracyjnych bez wytłoczonych numerów rejestracyjnych i materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych oraz przetworzonych materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych.
+
+4. Tablice rejestracyjne, o których mowa w art. 74b ust. 1 ustawy, producent tablic odbiera od organów rejestrujących w sposób gwarantujący bezpieczeństwo transportu.
+
+**§ 9.**
+
+1. Producent tablic, który zakończył działalność gospodarczą w zakresie produkcji tablic rejestracyjnych, niszczy albo przekazuje innemu producentowi tablic posiadane tablice rejestracyjne i materiały mające szczególne znaczenie do produkcji tablic rejestracyjnych oraz przetworzone materiały mające szczególne znaczenie do produkcji tablic rejestracyjnych.
+
+2. Producent tablic sporządza protokół zniszczenia tablic rejestracyjnych, materiałów i przetworzonych materiałów, o których mowa w ust. 1.
+
+3. Ewidencje, o których mowa w § 5, przekazuje się właściwemu organowi, o którym mowa w art. 75aa ust. 1 ustawy.
 
 #### Rozdział 3 Produkcja i dystrybucja znaków legalizacyjnych
 
+**§ 10.**
+
+1. Producent znaków legalizacyjnych zapewnia przebieg procesów produkcyjnych gwarantujący wykonanie znaków legalizacyjnych odpowiadających wzorom i warunkom technicznym, określonym w przepisach w sprawie legalizacji tablic rejestracyjnych.
+
+2. W zakładzie, w którym produkowane są znaki legalizacyjne, wydziela się część produkcyjną oraz część magazynową, które zabezpiecza się przed dostępem osób nieupoważnionych.
+
+3. Producent znaków legalizacyjnych przeprowadza kontrolę wyprodukowanych znaków legalizacyjnych w zakresie ich zgodności z wzorami i warunkami technicznymi, określonymi w przepisach w sprawie legalizacji tablic rejestracyjnych.
+
+**§ 11.**
+
+1. Znaki legalizacyjne sprzedaje się banderolowane w opakowaniach zbiorczych, na których zamieszcza się nazwę ich producenta oraz specyfikację zawartości opakowania, w szczególności ilość i zakres numerowy znaków legalizacyjnych.
+
+2. Zakresu numerowego znaków legalizacyjnych nie podaje się w przypadku nalepek na tablice rejestracyjne tymczasowe.
+
+**§ 12.**
+
+1. Znaki legalizacyjne są produkowane na zamówienie organów rejestrujących.
+
+2. Producent znaków legalizacyjnych dostarcza je do organów rejestrujących w sposób gwarantujący terminowość dostaw oraz bezpieczeństwo transportu.
+
+3. Organ rejestrujący może dokonać odbioru znaków legalizacyjnych u producenta tych znaków, przez upoważnionego przedstawiciela tego organu, z zachowaniem zasad bezpieczeństwa transportu.
+
+**§ 13.**
+
+1. Wyprodukowane znaki legalizacyjne nieodpowiadające określonemu wzorowi lub wymaganym warunkom technicznym podlegają zniszczeniu przez ich producenta, w sposób uniemożliwiający ich użycie.
+
+2. Producent znaków legalizacyjnych sporządza protokół zniszczenia znaków, o których mowa w ust. 1.
+
 #### Rozdział 4 Przepisy przejściowe i końcowe
+
+**§ 14.** Ewidencje, o których mowa w § 5, prowadzone w tabelach według wzorów określonych w dotychczasowych przepisach zachowują ważność.
+
+**§ 15.** Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia . Rozporządzenie zostało ogłoszone w dniu 25 maja 2012 r. Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 14 listopada 2002 r. w sprawie warunków produkcji oraz sposobu dystrybucji tablic rejestracyjnych i znaków legalizacyjnych (Dz. U. poz. 1618 oraz z 2010 r. poz. 73), które na podstawie art. 93 ust. 1 ustawy z dnia 25 marca 2011 r. o ograniczaniu barier administracyjnych dla obywateli i przedsiębiorców (Dz. U. poz. 622, 764, 767 i 1110) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.
 
 ## Załącznik nr 1 — nr 1 KATALOG KODÓW OZNACZEŃ MATERIAŁÓW MAJĄCYCH SZCZEGÓLNE ZNACZENIE KATALOG KODÓW DO PRODUKCJI OZNACZEŃ TABLIC MATERIAŁÓW REJESTRACYJNYCH, MAJĄCYCH PRZETWORZONYCH SZCZEGÓLNE ZNACZENIE MATERIAŁÓW DO PRODUKCJI TABLIC REJESTRACYJNYCH, MAJĄCYCH SZCZEGÓLNE PRZETWORZONYCH ZNACZENIE DO MATERIAŁÓW PRODUKCJI TABLIC MAJĄCYCH REJESTRACYJNYCH SZCZEGÓLNE ZNACZENIE DO PRODUKCJI TABLIC ORAZ REJESTRACYJNYCH TABLIC REJESTRACYJNYCH ORAZ TABLIC REJESTRACYJNYCH Tabela nr 1. Kody oznaczeń materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych Rodzaj materiału mającego szczególne znaczenie Kod Kod Lp. do produkcji tablic rejestracyjnych rodzaju Odmiana tablic rejestracyjnych rodzaju i odmiany 1 Folia odblaskowa do tablic jednorzędowych 101 tło białe 101a tło niebieskie 101b tło żółte 101c tło zielone 101d 2 Folia odblaskowa do tablic dwurzędowych 102 tło białe 102a tło niebieskie 102b tło żółte 102c tło zielone 102d 3 Folia odblaskowa do tablic motocyklowych 103 tło białe 103a tło niebieskie 103b tło żółte 103c tło zielone 103d 4 Folia odblaskowa do tablic motorowerowych 104 tło białe 104a tło niebieskie 104b tło żółte 104c tło zielone 104d Tabela nr 2. Kody oznaczeń przetworzonych materiałów mających szczególne znaczenie do produkcji tablic rejestracyjnych Lp. Rodzaj przetworzonego materiału mającego szczególne Kod Odmiana tablic rejestracyjnych Kod znaczenie do produkcji tablic rejestracyjnych rodzaju rodzaju i odmiany 1 2 3 4 5 1 Naklejona na taśmę aluminiową folia odblaskowa 201 tło białe 201a do tablic jednorzędowych tło niebieskie 201b tło żółte 201c tło zielone 201d 2 Naklejona na taśmę aluminiową folia odblaskowa 202 tło białe 202a do tablic dwurzędowych tło niebieskie 202b tło żółte 202c tło zielone 202d 3 Naklejona na taśmę aluminiową folia odblaskowa 203 tło białe 203a do tablic motocyklowych tło niebieskie 203b tło żółte 203c tło zielone 203d W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Infrastruktury z dnia 21 lutego 2023 r.
 

@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000350) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/350/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wpisu na listę agentów celnych Na podstawie art. 80 ust. 8 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2016 r. poz. 1880 i 1948) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 27 listopada 2014 r. w sprawie wpisu na listę agentów celnych (Dz. U. poz. 1702) w § 4 w ust. 1 we wprowadzeniu do wyliczenia wyrazy „dyrektora izby celnej” zastępuje się wyrazami „dyrektora izby administracji skarbowej”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-Minister Rozwoju i Finansów: wz. W. Janczyk
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 27 listopada 2014 r. w sprawie wpisu na listę agentów celnych (Dz. U. poz. 1702) w § 4 w ust. 1 we wprowadzeniu do wyliczenia wyrazy „dyrektora izby celnej” zastępuje się wyrazami „dyrektora izby administracji skarbowej”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. Minister Rozwoju i Finansów: wz. W. Janczyk
 

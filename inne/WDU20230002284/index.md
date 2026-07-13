@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002284) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2284/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wykazu zakładów psychiatrycznych i zakładów leczenia odwykowego przeznaczonych do wykonywania obserwacji oraz sposobu finansowania obserwacji, a także warunków zabezpieczenia zakładów dla osób pozbawionych wolności Na podstawie art. 203 § 5 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 2 grudnia 2004 r. w sprawie wykazu zakładów psychiatrycznych i zakładów leczenia odwykowego przeznaczonych do wykonywania obserwacji oraz sposobu finansowania obserwacji, a także warunków zabezpieczenia zakładów dla osób pozbawionych wolności (Dz. U. z 2022 r. poz. 448) w załączniku nr 3 do rozporządzenia w tabeli uchyla się lp. 5.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: K. Sójka
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 2 grudnia 2004 r. w sprawie wykazu zakładów psychiatrycznych i zakładów leczenia odwykowego przeznaczonych do wykonywania obserwacji oraz sposobu finansowania obserwacji, a także warunków zabezpieczenia zakładów dla osób pozbawionych wolności (Dz. U. z 2022 r. poz. 448) w załączniku nr 3 do rozporządzenia w tabeli uchyla się lp. 5.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: K. Sójka
 

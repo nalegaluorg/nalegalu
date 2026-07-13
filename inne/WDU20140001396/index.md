@@ -8,10 +8,10 @@ pos: 1396
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# 1396 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI dnia 7 października 2014 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1396 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 7 października 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,100 +25,160 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001396) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1396/text.pdf) |
 
-sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw lub ubezpieczeń społecznych obszarów innych sądów rejonowych Na podstawie art. 20 pkt 2 ustawy dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. 2013 r.
-poz. 427, późn. zm. ) zarządza się, co następuje: § 1. Następującym sądom rejonowym przekazuje się rozpoznawanie spraw lub ubezpieczeń społecznych obszarów innych sądów rejonowych:
-1) obszarze Okręgowego Białymstoku Sądowi Rejonowemu Białymstoku ubezpieczeń społecznych sądów rejonowych Bielsku Podlaskim Sokółce;
-2) obszarze Okręgowego Bielsku-Białej Sądowi Rejonowemu Bielsku-Białej ubezpieczeń społecznych sądów rejonowych Cieszynie Żywcu;
-3) obszarze Okręgowego Bydgoszczy:
-a) Sądowi Rejonowemu Bydgoszczy sądów rejonowych Nakle nad Notecią Szubinie oraz ubezpieczeń społecznych sądów rejonowych w: Inowrocławiu, Nakle nad Notecią, Szubinie, Świeciu Tucholi,
-b) Sądowi Rejonowemu Świeciu Rejonowego Tucholi;
-4) obszarze Okręgowego Częstochowie Sądowi Rejonowemu Częstochowie zakresu Rejonowego Lublińcu oraz ubezpieczeń społecznych sądów rejonowych w: Lublińcu, Myszkowie Zawierciu;
-5) obszarze Okręgowego Elblągu:
-a) Sądowi Rejonowemu Elblągu Rejonowego Braniewie oraz ubezpieczeń społecznych sądów rejonowych w: Braniewie, Działdowie, Iławie Ostródzie,
-b) Sądowi Rejonowemu Ostródzie sądów rejonowych Działdowie Iławie;
-6) obszarze Okręgowego Gdańsku:
-a) Sądowi Rejonowemu Gdańsk-Południe Gdańsku sądów rejonowych Gdańsk-Północ Gdańsku Sopocie oraz ubezpieczeń społecznych sądów rejonowych: Gdańsk-Północ Gdańsku, Gdyni, Kartuzach, Kościerzynie, Kwidzynie, Malborku, Sopocie, Starogardzie Gdańskim, Tczewie Wejherowie,
-b) Sądowi Rejonowemu Gdyni Rejonowego Wejheb) Sądowi Rejonowemu Jastrzębiu-Zdroju Rejonowego Wodzisławiu Śląskim,
-c) Sądowi Rejonowemu Rybniku sądów rejonowych Raciborzu Żorach oraz ubezpieczeń społecznych sądów rejonowych w: Jastrzębiu-Zdroju, Raciborzu, Wodzisławiu Śląskim Żorach,
-d) Sądowi Rejonowemu Zabrzu Rejonowego Rudzie Śląskiej;
-8) obszarze Okręgowego Gorzowie Wielkopolskim Sądowi Rejonowemu Gorzowie Wielkopolskim sądów rejonowych Międzyrzeczu Strzelcach Krajeńskich oraz ubezpieczeń społecznych sądów rejonowych w: Międzyrzeczu, Słubicach Strzelcach Krajeńskich;
-9) obszarze Okręgowego Jeleniej Górze:
-a) Sądowi Rejonowemu Jeleniej Górze Rejonowego Kamiennej Górze oraz ubezpieczeń społecznych sądów rejonowych w: Bolesławcu, Kamiennej Górze, Lubaniu, Lwówku Śląskim Zgorzelcu,
-b) Sądowi Rejonowemu Lubaniu Rejonowego Lwówku Śląskim;
-10) obszarze Okręgowego Kaliszu:
-a) Sądowi Rejonowemu Kaliszu sądów rejonowych Jarocinie Pleszewie oraz ubezpieczeń społecznych sądów rejonowych w: Jarocinie, Kępnie, Krotoszynie, Ostrowie Wielkopolskim Pleszewie,
-b) Sądowi Rejonowemu Ostrowie Wielkopolskim Rejonowego Krotoszynie;
-11) obszarze Okręgowego Katowicach:
-a) Sądowi Rejonowemu Chorzowie ubezpieczeń społecznych Rejonowego Bytomiu,
-b) Sądowi Rejonowemu Katowice-Zachód Katowicach sądów rejonowych Katowice-Wschód Katowicach Siemianowicach Śląskich oraz ubezpieczeń społecznych sądów rejonowych: Katowice-Wschód Katowicach, Mysłowicach Siemianowicach Śląskich,
-c) Sądowi Rejonowemu Sosnowcu ubezpieczeń społecznych sądów rejonowych w: Będzinie, Dąbrowie Górniczej Jaworznie,
-d) Sądowi Rejonowemu Tychach ubezpieczeń społecznych sądów rejonowych Mikołowie Pszczynie;
-12) obszarze Okręgowego Kielcach:
-a) Sądowi Rejonowemu Jędrzejowie Rejonowego
-a) Sądowi Rejonowemu Białogardzie Rejonowego Drawsku Pomorskim,
-b) Sądowi Rejonowemu Koszalinie ubezpieczeń społecznych sądów rejonowych w: Białogardzie, Drawsku Pomorskim, Kołobrzegu, Szczecinku Wałczu,
-c) Sądowi Rejonowemu Szczecinku Rejonowego Wałczu;
-15) obszarze Okręgowego Krakowie:
-a) Sądowi Rejonowemu Chrzanowie sądów rejonowych Olkuszu Oświęcimiu,
-b) Sądowi Rejonowemu dla Krakowa-Nowej Huty Krakowie sądów rejonowych: dla Krakowa-Krowodrzy Krakowie, dla Krakowa-Podgórza Krakowie, dla Krakowa-Śródmieścia Krakowie, Myślenicach, Suchej Beskidzkiej, Wadowicach Wieliczce oraz ubezpieczeń społecznych sądów rejonowych: Chrzanowie, dla Krakowa-Krowodrzy Krakowie, dla Krakowa-Podgórza Krakowie, dla Krakowa-Śródmieścia Krakowie, Myślenicach, Olkuszu, Oświęcimiu, Suchej Beskidzkiej, Wadowicach Wieliczce;
-16) obszarze Okręgowego Krośnie:
-a) Sądowi Rejonowemu Krośnie Rejonowego Jaśle oraz ubezpieczeń społecznych sądów rejonowych w: Jaśle, Lesku Sanoku,
-b) Sądowi Rejonowemu Sanoku Rejonowego Lesku;
-17) obszarze Okręgowego Legnicy Sądowi Rejonowemu Legnicy Rejonowego Złotoryi oraz ubezpieczeń społecznych sądów rejonowych w: Głogowie, Lubinie Złotoryi;
-18) obszarze Okręgowego Lublinie:
-a) Sądowi Rejonowemu Białej Podlaskiej sądów rejonowych Łukowie Radzyniu Podlaskim,
-b) Sądowi Rejonowemu Lublin-Zachód Lublinie sądów rejonowych: Kraśniku, Lubartowie Lublin-Wschód Lublinie siedzibą Świdniku oraz ubezpieczeń społecznych sądów rejonowych: Białej Podlaskiej, Chełmie, Kraśniku, Lubartowie, Lublin-Wschód Lublinie siedzibą Świdniku, Łukowie, Opolu Lubelskim, Puławach, Radzyniu Podlaskim Rykach,
-c) Sądowi Rejonowemu Puławach sądów rejonowych Opolu Lubelskim Rykach;
-19) obszarze Okręgowego Łomży Sądowi Rejonowemu Łomży ubezpieczeń społecznych sądów rejonowych w: Grajewie, Wysokiem Mazowieckiem Zambrowie;
-20) obszarze Okręgowego Łodzi:
-a) Sądowi Rejonowemu Kutnie Rejonowego Łęczycy,
-b) Sądowi Rejonowemu dla Łodzi-Śródmieścia Łodzi Rejonowego dla Łodzi-Widzewa Łodzi oraz ubezpieczeń społecznych
-a) Sądowi Rejonowemu Olsztynie ubezpieczeń społecznych sądów rejonowych w: Bartoszycach, Giżycku, Kętrzynie, Mrągowie, Piszu Szczytnie,
-b) Sądowi Rejonowemu Szczytnie Rejonowego Piszu;
-23) obszarze Okręgowego Opolu Sądowi Rejonowemu Opolu ubezpieczeń społecznych sądów rejonowych w: Brzegu, Kędzierzynie-Koźlu, Kluczborku, Nysie, Oleśnie, Prudniku Strzelcach Opolskich;
-24) obszarze Okręgowego Ostrołęce Sądowi Rejonowemu Ostrołęce ubezpieczeń społecznych sądów rejonowych w: Ostrowi Mazowieckiej, Przasnyszu, Pułtusku Wyszkowie;
-25) obszarze Okręgowego Piotrkowie Trybunalskim:
-a) Sądowi Rejonowemu Piotrkowie Trybunalskim ubezpieczeń społecznych właściwości sądów rejonowych w: Bełchatowie, Opocznie, Radomsku Tomaszowie Mazowieckim,
-b) Sądowi Rejonowemu Tomaszowie Mazowieckim Rejonowego Opocznie;
-26) obszarze Okręgowego Płocku:
-a) Sądowi Rejonowemu Ciechanowie sądów rejonowych Mławie Płońsku,
-b) Sądowi Rejonowemu Płocku sądów rejonowych Gostyninie Sierpcu oraz ubezpieczeń społecznych sądów rejonowych w: Ciechanowie, Gostyninie, Mławie, Płońsku, Sierpcu, Sochaczewie Żyrardowie,
-c) Sądowi Rejonowemu Żyrardowie Rejonowego Sochaczewie;
-27) obszarze Okręgowego Poznaniu:
-a) Sądowi Rejonowemu Gnieźnie Rejonowego Wągrowcu,
-b) Sądowi Rejonowemu Grodzisku Wielkopolskim sądów rejonowych Nowym Tomyślu Wolsztynie,
-c) Sądowi Rejonowemu Lesznie ubezpieczeń społecznych sądów rejonowych w: Gostyniu, Kościanie Rawiczu,
-d) Sądowi Rejonowemu Pile sądów rejonowych w: Chodzieży, Trzciance Złotowie,
-e) Sądowi Rejonowemu Poznań-Grunwald Jeżyce Poznaniu właściwości sądów rejonowych Poznań-Nowe Miasto Wilda Poznaniu Poznań-Stare Miasto Poznaniu oraz ubezpieczeń społecznych sądów rejonowych: Chodzieży, Gnieźnie, Grodzisku Wielkopolskim, Nowym Tomyślu, Obornikach, Pile, Poznań-Nowe Miasto Wilda Poznaniu, Poznań-Stare Miasto Poznaniu, Szamotułach, Śremie, Środzie Wielkopolskiej, Trzciance, Wągrowcu, Wolsztynie, we Wrześni Złotowie,
-30) obszarze Okręgowego Rzeszowie Sądowi Rejonowemu Rzeszowie prawa ubezpieczeń społecznych sądów rejonowych w: Dębicy, Leżajsku Łańcucie;
-31) obszarze Okręgowego Siedlcach Sądowi Rejonowemu Siedlcach ubezpieczeń społecznych sądów rejonowych w: Garwolinie, Mińsku Mazowieckim, Sokołowie Podlaskim Węgrowie;
-32) obszarze Okręgowego Sieradzu:
-a) Sądowi Rejonowemu Sieradzu ubezpieczeń społecznych sądów rejonowych w: Łasku, Wieluniu Zduńskiej Woli,
-b) Sądowi Rejonowemu Zduńskiej Woli Rejonowego Łasku;
-33) obszarze Okręgowego Słupsku:
-a) Sądowi Rejonowemu Człuchowie Rejonowego Chojnicach,
-b) Sądowi Rejonowemu Słupsku Rejonowego Lęborku oraz ubezpieczeń społecznych sądów rejonowych w: Chojnicach, Człuchowie Lęborku;
-34) obszarze Okręgowego Suwałkach:
-a) Sądowi Rejonowemu Ełku Rejonowego Olecku,
-b) Sądowi Rejonowemu Suwałkach Rejonowego Augustowie oraz ubezpieczeń społecznych sądów rejonowych w: Augustowie, Ełku Olecku;
-35) obszarze Okręgowego Szczecinie:
-a) Sądowi Rejonowemu Choszcznie Rejonowego Myśliborzu,
-b) Sądowi Rejonowemu Goleniowie sądów rejonowych Gryficach Świnoujściu,
-c) Sądowi Rejonowemu Szczecin-Centrum Szczecinie sądów rejonowych Gryfinie Szczecin-Prawobrzeże Zachód Szczecinie oraz ubezpieczeń społecznych sądów rejonowych: Choszcznie, Goleniowie, Gryficach, Gryfinie, Myśliborzu, Stargardzie Szczecińskim, Szczecin-Prawobrzeże Zachód Szczecinie Świnoujściu;
-36) obszarze Okręgowego Świdnicy Sądowi Rejonowemu Świdnicy ubezpieczeń społecznych sądów rejonowych w: Dzierżoniowie, Kłodzku, Wałbrzychu Ząbkowicach Śląskich;
-37) obszarze Okręgowego Tarnobrzegu: Chełmnie,
-b) Sądowi Rejonowemu Toruniu Rejonowego Brodnicy oraz ubezpieczeń społecznych sądów rejonowych w: Brodnicy, Chełmnie Grudziądzu;
-40) obszarze Okręgowego Warszawie:
-a) Sądowi Rejonowemu dla miasta stołecznego Warszawy Warszawie ubezpieczeń społecznych sądów rejonowych Piasecznie dla Warszawy-Mokotowa Warszawie,
-b) Sądowi Rejonowemu dla Warszawy-Żoliborza Warszawie ubezpieczeń społecznych sądów rejonowych: Grodzisku Mazowieckim, Pruszkowie dla Warszawy-Woli Warszawie;
-41) obszarze Okręgowego Warszawa-Praga Warszawie:
-a) Sądowi Rejonowemu dla Warszawy Pragi-Południe Warszawie ubezpieczeń społecznych sądów rejonowych Otwocku Wołominie,
-b) Sądowi Rejonowemu dla Warszawy Pragi-Północ Warszawie ubezpieczeń społecznych sądów rejonowych Legionowie Nowym Dworze Mazowieckim;
-42) obszarze Okręgowego we Włocławku Sądowi Rejonowemu we Włocławku ubezpieczeń społecznych sądów rejonowych Aleksandrowie Kujawskim Lipnie;
-43) obszarze Okręgowego we Wrocławiu Sądowi Rejonowemu dla Wrocławia-Śródmieścia we Wrocławiu ubezpieczeń społecznych sądów rejonowych: Oleśnicy, Oławie, Środzie Śląskiej, Trzebnicy, dla Wrocławia-Fabrycznej we Wrocławiu dla Wrocławia-Krzyków we Wrocławiu;
-44) obszarze Okręgowego Zamościu Sądowi Rejonowemu Zamościu ubezpieczeń społecznych sądów rejonowych w: Biłgoraju, Hrubieszowie, Krasnymstawie Tomaszowie Lubelskim;
-45) obszarze Okręgowego Zielonej Górze Sądowi Rejonowemu Zielonej Górze zakresu Rejonowego Krośnie Odrzańskim oraz ubezpieczeń społecznych sądów rejonowych w: Krośnie Odrzańskim, Nowej Soli, Świebodzinie, Żaganiu Żarach.
-§ 2. Traci moc rozporządzenie Ministra Sprawiedliwości dnia 29 listopada 2012 r. sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw lub ubezpieczeń społecznych obszarów innych sądów rejonowych (Dz. U. 2014 r. poz. 1177).
-§ 3. Rozporządzenie wchodzi życie dniem 1 stycznia 2015 r.
-Minister Sprawiedliwości: C. Grabarczyk
+w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych Na podstawie art. 20 pkt 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2013 r.
+poz. 427, z późn. zm. ) zarządza się, co następuje:
+
+**§ 1.** Następującym sądom rejonowym przekazuje się rozpoznawanie spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych:
+
+- **1)** w obszarze właściwości Sądu Okręgowego w Białymstoku – Sądowi Rejonowemu w Białymstoku sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w Bielsku Podlaskim i Sokółce;
+- **2)** w obszarze właściwości Sądu Okręgowego w Bielsku-Białej – Sądowi Rejonowemu w Bielsku-Białej sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w Cieszynie i Żywcu;
+- **3)** w obszarze właściwości Sądu Okręgowego w Bydgoszczy:
+    - **a)** Sądowi Rejonowemu w Bydgoszczy sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Nakle nad Notecią i Szubinie oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Inowrocławiu, Nakle nad Notecią, Szubinie, Świeciu i Tucholi,
+    - **b)** Sądowi Rejonowemu w Świeciu sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Tucholi;
+
+- **4)** w obszarze właściwości Sądu Okręgowego w Częstochowie – Sądowi Rejonowemu w Częstochowie sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Lublińcu oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Lublińcu, Myszkowie i Zawierciu;
+- **5)** w obszarze właściwości Sądu Okręgowego w Elblągu:
+    - **a)** Sądowi Rejonowemu w Elblągu sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Braniewie oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Braniewie, Działdowie, Iławie i Ostródzie,
+    - **b)** Sądowi Rejonowemu w Ostródzie sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Działdowie i Iławie;
+
+- **6)** w obszarze właściwości Sądu Okręgowego w Gdańsku:
+    - **a)** Sądowi Rejonowemu Gdańsk-Południe w Gdańsku sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych Gdańsk-Północ w Gdańsku i w Sopocie oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: Gdańsk-Północ w Gdańsku, w Gdyni, Kartuzach, Kościerzynie, Kwidzynie, Malborku, Sopocie, Starogardzie Gdańskim, Tczewie i Wejherowie,
+    - **b)** Sądowi Rejonowemu w Gdyni sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Wejherowie,
+    - **c)** Sądowi Rejonowemu w Kartuzach sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Kościerzynie,
+    - **d)** Sądowi Rejonowemu w Malborku sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w: Kwidzynie, Starogardzie Gdańskim i Tczewie;
+
+- **7)** w obszarze właściwości Sądu Okręgowego w Gliwicach:
+    - **a)** Sądowi Rejonowemu w Gliwicach sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Rudzie Śląskiej, Tarnowskich Górach i Zabrzu,
+    - **b)** Sądowi Rejonowemu w Jastrzębiu-Zdroju sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Wodzisławiu Śląskim,
+    - **c)** Sądowi Rejonowemu w Rybniku sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Raciborzu i Żorach oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Jastrzębiu-Zdroju, Raciborzu, Wodzisławiu Śląskim i Żorach,
+    - **d)** Sądowi Rejonowemu w Zabrzu sprawy z zakresu prawa pracy obszaru właściwości Sądu Rejonowego w Rudzie Śląskiej;
+
+- **8)** w obszarze właściwości Sądu Okręgowego w Gorzowie Wielkopolskim – Sądowi Rejonowemu w Gorzowie Wielkopolskim sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Międzyrzeczu i Strzelcach Krajeńskich oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Międzyrzeczu, Słubicach i Strzelcach Krajeńskich;
+- **9)** w obszarze właściwości Sądu Okręgowego w Jeleniej Górze:
+    - **a)** Sądowi Rejonowemu w Jeleniej Górze sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Kamiennej Górze oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Bolesławcu, Kamiennej Górze, Lubaniu, Lwówku Śląskim i Zgorzelcu,
+    - **b)** Sądowi Rejonowemu w Lubaniu sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Lwówku Śląskim;
+
+- **10)** w obszarze właściwości Sądu Okręgowego w Kaliszu:
+    - **a)** Sądowi Rejonowemu w Kaliszu sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Jarocinie i Pleszewie oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Jarocinie, Kępnie, Krotoszynie, Ostrowie Wielkopolskim i Pleszewie,
+    - **b)** Sądowi Rejonowemu w Ostrowie Wielkopolskim sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Krotoszynie;
+
+- **11)** w obszarze właściwości Sądu Okręgowego w Katowicach:
+    - **a)** Sądowi Rejonowemu w Chorzowie sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości Sądu Rejonowego w Bytomiu,
+    - **b)** Sądowi Rejonowemu Katowice-Zachód w Katowicach sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych Katowice-Wschód w Katowicach i w Siemianowicach Śląskich oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: Katowice-Wschód w Katowicach, w Mysłowicach i w Siemianowicach Śląskich,
+    - **c)** Sądowi Rejonowemu w Sosnowcu sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Będzinie, Dąbrowie Górniczej i Jaworznie,
+    - **d)** Sądowi Rejonowemu w Tychach sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w Mikołowie i Pszczynie;
+
+- **12)** w obszarze właściwości Sądu Okręgowego w Kielcach:
+    - **a)** Sądowi Rejonowemu w Jędrzejowie sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Busku-Zdroju,
+    - **b)** Sądowi Rejonowemu w Kielcach sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Busku-Zdroju, Jędrzejowie, Końskich, Opatowie, Ostrowcu Świętokrzyskim, Sandomierzu, Skarżysku-Kamiennej, Starachowicach i Staszowie,
+    - **c)** Sądowi Rejonowemu w Sandomierzu sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Opatowie i Staszowie,
+    - **d)** Sądowi Rejonowemu w Skarżysku-Kamiennej sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Końskich;
+
+- **13)** w obszarze właściwości Sądu Okręgowego w Koninie – Sądowi Rejonowemu w Koninie sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Kole, Słupcy i Turku;
+- **14)** w obszarze właściwości Sądu Okręgowego w Koszalinie:
+    - **a)** Sądowi Rejonowemu w Białogardzie sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Drawsku Pomorskim,
+    - **b)** Sądowi Rejonowemu w Koszalinie sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Białogardzie, Drawsku Pomorskim, Kołobrzegu, Szczecinku i Wałczu,
+    - **c)** Sądowi Rejonowemu w Szczecinku sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Wałczu;
+
+- **15)** w obszarze właściwości Sądu Okręgowego w Krakowie:
+    - **a)** Sądowi Rejonowemu w Chrzanowie sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Olkuszu i Oświęcimiu,
+    - **b)** Sądowi Rejonowemu dla Krakowa-Nowej Huty w Krakowie sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych: dla Krakowa-Krowodrzy w Krakowie, dla Krakowa-Podgórza w Krakowie, dla Krakowa-Śródmieścia w Krakowie, w Myślenicach, Suchej Beskidzkiej, Wadowicach i Wieliczce oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: w Chrzanowie, dla Krakowa-Krowodrzy w Krakowie, dla Krakowa-Podgórza w Krakowie, dla Krakowa-Śródmieścia w Krakowie, w Myślenicach, Olkuszu, Oświęcimiu, Suchej Beskidzkiej, Wadowicach i Wieliczce;
+
+- **16)** w obszarze właściwości Sądu Okręgowego w Krośnie:
+    - **a)** Sądowi Rejonowemu w Krośnie sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Jaśle oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Jaśle, Lesku i Sanoku,
+    - **b)** Sądowi Rejonowemu w Sanoku sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Lesku;
+
+- **17)** w obszarze właściwości Sądu Okręgowego w Legnicy – Sądowi Rejonowemu w Legnicy sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Złotoryi oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Głogowie, Lubinie i Złotoryi;
+- **18)** w obszarze właściwości Sądu Okręgowego w Lublinie:
+    - **a)** Sądowi Rejonowemu w Białej Podlaskiej sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Łukowie i Radzyniu Podlaskim,
+    - **b)** Sądowi Rejonowemu Lublin-Zachód w Lublinie sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych: w Kraśniku, Lubartowie i Lublin-Wschód w Lublinie z siedzibą w Świdniku oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: w Białej Podlaskiej, Chełmie, Kraśniku, Lubartowie, Lublin-Wschód w Lublinie z siedzibą w Świdniku, w Łukowie, Opolu Lubelskim, Puławach, Radzyniu Podlaskim i Rykach,
+    - **c)** Sądowi Rejonowemu w Puławach sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Opolu Lubelskim i Rykach;
+
+- **19)** w obszarze właściwości Sądu Okręgowego w Łomży – Sądowi Rejonowemu w Łomży sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Grajewie, Wysokiem Mazowieckiem i Zambrowie;
+- **20)** w obszarze właściwości Sądu Okręgowego w Łodzi:
+    - **a)** Sądowi Rejonowemu w Kutnie sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Łęczycy,
+    - **b)** Sądowi Rejonowemu dla Łodzi-Śródmieścia w Łodzi sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego dla Łodzi-Widzewa w Łodzi oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: w Brzezinach, Kutnie, dla Łodzi-Widzewa w Łodzi, w Łęczycy, Łowiczu, Pabianicach, Rawie Mazowieckiej, Skierniewicach i Zgierzu,
+    - **c)** Sądowi Rejonowemu w Skierniewicach sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w: Brzezinach, Łowiczu i Rawie Mazowieckiej;
+
+- **21)** w obszarze właściwości Sądu Okręgowego w Nowym Sączu:
+    - **a)** Sądowi Rejonowemu w Nowym Sączu sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Limanowej oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Gorlicach, Limanowej, Nowym Targu i Zakopanem,
+    - **b)** Sądowi Rejonowemu w Nowym Targu sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Zakopanem;
+
+- **22)** w obszarze właściwości Sądu Okręgowego w Olsztynie:
+    - **a)** Sądowi Rejonowemu w Olsztynie sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Bartoszycach, Giżycku, Kętrzynie, Mrągowie, Piszu i Szczytnie,
+    - **b)** Sądowi Rejonowemu w Szczytnie sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Piszu;
+
+- **23)** w obszarze właściwości Sądu Okręgowego w Opolu – Sądowi Rejonowemu w Opolu sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Brzegu, Kędzierzynie-Koźlu, Kluczborku, Nysie, Oleśnie, Prudniku i Strzelcach Opolskich;
+- **24)** w obszarze właściwości Sądu Okręgowego w Ostrołęce – Sądowi Rejonowemu w Ostrołęce sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Ostrowi Mazowieckiej, Przasnyszu, Pułtusku i Wyszkowie;
+- **25)** w obszarze właściwości Sądu Okręgowego w Piotrkowie Trybunalskim:
+    - **a)** Sądowi Rejonowemu w Piotrkowie Trybunalskim sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Bełchatowie, Opocznie, Radomsku i Tomaszowie Mazowieckim,
+    - **b)** Sądowi Rejonowemu w Tomaszowie Mazowieckim sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Opocznie;
+
+- **26)** w obszarze właściwości Sądu Okręgowego w Płocku:
+    - **a)** Sądowi Rejonowemu w Ciechanowie sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Mławie i Płońsku,
+    - **b)** Sądowi Rejonowemu w Płocku sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Gostyninie i Sierpcu oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Ciechanowie, Gostyninie, Mławie, Płońsku, Sierpcu, Sochaczewie i Żyrardowie,
+    - **c)** Sądowi Rejonowemu w Żyrardowie sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Sochaczewie;
+
+- **27)** w obszarze właściwości Sądu Okręgowego w Poznaniu:
+    - **a)** Sądowi Rejonowemu w Gnieźnie sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Wągrowcu,
+    - **b)** Sądowi Rejonowemu w Grodzisku Wielkopolskim sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Nowym Tomyślu i Wolsztynie,
+    - **c)** Sądowi Rejonowemu w Lesznie sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Gostyniu, Kościanie i Rawiczu,
+    - **d)** Sądowi Rejonowemu w Pile sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w: Chodzieży, Trzciance i Złotowie,
+    - **e)** Sądowi Rejonowemu Poznań-Grunwald i Jeżyce w Poznaniu sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych Poznań-Nowe Miasto i Wilda w Poznaniu i Poznań-Stare Miasto w Poznaniu oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: w Chodzieży, Gnieźnie, Grodzisku Wielkopolskim, Nowym Tomyślu, Obornikach, Pile, Poznań-Nowe Miasto i Wilda w Poznaniu, Poznań-Stare Miasto w Poznaniu, w Szamotułach, Śremie, Środzie Wielkopolskiej, Trzciance, Wągrowcu, Wolsztynie, we Wrześni i w Złotowie,
+    - **f)** Sądowi Rejonowemu w Szamotułach sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Obornikach,
+    - **g)** Sądowi Rejonowemu w Środzie Wielkopolskiej sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Śremie i we Wrześni;
+
+- **28)** w obszarze właściwości Sądu Okręgowego w Przemyślu:
+    - **a)** Sądowi Rejonowemu w Jarosławiu sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Przeworsku,
+    - **b)** Sądowi Rejonowemu w Przemyślu sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w Jarosławiu i Przeworsku;
+
+- **29)** w obszarze właściwości Sądu Okręgowego w Radomiu – Sądowi Rejonowemu w Radomiu sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Grójcu, Kozienicach, Przysusze i Zwoleniu;
+- **30)** w obszarze właściwości Sądu Okręgowego w Rzeszowie – Sądowi Rejonowemu w Rzeszowie sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Dębicy, Leżajsku i Łańcucie;
+- **31)** w obszarze właściwości Sądu Okręgowego w Siedlcach – Sądowi Rejonowemu w Siedlcach sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Garwolinie, Mińsku Mazowieckim, Sokołowie Podlaskim i Węgrowie;
+- **32)** w obszarze właściwości Sądu Okręgowego w Sieradzu:
+    - **a)** Sądowi Rejonowemu w Sieradzu sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Łasku, Wieluniu i Zduńskiej Woli,
+    - **b)** Sądowi Rejonowemu w Zduńskiej Woli sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Łasku;
+
+- **33)** w obszarze właściwości Sądu Okręgowego w Słupsku:
+    - **a)** Sądowi Rejonowemu w Człuchowie sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Chojnicach,
+    - **b)** Sądowi Rejonowemu w Słupsku sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Lęborku oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Chojnicach, Człuchowie i Lęborku;
+
+- **34)** w obszarze właściwości Sądu Okręgowego w Suwałkach:
+    - **a)** Sądowi Rejonowemu w Ełku sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Olecku,
+    - **b)** Sądowi Rejonowemu w Suwałkach sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Augustowie oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Augustowie, Ełku i Olecku;
+
+- **35)** w obszarze właściwości Sądu Okręgowego w Szczecinie:
+    - **a)** Sądowi Rejonowemu w Choszcznie sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Myśliborzu,
+    - **b)** Sądowi Rejonowemu w Goleniowie sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Gryficach i Świnoujściu,
+    - **c)** Sądowi Rejonowemu Szczecin-Centrum w Szczecinie sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych w Gryfinie i Szczecin-Prawobrzeże i Zachód w Szczecinie oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: w Choszcznie, Goleniowie, Gryficach, Gryfinie, Myśliborzu, Stargardzie Szczecińskim, Szczecin-Prawobrzeże i Zachód w Szczecinie i w Świnoujściu;
+
+- **36)** w obszarze właściwości Sądu Okręgowego w Świdnicy – Sądowi Rejonowemu w Świdnicy sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Dzierżoniowie, Kłodzku, Wałbrzychu i Ząbkowicach Śląskich;
+- **37)** w obszarze właściwości Sądu Okręgowego w Tarnobrzegu:
+    - **a)** Sądowi Rejonowemu w Stalowej Woli sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Nisku,
+    - **b)** Sądowi Rejonowemu w Tarnobrzegu sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Mielcu, Nisku i Stalowej Woli;
+
+- **38)** w obszarze właściwości Sądu Okręgowego w Tarnowie:
+    - **a)** Sądowi Rejonowemu w Bochni sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Brzesku,
+    - **b)** Sądowi Rejonowemu w Tarnowie sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Dąbrowie Tarnowskiej oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Bochni, Brzesku i Dąbrowie Tarnowskiej;
+
+- **39)** w obszarze właściwości Sądu Okręgowego w Toruniu:
+    - **a)** Sądowi Rejonowemu w Grudziądzu sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Chełmnie,
+    - **b)** Sądowi Rejonowemu w Toruniu sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Brodnicy oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Brodnicy, Chełmnie i Grudziądzu;
+
+- **40)** w obszarze właściwości Sądu Okręgowego w Warszawie:
+    - **a)** Sądowi Rejonowemu dla miasta stołecznego Warszawy w Warszawie sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w Piasecznie i dla Warszawy-Mokotowa w Warszawie,
+    - **b)** Sądowi Rejonowemu dla Warszawy-Żoliborza w Warszawie sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: w Grodzisku Mazowieckim, Pruszkowie i dla Warszawy-Woli w Warszawie;
+
+- **41)** w obszarze właściwości Sądu Okręgowego Warszawa-Praga w Warszawie:
+    - **a)** Sądowi Rejonowemu dla Warszawy Pragi-Południe w Warszawie sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w Otwocku i Wołominie,
+    - **b)** Sądowi Rejonowemu dla Warszawy Pragi-Północ w Warszawie sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w Legionowie i Nowym Dworze Mazowieckim;
+
+- **42)** w obszarze właściwości Sądu Okręgowego we Włocławku – Sądowi Rejonowemu we Włocławku sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w Aleksandrowie Kujawskim i Lipnie;
+- **43)** w obszarze właściwości Sądu Okręgowego we Wrocławiu – Sądowi Rejonowemu dla Wrocławia-Śródmieścia we Wrocławiu sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: w Oleśnicy, Oławie, Środzie Śląskiej, Trzebnicy, dla Wrocławia-Fabrycznej we Wrocławiu i dla Wrocławia-Krzyków we Wrocławiu;
+- **44)** w obszarze właściwości Sądu Okręgowego w Zamościu – Sądowi Rejonowemu w Zamościu sprawy z zakresu prawa pracy i ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Biłgoraju, Hrubieszowie, Krasnymstawie i Tomaszowie Lubelskim;
+- **45)** w obszarze właściwości Sądu Okręgowego w Zielonej Górze – Sądowi Rejonowemu w Zielonej Górze sprawy z zakresu prawa pracy z obszaru właściwości Sądu Rejonowego w Krośnie Odrzańskim oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych w: Krośnie Odrzańskim, Nowej Soli, Świebodzinie, Żaganiu i Żarach.
+
+**§ 2.** Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 29 listopada 2012 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych (Dz. U. z 2014 r. poz. 1177).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. Minister Sprawiedliwości: C. Grabarczyk
 

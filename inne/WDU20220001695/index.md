@@ -31,18 +31,7 @@ source: pdf
 
 - **1)** w art. 14 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „2. Decyzję, o której mowa w ust. 1, Prezes Rady Ministrów wydaje z urzędu lub na wniosek organu lub podmiotu, o którym mowa w art. 8 ust. 2, uwzględniając stan rezerw i wnioski innych organów lub podmiotów, o których mowa w art. 8 ust. 2.”;
 - **2)** w art. 25 ust. 1 otrzymuje brzmienie: „1. Prezes Rady Ministrów dokonuje likwidacji rezerw strategicznych, w drodze decyzji, zgodnie z ustaleniami Programu albo w przypadkach, o których mowa w art. 27 lub art. 27a.”;
-- **3)** po art. 27 dodaje się art. 27a–27c w brzmieniu: „Art. 27a. 1. Prezes Rady Ministrów może zlikwidować, w drodze decyzji, określony asortyment rezerw strategicznych, utworzonych na podstawie art. 14 ze względu na konieczność:
-- **1)** złagodzenia zakłóceń w ciągłości dostaw danego asortymentu rezerw strategicznych służących funkcjonowaniu gospodarki lub zaspokojeniu podstawowych potrzeb obywateli;
-- **2)** udzielenia pomocy i wsparcia podmiotom prawa międzynarodowego publicznego lub ochrony bezpieczeństwa i obronności państwa.
-
-2. Do decyzji, o której mowa w ust. 1, przepisy art. 25 ust. 2, ust. 3 pkt 1–3, ust. 4 i 5 oraz ust. 6 pkt 2 stosuje się odpowiednio.
-
-**Art. 27b.** Agencja, wykonując decyzję wydaną na podstawie art. 27a ust. 1 pkt 2, zawiera umowę z podmiotem prawa międzynarodowego określającą szczegółowe zasady i warunki sprzedaży asortymentu zlikwidowanych rezerw strategicznych na rzecz tego podmiotu.
-
-**Art. 27c.** Prezes Rady Ministrów przedstawia sejmowej Komisji Administracji i Spraw Wewnętrznych oraz senackiej Komisji Gospodarki Narodowej i Innowacyjności informację o likwidacjach asortymentu rezerw strategicznych dokonanych na podstawie art. 27a:
-
-- **1)** za pierwsze półrocze danego roku – w terminie do dnia 31 sierpnia tego roku;
-- **2)** za drugie półrocze danego roku – w terminie do dnia 28 lutego roku następnego.”.
+- **3)** po art. 27 dodaje się art. 27a–27c w brzmieniu: „Art. 27a. 1. Prezes Rady Ministrów może zlikwidować, w drodze decyzji, określony asortyment rezerw strategicznych, utworzonych na podstawie art. 14 ze względu na konieczność: 1) złagodzenia zakłóceń w ciągłości dostaw danego asortymentu rezerw strategicznych służących funkcjonowaniu gospodarki lub zaspokojeniu podstawowych potrzeb obywateli; 2) udzielenia pomocy i wsparcia podmiotom prawa międzynarodowego publicznego lub ochrony bezpieczeństwa i obronności państwa. 2. Do decyzji, o której mowa w ust. 1, przepisy art. 25 ust. 2, ust. 3 pkt 1–3, ust. 4 i 5 oraz ust. 6 pkt 2 stosuje się odpowiednio. Art. 27b. Agencja, wykonując decyzję wydaną na podstawie art. 27a ust. 1 pkt 2, zawiera umowę z podmiotem prawa międzynarodowego określającą szczegółowe zasady i warunki sprzedaży asortymentu zlikwidowanych rezerw strategicznych na rzecz tego podmiotu. Art. 27c. Prezes Rady Ministrów przedstawia sejmowej Komisji Administracji i Spraw Wewnętrznych oraz senackiej Komisji Gospodarki Narodowej i Innowacyjności informację o likwidacjach asortymentu rezerw strategicznych dokonanych na podstawie art. 27a: 1) za pierwsze półrocze danego roku – w terminie do dnia 31 sierpnia tego roku; 2) za drugie półrocze danego roku – w terminie do dnia 28 lutego roku następnego.”.
 
 **Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

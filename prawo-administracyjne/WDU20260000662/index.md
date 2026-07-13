@@ -30,23 +30,10 @@ source: pdf
 poz. 1436);
 2) ustawą z dnia 23 stycznia 2026 r. o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw (Dz. U. poz. 252).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 3–6 ustawy z dnia 12 września 2025 r. o zmianie ustawy o samorządzie gminnym oraz ustawy o funduszu sołeckim (Dz. U. poz. 1436), które stanowią: „Art. 3. Młodzieżowe rady jednostek pomocniczych gmin utworzone przed dniem wejścia w życie niniejszej ustawy stają się młodzieżowymi radami jednostek pomocniczych gmin w rozumieniu art. 5b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 4.**
-
-1. Kadencja młodzieżowych rad jednostek pomocniczych gmin utworzonych przed dniem wejścia w życie niniejszej ustawy kończy się z upływem okresu określonego w przepisach o ich utworzeniu.
-
-2. W przypadku gdy przepisy o utworzeniu młodzieżowych rad jednostek pomocniczych gmin, o których mowa w ust. 1, nie określają ich kadencji, rady te działają do dnia ustalenia ich składu zgodnie z art. 5b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 5.**
-
-1. Rady gmin w gminach, w których przed dniem wejścia w życie niniejszej ustawy utworzono młodzieżowe rady jednostek pomocniczych, dostosują statuty jednostek pomocniczych do wymagań określonych w art. 5b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-2. Organy uchwałodawcze jednostek pomocniczych gmin, w których przed dniem wejścia w życie niniejszej ustawy utworzono młodzieżowe rady jednostek pomocniczych, dostosują statuty tych rad do wymagań określonych w art. 5b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 6.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”;
-
-- **2)** art. 49 ustawy z dnia 23 stycznia 2026 r. o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw (Dz. U. poz. 252), który stanowi: „Art. 49. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 8 marca 1990 r. o samorządzie gminnym
+1) art. 3–6 ustawy z dnia 12 września 2025 r. o zmianie ustawy o samorządzie gminnym oraz ustawy o funduszu sołeckim (Dz. U. poz. 1436), które stanowią: „ Art. 3. Młodzieżowe rady jednostek pomocniczych gmin utworzone przed dniem wejścia w życie niniejszej ustawy stają się młodzieżowymi radami jednostek pomocniczych gmin w rozumieniu art. 5b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Art. 4. 1. Kadencja młodzieżowych rad jednostek pomocniczych gmin utworzonych przed dniem wejścia w życie niniejszej ustawy kończy się z upływem okresu określonego w przepisach o ich utworzeniu. 2. W przypadku gdy przepisy o utworzeniu młodzieżowych rad jednostek pomocniczych gmin, o których mowa w ust. 1, nie określają ich kadencji, rady te działają do dnia ustalenia ich składu zgodnie z art. 5b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Art. 5. 1. Rady gmin w gminach, w których przed dniem wejścia w życie niniejszej ustawy utworzono młodzieżowe rady jednostek pomocniczych, dostosują statuty jednostek pomocniczych do wymagań określonych w art. 5b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy. 2. Organy uchwałodawcze jednostek pomocniczych gmin, w których przed dniem wejścia w życie niniejszej ustawy utworzono młodzieżowe rady jednostek pomocniczych, dostosują statuty tych rad do wymagań określonych w art. 5b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Art. 6. Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”;
+2) art. 49 ustawy z dnia 23 stycznia 2026 r. o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw (Dz. U. poz. 252), który stanowi: „ Art. 49. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia.”. Marszałek Sejmu: W. Czarzasty
+USTAWA z dnia 8 marca 1990 r.
+o samorządzie gminnym
 
 #### Rozdział 1 Przepisy ogólne
 

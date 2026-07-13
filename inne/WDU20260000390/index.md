@@ -34,9 +34,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 2) § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 26 lutego 2025 r. zmieniającego rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Szczecinie (Dz. U. poz. 256), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska: P. Hennig-Kloska
 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 10 listopada 2008 r.
 w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Szczecinie Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940 oraz z 2025 r. poz. 1535) zarządza się, co następuje:
-§ 1. Regionalnej Dyrekcji Ochrony Środowiska w Szczecinie nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 15 listopada 2008 r.
-STATUT REGIONALNEJ DYREKCJI OCHRONY ŚRODOWISKA W SZCZECINIE
+
+**§ 1.** Regionalnej Dyrekcji Ochrony Środowiska w Szczecinie nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 15 listopada 2008 r. STATUT REGIONALNEJ DYREKCJI OCHRONY ŚRODOWISKA W SZCZECINIE
+
+## Załącznik
+
 § 1. Regionalna Dyrekcja Ochrony Środowiska w Szczecinie, zwana dalej „RDOŚ”, działa na podstawie ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940 oraz z 2025 r. poz. 1535), zwanej dalej „ustawą”, oraz niniejszego statutu.
 § 2. 1. RDOŚ jest urzędem administracji rządowej, obsługującym Regionalnego Dyrektora Ochrony Środowiska w Szczecinie, zwanego dalej „Regionalnym Dyrektorem”.
 2. RDOŚ jest państwową jednostką budżetową, działającą na obszarze województwa zachodniopomorskiego.

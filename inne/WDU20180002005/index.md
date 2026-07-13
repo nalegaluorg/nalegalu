@@ -27,11 +27,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla Na podstawie art. 400a ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2018 r.
 poz. 799, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 12 marca 2018 r. w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla (Dz. U.
-poz. 585) wprowadza się następujące zmiany:
-1) § 3 otrzymuje brzmienie: „§ 3. Pomoc może być udzielana przedsiębiorstwu górniczemu, którego podstawowym przedmiotem działalności jest prowadzenie likwidacji kopalni, zabezpieczenie kopalń sąsiednich przed zagrożeniem wodnym, gazowym oraz pożarowym, w trakcie i po zakończeniu likwidacji kopalni, o którym mowa w przepisach ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2018 r. poz. 1374).”;
-2) § 9 otrzymuje brzmienie: „§ 9. Rozporządzenie obowiązuje do dnia 31 grudnia 2023 r.”.
-§ 2. Do wniosków o udzielenie pomocy złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Środowiska: H. Kowalczyk
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 12 marca 2018 r. w sprawie szczegółowych warunków udzielania pomocy publicznej na cele z zakresu ochrony środowiska wynikające z zamknięcia jednostek produkcyjnych węgla (Dz. U. poz. 585) wprowadza się następujące zmiany:
+
+- **1)** § 3 otrzymuje brzmienie: „§ 3. Pomoc może być udzielana przedsiębiorstwu górniczemu, którego podstawowym przedmiotem działalności jest prowadzenie likwidacji kopalni, zabezpieczenie kopalń sąsiednich przed zagrożeniem wodnym, gazowym oraz pożarowym, w trakcie i po zakończeniu likwidacji kopalni, o którym mowa w przepisach ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2018 r. poz. 1374).”;
+- **2)** § 9 otrzymuje brzmienie: „§ 9. Rozporządzenie obowiązuje do dnia 31 grudnia 2023 r.”.
+
+**§ 2.** Do wniosków o udzielenie pomocy złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Środowiska: H. Kowalczyk
 

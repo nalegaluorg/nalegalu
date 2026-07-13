@@ -8,12 +8,10 @@ pos: 1924
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# sprawie udzielania pomocy finansowanie ryzyka dla przedsiębiorców rozpoczynających działalność ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 Na podstawie 27 4 ustawy dnia 11 lipca 2014 r. zasadach realizacji programów zakresie polityki spójności finansowanych perspektywie finansowej 2014–2020 (Dz. U. 2016 r. poz. 217 1579) zarządza się, co następuje:
-
-*ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW dnia 25 listopada 2016 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1924 ROZPORZĄDZENIE MINISTRA ROZWOJU I FINANSÓW z dnia 25 listopada 2016 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,64 +25,166 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001924) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1924/text.pdf) |
 
-1) pomocy finansowanie ryzyka, pomocy dla przedsiębiorców rozpoczynających działalność zwanych dalej „pomocą”, których mają zastosowanie przepisy (UE) 651/2014 dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne rynkiem wewnętrznym zastosowaniu 107 108 Traktatu (Dz. Urz. UE L 187 26.06.2014, str. 1, późn. zm. ), zwanego dalej „rozporządzeniem 651/2014”, a także podmioty udzielające tej pomocy.
-2. Przepisów stosuje się pomocy finansowanie ryzyka pomocy dla przedsiębiorców rozpoczynających działalność ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 udzielanej przez Narodowe Centrum Badań Rozwoju.
-§ 2. Ilekroć rozporządzeniu jest mowa o:
-1) inwestycji kapitałowej oznacza to inwestycję kapitałową rozumieniu 2 pkt 74 651/2014;
-inwestycji quasi-kapitałowej oznacza to inwestycję quasi-kapitałową rozumieniu 2 pkt 66 651/2014;
-7) podmiocie zarządzającym oznacza to wewnętrzny organ zarządzający pośrednika finansowego wspólników odpowiedzialnych za prowadzenie spraw pośrednika finansowego, niezależnego zewnętrznego przedsiębiorcę, który formalnie faktycznie zarządza pośrednikiem finansowym;
-8) pośredniku finansowym oznacza to pośrednika finansowego rozumieniu 2 pkt 34 651/2014;
-9) przedsiębiorcy oznacza to przedsiębiorstwo rozumieniu 1 załącznika I § 3. 1. Podmiotem udzielającym pomocy jest fundusz funduszy podmiot wdrażający instrument finansowy, którym mowa 28 2 ustawy dnia 11 lipca 2014 r. zasadach realizacji programów zakresie polityki spójności finansowanych perspektywie finansowej 2014–2020.
-2. W przypadku pomocy, której mowa § 1 1 pkt 1, fundusz funduszy jest podmiotem, któremu powierzono zadanie rozumieniu 2 pkt 79 § 4. 1. może być udzielona przypadkach, których mowa 1 2 lit. c d, 3 lit. c d, 4 lit. c 5
-2. Pomoc, której mowa § 1 1 pkt 2, może być udzielona przypadku, którym mowa 1 3 lit. b
-3. może być udzielona działalność zakresie:
-1) wytwarzania, przetwórstwa wprowadzania obrotu tytoniu wyrobów tytoniowych;
-produkcji wprowadzania obrotu napojów alkoholowych;
-3) produkcji wprowadzania obrotu treści pornograficznych;
-4) obrotu materiałami wybuchowymi, bronią amunicją;
-5) gier losowych, zakładów wzajemnych, gier automatach gier automatach niskich wygranych;
-6) produkcji wprowadzania obrotu środków odurzających, substancji psychotropowych prekursorów.
-§ 5. może zostać udzielona ani wypłacona przedsiębiorcy, którym ciąży obowiązek zwrotu pomocy publicznej wynikający decyzji Europejskiej uznającej taką pomoc za niezgodną prawem oraz rynkiem wewnętrznym.
-§ 6. podlega kumulacji zasadach określonych 8 § 7. Pomoc, której mowa § 1 1:
-1) pkt 1 przypadku, którym mowa 4 1 lit. g 651/2014, pkt 2 przypadku, którym mowa 4 1 lit. h 651/2014 stanowi pomoc indywidualną podlegającą notyfikacji Europejskiej może być udzielona po jej zatwierdzeniu przez Komisję Europejską.
-§ 8. może być udzielona przedsiębiorcom kwalifikowalnym prowadzącym działalność gospodarczą terytorium Rzeczypospolitej Polskiej potwierdzoną wpisem odpowiedniego rejestru.
-3) przedsiębiorca objęty inwestycją kontynuacyjną stał się powiązany, rozumieniu 3 3 załącznika I 651/2014, innym niż pośrednik finansowy inwestor prywatny przedsiębiorcą, chyba że nowy podmiot spełnia warunki umożliwiające zakwalifikowanie go MŚP.
-3. W przypadku inwestycji kapitałowych quasi-kapitałowych kwalifikowalnych przedsiębiorców pomoc finansowanie ryzyka może być przeznaczona refinansowanie, rozumieniu 2 pkt 78 651/2014, pod warunkiem, że refinansowanie jest połączone ze zwiększeniem kapitału spółce kapitałowej pochodzącego ze źródeł zewnętrznych odpowiadającym co najmniej 50% każdej rundy inwestycji przedsiębiorców kwalifikowalnych.
-§ 10. 1. finansowanie ryzyka jest przekazywana przez fundusz funduszy pośrednikom finansowym rzecz inwestorów prywatnych formie kapitału własnego quasi-kapitału własnego, środków finansowych, przeznaczonych zapewnienie inwestycji zakresie finansowania ryzyka bezpośrednio pośrednio kwalifikowalnym przedsiębiorcom.
-2. Na poziomie kwalifikowalnych przedsiębiorców pomoc finansowanie ryzyka może przybrać formę inwestycji kapitałowych quasi-kapitałowych.
-3. W przypadku inwestycji kapitałowych quasi-kapitałowych, cele zarządzania płynnością pośrednik finansowy może wykorzystać więcej niż 30% łącznej wartości wpłat poczet kapitału niewniesionego zadeklarowanego kapitału.
-§ 11. 1. Fundusz funduszy wybiera pośredników finansowych oraz inwestorów prywatnych podmioty zarządzające drodze otwartego, przejrzystego niedyskryminującego zaproszenia składania ofert, przeprowadzonego zgodnie obowiązującymi przepisami prawa Unii Europejskiej prawa polskiego oraz mającego celu ustanowienie odpowiednich mechanizmów podziału zysków ryzyka, a także uwzględnieniem warunków określonych niniejszym rozdziale.
+w sprawie udzielania pomocy na finansowanie ryzyka i dla przedsiębiorców rozpoczynających działalność w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 Na podstawie art. 27 ust. 4 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2016 r. poz. 217 i 1579) zarządza się, co następuje:
+
+#### Rozdział 1 Przepisy ogólne
+
+**§ 1.**
+
+1. Rozporządzenie określa szczegółowe przeznaczenie, warunki i tryb udzielania przedsiębiorcom, w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020, następujących rodzajów pomocy:
+
+- **1)** pomocy na finansowanie ryzyka,
+- **2)** pomocy dla przedsiębiorców rozpoczynających działalność – zwanych dalej „pomocą”, do których mają zastosowanie przepisy rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem Komisji nr 651/2014”, a także podmioty udzielające tej pomocy.
+
+2. Przepisów rozporządzenia nie stosuje się do pomocy na finansowanie ryzyka i pomocy dla przedsiębiorców rozpoczynających działalność w ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020 udzielanej przez Narodowe Centrum Badań i Rozwoju.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** inwestycji kapitałowej – oznacza to inwestycję kapitałową w rozumieniu art. 2 pkt 74 rozporządzenia Komisji nr 651/2014;
+- **2)** inwestycji quasi-kapitałowej – oznacza to inwestycję quasi-kapitałową w rozumieniu art. 2 pkt 66 rozporządzenia Komisji nr 651/2014;
+- **3)** inwestorze prywatnym – oznacza to niezależnego inwestora prywatnego w rozumieniu art. 2 pkt 72 rozporządzenia Komisji nr 651/2014;
+- **4)** MŚP – oznacza to mikroprzedsiębiorstwo, małe lub średnie przedsiębiorstwo spełniające warunki określone w załączniku I do rozporządzenia Komisji nr 651/2014;
+- **5)** nienotowanym MŚP – oznacza to nienotowane MŚP w rozumieniu art. 2 pkt 76 rozporządzenia Komisji nr 651/2014;
+- **6)** pierwszej komercyjnej sprzedaży – oznacza to pierwszą sprzedaż komercyjną w rozumieniu art. 2 pkt 75 rozporządzenia Komisji nr 651/2014;
+- **7)** podmiocie zarządzającym – oznacza to wewnętrzny organ zarządzający pośrednika finansowego lub wspólników odpowiedzialnych za prowadzenie spraw pośrednika finansowego, lub niezależnego zewnętrznego przedsiębiorcę, który formalnie lub faktycznie zarządza pośrednikiem finansowym;
+- **8)** pośredniku finansowym – oznacza to pośrednika finansowego w rozumieniu art. 2 pkt 34 rozporządzenia Komisji nr 651/2014;
+- **9)** przedsiębiorcy – oznacza to przedsiębiorstwo w rozumieniu art. 1 załącznika I do rozporządzenia Komisji nr 651/2014.
+
+**§ 3.**
+
+1. Podmiotem udzielającym pomocy jest fundusz funduszy lub podmiot wdrażający instrument finansowy, o którym mowa w art. 28 ust. 2 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020.
+
+2. W przypadku pomocy, o której mowa w § 1 ust. 1 pkt 1, fundusz funduszy jest podmiotem, któremu powierzono zadanie w rozumieniu art. 2 pkt 79 rozporządzenia Komisji nr 651/2014.
+
+**§ 4.**
+
+1. Pomoc nie może być udzielona w przypadkach, o których mowa w art. 1 ust. 2 lit. c i d, ust. 3 lit. c i d, ust. 4 lit. c i ust. 5 rozporządzenia Komisji nr 651/2014.
+
+2. Pomoc, o której mowa w § 1 ust. 1 pkt 2, nie może być udzielona w przypadku, o którym mowa w art. 1 ust. 3 lit. b rozporządzenia Komisji nr 651/2014.
+
+3. Pomoc nie może być udzielona na działalność w zakresie:
+
+- **1)** wytwarzania, przetwórstwa lub wprowadzania do obrotu tytoniu i wyrobów tytoniowych;
+- **2)** produkcji lub wprowadzania do obrotu napojów alkoholowych;
+- **3)** produkcji lub wprowadzania do obrotu treści pornograficznych;
+- **4)** obrotu materiałami wybuchowymi, bronią i amunicją;
+- **5)** gier losowych, zakładów wzajemnych, gier na automatach i gier na automatach o niskich wygranych;
+- **6)** produkcji lub wprowadzania do obrotu środków odurzających, substancji psychotropowych lub prekursorów.
+
+**§ 5.** Pomoc nie może zostać udzielona ani wypłacona przedsiębiorcy, na którym ciąży obowiązek zwrotu pomocy publicznej wynikający z decyzji Komisji Europejskiej uznającej taką pomoc za niezgodną z prawem oraz z rynkiem wewnętrznym.
+
+**§ 6.** Pomoc podlega kumulacji na zasadach określonych w art. 8 rozporządzenia Komisji nr 651/2014.
+
+**§ 7.** Pomoc, o której mowa w § 1 ust. 1:
+
+- **1)** pkt 1 – w przypadku, o którym mowa w art. 4 ust. 1 lit. g rozporządzenia Komisji nr 651/2014,
+- **2)** pkt 2 – w przypadku, o którym mowa w art. 4 ust. 1 lit. h rozporządzenia Komisji nr 651/2014 – stanowi pomoc indywidualną podlegającą notyfikacji Komisji Europejskiej i może być udzielona po jej zatwierdzeniu przez Komisję Europejską.
+
+**§ 8.** Pomoc może być udzielona przedsiębiorcom kwalifikowalnym prowadzącym działalność gospodarczą na terytorium Rzeczypospolitej Polskiej potwierdzoną wpisem do odpowiedniego rejestru.
+
+#### Rozdział 2 Pomoc na finansowanie ryzyka
+
+**§ 9.**
+
+1. Za przedsiębiorców kwalifikowalnych w ramach pomocy dla MŚP na finansowanie ryzyka uznaje się przedsiębiorców, którzy w momencie rozpoczęcia początkowej inwestycji w zakresie finansowania ryzyka są nienotowanymi MŚP i spełniają co najmniej jeden z następujących warunków:
+
+- **1)** nie prowadzą działalności gospodarczej na żadnym rynku;
+- **2)** prowadzą działalność gospodarczą na dowolnym rynku krócej niż 7 lat od pierwszej komercyjnej sprzedaży;
+- **3)** w biznesplanie wykazali potrzebę dokonania początkowej inwestycji, która przekracza 50% ich średnich rocznych obrotów w poprzednich 5 latach i która jest niezbędna w celu wejścia na nowy rynek produktowy lub geograficzny.
+
+2. Pomoc na finansowanie ryzyka może też obejmować inwestycje kontynuacyjne, w rozumieniu art. 2 pkt 77 rozporządzenia Komisji nr 651/2014, dokonane w kwalifikowalnych przedsiębiorców, w tym po upływie 7 lat od pierwszej komercyjnej sprzedaży, jeżeli spełnione są łącznie następujące warunki:
+
+- **1)** nie przekroczono łącznej kwoty pomocy na finansowanie ryzyka określonej w § 14;
+- **2)** możliwość inwestycji kontynuacyjnych została przewidziana w początkowym biznesplanie;
+- **3)** przedsiębiorca objęty inwestycją kontynuacyjną nie stał się powiązany, w rozumieniu art. 3 ust. 3 załącznika I do rozporządzenia Komisji nr 651/2014, z innym niż pośrednik finansowy lub inwestor prywatny przedsiębiorcą, chyba że nowy podmiot spełnia warunki umożliwiające zakwalifikowanie go do MŚP.
+
+3. W przypadku inwestycji kapitałowych i quasi-kapitałowych w kwalifikowalnych przedsiębiorców pomoc na finansowanie ryzyka może być przeznaczona na refinansowanie, w rozumieniu art. 2 pkt 78 rozporządzenia Komisji nr 651/2014, pod warunkiem, że refinansowanie jest połączone ze zwiększeniem kapitału w spółce kapitałowej pochodzącego ze źródeł zewnętrznych odpowiadającym co najmniej 50% każdej rundy inwestycji w przedsiębiorców kwalifikowalnych.
+
+**§ 10.**
+
+1. Pomoc na finansowanie ryzyka jest przekazywana przez fundusz funduszy pośrednikom finansowym na rzecz inwestorów prywatnych w formie kapitału własnego lub quasi-kapitału własnego, lub środków finansowych, przeznaczonych na zapewnienie inwestycji w zakresie finansowania ryzyka bezpośrednio lub pośrednio kwalifikowalnym przedsiębiorcom.
+
+2. Na poziomie kwalifikowalnych przedsiębiorców pomoc na finansowanie ryzyka może przybrać formę inwestycji kapitałowych lub quasi-kapitałowych.
+
+3. W przypadku inwestycji kapitałowych i quasi-kapitałowych, na cele zarządzania płynnością pośrednik finansowy może wykorzystać nie więcej niż 30% łącznej wartości wpłat na poczet kapitału i niewniesionego zadeklarowanego kapitału.
+
+**§ 11.**
+
+1. Fundusz funduszy wybiera pośredników finansowych oraz inwestorów prywatnych lub podmioty zarządzające w drodze otwartego, przejrzystego i niedyskryminującego zaproszenia do składania ofert, przeprowadzonego zgodnie z obowiązującymi przepisami prawa Unii Europejskiej i prawa polskiego oraz mającego na celu ustanowienie odpowiednich mechanizmów podziału zysków i ryzyka, a także z uwzględnieniem warunków określonych w niniejszym rozdziale.
+
 2. Fundusz funduszy, dokonując wyboru pośredników finansowych:
-1) wprowadza rozróżnienia ze względu miejsce prowadzenia przez nich działalności gospodarczej rejestracji odpowiednim rejestrze którymkolwiek państwie członkowskim Unii Europejskiej;
-może wymagać spełnienia przez nich określonych kryteriów obiektywnie uzasadnionych charakterem inwestycji.
+
+- **1)** nie wprowadza rozróżnienia ze względu na miejsce prowadzenia przez nich działalności gospodarczej lub rejestracji w odpowiednim rejestrze w którymkolwiek państwie członkowskim Unii Europejskiej;
+- **2)** może wymagać spełnienia przez nich określonych kryteriów obiektywnie uzasadnionych charakterem inwestycji.
+
 3. Pośrednik finansowy spełnia łącznie następujące warunki:
-1) podejmuje decyzje finansowe motywowane zyskiem; warunek ten uznaje się za spełniony, przypadku gdy:
-a) przewiduje procedurę należytej staranności celu zapewnienia racjonalnej ekonomicznie strategii inwestycyjnej służącej wdrożenia pomocy finansowania ryzyka, tym polityki dywersyfikacji ryzyka ukierunkowanej osiągnięcie rentowności efektywnej skali pod względem wielkości zasięgu terytorialnego danego portfela inwestycji,
-b) pomoc finansowanie ryzyka udzielana kwalifikowalnym przedsiębiorcom opiera się racjonalnym biznesplanie zawierającym szczegółowe informacje temat produktu, sprzedaży, kształtowania się rentowności oraz zachowania trwałości finansowej,
-c) dla każdej inwestycji kapitałowej quasi-kapitałowej istnieje jasna realistyczna strategia wyjścia rozumieniu 2 pkt 69 651/2014;
-jest zarządzany zasadach komercyjnych, co oznacza, że pośrednik finansowy podmiot zarządzający spełniają następujące warunki:
-a) są obowiązani mocy prawa umowy działania należytą starannością charakteryzującą profesjonalnego zarządcę dobrej wierze oraz zapewnienia braku konfliktu interesów; zastosowanie mają najlepsze praktyki,
-2. W przypadku asymetrycznego podziału strat między inwestorem publicznym a prywatnym pierwsza strata, która pokrywana jest przez inwestora publicznego, ograniczona jest 25% łącznej wartości inwestycji.
-3. Zastosowanie asymetrycznego podziału zysków strat, który umożliwia inwestorowi prywatnemu prowadzącemu działalność gospodarczą inwestycję warunkach korzystniejszych niż rynkowe, stanowi dla niego pomoc publiczną.
-§ 13. 1. W przypadku pomocy finansowanie ryzyka polegającej zapewnieniu inwestycji kapitałowych quasi-kapitałowych kwalifikowalnym przedsiębiorcom, pomoc taka ma służyć pozyskaniu dodatkowego finansowania od inwestorów prywatnych poziomie pośredników finansowych kwalifikowalnych przedsiębiorców, tak aby osiągnąć łączną stopę udziału prywatnego następujących minimalnych poziomach:
-1) 10% pomocy finansowanie ryzyka przyznanej kwalifikowalnym przedsiębiorcom przed dokonaniem przez nich pierwszej komercyjnej sprzedaży dowolnym rynku;
-40% pomocy finansowanie ryzyka przyznanej kwalifikowalnym przedsiębiorcom, których mowa § 9 1 pkt 2;
-3) 60% pomocy finansowanie ryzyka przyznanej kwalifikowalnym przedsiębiorcom, których mowa § 9 1 pkt 3.
-2. Jeżeli instrument finansowy wdrażany przez pośrednika finansowego, skierowany kwalifikowalnych przedsiębiorców różnych etapach rozwoju, których mowa 1, zakłada udziału prywatnego kapitału poziomie kwalifikowalnych przedsiębiorców, pośrednik finansowy osiąga wysokość udziału prywatnego stanowiącą co najmniej średnią ważoną opartą wielkości poszczególnych inwestycji portfelu bazowym będącą wynikiem zastosowania wobec takich inwestycji minimalnych stóp udziału, których mowa 1.
-§ 14. Łączna kwota pomocy finansowanie ryzyka przekracza 15 000 000 euro kwalifikowalnego przedsiębiorcę ramach dowolnej formy pomocy finansowanie ryzyka.
-§ 16. 1. dla przedsiębiorców kwalifikowalnych jest udzielana formie inwestycji kapitałowych quasi-kapitałowych, wartości ekwiwalentu dotacji brutto do:
-1) 600 000 euro dla przedsiębiorców kwalifikowalnych mających siedzibę albo miejsce zamieszkania obszarach objętych pomocą, które spełniają warunki określone 107 3 lit. c Traktatu funkcjonowaniu Unii Europejskiej;
-800 000 euro dla przedsiębiorców kwalifikowalnych mających siedzibę albo miejsce zamieszkania obszarach objętych pomocą, które spełniają warunki określone 107 3 lit. a Traktatu funkcjonowaniu Unii Europejskiej.
-2. W przypadku kwalifikowalnych przedsiębiorców, którzy są przedsiębiorcami innowacyjnymi, rozumieniu 2 pkt 80 651/2014, określone 1 kwoty maksymalne mogą zostać podwojone.
-Minister Rozwoju Finansów: wz. J. Kwieciński
 
-#### Rozdział 1 Przepisy ogólne § 1. 1. Rozporządzenie określa szczegółowe przeznaczenie, warunki tryb udzielania przedsiębiorcom, ramach Programu Operacyjnego Inteligentny Rozwój 2014–2020, następujących rodzajów pomocy:
+- **1)** podejmuje decyzje finansowe motywowane zyskiem; warunek ten uznaje się za spełniony, w przypadku gdy:
+    - **a)** przewiduje procedurę należytej staranności w celu zapewnienia racjonalnej ekonomicznie strategii inwestycyjnej służącej do wdrożenia pomocy finansowania ryzyka, w tym polityki dywersyfikacji ryzyka ukierunkowanej na osiągnięcie rentowności i efektywnej skali pod względem wielkości i zasięgu terytorialnego danego portfela inwestycji,
+    - **b)** pomoc na finansowanie ryzyka udzielana kwalifikowalnym przedsiębiorcom opiera się na racjonalnym biznesplanie zawierającym szczegółowe informacje na temat produktu, sprzedaży, kształtowania się rentowności oraz zachowania trwałości finansowej,
+    - **c)** dla każdej inwestycji kapitałowej i quasi-kapitałowej istnieje jasna i realistyczna strategia wyjścia w rozumieniu art. 2 pkt 69 rozporządzenia Komisji nr 651/2014;
 
-#### Rozdział 2 możliwość inwestycji kontynuacyjnych została przewidziana początkowym biznesplanie;
+- **2)** jest zarządzany na zasadach komercyjnych, co oznacza, że pośrednik finansowy lub podmiot zarządzający spełniają następujące warunki:
+    - **a)** są obowiązani z mocy prawa lub umowy do działania z należytą starannością charakteryzującą profesjonalnego zarządcę i w dobrej wierze oraz do zapewnienia braku konfliktu interesów; zastosowanie mają najlepsze praktyki, a do podmiotów zarządzających także nadzór regulacyjny,
+    - **b)** ich wynagrodzenie jest zgodne z praktykami rynkowymi; warunek ten uznaje się za spełniony, jeżeli podmiot zarządzający lub pośrednik finansowy jest wybierany w drodze otwartego, przejrzystego i niedyskryminującego zaproszenia do składania ofert, opartego na obiektywnych kryteriach związanych z doświadczeniem, wiedzą fachową oraz potencjałem operacyjnym i finansowym,
+    - **c)** otrzymują wynagrodzenie powiązane z uzyskanymi wynikami lub przejmują część ryzyka związanego z inwestycją podwyższonego ryzyka przez współinwestowanie środków własnych, tak aby zapewnić, że interesy podmiotu zarządzającego są trwale powiązane z interesami inwestora publicznego,
+    - **d)** określą strategię inwestycyjną, kryteria i proponowane ramy czasowe inwestycji,
+    - **e)** inwestorzy mają prawo do bycia reprezentowanymi w organach zarządzających pośrednikiem finansowym.
 
-#### Rozdział 3 dla przedsiębiorców rozpoczynających działalność § 15. Za przedsiębiorców kwalifikowalnych ramach pomocy dla przedsiębiorców rozpoczynających działalność uznaje się nienotowane MŚP, wyłączeniem średnich przedsiębiorców, okresie 5 lat od dnia ich rejestracji odpowiednim rejestrze, które dokonały podziału zysków zostały utworzone wyniku połączenia.
+**§ 12.**
 
-#### Rozdział 4 Tryb udzielania pomocy § 17. dla MŚP finansowanie ryzyka jest udzielana przez co najmniej jednego pośrednika finansowego.
+1. W przypadku ustanawiania mechanizmów podziału zysków i strat między inwestorem publicznym i inwestorem prywatnym w procedurze wyboru pośredników finansowych preferowany jest asymetryczny podział zysku.
 
-#### Rozdział 5 Przepisy końcowe § 20. jest udzielana końca okresu dostosowawczego, którym mowa 58 4 zdanie pierwsze, związku 59 § 21. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
+2. W przypadku asymetrycznego podziału strat między inwestorem publicznym a prywatnym pierwsza strata, która pokrywana jest przez inwestora publicznego, ograniczona jest do 25% łącznej wartości inwestycji.
+
+3. Zastosowanie asymetrycznego podziału zysków i strat, który umożliwia inwestorowi prywatnemu prowadzącemu działalność gospodarczą inwestycję na warunkach korzystniejszych niż rynkowe, stanowi dla niego pomoc publiczną.
+
+**§ 13.**
+
+1. W przypadku pomocy na finansowanie ryzyka polegającej na zapewnieniu inwestycji kapitałowych lub quasi-kapitałowych kwalifikowalnym przedsiębiorcom, pomoc taka ma służyć pozyskaniu dodatkowego finansowania od inwestorów prywatnych na poziomie pośredników finansowych lub kwalifikowalnych przedsiębiorców, tak aby osiągnąć łączną stopę udziału prywatnego na następujących minimalnych poziomach:
+
+- **1)** 10% pomocy na finansowanie ryzyka przyznanej kwalifikowalnym przedsiębiorcom przed dokonaniem przez nich pierwszej komercyjnej sprzedaży na dowolnym rynku;
+- **2)** 40% pomocy na finansowanie ryzyka przyznanej kwalifikowalnym przedsiębiorcom, o których mowa w § 9 ust. 1 pkt 2;
+- **3)** 60% pomocy na finansowanie ryzyka przyznanej kwalifikowalnym przedsiębiorcom, o których mowa w § 9 ust. 1 pkt 3.
+
+2. Jeżeli instrument finansowy wdrażany przez pośrednika finansowego, skierowany do kwalifikowalnych przedsiębiorców na różnych etapach rozwoju, o których mowa w ust. 1, nie zakłada udziału prywatnego kapitału na poziomie kwalifikowalnych przedsiębiorców, pośrednik finansowy osiąga wysokość udziału prywatnego stanowiącą co najmniej średnią ważoną opartą na wielkości poszczególnych inwestycji w portfelu bazowym i będącą wynikiem zastosowania wobec takich inwestycji minimalnych stóp udziału, o których mowa w ust. 1.
+
+**§ 14.** Łączna kwota pomocy na finansowanie ryzyka nie przekracza 15 000 000 euro na kwalifikowalnego przedsiębiorcę w ramach dowolnej formy pomocy na finansowanie ryzyka.
+
+#### Rozdział 3 Pomoc dla przedsiębiorców rozpoczynających działalność
+
+**§ 15.** Za przedsiębiorców kwalifikowalnych w ramach pomocy dla przedsiębiorców rozpoczynających działalność uznaje się nienotowane MŚP, z wyłączeniem średnich przedsiębiorców, w okresie do 5 lat od dnia ich rejestracji w odpowiednim rejestrze, które nie dokonały podziału zysków i nie zostały utworzone w wyniku połączenia.
+
+**§ 16.**
+
+1. Pomoc dla przedsiębiorców kwalifikowalnych jest udzielana w formie inwestycji kapitałowych lub quasi-kapitałowych, o wartości ekwiwalentu dotacji brutto do:
+
+- **1)** 600 000 euro dla przedsiębiorców kwalifikowalnych mających siedzibę albo miejsce zamieszkania na obszarach objętych pomocą, które spełniają warunki określone w art. 107 ust. 3 lit. c Traktatu o funkcjonowaniu Unii Europejskiej;
+- **2)** 800 000 euro dla przedsiębiorców kwalifikowalnych mających siedzibę albo miejsce zamieszkania na obszarach objętych pomocą, które spełniają warunki określone w art. 107 ust. 3 lit. a Traktatu o funkcjonowaniu Unii Europejskiej.
+
+2. W przypadku kwalifikowalnych przedsiębiorców, którzy są przedsiębiorcami innowacyjnymi, w rozumieniu art. 2 pkt 80 rozporządzenia Komisji nr 651/2014, określone w ust. 1 kwoty maksymalne mogą zostać podwojone.
+
+#### Rozdział 4 Tryb udzielania pomocy
+
+**§ 17.** Pomoc dla MŚP na finansowanie ryzyka jest udzielana przez co najmniej jednego pośrednika finansowego.
+
+**§ 18.**
+
+1. Pomoc dla przedsiębiorców rozpoczynających działalność udzielana jest w otwartym naborze.
+
+2. Przedsiębiorca kwalifikowalny zgłasza przedsięwzięcie, wskazując:
+
+- **1)** nazwę przedsiębiorcy i informację o jego wielkości, określonej zgodnie z załącznikiem I do rozporządzenia Komisji nr 651/2014, oraz o spełnieniu kryteriów przedsiębiorstwa kwalifikowalnego;
+- **2)** opis przedsięwzięcia lub biznesplan;
+- **3)** lokalizację przedsięwzięcia;
+- **4)** kwotę pomocy potrzebną do realizacji przedsięwzięcia;
+- **5)** inne informacje, wskazane przez podmiot udzielający pomocy.
+
+**§ 19.** Przed udzieleniem pomocy przedsiębiorca kwalifikowalny dostarcza podmiotowi udzielającemu pomocy dokumenty przygotowane zgodnie z przepisami wydanymi na podstawie art. 37 ust. 6 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2016 r. poz. 1808).
+
+#### Rozdział 5 Przepisy końcowe
+
+**§ 20.** Pomoc jest udzielana do końca okresu dostosowawczego, o którym mowa w art. 58 ust. 4 zdanie pierwsze, w związku z art. 59 rozporządzenia nr 651/2014.
+
+**§ 21.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rozwoju i Finansów: wz. J. Kwieciński
 

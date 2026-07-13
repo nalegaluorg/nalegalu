@@ -8,10 +8,10 @@ pos: 1197
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 21 czerwca 2018 ROZPORZĄDZENIE MINISTRA ZDROWIA dnia 14 czerwca 2018 sprawie Krajowego Rejestru Nowotworów Na podstawie art. 20 ustawy dnia 28 kwietnia 2011 systemie informacji ochronie zdrowia 2017 1845 oraz 2018 697) zarządza się, co następuje: § 1. Rozporządzenie określa:
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1197 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 14 czerwca 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,70 +25,96 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001197) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1197/text.pdf) |
 
-1) podmiot prowadzący Krajowy Rejestr Nowotworów, zwany dalej „rejestrem”, oraz sposób jego prowadzenia;
-2) usługodawców obowiązanych do przekazywania danych do rejestru;
-3) sposób i termin przekazywania danych przez usługodawców do rejestru;
-4) zakres i rodzaj danych przetwarzanych rejestrze spośród danych określonych art. 4 3 ustawy dnia 28 kwietnia 2011 systemie informacji ochronie zdrowia, zwanej dalej „ustawą”;
-5) rodzaje identyfikatorów przetwarzanych rejestrze spośród identyfikatorów określonych art. 17c 2–5 ustawy.
-§ 2. 1. Podmiotem prowadzącym rejestr utworzony rozporządzeniem Ministra Zdrowia dnia 20 grudnia 2012 sprawie utworzenia Krajowego Rejestru Nowotworów 1497) jest Centrum Onkologii Instytut im. Marii Skłodowskiej-Curie Warszawie.
-2. Rejestr jest prowadzony za pośrednictwem wojewódzkich biur rejestracji nowotworów, uprawnionych do gromadzenia i przetwarzania danych, przekazywanych przez podmioty określone art. 19 8 ustawy, rozpoznaniach i podejrzeniach występowania nowotworów złośliwych na terenie województwa, realizują swoje zadania, będących wyznaczonymi do tych zadań komórkami organizacyjnymi zakładów leczniczych podmiotach leczniczych wyspecjalizowanych zakresie onkologii, którymi są województwie:
-1) dolnośląskim Dolnośląskie Centrum Onkologii we Wrocławiu;
-2) kujawsko-pomorskim Centrum Onkologii im. prof. Franciszka Łukaszczyka Bydgoszczy;
-3) lubelskim Centrum Onkologii Ziemi Lubelskiej im. św. Jana Dukli Lublinie;
-4) lubuskim Wielospecjalistyczny Szpital Wojewódzki Gorzowie Wielkopolskim Sp. o.o.;
-5) łódzkim Wojewódzkie Wielospecjalistyczne Centrum Onkologii i Traumatologii im. M. Kopernika Łodzi;
-6) małopolskim Centrum Onkologii Instytut im. Marii Skłodowskiej-Curie Oddział Krakowie;
-7) mazowieckim Centrum Onkologii Instytut im. Marii Skłodowskiej-Curie Warszawie;
-8) opolskim Samodzielny Publiczny Zakład Opieki Zdrowotnej Opolskie Centrum Onkologii im. prof. Tadeusza Koszarowskiego Opolu;
-10) podlaskim Białostockie Centrum Onkologii im. M. Skłodowskiej-Curie Białymstoku;
-11) pomorskim Copernicus Podmiot Leczniczy Sp. o.o. Gdańsku;
-12) śląskim Centrum Onkologii Instytut im. Marii Skłodowskiej-Curie Oddział Gliwicach;
-13) świętokrzyskim Świętokrzyskie Centrum Onkologii Samodzielny Publiczny Zakład Opieki Zdrowotnej Kielcach;
-14) warmińsko-mazurskim Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji Warmińsko-Mazurskim Centrum Onkologii Olsztynie;
-15) wielkopolskim Wielkopolskie Centrum Onkologii im. Marii Skłodowskiej-Curie Poznaniu;
-16) zachodniopomorskim Zachodniopomorskie Centrum Onkologii Szczecinie.
-3. Rejestr jest prowadzony wykorzystaniem systemu teleinformatycznego.
-§ 3. Do przekazywania danych do rejestru są obowiązani usługodawcy udzielający ambulatoryjnych, stacjonarnych i całodobowych świadczeń zdrowotnych, związku rozpoznaniem i podejrzeniem nowotworu złośliwego.
-§ 4. 1. Dane pozyskiwane:
-1) przy pierwszym rozpoznaniu lub podejrzeniu nowotworu,
-2) przy wizytach kontrolnych, podczas których zostały stwierdzone istotne zmiany mające związek diagnozą lub leczeniem, lub postępem choroby,
-3) na podstawie aktu zgonu są przekazywane do rejestru postaci papierowej lub elektronicznej.
-2. Dane do rejestru postaci elektronicznej są przekazywane niezwłocznie po ich uzyskaniu.
-3. Dane do rejestru postaci papierowej są przekazywane raz miesiącu do 15. dnia miesiąca następującego po wystąpieniu zdarzenia, 1, do wojewódzkich biur rejestracji nowotworów.
-§ 5. W rejestrze przetwarza się i identyfikatory obejmujące:
-1) osobowe dotyczące usługobiorcy:
-a) imię (imiona),
-b) nazwisko,
-c) numer PESEL, a przypadku osób, które nie mają nadanego numeru PESEL numer paszportu albo innego dokumentu stwierdzającego tożsamość,
-d) płeć,
-e) obywatelstwo,
-f) datę urodzenia,
-g) adres miejsca zamieszkania, obejmujący wskazanie województwa, powiatu, gminy, miejscowości oraz ulicy,
-h) wykształcenie,
-i) datę zgonu;
-2) jednostkowe medyczne dotyczące usługobiorcy:
-a) datę rozpoznania nowotworu,
-b) datę przyjęcia i wypisu podmiotu leczniczego (ambulatorium, szpital),
-c) miejsce zgonu (szpital, dom, inne),
-d) przyczynę zgonu (nowotwór, inne) oraz kod przyczyny zgonu ICD-10 (wyjściowa, wtórna, bezpośrednia),
-e) rozpoznanie kliniczne ICD-10 oraz opis i lokalizację nowotworu,
-h) datę wyniku histopatologicznego,
-i) kod histopatologiczny,
-j) rodzaj nowotworu (pojedynczy, mnogi, przerzut),
-k) miejsce przerzutu,
-l) datę rozpoznania przerzutu,
-m) informację stronie ciała (prawa, lewa, obie strony),
-n) kod zaawansowania TNM (7 rewizja),
-o) informacje innych klasyfikacjach zaawansowania (w szczególności FIGO, Clark/Breslow, Astler-Coller, Ann Arbor, Gleason),
-p) informacje stopniu (stopień 0, I, IA, IB, IC, II, IIA, IIB, IIC, III, IIIA, IIIB, IIIC, IV, IVA, IVB, IVC) i stadium zaawansowania nowotworu (in situ, miejscowe, regionalne, uogólnione),
-q) informacje innych podstawach rozpoznania (cytologia, markery nowotworowe, endoskopia, radiologia, inne badania obrazowe, operacja wywiadowcza, badanie kliniczne, sekcja, akt zgonu, skryning, tura skryningu),
-r) informacje rodzaju leczenia (radykalne, paliatywne, objawowe, skierowany na leczenie) bądź braku zgody na leczenie,
-s) informacje leczeniu skojarzonym, tym dacie jego rozpoczęcia (radioterapia plus chemioterapia, chirurgia plus chemioterapia, radioterapia plus chemioterapia plus chirurgia, radioterapia plus chirurgia, chirurgia plus chemioterapia plus radioterapia plus hormonoterapia) i nieskojarzonym, tym dacie jego rozpoczęcia (chirurgia, radioterapia, chemioterapia, hormonoterapia, immunoterapia, terapia celowana, przeszczep, inne),
-t) przypadku raka piersi (C50, D05) informacje mastektomii lub leczeniu oszczędzającym;
-3) identyfikator usługodawcy, art. 17c 3 pkt ustawy;
-4) identyfikator miejsca udzielania świadczenia opieki zdrowotnej, art. 17c 4 pkt ustawy;
-5) identyfikator pracownika medycznego wprowadzającego do rejestru, art. 17c 5 ustawy.
-§ 6. Dane przekazane do Centrum Onkologii Instytutu im. Marii Skłodowskiej-Curie Warszawie okresie od dnia stycznia 2018 do dnia wejścia życie niniejszego rozporządzenia zgodnie wymaganiami określonymi rozporządzeniu Ministra Zdrowia dnia 24 sierpnia 2016 sprawie Krajowego Rejestru Nowotworów 1362) uważa się za przekazane sposób zgodny wymaganiami niniejszego rozporządzenia.
-§ 7. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. J. Szczurek-Żelazko
+w sprawie Krajowego Rejestru Nowotworów Na podstawie art. 20 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U.
+z 2017 r. poz. 1845 oraz z 2018 r. poz. 697) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** podmiot prowadzący Krajowy Rejestr Nowotworów, zwany dalej „rejestrem”, oraz sposób jego prowadzenia;
+- **2)** usługodawców obowiązanych do przekazywania danych do rejestru;
+- **3)** sposób i termin przekazywania danych przez usługodawców do rejestru;
+- **4)** zakres i rodzaj danych przetwarzanych w rejestrze spośród danych określonych w art. 4 ust. 3 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, zwanej dalej „ustawą”;
+- **5)** rodzaje identyfikatorów przetwarzanych w rejestrze spośród identyfikatorów określonych w art. 17c ust. 2–5 ustawy.
+
+**§ 2.**
+
+1. Podmiotem prowadzącym rejestr utworzony rozporządzeniem Ministra Zdrowia z dnia 20 grudnia 2012 r. w sprawie utworzenia Krajowego Rejestru Nowotworów (Dz. U. poz. 1497) jest Centrum Onkologii – Instytut im. Marii Skłodowskiej-Curie w Warszawie.
+
+2. Rejestr jest prowadzony za pośrednictwem wojewódzkich biur rejestracji nowotworów, uprawnionych do gromadzenia i przetwarzania danych, przekazywanych przez podmioty określone w art. 19 ust. 8 ustawy, o rozpoznaniach i podejrzeniach występowania nowotworów złośliwych na terenie województwa, w którym realizują swoje zadania, będących wyznaczonymi do tych zadań komórkami organizacyjnymi zakładów leczniczych w podmiotach leczniczych wyspecjalizowanych w zakresie onkologii, którymi są w województwie:
+
+- **1)** dolnośląskim – Dolnośląskie Centrum Onkologii we Wrocławiu;
+- **2)** kujawsko-pomorskim – Centrum Onkologii im. prof. Franciszka Łukaszczyka w Bydgoszczy;
+- **3)** lubelskim – Centrum Onkologii Ziemi Lubelskiej im. św. Jana z Dukli w Lublinie;
+- **4)** lubuskim – Wielospecjalistyczny Szpital Wojewódzki w Gorzowie Wielkopolskim Sp. z o.o.;
+- **5)** łódzkim – Wojewódzkie Wielospecjalistyczne Centrum Onkologii i Traumatologii im. M. Kopernika w Łodzi;
+- **6)** małopolskim – Centrum Onkologii – Instytut im. Marii Skłodowskiej-Curie Oddział w Krakowie;
+- **7)** mazowieckim – Centrum Onkologii – Instytut im. Marii Skłodowskiej-Curie w Warszawie;
+- **8)** opolskim – Samodzielny Publiczny Zakład Opieki Zdrowotnej Opolskie Centrum Onkologii im. prof. Tadeusza Koszarowskiego w Opolu;
+- **9)** podkarpackim – Kliniczny Szpital Wojewódzki Nr 1 im. Fryderyka Chopina w Rzeszowie Podkarpackie Centrum Onkologii;
+- **10)** podlaskim – Białostockie Centrum Onkologii im. M. Skłodowskiej-Curie w Białymstoku;
+- **11)** pomorskim – Copernicus Podmiot Leczniczy Sp. z o.o. w Gdańsku;
+- **12)** śląskim – Centrum Onkologii – Instytut im. Marii Skłodowskiej-Curie Oddział w Gliwicach;
+- **13)** świętokrzyskim – Świętokrzyskie Centrum Onkologii Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kielcach;
+- **14)** warmińsko-mazurskim – Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji z Warmińsko-Mazurskim Centrum Onkologii w Olsztynie;
+- **15)** wielkopolskim – Wielkopolskie Centrum Onkologii im. Marii Skłodowskiej-Curie w Poznaniu;
+- **16)** zachodniopomorskim – Zachodniopomorskie Centrum Onkologii w Szczecinie.
+
+3. Rejestr jest prowadzony z wykorzystaniem systemu teleinformatycznego.
+
+**§ 3.** Do przekazywania danych do rejestru są obowiązani usługodawcy udzielający ambulatoryjnych, stacjonarnych i całodobowych świadczeń zdrowotnych, w związku z rozpoznaniem i podejrzeniem nowotworu złośliwego.
+
+**§ 4.**
+
+1. Dane pozyskiwane:
+
+- **1)** przy pierwszym rozpoznaniu lub podejrzeniu nowotworu,
+- **2)** przy wizytach kontrolnych, podczas których zostały stwierdzone istotne zmiany mające związek z diagnozą lub leczeniem, lub postępem choroby,
+- **3)** na podstawie aktu zgonu – są przekazywane do rejestru w postaci papierowej lub elektronicznej.
+
+2. Dane do rejestru w postaci elektronicznej są przekazywane niezwłocznie po ich uzyskaniu.
+
+3. Dane do rejestru w postaci papierowej są przekazywane raz w miesiącu do 15. dnia miesiąca następującego po wystąpieniu zdarzenia, o którym mowa w ust. 1, do wojewódzkich biur rejestracji nowotworów.
+
+**§ 5.** W rejestrze przetwarza się dane i identyfikatory obejmujące:
+
+- **1)** dane osobowe dotyczące usługobiorcy:
+    - **a)** imię (imiona),
+    - **b)** nazwisko,
+    - **c)** numer PESEL, a w przypadku osób, które nie mają nadanego numeru PESEL – numer paszportu albo innego dokumentu stwierdzającego tożsamość,
+    - **d)** płeć,
+    - **e)** obywatelstwo,
+    - **f)** datę urodzenia,
+    - **g)** adres miejsca zamieszkania, obejmujący wskazanie województwa, powiatu, gminy, miejscowości oraz ulicy,
+    - **h)** wykształcenie,
+    - **i)** datę zgonu;
+
+- **2)** jednostkowe dane medyczne dotyczące usługobiorcy:
+    - **a)** datę rozpoznania nowotworu,
+    - **b)** datę przyjęcia i wypisu z podmiotu leczniczego (ambulatorium, szpital),
+    - **c)** miejsce zgonu (szpital, dom, inne),
+    - **d)** przyczynę zgonu (nowotwór, inne) oraz kod przyczyny zgonu ICD-10 (wyjściowa, wtórna, bezpośrednia),
+    - **e)** rozpoznanie kliniczne ICD-10 oraz opis i lokalizację nowotworu,
+    - **f)** rozpoznanie histopatologiczne (nie pobrano materiału do badania; pobrano wycinek – badanie w toku; wynik negatywny – nie potwierdzono nowotworu; wynik pozytywny – potwierdzono nowotwór),
+    - **g)** typ histologiczny – opis,
+    - **h)** datę wyniku histopatologicznego,
+    - **i)** kod histopatologiczny,
+    - **j)** rodzaj nowotworu (pojedynczy, mnogi, przerzut),
+    - **k)** miejsce przerzutu,
+    - **l)** datę rozpoznania przerzutu,
+    - **m)** informację o stronie ciała (prawa, lewa, obie strony),
+    - **n)** kod zaawansowania TNM (7 rewizja),
+    - **o)** informacje o innych klasyfikacjach zaawansowania (w szczególności FIGO, Clark/Breslow, Astler-Coller, Ann Arbor, Gleason),
+    - **p)** informacje o stopniu (stopień 0, I, IA, IB, IC, II, IIA, IIB, IIC, III, IIIA, IIIB, IIIC, IV, IVA, IVB, IVC) i stadium zaawansowania nowotworu (in situ, miejscowe, regionalne, uogólnione),
+    - **q)** informacje o innych podstawach rozpoznania (cytologia, markery nowotworowe, endoskopia, radiologia, inne badania obrazowe, operacja wywiadowcza, badanie kliniczne, sekcja, akt zgonu, skryning, tura skryningu),
+    - **r)** informacje o rodzaju leczenia (radykalne, paliatywne, objawowe, skierowany na leczenie) bądź o braku zgody na leczenie,
+    - **s)** informacje o leczeniu skojarzonym, w tym o dacie jego rozpoczęcia (radioterapia plus chemioterapia, chirurgia plus chemioterapia, radioterapia plus chemioterapia plus chirurgia, radioterapia plus chirurgia, chirurgia plus chemioterapia plus radioterapia plus hormonoterapia) i nieskojarzonym, w tym o dacie jego rozpoczęcia (chirurgia, radioterapia, chemioterapia, hormonoterapia, immunoterapia, terapia celowana, przeszczep, inne),
+    - **t)** w przypadku raka piersi (C50, D05) informacje o mastektomii lub leczeniu oszczędzającym;
+
+- **3)** identyfikator usługodawcy, o którym mowa w art. 17c ust. 3 pkt 1 ustawy;
+- **4)** identyfikator miejsca udzielania świadczenia opieki zdrowotnej, o którym mowa w art. 17c ust. 4 pkt 1 ustawy;
+- **5)** identyfikator pracownika medycznego wprowadzającego dane do rejestru, o którym mowa w art. 17c ust. 5 ustawy.
+
+**§ 6.** Dane przekazane do Centrum Onkologii – Instytutu im. Marii Skłodowskiej-Curie w Warszawie w okresie od dnia 1 stycznia 2018 r. do dnia wejścia w życie niniejszego rozporządzenia zgodnie z wymaganiami określonymi w rozporządzeniu Ministra Zdrowia z dnia 24 sierpnia 2016 r. w sprawie Krajowego Rejestru Nowotworów (Dz. U. poz. 1362) uważa się za przekazane w sposób zgodny z wymaganiami niniejszego rozporządzenia.
+
+**§ 7.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: wz. J. Szczurek-Żelazko
 

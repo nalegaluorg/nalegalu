@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie państwowego systemu odniesień przestrzennych Na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2019 r.
 poz. 725, 730 i 1309) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 15 października 2012 r. w sprawie państwowego systemu odniesień przestrzennych (Dz. U. poz. 1247) w § 24 ust. 1 otrzymuje brzmienie: „1. Układ wysokościowy PL-KRON86-NH stosuje się do czasu wdrożenia układu wysokościowego PL-EVRF2007-NH na obszarze całego kraju, nie dłużej jednak niż do dnia 31 grudnia 2023 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 31 grudnia 2019 r.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 15 października 2012 r. w sprawie państwowego systemu odniesień przestrzennych (Dz. U. poz. 1247) w § 24 ust. 1 otrzymuje brzmienie: „1. Układ wysokościowy PL-KRON86-NH stosuje się do czasu wdrożenia układu wysokościowego PL-EVRF2007-NH na obszarze całego kraju, nie dłużej jednak niż do dnia 31 grudnia 2023 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 31 grudnia 2019 r.
 

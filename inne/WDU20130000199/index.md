@@ -8,10 +8,10 @@ pos: 199
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 lutego ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ dnia 1 lutego sprawie szczegółowych zasad działania publicznych poradni psychologiczno-pedagogicznych, tym publicznych poradni specjalistycznych Na podstawie art. 71 ust. 1 pkt 2 ustawy dnia 7 września 1991 systemie oświaty (Dz. U. 2004 Nr 256, poz. 2572, późn. zm. ) zarządza się, co następuje: § 1. Publiczne poradnie psychologiczno-pedagogiczne, tym publiczne poradnie specjalistyczne, zwane dalej „poradniami”, udzielają dzieciom, od momentu urodzenia, młodzieży pomocy psychologiczno-pedagogicznej oraz pomocy wyborze kierunku kształcenia zawodu, udzielają rodzicom nauczycielom pomocy psychologiczno-pedagogicznej związanej wychowywaniem kształceniem dzieci młodzieży, a także wspomagają przedszkola, szkoły placówki zakresie realizacji zadań dydaktycznych, wychowawczych opiekuńczych.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 199 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ z dnia 1 lutego 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,118 +25,232 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/199/text.pdf) |
 
-§ 2. Do zadań poradni należy:
-1) diagnozowanie dzieci młodzieży;
-2) udzielanie dzieciom młodzieży oraz rodzicom bezpośredniej pomocy psychologiczno-pedagogicznej;
-3) realizowanie zadań profilaktycznych oraz wspierających wychowawczą edukacyjną funkcję przedszkola, szkoły placówki, tym wspieranie nauczycieli rozwiązywaniu problemów dydaktycznych wychowawczych;
-4) organizowanie prowadzenie wspomagania przedszkoli, szkół placówek zakresie realizacji zadań dydaktycznych, wychowawczych opiekuńczych.
-§ 3. 1. Diagnozowanie dzieci młodzieży jest prowadzone szczególności celu określenia indywidualnych potrzeb rozwojowych edukacyjnych oraz indywidualnych możliwości psychofizycznych dzieci młodzieży, wyjaśnienia mechanizmów ich funkcjonowania odniesieniu do zgłaszanego problemu oraz wskazania sposobu rozwiązania tego problemu.
-2. Efektem diagnozowania dzieci młodzieży jest szczególności:
-1) opinii;
-2) orzeczenia potrzebie: kształcenia specjalnego, zajęć rewalidacyjno-wychowawczych, indywidualnego obowiązkowego rocznego przygotowania przedszkolnego lub indywidualnego nauczania dzieci młodzieży;
-4) wspomaganie nauczycieli zakresie pracy dziećmi młodzieżą oraz rodzicami.
-§ 4. 1. Opinie, których mowa § 3 ust. 2 pkt 1, poradnia wydaje sprawach określonych ustawie dnia 7 września 1991 systemie oświaty, zwanej dalej „ustawą”, ustawie dnia 26 czerwca 1974 Kodeks pracy (Dz. U. 1998 Nr 21, poz. 94, późn. zm. ) oraz przepisach wydanych na podstawie tych ustaw. Jeżeli przepisy te nie stanowią inaczej, opinie wydaje się zgodnie przepisami § 5 § 6.
-2. Poradnia może wydawać opinie także innych sprawach, niż określone przepisach, których mowa ust. 1, związanych kształceniem wychowaniem dzieci młodzieży.
-§ 5. 1. Poradnia wydaje opinię na pisemny wniosek rodzica dziecka albo pełnoletniego ucznia, którego dotyczy opinia, terminie nie dłuższym niż 30 dni, a szczególnie uzasadnionych przypadkach terminie nie dłuższym niż 60 dni, od dnia złożenia wniosku. Wniosek powinien zawierać uzasadnienie.
-2. Osoba składająca wniosek, której mowa ust. 1, może dołączyć do wniosku posiadaną dokumentację uzasadniającą wniosek, szczególności wyniki obserwacji badań psychologicznych, pedagogicznych, logopedycznych lekarskich, a przypadku dziecka uczęszczającego do przedszkola, szkoły lub placówki albo pełnoletniego ucznia uczęszczającego do szkoły lub placówki także opinię nauczycieli, wychowawców grup wychowawczych lub specjalistów udzielających pomocy psychologiczno-pedagogicznej przedszkolu, szkole lub placówce.
-3. Jeżeli celu wydania opinii jest niezbędne przeprowadzenie badań lekarskich, na wniosek poradni rodzic dziecka przedstawia zaświadczenie lekarskie stanie zdrowia dziecka, a pełnoletni uczeń zaświadczenie lekarskie swoim stanie zdrowia, zawierające informacje niezbędne do wydania opinii.
-4. Jeżeli ze względu na konieczność przedstawienia zaświadczenia, którym mowa ust. 3, nie jest możliwe przez poradnię opinii terminie określonym ust. 1, opinię wydaje się ciągu 7 dni od dnia przedstawienia zaświadczenia.
-5. W celu uzyskania informacji problemach dydaktycznych wychowawczych dziecka albo pełnoletniego ucznia poradnia może zwrócić się do dyrektora odpowiednio przedszkola, szkoły lub placówki, do której dziecko albo pełnoletni uczeń uczęszcza, opinii nauczycieli, wychowawców grup wychowawczych lub specjalistów, których mowa ust. 2, informując tym osobę składającą wniosek.
-§ 6. 1. Opinia poradni zawiera:
-1) oznaczenie poradni wydającej opinię;
-2) numer opinii;
-3) datę wydania opinii;
-4) podstawę prawną wydania opinii;
-5) imię nazwisko dziecka albo pełnoletniego ucznia, którego dotyczy opinia, jego numer PESEL, a przypadku braku numeru PESEL serię numer dokumentu potwierdzającego jego tożsamość, datę miejsce jego urodzenia oraz miejsce zamieszkania, nazwę adres odpowiednio przedszkola, szkoły lub placówki oraz oznaczenie odpowiednio oddziału przedszkolnego przedszkolu, oddziału szkole lub grupy wychowawczej placówce, do której dziecko albo pełnoletni uczeń uczęszcza;
-6) określenie indywidualnych potrzeb rozwojowych edukacyjnych oraz możliwości psychofizycznych dziecka albo pełnoletniego ucznia oraz opis mechanizmów wyjaśniających funkcjonowanie dziecka albo pełnoletniego ucznia, odniesieniu do problemu zgłaszanego we wniosku opinii;
-8) wskazania dla nauczycieli dotyczące pracy dzieckiem albo pełnoletnim uczniem;
-9) wskazania dla rodziców dotyczące pracy dzieckiem albo wskazania dla pełnoletniego ucznia, które powinien stosować celu rozwiązania zgłaszanego problemu;
-10) imiona nazwiska oraz podpisy specjalistów, którzy sporządzili opinię;
-11) podpis dyrektora poradni.
+w sprawie szczegółowych zasad działania publicznych poradni psychologiczno-pedagogicznych, w tym publicznych poradni specjalistycznych Na podstawie art. 71 ust. 1 pkt 2 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ) zarządza się, co następuje:
+
+**§ 1.** Publiczne poradnie psychologiczno-pedagogiczne, w tym publiczne poradnie specjalistyczne, zwane dalej „poradniami”, udzielają dzieciom, od momentu urodzenia, i młodzieży pomocy psychologiczno-pedagogicznej oraz pomocy w wyborze kierunku kształcenia i zawodu, udzielają rodzicom i nauczycielom pomocy psychologiczno-pedagogicznej związanej z wychowywaniem i kształceniem dzieci i młodzieży, a także wspomagają przedszkola, szkoły i placówki w zakresie realizacji zadań dydaktycznych, wychowawczych i opiekuńczych.
+
+**§ 2.** Do zadań poradni należy:
+
+- **1)** diagnozowanie dzieci i młodzieży;
+- **2)** udzielanie dzieciom i młodzieży oraz rodzicom bezpośredniej pomocy psychologiczno-pedagogicznej;
+- **3)** realizowanie zadań profilaktycznych oraz wspierających wychowawczą i edukacyjną funkcję przedszkola, szkoły i placówki, w tym wspieranie nauczycieli w rozwiązywaniu problemów dydaktycznych i wychowawczych;
+- **4)** organizowanie i prowadzenie wspomagania przedszkoli, szkół i placówek w zakresie realizacji zadań dydaktycznych, wychowawczych i opiekuńczych.
+
+**§ 3.**
+
+1. Diagnozowanie dzieci i młodzieży jest prowadzone w szczególności w celu określenia indywidualnych potrzeb rozwojowych i edukacyjnych oraz indywidualnych możliwości psychofizycznych dzieci i młodzieży, wyjaśnienia mechanizmów ich funkcjonowania w odniesieniu do zgłaszanego problemu oraz wskazania sposobu rozwiązania tego problemu.
+
+2. Efektem diagnozowania dzieci i młodzieży jest w szczególności:
+
+- **1)** wydanie opinii;
+- **2)** wydanie orzeczenia o potrzebie: kształcenia specjalnego, zajęć rewalidacyjno-wychowawczych, indywidualnego obowiązkowego rocznego przygotowania przedszkolnego lub indywidualnego nauczania dzieci i młodzieży;
+- **3)** objęcie dzieci i młodzieży albo dzieci i młodzieży oraz rodziców bezpośrednią pomocą psychologiczno-pedagogiczną;
+- **4)** wspomaganie nauczycieli w zakresie pracy z dziećmi i młodzieżą oraz rodzicami.
+
+**§ 4.**
+
+1. Opinie, o których mowa w § 3 ust. 2 pkt 1, poradnia wydaje w sprawach określonych w ustawie z dnia 7 września 1991 r. o systemie oświaty, zwanej dalej „ustawą”, w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm. ) oraz w przepisach wydanych na podstawie tych ustaw. Jeżeli przepisy te nie stanowią inaczej, opinie wydaje się zgodnie z przepisami § 5 i § 6.
+
+2. Poradnia może wydawać opinie także w innych sprawach, niż określone w przepisach, o których mowa w ust. 1, związanych z kształceniem i wychowaniem dzieci i młodzieży.
+
+**§ 5.**
+
+1. Poradnia wydaje opinię na pisemny wniosek rodzica dziecka albo pełnoletniego ucznia, którego dotyczy opinia, w terminie nie dłuższym niż 30 dni, a w szczególnie uzasadnionych przypadkach w terminie nie dłuższym niż 60 dni, od dnia złożenia wniosku. Wniosek powinien zawierać uzasadnienie.
+
+2. Osoba składająca wniosek, o której mowa w ust. 1, może dołączyć do wniosku posiadaną dokumentację uzasadniającą wniosek, w szczególności wyniki obserwacji i badań psychologicznych, pedagogicznych, logopedycznych i lekarskich, a w przypadku dziecka uczęszczającego do przedszkola, szkoły lub placówki albo pełnoletniego ucznia uczęszczającego do szkoły lub placówki – także opinię nauczycieli, wychowawców grup wychowawczych lub specjalistów udzielających pomocy psychologiczno-pedagogicznej w przedszkolu, szkole lub placówce.
+
+3. Jeżeli w celu wydania opinii jest niezbędne przeprowadzenie badań lekarskich, na wniosek poradni rodzic dziecka przedstawia zaświadczenie lekarskie o stanie zdrowia dziecka, a pełnoletni uczeń – zaświadczenie lekarskie o swoim stanie zdrowia, zawierające informacje niezbędne do wydania opinii.
+
+4. Jeżeli ze względu na konieczność przedstawienia zaświadczenia, o którym mowa w ust. 3, nie jest możliwe wydanie przez poradnię opinii w terminie określonym w ust. 1, opinię wydaje się w ciągu 7 dni od dnia przedstawienia zaświadczenia.
+
+5. W celu uzyskania informacji o problemach dydaktycznych i wychowawczych dziecka albo pełnoletniego ucznia poradnia może zwrócić się do dyrektora odpowiednio przedszkola, szkoły lub placówki, do której dziecko albo pełnoletni uczeń uczęszcza, o wydanie opinii nauczycieli, wychowawców grup wychowawczych lub specjalistów, o których mowa w ust. 2, informując o tym osobę składającą wniosek.
+
+**§ 6.**
+
+1. Opinia poradni zawiera:
+
+- **1)** oznaczenie poradni wydającej opinię;
+- **2)** numer opinii;
+- **3)** datę wydania opinii;
+- **4)** podstawę prawną wydania opinii;
+- **5)** imię i nazwisko dziecka albo pełnoletniego ucznia, którego dotyczy opinia, jego numer PESEL, a w przypadku braku numeru PESEL – serię i numer dokumentu potwierdzającego jego tożsamość, datę i miejsce jego urodzenia oraz miejsce zamieszkania, nazwę i adres odpowiednio przedszkola, szkoły lub placówki oraz oznaczenie odpowiednio oddziału przedszkolnego w przedszkolu, oddziału w szkole lub grupy wychowawczej w placówce, do której dziecko albo pełnoletni uczeń uczęszcza;
+- **6)** określenie indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych dziecka albo pełnoletniego ucznia oraz opis mechanizmów wyjaśniających funkcjonowanie dziecka albo pełnoletniego ucznia, w odniesieniu do problemu zgłaszanego we wniosku o wydanie opinii;
+- **7)** stanowisko w sprawie, której dotyczy opinia, oraz szczegółowe jego uzasadnienie;
+- **8)** wskazania dla nauczycieli dotyczące pracy z dzieckiem albo pełnoletnim uczniem;
+- **9)** wskazania dla rodziców dotyczące pracy z dzieckiem albo wskazania dla pełnoletniego ucznia, które powinien stosować w celu rozwiązania zgłaszanego problemu;
+- **10)** imiona i nazwiska oraz podpisy specjalistów, którzy sporządzili opinię;
+- **11)** podpis dyrektora poradni.
+
 2. W przypadku gdy opinia dotyczy dziecka uczęszczającego do przedszkola, szkoły lub placówki albo pełnoletniego ucznia uczęszczającego do szkoły lub placówki, na pisemny wniosek odpowiednio rodziców albo pełnoletniego ucznia, poradnia przekazuje kopię opinii do przedszkola, szkoły lub placówki, do której dziecko albo pełnoletni uczeń uczęszcza.
-3. Poradnia wydaje, na pisemny wniosek rodzica albo pełnoletniego ucznia, informację wynikach diagnozy przeprowadzonej poradni.
-§ 7. W poradniach są organizowane działają zespoły orzekające, wydające orzeczenia, których mowa § 3 ust. 2 pkt 2, oraz opinie potrzebie wczesnego wspomagania rozwoju dziecka.
-§ 8. 1. Pomoc psychologiczno-pedagogiczna udzielana bezpośrednio dzieciom młodzieży oraz rodzicom polega szczególności na:
-1) prowadzeniu terapii dzieci młodzieży oraz ich rodzin;
-2) udzielaniu wsparcia dzieciom młodzieży wymagającym pomocy psychologiczno-pedagogicznej lub pomocy wyborze kierunku kształcenia zawodu oraz planowaniu kształcenia kariery zawodowej;
-3) udzielaniu pomocy rodzicom rozpoznawaniu rozwijaniu indywidualnych potrzeb rozwojowych edukacyjnych oraz indywidualnych możliwości psychofizycznych dzieci młodzieży oraz rozwiązywaniu problemów edukacyjnych wychowawczych.
-2. Pomoc, której mowa ust. 1, jest udzielana szczególności formie:
-1) indywidualnych lub grupowych zajęć terapeutycznych dla dzieci młodzieży;
-2) terapii rodziny;
-3) grup wsparcia;
-4) prowadzenia mediacji;
-5) interwencji kryzysowej;
-6) warsztatów;
-7) porad konsultacji;
-8) wykładów prelekcji;
-9) działalności informacyjno-szkoleniowej.
-§ 9. 1. Realizowanie przez poradnie zadań, których mowa § 2 pkt 3, polega szczególności na:
-1) udzielaniu nauczycielom, wychowawcom grup wychowawczych lub specjalistom, których mowa § 5 ust. 2, pomocy w:
-a) r ozpoznawaniu indywidualnych potrzeb rozwojowych edukacyjnych oraz możliwości psychofizycznych dzieci no-terapeutycznych oraz indywidualnych programów zajęć rewalidacyjno-wychowawczych;
-3) współpracy, na pisemny wniosek dyrektora przedszkola, szkoły lub placówki lub rodzica dziecka niepełnosprawnego albo pełnoletniego ucznia niepełnosprawnego, określeniu niezbędnych do nauki warunków, sprzętu specjalistycznego środków dydaktycznych, tym wykorzystujących technologie informacyjno-komunikacyjne, odpowiednich ze względu na indywidualne potrzeby rozwojowe edukacyjne oraz możliwości psychofizyczne dziecka niepełnosprawnego albo pełnoletniego ucznia niepełnosprawnego;
-4) udzielaniu nauczycielom, wychowawcom grup wychowawczych lub specjalistom, których mowa § 5 ust. 2, pomocy rozwiązywaniu problemów dydaktycznych wychowawczych;
-5) podejmowaniu działań zakresu profilaktyki uzależnień innych problemów dzieci młodzieży;
-6) prowadzeniu edukacji dotyczącej ochrony zdrowia psychicznego wśród dzieci młodzieży, rodziców nauczycieli;
-7) udzielaniu, we współpracy placówkami doskonalenia nauczycieli bibliotekami pedagogicznymi, wsparcia merytorycznego nauczycielom, wychowawcom grup wychowawczych specjalistom, których mowa § 5 ust. 2.
-2. Zadania, których mowa ust. 1, są realizowane szczególności formie:
-1) porad konsultacji;
-2) udziału spotkaniach odpowiednio nauczycieli, wychowawców grup wychowawczych specjalistów, których mowa § 5 ust. 2;
-3) udziału zebraniach rad pedagogicznych;
-4) warsztatów;
-5) grup wsparcia;
-6) wykładów prelekcji;
-7) prowadzenia mediacji;
-8) interwencji kryzysowej;
-9) działalności informacyjno-szkoleniowej;
-10) organizowania prowadzenia sieci współpracy samokształcenia dla nauczycieli, wychowawców grup wychowawczych specjalistów, których mowa § 5 ust. 2, którzy zorganizowany sposób współpracują ze sobą celu doskonalenia swojej pracy, szczególności poprzez wymianę doświadczeń.
-§ 10. 1. Wspomaganie przedszkoli, szkół placówek, którym mowa § 2 pkt 4, polega na zaplanowaniu przeprowadzeniu działań mających na celu poprawę jakości pracy przedszkola, szkoły lub placówki zakresie:
-1) wynikającym kierunków realizacji przez kuratorów oświaty polityki oświatowej państwa, ustalanych przez ministra właściwego do spraw oświaty wychowania zgodnie art. 35 ust. 2 pkt 1 ustawy, oraz wprowadzanych zmian systemie oświaty;
-2) wymagań stawianych wobec przedszkoli, szkół placówek, których wypełnianie jest badane przez organy sprawujące nadzór pedagogiczny procesie ewaluacji zewnętrznej, zgodnie przepisami wydanymi na podstawie art. 35 ust. 6 ustawy;
-3) r ealizacji podstaw programowych;
-4) rozpoznawania potrzeb dzieci młodzieży oraz indywidualizacji procesu nauczania wychowania;
-1) pomoc diagnozowaniu potrzeb przedszkola, szkoły lub placówki;
-2) ustalenie sposobów działania prowadzących do zaspokojenia potrzeb przedszkola, szkoły lub placówki;
-3) zaplanowanie form wspomagania ich realizację;
-4) wspólną ocenę efektów opracowanie wniosków realizacji zaplanowanych form wspomagania.
-§ 11. Wnioski, których mowa § 5 ust. 1, § 6 ust. 2 3 oraz § 9 ust. 1 pkt 3, składa się postaci papierowej lub elektronicznej.
-§ 12. Poradnie specjalistyczne prowadzą działalność ukierunkowaną na specyficzny, jednorodny charakter problemów, uwzględnieniem potrzeb lokalnej społeczności.
-§ 13. Korzystanie pomocy udzielanej przez poradnie jest dobrowolne nieodpłatne.
-§ 14. 1. Organ prowadzący określa teren działania poradni.
-2. Poradnia udziela pomocy dzieciom młodzieży, rodzicom nauczycielom przedszkoli, szkół lub placówek mających siedzibę na terenie działania poradni.
-3. W przypadku dzieci młodzieży oraz rodziców dzieci nieuczęszczających do przedszkola, szkoły lub placówki pomocy udziela poradnia właściwa ze względu na miejsce zamieszkania dziecka.
-4. Na podstawie porozumienia zawartego między organami prowadzącymi poradnie, poradnia może udzielać pomocy dzieciom młodzieży, rodzicom nauczycielom przedszkoli, szkół placówek niemających siedziby na terenie działania poradni oraz niezamieszkałym na terenie działania poradni dzieciom rodzicom dzieci nieuczęszczających do przedszkola, szkoły lub placówki.
-§ 15. 1. Poradnia realizuje zadania przy pomocy specjalistów: psychologów, pedagogów, logopedów doradców zawodowych.
-2. Zadania poradni, zależności od potrzeb, mogą być realizowane również przy pomocy innych specjalistów, szczególności lekarzy, których udział jest niezbędny do efektywnego udzielania pomocy psychologiczno-pedagogicznej dzieciom młodzieży, rodzicom nauczycielom.
-§ 16. Poradnia realizuje zadania współdziałając także innymi poradniami, placówkami doskonalenia nauczycieli bibliotekami pedagogicznymi oraz organizacjami pozarządowymi innymi podmiotami świadczącymi poradnictwo pomoc dzieciom młodzieży oraz rodzicom nauczycielom.
-§ 17. 1. Pomoc dzieciom młodzieży może być udzielana poradniach także przez wolontariuszy, którzy wspierają realizację zadań zakresu pomocy psychologiczno-pedagogicznej świadczonej przez poradnię.
-2. Wolontariuszem poradni może być osoba pełnoletnia, która nie była skazana za umyślne przestępstwo przeciwko której nie toczy się postępowanie karne, oraz przestrzega zasad, których mowa ust. 3 5.
-3. Dyrektor poradni informuje wolontariusza specyfice pracy poradni konieczności zachowania tajemnicy sprawach dotyczących dzieci młodzieży, rodziców nauczycieli korzystających pomocy poradni.
-4. Dyrektor poradni zawiera wolontariuszem porozumienie określające:
-1) zakres, sposób czas wykonywania przez wolontariusza zadań;
-2) czas trwania porozumienia;
-§ 18. 1. Poradnia może posiadać filie.
-2. Filie tworzy likwiduje oraz określa zakres teren ich działania organ prowadzący.
-§ 19. 1. Poradnia prowadzi:
-1) wykaz alfabetyczny dzieci młodzieży korzystających pomocy poradni, zawierający numer nadany przez poradnię przy zgłoszeniu, imię (imiona) nazwisko dziecka albo pełnoletniego ucznia, jego datę urodzenia, numer PESEL, a przypadku braku numeru PESEL serię numer dokumentu potwierdzającego jego tożsamość oraz adres zamieszkania;
-2) rejestr wydanych opinii rejestr wydanych orzeczeń, zawierający numer określony pkt 1, numer opinii lub orzeczenia oraz datę ich wydania;
-3) dokumentację, której mowa przepisach wydanych na podstawie art. 22 ust. 2 pkt 5 ustawy.
-2. Dokumentację, której mowa ust. 1 pkt 1 2, prowadzi się postaci papierowej lub elektronicznej, zastrzeżeniem § 20 ust. 1.
-§ 20. 1. Dokumentacja, której mowa § 19 ust. 1 pkt 1 2, za zgodą organu prowadzącego poradnię, może być prowadzona wyłącznie postaci elektronicznej.
-2. Prowadzenie dokumentacji, której mowa § 19 ust. 1 pkt 1 2, wyłącznie postaci elektronicznej, zwanej dalej „dokumentacją elektroniczną”, wymaga:
-1) zachowania selektywności dostępu do danych stanowiących dokumentację elektroniczną;
-2) zabezpieczenia danych stanowiących dokumentację elektroniczną przed zniszczeniem, uszkodzeniem lub utratą oraz dostępem osób nieuprawnionych;
-3) rejestrowania historii zmian ich autorów.
-3. System informatyczny służący do prowadzenia dokumentacji elektronicznej powinien umożliwiać eksport danych do formatu XML oraz sporządzanie postaci papierowej dokumentacji, której mowa § 19 ust. 1 pkt 1 2.
-§ 21. 1. Poradnie działają ciągu całego roku jako placówki, których nie są przewidziane ferie szkolne.
-2. Organ prowadzący, który prowadzi więcej niż jedną poradnię, może ustalić, porozumieniu dyrektorem poradni, terminy przerw pracy niektórych poradni okresie ferii letnich.
+
+3. Poradnia wydaje, na pisemny wniosek rodzica albo pełnoletniego ucznia, informację o wynikach diagnozy przeprowadzonej w poradni.
+
+**§ 7.** W poradniach są organizowane i działają zespoły orzekające, wydające orzeczenia, o których mowa w § 3 ust. 2 pkt 2, oraz opinie o potrzebie wczesnego wspomagania rozwoju dziecka.
+
+**§ 8.**
+
+1. Pomoc psychologiczno-pedagogiczna udzielana bezpośrednio dzieciom i młodzieży oraz rodzicom polega w szczególności na:
+
+- **1)** prowadzeniu terapii dzieci i młodzieży oraz ich rodzin;
+- **2)** udzielaniu wsparcia dzieciom i młodzieży wymagającym pomocy psychologiczno-pedagogicznej lub pomocy w wyborze kierunku kształcenia i zawodu oraz planowaniu kształcenia i kariery zawodowej;
+- **3)** udzielaniu pomocy rodzicom w rozpoznawaniu i rozwijaniu indywidualnych potrzeb rozwojowych i edukacyjnych oraz indywidualnych możliwości psychofizycznych dzieci i młodzieży oraz w rozwiązywaniu problemów edukacyjnych i wychowawczych.
+
+2. Pomoc, o której mowa w ust. 1, jest udzielana w szczególności w formie:
+
+- **1)** indywidualnych lub grupowych zajęć terapeutycznych dla dzieci i młodzieży;
+- **2)** terapii rodziny;
+- **3)** grup wsparcia;
+- **4)** prowadzenia mediacji;
+- **5)** interwencji kryzysowej;
+- **6)** warsztatów;
+- **7)** porad i konsultacji;
+- **8)** wykładów i prelekcji;
+- **9)** działalności informacyjno-szkoleniowej.
+
+**§ 9.**
+
+1. Realizowanie przez poradnie zadań, o których mowa w § 2 pkt 3, polega w szczególności na:
+
+- **1)** udzielaniu nauczycielom, wychowawcom grup wychowawczych lub specjalistom, o których mowa w § 5 ust. 2, pomocy w:
+    - **a)** rozpoznawaniu indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych dzieci i młodzieży, w tym w rozpoznawaniu ryzyka wystąpienia specyficznych trudności w uczeniu się u uczniów klas I–III szkoły podstawowej,
+    - **b)** planowaniu i realizacji zadań z zakresu doradztwa edukacyjno-zawodowego,
+    - **c)** rozwijaniu zainteresowań i uzdolnień uczniów;
+
+- **2)** współpracy z przedszkolami, szkołami i placówkami w udzielaniu i organizowaniu przez przedszkola, szkoły i placówki pomocy psychologiczno-pedagogicznej oraz opracowywaniu i realizowaniu indywidualnych programów edukacyjno-terapeutycznych oraz indywidualnych programów zajęć rewalidacyjno-wychowawczych;
+- **3)** współpracy, na pisemny wniosek dyrektora przedszkola, szkoły lub placówki lub rodzica dziecka niepełnosprawnego albo pełnoletniego ucznia niepełnosprawnego, w określeniu niezbędnych do nauki warunków, sprzętu specjalistycznego i środków dydaktycznych, w tym wykorzystujących technologie informacyjno-komunikacyjne, odpowiednich ze względu na indywidualne potrzeby rozwojowe i edukacyjne oraz możliwości psychofizyczne dziecka niepełnosprawnego albo pełnoletniego ucznia niepełnosprawnego;
+- **4)** udzielaniu nauczycielom, wychowawcom grup wychowawczych lub specjalistom, o których mowa w § 5 ust. 2, pomocy w rozwiązywaniu problemów dydaktycznych i wychowawczych;
+- **5)** podejmowaniu działań z zakresu profilaktyki uzależnień i innych problemów dzieci i młodzieży;
+- **6)** prowadzeniu edukacji dotyczącej ochrony zdrowia psychicznego wśród dzieci i młodzieży, rodziców i nauczycieli;
+- **7)** udzielaniu, we współpracy z placówkami doskonalenia nauczycieli i bibliotekami pedagogicznymi, wsparcia merytorycznego nauczycielom, wychowawcom grup wychowawczych i specjalistom, o których mowa w § 5 ust. 2.
+
+2. Zadania, o których mowa w ust. 1, są realizowane w szczególności w formie:
+
+- **1)** porad i konsultacji;
+- **2)** udziału w spotkaniach odpowiednio nauczycieli, wychowawców grup wychowawczych i specjalistów, o których mowa w § 5 ust. 2;
+- **3)** udziału w zebraniach rad pedagogicznych;
+- **4)** warsztatów;
+- **5)** grup wsparcia;
+- **6)** wykładów i prelekcji;
+- **7)** prowadzenia mediacji;
+- **8)** interwencji kryzysowej;
+- **9)** działalności informacyjno-szkoleniowej;
+- **10)** organizowania i prowadzenia sieci współpracy i samokształcenia dla nauczycieli, wychowawców grup wychowawczych i specjalistów, o których mowa w § 5 ust. 2, którzy w zorganizowany sposób współpracują ze sobą w celu doskonalenia swojej pracy, w szczególności poprzez wymianę doświadczeń.
+
+**§ 10.**
+
+1. Wspomaganie przedszkoli, szkół i placówek, o którym mowa w § 2 pkt 4, polega na zaplanowaniu i przeprowadzeniu działań mających na celu poprawę jakości pracy przedszkola, szkoły lub placówki w zakresie:
+
+- **1)** wynikającym z kierunków realizacji przez kuratorów oświaty polityki oświatowej państwa, ustalanych przez ministra właściwego do spraw oświaty i wychowania zgodnie z art. 35 ust. 2 pkt 1 ustawy, oraz wprowadzanych zmian w systemie oświaty;
+- **2)** wymagań stawianych wobec przedszkoli, szkół i placówek, których wypełnianie jest badane przez organy sprawujące nadzór pedagogiczny w procesie ewaluacji zewnętrznej, zgodnie z przepisami wydanymi na podstawie art. 35 ust. 6 ustawy;
+- **3)** realizacji podstaw programowych;
+- **4)** rozpoznawania potrzeb dzieci i młodzieży oraz indywidualizacji procesu nauczania i wychowania;
+- **5)** analizy wyników i wniosków z nadzoru pedagogicznego oraz wyników sprawdzianu i egzaminów, o których mowa w art. 9 ust. 1 ustawy;
+- **6)** potrzeb zdiagnozowanych na podstawie analizy wyników i wniosków, o których mowa w pkt 5;
+- **7)** innych potrzeb wskazanych przez przedszkole, szkołę lub placówkę.
+
+2. Wspomaganie przedszkoli, szkół i placówek obejmuje:
+
+- **1)** pomoc w diagnozowaniu potrzeb przedszkola, szkoły lub placówki;
+- **2)** ustalenie sposobów działania prowadzących do zaspokojenia potrzeb przedszkola, szkoły lub placówki;
+- **3)** zaplanowanie form wspomagania i ich realizację;
+- **4)** wspólną ocenę efektów i opracowanie wniosków z realizacji zaplanowanych form wspomagania.
+
+**§ 11.** Wnioski, o których mowa w § 5 ust. 1, § 6 ust. 2 i 3 oraz w § 9 ust. 1 pkt 3, składa się w postaci papierowej lub elektronicznej.
+
+**§ 12.** Poradnie specjalistyczne prowadzą działalność ukierunkowaną na specyficzny, jednorodny charakter problemów, z uwzględnieniem potrzeb lokalnej społeczności.
+
+**§ 13.** Korzystanie z pomocy udzielanej przez poradnie jest dobrowolne i nieodpłatne.
+
+**§ 14.**
+
+1. Organ prowadzący określa teren działania poradni.
+
+2. Poradnia udziela pomocy dzieciom i młodzieży, rodzicom i nauczycielom z przedszkoli, szkół lub placówek mających siedzibę na terenie działania poradni.
+
+3. W przypadku dzieci i młodzieży oraz rodziców dzieci nieuczęszczających do przedszkola, szkoły lub placówki pomocy udziela poradnia właściwa ze względu na miejsce zamieszkania dziecka.
+
+4. Na podstawie porozumienia zawartego między organami prowadzącymi poradnie, poradnia może udzielać pomocy dzieciom i młodzieży, rodzicom i nauczycielom z przedszkoli, szkół i placówek niemających siedziby na terenie działania poradni oraz niezamieszkałym na terenie działania poradni dzieciom i rodzicom dzieci nieuczęszczających do przedszkola, szkoły lub placówki.
+
+**§ 15.**
+
+1. Poradnia realizuje zadania przy pomocy specjalistów: psychologów, pedagogów, logopedów i doradców zawodowych.
+
+2. Zadania poradni, w zależności od potrzeb, mogą być realizowane również przy pomocy innych specjalistów, w szczególności lekarzy, których udział jest niezbędny do efektywnego udzielania pomocy psychologiczno-pedagogicznej dzieciom i młodzieży, rodzicom i nauczycielom.
+
+**§ 16.** Poradnia realizuje zadania współdziałając także z innymi poradniami, placówkami doskonalenia nauczycieli i bibliotekami pedagogicznymi oraz organizacjami pozarządowymi i innymi podmiotami świadczącymi poradnictwo i pomoc dzieciom i młodzieży oraz rodzicom i nauczycielom.
+
+**§ 17.**
+
+1. Pomoc dzieciom i młodzieży może być udzielana w poradniach także przez wolontariuszy, którzy wspierają realizację zadań z zakresu pomocy psychologiczno-pedagogicznej świadczonej przez poradnię.
+
+2. Wolontariuszem w poradni może być osoba pełnoletnia, która nie była skazana za umyślne przestępstwo i przeciwko której nie toczy się postępowanie karne, oraz przestrzega zasad, o których mowa w ust. 3 i 5.
+
+3. Dyrektor poradni informuje wolontariusza o specyfice pracy poradni i konieczności zachowania tajemnicy w sprawach dotyczących dzieci i młodzieży, rodziców i nauczycieli korzystających z pomocy poradni.
+
+4. Dyrektor poradni zawiera z wolontariuszem porozumienie określające:
+
+- **1)** zakres, sposób i czas wykonywania przez wolontariusza zadań;
+- **2)** czas trwania porozumienia;
+- **3)** zobowiązanie wolontariusza do wykonywania zadań we współpracy ze specjalistami, o których mowa w § 15;
+- **4)** zobowiązanie wolontariusza do nieujawniania informacji dotyczących dzieci i młodzieży, rodziców i nauczycieli korzystających z pomocy poradni;
+- **5)** postanowienie o możliwości rozwiązania porozumienia.
+
+5. Wolontariusz wykonuje zadania określone w porozumieniu we współpracy ze specjalistami, o których mowa w § 15, oraz pod nadzorem dyrektora poradni lub wyznaczonej przez niego osoby.
+
+**§ 18.**
+
+1. Poradnia może posiadać filie.
+
+2. Filie tworzy i likwiduje oraz określa zakres i teren ich działania organ prowadzący.
+
+**§ 19.**
+
+1. Poradnia prowadzi:
+
+- **1)** wykaz alfabetyczny dzieci i młodzieży korzystających z pomocy poradni, zawierający numer nadany przez poradnię przy zgłoszeniu, imię (imiona) i nazwisko dziecka albo pełnoletniego ucznia, jego datę urodzenia, numer PESEL, a w przypadku braku numeru PESEL – serię i numer dokumentu potwierdzającego jego tożsamość oraz adres zamieszkania;
+- **2)** rejestr wydanych opinii i rejestr wydanych orzeczeń, zawierający numer określony w pkt 1, numer opinii lub orzeczenia oraz datę ich wydania;
+- **3)** dokumentację, o której mowa w przepisach wydanych na podstawie art. 22 ust. 2 pkt 5 ustawy.
+
+2. Dokumentację, o której mowa w ust. 1 pkt 1 i 2, prowadzi się w postaci papierowej lub elektronicznej, z zastrzeżeniem § 20 ust. 1.
+
+**§ 20.**
+
+1. Dokumentacja, o której mowa w § 19 ust. 1 pkt 1 i 2, za zgodą organu prowadzącego poradnię, może być prowadzona wyłącznie w postaci elektronicznej.
+
+2. Prowadzenie dokumentacji, o której mowa w § 19 ust. 1 pkt 1 i 2, wyłącznie w postaci elektronicznej, zwanej dalej „dokumentacją elektroniczną”, wymaga:
+
+- **1)** zachowania selektywności dostępu do danych stanowiących dokumentację elektroniczną;
+- **2)** zabezpieczenia danych stanowiących dokumentację elektroniczną przed zniszczeniem, uszkodzeniem lub utratą oraz dostępem osób nieuprawnionych;
+- **3)** rejestrowania historii zmian i ich autorów.
+
+3. System informatyczny służący do prowadzenia dokumentacji elektronicznej powinien umożliwiać eksport danych do formatu XML oraz sporządzanie w postaci papierowej dokumentacji, o której mowa w § 19 ust. 1 pkt 1 i 2.
+
+**§ 21.**
+
+1. Poradnie działają w ciągu całego roku jako placówki, w których nie są przewidziane ferie szkolne.
+
+2. Organ prowadzący, który prowadzi więcej niż jedną poradnię, może ustalić, w porozumieniu z dyrektorem poradni, terminy przerw w pracy niektórych poradni w okresie ferii letnich.
+
 3. Dzienny czas pracy poradni ustala dyrektor poradni za zgodą organu prowadzącego.
-§ 22. 1. Zadania określone § 2 pkt 3 formie, której mowa § 9 ust. 2 pkt 10, oraz zadanie określone § 10, poradnie realizują od dnia 1 stycznia 2016
-2. Do dnia 31 grudnia 2015 zadania określone ust. 1 mogą być realizowane przez poradnie.
-§ 23. Do wniosków opinii poradni psychologiczno-pedagogicznych, tym poradni specjalistycznych, złożonych nierozpatrzonych przed dniem wejścia życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
-§ 24. 1. W przypadku dzieci młodzieży:
-1) korzystających pomocy poradni na podstawie dotychczasowych przepisów,
-2) którym okresie od dnia 1 stycznia do dnia wejścia życie niniejszego rozporządzenia została wydana opinia § 25. Traci moc rozporządzenie Ministra Edukacji Narodowej dnia 17 listopada 2010 sprawie szczegółowych zasad działania publicznych poradni psychologiczno-pedagogicznych, tym publicznych poradni specjalistycznych (Dz. U.
-Nr 228, poz. 1488).
-§ 26. Rozporządzenie wchodzi życie po upływie 30 dni od dnia ogłoszenia.
-Minister Edukacji Narodowej: K. Szumilas
+
+**§ 22.**
+
+1. Zadania określone w § 2 pkt 3 w formie, o której mowa w § 9 ust. 2 pkt 10, oraz zadanie określone w § 10, poradnie realizują od dnia 1 stycznia 2016 r.
+
+2. Do dnia 31 grudnia 2015 r. zadania określone w ust. 1 mogą być realizowane przez poradnie.
+
+**§ 23.** Do wniosków o wydanie opinii poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
+
+**§ 24.**
+
+1. W przypadku dzieci i młodzieży:
+
+- **1)** korzystających z pomocy poradni na podstawie dotychczasowych przepisów,
+- **2)** którym w okresie od dnia 1 stycznia 2013 r. do dnia wejścia w życie niniejszego rozporządzenia została wydana opinia o potrzebie wczesnego wspomagania rozwoju, orzeczenie o potrzebie kształcenia specjalnego lub orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych – poradnia uzupełni dane, o których mowa w § 19 ust. 1 pkt 1, w zakresie dotyczącym numeru PESEL, a w przypadku braku numeru PESEL – serii i numeru dokumentu potwierdzającego tożsamość, w terminie do dnia 31 marca 2013 r.
+
+2. Przepisu ust. 1 nie stosuje się do dzieci i młodzieży, które korzystały z pomocy poradni na podstawie dotychczasowych przepisów do dnia 31 grudnia 2012 r.
+
+**§ 25.** Traci moc rozporządzenie Ministra Edukacji Narodowej z dnia 17 listopada 2010 r. w sprawie szczegółowych zasad działania publicznych poradni psychologiczno-pedagogicznych, w tym publicznych poradni specjalistycznych (Dz. U. Nr 228, poz. 1488).
+
+**§ 26.** Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Minister Edukacji Narodowej: K. Szumilas
 

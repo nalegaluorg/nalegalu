@@ -27,11 +27,17 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001762) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1762/text.pdf) |
 
 w sprawie nadania statutu Głównemu Urzędowi Statystycznemu Na podstawie art. 23 ust. 3 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799) zarządza się, co następuje:
-§ 1. Głównemu Urzędowi Statystycznemu nadaje się statut, który stanowi załącznik do rozporządzenia.
-§ 2. Zarządzenia Prezesa Głównego Urzędu Statystycznego wydane na podstawie § 3 ust. 2 załącznika do rozporządzenia uchylanego w § 3 zachowują moc do dnia wejścia w życie zarządzeń Prezesa Głównego Urzędu Statystycznego wydanych na podstawie § 3 ust. 2 załącznika do rozporządzenia, o którym mowa w § 1, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
-§ 3. Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 24 maja 2023 r. w sprawie nadania statutu Głównemu Urzędowi Statystycznemu (Dz. U. poz. 1024).
-§ 4. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r.
-Prezes Rady Ministrów: D. Tusk STATUT GŁÓWNEGO URZĘDU STATYSTYCZNEGO
+
+**§ 1.** Głównemu Urzędowi Statystycznemu nadaje się statut, który stanowi załącznik do rozporządzenia.
+
+**§ 2.** Zarządzenia Prezesa Głównego Urzędu Statystycznego wydane na podstawie § 3 ust. 2 załącznika do rozporządzenia uchylanego w § 3 zachowują moc do dnia wejścia w życie zarządzeń Prezesa Głównego Urzędu Statystycznego wydanych na podstawie § 3 ust. 2 załącznika do rozporządzenia, o którym mowa w § 1, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
+
+**§ 3.** Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 24 maja 2023 r. w sprawie nadania statutu Głównemu Urzędowi Statystycznemu (Dz. U. poz. 1024).
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r. Prezes Rady Ministrów: D. Tusk STATUT GŁÓWNEGO URZĘDU STATYSTYCZNEGO
+
+## Załącznik
+
 § 1. Główny Urząd Statystyczny, zwany dalej „Urzędem”, jest urzędem administracji rządowej obsługującym Prezesa Głównego Urzędu Statystycznego, zwanego dalej „Prezesem”, działającym pod jego bezpośrednim kierownictwem.
 § 2. 1. Prezes kieruje Urzędem przy pomocy wiceprezesów, Dyrektora Generalnego Urzędu i dyrektorów komórek organizacyjnych wymienionych w § 4 pkt 1.
 2. Prezes może upoważnić osoby, o których mowa w ust. 1, oraz inspektora ochrony danych, o którym mowa w § 4 pkt 2, do podejmowania w jego imieniu decyzji w określonych sprawach.

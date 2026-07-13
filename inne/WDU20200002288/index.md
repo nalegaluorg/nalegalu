@@ -27,18 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie rodzajów, zakresu i wzorów oraz sposobu przetwarzania dokumentacji medycznej w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych Na podstawie art. 30 ust. 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U.
 z 2020 r. poz. 849) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 29 kwietnia 2020 r. w sprawie rodzajów, zakresu i wzorów oraz sposobu przetwarzania dokumentacji medycznej w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 788) po § 12 dodaje się § 12a w brzmieniu: „§ 12a. 1. Podmiot prowadzący szpital, zlokalizowany w miejscu nieprzeznaczonym dotychczas do udzielania świadczeń zdrowotnych, w którym są udzielane świadczenia zdrowotne pacjentom zakażonym wirusem SARS-CoV-2, w zakresie świadczeń zdrowotnych udzielanych przez ten szpital sporządza i prowadzi:
-1) dokumentację indywidualną wewnętrzną w formie historii choroby lub karty noworodka;
-2) dokumentację indywidualną zewnętrzną w formie:
-a) karty informacyjnej z leczenia szpitalnego,
-b) książeczki zdrowia dziecka,
-c) skierowania;
-3) dokumentację zbiorczą wewnętrzną w formie:
-a) wykazu głównego przyjęć i wypisów,
-b) wykazu odmów przyjęć i porad ambulatoryjnych udzielanych w izbie przyjęć lub wykazu odmów przyjęć w szpitalnym oddziale ratunkowym,
-c) wykazu pracowni diagnostycznej;
-4) dokumentację zbiorczą zewnętrzną dla celów określonych w innych przepisach prawa powszechnie obowiązującego.
-2. W przypadku gdy co najmniej dokumentacja, o której mowa w ust. 1 pkt 1 i 2 lit. a, jest prowadzona w postaci elektronicznej, prowadzenie dokumentacji, o której mowa w ust. 1 pkt 3, nie jest wymagane.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 29 kwietnia 2020 r. w sprawie rodzajów, zakresu i wzorów oraz sposobu przetwarzania dokumentacji medycznej w podmiotach leczniczych utworzonych przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 788) po § 12 dodaje się § 12a w brzmieniu: „§ 12a. 1. Podmiot prowadzący szpital, zlokalizowany w miejscu nieprzeznaczonym dotychczas do udzielania świadczeń zdrowotnych, w którym są udzielane świadczenia zdrowotne pacjentom zakażonym wirusem SARS-CoV-2, w zakresie świadczeń zdrowotnych udzielanych przez ten szpital sporządza i prowadzi: 1) dokumentację indywidualną wewnętrzną w formie historii choroby lub karty noworodka; 2) dokumentację indywidualną zewnętrzną w formie: a) karty informacyjnej z leczenia szpitalnego, b) książeczki zdrowia dziecka, c) skierowania; 3) dokumentację zbiorczą wewnętrzną w formie: a) wykazu głównego przyjęć i wypisów, b) wykazu odmów przyjęć i porad ambulatoryjnych udzielanych w izbie przyjęć lub wykazu odmów przyjęć w szpitalnym oddziale ratunkowym, c) wykazu pracowni diagnostycznej; 4) dokumentację zbiorczą zewnętrzną dla celów określonych w innych przepisach prawa powszechnie obowiązującego. 2. W przypadku gdy co najmniej dokumentacja, o której mowa w ust. 1 pkt 1 i 2 lit. a, jest prowadzona w postaci elektronicznej, prowadzenie dokumentacji, o której mowa w ust. 1 pkt 3, nie jest wymagane.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży
 

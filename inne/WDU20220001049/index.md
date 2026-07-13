@@ -32,26 +32,29 @@ zmieniającym rozporządzenie w sprawie wykazu szpitali i innych jednostek słu�
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 22 grudnia 2020 r. zmieniającego rozporządzenie w sprawie wykazu szpitali i innych jednostek służby zdrowia oraz medycznych instytutów badawczych uprawnionych do korzystania ze zwolnienia od należności przywozowych (Dz. U. z 2021 r. poz. 48), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: wz. W. Kraska
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 3 grudnia 2010 r.
 w sprawie wykazu szpitali i innych jednostek służby zdrowia oraz medycznych instytutów badawczych uprawnionych do korzystania ze zwolnienia od należności przywozowych Na podstawie art. 47 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2021 r. poz. 1856) zarządza się, co następuje:
-§ 1. Jednostkami uprawnionymi do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 57 ust. 1 rozporządzenia Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającego wspólnotowy system zwolnień celnych (wersja ujednolicona) (Dz. Urz. UE L 324 z 10.12.2009, str. 23), są:
-1) podmioty lecznicze w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, 655 i 974);
-2) medyczne instytuty badawcze:
-a) Centrum Onkologii – Instytut im. Marii Skłodowskiej-Curie w Warszawie,
-b) Instytut „Centrum Zdrowia Matki Polki” w Łodzi,
-c) Instytut Fizjologii i Patologii Słuchu w Warszawie,
-d) Instytut Gruźlicy i Chorób Płuc w Warszawie,
-e) Instytut Hematologii i Transfuzjologii w Warszawie,
-f) Instytut Kardiologii im. Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego w Warszawie,
-g) Instytut Matki i Dziecka w Warszawie,
-h) Instytut Medycyny Wsi im. Witolda Chodźki w Lublinie,
-i) Instytut Medycyny Pracy im. prof. dr med. Jerzego Nofera w Łodzi,
-j) (uchylona),
-k) Instytut „Pomnik – Centrum Zdrowia Dziecka” w Warszawie,
-l) Instytut Psychiatrii i Neurologii w Warszawie,
-m) Instytut Reumatologii im. prof. dr hab. med. Eleonory Reicher w Warszawie,
-n) Instytut Żywności i Żywienia w Warszawie im. prof. dr hab. med. Aleksandra Szczygła,
-o) Narodowy Instytut Zdrowia Publicznego – Państwowy Zakład Higieny w Warszawie,
-p) Wojskowy Instytut Higieny i Epidemiologii im. Generała Karola Kaczkowskiego,
-q) Wojskowy Instytut Medycyny Lotniczej w Warszawie,
-r) Wojskowy Instytut Medyczny w Warszawie.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 1.** Jednostkami uprawnionymi do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 57 ust. 1 rozporządzenia Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającego wspólnotowy system zwolnień celnych (wersja ujednolicona) (Dz. Urz. UE L 324 z 10.12.2009, str. 23), są:
+
+- **1)** podmioty lecznicze w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2022 r. poz. 633, 655 i 974);
+- **2)** medyczne instytuty badawcze:
+    - **a)** Centrum Onkologii – Instytut im. Marii Skłodowskiej-Curie w Warszawie,
+    - **b)** Instytut „Centrum Zdrowia Matki Polki” w Łodzi,
+    - **c)** Instytut Fizjologii i Patologii Słuchu w Warszawie,
+    - **d)** Instytut Gruźlicy i Chorób Płuc w Warszawie,
+    - **e)** Instytut Hematologii i Transfuzjologii w Warszawie,
+    - **f)** Instytut Kardiologii im. Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego w Warszawie,
+    - **g)** Instytut Matki i Dziecka w Warszawie,
+    - **h)** Instytut Medycyny Wsi im. Witolda Chodźki w Lublinie,
+    - **i)** Instytut Medycyny Pracy im. prof. dr med. Jerzego Nofera w Łodzi,
+    - **j)** (uchylona),
+    - **k)** Instytut „Pomnik – Centrum Zdrowia Dziecka” w Warszawie,
+    - **l)** Instytut Psychiatrii i Neurologii w Warszawie,
+    - **m)** Instytut Reumatologii im. prof. dr hab. med. Eleonory Reicher w Warszawie,
+    - **n)** Instytut Żywności i Żywienia w Warszawie im. prof. dr hab. med. Aleksandra Szczygła,
+    - **o)** Narodowy Instytut Zdrowia Publicznego – Państwowy Zakład Higieny w Warszawie,
+    - **p)** Wojskowy Instytut Higieny i Epidemiologii im. Generała Karola Kaczkowskiego,
+    - **q)** Wojskowy Instytut Medycyny Lotniczej w Warszawie,
+    - **r)** Wojskowy Instytut Medyczny w Warszawie.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

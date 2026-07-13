@@ -29,73 +29,15 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2015 r. poz. 460, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** w art. 4 w pkt 40 kropkę zastępuje się średnikiem i dodaje się pkt 41–44 w brzmieniu: „41) usługa EETS – usługę umożliwiającą korzystającym z dróg w państwach członkowskich Unii Europejskiej, za użytkowanie których są pobierane opłaty z wykorzystaniem systemu elektronicznego poboru opłat, wypełnienie obowiązku uiszczenia tych opłat na obszarach EETS na podstawie umowy zawartej z dostawcą EETS;
-- **42)** obszar EETS – sieć dróg na terytorium państw członkowskich Unii Europejskiej, na której podmiot pobierający opłaty pobiera je z wykorzystaniem systemu elektronicznego poboru opłat podlegającego przepisom dyrektywy Parlamentu Europejskiego i Rady 2004/52/WE z dnia 29 kwietnia 2004 r. w sprawie interoperacyjności systemów elektronicznych opłat drogowych we Wspólnocie (Dz. Urz. UE L 166 z 30.04.2004, str. 124, z późn. zm.);
-- **43)** dostawca EETS – osobę prawną świadczącą usługę EETS;
-- **44)** użytkownik EETS – podmiot obowiązany do uiszczenia opłat, który zawarł umowę o świadczenie usługi EETS z dostawcą EETS.”;
+- **1)** w art. 4 w pkt 40 kropkę zastępuje się średnikiem i dodaje się pkt 41–44 w brzmieniu: „41) usługa EETS – usługę umożliwiającą korzystającym z dróg w państwach członkowskich Unii Europejskiej, za użytkowanie których są pobierane opłaty z wykorzystaniem systemu elektronicznego poboru opłat, wypełnienie obowiązku uiszczenia tych opłat na obszarach EETS na podstawie umowy zawartej z dostawcą EETS; 42) obszar EETS – sieć dróg na terytorium państw członkowskich Unii Europejskiej, na której podmiot pobierający opłaty pobiera je z wykorzystaniem systemu elektronicznego poboru opłat podlegającego przepisom dyrektywy Parlamentu Europejskiego i Rady 2004/52/WE z dnia 29 kwietnia 2004 r. w sprawie interoperacyjności systemów elektronicznych opłat drogowych we Wspólnocie (Dz. Urz. UE L 166 z 30.04.2004, str. 124, z późn. zm.); 43) dostawca EETS – osobę prawną świadczącą usługę EETS; 44) użytkownik EETS – podmiot obowiązany do uiszczenia opłat, który zawarł umowę o świadczenie usługi EETS z dostawcą EETS.”;
 - **2)** w art. 13i:
-    - **a)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Uiszczanie opłat za pomocą systemu elektronicznego poboru opłat, o którym mowa w ust. 1, może następować z wykorzystaniem usługi EETS.
-
-1b. Uiszczanie opłat z wykorzystaniem usługi EETS nie ma wpływu na wysokość tych opłat.”,
-
-- **b)** ust. 2 otrzymuje brzmienie: „2. Podmioty pobierające opłaty z wykorzystaniem systemów elektronicznego poboru opłat, o których mowa w ust. 1, są obowiązane umożliwiać świadczenie usługi EETS.”,
-- **c)** uchyla się ust. 4,
-- **d)** ust. 4a i 4b otrzymują brzmienie: „4a. Kierujący pojazdem samochodowym wyposażonym w urządzenie, o którym mowa w ust. 3 lub w art. 16l ust. 1, jest obowiązany do wprowadzenia do urządzenia prawidłowych danych o kategorii pojazdu, o której mowa w art. 13ha ust. 3, lub o liczbie osi pojazdu – w przypadku, o którym mowa w art. 13ha ust. 7 pkt 1.
-
-4b. Właściciel pojazdu samochodowego oraz jego posiadacz są obowiązani do używania urządzenia, o którym mowa w ust. 3 lub w art. 16l ust. 1, zgodnie z jego przeznaczeniem.”;
+    - **a)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Uiszczanie opłat za pomocą systemu elektronicznego poboru opłat, o którym mowa w ust. 1, może następować z wykorzystaniem usługi EETS. 1b. Uiszczanie opłat z wykorzystaniem usługi EETS nie ma wpływu na wysokość tych opłat.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Podmioty pobierające opłaty z wykorzystaniem systemów elektronicznego poboru opłat, o których mowa w ust. 1, są obowiązane umożliwiać świadczenie usługi EETS.”,
+    - **c)** uchyla się ust. 4,
+    - **d)** ust. 4a i 4b otrzymują brzmienie: „4a. Kierujący pojazdem samochodowym wyposażonym w urządzenie, o którym mowa w ust. 3 lub w art. 16l ust. 1, jest obowiązany do wprowadzenia do urządzenia prawidłowych danych o kategorii pojazdu, o której mowa w art. 13ha ust. 3, lub o liczbie osi pojazdu – w przypadku, o którym mowa w art. 13ha ust. 7 pkt 1. 4b. Właściciel pojazdu samochodowego oraz jego posiadacz są obowiązani do używania urządzenia, o którym mowa w ust. 3 lub w art. 16l ust. 1, zgodnie z jego przeznaczeniem.”;
 
 - **3)** w art. 13l ust. 1 otrzymuje brzmienie: „1. Do kontroli prawidłowości uiszczenia opłaty elektronicznej, w tym kontroli używanego w pojeździe urządzenia, o którym mowa w art. 13i ust. 3, jeżeli jest ono wymagane, oraz urządzenia, o którym mowa w art. 16l ust. 1, a także nałożenia i pobierania kar pieniężnych, o których mowa w art. 13k, jest uprawniony Główny Inspektor Transportu Drogowego.”;
-- **4)** po rozdziale 1a dodaje się rozdział 1b w brzmieniu: „Rozdział 1b Usługa EETS
-
-**Art. 16e.**
-
-1. Usługę EETS może świadczyć dostawca EETS mający siedzibę na terytorium Rzeczypospolitej Polskiej, wpisany do rejestru dostawców EETS, zwanego dalej „rejestrem EETS”, po zawarciu w formie pisemnej umów dotyczących świadczenia usługi EETS z:
-
-- **1)** podmiotem pobierającym opłatę, o którym mowa w art. 13i ust. 2;
-- **2)** użytkownikiem EETS.
-
-2. Warunkami świadczenia usługi EETS są:
-
-- **1)** posiadanie certyfikatu zgodności z normą przenoszącą normę EN ISO 9001 lub jego odpowiednika;
-- **2)** posiadanie umożliwiających świadczenie usługi EETS: wyposażenia technicznego oraz składników interoperacyjności, o których mowa w art. 16x ust. 1, dla których wystawiono deklaracje WE zgodności lub przydatności do stosowania, potwierdzające ich zgodność z przepisami decyzji Komisji 2009/750/WE z dnia 6 października 2009 r. w sprawie definicji europejskiej usługi opłaty elektronicznej oraz jej elementów technicznych (Dz. Urz. UE L 268 z 13.10.2009, str. 11), zwanej dalej „decyzją 2009/750/WE”, o których mowa w załączniku IV do tej decyzji;
-- **3)** znajdowanie się w sytuacji finansowej zapewniającej podjęcie i prowadzenie działalności w zakresie świadczenia usługi EETS dostosowanej do rozmiaru przewidzianej działalności;
-- **4)** posiadanie planu zarządzania ryzykiem związanym ze świadczeniem usługi EETS;
-- **5)** pełnienie funkcji członków zarządu oraz funkcji członków rady nadzorczej przez osoby, które nie zostały prawomocnie skazane za przestępstwo popełnione w celu osiągnięcia korzyści majątkowych lub przestępstwo przeciwko wiarygodności dokumentów.
-
-3. Plan zarządzania ryzykiem, o którym mowa w ust. 2 pkt 4, zawiera w szczególności procedury:
-
-- **1)** monitorowania sposobu świadczenia usługi EETS;
-- **2)** na wypadek problemów natury technicznej zakłócających funkcjonowanie usługi EETS.
-
-4. Plan zarządzania ryzykiem, o którym mowa w ust. 2 pkt 4, co najmniej raz na dwa lata jest poddawany ocenie niezależnego audytora, która obejmuje także wnioski z jej przeprowadzenia.
-
-5. Plan zarządzania ryzykiem, o którym mowa w ust. 2 pkt 4, oraz ocena niezależnego audytora, o której mowa w ust. 4, są sporządzane i dokonywane na zlecenie i koszt przedsiębiorcy.
-
-**Art. 16f.**
-
-1. Organem prowadzącym rejestr EETS jest minister właściwy do spraw transportu.
-
-2. Rejestr EETS jest udostępniany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw transportu.
-
-3. Wpisu do rejestru EETS dokonuje się na wniosek przedsiębiorcy zawierający następujące dane:
-
-- **1)** firmę, siedzibę i adres wnioskodawcy;
-- **2)** formę organizacyjno-prawną wnioskodawcy;
-- **3)** imiona i nazwiska osób pełniących funkcje członków zarządu i członków rady nadzorczej.
-
-4. Do wniosku, o którym mowa w ust. 3, załącza się dokumenty potwierdzające spełnienie warunków, o których mowa w art. 16e ust. 2.
-
-5. Sytuację finansową, o której mowa w art. 16e ust. 2 pkt 3, potwierdza się na podstawie:
-
-- **1)** zaświadczenia banku, w którym jest prowadzony podstawowy rachunek bieżący przedsiębiorcy, określającego wielkość posiadanych środków finansowych oraz zdolność kredytową i płatniczą;
-- **2)** zaświadczenia właściwego urzędu w każdym państwie, w którym jest prowadzona działalność, stwierdzającego, że przedsiębiorca nie zalega z uiszczeniem podatków, opłat lub składek na ubezpieczenia społeczne lub zdrowotne lub dokumentu potwierdzającego uzyskanie przewidzianego prawem zwolnienia, odroczenia, rozłożenia na raty zaległych płatności lub wstrzymania w całości wykonania decyzji właściwego organu;
-- **3)** zatwierdzonego sprawozdania finansowego za poprzedni rok obrotowy, jeżeli przedsiębiorca jest obowiązany do jego sporządzenia na podstawie przepisów o rachunkowości lub innych przepisów szczególnych, a także opinii biegłego rewidenta, jeżeli obowiązek badania sprawozdania finansowego wynika z przepisów o rachunkowości lub innych przepisów szczególnych – w przypadku przedsiębiorcy prowadzącego działalność gospodarczą w roku obrotowym poprzedzającym rok złożenia wniosku;
-- **4)** oświadczenia zapewniającego, że w stosunku do przedsiębiorcy nie zgłoszono wniosku o ogłoszenie upadłości lub nie znajduje się on w stanie likwidacji.
-
-6. Do wniosku, o którym mowa w ust. 3, załącza się oświadczenie następującej treści: „Oświadczam, że:
-
-- **1)** informacje zawarte we wniosku o wpis do rejestru dostawców EETS są zgodne z prawdą;
-- **2)** znane mi są i spełniam warunki wykonywania działalności gospodarczej w zakresie świadczenia usługi EETS określone w ustawie z dnia 21 marca 1985 r. o drogach publicznych.”. Oświadczenie składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+- **4)** po rozdziale 1a dodaje się rozdział 1b w brzmieniu: „Rozdział 1b Usługa EETS Art. 16e. 1. Usługę EETS może świadczyć dostawca EETS mający siedzibę na terytorium Rzeczypospolitej Polskiej, wpisany do rejestru dostawców EETS, zwanego dalej „rejestrem EETS”, po zawarciu w formie pisemnej umów dotyczących świadczenia usługi EETS z: 1) podmiotem pobierającym opłatę, o którym mowa w art. 13i ust. 2; 2) użytkownikiem EETS. 2. Warunkami świadczenia usługi EETS są: 1) posiadanie certyfikatu zgodności z normą przenoszącą normę EN ISO 9001 lub jego odpowiednika; 2) posiadanie umożliwiających świadczenie usługi EETS: wyposażenia technicznego oraz składników interoperacyjności, o których mowa w art. 16x ust. 1, dla których wystawiono deklaracje WE zgodności lub przydatności do stosowania, potwierdzające ich zgodność z przepisami decyzji Komisji 2009/750/WE z dnia 6 października 2009 r. w sprawie definicji europejskiej usługi opłaty elektronicznej oraz jej elementów technicznych (Dz. Urz. UE L 268 z 13.10.2009, str. 11), zwanej dalej „decyzją 2009/750/WE”, o których mowa w załączniku IV do tej decyzji; 3) znajdowanie się w sytuacji finansowej zapewniającej podjęcie i prowadzenie działalności w zakresie świadczenia usługi EETS dostosowanej do rozmiaru przewidzianej działalności; 4) posiadanie planu zarządzania ryzykiem związanym ze świadczeniem usługi EETS; 5) pełnienie funkcji członków zarządu oraz funkcji członków rady nadzorczej przez osoby, które nie zostały prawomocnie skazane za przestępstwo popełnione w celu osiągnięcia korzyści majątkowych lub przestępstwo przeciwko wiarygodności dokumentów. 3. Plan zarządzania ryzykiem, o którym mowa w ust. 2 pkt 4, zawiera w szczególności procedury: 1) monitorowania sposobu świadczenia usługi EETS; 2) na wypadek problemów natury technicznej zakłócających funkcjonowanie usługi EETS. 4. Plan zarządzania ryzykiem, o którym mowa w ust. 2 pkt 4, co najmniej raz na dwa lata jest poddawany ocenie niezależnego audytora, która obejmuje także wnioski z jej przeprowadzenia. 5. Plan zarządzania ryzykiem, o którym mowa w ust. 2 pkt 4, oraz ocena niezależnego audytora, o której mowa w ust. 4, są sporządzane i dokonywane na zlecenie i koszt przedsiębiorcy. Art. 16f. 1. Organem prowadzącym rejestr EETS jest minister właściwy do spraw transportu. 2. Rejestr EETS jest udostępniany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw transportu. 3. Wpisu do rejestru EETS dokonuje się na wniosek przedsiębiorcy zawierający następujące dane: 1) firmę, siedzibę i adres wnioskodawcy; 2) formę organizacyjno-prawną wnioskodawcy; 3) imiona i nazwiska osób pełniących funkcje członków zarządu i członków rady nadzorczej. 4. Do wniosku, o którym mowa w ust. 3, załącza się dokumenty potwierdzające spełnienie warunków, o których mowa w art. 16e ust. 2. 5. Sytuację finansową, o której mowa w art. 16e ust. 2 pkt 3, potwierdza się na podstawie: 1) zaświadczenia banku, w którym jest prowadzony podstawowy rachunek bieżący przedsiębiorcy, określającego wielkość posiadanych środków finansowych oraz zdolność kredytową i płatniczą; 2) zaświadczenia właściwego urzędu w każdym państwie, w którym jest prowadzona działalność, stwierdzającego, że przedsiębiorca nie zalega z uiszczeniem podatków, opłat lub składek na ubezpieczenia społeczne lub zdrowotne lub dokumentu potwierdzającego uzyskanie przewidzianego prawem zwolnienia, odroczenia, rozłożenia na raty zaległych płatności lub wstrzymania w całości wykonania decyzji właściwego organu; 3) zatwierdzonego sprawozdania finansowego za poprzedni rok obrotowy, jeżeli przedsiębiorca jest obowiązany do jego sporządzenia na podstawie przepisów o rachunkowości lub innych przepisów szczególnych, a także opinii biegłego rewidenta, jeżeli obowiązek badania sprawozdania finansowego wynika z przepisów o rachunkowości lub innych przepisów szczególnych – w przypadku przedsiębiorcy prowadzącego działalność gospodarczą w roku obrotowym poprzedzającym rok złożenia wniosku; 4) oświadczenia zapewniającego, że w stosunku do przedsiębiorcy nie zgłoszono wniosku o ogłoszenie upadłości lub nie znajduje się on w stanie likwidacji. 6. Do wniosku, o którym mowa w ust. 3, załącza się oświadczenie następującej treści: „Oświadczam, że: 1) informacje zawarte we wniosku o wpis do rejestru dostawców EETS są zgodne z prawdą; 2) znane mi są i spełniam warunki wykonywania działalności gospodarczej w zakresie świadczenia usługi EETS określone w ustawie z dnia 21 marca 1985 r. o drogach publicznych.”. Oświadczenie składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
 7. Oświadczenie, o którym mowa w ust. 6, zawiera również następujące dane:
 
@@ -469,8 +411,7 @@ source: pdf
 
 **Art. 2.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2015 r. poz. 641 i 901 oraz z 2016 r. poz. 615) wprowadza się następujące zmiany:
 
-- **1)** w art. 39b w ust. 1 po pkt 5c dodaje się pkt 5d i 5e w brzmieniu: „5d) środków pochodzących z opłat, o których mowa w art. 16x ust. 6 ustawy z dnia 21 marca 1985 r. o drogach publicznych, pobieranych przez Generalnego Dyrektora Dróg Krajowych i Autostrad;
-- **5e)** odsetek, o których mowa w art. 16j ust. 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, w przypadku gdy opłaty, od których nalicza się odsetki, stanowią przychód Funduszu;”;
+- **1)** w art. 39b w ust. 1 po pkt 5c dodaje się pkt 5d i 5e w brzmieniu: „5d) środków pochodzących z opłat, o których mowa w art. 16x ust. 6 ustawy z dnia 21 marca 1985 r. o drogach publicznych, pobieranych przez Generalnego Dyrektora Dróg Krajowych i Autostrad; 5e) odsetek, o których mowa w art. 16j ust. 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, w przypadku gdy opłaty, od których nalicza się odsetki, stanowią przychód Funduszu;”;
 - **2)** w art. 39f w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) wynagrodzenie dla dostawcy EETS, o którym mowa w art. 16t ustawy z dnia 21 marca 1985 r. o drogach publicznych, oraz koszty postępowania przed Komisją, o której mowa w art. 16z ust. 1 tej ustawy;”.
 
 **Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 13l ust. 2 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 13l ust. 2 ustawy, o której mowa w art. 1, nie dłużej jednak niż przez 9 miesięcy od dnia wejścia w życie niniejszej ustawy.

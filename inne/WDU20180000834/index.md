@@ -35,11 +35,19 @@ poz. 425).
 2) § 2 rozporządzenia Ministra Rozwoju i Finansów z dnia 27 lutego 2017 r. zmieniającego rozporządzenie w sprawie informacji podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej (Dz. U. poz. 425), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.”. Minister Finansów: T. Czerwińska
 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 14 lutego 2003 r.
 w sprawie informacji podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej Na podstawie art. 83 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, 650, 723 i 771) zarządza się, co następuje:
-§ 1. Organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej przekazują Szefowi Krajowej Administracji Skarbowej , na jego żądanie, informacje o umowach zawartych z:
-1) nierezydentami w rozumieniu prawa dewizowego;
-2) osobami lub jednostkami wymienionymi w art. 82 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
-§ 2. 1. Informacje podatkowe przekazywane przez organy lub jednostki wymienione w § 1 zawierają następujące dane: imię i nazwisko lub nazwę (firmę) kontrahenta, datę zawarcia umowy oraz wartość jej przedmiotu.
+
+**§ 1.** Organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej przekazują Szefowi Krajowej Administracji Skarbowej , na jego żądanie, informacje o umowach zawartych z:
+
+- **1)** nierezydentami w rozumieniu prawa dewizowego;
+- **2)** osobami lub jednostkami wymienionymi w art. 82 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+
+**§ 2.**
+
+1. Informacje podatkowe przekazywane przez organy lub jednostki wymienione w § 1 zawierają następujące dane: imię i nazwisko lub nazwę (firmę) kontrahenta, datę zawarcia umowy oraz wartość jej przedmiotu.
+
 2. Informacje są przekazywane w terminie 30 dni od dnia doręczenia żądania.
-§ 3. Przekazywanie informacji następuje w sposób i na zasadach przewidzianych dla dokumentów zawierających informacje niejawne, którym nadano klauzulę „zastrzeżone” w rozumieniu przepisów o ochronie informacji niejawnych.
-§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 3.** Przekazywanie informacji następuje w sposób i na zasadach przewidzianych dla dokumentów zawierających informacje niejawne, którym nadano klauzulę „zastrzeżone” w rozumieniu przepisów o ochronie informacji niejawnych.
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002263) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2263/text.pdf) |
 
 zmieniające rozporządzenie w sprawie asystowania przez Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego, Żandarmerię Wojskową lub wojskowe organy porządkowe przy wykonywaniu czynności egzekucyjnych w administracji Na podstawie art. 50 § 3 pkt 1 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2020 r. poz. 1427 i 1492) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 11 marca 2010 r. w sprawie asystowania przez Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego, Żandarmerię Wojskową lub wojskowe organy porządkowe przy wykonywaniu czynności egzekucyjnych w administracji (Dz. U. poz. 324) w § 9 uchyla się ust. 4.
-§ 2. Rozporządzenie wchodzi w życie z dniem 20 lutego 2021 r.
-Minister Obrony Narodowej: z up. W. Skurkiewicz
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 11 marca 2010 r. w sprawie asystowania przez Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego, Żandarmerię Wojskową lub wojskowe organy porządkowe przy wykonywaniu czynności egzekucyjnych w administracji (Dz. U. poz. 324) w § 9 uchyla się ust. 4.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 20 lutego 2021 r. Minister Obrony Narodowej: z up. W. Skurkiewicz
 

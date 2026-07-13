@@ -27,9 +27,13 @@ source: pdf
 
 w sprawie regulaminu pracy Rady Edukacji Finansowej Na podstawie art. 43k ust. 6 ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2022 r. poz. 187, 1488 i 2640 oraz z 2023 r.
 poz. 556, 825 i 1285) zarządza się, co następuje:
-§ 1. Ustala się regulamin pracy Rady Edukacji Finansowej, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: M. Rzeczkowska REGULAMIN PRACY RADY EDUKACJI FINANSOWEJ
+
+**§ 1.** Ustala się regulamin pracy Rady Edukacji Finansowej, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: M. Rzeczkowska REGULAMIN PRACY RADY EDUKACJI FINANSOWEJ
+
+## Załącznik
+
 § 1. Pracami Rady Edukacji Finansowej, zwanej dalej „Radą”, kieruje Przewodniczący Rady, a w razie jego nieobecności inny członek Rady wskazany pisemnie przez Przewodniczącego Rady.
 § 2. Członkowie Rady wykonują swoje obowiązki osobiście.
 § 3. 1. Posiedzenia Rady zwołuje Przewodniczący Rady.

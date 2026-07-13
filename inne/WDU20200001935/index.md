@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie zakresu, trybu i częstotliwości przeprowadzania okresowych profilaktycznych badań lekarskich oraz okresowej oceny sprawności fizycznej strażaka Państwowej Straży Pożarnej Na podstawie art. 42 ust. 3 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2020 r.
 poz. 1123 i 1610) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 27 października 2005 r. w sprawie zakresu, trybu i częstotliwości przeprowadzania okresowych profilaktycznych badań lekarskich oraz okresowej oceny sprawności fizycznej strażaka Państwowej Straży Pożarnej (Dz. U. poz. 2191, z 2015 r. poz. 720 oraz z 2018 r. poz. 673) wprowadza się następujące zmiany:
-1) w § 6 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadkach ogłoszenia stanu zagrożenia epidemicznego, stanu epidemii lub wprowadzenia stanu nadzwyczajnego na obszarze występowania któregokolwiek z tych stanów oceny sprawności fizycznej strażaka nie przeprowadza się.”;
-2) w § 7 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadkach zniesienia stanu zagrożenia epidemicznego, stanu epidemii lub stanu nadzwyczajnego w terminie, o którym mowa w ust. 1, termin przeprowadzenia oceny sprawności fizycznej na obszarze, na którym występował którykolwiek z tych stanów, przedłuża się do dnia 30 czerwca – w przypadku terminu, o którym mowa w ust. 1 pkt 1 – albo do dnia 31 grudnia – w przypadku terminu, o którym mowa w ust. 1 pkt 2.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 27 października 2005 r. w sprawie zakresu, trybu i częstotliwości przeprowadzania okresowych profilaktycznych badań lekarskich oraz okresowej oceny sprawności fizycznej strażaka Państwowej Straży Pożarnej (Dz. U. poz. 2191, z 2015 r. poz. 720 oraz z 2018 r. poz. 673) wprowadza się następujące zmiany:
+
+- **1)** w § 6 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadkach ogłoszenia stanu zagrożenia epidemicznego, stanu epidemii lub wprowadzenia stanu nadzwyczajnego na obszarze występowania któregokolwiek z tych stanów oceny sprawności fizycznej strażaka nie przeprowadza się.”;
+- **2)** w § 7 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadkach zniesienia stanu zagrożenia epidemicznego, stanu epidemii lub stanu nadzwyczajnego w terminie, o którym mowa w ust. 1, termin przeprowadzenia oceny sprawności fizycznej na obszarze, na którym występował którykolwiek z tych stanów, przedłuża się do dnia 30 czerwca – w przypadku terminu, o którym mowa w ust. 1 pkt 1 – albo do dnia 31 grudnia – w przypadku terminu, o którym mowa w ust. 1 pkt 2.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

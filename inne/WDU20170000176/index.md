@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000176) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/176/text.pdf) |
 
 zmieniające rozporządzenie w sprawie postępowania w zakresie formularzy mandatu karnego, mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego, grzywien nakładanych w drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego Na podstawie art. 100 § 14 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713 i 1948) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 26 stycznia 2016 r. w sprawie postępowania w zakresie formularzy mandatu karnego, mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego, grzywien nakładanych w drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego (Dz. U. poz. 151) użyte w § 3 w ust. 1, w § 7 w ust. 1 w pkt 1 we wprowadzeniu do wyliczenia i w ust. 2, w § 9 oraz w § 10, w różnym przypadku, wyrazy „dyrektor izby skarbowej” zastępuje się użytymi w odpowiednim przypadku wyrazami „dyrektor izby administracji skarbowej”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-Prezes Rady Ministrów: B. Szydło
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 26 stycznia 2016 r. w sprawie postępowania w zakresie formularzy mandatu karnego, mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego, grzywien nakładanych w drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego (Dz. U. poz. 151) użyte w § 3 w ust. 1, w § 7 w ust. 1 w pkt 1 we wprowadzeniu do wyliczenia i w ust. 2, w § 9 oraz w § 10, w różnym przypadku, wyrazy „dyrektor izby skarbowej” zastępuje się użytymi w odpowiednim przypadku wyrazami „dyrektor izby administracji skarbowej”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
 

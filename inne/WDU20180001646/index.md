@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001646) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1646/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego Na podstawie art. 194 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2018 r. poz. 652, 1010 i 1387) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 27 lutego 2017 r. w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego (Dz. U. poz. 428) w § 1 pkt 10 otrzymuje brzmienie: „10) inne niż wymienione w pkt 1–4 oraz 9, które mogą mieć znaczenie podczas wykonywania ustawowych zadań związanych ze zwalczaniem przestępczości przez służby śledcze lub podczas szkolenia tych służb – Komendzie Głównej Policji lub odpowiednim jednostkom organizacyjnym innych organów, którym przysługują uprawnienia Policji w zakresie prowadzenia postępowania przygotowawczego.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 27 lutego 2017 r. w sprawie wykazu przedmiotów, które w razie orzeczenia ich przepadku przekazuje się bezpośrednio innym organom niż właściwy naczelnik urzędu skarbowego (Dz. U. poz. 428) w § 1 pkt 10 otrzymuje brzmienie: „10) inne niż wymienione w pkt 1–4 oraz 9, które mogą mieć znaczenie podczas wykonywania ustawowych zadań związanych ze zwalczaniem przestępczości przez służby śledcze lub podczas szkolenia tych służb – Komendzie Głównej Policji lub odpowiednim jednostkom organizacyjnym innych organów, którym przysługują uprawnienia Policji w zakresie prowadzenia postępowania przygotowawczego.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

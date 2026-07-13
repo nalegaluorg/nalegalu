@@ -31,21 +31,26 @@ poz. 177), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rolni
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 września 2022 r. zmieniającego rozporządzenie w sprawie upoważnienia związków hodowców lub innych podmiotów do prowadzenia oceny wartości użytkowej lub oceny genetycznej zwierząt gospodarskich (Dz. U. poz. 1947), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Rolnictwa i Rozwoju Wsi: wz. R. Romanowski
 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 24 stycznia 2022 r.
 w sprawie upoważnienia związków hodowców lub innych podmiotów do prowadzenia oceny wartości użytkowej lub oceny genetycznej zwierząt gospodarskich Na podstawie art. 21 ust. 2 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) zarządza się, co następuje:
-§ 1. Do prowadzenia oceny wartości użytkowej zwierząt gospodarskich, o których mowa w art. 2 pkt 1 lit. b ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich, upoważnia się:
-1) Krajową Radę Drobiarstwa – Izbę Gospodarczą w Warszawie – w zakresie oceny drobiu;
-2) Wojciecha Pelczara prowadzącego pasiekę zarodową w Krośnie – w zakresie oceny pszczół linii hodowlanej AGA 3;
-3) Leszka Bielickiego z Pionek – w zakresie oceny pszczół linii hodowlanej Bielka;
-4) Andrzeja Adamka z Nowego Brzeska – w zakresie oceny pszczół linii hodowlanej Kasia;
-5) Jacka Sieradzkiego z Kłodzka – w zakresie oceny pszczół linii hodowlanej Bardzka;
-6) Tomasza Strzyża z Kwiatkowic – w zakresie oceny pszczół linii hodowlanej AS;
-7) Tomasza Matacza z Kolonii Zakrzew – w zakresie oceny pszczół linii hodowlanej Niwa;
-8) Józefa Jasinę z Lublina – w zakresie oceny pszczół linii hodowlanej Lubelka;
-9) Wiolettę Adamek z Nowego Brzeska – w zakresie oceny pszczół linii hodowlanej Viola;
-10) Artura Robaka z Lublina – w zakresie oceny pszczół linii hodowlanej Ewelka;
-11) Edwarda Fiłkowskiego z Chabowa – w zakresie oceny pszczół linii hodowlanej Inez;
-12) Stowarzyszenie Hodowców Alpak i Lam – w zakresie oceny alpak rasy Huacaya i Suri.
-§ 2. Do prowadzenia oceny genetycznej zwierząt gospodarskich, o których mowa w art. 2 pkt 1 lit. b ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich, upoważnia się:
-1) Krajową Radę Drobiarstwa – Izbę Gospodarczą w Warszawie – w zakresie oceny drobiu;
-2) Wojciecha Pelczara prowadzącego pasiekę zarodową w Krośnie – w zakresie oceny pszczół linii hodowlanej AGA 3.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
+
+**§ 1.** Do prowadzenia oceny wartości użytkowej zwierząt gospodarskich, o których mowa w art. 2 pkt 1 lit. b ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich, upoważnia się:
+
+- **1)** Krajową Radę Drobiarstwa – Izbę Gospodarczą w Warszawie – w zakresie oceny drobiu;
+- **2)** Wojciecha Pelczara prowadzącego pasiekę zarodową w Krośnie – w zakresie oceny pszczół linii hodowlanej AGA 3;
+- **3)** Leszka Bielickiego z Pionek – w zakresie oceny pszczół linii hodowlanej Bielka;
+- **4)** Andrzeja Adamka z Nowego Brzeska – w zakresie oceny pszczół linii hodowlanej Kasia;
+- **5)** Jacka Sieradzkiego z Kłodzka – w zakresie oceny pszczół linii hodowlanej Bardzka;
+- **6)** Tomasza Strzyża z Kwiatkowic – w zakresie oceny pszczół linii hodowlanej AS;
+- **7)** Tomasza Matacza z Kolonii Zakrzew – w zakresie oceny pszczół linii hodowlanej Niwa;
+- **8)** Józefa Jasinę z Lublina – w zakresie oceny pszczół linii hodowlanej Lubelka;
+- **9)** Wiolettę Adamek z Nowego Brzeska – w zakresie oceny pszczół linii hodowlanej Viola;
+- **10)** Artura Robaka z Lublina – w zakresie oceny pszczół linii hodowlanej Ewelka;
+- **11)** Edwarda Fiłkowskiego z Chabowa – w zakresie oceny pszczół linii hodowlanej Inez;
+- **12)** Stowarzyszenie Hodowców Alpak i Lam – w zakresie oceny alpak rasy Huacaya i Suri.
+
+**§ 2.** Do prowadzenia oceny genetycznej zwierząt gospodarskich, o których mowa w art. 2 pkt 1 lit. b ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich, upoważnia się:
+
+- **1)** Krajową Radę Drobiarstwa – Izbę Gospodarczą w Warszawie – w zakresie oceny drobiu;
+- **2)** Wojciecha Pelczara prowadzącego pasiekę zarodową w Krośnie – w zakresie oceny pszczół linii hodowlanej AGA 3.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 

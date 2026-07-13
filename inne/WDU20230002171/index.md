@@ -27,18 +27,17 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2023 r.
 poz. 1259 i 1273) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 5 września 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U.
-poz. 1898) wprowadza się następujące zmiany:
-1) w § 5 w pkt 1 lit. a i b otrzymują brzmienie: „a) Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 1) albo
-b) Komisji (UE) 2022/2473 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy udzielanej przedsiębiorstwom prowadzącym działalność w zakresie produkcji, przetwórstwa i wprowadzania do obrotu produktów rybołówstwa i akwakultury za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 82, z późn. zm. ), albo”;
-2) w § 6:
-a) w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Do kosztów kwalifikowalnych zalicza się koszty:”,
-b) w ust. 3 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) kosztów bezpośrednio związanych z produkcją podstawową produktów rolnych w rozumieniu art. 2 pkt 44 rozporządzenia Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej.”;
-3) w § 8 dodaje się ust. 3 i 4 w brzmieniu: „3. Wsparcie jest udzielane w formie refundacji:
-1) do 70% kosztów kwalifikowalnych – w przypadku młodego rolnika;
-2) do 60% kosztów kwalifikowalnych – w przypadku pozostałych wnioskodawców.
-4. Za młodego rolnika uznaje się osobę, która spełnia warunki udzielenia wsparcia określone w § 3 ust. 1 i 2 i która urodziła się po dniu 31 grudnia 1983 r.”.
-§ 2. Do spraw dotyczących udzielenia wsparcia na przedsięwzięcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach inwestycji A1.4.1. „Inwestycje na rzecz dywersyfikacji i skracania łańcucha dostaw produktów rolnych i spożywczych oraz budowy odporności podmiotów uczestniczących w łańcuchu” objętej Krajowym Planem Odbudowy i Zwiększania Odporności, objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. R. Romanowski
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 5 września 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (Dz. U. poz. 1898) wprowadza się następujące zmiany:
+
+- **1)** w § 5 w pkt 1 lit. a i b otrzymują brzmienie: „a) Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 1) albo b) Komisji (UE) 2022/2473 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy udzielanej przedsiębiorstwom prowadzącym działalność w zakresie produkcji, przetwórstwa i wprowadzania do obrotu produktów rybołówstwa i akwakultury za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 327 z 21.12.2022, str. 82, z późn. zm. ), albo”;
+- **2)** w § 6:
+    - **a)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Do kosztów kwalifikowalnych zalicza się koszty:”,
+    - **b)** w ust. 3 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) kosztów bezpośrednio związanych z produkcją podstawową produktów rolnych w rozumieniu art. 2 pkt 44 rozporządzenia Komisji (UE) 2022/2472 z dnia 14 grudnia 2022 r. uznającego niektóre kategorie pomocy w sektorach rolnym i leśnym oraz na obszarach wiejskich za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej.”;
+
+- **3)** w § 8 dodaje się ust. 3 i 4 w brzmieniu: „3. Wsparcie jest udzielane w formie refundacji: 1) do 70% kosztów kwalifikowalnych – w przypadku młodego rolnika; 2) do 60% kosztów kwalifikowalnych – w przypadku pozostałych wnioskodawców. 4. Za młodego rolnika uznaje się osobę, która spełnia warunki udzielenia wsparcia określone w § 3 ust. 1 i 2 i która urodziła się po dniu 31 grudnia 1983 r.”.
+
+**§ 2.** Do spraw dotyczących udzielenia wsparcia na przedsięwzięcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach inwestycji A1.4.1. „Inwestycje na rzecz dywersyfikacji i skracania łańcucha dostaw produktów rolnych i spożywczych oraz budowy odporności podmiotów uczestniczących w łańcuchu” objętej Krajowym Planem Odbudowy i Zwiększania Odporności, objętych postępowaniami wszczętymi i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: wz. R. Romanowski
 

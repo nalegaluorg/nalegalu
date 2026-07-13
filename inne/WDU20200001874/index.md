@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001874) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1874/text.pdf) |
 
 zmieniające rozporządzenie w sprawie testu sprawności fizycznej funkcjonariuszy Straży Granicznej Na podstawie art. 39c ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2020 r. poz. 305 i 1610) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 maja 2011 r. w sprawie testu sprawności fizycznej funkcjonariuszy Straży Granicznej (Dz. U. z 2018 r. poz. 1572 oraz z 2020 r. poz. 314) w § 4 po ust. 3 dodaje się ust. 4 w brzmieniu: „4. Komendant Główny Straży Granicznej może podjąć decyzję o odstąpieniu od realizacji testu za dany rok lub od realizacji testu w terminach, o których mowa w ust. 1–3. Decyzja podejmowana jest w przypadkach wystąpienia zagrożenia epidemicznego, epidemii lub klęski żywiołowej.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 maja 2011 r. w sprawie testu sprawności fizycznej funkcjonariuszy Straży Granicznej (Dz. U. z 2018 r. poz. 1572 oraz z 2020 r. poz. 314) w § 4 po ust. 3 dodaje się ust. 4 w brzmieniu: „4. Komendant Główny Straży Granicznej może podjąć decyzję o odstąpieniu od realizacji testu za dany rok lub od realizacji testu w terminach, o których mowa w ust. 1–3. Decyzja podejmowana jest w przypadkach wystąpienia zagrożenia epidemicznego, epidemii lub klęski żywiołowej.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

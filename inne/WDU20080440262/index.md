@@ -8,10 +8,10 @@ pos: 262
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Ustawa z dnia 29 lutego 2008 r. o zmianie ustawy o płatnościach do gruntów rolnych i płatności cukrowej oraz ustawy o opłacie skarbowej
+# RZECZYPOSPOLITEJ POLSKIEJ Nr 44 262
 
 | Pole | Wartość |
 |---|---|
@@ -25,502 +25,234 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080440262) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/262/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 stycznia 2007 r. o płatnościach do gruntów rolnych i płatności cukrowej (Dz. U. Nr 35, poz. 217 i Nr 99, poz. 666) wprowadza się następujące zmiany:
+USTAWA z dnia 29 lutego 2008 r.
+o zmianie ustawy o płatnościach do gruntów rolnych i płatności cukrowej oraz ustawy o opłacie skarbowej
 
-**Art. 4.** Agencja Restrukturyzacji i Modernizacji Rolnictwa, zwana dalej „Agencją”, akredytowana na podstawie odrębnych przepisów jako agencja płatnicza, realizuje zadania i kompetencje agencji płatniczej określone w przepisach Unii Europejskiej, o których mowa w art. 1 pkt 1, w zakresie płatności bezpośredniej i płatności uzupełniającej, zwanych dalej „płatnościami obszarowymi”, płatności cukrowej oraz płatności do pomidorów, uregulowanych w niniejszej ustawie. ” ;
+**Art. 1.** W ustawie z dnia 26 stycznia 2007 r. o płat- 1) tytuł ustawy otrzymuje brzmienie: nościach do gruntów rolnych i płatności cukrowej (Dz. U. Nr 35, poz. 217 i Nr 99, poz. 666) wprowadza Ńo płatnościach w ramach systemów wsparcia się następujące zmiany: bezpośredniego”; Dziennik Ustaw Nr 44 — 2530 — Poz. 262
 
-**Art. 7a.**
+- **2)** w art. 1: 6b) pomoc do rzepaku — dodatkową krajową płatność do powierzchni uprawy rzepaku ijednostek organizacyjnych wzakresie dotyczącym płatności bezpośredniej, płatności uzupeł- 6c) pomoc do plantacji trwałych — pomoc niającej, płatności cukrowej oraz płatności do finansową, októrej mowa wart.90a rozpopomidorów, określonych w przepisach:”, rządzenia nr 1782/2003;”, średniej, płatności uzupełniającej, płat- 10) wnioskodawca — wnioskodawcę w rozuności cukrowej oraz płatności do pomi- mieniu art. 23 lit. a rozporządzenia dorów,”, nr 1973/2004; — lit. c otrzymuje brzmienie: 11) pierwsza jednostka przetwórcza — pierwszego przetwórcę w rozumieniu art. 23 lit. d Ńc) wypłaty rolnikom płatności bezpośred- rozporządzenia nr 1973/2004; niej, płatności uzupełniającej, płatności cukrowej oraz płatności do pomidorów”, 12) podmiot skupujący — odbiorcę w rozumieniu art. 23 lit. e rozporządzenia
+    - **a)** w pkt 1 wprowadzenie do wyliczenia otrzymuje objętej wnioskiem o przyznanie płatności brzmienie: Ńzadania oraz właściwość organów do upraw roślin energetycznych;
+    - **b)** w pkt 2: d) pkt 9—12 otrzymują brzmienie: Ń9) grunty rolne — grunty, o których mowa — lit. a otrzymuje brzmienie: w art. 143b ust. 4 akapit drugi rozporządzeŃa) przyznawania rolnikom płatności bezpo- nia nr 1782/2003;
+    - **c)** w pkt 2 kropkę zastępuje się średnikiem i doda- nr 1973/2004;”, je się pkt 3 w brzmieniu:
+    - **e)** dodaje się pkt 13—15 w brzmieniu: Ń3) zasady i tryb: Ń13) wnioskujący o płatność do owoców mięka) przyznawania i wypłaty rolnikom pomocy kich — wnioskodawcę w rozumieniu do rzepaku ipomocy do plantacji trwałych, art.171d lit. arozporządzenia nr1973/2004;
 
-1. Rolnikowi, któremu została przyznana płatność do upraw roślin energetycznych do powierzchni uprawy rzepaku, przysługuje pomoc do rzepaku, na jego wniosek.
+- **14)** przetwórca owoców miękkich — pierwszeb) przeprowadzania kontroli w zakresie, go przetwórcę wrozumieniu art.171d lit. c o którym mowa w lit. a.”; rozporządzenia nr 1973/2004;
+- **3)** w art. 2: 15) skupujący owoce miękkie — odbiorcę w rozumieniu art. 171d lit. d rozporządzea) po pkt 3 dodaje się pkt 3a w brzmieniu: nia nr 1973/2004.”; Ń3a) jednolita płatność obszarowa — jedno- 4) w art. 3 w ust. 2: litąpłatność obszarową, o której mowaw art. 143b ust. 1 rozporządzenia a) wprowadzenie do wyliczenia otrzymuje brzmienr 1782/2003;”, nie: Ń6a) płatność do pomidorów — oddzielną płat- 5) art. 4 otrzymuje brzmienie: ność z tytułu owoców i warzyw, o której mowa w art. 143bb ust. 1 rozporządzenia ŃArt. 4. Agencja Restrukturyzacji i Modernizacji nr 1782/2003, przyznawaną do pomido- Rolnictwa, zwana dalej ŃAgencją”, akredyrów; towana na podstawie odrębnych przepiDziennik Ustaw Nr 44 — 2531 — Poz. 262 sów jako agencja płatnicza, realizuje zada- 2. Rolnikowi, który w danym roku spełnia wania ikompetencje agencji płatniczej okreś- runki do przyznania jednolitej płatności oblone wprzepisach Unii Europejskiej, októ- szarowej, przysługują płatności uzupełniająrych mowa w art. 1 pkt 1, w zakresie płat- ce do powierzchni upraw: ności bezpośredniej i płatności uzupełniającej, zwanych dalej Ńpłatnościami obsza- 1) chmielu, rowymi”, płatności cukrowej oraz płatno- 2) roślin przeznaczonych na paszę, uprawiaści do pomidorów, uregulowanych w ni- nych na trwałych użytkach zielonych, niejszej ustawie.”;
+    - **b)** pkt 4 otrzymuje brzmienie: ŃW postępowaniu w sprawach dotyczących płatności bezpośredniej, płatności uzupełniająŃ4) płatność bezpośrednia: cej, płatności cukrowej, płatności do pomidorów, pomocy do rzepaku oraz pomocy do plana) jednolitą płatność obszarową, tacji trwałych organ administracji publicznej:”,
+    - **b)** płatność do upraw roślin energetycz- b) pkt 4 otrzymuje brzmienie: nych, o której mowa w art. 88 rozporzą- Ń4) zapewnia stronom, na ich żądanie, czynny dzenia nr 1782/2003, udział wkażdym stadium postępowania ina ich żądanie, przed wydaniem decyzji, umożc) przejściowe płatności z tytułu owoców liwia im wypowiedzenie się co do zebramiękkich, o których mowa w art. 110v nych dowodów i materiałów oraz zgłoszoust. 1—4 rozporządzenia nr 1782/2003;”, nych żądań; przepisu art.81 Kodeksu postępowania administracyjnego nie stosuje
+    - **c)** po pkt 6 dodaje się pkt 6a—6c w brzmieniu: się.”;
 
-2. Stawka pomocy do rzepaku wynosi 176 zł na 1 ha powierzchni uprawy rzepaku.
+- **3)** innych roślin
+- **6)** w art. 5: — położonych na działkach rolnych objęa) ust. 1 otrzymuje brzmienie: tych wnioskiem oprzyznanie jednolitej płatności obszarowej.”, Ń1. Kierownik biura powiatowego Agencji jest b) po ust. 2 dodaje się ust. 2a w brzmieniu: właściwy w sprawach dotyczących płatności obszarowych, płatności cukrowej, płat- Ń2a. Rolnikowi, który wdanym roku spełnia waności do pomidorów i pomocy do rzepaku, runki do przyznania jednolitej płatności obchyba że przepisy ustawy stanowią ina- szarowej i złożył wniosek o przyznanie tej czej.”, płatności, przysługuje płatność uzupełniająca do powierzchni uprawy chmielu, do Ń3. Wnioskodawcy przysługuje płatność do
+    - **b)** dodaje się ust. 3 i 4 w brzmieniu: której przyznano mu płatność uzupełniająŃ3. Dyrektor oddziału regionalnego Agencji jest cą do powierzchni uprawy chmielu za właściwy w sprawach dotyczących zatwier- 2006r., zwana dalej Ńpłatnością uzupełniadzania, o którym mowa w art. 171db rozpo- jącą do powierzchni uprawy chmielu niezwiązaną z produkcją”.”, rządzenia nr 1973/2004, skupujących owoce miękkie i przetwórców owoców miękkich c) ust. 3 otrzymuje brzmienie: oraz cofania tego zatwierdzenia.
 
-3. Wysokość pomocy do rzepaku w danym roku kalendarzowym ustala się jako iloczyn powierzchni uprawy rzepaku objętej wnioskiem o przyznanie płatności do upraw roślin energetycznych i spełniającej warunki do przyznania tej płatności oraz stawki pomocy na 1 ha tej powierzchni.
+4. Właściwość miejscową dyrektora oddziału upraw roślin energetycznych na będące regionalnego Agencji w sprawach, o któ- w jego posiadaniu grunty rolne wchodzące rych mowa wust.3, ustala się według miej- w skład gospodarstwa rolnego, jeżeli: sca zamieszkania lub siedziby skupującego 1) posiada działki rolne ołącznej powierzchowoce miękkie albo przetwórcy owoców ni nie mniejszej niż określona w art. 2 miękkich.”; ust. 1 akapit pierwszy rozporządzenia
 
-4. Pomoc do rzepaku przyznaje się w decyzji w sprawie przyznania płatności obszarowych.
+- **7)** w art. 7: nr 1973/2004;
+- **2)** wszystkie grunty rolne są utrzymywane wdniu 31 maja roku, wktórym został złożo- 3) został mu nadany numer identyfikacyjny ny wniosek oprzyznanie tej płatności, grun- w trybie przepisów o krajowym systemie ty rolne wchodzące w skład gospodarstwa ewidencji producentów, ewidencji gosrolnego, kwalifikujące się do objęcia tą płat- podarstw rolnych oraz ewidencji wniosnością zgodnie z art. 143b ust. 5 akapit ków o przyznanie płatności; pierwszy rozporządzenia nr 1782/2003, jeżeli: 4) są spełnione warunki określone w rozdziale 8 rozporządzenia nr 1973/2004,
+    - **a)** ust. 1 i 2 otrzymują brzmienie: zgodnie z normami przez cały rok kalenŃ1. Rolnikowi przysługuje jednolita płatność darzowy, w którym został złożony wnioobszarowa na będące w jego posiadaniu sek o przyznanie tej płatności;
 
-5. Pomoc do rzepaku ma charakter pomocy de minimis w rolnictwie i jest udzielana zgodnie z przepisami Unii Europejskiej w sprawie stosowania art. 87 i 88 Traktatu WE w odniesieniu do pomocy w ramach zasady de minimis dla sektora rolnego i sektora rybołówstwa.
+- **1)** na ten dzień posiada działki rolne o łącz- z tym że: nej powierzchni nie mniejszej niż okreś- a) umowa, októrej mowa wart.25 rozpolona dla Rzeczypospolitej Polskiej w za- rządzenia nr 1973/2004, powinna być łączniku nr XX do rozporządzenia zawarta z podmiotem skupującym nr 1973/2004; albo pierwszą jednostką przetwórczą,
+- **2)** wszystkie grunty rolne są utrzymywane które zostały zatwierdzone w rozumiezgodnie z normami przez cały rok kalen- niu tego rozporządzenia, darzowy, w którym został złożony wnio- b) płatność przysługuje również w przysek o przyznanie tej płatności; padkach, o których mowa w art. 33 ust. 1 rozporządzenia nr 1973/2004,
+- **3)** został mu nadany numer identyfikacyjny w trybie przepisów o krajowym systemie c) w przypadku gdy dla danej rośliny ewidencji producentów, ewidencji gospo- energetycznej nie określono plonu redarstw rolnych oraz ewidencji wniosków prezentatywnego, wnioskodawca poo przyznanie płatności. winien dostarczyć do zatwierdzonych Dziennik Ustaw Nr 44 — 2532 — Poz. 262 podmiotów, o których mowa w lit. a, 8) art. 7a otrzymuje brzmienie: wykorzystać lub przetworzyć na cele energetyczne w gospodarstwie, o któ- ŃArt. 7a. 1. Rolnikowi, któremu została przyznana rym mowa w sekcji 7 rozporządzenia płatność do upraw roślin energetycznr 1973/2004, całkowitą ilość zebra- nych do powierzchni uprawy rzepaku, nych roślin energetycznych.”, przysługuje pomoc do rzepaku, na jego wniosek. nr1782/2003, zwana dalej Ńpomocą wspól- 3. Wysokość pomocy do rzepaku w danotową do owoców”, oraz pomoc krajowa, nym roku kalendarzowym ustala się jao której mowa w art. 110v ust. 4 tego roz- ko iloczyn powierzchni uprawy rzepaporządzenia, zwana dalej Ńpomocą krajo- ku objętej wnioskiem o przyznanie wą do owoców”, na będące w jego posia- płatności do upraw roślin energetyczdaniu grunty rolne wchodzące w skład nych i spełniającej warunki do przygospodarstwa rolnego, kwalifikujące się znania tej płatności oraz stawki pomodo objęcia tymi płatnościami zgodnie cy na 1 ha tej powierzchni. z art. 110v ust. 2 rozporządzenia nr 1782/2003, jeżeli: 4. Pomoc do rzepaku przyznaje się w de1) posiada działki rolne o łącznej po- cyzji w sprawie przyznania płatności wierzchni nie mniejszej niż określona obszarowych. w art. 2 ust. 1 akapit czwarty i ust. 2 5. Pomoc do rzepaku ma charakter poakapit pierwszy rozporządzenia mocy de minimis w rolnictwie i jest nr 1973/2004; udzielana zgodnie z przepisami Unii
+    - **d)** po ust. 3 dodaje się ust. 3a—3c w brzmieniu: Ń3a. Wnioskującemu o płatność do owoców 2. Stawka pomocy do rzepaku wynosi miękkich przysługuje pomoc, o której mo- 176zł na 1ha powierzchni uprawy rzewa w art. 110v ust. 1—3 rozporządzenia paku.
 
-6. Do pomocy do rzepaku przepisy art. 18 ust. 2, 3 i 5 oraz art. 19 ust. 3–5 i 7 stosuje się odpowiednio. ” ;
+- **2)** wszystkie grunty rolne są utrzymywane Europejskiej w sprawie stosowania zgodnie znormami przez cały rok kalen- art. 87 i 88 Traktatu WE w odniesieniu darzowy, w którym został złożony wnio- do pomocy w ramach zasady de minisek o przyznanie tej płatności; misdla sektora rolnego isektora rybo3) został mu nadany numer identyfikacyj- łówstwa. ny w trybie przepisów o krajowym sys- 6. Do pomocy do rzepaku przepisy art.18 temie ewidencji producentów, ewidencji ust.2, 3 i5 oraz art.19 ust.3—5 i7 stogospodarstw rolnych oraz ewidencji suje się odpowiednio.”; wniosków o przyznanie płatności;
+- **9)** art. 8 otrzymuje brzmienie:
+- **4)** zostały spełnione warunki określone w rozdziale 17d rozporządzenia ŃArt. 8. 1. Kierownik biura powiatowego Agencji nr 1973/2004. jest właściwy do przyjmowania: 3b. Umowa oprzetwórstwo albo zobowiązanie 1) oświadczeń o dostawie roślin enerdo realizacji dostawy, o których mowa getycznych, októrych mowa wart.27 w art. 171da rozporządzenia nr 1973/2004, ust. 2 rozporządzenia nr 1973/2004, oprócz danych, o których mowa w art. 171da ust. 2 lit. a i b tego rozporzą- 2) deklaracji zbiorów, o których mowa dzenia, zawiera również numer identyfika- w art. 34 ust. 2 rozporządzenia cyjny, o którym mowa w ust. 3a pkt 3. nr 1973/2004 3c. Kopię umowy o przetwórstwo albo zobo- — składanych przez wnioskodawcę. wiązania do realizacji dostawy, o których mowa w art. 171da rozporządzenia 2. Prezes Agencji przekazuje Prezesowi nr 1973/2004, wnioskujący o płatność do Agencji Rynku Rolnego zestawienie owoców miękkich składa kierownikowi informacji dotyczące złożonych przez biura powiatowego Agencji w terminie do wnioskodawców deklaracji zbiorów, dnia 31 maja roku, wktórym został złożony o których mowa w art. 34 ust. 2 rozpowniosek o przyznanie płatności.”, rządzenia nr 1973/2004. Dziennik Ustaw Nr 44 — 2533 — Poz. 262
+    - **e)** po ust. 4 dodaje się ust. 4a w brzmieniu: 3. Dyrektor oddziału terenowego Agencji Ń4a. Stawka przejściowych płatności z tytułu Rynku Rolnego jest właściwy do przyjowoców miękkich, o których mowa mowania: w art. 110v ust. 1—4 rozporządzenia nr1782/2003, zwanych dalej Ńpłatnościami 1) oświadczeń o dostawie roślin enerdo owoców miękkich”, składa się z sumy getycznych, októrych mowa wart.27 stawki pomocy wspólnotowej do owoców ust.2 rozporządzenia nr1973/2004 — oraz uzupełniającej ją stawki pomocy kra- składanych przez podmiot skupujący jowej do owoców.”; albo pierwszą jednostkę przetwórczą;
 
-- **9)** art. 8 otrzymuje brzmienie: „
+- **2)** informacji, o których mowa w art. 27 2) dostarczone pierwszej jednostce przetwórust.5 rozporządzenia nr1973/2004 — czej lub podmiotowi skupującemu — składanych przez podmiot skupujący w przypadku, o którym mowa w art. 28 rozalbo pierwszą jednostkę przetwórczą; porządzenia nr 1973/2004.”;
+- **3)** informacji, o których mowa w art. 39 11) art. 10 otrzymuje brzmienie: ust.1 rozporządzenia nr1973/2004 — składanych przez pierwszą jednostkę ŃArt. 10. 1. W przypadku rośliny energetycznej, przetwórczą. dla której nie określono plonu repre4. Woświadczeniu odostawie roślin ener- zentatywnego, wnioskodawca powiagetycznych oprócz informacji, októrych damia dyrektora oddziału regionalnemowa w art. 27 ust. 2 rozporządzenia go Agencji, właściwego ze względu na nr 1973/2004, podaje się: miejsce położenia działki rolnej, z któ1) dzień zawarcia i strony umowy, na rej jest zbierana roślina energetyczna, podstawie której nastąpiła dostawa o terminie planowanego zbioru. roślin energetycznych; 2. Powiadomienia, o którym mowa
+- **2)** ilość zebranych roślin energetycz- wust.1, dokonuje się na piśmie, wternych — w przypadku rośliny energe- minie co najmniej 14 dni przed termitycznej, dla której nie określono plo- nem planowanego zbioru. nu reprezentatywnego;
+- **3)** całkowitą powierzchnię uprawy po- 3. W przypadku gdy z przyczyn niezależszczególnych gatunków roślin ener- nych od wnioskodawcy zbiór roślin getycznych objętych daną umową — energetycznych nie jest możliwy w przypadku oświadczenia dotyczą- w planowanym terminie, wnioskocego pierwszej dostawy realizowanej dawca niezwłocznie powiadamia w ramach tej umowy. otym na piśmie dyrektora oddziału regionalnego Agencji, o którym mowa
 
-**Art. 8.**
+5. Wnioskodawca przechowuje kopie: w ust. 1, podając nowy termin zbioru.
 
-1. Kierownik biura powiatowego Agencji jest właściwy do przyjmowania:
+- **1)** deklaracji, o której mowa w art. 33 ust. 2 rozporządzenia nr 1973/2004, 4. Bezpośrednio po dokonaniu zbioru wnioskodawca ustala ilość zebranych
+- **2)** deklaracji zbiorów, o której mowa roślin energetycznych i w terminie w art. 34 ust. 2 rozporządzenia 7dni od dokonania tego zbioru przekanr 1973/2004 zuje właściwemu miejscowo kierow— przez okres 3 lat od dnia złożenia tych nikowi biura powiatowego Agencji deklaracji do Agencji. oświadczenie o ilości zebranych roślin
 
-- **1)** oświadczeń o dostawie roślin energetycznych, o których mowa w art. 27 ust. 2 rozporządzenia nr 1973/2004,
-- **2)** deklaracji zbiorów, o których mowa w art. 34 ust. 2 rozporządzenia nr 1973/2004 składanych przez wnioskodawcę.
+6. Podmiot skupujący oraz pierwsza jed- energetycznych. nostka przetwórcza przechowują kopię 5. Powiadomienia, o których mowa umowy, o której mowa w art. 25 rozpo- w ust. 1 i 3, oraz oświadczenie, o którządzenia nr1973/2004, przez okres 5 lat rym mowa w ust. 4, składa się na forod dnia jej zawarcia. mularzach opracowanych i udostęp7. Oświadczenia i deklaracje, o których nionych przez Agencję. mowa wart.25 ust.2 iart.33 ust.2 rozporządzenia nr 1973/2004 oraz w ust. 1 6. Minister właściwy do spraw rolnictwa iust.3 pkt1, składa się na formularzach określi, w drodze rozporządzenia: opracowanych i udostępnionych przez 1) metody i sposób ustalania ilości zeAgencję. branych roślin energetycznych, ma8. Informacje, o których mowa w ust. 3 jąc na względzie zapewnienie wiarypkt 2 i 3, składa się na formularzach godności dokonanych ustaleń oraz opracowanych i udostępnionych przez możliwość ustalenia tej ilości na Agencję Rynku Rolnego.”; podstawie pobranych prób;
 
-2. Prezes Agencji przekazuje Prezesowi Agencji Rynku Rolnego zestawienie informacji dotyczące złożonych przez wnioskodawców deklaracji zbiorów, o których mowa w art. 34 ust. 2 rozporządzenia nr 1973/2004.
+- **10)** w art. 9 ust. 1 otrzymuje brzmienie: 2) informacje, które powinny być zawarte w powiadomieniach, o któŃ1. Kierownik biura powiatowego Agencji jest rych mowa w ust. 1 i 3, oraz właściwy w sprawach wyrażania zgody na w oświadczeniu, o którym mowa zmianę ilości roślin energetycznych, które ma- w ust. 4, mając na względzie uzysją być: kiwanie informacji niezbędnych do
+- **1)** wykorzystane lub przetwarzane w gospo- kontroli zbioru roślin energetyczdarstwie, o którym mowa w sekcji 7 rozpo- nych oraz kontroli wykorzystania lub rządzenia nr 1973/2004 — w przypadku, przetworzenia roślin energetyczo którym mowa w art. 34 ust. 3 tego rozpo- nych zebranych na cele energetyczrządzenia; ne.”; Dziennik Ustaw Nr 44 — 2534 — Poz. 262
+- **12)** po art. 10 dodaje się art. 10a w brzmieniu: 15) po art. 16 dodaje się art. 16a—16e w brzmieniu: ŃArt. 10a. Wnioskodawca wykorzystuje lub prze- ŃArt. 16a. 1. Dyrektor oddziału regionalnego twarza rośliny energetyczne na cele Agencji dokonuje, w drodze decyzji, energetyczne w gospodarstwie, o któ- zatwierdzenia skupującego owoce rym mowa w sekcji 7 rozporządzenia miękkie albo przetwórcy owoców nr 1973/2004, najpóêniej do dnia 31 lip- miękkich, jeżeli spełniają oni warunki ca drugiego roku po roku zbiorów.”; zapewniające spełnienie kryteriów,
+- **13)** art. 15 otrzymuje brzmienie: o których mowa w art. 171db rozporządzenia nr 1973/2004. ŃArt. 15. 1. Prezes Agencji Rynku Rolnego prowadzi listę zatwierdzonych podmiotów 2. Minister właściwy do spraw rynków skupujących i zatwierdzonych pierw- rolnych określi, w drodze rozporząszych jednostek przetwórczych, zawie- dzenia, szczegółowe warunki, jakie rającą informacje, o których mowa powinny spełniać zatwierdzeni skuw art. 12 ust. 2 pkt 1—4. pujący owoce miękkie i zatwierdzeni
 
-3. Dyrektor oddziału terenowego Agencji Rynku Rolnego jest właściwy do przyjmowania:
+2. Lista, o której mowa w ust. 1, jest za- przetwórcy owoców miękkich, w tym mieszczana na stronie internetowej warunki niezbędne do dokonania zaAgencji Rynku Rolnego oraz na stronie twierdzenia, mając na względzie speinternetowej Agencji. cyfikę działalności prowadzonej przez
 
-- **1)** oświadczeń o dostawie roślin energetycznych, o których mowa w art. 27 ust. 2 rozporządzenia nr 1973/2004 – składanych przez podmiot skupujący albo pierwszą jednostkę przetwórczą;
-- **2)** informacji, o których mowa w art. 27 ust. 5 rozporządzenia nr 1973/2004 – składanych przez podmiot skupujący albo pierwszą jednostkę przetwórczą;
-- **3)** informacji, o których mowa w art. 39 ust. 1 rozporządzenia nr 1973/2004 – składanych przez pierwszą jednostkę przetwórczą.
+3. Minister właściwy do spraw rolnictwa, te podmioty oraz zapewnienie prawina podstawie informacji przekazanych dłowego przyznawania płatności do przez Prezesa Agencji Rynku Rolnego owoców miękkich. w zakresie określonym w ust. 1, ogła- Art. 16b. 1. Zatwierdzenia dokonuje się na pisza w dzienniku urzędowym ministra semny wniosek przetwórcy owoców właściwego do spraw rolnictwa listę, miękkich albo skupującego owoce o której mowa w ust. 1, z podaniem miękkie, składany na formularzu informacji określonych w art. 12 ust. 2 opracowanym iudostępnionym przez pkt 1—4, w terminie, o którym mowa Agencję. w art. 37 ust. 6 rozporządzenia nr 1973/2004.”; 2. Wniosek o zatwierdzenie zawiera:
 
-4. W oświadczeniu o dostawie roślin energetycznych oprócz informacji, o których mowa w art. 27 ust. 2 rozporządzenia nr 1973/2004, podaje się:
+- **14)** w art. 16: 1) imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę Ń1.Podmioty, o których mowa w art. 38 rozpo- 2) numer identyfikacji podatkowej rządzenia nr 1973/2004, prowadzą rejestry (NIP) oraz numer identyfikacyjny zgodnie z wymaganiami określonymi w tym w krajowym rejestrze urzędowym rozporządzeniu oraz ze szczegółowymi wy- podmiotów gospodarki narodowej maganiami określonymi przez ministra właś- (REGON), jeżeli został nadany, ciwego do spraw rynków rolnych na podsta- a w przypadku osoby fizycznej — wie ust. 3, według wzorów opracowanych również numer ewidencyjny poi udostępnionych przez Agencję Rynku Rol- wszechnego elektronicznego sysnego.”, temu ewidencji ludności (PESEL); prowadzenia, w tym: 4) wskazanie:
+    - **a)** ust. 1 otrzymuje brzmienie: i adres;
+    - **b)** ust. 3 otrzymuje brzmienie: 3) numer identyfikacyjny, o którym mowa w przepisach o krajowym Ń3. Minister właściwy do spraw rynków rol- systemie ewidencji producentów, nych, w drodze rozporządzenia, określi ewidencji gospodarstw rolnych szczegółowe wymagania, jakim powinny oraz ewidencji wniosków o przyodpowiadać rejestry, o których mowa znanie płatności, jeżeli został nadaw ust. 1, oraz szczegółowe wymagania ich ny;
 
-- **1)** dzień zawarcia i strony umowy, na podstawie której nastąpiła dostawa roślin energetycznych;
-- **2)** ilość zebranych roślin energetycznych – w przypadku rośliny energetycznej, dla której nie określono plonu reprezentatywnego;
-- **3)** całkowitą powierzchnię uprawy poszczególnych gatunków roślin energetycznych objętych daną umową – w przypadku oświadczenia dotyczącego pierwszej dostawy realizowanej w ramach tej umowy.
+- **1)** dane, jakie powinny być zawarte w reje- a) rodzaju i zakresu wykonywanej strach, inne niż wymienione w art. 38 działalności, ust. 2—4 rozporządzenia nr 1973/2004, jestrach 5) informację o urządzeniach lub — mając na względzie specyfikę działal- środkach transportu służących do ności wykonywanej przez podmioty, skupu lub pierwszego przetwarzao których mowa w art. 38 rozporządzenia nia owoców miękkich; nr 1973/2004, zapewnienie informacji nie- 6) w przypadku skupującego owoce zbędnych do prawidłowego przeprowadza- miękkie — wskazanie rodzaju nania kontroli tych podmiotów oraz ujednoli- bywanych produktów, o których cenie informacji zawartych w tych reje- mowa w art. 110v ust. 1 rozporząstrach.”; dzenia nr 1782/2003; Dziennik Ustaw Nr 44 — 2535 — Poz. 262
+    - **b)** miejsca lub miejsc wykonywa2) częstotliwość dokonywania wpisów wre- nia działalności;
 
-5. Wnioskodawca przechowuje kopie:
+- **7)** w przypadku przetwórcy owoców 2. Lista, o której mowa w ust. 1, jest zamiękkich — wskazanie rodzaju wy- mieszczana na stronie internetowej twarzanych produktów, o których Agencji oraz na stronie internetowej mowa w art. 1 ust. 2 rozporządze- Agencji Rynku Rolnego. nia Rady (WE) nr 2201/96 z dnia 3. Minister właściwy do spraw rolnic28 paêdziernika 1996 r. w sprawie twa, na podstawie informacji przekawspólnej organizacji rynku prze- zanych przez Prezesa Agencji w zatworów owocowych i warzywnych kresie określonym w ust. 1, ogłasza (Dz. Urz. WE L 297 z 21.11.1996, w dzienniku urzędowym ministra str.29, zpóên. zm.; Dz.Urz. UE Pol- właściwego do spraw rolnictwa listę, skie wydanie specjalne, rozdz. 3, o której mowa w ust. 1, z podaniem t. 20, str. 83, z póên. zm.). informacji określonych w art. 16b
 
-- **1)** deklaracji, o której mowa w art. 33 ust. 2 rozporządzenia nr 1973/2004,
-- **2)** deklaracji zbiorów, o której mowa w art. 34 ust. 2 rozporządzenia nr 1973/2004 przez okres 3 lat od dnia złożenia tych deklaracji do Agencji.
+3. Załatwienie sprawy dotyczącej ust. 2 pkt 1—4 oraz pkt 6 i 7, w termizatwierdzenia, o którym mowa nie, o którym mowa w art. 171db wart.16a ust.1, następuje wterminie ust. 4 rozporządzenia nr 1973/2004.”; 2 miesięcy od dnia złożenia wnios- 16) w art. 17: ku o zatwierdzenie.
 
-6. Podmiot skupujący oraz pierwsza jednostka przetwórcza przechowują kopię umowy, o której mowa w art. 25 rozporządzenia nr 1973/2004, przez okres 5 lat od dnia jej zawarcia.
+4. Minister właściwy do spraw rynków a) w ust. 1: rolnych może określić, w drodze roz- — pkt 1 otrzymuje brzmienie: porządzenia, dodatkowe informacje, które powinien zawierać wniosek Ń1) w porozumieniu z ministrem właściwym o zatwierdzenie, mając na względzie do spraw finansów publicznych określa uzyskiwanie informacji niezbędnych corocznie, w drodze rozporządzenia: do prawidłowej kontroli zatwierdzonych skupujących owoce miękkie a) stawkę jednolitej płatności obszarooraz zatwierdzonych przetwórców wej, mając na względzie art. 143b owoców miękkich. ust. 2 i 7 rozporządzenia nr 1782/2003 oraz kurs wymiany euro ustalany
 
-7. Oświadczenia i deklaracje, o których mowa w art. 25 ust. 2 i art. 33 ust. 2 rozporządzenia nr 1973/2004 oraz w ust. 1 i ust. 3 pkt 1, składa się na formularzach opracowanych i udostępnionych przez Agencję.
+**Art. 16c.** Zatwierdzony skupujący owoce miękkie zgodnie zart.3 rozporządzenia Komisji oraz zatwierdzony przetwórca owoców (WE) nr 1913/2006 z dnia 20 grudnia miękkich są obowiązani informować dy- 2006 r. ustanawiającym szczegółowe rektora oddziału regionalnego Agencji zasady stosowania agromonetarnego o każdej zmianie danych zawartych we systemu dla euro w rolnictwie i zmiewniosku o zatwierdzenie, w terminie niającym niektóre rozporządzenia 14 dni od dnia zmiany tych danych, pod (Dz.Urz. UE L 365 z21.12.2006, str.52, rygorem cofnięcia zatwierdzenia. zpóên. zm.), zwanego dalej Ńrozporządzeniem nr 1913/2006”,
 
-8. Informacje, o których mowa w ust. 3 pkt 2 i 3, składa się na formularzach opracowanych i udostępnionych przez Agencję Rynku Rolnego. ” ;
+**Art. 16d.**
 
-- **10)** w art. 9 ust. 1 otrzymuje brzmienie: „
+1. Dyrektor oddziału regionalnego Agencji cofa zatwierdzenie wprzypadku: b) stawki płatności uzupełniających dla poszczególnych upraw, mając na
 
-1. Kierownik biura powiatowego Agencji jest właściwy w sprawach wyrażania zgody na zmianę ilości roślin energetycznych, które mają być:
+- **1)** rażącego naruszenia lub uporczy- względzie możliwość zróżnicowania wego naruszania warunków, októ- stawek w zależności od preferowarych mowa w art. 16a; nych kierunków rozwoju produkcji rol2) nieprzekazywania wterminie infor- nej, założenia do ustawy budżetowej macji o zmianie danych zawartych na dany rok i kurs wymiany euro uswe wniosku o zatwierdzenie. talany zgodnie z rozporządzeniem
 
-- **1)** wykorzystane lub przetwarzane w gospodarstwie, o którym mowa w sekcji 7 rozporządzenia nr 1973/2004 – w przypadku, o którym mowa w art. 34 ust. 3 tego rozporządzenia;
-- **2)** dostarczone pierwszej jednostce przetwórczej lub podmiotowi skupującemu – w przypadku, o którym mowa w art. 28 rozporządzenia nr 1973/2004. ” ;
-- **11)** art. 10 otrzymuje brzmienie: „
+2. Skupujący owoce miękkie albo prze- nr 1913/2006;”, twórca owoców miękkich, któremu — po pkt 1 dodaje się pkt 1a w brzmieniu: zostało cofnięte zatwierdzenie z powodów, o których mowa w ust. 1 Ń1a) w porozumieniu z ministrem właścipkt 1, może złożyć wniosek o ponow- wym do spraw finansów publicznych ne zatwierdzenie nie wcześniej niż po określa corocznie, w drodze rozporząupływie roku od dnia, wktórym decy- dzenia, stawkę pomocy krajowej do zja ocofnięciu zatwierdzenia stała się owoców stanowiącą część stawki płatostateczna. ności do owoców miękkich, uwzględniając wysokość pomocy wspólnotowej do
 
-**Art. 10.**
+**Art. 16e.**
 
-1. W przypadku rośliny energetycznej, dla której nie określono plonu reprezentatywnego, wnioskodawca powiadamia dyrektora oddziału regionalnego Agencji, właściwego ze względu na miejsce położenia działki rolnej, z której jest zbierana roślina energetyczna, o terminie planowanego zbioru.
+1. Prezes Agencji prowadzi listę zatwier- owoców na dany rok i dopuszczalną dzonych skupujących owoce miękkie możliwą wysokość pomocy krajowej do i zatwierdzonych przetwórców owo- owoców, jak również założenia do ustaców miękkich, zawierającą informa- wy budżetowej na dany rok oraz kurs cje, o których mowa w art. 16b ust. 2 wymiany euro ustalony zgodnie z rozpkt 1—4 oraz pkt 6 i 7. porządzeniem nr 1913/2006;”, Dziennik Ustaw Nr 44 — 2536 — Poz. 262
 
-2. Powiadomienia, o którym mowa w ust. 1, dokonuje się na piśmie, w terminie co najmniej 14 dni przed terminem planowanego zbioru.
+- **b)** ust. 3 otrzymuje brzmienie: 2) przejmujący złoży wniosek do dnia Ń3. Wydając rozporządzenie, o którym mowa 30 czerwca roku, wktórym został złożony w ust. 1 pkt 2 lit. a, minister właściwy do wniosek o przyznanie płatności.”, spraw rolnictwa może uzależnić objęcie da- b) po ust. 5 dodaje się ust. 5a w brzmieniu: nego rodzaju roślin płatnościami uzupełniającymi od liczby zwierząt danego gatunku Ń5a. W przypadku przekazania gospodarstwa posiadanych przez rolnika w danym okresie rolnego w rozumieniu art. 74 ust. 1 lub w danym dniu, lub od przyznania rolni- lit.a rozporządzenia nr 796/2004, które zokowi określonej płatności obszarowej w da- stało dokonane po dniu 31 maja roku, nym okresie lub do danej powierzchni grun- w którym został złożony wniosek o przytów rolnych.”, znanie jednolitej płatności obszarowej lub
+- **c)** w ust. 4 uchyla się pkt 2, 4 i 5, płatności uzupełniającej, płatności te przysługują przekazującemu, jeżeli są spełniod) po ust. 4 dodaje się ust. 4a w brzmieniu: ne warunki do ich przyznania.”, Ń4a. Wydając rozporządzenie, o którym mowa c) dodaje się ust. 7 w brzmieniu: w ust. 4 pkt 1, minister właściwy do spraw rolnictwa oraz minister właściwy do spraw Ń7. Wprzypadku przekazania gospodarstwa rolrynków rolnych mogą: nego, wrozumieniu art.74 ust.1 lit. arozpo1) odstąpić od określenia plonu reprezen- rządzenia nr 796/2004, płatność do owoców tatywnego w przypadku roślin, o któ- miękkich przysługuje przekazującemu, jeżeli rych mowa w art. 26 ust. 2 rozporządze- zostaną spełnione warunki do jej przyznania nr 1973/2004; nia.”;
+- **2)** zróżnicować wielkość plonu reprezentatywnego ze względu na obszar, na któ- 19) w art. 22: rym jest uprawiany dany gatunek roślin a) ust. 1 otrzymuje brzmienie: energetycznych, mając na względzie podział administracyjny kraju.”, Ń1. W przypadku śmierci rolnika, która nastąpiła od dnia złożenia wniosku o przyznanie gi tego rozporządzenia.”; 2) spełnia warunki do przyznania danej płat17) po art. 20 dodaje się art. 20a w brzmieniu: ności, z tym że w przypadku płatności uzupełniającej do powierzchni uprawy ŃArt. 20a. Rodzaje dowodów określone na podsta- chmielu niezwiązanej z produkcją i płatwie art. 20 ust. 3 stosuje się odpowied- ności uzupełniającej do powierzchni nio do potwierdzania działania siły wyż- upraw roślin przeznaczonych na paszę szej lub wystąpienia nadzwyczajnych uprawianych na trwałych użytkach zielookoliczności, ze względu na wystąpienie nych, płatności te przysługują, jeżeli których może zostać wydana zgoda, spadkobierca spełnia warunki do przyo której mowa w art. 9 ust. 1.”; znania jednolitej płatności obszarowej
+    - **e)** w ust. 5: jednolitej płatności obszarowej lub płatno— pkt 2 otrzymuje brzmienie: ści uzupełniającej do dnia doręczenia decyŃ2) minimalną powierzchnię upraw poszcze- zji w sprawie przyznania tych płatności, gólnych roślin energetycznych, mając na płatności te przysługują spadkobiercy, któwzględzie warunki przyznawania płatno- ry: ści do upraw roślin energetycznych;”, 1) objął w posiadanie grunty rolne, których — dodaje się pkt 3 w brzmieniu: dotyczył wniosek o przyznanie jednolitej Ń3) rodzaje roślin, inne niż wymienione płatności obszarowej lub płatności uzuw art. 33 ust. 1 lit. a rozporządzenia pełniającej, i które w dniu 31 maja roku, nr 1973/2004, do których przysługują wktórym został złożony ten wniosek, bypłatności do roślin energetycznych, ma- ły wposiadaniu spadkodawcy albo spadjąc na względzie art. 33 ust. 1 akapit dru- kobiercy;
 
-3. W przypadku gdy z przyczyn niezależnych od wnioskodawcy zbiór roślin energetycznych nie jest możliwy w planowanym terminie, wnioskodawca niezwłocznie powiadamia o tym na piśmie dyrektora oddziału regionalnego Agencji, o którym mowa w ust. 1, podając nowy termin zbioru.
+- **18)** w art. 21: i złożył wniosek o wstąpienie odpowieda) ust. 1 otrzymuje brzmienie: nio do postępowania w sprawie przyznania jednolitej płatności obszarowej lub Ń1. Wprzypadku przekazania gospodarstwa rol- płatności uzupełniającej.”, nego, wrozumieniu art.74 ust.1 lit. arozporządzenia nr 796/2004, jednolita płatność b) po ust. 1 dodaje się ust. 1a w brzmieniu: obszarowa lub płatność uzupełniająca, Ń1a. W przypadku śmierci rolnika, która nastąo które ubiega się przekazujący, są przyzna- piła od dnia złożenia wniosku oprzyznanie wane przejmującemu jeżeli: płatności do upraw roślin energetycznych,
+- **1)** przekazanie zostało dokonane nie póêniej płatności do owoców miękkich lub pomoniż do dnia 31 maja roku, wktórym został cy do rzepaku, do dnia doręczenia decyzji złożony wniosek o przyznanie tych płat- w sprawie ich przyznania, płatności te lub ności; pomoc przysługują spadkobiercy, który: Dziennik Ustaw Nr 44 — 2537 — Poz. 262
+- **1)** objął wposiadanie grunty rolne, których 3) z przekazującym gospodarstwo rolne dotyczył wniosek oprzyznanie tych płat- w związku z wypłacaną rentą strukturalności lub pomocy; ną, emeryturą lub rentą rolniczą z ubez2) spełnia warunki do przyznania danej pieczenia społecznego rolników, jeżeli płatności lub pomocy.”, rolnik wnioskujący o płatność cukrową mógłby dziedziczyć przekazane gospoc) ust. 2 otrzymuje brzmienie: darstwo rolne z ustawy.”, płatności lub pomocy.
+    - **c)** ust. 2 otrzymuje brzmienie: Ń2. W przypadku, o którym mowa w ust. 1 i 1a, spadkobierca wstępuje do toczącego się Ń2. Wysokość płatności cukrowej w danym ropostępowania na miejsce spadkodawcy na ku kalendarzowym ustala się jako iloczyn wniosek złożony w terminie 7 miesięcy od ilości buraków cukrowych objętych umową dnia otwarcia spadku.”, dostawy, o której mowa w ust. 1 i 1a, przeznaczonych do wyprodukowania cukru kwod) ust. 6—8 otrzymują brzmienie: towego w rozumieniu art. 2 pkt 5 rozporządzenia nr 318/2006, i stawki tej płatności na Ń6. Jeżeli z postanowienia sądu o stwierdzeniu 1 tonę buraków cukrowych.”, nabycia spadku wynika, że uprawnionych d) ust. 6 otrzymuje brzmienie: do nabycia spadku jest więcej niż jeden Ń6. Minister właściwy do spraw rolnictwa spadkobierca, spadkobierca wstępujący do w porozumieniu z ministrem właściwym do postępowania wsprawie przyznania płatno- spraw finansów publicznych określa coroczści lub pomocy, o których mowa w ust. 1 nie, w drodze rozporządzenia, stawkę płati 1a, jest obowiązany do dołączenia do ności cukrowej, uwzględniając wysokość wniosku, o którym mowa w ust. 2, oświad- kwoty określonej na ten cel w rozporzączeń pozostałych spadkobierców, że wyra- dzeniu nr 1782/2003 oraz kurs wymiany żają zgodę na wstąpienie tego spadkobiercy euro ustalony zgodnie z rozporządzeniem na miejsce spadkodawcy i przyznanie mu nr 1913/2006.”;
 
-4. Bezpośrednio po dokonaniu zbioru wnioskodawca ustala ilość zebranych roślin energetycznych i w terminie 7 dni od dokonania tego zbioru przekazuje właściwemu miejscowo kierownikowi biura powiatowego Agencji oświadczenie o ilości zebranych roślin energetycznych.
+- **22)** po art. 24 dodaje się art. 24a—24c w brzmieniu:
 
-5. Powiadomienia, o których mowa w ust. 1 i 3, oraz oświadczenie, o którym mowa w ust. 4, składa się na formularzach opracowanych i udostępnionych przez Agencję.
+7. Wniosek, o którym mowa w ust. 2, spadko- ŃArt. 24a. 1. Rolnikowi, który spełnia warunki do bierca składa do kierownika biura powiato- przyznania jednolitej płatności obszawego Agencji, do którego został złożony rowej w danym roku i który złożył wniosek oprzyznanie płatności lub pomocy, wniosek o przyznanie tej płatności o których mowa w ust. 1 i 1a, przez spadko- oraz który w roku gospodarczym dawcę. 2006/2007 dostarczył pomidory do przetworzenia zgodnie ze świadec8. Decyzję w sprawie przyznania płatności lub twem dostawy owoców i warzyw do pomocy, o których mowa w ust. 1 i 1a, wy- przetwórstwa, określonym na poddaje się po złożeniu przez spadkobiercę pra- stawie przepisów o organizacji rynku womocnego postanowienia sądu o stwier- przetworów owocowych i warzywdzeniu nabycia spadku.”; nych, przysługuje płatność do pomi20) uchyla się art. 23; dorów, zgodnie zart.143bb ust.1 rozporządzenia nr 1782/2003.
 
-6. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia:
+- **21)** w art. 24: 2. Płatność do pomidorów przysługuje
+    - **a)** wust.1 wprowadzenie do wyliczenia otrzymuje do masy netto pomidorów, o których brzmienie: mowa w ust. 1, dopuszczonych do przetworzenia, dostarczonych przez: ŃRolnikowi, który spełnia warunki do przyzna- 1) wnioskującego o płatność do ponia jednolitej płatności obszarowej wdanym ro- midorów lub ku iktóry złożył wniosek oprzyznanie tej płatno- 2) małżonka wnioskującego o płatści oraz który zawarł:”, ność do pomidorów, nawet jeżeli osoby te nie pozostawały w związb) po ust. 1 dodaje się ust. 1a w brzmieniu: ku małżeńskim w roku gospodarŃ1a. Płatność cukrowa przysługuje również czym, októrym mowa wust. 1, lub w przypadku gdy buraki cukrowe były ob- 3) spadkodawcę wnioskującego opłatjęte umową dostawy zawartą: ność do pomidorów, lub
 
-- **1)** metody i sposób ustalania ilości zebranych roślin energetycznych, mając na względzie zapewnienie wiarygodności dokonanych ustaleń oraz możliwość ustalenia tej ilości na podstawie pobranych prób;
-- **2)** informacje, które powinny być zawarte w powiadomieniach, o których mowa w ust. 1 i 3, oraz w oświadczeniu, o którym mowa w ust. 4, mając na względzie uzyskiwanie informacji niezbędnych do kontroli zbioru roślin energetycznych oraz kontroli wykorzystania lub przetworzenia roślin energetycznych zebranych na cele energetyczne. ” ;
-- **12)** po art. 10 dodaje się art. 10a w brzmieniu: „ Wnioskodawca wykorzystuje lub przetwarza rośliny energetyczne na cele energetyczne w gospodarstwie, o którym mowa w sekcji 7 rozporządzenia nr 1973/2004, najpóźniej do dnia 31 lipca drugiego roku po roku zbiorów. ” ;
-- **13)** art. 15 otrzymuje brzmienie: „
+- **1)** z małżonkiem rolnika wnioskującego 4) przekazującego gospodarstwo rolo płatność cukrową, także w przypadku ne w związku z wypłacaną rentą gdy osoby te nie pozostawały wzwiązku strukturalną, emeryturą lub rentą małżeńskim w dniu zawarcia tej umowy rolniczą z ubezpieczenia społecznelub go rolników, jeżeli rolnik wnioskujący o płatność do pomidorów mógł2) ze spadkodawcą rolnika wnioskującego by dziedziczyć przekazane gospoo płatność cukrową, lub darstwo rolne z ustawy. Dziennik Ustaw Nr 44 — 2538 — Poz. 262
 
-**Art. 15.**
+3. Wysokość płatności do pomidorów kwoty danego rodzaju płatności, jej w danym roku kalendarzowym usta- stawki lub podstawy do ustalenia wyla się jako iloczyn masy netto pomi- sokości płatności, mając na uwadze dorów, o której mowa w ust. 2, przekazane przez Prezesa Agencji ini stawki tej płatności na 1 tonę pomi- formacje, o których mowa w ust. 1, dorów. oraz zasady ustalania wielkości ta4. Płatność do pomidorów przyznaje się kich zmniejszeń (redukcji) określone na pisemny wniosek. w przepisach Unii Europejskiej.
 
-1. Prezes Agencji Rynku Rolnego prowadzi listę zatwierdzonych podmiotów skupujących i zatwierdzonych pierwszych jednostek przetwórczych, zawierającą informacje, o których mowa w art. 12 ust. 2 pkt 1–4.
+5. Płatność do pomidorów przyznaje się 3. Organ właściwy w sprawach płatnow decyzji w sprawie przyznania płat- ści obszarowych, płatności cukrowej ności, o której mowa w art. 19 ust. 1. lub płatności do pomidorów, na podW decyzji określa się ilość pomido- stawie wielkości określonej w przepirów, do której przysługuje rolnikowi sach wydanych na podstawie ust. 2, płatność do pomidorów, na podsta- ustala wielkość zmniejszenia (redukwie świadectw dostawy, o których cji) kwoty danej płatności, przyznanej mowa w ust. 1, będących w posiada- lub przypadającej na dany podmiot niu Agencji. uprawniony do uzyskania tej płatności, albo zmniejszenia (redukcji) pod6. Do płatności do pomidorów przepi- stawy do przyznania takiemu podsyart. 18 ust. 2, 3 i 5 oraz art. 19 miotowi płatności wyrażonego ust.2—5 i7 stosuje się odpowiednio. w przeliczeniu na jednostkę po7. Minister właściwy do spraw rolnic- wierzchni gruntu, ilość roślin albo twa wporozumieniu zministrem wła- ilość produktów rolnych, stanowiącą ściwym do spraw finansów publicz- tę podstawę: nych określa corocznie, w drodze 1) z urzędu, bez zgody strony, w drorozporządzenia, stawkę płatności do dze decyzji zmieniającej decyzję pomidorów, uwzględniając wyso- o przyznaniu danej płatności — kośćkwoty określonej na ten cel w przypadku gdy płatność została w art. 143bb ust. 2 rozporządzenia przyznana; nr 1782/2003, masę netto pomidorów dopuszczonych do przetworzenia 2) w decyzji o przyznaniu danej płatwroku gospodarczym 2006/2007 oraz ności — wprzypadku gdy płatność kurs wymiany euro ustalony zgodnie ta nie została jeszcze przyznana; z rozporządzeniem nr 1913/2006. 3) w decyzji o wypłacie danej płatnoArt. 24b. 1. W przypadku gdy z przepisów Unii ści — w przypadku gdy przepisy Europejskiej dotyczących płatności przewidują wydanie takiej decyzji; obszarowych, płatności cukrowej lub 4) z urzędu, bez zgody strony, w dropłatności do pomidorów, w tym dze decyzji zmieniającej decyzję z przepisów wydanych przez Komi- o wypłacie danej płatności — sję Europejską działającą w trybie w przypadku gdy przepisy przewiart. 144 ust. 2 rozporządzenia dują wydanie decyzji owypłacie tej nr 1782/2003, wynika obowiązek za- płatności, a środki z tytułu tej płatstosowania zmniejszenia (redukcji) ności nie zostały wypłacone. kwoty danego rodzaju płatności, jej 4. W przypadku gdy dana płatność zostawki lub podstawy do ustalenia wy- stała już wypłacona, zwrotu z tytułu sokości płatności, w wyniku przekro- zmniejszenia (redukcji) tej płatności czenia wielkości środków finanso- dokonuje się wtrybie określonym dla wych przewidzianych dla Rzeczypo- zwrotu kwot nienależnie lub nadmierspolitej Polskiej z przeznaczeniem na nie pobranych środków wprzepisach ten rodzaj płatności lub w wyniku o utworzeniu Agencji Restrukturyzaprzekroczenia przewidzianej dla Rze- cji i Modernizacji Rolnictwa. czypospolitej Polskiej wielkości powierzchni gruntów lub ilości roślin 5. Decyzja, októrej mowa wust.3, podlub produktów rolnych, które mogą lega natychmiastowemu wykonaniu. być objęte danym rodzajem płatno- 6. Przepisów ust. 1 i 2 nie stosuje się ści, Prezes Agencji ustala niezwłocz- w przypadku gdy zmniejszenie (renie wielkość tego przekroczenia dukcja) kwoty danego rodzaju płatnoi przekazuje informacje w tym zakre- ści, jej stawki lub podstawy do ustalesie ministrowi właściwemu do spraw nia wysokości płatności jest możliwe rolnictwa. do zastosowania w toku postępowa2. Minister właściwy do spraw rolnic- nia w sprawie o przyznanie danej twa określa, w drodze rozporządze- płatności na podstawie przepisów nia, wielkość zmniejszenia (redukcji) Unii Europejskiej dotyczących płatnoDziennik Ustaw Nr 44 — 2539 — Poz. 262 ści obszarowych, płatności cukro- 25) w art. 27: wejlub płatności do pomidorów, w tymprzepisów wydanych przez a) ust. 1 otrzymuje brzmienie: Komisję Europejską działającą w trybie art. 144 ust. 2 rozporządzenia Ń1. Jeżeli po doręczeniu decyzji w sprawie przynr 1782/2003, z tym że jeżeli przepisy znania płatności obszarowych, płatności cukte nie określają trybu dokonania tego rowej, płatności do pomidorów lub pomocy zmniejszenia (redukcji) ust. 3 stosuje do rzepaku rolnik, do którego decyzja zostasię odpowiednio. ła skierowana, zmarł, jego spadkobiercy przysługują prawa, które przysługiwałyby
 
-2. Lista, o której mowa w ust. 1, jest zamieszczana na stronie internetowej Agencji Rynku Rolnego oraz na stronie internetowej Agencji.
+**Art. 24c.** Minister właściwy do spraw rolnictwa spadkodawcy jako stronie postępowania.”, może określić, wdrodze rozporządzenia, szczegółowe warunki lub szczegółowy b) ust. 3—7 otrzymują brzmienie: tryb przyznawania płatności obszarowych, płatności cukrowej, płatności do Ń3. W przypadku gdy w decyzji, o której mowa pomidorów i pomocy do rzepaku oraz w ust. 1, została przyznana płatność obszaszczegółowe wymagania, jakim powin- rowa, płatność cukrowa, płatność do pominy odpowiadać uprawy poszczególnych dorów lub pomoc do rzepaku, należność roślin, w tym szczegółowe warunki lub z tytułu tych płatności lub pomocy jest tryb przyznawania tych płatności i tej przedmiotem dziedziczenia. pomocy spadkobiercy lub małżonkowi 4. Spadkobierca rolnika, który nie kwestionuje rolnika, lub przejmującemu gospodar- należności określonej wdecyzji, októrej mostwo, mając na względzie zabezpiecze- wa w ust. 1, składa wniosek o wypłatę płatnie przed nieuzasadnionym przyznawa- ności obszarowych, płatności cukrowej, niem tych płatności i tej pomocy.”; płatności do pomidorów lub pomocy do rze23) w art. 25: paku do kierownika biura powiatowego Agencji, do którego został złożony wniosek
 
-3. Minister właściwy do spraw rolnictwa, na podstawie informacji przekazanych przez Prezesa Agencji Rynku Rolnego w zakresie określonym w ust. 1, ogłasza w dzienniku urzędowym ministra właściwego do spraw rolnictwa listę, o której mowa w ust. 1, z podaniem informacji określonych w art. 12 ust. 2 pkt 1–4, w terminie, o którym mowa w art. 37 ust. 6 rozporządzenia nr 1973/2004. ” ;
+Ń6. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, szczegółowe 5. Jeżeli z postanowienia sądu o stwierdzeniu wymagania, jakie powinny spełniać wnios- nabycia spadku wynika, że uprawnionych ki, októrych mowa wust.1, mając na wzglę- do nabycia spadku jest więcej niż jeden dzie zabezpieczenie przed nieuzasadnionym spadkobierca, spadkobierca występujący przyznawaniem płatności obszarowych, z wnioskiem, o którym mowa w ust. 4, jest płatności cukrowej, płatności do pomido- obowiązany dołączyć do wniosku oświadrów lub pomocy do rzepaku, zawarcie we czenia pozostałych spadkobierców, że wyrawnioskach danych niezbędnych do prawi- żają zgodę na wypłatę mu płatności obszadłowego przyznania płatności obszarowych, rowych, płatności cukrowej, płatności do płatności cukrowej, płatności do pomido- pomidorów lub pomocy do rzepaku. rów lub pomocy do rzepaku oraz przepisy Unii Europejskiej, o których mowa w art. 1 6. W przypadku złożenia wniosku o wypłatę pkt 1.”; płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rze24) art. 26 otrzymuje brzmienie: paku kierownik biura powiatowego Agencji wydaje decyzję wsprawie wypłaty tych płatŃArt. 26. W przypadku śmierci rolnika, który wy- ności lub pomocy. stąpił zwnioskiem oprzyznanie płatności cukrowej lub płatności do pomidorów, 7. Wprzypadku niezłożenia wniosku, októrym przed dniem doręczenia decyzji w spra- mowa w ust. 6, albo w przypadku wydania wie przyznania tych płatności, płatność decyzji oodmowie wypłaty płatności obszacukrową lub płatność do pomidorów rowych, płatności cukrowej, płatności do przyznaje się z urzędu spadkobiercy, któ- pomidorów lub pomocy do rzepaku, decyremu przyznano jednolitą płatność ob- zja, o której mowa w ust. 1, wygasa z mocy szarową.”; prawa.”; Dziennik Ustaw Nr 44 — 2540 — Poz. 262
 
-- **14)** w art. 16: ust. 1 otrzymuje brzmienie: „
-    - **a)**
+- **a)** ust. 1 otrzymuje brzmienie: o przyznanie tych płatności lub pomocy Ń1. Rolnik składa wnioski w sprawach dotyczą- przez spadkodawcę, wraz z prawomocnym cych płatności obszarowych, płatności cuk- postanowieniem sądu o stwierdzeniu nabycia spadku w terminie 14 dni od dnia uprarowej, płatności do pomidorów, pomocy do womocnienia się tego postanowienia, jedrzepaku i zgody, o której mowa w art. 28 nak nie póêniej niż w ciągu 6 miesięcy ust. 1, na formularzach opracowanych od dnia doręczenia spadkodawcy decyzji i udostępnionych przez Agencję.”, w sprawie przyznania płatności obszarob) ust. 6 otrzymuje brzmienie: wych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku.
+- **26)** po art. 29 dodaje się art. 29a—29d w brzmieniu: 3) numer identyfikacyjny, o którym ŃArt. 29a. 1. Rolnikowi przysługuje pomoc do mowa w przepisach o krajowym plantacji trwałych w wysokości do systemie ewidencji producentów, 50% zryczałtowanych kosztów zwią- ewidencji gospodarstw rolnych zanych z założeniem plantacji upraw oraz ewidencji wniosków o przytrwałych, zwanej dalej Ńplantacją”, znanie płatności. w przeliczeniu na 1 ha plantacji. 8. Wniosek o przyznanie pomocy do
 
-1. Podmioty, o których mowa w art. 38 rozporządzenia nr 1973/2004, prowadzą rejestry zgodnie z wymaganiami określonymi w tym rozporządzeniu oraz ze szczegółowymi wymaganiami określonymi przez ministra właściwego do spraw rynków rolnych na podstawie ust. 3, według wzorów opracowanych i udostępnionych przez Agencję Rynku Rolnego. ” , ust. 3 otrzymuje brzmienie: „
+2. Pomoc do plantacji trwałych przyzna- plantacji trwałych składa się na piśje się, jeżeli plantacja: mie, na formularzu opracowanym
 
-- **b)**
+- **1)** obejmuje obszar co najmniej 1 ha; i udostępnionym przez Agencję Rynku Rolnego, wterminie 3 miesięcy od
+- **2)** nie została założona na trwałych dnia złożenia wniosku o przyznanie użytkach zielonych; płatności do upraw roślin energetycz3) jest objęta wnioskiem oprzyznanie nych, o którym mowa w ust. 2 pkt 3. płatności do upraw roślin energe- 9. Do wniosku o przyznanie pomocy do tycznych za rok, w którym planta- plantacji trwałych dołącza się kopię cja została założona, lub za rok następujący po roku założenia planta- wniosku o przyznanie płatności do cji. upraw roślin energetycznych, o którym mowa w ust. 2 pkt 3, złożonego
 
-3. Minister właściwy do spraw rynków rolnych, w drodze rozporządzenia, określi szczegółowe wymagania, jakim powinny odpowiadać rejestry, o których mowa w ust. 1, oraz szczegółowe wymagania ich prowadzenia, w tym:
+3. Pomoc do plantacji trwałych przysłu- do kierownika biura powiatowego guje rolnikowi w danym roku do zry- Agencji. czałtowanych kosztów związanych z założeniem plantacji o powierzchni 10. Decyzję o przyznaniu pomocy do nie większej niż 100 ha. plantacji trwałych wydaje się z zastrzeżeniem warunków, o których
 
-- **1)** dane, jakie powinny być zawarte w rejestrach, inne niż wymienione w art. 38 ust. 2–4 rozporządzenia nr 1973/2004,
-- **2)** częstotliwość dokonywania wpisów w rejestrach mając na względzie specyfikę działalności wykonywanej przez podmioty, o których mowa w art. 38 rozporządzenia nr 1973/2004, zapewnienie informacji niezbędnych do prawidłowego przeprowadzania kontroli tych podmiotów oraz ujednolicenie informacji zawartych w tych rejestrach. ” ;
-- **15)** po art. 16 dodaje się art. 16a-16e w brzmieniu: „
+4. Pomoc do plantacji trwałych do danej mowa w ust. 5. plantacji przyznaje się tylko raz.
 
-**Art. 16a.**
+5. Pomoc do plantacji trwałych przyzna- 11. Decyzja o przyznaniu pomocy do je się, pod warunkiem że: plantacji trwałych zawiera pouczenie o konieczności spełnienia warunków,
 
-1. Dyrektor oddziału regionalnego Agencji dokonuje, w drodze decyzji, zatwierdzenia skupującego owoce miękkie albo przetwórcy owoców miękkich, jeżeli spełniają oni warunki zapewniające spełnienie kryteriów, o których mowa w art. 171db rozporządzenia nr 1973/2004.
+- **1)** plantacja będzie utrzymywana o których mowa w ust. 5, oraz o koprzez co najmniej kolejnych 5 lat, nieczności zwrotu tej pomocy wprzylicząc od dnia złożenia wniosku padku niespełnienia tych warunków. o przyznanie tej pomocy;
+- **2)** wszystkie rośliny zebrane z plan- 12. Minister właściwy do spraw rynków tacji w okresie, o którym mowa rolnych określi, w drodze rozporząwpkt1, będą przeznaczone na cele dzenia, rodzaje roślin objętych pomoenergetyczne; cą do plantacji trwałych oraz zryczał3) rolnikowi zostanie przyznana płat- towane koszty związane z założeniem ność do upraw roślin energetycz- plantacji w przeliczeniu na 1 ha plannych na podstawie wniosku, o któ- tacji, mając na względzie rzeczywiste rym mowa w ust. 2 pkt 3. koszty związane z jej założeniem.
 
-2. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, szczegółowe warunki, jakie powinny spełniać zatwierdzeni skupujący owoce miękkie i zatwierdzeni przetwórcy owoców miękkich, w tym warunki niezbędne do dokonania zatwierdzenia, mając na względzie specyfikę działalności prowadzonej przez te podmioty oraz zapewnienie prawidłowego przyznawania płatności do owoców miękkich.
+6. Pomoc do plantacji trwałych przyzna- 13. Minister właściwy do spraw rynków je w drodze decyzji dyrektor oddziału rolnych w porozumieniu z ministrem terenowego Agencji Rynku Rolnego, właściwym do spraw finansów pubwłaściwy ze względu na miejsce po- licznych określa corocznie, w drodze łożenia plantacji. rozporządzenia, wyrażoną w procen7. Wniosek o przyznanie pomocy do tach wysokość pomocy do plantacji plantacji trwałych zawiera informacje trwałych, mając na względzie maksyniezbędne do przyznawania tej po- malną, dopuszczalną wysokość tej mocy, w tym: pomocy oraz założenia do ustawy budżetowej na dany rok.
 
-1. Zatwierdzenia dokonuje się na pisemny wniosek przetwórcy owoców miękkich albo skupującego owoce miękkie, składany na formularzu opracowanym i udostępnionym przez Agencję.
+- **1)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę 14. Minister właściwy do spraw rynków i adres; rolnych określi, w drodze rozporzą2) numer identyfikacji podatkowej dzenia, szczegółowe warunki lub (NIP) oraz numer identyfikacyjny szczegółowy tryb przyznawania pow krajowym rejestrze urzędowym mocy do plantacji trwałych, a także podmiotów gospodarki narodowej szczegółowe wymagania, jakie po(REGON), jeżeli został nadany, winny spełniać plantacje, których doa w przypadku osoby fizycznej — tyczy wniosek oprzyznanie tej pomorównież numer ewidencyjny po- cy, mając na względzie zabezpieczewszechnego elektronicznego sys- nie przed nieuzasadnionym przyznatemu ewidencji ludności (PESEL); waniem pomocy. Dziennik Ustaw Nr 44 — 2541 — Poz. 262
 
-2. Wniosek o zatwierdzenie zawiera:
+**Art. 29b.**
 
-- **1)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres;
-- **2)** numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany, a w przypadku osoby fizycznej – również numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludności (PESEL);
-- **3)** numer identyfikacyjny, o którym mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, jeżeli został nadany;
-- **4)** wskazanie: rodzaju i zakresu wykonywanej działalności, miejsca lub miejsc wykonywania działalności;
-    - **a)**
-    - **b)**
+1. Pomoc do plantacji trwałych podlega 27) art. 30 otrzymuje brzmienie: zwrotowi wcałości lub wczęści, jeżeli rolnik nie spełni warunków, o któ- ŃArt. 30. 1. Agencja przeprowadza kontrole: rych mowa w art. 29a ust. 5, w trybie 1) administracyjne ina miejscu, okreśokreślonym dla zwrotu kwot niena- lone wprzepisach Unii Europejskiej, leżnie lub nadmiernie pobranych o których mowa w art. 1 pkt 1, z zaśrodków wprzepisach oAgencji Ryn- strzeżeniem art. 32; ku Rolnego i organizacji niektórych 2) zbioru i ustalania ilości zebranych rynków rolnych. roślin energetycznych, dla których
 
-- **5)** informację o urządzeniach lub środkach transportu służących do skupu lub pierwszego przetwarzania owoców miękkich;
-- **6)** w przypadku skupującego owoce miękkie – wskazanie rodzaju nabywanych produktów, o których mowa w art. 110v ust. 1 rozporządzenia nr 1782/2003;
-- **7)** w przypadku przetwórcy owoców miękkich – wskazanie rodzaju wytwarzanych produktów, o których mowa w art. 1 ust. 2 rozporządzenia Rady (WE) nr 2201/96 z dnia 28 października 1996 r. w sprawie wspólnej organizacji rynku przetworów owocowych i warzywnych (Dz. Urz. WE L 297 z 21.11.1996, str. 29, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 20, str. 83, z późn. zm.).
+2. Minister właściwy do spraw rynków nie określono plonu reprezentatywrolnych określi, w drodze rozporzą- nego; dzenia, szczegółowe warunki doko- 3) zatwierdzonych przetwórców owonywania zwrotu całości lub części po- ców miękkich lub zatwierdzonych mocy do plantacji trwałych, mając na skupujących owoce miękkie w zawzględzie rodzaj i stopień naruszenia kresie: warunków przyznania tej pomocy. a) zgodności prowadzonej działalArt. 29c. W przypadku śmierci rolnika, która ności z przepisami rozporządzenastąpiła od dnia złożenia wniosku nia nr 1973/2004, o przyznanie pomocy do plantacji b) spełniania warunków, o których trwałych do dnia doręczenia decyzji mowa w art. 16a. w sprawie jej przyznania, przepisy 2. Prezes Agencji może powierzyć przeart. 22 ust. 1a—6 i ust. 8 stosuje się prowadzanie kontroli, o których mowa odpowiednio, z tym że: w ust. 1, jednostkom organizacyjnym
 
-3. Załatwienie sprawy dotyczącej zatwierdzenia, o którym mowa w art. 16a ust. 1, następuje w terminie 2 miesięcy od dnia złożenia wniosku o zatwierdzenie.
+- **1)** wniosek, o którym mowa w art. 22 dysponującym odpowiednimi warunust. 2, spadkobierca składa do kami organizacyjnymi, kadrowymi dyrektora oddziału terenowego i technicznymi, określonymi na podAgencji Rynku Rolnego, do które- stawie art. 34 ust. 1 pkt 1. go został złożony wniosek o przy- 3. Prezes Agencji ustala sposób i metody znanie pomocy do plantacji trwa- typowania do kontroli, októrych mowa łych przez spadkodawcę; w ust. 1, oraz liczbę podmiotów, które
+- **2)** pomoc przyznaje się pod warun- należy objąć określoną kontrolą.”; kiem, że zostaną spełnione warunki, o których mowa w art. 29a 28) po art. 30 dodaje się art. 30a w brzmieniu: ust. 5. ŃArt. 30a. 1. Czynności kontrolne w ramach konArt. 29d. Jeżeli po doręczeniu decyzji w spra- troli, o których mowa: wie przyznania pomocy do plantacji 1) wart.30 ust.1 pkt2, są wykonywatrwałych rolnik, do którego decyzja ne przez osoby posiadające imienzostała skierowana, zmarł, przepisy ne upoważnienie wydane przez art. 27 stosuje się odpowiednio, dyrektora oddziału regionalnego z tym że: Agencji, o którym mowa w art. 10
+- **1)** wniosek, o którym mowa w art. 27 ust. 1; ust. 4, spadkobierca składa do 2) wart.30 ust.1 pkt3, są wykonywadyrektora oddziału terenowego ne przez osoby posiadające imienAgencji Rynku Rolnego, do które- ne upoważnienie wydane przez go został złożony wniosek o przy- Prezesa Agencji. znanie pomocy do plantacji trwałych przez spadkodawcę; 2. Upoważnienia, o których mowa w ust. 1, zawierają wskazanie osoby
+- **2)** decyzję w sprawie wypłaty pomo- upoważnionej do wykonywania czyncy do plantacji trwałych wydaje dy- ności kontrolnych, miejsce i zakres rektor oddziału terenowego Agen- oraz podstawę prawną do ich wykocji Rynku Rolnego, októrym mowa nywania. w pkt 1;
+- **3)** spadkobierca jest obowiązany 3. Przed przystąpieniem do czynności spełnić warunki, o których mowa kontrolnych osoba upoważniona do w art. 29a ust. 5 — w przypadku ich wykonywania jest obowiązana przyznania pomocy do plantacji okazać kontrolowanemu imienne trwałych lub wydania decyzji owy- upoważnienie. płacie pomocy do plantacji trwa- 4. Czynności kontrolne przeprowadza łych.”; się w obecności kontrolowanego. Dziennik Ustaw Nr 44 — 2542 — Poz. 262
 
-4. Minister właściwy do spraw rynków rolnych może określić, w drodze rozporządzenia, dodatkowe informacje, które powinien zawierać wniosek o zatwierdzenie, mając na względzie uzyskiwanie informacji niezbędnych do prawidłowej kontroli zatwierdzonych skupujących owoce miękkie oraz zatwierdzonych przetwórców owoców miękkich. Zatwierdzony skupujący owoce miękkie oraz zatwierdzony przetwórca owoców miękkich są obowiązani informować dyrektora oddziału regionalnego Agencji o każdej zmianie danych zawartych we wniosku o zatwierdzenie, w terminie 14 dni od dnia zmiany tych danych, pod rygorem cofnięcia zatwierdzenia.
+5. Osoby upoważnione do wykonywa- b) ust. 7 otrzymuje brzmienie: nia czynności kontrolnych w ramach Ń7. W przypadku gdy rolnik nie zgadza się kontroli, o których mowa w art. 30 z ustaleniami zawartymi w raporcie, może ust. 1 pkt 2, mają prawo do: zgłosić umotywowane zastrzeżenia na piś1) wstępu na teren gospodarstwa, mie, co do ustaleń w nim zawartych, dyreko którym mowa w sekcji 7 rozpo- torowi oddziału regionalnego Agencji, rządzenia nr 1973/2004; wterminie 14 dni od dnia doręczenia rapor2) żądania pisemnych lub ustnych in- tu, chyba że bezpośrednio po zakończeniu formacji; kontroli rolnik, który był obecny podczas kontroli, zgłosił umotywowane zastrzeżenia,
 
-1. Dyrektor oddziału regionalnego Agencji cofa zatwierdzenie w przypadku:
+- **3)** wglądu do dokumentów związa- co do ustaleń zawartych wraporcie, osobie, nych z przedmiotem kontroli, spo- która go sporządziła.”; rządzania z nich odpisów, wyciągów lub kopii oraz zabezpieczania 30) art. 32 otrzymuje brzmienie: tych dokumentów; ŃArt. 32. 1. Agencja Rynku Rolnego przeprowadza
+- **4)** ustalania ilości zebranych roślin kontrole: energetycznych z zastosowaniem metod określonych w przepisach 1) w zakresie wykorzystania lub przewydanych na podstawie art. 10 twarzania roślin energetycznych ust. 6 pkt 1. w gospodarstwie, o którym mowa
 
-- **1)** rażącego naruszenia lub uporczywego naruszania warunków, o których mowa w art. 16a;
-- **2)** nieprzekazywania w terminie informacji o zmianie danych zawartych we wniosku o zatwierdzenie.
+6. Osoby upoważnione do wykonywa- w sekcji 7 rozporządzenia nia czynności kontrolnych w ramach nr 1973/2004, na cele energetyczne, kontroli, o których mowa w art. 30 o których mowa w art. 35 lit. b tego ust. 1 pkt 3, mają prawo do: rozporządzenia;
 
-2. Skupujący owoce miękkie albo przetwórca owoców miękkich, któremu zostało cofnięte zatwierdzenie z powodów, o których mowa w ust. 1 pkt 1, może złożyć wniosek o ponowne zatwierdzenie nie wcześniej niż po upływie roku od dnia, w którym decyzja o cofnięciu zatwierdzenia stała się ostateczna.
+- **1)** wstępu na teren nieruchomości, 2) zatwierdzonych podmiotów skupuobiektów, lokali lub ich części, jących i zatwierdzonych pierwszych związanych ze skupem lub prze- jednostek przetwórczych wzakresie: twarzaniem owoców miękkich; a) zgodności prowadzonej działal2) żądania pisemnych lub ustnych in- ności z przepisami rozporządzeformacji; nia nr 1973/2004,
+- **3)** wglądu do dokumentów lub in- b) spełniania warunków, o których nych nośników informacji związa- mowa w art. 11; nych z przedmiotem kontroli, sporządzania z nich odpisów, wycią- 3) októrych mowa wart.38 i39 rozpogów lub kopii oraz zabezpieczania rządzenia nr1973/2004, wtym dokotych dokumentów lub nośników. nuje ustalenia wartości ekonomicznej zgodnie z art. 38 ust. 6 tego roz7. Z czynności kontrolnych sporządza porządzenia; się raport.
+- **4)** w zakresie spełniania obowiązków,
 
-1. Prezes Agencji prowadzi listę zatwierdzonych skupujących owoce miękkie i zatwierdzonych przetwórców owoców miękkich, zawierającą informacje, o których mowa w art. 16b ust. 2 pkt 1–4 oraz pkt 6 i 7.
+8. W przypadku gdy kontrolowany nie o których mowa w art. 8 ust. 5 i 6; zgadza się z ustaleniami zawartymi w raporcie, może, w terminie 14 dni 5) w zakresie spełniania warunków od dnia doręczenia raportu, zgłosić przyznania pomocy do plantacji umotywowane zastrzeżenia na piś- trwałych. mie, co do ustaleń w nim zawartych: 2. Prezes Agencji Rynku Rolnego może
 
-2. Lista, o której mowa w ust. 1, jest zamieszczana na stronie internetowej Agencji oraz na stronie internetowej Agencji Rynku Rolnego.
+- **1)** dyrektorowi oddziału regionalnego powierzyć przeprowadzanie kontroli, Agencji — w przypadku kontroli, o których mowa w ust. 1, jednostkom o których mowa w art. 30 ust. 1 organizacyjnym dysponującym odpopkt 2; wiednimi warunkami organizacyjnymi,
+- **2)** Prezesowi Agencji — w przypadku kadrowymi i technicznymi określonykontroli, o których mowa w art. 30 mi na podstawie art. 34 ust. 1 pkt 1. ust. 1 pkt 3.”; 3. Prezes Agencji Rynku Rolnego ustala dodatkowe kryteria analizy ryzyka,
+- **29)** w art. 31: o których mowa w art. 39 ust. 4 lit. f Ń4. Czynności kontrolne mogą być wykonywa- 4. Wprzypadku, októrym mowa wart.38 ne podczas nieobecności rolnika także wów- ust. 6 rozporządzenia nr 1973/2004, orczas, gdy rolnik został zawiadomiony okon- ganem właściwym do ustalania średtroli, zgodnie z art. 23a rozporządzenia nich cen jest Prezes Agencji Rynku Rolnr 796/2004.”, nego.”; Dziennik Ustaw Nr 44 — 2543 — Poz. 262
+    - **a)** ust. 4 otrzymuje brzmienie: rozporządzenia nr 1973/2004.
 
-3. Minister właściwy do spraw rolnictwa, na podstawie informacji przekazanych przez Prezesa Agencji w zakresie określonym w ust. 1, ogłasza w dzienniku urzędowym ministra właściwego do spraw rolnictwa listę, o której mowa w ust. 1, z podaniem informacji określonych w art. 16b ust. 2 pkt 1–4 oraz pkt 6 i 7, w terminie, o którym mowa w art. 171db ust. 4 rozporządzenia nr 1973/2004. ” ;
+- **31)** w art. 33: liczności, ze względu na wystąpienie których Rzeczpospolita Polska została którego obszarze jest uprawiana plantacja, do której przyznano pomoc do plantacji trwa- 3. W przypadku dokonywania wypłaty łych.”, zaliczkowej płatności obszarowych, płatności cukrowej lub płatności do piśmie, co do ustaleń wnim zawartych, Prezesowi Agencji Rynku Rolnego, w terminie 35) po art. 37 dodaje się art. 37a w brzmieniu: 14 dni od dnia doręczenia raportu.”; ŃArt. 37a. 1. Zmniejszeń, októrych mowa wart.66 rozporządzenia nr 796/2004, nie sto32) w art. 34 uchyla się ust. 2; suje się, jeżeli kwota zmniejszenia po33) art. 36 otrzymuje brzmienie: szczególnych płatności obszarowych, płatności cukrowej albo płatności do ŃArt. 36. Minister właściwy do spraw rozwoju wsi pomidorów nie byłaby większa niż oraz minister właściwy do spraw rynków równowartość kwoty 100 euro przelirolnych określą, w drodze zarządzenia, czonej na złote według kursu euro warunki i tryb współpracy pomiędzy ustalonego zgodnie z art. 3 rozporząAgencją a Agencją Rynku Rolnego w za- dzenia nr 1913/2006. kresie przyznawania płatności do upraw roślin energetycznych oraz pomocy do 2. Niezgodność, o której mowa w art. 2 plantacji trwałych.”; pkt 35 rozporządzenia nr 796/2004, mimo której nie zastosowano zmniej34) art. 37 otrzymuje brzmienie: szenia, o którym mowa w ust. 1, jest przedmiotem kontroli w roku nastęŃArt. 37. 1. Agencja wypłaca płatności obszarowe, pującym po roku, w którym został płatność cukrową i płatność do pomi- złożony wniosek oprzyznanie płatnodorów w terminach określonych ści obszarowych, płatności cukrowej w art. 28 ust. 2 rozporządzenia lub płatności do pomidorów. nr 1782/2003.
+    - **a)** wust.5 wpkt3 kropkę zastępuje się średnikiem upoważniona do dokonania wypłat i dodaje się pkt 4 w brzmieniu: zaliczkowych płatności obszarowych, Ń4) wstępu na teren gospodarstwa, októrymmo- płatności cukrowej i płatności do powa wsekcji 7 rozporządzenia nr1973/2004, na midorów przed dniem 1 grudnia.
+    - **b)** ust. 7 otrzymuje brzmienie: pomidorów w decyzji w sprawie przyŃ7. W przypadku gdy kontrolowany nie zgadza znania tych płatności określa się wysosię zustaleniami zawartymi wraporcie, mo- kość i termin wypłaty zaliczkowej płatże zgłosić umotywowane zastrzeżenia na ności.”;
 
-- **16)** w art. 17: w ust. 1: – pkt 1 otrzymuje brzmienie: „ 1) w porozumieniu z ministrem właściwym do spraw finansów publicznych określa corocznie, w drodze rozporządzenia: a) stawkę jednolitej płatności obszarowej, mając na względzie art. 143b ust. 2 i 7 rozporządzenia nr 1782/2003 oraz kurs wymiany euro ustalany zgodnie z art. 3 rozporządzenia Komisji (WE) nr 1913/2006 z dnia 20 grudnia 2006 r. ustanawiającym szczegółowe zasady stosowania agromonetarnego systemu dla euro w rolnictwie i zmieniającym niektóre rozporządzenia (Dz. Urz. UE L 365 z 21.12.2006, str. 52, z późn. zm.), zwanego dalej „rozporządzeniem nr 1913/2006”, b) stawki płatności uzupełniających dla poszczególnych upraw, mając na względzie możliwość zróżnicowania stawek w zależności od preferowanych kierunków rozwoju produkcji rolnej, założenia do ustawy budżetowej na dany rok i kurs wymiany euro ustalany zgodnie z rozporządzeniem nr 1913/2006; ” , – po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) w porozumieniu z ministrem właściwym do spraw finansów publicznych określa corocznie, w drodze rozporządzenia, stawkę pomocy krajowej do owoców stanowiącą część stawki płatności do owoców miękkich, uwzględniając wysokość pomocy wspólnotowej do owoców na dany rok i dopuszczalną możliwą wysokość pomocy krajowej do owoców, jak również założenia do ustawy budżetowej na dany rok oraz kurs wymiany euro ustalony zgodnie z rozporządzeniem nr 1913/2006; ” , ust. 3 otrzymuje brzmienie: „
-    - **a)**
-    - **b)**
+2. W przypadku gdy Komisja Europejska, 3. W przypadku, o którym mowa działając w trybie art. 144 ust. 2 roz- wust.1, wdecyzji wsprawie przyznaporządzenia nr 1782/2003, upoważni nia płatności obszarowych, płatności Rzeczpospolitą Polską do dokonania cukrowej lub płatności do pomidozaliczkowych płatności obszarowych, rów: płatności cukrowej i płatności do po- 1) podaje się informację: midorów zgodnie z warunkami okreś- a) o niezastosowaniu zmniejszelonymi wart.28 ust.3 lit. c tego rozpo- nia, rządzenia, minister właściwy do spraw rozwoju wsi może określić, w drodze b) o objęciu stwierdzonej nierozporządzenia: zgodności, o której mowa w art. 2 pkt 35 rozporządzenia
 
-3. Wydając rozporządzenie, o którym mowa w ust. 1 pkt 2 lit. a, minister właściwy do spraw rolnictwa może uzależnić objęcie danego rodzaju roślin płatnościami uzupełniającymi od liczby zwierząt danego gatunku posiadanych przez rolnika w danym okresie lub w danym dniu, lub od przyznania rolnikowi określonej płatności obszarowej w danym okresie lub do danej powierzchni gruntów rolnych. ” , w ust. 4 uchyla się pkt 2, 4 i 5, po ust. 4 dodaje się ust. 4a w brzmieniu: „
+- **1)** termin rozpoczęcia wypłat zaliczko- nr 796/2004, kontrolą w ramach wych płatności obszarowych, płat- kontroli na miejscu, w roku naności cukrowej lub płatności do po- stępującym po roku, w którym midorów lub został złożony wniosek o przy2) wysokość wypłat zaliczkowych płat- znanie płatności obszarowych, ności obszarowych, płatności cuk- płatności cukrowej lub płatności rowej lub płatności do pomidorów, do pomidorów; lub 2) nakazuje się podjęcie określonych
+- **3)** obszary objęte wypłatami zaliczko- działań mających na celu usunięcie wych płatności obszarowych, płat- stwierdzonych niezgodności. ności cukrowej lub płatności do pomidorów 4. Działania, o których mowa w ust. 3 pkt 2, powinny być współmierne do — mając na względzie wielkość szkód, rodzaju stwierdzonych niezgodności które powstały wgospodarstwach rol- i nie mogą być nadmiernie uciążliwe nych na skutek nadzwyczajnych oko- dla rolnika.”; Dziennik Ustaw Nr 44 — 2544 — Poz. 262
+- **36)** art. 38 otrzymuje brzmienie: lub umożliwiają realizację uprawnień przez państwo członkowskie Unii EuroŃArt. 38. W przypadku gdy kwota z tytułu płatno- pejskiej lub właściwy organ, lub agencję ści obszarowych, płatności cukrowej, płatniczą, Rada Ministrów może, w dropłatności do pomidorów lub pomocy do dze rozporządzenia: rzepaku nie może zostać przekazana na rachunek bankowy rolnika z przyczyn 1) wyznaczyć Agencję lub Agencję Rynku niezależnych od Agencji, kierownik biura Rolnego jako jednostkę organizacyjną powiatowego Agencji stwierdza wygaś- wykonującą określone obowiązki lub nięcie decyzji w sprawie przyznania tej uprawnienia lub płatności lub pomocy, jeżeli od dnia, w którym decyzja o ich przyznaniu stała 2) określić zadania realizowane przez się ostateczna, upłynęły co najmniej 2 la- Agencję lub Agencję Rynku Rolnego, ta.”; lub sposób i tryb ich realizacji, lub
+- **37)** art. 39 otrzymuje brzmienie: 3) określić szczegółowe warunki dotyczące przyznawania płatności określoŃArt. 39. W przypadku, o którym mowa w art. 155 nych tymi przepisami Kodeksu postępowania administracyjnego, organ wyższego stopnia może zmie- — mając na względzie realizację celów nić decyzję ostateczną w sprawie przy- określonych w przepisach Unii Europejznania płatności obszarowych, płatności skiej wzakresie płatności określonych tycukrowej, płatności do pomidorów lub mi przepisami.”; pomocy do rzepaku, na mocy której strona nabyła prawo, również bez zgody 41) w art. 42 ust. 1 otrzymuje brzmienie: strony, jeżeli nie ograniczy to nabytych Ń1. Prezes Agencji, na podstawie danych dotycząprzez nią praw.”; cych powierzchni działek rolnych zadeklarowa38) art. 40 otrzymuje brzmienie: nych we wnioskach oprzyznanie płatności obszarowych, oblicza średnią powierzchnię grunŃArt. 40. Prezes Agencji odstępuje od ustalania tów rolnych w gospodarstwie rolnym w pokwot nienależnie lub nadmiernie pobra- szczególnych województwach oraz średnią ponych płatności obszarowych, płatności wierzchnię gruntów rolnych w gospodarstwie cukrowej lub płatności do pomidorów, rolnym w kraju w danym roku.”; o którym mowa w art. 11 ust. 4 ustawy z dnia 29 grudnia 1993 r. o utworzeniu 42) w art. 43 ust. 1 i 2 otrzymują brzmienie: Agencji Restrukturyzacji i Modernizacji Ń1. Agencja sporządza i podaje do publicznej wiaRolnictwa (Dz.U. z2005r. Nr31, poz.264, domości wykaz rolników, którym przyznano z póên. zm. ), w przypadku gdy kwota płatności obszarowe, płatność cukrową lub każdej ztych płatności nie jest wyższa od płatność do pomidorów. kwoty stanowiącej równowartość 50 eu- 2. Wykaz, o którym mowa w ust. 1, zawiera imię ro przeliczonej na złote według kursu eu- inazwisko albo nazwę rolnika, jego miejsce zaro ustalonego zgodnie z art. 3 rozporzą- mieszkania albo siedzibę oraz kwoty poszczedzenia nr 1913/2006.”; gólnych płatności obszarowych, płatności cu39) po art. 40 dodaje się art. 40a w brzmieniu: krowej ipłatności do pomidorów, przyznanych na podstawie wniosków złożonych w danym ŃArt. 40a. Należności ustalone w decyzji w spra- roku.”; wie przyznania płatności obszarowych, płatności cukrowej i płatności do pomi- 43) art. 45 otrzymuje brzmienie: dorów nie mogą być przedmiotem ŃArt. 45. 1. Kto: umowy przeniesienia wierzytelności na 1) będąc wnioskodawcą wykorzystująosobę trzecią (przelewu), októrej mowa cym lub przetwarzającym rośliny w przepisach Kodeksu cywilnego.”; energetyczne na cele energetyczne
+- **40)** art. 41 otrzymuje brzmienie: w gospodarstwie, o którym mowa ŃArt. 41. W przypadku gdy przepisy rozporządze- w sekcji 7 rozporządzenia nia nr 1782/2003, w tym przepisy wyda- nr 1973/2004: ne przez Komisję Europejską działającą a) nie prowadzi rejestru, o którym w trybie art. 144 ust. 2 tego rozporządze- mowa w art. 38 ust. 4 rozporząnia, określają obowiązek podjęcia działań dzenia nr1973/2004, lub prowadzi ten rejestr niezgodnie z przepisa——————— mi,
+    - **b)** uniemożliwia lub utrudnia przeprowadzenie kontroli na miejscu, o której mowa w art. 35 lit. b i art. 39 ust. 4 rozporządzenia nr 1973/2004, Dziennik Ustaw Nr 44 — 2545 — Poz. 262
+    - **c)** nie zapewnia wartości gospodar- ny energetycznej nie określono czej produktów energetycznych plonu reprezentatywnego, lub nie uzyskanych w drodze przetwarza- przetworzył roślin energetycznia, októrej mowa wart.24 ust.6 nych do dnia 31 lipca drugiego rozporządzenia nr 1973/2004, roku po roku zbiorów,
+    - **d)** wykorzystuje lub przetwarza roś- c) uniemożliwia lub utrudnia przeliny energetyczne na cele energe- prowadzenie kontroli na miejscu, tyczne niezgodnie z przepisami, októrej mowa wart.39 ust.3 rozw tym nie przetwarza na produk- porządzenia nr 1973/2004, ty końcowe roślin energetycz- d) nie prowadzi rejestru, o którym nych w ilości równej co najmniej mowa w art. 38 ust. 1 i 2 rozpoplonom reprezentatywnym albo rządzenia nr 1973/2004, lub procałkowitej ilości tych roślin, wadzi ten rejestr niezgodnie w przypadku gdy dla danej rośli- z przepisami, ny energetycznej nie określono plonu reprezentatywnego, lub nie e) odmówił podpisania oświadczewykorzystał lub nie przetworzył nia, októrym mowa wart.27 ust.2 roślin energetycznych do dnia, rozporządzenia nr1973/2004, o którym mowa w art. 10a,
+    - **f)** nie przyjmuje od wnioskodawcy
 
-- **c)**
-- **d)**
+- **2)** będąc zatwierdzonym podmiotem roślin energetycznych zgodnie skupującym: z zawartą umową albo całkowitej prowadzenie kontroli na miejscu, 2. Wysokość kary pieniężnej, októrej mooktórej mowa wart.39 ust.2 roz- wa wust.1, nie może przekroczyć rówporządzenia nr 1973/2004, nowartości zabezpieczenia, które podc) nie prowadzi rejestru, o którym legałoby przepadkowi zgodnie z przemowa wart.38 ust.1 i3 rozporzą- pisami rozporządzenia nr 1973/2004 dzenia nr1973/2004, lub prowadzi i rozporządzenia Komisji (EWG) ten rejestr niezgodnie z przepisa- nr 2220/85 z dnia 22 lipca 1985 r. ustami, nawiającego wspólne szczegółowe zasady stosowania systemu zabezpied) odmówił podpisania oświadcze- czeń w odniesieniu do produktów rolnia, o którym mowa w art. 27 nych (Dz. Urz. WE L 205 z 03.08.1985, ust. 2 rozporządzenia str.5, zpóên. zm.; Dz.Urz. UE L Polskie nr 1973/2004, wydanie specjalne, rozdz. 3, t. 6, z zawartą umową albo całkowitej 3. Minister właściwy do spraw rynków ilości roślin energetycznych, rolnych określi, w drodze rozporządzew przypadku gdy dla danej rośli- nia, wysokość kar pieniężnych za naruny energetycznej nie określono szenia, októrych mowa wust.1, różniplonu reprezentatywnego, cując je w zależności od rodzaju tych
+    - **a)** nie przekazuje roślin energetycz- ilości roślin energetycznych, nych pierwszej jednostce prze- w przypadku gdy dla danej roślitwórczej, zgodnie z art. 27 ust. 4 ny energetycznej nie określono rozporządzenia nr 1973/2004, plonu reprezentatywnego
+    - **b)** uniemożliwia lub utrudnia prze- — podlega karze pieniężnej.
+    - **e)** nie przyjmuje od wnioskodawcy str. 186, z póên. zm.) — w przypadku roślin energetycznych zgodnie naruszeń określonych w ust. 1.
 
-4a. Wydając rozporządzenie, o którym mowa w ust. 4 pkt 1, minister właściwy do spraw rolnictwa oraz minister właściwy do spraw rynków rolnych mogą:
+- **3)** będąc zatwierdzoną pierwszą jed- naruszeń oraz mając na względzie nostką przetwórczą: przepisy art. 32 rozporządzenia nr 1973/2004.”;
+    - **a)** nie zapewnia wartości gospodarczej produktów energetycznych 44) po art. 45 dodaje się art. 45a w brzmieniu: uzyskanych wdrodze przetwarza- ŃArt. 45a. 1. Kto: nia, októrej mowa wart.24 ust.6 rozporządzenia nr 1973/2004, 1) będąc wnioskodawcą uprawiającym roślinę energetyczną, dla któb) przetwarza rośliny energetyczne rej nie określono plonu reprezentana cele energetyczne niezgodnie tywnego: z przepisami, w tym nie przetwarza na produkty końcowe określo- a) nie powiadamia właściwego dyne w umowie roślin energetycz- rektora oddziału regionalnego nych w ilości równej co najmniej Agencji o terminie planowaneplonom reprezentatywnym albo go zbioru albo o nowym termicałkowitej ilości tych roślin, nie zbioru lub powiadamia go w przypadku gdy dla danej rośli- niezgodnie z przepisami, Dziennik Ustaw Nr 44 — 2546 — Poz. 262
+    - **b)** nie dokonuje ustalenia ilości ze- d) nie składa dyrektorowi oddziału branych roślin energetycznych terenowego Agencji Rynku Rollub dokonuje tego ustalenia nie- nego informacji, o której mowa zgodnie z przepisami, w art. 39 ust. 1 rozporządzenia
+    - **c)** nie składa oświadczenia, o któ- nr 1973/2004, lub składa ją nierym mowa w art. 10 ust. 4, lub zgodnie z przepisami, składa je niezgodnie z przepisa- e) nie przechowuje kopii umowy, mi, o której mowa w art. 25 rozpod) uniemożliwia lub utrudnia prze- rządzenia nr 1973/2004, przez prowadzenie kontroli, o której okres 5 lat od dnia jej zawarcia, mowa w art. 30 ust. 1 pkt 2,
 
-- **1)** odstąpić od określenia plonu reprezentatywnego w przypadku roślin, o których mowa w art. 26 ust. 2 rozporządzenia nr 1973/2004;
-- **2)** zróżnicować wielkość plonu reprezentatywnego ze względu na obszar, na którym jest uprawiany dany gatunek roślin energetycznych, mając na względzie podział administracyjny kraju. ” , w ust. 5: – pkt 2 otrzymuje brzmienie: „ 2) minimalną powierzchnię upraw poszczególnych roślin energetycznych, mając na względzie warunki przyznawania płatności do upraw roślin energetycznych; ” , – dodaje się pkt 3 w brzmieniu: „ 3) rodzaje roślin, inne niż wymienione w art. 33 ust. 1 lit. a rozporządzenia nr 1973/2004, do których przysługują płatności do roślin energetycznych, mając na względzie art. 33 ust. 1 akapit drugi tego rozporządzenia. ” ;
-    - **e)**
+- **5)** będąc jednostką przetwórczą prze2) będąc wnioskodawcą nie przecho- twarzającą produkty pośrednie lub wuje kopii deklaracji, o której mo- uboczne, dostarczone przez zawa w art. 33 ust. 2 rozporządzenia twierdzone pierwsze jednostki nr 1973/2004, lub deklaracji zbio- przetwórcze lub przez kolejną jedrów, októrej mowa wart.34 ust.2 nostkę przetwórczą: rozporządzenia nr 1973/2004 przez okres 3 lat od dnia złożenia tych a) uniemożliwia lub utrudnia przedeklaracji do Agencji, prowadzenie kontroli na miejscu,
+- **3)** będąc zatwierdzonym podmiotem o której mowa w art. 39 ust. 3 skupującym: rozporządzenia nr1973/2004, okres 5 lat od dnia jej zawarcia,
+    - **a)** nie składa dyrektorowi oddziału b) nie prowadzi rejestru, o którym terenowego Agencji Rynku Rol- mowa w art. 38 ust. 1 i 2 rozponego oświadczenia o dostawie, rządzenia nr 1973/2004, lub proo którym mowa w art. 27 ust. 2 wadzi ten rejestr niezgodnie rozporządzenia nr 1973/2004, z przepisami, lub składa je niezgodnie z przepisami, 6) będąc zatwierdzonym przetwórcą lub skupującym owoce miękkie,
+    - **b)** nie składa dyrektorowi oddziału uniemożliwia lub utrudnia przeterenowego Agencji Rynku Rol- prowadzenie kontroli, o której monego informacji, o której mowa wa wart.171db ust.3 rozporządzew art. 27 ust. 5 rozporządzenia nia nr 1973/2004 nr 1973/2004, lub składa ją niezgodnie z przepisami, —podlega karze pieniężnej.
+    - **c)** nie przechowuje kopii umowy, 2. Wysokość kary pieniężnej, o której o której mowa w art. 25 rozpo- mowa wust.1, nie może przekroczyć rządzenia nr 1973/2004, przez kwoty 10 000 zł.
 
-- **17)** po art. 20 dodaje się art. 20a w brzmieniu: „
+- **4)** będąc zatwierdzoną pierwszą jed- 3. Minister właściwy do spraw rynków nostką przetwórczą: rolnych określi, w drodze rozporządzenia, wysokość kar pieniężnych za rozporządzenia nr 1973/2004, lub składa je niezgodnie z prze- 45) art. 46 otrzymuje brzmienie: pisami, ŃArt. 46. 1. Kary pieniężne, o których mowa nr 1973/2004, lub składa ją niezgodnie z przepisami, 2. Kary pieniężne, o których mowa w art. 45a ust. 1 pkt 1 i 6, wymierza, zgodnie zzawartą umową, zktórej wynika zobowiązanie do do- 3. Decyzje, o których mowa w ust. 1 i 2, starczenia roślin energetycz- podlegają natychmiastowemu wykonych, naniu. Dziennik Ustaw Nr 44 — 2547 — Poz. 262
+    - **a)** nie składa dyrektorowi oddziału naruszenia, októrych mowa wust.1, terenowego Agencji Rynku Rol- różnicując je w zależności od rodzaju nego oświadczenia o dostawie, tych naruszeń ispołecznej szkodliwoo którym mowa w art. 27 ust. 2 ści czynu.”;
+    - **b)** nie składa dyrektorowi oddziału w art. 45 ust. 1 i art. 45a ust. 1 terenowego Agencji Rynku Rol- pkt 2—5, wymierza, w drodze decyzji, nego informacji, o której mowa dyrektor oddziału terenowego Agencji w art. 27 ust. 5 rozporządzenia Rynku Rolnego.
+    - **c)** nie przyjmuje od podmiotu sku- wdrodze decyzji, dyrektor oddziału repującego roślin energetycznych gionalnego Agencji.
 
-**Art. 20a.** Rodzaje dowodów określone na podstawie art. 20 ust. 3 stosuje się odpowiednio do potwierdzania działania siły wyższej lub wystąpienia nadzwyczajnych okoliczności, ze względu na wystąpienie których może zostać wydana zgoda, o której mowa w art. 9 ust. 1. ” ;
+4. Termin zapłaty kary pieniężnej wynosi 4. Jeżeli rolnikowi lub w przypadku, o którym mo14 dni od dnia doręczenia decyzji, wa w art. 26 albo art. 27 ust. 1 ustawy wymienionej o których mowa w ust. 1 i 2.”; w art. 1 w brzmieniu nadanym niniejszą ustawą, jego spadkobiercy, nie przyznaje się płatności cukrowej za
 
-**Art. 24a.**
+- **46)** użyty w art. 7 ust. 4—8, art. 18 ust. 1, 2, 4 i 5, rok 2007, kwotę zmniejszenia płatności cukrowej za art.19, art.20 ust.2, art.24 ust.3, art.25 ust.2 i3 rok 2006 ztytułu proporcjonalnego zmniejszenia kwoi art. 28 ust. 1 w różnej liczbie i przypadku wyraz ty płatności cukrowej przyznanej za rok 2006 każdemu Ńpłatności” zastępuje się użytymi wodpowiedniej rolnikowi lub w przypadku, o którym mowa w art. 26 liczbie i przypadku wyrazami Ńpłatności obszaro- albo art. 27 ust. 1 ustawy wymienionej w art. 1 we”. w brzmieniu nadanym niniejszą ustawą, jego spadkoArt. 2. Wustawie zdnia 16 listopada 2006r. oopła- biercy, kierownik biura powiatowego Agencji ustala cie skarbowej (Dz. U. Nr 225, poz. 1635, z póên. zm. ) z urzędu, w drodze odrębnej decyzji, i nakazuje zwrot w art. 2 w ust. 1 pkt 3 i 4 otrzymują brzmienie: kwoty przypadającej do zwrotu z tytułu tego zmniejszenia na rachunek bankowy Agencji. Ń3) dokonanie czynności urzędowej, wydanie zaświadczenia i zezwolenia przez Agencję Restruk- 5. Decyzje, októrych mowa wust.2—4, podlegają turyzacji i Modernizacji Rolnictwa albo Agencję natychmiastowemu wykonaniu. Rynku Rolnego wsprawach zzakresu wykonywa- 6. Kwotę płatności cukrowej za: nia przez te agencje zadań w ramach realizacji Wspólnej Polityki Rolnej, wtym wsprawach płat- 1) 2007 r. — wypłaca się pomniejszoną o kwotę do ności w ramach systemów wsparcia bezpośred- zwrotu z tytułu zmniejszenia, o którym mowa niego określonych przepisami Unii Europejskiej, w ust. 2; pomocy de minimis w sektorze rolnictwa lub rybołówstwa oraz innych zadań dotyczących orga- 2) 2006 r. — wypłaca się pomniejszoną o kwotę do nizacji rynków rolnych, z wyłączeniem zadań zwrotu z tytułu zmniejszenia, o którym mowa w zakresie administrowania obrotem z zagranicą w ust. 3. towarami rolno-spożywczymi;
 
-1. Rolnikowi, który spełnia warunki do przyznania jednolitej płatności obszarowej w danym roku i który złożył wniosek o przyznanie tej płatności oraz który w roku gospodarczym 2006/2007 dostarczył pomidory do przetworzenia zgodnie ze świadectwem dostawy owoców i warzyw do przetwórstwa, określonym na podstawie przepisów o organizacji rynku przetworów owocowych i warzywnych, przysługuje płatność do pomidorów, zgodnie z art. 143bb ust. 1 rozporządzenia nr 1782/2003.
+**Art. 4.** Do postępowań w sprawach przyznania
 
-2. Płatność do pomidorów przysługuje do masy netto pomidorów, o których mowa w ust. 1, dopuszczonych do przetworzenia, dostarczonych przez:
-
-- **1)** wnioskującego o płatność do pomidorów lub
-- **2)** małżonka wnioskującego o płatność do pomidorów, nawet jeżeli osoby te nie pozostawały w związku małżeńskim w roku gospodarczym, o którym mowa w ust. 1, lub
-- **3)** spadkodawcę wnioskującego o płatność do pomidorów, lub
-- **4)** przekazującego gospodarstwo rolne w związku z wypłacaną rentą strukturalną, emeryturą lub rentą rolniczą z ubezpieczenia społecznego rolników, jeżeli rolnik wnioskujący o płatność do pomidorów mógłby dziedziczyć przekazane gospodarstwo rolne z ustawy.
-
-3. Wysokość płatności do pomidorów w danym roku kalendarzowym ustala się jako iloczyn masy netto pomidorów, o której mowa w ust. 2, i stawki tej płatności na 1 tonę pomidorów.
-
-4. Płatność do pomidorów przyznaje się na pisemny wniosek.
-
-5. Płatność do pomidorów przyznaje się w decyzji w sprawie przyznania płatności, o której mowa w art. 19 ust. 1. W decyzji określa się ilość pomidorów, do której przysługuje rolnikowi płatność do pomidorów, na podstawie świadectw dostawy, o których mowa w ust. 1, będących w posiadaniu Agencji.
-
-6. Do płatności do pomidorów przepisy art. 18 ust. 2, 3 i 5 oraz art. 19 ust. 2–5 i 7 stosuje się odpowiednio.
-
-7. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw finansów publicznych określa corocznie, w drodze rozporządzenia, stawkę płatności do pomidorów, uwzględniając wysokość kwoty określonej na ten cel w art. 143bb ust. 2 rozporządzenia nr 1782/2003, masę netto pomidorów dopuszczonych do przetworzenia w roku gospodarczym 2006/2007 oraz kurs wymiany euro ustalony zgodnie z rozporządzeniem nr 1913/2006.
-
-1. W przypadku gdy z przepisów Unii Europejskiej dotyczących płatności obszarowych, płatności cukrowej lub płatności do pomidorów, w tym z przepisów wydanych przez Komisję Europejską działającą w trybie art. 144 ust. 2 rozporządzenia nr 1782/2003, wynika obowiązek zastosowania zmniejszenia (redukcji) kwoty danego rodzaju płatności, jej stawki lub podstawy do ustalenia wysokości płatności, w wyniku przekroczenia wielkości środków finansowych przewidzianych dla Rzeczypospolitej Polskiej z przeznaczeniem na ten rodzaj płatności lub w wyniku przekroczenia przewidzianej dla Rzeczypospolitej Polskiej wielkości powierzchni gruntów lub ilości roślin lub produktów rolnych, które mogą być objęte danym rodzajem płatności, Prezes Agencji ustala niezwłocznie wielkość tego przekroczenia i przekazuje informacje w tym zakresie ministrowi właściwemu do spraw rolnictwa.
-
-2. Minister właściwy do spraw rolnictwa określa, w drodze rozporządzenia, wielkość zmniejszenia (redukcji) kwoty danego rodzaju płatności, jej stawki lub podstawy do ustalenia wysokości płatności, mając na uwadze przekazane przez Prezesa Agencji informacje, o których mowa w ust. 1, oraz zasady ustalania wielkości takich zmniejszeń (redukcji) określone w przepisach Unii Europejskiej.
-
-3. Organ właściwy w sprawach płatności obszarowych, płatności cukrowej lub płatności do pomidorów, na podstawie wielkości określonej w przepisach wydanych na podstawie ust. 2, ustala wielkość zmniejszenia (redukcji) kwoty danej płatności, przyznanej lub przypadającej na dany podmiot uprawniony do uzyskania tej płatności, albo zmniejszenia (redukcji) podstawy do przyznania takiemu podmiotowi płatności wyrażonego w przeliczeniu na jednostkę powierzchni gruntu, ilość roślin albo ilość produktów rolnych, stanowiącą tę podstawę:
-
-- **1)** z urzędu, bez zgody strony, w drodze decyzji zmieniającej decyzję o przyznaniu danej płatności – w przypadku gdy płatność została przyznana;
-- **2)** w decyzji o przyznaniu danej płatności – w przypadku gdy płatność ta nie została jeszcze przyznana;
-- **3)** w decyzji o wypłacie danej płatności – w przypadku gdy przepisy przewidują wydanie takiej decyzji;
-- **4)** z urzędu, bez zgody strony, w drodze decyzji zmieniającej decyzję o wypłacie danej płatności – w przypadku gdy przepisy przewidują wydanie decyzji o wypłacie tej płatności, a środki z tytułu tej płatności nie zostały wypłacone.
-
-4. W przypadku gdy dana płatność została już wypłacona, zwrotu z tytułu zmniejszenia (redukcji) tej płatności dokonuje się w trybie określonym dla zwrotu kwot nienależnie lub nadmiernie pobranych środków w przepisach o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa.
-
-5. Decyzja, o której mowa w ust. 3, podlega natychmiastowemu wykonaniu.
-
-6. Przepisów ust. 1 i 2 nie stosuje się w przypadku gdy zmniejszenie (redukcja) kwoty danego rodzaju płatności, jej stawki lub podstawy do ustalenia wysokości płatności jest możliwe do zastosowania w toku postępowania w sprawie o przyznanie danej płatności na podstawie przepisów Unii Europejskiej dotyczących płatności obszarowych, płatności cukrowej lub płatności do pomidorów, w tym przepisów wydanych przez Komisję Europejską działającą w trybie art. 144 ust. 2 rozporządzenia nr 1782/2003, z tym że jeżeli przepisy te nie określają trybu dokonania tego zmniejszenia (redukcji) ust. 3 stosuje się odpowiednio. Minister właściwy do spraw rolnictwa może określić, w drodze rozporządzenia, szczegółowe warunki lub szczegółowy tryb przyznawania płatności obszarowych, płatności cukrowej, płatności do pomidorów i pomocy do rzepaku oraz szczegółowe wymagania, jakim powinny odpowiadać uprawy poszczególnych roślin, w tym szczegółowe warunki lub tryb przyznawania tych płatności i tej pomocy spadkobiercy lub małżonkowi rolnika, lub przejmującemu gospodarstwo, mając na względzie zabezpieczenie przed nieuzasadnionym przyznawaniem tych płatności i tej pomocy. ” ;
-
-- **23)** w art. 25: ust. 1 otrzymuje brzmienie: „
-    - **a)**
-
-1. Rolnik składa wnioski w sprawach dotyczących płatności obszarowych, płatności cukrowej, płatności do pomidorów, pomocy do rzepaku i zgody, o której mowa w art. 28 ust. 1, na formularzach opracowanych i udostępnionych przez Agencję. ” , ust. 6 otrzymuje brzmienie: „
-
-- **b)**
-
-6. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, szczegółowe wymagania, jakie powinny spełniać wnioski, o których mowa w ust. 1, mając na względzie zabezpieczenie przed nieuzasadnionym przyznawaniem płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku, zawarcie we wnioskach danych niezbędnych do prawidłowego przyznania płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku oraz przepisy Unii Europejskiej, o których mowa w art. 1 pkt 1. ” ;
-
-- **24)** art. 26 otrzymuje brzmienie: „
-
-**Art. 26.** W przypadku śmierci rolnika, który wystąpił z wnioskiem o przyznanie płatności cukrowej lub płatności do pomidorów, przed dniem doręczenia decyzji w sprawie przyznania tych płatności, płatność cukrową lub płatność do pomidorów przyznaje się z urzędu spadkobiercy, któremu przyznano jednolitą płatność obszarową. ” ;
-
-**Art. 29a.**
-
-1. Rolnikowi przysługuje pomoc do plantacji trwałych w wysokości do 50% zryczałtowanych kosztów związanych z założeniem plantacji upraw trwałych, zwanej dalej „plantacją”, w przeliczeniu na 1 ha plantacji.
-
-2. Pomoc do plantacji trwałych przyznaje się, jeżeli plantacja:
-
-- **1)** obejmuje obszar co najmniej 1 ha;
-- **2)** nie została założona na trwałych użytkach zielonych;
-- **3)** jest objęta wnioskiem o przyznanie płatności do upraw roślin energetycznych za rok, w którym plantacja została założona, lub za rok następujący po roku założenia plantacji.
-
-3. Pomoc do plantacji trwałych przysługuje rolnikowi w danym roku do zryczałtowanych kosztów związanych z założeniem plantacji o powierzchni nie większej niż 100 ha.
-
-4. Pomoc do plantacji trwałych do danej plantacji przyznaje się tylko raz.
-
-5. Pomoc do plantacji trwałych przyznaje się, pod warunkiem że:
-
-- **1)** plantacja będzie utrzymywana przez co najmniej kolejnych 5 lat, licząc od dnia złożenia wniosku o przyznanie tej pomocy;
-- **2)** wszystkie rośliny zebrane z plantacji w okresie, o którym mowa w pkt 1, będą przeznaczone na cele energetyczne;
-- **3)** rolnikowi zostanie przyznana płatność do upraw roślin energetycznych na podstawie wniosku, o którym mowa w ust. 2 pkt 3.
-
-6. Pomoc do plantacji trwałych przyznaje w drodze decyzji dyrektor oddziału terenowego Agencji Rynku Rolnego, właściwy ze względu na miejsce położenia plantacji.
-
-7. Wniosek o przyznanie pomocy do plantacji trwałych zawiera informacje niezbędne do przyznawania tej pomocy, w tym:
-
-- **1)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres;
-- **2)** numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany, a w przypadku osoby fizycznej – również numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludności (PESEL);
-- **3)** numer identyfikacyjny, o którym mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
-
-8. Wniosek o przyznanie pomocy do plantacji trwałych składa się na piśmie, na formularzu opracowanym i udostępnionym przez Agencję Rynku Rolnego, w terminie 3 miesięcy od dnia złożenia wniosku o przyznanie płatności do upraw roślin energetycznych, o którym mowa w ust. 2 pkt 3.
-
-9. Do wniosku o przyznanie pomocy do plantacji trwałych dołącza się kopię wniosku o przyznanie płatności do upraw roślin energetycznych, o którym mowa w ust. 2 pkt 3, złożonego do kierownika biura powiatowego Agencji.
-
-10. Decyzję o przyznaniu pomocy do plantacji trwałych wydaje się z zastrzeżeniem warunków, o których mowa w ust. 5.
-
-11. Decyzja o przyznaniu pomocy do plantacji trwałych zawiera pouczenie o konieczności spełnienia warunków, o których mowa w ust. 5, oraz o konieczności zwrotu tej pomocy w przypadku niespełnienia tych warunków.
-
-12. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, rodzaje roślin objętych pomocą do plantacji trwałych oraz zryczałtowane koszty związane z założeniem plantacji w przeliczeniu na 1 ha plantacji, mając na względzie rzeczywiste koszty związane z jej założeniem.
-
-13. Minister właściwy do spraw rynków rolnych w porozumieniu z ministrem właściwym do spraw finansów publicznych określa corocznie, w drodze rozporządzenia, wyrażoną w procentach wysokość pomocy do plantacji trwałych, mając na względzie maksymalną, dopuszczalną wysokość tej pomocy oraz założenia do ustawy budżetowej na dany rok.
-
-14. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, szczegółowe warunki lub szczegółowy tryb przyznawania pomocy do plantacji trwałych, a także szczegółowe wymagania, jakie powinny spełniać plantacje, których dotyczy wniosek o przyznanie tej pomocy, mając na względzie zabezpieczenie przed nieuzasadnionym przyznawaniem pomocy.
-
-1. Pomoc do plantacji trwałych podlega zwrotowi w całości lub w części, jeżeli rolnik nie spełni warunków, o których mowa w art. 29a ust. 5, w trybie określonym dla zwrotu kwot nienależnie lub nadmiernie pobranych środków w przepisach o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych.
-
-2. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, szczegółowe warunki dokonywania zwrotu całości lub części pomocy do plantacji trwałych, mając na względzie rodzaj i stopień naruszenia warunków przyznania tej pomocy. W przypadku śmierci rolnika, która nastąpiła od dnia złożenia wniosku o przyznanie pomocy do plantacji trwałych do dnia doręczenia decyzji w sprawie jej przyznania, przepisy art. 22 ust. 1a-6 i ust. 8 stosuje się odpowiednio, z tym że:
-
-- **1)** wniosek, o którym mowa w art. 22 ust. 2, spadkobierca składa do dyrektora oddziału terenowego Agencji Rynku Rolnego, do którego został złożony wniosek o przyznanie pomocy do plantacji trwałych przez spadkodawcę;
-- **2)** pomoc przyznaje się pod warunkiem, że zostaną spełnione warunki, o których mowa w art. 29a ust. 5. Jeżeli po doręczeniu decyzji w sprawie przyznania pomocy do plantacji trwałych rolnik, do którego decyzja została skierowana, zmarł, przepisy art. 27 stosuje się odpowiednio, z tym że:
-- **1)** wniosek, o którym mowa w art. 27 ust. 4, spadkobierca składa do dyrektora oddziału terenowego Agencji Rynku Rolnego, do którego został złożony wniosek o przyznanie pomocy do plantacji trwałych przez spadkodawcę;
-- **2)** decyzję w sprawie wypłaty pomocy do plantacji trwałych wydaje dyrektor oddziału terenowego Agencji Rynku Rolnego, o którym mowa w pkt 1;
-- **3)** spadkobierca jest obowiązany spełnić warunki, o których mowa w art. 29a ust. 5 – w przypadku przyznania pomocy do plantacji trwałych lub wydania decyzji o wypłacie pomocy do plantacji trwałych. ” ;
-- **27)** art. 30 otrzymuje brzmienie: „
-
-**Art. 30.**
-
-1. Agencja przeprowadza kontrole:
-
-- **1)** administracyjne i na miejscu, określone w przepisach Unii Europejskiej, o których mowa w art. 1 pkt 1, z zastrzeżeniem art. 32;
-- **2)** zbioru i ustalania ilości zebranych roślin energetycznych, dla których nie określono plonu reprezentatywnego;
-- **3)** zatwierdzonych przetwórców owoców miękkich lub zatwierdzonych skupujących owoce miękkie w zakresie: zgodności prowadzonej działalności z przepisami rozporządzenia nr 1973/2004, spełniania warunków, o których mowa w art. 16a.
-    - **a)**
-    - **b)**
-
-2. Prezes Agencji może powierzyć przeprowadzanie kontroli, o których mowa w ust. 1, jednostkom organizacyjnym dysponującym odpowiednimi warunkami organizacyjnymi, kadrowymi i technicznymi, określonymi na podstawie art. 34 ust. 1 pkt 1.
-
-3. Prezes Agencji ustala sposób i metody typowania do kontroli, o których mowa w ust. 1, oraz liczbę podmiotów, które należy objąć określoną kontrolą. ” ;
-
-- **28)** po art. 30 dodaje się art. 30a w brzmieniu: „
-
-1. Czynności kontrolne w ramach kontroli, o których mowa:
-
-- **1)** w art. 30 ust. 1 pkt 2, są wykonywane przez osoby posiadające imienne upoważnienie wydane przez dyrektora oddziału regionalnego Agencji, o którym mowa w art. 10 ust. 1;
-- **2)** w art. 30 ust. 1 pkt 3, są wykonywane przez osoby posiadające imienne upoważnienie wydane przez Prezesa Agencji.
-
-2. Upoważnienia, o których mowa w ust. 1, zawierają wskazanie osoby upoważnionej do wykonywania czynności kontrolnych, miejsce i zakres oraz podstawę prawną do ich wykonywania.
-
-3. Przed przystąpieniem do czynności kontrolnych osoba upoważniona do ich wykonywania jest obowiązana okazać kontrolowanemu imienne upoważnienie.
-
-4. Czynności kontrolne przeprowadza się w obecności kontrolowanego.
-
-5. Osoby upoważnione do wykonywania czynności kontrolnych w ramach kontroli, o których mowa w art. 30 ust. 1 pkt 2, mają prawo do:
-
-- **1)** wstępu na teren gospodarstwa, o którym mowa w sekcji 7 rozporządzenia nr 1973/2004;
-- **2)** żądania pisemnych lub ustnych informacji;
-- **3)** wglądu do dokumentów związanych z przedmiotem kontroli, sporządzania z nich odpisów, wyciągów lub kopii oraz zabezpieczania tych dokumentów;
-- **4)** ustalania ilości zebranych roślin energetycznych z zastosowaniem metod określonych w przepisach wydanych na podstawie art. 10 ust. 6 pkt 1.
-
-6. Osoby upoważnione do wykonywania czynności kontrolnych w ramach kontroli, o których mowa w art. 30 ust. 1 pkt 3, mają prawo do:
-
-- **1)** wstępu na teren nieruchomości, obiektów, lokali lub ich części, związanych ze skupem lub przetwarzaniem owoców miękkich;
-- **2)** żądania pisemnych lub ustnych informacji;
-- **3)** wglądu do dokumentów lub innych nośników informacji związanych z przedmiotem kontroli, sporządzania z nich odpisów, wyciągów lub kopii oraz zabezpieczania tych dokumentów lub nośników.
-
-7. Z czynności kontrolnych sporządza się raport.
-
-8. W przypadku gdy kontrolowany nie zgadza się z ustaleniami zawartymi w raporcie, może, w terminie 14 dni od dnia doręczenia raportu, zgłosić umotywowane zastrzeżenia na piśmie, co do ustaleń w nim zawartych:
-
-- **1)** dyrektorowi oddziału regionalnego Agencji – w przypadku kontroli, o których mowa w art. 30 ust. 1 pkt 2;
-- **2)** Prezesowi Agencji – w przypadku kontroli, o których mowa w art. 30 ust. 1 pkt 3. ” ;
-- **29)** w art. 31: ust. 4 otrzymuje brzmienie: „
-    - **a)**
-
-4. Czynności kontrolne mogą być wykonywane podczas nieobecności rolnika także wówczas, gdy rolnik został zawiadomiony o kontroli, zgodnie z art. 23a rozporządzenia nr 796/2004. ” , ust. 7 otrzymuje brzmienie: „
-
-- **b)**
-
-7. W przypadku gdy rolnik nie zgadza się z ustaleniami zawartymi w raporcie, może zgłosić umotywowane zastrzeżenia na piśmie, co do ustaleń w nim zawartych, dyrektorowi oddziału regionalnego Agencji, w terminie 14 dni od dnia doręczenia raportu, chyba że bezpośrednio po zakończeniu kontroli rolnik, który był obecny podczas kontroli, zgłosił umotywowane zastrzeżenia, co do ustaleń zawartych w raporcie, osobie, która go sporządziła. ” ;
-
-- **30)** art. 32 otrzymuje brzmienie: „
-
-**Art. 32.**
-
-1. Agencja Rynku Rolnego przeprowadza kontrole:
-
-- **1)** w zakresie wykorzystania lub przetwarzania roślin energetycznych w gospodarstwie, o którym mowa w sekcji 7 rozporządzenia nr 1973/2004, na cele energetyczne, o których mowa w art. 35 lit. b tego rozporządzenia;
-- **2)** zatwierdzonych podmiotów skupujących i zatwierdzonych pierwszych jednostek przetwórczych w zakresie: zgodności prowadzonej działalności z przepisami rozporządzenia nr 1973/2004, spełniania warunków, o których mowa w art. 11;
-    - **a)**
-    - **b)**
-
-- **3)** o których mowa w art. 38 i 39 rozporządzenia nr 1973/2004, w tym dokonuje ustalenia wartości ekonomicznej zgodnie z art. 38 ust. 6 tego rozporządzenia;
-- **4)** w zakresie spełniania obowiązków, o których mowa w art. 8 ust. 5 i 6;
-- **5)** w zakresie spełniania warunków przyznania pomocy do plantacji trwałych.
-
-2. Prezes Agencji Rynku Rolnego może powierzyć przeprowadzanie kontroli, o których mowa w ust. 1, jednostkom organizacyjnym dysponującym odpowiednimi warunkami organizacyjnymi, kadrowymi i technicznymi określonymi na podstawie art. 34 ust. 1 pkt 1.
-
-3. Prezes Agencji Rynku Rolnego ustala dodatkowe kryteria analizy ryzyka, o których mowa w art. 39 ust. 4 lit. f rozporządzenia nr 1973/2004.
-
-4. W przypadku, o którym mowa w art. 38 ust. 6 rozporządzenia nr 1973/2004, organem właściwym do ustalania średnich cen jest Prezes Agencji Rynku Rolnego. ” ;
-
-- **31)** w art. 33: w ust. 5 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „
-    - **a)**
-
-- **4)** wstępu na teren gospodarstwa, o którym mowa w sekcji 7 rozporządzenia nr 1973/2004, na którego obszarze jest uprawiana plantacja, do której przyznano pomoc do plantacji trwałych. ” , ust. 7 otrzymuje brzmienie: „
-    - **b)**
-
-7. W przypadku gdy kontrolowany nie zgadza się z ustaleniami zawartymi w raporcie, może zgłosić umotywowane zastrzeżenia na piśmie, co do ustaleń w nim zawartych, Prezesowi Agencji Rynku Rolnego, w terminie 14 dni od dnia doręczenia raportu. ” ;
-
-- **32)** w art. 34 uchyla się ust. 2;
-- **33)** art. 36 otrzymuje brzmienie: „
-
-**Art. 36.** Minister właściwy do spraw rozwoju wsi oraz minister właściwy do spraw rynków rolnych określą, w drodze zarządzenia, warunki i tryb współpracy pomiędzy Agencją a Agencją Rynku Rolnego w zakresie przyznawania płatności do upraw roślin energetycznych oraz pomocy do plantacji trwałych. ” ;
-
-**Art. 37.**
-
-1. Agencja wypłaca płatności obszarowe, płatność cukrową i płatność do pomidorów w terminach określonych w art. 28 ust. 2 rozporządzenia nr 1782/2003.
-
-2. W przypadku gdy Komisja Europejska, działając w trybie art. 144 ust. 2 rozporządzenia nr 1782/2003, upoważni Rzeczpospolitą Polską do dokonania zaliczkowych płatności obszarowych, płatności cukrowej i płatności do pomidorów zgodnie z warunkami określonymi w art. 28 ust. 3 lit. c tego rozporządzenia, minister właściwy do spraw rozwoju wsi może określić, w drodze rozporządzenia:
-
-- **1)** termin rozpoczęcia wypłat zaliczkowych płatności obszarowych, płatności cukrowej lub płatności do pomidorów lub
-- **2)** wysokość wypłat zaliczkowych płatności obszarowych, płatności cukrowej lub płatności do pomidorów, lub
-- **3)** obszary objęte wypłatami zaliczkowych płatności obszarowych, płatności cukrowej lub płatności do pomidorów mając na względzie wielkość szkód, które powstały w gospodarstwach rolnych na skutek nadzwyczajnych okoliczności, ze względu na wystąpienie których Rzeczpospolita Polska została upoważniona do dokonania wypłat zaliczkowych płatności obszarowych, płatności cukrowej i płatności do pomidorów przed dniem 1 grudnia.
-
-3. W przypadku dokonywania wypłaty zaliczkowej płatności obszarowych, płatności cukrowej lub płatności do pomidorów w decyzji w sprawie przyznania tych płatności określa się wysokość i termin wypłaty zaliczkowej płatności. ” ;
-
-- **35)** po art. 37 dodaje się art. 37a w brzmieniu: „
-
-1. Zmniejszeń, o których mowa w art. 66 rozporządzenia nr 796/2004, nie stosuje się, jeżeli kwota zmniejszenia poszczególnych płatności obszarowych, płatności cukrowej albo płatności do pomidorów nie byłaby większa niż równowartość kwoty 100 euro przeliczonej na złote według kursu euro ustalonego zgodnie z art. 3 rozporządzenia nr 1913/2006.
-
-2. Niezgodność, o której mowa w art. 2 pkt 35 rozporządzenia nr 796/2004, mimo której nie zastosowano zmniejszenia, o którym mowa w ust. 1, jest przedmiotem kontroli w roku następującym po roku, w którym został złożony wniosek o przyznanie płatności obszarowych, płatności cukrowej lub płatności do pomidorów.
-
-3. W przypadku, o którym mowa w ust. 1, w decyzji w sprawie przyznania płatności obszarowych, płatności cukrowej lub płatności do pomidorów:
-
-- **1)** podaje się informację: o niezastosowaniu zmniejszenia, o objęciu stwierdzonej niezgodności, o której mowa w art. 2 pkt 35 rozporządzenia nr 796/2004, kontrolą w ramach kontroli na miejscu, w roku następującym po roku, w którym został złożony wniosek o przyznanie płatności obszarowych, płatności cukrowej lub płatności do pomidorów;
-    - **a)**
-    - **b)**
-
-- **2)** nakazuje się podjęcie określonych działań mających na celu usunięcie stwierdzonych niezgodności.
-
-4. Działania, o których mowa w ust. 3 pkt 2, powinny być współmierne do rodzaju stwierdzonych niezgodności i nie mogą być nadmiernie uciążliwe dla rolnika. ” ;
-
-- **36)** art. 38 otrzymuje brzmienie: „
-
-**Art. 38.** W przypadku gdy kwota z tytułu płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku nie może zostać przekazana na rachunek bankowy rolnika z przyczyn niezależnych od Agencji, kierownik biura powiatowego Agencji stwierdza wygaśnięcie decyzji w sprawie przyznania tej płatności lub pomocy, jeżeli od dnia, w którym decyzja o ich przyznaniu stała się ostateczna, upłynęły co najmniej 2 lata. ” ;
-
-**Art. 39.** W przypadku, o którym mowa w art. 155 Kodeksu postępowania administracyjnego, organ wyższego stopnia może zmienić decyzję ostateczną w sprawie przyznania płatności obszarowych, płatności cukrowej, płatności do pomidorów lub pomocy do rzepaku, na mocy której strona nabyła prawo, również bez zgody strony, jeżeli nie ograniczy to nabytych przez nią praw. ” ;
-
-**Art. 40.** Prezes Agencji odstępuje od ustalania kwot nienależnie lub nadmiernie pobranych płatności obszarowych, płatności cukrowej lub płatności do pomidorów, o którym mowa w art. 11 ust. 4 ustawy z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2005 r. Nr 31, poz. 264, z późn. zm.), w przypadku gdy kwota każdej z tych płatności nie jest wyższa od kwoty stanowiącej równowartość 50 euro przeliczonej na złote według kursu euro ustalonego zgodnie z art. 3 rozporządzenia nr 1913/2006. ” ;
-
-**Art. 41.** W przypadku gdy przepisy rozporządzenia nr 1782/2003, w tym przepisy wydane przez Komisję Europejską działającą w trybie art. 144 ust. 2 tego rozporządzenia, określają obowiązek podjęcia działań lub umożliwiają realizację uprawnień przez państwo członkowskie Unii Europejskiej lub właściwy organ, lub agencję płatniczą, Rada Ministrów może, w drodze rozporządzenia:
-
-**Art. 45.**
-
-1. Kto:
-
-- **1)** będąc wnioskodawcą wykorzystującym lub przetwarzającym rośliny energetyczne na cele energetyczne w gospodarstwie, o którym mowa w sekcji 7 rozporządzenia nr 1973/2004: nie prowadzi rejestru, o którym mowa w art. 38 ust. 4 rozporządzenia nr 1973/2004, lub prowadzi ten rejestr niezgodnie z przepisami, uniemożliwia lub utrudnia przeprowadzenie kontroli na miejscu, o której mowa w art. 35 lit. b i art. 39 ust. 4 rozporządzenia nr 1973/2004, nie zapewnia wartości gospodarczej produktów energetycznych uzyskanych w drodze przetwarzania, o której mowa w art. 24 ust. 6 rozporządzenia nr 1973/2004, wykorzystuje lub przetwarza rośliny energetyczne na cele energetyczne niezgodnie z przepisami, w tym nie przetwarza na produkty końcowe roślin energetycznych w ilości równej co najmniej plonom reprezentatywnym albo całkowitej ilości tych roślin, w przypadku gdy dla danej rośliny energetycznej nie określono plonu reprezentatywnego, lub nie wykorzystał lub nie przetworzył roślin energetycznych do dnia, o którym mowa w art. 10a,
-    - **a)**
-    - **b)**
-    - **c)**
-    - **d)**
-
-- **2)** będąc zatwierdzonym podmiotem skupującym: nie przekazuje roślin energetycznych pierwszej jednostce przetwórczej, zgodnie z art. 27 ust. 4 rozporządzenia nr 1973/2004, uniemożliwia lub utrudnia przeprowadzenie kontroli na miejscu, o której mowa w art. 39 ust. 2 rozporządzenia nr 1973/2004, nie prowadzi rejestru, o którym mowa w art. 38 ust. 1 i 3 rozporządzenia nr 1973/2004, lub prowadzi ten rejestr niezgodnie z przepisami, odmówił podpisania oświadczenia, o którym mowa w art. 27 ust. 2 rozporządzenia nr 1973/2004, nie przyjmuje od wnioskodawcy roślin energetycznych zgodnie z zawartą umową albo całkowitej ilości roślin energetycznych, w przypadku gdy dla danej rośliny energetycznej nie określono plonu reprezentatywnego,
-    - **a)**
-    - **b)**
-    - **c)**
-    - **d)**
-    - **e)**
-
-- **3)** będąc zatwierdzoną pierwszą jednostką przetwórczą: nie zapewnia wartości gospodarczej produktów energetycznych uzyskanych w drodze przetwarzania, o której mowa w art. 24 ust. 6 rozporządzenia nr 1973/2004, przetwarza rośliny energetyczne na cele energetyczne niezgodnie z przepisami, w tym nie przetwarza na produkty końcowe określone w umowie roślin energetycznych w ilości równej co najmniej plonom reprezentatywnym albo całkowitej ilości tych roślin, w przypadku gdy dla danej rośliny energetycznej nie określono plonu reprezentatywnego, lub nie przetworzył roślin energetycznych do dnia 31 lipca drugiego roku po roku zbiorów, uniemożliwia lub utrudnia przeprowadzenie kontroli na miejscu, o której mowa w art. 39 ust. 3 rozporządzenia nr 1973/2004, nie prowadzi rejestru, o którym mowa w art. 38 ust. 1 i 2 rozporządzenia nr 1973/2004, lub prowadzi ten rejestr niezgodnie z przepisami, odmówił podpisania oświadczenia, o którym mowa w art. 27 ust. 2 rozporządzenia nr 1973/2004, nie przyjmuje od wnioskodawcy roślin energetycznych zgodnie z zawartą umową albo całkowitej ilości roślin energetycznych, w przypadku gdy dla danej rośliny energetycznej nie określono plonu reprezentatywnego podlega karze pieniężnej.
-    - **a)**
-    - **b)**
-    - **c)**
-    - **d)**
-    - **e)**
-    - **f)**
-
-2. Wysokość kary pieniężnej, o której mowa w ust. 1, nie może przekroczyć równowartości zabezpieczenia, które podlegałoby przepadkowi zgodnie z przepisami rozporządzenia nr 1973/2004 i rozporządzenia Komisji (EWG) nr 2220/85 z dnia 22 lipca 1985 r. ustanawiającego wspólne szczegółowe zasady stosowania systemu zabezpieczeń w odniesieniu do produktów rolnych (Dz. Urz. WE L 205 z 03.08.1985, str. 5, z późn. zm.; Dz. Urz. UE L Polskie wydanie specjalne, rozdz. 3, t. 6, str. 186, z późn. zm.) – w przypadku naruszeń określonych w ust. 1.
-
-3. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wysokość kar pieniężnych za naruszenia, o których mowa w ust. 1, różnicując je w zależności od rodzaju tych naruszeń oraz mając na względzie przepisy art. 32 rozporządzenia nr 1973/2004. ” ;
-
-- **44)** po art. 45 dodaje się art. 45a w brzmieniu: „
-
-1. Kto:
-
-- **1)** będąc wnioskodawcą uprawiającym roślinę energetyczną, dla której nie określono plonu reprezentatywnego: nie powiadamia właściwego dyrektora oddziału regionalnego Agencji o terminie planowanego zbioru albo o nowym terminie zbioru lub powiadamia go niezgodnie z przepisami, nie dokonuje ustalenia ilości zebranych roślin energetycznych lub dokonuje tego ustalenia niezgodnie z przepisami, nie składa oświadczenia, o którym mowa w art. 10 ust. 4, lub składa je niezgodnie z przepisami, uniemożliwia lub utrudnia przeprowadzenie kontroli, o której mowa w art. 30 ust. 1 pkt 2,
-    - **a)**
-    - **b)**
-    - **c)**
-    - **d)**
-
-- **2)** będąc wnioskodawcą nie przechowuje kopii deklaracji, o której mowa w art. 33 ust. 2 rozporządzenia nr 1973/2004, lub deklaracji zbiorów, o której mowa w art. 34 ust. 2 rozporządzenia nr 1973/2004 przez okres 3 lat od dnia złożenia tych deklaracji do Agencji,
-- **3)** będąc zatwierdzonym podmiotem skupującym: nie składa dyrektorowi oddziału terenowego Agencji Rynku Rolnego oświadczenia o dostawie, o którym mowa w art. 27 ust. 2 rozporządzenia nr 1973/2004, lub składa je niezgodnie z przepisami, nie składa dyrektorowi oddziału terenowego Agencji Rynku Rolnego informacji, o której mowa w art. 27 ust. 5 rozporządzenia nr 1973/2004, lub składa ją niezgodnie z przepisami, nie przechowuje kopii umowy, o której mowa w art. 25 rozporządzenia nr 1973/2004, przez okres 5 lat od dnia jej zawarcia,
-    - **a)**
-    - **b)**
-    - **c)**
-
-- **4)** będąc zatwierdzoną pierwszą jednostką przetwórczą: nie składa dyrektorowi oddziału terenowego Agencji Rynku Rolnego oświadczenia o dostawie, o którym mowa w art. 27 ust. 2 rozporządzenia nr 1973/2004, lub składa je niezgodnie z przepisami, nie składa dyrektorowi oddziału terenowego Agencji Rynku Rolnego informacji, o której mowa w art. 27 ust. 5 rozporządzenia nr 1973/2004, lub składa ją niezgodnie z przepisami, nie przyjmuje od podmiotu skupującego roślin energetycznych zgodnie z zawartą umową, z której wynika zobowiązanie do dostarczenia roślin energetycznych, nie składa dyrektorowi oddziału terenowego Agencji Rynku Rolnego informacji, o której mowa w art. 39 ust. 1 rozporządzenia nr 1973/2004, lub składa ją niezgodnie z przepisami, nie przechowuje kopii umowy, o której mowa w art. 25 rozporządzenia nr 1973/2004, przez okres 5 lat od dnia jej zawarcia,
-    - **a)**
-    - **b)**
-    - **c)**
-    - **d)**
-    - **e)**
-
-- **5)** będąc jednostką przetwórczą przetwarzającą produkty pośrednie lub uboczne, dostarczone przez zatwierdzone pierwsze jednostki przetwórcze lub przez kolejną jednostkę przetwórczą: uniemożliwia lub utrudnia przeprowadzenie kontroli na miejscu, o której mowa w art. 39 ust. 3 rozporządzenia nr 1973/2004, nie prowadzi rejestru, o którym mowa w art. 38 ust. 1 i 2 rozporządzenia nr 1973/2004, lub prowadzi ten rejestr niezgodnie z przepisami,
-    - **a)**
-    - **b)**
-
-- **6)** będąc zatwierdzonym przetwórcą lub skupującym owoce miękkie, uniemożliwia lub utrudnia przeprowadzenie kontroli, o której mowa w art. 171db ust. 3 rozporządzenia nr 1973/2004 podlega karze pieniężnej.
-
-2. Wysokość kary pieniężnej, o której mowa w ust. 1, nie może przekroczyć kwoty 10 000 zł.
-
-3. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wysokość kar pieniężnych za naruszenia, o których mowa w ust. 1, różnicując je w zależności od rodzaju tych naruszeń i społecznej szkodliwości czynu. ” ;
-
-- **45)** art. 46 otrzymuje brzmienie: „
-
-**Art. 46.**
-
-1. Kary pieniężne, o których mowa w art. 45 ust. 1 i art. 45a ust. 1 pkt 2–5, wymierza, w drodze decyzji, dyrektor oddziału terenowego Agencji Rynku Rolnego.
-
-2. Kary pieniężne, o których mowa w art. 45a ust. 1 pkt 1 i 6, wymierza, w drodze decyzji, dyrektor oddziału regionalnego Agencji.
-
-3. Decyzje, o których mowa w ust. 1 i 2, podlegają natychmiastowemu wykonaniu.
-
-4. Termin zapłaty kary pieniężnej wynosi 14 dni od dnia doręczenia decyzji, o których mowa w ust. 1 i 2. ” ;
-
-- **46)** użyty w art. 7 ust. 4–8, art. 18 ust. 1, 2, 4 i 5, art. 19, art. 20 ust. 2, art. 24 ust. 3, art. 25 ust. 2 i 3 i art. 28 ust. 1 w różnej liczbie i przypadku wyraz „płatności” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „płatności obszarowe”.
-
-**Art. 2.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm.) w art. 2 w ust. 1 pkt 3 i 4 otrzymują brzmienie: „
+- **4)** złożenie dokumentu stwierdzającego udzielenie płatności lub płatności cukrowej, o których mowa pełnomocnictwa lub prokury albo jego odpisu, w ustawie wymienionej w art. 1, wszczętych i niezawypisu lub kopii w sprawach określonych kończonych decyzją ostateczną do dnia wejścia w żyw pkt 3;”. cie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 **Art. 3.**
 
-1. Minister właściwy do spraw rolnictwa wydaje rozporządzenie, o którym mowa w art. 24b ust. 2 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, w którym określa wielkość zmniejszenia kwoty płatności cukrowej za 2006 r., w terminie 21 dni od dnia wejścia w życie niniejszej ustawy.
+1. Minister właściwy do spraw rolnictwa wydaje rozporządzenie, o którym mowa w art. 24b Art. 5. 1. Do postępowań w sprawach udzielenia ust.2 ustawy wymienionej wart.1 wbrzmieniu nada- pomocy finansowej dla producentów oraz przetwórnym niniejszą ustawą, w którym określa wielkość ców owoców i warzyw, wszczętych i niezakończonych zmniejszenia kwoty płatności cukrowej za 2006 r., decyzją ostateczną do dnia wejścia w życie niniejszej w terminie 21 dni od dnia wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe. ustawy.
 
-2. Kierownik biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, na podstawie wielkości określonej w rozporządzeniu, o którym mowa w ust. 1, ustala w decyzji o przyznaniu płatności cukrowej za rok 2007 wielkość zmniejszenia kwoty płatności cukrowej za rok 2006 z tytułu proporcjonalnego zmniejszenia kwoty płatności cukrowej przyznanej za rok 2006 każdemu rolnikowi lub w przypadku, o którym mowa w art. 26 albo art. 27 ust. 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, jego spadkobiercy.
+2. Postępowania w sprawach zatwierdzania prze2. Kierownik biura powiatowego Agencji Restruk- twórców i wstępnie uznanych grup i organizacji proturyzacji i Modernizacji Rolnictwa, zwanej dalej ducentów owoców i warzyw oraz zrzeszeń organizacji ŃAgencją”, na podstawie wielkości określonej w roz- producentów owoców i warzyw, działających jako porządzeniu, o którym mowa w ust. 1, ustala w decy- przetwórcy, oraz w sprawach przeprowadzania konzji o przyznaniu płatności cukrowej za rok 2007 wiel- troli dotyczących zasadności zatwierdzenia i wypłacakość zmniejszenia kwoty płatności cukrowej za rok nia pomocy finansowej w zakresie organizacji rynku 2006 z tytułu proporcjonalnego zmniejszenia kwoty przetworów owocowych iwarzywnych, wszczęte iniepłatności cukrowej przyznanej za rok 2006 każdemu zakończone decyzją ostateczną do dnia wejścia w żyrolnikowi lub w przypadku, o którym mowa w art. 26 cie niniejszej ustawy, umarza się. albo art. 27 ust. 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, jego spadko- Art. 6. W 2008 r.: biercy. 1) wnioski o zatwierdzenie odbiorcy w rozumieniu
 
-3. W przypadku gdy kwota płatności cukrowej przypadającej rolnikowi za rok 2006 nie została jeszcze przyznana, kierownik biura powiatowego Agencji, na podstawie wielkości określonej w rozporządzeniu, o którym mowa w ust. 1, ustala kwotę zmniejszenia płatności cukrowej za rok 2006 z tytułu proporcjonalnego zmniejszenia kwoty płatności cukrowej w decyzji o przyznaniu tej płatności za rok 2006.
+3. W przypadku gdy kwota płatności cukrowej art. 171d lit. d rozporządzenia Komisji (WE) przypadającej rolnikowi za rok 2006 nie została jeszcze nr1973/2004 zdnia 29 paêdziernika 2004r. ustanaprzyznana, kierownik biura powiatowego Agencji, na wiającego szczegółowe zasady stosowania rozpopodstawie wielkości określonej w rozporządzeniu, rządzenia Rady (WE) nr 1782/2003 w odniesieniu o którym mowa w ust. 1, ustala kwotę zmniejszenia do systemów wsparcia przewidzianych w tytupłatności cukrowej za rok 2006 z tytułu proporcjonal- łachIV i IVa tego rozporządzenia oraz wykorzystanego zmniejszenia kwoty płatności cukrowej wdecyzji nia odłogowanych gruntów do produkcji surowo przyznaniu tej płatności za rok 2006. ców (Dz. Urz. UE L 345 z 20.11.2004, str. 1, ——————— z póên. zm.), zwanego dalej Ńrozporządzeniem nr 1973/2004”, oraz pierwszego przetwórcy w rozumieniu art.171d lit. c tego rozporządzenia, składa się do dnia 1 kwietnia; Dziennik Ustaw Nr 44 — 2548 — Poz. 262 i 263
 
-4. Jeżeli rolnikowi lub w przypadku, o którym mowa w art. 26 albo art. 27 ust. 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, jego spadkobiercy, nie przyznaje się płatności cukrowej za rok 2007, kwotę zmniejszenia płatności cukrowej za rok 2006 z tytułu proporcjonalnego zmniejszenia kwoty płatności cukrowej przyznanej za rok 2006 każdemu rolnikowi lub w przypadku, o którym mowa w art. 26 albo art. 27 ust. 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, jego spadkobiercy, kierownik biura powiatowego Agencji ustala z urzędu, w drodze odrębnej decyzji, i nakazuje zwrot kwoty przypadającej do zwrotu z tytułu tego zmniejszenia na rachunek bankowy Agencji.
+- **2)** do dnia 31 maja minister właściwy do spraw rol- Art. 9. Dotychczasowe przepisy wykonawcze wynictwa ogłasza, w dzienniku urzędowym ministra dane na podstawie art. 16 ust. 3, art. 23, art. 25 ust. 6 właściwego do spraw rolnictwa, listę podmiotów, oraz art.45 ust.3 ustawy wymienionej wart.1 zachoo których mowa w pkt 1, zatwierdzonych zgodnie wują moc do dnia wejścia w życie nowych przepisów z art. 16a ust. 1 ustawy wymienionej w art. 1 wykonawczych wydanych na podstawie art. 16 ust. 3, w brzmieniu nadanym niniejszą ustawą; art.24c, art.25 ust.6 oraz art.45 ust.3 iart.45a ust.3 ustawy wymienionej w art. 1 w brzmieniu nadanym
+- **3)** kopię umowy o przetwórstwo albo zobowiązanie niniejszą ustawą, nie dłużej jednak niż przez 2 lata od do realizacji dostawy, o których mowa w art. 7 dnia jej wejścia w życie. ust. 3b ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, wnioskodawca w ro- Art. 10. Ilekroć wodrębnych przepisach jest mowa zumieniu art. 171d lit. a rozporządzenia oprzepisach opłatnościach do gruntów rolnych ipłatnr 1973/2004, składa kierownikowi biura powiato- ności cukrowej, należy przez to rozumieć przepisy wego Agencji do dnia 31 lipca. o płatnościach w ramach systemów wsparcia bezpośredniego.
 
-5. Decyzje, o których mowa w ust. 2–4, podlegają natychmiastowemu wykonaniu.
+**Art. 7.** W2008r. wniosek oprzyznanie pomocy do rzepaku, októrej mowa wart.7a ust.1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą usta- Art. 11.Przepisy art.25 ust.4 i5 ustawy wymieniową, składa się na formularzu opracowanym iudostęp- nej w art. 1 stosuje się od dnia 15 marca 2011 r. nionym przez Agencję oraz dołącza do wniosku o przyznanie płatności do upraw roślin energetycz- Art. 12. Traci moc ustawa z dnia 19 lutego 2004 r. nych, o którym mowa w art. 18 ust. 1 tej ustawy. oorganizacji rynku przetworów owocowych iwarzywnych (Dz. U. Nr 62, poz. 572 oraz z 2005 r. Nr 10,
 
-6. Kwotę płatności cukrowej za:
+**Art. 8.** Pomoc do plantacji trwałych, októrej mowa poz. 64). w art. 29a ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, przyznaje się również do Art. 13. Ustawa wchodzi w życie z dniem 15 marplantacji upraw trwałych założonych przed dniem wej- ca2008 r. ścia w życie ustawy, jednak nie wcześniej niż w dniu 1września 2007 r. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 263 ROZPORZÑDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 14 marca 2008 r. w sprawie szczegółowych warunków, jakie powinni spełniać skupujący owoce miękkie i przetwórcy owoców miękkich Na podstawie art. 16a ust. 2 ustawy z dnia nr 1973/2004 zdnia 29 paêdziernika 2004 r. usta26 stycznia 2007 r. o płatnościach w ramach syste- nawiającego szczegółowe zasady stosowania mów wsparcia bezpośredniego (Dz. U. Nr 35, poz. 217 rozporządzenia Rady (WE) nr 1782/2003 w odi Nr 99, poz. 666 oraz z 2008 r. Nr 44, poz. 262) zarzą- niesieniu do systemów wsparcia przewidziadza się, co następuje: nych w tytułach IV i IVa tego rozporządzenia oraz wykorzystania odłogowanych gruntów
 
-- **1)** 2007 r. – wypłaca się pomniejszoną o kwotę do zwrotu z tytułu zmniejszenia, o którym mowa w ust. 2;
-- **2)** 2006 r. – wypłaca się pomniejszoną o kwotę do zwrotu z tytułu zmniejszenia, o którym mowa w ust. 3. Do postępowań w sprawach przyznania płatności lub płatności cukrowej, o których mowa w ustawie wymienionej w art. 1, wszczętych i niezakończonych decyzją ostateczną do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+§ 1. 1. Skupujący owoce miękkie ubiegający się do produkcji surowców (Dz. Urz. UE L 345 o uzyskanie zatwierdzenia powinien: z 20.11.2004, str. 1, z póên. zm.), zwanego dalej Ńrozporządzeniem nr 1973/2004”,
 
-**Art. 5.**
+- **1)** zapewnić prowadzenie: związanej z przyjmowaniem oraz wydawaniem owoców miękkich przetwórcy owoców mięk- 2) posiadać: kich, w zakresie, o którym mowa w art. 171db a) powierzchnię magazynową do skupu owoców ust. 1 lit. a rozporządzenia Komisji (WE) miękkich lub środki transportu służące do sku——————— pu i przewozu owoców miękkich,
+    - **b)** ewidencji umów, o których mowa w art. 171da
+    - **a)** dokumentacji magazynowej oraz księgowej, rozporządzenia nr 1973/2004;
+    - **b)** pomieszczenie do prowadzenia ewidencji i przechowywania umów, o których mowa w art. 171da rozporządzenia nr 1973/2004, oraz prowadzenia dokumentacji, o której mowa w pkt 1 lit. a.
 
-1. Do postępowań w sprawach udzielenia pomocy finansowej dla producentów oraz przetwórców owoców i warzyw, wszczętych i niezakończonych decyzją ostateczną do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
-
-2. Postępowania w sprawach zatwierdzania przetwórców i wstępnie uznanych grup i organizacji producentów owoców i warzyw oraz zrzeszeń organizacji producentów owoców i warzyw, działających jako przetwórcy, oraz w sprawach przeprowadzania kontroli dotyczących zasadności zatwierdzenia i wypłacania pomocy finansowej w zakresie organizacji rynku przetworów owocowych i warzywnych, wszczęte i niezakończone decyzją ostateczną do dnia wejścia w życie niniejszej ustawy, umarza się.
-
-**Art. 6.** W 2008 r.:
-
-**Art. 9.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 16 ust. 3, art. 23, art. 25 ust. 6 oraz art. 45 ust. 3 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 16 ust. 3, art. 24c, art. 25 ust. 6 oraz art. 45 ust. 3 i art. 45a ust. 3 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 2 lata od dnia jej wejścia w życie. Ilekroć w odrębnych przepisach jest mowa o przepisach o płatnościach do gruntów rolnych i płatności cukrowej, należy przez to rozumieć przepisy o płatnościach w ramach systemów wsparcia bezpośredniego.
-
-**Art. 11.** Przepisy art. 25 ust. 4 i 5 ustawy wymienionej w art. 1 stosuje się od dnia 15 marca 2011 r.
-
-**Art. 12.** Traci moc ustawa z dnia 19 lutego 2004 r. o organizacji rynku przetworów owocowych i warzywnych (Dz. U. Nr 62, poz. 572 oraz z 2005 r. Nr 10, poz. 64).
-
-**Art. 13.** Ustawa wchodzi w życie z dniem 15 marca 2008 r.
 

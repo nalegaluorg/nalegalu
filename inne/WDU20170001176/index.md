@@ -8,10 +8,10 @@ pos: 1176
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, dnia 21 czerwca 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1176 ROZPORZĄDZENIE MINISTRA ROZwOju I FINANSÓw z dnia 13 czerwca 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,59 +25,71 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001176) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1176/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA ROZwOju I FINANSÓw z dnia 13 czerwca 2017 r.
-sprawie szczegółowego zakresu danych przekazywanych oraz sposobu jej wypełniania Na podstawie art. 87 ust. 2 ustawy z dnia 9 marca 2017 r. wymianie podatkowych z innymi państwami (Dz. U. poz. 648) zarządza się, co następuje: § 1. Informacja zawiera:
-1) cel złożenia podmiotów;
-2) wskazanie okresu objętego informacją podmiotów;
-3) nazwę grupy podmiotów;
-4) informację walucie, której wyrażone są kwoty ujęte podmiotów;
-5) nazwę raportującej oraz wskazanie, czy jest:
-a) jednostką dominującą,
-b) wyznaczoną jednostką, której mowa art. 84 ust. 4 ustawy z dnia 9 marca 2017 r. wymianie podatkowych z innymi państwami, zwanej dalej „ustawą”, albo
-c) inną jednostką składającą informację na podstawie art. 84 ust. 1 ustawy;
-6) dane identyfikacyjne jednostek wchodzących skład grupy obejmujące:
-a) nazwę,
-b) numer identyfikacji podatkowej, a przypadku jego braku inny numer identyfikacyjny wraz z określeniem jego rodzaju,
-c) adres siedziby, tym wskazanie państwa terytorium, nazwy miejscowości, ulicy, numeru domu lokalu oraz kodu pocztowego,
-d) wskazanie państwa terytorium rezydencji podatkowej,
-e) wskazanie państwa terytorium miejsca utworzenia albo rejestracji, jeżeli inne niż państwo terytorium rezydencji podatkowej;
-b) posiadanie zarządzanie wartościami niematerialnymi,
-c) zakupy zamówienia,
-d) produkcja przetwórstwo,
-e) sprzedaż, marketing dystrybucja,
-f) usługi administracyjne, zarządcze wsparcia,
-g) świadczenie usług dla niezależnych,
-h) finansowanie wewnątrzgrupowe,
-i) regulowane usługi finansowe,
-j) ubezpieczenia,
-k) posiadanie akcji innych praw własności jednostkach,
-l) działalność nieaktywna
-m) inny rodzaj działalności;
-8) dane dotyc zące działalności prowadzonej przez wchodzące skład grupy obejmujące:
-a) osiągnięte przychody, z podziałem na przychody osiągnięte od niezależnych oraz przychody osiągnięte od jednostek wchodzących skład grupy podmiotów, przy czym nie uwzględnia się płatności otrzymanych od innych jednostek wchodzących skład grupy podmiotów, uznawanych za dywidendy państwie rezydencji podatkowej dokonującej wypłaty,
-b) zrealizowany zysk (strata) przed opodatkowaniem, z uwzględnieniem wszystkich nadzwyczajnych przychodów i kosztów,
-c) rzeczywiście zapłacony i niezwrócony jakiejkolwiek formie podatek dochodowy trakcie roku obrotowego, tym podatek u źródła zapłacony przez inne z tytułu płatności na rzecz wchodzącej skład grupy podmiotów,
-d) należny podatek dochodowy za sprawozdawczy rok obrotowy, przy czym należny podatek dochodowy odzwierciedla wyłącznie operacje przeprowadzone sprawozdawczym roku obrotowym i nie uwzględnia odroczonych podatków ani rezerw na warunkowe zobowiązania podatkowe,
-e) sumę kapitału podstawowego (zakładowego),
-f) niepodzielony zysk z lat ubiegłych na koniec roku obrotowego,
-g) liczbę pracowników przeliczeniu na pełne etaty, zgodnie z przyjętą jednolitą metodą obliczania,
-h) sumę wartości księgowych aktywów rzeczowych netto (trwałych i obrotowych), z wyłączeniem środków pieniężnych i ich ekwiwalentów oraz wartości niematerialnych i aktywów finansowych − wykazane według państwa terytorium, których te są rezydentami podatkowymi, a przypadku zagranicznego zakładu według państwa terytorium prowadzenia działalności przez zagraniczny zakład; przypadku zagranicznego zakładu kapitał podstawowy (zakładowy) wykazywany przez jednostkę, której ten zakład należy, chyba że państwie terytorium prowadzenia działalności przez zagraniczny zakład obowiązuje ustawowy wymóg kapitałowy;
-9) dodatkowe informacje wyjaśnienia, których mowa art. 87 ust. 1 pkt 3 ustawy, obejmujące:
-a) informację źródle danych wykorzystanych wypełnienia podmiotów, a przypadku jego zmiany wyjaśnienie jej przyczyn i skutków,
-b) informację kursach walut wykorzystanych przeliczenia wartości pochodzących z danych źródłowych na walutę, której mowa pkt 4,
-c) informację rodzaju działalności gospodarczej wchodzącej skład grupy przypadku, Minister Rozwoju i Finansów: wz. W. Janczyk SPOSÓB WYPEŁNIANIA INFORMACJI O GRUPIE PODMIOTÓW
-1. jurysdykcja podatkowa Jednostka raportująca wskazuje wszystkie państwa terytoria, których wchodzące skład grupy są rezydentami celów podatkowych.
-Osobno należy wskazać te jednostki, które jednostka raportująca uznaje za podmioty niebędące rezydentami celów podatkowych żadnym państwie terytorium.
-W przypadku gdy jednostka wchodząca skład grupy rezydentem więcej niż jednym państwie terytorium, należy posiłkować się odpowiednimi przepisami umów międzynarodowych celu ustalenia państwa terytorium rezydencji podatkowej. W przypadku braku takich umów dana jednostka powinna zostać wykazana państwie terytorium, których znajduje się jej miejsce efektywnego zarządu. Miejsce to powinno zostać ustalone zgodnie z art. 4 Modelowej Konwencji Sprawie Podatku od Majątku i Dochodu i towarzyszącym jej Komentarzem .
-Dane dotyczące zagranicznego zakładu należy wykazywać według państwa terytorium, którym zlokalizowany ten zakład, a nie państwa terytorium rezydencji podatkowej jednostki, której ten zagraniczny zakład częścią.
-Nazwa zagranicznego zakładu przedstawiona następujący sposób: „nazwa podmiotu posiadającego zakład zagraniczny, nazwa państwa terytorium rezydencji podatkowej podmiotu posiadającego ten zakład zagraniczny”, z dopiskiem „PE”.
-2. Okres objęty informacją Informacja dotyczy roku obrotowego. W przypadku jednostek wchodzących skład grupy informacja zawiera według wyboru raportującej stosowanego sposób konsekwentny:
-a) informacje za rok obrotowy jednostek wchodzących skład grupy kończący się tym samym dniu okresie 12 miesięcy przed dniem, którym kończy się rok obrotowy raportującej, albo
-b) informacje dotyczące wszystkich jednostek wchodzących skład grupy za rok obrotowy raportującej.
-Informacja okresie objętym informacją stanowi część dodatkowych wyjaśnień, zawartych podmiotów.
-3. Źródła danych wykorzystywanych sporządzenia Wypełniając informację podmiotów, jednostka raportująca korzysta każdym roku konsekwentnie z tych samych źródeł danych odniesieniu poszczególnych jednostek wchodzących skład grupy podmiotów.
-Jednostka raportująca może wykorzystywać dane ze skonsolidowanych sprawozdań finansowych, wymaganych prawem sprawozdań finansowych odrębnej jednostki, sprawozdań finansowych dla organów nadzorczych dokumentacji wewnętrznej przygotowanej na potrzeby rachunkowości zarządczej. Nie konieczne uzgadnianie wielkości przychodów, zysków i podatków wykazywanych ze skonsolidowanym sprawozdaniem finansowym.
-Nie wymagane dokonywanie korekt z tytułu różnic zasadach rachunkowości obowiązujących różnych państwach terytoriach.
-W przypadku gdy za podstawę sprawozdawczości służą wymagane ustawowo sprawozdania finansowe, wszystkie kwoty nia danym roku inny sposób, ile obliczenia te są dokonywane jednolicie odniesieniu wszystkich państw terytoriów i dla każdego roku. Na potrzeby tych danych jako pracownicy mogą być zgłaszani niezależni zleceniobiorcy uczestniczący zwykłej działalności operacyjnej jednostek wchodzących skład grupy podmiotów. Dopuszczalne zaokrąglanie liczby pracowników stosowanie przybliżeń, pod warunkiem że takie zaokrąglenia przybliżenia nie zniekształcą istotnym stopniu względnego rozkładu pracowników poszczególnych państwach terytoriach. Należy stosować jednolitą metodę obliczania liczby pracowników odniesieniu wszystkich lat i wszystkich jednostek. Informacja metodzie obliczania liczby pracowników stanowi część dodatkowych wyjaśnień, zawartych podmiotów.
-5. Rodzaj działalności gospodarczej Jednostka raportująca określa główny rodzaj działalności gospodarczej główne rodzaje działalności gospodarczej, którą jednostka wchodząca skład grupy prowadzi danym państwie terytorium rezydencji podatkowej, zaznaczając odpowiednie pole pola podmiotów.
+w sprawie szczegółowego zakresu danych przekazywanych w informacji o grupie podmiotów oraz sposobu jej wypełniania Na podstawie art. 87 ust. 2 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. poz. 648) zarządza się, co następuje:
+
+**§ 1.** Informacja o grupie podmiotów zawiera:
+
+- **1)** cel złożenia informacji o grupie podmiotów;
+- **2)** wskazanie okresu objętego informacją o grupie podmiotów;
+- **3)** nazwę grupy podmiotów;
+- **4)** informację o walucie, w której wyrażone są kwoty ujęte w informacji o grupie podmiotów;
+- **5)** nazwę jednostki raportującej oraz wskazanie, czy jest:
+    - **a)** jednostką dominującą,
+    - **b)** wyznaczoną jednostką, o której mowa w art. 84 ust. 4 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, zwanej dalej „ustawą”, albo
+    - **c)** inną jednostką składającą informację o grupie podmiotów na podstawie art. 84 ust. 1 ustawy;
+
+- **6)** dane identyfikacyjne jednostek wchodzących w skład grupy podmiotów obejmujące:
+    - **a)** nazwę,
+    - **b)** numer identyfikacji podatkowej, a w przypadku jego braku – inny numer identyfikacyjny wraz z określeniem jego rodzaju,
+    - **c)** adres siedziby, w tym wskazanie państwa lub terytorium, nazwy miejscowości, ulicy, numeru domu lub lokalu oraz kodu pocztowego,
+    - **d)** wskazanie państwa lub terytorium rezydencji podatkowej,
+    - **e)** wskazanie państwa lub terytorium miejsca utworzenia albo rejestracji, jeżeli jest inne niż państwo lub terytorium rezydencji podatkowej;
+
+- **7)** informację o głównych rodzajach działalności gospodarczej jednostek wchodzących w skład grupy podmiotów według podziału na:
+    - **a)** badania i rozwój,
+    - **b)** posiadanie lub zarządzanie wartościami niematerialnymi,
+    - **c)** zakupy lub zamówienia,
+    - **d)** produkcja lub przetwórstwo,
+    - **e)** sprzedaż, marketing lub dystrybucja,
+    - **f)** usługi administracyjne, zarządcze lub wsparcia,
+    - **g)** świadczenie usług dla podmiotów niezależnych,
+    - **h)** finansowanie wewnątrzgrupowe,
+    - **i)** regulowane usługi finansowe,
+    - **j)** ubezpieczenia,
+    - **k)** posiadanie akcji lub innych praw własności w jednostkach,
+    - **l)** działalność nieaktywna lub
+    - **m)** inny rodzaj działalności;
+
+- **8)** dane dotyczące działalności prowadzonej przez jednostki wchodzące w skład grupy podmiotów obejmujące:
+    - **a)** osiągnięte przychody, z podziałem na przychody osiągnięte od podmiotów niezależnych oraz przychody osiągnięte od jednostek wchodzących w skład grupy podmiotów, przy czym nie uwzględnia się płatności otrzymanych od innych jednostek wchodzących w skład grupy podmiotów, uznawanych za dywidendy w państwie rezydencji podatkowej jednostki dokonującej wypłaty,
+    - **b)** zrealizowany zysk (strata) przed opodatkowaniem, z uwzględnieniem wszystkich nadzwyczajnych przychodów i kosztów,
+    - **c)** rzeczywiście zapłacony i niezwrócony w jakiejkolwiek formie podatek dochodowy w trakcie sprawozdawczego roku obrotowego, w tym podatek u źródła zapłacony przez inne jednostki z tytułu płatności na rzecz jednostki wchodzącej w skład grupy podmiotów,
+    - **d)** należny podatek dochodowy za sprawozdawczy rok obrotowy, przy czym należny podatek dochodowy odzwierciedla wyłącznie operacje przeprowadzone w sprawozdawczym roku obrotowym i nie uwzględnia odroczonych podatków ani rezerw na warunkowe zobowiązania podatkowe,
+    - **e)** sumę kapitału podstawowego (zakładowego),
+    - **f)** niepodzielony zysk z lat ubiegłych na koniec sprawozdawczego roku obrotowego,
+    - **g)** liczbę pracowników w przeliczeniu na pełne etaty, zgodnie z przyjętą jednolitą metodą obliczania,
+    - **h)** sumę wartości księgowych aktywów rzeczowych netto (trwałych i obrotowych), z wyłączeniem środków pieniężnych i ich ekwiwalentów oraz wartości niematerialnych i aktywów finansowych − wykazane według państwa lub terytorium, których jednostki te są rezydentami podatkowymi, a w przypadku zagranicznego zakładu według państwa lub terytorium prowadzenia działalności przez zagraniczny zakład; w przypadku zagranicznego zakładu kapitał podstawowy (zakładowy) jest wykazywany przez jednostkę, do której ten zakład należy, chyba że w państwie lub terytorium prowadzenia działalności przez zagraniczny zakład obowiązuje ustawowy wymóg kapitałowy;
+
+- **9)** dodatkowe informacje lub wyjaśnienia, o których mowa w art. 87 ust. 1 pkt 3 ustawy, obejmujące:
+    - **a)** informację o źródle danych wykorzystanych do wypełnienia informacji o grupie podmiotów, a w przypadku jego zmiany wyjaśnienie jej przyczyn i skutków,
+    - **b)** informację o kursach walut wykorzystanych do przeliczenia wartości pochodzących z danych źródłowych na walutę, o której mowa w pkt 4,
+    - **c)** informację o rodzaju działalności gospodarczej jednostki wchodzącej w skład grupy podmiotów – w przypadku, o którym mowa w pkt 7 lit. m,
+    - **d)** informację o nieprzekazaniu danych przez jednostkę dominującą – w przypadku, o którym mowa w art. 85 ustawy,
+    - **e)** przedstawione w sposób zwięzły inne informacje i wyjaśnienia, pomocne przy interpretacji danych zawartych w informacji o grupie podmiotów.
+
+**§ 2.** Sposób wypełniania informacji o grupie podmiotów określa załącznik do rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rozwoju i Finansów: wz. W. Janczyk SPOSÓB WYPEŁNIANIA INFORMACJI O GRUPIE PODMIOTÓW 1. jurysdykcja podatkowa Jednostka raportująca wskazuje wszystkie państwa lub terytoria, w których jednostki wchodzące w skład grupy podmiotów są rezydentami do celów podatkowych. Osobno należy wskazać te jednostki, które jednostka raportująca uznaje za podmioty niebędące rezydentami do celów podatkowych w żadnym państwie lub terytorium. W przypadku gdy jednostka wchodząca w skład grupy podmiotów jest rezydentem w więcej niż jednym państwie lub terytorium, należy posiłkować się odpowiednimi przepisami umów międzynarodowych w celu ustalenia państwa lub terytorium rezydencji podatkowej. W przypadku braku takich umów dana jednostka powinna zostać wykazana w państwie lub terytorium, w których znajduje się jej miejsce efektywnego zarządu. Miejsce to powinno zostać ustalone zgodnie z art. 4 Modelowej Konwencji w Sprawie Podatku od Majątku i Dochodu i towarzyszącym jej Komentarzem . Dane dotyczące zagranicznego zakładu należy wykazywać według państwa lub terytorium, w którym zlokalizowany jest ten zakład, a nie państwa lub terytorium rezydencji podatkowej jednostki, której ten zagraniczny zakład jest częścią. Nazwa zagranicznego zakładu jest przedstawiona w następujący sposób: „nazwa podmiotu posiadającego zakład zagraniczny, nazwa państwa lub terytorium rezydencji podatkowej podmiotu posiadającego ten zakład zagraniczny”, z dopiskiem „PE”. 2. Okres objęty informacją o grupie podmiotów Informacja o grupie podmiotów dotyczy sprawozdawczego roku obrotowego. W przypadku jednostek wchodzących w skład grupy podmiotów informacja o grupie podmiotów zawiera – według wyboru jednostki raportującej stosowanego w sposób konsekwentny:
+
+Informacja o okresie objętym informacją o grupie podmiotów stanowi część dodatkowych informacji lub wyjaśnień, zawartych w informacji o grupie podmiotów.
+
+- **a)** informacje za rok obrotowy jednostek wchodzących w skład grupy podmiotów kończący się w tym samym dniu lub w okresie 12 miesięcy przed dniem, w którym kończy się rok obrotowy jednostki raportującej, albo
+- **b)** informacje dotyczące wszystkich jednostek wchodzących w skład grupy podmiotów za rok obrotowy jednostki raportującej.
+
+3. Źródła danych wykorzystywanych do sporządzenia informacji o grupie podmiotów Wypełniając informację o grupie podmiotów, jednostka raportująca korzysta w każdym roku konsekwentnie z tych samych źródeł danych w odniesieniu do poszczególnych jednostek wchodzących w skład grupy podmiotów. Jednostka raportująca może wykorzystywać dane ze skonsolidowanych sprawozdań finansowych, wymaganych prawem sprawozdań finansowych odrębnej jednostki, sprawozdań finansowych dla organów nadzorczych lub dokumentacji wewnętrznej przygotowanej na potrzeby rachunkowości zarządczej. Nie jest konieczne uzgadnianie wielkości przychodów, zysków i podatków wykazywanych w informacji o grupie podmiotów ze skonsolidowanym sprawozdaniem finansowym. Nie jest wymagane dokonywanie korekt z tytułu różnic w zasadach rachunkowości obowiązujących w różnych państwach lub terytoriach. W przypadku gdy za podstawę sprawozdawczości służą wymagane ustawowo sprawozdania finansowe, wszystkie kwoty przelicza się na walutę jednostki raportującej, w której wyrażone są kwoty ujęte w informacji o grupie podmiotów, po średnim kursie walut dla danego roku wykazywanym w informacji dodatkowej.
+
+4. Liczba pracowników Zgłaszana liczba pracowników może być obliczana według stanu na koniec roku w oparciu o średni poziom zatrudnienia w danym roku lub w inny sposób, o ile obliczenia te są dokonywane jednolicie w odniesieniu do wszystkich państw lub terytoriów i dla każdego roku. Na potrzeby tych danych jako pracownicy mogą być zgłaszani niezależni zleceniobiorcy uczestniczący w zwykłej działalności operacyjnej jednostek wchodzących w skład grupy podmiotów. Dopuszczalne jest zaokrąglanie liczby pracowników lub stosowanie przybliżeń, pod warunkiem że takie zaokrąglenia lub przybliżenia nie zniekształcą w istotnym stopniu względnego rozkładu pracowników w poszczególnych państwach lub terytoriach. Należy stosować jednolitą metodę obliczania liczby pracowników w odniesieniu do wszystkich lat i wszystkich jednostek. Informacja o metodzie obliczania liczby pracowników stanowi część dodatkowych informacji lub wyjaśnień, zawartych w informacji o grupie podmiotów.
+
+5. Rodzaj działalności gospodarczej Jednostka raportująca określa główny rodzaj działalności gospodarczej lub główne rodzaje działalności gospodarczej, którą jednostka wchodząca w skład grupy podmiotów prowadzi w danym państwie lub terytorium rezydencji podatkowej, zaznaczając odpowiednie pole lub pola w informacji o grupie podmiotów.
+
 

@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie trybu postępowania i szczegółowych zasad prowadzenia rejestrów nieruchomości, udziałów i akcji nabytych lub objętych przez cudzoziemców Na podstawie art. 8 ust 5 ustawy z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U.
 z 2017 r. poz. 2278) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 23 listopada 2004 r. w sprawie trybu postępowania i szczegółowych zasad prowadzenia rejestrów nieruchomości, udziałów i akcji nabytych lub objętych przez cudzoziemców (Dz. U. z 2017 r.
-poz. 1689) § 4 otrzymuje brzmienie: „§ 4. Wpisu do rejestrów dokonuje się nie później niż w ciągu sześciu miesięcy od dnia wpływu dokumentu będącego podstawą do dokonania wpisu lub od dnia zakończenia czynności wyjaśniających.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 23 listopada 2004 r. w sprawie trybu postępowania i szczegółowych zasad prowadzenia rejestrów nieruchomości, udziałów i akcji nabytych lub objętych przez cudzoziemców (Dz. U. z 2017 r. poz. 1689) § 4 otrzymuje brzmienie: „§ 4. Wpisu do rejestrów dokonuje się nie później niż w ciągu sześciu miesięcy od dnia wpływu dokumentu będącego podstawą do dokonania wpisu lub od dnia zakończenia czynności wyjaśniających.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

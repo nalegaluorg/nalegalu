@@ -8,10 +8,10 @@ pos: 1900
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 października 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1900 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 5 października 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,14 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001900) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1900/text.pdf) |
 
-Poz. 1900 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 5 października 2017 r.
-w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka Na podstawie art. 12 ust. 4 ustawy z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2017 r. poz. 1459) zarządza się, co następuje: § 1. Wyznacza się wojewodę podlaskiego jako organ właściwy w zakresie:
-1) przyjmowania wniosków o przyznanie lub przedłużenie ważności Karty Polaka;
-2) wydawania decyzji w sprawach, o których mowa w pkt 1.
-§ 2. Z właściwości wojewody podlaskiego w sprawach, o których mowa w § 1, mogą skorzystać obywatele Republiki Białorusi albo osoby posiadające w tym państwie status bezpaństwowca.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: B. Szydło
+w sprawie wyznaczenia wojewody właściwego w zakresie prowadzenia postępowań o przyznanie lub przedłużenie ważności Karty Polaka Na podstawie art. 12 ust. 4 ustawy z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2017 r. poz. 1459) zarządza się, co następuje:
+
+**§ 1.** Wyznacza się wojewodę podlaskiego jako organ właściwy w zakresie:
+
+- **1)** przyjmowania wniosków o przyznanie lub przedłużenie ważności Karty Polaka;
+- **2)** wydawania decyzji w sprawach, o których mowa w pkt 1.
+
+**§ 2.** Z właściwości wojewody podlaskiego w sprawach, o których mowa w § 1, mogą skorzystać obywatele Republiki Białorusi albo osoby posiadające w tym państwie status bezpaństwowca.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

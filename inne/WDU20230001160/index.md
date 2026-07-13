@@ -26,212 +26,298 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001160) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1160/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych kryteriów wyboru ofert w postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej Na podstawie art. 148 ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, 2674 i 2770 oraz z 2023 r. poz. 605, 650 i 658) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 5 sierpnia 2016 r. w sprawie szczegółowych kryteriów wyboru ofert w postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1372, z późn. zm. ) wprowadza się następujące zmiany:
-1) w § 2 pkt 2a otrzymuje brzmienie: „2a) certyfikat superwizora psychoterapii – certyfikat wydawany przez towarzystwo lub stowarzyszenie posiadające pisemną pozytywną opinię konsultanta krajowego w dziedzinie psychiatrii, prowadzące lub atestujące szkolenia w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia, wyłącznie metodami o udowodnionej naukowo skuteczności, które uzyskały pozytywną opinię konsultanta krajowego w dziedzinie psychiatrii;”;
-2) w załączniku nr 2 do rozporządzenia w tabeli nr 3 „AMBULATORYJNE ŚWIADCZENIA DIAGNOSTYCZNE KOSZTOCHŁONNE (ASDK)” w części 2 „Przedmiot postępowania: Badania przewodu pokarmowego – kolonoskopia” w:
-a) kryterium „Jakość” w kategorii „Realizacja wybranych świadczeń” uchyla się ppkt 2.2,
-b) kryterium „Kompleksowość” dodaje się ppkt 1.3 w brzmieniu:
-1.3. Realizacja umowy o udzielanie świadczeń opieki zdrowotnej w rodzaju programy zdrowotne w zakresie 6 Programu badań przesiewowych raka jelita grubego – w lokalizacji.
-3) w załączniku nr 3 do rozporządzenia w tabeli nr 1 „LECZENIE SZPITALNE – HOSPITALIZACJA” w części 56 „Przedmiot postępowania: Szpitalny oddział ratunkowy” w lp. II w pkt 1 Poradnie/oddziały/pracownie/gabinety/inne komórki w kolumnie nr 4 ppkt 1.17 otrzymuje brzmienie: „1.17. Wpisane w rejestrze Prezesa Urzędu Lotnictwa Cywilnego całodobowe lądowisko lub całodobowe lotnisko, o których mowa w § 3 ust. 7, 8 i 10 rozporządzenia Ministra Zdrowia z dnia 27 czerwca 2019 r. w sprawie szpitalnego oddziału ratunkowego (Dz. U. z 2021 r. poz. 2048, z późn. zm.).”;
-Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).
-Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 1555, z 2017 r. poz. 498, 852, 1279, 2364 i 2484, z 2018 r. poz. 385 i 1383, z 2019 r. poz. 832, 1887 i 2316, z 2020 r. poz. 1841 i 2428, z 2021 r. poz. 307, 637, 749 i 1765 oraz z 2022 r. poz. 1033, 1421 i 1545.
-4) w załączniku nr 4 do rozporządzenia w tabeli nr 1 „OPIEKA PSYCHIATRYCZNA I LECZENIE UZALEŻNIEŃ”:
-a) w części 2 „Przedmiot postępowania: Świadczenia psychiatryczne dla dzieci i młodzieży” w lp. I w pkt 3 „Monitorowanie procesu psychoterapii” w kolumnie nr 4 w ppkt 3.1 po wyrazach „certyfikat superwizora psychoterapii” dodaje się wyrazy „lub psychoterapeutę będącego w trakcie szkolenia dotyczącego superwizji psychoterapii”,
-b) w części 4 „Przedmiot postępowania: Świadczenia psychiatryczne dla przewlekle chorych” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.6 pkt 6 otrzymuje brzmienie: „6) posiada inne wykształcenie, jeżeli:
-a) uzyskała pozytywną opinię kierownika ośrodka prowadzącego terapię zajęciową dla chorych psychicznie, po co najmniej rocznej praktyce w zakresie terapii zajęciowej w tym ośrodku, lub
-b) uzyskała pozytywną opinię kierownika oddziału na podstawie co najmniej rocznego doświadczenia w pracy z dziećmi i młodzieżą oraz posiada kompetencje i wiedzę w zakresie terapii zajęciowej – w przypadku realizacji świadczeń z zakresu psychiatrii dzieci i młodzieży”,
-c) w części 18 „Przedmiot postępowania: Leczenie alkoholowych zespołów abstynencyjnych (detoksykacja)” w lp. I w pkt 1 „Personel” w kolumnie nr 4 ppkt 1.8 otrzymuje brzmienie: „1.8. Osoba, która posiada kwalifikacje specjalisty psychoterapii uzależnień uzyskane na podstawie ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 172, z późn. zm.) lub przepisów wydanych na podstawie art. 22 ust. 3 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 165, z późn. zm.) lub uzyskała tytuł specjalisty w dziedzinie psychoterapii uzależnień, zwana dalej ,,specjalistą psychoterapii uzależnień” – równoważnik co najmniej 1 etatu na 40 łóżek.”,
-d) w części 20 „Przedmiot postępowania: Leczenie uzależnień stacjonarne” w lp. I: – w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.4 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”, – w pkt 2 „Monitorowanie procesu terapii uzależnień” w kolumnie nr 4 ppkt 2.1 otrzymuje brzmienie: „2.1. Udokumentowane systematyczne zewnętrzne monitorowanie procesu terapii uzależnień przez osobę posiadającą wpis na prowadzoną przez Krajowe Centrum Przeciwdziałania Uzależnieniom listę osób uprawnionych do prowadzenia superwizji – co najmniej 8 razy w okresie ostatnich 12 miesięcy poprzedzających o 2 miesiące miesiąc, w którym ogłoszono postępowanie, proporcjonalnie do czasu obowiązywania umowy we wskazanym okresie, zwane dalej ,,superwizją terapii uzależnień” – w lokalizacji.”,
-e) w części 21 „Przedmiot postępowania: Świadczenia terapii uzależnienia od alkoholu stacjonarne” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.4 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
-f) w części 21a „Przedmiot postępowania: Świadczenia terapii dla uzależnionych od alkoholu ze współistniejącymi innymi zaburzeniami psychicznymi (podwójna diagnoza)” w lp. I w pkt 1 „Personel” w ppkt 1.6 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
-g) w części 22 „Przedmiot postępowania: Krótkoterminowe świadczenia terapii uzależnienia od substancji psychoaktywnych” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.4 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
-h) w części 23 „Przedmiot postępowania: Świadczenia terapii dla uzależnionych od substancji psychoaktywnych ze współistniejącymi innymi zaburzeniami psychicznymi, głównie psychotycznymi (podwójna diagnoza)” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.4 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
-i) w części 24 „Przedmiot postępowania: Świadczenia rehabilitacyjne dla uzależnionych od substancji psychoaktywnych” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.4 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
-j) w części 25 „Przedmiot postępowania: Świadczenia rehabilitacji dla uzależnionych od substancji psychoaktywnych ze współistniejącymi innymi zaburzeniami psychicznymi, głównie psychotycznymi (podwójna diagnoza)” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.4 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
-k) w części 37 „Przedmiot postępowania: Świadczenia dzienne terapii uzależnienia od alkoholu” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.5 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
-l) w części 38 „Przedmiot postępowania: Świadczenia dzienne terapii uzależnienia od substancji psychoaktywnych” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.3 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
-m) w części 39 „Przedmiot postępowania: Świadczenia dzienne leczenia uzależnień” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.3 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
-n) części 54–56 otrzymują brzmienie:
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 5 sierpnia 2016 r. w sprawie szczegółowych kryteriów wyboru ofert w postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1372, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w § 2 pkt 2a otrzymuje brzmienie: „2a) certyfikat superwizora psychoterapii – certyfikat wydawany przez towarzystwo lub stowarzyszenie posiadające pisemną pozytywną opinię konsultanta krajowego w dziedzinie psychiatrii, prowadzące lub atestujące szkolenia w zakresie oddziaływań psychoterapeutycznych mających zastosowanie w leczeniu zaburzeń zdrowia, wyłącznie metodami o udowodnionej naukowo skuteczności, które uzyskały pozytywną opinię konsultanta krajowego w dziedzinie psychiatrii;”;
+- **2)** w załączniku nr 2 do rozporządzenia w tabeli nr 3 „AMBULATORYJNE ŚWIADCZENIA DIAGNOSTYCZNE KOSZTOCHŁONNE (ASDK)” w części 2 „Przedmiot postępowania: Badania przewodu pokarmowego – kolonoskopia” w:
+    - **a)** kryterium „Jakość” w kategorii „Realizacja wybranych świadczeń” uchyla się ppkt 2.2,
+    - **b)** kryterium „Kompleksowość” dodaje się ppkt 1.3 w brzmieniu:
+
+1. 3. Realizacja umowy o udzielanie świadczeń opieki zdrowotnej w rodzaju programy zdrowotne w zakresie 6 Programu badań przesiewowych raka jelita grubego – w lokalizacji.
+
+- **3)** w załączniku nr 3 do rozporządzenia w tabeli nr 1 „LECZENIE SZPITALNE – HOSPITALIZACJA” w części 56 „Przedmiot postępowania: Szpitalny oddział ratunkowy” w lp. II w pkt 1 Poradnie/oddziały/pracownie/gabinety/inne komórki w kolumnie nr 4 ppkt 1.17 otrzymuje brzmienie: „1.17. Wpisane w rejestrze Prezesa Urzędu Lotnictwa Cywilnego całodobowe lądowisko lub całodobowe lotnisko, o których mowa w § 3 ust. 7, 8 i 10 rozporządzenia Ministra Zdrowia z dnia 27 czerwca 2019 r. w sprawie szpitalnego oddziału ratunkowego (Dz. U. z 2021 r. poz. 2048, z późn. zm.).”; Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2016 r. poz. 1555, z 2017 r. poz. 498, 852, 1279, 2364 i 2484, z 2018 r. poz. 385 i 1383, z 2019 r. poz. 832, 1887 i 2316, z 2020 r. poz. 1841 i 2428, z 2021 r. poz. 307, 637, 749 i 1765 oraz z 2022 r. poz. 1033, 1421 i 1545.
+- **4)** w załączniku nr 4 do rozporządzenia w tabeli nr 1 „OPIEKA PSYCHIATRYCZNA I LECZENIE UZALEŻNIEŃ”:
+    - **a)** w części 2 „Przedmiot postępowania: Świadczenia psychiatryczne dla dzieci i młodzieży” w lp. I w pkt 3 „Monitorowanie procesu psychoterapii” w kolumnie nr 4 w ppkt 3.1 po wyrazach „certyfikat superwizora psychoterapii” dodaje się wyrazy „lub psychoterapeutę będącego w trakcie szkolenia dotyczącego superwizji psychoterapii”,
+    - **b)** w części 4 „Przedmiot postępowania: Świadczenia psychiatryczne dla przewlekle chorych” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.6 pkt 6 otrzymuje brzmienie: „6) posiada inne wykształcenie, jeżeli: a) uzyskała pozytywną opinię kierownika ośrodka prowadzącego terapię zajęciową dla chorych psychicznie, po co najmniej rocznej praktyce w zakresie terapii zajęciowej w tym ośrodku, lub b) uzyskała pozytywną opinię kierownika oddziału na podstawie co najmniej rocznego doświadczenia w pracy z dziećmi i młodzieżą oraz posiada kompetencje i wiedzę w zakresie terapii zajęciowej – w przypadku realizacji świadczeń z zakresu psychiatrii dzieci i młodzieży”,
+    - **c)** w części 18 „Przedmiot postępowania: Leczenie alkoholowych zespołów abstynencyjnych (detoksykacja)” w lp. I w pkt 1 „Personel” w kolumnie nr 4 ppkt 1.8 otrzymuje brzmienie: „1.8. Osoba, która posiada kwalifikacje specjalisty psychoterapii uzależnień uzyskane na podstawie ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 172, z późn. zm.) lub przepisów wydanych na podstawie art. 22 ust. 3 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 165, z późn. zm.) lub uzyskała tytuł specjalisty w dziedzinie psychoterapii uzależnień, zwana dalej ,,specjalistą psychoterapii uzależnień” – równoważnik co najmniej 1 etatu na 40 łóżek.”,
+    - **d)** w części 20 „Przedmiot postępowania: Leczenie uzależnień stacjonarne” w lp. I: – w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.4 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”, – w pkt 2 „Monitorowanie procesu terapii uzależnień” w kolumnie nr 4 ppkt 2.1 otrzymuje brzmienie: „2.1. Udokumentowane systematyczne zewnętrzne monitorowanie procesu terapii uzależnień przez osobę posiadającą wpis na prowadzoną przez Krajowe Centrum Przeciwdziałania Uzależnieniom listę osób uprawnionych do prowadzenia superwizji – co najmniej 8 razy w okresie ostatnich 12 miesięcy poprzedzających o 2 miesiące miesiąc, w którym ogłoszono postępowanie, proporcjonalnie do czasu obowiązywania umowy we wskazanym okresie, zwane dalej ,,superwizją terapii uzależnień” – w lokalizacji.”,
+    - **e)** w części 21 „Przedmiot postępowania: Świadczenia terapii uzależnienia od alkoholu stacjonarne” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.4 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
+    - **f)** w części 21a „Przedmiot postępowania: Świadczenia terapii dla uzależnionych od alkoholu ze współistniejącymi innymi zaburzeniami psychicznymi (podwójna diagnoza)” w lp. I w pkt 1 „Personel” w ppkt 1.6 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
+    - **g)** w części 22 „Przedmiot postępowania: Krótkoterminowe świadczenia terapii uzależnienia od substancji psychoaktywnych” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.4 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
+    - **h)** w części 23 „Przedmiot postępowania: Świadczenia terapii dla uzależnionych od substancji psychoaktywnych ze współistniejącymi innymi zaburzeniami psychicznymi, głównie psychotycznymi (podwójna diagnoza)” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.4 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
+    - **i)** w części 24 „Przedmiot postępowania: Świadczenia rehabilitacyjne dla uzależnionych od substancji psychoaktywnych” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.4 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
+    - **j)** w części 25 „Przedmiot postępowania: Świadczenia rehabilitacji dla uzależnionych od substancji psychoaktywnych ze współistniejącymi innymi zaburzeniami psychicznymi, głównie psychotycznymi (podwójna diagnoza)” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.4 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
+    - **k)** w części 37 „Przedmiot postępowania: Świadczenia dzienne terapii uzależnienia od alkoholu” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.5 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
+    - **l)** w części 38 „Przedmiot postępowania: Świadczenia dzienne terapii uzależnienia od substancji psychoaktywnych” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.3 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
+    - **m)** w części 39 „Przedmiot postępowania: Świadczenia dzienne leczenia uzależnień” w lp. I w pkt 1 „Personel” w kolumnie nr 4 w ppkt 1.3 po wyrazach „osoba ubiegająca się o otrzymanie certyfikatu specjalisty psychoterapii uzależnień” dodaje się przecinek i wyrazy „lub osoba w trakcie specjalizacji w dziedzinie psychoterapii uzależnień”,
+    - **n)** części 54–56 otrzymują brzmienie:
+
 54. Przedmiot postępowania: ośrodek środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny / zespół środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny 1 2 3 4 5 6 Liczba Lp. Kryterium Kategoria Oceniany warunek Uwagi punktów I. Jakość 1. Personel 1.1. W zespole – specjalista w dziedzinie psychoterapii 10 dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub osoba posiadająca certyfikat psychoterapeuty – równoważnik co najmniej 0,5 etatu.
-1.2. W ośrodku – specjalista w dziedzinie psychoterapii 10 dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub osoba posiadająca certyfikat psychoterapeuty – równoważnik co najmniej 1 etatu.
-1.3. W zespole – specjalista psychologii klinicznej lub 10 Jedna psycholog kliniczny – równoważnik co najmniej odpowiedź 0,25 etatu. do wyboru
-1.4. W zespole – specjalista psychologii klinicznej lub 20 psycholog kliniczny – równoważnik co najmniej 0,5 etatu.
-1.5. W ośrodku – specjalista psychologii klinicznej lub 10 Jedna psycholog kliniczny – równoważnik co najmniej odpowiedź 0,5 etatu. do wyboru
-1.6. W ośrodku – specjalista psychologii klinicznej lub 20 psycholog kliniczny – równoważnik co najmniej 1 etatu.
-1.7. W zespole – osoba, która posiada co najmniej 5 wykształcenie średnie i ukończyła szkolenie z zakresu terapii środowiskowej określone w zatwierdzonym przez ministra właściwego do spraw zdrowia ramowym programie szkolenia z zakresu terapii środowiskowej, lub osoba posiadająca certyfikat potwierdzający nadanie kwalifikacji rynkowej „Prowadzenie terapii środowiskowej dzieci i młodzieży” włączonej do Zintegrowanego Systemu Kwalifikacji w rozumieniu art. 2 pkt 25 ustawy z dnia 22 grudnia 2015 r.
-o Zintegrowanym Systemie Kwalifikacji (Dz. U.
-z 2020 r. poz. 226) – równoważnik co najmniej 0,5 etatu.
-1.8. W ośrodku – osoba, która posiada co najmniej 5 wykształcenie średnie i ukończyła szkolenie z zakresu terapii środowiskowej określone w zatwierdzonym przez ministra właściwego do spraw zdrowia ramowym programie szkolenia z zakresu terapii środowiskowej, lub osoba posiadająca certyfikat potwierdzający nadanie kwalifikacji rynkowej „Prowadzenie terapii środowiskowej dzieci i młodzieży” włączonej do Zintegrowanego Systemu Kwalifikacji w rozumieniu art. 2 pkt 25 ustawy z dnia 22 grudnia 2015 r.
-o Zintegrowanym Systemie Kwalifikacji – równoważnik co najmniej 1 etatu.
+
+1. 2. W ośrodku – specjalista w dziedzinie psychoterapii 10 dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub osoba posiadająca certyfikat psychoterapeuty – równoważnik co najmniej 1 etatu.
+
+1. 3. W zespole – specjalista psychologii klinicznej lub 10 Jedna psycholog kliniczny – równoważnik co najmniej odpowiedź 0,25 etatu. do wyboru
+
+1. 4. W zespole – specjalista psychologii klinicznej lub 20 psycholog kliniczny – równoważnik co najmniej 0,5 etatu.
+
+1. 5. W ośrodku – specjalista psychologii klinicznej lub 10 Jedna psycholog kliniczny – równoważnik co najmniej odpowiedź 0,5 etatu. do wyboru
+
+1. 6. W ośrodku – specjalista psychologii klinicznej lub 20 psycholog kliniczny – równoważnik co najmniej 1 etatu.
+
+1. 7. W zespole – osoba, która posiada co najmniej 5 wykształcenie średnie i ukończyła szkolenie z zakresu terapii środowiskowej określone w zatwierdzonym przez ministra właściwego do spraw zdrowia ramowym programie szkolenia z zakresu terapii środowiskowej, lub osoba posiadająca certyfikat potwierdzający nadanie kwalifikacji rynkowej „Prowadzenie terapii środowiskowej dzieci i młodzieży” włączonej do Zintegrowanego Systemu Kwalifikacji w rozumieniu art. 2 pkt 25 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2020 r. poz. 226) – równoważnik co najmniej 0,5 etatu.
+
+1. 8. W ośrodku – osoba, która posiada co najmniej 5 wykształcenie średnie i ukończyła szkolenie z zakresu terapii środowiskowej określone w zatwierdzonym przez ministra właściwego do spraw zdrowia ramowym programie szkolenia z zakresu terapii środowiskowej, lub osoba posiadająca certyfikat potwierdzający nadanie kwalifikacji rynkowej „Prowadzenie terapii środowiskowej dzieci i młodzieży” włączonej do Zintegrowanego Systemu Kwalifikacji w rozumieniu art. 2 pkt 25 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji – równoważnik co najmniej 1 etatu.
+
 2. Monitorowanie 2.1. Udokumentowane, systematyczne zewnętrzne 5 procesu monitorowanie procesu diagnostyczno-terapeutycznego udzielania realizowanego przez zespół specjalistów udzielających świadczeń świadczeń opieki zdrowotnej prowadzone co najmniej 8 razy w okresie ostatnich 12 miesięcy poprzedzających o 2 miesiące miesiąc, w którym ogłoszono postępowanie, proporcjonalnie do czasu obowiązywania umowy we wskazanym okresie, zwane dalej ,,superwizją zespołu”.
-3. Wykonanie 3.1. Realizacja umowy przez oferenta w ostatnim 4 umowy zamkniętym okresie rozliczeniowym poprzedzającym o 2 miesiące miesiąc, w którym ogłoszono postępowanie, na obszarze danego województwa, którego dotyczy postępowanie, na poziomie co najmniej 80% kwoty zobowiązania określonej w tej umowie, z wyłączeniem ryczałtu, w zakresie przedmiotu postępowania ośrodek środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci młodzieży – I poziom referencyjny albo zespół środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny.
-II. Dostępność 1. Dostępność do 1.1. Realizacja przez oferenta w okresie ostatnich 4 Jedna świadczeń 12 miesięcy poprzedzających o 2 miesiące miesiąc, odpowiedź w którym ogłoszono postępowanie, co najmniej do wyboru 20% wizyt, porad domowych lub środowiskowych w stosunku do liczby wszystkich świadczeń wykonanych w zakresie przedmiotu postępowania ośrodek środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny albo zespół środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny.
-1.2. Realizacja przez oferenta w okresie ostatnich 6 12 miesięcy poprzedzających o 2 miesiące miesiąc, w którym ogłoszono postępowanie, co najmniej 30% wizyt, porad domowych lub środowiskowych w stosunku do liczby wszystkich świadczeń wykonanych w zakresie przedmiotu postępowania ośrodek środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny albo zespół środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny.
-2. Organizacja 2.1. Realizacja świadczeń co najmniej 3 razy 5 udzielania w tygodniu między godziną 16.00 a 20.00.
-świadczeń 2.2. Realizacja świadczeń w każdą sobotę. 7 III. Kompleksowość 1. Pozostałe 1.1. Oferent realizuje umowę na obszarze województwa, 15 Jedna warunki którego dotyczy postępowanie w zakresie przedmiotu odpowiedź postępowania ośrodek wysokospecjalistycznej do wyboru całodobowej opieki psychiatrycznej – III poziom referencyjny.
-1.2. Oferent realizuje umowę na obszarze województwa, 10 którego dotyczy postępowanie w zakresie przedmiotu postępowania świadczenia psychiatryczne ambulatoryjne dla dzieci i młodzieży lub świadczenia psychiatryczne dla dzieci i młodzieży.
-1.3. Oferent realizuje umowę na obszarze województwa, 10 którego dotyczy postępowanie w zakresie przedmiotu postępowania centrum zdrowia psychicznego dla dzieci i młodzieży – II poziom referencyjny.
-1.4. Oferent realizuje umowę na obszarze województwa, 8 którego dotyczy postępowanie w zakresie przedmiotu postępowania centrum zdrowia psychicznego dla dzieci i młodzieży – poradnia zdrowia psychicznego – II poziom referencyjny.
-IV. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym Maksymalnie w załączniku nr 17 do rozporządzenia. 3
+
+3. Wykonanie 3.1. Realizacja umowy przez oferenta w ostatnim 4 umowy zamkniętym okresie rozliczeniowym poprzedzającym o 2 miesiące miesiąc, w którym ogłoszono postępowanie, na obszarze danego województwa, którego dotyczy postępowanie, na poziomie co najmniej 80% kwoty zobowiązania określonej w tej umowie, z wyłączeniem ryczałtu, w zakresie przedmiotu postępowania ośrodek środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci młodzieży – I poziom referencyjny albo zespół środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny. II. Dostępność 1. Dostępność do 1.1. Realizacja przez oferenta w okresie ostatnich 4 Jedna świadczeń 12 miesięcy poprzedzających o 2 miesiące miesiąc, odpowiedź w którym ogłoszono postępowanie, co najmniej do wyboru 20% wizyt, porad domowych lub środowiskowych w stosunku do liczby wszystkich świadczeń wykonanych w zakresie przedmiotu postępowania ośrodek środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny albo zespół środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny.
+
+1. 2. Realizacja przez oferenta w okresie ostatnich 6 12 miesięcy poprzedzających o 2 miesiące miesiąc, w którym ogłoszono postępowanie, co najmniej 30% wizyt, porad domowych lub środowiskowych w stosunku do liczby wszystkich świadczeń wykonanych w zakresie przedmiotu postępowania ośrodek środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny albo zespół środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny.
+
+2. Organizacja 2.1. Realizacja świadczeń co najmniej 3 razy 5 udzielania w tygodniu między godziną 16.00 a 20.00. świadczeń 2.2. Realizacja świadczeń w każdą sobotę. 7 III. Kompleksowość 1. Pozostałe 1.1. Oferent realizuje umowę na obszarze województwa, 15 Jedna warunki którego dotyczy postępowanie w zakresie przedmiotu odpowiedź postępowania ośrodek wysokospecjalistycznej do wyboru całodobowej opieki psychiatrycznej – III poziom referencyjny.
+
+1. 2. Oferent realizuje umowę na obszarze województwa, 10 którego dotyczy postępowanie w zakresie przedmiotu postępowania świadczenia psychiatryczne ambulatoryjne dla dzieci i młodzieży lub świadczenia psychiatryczne dla dzieci i młodzieży.
+
+1. 3. Oferent realizuje umowę na obszarze województwa, 10 którego dotyczy postępowanie w zakresie przedmiotu postępowania centrum zdrowia psychicznego dla dzieci i młodzieży – II poziom referencyjny.
+
+1. 4. Oferent realizuje umowę na obszarze województwa, 8 którego dotyczy postępowanie w zakresie przedmiotu postępowania centrum zdrowia psychicznego dla dzieci i młodzieży – poradnia zdrowia psychicznego – II poziom referencyjny. IV. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym Maksymalnie w załączniku nr 17 do rozporządzenia. 3
+
 55. Przedmiot postępowania: centrum zdrowia psychicznego dla dzieci i młodzieży – II poziom referencyjny 1 2 3 4 5 6 Liczba Lp. Kryterium Kategoria Oceniany warunek Uwagi punktów I. Jakość 1. Personel 1.1. W poradni – lekarz specjalista w dziedzinie 10 Jedna psychiatrii dzieci i młodzieży – równoważnik odpowiedź co najmniej 1 etatu. do wyboru
-1.2. W poradni – lekarz specjalista w dziedzinie 5 psychiatrii dla dzieci i młodzieży – równoważnik co najmniej 0,5 etatu.
-1.3. W oddziale – lekarz specjalista w dziedzinie 9 psychiatrii dzieci i młodzieży – równoważnik co najmniej 0,5 etatu przeliczeniowego na 15 miejsc.
-1.4. W poradni – specjalista psychologii klinicznej lub 7 psycholog kliniczny – równoważnik co najmniej 0,5 etatu.
-1.5. W oddziale – specjalista psychologii klinicznej lub 5 psycholog kliniczny – równoważnik 0,5 etatu przeliczeniowego na 15 miejsc.
-1.6. W poradni – specjalista w dziedzinie psychoterapii 6 dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub osoba posiadająca certyfikat psychoterapeuty – równoważnik co najmniej 1 etatu.
-1.7. W oddziale – specjalista w dziedzinie psychoterapii 6 dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub osoba posiadająca certyfikat psychoterapeuty – równoważnik co najmniej 2 etatów przeliczeniowych na 15 miejsc.
-1.8. W oddziale – osoba prowadząca terapię zajęciową – 5 Jedna równoważnik co najmniej 1,5 etatu przeliczeniowego odpowiedź na 15 miejsc. do wyboru
-1.9. W oddziale – osoba prowadząca terapię zajęciową – 3 równoważnik co najmniej 1 etatu przeliczeniowego na 15 miejsc.
-1.10. W oddziale – pedagog lub logopeda w rozumieniu 2 § 2 pkt 4 rozporządzenia w sprawie leczenia psychiatrycznego, lub neurologopeda, lub dietetyk, lub fizjoterapeuta – równoważnik co najmniej 0,75 etatu przeliczeniowego na 15 miejsc.
-1.11. W oddziale – pielęgniarka specjalista w dziedzinie 3 Jedna pielęgniarstwa psychiatrycznego lub w trakcie odpowiedź specjalizacji w dziedzinie pielęgniarstwa do wyboru psychiatrycznego – nie mniej niż jeden etat na 10–45 miejsc; a powyżej 45 miejsc – proporcjonalnie.
-1.12. W oddziale – pielęgniarka po kursie 1,5 kwalifikacyjnym w dziedzinie pielęgniarstwa psychiatrycznego lub pielęgniarka w trakcie kursu kwalifikacyjnego w dziedzinie pielęgniarstwa psychiatrycznego – nie mniej niż jeden etat na 10–45 miejsc; a powyżej 45 miejsc – proporcjonalnie.
-1.13. W poradni – fizjoterapeuta z co najmniej 5-letnim 2 doświadczeniem lub specjalista w dziedzinie fizjoterapii – równoważnik co najmniej 0,5 etatu.
-1.14. W poradni – logopeda – równoważnik co najmniej 2 0,25 etatu.
-1.15. W poradni – osoba prowadząca terapię zajęciową – 2 równoważnik co najmniej 0,5 etatu.
-1.16. W poradni – pracownik socjalny – równoważnik 1 co najmniej 10% czasu poradni.
+
+1. 2. W poradni – lekarz specjalista w dziedzinie 5 psychiatrii dla dzieci i młodzieży – równoważnik co najmniej 0,5 etatu.
+
+1. 3. W oddziale – lekarz specjalista w dziedzinie 9 psychiatrii dzieci i młodzieży – równoważnik co najmniej 0,5 etatu przeliczeniowego na 15 miejsc.
+
+1. 4. W poradni – specjalista psychologii klinicznej lub 7 psycholog kliniczny – równoważnik co najmniej 0,5 etatu.
+
+1. 5. W oddziale – specjalista psychologii klinicznej lub 5 psycholog kliniczny – równoważnik 0,5 etatu przeliczeniowego na 15 miejsc.
+
+1. 6. W poradni – specjalista w dziedzinie psychoterapii 6 dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub osoba posiadająca certyfikat psychoterapeuty – równoważnik co najmniej 1 etatu.
+
+1. 7. W oddziale – specjalista w dziedzinie psychoterapii 6 dzieci i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub osoba posiadająca certyfikat psychoterapeuty – równoważnik co najmniej 2 etatów przeliczeniowych na 15 miejsc.
+
+1. 8. W oddziale – osoba prowadząca terapię zajęciową – 5 Jedna równoważnik co najmniej 1,5 etatu przeliczeniowego odpowiedź na 15 miejsc. do wyboru
+
+1. 9. W oddziale – osoba prowadząca terapię zajęciową – 3 równoważnik co najmniej 1 etatu przeliczeniowego na 15 miejsc.
+
+1. 10. W oddziale – pedagog lub logopeda w rozumieniu 2 § 2 pkt 4 rozporządzenia w sprawie leczenia psychiatrycznego, lub neurologopeda, lub dietetyk, lub fizjoterapeuta – równoważnik co najmniej 0,75 etatu przeliczeniowego na 15 miejsc.
+
+1. 11. W oddziale – pielęgniarka specjalista w dziedzinie 3 Jedna pielęgniarstwa psychiatrycznego lub w trakcie odpowiedź specjalizacji w dziedzinie pielęgniarstwa do wyboru psychiatrycznego – nie mniej niż jeden etat na 10–45 miejsc; a powyżej 45 miejsc – proporcjonalnie.
+
+1. 12. W oddziale – pielęgniarka po kursie 1,5 kwalifikacyjnym w dziedzinie pielęgniarstwa psychiatrycznego lub pielęgniarka w trakcie kursu kwalifikacyjnego w dziedzinie pielęgniarstwa psychiatrycznego – nie mniej niż jeden etat na 10–45 miejsc; a powyżej 45 miejsc – proporcjonalnie.
+
+1. 13. W poradni – fizjoterapeuta z co najmniej 5-letnim 2 doświadczeniem lub specjalista w dziedzinie fizjoterapii – równoważnik co najmniej 0,5 etatu.
+
+1. 14. W poradni – logopeda – równoważnik co najmniej 2 0,25 etatu.
+
+1. 15. W poradni – osoba prowadząca terapię zajęciową – 2 równoważnik co najmniej 0,5 etatu.
+
+1. 16. W poradni – pracownik socjalny – równoważnik 1 co najmniej 10% czasu poradni.
+
 2. Monitorowanie 2.1. Superwizja zespołu. 6 procesu udzielania świadczeń II. Kompleksowość 1. Pozostałe 1.1. Oferent realizuje świadczenia w oddziale dziennym 8 Jedna warunki z realizacją obowiązku szkolnego w oddziale w czasie odpowiedź roku szkolnego. do wyboru
-1.2. Oferent realizuje świadczenia w oddziale dziennym 4 z realizacją obowiązku szkolnego w lokalizacji w czasie roku szkolnego.
-1.3. Oferent realizuje umowę na obszarze województwa, 8 którego dotyczy postępowanie w zakresie przedmiotu postępowania świadczenia dzienne rehabilitacyjne dla osób z całościowymi zaburzeniami rozwojowymi.
-1.4. Oferent realizuje umowę na obszarze województwa, 10 Jedna którego dotyczy postępowanie w zakresie przedmiotu odpowiedź postępowania ośrodek środowiskowej opieki do wyboru psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny.
-1.5. Oferent realizuje umowę na obszarze województwa, 7 którego dotyczy postępowanie w zakresie przedmiotu postępowania zespół środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny.
-1.6. Zapewnienie konsultacji lekarza specjalisty 3 w dziedzinie neurologii dziecięcej lub lekarza specjalisty w dziedzinie pediatrii – przeszkolonych w zakresie diagnostyki i terapii autyzmu – w lokalizacji.
-III. Dostępność 1. Organizacja 1.1. Realizacja świadczeń w poradni w każdą sobotę 6 udzielania przez co najmniej 4 godziny.
-świadczeń 1.2. Realizacja świadczeń w poradni w wymiarze 6 Jedna co najmniej 40 godzin tygodniowo. odpowiedź
-1.3. Realizacja świadczeń w poradni w wymiarze 3 do wyboru co najmniej 30 godzin tygodniowo.
-IV. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym Maksymalnie w załączniku nr 17 do rozporządzenia. 3 55a. Przedmiot postępowania: centrum zdrowia psychicznego dla dzieci i młodzieży – poradnia zdrowia psychicznego – II poziom referencyjny 1 2 3 4 5 6 Liczba Lp. Kryterium Kategoria Oceniany warunek Uwagi punktów I. Jakość 1. Personel 1.1. Lekarz specjalista w dziedzinie psychiatrii dzieci 16 Jedna i młodzieży – równoważnik co najmniej 1 etatu. odpowiedź
-1.2. Lekarz specjalista w dziedzinie psychiatrii dzieci 8 do wyboru i młodzieży – równoważnik co najmniej 0,5 etatu.
-1.3. Specjalista psychologii klinicznej lub psycholog 7 kliniczny – równoważnik co najmniej 0,5 etatu.
-1.4. Specjalista w dziedzinie psychoterapii dzieci 8 i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub osoba posiadająca certyfikat psychoterapeuty – równoważnik co najmniej 1 etatu.
-1.5. Fizjoterapeuta z co najmniej 5-letnim 3 doświadczeniem lub specjalista w dziedzinie fizjoterapii – równoważnik co najmniej 0,5 etatu.
-1.6. Logopeda w rozumieniu § 2 pkt 4 rozporządzenia 3 w sprawie leczenia psychiatrycznego – równoważnik co najmniej 0,25 etatu.
-1.7. Osoba prowadząca terapię zajęciową – 3 równoważnik co najmniej 0,5 etatu.
-1.8. Pracownik socjalny – równoważnik co najmniej 1 10% czasu poradni.
+
+1. 2. Oferent realizuje świadczenia w oddziale dziennym 4 z realizacją obowiązku szkolnego w lokalizacji w czasie roku szkolnego.
+
+1. 3. Oferent realizuje umowę na obszarze województwa, 8 którego dotyczy postępowanie w zakresie przedmiotu postępowania świadczenia dzienne rehabilitacyjne dla osób z całościowymi zaburzeniami rozwojowymi.
+
+1. 4. Oferent realizuje umowę na obszarze województwa, 10 Jedna którego dotyczy postępowanie w zakresie przedmiotu odpowiedź postępowania ośrodek środowiskowej opieki do wyboru psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny.
+
+1. 5. Oferent realizuje umowę na obszarze województwa, 7 którego dotyczy postępowanie w zakresie przedmiotu postępowania zespół środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny.
+
+1. 6. Zapewnienie konsultacji lekarza specjalisty 3 w dziedzinie neurologii dziecięcej lub lekarza specjalisty w dziedzinie pediatrii – przeszkolonych w zakresie diagnostyki i terapii autyzmu – w lokalizacji. III. Dostępność 1. Organizacja 1.1. Realizacja świadczeń w poradni w każdą sobotę 6 udzielania przez co najmniej 4 godziny. świadczeń 1.2. Realizacja świadczeń w poradni w wymiarze 6 Jedna co najmniej 40 godzin tygodniowo. odpowiedź
+
+1. 3. Realizacja świadczeń w poradni w wymiarze 3 do wyboru co najmniej 30 godzin tygodniowo. IV. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym Maksymalnie w załączniku nr 17 do rozporządzenia. 3 55a. Przedmiot postępowania: centrum zdrowia psychicznego dla dzieci i młodzieży – poradnia zdrowia psychicznego – II poziom referencyjny 1 2 3 4 5 6 Liczba Lp. Kryterium Kategoria Oceniany warunek Uwagi punktów I. Jakość 1. Personel 1.1. Lekarz specjalista w dziedzinie psychiatrii dzieci 16 Jedna i młodzieży – równoważnik co najmniej 1 etatu. odpowiedź
+
+1. 2. Lekarz specjalista w dziedzinie psychiatrii dzieci 8 do wyboru i młodzieży – równoważnik co najmniej 0,5 etatu.
+
+1. 3. Specjalista psychologii klinicznej lub psycholog 7 kliniczny – równoważnik co najmniej 0,5 etatu.
+
+1. 4. Specjalista w dziedzinie psychoterapii dzieci 8 i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub osoba posiadająca certyfikat psychoterapeuty – równoważnik co najmniej 1 etatu.
+
+1. 5. Fizjoterapeuta z co najmniej 5-letnim 3 doświadczeniem lub specjalista w dziedzinie fizjoterapii – równoważnik co najmniej 0,5 etatu.
+
+1. 6. Logopeda w rozumieniu § 2 pkt 4 rozporządzenia 3 w sprawie leczenia psychiatrycznego – równoważnik co najmniej 0,25 etatu.
+
+1. 7. Osoba prowadząca terapię zajęciową – 3 równoważnik co najmniej 0,5 etatu.
+
+1. 8. Pracownik socjalny – równoważnik co najmniej 1 10% czasu poradni.
+
 2. Monitorowanie 2.1. Superwizja zespołu. 8 procesu udzielania świadczeń II. Kompleksowość 1. Pozostałe 1.1. Oferent realizuje umowę na obszarze województwa, 9 Jedna warunki którego dotyczy postępowanie w zakresie przedmiotu odpowiedź postępowania ośrodek środowiskowej opieki do wyboru psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny.
-1.2. Oferent realizuje umowę na obszarze województwa, 6 którego dotyczy postępowanie w zakresie przedmiotu postępowania zespół środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny.
-1.3. Zapewnienie konsultacji lekarza specjalisty 3 w dziedzinie neurologii dziecięcej lub lekarza specjalisty w dziedzinie pediatrii – przeszkolonych w zakresie diagnostyki i terapii autyzmu – w lokalizacji.
-III. Dostępność 1. Organizacja 1.1. Realizacja świadczeń w każdą sobotę przez 8 udzielania co najmniej 4 godziny.
-świadczeń 1.2. Realizacja świadczeń w poradni w wymiarze 8 Jedna co najmniej 40 godzin tygodniowo. odpowiedź
-1.3. Realizacja świadczeń w poradni w wymiarze 4 do wyboru co najmniej 30 godzin tygodniowo.
-IV. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym Maksymalnie w załączniku nr 17 do rozporządzenia. 3
+
+1. 2. Oferent realizuje umowę na obszarze województwa, 6 którego dotyczy postępowanie w zakresie przedmiotu postępowania zespół środowiskowej opieki psychologicznej i psychoterapeutycznej dla dzieci i młodzieży – I poziom referencyjny.
+
+1. 3. Zapewnienie konsultacji lekarza specjalisty 3 w dziedzinie neurologii dziecięcej lub lekarza specjalisty w dziedzinie pediatrii – przeszkolonych w zakresie diagnostyki i terapii autyzmu – w lokalizacji. III. Dostępność 1. Organizacja 1.1. Realizacja świadczeń w każdą sobotę przez 8 udzielania co najmniej 4 godziny. świadczeń 1.2. Realizacja świadczeń w poradni w wymiarze 8 Jedna co najmniej 40 godzin tygodniowo. odpowiedź
+
+1. 3. Realizacja świadczeń w poradni w wymiarze 4 do wyboru co najmniej 30 godzin tygodniowo. IV. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym Maksymalnie w załączniku nr 17 do rozporządzenia. 3
+
 56. Przedmiot postępowania: ośrodek wysokospecjalistycznej całodobowej opieki psychiatrycznej – III poziom referencyjny 1 2 3 4 5 6 Liczba Lp. Kryterium Kategoria Oceniany warunek Uwagi punktów I. Jakość 1. Personel 1.1. Lekarz specjalista w dziedzinie psychiatrii dzieci 18 i młodzieży – równoważnik co najmniej 2 etatów przeliczeniowych na 40 łóżek.
-1.2. Specjalista psychologii klinicznej lub psycholog 13 kliniczny – równoważnik co najmniej 1 etatu przeliczeniowego na 40 łóżek.
-1.3. Specjalista w dziedzinie psychoterapii dzieci 6 Jedna i młodzieży lub osoba posiadająca decyzję ministra odpowiedź właściwego do spraw zdrowia o uznaniu dorobku do wyboru naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub osoba posiadająca certyfikat psychoterapeuty – równoważnik co najmniej 3 etatów przeliczeniowych na 40 łóżek.
-1.4. Specjalista w dziedzinie psychoterapii dzieci 5 i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub osoba posiadająca certyfikat psychoterapeuty – równoważnik co najmniej 2,5 etatu przeliczeniowego na 40 łóżek.
-1.5. Specjalista w dziedzinie psychoterapii dzieci 4 i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub osoba posiadająca certyfikat psychoterapeuty – równoważnik co najmniej 2 etatów przeliczeniowych na 40 łóżek.
-1.6. Osoba prowadząca terapię zajęciową – 4 równoważnik co najmniej 2 etatów przeliczeniowych na 40 łóżek.
-1.7. Pielęgniarka specjalista w dziedzinie pielęgniarstwa 5 Jedna psychiatrycznego lub w trakcie specjalizacji odpowiedź w dziedzinie pielęgniarstwa psychiatrycznego – do wyboru równoważnik co najmniej 1 etatu.
-1.8. Pielęgniarka po kursie kwalifikacyjnym 3 w dziedzinie pielęgniarstwa psychiatrycznego lub pielęgniarka w trakcie kursu kwalifikacyjnego w dziedzinie pielęgniarstwa psychiatrycznego – równoważnik co najmniej 1 etatu.
-1.9. Świadczeniodawca zapewnia w oddziale 2 całodobową opiekę lekarza specjalisty psychiatrii dzieci i młodzieży lub lekarza specjalisty psychiatrii, lub lekarza ze specjalizacją pierwszego stopnia z psychiatrii dzieci i młodzieży, lub lekarza ze specjalizacją pierwszego stopnia z psychiatrii.
-1.10. Pedagog lub logopeda, lub neurologopeda, lub 2 dietetyk, lub fizjoterapeuta – równoważnik co najmniej 0,5 etatu przeliczeniowego na 40 łóżek.
+
+1. 2. Specjalista psychologii klinicznej lub psycholog 13 kliniczny – równoważnik co najmniej 1 etatu przeliczeniowego na 40 łóżek.
+
+1. 3. Specjalista w dziedzinie psychoterapii dzieci 6 Jedna i młodzieży lub osoba posiadająca decyzję ministra odpowiedź właściwego do spraw zdrowia o uznaniu dorobku do wyboru naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub osoba posiadająca certyfikat psychoterapeuty – równoważnik co najmniej 3 etatów przeliczeniowych na 40 łóżek.
+
+1. 4. Specjalista w dziedzinie psychoterapii dzieci 5 i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub osoba posiadająca certyfikat psychoterapeuty – równoważnik co najmniej 2,5 etatu przeliczeniowego na 40 łóżek.
+
+1. 5. Specjalista w dziedzinie psychoterapii dzieci 4 i młodzieży lub osoba posiadająca decyzję ministra właściwego do spraw zdrowia o uznaniu dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie, zgodnie z art. 28 ust. 1 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia, lub osoba posiadająca certyfikat psychoterapeuty – równoważnik co najmniej 2 etatów przeliczeniowych na 40 łóżek.
+
+1. 6. Osoba prowadząca terapię zajęciową – 4 równoważnik co najmniej 2 etatów przeliczeniowych na 40 łóżek.
+
+1. 7. Pielęgniarka specjalista w dziedzinie pielęgniarstwa 5 Jedna psychiatrycznego lub w trakcie specjalizacji odpowiedź w dziedzinie pielęgniarstwa psychiatrycznego – do wyboru równoważnik co najmniej 1 etatu.
+
+1. 8. Pielęgniarka po kursie kwalifikacyjnym 3 w dziedzinie pielęgniarstwa psychiatrycznego lub pielęgniarka w trakcie kursu kwalifikacyjnego w dziedzinie pielęgniarstwa psychiatrycznego – równoważnik co najmniej 1 etatu.
+
+1. 9. Świadczeniodawca zapewnia w oddziale 2 całodobową opiekę lekarza specjalisty psychiatrii dzieci i młodzieży lub lekarza specjalisty psychiatrii, lub lekarza ze specjalizacją pierwszego stopnia z psychiatrii dzieci i młodzieży, lub lekarza ze specjalizacją pierwszego stopnia z psychiatrii.
+
+1. 10. Pedagog lub logopeda, lub neurologopeda, lub 2 dietetyk, lub fizjoterapeuta – równoważnik co najmniej 0,5 etatu przeliczeniowego na 40 łóżek.
+
 2. Monitorowanie 2.1. Superwizja zespołu. 12 procesu udzielania świadczeń
+
 3. Pozostałe 3.1. W oddziale co najmniej jednoosobowa separatka 5 warunki zaopatrzona w:
-1) drzwi odporne na zniszczenie, otwierające się na zewnątrz, z okienkiem obserwacyjnym szklonym szkłem hartowanym, wyposażone w podwójny system zamykania od zewnątrz, bez klamki od wewnątrz;
-2) ściany i podłogę gładkie, jasne, wyłożone wykładziną odporną na zniszczenie;
-3) oświetlenie zabezpieczone szkłem bezpiecznym;
-lampa i żarówka są dostępne wyłącznie od zewnątrz pokoju;
-4) system wentylacji niedostępny dla osoby izolowanej;
-5) system ogrzewania uniemożliwiający dostęp osoby izolowanej do grzejnika lub innego źródła ciepła;
-6) własne pomieszczenie higieniczno-sanitarne wyposażone dodatkowo w miskę ustępową, natrysk i umywalkę, odporne na umyślne zniszczenie;
-7) łóżko wyposażone w materac niepalny, odporny na zniszczenie;
-8) system monitoringu z kamerą, posiadający rezerwowe zasilanie wyposażone w funkcję autostartu;
-kamera jest niedostępna dla osoby izolowanej oraz zabezpieczona przed uszkodzeniem.
-3.2. W oddziale co najmniej 1 pokój jednoosobowy 2 z możliwością obserwacji świadczeniobiorcy, zaopatrzony w węzeł sanitarny.
-3.3. W oddziale co najmniej 1 pokój wieloosobowy 3 z możliwością obserwacji świadczeniobiorców, zaopatrzony w węzeł sanitarny.
-3.4. W oddziale jest prowadzone szkolenie 3 specjalizacyjne lekarzy przez podmiot wpisany na listę jednostek akredytowanych do prowadzenia szkolenia specjalizacyjnego w dziedzinie odpowiadającej zakresowi świadczeń objętych przedmiotem postępowania.
-II. Kompleksowość 1. Sposób 1.1. Oferent realizuje umowę na obszarze województwa, 2 realizacji umowy którego dotyczy postępowanie w zakresie przedmiotu postępowania świadczenia dzienne rehabilitacyjne dla osób z całościowymi zaburzeniami rozwojowymi.
-III. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym Maksymalnie w załączniku nr 17 do rozporządzenia. 3
-5) w załączniku nr 7 do rozporządzenia w tabeli nr 1 „LECZENIE STOMATOLOGICZNE”:
-a) w części 1 „Przedmiot postępowania: Świadczenia ogólnostomatologiczne”: – w lp. I: – – w pkt 1 „Personel” ppkt 1.1–1.7 otrzymują brzmienie:
-1.1. Lekarz dentysta, który posiada specjalizację II stopnia lub tytuł specjalisty w określonej dziedzinie 15 Jedna medycyny, zwany dalej ,,lekarzem dentystą specjalistą”, w dziedzinie stomatologii zachowawczej lub odpowiedź stomatologii zachowawczej z endodoncją – 100% czasu pracy poradni. do wyboru
-1.2. Lekarz dentysta specjalista w dziedzinie stomatologii zachowawczej lub stomatologii 11 zachowawczej z endodoncją – co najmniej 75% czasu pracy poradni.
-1.3. Lekarz dentysta specjalista w dziedzinie stomatologii zachowawczej lub stomatologii 6 zachowawczej z endodoncją – co najmniej 50% czasu pracy poradni.
-1.4. Lekarz dentysta specjalista w dziedzinie stomatologii ogólnej z co najmniej 10-letnim stażem 9 Jedna pracy – co najmniej 75% czasu pracy poradni. odpowiedź
-1.5. Lekarz dentysta specjalista w dziedzinie stomatologii ogólnej z co najmniej 10-letnim stażem 3 do wyboru pracy – co najmniej 25% czasu pracy poradni.
-1.6. Lekarz dentysta ze specjalizacją I stopnia w dziedzinie stomatologii ogólnej – 100% czasu pracy 6 Jedna poradni. odpowiedź
-1.7. Lekarz dentysta ze specjalizacją I stopnia w dziedzinie stomatologii ogólnej – co najmniej 3 do wyboru 75% czasu pracy poradni.
-– – w pkt 2 „Sprzęt i aparatura medyczna” dodaje się ppkt 2.4 w brzmieniu:
-2.4. Separator amalgamatu – w miejscu udzielania świadczeń. 5 – lp. IV otrzymuje brzmienie: IV. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym Maksymalnie w załączniku nr 17 do rozporządzenia. 8
-b) w części 2 „Przedmiot postępowania: Świadczenia ogólnostomatologiczne dla dzieci i młodzieży/Świadczenia ogólnostomatologiczne dla dzieci i młodzieży udzielane w gabinecie dentystycznym zlokalizowanym w szkole”: – w lp. I w pkt 2 „Sprzęt i aparatura medyczna” dodaje się ppkt 2.4 w brzmieniu:
-2.4. Separator amalgamatu – w miejscu udzielania świadczeń. 5 – lp. II otrzymuje brzmienie: II. Kompleksowość 1. Sposób 1.1. Realizacja umowy w zakresie świadczenia 6 wykonania ortodoncji dla dzieci i młodzieży.
-umowy 1.2. Realizacja świadczeń zdrowotnych będących 2 przedmiotem umowy bez udziału podwykonawców, z wyłączeniem prac techników dentystycznych oraz badań histopatologicznych.
-1.3. Realizacja umowy w zakresie: świadczenia 10 Dotyczy przedmiotu ogólnostomatologiczne dla dzieci i młodzieży. postępowania: Świadczenia ogólnostomatologiczne dla dzieci i młodzieży udzielane w gabinecie dentystycznym zlokalizowanym w szkole
-1.4. Realizacja umowy w zakresie: świadczenia 10 Dotyczy przedmiotu ogólnostomatologiczne dla dzieci i młodzieży postępowania: Świadczenia udzielane w gabinecie dentystycznym zlokalizowanym ogólnostomatologiczne w szkole. dla dzieci i młodzieży – lp. IV otrzymuje brzmienie: IV. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym w załączniku nr 17 Maksymalnie do rozporządzenia. 8
-c) w części 2a „Przedmiot postępowania: Świadczenia ogólnostomatologiczne dla dzieci i młodzieży udzielane w dentobusie”: – w lp. I: – – pkt 1 „Personel” otrzymuje brzmienie:
+
+- **1)** drzwi odporne na zniszczenie, otwierające się na zewnątrz, z okienkiem obserwacyjnym szklonym szkłem hartowanym, wyposażone w podwójny system zamykania od zewnątrz, bez klamki od wewnątrz;
+- **2)** ściany i podłogę gładkie, jasne, wyłożone wykładziną odporną na zniszczenie;
+- **3)** oświetlenie zabezpieczone szkłem bezpiecznym; lampa i żarówka są dostępne wyłącznie od zewnątrz pokoju;
+- **4)** system wentylacji niedostępny dla osoby izolowanej;
+- **5)** system ogrzewania uniemożliwiający dostęp osoby izolowanej do grzejnika lub innego źródła ciepła;
+- **6)** własne pomieszczenie higieniczno-sanitarne wyposażone dodatkowo w miskę ustępową, natrysk i umywalkę, odporne na umyślne zniszczenie;
+- **7)** łóżko wyposażone w materac niepalny, odporny na zniszczenie;
+- **8)** system monitoringu z kamerą, posiadający rezerwowe zasilanie wyposażone w funkcję autostartu; kamera jest niedostępna dla osoby izolowanej oraz zabezpieczona przed uszkodzeniem.
+
+3. 2. W oddziale co najmniej 1 pokój jednoosobowy 2 z możliwością obserwacji świadczeniobiorcy, zaopatrzony w węzeł sanitarny.
+
+3. 3. W oddziale co najmniej 1 pokój wieloosobowy 3 z możliwością obserwacji świadczeniobiorców, zaopatrzony w węzeł sanitarny.
+
+3. 4. W oddziale jest prowadzone szkolenie 3 specjalizacyjne lekarzy przez podmiot wpisany na listę jednostek akredytowanych do prowadzenia szkolenia specjalizacyjnego w dziedzinie odpowiadającej zakresowi świadczeń objętych przedmiotem postępowania. II. Kompleksowość 1. Sposób 1.1. Oferent realizuje umowę na obszarze województwa, 2 realizacji umowy którego dotyczy postępowanie w zakresie przedmiotu postępowania świadczenia dzienne rehabilitacyjne dla osób z całościowymi zaburzeniami rozwojowymi. III. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym Maksymalnie w załączniku nr 17 do rozporządzenia. 3
+
+- **5)** w załączniku nr 7 do rozporządzenia w tabeli nr 1 „LECZENIE STOMATOLOGICZNE”:
+    - **a)** w części 1 „Przedmiot postępowania: Świadczenia ogólnostomatologiczne”: – w lp. I: – – w pkt 1 „Personel” ppkt 1.1–1.7 otrzymują brzmienie:
+
+1. 1. Lekarz dentysta, który posiada specjalizację II stopnia lub tytuł specjalisty w określonej dziedzinie 15 Jedna medycyny, zwany dalej ,,lekarzem dentystą specjalistą”, w dziedzinie stomatologii zachowawczej lub odpowiedź stomatologii zachowawczej z endodoncją – 100% czasu pracy poradni. do wyboru
+
+1. 2. Lekarz dentysta specjalista w dziedzinie stomatologii zachowawczej lub stomatologii 11 zachowawczej z endodoncją – co najmniej 75% czasu pracy poradni.
+
+1. 3. Lekarz dentysta specjalista w dziedzinie stomatologii zachowawczej lub stomatologii 6 zachowawczej z endodoncją – co najmniej 50% czasu pracy poradni.
+
+1. 4. Lekarz dentysta specjalista w dziedzinie stomatologii ogólnej z co najmniej 10-letnim stażem 9 Jedna pracy – co najmniej 75% czasu pracy poradni. odpowiedź
+
+1. 5. Lekarz dentysta specjalista w dziedzinie stomatologii ogólnej z co najmniej 10-letnim stażem 3 do wyboru pracy – co najmniej 25% czasu pracy poradni.
+
+1. 6. Lekarz dentysta ze specjalizacją I stopnia w dziedzinie stomatologii ogólnej – 100% czasu pracy 6 Jedna poradni. odpowiedź
+
+1. 7. Lekarz dentysta ze specjalizacją I stopnia w dziedzinie stomatologii ogólnej – co najmniej 3 do wyboru 75% czasu pracy poradni. – – w pkt 2 „Sprzęt i aparatura medyczna” dodaje się ppkt 2.4 w brzmieniu:
+
+2. 4. Separator amalgamatu – w miejscu udzielania świadczeń. 5 – lp. IV otrzymuje brzmienie: IV. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym Maksymalnie w załączniku nr 17 do rozporządzenia. 8
+
+- **b)** w części 2 „Przedmiot postępowania: Świadczenia ogólnostomatologiczne dla dzieci i młodzieży/Świadczenia ogólnostomatologiczne dla dzieci i młodzieży udzielane w gabinecie dentystycznym zlokalizowanym w szkole”: – w lp. I w pkt 2 „Sprzęt i aparatura medyczna” dodaje się ppkt 2.4 w brzmieniu:
+
+2. 4. Separator amalgamatu – w miejscu udzielania świadczeń. 5 – lp. II otrzymuje brzmienie: II. Kompleksowość 1. Sposób 1.1. Realizacja umowy w zakresie świadczenia 6 wykonania ortodoncji dla dzieci i młodzieży. umowy 1.2. Realizacja świadczeń zdrowotnych będących 2 przedmiotem umowy bez udziału podwykonawców, z wyłączeniem prac techników dentystycznych oraz badań histopatologicznych.
+
+1. 3. Realizacja umowy w zakresie: świadczenia 10 Dotyczy przedmiotu ogólnostomatologiczne dla dzieci i młodzieży. postępowania: Świadczenia ogólnostomatologiczne dla dzieci i młodzieży udzielane w gabinecie dentystycznym zlokalizowanym w szkole
+
+1. 4. Realizacja umowy w zakresie: świadczenia 10 Dotyczy przedmiotu ogólnostomatologiczne dla dzieci i młodzieży postępowania: Świadczenia udzielane w gabinecie dentystycznym zlokalizowanym ogólnostomatologiczne w szkole. dla dzieci i młodzieży – lp. IV otrzymuje brzmienie: IV. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym w załączniku nr 17 Maksymalnie do rozporządzenia. 8
+
+- **c)** w części 2a „Przedmiot postępowania: Świadczenia ogólnostomatologiczne dla dzieci i młodzieży udzielane w dentobusie”: – w lp. I: – – pkt 1 „Personel” otrzymuje brzmienie:
+
 1. Personel 1.1. Lekarz dentysta specjalista w dziedzinie stomatologii dziecięcej – 100% czasu 17 Jedna odpowiedź pracy poradni. do wyboru
-1.2. Lekarz dentysta specjalista w dziedzinie stomatologii dziecięcej – co najmniej 13 75% czasu pracy poradni.
-1.3. Lekarz dentysta specjalista w dziedzinie stomatologii dziecięcej – co najmniej 9 50% czasu pracy poradni.
-1.4. Lekarz dentysta z co najmniej 10-letnim stażem pracy z dziećmi – 100% czasu 13 Jedna odpowiedź pracy poradni. do wyboru
-1.5. Lekarz dentysta z co najmniej 5-letnim stażem pracy z dziećmi – 100% czasu pracy 9 poradni.
-1.6. Pozostały personel, o którym mowa w § 2 pkt 4 lit. c lub d rozporządzenia 7 Jedna odpowiedź stomatologicznego – 100% czasu pracy poradni. do wyboru
-1.7. Pozostały personel, o którym mowa w § 2 pkt 4 lit. c lub d rozporządzenia 3 stomatologicznego – co najmniej 75% czasu pracy poradni.
-1.8. Pozostały personel, o którym mowa w § 2 pkt 4 lit. b rozporządzenia 5 stomatologicznego – 100% czasu pracy poradni.
-1.9. Pozostały personel, o którym mowa w § 2 pkt 4 lit. b rozporządzenia 4 stomatologicznego – co najmniej 75% czasu pracy poradni.
-– – dodaje się pkt 3 w brzmieniu:
+
+1. 2. Lekarz dentysta specjalista w dziedzinie stomatologii dziecięcej – co najmniej 13 75% czasu pracy poradni.
+
+1. 3. Lekarz dentysta specjalista w dziedzinie stomatologii dziecięcej – co najmniej 9 50% czasu pracy poradni.
+
+1. 4. Lekarz dentysta z co najmniej 10-letnim stażem pracy z dziećmi – 100% czasu 13 Jedna odpowiedź pracy poradni. do wyboru
+
+1. 5. Lekarz dentysta z co najmniej 5-letnim stażem pracy z dziećmi – 100% czasu pracy 9 poradni.
+
+1. 6. Pozostały personel, o którym mowa w § 2 pkt 4 lit. c lub d rozporządzenia 7 Jedna odpowiedź stomatologicznego – 100% czasu pracy poradni. do wyboru
+
+1. 7. Pozostały personel, o którym mowa w § 2 pkt 4 lit. c lub d rozporządzenia 3 stomatologicznego – co najmniej 75% czasu pracy poradni.
+
+1. 8. Pozostały personel, o którym mowa w § 2 pkt 4 lit. b rozporządzenia 5 stomatologicznego – 100% czasu pracy poradni.
+
+1. 9. Pozostały personel, o którym mowa w § 2 pkt 4 lit. b rozporządzenia 4 stomatologicznego – co najmniej 75% czasu pracy poradni. – – dodaje się pkt 3 w brzmieniu:
+
 3. Sprzęt i aparatura medyczna 3.1. Separator amalgamatu – w miejscu udzielania świadczeń. 5 – lp. III otrzymuje brzmienie: III. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym w załączniku nr 17 Maksymalnie do rozporządzenia. 8
-d) w części 3 „Przedmiot postępowania: Świadczenia ogólnostomatologiczne udzielane w znieczuleniu ogólnym”: – w lp. I w pkt 2 „Sprzęt i aparatura medyczna” dodaje się ppkt 2.3 w brzmieniu:
-2.3. Separator amalgamatu – w miejscu udzielania świadczeń. 4 – lp. II i III otrzymują brzmienie: II. Kompleksowość 1. Sposób 1.1. Realizacja w ciągu ostatnich 12 miesięcy poprzedzających 4 wykonania o 2 miesiące miesiąc, w którym ogłoszono postępowanie, umowy umowy zawartej w zakresie świadczenia ogólnostomatologiczne.
-1.2. Realizacja świadczeń zdrowotnych będących przedmiotem umowy 3 bez udziału podwykonawców, z wyłączeniem prac techników dentystycznych oraz badań histopatologicznych.
-III. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym w załączniku nr 17 Maksymalnie do rozporządzenia. 8
-e) w części 4 „Przedmiot postępowania: Świadczenia chirurgii stomatologicznej i periodontologii” w lp. I w pkt 1 „Personel” ppkt 1.1–1.3 otrzymują brzmienie:
-1.1. Lekarz lub lekarz dentysta, specjalista w dziedzinie chirurgii stomatologicznej lub chirurgii 12 Jedna szczękowo-twarzowej, lub chirurgii szczękowej – co najmniej 75% czasu pracy poradni. odpowiedź
-1.2. Lekarz lub lekarz dentysta, specjalista w dziedzinie chirurgii stomatologicznej lub chirurgii 8 do wyboru szczękowo-twarzowej, lub chirurgii szczękowej – co najmniej 50% czasu pracy poradni.
-1.3. Lekarz lub lekarz dentysta, specjalista w dziedzinie chirurgii stomatologicznej lub chirurgii 6 szczękowo-twarzowej, lub chirurgii szczękowej – co najmniej 25% czasu pracy poradni.
-f) w części 10 „Przedmiot postępowania: Świadczenia stomatologiczne dla świadczeniobiorców z grupy wysokiego ryzyka chorób zakaźnych, w tym chorych na AIDS”: – w lp. I: – – pkt 1 „Personel” otrzymuje brzmienie:
+
+- **d)** w części 3 „Przedmiot postępowania: Świadczenia ogólnostomatologiczne udzielane w znieczuleniu ogólnym”: – w lp. I w pkt 2 „Sprzęt i aparatura medyczna” dodaje się ppkt 2.3 w brzmieniu:
+
+2. 3. Separator amalgamatu – w miejscu udzielania świadczeń. 4 – lp. II i III otrzymują brzmienie: II. Kompleksowość 1. Sposób 1.1. Realizacja w ciągu ostatnich 12 miesięcy poprzedzających 4 wykonania o 2 miesiące miesiąc, w którym ogłoszono postępowanie, umowy umowy zawartej w zakresie świadczenia ogólnostomatologiczne.
+
+1. 2. Realizacja świadczeń zdrowotnych będących przedmiotem umowy 3 bez udziału podwykonawców, z wyłączeniem prac techników dentystycznych oraz badań histopatologicznych. III. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym w załączniku nr 17 Maksymalnie do rozporządzenia. 8
+
+- **e)** w części 4 „Przedmiot postępowania: Świadczenia chirurgii stomatologicznej i periodontologii” w lp. I w pkt 1 „Personel” ppkt 1.1–1.3 otrzymują brzmienie:
+
+1. 1. Lekarz lub lekarz dentysta, specjalista w dziedzinie chirurgii stomatologicznej lub chirurgii 12 Jedna szczękowo-twarzowej, lub chirurgii szczękowej – co najmniej 75% czasu pracy poradni. odpowiedź
+
+1. 2. Lekarz lub lekarz dentysta, specjalista w dziedzinie chirurgii stomatologicznej lub chirurgii 8 do wyboru szczękowo-twarzowej, lub chirurgii szczękowej – co najmniej 50% czasu pracy poradni.
+
+1. 3. Lekarz lub lekarz dentysta, specjalista w dziedzinie chirurgii stomatologicznej lub chirurgii 6 szczękowo-twarzowej, lub chirurgii szczękowej – co najmniej 25% czasu pracy poradni.
+
+- **f)** w części 10 „Przedmiot postępowania: Świadczenia stomatologiczne dla świadczeniobiorców z grupy wysokiego ryzyka chorób zakaźnych, w tym chorych na AIDS”: – w lp. I: – – pkt 1 „Personel” otrzymuje brzmienie:
+
 1. Personel 1.1. Lekarz dentysta specjalista –100% czasu pracy poradni. 20 Jedna
-1.2. Lekarz dentysta specjalista – co najmniej 75% czasu pracy poradni. 14 odpowiedź do wyboru
-1.3. Lekarz dentysta specjalista – co najmniej 50% czasu pracy poradni. 9
-1.4. Pozostały personel, o którym mowa w § 2 pkt 4 lit. c lub d rozporządzenia 5 Jedna stomatologicznego – 100% czasu pracy poradni. odpowiedź
-1.5. Pozostały personel, o którym mowa w § 2 pkt 4 lit. c lub d rozporządzenia 2 do wyboru stomatologicznego – co najmniej 75% czasu pracy poradni.
-1.6. Pozostały personel, o którym mowa w § 2 pkt 4 lit. b rozporządzenia 3 stomatologicznego – 100% czasu pracy poradni.
-1.7. Pozostały personel, o którym mowa w § 2 pkt 4 lit. b rozporządzenia 2 stomatologicznego – co najmniej 75% czasu pracy poradni.
-– – w pkt 2 „Sprzęt i aparatura medyczna” dodaje się ppkt 2.4 w brzmieniu:
-2.4. Separator amalgamatu – w miejscu udzielania świadczeń. 5 – lp. IV otrzymuje brzmienie: IV. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym w załączniku nr 17 Maksymalnie do rozporządzenia. 8
-6) w załączniku nr 9 do rozporządzenia w tabeli nr 1 „ŚWIADCZENIA ZDROWOTNE KONTRAKTOWANE ODRĘBNIE”:
-a) w części 4 „Przedmiot postępowania: Tlenoterapia w warunkach domowych” w lp. I w pkt 1 „Personel” w kolumnie nr 4 ppkt 1.1 otrzymuje brzmienie: „1.1. Lekarz specjalista posiadający certyfikat szkolenia w zakresie domowego leczenia tlenem, wydany przez Instytut Gruźlicy i Chorób Płuc lub uczelnię, o której mowa w art. 460 ust. 5 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.).”,
-b) w części 8 „Przedmiot postępowania: Badania genetyczne” w lp. I w pkt 4 „Pozostałe warunki” w kolumnie nr 4 w ppkt 4.1 wyrazy „art. 30b ust. 1 ustawy z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. 2014 r.
-poz. 1384, z późn. zm.)” zastępuje się wyrazami „art. 32 ust. 1 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280)”,
-c) w części 21 „Przedmiot postępowania: Koordynowana opieka nad kobietą w ciąży (KOC)” w lp. I w pkt 2 „Pozostały personel” w kolumnie nr 4 ppkt 2.1 i 2.2 otrzymują brzmienie: „2.1. Równoważnik co najmniej 0,44 etatu na 1 łóżko w systemie „matka z dzieckiem” – położna – zapewnienie całodobowej opieki okołoporodowej we wszystkie dni tygodnia, zgodnie z rozporządzeniem Ministra Zdrowia z dnia 16 sierpnia 2018 r. w sprawie standardu organizacyjnego opieki okołoporodowej (Dz. U.
-poz. 1756, z późn. zm.), zwanym dalej „rozporządzeniem o opiece okołoporodowej”.
-2.2. Równoważnik co najmniej 3 etatów – położna – zapewnienie realizacji zadań określonych w:
-1) rozporządzeniu Ministra Zdrowia z dnia 24 września 2013 r. w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. z 2021 r. poz. 540, z późn. zm.);
-2) rozporządzeniu o opiece okołoporodowej.”,
-d) w części 22 „Przedmiot postępowania: Kompleksowe leczenie wrodzonej sztywności wielostawowej” w lp. II w pkt 1 „Kompleksowość” w kolumnie nr 4 ppkt 1.1 otrzymuje brzmienie: „1.1. Pracownia lub zakład wykonujący wyroby wykonywane na zamówienie w rozumieniu art. 2 pkt 36 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974).”,
-e) w części 23 „Przedmiot postępowania: Opieka nad rodzinami wysokiego, dziedzicznie uwarunkowanego ryzyka zachorowania na raka piersi lub raka jajnika” w lp. II w pkt 1 „Zapewnienie badań i zabiegów” w kolumnie nr 4 ppkt 1.1 i 1.2 otrzymują brzmienie: „1.1. Medyczne laboratorium diagnostyczne wpisane do ewidencji laboratoriów prowadzonej przez Krajową Radę Diagnostów Laboratoryjnych, o której mowa w art. 68 ust. 6 ustawy z dnia 15 września 2022 r.
-o medycynie laboratoryjnej, prowadzące szkolenie specjalizacyjne dla diagnostów laboratoryjnych w laboratoryjnej genetyce medycznej na podstawie porozumienia zawartego z jednostką szkolącą, o której mowa w art. 32 ust. 1 tej ustawy, wpisaną na listę jednostek szkolących posiadających akredytację do prowadzenia szkolenia specjalizacyjnego z pracownią genetyczną – w lokalizacji.
-1.2. Medyczne laboratorium diagnostyczne wpisane do ewidencji laboratoriów prowadzonej przez Krajową Radę Diagnostów Laboratoryjnych, o której mowa w art. 68 ust. 6 ustawy z dnia 15 września 2022 r.
-o medycynie laboratoryjnej, z pracownią genetyczną – w lokalizacji.”,
-f) w części 24 „Przedmiot postępowania: Opieka nad rodzinami wysokiego, dziedzicznie uwarunkowanego ryzyka zachorowania na raka jelita grubego lub raka błony śluzowej trzonu macicy” w lp. II w pkt 1 „Zapewnienie badań i zabiegów” w kolumnie nr 4 ppkt 1.1 i 1.2 otrzymują brzmienie: „1.1. Medyczne laboratorium diagnostyczne wpisane do ewidencji laboratoriów prowadzonej przez Krajową Radę Diagnostów Laboratoryjnych, o której mowa w art. 68 ust. 6 ustawy z dnia 15 września 2022 r.
-o medycynie laboratoryjnej, prowadzące szkolenie specjalizacyjne dla diagnostów laboratoryjnych w laboratoryjnej genetyce medycznej na podstawie porozumienia zawartego z jednostką szkolącą, o której mowa w art. 32 ust. 1 tej ustawy, wpisaną na listę jednostek szkolących posiadających akredytację do prowadzenia szkolenia specjalizacyjnego z pracownią genetyczną – w lokalizacji.
-1.2. Medyczne laboratorium diagnostyczne wpisane do ewidencji laboratoriów prowadzonej przez Krajową Radę Diagnostów Laboratoryjnych, o której mowa w art. 68 ust. 6 ustawy z dnia 15 września 2022 r.
-o medycynie laboratoryjnej, z pracownią genetyczną – w lokalizacji.”,
-g) w części 25 „Przedmiot postępowania: Opieka nad rodzinami wysokiego, dziedzicznie uwarunkowanego ryzyka zachorowania na siatkówczaka lub chorobę von Hippel-Lindau (VHL)” w lp. II w pkt 1 „Zapewnienie badań i zabiegów” w kolumnie nr 4 ppkt 1.1 i 1.2 otrzymują brzmienie: „1.1. Medyczne laboratorium diagnostyczne wpisane do ewidencji laboratoriów prowadzonej przez Krajową Radę Diagnostów Laboratoryjnych, o której mowa w art. 68 ust. 6 ustawy z dnia 15 września 2022 r.
-o medycynie laboratoryjnej, prowadzące szkolenie specjalizacyjne dla diagnostów laboratoryjnych w laboratoryjnej genetyce medycznej na podstawie porozumienia zawartego z jednostką szkolącą, o której mowa w art. 32 ust. 1 tej ustawy, wpisaną na listę jednostek szkolących posiadających akredytację do prowadzenia szkolenia specjalizacyjnego z pracownią genetyczną – w lokalizacji.
-1.2. Medyczne laboratorium diagnostyczne wpisane do ewidencji laboratoriów prowadzonej przez Krajową Radę Diagnostów Laboratoryjnych, o której mowa w art. 68 ust. 6 ustawy z dnia 15 września 2022 r.
-o medycynie laboratoryjnej, z pracownią genetyczną – w lokalizacji.”,
-h) dodaje się część 26 w brzmieniu:
+
+1. 2. Lekarz dentysta specjalista – co najmniej 75% czasu pracy poradni. 14 odpowiedź do wyboru
+
+1. 3. Lekarz dentysta specjalista – co najmniej 50% czasu pracy poradni. 9
+
+1. 4. Pozostały personel, o którym mowa w § 2 pkt 4 lit. c lub d rozporządzenia 5 Jedna stomatologicznego – 100% czasu pracy poradni. odpowiedź
+
+1. 5. Pozostały personel, o którym mowa w § 2 pkt 4 lit. c lub d rozporządzenia 2 do wyboru stomatologicznego – co najmniej 75% czasu pracy poradni.
+
+1. 6. Pozostały personel, o którym mowa w § 2 pkt 4 lit. b rozporządzenia 3 stomatologicznego – 100% czasu pracy poradni.
+
+1. 7. Pozostały personel, o którym mowa w § 2 pkt 4 lit. b rozporządzenia 2 stomatologicznego – co najmniej 75% czasu pracy poradni. – – w pkt 2 „Sprzęt i aparatura medyczna” dodaje się ppkt 2.4 w brzmieniu:
+
+2. 4. Separator amalgamatu – w miejscu udzielania świadczeń. 5 – lp. IV otrzymuje brzmienie: IV. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym w załączniku nr 17 Maksymalnie do rozporządzenia. 8
+
+- **6)** w załączniku nr 9 do rozporządzenia w tabeli nr 1 „ŚWIADCZENIA ZDROWOTNE KONTRAKTOWANE ODRĘBNIE”: poz. 1384, z późn. zm.)” zastępuje się wyrazami „art. 32 ust. 1 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280)”,
+    - **a)** w części 4 „Przedmiot postępowania: Tlenoterapia w warunkach domowych” w lp. I w pkt 1 „Personel” w kolumnie nr 4 ppkt 1.1 otrzymuje brzmienie: „1.1. Lekarz specjalista posiadający certyfikat szkolenia w zakresie domowego leczenia tlenem, wydany przez Instytut Gruźlicy i Chorób Płuc lub uczelnię, o której mowa w art. 460 ust. 5 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm.).”,
+    - **b)** w części 8 „Przedmiot postępowania: Badania genetyczne” w lp. I w pkt 4 „Pozostałe warunki” w kolumnie nr 4 w ppkt 4.1 wyrazy „art. 30b ust. 1 ustawy z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. 2014 r.
+    - **c)** w części 21 „Przedmiot postępowania: Koordynowana opieka nad kobietą w ciąży (KOC)” w lp. I w pkt 2 „Pozostały personel” w kolumnie nr 4 ppkt 2.1 i 2.2 otrzymują brzmienie: „2.1. Równoważnik co najmniej 0,44 etatu na 1 łóżko w systemie „matka z dzieckiem” – położna – zapewnienie całodobowej opieki okołoporodowej we wszystkie dni tygodnia, zgodnie z rozporządzeniem Ministra Zdrowia z dnia 16 sierpnia 2018 r. w sprawie standardu organizacyjnego opieki okołoporodowej (Dz. U. poz. 1756, z późn. zm.), zwanym dalej „rozporządzeniem o opiece okołoporodowej”. 2.2. Równoważnik co najmniej 3 etatów – położna – zapewnienie realizacji zadań określonych w: 1) rozporządzeniu Ministra Zdrowia z dnia 24 września 2013 r. w sprawie świadczeń gwarantowanych z zakresu podstawowej opieki zdrowotnej (Dz. U. z 2021 r. poz. 540, z późn. zm.); 2) rozporządzeniu o opiece okołoporodowej.”,
+    - **d)** w części 22 „Przedmiot postępowania: Kompleksowe leczenie wrodzonej sztywności wielostawowej” w lp. II w pkt 1 „Kompleksowość” w kolumnie nr 4 ppkt 1.1 otrzymuje brzmienie: „1.1. Pracownia lub zakład wykonujący wyroby wykonywane na zamówienie w rozumieniu art. 2 pkt 36 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. poz. 974).”,
+    - **e)** w części 23 „Przedmiot postępowania: Opieka nad rodzinami wysokiego, dziedzicznie uwarunkowanego ryzyka zachorowania na raka piersi lub raka jajnika” w lp. II w pkt 1 „Zapewnienie badań i zabiegów” w kolumnie nr 4 ppkt 1.1 i 1.2 otrzymują brzmienie: „1.1. Medyczne laboratorium diagnostyczne wpisane do ewidencji laboratoriów prowadzonej przez Krajową Radę Diagnostów Laboratoryjnych, o której mowa w art. 68 ust. 6 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej, prowadzące szkolenie specjalizacyjne dla diagnostów laboratoryjnych w laboratoryjnej genetyce medycznej na podstawie porozumienia zawartego z jednostką szkolącą, o której mowa w art. 32 ust. 1 tej ustawy, wpisaną na listę jednostek szkolących posiadających akredytację do prowadzenia szkolenia specjalizacyjnego z pracownią genetyczną – w lokalizacji. 1.2. Medyczne laboratorium diagnostyczne wpisane do ewidencji laboratoriów prowadzonej przez Krajową Radę Diagnostów Laboratoryjnych, o której mowa w art. 68 ust. 6 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej, z pracownią genetyczną – w lokalizacji.”,
+    - **f)** w części 24 „Przedmiot postępowania: Opieka nad rodzinami wysokiego, dziedzicznie uwarunkowanego ryzyka zachorowania na raka jelita grubego lub raka błony śluzowej trzonu macicy” w lp. II w pkt 1 „Zapewnienie badań i zabiegów” w kolumnie nr 4 ppkt 1.1 i 1.2 otrzymują brzmienie: „1.1. Medyczne laboratorium diagnostyczne wpisane do ewidencji laboratoriów prowadzonej przez Krajową Radę Diagnostów Laboratoryjnych, o której mowa w art. 68 ust. 6 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej, prowadzące szkolenie specjalizacyjne dla diagnostów laboratoryjnych w laboratoryjnej genetyce medycznej na podstawie porozumienia zawartego z jednostką szkolącą, o której mowa w art. 32 ust. 1 tej ustawy, wpisaną na listę jednostek szkolących posiadających akredytację do prowadzenia szkolenia specjalizacyjnego z pracownią genetyczną – w lokalizacji. 1.2. Medyczne laboratorium diagnostyczne wpisane do ewidencji laboratoriów prowadzonej przez Krajową Radę Diagnostów Laboratoryjnych, o której mowa w art. 68 ust. 6 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej, z pracownią genetyczną – w lokalizacji.”,
+    - **g)** w części 25 „Przedmiot postępowania: Opieka nad rodzinami wysokiego, dziedzicznie uwarunkowanego ryzyka zachorowania na siatkówczaka lub chorobę von Hippel-Lindau (VHL)” w lp. II w pkt 1 „Zapewnienie badań i zabiegów” w kolumnie nr 4 ppkt 1.1 i 1.2 otrzymują brzmienie: „1.1. Medyczne laboratorium diagnostyczne wpisane do ewidencji laboratoriów prowadzonej przez Krajową Radę Diagnostów Laboratoryjnych, o której mowa w art. 68 ust. 6 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej, prowadzące szkolenie specjalizacyjne dla diagnostów laboratoryjnych w laboratoryjnej genetyce medycznej na podstawie porozumienia zawartego z jednostką szkolącą, o której mowa w art. 32 ust. 1 tej ustawy, wpisaną na listę jednostek szkolących posiadających akredytację do prowadzenia szkolenia specjalizacyjnego z pracownią genetyczną – w lokalizacji. 1.2. Medyczne laboratorium diagnostyczne wpisane do ewidencji laboratoriów prowadzonej przez Krajową Radę Diagnostów Laboratoryjnych, o której mowa w art. 68 ust. 6 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej, z pracownią genetyczną – w lokalizacji.”,
+    - **h)** dodaje się część 26 w brzmieniu:
+
 26. Przedmiot postępowania: Nadzór telemetryczny nad pacjentami z implantowanymi urządzeniami wszczepialnymi 1 2 3 4 5 6 Lp. Kryterium Kategoria Oceniany warunek Liczba Uwagi punktów I. Jakość 1. Personel 1.1. Czas pracy lekarzy – lekarz specjalista w dziedzinie 19 kardiologii lub kardiologii dziecięcej – posiadający doświadczenie i umiejętności w zakresie programowania i rozwiązywania problemów związanych ze stymulacją serca i umiejętności analizy i leczenia zaburzeń rytmu serca oraz wiedzę z zakresu procedury implantacji stymulatorów serca oraz ICD/CRT-D – co najmniej 50% czasu pracy wszystkich lekarzy w poradni.
-1.2. Czas pracy pielęgniarek – pielęgniarka specjalista 15 Jedna w dziedzinie pielęgniarstwa kardiologicznego lub odpowiedź internistycznego, posiadająca co najmniej 1 rok do wyboru doświadczenia w pracy w zakresie opieki kardiologicznej oraz przeszkolenie w zakresie analizy danych transmitowanych przez stymulator serca oraz ICD/ CRT-D – co najmniej 50% czasu pracy wszystkich pielęgniarek w poradni.
-1.3. Czas pracy pielęgniarek – pielęgniarka po kursie 7 kwalifikacyjnym w dziedzinie pielęgniarstwa kardiologicznego, posiadająca co najmniej 1 rok doświadczenia w pracy w zakresie opieki kardiologicznej oraz przeszkolenie w zakresie analizy danych transmitowanych przez stymulator serca oraz ICD/CRT-D – co najmniej 50% czasu pracy wszystkich pielęgniarek w poradni.
-II. Kompleksowość 1. Zapewnienie 1.1. Realizacja umowy w rodzaju ambulatoryjna opieka 7 badań i zabiegów specjalistyczna w zakresie kardiologii – w lokalizacji.
-1.2. Realizacja umowy w rodzaju ambulatoryjna opieka 7 specjalistyczna w zakresie kardiologii dziecięcej – w lokalizacji.
-1.3. Oddział kardiologii lub oddział kardiologii dla 7 dzieci, z pracownią elektrofizjologii lub implantacji kardiologicznych elektronicznych urządzeń wszczepialnych – w lokalizacji.
-1.4. Oddział kardiologii lub oddział kardiochirurgii, lub 7 oddział kardiologii dla dzieci zapewniający konsultację lekarza specjalisty w dziedzinie kardiochirurgii, w którym są wykonywane zabiegi usunięcia elektrod stymulatorowych lub defibrylatorowych – w lokalizacji.
-1.5. Realizacja umowy w ramach systemu podstawowego 10 szpitalnego zabezpieczenia świadczeń opieki zdrowotnej – w lokalizacji.
-1.6. Medyczne laboratorium diagnostyczne wpisane do 4 ewidencji Krajowej Rady Diagnostów Laboratoryjnych, o której mowa w art. 68 ust. 6 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej – w lokalizacji.
-III. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym Maksymalnie w załączniku nr 17 do rozporządzenia. 5
-7) w załączniku nr 13 do rozporządzenia w tabeli nr 1 „PROGRAMY ZDROWOTNE”:
-a) w części 4 „Przedmiot postępowania: Program badań prenatalnych” w lp. I w pkt 4 „Pozostałe warunki” w kolumnie nr 4 ppkt 4.1 otrzymuje brzmienie: „4.1. Laboratorium diagnostyczne – wpisane w rejestrze, prowadzące szkolenie specjalizacyjne dla diagnostów laboratoryjnych w laboratoryjnej genetyce medycznej na podstawie porozumienia zawartego z jednostką szkolącą, o której mowa w art. 32 ust. 1 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej, wpisaną na listę jednostek szkolących posiadających akredytację do prowadzenia szkolenia specjalizacyjnego, lub laboratorium diagnostyczne jednostki szkolącej posiadającej akredytację, o której mowa w art. 32 tej ustawy.”,
-b) w części 4a „Przedmiot postępowania: Program badań prenatalnych – część położniczo-ginekologiczna” w lp. I w pkt 3 „Pozostałe warunki” w kolumnie nr 4 ppkt 3.1 otrzymuje brzmienie: „3.1. Laboratorium diagnostyczne – wpisane w rejestrze, prowadzące szkolenie specjalizacyjne dla diagnostów laboratoryjnych na podstawie porozumienia zawartego z jednostką szkolącą, o której mowa w art. 32 ust. 1 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej, wpisaną na listę jednostek szkolących posiadających akredytację do prowadzenia szkolenia specjalizacyjnego, lub laboratorium diagnostyczne jednostki szkolącej posiadającej akredytację, o której mowa w art. 32 tej ustawy.”,
-c) w części 4b „Przedmiot postępowania: Program badań prenatalnych – część genetyczna” w lp. I w pkt 4 „Pozostałe warunki” w kolumnie nr 4 ppkt 4.1 otrzymuje brzmienie: „4.1. Laboratorium diagnostyczne – wpisane w rejestrze, prowadzące szkolenie specjalizacyjne dla diagnostów laboratoryjnych w laboratoryjnej genetyce medycznej na podstawie porozumienia zawartego z jednostką szkolącą, o której mowa w art. 32 ust. 1 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej, wpisaną na listę jednostek szkolących posiadających akredytację do prowadzenia szkolenia specjalizacyjnego, lub laboratorium diagnostyczne jednostki szkolącej posiadającej akredytację, o której mowa w art. 32 tej ustawy.”;
-8) w załączniku nr 16 do rozporządzenia w tabeli nr 1 „POMOC DORAŹNA I TRANSPORT SANITARNY” w części 2 „Przedmiot postępowania: Świadczenia udzielane przez zespół transportu medycznego”:
-a) w lp. I pkt 1 „Personel” otrzymuje brzmienie:
+
+1. 2. Czas pracy pielęgniarek – pielęgniarka specjalista 15 Jedna w dziedzinie pielęgniarstwa kardiologicznego lub odpowiedź internistycznego, posiadająca co najmniej 1 rok do wyboru doświadczenia w pracy w zakresie opieki kardiologicznej oraz przeszkolenie w zakresie analizy danych transmitowanych przez stymulator serca oraz ICD/ CRT-D – co najmniej 50% czasu pracy wszystkich pielęgniarek w poradni.
+
+1. 3. Czas pracy pielęgniarek – pielęgniarka po kursie 7 kwalifikacyjnym w dziedzinie pielęgniarstwa kardiologicznego, posiadająca co najmniej 1 rok doświadczenia w pracy w zakresie opieki kardiologicznej oraz przeszkolenie w zakresie analizy danych transmitowanych przez stymulator serca oraz ICD/CRT-D – co najmniej 50% czasu pracy wszystkich pielęgniarek w poradni. II. Kompleksowość 1. Zapewnienie 1.1. Realizacja umowy w rodzaju ambulatoryjna opieka 7 badań i zabiegów specjalistyczna w zakresie kardiologii – w lokalizacji.
+
+1. 2. Realizacja umowy w rodzaju ambulatoryjna opieka 7 specjalistyczna w zakresie kardiologii dziecięcej – w lokalizacji.
+
+1. 3. Oddział kardiologii lub oddział kardiologii dla 7 dzieci, z pracownią elektrofizjologii lub implantacji kardiologicznych elektronicznych urządzeń wszczepialnych – w lokalizacji.
+
+1. 4. Oddział kardiologii lub oddział kardiochirurgii, lub 7 oddział kardiologii dla dzieci zapewniający konsultację lekarza specjalisty w dziedzinie kardiochirurgii, w którym są wykonywane zabiegi usunięcia elektrod stymulatorowych lub defibrylatorowych – w lokalizacji.
+
+1. 5. Realizacja umowy w ramach systemu podstawowego 10 szpitalnego zabezpieczenia świadczeń opieki zdrowotnej – w lokalizacji.
+
+1. 6. Medyczne laboratorium diagnostyczne wpisane do 4 ewidencji Krajowej Rady Diagnostów Laboratoryjnych, o której mowa w art. 68 ust. 6 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej – w lokalizacji. III. Cena 1. Cena 1.1. Cena obliczona zgodnie ze wzorem określonym Maksymalnie w załączniku nr 17 do rozporządzenia. 5
+
+- **7)** w załączniku nr 13 do rozporządzenia w tabeli nr 1 „PROGRAMY ZDROWOTNE”:
+    - **a)** w części 4 „Przedmiot postępowania: Program badań prenatalnych” w lp. I w pkt 4 „Pozostałe warunki” w kolumnie nr 4 ppkt 4.1 otrzymuje brzmienie: „4.1. Laboratorium diagnostyczne – wpisane w rejestrze, prowadzące szkolenie specjalizacyjne dla diagnostów laboratoryjnych w laboratoryjnej genetyce medycznej na podstawie porozumienia zawartego z jednostką szkolącą, o której mowa w art. 32 ust. 1 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej, wpisaną na listę jednostek szkolących posiadających akredytację do prowadzenia szkolenia specjalizacyjnego, lub laboratorium diagnostyczne jednostki szkolącej posiadającej akredytację, o której mowa w art. 32 tej ustawy.”,
+    - **b)** w części 4a „Przedmiot postępowania: Program badań prenatalnych – część położniczo-ginekologiczna” w lp. I w pkt 3 „Pozostałe warunki” w kolumnie nr 4 ppkt 3.1 otrzymuje brzmienie: „3.1. Laboratorium diagnostyczne – wpisane w rejestrze, prowadzące szkolenie specjalizacyjne dla diagnostów laboratoryjnych na podstawie porozumienia zawartego z jednostką szkolącą, o której mowa w art. 32 ust. 1 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej, wpisaną na listę jednostek szkolących posiadających akredytację do prowadzenia szkolenia specjalizacyjnego, lub laboratorium diagnostyczne jednostki szkolącej posiadającej akredytację, o której mowa w art. 32 tej ustawy.”,
+    - **c)** w części 4b „Przedmiot postępowania: Program badań prenatalnych – część genetyczna” w lp. I w pkt 4 „Pozostałe warunki” w kolumnie nr 4 ppkt 4.1 otrzymuje brzmienie: „4.1. Laboratorium diagnostyczne – wpisane w rejestrze, prowadzące szkolenie specjalizacyjne dla diagnostów laboratoryjnych w laboratoryjnej genetyce medycznej na podstawie porozumienia zawartego z jednostką szkolącą, o której mowa w art. 32 ust. 1 ustawy z dnia 15 września 2022 r. o medycynie laboratoryjnej, wpisaną na listę jednostek szkolących posiadających akredytację do prowadzenia szkolenia specjalizacyjnego, lub laboratorium diagnostyczne jednostki szkolącej posiadającej akredytację, o której mowa w art. 32 tej ustawy.”;
+
+- **8)** w załączniku nr 16 do rozporządzenia w tabeli nr 1 „POMOC DORAŹNA I TRANSPORT SANITARNY” w części 2 „Przedmiot postępowania: Świadczenia udzielane przez zespół transportu medycznego”:
+    - **a)** w lp. I pkt 1 „Personel” otrzymuje brzmienie:
+
 1. Personel 1.1. Liczba osób uprawnionych do wykonywania medycznych czynności ratunkowych 18 Jedna w liczbie nie mniejszej niż dwie, w tym ratownik medyczny z co najmniej 3-letnim odpowiedź stażem pracy w zespole ratownictwa medycznego, lotniczym zespole ratownictwa do wyboru medycznego lub szpitalnym oddziale ratunkowym i z co najmniej 2-letnim stażem pracy w zespole transportu medycznego lub pielęgniarka posiadająca tytuł specjalisty lub specjalizująca się w dziedzinie pielęgniarstwa ratunkowego, anestezjologii i intensywnej opieki, chirurgii oraz kardiologii z co najmniej 3-letnim stażem pracy w oddziałach tych specjalności, oddziałach pomocy doraźnej, izbach przyjęć lub pogotowiu ratunkowym i z co najmniej 2-letnim stażem pracy w zespole transportu medycznego.
-1.2. Liczba osób uprawnionych do wykonywania medycznych czynności ratunkowych 15 w liczbie nie mniejszej niż dwie, w tym ratownik medyczny z co najmniej 3-letnim stażem pracy w zespole ratownictwa medycznego, lotniczym zespole ratownictwa medycznego lub szpitalnym oddziale ratunkowym lub pielęgniarka posiadająca tytuł specjalisty lub specjalizująca się w dziedzinie pielęgniarstwa ratunkowego, anestezjologii i intensywnej opieki, chirurgii oraz kardiologii z co najmniej 3-letnim stażem pracy w oddziałach tych specjalności, oddziałach pomocy doraźnej, izbach przyjęć lub pogotowiu ratunkowym.
-1.3. Procentowy udział zespołów transportu medycznego realizujących świadczenia 11 w ramach danego zakresu świadczeń w składzie 3-osobowym, w tym przez dwie osoby uprawnione do wykonywania medycznych czynności ratunkowych, wynosi co najmniej 51%.
-b) lp. II otrzymuje brzmienie: II. Dostępność 1. Czas dotarcia 1.1. Mediana czasu dotarcia zespołu transportu 17 Jedna na miejsce medycznego na miejsce wezwania w przypadku odpowiedź konieczności natychmiastowego udzielania świadczeń do wyboru nie może być większa niż 20 minut.
-1.2. Mediana czasu dotarcia zespołu transportu 7 medycznego na miejsce wezwania w przypadku konieczności natychmiastowego udzielania świadczeń nie może być większa niż 25 minut.
-c) w lp. IV w pkt 1 „Zapewnienie transportu medycznego” w kolumnie nr 4 w ppkt 1.1 po wyrazach „ogłoszenia postępowania” dodaje się wyrazy „lub realizacja umowy w rodzaju pomoc doraźna i transport sanitarny w zakresie: świadczenia udzielane przez zespół transportu medycznego przez okres co najmniej 2 lat, w ciągu ostatnich 5 lat od dnia ogłoszenia postępowania”.
-§ 2. Do postępowań w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 2 i pkt 6 lit. h, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. W. Kraska
+
+1. 2. Liczba osób uprawnionych do wykonywania medycznych czynności ratunkowych 15 w liczbie nie mniejszej niż dwie, w tym ratownik medyczny z co najmniej 3-letnim stażem pracy w zespole ratownictwa medycznego, lotniczym zespole ratownictwa medycznego lub szpitalnym oddziale ratunkowym lub pielęgniarka posiadająca tytuł specjalisty lub specjalizująca się w dziedzinie pielęgniarstwa ratunkowego, anestezjologii i intensywnej opieki, chirurgii oraz kardiologii z co najmniej 3-letnim stażem pracy w oddziałach tych specjalności, oddziałach pomocy doraźnej, izbach przyjęć lub pogotowiu ratunkowym.
+
+1. 3. Procentowy udział zespołów transportu medycznego realizujących świadczenia 11 w ramach danego zakresu świadczeń w składzie 3-osobowym, w tym przez dwie osoby uprawnione do wykonywania medycznych czynności ratunkowych, wynosi co najmniej 51%.
+
+- **b)** lp. II otrzymuje brzmienie: II. Dostępność 1. Czas dotarcia 1.1. Mediana czasu dotarcia zespołu transportu 17 Jedna na miejsce medycznego na miejsce wezwania w przypadku odpowiedź konieczności natychmiastowego udzielania świadczeń do wyboru nie może być większa niż 20 minut.
+
+1. 2. Mediana czasu dotarcia zespołu transportu 7 medycznego na miejsce wezwania w przypadku konieczności natychmiastowego udzielania świadczeń nie może być większa niż 25 minut.
+
+- **c)** w lp. IV w pkt 1 „Zapewnienie transportu medycznego” w kolumnie nr 4 w ppkt 1.1 po wyrazach „ogłoszenia postępowania” dodaje się wyrazy „lub realizacja umowy w rodzaju pomoc doraźna i transport sanitarny w zakresie: świadczenia udzielane przez zespół transportu medycznego przez okres co najmniej 2 lat, w ciągu ostatnich 5 lat od dnia ogłoszenia postępowania”.
+
+**§ 2.** Do postępowań w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 2 i pkt 6 lit. h, które wchodzą w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: wz. W. Kraska
 

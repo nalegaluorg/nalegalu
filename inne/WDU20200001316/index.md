@@ -27,13 +27,17 @@ source: pdf
 
 w sprawie wzorów zgłoszenia prac geodezyjnych, zawiadomienia o przekazaniu wyników zgłoszonych prac oraz protokołu weryfikacji wyników zgłoszonych prac geodezyjnych Na podstawie art. 12d ust. 1 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r.
 poz. 276, 284, 782 i 1086) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wzór zgłoszenia prac geodezyjnych, stanowiący załącznik nr 1 do rozporządzenia;
-2) wzór zawiadomienia o przekazaniu wyników zgłoszonych prac geodezyjnych, stanowiący załącznik nr 2 do rozporządzenia;
-3) wzór protokołu weryfikacji wyników zgłoszonych prac geodezyjnych, stanowiący załącznik nr 3 do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 31 lipca 2020 r. 2) Minister Rozwoju: J. Emilewicz
-1) Minister Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
-2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 8 lipca 2014 r. w sprawie formularzy dotyczących zgłaszania prac geodezyjnych i prac kartograficznych, zawiadomienia o wykonaniu tych prac oraz przekazywania ich wyników do państwowego zasobu geodezyjnego i kartograficznego (Dz. U. poz. 924), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 19 ustawy z dnia 16 kwietnia 2020 r. o zmianie ustawy – Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw (Dz. U. poz. 782).
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wzór zgłoszenia prac geodezyjnych, stanowiący załącznik nr 1 do rozporządzenia;
+- **2)** wzór zawiadomienia o przekazaniu wyników zgłoszonych prac geodezyjnych, stanowiący załącznik nr 2 do rozporządzenia;
+- **3)** wzór protokołu weryfikacji wyników zgłoszonych prac geodezyjnych, stanowiący załącznik nr 3 do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 31 lipca 2020 r. 2) Minister Rozwoju: J. Emilewicz
+
+- **1)** Minister Rozwoju kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 2261).
+- **2)** Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 8 lipca 2014 r. w sprawie formularzy dotyczących zgłaszania prac geodezyjnych i prac kartograficznych, zawiadomienia o wykonaniu tych prac oraz przekazywania ich wyników do państwowego zasobu geodezyjnego i kartograficznego (Dz. U. poz. 924), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 19 ustawy z dnia 16 kwietnia 2020 r. o zmianie ustawy – Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw (Dz. U. poz. 782).
 
 ## Załącznik nr 1 — Załącznik Załącznik nr1 nr1 Część Częśćdotycząca dotycząca prac pracgeodezyjnych geodezyjnych zgłaszanych zgłaszanych właściwym właściwymmiejscowo miejscowo starostom starostom WZÓR WZÓR WZÓR Zgłoszenie Zgłoszenie prac prac geodezyjnych geodezyjnych
 

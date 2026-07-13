@@ -8,10 +8,10 @@ pos: 68
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 stycznia 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 68 Załącznik nr 2 WZORZEC UCHWAŁY ZMIENIAJĄCEJ UMOWĘ SPÓŁKI JAWNEJ Uchwała nr ……….z dnia ……….
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +24,6 @@ source: "isap-pdf"
 | Data wydania | 2015-01-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000068) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/68/text.pdf) |
-
-## Załącznik nr 2 — WZORZEC UCHWAŁY ZMIENIAJĄCEJ UMOWĘ SPÓŁKI JAWNEJ Uchwała nr ……….z dnia ……….
 
 Stawający:
 1) ……………………………………………………………………………………………..,
@@ -91,7 +89,7 @@ Wariant B Zmiana umowy spółki wymaga uchwały wspólników podjętej z udział
 Podpisy wspólników:
 1) ………………….
 2) ………………….
-3) ………………… WZORZEC UCHWAŁY O POWOŁANIU PEŁNOMOCNIKA SPÓŁKI Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ DO ZAWARCIA Z CZŁONKIEM ZARZĄDU UMOWY SPÓŁKI JAWNEJ PRZY WYKORZYSTANIU WZORCA UMOWY Uchwała nr ………. z dnia ……… § 1 Zgromadzenie wspólników spółki ………………………………………………………, zwanej dalej „Spółką”, działając na podstawie art. 210 § 1 Kodeksu spółek handlowych, postanawia ustanowić
+3) ………………… Załącznik nr 3 WZORZEC UCHWAŁY O POWOŁANIU PEŁNOMOCNIKA SPÓŁKI Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ DO ZAWARCIA Z CZŁONKIEM ZARZĄDU UMOWY SPÓŁKI JAWNEJ PRZY WYKORZYSTANIU WZORCA UMOWY Uchwała nr ………. z dnia ……… § 1 Zgromadzenie wspólników spółki ………………………………………………………, zwanej dalej „Spółką”, działając na podstawie art. 210 § 1 Kodeksu spółek handlowych, postanawia ustanowić
 1) ………………………………………………………………………………………………..
 2) ………………………………………………………………………………………………..
 pełnomocnikiem / pełnomocnikami Spółki do zawarcia umowy spółki …………………………………………………………………………………………………...
@@ -121,7 +119,9 @@ Podpisy wspólników:
 1) ........................
 2) ........................
 3) ........................
-WZORZEC UCHWAŁY O ROZWIĄZANIU SPÓŁKI JAWNEJ Uchwała nr ………. z dnia ……….
+
+## Załącznik nr 6 — WZORZEC UCHWAŁY O ROZWIĄZANIU SPÓŁKI JAWNEJ Uchwała nr ………. z dnia ……….
+
 § 1 Na podstawie art. 58 pkt 2 Kodeksu spółek handlowych wspólnicy spółki ………………………………………………………………………………, zwanej dalej „Spółką”, postanawiają podjąć uchwałę o rozwiązaniu Spółki z dniem ……….
 § 2 Wariant A Likwidatorami są wszyscy wspólnicy.
 Wariant B Na likwidatorów powołuje się następujące osoby:

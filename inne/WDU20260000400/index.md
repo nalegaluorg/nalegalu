@@ -28,9 +28,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego Na podstawie art. 14 ust. 1 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2025 r.
 poz. 1332) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U.
-z 2023 r. poz. 2016 i 2772, z 2024 r. poz. 714 i 1707 oraz z 2025 r. poz. 735 i 1116) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Kwoty wynagrodzenia zasadniczego określone w załączniku nr 3 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do wynagrodzenia zasadniczego przysługującego urzędnikom i innym pracownikom sądów i prokuratury od dnia 1 stycznia 2026 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: W. Żurek TABELA WYNAGRODZENIA ZASADNICZEGO PRZYSŁUGUJĄCEGO URZĘDNIKOM I INNYM PRACOWNIKOM SĄDÓW I PROKURATURY Stanowiska Kwota w zł Stanowiska samodzielne 5665–19 470 Stanowiska wspomagające 5665–12 980 Stażysta 5150–7060 Stanowiska pomocnicze, obsługi technicznej i gospodarczej 5150–8140
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. z 2023 r. poz. 2016 i 2772, z 2024 r. poz. 714 i 1707 oraz z 2025 r. poz. 735 i 1116) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Kwoty wynagrodzenia zasadniczego określone w załączniku nr 3 do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do wynagrodzenia zasadniczego przysługującego urzędnikom i innym pracownikom sądów i prokuratury od dnia 1 stycznia 2026 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: W. Żurek TABELA WYNAGRODZENIA ZASADNICZEGO PRZYSŁUGUJĄCEGO URZĘDNIKOM I INNYM PRACOWNIKOM SĄDÓW I PROKURATURY Stanowiska Kwota w zł Stanowiska samodzielne 5665–19 470 Stanowiska wspomagające 5665–12 980 Stażysta 5150–7060 Stanowiska pomocnicze, obsługi technicznej i gospodarczej 5150–8140
 

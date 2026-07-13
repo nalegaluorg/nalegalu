@@ -30,11 +30,17 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 grudnia 2024 r. zmieniającego rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Ochrony Środowiska (Dz. U. poz. 1832), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezes Rady Ministrów: D. Tusk
 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 31 grudnia 2018 r.
 w sprawie nadania statutu Głównemu Inspektoratowi Ochrony Środowiska Na podstawie art. 4 ust. 7 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2024 r. poz. 425) zarządza się, co następuje:
-§ 1. Głównemu Inspektoratowi Ochrony Środowiska nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Wydane przed wejściem w życie niniejszego rozporządzenia zarządzenia i decyzje określające organizację i zadania Głównego Inspektoratu Ochrony Środowiska oraz udzielone pełnomocnictwa zachowują moc do czasu wydania nowych, na podstawie statutu, stanowiącego załącznik do rozporządzenia.
-§ 3. Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 20 grudnia 2017 r. w sprawie nadania statutu Głównemu Inspektoratowi Ochrony Środowiska (Dz. U. poz. 2442).
-§ 4. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-STATUT GŁÓWNEGO INSPEKTORATU OCHRONY ŚRODOWISKA
+
+**§ 1.** Głównemu Inspektoratowi Ochrony Środowiska nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Wydane przed wejściem w życie niniejszego rozporządzenia zarządzenia i decyzje określające organizację i zadania Głównego Inspektoratu Ochrony Środowiska oraz udzielone pełnomocnictwa zachowują moc do czasu wydania nowych, na podstawie statutu, stanowiącego załącznik do rozporządzenia.
+
+**§ 3.** Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 20 grudnia 2017 r. w sprawie nadania statutu Głównemu Inspektoratowi Ochrony Środowiska (Dz. U. poz. 2442).
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. STATUT GŁÓWNEGO INSPEKTORATU OCHRONY ŚRODOWISKA
+
+## Załącznik
+
 § 1. Główny Inspektorat Ochrony Środowiska, zwany dalej „Głównym Inspektoratem”, jest urzędem administracji rządowej obsługującym Głównego Inspektora Ochrony Środowiska, zwanego dalej „Głównym Inspektorem”, działającym pod jego bezpośrednim kierownictwem.
 § 2. 1. Główny Inspektor kieruje Głównym Inspektoratem przy pomocy zastępców Głównego Inspektora, dyrektora generalnego oraz kierowników komórek organizacyjnych wymienionych w § 4 ust. 1.
 2. Zakresy czynności osób wymienionych w ust. 1, z wyłączeniem dyrektora generalnego, ustala Główny Inspektor.

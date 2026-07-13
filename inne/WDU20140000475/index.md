@@ -46,320 +46,545 @@ poz. 897).
 6) § 2–4 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 lipca 2013 r. zmieniającego rozporządzenie w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Różnicowanie w kierunku działalności nierolniczej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 (Dz. U. poz. 897), które stanowią: „ § 2. Do postępowań w sprawach przyznawania pomocy finansowej w ramach działania „Różnicowanie w kierunku działalności nierolniczej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe, z wyjątkiem § 11a ust. 5 i § 24 ust. 6 rozporządzenia, o którym mowa w § 1, które stosuje się w brzmieniu nadanym niniejszym rozporządzeniem. § 3. W przypadku gdy przed dniem wejścia w życie niniejszego rozporządzenia terminy określone w § 3 ust. 3 pkt 3 albo ust. 4 pkt 1 lit. d rozporządzenia wymienionego w § 1 upłynęły, Agencja Restrukturyzacji i Modernizacji Rolnictwa, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na zakończenie realizacji operacji lub złożenie wniosku o płatność ostateczną po upływie tych terminów, w terminie późniejszym, nie dłuższym niż 6 miesięcy od upływu tych terminów, ale nie później niż do dnia 30 czerwca 2015 r., nawet gdy realizacja tej operacji została zakończona lub został złożony wniosek o płatność ostateczną. § 4. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.”. Minister Rolnictwa i Rozwoju Wsi: S. Kalemba
 ROZPORZĄDZENIE Ministra rOlnictwa i rOzwOju wsi z dnia 17 października 2007 r.
 w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Różnicowanie w kierunku działalności nierolniczej” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013 Na podstawie art. 29 ust. 1 pkt 1 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich (Dz. U. z 2013 r. poz. 173) zarządza się, co następuje:
-§ 1. Rozporządzenie określa szczegółowe warunki i tryb przyznawania oraz wypłaty pomocy finansowej w ramach działania „Różnicowanie w kierunku działalności nierolniczej”, objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, zwanej dalej „pomocą”, w tym:
-1) tryb składania wniosków o przyznanie pomocy oraz wniosków o płatność;
-2) szczegółowe wymagania, jakim powinny odpowiadać wnioski o przyznanie pomocy;
-3) szczegółowe wymagania, jakim powinna odpowiadać umowa, na podstawie której jest przyznawana pomoc, zwana dalej „umową”;
-4) przypadki, w których następcy prawnemu beneficjenta albo nabywcy przedsiębiorstwa lub jego części albo gospodarstwa rolnego lub jego części może być przyznana pomoc, oraz warunki i tryb przyznania pomocy;
-5) kategorie siły wyższej i wyjątkowe okoliczności, inne niż wymienione w przepisach rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.), zwanego dalej „rozporządzeniem nr 1974/2006”, w przypadku wystąpienia których nie jest wymagany zwrot pomocy.
-§ 2. O pomoc może ubiegać się rolnik lub jego domownik w rozumieniu przepisów o ubezpieczeniu społecznym rolników, lub małżonek tego rolnika:
-1) który:
-a) jest obywatelem państwa członkowskiego Unii Europejskiej,
-b) jest pełnoletni,
-c) ma miejsce zamieszkania w miejscowości należącej do: – gminy wiejskiej lub – gminy miejsko-wiejskiej, z wyłączeniem miast liczących powyżej 5 tys. mieszkańców, lub – gminy miejskiej, z wyłączeniem miejscowości liczących powyżej 5 tys. mieszkańców,
-d) nie podlega wykluczeniu z ubiegania się o przyznanie pomocy na podstawie przepisów rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1698/2005”, oraz przepisów Unii Europejskiej wydanych w trybie tego rozporządzenia lub przepisów odrębnych,
-e) nie wystąpił o przyznanie lub nie przyznano mu renty strukturalnej w ramach Planu Rozwoju Obszarów Wiejskich na lata 2004–2006 lub Programu Rozwoju Obszarów Wiejskich na lata 2007–2013, zwanego dalej „Programem”,
-f) jest nieprzerwanie ubezpieczony w pełnym zakresie na podstawie przepisów o ubezpieczeniu społecznym rolników, przez okres co najmniej ostatnich 12 miesięcy poprzedzających miesiąc złożenia wniosku o przyznanie pomocy,
-g) nie będzie realizował operacji jako wspólnik spółki cywilnej;
-2) jeżeli za rok poprzedzający rok złożenia wniosku o przyznanie pomocy przyznano płatność do gruntów rolnych wchodzących w skład gospodarstwa rolnego posiadanego przez tego rolnika albo ten rolnik był domownikiem rolnika posiadającego takie gospodarstwo rolne albo jego małżonkiem.
-§ 3. 1. Pomoc przyznaje się na operację spełniającą wymagania określone w Programie, w szczególności uzasadnioną ekonomicznie, w tym pod względem jej kosztów, oraz zapewniającą osiągnięcie i zachowanie celów działania, o którym mowa w § 1:
-1) która nie jest finansowana z udziałem innych środków publicznych;
-2) obejmującą wyłącznie inwestycje związane z podjęciem lub prowadzeniem działalności nierolniczej w zakresie:
-a) określonym w załączniku nr 1 do rozporządzenia „Wykaz działalności nierolniczych, w zakresie których może być przyznana pomoc”,
-b) wynajmowania pokoi w budynku mieszkalnym oraz sprzedaży posiłków domowych lub świadczenia innych usług związanych z pobytem turystów w gospodarstwie rolnym,
-c) wytwarzania produktów energetycznych z biomasy, z wyłączeniem wytwarzania produktów energetycznych wyłącznie z produktów wymienionych na liście stanowiącej załącznik I do Traktatu o funkcjonowaniu Unii Europejskiej;
-3) (uchylony).
+
+**§ 1.** Rozporządzenie określa szczegółowe warunki i tryb przyznawania oraz wypłaty pomocy finansowej w ramach działania „Różnicowanie w kierunku działalności nierolniczej”, objętego Programem Rozwoju Obszarów Wiejskich na lata 2007–2013, zwanej dalej „pomocą”, w tym:
+
+- **1)** tryb składania wniosków o przyznanie pomocy oraz wniosków o płatność;
+- **2)** szczegółowe wymagania, jakim powinny odpowiadać wnioski o przyznanie pomocy;
+- **3)** szczegółowe wymagania, jakim powinna odpowiadać umowa, na podstawie której jest przyznawana pomoc, zwana dalej „umową”;
+- **4)** przypadki, w których następcy prawnemu beneficjenta albo nabywcy przedsiębiorstwa lub jego części albo gospodarstwa rolnego lub jego części może być przyznana pomoc, oraz warunki i tryb przyznania pomocy;
+- **5)** kategorie siły wyższej i wyjątkowe okoliczności, inne niż wymienione w przepisach rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 368 z 23.12.2006, str. 15, z późn. zm.), zwanego dalej „rozporządzeniem nr 1974/2006”, w przypadku wystąpienia których nie jest wymagany zwrot pomocy.
+
+**§ 2.** O pomoc może ubiegać się rolnik lub jego domownik w rozumieniu przepisów o ubezpieczeniu społecznym rolników, lub małżonek tego rolnika:
+
+- **1)** który:
+    - **a)** jest obywatelem państwa członkowskiego Unii Europejskiej,
+    - **b)** jest pełnoletni,
+    - **c)** ma miejsce zamieszkania w miejscowości należącej do: – gminy wiejskiej lub – gminy miejsko-wiejskiej, z wyłączeniem miast liczących powyżej 5 tys. mieszkańców, lub – gminy miejskiej, z wyłączeniem miejscowości liczących powyżej 5 tys. mieszkańców,
+    - **d)** nie podlega wykluczeniu z ubiegania się o przyznanie pomocy na podstawie przepisów rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 277 z 21.10.2005, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1698/2005”, oraz przepisów Unii Europejskiej wydanych w trybie tego rozporządzenia lub przepisów odrębnych,
+    - **e)** nie wystąpił o przyznanie lub nie przyznano mu renty strukturalnej w ramach Planu Rozwoju Obszarów Wiejskich na lata 2004–2006 lub Programu Rozwoju Obszarów Wiejskich na lata 2007–2013, zwanego dalej „Programem”,
+    - **f)** jest nieprzerwanie ubezpieczony w pełnym zakresie na podstawie przepisów o ubezpieczeniu społecznym rolników, przez okres co najmniej ostatnich 12 miesięcy poprzedzających miesiąc złożenia wniosku o przyznanie pomocy,
+    - **g)** nie będzie realizował operacji jako wspólnik spółki cywilnej;
+
+- **2)** jeżeli za rok poprzedzający rok złożenia wniosku o przyznanie pomocy przyznano płatność do gruntów rolnych wchodzących w skład gospodarstwa rolnego posiadanego przez tego rolnika albo ten rolnik był domownikiem rolnika posiadającego takie gospodarstwo rolne albo jego małżonkiem.
+
+**§ 3.**
+
+1. Pomoc przyznaje się na operację spełniającą wymagania określone w Programie, w szczególności uzasadnioną ekonomicznie, w tym pod względem jej kosztów, oraz zapewniającą osiągnięcie i zachowanie celów działania, o którym mowa w § 1:
+
+- **1)** która nie jest finansowana z udziałem innych środków publicznych;
+- **2)** obejmującą wyłącznie inwestycje związane z podjęciem lub prowadzeniem działalności nierolniczej w zakresie:
+    - **a)** określonym w załączniku nr 1 do rozporządzenia „Wykaz działalności nierolniczych, w zakresie których może być przyznana pomoc”,
+    - **b)** wynajmowania pokoi w budynku mieszkalnym oraz sprzedaży posiłków domowych lub świadczenia innych usług związanych z pobytem turystów w gospodarstwie rolnym,
+    - **c)** wytwarzania produktów energetycznych z biomasy, z wyłączeniem wytwarzania produktów energetycznych wyłącznie z produktów wymienionych na liście stanowiącej załącznik I do Traktatu o funkcjonowaniu Unii Europejskiej;
+
+- **3)** (uchylony).
+
 2. Pomoc przyznaje się:
-1) wnioskodawcy, który spełnia warunki określone w § 2 pkt 1 lit. a, c–e i g;
-2) jeżeli zostały spełnione inne warunki określone w rozporządzeniu oraz innych przepisach prawa związanych z realizacją operacji.
+
+- **1)** wnioskodawcy, który spełnia warunki określone w § 2 pkt 1 lit. a, c–e i g;
+- **2)** jeżeli zostały spełnione inne warunki określone w rozporządzeniu oraz innych przepisach prawa związanych z realizacją operacji.
+
 3. Pomoc przyznaje się, jeżeli:
-1) operacja będzie realizowana w jednym albo dwóch etapach;
-2) złożenie wniosku o płatność pośrednią nastąpi w terminie 24 miesięcy od dnia zawarcia umowy;
-3) zakończenie realizacji operacji i złożenie wniosku o płatność ostateczną nastąpi w terminie:
-a) 36 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w dwóch etapach,
-b) 24 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w jednym etapie – lecz nie później niż do dnia 30 czerwca 2015 r.;
-4) płatność ostateczna będzie obejmować nie mniej niż 25% łącznej planowanej wysokości pomocy.
+
+- **1)** operacja będzie realizowana w jednym albo dwóch etapach;
+- **2)** złożenie wniosku o płatność pośrednią nastąpi w terminie 24 miesięcy od dnia zawarcia umowy;
+- **3)** zakończenie realizacji operacji i złożenie wniosku o płatność ostateczną nastąpi w terminie:
+    - **a)** 36 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w dwóch etapach,
+    - **b)** 24 miesięcy od dnia zawarcia umowy – w przypadku operacji realizowanych w jednym etapie – lecz nie później niż do dnia 30 czerwca 2015 r.;
+
+- **4)** płatność ostateczna będzie obejmować nie mniej niż 25% łącznej planowanej wysokości pomocy.
+
 4. W przypadku operacji obejmujących inwestycje polegające na nabyciu rzeczy będących przedmiotem leasingu:
-1) pomoc przyznaje się, jeżeli:
-a) operacja będzie realizowana w nie więcej niż dziesięciu etapach, przy czym w odniesieniu do części operacji obejmującej wyłącznie inwestycje niepolegające na nabyciu rzeczy będących przedmiotem leasingu będzie realizowana zgodnie z ust. 3 pkt 1,
-b) złożenie pierwszego wniosku o płatność pośrednią nastąpi w terminie 12 miesięcy od dnia zawarcia umowy, przy czym złożenie pierwszego wniosku o płatność pośrednią w odniesieniu do części operacji obejmującej wyłącznie inwestycje niepolegające na nabyciu rzeczy będących przedmiotem leasingu nastąpi w terminie określonym w ust. 3 pkt 2,
-c) wniosek o płatność będzie składany nie częściej niż dwa razy w roku,
-d) zakończenie realizacji operacji i złożenie wniosku o płatność ostateczną nastąpi w terminie 60 miesięcy od dnia zawarcia umowy, lecz nie później niż do dnia 30 czerwca 2015 r., przy czym złożenie ostatniego wniosku o płatność w odniesieniu do części operacji obejmującej wyłącznie inwestycje niepolegające na nabyciu rzeczy będących przedmiotem leasingu nastąpi w terminach określonych w ust. 3 pkt 3;
-2) nie stosuje się przepisu ust. 3 pkt 4.
+
+- **1)** pomoc przyznaje się, jeżeli:
+    - **a)** operacja będzie realizowana w nie więcej niż dziesięciu etapach, przy czym w odniesieniu do części operacji obejmującej wyłącznie inwestycje niepolegające na nabyciu rzeczy będących przedmiotem leasingu będzie realizowana zgodnie z ust. 3 pkt 1,
+    - **b)** złożenie pierwszego wniosku o płatność pośrednią nastąpi w terminie 12 miesięcy od dnia zawarcia umowy, przy czym złożenie pierwszego wniosku o płatność pośrednią w odniesieniu do części operacji obejmującej wyłącznie inwestycje niepolegające na nabyciu rzeczy będących przedmiotem leasingu nastąpi w terminie określonym w ust. 3 pkt 2,
+    - **c)** wniosek o płatność będzie składany nie częściej niż dwa razy w roku,
+    - **d)** zakończenie realizacji operacji i złożenie wniosku o płatność ostateczną nastąpi w terminie 60 miesięcy od dnia zawarcia umowy, lecz nie później niż do dnia 30 czerwca 2015 r., przy czym złożenie ostatniego wniosku o płatność w odniesieniu do części operacji obejmującej wyłącznie inwestycje niepolegające na nabyciu rzeczy będących przedmiotem leasingu nastąpi w terminach określonych w ust. 3 pkt 3;
+
+- **2)** nie stosuje się przepisu ust. 3 pkt 4.
+
 5. Przez wniosek o płatność:
-1) pośrednią – rozumie się wniosek o płatność składany po zrealizowaniu każdego z etapów operacji, jeżeli dany etap nie jest etapem końcowym;
-2) ostateczną – rozumie się wniosek o płatność składany po zrealizowaniu całej operacji.
-§ 4. 1. Pomoc przyznaje się w formie refundacji części kosztów:
-1) budowy lub modernizacji obiektów budowlanych, jak również kosztów zakupu niezbędnego sprzętu i wyposażenia,
-2) ogólnych, które są bezpośrednio związane z przygotowaniem i realizacją operacji,
-3) poniesionych:
-a) od dnia zawarcia umowy, jeżeli realizacja zestawienia rzeczowo-finansowego operacji w zakresie danego kosztu została rozpoczęta nie wcześniej niż w tym dniu, a w przypadku kosztów stanowiących koszty ogólne – poniesionych nie wcześniej niż w dniu 1 stycznia 2007 r.,
-b) w formie rozliczenia pieniężnego, a w przypadku transakcji, której wartość, bez względu na liczbę wynikających z niej płatności, przekracza 10 tys. złotych – w formie rozliczenia bezgotówkowego przeprowadzonego poleceniem przelewu – zwanych dalej „kosztami kwalifikowalnymi”.
+
+- **1)** pośrednią – rozumie się wniosek o płatność składany po zrealizowaniu każdego z etapów operacji, jeżeli dany etap nie jest etapem końcowym;
+- **2)** ostateczną – rozumie się wniosek o płatność składany po zrealizowaniu całej operacji.
+
+**§ 4.**
+
+1. Pomoc przyznaje się w formie refundacji części kosztów:
+
+- **1)** budowy lub modernizacji obiektów budowlanych, jak również kosztów zakupu niezbędnego sprzętu i wyposażenia,
+- **2)** ogólnych, które są bezpośrednio związane z przygotowaniem i realizacją operacji,
+- **3)** poniesionych:
+    - **a)** od dnia zawarcia umowy, jeżeli realizacja zestawienia rzeczowo-finansowego operacji w zakresie danego kosztu została rozpoczęta nie wcześniej niż w tym dniu, a w przypadku kosztów stanowiących koszty ogólne – poniesionych nie wcześniej niż w dniu 1 stycznia 2007 r.,
+    - **b)** w formie rozliczenia pieniężnego, a w przypadku transakcji, której wartość, bez względu na liczbę wynikających z niej płatności, przekracza 10 tys. złotych – w formie rozliczenia bezgotówkowego przeprowadzonego poleceniem przelewu – zwanych dalej „kosztami kwalifikowalnymi”.
+
 2. W przypadku przyznania pomocy do kosztów kwalifikowalnych zalicza się również koszty poniesione przez wnioskodawcę przed dniem zawarcia umowy, lecz nie wcześniej niż od dnia, w którym został złożony wniosek o przyznanie pomocy, jeżeli realizacja zestawienia rzeczowo-finansowego operacji w zakresie danego kosztu została rozpoczęta nie wcześniej niż w dniu, w którym został złożony wniosek o przyznanie pomocy.
+
 3. Pomoc nie obejmuje kosztów innych niż określone w § 5, w szczególności:
-1) podatku od towarów i usług (VAT);
-2) zakupu rzeczy używanych.
+
+- **1)** podatku od towarów i usług (VAT);
+- **2)** zakupu rzeczy używanych.
+
 4. Refundacji podlegają koszty kwalifikowalne w wysokości poniesionej przez beneficjenta, nie więcej jednak niż:
-1) 50% kosztów kwalifikowalnych albo
-2) 80% kosztów kwalifikowalnych – w przypadku wystąpienia szkody w gospodarstwie rolnym rolnika, spowodowanej co najmniej przez jedno ze zdarzeń losowych wymienionych w art. 3 ust. 2 pkt 2–11a ustawy z dnia 7 lipca 2005 r.
-o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (Dz. U. Nr 150, poz. 1249, z późn. zm. ), jeżeli:
-a) wysokość tej szkody, oszacowana przez komisję, o której mowa w art. 4 ust. 7 ustawy z dnia 9 maja 2008 r.
-o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634, z późn. zm. ), wynosi: – średnio powyżej 30% średniej rocznej produkcji rolnej z trzech lat poprzedzających rok, w którym wystąpiła szkoda, albo z trzech lat w okresie pięcioletnim poprzedzającym rok, w którym wystąpiła szkoda, z pominięciem roku o najwyższej i najniższej wielkości produkcji w gospodarstwie rolnym – w uprawach rolnych, zwierzętach gospodarskich w rozumieniu ustawy z dnia 29 czerwca 2007 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. Nr 133, poz. 921, z późn. zm. ) lub rybach oraz – nie mniej niż 10 000 zł – w budynkach, budowlach, maszynach lub urządzeniach służących do produkcji rolnej, sadach lub plantacjach wieloletnich, lub stadach podstawowych zwierząt gospodarskich,
-b) w związku z wystąpieniem tej szkody rolnikowi lub jego domownikowi w rozumieniu przepisów o ubezpieczeniu społecznym rolników lub małżonkowi tego rolnika nie przyznano pomocy w ramach działania, o którym mowa w § 1, lub nie przyznano pomocy w ramach działania „Przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych” objętego Programem,
-c) wniosek o przyznanie pomocy został złożony w roku, w którym wystąpiła ta szkoda, lub w roku następującym po tym roku.
+
+- **1)** 50% kosztów kwalifikowalnych albo
+- **2)** 80% kosztów kwalifikowalnych – w przypadku wystąpienia szkody w gospodarstwie rolnym rolnika, spowodowanej co najmniej przez jedno ze zdarzeń losowych wymienionych w art. 3 ust. 2 pkt 2–11a ustawy z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich (Dz. U. Nr 150, poz. 1249, z późn. zm. ), jeżeli: o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. Nr 98, poz. 634, z późn. zm. ), wynosi: – średnio powyżej 30% średniej rocznej produkcji rolnej z trzech lat poprzedzających rok, w którym wystąpiła szkoda, albo z trzech lat w okresie pięcioletnim poprzedzającym rok, w którym wystąpiła szkoda, z pominięciem roku o najwyższej i najniższej wielkości produkcji w gospodarstwie rolnym – w uprawach rolnych, zwierzętach gospodarskich w rozumieniu ustawy z dnia 29 czerwca 2007 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. Nr 133, poz. 921, z późn. zm. ) lub rybach oraz – nie mniej niż 10 000 zł – w budynkach, budowlach, maszynach lub urządzeniach służących do produkcji rolnej, sadach lub plantacjach wieloletnich, lub stadach podstawowych zwierząt gospodarskich,
+    - **a)** wysokość tej szkody, oszacowana przez komisję, o której mowa w art. 4 ust. 7 ustawy z dnia 9 maja 2008 r.
+    - **b)** w związku z wystąpieniem tej szkody rolnikowi lub jego domownikowi w rozumieniu przepisów o ubezpieczeniu społecznym rolników lub małżonkowi tego rolnika nie przyznano pomocy w ramach działania, o którym mowa w § 1, lub nie przyznano pomocy w ramach działania „Przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych” objętego Programem,
+    - **c)** wniosek o przyznanie pomocy został złożony w roku, w którym wystąpiła ta szkoda, lub w roku następującym po tym roku.
+
 4a. W przypadku gdy zdarzenie powodujące poniesienie kosztów kwalifikowalnych:
-1) nie zostało uwzględnione w oddzielnym systemie rachunkowości albo
-2) do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego – o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005, koszty te podlegają refundacji w wysokości określonej w ust. 4 pomniejszonej o 10%.
+
+- **1)** nie zostało uwzględnione w oddzielnym systemie rachunkowości albo
+- **2)** do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego – o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005, koszty te podlegają refundacji w wysokości określonej w ust. 4 pomniejszonej o 10%.
+
 4b. Prowadzenie oddzielnego systemu rachunkowości albo korzystanie z odpowiedniego kodu rachunkowego, o których mowa w art. 75 ust. 1 lit. c pkt i rozporządzenia nr 1698/2005, odbywa się w ramach prowadzonych ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez Agencję, gdy na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych.
+
 5. Pomoc przyznaje się i wypłaca do wysokości limitu, który w okresie realizacji Programu wynosi maksymalnie:
-1) 100 tys. złotych na jednego beneficjenta – jeżeli beneficjent realizuje wyłącznie operację albo operacje niedotyczące wytwarzania biogazu rolniczego lub energii elektrycznej z biogazu rolniczego, albo
-2) 500 tys. złotych na jednego beneficjenta – jeżeli beneficjent realizuje wyłącznie operację albo operacje dotyczące wytwarzania biogazu rolniczego lub energii elektrycznej z biogazu rolniczego.
+
+- **1)** 100 tys. złotych na jednego beneficjenta – jeżeli beneficjent realizuje wyłącznie operację albo operacje niedotyczące wytwarzania biogazu rolniczego lub energii elektrycznej z biogazu rolniczego, albo
+- **2)** 500 tys. złotych na jednego beneficjenta – jeżeli beneficjent realizuje wyłącznie operację albo operacje dotyczące wytwarzania biogazu rolniczego lub energii elektrycznej z biogazu rolniczego.
+
 5a. W przypadku beneficjenta realizującego w okresie realizacji Programu co najmniej dwie operacje, w tym co najmniej jedną operację dotyczącą wytwarzania biogazu rolniczego lub energii elektrycznej z biogazu, pomoc przyznaje się i wypłaca do wysokości limitu, o którym mowa w ust. 5 pkt 2, przy czym pomoc przyznana i wypłacona w związku z realizacją operacji niedotyczącej albo operacji niedotyczących wytwarzania biogazu rolniczego lub energii elektrycznej z biogazu rolniczego może wynosić maksymalnie 100 tys. złotych.
+
 6. Przy ustalaniu limitu, o którym mowa w ust. 5, uwzględnia się sumę kwot pomocy wypłaconej w ramach operacji zrealizowanych i kwot pomocy przyznanej w ramach operacji niezakończonych.
-§ 5. 1. Do kosztów kwalifikowalnych, o których mowa w § 4 ust. 1 pkt 1, zalicza się koszty:
-1) budowy, przebudowy lub remontu połączonego z modernizacją niemieszkalnych obiektów budowlanych wraz z zakupem instalacji technicznej oraz koszty rozbiórki i utylizacji materiałów szkodliwych pochodzących z rozbiórki;
-2) nadbudowy, przebudowy lub remontu połączonego z modernizacją istniejących budynków mieszkalnych wraz z zakupem instalacji technicznej oraz koszty rozbiórki i utylizacji materiałów szkodliwych pochodzących z rozbiórki;
-3) zagospodarowania terenu;
-4) zakupu maszyn, urządzeń, narzędzi, wyposażenia i sprzętu;
-5) zakupu sprzętu komputerowego i oprogramowania służącego wsparciu podejmowanej lub rozwijanej działalności nierolniczej;
-6) zakupu środków transportu, z wyłączeniem zakupu samochodów osobowych przeznaczonych do przewozu mniej niż 8 osób łącznie z kierowcą, z tym że w przypadku zakupu pojazdów samochodowych służących do przewozu rzeczy lub osób, naczep lub przyczep:
-a) w wysokości nieprzekraczającej trzykrotności pozostałych inwestycyjnych kosztów kwalifikowalnych operacji – w przypadku działalności nierolniczej w zakresie świadczenia wyłącznie usług transportowych,
-b) w wysokości nieprzekraczającej równowartości pozostałych inwestycyjnych kosztów kwalifikowalnych operacji – w przypadku działalności nierolniczej w zakresie innym niż usługi transportowe;
-7) rat zapłaconych tytułem wykonania umowy leasingu, nieprzekraczające ceny netto nabycia rzeczy, o których mowa w pkt 4 i 6, jeżeli przeniesienie własności tych rzeczy na beneficjenta nastąpi w okresie realizacji operacji, lecz nie później niż do dnia złożenia wniosku o płatność ostateczną.
+
+**§ 5.**
+
+1. Do kosztów kwalifikowalnych, o których mowa w § 4 ust. 1 pkt 1, zalicza się koszty:
+
+- **1)** budowy, przebudowy lub remontu połączonego z modernizacją niemieszkalnych obiektów budowlanych wraz z zakupem instalacji technicznej oraz koszty rozbiórki i utylizacji materiałów szkodliwych pochodzących z rozbiórki;
+- **2)** nadbudowy, przebudowy lub remontu połączonego z modernizacją istniejących budynków mieszkalnych wraz z zakupem instalacji technicznej oraz koszty rozbiórki i utylizacji materiałów szkodliwych pochodzących z rozbiórki;
+- **3)** zagospodarowania terenu;
+- **4)** zakupu maszyn, urządzeń, narzędzi, wyposażenia i sprzętu;
+- **5)** zakupu sprzętu komputerowego i oprogramowania służącego wsparciu podejmowanej lub rozwijanej działalności nierolniczej;
+- **6)** zakupu środków transportu, z wyłączeniem zakupu samochodów osobowych przeznaczonych do przewozu mniej niż 8 osób łącznie z kierowcą, z tym że w przypadku zakupu pojazdów samochodowych służących do przewozu rzeczy lub osób, naczep lub przyczep:
+    - **a)** w wysokości nieprzekraczającej trzykrotności pozostałych inwestycyjnych kosztów kwalifikowalnych operacji – w przypadku działalności nierolniczej w zakresie świadczenia wyłącznie usług transportowych,
+    - **b)** w wysokości nieprzekraczającej równowartości pozostałych inwestycyjnych kosztów kwalifikowalnych operacji – w przypadku działalności nierolniczej w zakresie innym niż usługi transportowe;
+
+- **7)** rat zapłaconych tytułem wykonania umowy leasingu, nieprzekraczające ceny netto nabycia rzeczy, o których mowa w pkt 4 i 6, jeżeli przeniesienie własności tych rzeczy na beneficjenta nastąpi w okresie realizacji operacji, lecz nie później niż do dnia złożenia wniosku o płatność ostateczną.
+
 2. Do kosztów kwalifikowalnych, o których mowa w § 4 ust. 1 pkt 2, zalicza się koszty w wysokości nieprzekraczającej 10% pozostałych kosztów kwalifikowalnych, obejmujące koszty:
-1) przygotowania dokumentacji technicznej operacji, w szczególności:
-a) kosztorysów,
-b) projektów architektonicznych lub budowlanych,
-c) ocen lub raportów oddziaływania na środowisko,
-d) dokumentacji geologicznej lub hydrologicznej,
-e) wypisów i wyrysów z katastru nieruchomości,
-f) projektów technologicznych;
-2) opłat za patenty lub licencje;
-3) sprawowania nadzoru inwestorskiego lub autorskiego oraz koszty związane z kierowaniem robotami budowlanymi.
+
+- **1)** przygotowania dokumentacji technicznej operacji, w szczególności:
+    - **a)** kosztorysów,
+    - **b)** projektów architektonicznych lub budowlanych,
+    - **c)** ocen lub raportów oddziaływania na środowisko,
+    - **d)** dokumentacji geologicznej lub hydrologicznej,
+    - **e)** wypisów i wyrysów z katastru nieruchomości,
+    - **f)** projektów technologicznych;
+
+- **2)** opłat za patenty lub licencje;
+- **3)** sprawowania nadzoru inwestorskiego lub autorskiego oraz koszty związane z kierowaniem robotami budowlanymi.
+
 3. Do kosztów, o których mowa w ust. 1 pkt 1–5, zalicza się:
-1) koszty transportu do miejsca realizacji operacji:
-a) materiałów służących realizacji operacji,
-b) maszyn, urządzeń, narzędzi, wyposażenia i sprzętu objętych operacją;
-2) koszty montażu maszyn, urządzeń, narzędzi, wyposażenia i sprzętu objętych operacją.
-§ 6. 1. Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję oraz co najmniej w jednym dzienniku o zasięgu ogólnokrajowym, informację o możliwości składania wniosków o przyznanie pomocy, nie później niż 14 dni przed dniem rozpoczęcia terminu składania tych wniosków.
+
+- **1)** koszty transportu do miejsca realizacji operacji:
+    - **a)** materiałów służących realizacji operacji,
+    - **b)** maszyn, urządzeń, narzędzi, wyposażenia i sprzętu objętych operacją;
+
+- **2)** koszty montażu maszyn, urządzeń, narzędzi, wyposażenia i sprzętu objętych operacją.
+
+**§ 6.**
+
+1. Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję oraz co najmniej w jednym dzienniku o zasięgu ogólnokrajowym, informację o możliwości składania wniosków o przyznanie pomocy, nie później niż 14 dni przed dniem rozpoczęcia terminu składania tych wniosków.
+
 2. W informacji, o której mowa w ust. 1, określa się dzień rozpoczęcia i zakończenia terminu składania wniosków o przyznanie pomocy, z tym że termin ten nie może być dłuższy niż 14 dni roboczych.
+
 3. W informacji, o której mowa w ust. 1, można określić, że w terminie, o którym mowa w ust. 2, mogą być składane wyłącznie wnioski o przyznanie pomocy na realizację operacji we wskazanym zakresie.
-§ 7. 1. W jednym roku można złożyć jeden wniosek o przyznanie pomocy.
+
+**§ 7.**
+
+1. W jednym roku można złożyć jeden wniosek o przyznanie pomocy.
+
 2. Przepisu ust. 1 nie stosuje się, jeżeli na podstawie uprzednio złożonego wniosku o przyznanie pomocy nie przyznano pomocy.
-§ 8. 1. Wniosek o przyznanie pomocy składa się w oddziale regionalnym Agencji osobiście albo przez upoważnioną osobę, albo przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego .
+
+**§ 8.**
+
+1. Wniosek o przyznanie pomocy składa się w oddziale regionalnym Agencji osobiście albo przez upoważnioną osobę, albo przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego .
+
 2. Złożenie wniosku o przyznanie pomocy osobiście albo przez upoważnioną osobę potwierdza się na piśmie. Potwierdzenie zawiera datę złożenia wniosku oraz podpis osoby przyjmującej wniosek.
+
 3. Jeżeli wniosek o przyznanie pomocy został złożony przesyłką rejestrowaną nadaną w placówce pocztowej operatora wyznaczonego , dniem złożenia wniosku jest dzień nadania tej przesyłki.
-§ 9. 1. Wniosek o przyznanie pomocy zawiera w szczególności:
-1) numer identyfikacyjny, o którym mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności:
-a) wnioskodawcy, o ile został nadany,
-b) osoby, której przyznano płatność, o której mowa w § 2 pkt 2;
-2) imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy;
-3) charakterystykę prowadzonej działalności, w tym określenie przedmiotu prowadzonej działalności gospodarczej, zgodnie z Polską Klasyfikacją Działalności (PKD);
-4) opis planowanej operacji, w tym określenie miejsca jej realizacji, celów, zakresu i kosztów;
-5) plan finansowy operacji;
-6) informacje o załącznikach;
-7) oświadczenia lub zobowiązania wnioskodawcy związane z pomocą;
-8) zestawienie rzeczowo-finansowe operacji.
+
+**§ 9.**
+
+1. Wniosek o przyznanie pomocy zawiera w szczególności:
+
+- **1)** numer identyfikacyjny, o którym mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności:
+    - **a)** wnioskodawcy, o ile został nadany,
+    - **b)** osoby, której przyznano płatność, o której mowa w § 2 pkt 2;
+
+- **2)** imię i nazwisko, miejsce zamieszkania i adres albo nazwę, siedzibę i adres wnioskodawcy;
+- **3)** charakterystykę prowadzonej działalności, w tym określenie przedmiotu prowadzonej działalności gospodarczej, zgodnie z Polską Klasyfikacją Działalności (PKD);
+- **4)** opis planowanej operacji, w tym określenie miejsca jej realizacji, celów, zakresu i kosztów;
+- **5)** plan finansowy operacji;
+- **6)** informacje o załącznikach;
+- **7)** oświadczenia lub zobowiązania wnioskodawcy związane z pomocą;
+- **8)** zestawienie rzeczowo-finansowe operacji.
+
 2. Do wniosku o przyznanie pomocy dołącza się:
-1) kopię wniosku o wpis do ewidencji producentów w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, zwanej dalej „ewidencją”, jeżeli wnioskodawcy nie został nadany numer identyfikacyjny i nie posługuje się on numerem identyfikacyjnym osoby, której przyznano płatność, o której mowa w § 2 pkt 2, a w przypadku składania wniosku o wpis wnioskodawcy do ewidencji łącznie z wnioskiem o przyznanie pomocy – oryginał wniosku;
-2) zaświadczenie z właściwej ewidencji ludności o zameldowaniu na pobyt czasowy w miejscu zamieszkania, wystawione nie wcześniej niż miesiąc przed dniem złożenia wniosku o przyznanie pomocy – w przypadku gdy miejsce zamieszkania jest różne od miejsca zameldowania na pobyt stały;
-3) kopię dokumentu tożsamości;
-4) zaświadczenie o okresie podlegania ubezpieczeniu społecznemu rolników oraz zakresie tego ubezpieczenia wydane przez Kasę Rolniczego Ubezpieczenia Społecznego, wystawione nie wcześniej niż miesiąc przed dniem złożenia wniosku o przyznanie pomocy;
-5) formularz informacji przedstawianych przy ubieganiu się o pomoc de minimis zawierający informacje, o których mowa w rozporządzeniu Rady Ministrów z dnia 29 marca 2010 r. w sprawie zakresu informacji przedstawianych przez podmiot ubiegający się o pomoc de minimis (Dz. U. Nr 53, poz. 311 oraz z 2013 r. poz. 276);
-6) ekonomiczny plan operacji sporządzony na formularzu opracowanym i udostępnionym przez Agencję;
-7) kopie zaświadczeń o pomocy de minimis uzyskanej w okresie obejmującym rok, w którym został złożony wniosek o przyznanie pomocy, oraz dwa poprzedzające go lata albo oświadczenie wnioskodawcy o wielkości uzyskanej pomocy de minimis sporządzone na formularzu opracowanym i udostępnionym przez Agencję;
-8) kopie sprawozdań finansowych za okres trzech ostatnich lat obrotowych, sporządzonych zgodnie z przepisami o rachunkowości – w przypadku podmiotów, które mają obowiązek prowadzenia ksiąg rachunkowych i sporządzania sprawozdań finansowych;
-9) pełnomocnictwo, jeżeli wnioskodawca działa przez pełnomocnika;
-10) kopię dokumentu albo kopie dokumentów potwierdzających posiadanie samoistne lub zależne gospodarstwa, o którym mowa w § 2 pkt 2, przy czym w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie informatycznym, o którym mowa w art. 25 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm. ), jest wystarczające podanie numeru księgi wieczystej;
-11) kopię dokumentu albo kopie dokumentów potwierdzających posiadanie samoistne lub zależne nieruchomości, na której będzie realizowana operacja, przy czym w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie informatycznym, o którym mowa w art. 25 ustawy z dnia 6 lipca 1982 r.
-o księgach wieczystych i hipotece, jest wystarczające podanie numeru księgi wieczystej;
-12) oświadczenie właściciela albo współwłaściciela nieruchomości o wyrażeniu zgody na realizację operacji, sporządzone na formularzu opracowanym i udostępnionym przez Agencję – w przypadku gdy operacja będzie realizowana na nieruchomości niestanowiącej własności wnioskodawcy albo stanowiącej współwłasność wnioskodawcy i operacja ta jest związana z budową, przebudową, remontem połączonym z modernizacją, wyposażeniem lub zagospodarowaniem nieruchomości objętej operacją;
-13) kopię zaświadczenia o wpisie do ewidencji prowadzonej przez jednostkę samorządu terytorialnego obowiązaną do prowadzenia odpowiedniego typu szkół i placówek publicznych, zgodnie z przepisami o systemie oświaty, wystawionego nie wcześniej niż trzy miesiące przed dniem złożenia wniosku o przyznanie pomocy albo kopię zezwolenia wydanego na podstawie art. 58 ust. 3 albo art. 59a ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r.
-Nr 256, poz. 2572, z późn. zm. ) – w przypadku gdy w ramach wykonywania działalności wnioskodawca prowadzi działalność, której dotyczy operacja, podlegającą przepisom o systemie oświaty;
-14) kopię zaświadczenia o wpisie do ewidencji innych obiektów, o której mowa w art. 38 ust. 3 ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2014 r. poz. 196), wystawionego nie wcześniej niż trzy miesiące przed dniem złożenia wniosku o przyznanie pomocy – w przypadku gdy w ramach wykonywania działalności wnioskodawca świadczy usługi hotelarskie w innych obiektach, w których mogą być świadczone usługi hotelarskie;
-15) kopię przyrzeczenia zaszeregowania obiektu do odpowiedniego rodzaju i kategorii wydanego na podstawie art. 39a ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych lub kopię decyzji nadającej kategorię obiektu hotelarskiego wydaną na podstawie art. 38 ust. 1 i 2 ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych – w przypadku gdy w ramach wykonywania działalności wnioskodawca świadczy lub planuje świadczyć usługi hotelarskie w obiektach hotelarskich;
-16) kosztorys inwestorski – w przypadku gdy operacja obejmuje inwestycje budowlane;
-17) kopie co najmniej dwóch zapytań dotyczących nabycia rzeczy lub usług skierowanych do różnych dostawców lub wykonawców (zapytań ofertowych) oraz kopie ofert stanowiących odpowiedź na te zapytania wraz z uzasadnieniem wyboru oferty – w przypadku każdego zadania ujętego w zestawieniu rzeczowo-finansowym operacji, którego koszt przekracza 10 tys. zł netto, dotyczącego inwestycji innej niż wskazana w pkt 16;
-18) kopię zapytania dotyczącego nabycia rzeczy lub usług (zapytania ofertowego) oraz kopię oferty stanowiącej odpowiedź na to zapytanie – w przypadku każdego zadania ujętego w zestawieniu rzeczowo-finansowym operacji, którego koszt przekracza 10 tys. zł netto, dotyczącego inwestycji innej niż wskazana w pkt 16, jeżeli te rzeczy lub usługi można nabyć wyłącznie od jednego wykonawcy lub dostawcy, w szczególności gdy jest to uzasadnione koniecznością zastosowania technologii zgodnej z technologią produkcji stosowaną przez wnioskodawcę;
-19) kopie ostatecznych pozwoleń, zezwoleń lub innych decyzji, których uzyskanie jest wymagane przez odrębne przepisy do realizacji inwestycji objętych operacją, a także kopie innych dokumentów potwierdzających spełnienie określonych w odrębnych przepisach warunków realizacji inwestycji objętych operacją – w przypadku gdy w ramach operacji będą realizowane tego typu inwestycje;
-20) kopię promesy umowy leasingu dotyczącej planowanego zakupu rzeczy wraz z harmonogramem spłat rat leasingowych z wyszczególnieniem części kapitałowej i części odsetkowej – w przypadku gdy operacja obejmuje inwestycje polegające na nabyciu rzeczy będących przedmiotem leasingu;
-21) kopię opinii wojewody dotyczącej zakresu i wysokości szkód w środkach trwałych oszacowanych przez komisję powołaną przez wojewodę – w przypadku wystąpienia szkody w gospodarstwie rolnym, o której mowa w § 4 ust. 4 pkt 2;
-22) kopię opinii wojewody dotyczącej zakresu i wysokości szkód w uprawach rolnych i zwierzętach gospodarskich oszacowanych przez komisję powołaną przez wojewodę – w przypadku wystąpienia szkody w gospodarstwie rolnym, o której mowa w § 4 ust. 4 pkt 2;
-23) kopię dokumentacji dotyczącej ewidencji środków trwałych oraz wartości niematerialnych i prawnych – w przypadku wnioskodawców zobowiązanych do prowadzenia takiej ewidencji przepisami o podatku dochodowym od osób fizycznych lub przepisami o rachunkowości;
-24) kopię dokumentacji dotyczącej wykazu środków trwałych oraz wartości niematerialnych i prawnych – w przypadku wnioskodawców zobowiązanych do prowadzenia wykazu przepisami o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne;
-25) informację o numerze rachunku bankowego wnioskodawcy – w przypadku gdy wnioskodawca ubiega się o zaliczkę;
-26) inne dokumenty potwierdzające spełnienie warunków do przyznania pomocy.
+
+- **1)** kopię wniosku o wpis do ewidencji producentów w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, zwanej dalej „ewidencją”, jeżeli wnioskodawcy nie został nadany numer identyfikacyjny i nie posługuje się on numerem identyfikacyjnym osoby, której przyznano płatność, o której mowa w § 2 pkt 2, a w przypadku składania wniosku o wpis wnioskodawcy do ewidencji łącznie z wnioskiem o przyznanie pomocy – oryginał wniosku;
+- **2)** zaświadczenie z właściwej ewidencji ludności o zameldowaniu na pobyt czasowy w miejscu zamieszkania, wystawione nie wcześniej niż miesiąc przed dniem złożenia wniosku o przyznanie pomocy – w przypadku gdy miejsce zamieszkania jest różne od miejsca zameldowania na pobyt stały;
+- **3)** kopię dokumentu tożsamości;
+- **4)** zaświadczenie o okresie podlegania ubezpieczeniu społecznemu rolników oraz zakresie tego ubezpieczenia wydane przez Kasę Rolniczego Ubezpieczenia Społecznego, wystawione nie wcześniej niż miesiąc przed dniem złożenia wniosku o przyznanie pomocy;
+- **5)** formularz informacji przedstawianych przy ubieganiu się o pomoc de minimis zawierający informacje, o których mowa w rozporządzeniu Rady Ministrów z dnia 29 marca 2010 r. w sprawie zakresu informacji przedstawianych przez podmiot ubiegający się o pomoc de minimis (Dz. U. Nr 53, poz. 311 oraz z 2013 r. poz. 276);
+- **6)** ekonomiczny plan operacji sporządzony na formularzu opracowanym i udostępnionym przez Agencję;
+- **7)** kopie zaświadczeń o pomocy de minimis uzyskanej w okresie obejmującym rok, w którym został złożony wniosek o przyznanie pomocy, oraz dwa poprzedzające go lata albo oświadczenie wnioskodawcy o wielkości uzyskanej pomocy de minimis sporządzone na formularzu opracowanym i udostępnionym przez Agencję;
+- **8)** kopie sprawozdań finansowych za okres trzech ostatnich lat obrotowych, sporządzonych zgodnie z przepisami o rachunkowości – w przypadku podmiotów, które mają obowiązek prowadzenia ksiąg rachunkowych i sporządzania sprawozdań finansowych;
+- **9)** pełnomocnictwo, jeżeli wnioskodawca działa przez pełnomocnika;
+- **10)** kopię dokumentu albo kopie dokumentów potwierdzających posiadanie samoistne lub zależne gospodarstwa, o którym mowa w § 2 pkt 2, przy czym w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie informatycznym, o którym mowa w art. 25 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm. ), jest wystarczające podanie numeru księgi wieczystej;
+- **11)** kopię dokumentu albo kopie dokumentów potwierdzających posiadanie samoistne lub zależne nieruchomości, na której będzie realizowana operacja, przy czym w przypadku posiadania samoistnego nieruchomości, dla której księga wieczysta jest prowadzona w systemie informatycznym, o którym mowa w art. 25 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, jest wystarczające podanie numeru księgi wieczystej;
+- **12)** oświadczenie właściciela albo współwłaściciela nieruchomości o wyrażeniu zgody na realizację operacji, sporządzone na formularzu opracowanym i udostępnionym przez Agencję – w przypadku gdy operacja będzie realizowana na nieruchomości niestanowiącej własności wnioskodawcy albo stanowiącej współwłasność wnioskodawcy i operacja ta jest związana z budową, przebudową, remontem połączonym z modernizacją, wyposażeniem lub zagospodarowaniem nieruchomości objętej operacją;
+- **13)** kopię zaświadczenia o wpisie do ewidencji prowadzonej przez jednostkę samorządu terytorialnego obowiązaną do prowadzenia odpowiedniego typu szkół i placówek publicznych, zgodnie z przepisami o systemie oświaty, wystawionego nie wcześniej niż trzy miesiące przed dniem złożenia wniosku o przyznanie pomocy albo kopię zezwolenia wydanego na podstawie art. 58 ust. 3 albo art. 59a ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm. ) – w przypadku gdy w ramach wykonywania działalności wnioskodawca prowadzi działalność, której dotyczy operacja, podlegającą przepisom o systemie oświaty;
+- **14)** kopię zaświadczenia o wpisie do ewidencji innych obiektów, o której mowa w art. 38 ust. 3 ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych (Dz. U. z 2014 r. poz. 196), wystawionego nie wcześniej niż trzy miesiące przed dniem złożenia wniosku o przyznanie pomocy – w przypadku gdy w ramach wykonywania działalności wnioskodawca świadczy usługi hotelarskie w innych obiektach, w których mogą być świadczone usługi hotelarskie;
+- **15)** kopię przyrzeczenia zaszeregowania obiektu do odpowiedniego rodzaju i kategorii wydanego na podstawie art. 39a ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych lub kopię decyzji nadającej kategorię obiektu hotelarskiego wydaną na podstawie art. 38 ust. 1 i 2 ustawy z dnia 29 sierpnia 1997 r. o usługach turystycznych – w przypadku gdy w ramach wykonywania działalności wnioskodawca świadczy lub planuje świadczyć usługi hotelarskie w obiektach hotelarskich;
+- **16)** kosztorys inwestorski – w przypadku gdy operacja obejmuje inwestycje budowlane;
+- **17)** kopie co najmniej dwóch zapytań dotyczących nabycia rzeczy lub usług skierowanych do różnych dostawców lub wykonawców (zapytań ofertowych) oraz kopie ofert stanowiących odpowiedź na te zapytania wraz z uzasadnieniem wyboru oferty – w przypadku każdego zadania ujętego w zestawieniu rzeczowo-finansowym operacji, którego koszt przekracza 10 tys. zł netto, dotyczącego inwestycji innej niż wskazana w pkt 16;
+- **18)** kopię zapytania dotyczącego nabycia rzeczy lub usług (zapytania ofertowego) oraz kopię oferty stanowiącej odpowiedź na to zapytanie – w przypadku każdego zadania ujętego w zestawieniu rzeczowo-finansowym operacji, którego koszt przekracza 10 tys. zł netto, dotyczącego inwestycji innej niż wskazana w pkt 16, jeżeli te rzeczy lub usługi można nabyć wyłącznie od jednego wykonawcy lub dostawcy, w szczególności gdy jest to uzasadnione koniecznością zastosowania technologii zgodnej z technologią produkcji stosowaną przez wnioskodawcę;
+- **19)** kopie ostatecznych pozwoleń, zezwoleń lub innych decyzji, których uzyskanie jest wymagane przez odrębne przepisy do realizacji inwestycji objętych operacją, a także kopie innych dokumentów potwierdzających spełnienie określonych w odrębnych przepisach warunków realizacji inwestycji objętych operacją – w przypadku gdy w ramach operacji będą realizowane tego typu inwestycje;
+- **20)** kopię promesy umowy leasingu dotyczącej planowanego zakupu rzeczy wraz z harmonogramem spłat rat leasingowych z wyszczególnieniem części kapitałowej i części odsetkowej – w przypadku gdy operacja obejmuje inwestycje polegające na nabyciu rzeczy będących przedmiotem leasingu;
+- **21)** kopię opinii wojewody dotyczącej zakresu i wysokości szkód w środkach trwałych oszacowanych przez komisję powołaną przez wojewodę – w przypadku wystąpienia szkody w gospodarstwie rolnym, o której mowa w § 4 ust. 4 pkt 2;
+- **22)** kopię opinii wojewody dotyczącej zakresu i wysokości szkód w uprawach rolnych i zwierzętach gospodarskich oszacowanych przez komisję powołaną przez wojewodę – w przypadku wystąpienia szkody w gospodarstwie rolnym, o której mowa w § 4 ust. 4 pkt 2;
+- **23)** kopię dokumentacji dotyczącej ewidencji środków trwałych oraz wartości niematerialnych i prawnych – w przypadku wnioskodawców zobowiązanych do prowadzenia takiej ewidencji przepisami o podatku dochodowym od osób fizycznych lub przepisami o rachunkowości;
+- **24)** kopię dokumentacji dotyczącej wykazu środków trwałych oraz wartości niematerialnych i prawnych – w przypadku wnioskodawców zobowiązanych do prowadzenia wykazu przepisami o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne;
+- **25)** informację o numerze rachunku bankowego wnioskodawcy – w przypadku gdy wnioskodawca ubiega się o zaliczkę;
+- **26)** inne dokumenty potwierdzające spełnienie warunków do przyznania pomocy.
+
 2a. Kopie dokumentów załącza się w formie kopii potwierdzonych za zgodność z oryginałem przez pracownika Agencji lub podmiot, który wydał dokument, lub notariusza, z tym że kopie, o których mowa w ust. 2 pkt 23 i 24, mogą być również potwierdzone przez wnioskodawcę.
+
 3. Agencja udostępnia formularz wniosku o przyznanie pomocy oraz formularze załączników nie później niż w dniu podania do publicznej wiadomości informacji, o której mowa w § 6 ust. 1.
+
 4. (uchylony).
+
 5. Wnioskodawca informuje Agencję o wszelkich zmianach w zakresie danych objętych wnioskiem, niezwłocznie po ich zaistnieniu.
-§ 10. 1. Jeżeli wniosek o przyznanie pomocy nie zawiera numeru identyfikacyjnego, o którym mowa w § 9 ust. 1 pkt 1, albo nie dołączono do niego wniosku o wpis do ewidencji albo jego kopii, lub wniosek o przyznanie pomocy nie został złożony w terminie, o którym mowa w § 6 ust. 2, lub w danym okresie składania wniosków wnioskodawca złożył więcej niż jeden wniosek, Agencja nie przyznaje pomocy. Przepis art. 22 ust. 3 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, zwanej dalej „ustawą”, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
+
+**§ 10.**
+
+1. Jeżeli wniosek o przyznanie pomocy nie zawiera numeru identyfikacyjnego, o którym mowa w § 9 ust. 1 pkt 1, albo nie dołączono do niego wniosku o wpis do ewidencji albo jego kopii, lub wniosek o przyznanie pomocy nie został złożony w terminie, o którym mowa w § 6 ust. 2, lub w danym okresie składania wniosków wnioskodawca złożył więcej niż jeden wniosek, Agencja nie przyznaje pomocy. Przepis art. 22 ust. 3 ustawy z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich, zwanej dalej „ustawą”, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
+
 1a. Przepisu ust. 1 nie stosuje się w odniesieniu do numeru identyfikacyjnego, o którym mowa w § 9 ust. 1 pkt 1, jeżeli numer ten można ustalić w ewidencji.
+
 2. Jeżeli we wniosku o przyznanie pomocy nie wskazano adresu wnioskodawcy i nie ma możności ustalenia tego adresu na podstawie posiadanych danych, wniosek pozostawia się bez rozpatrzenia.
+
 3. Jeżeli wniosek o przyznanie pomocy nie spełnia innych niż określone w ust. 1 i 2 wymagań, Agencja wzywa wnioskodawcę, w formie pisemnej, do usunięcia braków w terminie 21 dni od dnia doręczenia wezwania, chyba że zachodzą niebudzące wątpliwości przesłanki nieprzyznania pomocy.
+
 4. Jeżeli wnioskodawca, pomimo wezwania do usunięcia braków, nie usunął w terminie:
-1) żadnego z braków, Agencja nie przyznaje pomocy; przepis art. 22 ust. 3 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio;
-2) wszystkich braków, Agencja wzywa ponownie wnioskodawcę, w formie pisemnej, do usunięcia braków w terminie 21 dni od dnia doręczenia wezwania, chyba że zachodzą niebudzące wątpliwości przesłanki nieprzyznania pomocy.
+
+- **1)** żadnego z braków, Agencja nie przyznaje pomocy; przepis art. 22 ust. 3 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio;
+- **2)** wszystkich braków, Agencja wzywa ponownie wnioskodawcę, w formie pisemnej, do usunięcia braków w terminie 21 dni od dnia doręczenia wezwania, chyba że zachodzą niebudzące wątpliwości przesłanki nieprzyznania pomocy.
+
 5. Jeżeli wnioskodawca, pomimo ponownego wezwania do usunięcia braków, nie usunął w terminie wszystkich braków, Agencja nie przyznaje pomocy. Przepis art. 22 ust. 3 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
+
 6. Złożony wniosek o przyznanie pomocy nie może być zmieniany przez wnioskodawcę w zakresie planu finansowego operacji lub zestawienia rzeczowo-finansowego operacji, z wyłączeniem:
-1) zmian wynikających z wezwań Agencji;
-2) jednej zmiany w zakresie planu finansowego operacji lub zestawienia rzeczowo-finansowego operacji, jeżeli zmiana ta nie spowoduje zmiany celu operacji wskazanego we wniosku o przyznanie pomocy, zwiększenia kwoty pomocy oraz zmiany rodzaju działalności gospodarczej określonej we wniosku kodem PKD.
-§ 11. 1. Pomoc przysługuje wnioskodawcom, którzy złożyli wnioski o przyznanie pomocy, według kolejności ustalonej przez Agencję przy zastosowaniu kryteriów wyboru operacji.
+
+- **1)** zmian wynikających z wezwań Agencji;
+- **2)** jednej zmiany w zakresie planu finansowego operacji lub zestawienia rzeczowo-finansowego operacji, jeżeli zmiana ta nie spowoduje zmiany celu operacji wskazanego we wniosku o przyznanie pomocy, zwiększenia kwoty pomocy oraz zmiany rodzaju działalności gospodarczej określonej we wniosku kodem PKD.
+
+**§ 11.**
+
+1. Pomoc przysługuje wnioskodawcom, którzy złożyli wnioski o przyznanie pomocy, według kolejności ustalonej przez Agencję przy zastosowaniu kryteriów wyboru operacji.
+
 2. Agencja, ustalając kolejność przysługiwania pomocy, uwzględnia wnioski o przyznanie pomocy złożone w sposób określony w § 8 w terminie, o którym mowa w § 6 ust. 2, z tym że w przypadku wniosków złożonych przesyłką rejestrowaną uwzględnia się te wnioski, które wpłynęły do oddziału regionalnego Agencji nie później niż 30. dnia od dnia upływu terminu, o którym mowa w § 6 ust. 2.
+
 3. O kolejności przysługiwania pomocy decyduje suma uzyskanych punktów, które przyznaje się na podstawie następujących kryteriów:
-1) jeżeli powierzchnia gruntów rolnych w gospodarstwie rolnym jest:
-a) nie mniejsza niż 1 ha i nie większa niż średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie – przyznaje się od 10 do 5 punktów, z dokładnością do czterech miejsc po przecinku, przy czym 10 punktów przyznaje się, gdy powierzchnia gruntów rolnych jest równa 1 ha, a w przypadku powierzchni gruntów rolnych większej niż 1 ha – proporcjonalnie mniej aż do 5 punktów, które przyznaje się, gdy powierzchnia gruntów rolnych jest równa średniej powierzchni gruntów rolnych w gospodarstwie rolnym w województwie,
-b) nie mniejsza niż średnia powierzchnia gruntów rolnych w województwie i nie większa niż 50 ha – przyznaje się od 5 do 0 punktów, z dokładnością do czterech miejsc po przecinku, przy czym 5 punktów przyznaje się, gdy powierzchnia gruntów rolnych w gospodarstwie rolnym jest równa średniej powierzchni gruntów rolnych w województwie, a w przypadku powierzchni gruntów rolnych większej niż średnia powierzchnia gruntów rolnych w województwie – proporcjonalnie mniej aż do 0 punktów, które przyznaje się, gdy powierzchnia gruntów rolnych jest równa 50 ha,
-c) większa niż 50 ha – przyznaje się 0 punktów – w przypadku gospodarstw położonych w województwie, w którym średnia powierzchnia gruntów rolnych w gospodarstwie rolnym jest niższa od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju;
-2) jeżeli powierzchnia gruntów rolnych w gospodarstwie rolnym jest:
-a) nie mniejsza niż 1 ha i nie większa niż średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w kraju – przyznaje się od 10 do 5 punktów, z dokładnością do czterech miejsc po przecinku, przy czym 10 punktów przyznaje się, gdy powierzchnia gruntów rolnych jest równa 1 ha, a w przypadku powierzchni gruntów rolnych większej niż 1 ha – proporcjonalnie mniej aż do 5 punktów, które przyznaje się, gdy powierzchnia gruntów rolnych jest równa średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju,
-b) nie mniejsza niż średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w kraju i nie większa niż 50 ha – przyznaje się od 5 do 0 punktów, z dokładnością do czterech miejsc po przecinku, przy czym 5 punktów przyznaje się, gdy powierzchnia gruntów rolnych jest równa średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju, a w przypadku powierzchni gruntów rolnych większej niż średnia powierzchnia gruntów rolnych w kraju – proporcjonalnie mniej aż do 0 punktów, które przyznaje się, gdy powierzchnia gruntów rolnych jest równa 50 ha,
-c) większa niż 50 ha – przyznaje się 0 punktów – w przypadku gospodarstw położonych w województwie, w którym średnia powierzchnia gruntów rolnych w gospodarstwie rolnym jest równa lub wyższa od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju;
-3) jeżeli podstawowy dochód podatkowy gminy, w której jest planowana realizacja operacji, w przeliczeniu na 1 mieszkańca (wskaźnik G) obliczany zgodnie z przepisami o dochodach jednostek samorządu terytorialnego, obowiązujący w roku, w którym został złożony wniosek o przyznanie pomocy, jest:
-a) najniższy w województwie – przyznaje się 5 punktów,
-b) wyższy niż dochód, o którym mowa w lit. a – przyznaje się liczbę punktów proporcjonalnie mniejszą od liczby punktów określonej w lit. a, z dokładnością do dwóch miejsc po przecinku, zgodnie z wysokością wskaźnika G, przy czym 0 punktów przyznaje się, gdy podstawowy dochód podatkowy gminy na 1 mieszkańca jest najwyższy w województwie;
-4) jeżeli powierzchnia gruntów rolnych położonych na obszarach górskich i innych obszarach o niekorzystnych warunkach gospodarowania (ONW), stanowi:
-a) co najmniej 50% powierzchni gruntów rolnych w gospodarstwie rolnym – przyznaje się od 1 do 3 punktów, z dokładnością do czterech miejsc po przecinku, przy czym 1 punkt przyznaje się, jeżeli powierzchnia gruntów rolnych położonych na ONW stanowi 50% powierzchni gruntów rolnych gospodarstwa, a w przypadku większego udziału gruntów rolnych położonych na ONW w powierzchni gruntów rolnych gospodarstwa rolnego proporcjonalnie więcej punktów aż do 3 punktów, które przyznaje się, gdy udział ten wynosi 100%,
-b) mniej niż 50% powierzchni gruntów rolnych w gospodarstwie rolnym – przyznaje się 0 punktów;
-5) jeżeli wnioskodawcy nie przyznano pomocy w ramach przynajmniej jednego z następujących działań:
-a) o którym mowa w § 1,
-b) „Modernizacja gospodarstw rolnych” objętego Programem,
-c) „Wdrażanie lokalnych strategii rozwoju” objętego Programem – w przypadku operacji odpowiadających warunkom przyznania pomocy w ramach działania, o którym mowa w § 1 – przyznaje się 3 punkty.
+
+- **1)** jeżeli powierzchnia gruntów rolnych w gospodarstwie rolnym jest:
+    - **a)** nie mniejsza niż 1 ha i nie większa niż średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w województwie – przyznaje się od 10 do 5 punktów, z dokładnością do czterech miejsc po przecinku, przy czym 10 punktów przyznaje się, gdy powierzchnia gruntów rolnych jest równa 1 ha, a w przypadku powierzchni gruntów rolnych większej niż 1 ha – proporcjonalnie mniej aż do 5 punktów, które przyznaje się, gdy powierzchnia gruntów rolnych jest równa średniej powierzchni gruntów rolnych w gospodarstwie rolnym w województwie,
+    - **b)** nie mniejsza niż średnia powierzchnia gruntów rolnych w województwie i nie większa niż 50 ha – przyznaje się od 5 do 0 punktów, z dokładnością do czterech miejsc po przecinku, przy czym 5 punktów przyznaje się, gdy powierzchnia gruntów rolnych w gospodarstwie rolnym jest równa średniej powierzchni gruntów rolnych w województwie, a w przypadku powierzchni gruntów rolnych większej niż średnia powierzchnia gruntów rolnych w województwie – proporcjonalnie mniej aż do 0 punktów, które przyznaje się, gdy powierzchnia gruntów rolnych jest równa 50 ha,
+    - **c)** większa niż 50 ha – przyznaje się 0 punktów – w przypadku gospodarstw położonych w województwie, w którym średnia powierzchnia gruntów rolnych w gospodarstwie rolnym jest niższa od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju;
+
+- **2)** jeżeli powierzchnia gruntów rolnych w gospodarstwie rolnym jest:
+    - **a)** nie mniejsza niż 1 ha i nie większa niż średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w kraju – przyznaje się od 10 do 5 punktów, z dokładnością do czterech miejsc po przecinku, przy czym 10 punktów przyznaje się, gdy powierzchnia gruntów rolnych jest równa 1 ha, a w przypadku powierzchni gruntów rolnych większej niż 1 ha – proporcjonalnie mniej aż do 5 punktów, które przyznaje się, gdy powierzchnia gruntów rolnych jest równa średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju,
+    - **b)** nie mniejsza niż średnia powierzchnia gruntów rolnych w gospodarstwie rolnym w kraju i nie większa niż 50 ha – przyznaje się od 5 do 0 punktów, z dokładnością do czterech miejsc po przecinku, przy czym 5 punktów przyznaje się, gdy powierzchnia gruntów rolnych jest równa średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju, a w przypadku powierzchni gruntów rolnych większej niż średnia powierzchnia gruntów rolnych w kraju – proporcjonalnie mniej aż do 0 punktów, które przyznaje się, gdy powierzchnia gruntów rolnych jest równa 50 ha,
+    - **c)** większa niż 50 ha – przyznaje się 0 punktów – w przypadku gospodarstw położonych w województwie, w którym średnia powierzchnia gruntów rolnych w gospodarstwie rolnym jest równa lub wyższa od średniej powierzchni gruntów rolnych w gospodarstwie rolnym w kraju;
+
+- **3)** jeżeli podstawowy dochód podatkowy gminy, w której jest planowana realizacja operacji, w przeliczeniu na 1 mieszkańca (wskaźnik G) obliczany zgodnie z przepisami o dochodach jednostek samorządu terytorialnego, obowiązujący w roku, w którym został złożony wniosek o przyznanie pomocy, jest:
+    - **a)** najniższy w województwie – przyznaje się 5 punktów,
+    - **b)** wyższy niż dochód, o którym mowa w lit. a – przyznaje się liczbę punktów proporcjonalnie mniejszą od liczby punktów określonej w lit. a, z dokładnością do dwóch miejsc po przecinku, zgodnie z wysokością wskaźnika G, przy czym 0 punktów przyznaje się, gdy podstawowy dochód podatkowy gminy na 1 mieszkańca jest najwyższy w województwie;
+
+- **4)** jeżeli powierzchnia gruntów rolnych położonych na obszarach górskich i innych obszarach o niekorzystnych warunkach gospodarowania (ONW), stanowi:
+    - **a)** co najmniej 50% powierzchni gruntów rolnych w gospodarstwie rolnym – przyznaje się od 1 do 3 punktów, z dokładnością do czterech miejsc po przecinku, przy czym 1 punkt przyznaje się, jeżeli powierzchnia gruntów rolnych położonych na ONW stanowi 50% powierzchni gruntów rolnych gospodarstwa, a w przypadku większego udziału gruntów rolnych położonych na ONW w powierzchni gruntów rolnych gospodarstwa rolnego proporcjonalnie więcej punktów aż do 3 punktów, które przyznaje się, gdy udział ten wynosi 100%,
+    - **b)** mniej niż 50% powierzchni gruntów rolnych w gospodarstwie rolnym – przyznaje się 0 punktów;
+
+- **5)** jeżeli wnioskodawcy nie przyznano pomocy w ramach przynajmniej jednego z następujących działań:
+    - **a)** o którym mowa w § 1,
+    - **b)** „Modernizacja gospodarstw rolnych” objętego Programem,
+    - **c)** „Wdrażanie lokalnych strategii rozwoju” objętego Programem – w przypadku operacji odpowiadających warunkom przyznania pomocy w ramach działania, o którym mowa w § 1 – przyznaje się 3 punkty.
+
 4. Powierzchnię gruntów rolnych w gospodarstwie rolnym, w tym powierzchnię gruntów rolnych położonych na ONW, określa się na podstawie danych zadeklarowanych we wniosku o przyznanie płatności w ramach systemów wsparcia bezpośredniego, według stanu na ostatni dzień terminu składania tych wniosków uwzględniający termin złożenia wniosków, który powoduje zmniejszenie kwot płatności:
-1) w roku poprzedzającym rok, w którym jest składany wniosek o przyznanie pomocy – w przypadku wniosków składanych przed dniem 30 czerwca;
-2) w roku, w którym jest składany wniosek o przyznanie pomocy – w przypadku wniosków składanych od dnia 30 czerwca.
+
+- **1)** w roku poprzedzającym rok, w którym jest składany wniosek o przyznanie pomocy – w przypadku wniosków składanych przed dniem 30 czerwca;
+- **2)** w roku, w którym jest składany wniosek o przyznanie pomocy – w przypadku wniosków składanych od dnia 30 czerwca.
+
 5. W przypadku gospodarstw rolnych położonych na obszarze więcej niż jednego województwa, za województwo, na obszarze którego jest położone gospodarstwo, uznaje się to województwo, w którym jest położona największa część gruntów rolnych wchodzących w skład tego gospodarstwa.
+
 6. Przy ustalaniu liczby punktów na podstawie powierzchni gruntów rolnych w gospodarstwie rolnym bierze się pod uwagę średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w poszczególnych województwach oraz średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w kraju, w roku poprzedzającym rok złożenia wniosku o przyznanie pomocy.
+
 7. Średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w poszczególnych województwach oraz średnią powierzchnię gruntów rolnych w gospodarstwie rolnym w kraju przyjmuje się na podstawie informacji ogłaszanych przez Prezesa Agencji na podstawie art. 42 ust. 2 ustawy z dnia 26 stycznia 2007 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2012 r. poz. 1164, z późn. zm. ).
+
 8. W przypadku operacji realizowanej w kilku gminach, przy ustalaniu liczby punktów na podstawie wskaźnika G, za gminę, w której jest realizowana operacja, uważa się gminę lokalizacji operacji wskazaną jako pierwszą we wniosku o przyznanie pomocy.
+
 9. Kolejność, o której mowa w ust. 1, jest ustalana na podstawie danych zawartych we wniosku o przyznanie pomocy na dzień złożenia wniosku, a w przypadku powierzchni gruntów rolnych w gospodarstwie rolnym, w tym powierzchni gruntów rolnych położonych na ONW, na podstawie danych zadeklarowanych zgodnie z ust. 4. W przypadku braku danych niezbędnych do ustalenia kolejności nie przyznaje się punktów.
+
 10. Kolejność, o której mowa w ust. 1, jest ustalana od operacji, która uzyskała największą liczbę punktów, do operacji, która uzyskała najmniejszą liczbę punktów.
+
 11. W przypadku operacji o takiej samej liczbie punktów o kolejności przysługiwania pomocy decyduje powierzchnia gruntów rolnych gospodarstwa rolnego, przy czym kolejność ta jest ustalana od najmniejszej do największej powierzchni gruntów rolnych w gospodarstwie.
+
 12. Prezes Agencji, nie później niż w terminie 40 dni od dnia upływu terminu składania wniosków o przyznanie pomocy, podaje do publicznej wiadomości, na stronie internetowej administrowanej przez Agencję, informację o kolejności przysługiwania pomocy. Informacja ta jest aktualizowana w przypadkach, o których mowa w ust. 13 i 14, nie rzadziej niż co 10 dni.
+
 13. W przypadku wniosków o przyznanie pomocy, które zostały złożone w terminie, o którym mowa w § 6 ust. 2, ale wpłynęły do Agencji po upływie 30 dni od dnia upływu terminu składania wniosków o przyznanie pomocy, pomoc przysługuje w kolejności ustalonej przy zastosowaniu kryteriów wyboru operacji, po wnioskach o przyznanie pomocy, których kolejność ustalono zgodnie z ust. 1–11.
+
 14. Jeżeli dane zawarte we wniosku o przyznanie pomocy, mające wpływ na ustalenie kolejności przysługiwania pomocy, lub dane dotyczące powierzchni gruntów rolnych, w tym powierzchni gruntów rolnych położonych na ONW zadeklarowanych we wniosku o przyznanie płatności w ramach systemów wsparcia bezpośredniego, ulegną zmianie, aktualizacji informacji o kolejności przysługiwania pomocy dokonuje się wyłącznie w przypadku, gdy z nowych danych wynika, że pomoc przysługuje w dalszej kolejności niż pierwotnie ustalona.
+
 15. Wniosek o przyznanie pomocy rozpatruje się w terminie 4 miesięcy od dnia podania do publicznej wiadomości informacji, o której mowa w ust. 12.
+
 16. W przypadku nierozpatrzenia wniosku o przyznanie pomocy w terminie, o którym mowa w ust. 15, Agencja zawiadamia wnioskodawcę o przyczynach zwłoki, podając nowy termin rozpatrzenia wniosku, nie dłuższy niż 3 miesiące.
-§ 11a. 1. W przypadku gdy wnioski o przyznanie pomocy złożone w ramach działania, o którym mowa w § 1, zawierają zapotrzebowanie na środki przekraczające wysokość limitu stanowiącego równowartość w złotych kwoty w euro określonej w Programie na to działanie, wnioskodawców niezwłocznie informuje się w formie pisemnej o tym fakcie, pouczając o sposobie postępowania z takimi wnioskami.
+
+**§ 11a.**
+
+1. W przypadku gdy wnioski o przyznanie pomocy złożone w ramach działania, o którym mowa w § 1, zawierają zapotrzebowanie na środki przekraczające wysokość limitu stanowiącego równowartość w złotych kwoty w euro określonej w Programie na to działanie, wnioskodawców niezwłocznie informuje się w formie pisemnej o tym fakcie, pouczając o sposobie postępowania z takimi wnioskami.
+
 2. Jeżeli po przekazaniu informacji, o której mowa w ust. 1, okaże się, że jest możliwe przyznanie pomocy w ramach wysokości limitu środków na to działanie, złożone wnioski o przyznanie pomocy podlegają rozpatrzeniu, o czym niezwłocznie informuje się wnioskodawców w formie pisemnej.
+
 3. Bieg terminu rozpatrzenia wniosku o przyznanie pomocy, o którym mowa w § 11 ust. 15, ulega wstrzymaniu od dnia doręczenia wnioskodawcy pisma zawierającego informację, o której mowa w ust. 1, do dnia doręczenia temu wnioskodawcy informacji, o której mowa w ust. 2.
+
 4. W przypadku, o którym mowa w ust. 2, pomoc finansową przyznaje się wnioskodawcy do wysokości limitu środków określonego w ust. 1, jeżeli są spełnione warunki przyznania tej pomocy.
+
 5. Jeżeli przyznanie pomocy finansowej wnioskodawcy, o którym mowa w ust. 1, w ramach limitu środków określonego w ust. 1 nie jest możliwe do dnia 31 grudnia 2014 r., informuje się tego wnioskodawcę, w formie pisemnej, o odmowie przyznania pomocy finansowej, podając jej przyczyny.
-§ 12. 1. W przypadku pozytywnego rozpatrzenia wniosku o przyznanie pomocy, Agencja wyznacza niezwłocznie wnioskodawcy, w formie pisemnej, termin zawarcia umowy, nie dłuższy niż 14 dni od dnia otrzymania wezwania.
+
+**§ 12.**
+
+1. W przypadku pozytywnego rozpatrzenia wniosku o przyznanie pomocy, Agencja wyznacza niezwłocznie wnioskodawcy, w formie pisemnej, termin zawarcia umowy, nie dłuższy niż 14 dni od dnia otrzymania wezwania.
+
 2. W przypadku gdy wnioskodawca nie stawił się w wyznaczonym przez Agencję terminie w celu zawarcia umowy albo odmówił jej podpisania, Agencja nie przyznaje pomocy, chyba że wnioskodawca stawił się w celu podpisania umowy i ją podpisał w innym terminie:
-1) uzgodnionym z Agencją przed upływem wyznaczonego w wezwaniu terminu, nie dłuższym niż miesiąc, albo
-2) wyznaczonym przez Agencję, nie dłuższym niż 21 dni od dnia, na który został wyznaczony poprzedni termin zawarcia umowy.
+
+- **1)** uzgodnionym z Agencją przed upływem wyznaczonego w wezwaniu terminu, nie dłuższym niż miesiąc, albo
+- **2)** wyznaczonym przez Agencję, nie dłuższym niż 21 dni od dnia, na który został wyznaczony poprzedni termin zawarcia umowy.
+
 3. W przypadku nieprzyznania pomocy na podstawie ust. 2, przepis art. 22 ust. 3 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
-§ 13. Agencja, na uzasadnioną prośbę wnioskodawcy, może wyrazić zgodę na przedłużenie terminu wykonania przez wnioskodawcę określonej czynności w toku postępowania w sprawie przyznania pomocy, przy czym przedłużenie terminów wykonania przez wnioskodawcę określonych czynności nie może przekroczyć łącznie 30 dni, a w przypadku operacji – o których mowa w § 4 ust. 5 pkt 2 – łącznie 18 miesięcy.
-§ 14. 1. W razie uchybienia terminu wykonania przez wnioskodawcę określonych czynności w toku postępowania w sprawie przyznania pomocy Agencja, na prośbę wnioskodawcy, przywraca termin wykonania tych czynności, jeżeli wnioskodawca:
-1) wniósł prośbę w terminie 45 dni od dnia ustania przyczyny uchybienia;
-2) jednocześnie z wniesieniem prośby dopełnił czynności, dla której określony był termin;
-3) uprawdopodobnił, że uchybienie nastąpiło bez jego winy.
+
+**§ 13.** Agencja, na uzasadnioną prośbę wnioskodawcy, może wyrazić zgodę na przedłużenie terminu wykonania przez wnioskodawcę określonej czynności w toku postępowania w sprawie przyznania pomocy, przy czym przedłużenie terminów wykonania przez wnioskodawcę określonych czynności nie może przekroczyć łącznie 30 dni, a w przypadku operacji – o których mowa w § 4 ust. 5 pkt 2 – łącznie 18 miesięcy.
+
+**§ 14.**
+
+1. W razie uchybienia terminu wykonania przez wnioskodawcę określonych czynności w toku postępowania w sprawie przyznania pomocy Agencja, na prośbę wnioskodawcy, przywraca termin wykonania tych czynności, jeżeli wnioskodawca:
+
+- **1)** wniósł prośbę w terminie 45 dni od dnia ustania przyczyny uchybienia;
+- **2)** jednocześnie z wniesieniem prośby dopełnił czynności, dla której określony był termin;
+- **3)** uprawdopodobnił, że uchybienie nastąpiło bez jego winy.
+
 2. Przywrócenie terminu do złożenia prośby, o której mowa w ust. 1, jest niedopuszczalne.
+
 3. (uchylony).
-§ 15. 1. Wezwanie przez Agencję wnioskodawcy do wykonania określonych czynności w toku postępowania w sprawie przyznania pomocy wstrzymuje bieg terminu rozpatrywania wniosku o przyznanie pomocy do czasu wykonania przez wnioskodawcę tych czynności.
+
+**§ 15.**
+
+1. Wezwanie przez Agencję wnioskodawcy do wykonania określonych czynności w toku postępowania w sprawie przyznania pomocy wstrzymuje bieg terminu rozpatrywania wniosku o przyznanie pomocy do czasu wykonania przez wnioskodawcę tych czynności.
+
 1a. Dokonanie przez wnioskodawcę zmiany, o której mowa w § 10 ust. 6 pkt 2, wydłuża o miesiąc termin rozpatrywania wniosku o przyznanie pomocy.
+
 2. Jeżeli w trakcie rozpatrywania wniosku o przyznanie pomocy niezbędne jest uzyskanie dodatkowych wyjaśnień lub opinii innego podmiotu lub zajdą nowe okoliczności budzące wątpliwości co do możliwości przyznania pomocy, termin rozpatrywania wniosku o przyznanie pomocy wydłuża się o czas niezbędny do uzyskania wyjaśnień lub opinii, o czym Agencja informuje na piśmie wnioskodawcę.
-§ 16. 1. W razie śmierci wnioskodawcy albo w razie zbycia całości lub części gospodarstwa rolnego w toku postępowania w sprawie przyznania pomocy, następca prawny wnioskodawcy albo nabywca gospodarstwa rolnego lub jego części nie może wstąpić do toczącego się postępowania na miejsce wnioskodawcy.
+
+**§ 16.**
+
+1. W razie śmierci wnioskodawcy albo w razie zbycia całości lub części gospodarstwa rolnego w toku postępowania w sprawie przyznania pomocy, następca prawny wnioskodawcy albo nabywca gospodarstwa rolnego lub jego części nie może wstąpić do toczącego się postępowania na miejsce wnioskodawcy.
+
 2. Wniosek złożony przez wnioskodawcę, o którym mowa w ust. 1, Agencja pozostawia bez rozpatrzenia z chwilą uprawdopodobnienia zdarzenia określonego w ust. 1.
-§ 17. 1. Umowę zawiera się na formularzu, opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji.
+
+**§ 17.**
+
+1. Umowę zawiera się na formularzu, opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji.
+
 2. Poza postanowieniami określonymi w art. 23 ustawy, umowa może zawierać inne postanowienia dotyczące realizacji operacji, w szczególności zobowiązania beneficjenta dotyczące:
-1) osiągnięcia celu operacji i zachowania tego celu przez 5 lat;
-2) niefinansowania realizacji operacji z udziałem innych środków publicznych;
-3) ograniczeń lub warunków w zakresie:
-a) przenoszenia własności lub posiadania rzeczy nabytych w ramach realizacji operacji lub sposobu ich wykorzystywania,
-b) rodzaju wykonywania działalności związanej z przyznaną pomocą oraz okresu lub miejsca jej wykonywania – przez 5 lat;
-4) umożliwienia przeprowadzania kontroli związanych z przyznaną pomocą przez 5 lat;
-5) przechowywania dokumentów związanych z przyznaną pomocą przez 5 lat;
-6) informowania Agencji o okolicznościach mogących mieć wpływ na wykonanie umowy przez 5 lat;
-7) informowania o oferowanych usługach, przez okres od dnia złożenia wniosku o płatność ostateczną do dnia upływu 5 lat od dnia przyznania pomocy, w sposób określony przez Agencję, na stronach internetowych:
-a) beneficjenta lub
-b) jednostek samorządu terytorialnego, lub
-c) organizacji turystycznych, lub
-d) innych niż wymienione w lit. a–c, które zawierają informacje o ofercie usług turystycznych – w przypadku inwestycji związanych z podjęciem lub prowadzeniem działalności, o której mowa w § 3 ust. 1 pkt 2 lit. b.
+
+- **1)** osiągnięcia celu operacji i zachowania tego celu przez 5 lat;
+- **2)** niefinansowania realizacji operacji z udziałem innych środków publicznych;
+- **3)** ograniczeń lub warunków w zakresie:
+    - **a)** przenoszenia własności lub posiadania rzeczy nabytych w ramach realizacji operacji lub sposobu ich wykorzystywania,
+    - **b)** rodzaju wykonywania działalności związanej z przyznaną pomocą oraz okresu lub miejsca jej wykonywania – przez 5 lat;
+
+- **4)** umożliwienia przeprowadzania kontroli związanych z przyznaną pomocą przez 5 lat;
+- **5)** przechowywania dokumentów związanych z przyznaną pomocą przez 5 lat;
+- **6)** informowania Agencji o okolicznościach mogących mieć wpływ na wykonanie umowy przez 5 lat;
+- **7)** informowania o oferowanych usługach, przez okres od dnia złożenia wniosku o płatność ostateczną do dnia upływu 5 lat od dnia przyznania pomocy, w sposób określony przez Agencję, na stronach internetowych:
+    - **a)** beneficjenta lub
+    - **b)** jednostek samorządu terytorialnego, lub
+    - **c)** organizacji turystycznych, lub
+    - **d)** innych niż wymienione w lit. a–c, które zawierają informacje o ofercie usług turystycznych – w przypadku inwestycji związanych z podjęciem lub prowadzeniem działalności, o której mowa w § 3 ust. 1 pkt 2 lit. b.
+
 3. Pięcioletni okres, którego dotyczą zobowiązania, o których mowa w ust. 2:
-1) pkt 1, 3, 4 i 6, liczy się od dnia przyznania pomocy;
-2) pkt 5 liczy się od dnia dokonania przez Agencję płatności:
-a) ostatecznej – w przypadku operacji obejmujących wyłącznie inwestycje niepolegające na nabyciu rzeczy będących przedmiotem leasingu,
-b) w wyniku której po raz pierwszy w ramach operacji zostały zrefundowane koszty kwalifikowalne, o których mowa w § 5 ust. 1 pkt 7 – w przypadku operacji obejmujących wyłącznie inwestycje polegające na nabyciu rzeczy będących przedmiotem leasingu,
-c) w wyniku której w ramach operacji zostały zrefundowane wszystkie koszty kwalifikowalne, o których mowa w § 5 ust. 1 pkt 1–6 i ust. 2 – w przypadku operacji obejmujących inwestycje zarówno polegające, jak i niepolegające na nabyciu rzeczy będących przedmiotem leasingu.
+
+- **1)** pkt 1, 3, 4 i 6, liczy się od dnia przyznania pomocy;
+- **2)** pkt 5 liczy się od dnia dokonania przez Agencję płatności:
+    - **a)** ostatecznej – w przypadku operacji obejmujących wyłącznie inwestycje niepolegające na nabyciu rzeczy będących przedmiotem leasingu,
+    - **b)** w wyniku której po raz pierwszy w ramach operacji zostały zrefundowane koszty kwalifikowalne, o których mowa w § 5 ust. 1 pkt 7 – w przypadku operacji obejmujących wyłącznie inwestycje polegające na nabyciu rzeczy będących przedmiotem leasingu,
+    - **c)** w wyniku której w ramach operacji zostały zrefundowane wszystkie koszty kwalifikowalne, o których mowa w § 5 ust. 1 pkt 1–6 i ust. 2 – w przypadku operacji obejmujących inwestycje zarówno polegające, jak i niepolegające na nabyciu rzeczy będących przedmiotem leasingu.
+
 4. Umowa zawiera również:
-1) postanowienia dotyczące warunków i sposobu pozyskiwania przez Agencję od beneficjenta danych, o których mowa w art. 7 ust. 4 pkt 1 ustawy;
-2) wykaz dokumentów, jakie dołącza się do wniosku o płatność.
+
+- **1)** postanowienia dotyczące warunków i sposobu pozyskiwania przez Agencję od beneficjenta danych, o których mowa w art. 7 ust. 4 pkt 1 ustawy;
+- **2)** wykaz dokumentów, jakie dołącza się do wniosku o płatność.
+
 5. Zmiana umowy w zakresie zobowiązań beneficjenta określonych w ust. 2:
-1) pkt 1 i 2 jest nieważna;
-2) pkt 3 może być dokonana w wyjątkowych okolicznościach.
-§ 18. 1. Zabezpieczeniem należytego wykonania przez beneficjenta zobowiązań określonych w umowie jest weksel niezupełny (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu udostępnionym przez Agencję.
+
+- **1)** pkt 1 i 2 jest nieważna;
+- **2)** pkt 3 może być dokonana w wyjątkowych okolicznościach.
+
+**§ 18.**
+
+1. Zabezpieczeniem należytego wykonania przez beneficjenta zobowiązań określonych w umowie jest weksel niezupełny (in blanco) wraz z deklaracją wekslową sporządzoną na formularzu udostępnionym przez Agencję.
+
 2. Weksel wraz z deklaracją wekslową, o których mowa w ust. 1, beneficjent podpisuje w obecności upoważnionego pracownika Agencji. Weksel wraz z deklaracją wekslową składa się w oddziale regionalnym Agencji w dniu zawarcia umowy.
+
 3. Beneficjent dołącza do umowy oświadczenie małżonka o wyrażeniu zgody na zawarcie umowy albo o niepozostawaniu w związku małżeńskim, albo o ustanowionej małżeńskiej rozdzielności majątkowej.
-§ 19. 1. Warunki wypłaty środków finansowych z tytułu pomocy określa umowa, z tym że środki te mogą być wypłacone, jeżeli beneficjent:
-1) zrealizował operację lub jej etap, w tym poniósł związane z tym koszty, zgodnie z warunkami określonymi w rozporządzeniu i w umowie oraz określonymi w innych przepisach dotyczących inwestycji objętych operacją;
-2) zrealizował lub realizuje zobowiązania określone w umowie;
-3) udokumentował zrealizowanie operacji lub jej etapu, w tym poniesienie kosztów kwalifikowalnych z tym związanych.
+
+**§ 19.**
+
+1. Warunki wypłaty środków finansowych z tytułu pomocy określa umowa, z tym że środki te mogą być wypłacone, jeżeli beneficjent:
+
+- **1)** zrealizował operację lub jej etap, w tym poniósł związane z tym koszty, zgodnie z warunkami określonymi w rozporządzeniu i w umowie oraz określonymi w innych przepisach dotyczących inwestycji objętych operacją;
+- **2)** zrealizował lub realizuje zobowiązania określone w umowie;
+- **3)** udokumentował zrealizowanie operacji lub jej etapu, w tym poniesienie kosztów kwalifikowalnych z tym związanych.
+
 2. W przypadku gdy beneficjent nie spełnił któregokolwiek z warunków, o których mowa w ust. 1, środki finansowe z tytułu pomocy mogą być wypłacone w części dotyczącej operacji lub jej etapu, które zostały zrealizowane zgodnie z tymi warunkami, oraz jeżeli cel operacji został osiągnięty lub może zostać osiągnięty do dnia złożenia wniosku o płatność ostateczną.
-§ 19a. 1. Agencja, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na zakończenie realizacji operacji lub złożenie wniosku o płatność ostateczną po upływie terminów określonych w § 3 ust. 3 pkt 3 albo ust. 4 pkt 1 lit. d w terminie późniejszym, nie dłuższym niż 6 miesięcy od upływu tych terminów, ale nie później niż do dnia 30 czerwca 2015 r.
+
+**§ 19a.**
+
+1. Agencja, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na zakończenie realizacji operacji lub złożenie wniosku o płatność ostateczną po upływie terminów określonych w § 3 ust. 3 pkt 3 albo ust. 4 pkt 1 lit. d w terminie późniejszym, nie dłuższym niż 6 miesięcy od upływu tych terminów, ale nie później niż do dnia 30 czerwca 2015 r.
+
 2. Zgoda, o której mowa w ust. 1, może zostać wyrażona również po upływie terminu zakończenia realizacji operacji lub złożenia wniosku o płatność ostateczną.
-§ 20. W przypadku operacji obejmujących inwestycje polegające na nabyciu rzeczy będących przedmiotem leasingu beneficjent składa w oddziale regionalnym Agencji, przed planowanym dniem złożenia wniosku o płatność pośrednią, w ramach którego po raz pierwszy zostaną ujęte raty zapłacone tytułem wykonania umowy leasingu:
-1) umowę leasingu wraz z harmonogramem spłat,
-2) (uchylony) – w terminie określonym w umowie.
-§ 21. 1. Tryb wypłaty środków finansowych z tytułu pomocy określa umowa, z tym że są one wypłacane na wniosek o płatność.
+
+**§ 20.** W przypadku operacji obejmujących inwestycje polegające na nabyciu rzeczy będących przedmiotem leasingu beneficjent składa w oddziale regionalnym Agencji, przed planowanym dniem złożenia wniosku o płatność pośrednią, w ramach którego po raz pierwszy zostaną ujęte raty zapłacone tytułem wykonania umowy leasingu:
+
+- **1)** umowę leasingu wraz z harmonogramem spłat,
+- **2)** (uchylony) – w terminie określonym w umowie.
+
+**§ 21.**
+
+1. Tryb wypłaty środków finansowych z tytułu pomocy określa umowa, z tym że są one wypłacane na wniosek o płatność.
+
 2. Wniosek o płatność składa się osobiście albo przez upoważnioną osobę, bezpośrednio w oddziale regionalnym Agencji, właściwym ze względu na miejsce realizacji operacji.
+
 3. (uchylony).
+
 4. Do wniosku o płatność stosuje się przepis § 8 ust. 2.
-§ 22. 1. Jeżeli wniosek o płatność nie został wypełniony we wszystkich wymaganych pozycjach lub nie dołączono do niego wymaganych dokumentów, lub wniosek lub dokumenty nie spełniają innych wymagań, Agencja wzywa beneficjenta, w formie pisemnej, do usunięcia braków w terminie 21 dni od dnia doręczenia wezwania.
+
+**§ 22.**
+
+1. Jeżeli wniosek o płatność nie został wypełniony we wszystkich wymaganych pozycjach lub nie dołączono do niego wymaganych dokumentów, lub wniosek lub dokumenty nie spełniają innych wymagań, Agencja wzywa beneficjenta, w formie pisemnej, do usunięcia braków w terminie 21 dni od dnia doręczenia wezwania.
+
 2. Jeżeli beneficjent, pomimo wezwania, nie usunął braków w wyznaczonym terminie, Agencja wzywa ponownie beneficjenta, w formie pisemnej, do usunięcia braków w terminie 21 dni od dnia doręczenia wezwania.
+
 3. Jeżeli beneficjent, pomimo ponownego wezwania, nie usunął braków, Agencja rozpatruje wniosek o płatność w zakresie, w jakim został wypełniony, oraz na podstawie dołączonych i poprawnie sporządzonych dokumentów.
+
 4. Agencja, w trakcie rozpatrywania wniosku o płatność, może wzywać beneficjenta, w formie pisemnej, do wyjaśnienia faktów istotnych dla rozstrzygnięcia sprawy lub przedstawienia dowodów na potwierdzenie tych faktów, w terminie 21 dni od dnia doręczenia wezwania.
-§ 23. 1. Agencja rozpatruje wniosek o płatność w terminie 3 miesięcy i dokonuje wypłaty środków finansowych z tytułu pomocy niezwłocznie po pozytywnym rozpatrzeniu wniosku o płatność.
+
+**§ 23.**
+
+1. Agencja rozpatruje wniosek o płatność w terminie 3 miesięcy i dokonuje wypłaty środków finansowych z tytułu pomocy niezwłocznie po pozytywnym rozpatrzeniu wniosku o płatność.
+
 1a. Agencja, na uzasadnioną prośbę beneficjenta, może wyrazić zgodę na przedłużenie terminu wykonania przez beneficjenta określonej czynności w toku postępowania w sprawie wypłaty pomocy, przy czym przedłużenie terminów wykonania przez beneficjenta określonych czynności nie może przekroczyć łącznie 6 miesięcy.
+
 2. Do trybu rozpatrywania wniosku o płatność stosuje się przepisy § 14 i § 15 ust. 1 i 2.
-§ 24. 1. W razie śmierci beneficjenta następcy prawnemu beneficjenta może być przyznana pomoc na operację, którą realizował beneficjent, jeżeli:
-1) są spełnione warunki określone w art. 25 ust. 2 ustawy;
-2) na następcę prawnego beneficjenta przeszły prawa beneficjenta nabyte w ramach realizacji tej operacji oraz inne jego prawa niezbędne do jej zrealizowania.
+
+**§ 24.**
+
+1. W razie śmierci beneficjenta następcy prawnemu beneficjenta może być przyznana pomoc na operację, którą realizował beneficjent, jeżeli:
+
+- **1)** są spełnione warunki określone w art. 25 ust. 2 ustawy;
+- **2)** na następcę prawnego beneficjenta przeszły prawa beneficjenta nabyte w ramach realizacji tej operacji oraz inne jego prawa niezbędne do jej zrealizowania.
+
 2. Wniosek następcy prawnego beneficjenta o przyznanie pomocy, zwany dalej „wnioskiem następcy”, składa się w oddziale regionalnym Agencji właściwym ze względu na miejsce realizacji operacji, w terminie 2 miesięcy od dnia zaistnienia zdarzenia określonego w ust. 1.
+
 3. Do wniosku następcy dołącza się dokument potwierdzający fakt zaistnienia następstwa prawnego.
+
 4. Jeżeli nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku, spadkobierca dołącza do wniosku następcy zaświadczenie sądu o zarejestrowaniu wniosku o stwierdzenie nabycia spadku albo kopię wniosku o stwierdzenie nabycia spadku:
-1) potwierdzoną za zgodność z oryginałem przez sąd albo
-2) potwierdzoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w polskiej placówce pocztowej operatora wyznaczonego albo kopią tego potwierdzenia poświadczoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji.
+
+- **1)** potwierdzoną za zgodność z oryginałem przez sąd albo
+- **2)** potwierdzoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w polskiej placówce pocztowej operatora wyznaczonego albo kopią tego potwierdzenia poświadczoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji.
+
 5. W przypadku, o którym mowa w ust. 4, spadkobierca przekazuje Agencji prawomocne postanowienie sądu o stwierdzeniu nabycia spadku w terminie 14 dni od dnia uprawomocnienia się tego postanowienia.
+
 6. Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca, spadkobierca, który złożył wniosek następcy, dołącza do tego wniosku oświadczenia pozostałych spadkobierców, że wyrażają zgodę na przyznanie pomocy temu spadkobiercy.
-7. W przypadku złożenia wniosku następcy po upływie terminu, o którym mowa w ust. 2, Agencja nie przyznaje pomocy.
-Przepis art. 22 ust. 3 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
+
+7. W przypadku złożenia wniosku następcy po upływie terminu, o którym mowa w ust. 2, Agencja nie przyznaje pomocy. Przepis art. 22 ust. 3 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
+
 8. Wniosek następcy rozpatruje się w terminie 3 miesięcy od dnia jego złożenia.
+
 9. W przypadku nierozpatrzenia wniosku następcy w terminie, o którym mowa w ust. 8, Agencja zawiadamia wnioskodawcę o przyczynach zwłoki, wskazując nowy termin rozpatrzenia wniosku, nie dłuższy niż 2 miesiące.
+
 10. Do wniosku następcy i trybu jego rozpatrywania stosuje się odpowiednio przepisy § 9 ust. 1 pkt 1–3, pkt 6 i 7 oraz ust. 2, 2a i 5, § 10 ust. 2–6 oraz § 12–15.
-§ 25. 1. W razie nabycia przedsiębiorstwa lub jego części, objętych realizacją inwestycji w ramach operacji, pomoc może być przyznana nabywcy, po uprzednim zgłoszeniu Agencji przez beneficjenta zamiaru zbycia przedsiębiorstwa lub jego części, jeżeli są spełnione warunki określone w art. 25 ust. 2 ustawy.
+
+**§ 25.**
+
+1. W razie nabycia przedsiębiorstwa lub jego części, objętych realizacją inwestycji w ramach operacji, pomoc może być przyznana nabywcy, po uprzednim zgłoszeniu Agencji przez beneficjenta zamiaru zbycia przedsiębiorstwa lub jego części, jeżeli są spełnione warunki określone w art. 25 ust. 2 ustawy.
+
 2. Agencja, w związku ze zgłoszeniem, o którym mowa w ust. 1, ustala, czy względy ekonomiczne oraz osiągnięcie i zachowanie celów działania, o którym mowa w § 1, uzasadniają zbycie przedsiębiorstwa lub jego części w celu kontynuacji operacji, oraz informuje beneficjenta o warunkach ubiegania się o przyznanie pomocy przez nabywcę, w tym o okolicznościach faktycznych lub prawnych, wykluczających przyznanie pomocy.
+
 3. Dokonując ustaleń, o których mowa w ust. 2, Agencja może żądać od beneficjenta przedłożenia stosownych dokumentów lub złożenia wyjaśnień.
-§ 26. 1. Wniosek nabywcy o przyznanie pomocy, zwany dalej „wnioskiem nabywcy”, składa się w oddziale regionalnym Agencji właściwym ze względu na miejsce realizacji operacji, w terminie 2 miesięcy od dnia nabycia przedsiębiorstwa lub jego części, o których mowa w § 25 ust. 1.
+
+**§ 26.**
+
+1. Wniosek nabywcy o przyznanie pomocy, zwany dalej „wnioskiem nabywcy”, składa się w oddziale regionalnym Agencji właściwym ze względu na miejsce realizacji operacji, w terminie 2 miesięcy od dnia nabycia przedsiębiorstwa lub jego części, o których mowa w § 25 ust. 1.
+
 2. Do wniosku nabywcy dołącza się dokument potwierdzający nabycie przedsiębiorstwa lub jego części, o których mowa w § 25 ust. 1.
-3. W przypadku złożenia wniosku nabywcy, po upływie terminu, o którym mowa w ust. 1, Agencja nie przyznaje pomocy.
-Przepis art. 22 ust. 3 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
+
+3. W przypadku złożenia wniosku nabywcy, po upływie terminu, o którym mowa w ust. 1, Agencja nie przyznaje pomocy. Przepis art. 22 ust. 3 ustawy, dotyczący odmowy przyznania pomocy, stosuje się odpowiednio.
+
 4. Wniosek nabywcy rozpatruje się w terminie 3 miesięcy od dnia jego złożenia.
+
 5. W przypadku nierozpatrzenia wniosku nabywcy w terminie, o którym mowa w ust. 4, Agencja zawiadamia wnioskodawcę o przyczynach zwłoki, wskazując nowy termin rozpatrzenia wniosku, nie dłuższy niż 2 miesiące.
+
 6. Do wniosku nabywcy i trybu jego rozpatrywania stosuje się odpowiednio przepisy § 9 ust. 1 pkt 1–3, pkt 6 i 7 oraz ust. 2, 2a i 5, § 10 ust. 2–6 oraz § 12–15.
-§ 27. 1. Wysokość pomocy przyznanej następcy prawnemu beneficjenta albo nabywcy przedsiębiorstwa beneficjenta lub części tego przedsiębiorstwa nie może przekraczać kwoty niewypłaconej części pomocy temu beneficjentowi.
+
+**§ 27.**
+
+1. Wysokość pomocy przyznanej następcy prawnemu beneficjenta albo nabywcy przedsiębiorstwa beneficjenta lub części tego przedsiębiorstwa nie może przekraczać kwoty niewypłaconej części pomocy temu beneficjentowi.
+
 2. Umowa zawarta z następcą prawnym beneficjenta albo nabywcą przedsiębiorstwa beneficjenta lub części tego przedsiębiorstwa określa warunki kontynuacji realizowanej operacji.
+
 3. Do umowy, o której mowa w ust. 2, w tym do warunków kontynuacji realizowanej operacji, stosuje się przepisy § 2 i 3 oraz § 17–19.
-§ 28. 1. W przypadkach określonych w § 24 i 25 pomoc przyznaje się następcy prawnemu beneficjenta albo nabywcy przedsiębiorstwa lub jego części do wysokości limitu, o którym mowa w § 4 ust. 5.
+
+**§ 28.**
+
+1. W przypadkach określonych w § 24 i 25 pomoc przyznaje się następcy prawnemu beneficjenta albo nabywcy przedsiębiorstwa lub jego części do wysokości limitu, o którym mowa w § 4 ust. 5.
+
 2. Jeżeli suma kwot pomocy wypłaconej w ramach operacji zrealizowanych przez beneficjenta i jego następcę prawnego albo nabywcę przedsiębiorstwa beneficjenta lub części tego przedsiębiorstwa i kwot pomocy przyznanej w ramach operacji niezakończonych przez beneficjenta i jego następcę prawnego albo nabywcę przedsiębiorstwa beneficjenta lub części tego przedsiębiorstwa przekracza limit, o którym mowa w § 4 ust. 5, następca prawny beneficjenta i nabywca przedsiębiorstwa lub jego części nie zwraca pomocy wypłaconej przed zaistnieniem następstwa prawnego albo nabycia przedsiębiorstwa beneficjenta lub części tego przedsiębiorstwa, jeżeli ten następca albo nabywca realizuje zobowiązania beneficjenta.
-§ 29. W przypadku gdy realizowana operacja jest związana z gospodarstwem rolnym beneficjenta, przepisy § 25–28 stosuje się odpowiednio do nabywcy tego gospodarstwa lub jego części, objętych realizacją inwestycji w ramach operacji.
-§ 30. 1. Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku postępowania w sprawie przyznania pomocy i wypłaty środków finansowych z tytułu pomocy dokonuje się zgodnie z przepisami Kodeksu cywilnego dotyczącymi terminów.
+
+**§ 29.** W przypadku gdy realizowana operacja jest związana z gospodarstwem rolnym beneficjenta, przepisy § 25–28 stosuje się odpowiednio do nabywcy tego gospodarstwa lub jego części, objętych realizacją inwestycji w ramach operacji.
+
+**§ 30.**
+
+1. Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku postępowania w sprawie przyznania pomocy i wypłaty środków finansowych z tytułu pomocy dokonuje się zgodnie z przepisami Kodeksu cywilnego dotyczącymi terminów.
+
 2. Termin wykonania określonych czynności w toku postępowania w sprawie przyznania pomocy i wypłaty środków finansowych z tytułu pomocy uważa się za zachowany, jeżeli przed jego upływem nadano pismo w polskiej placówce pocztowej operatora wyznaczonego albo złożono w polskim urzędzie konsularnym.
-§ 31. 1. Innymi, niż wymienione w przepisach rozporządzenia nr 1974/2006, kategoriami siły wyższej lub wyjątkowymi okolicznościami, w przypadku wystąpienia których nie jest wymagany zwrot całości lub części pomocy, są:
-1) wywłaszczenie części nieruchomości związanej z operacją, jeżeli takiego wywłaszczenia nie można było przewidzieć w dniu zawarcia umowy;
-2) katastrofa naturalna powodująca trwałe uszkodzenie nieruchomości lub obiektów będących przedmiotem operacji;
-3) wypadek lub awaria skutkujące zniszczeniem budynku, budowli lub innego mienia w stopniu uniemożliwiającym ich dalsze używanie zgodnie z założonym celem operacji;
-4) kradzież mienia będącego przedmiotem operacji, z wyłączeniem kradzieży, która nastąpiła na skutek niezachowania należytej staranności przez beneficjenta;
-5) przeniesienie przez beneficjenta, za zgodą Agencji, w okresie 5 lat od dnia przyznania pomocy, własności lub posiadania przedsiębiorstwa lub jego części albo gospodarstwa rolnego lub jego części objętych realizacją inwestycji w ramach operacji lub przeniesienie własności lub posiadania nabytych dóbr objętych operacją, jeżeli przeniesienie to nastąpi na rzecz podmiotu, który spełnia warunki przyznania i wypłaty pomocy i przejmie zobowiązania dotychczasowego beneficjenta;
-6) zmiana, za zgodą Agencji, w okresie 5 lat od dnia przyznania pomocy, przeznaczenia nabytych przez beneficjenta dóbr, wyremontowanych lub wybudowanych budynków lub budowli w całości lub w części, jeżeli nowy sposób ich wykorzystania nie naruszy celów i zakresu działania, o którym mowa w § 1.
+
+**§ 31.**
+
+1. Innymi, niż wymienione w przepisach rozporządzenia nr 1974/2006, kategoriami siły wyższej lub wyjątkowymi okolicznościami, w przypadku wystąpienia których nie jest wymagany zwrot całości lub części pomocy, są:
+
+- **1)** wywłaszczenie części nieruchomości związanej z operacją, jeżeli takiego wywłaszczenia nie można było przewidzieć w dniu zawarcia umowy;
+- **2)** katastrofa naturalna powodująca trwałe uszkodzenie nieruchomości lub obiektów będących przedmiotem operacji;
+- **3)** wypadek lub awaria skutkujące zniszczeniem budynku, budowli lub innego mienia w stopniu uniemożliwiającym ich dalsze używanie zgodnie z założonym celem operacji;
+- **4)** kradzież mienia będącego przedmiotem operacji, z wyłączeniem kradzieży, która nastąpiła na skutek niezachowania należytej staranności przez beneficjenta;
+- **5)** przeniesienie przez beneficjenta, za zgodą Agencji, w okresie 5 lat od dnia przyznania pomocy, własności lub posiadania przedsiębiorstwa lub jego części albo gospodarstwa rolnego lub jego części objętych realizacją inwestycji w ramach operacji lub przeniesienie własności lub posiadania nabytych dóbr objętych operacją, jeżeli przeniesienie to nastąpi na rzecz podmiotu, który spełnia warunki przyznania i wypłaty pomocy i przejmie zobowiązania dotychczasowego beneficjenta;
+- **6)** zmiana, za zgodą Agencji, w okresie 5 lat od dnia przyznania pomocy, przeznaczenia nabytych przez beneficjenta dóbr, wyremontowanych lub wybudowanych budynków lub budowli w całości lub w części, jeżeli nowy sposób ich wykorzystania nie naruszy celów i zakresu działania, o którym mowa w § 1.
+
 2. Sposób postępowania beneficjenta i Agencji w razie wystąpienia okoliczności siły wyższej lub wyjątkowych okoliczności, w przypadku wystąpienia których nie jest wymagany zwrot pomocy, określa umowa.
+
 3. Wyrażając zgodę, o której mowa w ust. 1 pkt 5 i 6, Agencja uwzględnia przepis art. 72 rozporządzenia nr 1698/2005.
-§ 32. Poza okolicznościami siły wyższej i wyjątkowymi okolicznościami, o których mowa w przepisach rozporządzenia nr 1974/2006 oraz w § 31 ust. 1, beneficjent nie jest zobowiązany do zwrotu pomocy w części dotyczącej operacji, która została zrealizowana zgodnie z warunkami, o których mowa w § 19 ust. 1, jeżeli cel operacji został osiągnięty i zachowany.
-§ 32a. Wniosek o przyznanie pomocy złożony w 2008 r. rozpatruje się w terminie 7 miesięcy od dnia złożenia wniosku.
-Przepis § 11 ust. 3 stosuje się odpowiednio.
-§ 32b. W przypadku wniosków o przyznanie pomocy złożonych do dnia 31 grudnia 2009 r. pomoc jest przyznawana również na operacje obejmujące wyłącznie inwestycje związane z prowadzeniem działalności wymienionych w wykazie określonym w załączniku nr 2 do rozporządzenia, jeżeli spełniają warunki określone w § 3.
-§ 33. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
+
+**§ 32.** Poza okolicznościami siły wyższej i wyjątkowymi okolicznościami, o których mowa w przepisach rozporządzenia nr 1974/2006 oraz w § 31 ust. 1, beneficjent nie jest zobowiązany do zwrotu pomocy w części dotyczącej operacji, która została zrealizowana zgodnie z warunkami, o których mowa w § 19 ust. 1, jeżeli cel operacji został osiągnięty i zachowany.
+
+**§ 32a.** Wniosek o przyznanie pomocy złożony w 2008 r. rozpatruje się w terminie 7 miesięcy od dnia złożenia wniosku. Przepis § 11 ust. 3 stosuje się odpowiednio.
+
+**§ 32b.** W przypadku wniosków o przyznanie pomocy złożonych do dnia 31 grudnia 2009 r. pomoc jest przyznawana również na operacje obejmujące wyłącznie inwestycje związane z prowadzeniem działalności wymienionych w wykazie określonym w załączniku nr 2 do rozporządzenia, jeżeli spełniają warunki określone w § 3.
+
+**§ 33.** Rozporządzenie wchodzi w życie z dniem ogłoszenia .
 
 ## Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2007 r.
 

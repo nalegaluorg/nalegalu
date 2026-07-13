@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001451) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1451/text.pdf) |
 
 w sprawie reorganizacji „Poltegor-Instytut” Instytutu Górnictwa Odkrywkowego Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2016 r. poz. 371, 1079 i 1311) zarządza się, co następuje:
-§ 1. Nadzór nad „Poltegor-Instytut” Instytutem Górnictwa Odkrywkowego z siedzibą we Wrocławiu, numer identyfikacyjny REGON 006333984, NIP 896-000-55-32 , sprawuje minister właściwy do spraw gospodarki złożami kopalin.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: B. Szydło
+
+**§ 1.** Nadzór nad „Poltegor-Instytut” Instytutem Górnictwa Odkrywkowego z siedzibą we Wrocławiu, numer identyfikacyjny REGON 006333984, NIP 896-000-55-32 , sprawuje minister właściwy do spraw gospodarki złożami kopalin.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

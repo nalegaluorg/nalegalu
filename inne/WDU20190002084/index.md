@@ -26,13 +26,20 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002084) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2084/text.pdf) |
 
 zmieniające rozporządzenie w sprawie opłat konsularnych Na podstawie art. 118 ustawy z dnia 25 czerwca 2015 r. – Prawo konsularne (Dz. U. z 2018 r. poz. 2141 oraz z 2019 r. poz. 60 i 1687) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Zagranicznych z dnia 18 grudnia 2015 r. w sprawie opłat konsularnych (Dz. U. poz. 2237 oraz z 2019 r. poz. 1909) w załączniku do rozporządzenia wprowadza się następujące zmiany:
-1) poz. 3.01 i 3.02 otrzymują brzmienie:
-3.01 Przyjęcie i rozpatrzenie wniosku o wydanie wizy krajowej 80
-3.02 Przyjęcie i rozpatrzenie wniosku o ponowne rozpatrzenie wniosku o wydanie 80 wizy Schengen lub wizy krajowej
-2) po poz. 5.04 dodaje się poz. 5.05 w brzmieniu:
-5.05 Wydanie i doręczenie uwierzytelnionego odpisu lub kopii dokumentu z akt 30 sprawy
-§ 2. Do czynności w sprawach przyjęcia i rozpatrzenia wniosku o wydanie wizy krajowej oraz przyjęcia i rozpatrzenia wniosku o ponowne rozpatrzenie wniosku o wydanie wizy Schengen lub wizy krajowej, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie z dniem 4 listopada 2019 r., z wyjątkiem § 1 pkt 1, który wchodzi w życie z dniem 2 lutego 2020 r.
-Minister Spraw Zagranicznych: J. Czaputowicz
+
+**§ 1.** W rozporządzeniu Ministra Spraw Zagranicznych z dnia 18 grudnia 2015 r. w sprawie opłat konsularnych (Dz. U. poz. 2237 oraz z 2019 r. poz. 1909) w załączniku do rozporządzenia wprowadza się następujące zmiany:
+
+- **1)** poz. 3.01 i 3.02 otrzymują brzmienie:
+
+3. 01 Przyjęcie i rozpatrzenie wniosku o wydanie wizy krajowej 80
+
+3. 02 Przyjęcie i rozpatrzenie wniosku o ponowne rozpatrzenie wniosku o wydanie 80 wizy Schengen lub wizy krajowej
+
+- **2)** po poz. 5.04 dodaje się poz. 5.05 w brzmieniu:
+
+5. 05 Wydanie i doręczenie uwierzytelnionego odpisu lub kopii dokumentu z akt 30 sprawy
+
+**§ 2.** Do czynności w sprawach przyjęcia i rozpatrzenia wniosku o wydanie wizy krajowej oraz przyjęcia i rozpatrzenia wniosku o ponowne rozpatrzenie wniosku o wydanie wizy Schengen lub wizy krajowej, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 4 listopada 2019 r., z wyjątkiem § 1 pkt 1, który wchodzi w życie z dniem 2 lutego 2020 r. Minister Spraw Zagranicznych: J. Czaputowicz
 

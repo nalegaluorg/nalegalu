@@ -26,12 +26,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001200) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1200/text.pdf) |
 
 w sprawie regulaminu organizacyjno-porządkowego ośrodka adaptacyjnego dla repatriantów Na podstawie art. 20j ustawy z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2018 r. poz. 609) zarządza się, co następuje:
-§ 1. Rozporządzenie określa regulamin organizacyjno-porządkowy ośrodka adaptacyjnego dla repatriantów, obejmujący:
-1) przepisy porządkowe;
-2) sposób organizacji posiłków.
-§ 2. Regulamin organizacyjno-porządkowy ośrodka adaptacyjnego dla repatriantów jest określony w załączniku do rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie z dniem 23 czerwca 2018 r.
-Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski REGULAMIN ORGANIZACYJNO-PORZĄDKOWY OŚRODKA ADAPTACYJNEGO DLA REPATRIANTÓW
+
+**§ 1.** Rozporządzenie określa regulamin organizacyjno-porządkowy ośrodka adaptacyjnego dla repatriantów, obejmujący:
+
+- **1)** przepisy porządkowe;
+- **2)** sposób organizacji posiłków.
+
+**§ 2.** Regulamin organizacyjno-porządkowy ośrodka adaptacyjnego dla repatriantów jest określony w załączniku do rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 23 czerwca 2018 r. Minister Spraw Wewnętrznych i Administracji: wz. K. Kozłowski REGULAMIN ORGANIZACYJNO-PORZĄDKOWY OŚRODKA ADAPTACYJNEGO DLA REPATRIANTÓW
+
+## Załącznik
+
 § 1. Przyjmowanie repatriantów i członków najbliższej rodziny repatrianta, zwanych dalej „uczestnikami pobytu”, do ośrodka adaptacyjnego dla repatriantów, zwanego dalej „ośrodkiem”, odbywa się przez całą dobę.
 § 2. Kierownik ośrodka przed przyjęciem uczestnika pobytu do ośrodka:
 1) sprawdza tożsamość uczestnika pobytu;

@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wykazu zakładów leczniczych, w tym psychiatrycznych, przeznaczonych do wykonywania tymczasowego aresztowania oraz warunków zabezpieczenia tych zakładów Na podstawie art. 260 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2017 r.
 poz. 1904, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 16 czerwca 2015 r. w sprawie wykazu zakładów leczniczych, w tym psychiatrycznych, przeznaczonych do wykonywania tymczasowego aresztowania oraz warunków zabezpieczenia tych zakładów (Dz. U. z 2016 r. poz. 1733 oraz z 2017 r. poz. 1585) w załączniku uchyla się pkt 2, 7, 8, 19, 23, 30, 38, 40, 44, 62, 64, 70, 80, 82, 85, 94, 95, 98, 99, 101, 108, 117 i 119.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 16 czerwca 2015 r. w sprawie wykazu zakładów leczniczych, w tym psychiatrycznych, przeznaczonych do wykonywania tymczasowego aresztowania oraz warunków zabezpieczenia tych zakładów (Dz. U. z 2016 r. poz. 1733 oraz z 2017 r. poz. 1585) w załączniku uchyla się pkt 2, 7, 8, 19, 23, 30, 38, 40, 44, 62, 64, 70, 80, 82, 85, 94, 95, 98, 99, 101, 108, 117 i 119.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

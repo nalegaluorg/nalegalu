@@ -8,12 +8,10 @@ pos: 918
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# sprawie wykazu zakładów leczniczych, tym psychiatrycznych, przeznaczonych do wykonywania tymczasowego aresztowania oraz warunków zabezpieczenia tych zakładów Na podstawie art. 260 § 2 ustawy dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa wykaz zakładów leczniczych, tym psychiatrycznych, przeznaczonych do wykonywania tymczasowego aresztowania stosowanego wobec osób, których stan zdrowia wymaga umieszczenia takim zakładzie, oraz warunki ich zabezpieczenia.
-
-*ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI dnia 16 czerwca 2015 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 918 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 16 czerwca 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,110 +25,153 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-01-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000918) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/918/text.pdf) |
 
-§ 2. 1. Wykaz zakładów leczniczych, tym psychiatrycznych, przeznaczonych do wykonywania tymczasowego aresztowania jest określony załączniku do rozporządzenia.
-2. Tymczasowe aresztowanie może być wykonywane również przez inne zakłady lecznicze, jeżeli wykonują świadczenia gwarantowane zakresu opieki psychiatrycznej warunkach stacjonarnych, zgodnie przepisami wydanymi na podstawie art. 31d ustawy dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2015 r. poz. 581), na podstawie umowy o udzielanie świadczeń opieki zdrowotnej zawartej Narodowym Funduszem Zdrowia, o ile wymaga tego stan zdrowia tymczasowo aresztowanego lub względy organizacyjne.
-§ 3. Zakłady lecznicze, tym psychiatryczne, przeznaczone do wykonywania tymczasowego aresztowania dysponują następującymi warunkami zabezpieczenia:
-1) zapewniają stały nadzór nad tymczasowo aresztowanymi przebywającymi zakładzie;
-2) posiadają drzwi i okna wyposażone urządzenia uniemożliwiające samowolne opuszczenie zakładu;
-na terenie zakładów karnych lub aresztów śledczych.
-§ 5. Rozporządzenie wchodzi życie dniem 1 lipca 2015 r.
-Minister Sprawiedliwości: B. Budka
-4) Aresztu Śledczego Suwałkach;
-5) Zakładu Karnego Czerwonym Borze;
-6) Szpital i Aresztu Śledczego Bydgoszczy;
-7) Aresztu Śledczego Chojnicach;
-8) Aresztu Śledczego Toruniu;
-9) Zakładu Karnego Bydgoszczy-Fordonie;
-10) Zakładu Karnego Nr 1 Grudziądzu;
-11) Zakładu Karnego Nr 2 Grudziądzu;
-12) Zakładu Karnego Koronowie;
-13) Szpital i Zakładu Karnego Potulicach;
-14) Zakładu Karnego we Włocławku;
-15) Szpital i Aresztu Śledczego Gdańsku;
-16) Aresztu Śledczego Elblągu;
-17) Aresztu Śledczego Starogardzie Gdańskim;
-18) Aresztu Śledczego Wejherowie;
-19) Zakładu Karnego Braniewie;
-20) Zakładu Karnego Malborku;
-21) Zakładu Karnego Sztumie;
-22) Aresztu Śledczego Katowicach;
-23) Aresztu Śledczego Bielsku-Białej;
-24) Szpital i Aresztu Śledczego Bytomiu;
-25) Aresztu Śledczego Częstochowie;
-26) Aresztu Śledczego Gliwicach;
-27) Aresztu Śledczego Mysłowicach;
-28) Aresztu Śledczego Sosnowcu;
-29) Aresztu Śledczego Tarnowskich Górach;
-30) Aresztu Śledczego Zabrzu;
-31) Zakładu Karnego Cieszynie;
-32) Zakładu Karnego Herbach;
-33) Zakładu Karnego Lublińcu;
-34) Zakładu Karnego Raciborzu;
-35) Zakładu Karnego Wojkowicach;
-43) Aresztu Śledczego Kielcach;
-44) Aresztu Śledczego Krakowie Podgórzu;
-45) Zakładu Karnego Nowym Sączu;
-46) Zakładu Karnego Nowym Wiśniczu;
-47) Zakładu Karnego Pińczowie;
-48) Zakładu Karnego Tarnowie;
-49) Zakładu Karnego Wadowicach;
-50) Aresztu Śledczego Lublinie;
-51) Aresztu Śledczego Krasnymstawie;
-52) Zakładu Karnego Chełmie;
-53) Zakładu Karnego Hrubieszowie;
-54) Zakładu Karnego Zamościu;
-55) Zakładu Karnego Opolu Lubelskim;
-56) Aresztu Śledczego Łodzi;
-57) Aresztu Śledczego Piotrkowie Trybunalskim;
-58) Szpital i Zakładu Karnego Nr 2 Łodzi;
-59) Zakładu Karnego Płocku;
-60) Zakładu Karnego Sieradzu;
-61) Aresztu Śledczego Olsztynie;
-62) Aresztu Śledczego Bartoszycach;
-63) Aresztu Śledczego Działdowie;
-64) Aresztu Śledczego Ostródzie;
-65) Aresztu Śledczego Szczytnie;
-66) Zakładu Karnego Barczewie;
-67) Zakładu Karnego Iławie;
-68) Zakładu Karnego Kamińsku;
-69) Aresztu Śledczego Opolu;
-70) Aresztu Śledczego Kędzierzynie-Koźlu;
-71) Aresztu Śledczego Prudniku;
-72) Zakładu Karnego Brzegu;
-73) Zakładu Karnego Głubczycach;
-74) Oddziału Zewnętrznego Zakładu Karnego Brzegu;
-83) Aresztu Śledczego Ostrowie Wielkopolskim;
-84) Aresztu Śledczego Szamotułach;
-85) Aresztu Śledczego Śremie;
-86) Aresztu Śledczego Środzie Wielkopolskiej;
-87) Aresztu Śledczego Zielonej Górze;
-88) Zakładu Karnego Gębarzewie;
-89) Zakładu Karnego Kaliszu;
-90) Zakładu Karnego Krzywańcu;
-91) Zakładu Karnego Rawiczu;
-92) Zakładu Karnego we Wronkach;
-93) Zakładu Karnego Rzeszowie;
-94) Aresztu Śledczego Nisku;
-95) Aresztu Śledczego Sanoku;
-96) Zakładu Karnego Przemyślu;
-97) Szpital i Aresztu Śledczego Szczecinie;
-98) Aresztu Śledczego Choszcznie;
-99) Aresztu Śledczego Kamieniu Pomorskim;
-100) Aresztu Śledczego Międzyrzeczu;
-101) Aresztu Śledczego Świnoujściu;
-102) Zakładu Karnego Goleniowie;
-103) Zakładu Karnego Gorzowie Wielkopolskim;
-104) Zakładu Karnego Nowogardzie;
-105) Zakładu Karnego Stargardzie Szczecińskim;
-106) Szpital i Aresztu Śledczego Warszawie-Mokotowie;
-107) Aresztu Śledczego Grójcu;
-108) Aresztu Śledczego Płońsku;
-109) Aresztu Śledczego Radomiu;
-110) Aresztu Śledczego Warszawie-Białołęce;
-111) Aresztu Śledczego Warszawie-Grochowie;
-112) Aresztu Śledczego Warszawie-Służewcu;
-113) Zakładu Karnego Siedlcach;
-114) Zakładu Karnego Nr 1 we Wrocławiu;
-123) Zakładu Karnego Strzelinie;
-124) Zakładu Karnego Wołowie.
+w sprawie wykazu zakładów leczniczych, w tym psychiatrycznych, przeznaczonych do wykonywania tymczasowego aresztowania oraz warunków zabezpieczenia tych zakładów Na podstawie art. 260 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa wykaz zakładów leczniczych, w tym psychiatrycznych, przeznaczonych do wykonywania tymczasowego aresztowania stosowanego wobec osób, których stan zdrowia wymaga umieszczenia w takim zakładzie, oraz warunki ich zabezpieczenia.
+
+**§ 2.**
+
+1. Wykaz zakładów leczniczych, w tym psychiatrycznych, przeznaczonych do wykonywania tymczasowego aresztowania jest określony w załączniku do rozporządzenia.
+
+2. Tymczasowe aresztowanie może być wykonywane również przez inne zakłady lecznicze, jeżeli wykonują świadczenia gwarantowane z zakresu opieki psychiatrycznej w warunkach stacjonarnych, zgodnie z przepisami wydanymi na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581), na podstawie umowy o udzielanie świadczeń opieki zdrowotnej zawartej z Narodowym Funduszem Zdrowia, o ile wymaga tego stan zdrowia tymczasowo aresztowanego lub względy organizacyjne.
+
+**§ 3.** Zakłady lecznicze, w tym psychiatryczne, przeznaczone do wykonywania tymczasowego aresztowania dysponują następującymi warunkami zabezpieczenia:
+
+- **1)** zapewniają stały nadzór nad tymczasowo aresztowanymi przebywającymi w zakładzie;
+- **2)** posiadają drzwi i okna wyposażone w urządzenia uniemożliwiające samowolne opuszczenie zakładu;
+- **3)** są wyposażone w:
+    - **a)** system telewizji wewnętrznej umożliwiający obserwację drzwi wejściowych, okien zewnętrznych, sal dziennego pobytu, izolatek oraz korytarzy,
+    - **b)** elektroniczny system sygnalizujący niekontrolowane otwarcie drzwi i okien;
+
+- **4)** zatrudniają personel w liczbie co najmniej dwukrotnie większej niż liczba łóżek przeznaczonych dla tymczasowo aresztowanych.
+
+**§ 4.** Warunków zabezpieczenia określonych w § 3 pkt 3 i 4 nie stosuje się do zakładów leczniczych znajdujących się na terenie zakładów karnych lub aresztów śledczych.
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2015 r. Minister Sprawiedliwości: B. Budka WYKAZ ZAKŁADÓW LECZNICZYCH PRZEZNACZONYCH DO WYKONYWANIA TYMCZASOWEGO ARESZTOWANIA
+
+- **1)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Białymstoku;
+- **2)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Giżycku;
+- **3)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Hajnówce;
+- **4)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Suwałkach;
+- **5)** Ambulatorium z Izbą Chorych Zakładu Karnego w Czerwonym Borze;
+- **6)** Szpital i Ambulatorium z Izbą Chorych Aresztu Śledczego w Bydgoszczy;
+- **7)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Chojnicach;
+- **8)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Toruniu;
+- **9)** Ambulatorium z Izbą Chorych Zakładu Karnego w Bydgoszczy-Fordonie;
+- **10)** Ambulatorium z Izbą Chorych Zakładu Karnego Nr 1 w Grudziądzu;
+- **11)** Ambulatorium z Izbą Chorych Zakładu Karnego Nr 2 w Grudziądzu;
+- **12)** Ambulatorium z Izbą Chorych Zakładu Karnego w Koronowie;
+- **13)** Szpital i Ambulatorium z Izbą Chorych Zakładu Karnego w Potulicach;
+- **14)** Ambulatorium z Izbą Chorych Zakładu Karnego we Włocławku;
+- **15)** Szpital i Ambulatorium z Izbą Chorych Aresztu Śledczego w Gdańsku;
+- **16)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Elblągu;
+- **17)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Starogardzie Gdańskim;
+- **18)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Wejherowie;
+- **19)** Ambulatorium z Izbą Chorych Zakładu Karnego w Braniewie;
+- **20)** Ambulatorium z Izbą Chorych Zakładu Karnego w Malborku;
+- **21)** Ambulatorium z Izbą Chorych Zakładu Karnego w Sztumie;
+- **22)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Katowicach;
+- **23)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Bielsku-Białej;
+- **24)** Szpital i Ambulatorium z Izbą Chorych Aresztu Śledczego w Bytomiu;
+- **25)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Częstochowie;
+- **26)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Gliwicach;
+- **27)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Mysłowicach;
+- **28)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Sosnowcu;
+- **29)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Tarnowskich Górach;
+- **30)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Zabrzu;
+- **31)** Ambulatorium z Izbą Chorych Zakładu Karnego w Cieszynie;
+- **32)** Ambulatorium z Izbą Chorych Zakładu Karnego w Herbach;
+- **33)** Ambulatorium z Izbą Chorych Zakładu Karnego w Lublińcu;
+- **34)** Ambulatorium z Izbą Chorych Zakładu Karnego w Raciborzu;
+- **35)** Ambulatorium z Izbą Chorych Zakładu Karnego w Wojkowicach;
+- **36)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Koszalinie;
+- **37)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Słupsku;
+- **38)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Złotowie;
+- **39)** Szpital i Ambulatorium Zakładu Karnego w Czarnem;
+- **40)** Ambulatorium z Izbą Chorych Zakładu Karnego w Szczecinku;
+- **41)** Ambulatorium z Izbą Chorych Zakładu Karnego w Wierzchowie;
+- **42)** Szpital i Ambulatorium z Izbą Chorych Aresztu Śledczego w Krakowie;
+- **43)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Kielcach;
+- **44)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Krakowie Podgórzu;
+- **45)** Ambulatorium z Izbą Chorych Zakładu Karnego w Nowym Sączu;
+- **46)** Ambulatorium z Izbą Chorych Zakładu Karnego w Nowym Wiśniczu;
+- **47)** Ambulatorium z Izbą Chorych Zakładu Karnego w Pińczowie;
+- **48)** Ambulatorium z Izbą Chorych Zakładu Karnego w Tarnowie;
+- **49)** Ambulatorium z Izbą Chorych Zakładu Karnego w Wadowicach;
+- **50)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Lublinie;
+- **51)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Krasnymstawie;
+- **52)** Ambulatorium z Izbą Chorych Zakładu Karnego w Chełmie;
+- **53)** Ambulatorium z Izbą Chorych Zakładu Karnego w Hrubieszowie;
+- **54)** Ambulatorium z Izbą Chorych Zakładu Karnego w Zamościu;
+- **55)** Ambulatorium z Izbą Chorych Zakładu Karnego w Opolu Lubelskim;
+- **56)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Łodzi;
+- **57)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Piotrkowie Trybunalskim;
+- **58)** Szpital i Ambulatorium Zakładu Karnego Nr 2 w Łodzi;
+- **59)** Ambulatorium z Izbą Chorych Zakładu Karnego w Płocku;
+- **60)** Ambulatorium z Izbą Chorych Zakładu Karnego w Sieradzu;
+- **61)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Olsztynie;
+- **62)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Bartoszycach;
+- **63)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Działdowie;
+- **64)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Ostródzie;
+- **65)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Szczytnie;
+- **66)** Ambulatorium z Izbą Chorych Zakładu Karnego w Barczewie;
+- **67)** Ambulatorium z Izbą Chorych Zakładu Karnego w Iławie;
+- **68)** Ambulatorium z Izbą Chorych Zakładu Karnego w Kamińsku;
+- **69)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Opolu;
+- **70)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Kędzierzynie-Koźlu;
+- **71)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Prudniku;
+- **72)** Ambulatorium z Izbą Chorych Zakładu Karnego w Brzegu;
+- **73)** Ambulatorium z Izbą Chorych Zakładu Karnego w Głubczycach;
+- **74)** Ambulatorium z Izbą Chorych Oddziału Zewnętrznego Zakładu Karnego w Brzegu;
+- **75)** Ambulatorium z Izbą Chorych Zakładu Karnego w Kluczborku;
+- **76)** Ambulatorium z Izbą Chorych Zakładu Karnego w Nysie;
+- **77)** Ambulatorium z Izbą Chorych Zakładu Karnego Nr 1 w Strzelcach Opolskich;
+- **78)** Ambulatorium z Izbą Chorych Zakładu Karnego Nr 2 w Strzelcach Opolskich;
+- **79)** Szpital i Ambulatorium z Izbą Chorych Aresztu Śledczego w Poznaniu;
+- **80)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Lesznie;
+- **81)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Lubsku;
+- **82)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Nowej Soli;
+- **83)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Ostrowie Wielkopolskim;
+- **84)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Szamotułach;
+- **85)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Śremie;
+- **86)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Środzie Wielkopolskiej;
+- **87)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Zielonej Górze;
+- **88)** Ambulatorium z Izbą Chorych Zakładu Karnego w Gębarzewie;
+- **89)** Ambulatorium z Izbą Chorych Zakładu Karnego w Kaliszu;
+- **90)** Ambulatorium z Izbą Chorych Zakładu Karnego w Krzywańcu;
+- **91)** Ambulatorium z Izbą Chorych Zakładu Karnego w Rawiczu;
+- **92)** Ambulatorium z Izbą Chorych Zakładu Karnego we Wronkach;
+- **93)** Ambulatorium z Izbą Chorych Zakładu Karnego w Rzeszowie;
+- **94)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Nisku;
+- **95)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Sanoku;
+- **96)** Ambulatorium z Izbą Chorych Zakładu Karnego w Przemyślu;
+- **97)** Szpital i Ambulatorium z Izbą Chorych Aresztu Śledczego w Szczecinie;
+- **98)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Choszcznie;
+- **99)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Kamieniu Pomorskim;
+- **100)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Międzyrzeczu;
+- **101)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Świnoujściu;
+- **102)** Ambulatorium z Izbą Chorych Zakładu Karnego w Goleniowie;
+- **103)** Ambulatorium z Izbą Chorych Zakładu Karnego w Gorzowie Wielkopolskim;
+- **104)** Ambulatorium z Izbą Chorych Zakładu Karnego w Nowogardzie;
+- **105)** Ambulatorium z Izbą Chorych Zakładu Karnego w Stargardzie Szczecińskim;
+- **106)** Szpital i Ambulatorium z Izbą Chorych Aresztu Śledczego w Warszawie-Mokotowie;
+- **107)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Grójcu;
+- **108)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Płońsku;
+- **109)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Radomiu;
+- **110)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Warszawie-Białołęce;
+- **111)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Warszawie-Grochowie;
+- **112)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Warszawie-Służewcu;
+- **113)** Ambulatorium z Izbą Chorych Zakładu Karnego w Siedlcach;
+- **114)** Ambulatorium z Izbą Chorych Zakładu Karnego Nr 1 we Wrocławiu;
+- **115)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Dzierżoniowie;
+- **116)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Jeleniej Górze;
+- **117)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Lubaniu;
+- **118)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Świdnicy;
+- **119)** Ambulatorium z Izbą Chorych Aresztu Śledczego w Wałbrzychu;
+- **120)** Szpital i Ambulatorium z Izbą Chorych Aresztu Śledczego we Wrocławiu;
+- **121)** Ambulatorium z Izbą Chorych Zakładu Karnego w Kłodzku;
+- **122)** Ambulatorium z Izbą Chorych Zakładu Karnego w Oleśnicy;
+- **123)** Ambulatorium z Izbą Chorych Zakładu Karnego w Strzelinie;
+- **124)** Ambulatorium z Izbą Chorych Zakładu Karnego w Wołowie.
+
 

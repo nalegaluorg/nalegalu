@@ -8,10 +8,10 @@ pos: 2132
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Rozporządzenie Ministra Sprawiedliwościz dnia 4 grudnia 2015 r. w sprawie minimalnej funkcjonalności oraz warunków organizacyjno-technicznych funkcjonowania systemu teleinformatycznego, w którym Krajowa Rada Notarialna prowadzi listę notariuszy oraz zastępców notarialnych
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2132 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 4 grudnia 2015 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,17 +25,18 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002132) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2132/text.pdf) |
 
-Treść rozporządzenia
-Na podstawie art. 41a § 4 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn. zm.) zarządza się, co następuje:
-§ 1.
-Rozporządzenie określa minimalną funkcjonalność oraz warunki organizacyjno-techniczne funkcjonowania systemu teleinformatycznego, w którym Krajowa Rada Notarialna prowadzi listę notariuszy oraz zastępców notarialnych.
-§ 2.
-1.
-System teleinformatyczny, w którym prowadzona jest lista notariuszy oraz zastępców notarialnych, zwany dalej „systemem”, w ramach minimalnej funkcjonalności umożliwia weryfikację danych wprowadzonych do systemu obsługującego postępowanie wieczystoksięgowe wszczynane na wniosek składany za pośrednictwem tego systemu z danymi osobowymi oraz uprawnieniami notariuszy i zastępców notarialnych do składania wniosków o wpis w księdze wieczystej za pośrednictwem tego systemu.
-2.
-Realizując minimalną funkcjonalność, o której mowa w ust. 1, system umożliwia automatyczne obsłużenie zapytania pochodzącego z systemu teleinformatycznego obsługującego postępowanie wieczystoksięgowe wszczynane na wniosek składany za pośrednictwem tego systemu.
-§ 3.
-System zapewnia odnotowanie każdej zmiany dotyczącej osoby, której dane przechowywane są w systemie.
-§ 4.
-Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r.
+w sprawie minimalnej funkcjonalności oraz warunków organizacyjno-technicznych funkcjonowania systemu teleinformatycznego, w którym Krajowa Rada Notarialna prowadzi listę notariuszy oraz zastępców notarialnych Na podstawie art. 41a § 4 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn.
+zm. ) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa minimalną funkcjonalność oraz warunki organizacyjno-techniczne funkcjonowania systemu teleinformatycznego, w którym Krajowa Rada Notarialna prowadzi listę notariuszy oraz zastępców notarialnych.
+
+**§ 2.**
+
+1. System teleinformatyczny, w którym prowadzona jest lista notariuszy oraz zastępców notarialnych, zwany dalej „systemem”, w ramach minimalnej funkcjonalności umożliwia weryfikację danych wprowadzonych do systemu obsługującego postępowanie wieczystoksięgowe wszczynane na wniosek składany za pośrednictwem tego systemu z danymi osobowymi oraz uprawnieniami notariuszy i zastępców notarialnych do składania wniosków o wpis w księdze wieczystej za pośrednictwem tego systemu.
+
+2. Realizując minimalną funkcjonalność, o której mowa w ust. 1, system umożliwia automatyczne obsłużenie zapytania pochodzącego z systemu teleinformatycznego obsługującego postępowanie wieczystoksięgowe wszczynane na wniosek składany za pośrednictwem tego systemu.
+
+**§ 3.** System zapewnia odnotowanie każdej zmiany dotyczącej osoby, której dane przechowywane są w systemie.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2016 r. Minister Sprawiedliwości: Z. Ziobro
 

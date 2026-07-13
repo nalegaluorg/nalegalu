@@ -30,30 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 20 czerwca 1985 r. - Prawo o ustroju sądów powszechnych (Dz.U. z 1994 r. Nr 7, poz. 25, Nr 77, poz. 355, Nr 91, poz. 421 i Nr 105, poz. 509, z 1995 r. Nr 34, poz. 163 i Nr 81, poz. 406, z 1996 r. Nr 77, poz. 367 oraz z 1997 r. Nr 75, poz. 471, Nr 98, poz. 604, Nr 106, poz. 679, Nr 117, poz. 751-753, Nr 121, poz. 769, Nr 124, poz. 782 i Nr 133, poz. 882) wprowadza się następujące zmiany:
 
 - **1)** w art. 59 w § 3 pkt 1 otrzymuje brzmienie: "1) ukończył 65 rok życia, chyba że Krajowa Rada Sądownictwa, na wniosek sędziego, po zasięgnięciu opinii kolegium właściwego sądu, wyrazi zgodę na dalsze zajmowanie stanowiska, nie dłużej jednak niż do ukończenia 70 roku życia,";
-- **2)** po art. 78 dodaje się art. 78 i 78 w brzmieniu: "Art. 78 . §1. Sędzia w stanie spoczynku obowiązany jest dochować godności urzędu sędziego.
-
-§ 2. Za uchybienie godności urzędu sędziego po przejściu w stan spoczynku oraz godności urzędu sędziego w okresie pełnienia służby sędzia w stanie spoczynku odpowiada dyscyplinarnie.
-
-§ 3. Do odpowiedzialności dyscyplinarnej sędziów w stanie spoczynku stosuje się odpowiednio przepisy o odpowiedzialności dyscyplinarnej sędziów, z tym że zamiast kar przewidzianych dla sędziów sąd dyscyplinarny orzeka kary:
-
-- **1)** upomnienia,
-- **2)** nagany,
-- **3)** zawieszenia waloryzacji uposażenia na okres od 1 roku do 3 lat,
-- **4)** pozbawienia prawa do stanu spoczynku wraz z prawem do uposażenia.
-
-§ 4. Skazanie sędziego w stanie spoczynku prawomocnym wyrokiem sądu na karę dodatkową pozbawienia praw publicznych za przestępstwo popełnione przed przejściem w stan spoczynku lub prawomocne orzeczenie kary wydalenia ze służby za przewinienie popełnione w tym okresie powoduje utratę uprawnień do stanu spoczynku i uposażenia sędziego oraz uposażenia rodzinnego członków jego rodziny.
-
-§ 5. W razie orzeczenia kary wymienionej w § 3 pkt 4 lub w wypadkach przewidzianych w § 4 sędzia pozbawiony prawa do stanu spoczynku i uposażenia albo członek jego rodziny pozbawiony prawa do uposażenia rodzinnego nabywa prawo do emerytury lub renty, jeżeli spełnia warunki określone w przepisach o ubezpieczeniu społecznym.
-
-**Art. 78⁴.**
-
-§ 1. W razie utraty uprawnień do stanu spoczynku wskutek prawomocnego orzeczenia kary, o której mowa w art. 78 § 3 pkt 4, albo w wypadkach przewidzianych w art. 78 § 4, stosuje się odpowiednio przepis art. 78 § 2.
-
-§ 2. Składka na ubezpieczenie społeczne, o której mowa w art. 78 § 2, podlega waloryzacji wskaźnikiem wzrostu płac.
-
-§ 3. Minister Sprawiedliwości, w porozumieniu z Ministrem Pracy i Polityki Socjalnej, w drodze rozporządzenia, określi szczegółowe zasady waloryzacji składek, o których mowa w
-
-§ 2. ".
+- **2)** po art. 78 dodaje się art. 78 i 78 w brzmieniu: "Art. 78 . §1. Sędzia w stanie spoczynku obowiązany jest dochować godności urzędu sędziego. §2. Za uchybienie godności urzędu sędziego po przejściu w stan spoczynku oraz godności urzędu sędziego w okresie pełnienia służby sędzia w stanie spoczynku odpowiada dyscyplinarnie. §3. Do odpowiedzialności dyscyplinarnej sędziów w stanie spoczynku stosuje się odpowiednio przepisy o odpowiedzialności dyscyplinarnej sędziów, z tym że zamiast kar przewidzianych dla sędziów sąd dyscyplinarny orzeka kary: 1) upomnienia, 2) nagany, 3) zawieszenia waloryzacji uposażenia na okres od 1 roku do 3 lat, 4) pozbawienia prawa do stanu spoczynku wraz z prawem do uposażenia. §4. Skazanie sędziego w stanie spoczynku prawomocnym wyrokiem sądu na karę dodatkową pozbawienia praw publicznych za przestępstwo popełnione przed przejściem w stan spoczynku lub prawomocne orzeczenie kary wydalenia ze służby za przewinienie popełnione w tym okresie powoduje utratę uprawnień do stanu spoczynku i uposażenia sędziego oraz uposażenia rodzinnego członków jego rodziny. §5. W razie orzeczenia kary wymienionej w § 3 pkt 4 lub w wypadkach przewidzianych w § 4 sędzia pozbawiony prawa do stanu spoczynku i uposażenia albo członek jego rodziny pozbawiony prawa do uposażenia rodzinnego nabywa prawo do emerytury lub renty, jeżeli spełnia warunki określone w przepisach o ubezpieczeniu społecznym. Art. 78 4 . §1. W razie utraty uprawnień do stanu spoczynku wskutek prawomocnego orzeczenia kary, o której mowa w art. 78 § 3 pkt 4, albo w wypadkach przewidzianych w art. 78 § 4, stosuje się odpowiednio przepis art. 78 § 2. §2. Składka na ubezpieczenie społeczne, o której mowa w art. 78 § 2, podlega waloryzacji wskaźnikiem wzrostu płac. §3. Minister Sprawiedliwości, w porozumieniu z Ministrem Pracy i Polityki Socjalnej, w drodze rozporządzenia, określi szczegółowe zasady waloryzacji składek, o których mowa w § 2.".
 
 **Art. 2.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz.U. z 1994 r. Nr 19, poz. 70 i Nr 105, poz. 509, z 1995 r. Nr 34, poz. 163, z 1996 r. Nr 77, poz. 367 oraz z 1997 r. Nr 90, poz. 557, Nr 98, poz. 604, Nr 106, poz. 679, Nr 117, poz. 752 i 753, Nr 124, poz. 782 i Nr 141, poz. 944) w art. 62a zdanie pierwsze otrzymuje brzmienie: "Do prokuratorów stosuje się odpowiednio przepisy art. 59 § 2-5 i § 7, art. 71 § 2-6, art. 78-78 ustawy z dnia 20 czerwca 1985 r. - Prawo o ustroju sądów powszechnych.".
 

@@ -26,14 +26,16 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001244) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1244/text.pdf) |
 
 zmieniające rozporządzenie w sprawie szczegółowych zasad i trybu przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi Na podstawie art. 10 ust. 8 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2019 r. poz. 2136) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju Regionalnego z dnia 4 maja 2010 r. w sprawie szczegółowych zasad i trybu przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi (Dz. U. z 2021 r. poz. 288 oraz z 2023 r.
-poz. 864) wprowadza się następujące zmiany:
-1) w § 3 w ust. 1:
-a) pkt 2 otrzymuje brzmienie: „2) dyrektora komórki organizacyjnej urzędu obsługującego ministra właściwego do spraw rozwoju regionalnego, do której zakresu działania należy nadzór nad podmiotem, o którym mowa w art. 1 pkt 8 ustawy, zaakceptowany przez nadzorującego członka kierownictwa tego urzędu – w przypadku zatrudnionego w podmiocie, o którym mowa w art. 1 pkt 8 ustawy;”,
-b) pkt 5 otrzymuje brzmienie: „5) dyrektora komórki organizacyjnej urzędu obsługującego ministra właściwego do spraw rozwoju regionalnego, do której zakresu działania należy nadzór nad podmiotem, o którym mowa w art. 1 pkt 12 ustawy, zaakceptowany przez nadzorującego członka kierownictwa tego urzędu – w przypadku zatrudnionego w podmiocie, o którym mowa w art. 1 pkt 12 ustawy.”;
-2) w § 5 w ust. 2 pkt 3 otrzymuje brzmienie: „3) uchwałę rady, o której mowa w § 3 ust. 1 pkt 1, 3 i 4, o wystąpieniu z wnioskiem o przyznanie nagrody rocznej uprawnionemu.”.
-§ 2. Do wniosków o przyznanie nagrody rocznej osobom, o których mowa w art. 2 pkt 1 ustawy z dnia 3 marca 2000 r.
-o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, zatrudnionym w podmiotach prawnych, o których mowa w art. 1 pkt 8 i 12 tej ustawy, złożonych za 2023 r. i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Funduszy i Polityki Regionalnej: K. Pełczyńska-Nałęcz
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju Regionalnego z dnia 4 maja 2010 r. w sprawie szczegółowych zasad i trybu przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi (Dz. U. z 2021 r. poz. 288 oraz z 2023 r. poz. 864) wprowadza się następujące zmiany:
+
+- **1)** w § 3 w ust. 1:
+    - **a)** pkt 2 otrzymuje brzmienie: „2) dyrektora komórki organizacyjnej urzędu obsługującego ministra właściwego do spraw rozwoju regionalnego, do której zakresu działania należy nadzór nad podmiotem, o którym mowa w art. 1 pkt 8 ustawy, zaakceptowany przez nadzorującego członka kierownictwa tego urzędu – w przypadku zatrudnionego w podmiocie, o którym mowa w art. 1 pkt 8 ustawy;”,
+    - **b)** pkt 5 otrzymuje brzmienie: „5) dyrektora komórki organizacyjnej urzędu obsługującego ministra właściwego do spraw rozwoju regionalnego, do której zakresu działania należy nadzór nad podmiotem, o którym mowa w art. 1 pkt 12 ustawy, zaakceptowany przez nadzorującego członka kierownictwa tego urzędu – w przypadku zatrudnionego w podmiocie, o którym mowa w art. 1 pkt 12 ustawy.”;
+
+- **2)** w § 5 w ust. 2 pkt 3 otrzymuje brzmienie: „3) uchwałę rady, o której mowa w § 3 ust. 1 pkt 1, 3 i 4, o wystąpieniu z wnioskiem o przyznanie nagrody rocznej uprawnionemu.”.
+
+**§ 2.** Do wniosków o przyznanie nagrody rocznej osobom, o których mowa w art. 2 pkt 1 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, zatrudnionym w podmiotach prawnych, o których mowa w art. 1 pkt 8 i 12 tej ustawy, złożonych za 2023 r. i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Funduszy i Polityki Regionalnej: K. Pełczyńska-Nałęcz
 

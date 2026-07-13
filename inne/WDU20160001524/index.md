@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001524) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1524/text.pdf) |
 
 zmieniające rozporządzenie w sprawie grup zaszeregowania stanowisk służbowych Służby Kontrwywiadu Wojskowego i stawek uposażenia zasadniczego w oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat Na podstawie art. 76 ust. 1 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy skowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2016 r. poz. 740, 904 i 960) zarządza
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie nowisk służbowych funkcjonariuszy Służby Kontrwywiadu Wojskowego i stawek uposażenia pach oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat (Dz. U. poz. 1270, z 2007 poz. 1449) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Stawki uposażenia zasadniczego w wysokości określonej w załączniku do rozporządzenia, w § 1, w brzmieniu nadanym niniejszym rozporządzeniem stosuje się przy ustalaniu wysokości cjonariuszom Służby Kontrwywiadu Wojskowego od dnia 1 stycznia 2016 r.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony TABELA GRUP ZASZEREGOWANIA STANOWISK SŁUŻBOWYCH FUNKCJONARIUSZY SŁUŻBY KONTRWYWIADU WOJSKOWEGO I STAWEK UPOSAŻENIA W TYCH GRUPACH Grupa zaszeregowania Stawka uposażenia zasadniczego w złotych 01 2 000,00 02 2 045,00 03 2 090,00 04 2 140,00 05 2 195,00 06 2 275,00 07 2 345,00 08 2 410,00 09 2 485,00 10 2 635,00 11 2 730,00 12 2 815,00 13 2 935,00 14 3 105,00 15 3 295,00 16 3 545,00 17 3 865,00 18 4 085,00 19 4 465,00 20 5 035,00 21 5 345,00 22 5 655,00 23 6 025,00 24 6 420,00 25 8 255,00 26 8 755,00
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie nowisk służbowych funkcjonariuszy Służby Kontrwywiadu Wojskowego i stawek uposażenia pach oraz wzrostu uposażenia zasadniczego z tytułu wysługi lat (Dz. U. poz. 1270, z 2007 poz. 1449) załącznik otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Stawki uposażenia zasadniczego w wysokości określonej w załączniku do rozporządzenia, w § 1, w brzmieniu nadanym niniejszym rozporządzeniem stosuje się przy ustalaniu wysokości cjonariuszom Służby Kontrwywiadu Wojskowego od dnia 1 stycznia 2016 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony TABELA GRUP ZASZEREGOWANIA STANOWISK SŁUŻBOWYCH FUNKCJONARIUSZY SŁUŻBY KONTRWYWIADU WOJSKOWEGO I STAWEK UPOSAŻENIA W TYCH GRUPACH Grupa zaszeregowania Stawka uposażenia zasadniczego w złotych 01 2 000,00 02 2 045,00 03 2 090,00 04 2 140,00 05 2 195,00 06 2 275,00 07 2 345,00 08 2 410,00 09 2 485,00 10 2 635,00 11 2 730,00 12 2 815,00 13 2 935,00 14 3 105,00 15 3 295,00 16 3 545,00 17 3 865,00 18 4 085,00 19 4 465,00 20 5 035,00 21 5 345,00 22 5 655,00 23 6 025,00 24 6 420,00 25 8 255,00 26 8 755,00
 

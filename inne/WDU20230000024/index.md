@@ -35,27 +35,6 @@ zmieniającym rozporządzenie w sprawie formularza rocznego sprawozdania z dzia�
 ROZPORZĄDZENIE MINISTRA TRANSPORTU, BUDOWNICTWA I GOSPODARKI MORSKIEJ z dnia 14 sierpnia 2012 r.
 w sprawie formularza rocznego sprawozdania z działalności w zakresie przewozu towarów niebezpiecznych oraz sposobu jego wypełniania Na podstawie art. 41 ust. 3 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2022 r.
 poz. 2147) zarządza się, co następuje:
-§ 1. Wzór formularza rocznego sprawozdania z działalności w zakresie przewozu towarów niebezpiecznych oraz sposób jego wypełniania określa załącznik do rozporządzenia.
-§ 2. (pominięty).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Obecnie działami administracji rządowej – transport oraz żegluga śródlądowa kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 2 i 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).
-Zamieszczony w obwieszczeniu.
-Rozporządzenie zostało ogłoszone w dniu 28 sierpnia 2012 r.
-Niniejsze rozporządzenie było poprzedzone:
-1) rozporządzeniem Ministra Infrastruktury oraz Ministra Spraw Wewnętrznych i Administracji z dnia 7 października 2005 r.
-w sprawie wzoru formularza rocznego sprawozdania z działalności w zakresie przewozu drogowego towarów niebezpiecznych oraz sposobu jego wypełniania (Dz. U. poz. 1733), które na podstawie art. 133 ust. 2 pkt 1 ustawy z dnia 19 sierpnia 2011 r.
-o przewozie towarów niebezpiecznych (Dz. U. poz. 1367 i 1454) utraciło moc z dniem 2 lipca 2012 r.;
-2) rozporządzeniem Ministra Infrastruktury z dnia 1 maja 2004 r. w sprawie wzoru formularza rocznego sprawozdania z działalności w zakresie przewozu towarów niebezpiecznych oraz sposobu jego wypełniania (Dz. U. poz. 1239), które na podstawie art. 133 ust. 2 pkt 2 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych utraciło moc z dniem 2 lipca 2012 r.
-Załącznik do rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 14 sierpnia 2012 r. (Dz. U. z 2022 r. poz. ……) WZÓR WZÓR FORMULARZA FORMULARZA ROCZNEGO ROCZNEGO SPRAWOZDANIA SPRAWOZDANIA Z DZIAŁALNOŚCI Z DZIAŁALNOŚCI W W ZAKRESIE ZAKRESIE PRZEWOZU PRZEWOZU TOWARÓW TOWARÓW NIEBEZPIECZNYCH NIEBEZPIECZNYCH Roczne sprawozdanie z działalności w zakresie przewozu towarów niebezpiecznych za rok: ________
-1. Sprawozdanie dotyczy działalności w zakresie*:  przewozu drogowego (część A)  przewozu koleją (część B)  przewozu żeglugą śródlądową (część C)
-2. Oznaczenie uczestnika przewozu towarów niebezpiecznych: Imię i nazwisko albo nazwa uczestnika przewozu towarów niebezpiecznych**: NIP : Miejsce zamieszkania albo siedziba i adres oraz numer telefonu:
-3. Krótki opis wypadków lub awarii*** z podaniem daty i miejsca zdarzenia oraz z podaniem informacji, czy dany wypadek albo awaria wymagały zgłoszenia do właściwego organu zgodnie z 1.8.5.3 RID/ADR/ADN, a jeżeli tak – wskazanie organu, do którego złożono raport:
-4. Uwagi:
-5. Sprawozdanie sporządził(a): * Zaznacza się tylko jeden zakres przewozu; w zależności od zaznaczonego zakresu przewozu wypełnia się i załącza do sprawozdania odpowiednio część A, B lub C sprawozdania.
-** Należy podać nazwę podmiotu określoną w KRS lub CEIDG.
-*** W przypadku przewozu drogowego fakultatywnie można podać zdarzenia, które nie podlegają zgłoszeniu na podstawie
-1.8.5.1 ADR, jeżeli w opinii doradcy pomoże to w identyfikacji słabych punktów wpływających na bezpieczeństwo przewozu towarów niebezpiecznych. Dopuszczalne jest również wskazanie dodatkowego dokumentu, w którym podane są informacje o wypadkach lub awariach.
-W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury z dnia 2 czerwca 2022 r. zmieniającego W brzmieniu rozporządzenie ustalonym w sprawie przez formularza § 1 rozporządzenia rocznego sprawozdania Ministra Infrastruktury z działalności z dnia w zakresie 2 czerwca przewozu 2022 r. towarów zmieniającego niebezpiecznych rozporządzenie w sprawie oraz sposobu formularza jego wypełniania rocznego sprawozdania (Dz. U. poz. 1227), z działalności które weszło w zakresie w życie z przewozu dniem 24 towarów czerwca 2022 niebezpiecznych r. oraz sposobu jego wypełniania (Dz. U. poz. 1227), które weszło w życie z dniem 24 czerwca 2022 r.
 Podczas wpisywania ilości towarów niebezpiecznych należy obowiązkowo podać zastosowaną jednostkę, z tym że można stosować dziesiętne wielokrotności i podwielokrotności zastosowanych jednostek. W przypadku gdy wartość dotyczącą jednej pozycji formularza (klasa albo UN, sposób przewozu, rodzaj operacji transportowej) stanowią dane częściowe wyrażone w różnych jednostkach miary, dane te wprowadza się do tej samej pozycji formularza, jedne pod drugimi, i podaje się zastosowaną jednostkę.
 Klasa według ADR.
 Należy podać ilość towarów niebezpiecznych wynikającą z czynności wykonywanych przez nadawcę, o którym mowa w 1.4 ADR.
@@ -98,6 +77,27 @@ a) formularz w postaci papierowej wypełnia się w sposób czytelny, pismem odr�
 b) w niewypełnionych rubrykach należy wstawić znak „X”,
 c) podpis doradcy oraz imię i nazwisko oraz podpis uczestnika przewozu towarów niebezpiecznych składa się na pierwszej i ostatniej stronie formularza,
 d) sprawozdanie nie obejmuje towarów niebezpiecznych: ‒ których przewóz odbywał się w całości poza terytorium Rzeczypospolitej Polskiej, ‒ w ilościach mniejszych niż określone w ADN, to jest przewożonych w ilościach wyłączonych lub ograniczonych zgodnie z ADN.
+
+**§ 1.** Wzór formularza rocznego sprawozdania z działalności w zakresie przewozu towarów niebezpiecznych oraz sposób jego wypełniania określa załącznik do rozporządzenia.
+
+**§ 2.** (pominięty).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Obecnie działami administracji rządowej – transport oraz żegluga śródlądowa kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 2 i 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). Zamieszczony w obwieszczeniu. Rozporządzenie zostało ogłoszone w dniu 28 sierpnia 2012 r. Niniejsze rozporządzenie było poprzedzone:
+
+- **1)** rozporządzeniem Ministra Infrastruktury oraz Ministra Spraw Wewnętrznych i Administracji z dnia 7 października 2005 r. w sprawie wzoru formularza rocznego sprawozdania z działalności w zakresie przewozu drogowego towarów niebezpiecznych oraz sposobu jego wypełniania (Dz. U. poz. 1733), które na podstawie art. 133 ust. 2 pkt 1 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. poz. 1367 i 1454) utraciło moc z dniem 2 lipca 2012 r.;
+- **2)** rozporządzeniem Ministra Infrastruktury z dnia 1 maja 2004 r. w sprawie wzoru formularza rocznego sprawozdania z działalności w zakresie przewozu towarów niebezpiecznych oraz sposobu jego wypełniania (Dz. U. poz. 1239), które na podstawie art. 133 ust. 2 pkt 2 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych utraciło moc z dniem 2 lipca 2012 r. Załącznik do rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 14 sierpnia 2012 r. (Dz. U. z 2022 r. poz. ……) WZÓR WZÓR FORMULARZA FORMULARZA ROCZNEGO ROCZNEGO SPRAWOZDANIA SPRAWOZDANIA Z DZIAŁALNOŚCI Z DZIAŁALNOŚCI W W ZAKRESIE ZAKRESIE PRZEWOZU PRZEWOZU TOWARÓW TOWARÓW NIEBEZPIECZNYCH NIEBEZPIECZNYCH Roczne sprawozdanie z działalności w zakresie przewozu towarów niebezpiecznych za rok: ________
+
+1. Sprawozdanie dotyczy działalności w zakresie*:  przewozu drogowego (część A)  przewozu koleją (część B)  przewozu żeglugą śródlądową (część C)
+
+2. Oznaczenie uczestnika przewozu towarów niebezpiecznych: Imię i nazwisko albo nazwa uczestnika przewozu towarów niebezpiecznych**: NIP : Miejsce zamieszkania albo siedziba i adres oraz numer telefonu:
+
+3. Krótki opis wypadków lub awarii*** z podaniem daty i miejsca zdarzenia oraz z podaniem informacji, czy dany wypadek albo awaria wymagały zgłoszenia do właściwego organu zgodnie z 1.8.5.3 RID/ADR/ADN, a jeżeli tak – wskazanie organu, do którego złożono raport:
+
+4. Uwagi:
+
+5. Sprawozdanie sporządził(a): * Zaznacza się tylko jeden zakres przewozu; w zależności od zaznaczonego zakresu przewozu wypełnia się i załącza do sprawozdania odpowiednio część A, B lub C sprawozdania. ** Należy podać nazwę podmiotu określoną w KRS lub CEIDG. *** W przypadku przewozu drogowego fakultatywnie można podać zdarzenia, które nie podlegają zgłoszeniu na podstawie
+
+1. 8.5.1 ADR, jeżeli w opinii doradcy pomoże to w identyfikacji słabych punktów wpływających na bezpieczeństwo przewozu towarów niebezpiecznych. Dopuszczalne jest również wskazanie dodatkowego dokumentu, w którym podane są informacje o wypadkach lub awariach. W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury z dnia 2 czerwca 2022 r. zmieniającego W brzmieniu rozporządzenie ustalonym w sprawie przez formularza § 1 rozporządzenia rocznego sprawozdania Ministra Infrastruktury z działalności z dnia w zakresie 2 czerwca przewozu 2022 r. towarów zmieniającego niebezpiecznych rozporządzenie w sprawie oraz sposobu formularza jego wypełniania rocznego sprawozdania (Dz. U. poz. 1227), z działalności które weszło w zakresie w życie z przewozu dniem 24 towarów czerwca 2022 niebezpiecznych r. oraz sposobu jego wypełniania (Dz. U. poz. 1227), które weszło w życie z dniem 24 czerwca 2022 r.
 
 ## CZĘŚĆ A PRZEWÓZ DROGOWY Ilość towarów niebezpiecznych Rodzaj operacji transportowych Sposób Klasa przewozu w cysternach w sztukach przesyłek luzem w MEMU Ogółem w klasie w tym towarów niebezpiecznych dużego ryzyka Rodzaj operacji transportowych Sposób UN przewozu w cysternach w sztukach przesyłek luzem w MEMU Ogółem dla UN Objaśnienia: Ilość towarów niebezpiecznych podaje się w następujących jednostkach zaokrąglonych do pełnych jedności (w przypadku klasy 1 – z dokładnością do 0,01): ‒ odnośnie do przedmiotów: masa brutto w kilogramach (kg), ‒ odnośnie do przedmiotów klasy 1: całkowita masa netto zawartości materiału wybuchowego w kilogramach (kg), z dokładnością do 0,01 (kg), ‒ odnośnie do towarów niebezpiecznych umieszczonych w maszynach lub w wyposażeniu, określonych w przepisach ADR: całkowita ilość towarów niebezpiecznych w kilogramach (kg) lub w litrach (l), ‒ odnośnie do materiałów stałych, gazów skroplonych, gazów schłodzonych skroplonych oraz gazów rozpuszczonych: masa netto w kilogramach (kg), ‒ odnośnie do materiałów ciekłych i gazów sprężonych: objętość w litrach (l) albo masa brutto w kilogramach (brutto kg), albo masa netto w kilogramach (netto kg), ‒ odnośnie do towarów niebezpiecznych klasy 7: w bekerelach (Bq) jako aktywność zawartości promieniotwórczej lub zamiennie w gramach (g) jako masa materiałów rozszczepialnych.
 

@@ -8,10 +8,10 @@ pos: 717
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# 717 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO dnia 8 kwietnia 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 717 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 8 kwietnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,15 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-02-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000717) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/717/text.pdf) |
 
-sprawie klasyfikacji zawodów szkolnictwa artystycznego Na podstawie art. 46a ust. 1 ustawy dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. 2018 r. poz. 996, 1000, 1290, 1669 2245 oraz 2019 r. poz. 534) zarządza się, co następuje: § 1. Rozporządzenie określa klasyfikację zawodów szkolnictwa artystycznego, która stanowi załącznik do rozporządzenia.
-§ 2. 1. Do dnia 31 sierpnia 2022 r. kształcenie zawodzie plastyk odbywa się również ogólnokształcącej szkole sztuk pięknych oraz klasach ogólnokształcącej szkoły sztuk pięknych prowadzonych liceum sztuk plastycznych.
-2. Do dnia 31 sierpnia 2023 r. kształcenie zawodzie plastyk odbywa się również klasach liceum plastycznego prowadzonych liceum sztuk plastycznych.
-§ 3. Rozporządzenie wchodzi życie dniem 1 września 2019 r.
-Minister Kultury Dziedzictwa Narodowego: P. Gliński M … W W W
+w sprawie klasyfikacji zawodów szkolnictwa artystycznego Na podstawie art. 46a ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000, 1290, 1669 i 2245 oraz 2019 r. poz. 534) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa klasyfikację zawodów szkolnictwa artystycznego, która stanowi załącznik do rozporządzenia.
+
+**§ 2.**
+
+1. Do dnia 31 sierpnia 2022 r. kształcenie w zawodzie plastyk odbywa się również w ogólnokształcącej szkole sztuk pięknych oraz w klasach ogólnokształcącej szkoły sztuk pięknych prowadzonych w liceum sztuk plastycznych.
+
+2. Do dnia 31 sierpnia 2023 r. kształcenie w zawodzie plastyk odbywa się również w klasach liceum plastycznego prowadzonych w liceum sztuk plastycznych.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 września 2019 r. Minister Kultury i Dziedzictwa Narodowego: P. Gliński … M W W W M m
 

@@ -30,45 +30,64 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 11 października 2019 r. zmieniającego rozporządzenie w sprawie szkoleń w zakresie pobierania, przetwarzania, przechowywania, testowania i dystrybucji komórek rozrodczych i zarodków przeznaczonych do zastosowania w procedurze medycznie wspomaganej prokreacji (Dz. U. poz. 2048), które stanowią: „ § 2. Zaświadczenia o odbytym szkoleniu w zakresie pobierania, przetwarzania, przechowywania, testowania i dystrybucji komórek rozrodczych i zarodków przeznaczonych do zastosowania w procedurze medycznie wspomaganej prokreacji osób, których czynności bezpośrednio wpływają na jakość komórek rozrodczych i zarodków oraz bezpieczeństwo dawców i biorczyń, wydane przed dniem wejścia w życie niniejszego rozporządzenia zachowują ważność. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: I. Leszczyna
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 20 października 2015 r.
 w sprawie szkoleń w zakresie pobierania, przetwarzania, przechowywania, testowania i dystrybucji komórek rozrodczych i zarodków przeznaczonych do zastosowania w procedurze medycznie wspomaganej prokreacji Na podstawie art. 65 ustawy z dnia 25 czerwca 2015 r. o leczeniu niepłodności (Dz. U. z 2020 r. poz. 442) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) ramowe programy szkoleń w zakresie pobierania, przetwarzania, przechowywania, testowania i dystrybucji komórek rozrodczych i zarodków przeznaczonych do zastosowania w procedurze medycznie wspomaganej prokreacji osób, których czynności bezpośrednio wpływają na jakość komórek rozrodczych i zarodków oraz bezpieczeństwo dawców i biorczyń, zwanych dalej „szkoleniami”;
-2) sposób dokumentowania przebiegu szkoleń;
-3) wzór zaświadczenia o odbytym szkoleniu, zwany dalej „zaświadczeniem”;
-4) szczegółowe wymagania wobec jednostek, w których odbywają się szkolenia.
-§ 2. Ramowe programy szkoleń określa załącznik nr 1 do rozporządzenia.
-§ 3. 1. Przebieg szkoleń dokumentuje się przez:
-1) protokół z postępowania rekrutacyjnego;
-2) ewidencję uczestników szkoleń;
-3) dziennik zajęć teoretycznych;
-4) dziennik zajęć praktycznych;
-5) narzędzia sprawdzające wyniki nauczania, w szczególności prace pisemne, testy, zestawy pytań;
-6) materiały szkoleniowe przeznaczone dla uczestników;
-7) dokumenty potwierdzające kwalifikacje kadry dydaktycznej;
-8) dokumenty potwierdzające zawarcie umowy na prowadzenie zajęć teoretycznych oraz zajęć praktycznych w wybranych podmiotach zapewniających warunki do ich realizacji.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** ramowe programy szkoleń w zakresie pobierania, przetwarzania, przechowywania, testowania i dystrybucji komórek rozrodczych i zarodków przeznaczonych do zastosowania w procedurze medycznie wspomaganej prokreacji osób, których czynności bezpośrednio wpływają na jakość komórek rozrodczych i zarodków oraz bezpieczeństwo dawców i biorczyń, zwanych dalej „szkoleniami”;
+- **2)** sposób dokumentowania przebiegu szkoleń;
+- **3)** wzór zaświadczenia o odbytym szkoleniu, zwany dalej „zaświadczeniem”;
+- **4)** szczegółowe wymagania wobec jednostek, w których odbywają się szkolenia.
+
+**§ 2.** Ramowe programy szkoleń określa załącznik nr 1 do rozporządzenia.
+
+**§ 3.**
+
+1. Przebieg szkoleń dokumentuje się przez:
+
+- **1)** protokół z postępowania rekrutacyjnego;
+- **2)** ewidencję uczestników szkoleń;
+- **3)** dziennik zajęć teoretycznych;
+- **4)** dziennik zajęć praktycznych;
+- **5)** narzędzia sprawdzające wyniki nauczania, w szczególności prace pisemne, testy, zestawy pytań;
+- **6)** materiały szkoleniowe przeznaczone dla uczestników;
+- **7)** dokumenty potwierdzające kwalifikacje kadry dydaktycznej;
+- **8)** dokumenty potwierdzające zawarcie umowy na prowadzenie zajęć teoretycznych oraz zajęć praktycznych w wybranych podmiotach zapewniających warunki do ich realizacji.
+
 2. Dokumenty, o których mowa w ust. 1 pkt 3 i 4, zawierają:
-1) informacje o terminach zajęć;
-2) ewidencję udziału poszczególnych osób w zajęciach;
-3) informacje o zakresie informacji przekazywanych w trakcie zajęć i umiejętności, które mają być nabyte;
-4) konspekty poszczególnych zajęć;
-5) metodę realizacji zajęć: wykłady, internetowe programy edukacyjne z ograniczonym dostępem lub zajęcia praktyczne, także w ośrodkach medycznie wspomaganej prokreacji oraz bankach komórek rozrodczych i zarodków.
-§ 4. Wzór zaświadczenia określa załącznik nr 2 do rozporządzenia.
-§ 5. Szkolenia w jednostkach, o których mowa w art. 60 ustawy z dnia 25 czerwca 2015 r. o leczeniu niepłodności, zwanej dalej „ustawą”, odbywają się po spełnieniu następujących wymagań:
-1) opracowaniu przez jednostkę, w której odbywają się szkolenia, w formie pisemnej, programów szkoleń, na podstawie ramowych programów szkoleń;
-2) ogłoszeniu przez jednostkę, w której odbywają się szkolenia, do dnia 15 grudnia każdego roku programu tych szkoleń na następny rok;
-3) prowadzenie szkoleń przez osoby posiadające odpowiednią wiedzę i doświadczenie w odniesieniu do zakresu tematycznego prowadzonych przez nie zajęć;
-4) zapewnieniu przez jednostkę, w której odbywają się szkolenia, dostępu do następujących metod szkolenia: wykładów, prezentacji filmów lub internetowych programów edukacyjnych z ograniczonym dostępem oraz zajęć praktycznych, także w ośrodkach medycznie wspomaganej prokreacji oraz bankach komórek rozrodczych i zarodków oraz prowadzeniu w sposób ciągły wewnętrznej oceny jakości szkoleń;
-5) prowadzeniu przez jednostkę, w której odbywają się szkolenia, dokumentacji przebiegu szkoleń.
-§ 6. 1. Jednostki, w których odbywają się szkolenia, spełniają następujące wymagania w zakresie prowadzenia, przechowywania i przetwarzania dokumentacji przebiegu szkoleń:
-1) przechowują dokumentację dotyczącą:
-a) programów szkoleń, o których mowa w art. 61 ust. 2 ustawy,
-b) ewidencji udziału poszczególnych osób w szkoleniach,
-c) zaświadczeń,
-d) wyników odbytych szkoleń;
-2) dokumentację, o której mowa w pkt 1, przechowują przez okres 5 lat od dnia zakończenia szkolenia w sposób zabezpieczający przed jej utratą i dostępem osób nieuprawnionych;
-3) zapewniają, że dokumentacja przesyłana drogą elektroniczną jest oznakowana w sposób umożliwiający jednoznaczną identyfikację nadawcy oraz zabezpieczający przed jej utratą i dostępem osób nieuprawnionych;
-4) do przetwarzania danych osobowych w formie elektronicznej stosują wysoki poziom bezpieczeństwa przetwarzania danych osobowych w systemie informatycznym, o którym mowa w przepisach wydanych na podstawie art. 39a ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723) .
+
+- **1)** informacje o terminach zajęć;
+- **2)** ewidencję udziału poszczególnych osób w zajęciach;
+- **3)** informacje o zakresie informacji przekazywanych w trakcie zajęć i umiejętności, które mają być nabyte;
+- **4)** konspekty poszczególnych zajęć;
+- **5)** metodę realizacji zajęć: wykłady, internetowe programy edukacyjne z ograniczonym dostępem lub zajęcia praktyczne, także w ośrodkach medycznie wspomaganej prokreacji oraz bankach komórek rozrodczych i zarodków.
+
+**§ 4.** Wzór zaświadczenia określa załącznik nr 2 do rozporządzenia.
+
+**§ 5.** Szkolenia w jednostkach, o których mowa w art. 60 ustawy z dnia 25 czerwca 2015 r. o leczeniu niepłodności, zwanej dalej „ustawą”, odbywają się po spełnieniu następujących wymagań:
+
+- **1)** opracowaniu przez jednostkę, w której odbywają się szkolenia, w formie pisemnej, programów szkoleń, na podstawie ramowych programów szkoleń;
+- **2)** ogłoszeniu przez jednostkę, w której odbywają się szkolenia, do dnia 15 grudnia każdego roku programu tych szkoleń na następny rok;
+- **3)** prowadzenie szkoleń przez osoby posiadające odpowiednią wiedzę i doświadczenie w odniesieniu do zakresu tematycznego prowadzonych przez nie zajęć;
+- **4)** zapewnieniu przez jednostkę, w której odbywają się szkolenia, dostępu do następujących metod szkolenia: wykładów, prezentacji filmów lub internetowych programów edukacyjnych z ograniczonym dostępem oraz zajęć praktycznych, także w ośrodkach medycznie wspomaganej prokreacji oraz bankach komórek rozrodczych i zarodków oraz prowadzeniu w sposób ciągły wewnętrznej oceny jakości szkoleń;
+- **5)** prowadzeniu przez jednostkę, w której odbywają się szkolenia, dokumentacji przebiegu szkoleń.
+
+**§ 6.**
+
+1. Jednostki, w których odbywają się szkolenia, spełniają następujące wymagania w zakresie prowadzenia, przechowywania i przetwarzania dokumentacji przebiegu szkoleń:
+
+- **1)** przechowują dokumentację dotyczącą:
+    - **a)** programów szkoleń, o których mowa w art. 61 ust. 2 ustawy,
+    - **b)** ewidencji udziału poszczególnych osób w szkoleniach,
+    - **c)** zaświadczeń,
+    - **d)** wyników odbytych szkoleń;
+
+- **2)** dokumentację, o której mowa w pkt 1, przechowują przez okres 5 lat od dnia zakończenia szkolenia w sposób zabezpieczający przed jej utratą i dostępem osób nieuprawnionych;
+- **3)** zapewniają, że dokumentacja przesyłana drogą elektroniczną jest oznakowana w sposób umożliwiający jednoznaczną identyfikację nadawcy oraz zabezpieczający przed jej utratą i dostępem osób nieuprawnionych;
+- **4)** do przetwarzania danych osobowych w formie elektronicznej stosują wysoki poziom bezpieczeństwa przetwarzania danych osobowych w systemie informatycznym, o którym mowa w przepisach wydanych na podstawie art. 39a ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723) .
+
 2. Dokumentacja, o której mowa w ust. 1 pkt 1, może być prowadzona i przechowywana w postaci elektronicznej.
-§ 7. Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r.
+
+**§ 7.** Rozporządzenie wchodzi w życie z dniem 1 listopada 2015 r.
 
 ## Załączniki do rozporządzenia Ministra Zdrowia z dnia 20 października 2015 r.
 

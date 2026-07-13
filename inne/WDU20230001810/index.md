@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie – Regulamin urzędowania sądów powszechnych Na podstawie art. 41 § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r.
 poz. 217, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 18 czerwca 2019 r. – Regulamin urzędowania sądów powszechnych (Dz. U. z 2022 r. poz. 2514 i 2822 oraz z 2023 r. poz. 1036 i 1078) w § 2 w pkt 5 w lit. v średnik zastępuje się przecinkiem i dodaje się lit. w w brzmieniu: „w) sprawy, o których mowa w art. 516 § 1 i 4, art. 550 § 1 i 3 oraz art. 580 § 1 i 3 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, z późn. zm. );”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 15 września 2023 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 18 czerwca 2019 r. – Regulamin urzędowania sądów powszechnych (Dz. U. z 2022 r. poz. 2514 i 2822 oraz z 2023 r. poz. 1036 i 1078) w § 2 w pkt 5 w lit. v średnik zastępuje się przecinkiem i dodaje się lit. w w brzmieniu: „w) sprawy, o których mowa w art. 516 § 1 i 4, art. 550 § 1 i 3 oraz art. 580 § 1 i 3 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, z późn. zm. );”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 15 września 2023 r. Minister Sprawiedliwości: Z. Ziobro
 

@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przyznawania, przekazywania i rozliczania dotacji celowej na finansowanie lub dofinansowanie kosztów realizacji remontów i inwestycji Na podstawie art. 75b ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. z 2022 r.
 poz. 2082, 2089 i 2666) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji i Nauki z dnia 22 lipca 2022 r. w sprawie przyznawania, przekazywania i rozliczania dotacji celowej na finansowanie lub dofinansowanie kosztów realizacji remontów i inwestycji (Dz. U.
-poz. 1540, 1739 i 2650) w § 19a wyrazy „od dnia 1 kwietnia do dnia 30 kwietnia” zastępuje się wyrazami „od dnia 8 maja do dnia 8 czerwca”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji i Nauki: P. Czarnek
+
+**§ 1.** W rozporządzeniu Ministra Edukacji i Nauki z dnia 22 lipca 2022 r. w sprawie przyznawania, przekazywania i rozliczania dotacji celowej na finansowanie lub dofinansowanie kosztów realizacji remontów i inwestycji (Dz. U. poz. 1540, 1739 i 2650) w § 19a wyrazy „od dnia 1 kwietnia do dnia 30 kwietnia” zastępuje się wyrazami „od dnia 8 maja do dnia 8 czerwca”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Edukacji i Nauki: P. Czarnek
 

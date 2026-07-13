@@ -37,27 +37,15 @@ source: pdf
 **Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 759 po § 1 dodaje się § 1 w brzmieniu: „§ 1 . Doręczenia pomiędzy komornikiem a naczelnikiem urzędu skarbowego w przypadku zbiegu egzekucji sądowej i administracyjnej są dokonywane za pośrednictwem konta w e-Urzędzie Skarbowym. W tym przypadku przepisu § 1 nie stosuje się.”;
-- **2)** po art. 760 dodaje się art. 760 w brzmieniu: „Art. 760 . Organ egzekucyjny, dokonując zajęcia majątku dłużnika albo żądając udzielenia informacji, o których mowa w art. 761 § 1 , jest obowiązany podać numer PESEL, NIP lub REGON dłużnika, którego ta czynność dotyczy, jeżeli numery te zostały dłużnikowi nadane, a w razie konieczności także inne dane niezbędne do identyfikacji jego tożsamości.”;
+- **2)** po art. 760 dodaje się art. 760 w brzmieniu: „Art. 760 . Organ egzekucyjny, dokonując zajęcia majątku dłużnika albo żądając udzielenia informacji, o których mowa w art. 761 § 1 1 , jest obowiązany podać numer PESEL, NIP lub REGON dłużnika, którego ta czynność dotyczy, jeżeli numery te zostały dłużnikowi nadane, a w razie konieczności także inne dane niezbędne do identyfikacji jego tożsamości.”;
 - **3)** w art. 773 § 1 otrzymuje brzmienie: „§ 1. Komornik zawiadamia strony, uczestników postępowania, z wyjątkiem dłużnika zajętej wierzytelności z tytułu nadpłaty lub zwrotu podatku, i administracyjny organ egzekucyjny o zachodzącej podstawie przekazania egzekucji sądowej administracyjnemu organowi egzekucyjnemu.”;
 - **4)** w art. 774 dodaje się § 3 w brzmieniu: „§ 3. Sądowy organ egzekucyjny, który przejął prowadzenie łącznie egzekucji sądowej i administracyjnej, dokonuje podziału sumy uzyskanej z egzekucji objętej zbiegiem dopiero po otrzymaniu od organów biorących udział w zbiegu adnotacji w sprawie zbiegu.”;
 - **5)** w art. 826 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „§ 2. Niezwłocznie po uprawomocnieniu się postanowienia o umorzeniu postępowania egzekucyjnego komornik zawiadamia o uchyleniu dokonanego zajęcia osoby trzecie, na których prawa i obowiązki zajęcie miało wpływ, w szczególności dozorcę zajętej ruchomości, pracodawcę, bank, dłużnika zajętej wierzytelności lub inną osobę, która z zajętego prawa jest obciążona obowiązkiem względem dłużnika. Zdanie pierwsze stosuje się także w razie ukończenia postępowania egzekucyjnego w inny sposób.”;
 - **6)** w art. 902 :
     - **a)** § 1 otrzymuje brzmienie: „§ 1. Zajęcie nadpłaty i zwrotu podatku obejmuje wszelkie wierzytelności z tytułu nadpłaty lub zwrotu podatku istniejące w chwili zajęcia oraz powstałe po zajęciu. Przepisu art. 896 § 2 nie stosuje się.”,
-    - **b)** po § 1 dodaje się § 1 i 1 w brzmieniu: „§ 1 . Zajęcie nadpłaty i zwrotu podatku skierowane do naczelnika urzędu skarbowego nie wywołuje skutku, jeżeli dotyczy dłużnika, który nie jest zaewidencjonowany w Centralnym Rejestrze Podmiotów – Krajowej Ewidencji Podatników.
-
-§ 1. Zajęcie nadpłaty i zwrotu podatku skierowane do naczelnika urzędu skarbowego jest skuteczne wobec pozostałych naczelników urzędów skarbowych.”,
-
-- **c)** § 2–3 otrzymują brzmienie: „§ 2. Dłużnik wierzytelności z tytułu nadpłaty lub zwrotu podatku zawiadamia sądowy organ egzekucyjny o braku swojej właściwości, jeżeli nie jest dłużnikiem wierzytelności. Zdania pierwszego nie stosuje się do naczelnika urzędu skarbowego.
-
-§ 2. Do zbiegu egzekucji do wierzytelności z tytułu zajęcia nadpłaty lub zwrotu podatku dochodzi z chwilą zaistnienia podstaw do zwrotu nadpłaty lub zwrotu podatku. W takim przypadku dłużnik zajętej wierzytelności zawiadamia organy egzekucyjne o zbiegu egzekucji, jednocześnie przekazując właściwemu organowi egzekucyjnemu środki pieniężne. W przypadku zbiegu egzekucji przepisów art. 773 § 6 i 8 nie stosuje się.
-
-§ 2. Przepisów art. 773–773 i art. 774 nie stosuje się, jeżeli dokonane zajęcie dotyczy wierzytelności z tytułu nadpłaty lub zwrotu podatku w wysokości nie wyższej niż 100 zł. Dłużnik wierzytelności przekazuje środki pieniężne organowi egzekucyjnemu, który jako pierwszy dokonał zajęcia, a w razie niemożności ustalenia tego pierwszeństwa – organowi egzekucyjnemu, który dokonał zajęcia na poczet należności w wyższej kwocie.
-
-§ 2. Jeżeli po przekazaniu, o którym mowa w § 2 , pozostały środki pieniężne, dłużnik wierzytelności przekazuje je, aż do całkowitego rozliczenia wierzytelności z tytułu nadpłaty lub zwrotu podatku, organowi egzekucyjnemu, który jako kolejny dokonał zajęcia nadpłaty i zwrotu podatku, a w razie niemożności ustalenia kolejności – organowi, który dokonał zajęcia na poczet należności w wyższej kwocie.
-
-§ 3. Zawiadomienie o zajęciu nadpłaty i zwrotu podatku oraz inne związane z dokonanym zajęciem dokumenty doręcza się dłużnikowi zajętej wierzytelności przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej, w sposób określony w przepisach wydanych na podstawie art. 67 § 2c ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji. Doręczenia pomiędzy komornikiem a naczelnikiem urzędu skarbowego dokonywane są za pośrednictwem konta w e-Urzędzie Skarbowym.”,
-
-- **d)** dodaje się § 4 w brzmieniu: „§ 4. Nadwyżkę środków pieniężnych uzyskanych z tytułu zajęcia nadpłaty lub zwrotu podatku komornik zwraca bezpośrednio dłużnikowi.”.
+    - **b)** po § 1 dodaje się § 1 i 1 w brzmieniu: „§ 1 . Zajęcie nadpłaty i zwrotu podatku skierowane do naczelnika urzędu skarbowego nie wywołuje skutku, jeżeli dotyczy dłużnika, który nie jest zaewidencjonowany w Centralnym Rejestrze Podmiotów – Krajowej Ewidencji Podatników. § 1 2 . Zajęcie nadpłaty i zwrotu podatku skierowane do naczelnika urzędu skarbowego jest skuteczne wobec pozostałych naczelników urzędów skarbowych.”,
+    - **c)** § 2–3 otrzymują brzmienie: „§ 2. Dłużnik wierzytelności z tytułu nadpłaty lub zwrotu podatku zawiadamia sądowy organ egzekucyjny o braku swojej właściwości, jeżeli nie jest dłużnikiem wierzytelności. Zdania pierwszego nie stosuje się do naczelnika urzędu skarbowego. § 2 1 . Do zbiegu egzekucji do wierzytelności z tytułu zajęcia nadpłaty lub zwrotu podatku dochodzi z chwilą zaistnienia podstaw do zwrotu nadpłaty lub zwrotu podatku. W takim przypadku dłużnik zajętej wierzytelności zawiadamia organy egzekucyjne o zbiegu egzekucji, jednocześnie przekazując właściwemu organowi egzekucyjnemu środki pieniężne. W przypadku zbiegu egzekucji przepisów art. 773 § 6 i 8 nie stosuje się. § 2 2 . Przepisów art. 773–773 i art. 774 nie stosuje się, jeżeli dokonane zajęcie dotyczy wierzytelności z tytułu nadpłaty lub zwrotu podatku w wysokości nie wyższej niż 100 zł. Dłużnik wierzytelności przekazuje środki pieniężne organowi egzekucyjnemu, który jako pierwszy dokonał zajęcia, a w razie niemożności ustalenia tego pierwszeństwa – organowi egzekucyjnemu, który dokonał zajęcia na poczet należności w wyższej kwocie. § 2 3 . Jeżeli po przekazaniu, o którym mowa w § 2 2 , pozostały środki pieniężne, dłużnik wierzytelności przekazuje je, aż do całkowitego rozliczenia wierzytelności z tytułu nadpłaty lub zwrotu podatku, organowi egzekucyjnemu, który jako kolejny dokonał zajęcia nadpłaty i zwrotu podatku, a w razie niemożności ustalenia kolejności – organowi, który dokonał zajęcia na poczet należności w wyższej kwocie. § 3. Zawiadomienie o zajęciu nadpłaty i zwrotu podatku oraz inne związane z dokonanym zajęciem dokumenty doręcza się dłużnikowi zajętej wierzytelności przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej, w sposób określony w przepisach wydanych na podstawie art. 67 § 2c ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji. Doręczenia pomiędzy komornikiem a naczelnikiem urzędu skarbowego dokonywane są za pośrednictwem konta w e-Urzędzie Skarbowym.”,
+    - **d)** dodaje się § 4 w brzmieniu: „§ 4. Nadwyżkę środków pieniężnych uzyskanych z tytułu zajęcia nadpłaty lub zwrotu podatku komornik zwraca bezpośrednio dłużnikowi.”.
 
 **Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479) wprowadza się następujące zmiany:
 
@@ -75,19 +63,8 @@ source: pdf
 
 - **7)** w art. 89a:
     - **a)** § 1 otrzymuje brzmienie: „§ 1. Zajęcie nadpłaty i zwrotu podatku obejmuje wszelkie wierzytelności z tytułu nadpłaty lub zwrotu podatku istniejące w chwili zajęcia oraz powstałe po zajęciu. Przepisu art. 89 § 3 pkt 1 nie stosuje się.”,
-    - **b)** po § 1 dodaje się § 1a i 1b w brzmieniu: „§ 1a. Zajęcie nadpłaty i zwrotu podatku skierowane do naczelnika urzędu skarbowego nie wywołuje skutku, jeżeli dotyczy zobowiązanego, który nie jest zaewidencjonowany w Centralnym Rejestrze Podmiotów – Krajowej Ewidencji Podatników.
-
-§ 1b. Zajęcie nadpłaty i zwrotu podatku skierowane do naczelnika urzędu skarbowego jest skuteczne wobec pozostałych naczelników urzędów skarbowych.”,
-
-- **c)** § 2–3 otrzymują brzmienie: „§ 2. Dłużnik zajętej wierzytelności z tytułu nadpłaty lub zwrotu podatku, inny niż naczelnik urzędu skarbowego, zawiadamia organ egzekucyjny o braku swojej właściwości, jeżeli nie jest dłużnikiem wierzytelności.
-
-§ 2a. Do zbiegu egzekucji do wierzytelności z tytułu nadpłaty lub zwrotu podatku dochodzi z chwilą zaistnienia podstaw do zwrotu nadpłaty lub zwrotu podatku. W takim przypadku dłużnik zajętej wierzytelności zawiadamia właściwe organy egzekucyjne o zbiegu egzekucji jednocześnie z przekazaniem środków pieniężnych na pokrycie egzekwowanej należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie, kosztów upomnienia i kosztów egzekucyjnych. W przypadku zbiegu egzekucji przepisu art. 62e nie stosuje się.
-
-§ 2b. Przepisów art. 62–63a i art. 69a § 1 nie stosuje się, w przypadku gdy zajęta przez więcej niż jeden organ egzekucyjny wierzytelność z tytułu nadpłaty lub zwrotu podatku nie przewyższa kwoty 100 zł. Dłużnik zajętej wierzytelności przekazuje środki pieniężne na pokrycie egzekwowanej należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie, kosztów upomnienia i kosztów egzekucyjnych organowi egzekucyjnemu, który jako pierwszy dokonał zajęcia, a w razie niemożności ustalenia tego pierwszeństwa – organowi egzekucyjnemu, który dokonał zajęcia na poczet należności w wyższej kwocie.
-
-§ 2c. Pozostałe po przekazaniu, o którym mowa w § 2b, środki pieniężne dłużnik zajętej wierzytelności przekazuje organowi egzekucyjnemu, który jako kolejny dokonał zajęcia nadpłaty i zwrotu podatku, a w razie niemożności ustalenia kolejności – organowi, który dokonał zajęcia na poczet należności w wyższej kwocie, aż do całkowitego rozliczenia wierzytelności z tytułu nadpłaty lub zwrotu podatku.
-
-§ 3. Zawiadomienie o zajęciu i inne pisma w ramach egzekucji z nadpłaty i zwrotu podatku sporządza się i doręcza przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej w sposób określony w przepisach wydanych na podstawie art. 67 § 2c.”.
+    - **b)** po § 1 dodaje się § 1a i 1b w brzmieniu: „§ 1a. Zajęcie nadpłaty i zwrotu podatku skierowane do naczelnika urzędu skarbowego nie wywołuje skutku, jeżeli dotyczy zobowiązanego, który nie jest zaewidencjonowany w Centralnym Rejestrze Podmiotów – Krajowej Ewidencji Podatników. § 1b. Zajęcie nadpłaty i zwrotu podatku skierowane do naczelnika urzędu skarbowego jest skuteczne wobec pozostałych naczelników urzędów skarbowych.”,
+    - **c)** § 2–3 otrzymują brzmienie: „§ 2. Dłużnik zajętej wierzytelności z tytułu nadpłaty lub zwrotu podatku, inny niż naczelnik urzędu skarbowego, zawiadamia organ egzekucyjny o braku swojej właściwości, jeżeli nie jest dłużnikiem wierzytelności. § 2a. Do zbiegu egzekucji do wierzytelności z tytułu nadpłaty lub zwrotu podatku dochodzi z chwilą zaistnienia podstaw do zwrotu nadpłaty lub zwrotu podatku. W takim przypadku dłużnik zajętej wierzytelności zawiadamia właściwe organy egzekucyjne o zbiegu egzekucji jednocześnie z przekazaniem środków pieniężnych na pokrycie egzekwowanej należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie, kosztów upomnienia i kosztów egzekucyjnych. W przypadku zbiegu egzekucji przepisu art. 62e nie stosuje się. § 2b. Przepisów art. 62–63a i art. 69a § 1 nie stosuje się, w przypadku gdy zajęta przez więcej niż jeden organ egzekucyjny wierzytelność z tytułu nadpłaty lub zwrotu podatku nie przewyższa kwoty 100 zł. Dłużnik zajętej wierzytelności przekazuje środki pieniężne na pokrycie egzekwowanej należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie, kosztów upomnienia i kosztów egzekucyjnych organowi egzekucyjnemu, który jako pierwszy dokonał zajęcia, a w razie niemożności ustalenia tego pierwszeństwa – organowi egzekucyjnemu, który dokonał zajęcia na poczet należności w wyższej kwocie. § 2c. Pozostałe po przekazaniu, o którym mowa w § 2b, środki pieniężne dłużnik zajętej wierzytelności przekazuje organowi egzekucyjnemu, który jako kolejny dokonał zajęcia nadpłaty i zwrotu podatku, a w razie niemożności ustalenia kolejności – organowi, który dokonał zajęcia na poczet należności w wyższej kwocie, aż do całkowitego rozliczenia wierzytelności z tytułu nadpłaty lub zwrotu podatku. § 3. Zawiadomienie o zajęciu i inne pisma w ramach egzekucji z nadpłaty i zwrotu podatku sporządza się i doręcza przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej w sposób określony w przepisach wydanych na podstawie art. 67 § 2c.”.
 
 **Art. 4.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2020 r. poz. 1192 i 2320 oraz z 2021 r. poz. 1177) w art. 41a po § 3 dodaje się § 3a w brzmieniu: „§ 3a. Krajowa Rada Notarialna zapewnia Szefowi Krajowej Administracji Skarbowej dostęp do listy, o której mowa w § 1, za pośrednictwem systemu teleinformatycznego w celu automatycznej weryfikacji notariuszy i zastępców notarialnych.”.
 
@@ -103,13 +80,9 @@ source: pdf
     - **a)** ust. 5 otrzymuje brzmienie: „5. Minister właściwy do spraw informatyzacji po otrzymaniu od Szefa Krajowej Administracji Skarbowej informacji o zaewidencjonowaniu osoby fizycznej objętej rejestrem PESEL w CRP KEP niezwłocznie przekazuje posiadane dane z rejestru PESEL w zakresie określonym w art. 5 ust. 2, dane, o których mowa w art. 8 pkt 12 i 13 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2022 r. poz. 1191), oraz adres zameldowania na pobyt stały lub czasowy.”,
     - **b)** ust. 9 otrzymuje brzmienie: „9. Szef Krajowej Administracji Skarbowej i naczelnik urzędu skarbowego mogą aktualizować w CRP KEP nazwę podmiotu (firmę), adres jego siedziby, adres stałego miejsca wykonywania działalności gospodarczej i adresy dodatkowych stałych miejsc wykonywania działalności gospodarczej na podstawie danych zawartych w Krajowym Rejestrze Sądowym lub Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub otrzymanych odpowiednio z tego rejestru lub tej ewidencji za pośrednictwem systemu teleinformatycznego.”;
 
-- **3)** w art. 15: z 2022 r. poz. 660 i 872).”,
-    - **a)** w ust. 2 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) Przewodniczącemu Komisji Nadzoru Finansowego – w zakresie niezbędnym do realizacji zadań określonych w art. 4 ust. 1 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U.
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Dane zgromadzone w CRP KEP są udostępniane przez:
-
-- **1)** Szefa Krajowej Administracji Skarbowej – w przypadku udostępniania danych komornikom sądowym za pośrednictwem konta w e-Urzędzie Skarbowym;
-- **2)** naczelnika urzędu skarbowego – w przypadku udostępniania danych podatnikowi i organom egzekucyjnym innym niż komornicy sądowi;
-- **3)** Szefa Krajowej Administracji Skarbowej i naczelnika urzędu skarbowego – w przypadku udostępniania danych podmiotom, o których mowa w ust. 2 pkt 1, 1a, 1d, 2, 4, 5 i 7–9.”,
+- **3)** w art. 15:
+    - **a)** w ust. 2 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) Przewodniczącemu Komisji Nadzoru Finansowego – w zakresie niezbędnym do realizacji zadań określonych w art. 4 ust. 1 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2022 r. poz. 660 i 872).”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Dane zgromadzone w CRP KEP są udostępniane przez: 1) Szefa Krajowej Administracji Skarbowej – w przypadku udostępniania danych komornikom sądowym za pośrednictwem konta w e-Urzędzie Skarbowym; 2) naczelnika urzędu skarbowego – w przypadku udostępniania danych podatnikowi i organom egzekucyjnym innym niż komornicy sądowi; 3) Szefa Krajowej Administracji Skarbowej i naczelnika urzędu skarbowego – w przypadku udostępniania danych podmiotom, o których mowa w ust. 2 pkt 1, 1a, 1d, 2, 4, 5 i 7–9.”,
     - **c)** uchyla się ust. 4.
 
 **Art. 7.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, z późn. zm. ) wprowadza się następujące zmiany:
@@ -137,21 +110,13 @@ source: pdf
     - **a)** § 1 otrzymuje brzmienie: „§ 1. Podania wnosi się na piśmie lub ustnie do protokołu. Podania utrwalone w postaci elektronicznej wnosi się na adres do doręczeń elektronicznych lub za pośrednictwem konta w systemie teleinformatycznym organu podatkowego.”,
     - **b)** w § 3a wyrazy „przez portal podatkowy” zastępuje się wyrazami „za pośrednictwem konta w systemie teleinformatycznym organu podatkowego”;
 
-- **15)** w art. 297e w § 1 w pkt 6 na końcu dodaje się przecinek i dodaje się pkt 7 i 8 w brzmieniu: „7) prokuratorowi – w zakresie niezbędnym do realizacji zadań określonych w art. 3 § 1 pkt 1 i 8 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2022 r. poz. 1247 i 1259),
-- **8)** Przewodniczącemu Komisji Nadzoru Finansowego – w zakresie niezbędnym do realizacji zadań określonych w art. 4 ust. 1 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym”;
+- **15)** w art. 297e w § 1 w pkt 6 na końcu dodaje się przecinek i dodaje się pkt 7 i 8 w brzmieniu: „7) prokuratorowi – w zakresie niezbędnym do realizacji zadań określonych w art. 3 § 1 pkt 1 i 8 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2022 r. poz. 1247 i 1259), 8) Przewodniczącemu Komisji Nadzoru Finansowego – w zakresie niezbędnym do realizacji zadań określonych w art. 4 ust. 1 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym”;
 - **16)** w art. 299:
-    - **a)** po § 5 dodaje się § 5a i 5b w brzmieniu: „§ 5a. Wnioski o udostępnienie informacji, o których mowa w § 3 pkt 8 i § 4 pkt 2, będących w posiadaniu organów Krajowej Administracji Skarbowej, komornicy sądowi składają za pośrednictwem konta w e-Urzędzie Skarbowym.
+    - **a)** po § 5 dodaje się § 5a i 5b w brzmieniu: „§ 5a. Wnioski o udostępnienie informacji, o których mowa w § 3 pkt 8 i § 4 pkt 2, będących w posiadaniu organów Krajowej Administracji Skarbowej, komornicy sądowi składają za pośrednictwem konta w e-Urzędzie Skarbowym. § 5b. W przypadku, o którym mowa w § 5a, informacje są udostępniane za pośrednictwem konta w e-Urzędzie Skarbowym niezwłocznie, nie później niż w terminie 14 dni od dnia złożenia wniosku o ich udostępnienie.”,
+    - **b)** po § 6 dodaje się § 6a w brzmieniu: „§ 6a. W przypadku udostępnienia informacji za pośrednictwem konta w e-Urzędzie Skarbowym komornicy sądowi są obowiązani do uiszczenia opłaty na rachunek urzędu skarbowego w terminie do 15. dnia miesiąca następującego po miesiącu, w którym informacja ta została udostępniona, chyba że przepisy odrębne stanowią inaczej lub poziom automatyzacji procesu udostępniania tych informacji uzasadnia nieodpłatne ich udostępnianie.”,
+    - **c)** § 7 otrzymuje brzmienie: „§ 7. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia: 1) rodzaje informacji udostępnianych nieodpłatnie komornikom sądowym za pośrednictwem konta w e-Urzędzie Skarbowym, uwzględniając poziom automatyzacji procesu udostępniania tych informacji; 2) wysokość opłaty uiszczanej za udostępnienie informacji komornikom sądowym, uwzględniając formę udostępnienia informacji i ponoszone przez organy podatkowe koszty związane z ich udostępnieniem; 3) tryb pobierania przez organy podatkowe inne niż organy Krajowej Administracji Skarbowej opłaty uiszczanej za udostępnienie informacji komornikom sądowym oraz sposób uiszczania tej opłaty, uwzględniając organizację czynności związanych z poborem opłaty i formę jej zapłaty.”;
 
-§ 5b. W przypadku, o którym mowa w § 5a, informacje są udostępniane za pośrednictwem konta w e-Urzędzie Skarbowym niezwłocznie, nie później niż w terminie 14 dni od dnia złożenia wniosku o ich udostępnienie.”,
-
-- **b)** po § 6 dodaje się § 6a w brzmieniu: „§ 6a. W przypadku udostępnienia informacji za pośrednictwem konta w e-Urzędzie Skarbowym komornicy sądowi są obowiązani do uiszczenia opłaty na rachunek urzędu skarbowego w terminie do 15. dnia miesiąca następującego po miesiącu, w którym informacja ta została udostępniona, chyba że przepisy odrębne stanowią inaczej lub poziom automatyzacji procesu udostępniania tych informacji uzasadnia nieodpłatne ich udostępnianie.”,
-- **c)** § 7 otrzymuje brzmienie: „§ 7. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
-- **1)** rodzaje informacji udostępnianych nieodpłatnie komornikom sądowym za pośrednictwem konta w e-Urzędzie Skarbowym, uwzględniając poziom automatyzacji procesu udostępniania tych informacji;
-- **2)** wysokość opłaty uiszczanej za udostępnienie informacji komornikom sądowym, uwzględniając formę udostępnienia informacji i ponoszone przez organy podatkowe koszty związane z ich udostępnieniem;
-- **3)** tryb pobierania przez organy podatkowe inne niż organy Krajowej Administracji Skarbowej opłaty uiszczanej za udostępnienie informacji komornikom sądowym oraz sposób uiszczania tej opłaty, uwzględniając organizację czynności związanych z poborem opłaty i formę jej zapłaty.”;
-- **17)** w art. 299e § 1 otrzymuje brzmienie: „§ 1. Dane z akt podatkowych Szef Krajowej Administracji Skarbowej może udostępniać:
-- **1)** organom, o których mowa w art. 297 § 1 i art. 298, również za pośrednictwem systemu teleinformatycznego,
-- **2)** komornikom sądowym w zakresie, o którym mowa w art. 299 § 3 pkt 8 i § 4 pkt 2, za pośrednictwem konta w e-Urzędzie Skarbowym – jeżeli dane te znajdują się w Centralnym Rejestrze Danych Podatkowych.”;
+- **17)** w art. 299e § 1 otrzymuje brzmienie: „§ 1. Dane z akt podatkowych Szef Krajowej Administracji Skarbowej może udostępniać: 1) organom, o których mowa w art. 297 § 1 i art. 298, również za pośrednictwem systemu teleinformatycznego, 2) komornikom sądowym w zakresie, o którym mowa w art. 299 § 3 pkt 8 i § 4 pkt 2, za pośrednictwem konta w e-Urzędzie Skarbowym – jeżeli dane te znajdują się w Centralnym Rejestrze Danych Podatkowych.”;
 - **18)** w art. 306e w § 4 w pkt 1 uchyla się lit. c;
 - **19)** w art. 306i:
     - **a)** § 1 otrzymuje brzmienie: „§ 1. Organ podatkowy na wniosek podatnika wydaje zaświadczenie o wysokości jego dochodu.”,
@@ -165,9 +130,7 @@ source: pdf
 
 - **1)** w art. 16 po § 4 dodaje § 4a w brzmieniu: „§ 4a. Zawiadomienie do finansowego organu postępowania przygotowawczego może być złożone także za pośrednictwem konta w e-Urzędzie Skarbowym.”;
 - **2)** w art. 53 w § 31 po wyrazach „ „urzędowe sprawdzenie” ” dodaje się wyrazy „ „ , składanie za pośrednictwem konta w e-Urzędzie Skarbowym”, „doręczenie na konto w e-Urzędzie Skarbowym” ”;
-- **3)** po art. 114b dodaje się art. 114c w brzmieniu: „Art. 114c. W postępowaniu przygotowawczym prowadzonym przez finansowe organy postępowania przygotowawczego:
-- **1)** wezwania, zawiadomienia oraz inne pisma mogą być doręczane także na konto w e-Urzędzie Skarbowym;
-- **2)** pisma skierowane do tych organów mogą być składane także za pośrednictwem konta w e-Urzędzie Skarbowym.”.
+- **3)** po art. 114b dodaje się art. 114c w brzmieniu: „Art. 114c. W postępowaniu przygotowawczym prowadzonym przez finansowe organy postępowania przygotowawczego: 1) wezwania, zawiadomienia oraz inne pisma mogą być doręczane także na konto w e-Urzędzie Skarbowym; 2) pisma skierowane do tych organów mogą być składane także za pośrednictwem konta w e-Urzędzie Skarbowym.”.
 
 **Art. 10.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, 974 i 1137) w art. 108b w ust. 14 we wprowadzeniu do wyliczenia w zdaniu pierwszym po wyrazach „Naczelnik urzędu skarbowego przekazuje,” dodaje się wyrazy „przy wykorzystaniu systemu teleinformatycznego albo”.
 
@@ -181,251 +144,17 @@ source: pdf
 
 **Art. 15.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r. poz. 813, 835 i 1079) wprowadza się następujące zmiany:
 
-- **1)** po art. 11 dodaje się art. 11a i art. 11b w brzmieniu: „Art. 11a. 1. Organ KAS może upoważnić do wykonywania zadań w jego imieniu:
-- **1)** osoby zatrudnione w jednostkach organizacyjnych KAS lub funkcjonariuszy – w przypadku upoważnień udzielanych przez ministra właściwego do spraw finansów publicznych oraz Szefa Krajowej Administracji Skarbowej;
-- **2)** osoby zatrudnione w jednostkach organizacyjnych KAS obsługujące ten organ lub funkcjonariuszy obsługujących ten organ – w przypadku upoważnień udzielanych przez organy KAS inne niż określone w pkt 1.
-
-2. Upoważnienie obejmuje uprawnienie do udzielania dalszych upoważnień, jeżeli uprawnienie to zostanie wyraźnie zastrzeżone w upoważnieniu.
-
-3. Upoważnienie jest udzielane na piśmie w drodze imiennego upoważnienia, upoważnienia stanowiskowego lub aktu wewnętrznego, chyba że przepis szczególny stanowi inaczej.
-
-4. Osoba upoważniona potwierdza na piśmie przyjęcie upoważnienia.
-
-5. Organ KAS prowadzi rejestr upoważnień, w tym dalszych upoważnień udzielonych na podstawie upoważnienia udzielonego przez ten organ.
-
-6. W przypadku wątpliwości co do udzielenia upoważnienia lub jego zakresu organ KAS może potwierdzić ważność podjętych czynności.
-
-**Art. 11b.**
-
-1. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, upoważniać do wykonywania zadań Szefa Krajowej Administracji Skarbowej inny organ KAS, określając zakres upoważnienia, upoważnione organy KAS oraz terytorialny zakres ich działania, mając na względzie zapewnienie sprawnego i skutecznego wykonywania zadań Szefa Krajowej Administracji Skarbowej.
-
-2. Zadania określone w upoważnieniu, o którym mowa w ust. 1, są wykonywane przez upoważniony organ KAS w imieniu Szefa Krajowej Administracji Skarbowej.
-
-3. Upoważnienie, o którym mowa w ust. 1, pozostaje bez wpływu na określoną na podstawie odrębnych przepisów właściwość Szefa Krajowej Administracji Skarbowej do załatwienia sprawy.
-
-4. Upoważnienie, o którym mowa w ust. 1, uprawnia upoważniony organ KAS do udzielania dalszych upoważnień osobom zatrudnionym w jednostce organizacyjnej KAS i funkcjonariuszom, obsługującym ten organ, przy czym przepisy art. 11a ust. 3–6 stosuje się odpowiednio.”;
-
+- **1)** po art. 11 dodaje się art. 11a i art. 11b w brzmieniu: „Art. 11a. 1. Organ KAS może upoważnić do wykonywania zadań w jego imieniu: 1) osoby zatrudnione w jednostkach organizacyjnych KAS lub funkcjonariuszy – w przypadku upoważnień udzielanych przez ministra właściwego do spraw finansów publicznych oraz Szefa Krajowej Administracji Skarbowej; 2) osoby zatrudnione w jednostkach organizacyjnych KAS obsługujące ten organ lub funkcjonariuszy obsługujących ten organ – w przypadku upoważnień udzielanych przez organy KAS inne niż określone w pkt 1. 2. Upoważnienie obejmuje uprawnienie do udzielania dalszych upoważnień, jeżeli uprawnienie to zostanie wyraźnie zastrzeżone w upoważnieniu. 3. Upoważnienie jest udzielane na piśmie w drodze imiennego upoważnienia, upoważnienia stanowiskowego lub aktu wewnętrznego, chyba że przepis szczególny stanowi inaczej. 4. Osoba upoważniona potwierdza na piśmie przyjęcie upoważnienia. 5. Organ KAS prowadzi rejestr upoważnień, w tym dalszych upoważnień udzielonych na podstawie upoważnienia udzielonego przez ten organ. 6. W przypadku wątpliwości co do udzielenia upoważnienia lub jego zakresu organ KAS może potwierdzić ważność podjętych czynności. Art. 11b. 1. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, upoważniać do wykonywania zadań Szefa Krajowej Administracji Skarbowej inny organ KAS, określając zakres upoważnienia, upoważnione organy KAS oraz terytorialny zakres ich działania, mając na względzie zapewnienie sprawnego i skutecznego wykonywania zadań Szefa Krajowej Administracji Skarbowej. 2. Zadania określone w upoważnieniu, o którym mowa w ust. 1, są wykonywane przez upoważniony organ KAS w imieniu Szefa Krajowej Administracji Skarbowej. 3. Upoważnienie, o którym mowa w ust. 1, pozostaje bez wpływu na określoną na podstawie odrębnych przepisów właściwość Szefa Krajowej Administracji Skarbowej do załatwienia sprawy. 4. Upoważnienie, o którym mowa w ust. 1, uprawnia upoważniony organ KAS do udzielania dalszych upoważnień osobom zatrudnionym w jednostce organizacyjnej KAS i funkcjonariuszom, obsługującym ten organ, przy czym przepisy art. 11a ust. 3–6 stosuje się odpowiednio.”;
 - **2)** w art. 29 w ust. 1 w pkt 3 wyrazy „portalu podatkowego” zastępuje się wyrazami „e-Urzędu Skarbowego”;
 - **3)** w art. 35:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Organy KAS wykonują swoje zadania w szczególności przy wykorzystaniu:
-
-- **1)** Centralnego Rejestru Danych Podatkowych (CRDP);
-- **2)** Platformy Usług Elektronicznych Skarbowo-Celnych (PUESC);
-- **3)** e-Urzędu Skarbowego.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Organy KAS wykonują swoje zadania w szczególności przy wykorzystaniu: 1) Centralnego Rejestru Danych Podatkowych (CRDP); 2) Platformy Usług Elektronicznych Skarbowo-Celnych (PUESC); 3) e-Urzędu Skarbowego.”,
     - **b)** w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Przez CRDP rozumie się system teleinformatyczny służący do:”;
 
-- **4)** po art. 35 dodaje się art. 35a–35e w brzmieniu: „Art. 35a. 1. Przez PUESC rozumie się system teleinformatyczny KAS służący w szczególności do składania i doręczania pism pomiędzy organami KAS a użytkownikiem PUESC w sprawach z zakresu prawa celnego, podatku akcyzowego, podatku od towarów i usług z tytułu importu towarów, podatku od towarów i usług w przypadku wewnątrzwspólnotowego nabycia paliw silnikowych, podatku od wydobycia niektórych kopalin, opłaty paliwowej, opłaty emisyjnej i gier hazardowych.
-
-2. Warunkiem dostępu do konta na PUESC jest uwierzytelnienie się przez użytkownika PUESC.
-
-3. Pisma składane do organów KAS za pośrednictwem konta na PUESC są opatrywane kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo podpisem elektronicznym weryfikowanym przy pomocy certyfikatu celnego albo zapewnia się w inny sposób możliwość potwierdzenia pochodzenia oraz integralności danych w postaci elektronicznej, jeżeli w przepisach wydanych na podstawie art. 3b § 2 lub art. 193a § 3 Ordynacji podatkowej minister właściwy do spraw finansów publicznych umożliwił opatrywanie pism składanych za pośrednictwem PUESC w taki sposób.
-
-4. Złożenie pisma za pośrednictwem konta na PUESC następuje z chwilą otrzymania urzędowego poświadczenia odbioru.
-
-5. Użytkownik PUESC może wyrazić zgodę na doręczanie na konto na PUESC pism wydawanych przez organy KAS w sprawach, o których mowa w ust. 1, podlegających załatwieniu za pośrednictwem PUESC, chyba że obowiązek doręczania pism na to konto wynika z odrębnych przepisów.
-
-6. W przypadku doręczania pisma przez organy KAS na konto na PUESC pismo uznaje się za doręczone z chwilą podpisania urzędowego poświadczenia doręczenia, a w przypadku jego braku – po upływie 14 dni od dnia umieszczenia pisma na koncie na PUESC.
-
-7. W przypadku wystąpienia problemów technicznych uniemożliwiających organowi KAS doręczenie pisma na konto na PUESC, pismo może zostać doręczone na zasadach ogólnych.
-
-8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób uwierzytelniania użytkowników na PUESC, mając na względzie potrzebę upowszechniania elektronicznej formy kontaktów z organami KAS, konieczność zapewnienia bezpieczeństwa, poufności i integralności danych oraz możliwość rozliczania działań podejmowanych na PUESC.
-
-**Art. 35b.**
-
-1. Przez e-Urząd Skarbowy rozumie się system teleinformatyczny KAS służący w szczególności do:
-
-- **1)** załatwiania spraw przez organy KAS;
-- **2)** składania i doręczania:
-    - **a)** pism w sprawach dotyczących wydawania przez organy KAS wiążących informacji stawkowych, interpretacji ogólnych i interpretacji indywidualnych, w tym w zakresie określonym w art. 35a ust. 1,
-    - **b)** innych niż wymienione w lit. a pism pomiędzy organami KAS a osobami fizycznymi i jednostkami organizacyjnymi, z wyjątkiem pism w sprawach, o których mowa w art. 35a ust. 1.
-
-2. W e-Urzędzie Skarbowym są udostępniane konta:
-
-- **1)** osób fizycznych będących użytkownikami tych kont – z urzędu;
-- **2)** jednostek organizacyjnych innych niż określone w pkt 3 – na wniosek tych jednostek wskazujący użytkowników tych kont będących osobami fizycznymi, przy czym czynności podejmowane przez tych użytkowników na kontach jednostek organizacyjnych w e-Urzędzie Skarbowym uznaje się za czynności podejmowane przez te jednostki;
-- **3)** organów władzy publicznej, urzędów obsługujących te organy lub kancelarii – na wniosek lub z urzędu.
-
-3. Konta w e-Urzędzie Skarbowym są dostępne przez okres niezbędny do wykonywania zadań lub obowiązków przez organy KAS, nie krócej jednak niż do dnia:
-
-- **1)** śmierci użytkownika tego konta – w przypadku kont osób fizycznych;
-- **2)** utraty bytu prawnego przez jednostkę organizacyjną – w przypadku kont jednostek organizacyjnych.
-
-4. Warunkiem dostępu do konta w e-Urzędzie Skarbowym jest uwierzytelnienie się przez użytkownika konta w e-Urzędzie Skarbowym.
-
-5. Minister właściwy do spraw finansów publicznych udostępnia wzory dokumentów elektronicznych składanych przez użytkowników konta w e-Urzędzie Skarbowym do organów KAS oraz generowanych automatycznie w e-Urzędzie Skarbowym.
-
-6. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
-
-- **1)** szczegółowy zakres danych przekazywanych we wniosku o udostępnienie konta w e-Urzędzie Skarbowym,
-- **2)** sposób i tryb składania wniosku o udostępnienie konta w e-Urzędzie Skarbowym oraz organ właściwy do rozpatrzenia tego wniosku,
-- **3)** warunki korzystania z e-Urzędu Skarbowego, w tym sposób uwierzytelniania w e-Urzędzie Skarbowym użytkowników konta w e-Urzędzie Skarbowym,
-- **4)** zakres korzystania z e-Urzędu Skarbowego, w tym rodzaje kont, o których mowa w ust. 2 pkt 3, i uprawnienia użytkownika konta w e-Urzędzie Skarbowym,
-- **5)** rodzaje spraw, które są załatwiane w e-Urzędzie Skarbowym – mając na względzie sprawną obsługę wniosków, potrzebę upowszechniania elektronicznej formy kontaktów z organami KAS, zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności przekazywanych danych oraz potrzebę ich ochrony przed nieuprawnionym dostępem.
-
-**Art. 35c.**
-
-1. Szef Krajowej Administracji Skarbowej wydaje pisma generowane automatycznie w e-Urzędzie Skarbowym.
-
-2. Pisma wygenerowane automatycznie w e-Urzędzie Skarbowym są opatrywane kwalifikowaną pieczęcią elektroniczną Szefa Krajowej Administracji Skarbowej.
-
-3. Załatwianie spraw w e-Urzędzie Skarbowym pozostaje bez wpływu na ustaloną w przepisach odrębnych właściwość organów KAS do załatwienia sprawy.
-
-4. Załatwienie sprawy w e-Urzędzie Skarbowym jest równoznaczne z załatwieniem sprawy przez organ KAS właściwy do jej załatwienia.
-
-5. W przypadku awarii e-Urzędu Skarbowego Szef Krajowej Administracji Skarbowej informuje o jej wystąpieniu i usunięciu w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych. Do terminu załatwienia sprawy podlegającej załatwieniu w e-Urzędzie Skarbowym nie wlicza się dni, w których wystąpiła awaria e-Urzędu Skarbowego.
-
-**Art. 35d.**
-
-1. Użytkownik konta w e-Urzędzie Skarbowym jest uprawniony do składania pism w e-Urzędzie Skarbowym w zakresie określonym w art. 35b ust. 1 pkt 2 pod warunkiem wyrażenia zgody na doręczanie pism na konto w e-Urzędzie Skarbowym, chyba że przepisy odrębne stanowią inaczej lub obowiązek doręczania pism na to konto wynika z odrębnych przepisów.
-
-2. Pisma składane do organów KAS za pośrednictwem konta w e-Urzędzie Skarbowym są opatrywane kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub kwalifikowaną pieczęcią elektroniczną, chyba że nie jest wymagane opatrzenie podpisem lub pieczęcią pisma składanego przez uwierzytelnionego użytkownika konta w e-Urzędzie Skarbowym lub przepisy odrębne stanowią inaczej.
-
-3. Pismo złożone za pośrednictwem konta w e-Urzędzie Skarbowym przez uwierzytelnionego użytkownika konta w e-Urzędzie Skarbowym, w przypadku gdy nie jest wymagane opatrzenie podpisem lub pieczęcią pisma składanego przez tego użytkownika, wywołuje skutki prawne jak złożone przez tego użytkownika pismo opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub kwalifikowaną pieczęcią elektroniczną.
-
-4. Złożenie pisma przez użytkownika konta w e-Urzędzie Skarbowym następuje w chwili zarejestrowania w e-Urzędzie Skarbowym pisma wysłanego z tego konta.
-
-5. Urzędowe poświadczenie odbioru jest generowane automatycznie i opatrywane kwalifikowaną pieczęcią elektroniczną Szefa Krajowej Administracji Skarbowej.
-
-6. Urzędowe poświadczenie odbioru zawiera co najmniej wskazanie:
-
-- **1)** nadawcy i odbiorcy pisma;
-- **2)** daty i czasu złożenia pisma w e-Urzędzie Skarbowym.
-
-7. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, rodzaje pism, których złożenie nie wymaga opatrzenia podpisem lub pieczęcią uwierzytelnionego użytkownika konta w e-Urzędzie Skarbowym, mając na względzie charakter pisma lub sposób załatwiania sprawy w e-Urzędzie Skarbowym, w tym automatyzację procesu jej załatwiania, oraz potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności przekazywanych danych.
-
-**Art. 35e.**
-
-1. Użytkownik konta w e-Urzędzie Skarbowym może wyrazić zgodę na doręczanie na to konto pism wydawanych przez organy KAS w zakresie określonym w art. 35b ust. 1 pkt 2.
-
-2. Warunkiem wyrażenia zgody jest podanie przez użytkownika konta w e-Urzędzie Skarbowym aktualnego adresu poczty elektronicznej lub numeru telefonu w celu przekazywania powiadomień o umieszczeniu pisma organu KAS na koncie w e-Urzędzie Skarbowym.
-
-3. Wyrażenie i wycofanie zgody następuje na koncie w e-Urzędzie Skarbowym.
-
-4. Organ KAS doręcza pismo na konto w e-Urzędzie Skarbowym:
-
-- **1)** niezwłocznie po wyrażeniu zgody – w przypadku pism generowanych automatycznie w e-Urzędzie Skarbowym;
-- **2)** od dnia następującego po dniu, w którym użytkownik wyraził zgodę – w przypadku pism innych niż określone w pkt 1.
-
-5. Nie doręcza się pisma na konto w e-Urzędzie Skarbowym, jeżeli doręczenie następuje na konto w innym systemie teleinformatycznym organu KAS.
-
-6. Wycofanie zgody wywołuje skutki prawne z upływem dnia, w którym zgoda została wycofana, i pozostaje bez wpływu na doręczenie pism umieszczonych na koncie w e-Urzędzie Skarbowym do końca tego dnia.
-
-7. Użytkownik konta w e-Urzędzie Skarbowym jest informowany o skutkach prawnych wynikających z wyrażenia albo wycofania takiej zgody.
-
-8. Przepisów o wyrażaniu i wycofaniu zgody nie stosuje się do doręczania pism, których obowiązek doręczania na konto w e-Urzędzie Skarbowym wynika z odrębnych przepisów, przy czym w celu przekazywania powiadomień o umieszczeniu pisma organu KAS na koncie w e-Urzędzie Skarbowym użytkownik podaje na tym koncie aktualny adres poczty elektronicznej lub numer telefonu.
-
-9. W przypadku wystąpienia problemów technicznych uniemożliwiających organowi KAS doręczenie pisma na konto w e-Urzędzie Skarbowym, pismo może zostać doręczone na zasadach ogólnych.
-
-10. Doręczenie pisma na konto w e-Urzędzie Skarbowym następuje:
-
-- **1)** w chwili odebrania pisma przez użytkownika konta w e-Urzędzie Skarbowym – w przypadku gdy odebranie pisma nastąpiło w okresie od umieszczenia pisma na tym koncie do końca 14 dnia, licząc od dnia następującego po umieszczeniu tego pisma na koncie w e-Urzędzie Skarbowym, albo
-- **2)** z upływem ostatniego dnia okresu, o którym mowa w pkt 1 – w przypadku nieodebrania przez użytkownika konta w e-Urzędzie Skarbowym pisma w tym okresie.
-
-11. Urzędowe poświadczenie doręczenia jest generowane automatycznie i opatrywane kwalifikowaną pieczęcią elektroniczną Szefa Krajowej Administracji Skarbowej.
-
-12. Urzędowe poświadczenie doręczenia zawiera co najmniej wskazanie:
-
-- **1)** nadawcy i odbiorcy pisma;
-- **2)** daty i czasu umieszczenia pisma na koncie w e-Urzędzie Skarbowym i doręczenia pisma na to konto.
-
-13. Przez umieszczenie pisma na koncie w e-Urzędzie Skarbowym rozumie się zaistnienie warunków technicznych umożliwiających odebranie przez użytkownika konta w e-Urzędzie Skarbowym pisma organu KAS doręczanego na to konto.”;
-
-- **5)** po art. 49a dodaje się art. 49aa–49ac w brzmieniu: „Art. 49aa. 1. Jeżeli naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego w związku z prowadzonymi czynnościami analitycznymi posiada uprawdopodobnione informacje o możliwości naruszenia przepisów prawa, których przestrzeganie podlega kontroli celno-skarbowej, może żądać przekazania przez agenta rozliczeniowego w rozumieniu art. 2 pkt 1a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2021 r. poz. 1907, 1814 i 2140), zwanego dalej „agentem rozliczeniowym”, informacji o transakcjach płatniczych akceptanta w rozumieniu art. 2 pkt 1b tej ustawy, zwanego dalej „akceptantem”, wykonywanych przy użyciu terminala płatniczego, wskazując akceptanta i okres, którego ma dotyczyć ta informacja.
-
-2. Informacja, o której mowa w ust. 1, zawiera:
-
-- **1)** oznaczenie żądania oraz organu KAS występującego z żądaniem;
-- **2)** NIP agenta rozliczeniowego, jego numer identyfikacyjny REGON oraz numer w Krajowym Rejestrze Sądowym;
-- **3)** wskazanie okresu, którego dotyczy;
-- **4)** numer identyfikacyjny akceptanta nadany przez agenta rozliczeniowego;
-- **5)** dane adresowe miejsca wykonywania transakcji płatniczych przy użyciu terminala płatniczego zawierające kod kraju, kod pocztowy, miejscowość, ulicę, numer domu i lokalu;
-- **6)** numer identyfikacyjny terminala płatniczego;
-- **7)** numer rachunku akceptanta powiązanego z terminalem płatniczym;
-- **8)** rodzaje transakcji płatniczych;
-- **9)** wartości i kody walut transakcji płatniczych;
-- **10)** daty i godziny autoryzacji transakcji płatniczych.
-
-3. Agent rozliczeniowy przekazuje informację, o której mowa w ust. 1, w terminie 7 dni od dnia otrzymania żądania.
-
-4. Informacja, o której mowa w ust. 1, jest przekazywana w postaci elektronicznej odpowiadającej strukturze logicznej udostępnionej przez ministra właściwego do spraw finansów publicznych w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu. Informację, o której mowa w ust. 1, opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
-
-5. Złożenie informacji, o której mowa w ust. 1, jest potwierdzane elektronicznie.
-
-6. Przepisy działu IV rozdziału 3a Ordynacji podatkowej stosuje się odpowiednio.
-
-**Art. 49ab.**
-
-1. Dane zawarte w informacjach, o których mowa w art. 49aa ust. 1, są przechowywane przez agentów rozliczeniowych, naczelników urzędów skarbowych i naczelników urzędów celno-skarbowych przez 5 lat, licząc od pierwszego dnia roku następującego po roku, w którym dane zostały przekazane do naczelnika urzędu skarbowego lub naczelnika urzędu celno-skarbowego.
-
-2. Jeżeli w okresie, o którym mowa w ust. 1, nie upłynął termin przedawnienia zobowiązania podatkowego, zwrotu nadpłaty lub zwrotu podatku, w związku z którym przechowywane dane mogłyby stanowić dowód w postępowaniu, dane te mogą być przechowywane przez naczelnika urzędu skarbowego lub naczelnika urzędu celno-skarbowego po upływie okresu, o którym mowa w ust. 1, jednak nie dłużej niż do upływu terminu przedawnienia.
-
-**Art. 49ac.** Dane zawarte w informacjach, o których mowa w art. 49aa ust. 1, są udostępniane wyłącznie:
-
-- **1)** organom KAS – w celu realizacji ich ustawowych zadań;
-- **2)** innym niż określone w pkt 1 organom wymienionym w art. 297 Ordynacji podatkowej – na zasadach określonych w tych przepisach.”;
+- **4)** po art. 35 dodaje się art. 35a–35e w brzmieniu: „Art. 35a. 1. Przez PUESC rozumie się system teleinformatyczny KAS służący w szczególności do składania i doręczania pism pomiędzy organami KAS a użytkownikiem PUESC w sprawach z zakresu prawa celnego, podatku akcyzowego, podatku od towarów i usług z tytułu importu towarów, podatku od towarów i usług w przypadku wewnątrzwspólnotowego nabycia paliw silnikowych, podatku od wydobycia niektórych kopalin, opłaty paliwowej, opłaty emisyjnej i gier hazardowych. 2. Warunkiem dostępu do konta na PUESC jest uwierzytelnienie się przez użytkownika PUESC. 3. Pisma składane do organów KAS za pośrednictwem konta na PUESC są opatrywane kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo podpisem elektronicznym weryfikowanym przy pomocy certyfikatu celnego albo zapewnia się w inny sposób możliwość potwierdzenia pochodzenia oraz integralności danych w postaci elektronicznej, jeżeli w przepisach wydanych na podstawie art. 3b § 2 lub art. 193a § 3 Ordynacji podatkowej minister właściwy do spraw finansów publicznych umożliwił opatrywanie pism składanych za pośrednictwem PUESC w taki sposób. 4. Złożenie pisma za pośrednictwem konta na PUESC następuje z chwilą otrzymania urzędowego poświadczenia odbioru. 5. Użytkownik PUESC może wyrazić zgodę na doręczanie na konto na PUESC pism wydawanych przez organy KAS w sprawach, o których mowa w ust. 1, podlegających załatwieniu za pośrednictwem PUESC, chyba że obowiązek doręczania pism na to konto wynika z odrębnych przepisów. 6. W przypadku doręczania pisma przez organy KAS na konto na PUESC pismo uznaje się za doręczone z chwilą podpisania urzędowego poświadczenia doręczenia, a w przypadku jego braku – po upływie 14 dni od dnia umieszczenia pisma na koncie na PUESC. 7. W przypadku wystąpienia problemów technicznych uniemożliwiających organowi KAS doręczenie pisma na konto na PUESC, pismo może zostać doręczone na zasadach ogólnych. 8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób uwierzytelniania użytkowników na PUESC, mając na względzie potrzebę upowszechniania elektronicznej formy kontaktów z organami KAS, konieczność zapewnienia bezpieczeństwa, poufności i integralności danych oraz możliwość rozliczania działań podejmowanych na PUESC. Art. 35b. 1. Przez e-Urząd Skarbowy rozumie się system teleinformatyczny KAS służący w szczególności do: 1) załatwiania spraw przez organy KAS; 2) składania i doręczania: a) pism w sprawach dotyczących wydawania przez organy KAS wiążących informacji stawkowych, interpretacji ogólnych i interpretacji indywidualnych, w tym w zakresie określonym w art. 35a ust. 1, b) innych niż wymienione w lit. a pism pomiędzy organami KAS a osobami fizycznymi i jednostkami organizacyjnymi, z wyjątkiem pism w sprawach, o których mowa w art. 35a ust. 1. 2. W e-Urzędzie Skarbowym są udostępniane konta: 1) osób fizycznych będących użytkownikami tych kont – z urzędu; 2) jednostek organizacyjnych innych niż określone w pkt 3 – na wniosek tych jednostek wskazujący użytkowników tych kont będących osobami fizycznymi, przy czym czynności podejmowane przez tych użytkowników na kontach jednostek organizacyjnych w e-Urzędzie Skarbowym uznaje się za czynności podejmowane przez te jednostki; 3) organów władzy publicznej, urzędów obsługujących te organy lub kancelarii – na wniosek lub z urzędu. 3. Konta w e-Urzędzie Skarbowym są dostępne przez okres niezbędny do wykonywania zadań lub obowiązków przez organy KAS, nie krócej jednak niż do dnia: 1) śmierci użytkownika tego konta – w przypadku kont osób fizycznych; 2) utraty bytu prawnego przez jednostkę organizacyjną – w przypadku kont jednostek organizacyjnych. 4. Warunkiem dostępu do konta w e-Urzędzie Skarbowym jest uwierzytelnienie się przez użytkownika konta w e-Urzędzie Skarbowym. 5. Minister właściwy do spraw finansów publicznych udostępnia wzory dokumentów elektronicznych składanych przez użytkowników konta w e-Urzędzie Skarbowym do organów KAS oraz generowanych automatycznie w e-Urzędzie Skarbowym. 6. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia: 1) szczegółowy zakres danych przekazywanych we wniosku o udostępnienie konta w e-Urzędzie Skarbowym, 2) sposób i tryb składania wniosku o udostępnienie konta w e-Urzędzie Skarbowym oraz organ właściwy do rozpatrzenia tego wniosku, 3) warunki korzystania z e-Urzędu Skarbowego, w tym sposób uwierzytelniania w e-Urzędzie Skarbowym użytkowników konta w e-Urzędzie Skarbowym, 4) zakres korzystania z e-Urzędu Skarbowego, w tym rodzaje kont, o których mowa w ust. 2 pkt 3, i uprawnienia użytkownika konta w e-Urzędzie Skarbowym, 5) rodzaje spraw, które są załatwiane w e-Urzędzie Skarbowym – mając na względzie sprawną obsługę wniosków, potrzebę upowszechniania elektronicznej formy kontaktów z organami KAS, zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności przekazywanych danych oraz potrzebę ich ochrony przed nieuprawnionym dostępem. Art. 35c. 1. Szef Krajowej Administracji Skarbowej wydaje pisma generowane automatycznie w e-Urzędzie Skarbowym. 2. Pisma wygenerowane automatycznie w e-Urzędzie Skarbowym są opatrywane kwalifikowaną pieczęcią elektroniczną Szefa Krajowej Administracji Skarbowej. 3. Załatwianie spraw w e-Urzędzie Skarbowym pozostaje bez wpływu na ustaloną w przepisach odrębnych właściwość organów KAS do załatwienia sprawy. 4. Załatwienie sprawy w e-Urzędzie Skarbowym jest równoznaczne z załatwieniem sprawy przez organ KAS właściwy do jej załatwienia. 5. W przypadku awarii e-Urzędu Skarbowego Szef Krajowej Administracji Skarbowej informuje o jej wystąpieniu i usunięciu w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych. Do terminu załatwienia sprawy podlegającej załatwieniu w e-Urzędzie Skarbowym nie wlicza się dni, w których wystąpiła awaria e-Urzędu Skarbowego. Art. 35d. 1. Użytkownik konta w e-Urzędzie Skarbowym jest uprawniony do składania pism w e-Urzędzie Skarbowym w zakresie określonym w art. 35b ust. 1 pkt 2 pod warunkiem wyrażenia zgody na doręczanie pism na konto w e-Urzędzie Skarbowym, chyba że przepisy odrębne stanowią inaczej lub obowiązek doręczania pism na to konto wynika z odrębnych przepisów. 2. Pisma składane do organów KAS za pośrednictwem konta w e-Urzędzie Skarbowym są opatrywane kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub kwalifikowaną pieczęcią elektroniczną, chyba że nie jest wymagane opatrzenie podpisem lub pieczęcią pisma składanego przez uwierzytelnionego użytkownika konta w e-Urzędzie Skarbowym lub przepisy odrębne stanowią inaczej. 3. Pismo złożone za pośrednictwem konta w e-Urzędzie Skarbowym przez uwierzytelnionego użytkownika konta w e-Urzędzie Skarbowym, w przypadku gdy nie jest wymagane opatrzenie podpisem lub pieczęcią pisma składanego przez tego użytkownika, wywołuje skutki prawne jak złożone przez tego użytkownika pismo opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub kwalifikowaną pieczęcią elektroniczną. 4. Złożenie pisma przez użytkownika konta w e-Urzędzie Skarbowym następuje w chwili zarejestrowania w e-Urzędzie Skarbowym pisma wysłanego z tego konta. 5. Urzędowe poświadczenie odbioru jest generowane automatycznie i opatrywane kwalifikowaną pieczęcią elektroniczną Szefa Krajowej Administracji Skarbowej. 6. Urzędowe poświadczenie odbioru zawiera co najmniej wskazanie: 1) nadawcy i odbiorcy pisma; 2) daty i czasu złożenia pisma w e-Urzędzie Skarbowym. 7. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, rodzaje pism, których złożenie nie wymaga opatrzenia podpisem lub pieczęcią uwierzytelnionego użytkownika konta w e-Urzędzie Skarbowym, mając na względzie charakter pisma lub sposób załatwiania sprawy w e-Urzędzie Skarbowym, w tym automatyzację procesu jej załatwiania, oraz potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności przekazywanych danych. Art. 35e. 1. Użytkownik konta w e-Urzędzie Skarbowym może wyrazić zgodę na doręczanie na to konto pism wydawanych przez organy KAS w zakresie określonym w art. 35b ust. 1 pkt 2. 2. Warunkiem wyrażenia zgody jest podanie przez użytkownika konta w e-Urzędzie Skarbowym aktualnego adresu poczty elektronicznej lub numeru telefonu w celu przekazywania powiadomień o umieszczeniu pisma organu KAS na koncie w e-Urzędzie Skarbowym. 3. Wyrażenie i wycofanie zgody następuje na koncie w e-Urzędzie Skarbowym. 4. Organ KAS doręcza pismo na konto w e-Urzędzie Skarbowym: 1) niezwłocznie po wyrażeniu zgody – w przypadku pism generowanych automatycznie w e-Urzędzie Skarbowym; 2) od dnia następującego po dniu, w którym użytkownik wyraził zgodę – w przypadku pism innych niż określone w pkt 1. 5. Nie doręcza się pisma na konto w e-Urzędzie Skarbowym, jeżeli doręczenie następuje na konto w innym systemie teleinformatycznym organu KAS. 6. Wycofanie zgody wywołuje skutki prawne z upływem dnia, w którym zgoda została wycofana, i pozostaje bez wpływu na doręczenie pism umieszczonych na koncie w e-Urzędzie Skarbowym do końca tego dnia. 7. Użytkownik konta w e-Urzędzie Skarbowym jest informowany o skutkach prawnych wynikających z wyrażenia albo wycofania takiej zgody. 8. Przepisów o wyrażaniu i wycofaniu zgody nie stosuje się do doręczania pism, których obowiązek doręczania na konto w e-Urzędzie Skarbowym wynika z odrębnych przepisów, przy czym w celu przekazywania powiadomień o umieszczeniu pisma organu KAS na koncie w e-Urzędzie Skarbowym użytkownik podaje na tym koncie aktualny adres poczty elektronicznej lub numer telefonu. 9. W przypadku wystąpienia problemów technicznych uniemożliwiających organowi KAS doręczenie pisma na konto w e-Urzędzie Skarbowym, pismo może zostać doręczone na zasadach ogólnych. 10. Doręczenie pisma na konto w e-Urzędzie Skarbowym następuje: 1) w chwili odebrania pisma przez użytkownika konta w e-Urzędzie Skarbowym – w przypadku gdy odebranie pisma nastąpiło w okresie od umieszczenia pisma na tym koncie do końca 14 dnia, licząc od dnia następującego po umieszczeniu tego pisma na koncie w e-Urzędzie Skarbowym, albo 2) z upływem ostatniego dnia okresu, o którym mowa w pkt 1 – w przypadku nieodebrania przez użytkownika konta w e-Urzędzie Skarbowym pisma w tym okresie. 11. Urzędowe poświadczenie doręczenia jest generowane automatycznie i opatrywane kwalifikowaną pieczęcią elektroniczną Szefa Krajowej Administracji Skarbowej. 12. Urzędowe poświadczenie doręczenia zawiera co najmniej wskazanie: 1) nadawcy i odbiorcy pisma; 2) daty i czasu umieszczenia pisma na koncie w e-Urzędzie Skarbowym i doręczenia pisma na to konto. 13. Przez umieszczenie pisma na koncie w e-Urzędzie Skarbowym rozumie się zaistnienie warunków technicznych umożliwiających odebranie przez użytkownika konta w e-Urzędzie Skarbowym pisma organu KAS doręczanego na to konto.”;
+- **5)** po art. 49a dodaje się art. 49aa–49ac w brzmieniu: „Art. 49aa. 1. Jeżeli naczelnik urzędu skarbowego lub naczelnik urzędu celno-skarbowego w związku z prowadzonymi czynnościami analitycznymi posiada uprawdopodobnione informacje o możliwości naruszenia przepisów prawa, których przestrzeganie podlega kontroli celno-skarbowej, może żądać przekazania przez agenta rozliczeniowego w rozumieniu art. 2 pkt 1a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2021 r. poz. 1907, 1814 i 2140), zwanego dalej „agentem rozliczeniowym”, informacji o transakcjach płatniczych akceptanta w rozumieniu art. 2 pkt 1b tej ustawy, zwanego dalej „akceptantem”, wykonywanych przy użyciu terminala płatniczego, wskazując akceptanta i okres, którego ma dotyczyć ta informacja. 2. Informacja, o której mowa w ust. 1, zawiera: 1) oznaczenie żądania oraz organu KAS występującego z żądaniem; 2) NIP agenta rozliczeniowego, jego numer identyfikacyjny REGON oraz numer w Krajowym Rejestrze Sądowym; 3) wskazanie okresu, którego dotyczy; 4) numer identyfikacyjny akceptanta nadany przez agenta rozliczeniowego; 5) dane adresowe miejsca wykonywania transakcji płatniczych przy użyciu terminala płatniczego zawierające kod kraju, kod pocztowy, miejscowość, ulicę, numer domu i lokalu; 6) numer identyfikacyjny terminala płatniczego; 7) numer rachunku akceptanta powiązanego z terminalem płatniczym; 8) rodzaje transakcji płatniczych; 9) wartości i kody walut transakcji płatniczych; 10) daty i godziny autoryzacji transakcji płatniczych. 3. Agent rozliczeniowy przekazuje informację, o której mowa w ust. 1, w terminie 7 dni od dnia otrzymania żądania. 4. Informacja, o której mowa w ust. 1, jest przekazywana w postaci elektronicznej odpowiadającej strukturze logicznej udostępnionej przez ministra właściwego do spraw finansów publicznych w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu. Informację, o której mowa w ust. 1, opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. 5. Złożenie informacji, o której mowa w ust. 1, jest potwierdzane elektronicznie. 6. Przepisy działu IV rozdziału 3a Ordynacji podatkowej stosuje się odpowiednio. Art. 49ab. 1. Dane zawarte w informacjach, o których mowa w art. 49aa ust. 1, są przechowywane przez agentów rozliczeniowych, naczelników urzędów skarbowych i naczelników urzędów celno-skarbowych przez 5 lat, licząc od pierwszego dnia roku następującego po roku, w którym dane zostały przekazane do naczelnika urzędu skarbowego lub naczelnika urzędu celno-skarbowego. 2. Jeżeli w okresie, o którym mowa w ust. 1, nie upłynął termin przedawnienia zobowiązania podatkowego, zwrotu nadpłaty lub zwrotu podatku, w związku z którym przechowywane dane mogłyby stanowić dowód w postępowaniu, dane te mogą być przechowywane przez naczelnika urzędu skarbowego lub naczelnika urzędu celno-skarbowego po upływie okresu, o którym mowa w ust. 1, jednak nie dłużej niż do upływu terminu przedawnienia. Art. 49ac. Dane zawarte w informacjach, o których mowa w art. 49aa ust. 1, są udostępniane wyłącznie: 1) organom KAS – w celu realizacji ich ustawowych zadań; 2) innym niż określone w pkt 1 organom wymienionym w art. 297 Ordynacji podatkowej – na zasadach określonych w tych przepisach.”;
 - **6)** w art. 49b zdanie pierwsze otrzymuje brzmienie: „Szef Krajowej Administracji Skarbowej, naczelnik urzędu celno-skarbowego lub naczelnik urzędu skarbowego może, w drodze decyzji, nałożyć karę pieniężną w wysokości do 10 000 zł na podmiot, który pomimo prawidłowego wezwania w wyznaczonym terminie nie przekazał posiadanych informacji albo danych, o których mowa w art. 49–49aa, lub przekazał je w niepełnym zakresie lub niezgodne z posiadanymi informacjami lub danymi lub niezgodnie z wymaganiami określonymi w art. 49aa ust. 4.”;
-- **7)** art. 51 otrzymuje brzmienie: „Art. 51. 1. Dostęp do uzyskanych informacji, o których mowa w art. 48– 49aa, przysługuje funkcjonariuszowi lub osobie zatrudnionej w jednostce organizacyjnej KAS prowadzącym kontrolę celno-skarbową, kontrolę podatkową, załatwiającemu sprawę, oraz jego przełożonym, a także nadzorującemu sprawę lub kontrolę naczelnikowi urzędu skarbowego, naczelnikowi urzędu celno-skarbowego, dyrektorowi izby administracji skarbowej, Szefowi Krajowej Administracji Skarbowej oraz ministrowi właściwemu do spraw finansów publicznych.
-
-2. Uzyskane informacje, o których mowa w art. 48–49aa, należy przechowywać zgodnie z przepisami o ochronie informacji niejawnych zawierających informacje o klauzuli „zastrzeżone”.”;
-
-- **8)** po dziale VIII dodaje się dział VIIIA w brzmieniu: „Dział VIIIA Przepisy epizodyczne
-
-**Art. 278b.**
-
-1. W okresie od dnia 1 lipca 2022 r. do dnia 31 grudnia 2024 r. agent rozliczeniowy jest obowiązany do przekazywania Szefowi Krajowej Administracji Skarbowej informacji o transakcjach płatniczych akceptanta wykonywanych przy użyciu terminala płatniczego.
-
-2. Informacja, o której mowa w ust. 1, zawiera:
-
-- **1)** rok i miesiąc, którego dotyczy;
-- **2)** dane agenta rozliczeniowego zawierające:
-    - **a)** firmę i nazwę,
-    - **b)** NIP, numer identyfikacyjny REGON oraz numer w Krajowym Rejestrze Sądowym,
-    - **c)** dane adresowe zawierające kod kraju, kod pocztowy, miejscowość, ulicę, numer domu i lokalu;
-
-- **3)** numery rachunków agenta rozliczeniowego wykorzystywanych w danym miesiącu do dokonywania przelewów na rachunek akceptanta;
-- **4)** dane akceptanta zawierające:
-    - **a)** firmę, nazwę albo imię i nazwisko,
-    - **b)** NIP,
-    - **c)** numer identyfikacyjny nadany przez agenta rozliczeniowego,
-    - **d)** dane adresowe zawierające kod kraju, kod pocztowy, miejscowość, ulicę, numer domu i lokalu,
-    - **e)** czterocyfrowy numer służący do identyfikacji działalności gospodarczej;
-
-- **5)** dane adresowe miejsca wykonywania transakcji płatniczych przy użyciu terminala płatniczego zawierające kod kraju, kod pocztowy, miejscowość, ulicę, numer domu i lokalu;
-- **6)** numer identyfikacyjny terminala płatniczego;
-- **7)** numer rachunku akceptanta powiązanego z terminalem płatniczym;
-- **8)** datę, od której rachunek akceptanta jest powiązany z terminalem płatniczym;
-- **9)** datę, do której rachunek akceptanta był powiązany z terminalem płatniczym;
-- **10)** kody walut transakcji płatniczych;
-- **11)** liczbę i wartości transakcji płatniczych zaakceptowanych przez poszczególnych akceptantów.
-
-3. Informacja, o której mowa w ust. 1, jest przekazywana za okresy miesięczne w terminie do 15. dnia miesiąca następującego po miesiącu, za który jest przekazywana, przy czym pierwsza informacja jest przekazywana nie później niż do dnia 15 stycznia 2023 r. i obejmuje dane za miesiące od lipca do grudnia 2022 r.
-
-4. Przepisy działu IV rozdziału 3a Ordynacji podatkowej stosuje się odpowiednio.
-
-**Art. 278c.**
-
-1. Wypełnianie obowiązków określonych w niniejszym dziale podlega kontroli wykonywanej przez Szefa Krajowej Administracji Skarbowej.
-
-2. Kontrolę, o której mowa w ust. 1, przeprowadzają upoważnieni przez Szefa Krajowej Administracji Skarbowej funkcjonariusze lub osoby zatrudnione w jednostkach organizacyjnych KAS posiadający poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych oznaczonych klauzulą „poufne”.
-
-3. Do kontroli, o której mowa w ust. 1, stosuje się odpowiednio przepisy art. 62 ust. 1–3, 8 i 10, art. 64 ust. 1 pkt 1, 2, 5, 7, 8, 10, 11 i 17 i ust. 3 i 4, art. 72 ust. 1 pkt 1–3 i 8–11 oraz ust. 3, art. 84 ust. 1, 2 i 4, art. 93 oraz art. 97 ust. 4.
-
-**Art. 278d.** Przepisy art. 49aa ust. 4 i 5, art. 49ab oraz art. 49ac stosuje się odpowiednio.
-
-**Art. 278e.**
-
-1. Agent rozliczeniowy, który nie dopełnia obowiązku przekazania Szefowi Krajowej Administracji Skarbowej w terminie określonym w art. 278b ust. 3 informacji, o której mowa w art. 278b ust. 1, przekazuje tę informację w niepełnym zakresie lub niezgodną z posiadanymi informacjami lub danymi lub niezgodnie z wymaganiami określonymi w art. 49aa ust. 4, podlega karze pieniężnej.
-
-2. Karę pieniężną, o której mowa w ust. 1, nakłada Szef Krajowej Administracji Skarbowej, w drodze decyzji, w wysokości do 700 000 zł.
-
-3. Od decyzji, o której mowa w ust. 2, przysługuje wniosek o ponowne rozpatrzenie sprawy w terminie 14 dni od dnia jej doręczenia.
-
-4. W zakresie nieuregulowanym w ust. 2 i 3 do:
-
-- **1)** postępowania w sprawie nałożenia kary pieniężnej stosuje się odpowiednio przepisy działu IV Ordynacji podatkowej;
-- **2)** nakładania kary pieniężnej stosuje się przepisy działu IVA ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
-
-**Art. 278f.** Kto osobie uprawnionej do przeprowadzenia kontroli, o której mowa w art. 278c, udaremnia lub utrudnia wykonanie czynności służbowej, w szczególności kto wbrew żądaniu tej osoby nie okazuje dokumentu niezbędnego do sporządzenia informacji, o której mowa w art. 278b ust. 1, lub dokument ten niszczy, uszkadza, czyni bezużytecznym, ukrywa lub usuwa, podlega grzywnie za przestępstwo skarbowe do 720 stawek dziennych.”.
+- **7)** art. 51 otrzymuje brzmienie: „Art. 51. 1. Dostęp do uzyskanych informacji, o których mowa w art. 48– 49aa, przysługuje funkcjonariuszowi lub osobie zatrudnionej w jednostce organizacyjnej KAS prowadzącym kontrolę celno-skarbową, kontrolę podatkową, załatwiającemu sprawę, oraz jego przełożonym, a także nadzorującemu sprawę lub kontrolę naczelnikowi urzędu skarbowego, naczelnikowi urzędu celno-skarbowego, dyrektorowi izby administracji skarbowej, Szefowi Krajowej Administracji Skarbowej oraz ministrowi właściwemu do spraw finansów publicznych. 2. Uzyskane informacje, o których mowa w art. 48–49aa, należy przechowywać zgodnie z przepisami o ochronie informacji niejawnych zawierających informacje o klauzuli „zastrzeżone”.”;
+- **8)** po dziale VIII dodaje się dział VIIIA w brzmieniu: „Dział VIIIA Przepisy epizodyczne Art. 278b. 1. W okresie od dnia 1 lipca 2022 r. do dnia 31 grudnia 2024 r. agent rozliczeniowy jest obowiązany do przekazywania Szefowi Krajowej Administracji Skarbowej informacji o transakcjach płatniczych akceptanta wykonywanych przy użyciu terminala płatniczego. 2. Informacja, o której mowa w ust. 1, zawiera: 1) rok i miesiąc, którego dotyczy; 2) dane agenta rozliczeniowego zawierające: a) firmę i nazwę, b) NIP, numer identyfikacyjny REGON oraz numer w Krajowym Rejestrze Sądowym, c) dane adresowe zawierające kod kraju, kod pocztowy, miejscowość, ulicę, numer domu i lokalu; 3) numery rachunków agenta rozliczeniowego wykorzystywanych w danym miesiącu do dokonywania przelewów na rachunek akceptanta; 4) dane akceptanta zawierające: a) firmę, nazwę albo imię i nazwisko, b) NIP, c) numer identyfikacyjny nadany przez agenta rozliczeniowego, d) dane adresowe zawierające kod kraju, kod pocztowy, miejscowość, ulicę, numer domu i lokalu, e) czterocyfrowy numer służący do identyfikacji działalności gospodarczej; 5) dane adresowe miejsca wykonywania transakcji płatniczych przy użyciu terminala płatniczego zawierające kod kraju, kod pocztowy, miejscowość, ulicę, numer domu i lokalu; 6) numer identyfikacyjny terminala płatniczego; 7) numer rachunku akceptanta powiązanego z terminalem płatniczym; 8) datę, od której rachunek akceptanta jest powiązany z terminalem płatniczym; 9) datę, do której rachunek akceptanta był powiązany z terminalem płatniczym; 10) kody walut transakcji płatniczych; 11) liczbę i wartości transakcji płatniczych zaakceptowanych przez poszczególnych akceptantów. 3. Informacja, o której mowa w ust. 1, jest przekazywana za okresy miesięczne w terminie do 15. dnia miesiąca następującego po miesiącu, za który jest przekazywana, przy czym pierwsza informacja jest przekazywana nie później niż do dnia 15 stycznia 2023 r. i obejmuje dane za miesiące od lipca do grudnia 2022 r. 4. Przepisy działu IV rozdziału 3a Ordynacji podatkowej stosuje się odpowiednio. Art. 278c. 1. Wypełnianie obowiązków określonych w niniejszym dziale podlega kontroli wykonywanej przez Szefa Krajowej Administracji Skarbowej. 2. Kontrolę, o której mowa w ust. 1, przeprowadzają upoważnieni przez Szefa Krajowej Administracji Skarbowej funkcjonariusze lub osoby zatrudnione w jednostkach organizacyjnych KAS posiadający poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych oznaczonych klauzulą „poufne”. 3. Do kontroli, o której mowa w ust. 1, stosuje się odpowiednio przepisy art. 62 ust. 1–3, 8 i 10, art. 64 ust. 1 pkt 1, 2, 5, 7, 8, 10, 11 i 17 i ust. 3 i 4, art. 72 ust. 1 pkt 1–3 i 8–11 oraz ust. 3, art. 84 ust. 1, 2 i 4, art. 93 oraz art. 97 ust. 4. Art. 278d. Przepisy art. 49aa ust. 4 i 5, art. 49ab oraz art. 49ac stosuje się odpowiednio. Art. 278e. 1. Agent rozliczeniowy, który nie dopełnia obowiązku przekazania Szefowi Krajowej Administracji Skarbowej w terminie określonym w art. 278b ust. 3 informacji, o której mowa w art. 278b ust. 1, przekazuje tę informację w niepełnym zakresie lub niezgodną z posiadanymi informacjami lub danymi lub niezgodnie z wymaganiami określonymi w art. 49aa ust. 4, podlega karze pieniężnej. 2. Karę pieniężną, o której mowa w ust. 1, nakłada Szef Krajowej Administracji Skarbowej, w drodze decyzji, w wysokości do 700 000 zł. 3. Od decyzji, o której mowa w ust. 2, przysługuje wniosek o ponowne rozpatrzenie sprawy w terminie 14 dni od dnia jej doręczenia. 4. W zakresie nieuregulowanym w ust. 2 i 3 do: 1) postępowania w sprawie nałożenia kary pieniężnej stosuje się odpowiednio przepisy działu IV Ordynacji podatkowej; 2) nakładania kary pieniężnej stosuje się przepisy działu IVA ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. Art. 278f. Kto osobie uprawnionej do przeprowadzenia kontroli, o której mowa w art. 278c, udaremnia lub utrudnia wykonanie czynności służbowej, w szczególności kto wbrew żądaniu tej osoby nie okazuje dokumentu niezbędnego do sporządzenia informacji, o której mowa w art. 278b ust. 1, lub dokument ten niszczy, uszkadza, czyni bezużytecznym, ukrywa lub usuwa, podlega grzywnie za przestępstwo skarbowe do 720 stawek dziennych.”.
 
 **Art. 16.** W ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2021 r. poz. 626 i 2105) w art. 5 uchyla się ust. 2.
 
@@ -438,55 +167,21 @@ source: pdf
 **Art. 18.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 31z:
-    - **a)** w ust. 1 w pkt 4 na końcu dodaje się średnik i dodaje się pkt 5 i 6 w brzmieniu: „5) do dnia 30 września 2022 r. – w przypadku gdy termin ten upływa w okresie od dnia 1 stycznia 2022 r. do dnia 30 czerwca 2022 r.;
+    - **a)** w ust. 1 w pkt 4 na końcu dodaje się średnik i dodaje się pkt 5 i 6 w brzmieniu: „5) do dnia 30 września 2022 r. – w przypadku gdy termin ten upływa w okresie od dnia 1 stycznia 2022 r. do dnia 30 czerwca 2022 r.; 6) o 3 miesiące – w przypadku gdy termin ten upływa w okresie od dnia 1 lipca 2022 r. do dnia 31 grudnia 2022 r.”,
+    - **b)** w ust. 2 w pkt 4 na końcu dodaje się średnik i dodaje się pkt 5 i 6 w brzmieniu: „5) do dnia 30 września 2022 r. – w przypadku gdy termin ten upływa w okresie od dnia 1 stycznia 2022 r. do dnia 30 czerwca 2022 r.; 6) o 3 miesiące – w przypadku gdy termin ten upływa w okresie od dnia 1 lipca 2022 r. do dnia 31 grudnia 2022 r.”;
 
-- **6)** o 3 miesiące – w przypadku gdy termin ten upływa w okresie od dnia 1 lipca 2022 r. do dnia 31 grudnia 2022 r.”,
-    - **b)** w ust. 2 w pkt 4 na końcu dodaje się średnik i dodaje się pkt 5 i 6 w brzmieniu: „5) do dnia 30 września 2022 r. – w przypadku gdy termin ten upływa w okresie od dnia 1 stycznia 2022 r. do dnia 30 czerwca 2022 r.;
-
-- **6)** o 3 miesiące – w przypadku gdy termin ten upływa w okresie od dnia 1 lipca 2022 r. do dnia 31 grudnia 2022 r.”;
 - **2)** w art. 31z dodaje się ust. 3 w brzmieniu: „3. Do warunku nieponiesienia straty podatkowej, o którym mowa w art. 23z pkt 1a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 11n pkt 1a ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, przepisy ust. 1 i 2 stosuje się odpowiednio.”.
 
-**Art. 19.** W ustawie z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875, z późn. zm. ) art. 52 otrzymuje brzmienie: „Art. 52. 1. W przypadku prowadzenia egzekucji z wynagrodzenia za pracę, jeżeli pracownikowi zostało obniżone wynagrodzenie za pracę o więcej niż 25% z powodu podjętych na terytorium Rzeczypospolitej Polskiej działań służb sanitarno-epidemiologicznych, służących zapobieganiu zakażeniem wirusem SARS-CoV-2, kwota określona w art. 87 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320, z 2021 r. poz. 1162 oraz z 2022 r. poz. 655) ulega zwiększeniu o 25% na każdego nieosiągającego dochodu członka rodziny, którego pracownik ma na utrzymaniu, nie dłużej jednak niż do dnia zakończenia stanu epidemii w związku z COVID-19. Kwota dodatkowego zwolnienia nie może przekraczać kwoty, o jaką obniżone zostało wynagrodzenie, ani też nie może być łącznie wyższa niż 50% kwoty, o której mowa w art. 87 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. 2. Przez członka rodziny, o którym mowa w ust. 1, rozumie się:
-
-- **1)** małżonka lub rodzica wspólnego dziecka;
-- **2)** dziecko małoletnie;
-- **3)** dziecko w wieku do 25. roku życia kontynuujące naukę;
-- **4)** dziecko, które ukończyło 25. rok życia, legitymujące się orzeczeniem o niepełnosprawności, jeżeli w związku z tą niepełnosprawnością przysługuje świadczenie pielęgnacyjne lub specjalny zasiłek opiekuńczy, o którym mowa w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2022 r. poz. 615 i 1265), albo zasiłek dla opiekuna, o którym mowa w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. z 2020 r. poz. 1297).
-
-3. Przez dziecko, o którym mowa w ust. 2, rozumie się dziecko własne pracownika, a także dziecko współmałżonka lub rodzica wspólnego dziecka, o ile pracownik dostarczał temu dziecku środków utrzymania. Do członków rodziny nie zalicza się dziecka pozostającego pod opieką opiekuna prawnego innego niż wymieniony w ust. 2 pkt 1, dziecka pozostającego w związku małżeńskim, a także pełnoletniego dziecka posiadającego własne dziecko.”.
+**Art. 19.** W ustawie z dnia 14 maja 2020 r. o zmianie niektórych ustaw w zakresie działań osłonowych w związku z rozprzestrzenianiem się wirusa SARS-CoV-2 (Dz. U. poz. 875, z późn. zm. ) art. 52 otrzymuje brzmienie: „Art. 52. 1. W przypadku prowadzenia egzekucji z wynagrodzenia za pracę, jeżeli pracownikowi zostało obniżone wynagrodzenie za pracę o więcej niż 25% z powodu podjętych na terytorium Rzeczypospolitej Polskiej działań służb sanitarno-epidemiologicznych, służących zapobieganiu zakażeniem wirusem SARS-CoV-2, kwota określona w art. 87 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320, z 2021 r. poz. 1162 oraz z 2022 r. poz. 655) ulega zwiększeniu o 25% na każdego nieosiągającego dochodu członka rodziny, którego pracownik ma na utrzymaniu, nie dłużej jednak niż do dnia zakończenia stanu epidemii w związku z COVID-19. Kwota dodatkowego zwolnienia nie może przekraczać kwoty, o jaką obniżone zostało wynagrodzenie, ani też nie może być łącznie wyższa niż 50% kwoty, o której mowa w art. 87 § 1 pkt 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. 2. Przez członka rodziny, o którym mowa w ust. 1, rozumie się: 1) małżonka lub rodzica wspólnego dziecka; 2) dziecko małoletnie; 3) dziecko w wieku do 25. roku życia kontynuujące naukę; 4) dziecko, które ukończyło 25. rok życia, legitymujące się orzeczeniem o niepełnosprawności, jeżeli w związku z tą niepełnosprawnością przysługuje świadczenie pielęgnacyjne lub specjalny zasiłek opiekuńczy, o którym mowa w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2022 r. poz. 615 i 1265), albo zasiłek dla opiekuna, o którym mowa w ustawie z dnia 4 kwietnia 2014 r. o ustaleniu i wypłacie zasiłków dla opiekunów (Dz. U. z 2020 r. poz. 1297). 3. Przez dziecko, o którym mowa w ust. 2, rozumie się dziecko własne pracownika, a także dziecko współmałżonka lub rodzica wspólnego dziecka, o ile pracownik dostarczał temu dziecku środków utrzymania. Do członków rodziny nie zalicza się dziecka pozostającego pod opieką opiekuna prawnego innego niż wymieniony w ust. 2 pkt 1, dziecka pozostającego w związku małżeńskim, a także pełnoletniego dziecka posiadającego własne dziecko.”.
 
 **Art. 20.** W ustawie z dnia 29 października 2021 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw (Dz. U. poz. 2105, 2349, 2427 i 2469) wprowadza się następujące zmiany:
 
 - **1)** w art. 14:
     - **a)** w pkt 4, w art. 15a po ust. 12 dodaje się ust. 12a w brzmieniu: „12a. Grupa VAT wstępuje w prawa i obowiązki członków grupy VAT w zakresie podatku na okres, w jakim grupa ta posiada status podatnika.”,
-    - **b)** pkt 18 otrzymuje brzmienie: „18) w art. 109 po ust. 11f dodaje się ust. 11g–11k w brzmieniu: „11g. Członkowie grupy VAT są obowiązani prowadzić w postaci elektronicznej ewidencję czynności, o których mowa w art. 8c ust. 1, zawierającą co najmniej dane dotyczące:
+    - **b)** pkt 18 otrzymuje brzmienie: „18) w art. 109 po ust. 11f dodaje się ust. 11g–11k w brzmieniu: „11g. Członkowie grupy VAT są obowiązani prowadzić w postaci elektronicznej ewidencję czynności, o których mowa w art. 8c ust. 1, zawierającą co najmniej dane dotyczące: 1) rodzaju i wartości dostaw towarów i świadczonych usług przez członka grupy VAT na rzecz innego członka tej samej grupy VAT; 2) członków grupy VAT, na rzecz których dokonano czynności, o których mowa w art. 8c ust. 1; 3) dokumentów potwierdzających dokonanie czynności, o których mowa w art. 8c ust. 1. 11h. Członkowie grupy VAT są obowiązani przesyłać do urzędu skarbowego, za pomocą środków komunikacji elektronicznej, ewidencję, o której mowa w ust. 11g, za okresy miesięczne w terminie do 25. dnia miesiąca następującego po każdym kolejnym miesiącu. 11i. Ewidencja, o której mowa w ust. 11g, jest przesyłana zgodnie z wzorem dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne i w sposób określony w przepisach wydanych na podstawie art. 193a § 3 Ordynacji podatkowej. 11j. Minister właściwy do spraw finansów publicznych udostępni na elektronicznej platformie usług administracji publicznej wzór ewidencji, o której mowa w ust. 11g. 11k. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres danych zawartych w ewidencji, o której mowa w ust. 11g, oraz sposób wykazywania danych w ewidencji przesyłanej zgodnie z ust. 11h, uwzględniając konieczność przeciwdziałania uchylaniu się od opodatkowania lub unikaniu opodatkowania przez grupę VAT, kontroli obowiązków grupy VAT przez organ podatkowy oraz możliwości techniczno-organizacyjne prowadzenia przez członków grupy VAT tej ewidencji.”;”;
 
-- **1)** rodzaju i wartości dostaw towarów i świadczonych usług przez członka grupy VAT na rzecz innego członka tej samej grupy VAT;
-- **2)** członków grupy VAT, na rzecz których dokonano czynności, o których mowa w art. 8c ust. 1;
-- **3)** dokumentów potwierdzających dokonanie czynności, o których mowa w art. 8c ust. 1.
-
-11h. Członkowie grupy VAT są obowiązani przesyłać do urzędu skarbowego, za pomocą środków komunikacji elektronicznej, ewidencję, o której mowa w ust. 11g, za okresy miesięczne w terminie do 25. dnia miesiąca następującego po każdym kolejnym miesiącu.
-
-11i. Ewidencja, o której mowa w ust. 11g, jest przesyłana zgodnie z wzorem dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne i w sposób określony w przepisach wydanych na podstawie art. 193a § 3 Ordynacji podatkowej.
-
-11j. Minister właściwy do spraw finansów publicznych udostępni na elektronicznej platformie usług administracji publicznej wzór ewidencji, o której mowa w ust. 11g.
-
-11k. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres danych zawartych w ewidencji, o której mowa w ust. 11g, oraz sposób wykazywania danych w ewidencji przesyłanej zgodnie z ust. 11h, uwzględniając konieczność przeciwdziałania uchylaniu się od opodatkowania lub unikaniu opodatkowania przez grupę VAT, kontroli obowiązków grupy VAT przez organ podatkowy oraz możliwości techniczno-organizacyjne prowadzenia przez członków grupy VAT tej ewidencji.”;”;
-
-- **2)** w art. 20 po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) w art. 35 w ust. 3 w pkt 1 lit. e otrzymuje brzmienie: „e) ewidencji, o których mowa w art. 109 ust. 3 i ust. 11g ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, 974, 1137 i
-- **1301)** ,”;”;
-- **3)** po art. 77 dodaje się art. 77a w brzmieniu: „Art. 77a. 1. W okresie od dnia 1 stycznia 2023 r. do dnia 30 czerwca 2023 r. członkowie grupy VAT są obowiązani prowadzić w postaci elektronicznej ewidencję czynności, o których mowa w art. 8c ust. 1 ustawy zmienianej w art. 14.
-
-2. Ewidencja, o której mowa w ust. 1, zawiera:
-
-- **1)** nazwę i NIP nabywcy;
-- **2)** datę dokonania i zakończenia dostawy towarów lub wykonania usługi;
-- **3)** nazwę (rodzaj) towaru lub usługi;
-- **4)** miarę i ilość (liczbę) dostarczonych towarów lub zakres wykonanych usług;
-- **5)** kwotę należności ogółem.
-
-3. Na żądanie organu podatkowego członkowie grupy VAT przekazują ewidencję, o której mowa w ust. 1, w terminie 7 dni od dnia doręczenia żądania.”;
-
+- **2)** w art. 20 po pkt 7 dodaje się pkt 7a w brzmieniu: „7a) w art. 35 w ust. 3 w pkt 1 lit. e otrzymuje brzmienie: „e) ewidencji, o których mowa w art. 109 ust. 3 i ust. 11g ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, 974, 1137 i 1301),”;”;
+- **3)** po art. 77 dodaje się art. 77a w brzmieniu: „Art. 77a. 1. W okresie od dnia 1 stycznia 2023 r. do dnia 30 czerwca 2023 r. członkowie grupy VAT są obowiązani prowadzić w postaci elektronicznej ewidencję czynności, o których mowa w art. 8c ust. 1 ustawy zmienianej w art. 14. 2. Ewidencja, o której mowa w ust. 1, zawiera: 1) nazwę i NIP nabywcy; 2) datę dokonania i zakończenia dostawy towarów lub wykonania usługi; 3) nazwę (rodzaj) towaru lub usługi; 4) miarę i ilość (liczbę) dostarczonych towarów lub zakres wykonanych usług; 5) kwotę należności ogółem. 3. Na żądanie organu podatkowego członkowie grupy VAT przekazują ewidencję, o której mowa w ust. 1, w terminie 7 dni od dnia doręczenia żądania.”;
 - **4)** w art. 89: 14 pkt 1–4, 9 i 11–16, art. 18, art. 22 pkt 1”, a po wyrazach „oraz art. 66” dodaje się wyrazy „i art. 77a”,
     - **a)** pkt 3 otrzymuje brzmienie: „3) art. 3 pkt 1, art. 7 pkt 3, 11, 13, pkt 16 lit. b, pkt 17, 33 i 38, art. 12 i art. 20 pkt 8, które wchodzą w życie z dniem 1 lipca 2022 r.”,
     - **b)** w pkt 4 wyrazy „art. 18, art. 22 pkt 1” zastępuje się wyrazami „art.

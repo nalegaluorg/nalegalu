@@ -26,12 +26,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001004) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1004/text.pdf) |
 
 w sprawie wykazu ośrodków toksykologicznych odpowiedzialnych za kontrolę zatruć produktami biobójczymi Na podstawie art. 40 ust. 4 ustawy z dnia 9 października 2015 r. o produktach biobójczych (Dz. U. poz. 1926) zarządza się, co następuje:
-§ 1. Wykaz ośrodków toksykologicznych odpowiedzialnych za kontrolę zatruć produktami biobójczymi wraz ze wskazaniem ich właściwości terytorialnej jest określony w załączniku do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: K. Radziwiłł WYKAZ OŚRODKÓW TOKSYKOLOGICZNYCH ODPOWIEDZIALNYCH ZA KONTROLĘ ZATRUĆ PRODUKTAMI BIOBÓJCZYMI WRAZ ZE WSKAZANIEM ICH WŁAŚCIWOŚCI TERYTORIALNEJ
-1) Pomorskie Centrum Toksykologii ul. Kartuska 4/6, 80-104 Gdańsk – ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa pomorskiego, zachodniopomorskiego, warmińsko-mazurskiego oraz kujawsko-pomorskiego
-2) Pracownia Informacji Toksykologicznej i Analiz Laboratoryjnych Uniwersytet Jagielloński Collegium Medicum ul. Kopernika 15, 31-501 Kraków – ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa małopolskiego, podkarpackiego, śląskiego oraz świętokrzyskiego
-3) Ośrodek Informacji Toksykologicznej
-Oddział Toksykologii im. dr Wandy Błeńskiej Szpital Miejski im. Franciszka Raszei ul. Mickiewicza 2, 60-834 Poznań – ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa wielkopolskiego, dolnośląskiego, lubuskiego oraz opolskiego
-4) Ośrodek Kontroli Zatruć – Warszawa ul. Piłsudskiego 33, 05-074 Halinów – ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa mazowieckiego, łódzkiego, podlaskiego oraz lubelskiego
+
+**§ 1.** Wykaz ośrodków toksykologicznych odpowiedzialnych za kontrolę zatruć produktami biobójczymi wraz ze wskazaniem ich właściwości terytorialnej jest określony w załączniku do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: K. Radziwiłł WYKAZ OŚRODKÓW TOKSYKOLOGICZNYCH ODPOWIEDZIALNYCH ZA KONTROLĘ ZATRUĆ PRODUKTAMI BIOBÓJCZYMI WRAZ ZE WSKAZANIEM ICH WŁAŚCIWOŚCI TERYTORIALNEJ
+
+- **1)** Pomorskie Centrum Toksykologii ul. Kartuska 4/6, 80-104 Gdańsk – ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa pomorskiego, zachodniopomorskiego, warmińsko-mazurskiego oraz kujawsko-pomorskiego
+- **2)** Pracownia Informacji Toksykologicznej i Analiz Laboratoryjnych Uniwersytet Jagielloński Collegium Medicum ul. Kopernika 15, 31-501 Kraków – ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa małopolskiego, podkarpackiego, śląskiego oraz świętokrzyskiego
+- **3)** Ośrodek Informacji Toksykologicznej Oddział Toksykologii im. dr Wandy Błeńskiej Szpital Miejski im. Franciszka Raszei ul. Mickiewicza 2, 60-834 Poznań – ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa wielkopolskiego, dolnośląskiego, lubuskiego oraz opolskiego
+- **4)** Ośrodek Kontroli Zatruć – Warszawa ul. Piłsudskiego 33, 05-074 Halinów – ośrodek toksykologiczny właściwy do kontroli zatruć na terenie województwa mazowieckiego, łódzkiego, podlaskiego oraz lubelskiego
+
 

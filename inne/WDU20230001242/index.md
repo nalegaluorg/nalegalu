@@ -27,10 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie rozkładu czasu służby funkcjonariuszy Służby Ochrony Państwa Na podstawie art. 81 ust. 6 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2023 r. poz. 66, z 2022 r.
 poz. 2600 oraz z 2023 r. poz. 240, 347 i 641) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 września 2018 r. w sprawie rozkładu czasu służby funkcjonariuszy Służby Ochrony Państwa (Dz. U. z 2023 r. poz. 106) w § 4 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Komendant SOP informuje funkcjonariusza, w postaci papierowej lub elektronicznej, nie później niż w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 2 pkt 2, o:
-1) udzieleniu zgody na określone we wniosku godziny rozpoczęcia i zakończenia służby w podstawowym rozkładzie czasu służby;
-2) odmowie i przyczynie odmowy udzielenia zgody na określone we wniosku godziny rozpoczęcia i zakończenia służby w podstawowym rozkładzie czasu służby;
-3) innym możliwym terminie ustalenia zgodnego z wnioskiem określenia godzin rozpoczęcia i zakończenia służby w podstawowym rozkładzie czasu służby.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 września 2018 r. w sprawie rozkładu czasu służby funkcjonariuszy Służby Ochrony Państwa (Dz. U. z 2023 r. poz. 106) w § 4 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Komendant SOP informuje funkcjonariusza, w postaci papierowej lub elektronicznej, nie później niż w terminie 7 dni od dnia otrzymania wniosku, o którym mowa w ust. 2 pkt 2, o: 1) udzieleniu zgody na określone we wniosku godziny rozpoczęcia i zakończenia służby w podstawowym rozkładzie czasu służby; 2) odmowie i przyczynie odmowy udzielenia zgody na określone we wniosku godziny rozpoczęcia i zakończenia służby w podstawowym rozkładzie czasu służby; 3) innym możliwym terminie ustalenia zgodnego z wnioskiem określenia godzin rozpoczęcia i zakończenia służby w podstawowym rozkładzie czasu służby.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

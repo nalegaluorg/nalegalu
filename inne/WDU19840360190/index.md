@@ -8,10 +8,10 @@ pos: 190
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Ustawa z dnia 21 lipca 1984 r. o utworzeniu Uniwersytetu Szczecińskiego
+# -..
 
 | Pole | Wartość |
 |---|---|
@@ -25,29 +25,16 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840360190) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1984/190/text.pdf) |
 
-**Art. 1.**
+,POLSKIEJ RZECZYPOSPOLITEJ LUDOWEJ - daia, 23 lipca ;l984r. Nr 36 , uSTAwY.
+21 190
+USTAWA z dnIa' 'lipca' r.
+o ,utworzeniu tJniwert)'tetu ego.
+Uniwersytet Transportu Politechniki dydaktyczna, dalej "Uniwersytetem", w Uniwersytecie nie z po roku
+2. Uniwersytet,u jest miasto Szczedn.
+Art. S. Pierwszy ustala oraz
+2. 1adaniem Uniwersytetu jest kształcenie wy, pierwsze- jego organy Minister Nauki, Szkol,'chowywanie kadr specjalistó;v-Qla gosp0ct.arld, wi.a t y , nictwa Techniki. ' kultury narodowej oraz badan kadr nau.kowYch w zakresie nauk ;humalll stycznych, i matematyczno- ,2. Kadencja organów przez Ministra t, -przyrodniczych, ze próble Nauki, Szk,olnicfwa · Techniki trwa . IDatyki morskiej i krajów zasad ogólnych.
 
-1. Tworzy się Uniwersytet Szczeciński, zwany dalej „Uniwersytetem”.
+**Art. 3.** liaa Uniwersytetu 3. Statut nadany Uniwersytetowi przez Mi!listrs wuje Minister Techniki. Nauki, 'Szkolnictwa Techniki· rio' czasu go przez statutucbwalony _'przez·· senat ukonstytuowany na, zasadach określonych w ustawie 4. w Uniwersytet c szkolnictwie • Szczecinie' oraz .Ekon/')miczny Politechniki i
 
-2. Siedzibą Uniwersytetu jest miasto Szczecin.
-
-**Art. 2.** Zadaniem Uniwersytetu jest kształcenie i wychowywanie kadr specjalistów dla gospodarki, oświaty i kultury narodowej oraz prowadzenie badań naukowych i kształcenie kadr naukowych w zakresie nauk humanistycznych, społecznych, ekonomicznych i matematyczno-przyrodniczych, ze szczególnym uwzględnieniem problematyki morskiej i krajów Południa.
-
-**Art. 3.** Nadzór nad działalnością Uniwersytetu sprawuje Minister Nauki, Szkolnictwa Wyższego i Techniki.
-
-**Art. 4.**
-
-1. Uniwersytet przejmuje Wyższą Szkołę Pedagogiczną w Szczecinie oraz Wydział Inżynieryjno-Ekonomiczny Transportu Politechniki Szczecińskiej.
-
-2. Minister Nauki, Szkolnictwa Wyższego i Techniki, w drodze rozporządzenia, określi termin i zasady przejęcia przez Uniwersytet Wyższej Szkoły Pedagogicznej w Szczecinie oraz Wydziału Inżynieryjno-Ekonomicznego Transportu Politechniki Szczecińskiej. Zajęcia dydaktyczne w Uniwersytecie rozpoczną się nie później niż z początkiem roku akademickiego 1986/1987.
-
-**Art. 5.**
-
-1. Pierwszy statut Uniwersytetu ustala oraz powołuje pierwsze jego organy Minister Nauki, Szkolnictwa Wyższego i Techniki.
-
-2. Kadencja organów powołanych przez Ministra Nauki, Szkolnictwa Wyższego i Techniki trwa według zasad ogólnych.
-
-3. Statut nadany Uniwersytetowi przez Ministra Nauki, Szkolnictwa Wyższego i Techniki obowiązuje do czasu zastąpienia go przez statut uchwalony przez senat ukonstytuowany na zasadach określonych w ustawie o szkolnictwie wyższym.
-
-**Art. 6.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 6.** Ustawa wchodzi w z dniem 2. Minister Nauki, Szkolnictwa Techniki, w drodze termin i "f jęcia . przez Uniwersytet Wyższ~J SzkolyPedagogicZrej Rady w .. oraz Sekretarz Rady Pilllstwa: J. Siymum:k "
 

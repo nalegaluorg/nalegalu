@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001040) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1040/text.pdf) |
 
 zmieniające rozporządzenie w sprawie warunków pokrywania kosztów pogrzebu funkcjonariusza straży Granicznej ze środków właściwego organu straży Granicznej oraz określenia członków rodziny, na których przysługuje zasiłek pogrzebowy Na podstawie art. 124 ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2011 r. Nr 116, poz. 675, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2002 r. w sprawie warunków pokrywania kosztów pogrzebu funkcjonariusza Straży Granicznej ze środków właściwego organu Straży Granicznej oraz określenia członków rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. Nr 86, poz. 791) w § 9 w ust. 2 pkt 1 otrzymuje brzmienie: „1) wyciąg z aktu zgonu (do wglądu), a w przypadku pogrzebu dziecka martwo urodzonego – oświadczenie, że dziecko urodziło się martwe,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych: B. Sienkiewicz
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 20 czerwca 2002 r. w sprawie warunków pokrywania kosztów pogrzebu funkcjonariusza Straży Granicznej ze środków właściwego organu Straży Granicznej oraz określenia członków rodziny, na których przysługuje zasiłek pogrzebowy (Dz. U. Nr 86, poz. 791) w § 9 w ust. 2 pkt 1 otrzymuje brzmienie: „1) wyciąg z aktu zgonu (do wglądu), a w przypadku pogrzebu dziecka martwo urodzonego – oświadczenie, że dziecko urodziło się martwe,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych: B. Sienkiewicz
 

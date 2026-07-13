@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001601) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1601/text.pdf) |
 
 zmieniające rozporządzenie w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu Na podstawie art. 21 ust. 4 ustawy z dnia 27 czerwca 1997 r. o bibliotekach (Dz. U. z 2019 r. poz. 1479) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 2 kwietnia 2012 r. w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. z 2016 r. poz. 137 i 1775 oraz z 2017 r. poz. 2427) w załączniku po poz. 32 dodaje się poz. 33 w brzmieniu: „33. Polskie Centrum Informacji Muzycznej POLMIC / Biblioteka – Fonoteka Związku Kompozytorów Polskich”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 2 kwietnia 2012 r. w sprawie sposobu i trybu zaliczania bibliotek do niektórych bibliotek naukowych oraz ustalenia ich wykazu (Dz. U. z 2016 r. poz. 137 i 1775 oraz z 2017 r. poz. 2427) w załączniku po poz. 32 dodaje się poz. 33 w brzmieniu: „33. Polskie Centrum Informacji Muzycznej POLMIC / Biblioteka – Fonoteka Związku Kompozytorów Polskich”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

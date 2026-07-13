@@ -32,18 +32,12 @@ source: pdf
 4) ustawą z dnia 23 stycznia 2026 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U.
 poz. 176).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 4 i art. 6 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy – Prawo restrukturyzacyjne, ustawy – Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych (Dz. U. poz. 1085), które stanowią: „Art. 4. W sprawach, w których przed dniem wejścia w życie niniejszej ustawy wpłynął wniosek o ogłoszenie upadłości, wniosek o uznanie orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, wniosek restrukturyzacyjny lub wniosek o stwierdzenie wykonania, zmianę albo uchylenie układu lub doszło do ustalenia dnia układowego, o którym mowa w art. 211 ust. 1 ustawy zmienianej w art. 1, stosuje się przepisy dotychczasowe.” „Art. 6. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) art. 5 i art. 6 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U.
-poz. 1170), które stanowią: „Art. 5. Do postępowań upadłościowych oraz postępowań restrukturyzacyjnych, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
-
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-
-- **3)** art. 16 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1172), który stanowi: „Art. 16. Ustawa wchodzi w życie z dniem 1 marca 2026 r., z wyjątkiem:
-- **1)** art. 1 pkt 5 w zakresie art. 125 § 2, który wchodzi w życie z dniem 1 marca 2027 r.;
-- **2)** art. 1 pkt 9, 10, pkt 11 lit. c, pkt 14, 16–18, 21–23 i 35, art. 7, art. 10 oraz art. 14 ust. 3 i 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
-- **3)** art. 1 pkt 11 lit. a i b, które wchodzą w życie z dniem 1 czerwca 2026 r.;
-- **4)** art. 2, art. 9 i art. 13, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia.”;
-- **4)** art. 35 ustawy z dnia 23 stycznia 2026 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. poz. 176), który stanowi: „Art. 35. Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia, z wyjątkiem art. 28 i art. 33, które wchodzą w życie z dniem 28 lutego 2026 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 15 maja 2015 r. Prawo restrukturyzacyjne
+1) art. 4 i art. 6 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy – Prawo restrukturyzacyjne, ustawy – Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych (Dz. U. poz. 1085), które stanowią: „ Art. 4. W sprawach, w których przed dniem wejścia w życie niniejszej ustawy wpłynął wniosek o ogłoszenie upadłości, wniosek o uznanie orzeczenia o wszczęciu zagranicznego postępowania upadłościowego, wniosek restrukturyzacyjny lub wniosek o stwierdzenie wykonania, zmianę albo uchylenie układu lub doszło do ustalenia dnia układowego, o którym mowa w art. 211 ust. 1 ustawy zmienianej w art. 1, stosuje się przepisy dotychczasowe.” „Art. 6. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+2) art. 5 i art. 6 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy – Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1170), które stanowią: „ Art. 5. Do postępowań upadłościowych oraz postępowań restrukturyzacyjnych, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe. Art. 6. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+3) art. 16 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1172), który stanowi: „ Art. 16. Ustawa wchodzi w życie z dniem 1 marca 2026 r., z wyjątkiem: 1) art. 1 pkt 5 w zakresie art. 125 § 2, który wchodzi w życie z dniem 1 marca 2027 r.; 2) art. 1 pkt 9, 10, pkt 11 lit. c, pkt 14, 16–18, 21–23 i 35, art. 7, art. 10 oraz art. 14 ust. 3 i 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia; 3) art. 1 pkt 11 lit. a i b, które wchodzą w życie z dniem 1 czerwca 2026 r.; 4) art. 2, art. 9 i art. 13, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia.”;
+4) art. 35 ustawy z dnia 23 stycznia 2026 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. poz. 176), który stanowi: „ Art. 35. Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia, z wyjątkiem art. 28 i art. 33, które wchodzą w życie z dniem 28 lutego 2026 r.”. Marszałek Sejmu: W. Czarzasty
+USTAWA z dnia 15 maja 2015 r.
+Prawo restrukturyzacyjne
 
 ## TYTUŁ I Przepisy ogólne o postępowaniach restrukturyzacyjnych i ich skutkach
 

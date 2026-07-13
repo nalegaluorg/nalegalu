@@ -47,149 +47,214 @@ poz. 1991);
 8) § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 1 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie wzorów odznak policyjnych oraz szczegółowych zasad i trybu ich nadawania policjantom (Dz. U. poz. 743), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI z dnia 4 lipca 2000 r.
 w sprawie wzorów odznak policyjnych oraz szczegółowych zasad i trybu ich nadawania policjantom Na podstawie art. 12 ust. 1 pkt 6 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, z późn. zm. ) zarządza się, co następuje:
-§ 1. Ustanawia się odznaki:
-1) „Zasłużony Policjant”;
-2) „Absolwent Szkoły”;
-3) „Instruktor Wyszkolenia Policyjnego”;
-4) „Policyjną Odznakę Sprawności Fizycznej”;
-5) zwycięzcy konkursu lub turnieju z wiedzy i sprawności zawodowej;
-6) „Pilot Lotnictwa Policji”;
-7) „Mechanik Lotnictwa Policji”;
-8) „Skoczek Spadochronowy Policji”;
-9) „Odznaka Honorowa Służby Kontrterrorystycznej”;
-10) „Odznaka Honorowa Centralnego Biura Śledczego Policji”.
-§ 2. 1. Odznaka, o której mowa w § 1 pkt 1, jest wyróżnieniem i może być nadana policjantowi w uznaniu jego szczególnych zasług i osiągnięć służbowych, którymi przyczynił się do ochrony bezpieczeństwa ludzi oraz utrzymania bezpieczeństwa lub porządku publicznego.
+
+**§ 1.** Ustanawia się odznaki:
+
+- **1)** „Zasłużony Policjant”;
+- **2)** „Absolwent Szkoły”;
+- **3)** „Instruktor Wyszkolenia Policyjnego”;
+- **4)** „Policyjną Odznakę Sprawności Fizycznej”;
+- **5)** zwycięzcy konkursu lub turnieju z wiedzy i sprawności zawodowej;
+- **6)** „Pilot Lotnictwa Policji”;
+- **7)** „Mechanik Lotnictwa Policji”;
+- **8)** „Skoczek Spadochronowy Policji”;
+- **9)** „Odznaka Honorowa Służby Kontrterrorystycznej”;
+- **10)** „Odznaka Honorowa Centralnego Biura Śledczego Policji”.
+
+**§ 2.**
+
+1. Odznaka, o której mowa w § 1 pkt 1, jest wyróżnieniem i może być nadana policjantowi w uznaniu jego szczególnych zasług i osiągnięć służbowych, którymi przyczynił się do ochrony bezpieczeństwa ludzi oraz utrzymania bezpieczeństwa lub porządku publicznego.
+
 2. Odznaka jest trzystopniowa: brązowa, srebrna i złota.
+
 3. Odznaka może być nadana również pośmiertnie.
+
 4. Przy nadawaniu odznaki zachowuje się kolejność w stopniach.
+
 5. W szczególnie uzasadnionych przypadkach odznakę można nadać z pominięciem kolejności stopni.
+
 6. Odznaka tego samego stopnia może być nadana tej samej osobie jeden raz.
+
 7. Odznakę nadaje minister właściwy do spraw wewnętrznych z własnej inicjatywy albo na wniosek Komendanta Głównego Policji.
+
 8. Odznakę nadaje się z okazji Święta Policji lub Narodowego Święta Niepodległości.
+
 9. W szczególnie uzasadnionych przypadkach odznakę można nadać w innym niż określony w ust. 8 terminie.
-§ 3. 1. Wniosek o nadanie odznaki, o której mowa w § 1 pkt 1, powinien zawierać dane osobowe policjanta oraz szczegółowy opis zasług i osiągnięć służbowych uzasadniających nadanie odznaki. Wzór wniosku stanowi załącznik nr 1 do rozporządzenia.
+
+**§ 3.**
+
+1. Wniosek o nadanie odznaki, o której mowa w § 1 pkt 1, powinien zawierać dane osobowe policjanta oraz szczegółowy opis zasług i osiągnięć służbowych uzasadniających nadanie odznaki. Wzór wniosku stanowi załącznik nr 1 do rozporządzenia.
+
 2. Wniosek o nadanie odznaki powinien być zgłoszony drogą służbową nie później niż na dwa miesiące przed planowanym przez wnioskodawcę terminem wręczenia.
+
 3. Terminu określonego w ust. 2 nie stosuje się w przypadku, o którym mowa w § 2 ust. 3.
-§ 4. 1. Odznaka, o której mowa w § 1 pkt 1, ma kształt koła o średnicy 37 mm. Na awersie odznaki na obrzeżu znajduje się wieniec dębowy. W środku wieńca umieszczona jest ośmioramienna gwiazda policyjna z granatową wstęgą z białym napisem „POLICJA”. Na gwieździe umieszczony jest wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Awers i rewers, w zależności od stopnia odznaki, są złocone, srebrzone lub patynowane na brązowo. Na rewersie umieszczony jest tłoczony napis „ZASŁUŻONY POLICJANT”.
+
+**§ 4.**
+
+1. Odznaka, o której mowa w § 1 pkt 1, ma kształt koła o średnicy 37 mm. Na awersie odznaki na obrzeżu znajduje się wieniec dębowy. W środku wieńca umieszczona jest ośmioramienna gwiazda policyjna z granatową wstęgą z białym napisem „POLICJA”. Na gwieździe umieszczony jest wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Awers i rewers, w zależności od stopnia odznaki, są złocone, srebrzone lub patynowane na brązowo. Na rewersie umieszczony jest tłoczony napis „ZASŁUŻONY POLICJANT”.
+
 2. Odznaka jest zawieszona na wstążce długości 70 mm i szerokości 40 mm z symetrycznymi względem podłużnej osi pionowymi paskami koloru białego i czerwonego, każdy szerokości 6 mm. Przez środek wstążki przebiega granatowy pasek szerokości 16 mm.
+
 3. Wzór odznaki wraz ze wstążką i baretką określa załącznik nr 2 do rozporządzenia.
-§ 5. 1. Odznakę, o której mowa w § 1 pkt 2, nadaje się absolwentowi Wyższej Szkoły Policji w Szczytnie oraz szkoleń podoficerskich i aspiranckich realizowanych w Centrum Szkolenia Policji w Legionowie oraz szkołach policyjnych, zwanych dalej „szkołami Policji”.
+
+**§ 5.**
+
+1. Odznakę, o której mowa w § 1 pkt 2, nadaje się absolwentowi Wyższej Szkoły Policji w Szczytnie oraz szkoleń podoficerskich i aspiranckich realizowanych w Centrum Szkolenia Policji w Legionowie oraz szkołach policyjnych, zwanych dalej „szkołami Policji”.
+
 2. Odznakę nadaje rozkazem komendant szkoły Policji.
-§ 6. 1. Odznaka, o której mowa w § 1 pkt 2, ma kształt wypukłej tarczy, lekko rozszerzonej w środku, o wymiarach: szerokość u góry 30 mm, w najszerszym miejscu 38 mm i wysokość 42 mm. Tło odznaki jest granatowe. Na obrzeżu tarczy w odległości 1 mm od siebie znajdują się dwa paski koloru srebrnego szerokości odpowiednio 1 mm i 1,5 mm. Na tarczy umieszczona jest ośmioramienna gwiazda policyjna koloru srebrnego o średnicy 20 mm z wyodrębnionym kołem o średnicy 12 mm. W kole znajduje się symbol lub symbole rodzajów służb Policji zgodne ze specjalistycznym charakterem realizowanych szkoleń, a w odniesieniu do Wyższej Szkoły Policji ‒ ustanowione w odrębnych przepisach godło szkoły. W przypadku umieszczenia jednego symbolu ma on wysokość 8 mm. U góry w obrysie gwiazdy znajduje się napis z nazwą szkoły, a u dołu na rozwiniętej wstędze ‒ nazwa miejscowości, w której szkoła Policji ma siedzibę.
+
+**§ 6.**
+
+1. Odznaka, o której mowa w § 1 pkt 2, ma kształt wypukłej tarczy, lekko rozszerzonej w środku, o wymiarach: szerokość u góry 30 mm, w najszerszym miejscu 38 mm i wysokość 42 mm. Tło odznaki jest granatowe. Na obrzeżu tarczy w odległości 1 mm od siebie znajdują się dwa paski koloru srebrnego szerokości odpowiednio 1 mm i 1,5 mm. Na tarczy umieszczona jest ośmioramienna gwiazda policyjna koloru srebrnego o średnicy 20 mm z wyodrębnionym kołem o średnicy 12 mm. W kole znajduje się symbol lub symbole rodzajów służb Policji zgodne ze specjalistycznym charakterem realizowanych szkoleń, a w odniesieniu do Wyższej Szkoły Policji ‒ ustanowione w odrębnych przepisach godło szkoły. W przypadku umieszczenia jednego symbolu ma on wysokość 8 mm. U góry w obrysie gwiazdy znajduje się napis z nazwą szkoły, a u dołu na rozwiniętej wstędze ‒ nazwa miejscowości, w której szkoła Policji ma siedzibę.
+
 2. Wzór odznaki określa załącznik nr 3 do rozporządzenia.
-§ 7. 1. Odznakę, o której mowa w § 1 pkt 3, nadaje się absolwentowi szkoleń realizowanych w szkołach Policji w ramach doskonalenia zawodowego, kończących się nadaniem uprawnień instruktorskich w specjalności:
-1) wyszkolenie strzeleckie;
-2) posługiwanie się pałką typu „TONFA”;
-3) taktyki i techniki interwencji;
-4) doskonalenie techniki jazdy.
+
+**§ 7.**
+
+1. Odznakę, o której mowa w § 1 pkt 3, nadaje się absolwentowi szkoleń realizowanych w szkołach Policji w ramach doskonalenia zawodowego, kończących się nadaniem uprawnień instruktorskich w specjalności:
+
+- **1)** wyszkolenie strzeleckie;
+- **2)** posługiwanie się pałką typu „TONFA”;
+- **3)** taktyki i techniki interwencji;
+- **4)** doskonalenie techniki jazdy.
+
 2. Odznaka, z zastrzeżeniem ust. 3, jest jednostopniowa.
+
 3. Odznaka instruktora wyszkolenia policyjnego w specjalności, o której mowa w ust. 1 pkt 1, jest dwustopniowa i nadaje się ją osobie, która uzyskała uprawnienia instruktorskie pierwszego lub drugiego stopnia.
+
 4. Odznakę nadaje rozkazem komendant szkoły Policji.
-§ 8. 1. Odznaka, o której mowa w § 1 pkt 3, ma kształt wypukłego koła o średnicy 38 mm. Na obrzeżu odznaki znajduje się obramowany granatowymi paskami pierścień szerokości 3 mm z liśćmi dębu. Pole wewnątrz pierścienia jest podzielone poziomo na dwie równe części: białą u góry, czerwoną u dołu. Na środku znajduje się granatowa tarcza o wysokości 22 mm kształtem przypominająca odznakę absolwenta szkoły. U góry w obrysie tarczy znajduje się napis „INSTRUKTOR WYSZKOLENIA”, u dołu napis „POLICYJNEGO”. Na tarczy znajduje się symbol określający specjalność policyjną instruktora. Pierścień z liśćmi dębu ma barwę srebrną, a w przypadku odznaki nadanej osobie, która uzyskała uprawnienia instruktorskie drugiego stopnia ‒ złotą.
+
+**§ 8.**
+
+1. Odznaka, o której mowa w § 1 pkt 3, ma kształt wypukłego koła o średnicy 38 mm. Na obrzeżu odznaki znajduje się obramowany granatowymi paskami pierścień szerokości 3 mm z liśćmi dębu. Pole wewnątrz pierścienia jest podzielone poziomo na dwie równe części: białą u góry, czerwoną u dołu. Na środku znajduje się granatowa tarcza o wysokości 22 mm kształtem przypominająca odznakę absolwenta szkoły. U góry w obrysie tarczy znajduje się napis „INSTRUKTOR WYSZKOLENIA”, u dołu napis „POLICYJNEGO”. Na tarczy znajduje się symbol określający specjalność policyjną instruktora. Pierścień z liśćmi dębu ma barwę srebrną, a w przypadku odznaki nadanej osobie, która uzyskała uprawnienia instruktorskie drugiego stopnia ‒ złotą.
+
 2. Wzór odznaki wraz z symbolami policyjnych specjalności instruktorów określa załącznik nr 4 do rozporządzenia.
-§ 9. 1. Odznaka, o której mowa w § 1 pkt 4, jest trzystopniowa: brązowa, srebrna i złota.
+
+**§ 9.**
+
+1. Odznaka, o której mowa w § 1 pkt 4, jest trzystopniowa: brązowa, srebrna i złota.
+
 2. Odznakę określonego stopnia nadaje się policjantowi wyróżniającemu się sprawnością fizyczną w zależności od wyników uzyskanych podczas prób sprawności fizycznej przeprowadzonych w ramach szkoleń doskonalenia zawodowego.
+
 3. Przy nadawaniu odznaki może być pominięta kolejność w stopniach.
+
 4. Odznakę nadaje rozkazem Komendant Główny Policji, Komendant Centralnego Biura Śledczego Policji, Komendant Biura Spraw Wewnętrznych Policji, dowódca Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”, Komendant Centralnego Biura Zwalczania Cyberprzestępczości, Dyrektor Centralnego Laboratorium Kryminalistycznego Policji, komendant wojewódzki Policji, Komendant Stołeczny Policji lub komendant szkoły Policji, odpowiednio do podległości służbowej policjanta.
-§ 10. 1. Odznaka, o której mowa w § 1 pkt 4, ma kształt owalu o wymiarach: szerokość 15 mm, wysokość 27 mm.
-W górnej części w prostokącie o wymiarach 10 mm x 7 mm na tle czerwonym znajduje się sylwetka dyskobola. W dolnej części znajduje się ośmioramienna gwiazda policyjna o średnicy 7 mm z granatową, rozwiniętą wstęgą. W środku, na tle granatowym umieszczony jest napis w dwóch wierszach po dwie litery w każdym: w górnym wierszu „PO”, w dolnym ‒ „SF”.
-Całość odznaki otoczona jest wieńcem dębowym. Wieniec oraz litery mają, w zależności od stopnia odznaki, barwę złotą, srebrną lub brązową.
+
+**§ 10.**
+
+1. Odznaka, o której mowa w § 1 pkt 4, ma kształt owalu o wymiarach: szerokość 15 mm, wysokość 27 mm. W górnej części w prostokącie o wymiarach 10 mm x 7 mm na tle czerwonym znajduje się sylwetka dyskobola. W dolnej części znajduje się ośmioramienna gwiazda policyjna o średnicy 7 mm z granatową, rozwiniętą wstęgą. W środku, na tle granatowym umieszczony jest napis w dwóch wierszach po dwie litery w każdym: w górnym wierszu „PO”, w dolnym ‒ „SF”. Całość odznaki otoczona jest wieńcem dębowym. Wieniec oraz litery mają, w zależności od stopnia odznaki, barwę złotą, srebrną lub brązową.
+
 2. Wzór odznaki określa załącznik nr 5 do rozporządzenia.
-§ 11. 1. Odznakę, o której mowa w § 1 pkt 5, nadaje się zwycięzcy lub zwycięskiej drużynie ogólnokrajowego konkursu lub turnieju wiedzy i sprawności zawodowej, jeżeli regulamin konkursu lub turnieju przewiduje jej nadanie.
+
+**§ 11.**
+
+1. Odznakę, o której mowa w § 1 pkt 5, nadaje się zwycięzcy lub zwycięskiej drużynie ogólnokrajowego konkursu lub turnieju wiedzy i sprawności zawodowej, jeżeli regulamin konkursu lub turnieju przewiduje jej nadanie.
+
 2. Odznaka jest trzystopniowa: brązowa, srebrna i złota.
+
 3. Odznakę nadaje się odpowiednio zdobywcom trzeciego, drugiego i pierwszego miejsca w konkursie lub turnieju.
+
 4. Odznaka może być nadana również zwycięskim drużynom, jeżeli w konkursie lub turnieju prowadzona jest klasyfikacja drużynowa.
+
 5. Odznakę nadaje rozkazem Komendant Główny Policji.
-§ 12. 1. Odznaka, o której mowa w § 1 pkt 5, ma kształt owalu o wymiarach: wysokość 65 mm, szerokość 45 mm. Na obrzeżu odznaki znajduje się wieniec laurowy. Pole wewnątrz wieńca ma kolor czarny. W środku odznaki znajduje się miecz, z którego wychodzą ukośne promienie dotykające wewnątrz wieńca laurowego. Na mieczu umieszczony jest wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej o wysokości 22 mm. Pod orłem znajduje się rozwinięta wstęga koloru granatowego z napisem określającym tytuł zwycięzcy lub zwycięskiej drużyny w konkursie lub turnieju. Na mieczu pod wstęgą, na czerwonym polu w kształcie lekko wklęsłego ośmiokąta o największej przekątnej 14 mm wyodrębnione jest pole o średnicy 5 mm. W polu umieszczony jest emblemat wyróżniający rodzaj służby. Na głowni miecza tłoczony jest rok, w którym przeprowadzony został konkurs lub turniej. Wieniec laurowy, miecz oraz promienie są pokryte, w zależności od stopnia odznaki, brązem, srebrem lub złotem.
+
+**§ 12.**
+
+1. Odznaka, o której mowa w § 1 pkt 5, ma kształt owalu o wymiarach: wysokość 65 mm, szerokość 45 mm. Na obrzeżu odznaki znajduje się wieniec laurowy. Pole wewnątrz wieńca ma kolor czarny. W środku odznaki znajduje się miecz, z którego wychodzą ukośne promienie dotykające wewnątrz wieńca laurowego. Na mieczu umieszczony jest wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej o wysokości 22 mm. Pod orłem znajduje się rozwinięta wstęga koloru granatowego z napisem określającym tytuł zwycięzcy lub zwycięskiej drużyny w konkursie lub turnieju. Na mieczu pod wstęgą, na czerwonym polu w kształcie lekko wklęsłego ośmiokąta o największej przekątnej 14 mm wyodrębnione jest pole o średnicy 5 mm. W polu umieszczony jest emblemat wyróżniający rodzaj służby. Na głowni miecza tłoczony jest rok, w którym przeprowadzony został konkurs lub turniej. Wieniec laurowy, miecz oraz promienie są pokryte, w zależności od stopnia odznaki, brązem, srebrem lub złotem.
+
 2. Wzór odznaki określa załącznik nr 6 do rozporządzenia.
-§ 12a. 1. Odznaka, o której mowa w § 1 pkt 6, jest odznaką policyjną z szarfą w kolorze niebieskim z napisem „POLICJA” na tle stylizowanych skrzydeł w kolorze patynowanego srebra o wymiarach 69 mm x 16 mm.
+
+**§ 12a.**
+
+1. Odznaka, o której mowa w § 1 pkt 6, jest odznaką policyjną z szarfą w kolorze niebieskim z napisem „POLICJA” na tle stylizowanych skrzydeł w kolorze patynowanego srebra o wymiarach 69 mm x 16 mm.
+
 2. Odznakę nadaje rozkazem Komendant Główny Policji z dniem mianowania policjanta na stanowisko służbowe w służbie Lotnictwo Policji.
+
 3. Wzór odznaki określa załącznik nr 6a do rozporządzenia.
-§ 12b. 1. Odznaka, o której mowa w § 1 pkt 7, jest odznaką policyjną z szarfą w kolorze niebieskim z napisem „POLICJA” na tle stylizowanych skrzydeł z turbiną w kolorze patynowanego srebra o wymiarach 69 mm x 16 mm.
+
+**§ 12b.**
+
+1. Odznaka, o której mowa w § 1 pkt 7, jest odznaką policyjną z szarfą w kolorze niebieskim z napisem „POLICJA” na tle stylizowanych skrzydeł z turbiną w kolorze patynowanego srebra o wymiarach 69 mm x 16 mm.
+
 2. Odznakę nadaje rozkazem Komendant Główny Policji z dniem mianowania policjanta na stanowisko służbowe w służbie Lotnictwo Policji.
+
 3. Wzór odznaki określa załącznik nr 6b do rozporządzenia.
-§ 12c. 1. Odznakę, o której mowa w § 1 pkt 8, nadaje się policjantowi służby kontrterrorystycznej, który ukończył doskonalenie zawodowe w zakresie spadochronowym na określonym poziomie, prowadzone w jednostce organizacyjnej Policji.
+
+**§ 12c.**
+
+1. Odznakę, o której mowa w § 1 pkt 8, nadaje się policjantowi służby kontrterrorystycznej, który ukończył doskonalenie zawodowe w zakresie spadochronowym na określonym poziomie, prowadzone w jednostce organizacyjnej Policji.
+
 2. Odznaka jest trzystopniowa: brązowa, srebrna i złota.
+
 3. Odznakę określonego stopnia nadaje się odpowiednio:
-1) brązową ‒ po uzyskaniu tytułu „Skoczka Spadochronowego Policji”;
-2) srebrną ‒ po uzyskaniu „Świadectwa Kwalifikacji Skoczka Spadochronowego Policji”;
-3) złotą ‒ po uzyskaniu uprawnień instruktora spadochronowego Policji.
+
+- **1)** brązową ‒ po uzyskaniu tytułu „Skoczka Spadochronowego Policji”;
+- **2)** srebrną ‒ po uzyskaniu „Świadectwa Kwalifikacji Skoczka Spadochronowego Policji”;
+- **3)** złotą ‒ po uzyskaniu uprawnień instruktora spadochronowego Policji.
+
 4. Przy nadawaniu odznaki może być pominięta kolejność w stopniach.
+
 5. Odznaka, o której mowa w § 1 pkt 8, o wymiarach 20 mm x 47,5 mm, wykonana z patynowanego srebra, ma kształt skrzydeł, na tle których znajduje się zawieszona pod czaszą spadochronu odznaka policyjna, otoczona wieńcem dębowo -laurowym w kolorze odpowiednim do stopnia, o którym mowa w ust. 2.
+
 6. Odznakę nadaje rozkazem Komendant Główny Policji na wniosek kierownika jednostki organizacyjnej Policji odpowiedzialnej za prowadzenie doskonalenia zawodowego w zakresie spadochronowym.
+
 7. Wzór odznaki określa załącznik nr 6c do rozporządzenia.
-§ 12d. 1. Odznakę, o której mowa w § 1 pkt 9, nadaje się policjantowi w uznaniu jego szczególnych zasług i osiągnięć służbowych, za inicjowanie i organizowanie działań związanych ze zwalczaniem terroryzmu lub za wspieranie działań Policji w tym zakresie.
+
+**§ 12d.**
+
+1. Odznakę, o której mowa w § 1 pkt 9, nadaje się policjantowi w uznaniu jego szczególnych zasług i osiągnięć służbowych, za inicjowanie i organizowanie działań związanych ze zwalczaniem terroryzmu lub za wspieranie działań Policji w tym zakresie.
+
 2. Odznaka może być nadana również pośmiertnie.
+
 3. Odznakę nadaje minister właściwy do spraw wewnętrznych na wniosek Komendanta Głównego Policji.
+
 4. Odznakę nadaje się z okazji Święta Policji lub Narodowego Święta Niepodległości.
-§ 12e. 1. Wniosek o nadanie odznaki, o której mowa w § 1 pkt 9, powinien zawierać dane osobowe policjanta oraz szczegółowy opis zasług i osiągnięć służbowych uzasadniających nadanie odznaki. Wzór wniosku stanowi załącznik nr 1a do rozporządzenia.
+
+**§ 12e.**
+
+1. Wniosek o nadanie odznaki, o której mowa w § 1 pkt 9, powinien zawierać dane osobowe policjanta oraz szczegółowy opis zasług i osiągnięć służbowych uzasadniających nadanie odznaki. Wzór wniosku stanowi załącznik nr 1a do rozporządzenia.
+
 2. Wniosek o nadanie odznaki powinien być zgłoszony drogą służbową nie później niż na dwa miesiące przed planowanym przez wnioskodawcę terminem wręczenia.
-§ 12f. 1. Odznaka, o której mowa w § 1 pkt 9, ma kształt gwiazdy policyjnej z ośmiu pęków promieni, o wymiarach mieszczących się w kole o średnicy 44 mm, metalowej, srebrzonej i platynowej. Pośrodku na stylizowanej kokardzie emaliowanej biało i czerwono, okolonej wieńcem z liści wawrzynu w kolorze antycznego złota, nałożony złocony monogram z liter „KT” o czarnym obrysie. Na odwrotnej stronie mocowanie ze śrubki i nakrętki.
+
+**§ 12f.**
+
+1. Odznaka, o której mowa w § 1 pkt 9, ma kształt gwiazdy policyjnej z ośmiu pęków promieni, o wymiarach mieszczących się w kole o średnicy 44 mm, metalowej, srebrzonej i platynowej. Pośrodku na stylizowanej kokardzie emaliowanej biało i czerwono, okolonej wieńcem z liści wawrzynu w kolorze antycznego złota, nałożony złocony monogram z liter „KT” o czarnym obrysie. Na odwrotnej stronie mocowanie ze śrubki i nakrętki.
+
 2. Wzór odznaki określa załącznik nr 6d do rozporządzenia.
-§ 12g. 1. Odznakę, o której mowa w § 1 pkt 10, nadaje się policjantowi w uznaniu szczególnych zasług w zakre sie inicjowania, organizowania i prowadzenia działań związanych ze zwalczaniem przestępczości zorganizowanej.
+
+**§ 12g.**
+
+1. Odznakę, o której mowa w § 1 pkt 10, nadaje się policjantowi w uznaniu szczególnych zasług w zakre sie inicjowania, organizowania i prowadzenia działań związanych ze zwalczaniem przestępczości zorganizowanej.
+
 2. Odznaka może być nadana również pośmiertnie.
+
 3. Odznakę nadaje minister właściwy do spraw wewnętrznych na wniosek Komendanta Głównego Policji, z ini cjatywy Komendanta Centralnego Biura Śledczego Policji.
+
 4. Odznakę nadaje się z okazji Święta Policji lub Narodowego Święta Niepodległości.
-§ 12h. 1. Wniosek o nadanie odznaki, o której mowa w § 1 pkt 10, powinien zawierać dane osobowe policjanta oraz szczegółowy opis zasług i osiągnięć służbowych uzasadniających nadanie odznaki. Wzór wniosku stanowi za łącznik nr 1b do rozporządzenia.
+
+**§ 12h.**
+
+1. Wniosek o nadanie odznaki, o której mowa w § 1 pkt 10, powinien zawierać dane osobowe policjanta oraz szczegółowy opis zasług i osiągnięć służbowych uzasadniających nadanie odznaki. Wzór wniosku stanowi za łącznik nr 1b do rozporządzenia.
+
 2. Wniosek o nadanie odznaki powinien być zgłoszony drogą służbową ministrowi właściwemu do spraw wewnętrznych nie później niż miesiąc przed planowanym przez wnioskodawcę terminem wręczenia.
-§ 12i. 1. Odznaka, o której mowa w § 1 pkt 10, ma kształt gwiazdy policyjnej złożonej z ośmiu pęków promieni, jest wykonana z patynowanego metalu w kolorze srebrnym, a jej wymiary mieszczą się w kole o średnicy 45 mm. Na gwieździe jest nałożony wieniec z dwóch gałązek wawrzynu i dębiny, na którym widnieje stylizowany wizerunek orła z wzniesionymi skrzydłami trzymającego w szponach ośmiornicę. Na odwrotnej stronie odznaki znajduje się moco wanie złożone ze śrubki i nakrętki.
+
+**§ 12i.**
+
+1. Odznaka, o której mowa w § 1 pkt 10, ma kształt gwiazdy policyjnej złożonej z ośmiu pęków promieni, jest wykonana z patynowanego metalu w kolorze srebrnym, a jej wymiary mieszczą się w kole o średnicy 45 mm. Na gwieździe jest nałożony wieniec z dwóch gałązek wawrzynu i dębiny, na którym widnieje stylizowany wizerunek orła z wzniesionymi skrzydłami trzymającego w szponach ośmiornicę. Na odwrotnej stronie odznaki znajduje się moco wanie złożone ze śrubki i nakrętki.
+
 2. Wzór odznaki określa załącznik nr 6e do rozporządzenia.
-§ 13. 1. Uroczystego wręczenia odznak, o których mowa w § 1, dokonują osoby uprawnione do ich nadawania lub, w ich imieniu, osoby przez nie upoważnione.
+
+**§ 13.**
+
+1. Uroczystego wręczenia odznak, o których mowa w § 1, dokonują osoby uprawnione do ich nadawania lub, w ich imieniu, osoby przez nie upoważnione.
+
 2. Policjanci wyróżnieni odznakami, o których mowa w § 1 pkt 1, 3, 4 i 6‒10, otrzymują legitymacje stwierdzające ich nadanie. Legitymacje podpisują osoby uprawnione do nadawania odznak.
+
 3. Wzory legitymacji określają załączniki nr 7‒14 do rozporządzenia.
+
 4. Wręczenie odznaki, o której mowa w § 1 pkt 1, poprzedza się odczytaniem treści decyzji ministra właściwego do spraw wewnętrznych o jej nadaniu i wypowiedzeniem formuły „Wręczam odznakę Zasłużony Policjant” lub „W imieniu ministra właściwego do spraw wewnętrznych wręczam odznakę Zasłużony Policjant”.
-§ 14. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-– 11 – Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 lipca 2000 r. (Dz. U. z 2022 r.
-poz. …..) WZÓR WNIOSKU O NADANIE ODZNAKI „ZASŁUŻONY POLICJANT” Załącznik nr 1 WZÓR WNIOSKU O NADANIE strona ODZNAKI pierwsza „ZASŁUŻONY POLICJANT” strona pierwsza WNIOSEK O NADANIE ………………………… ODZNAKI (stopień odznaki) „ZASŁUŻONY POLICJANT”
-1. Nr ewidencyjny PESEL 2. NAZWISKO 3. IMIĘ / IMIONA
-4. Data urodzenia 5. Miejsce urodzenia 6. Imię ojca ........ ....................... …..... r.
-dzień miesiąc (słownie) rok
-7. Miejsce zameldowania na pobyt stały ......................................... ...........................................................
-województwo miejscowość (miasto-dzielnica-gmina) ...................................................... ............................................…..... ................ .............
-kod pocztowy i poczta ulica nr domu nr lokalu
-8. Dokument tożsamości ......................................................................................................................................................
-nazwa dokumentu seria i numer wystawca dokumentu data wydania
-9. Stopień 10. Stanowisko służbowe 11. Miejsce pełnienia służby
-12. Poprzednia(-e) odznaka(-i) „ZASŁUŻONY POLICJANT” posiada nie posiada ………………………............................………………………….……………………… jeżeli posiada, podać stopień i rok nadania odznak(-i)
-13. Uzasadnienie wniosku W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4.
-strona strona druga druga
-14. Jednostka organizacyjna Policji sporządzająca wniosek ........................................................................
-nazwa jednostki organizacyjnej Policji pieczęć Dnia ................................. 20…... r. .....................................................................
-podpis kierownika jednostki organizacyjnej Policji
-15. Ewentualne dodatkowe opinie
-16. WNOSZĘ O NADANIE .................................... ODZNAKI „ZASŁUŻONY POLICJANT” stopień odznaki pieczęć Dnia ................................. 20…... r. .......................................................
-podpis wnioskodawcy
-17. DECYZJA O NADANIU ODZNAKI nr .…….. z dnia ……………..…..........
-Minister właściwy do spraw wewnętrznych Załącznik nr 1a WZÓR WNIOSKU O NADANIE ODZNAKI „ODZNAKA HONOROWA SŁUŻBY WZÓR WNIOSKU O NADANIE ODZNAKI KONTRTERRORYSTYCZNEJ” „ODZNAKA HONOROWA SŁUŻBY KONTRTERRORYSTYCZNEJ” WNIOSEK O NADANIE ODZNAKI HONOROWEJ SŁUŻBY KONTRTERRORYSTYCZNEJ
-1. Nr ewidencyjny PESEL 2. NAZWISKO 3. IMIĘ / IMIONA
-4. Data urodzenia 5. Miejsce urodzenia 6. Imię ojca dzień miesiąc (słownie) rok
-7. Miejsce zameldowania na pobyt stały ………………………. ……………………………………… województwo miejscowość (miasto, dzielnica, gmina) ………………… …………………………… ………… …….……… kod pocztowy i poczta ulica nr domu nr lokalu
-8. Dokument tożsamości ……………………… ………………………… …………………………………. …………………… nazwa dokumentu seria i numer wystawca dokumentu data wydania
-9. Stopień 10. Stanowisko służbowe 11. Miejsce pełnienia służby
-12. Poprzednia(-nie) odznaka(-ki) ………………………………………………………………….
-jeżeli policjant posiada ją/je, podać stopień i rok nadania
-13. Uzasadnienie wniosku Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 5.
-14. Jednostka organizacyjna Policji sporządzająca wniosek ……………………………………………………..
-nazwa jednostki organizacyjnej pieczęć .................................................................
-podpis kierownika jednostki organizacyjnej
-15. Ewentualne dodatkowe opinie
-16. WNOSZĘ O NADANIE ODZNAKI HONOROWEJ SŁUŻBY KONTRTERRORYSTYCZNEJ pieczęć Dnia ………………….. 20…… r. ………...............................
-podpis wnioskodawcy
-17. DECYZJA O NADANIU ODZNAKI nr .…….. z dnia ……………..….......... Minister właściwy do spraw wewnętrznych – 15 – Załącznik nr 1b WZÓR WZÓR WNIOSEK O NADANIE ODZNAKI HONOROWEJ CENTRALNEGO BIURA ŚLEDCZEGO POLICJI
-1. Numer PESEL kandydata 2. Imię (imiona) 3. Nazwisko
-4. Data urodzenia 5. Miejsce urodzenia 6. Imię ojca Dzień – miesiąc (słownie) – rok
-7. Adres zamieszkania ………………………. ……………………………………… województwo miejscowość (miasto, dzielnica, gmina) ………………… …………………………… …………… .….……… kod pocztowy ulica numer domu numer lokalu
-8. Dokument tożsamości ……………………… ………………………… …………………………………. ………………… nazwa dokumentu seria i numer wystawca dokumentu data wydania
-9. Stopień policyjny 10. Stanowisko służbowe 11. Miejsce pełnienia służby
-12. Poprzednia(-nie) odznaka(-ki) ………………………………………………………………….
-jeżeli policjant posiada, podać nazwę i rok nadania
-13. Uzasadnienie wniosku Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 6.
-14. Jednostka organizacyjna Policji sporządzająca wniosek .....…………………………….. ...…………………………….……………..
-nazwa jednostki organizacyjnej podpis kierownika jednostki organizacyjnej dnia ………………
-15. Ewentualne inne uwagi
-16. WNOSZĘ O NADANIE ODZNAKI HONOROWEJ CENTRALNEGO BIURA ŚLEDCZEGO POLICJI dnia ………………….. ......................................
-podpis wnioskodawcy
-17. DECYZJA O NADANIU ODZNAKI HONOROWEJ CENTRALNEGO BIURA ŚLEDCZEGO POLICJI numer ……... z dnia ……………..…..... ………………………………… podpis ministra właściwego do spraw wewnętrznych – – 17 17 – – 17 – – 17 – – Z a ł ą cz n i k n r 2 Załącznik Załącznik Załącznik Załącznik Załącznik Załącznik nr nr nr 2 nr 2 nr 2 nr 2 2 WZÓR ODZNAKI „ZASŁUŻONY POLICJANT” L I C J AN T ” WZÓR W WZÓR WZÓR Z WZÓR WZÓR Ó R WZÓR ODZNAKI OD ODZNAKI ODZNAKI ODZNAKI Z ODZNAKI NAK ODZNAKI I „ZASŁUŻONY „ „ZASŁUŻONY Z „ZASŁUŻONY A „ZASŁUŻONY „ZASŁUŻONY S Ł „ZASŁUŻONY U Ż ONY POLICJANT” P POLICJANT” O POLICJANT” POLICJANT” POLICJANT” POLICJANT” Złota Z Złota ł Złota o Złota t Złota a Złota Złota Srebrna S re Srebrna Srebrna b Srebrna Srebrna Srebrna r n a Srebrna Brązowa B Brązowa r Brązowa ą Brązowa Brązowa z o w Brązowa Brązowa a Awers Aw Awers Awers Awers Awers e r s Awers Awers Aw Awers Awers Awers Awers e r s Awers Awers Aw Awers Awers Awers Awers e r s Awers Awers Awers Awers Rewers Rewers Rewers Rewers Rewers Rewers Rewers Rewers R Rewers e w e r s Rewers Rewers R Rewers e w e r Rewers s Rewers Rewers Rewers R Rewers e w e r Rewers s Rewers Rewers Rewers Baretka Baretka Baretka Baretka Baretka Baretka Baretka Baretka Baretka B Baretka a r e t k Baretka a Baretka Baretka Baretka B Baretka a r e t k Baretka a Baretka Baretka Baretka B Baretka a r e t k Baretka a – 18 – Załącznik nr 3 WZÓR ODZNAKI „ABSOLWENTA SZKOŁY” WZÓR ODZNAKI (skala „ABSOLWENTA 1:1) SZKOŁY” (skala 1:1) – 19 – – 19 – Załącznik nr 4 WZÓR ODZNAKI „INSTRUKTORA WYSZKOLENIA POLICYJNEGO” Załącznik nr WZÓR ODZNAKI „INSTRUKTORA WYSZKOLENIA (skala 1:1) POLICYJNEGO” Załącznik Załącznik nr WZÓR ODZNAKI „INSTRUKTORA WYSZKOLENIA POLICYJNEGO” WZÓR WZÓR ODZNAKI ODZNAKI „INSTRUKTORA (skala „INSTRUKTORA 1:1) WYSZKOLENIA WYSZKOLENIA POLICYJNEGO” POLICYJNEGO” (skala 1:1) (skala (skala 1:1) 1:1) Symbole określające specjalność instruktora Symbole określające specjalność instruktora Symbole określające specjalność instruktora Symbole Symbole określające określające specjalność specjalność instruktora instruktora Instruktor Instruktor Instruktor Instruktor Instruktor Instruktor wyszkolenia wyszkolenia strzeleckiego Instruktor Instruktor strzeleckiego posługiwania posługiwania się pałką typu się Instruktor pałką „TONFA” Instruktor typu „TONFA” wyszkolenia strzeleckiego posługiwania się pałką typu „TONFA” wyszkolenia wyszkolenia strzeleckiego strzeleckiego posługiwania posługiwania się pałką się pałką typu typu „TONFA” „TONFA” Instruktor Instruktor Instruktor Instruktor taktyk i technik Instruktor Instruktor Instruktor Instruktor Instruktor Instruktor taktyk taktyk interwencji i technik i technik interwencji interwencji doskonalenia doskonalenia doskonalenia techniki jazdy techniki techniki jazdy jazdy taktyk taktyk i technik i technik interwencji interwencji doskonalenia doskonalenia techniki techniki jazdy jazdy Załącznik nr 5 WZÓR WZÓR „POLICYJNEJ „POLICYJNEJ ODZNAKI ODZNAKI SPRAWNOŚCI SPRAWNOŚCI FIZYCZNEJ” FIZYCZNEJ” (skala 2:1) (skala 2:1) Załącznik nr 6 WZÓR ODZNAKI ZWYCIĘZCY W KONKURSIE LUB TURNIEJU WIEDZY I SPRAWNOŚCI ZAWODOWEJ WZÓR ODZNAKI ZWYCIĘZCY W KONKURSIE LUB TURNIEJU WIEDZY I SPRAWNOŚCI (skala 1:1) ZAWODOWEJ (skala 1:1) Załącznik nr 6a WZÓR ODZNAKI „PILOT LOTNICTWA POLICJI” WZÓR ODZNAKI „PILOT LOTNICTWA POLICJI” (skala (skala 2:1) 2:1) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3.
+
+**§ 14.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . – 11 – Załączniki do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 4 lipca 2000 r. (Dz. U. z 2022 r. poz. …..) WZÓR WNIOSKU O NADANIE ODZNAKI „ZASŁUŻONY POLICJANT” Załącznik nr 1 WZÓR WNIOSKU O NADANIE strona ODZNAKI pierwsza „ZASŁUŻONY POLICJANT” strona pierwsza WNIOSEK O NADANIE ………………………… ODZNAKI (stopień odznaki) „ZASŁUŻONY POLICJANT” 1. Nr ewidencyjny PESEL 2. NAZWISKO 3. IMIĘ / IMIONA 4. Data urodzenia 5. Miejsce urodzenia 6. Imię ojca ........ ....................... …..... r. dzień miesiąc (słownie) rok 7. Miejsce zameldowania na pobyt stały ......................................... ........................................................... województwo miejscowość (miasto-dzielnica-gmina) ...................................................... ............................................…..... ................ ............. kod pocztowy i poczta ulica nr domu nr lokalu 8. Dokument tożsamości ...................................................................................................................................................... nazwa dokumentu seria i numer wystawca dokumentu data wydania 9. Stopień 10. Stanowisko służbowe 11. Miejsce pełnienia służby 12. Poprzednia(-e) odznaka(-i) „ZASŁUŻONY POLICJANT” posiada nie posiada ………………………............................………………………….……………………… jeżeli posiada, podać stopień i rok nadania odznak(-i) 13. Uzasadnienie wniosku W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. strona strona druga druga 14. Jednostka organizacyjna Policji sporządzająca wniosek ........................................................................ nazwa jednostki organizacyjnej Policji pieczęć Dnia ................................. 20…... r. ..................................................................... podpis kierownika jednostki organizacyjnej Policji 15. Ewentualne dodatkowe opinie 16. WNOSZĘ O NADANIE .................................... ODZNAKI „ZASŁUŻONY POLICJANT” stopień odznaki pieczęć Dnia ................................. 20…... r. ....................................................... podpis wnioskodawcy 17. DECYZJA O NADANIU ODZNAKI nr .…….. z dnia ……………..….......... Minister właściwy do spraw wewnętrznych Załącznik nr 1a WZÓR WNIOSKU O NADANIE ODZNAKI „ODZNAKA HONOROWA SŁUŻBY WZÓR WNIOSKU O NADANIE ODZNAKI KONTRTERRORYSTYCZNEJ” „ODZNAKA HONOROWA SŁUŻBY KONTRTERRORYSTYCZNEJ” WNIOSEK O NADANIE ODZNAKI HONOROWEJ SŁUŻBY KONTRTERRORYSTYCZNEJ 1. Nr ewidencyjny PESEL 2. NAZWISKO 3. IMIĘ / IMIONA 4. Data urodzenia 5. Miejsce urodzenia 6. Imię ojca dzień miesiąc (słownie) rok 7. Miejsce zameldowania na pobyt stały ………………………. ……………………………………… województwo miejscowość (miasto, dzielnica, gmina) ………………… …………………………… ………… …….……… kod pocztowy i poczta ulica nr domu nr lokalu 8. Dokument tożsamości ……………………… ………………………… …………………………………. …………………… nazwa dokumentu seria i numer wystawca dokumentu data wydania 9. Stopień 10. Stanowisko służbowe 11. Miejsce pełnienia służby 12. Poprzednia(-nie) odznaka(-ki) …………………………………………………………………. jeżeli policjant posiada ją/je, podać stopień i rok nadania 13. Uzasadnienie wniosku Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 5. 14. Jednostka organizacyjna Policji sporządzająca wniosek …………………………………………………….. nazwa jednostki organizacyjnej pieczęć ................................................................. podpis kierownika jednostki organizacyjnej 15. Ewentualne dodatkowe opinie 16. WNOSZĘ O NADANIE ODZNAKI HONOROWEJ SŁUŻBY KONTRTERRORYSTYCZNEJ pieczęć Dnia ………………….. 20…… r. ………............................... podpis wnioskodawcy 17. DECYZJA O NADANIU ODZNAKI nr .…….. z dnia ……………..….......... Minister właściwy do spraw wewnętrznych – 15 – Załącznik nr 1b WZÓR WZÓR WNIOSEK O NADANIE ODZNAKI HONOROWEJ CENTRALNEGO BIURA ŚLEDCZEGO POLICJI 1. Numer PESEL kandydata 2. Imię (imiona) 3. Nazwisko 4. Data urodzenia 5. Miejsce urodzenia 6. Imię ojca Dzień – miesiąc (słownie) – rok 7. Adres zamieszkania ………………………. ……………………………………… województwo miejscowość (miasto, dzielnica, gmina) ………………… …………………………… …………… .….……… kod pocztowy ulica numer domu numer lokalu 8. Dokument tożsamości ……………………… ………………………… …………………………………. ………………… nazwa dokumentu seria i numer wystawca dokumentu data wydania 9. Stopień policyjny 10. Stanowisko służbowe 11. Miejsce pełnienia służby 12. Poprzednia(-nie) odznaka(-ki) …………………………………………………………………. jeżeli policjant posiada, podać nazwę i rok nadania 13. Uzasadnienie wniosku Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 6. 14. Jednostka organizacyjna Policji sporządzająca wniosek .....…………………………….. ...…………………………….…………….. nazwa jednostki organizacyjnej podpis kierownika jednostki organizacyjnej dnia ……………… 15. Ewentualne inne uwagi 16. WNOSZĘ O NADANIE ODZNAKI HONOROWEJ CENTRALNEGO BIURA ŚLEDCZEGO POLICJI dnia ………………….. ...................................... podpis wnioskodawcy 17. DECYZJA O NADANIU ODZNAKI HONOROWEJ CENTRALNEGO BIURA ŚLEDCZEGO POLICJI numer ……... z dnia ……………..…..... ………………………………… podpis ministra właściwego do spraw wewnętrznych – – 17 17 – – 17 – – 17 – – Z a ł ą cz n i k n r 2 Załącznik Załącznik Załącznik Załącznik Załącznik Załącznik nr nr nr 2 nr 2 nr 2 nr 2 2 WZÓR ODZNAKI „ZASŁUŻONY POLICJANT” L I C J AN T ” WZÓR W WZÓR WZÓR Z WZÓR WZÓR Ó R WZÓR ODZNAKI OD ODZNAKI ODZNAKI ODZNAKI Z ODZNAKI NAK ODZNAKI I „ZASŁUŻONY „ „ZASŁUŻONY Z „ZASŁUŻONY A „ZASŁUŻONY „ZASŁUŻONY S Ł „ZASŁUŻONY U Ż ONY POLICJANT” P POLICJANT” O POLICJANT” POLICJANT” POLICJANT” POLICJANT” Złota Z Złota ł Złota o Złota t Złota a Złota Złota Srebrna S re Srebrna Srebrna b Srebrna Srebrna Srebrna r n a Srebrna Brązowa B Brązowa r Brązowa ą Brązowa Brązowa z o w Brązowa Brązowa a Awers Aw Awers Awers Awers Awers e r s Awers Awers Aw Awers Awers Awers Awers e r s Awers Awers Aw Awers Awers Awers Awers e r s Awers Awers Awers Awers Rewers Rewers Rewers Rewers Rewers Rewers Rewers Rewers R Rewers e w e r s Rewers Rewers R Rewers e w e r Rewers s Rewers Rewers Rewers R Rewers e w e r Rewers s Rewers Rewers Rewers Baretka Baretka Baretka Baretka Baretka Baretka Baretka Baretka Baretka B Baretka a r e t k Baretka a Baretka Baretka Baretka B Baretka a r e t k Baretka a Baretka Baretka Baretka B Baretka a r e t k Baretka a – 18 – Załącznik nr 3 WZÓR ODZNAKI „ABSOLWENTA SZKOŁY” WZÓR ODZNAKI (skala „ABSOLWENTA 1:1) SZKOŁY” (skala 1:1) – 19 – – 19 – Załącznik nr 4 WZÓR ODZNAKI „INSTRUKTORA WYSZKOLENIA POLICYJNEGO” Załącznik nr WZÓR ODZNAKI „INSTRUKTORA WYSZKOLENIA (skala 1:1) POLICYJNEGO” Załącznik Załącznik nr WZÓR ODZNAKI „INSTRUKTORA WYSZKOLENIA POLICYJNEGO” WZÓR WZÓR ODZNAKI ODZNAKI „INSTRUKTORA (skala „INSTRUKTORA 1:1) WYSZKOLENIA WYSZKOLENIA POLICYJNEGO” POLICYJNEGO” (skala 1:1) (skala (skala 1:1) 1:1) Symbole określające specjalność instruktora Symbole określające specjalność instruktora Symbole określające specjalność instruktora Symbole Symbole określające określające specjalność specjalność instruktora instruktora Instruktor Instruktor Instruktor Instruktor Instruktor Instruktor wyszkolenia wyszkolenia strzeleckiego Instruktor Instruktor strzeleckiego posługiwania posługiwania się pałką typu się Instruktor pałką „TONFA” Instruktor typu „TONFA” wyszkolenia strzeleckiego posługiwania się pałką typu „TONFA” wyszkolenia wyszkolenia strzeleckiego strzeleckiego posługiwania posługiwania się pałką się pałką typu typu „TONFA” „TONFA” Instruktor Instruktor Instruktor Instruktor taktyk i technik Instruktor Instruktor Instruktor Instruktor Instruktor Instruktor taktyk taktyk interwencji i technik i technik interwencji interwencji doskonalenia doskonalenia doskonalenia techniki jazdy techniki techniki jazdy jazdy taktyk taktyk i technik i technik interwencji interwencji doskonalenia doskonalenia techniki techniki jazdy jazdy Załącznik nr 5 WZÓR WZÓR „POLICYJNEJ „POLICYJNEJ ODZNAKI ODZNAKI SPRAWNOŚCI SPRAWNOŚCI FIZYCZNEJ” FIZYCZNEJ” (skala 2:1) (skala 2:1) Załącznik nr 6 WZÓR ODZNAKI ZWYCIĘZCY W KONKURSIE LUB TURNIEJU WIEDZY I SPRAWNOŚCI ZAWODOWEJ WZÓR ODZNAKI ZWYCIĘZCY W KONKURSIE LUB TURNIEJU WIEDZY I SPRAWNOŚCI (skala 1:1) ZAWODOWEJ (skala 1:1) Załącznik nr 6a WZÓR ODZNAKI „PILOT LOTNICTWA POLICJI” WZÓR ODZNAKI „PILOT LOTNICTWA POLICJI” (skala (skala 2:1) 2:1) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3.
 
 ## Załącznik nr 6 — b WZÓR ODZNAKI „MECHANIK LOTNICTWA POLICJI” WZÓR ODZNAKI „MECHANIK LOTNICTWA POLICJI” (skala (skala 2:1) 2:1) Załącznik WZÓR ODZNAKI „SKOCZEK SPADOCHRONOWY POLICJI” (skala 1:1) WZÓR ODZNAKI „SKOCZEK SPADOCHRONOWY POLICJI” (skala 1:1) Odznaka Brązowa Odznaka Brązowa Odznaka Srebrna Odznaka Srebrna Odznaka Złota Odznaka Złota Dodany przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4.
 

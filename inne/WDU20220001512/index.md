@@ -35,62 +35,16 @@ source: pdf
     - **a)** w ust. 1 wyrazy „Centrum Polsko-Rosyjskiego Dialogu i Porozumienia” zastępuje się wyrazami „Centrum Dialogu im. Juliusza Mieroszewskiego”,
     - **b)** w ust. 4 po wyrazach „w kraju” dodaje się wyrazy „i za granicą”;
 
-- **4)** art. 3 otrzymuje brzmienie: „Art. 3. 1. Celem działalności Centrum jest inicjowanie, wspieranie i podejmowanie działań na rzecz dialogu i porozumienia w stosunkach Polaków z narodami Europy Wschodniej, w szczególności z Ukraińcami, Białorusinami, Gruzinami, Mołdawianami i Rosjanami.
-
-2. Do zadań Centrum należy:
-
-- **1)** prowadzenie badań naukowych;
-- **2)** prowadzenie działalności wydawniczej;
-- **3)** upowszechnianie w Polsce i poza jej granicami wiedzy o sytuacji politycznej, historii, kulturze i dziedzictwie narodów Europy Środkowej i Wschodniej;
-- **4)** prowadzenie i wspieranie działalności edukacyjnej;
-- **5)** zwalczanie stereotypów;
-- **6)** przeciwdziałanie dezinformacji;
-- **7)** organizowanie konferencji, seminariów, wykładów oraz debat publicznych;
-- **8)** dofinansowywanie przedsięwzięć podejmowanych na rzecz dialogu i porozumienia w stosunkach Polaków z narodami Europy Wschodniej, w szczególności z Ukraińcami, Białorusinami, Gruzinami, Mołdawianami i Rosjanami;
-- **9)** prowadzenie programów stypendialnych;
-- **10)** utrzymywanie kontaktów z ośrodkami akademickimi, eksperckimi, naukowymi, kulturalnymi i politycznymi.”;
+- **4)** art. 3 otrzymuje brzmienie: „Art. 3. 1. Celem działalności Centrum jest inicjowanie, wspieranie i podejmowanie działań na rzecz dialogu i porozumienia w stosunkach Polaków z narodami Europy Wschodniej, w szczególności z Ukraińcami, Białorusinami, Gruzinami, Mołdawianami i Rosjanami. 2. Do zadań Centrum należy: 1) prowadzenie badań naukowych; 2) prowadzenie działalności wydawniczej; 3) upowszechnianie w Polsce i poza jej granicami wiedzy o sytuacji politycznej, historii, kulturze i dziedzictwie narodów Europy Środkowej i Wschodniej; 4) prowadzenie i wspieranie działalności edukacyjnej; 5) zwalczanie stereotypów; 6) przeciwdziałanie dezinformacji; 7) organizowanie konferencji, seminariów, wykładów oraz debat publicznych; 8) dofinansowywanie przedsięwzięć podejmowanych na rzecz dialogu i porozumienia w stosunkach Polaków z narodami Europy Wschodniej, w szczególności z Ukraińcami, Białorusinami, Gruzinami, Mołdawianami i Rosjanami; 9) prowadzenie programów stypendialnych; 10) utrzymywanie kontaktów z ośrodkami akademickimi, eksperckimi, naukowymi, kulturalnymi i politycznymi.”;
 - **5)** w art. 6 uchyla się pkt 2;
 - **6)** w art. 8 w ust. 2 w pkt 4 wyrazy „języka rosyjskiego” zastępuje się wyrazami „języka angielskiego oraz ukraińskiego lub rosyjskiego”;
 - **7)** uchyla się art. 12–14;
 - **8)** w art. 19 ust. 6 otrzymuje brzmienie: „6. W posiedzeniach Rady Centrum mogą uczestniczyć, bez prawa głosu, Dyrektor Centrum, zastępcy Dyrektora Centrum oraz osoby zaproszone przez przewodniczącego Rady Centrum.”;
 - **9)** w art. 20 w ust. 4 wyrazy „zadań, o których mowa” zastępuje się wyrazami „zadania, o którym mowa”;
 - **10)** w art. 22 w ust. 6 wyrazy „nie wyższej niż 3%” zastępuje się wyrazami „nie wyższej niż 15%”;
-- **11)** po art. 23 dodaje się art. 23a–23e w brzmieniu: „Art. 23a. Pracownikami Centrum są pracownicy naukowi posiadający co najmniej stopień naukowy doktora lub uznany dorobek naukowy w dziedzinie związanej z zakresem działalności Centrum oraz pracownicy niebędący pracownikami naukowymi.
-
-**Art. 23b.** Pracownik naukowy jest obowiązany do prowadzenia badań naukowych oraz uczestniczenia w pracach organizacyjnych związanych z prowadzonymi badaniami naukowymi, a także stałego podnoszenia swoich kompetencji zawodowych.
-
-**Art. 23c.** Wykonywanie obowiązków pracownika naukowego stanowi:
-
-- **1)** działalność twórczą o indywidualnym charakterze, o której mowa w art. 1 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2021 r. poz. 1062 oraz z 2022 r. poz. 655);
-- **2)** działalność, o której mowa w art. 22 ust. 9b pkt 8 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm. ).
-
-**Art. 23d.** Pracownikom naukowym Centrum przysługuje urlop wypoczynkowy w wymiarze 36 dni w danym roku kalendarzowym.
-
-**Art. 23e.** W sprawach dotyczących stosunku pracy pracowników Centrum, nieuregulowanych w ustawie, stosuje się przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.”;
-
+- **11)** po art. 23 dodaje się art. 23a–23e w brzmieniu: „Art. 23a. Pracownikami Centrum są pracownicy naukowi posiadający co najmniej stopień naukowy doktora lub uznany dorobek naukowy w dziedzinie związanej z zakresem działalności Centrum oraz pracownicy niebędący pracownikami naukowymi. Art. 23b. Pracownik naukowy jest obowiązany do prowadzenia badań naukowych oraz uczestniczenia w pracach organizacyjnych związanych z prowadzonymi badaniami naukowymi, a także stałego podnoszenia swoich kompetencji zawodowych. Art. 23c. Wykonywanie obowiązków pracownika naukowego stanowi: 1) działalność twórczą o indywidualnym charakterze, o której mowa w art. 1 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2021 r. poz. 1062 oraz z 2022 r. poz. 655); 2) działalność, o której mowa w art. 22 ust. 9b pkt 8 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm. ). Art. 23d. Pracownikom naukowym Centrum przysługuje urlop wypoczynkowy w wymiarze 36 dni w danym roku kalendarzowym. Art. 23e. W sprawach dotyczących stosunku pracy pracowników Centrum, nieuregulowanych w ustawie, stosuje się przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.”;
 - **12)** uchyla się art. 24;
-- **13)** po art. 24 dodaje się art. 24a w brzmieniu: „Art. 24a. 1. Dyrektor Centrum ustanawia programy stypendialne Centrum w zakresie zadań, o których mowa w art. 3 ust. 2.
-
-2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania stypendiów, w ramach programów stypendialnych Centrum, o których mowa w ust. 1, w szczególności:
-
-- **1)** rodzaje stypendiów,
-- **2)** osoby uprawnione do ubiegania się o przyznanie stypendium,
-- **3)** maksymalną wysokość stypendium, o którą można się ubiegać,
-- **4)** tryb przeprowadzania naboru wniosków o przyznanie stypendium,
-- **5)** kryteria oceny wniosków o przyznanie stypendium – uwzględniając znaczenie osiągnięć i inicjatyw dla dialogu i porozumienia w stosunkach Polaków z narodami Europy Wschodniej, w szczególności z Ukraińcami, Białorusinami, Gruzinami, Mołdawianami i Rosjanami, a także z innymi narodami Federacji Rosyjskiej.
-
-3. Wysokość stypendium nie może być niższa niż jednokrotność i wyższa niż dwunastokrotność przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzednim, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” zgodnie z art. 5 ust. 7 ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych.
-
-4. Miesięczna wysokość stypendium wypłacanego w formie świadczenia okresowego nie może być wyższa niż trzykrotność wynagrodzenia, o którym mowa w ust. 3.
-
-5. Do przyznawania stypendiów przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052 oraz z 2022 r. poz. 1301) nie stosuje się.
-
-6. Centrum finansuje stypendia ze środków z funduszu stypendialnego, o którym mowa w art. 22 ust. 1 pkt 3.
-
-7. Centrum przekazuje środki finansowe w ramach programów stypendialnych na podstawie zawartej ze stypendystą umowy o przyznanie stypendium.
-
-8. Dyrektor Centrum ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej Centrum regulamin programu stypendialnego Centrum.”;
-
+- **13)** po art. 24 dodaje się art. 24a w brzmieniu: „Art. 24a. 1. Dyrektor Centrum ustanawia programy stypendialne Centrum w zakresie zadań, o których mowa w art. 3 ust. 2. 2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania stypendiów, w ramach programów stypendialnych Centrum, o których mowa w ust. 1, w szczególności: 1) rodzaje stypendiów, 2) osoby uprawnione do ubiegania się o przyznanie stypendium, 3) maksymalną wysokość stypendium, o którą można się ubiegać, 4) tryb przeprowadzania naboru wniosków o przyznanie stypendium, 5) kryteria oceny wniosków o przyznanie stypendium – uwzględniając znaczenie osiągnięć i inicjatyw dla dialogu i porozumienia w stosunkach Polaków z narodami Europy Wschodniej, w szczególności z Ukraińcami, Białorusinami, Gruzinami, Mołdawianami i Rosjanami, a także z innymi narodami Federacji Rosyjskiej. 3. Wysokość stypendium nie może być niższa niż jednokrotność i wyższa niż dwunastokrotność przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzednim, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” zgodnie z art. 5 ust. 7 ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych. 4. Miesięczna wysokość stypendium wypłacanego w formie świadczenia okresowego nie może być wyższa niż trzykrotność wynagrodzenia, o którym mowa w ust. 3. 5. Do przyznawania stypendiów przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052 oraz z 2022 r. poz. 1301) nie stosuje się. 6. Centrum finansuje stypendia ze środków z funduszu stypendialnego, o którym mowa w art. 22 ust. 1 pkt 3. 7. Centrum przekazuje środki finansowe w ramach programów stypendialnych na podstawie zawartej ze stypendystą umowy o przyznanie stypendium. 8. Dyrektor Centrum ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej Centrum regulamin programu stypendialnego Centrum.”;
 - **14)** w art. 25 ust. 1 otrzymuje brzmienie: „1. Z wnioskiem o dofinansowanie przedsięwzięcia na rzecz dialogu i porozumienia Polaków z narodami Europy Wschodniej, zwanego dalej „dofinansowaniem przedsięwzięcia”, może wystąpić każdy podmiot w sprawach objętych zakresem działania Centrum prowadzący niezarobkową działalność na terytorium Rzeczypospolitej Polskiej, państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub państwa, które jest stroną układów o stowarzyszeniu z Unią Europejską i umów z Unią Europejską o pogłębionej i kompleksowej strefie wolnego handlu.”.
 
 **Art. 2.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2022 r. poz. 1452) w art. 7 w ust. 2 w pkt 5b kropkę zastępuje się średnikiem i dodaje się pkt 5c w brzmieniu: „5c) Centrum Dialogu im. Juliusza Mieroszewskiego, z wyjątkiem przedmiotów opodatkowania zajętych na działalność gospodarczą.”.

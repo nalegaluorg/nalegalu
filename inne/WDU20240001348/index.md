@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001348) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1348/text.pdf) |
 
 zmieniające rozporządzenie w sprawie konkursu na kandydata na stanowisko dyrektora instytucji kultury Na podstawie art. 16 ust. 6 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2024 r. poz. 87) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 12 kwietnia 2019 r. w sprawie konkursu na kandydata na stanowisko dyrektora instytucji kultury (Dz. U. poz. 724) w § 4 w ust. 3 uchyla się pkt 3.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: H. Wróblewska
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 12 kwietnia 2019 r. w sprawie konkursu na kandydata na stanowisko dyrektora instytucji kultury (Dz. U. poz. 724) w § 4 w ust. 3 uchyla się pkt 3.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: H. Wróblewska
 

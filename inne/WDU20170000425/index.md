@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000425) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/425/text.pdf) |
 
 zmieniające rozporządzenie w sprawie informacji podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej Na podstawie art. 83 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 14 lutego 2003 r. w sprawie informacji podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej (Dz. U. poz. 266 oraz z 2011 r. poz. 96) w § 1 we wprowadzeniu do wyliczenia wyrazy „ministrowi właściwemu do spraw finansów publicznych” zastępuje się wyrazami „Szefowi Krajowej Administracji Skarbowej”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
-Minister Rozwoju i Finansów: wz. W. Janczyk
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 14 lutego 2003 r. w sprawie informacji podatkowych przekazywanych przez organy lub jednostki podległe Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw administracji publicznej (Dz. U. poz. 266 oraz z 2011 r. poz. 96) w § 1 we wprowadzeniu do wyliczenia wyrazy „ministrowi właściwemu do spraw finansów publicznych” zastępuje się wyrazami „Szefowi Krajowej Administracji Skarbowej”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r. Minister Rozwoju i Finansów: wz. W. Janczyk
 

@@ -8,12 +8,10 @@ pos: 878
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# 1. Rozporządzenie określa:
-
-*ROZPORZĄDZENIE MINISTRA PRZEDSIĘBIORCZOŚCI I TECHNOLOGII dnia 25 kwietnia 2019 sprawie urządzeń niezbędnych do wykonywania instalacji, sprawdzania, przeglądów napraw tachografów analogowych lub cyfrowych Na podstawie art. 20 ustawy dnia 5 lipca 2018 tachografach (Dz. U. 1480) zarządza się, co następuje:*
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 878 ROZPORZĄDZENIE MINISTRA PRZEDSIĘBIORCZOŚCI I TECHNOLOGII z dnia 25 kwietnia 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,31 +25,54 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-08-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000878) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/878/text.pdf) |
 
-1) wykaz urządzeń niezbędnych do wykonywania instalacji, sprawdzania, przeglądów napraw tachografów analogowych lub cyfrowych, zwanych dalej „tachografami”, oraz szczegółowe wymagania, które muszą być spełnione przez te urządzenia;
-2) dokumenty potwierdzające spełnianie wymagań, których mowa pkt 1;
-3) zakres sposób dokumentowania wykonywanych czynności zakresie posiadanego zezwolenia;
-4) zakres sposób pobierania danych dotyczących każdego użycia karty warsztatowej oraz przechowywania tych danych postaci elektronicznej.
-2. Wykaz urządzeń niezbędnych do wykonywania instalacji, sprawdzania, przeglądów napraw tachografów, szczegółowe wymagania, które muszą być spełnione przez te urządzenia, oraz dokumenty potwierdzające spełnianie szczegółowych wymagań przez te urządzenia określa załącznik do rozporządzenia.
-3. 1. Podmiot prowadzący działalność zakresie instalacji tachografów, instalacji sprawdzania tachografów oraz instalacji, sprawdzania, przeglądów napraw tachografów dokumentuje wykonane czynności protokole.
-2. W protokole wykonanych czynności zamieszcza się szczególności:
-1) datę przyjęcia wydania tachografu;
-2) dane zleceniodawcy, tym imię nazwisko, miejsce adres zamieszkania albo firmę, siedzibę adres;
-3) dane identyfikujące pojazd, tym numer identyfikacyjny pojazdu numer rejestracyjny pojazdu;
-4) dane identyfikujące tachograf, tym znaki homologacji numery fabryczne części składowych;
-5) informacje miejscach formie zabezpieczeń nałożonych na elementy składowe tachografu oraz znajdujących się na nich specjalnych cechach danych identyfikacyjnych, przy przyjęciu przy wydaniu tachografu;
-10) podpis pracownika odpowiedzialnego za wykonane czynności lub dane identyfikujące tego pracownika, przypadku prowadzenia dokumentacji systemie informatycznym.
-3. Do protokołu wykonanych czynności dołącza się jako załączniki:
-1) wydruki techniczne wykonane przy przyjęciu wydaniu tachografu albo użyte wykresówki do tachografów analogowych;
-2) dokumentację dotyczącą:
-a) oględzin zewnętrznych tachografu oraz poprawności jego instalacji,
-b) sprawdzenia poprawności wskazań rejestracji: prędkości, długości drogi, czasu, danych dotyczących czynności kierowców oraz wymaganych zdarzeń usterek tachografu,
-c) oznaczeń rozmiaru konstrukcji opon oraz wyznaczonego obwodu tocznego kół pojazdu,
-d) wartości stałej tachografu oraz współczynnika charakterystycznego pojazdu.
-4. Protokół wraz załącznikami może być sporządzony postaci papierowej lub systemie informatycznym.
-4. 1. Każde użycie karty warsztatowej musi być dokumentowane.
-2. Dane zapisane na karcie warsztatowej posiadacz karty kopiuje na inny nośnik, zapewniający spełnienie wymagań, których mowa ust. 4.
-3. Kopia danych zawiera wszystkie dane zapisane na karcie warsztatowej. Częstotliwość kopiowania uwzględnia rzeczywistą możliwość gromadzenia danych na kartach warsztatowych gwarantuje ich nieutracenie przez nadpisanie nowymi danymi.
-4. Dane skopiowane kart warsztatowych podmiot prowadzący warsztat przechowuje oryginalnym formacie sposób uporządkowany, zapewniający ich bezpieczeństwo oraz możliwość ponownego odczytania.
-5. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
-Minister Przedsiębiorczości Technologii: J. Emilewicz W W W W W W W M M M W W W M W W W W W
+w sprawie urządzeń niezbędnych do wykonywania instalacji, sprawdzania, przeglądów i napraw tachografów analogowych lub cyfrowych Na podstawie art. 20 ustawy z dnia 5 lipca 2018 r. o tachografach (Dz. U. poz. 1480) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wykaz urządzeń niezbędnych do wykonywania instalacji, sprawdzania, przeglądów i napraw tachografów analogowych lub cyfrowych, zwanych dalej „tachografami”, oraz szczegółowe wymagania, które muszą być spełnione przez te urządzenia;
+- **2)** dokumenty potwierdzające spełnianie wymagań, o których mowa w pkt 1;
+- **3)** zakres i sposób dokumentowania wykonywanych czynności w zakresie posiadanego zezwolenia;
+- **4)** zakres i sposób pobierania danych dotyczących każdego użycia karty warsztatowej oraz przechowywania tych danych w postaci elektronicznej.
+
+**§ 2.** Wykaz urządzeń niezbędnych do wykonywania instalacji, sprawdzania, przeglądów i napraw tachografów, szczegółowe wymagania, które muszą być spełnione przez te urządzenia, oraz dokumenty potwierdzające spełnianie szczegółowych wymagań przez te urządzenia określa załącznik do rozporządzenia.
+
+**§ 3.**
+
+1. Podmiot prowadzący działalność w zakresie instalacji tachografów, instalacji i sprawdzania tachografów oraz instalacji, sprawdzania, przeglądów i napraw tachografów dokumentuje wykonane czynności w protokole.
+
+2. W protokole z wykonanych czynności zamieszcza się w szczególności:
+
+- **1)** datę przyjęcia i wydania tachografu;
+- **2)** dane zleceniodawcy, w tym imię i nazwisko, miejsce i adres zamieszkania albo firmę, siedzibę i adres;
+- **3)** dane identyfikujące pojazd, w tym numer identyfikacyjny pojazdu i numer rejestracyjny pojazdu;
+- **4)** dane identyfikujące tachograf, w tym znaki homologacji i numery fabryczne części składowych;
+- **5)** informacje o miejscach i formie zabezpieczeń nałożonych na elementy składowe tachografu oraz znajdujących się na nich specjalnych cechach i danych identyfikacyjnych, przy przyjęciu i przy wydaniu tachografu;
+- **6)** informacje o miejscu nałożenia tabliczki instalacyjnej;
+- **7)** informacje o wykrytych urządzeniach lub przedmiotach lub zainstalowanym oprogramowaniu, wykonanych lub przeznaczonych do celów podrabiania lub przerabiania danych rejestrowanych przez tachograf, albo informację o ich niewykryciu;
+- **8)** informacje o spełnieniu przez tachograf wymagań w zakresie dopuszczalnych błędów, o ile wyznaczanie błędów było wykonane;
+- **9)** informacje o pobraniu lub braku możliwości pobrania danych z tachografu i wskazaniu przyczyn niepobrania tych danych;
+- **10)** podpis pracownika odpowiedzialnego za wykonane czynności lub dane identyfikujące tego pracownika, w przypadku prowadzenia dokumentacji w systemie informatycznym.
+
+3. Do protokołu z wykonanych czynności dołącza się jako załączniki:
+
+- **1)** wydruki techniczne wykonane przy przyjęciu i wydaniu tachografu albo użyte wykresówki do tachografów analogowych;
+- **2)** dokumentację dotyczącą:
+    - **a)** oględzin zewnętrznych tachografu oraz poprawności jego instalacji,
+    - **b)** sprawdzenia poprawności wskazań i rejestracji: prędkości, długości drogi, czasu, danych dotyczących czynności kierowców oraz wymaganych zdarzeń i usterek tachografu,
+    - **c)** oznaczeń rozmiaru i konstrukcji opon oraz wyznaczonego obwodu tocznego kół pojazdu,
+    - **d)** wartości stałej tachografu oraz współczynnika charakterystycznego pojazdu.
+
+4. Protokół wraz z załącznikami może być sporządzony w postaci papierowej lub w systemie informatycznym.
+
+**§ 4.**
+
+1. Każde użycie karty warsztatowej musi być dokumentowane.
+
+2. Dane zapisane na karcie warsztatowej posiadacz karty kopiuje na inny nośnik, zapewniający spełnienie wymagań, o których mowa w ust. 4.
+
+3. Kopia danych zawiera wszystkie dane zapisane na karcie warsztatowej. Częstotliwość kopiowania uwzględnia rzeczywistą możliwość gromadzenia danych na kartach warsztatowych i gwarantuje ich nieutracenie przez nadpisanie nowymi danymi.
+
+4. Dane skopiowane z kart warsztatowych podmiot prowadzący warsztat przechowuje w oryginalnym formacie w sposób uporządkowany, zapewniający ich bezpieczeństwo oraz możliwość ponownego odczytania.
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Przedsiębiorczości i Technologii: J. Emilewicz W W W M W W M W W M W W W W W W M W W W W
 

@@ -8,10 +8,10 @@ pos: 1580
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 października 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1580 Załącznik do rozporządzenia Ministra Sprawiedliwości z dnia TEST SPRAWNOŚCI FIZYCZNEJ W SŁUŻBIE WIĘZIENNEJ Test sprawności fizycznej składa się z pięciu prób sprawnościowych umożliwiających dokonanie pomiaru podstawowych zdolności motorycznych, tj. szybkości, zwinności, siły, mocy (skoczności) oraz gibkości.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-05-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001580) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1580/text.pdf) |
 
-Test sprawności fizycznej składa się z pięciu prób sprawnościowych umożliwiających dokonanie pomiaru podstawowych zdolności motorycznych, tj. szybkości, zwinności, siły, mocy (skoczności) oraz gibkości.
 Testy sprawności fizycznej przeprowadza się w zakładach karnych, aresztach śledczych, Centralnym Ośrodku Szkolenia Służby Więziennej, ośrodkach szkolenia Służby Więziennej lub ośrodkach doskonalenia kadr Służby Więziennej wyznaczonych przez organy Służby Więziennej, o których mowa w art. 7 pkt 1 i 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej.
 W uzasadnionych przypadkach jest możliwe przeprowadzenie testów sprawności fizycznej w innych miejscach, w szczególności w obiektach lub halach sportowych.
 Za przeprowadzenie testu sprawności fizycznej odpowiada kierownik jednostki organizacyjnej Służby Więziennej, o przyjęcie do której ubiega się kandydat, lub w której funkcjonariusz pełni służbę.
@@ -52,7 +51,7 @@ II. OPIS PRZEPROWADZANIA POSZCZEGÓLNYCH PRÓB SPRAWNOŚCIOWYCH, NORMY I OCENY S
 a) bieg wahadłowy 10 x 10 − mężczyźni,
 b) bieg wahadłowy 6 x 10 − kobiety,
 c) bieg wahadłowy 6 x 10 − kobiety i mężczyźni dział ochrony od 50 roku życia.
-1. PRÓBA MOCY (SKOCZNOŚCI) − SKOK W DAL Z MIEJSCA
+1. PRÓBA MOCY (SKOCZNOŚCI) −−−− SKOK W DAL Z MIEJSCA
 1) sposób wykonania (przyrządy i przybory: kreda, taśma miernicza): badany staje w małym rozkroku z ustawionymi równolegle stopami przed wyznaczoną linią, następnie pochyla tułów do przodu, ugina nogi (półprzysiad) z równoczesnym zamachem obu rąk dołem w tył, po czym wykonuje wymach rąk wprzód i odbijając się jednocześnie energicznie od podłoża, skacze jak najdalej; długość skoku mierzy się od wyznaczonej linii do najbliższego śladu pozostawionego przez piętę skaczącego;
 jeżeli skaczący po wykonaniu skoku przewróci się do tyłu, wówczas skok powtarza;
 próbę wykonuje się 3 razy, zaliczając najlepszy wynik;
@@ -66,18 +65,18 @@ energicznie wyrzuca piłkę łagodnym łukiem w przód; jeżeli badany przekrocz
 2) punktacja wyników:
 a) mężczyźni: Lp. Ocena Wynik w metrach Punkty 1 negatywna poniżej 8 0 2 przeciętna 8 1 3 dostateczna 8,00−9,50 2 4 dobra 9,60−10,90 3 5 bardzo dobra 11,00 − 12,50 4 6 wysoka 12,60−14,90 5 7 bardzo wysoka 15 i dalej 6
 b) kobiety: Lp. Ocena Wynik w metrach Punkty 1 negatywna poniżej 4 0 2 przeciętna 4 1 3 dostateczna 4,00−5,50 2 4 dobra 5,60−6,90 3 5 bardzo dobra 7,00−8,50 4 6 wysoka 8,60−10,90 5 7 bardzo wysoka 11 i dalej 6
-3. PRÓBA GIBKOŚCI −− SKŁON TUŁOWIA W PRZÓD (POSTAWA STOJĄCA)
+3. PRÓBA GIBKOŚCI −−−− SKŁON TUŁOWIA W PRZÓD (POSTAWA STOJĄCA)
 1) sposób wykonania: badany staje w pozycji na baczność; nie zginając nóg w kolanach, wykonuje ruchem ciągłym skłon w przód;
 2) punktacja wyników (mężczyźni i kobiety): Lp. Ocena Wynik Punkty 1 negatywna niewykonanie żadnego ćwiczenia z lp. 2−7 0 2 przeciętna chwyć oburącz kostki 1 3 dostateczna palcami obu rąk dotknij palców stóp 2 4 dobra palcami obu rąk dotknij do podłoża 3 5 bardzo dobra wszystkimi palcami (obu rąk) dotknij 4 do podłoża 6 wysoka dotknij całymi dłońmi do podłoża 5 7 bardzo wysoka dotknij głową kolan 6
-4. PRÓBA ZWINNOŚCI −− BIEG ZYGZAKIEM W PROSTOKĄCIE 3x5 m
+4. PRÓBA ZWINNOŚCI −−−− BIEG ZYGZAKIEM W PROSTOKĄCIE 3x5 m
 1) sposób wykonania (przyrządy i przybory: taśma miernicza, kreda, stoper, 5 palików chorągiewek): bieg zygzakiem jest przeprowadzany na trasie usytuowanej w prostokącie 3x5 m;
 we wszystkich rogach prostokąta oraz na przecięciu przekątnych są umieszczone paliki - chorągiewki) mające około 1,5 m wysokości; osoba badana startuje z pozycji wykrocznej − wysoki start − omijając paliki - chorągiewki, a następnie biegnie po wyznaczonej trasie; próba ta obejmuje trzykrotne przebiegnięcie trasy; czas mierzymy z dokładnością do 0,1 sekundy; próbę wykonuje się raz;
-5. PRÓBA SZYBKOŚCI −− BIEG WAHADŁOWY
+5. PRÓBA SZYBKOŚCI −−−− BIEG WAHADŁOWY
 1) sposób wykonania (przyrządy i przybory: taśma miernicza, kreda, stoper, 2 paliki chorągiewki): należy ustawić dwa paliki - chorągiewki w odległości 10 metrów od siebie; wykreślić linię startu przy pierwszym paliku - chorągiewce, która jest jednocześnie linią startu i mety; badany staje przed linią startu; na sygnał biegnie szybko w kierunku drugiego palika - chorągiewki i obiega go; biegnący pokonuje łącznie 10 odcinków 10metrowych, co daję sumę odcinka 100 metrów; dla kobiet trasa biegu wynosi 6x10 metrów, co daje sumę 60 metrów; warunki wykonania próby dla kobiet są identyczne jak dla mężczyzn; czas mierzymy z dokładnością do 0,1 sekundy; próbę wykonuje się tylko raz;
 2) punktacja wyników:
 a) mężczyźni 10x10 m: Lp. Ocena Wynik w sekundach Punkty 1 Negatywna powyżej 34,5 0 2 Przeciętna 34,5 1 3 Dostateczna 32,9−34,4 2 4 Dobra 31,3−32,8 3 5 bardzo dobra 29,7−31,2 4 6 wysoka 27,1−29,6 5 7 bardzo wysoka 27,0 i mniej 6
 b) kobiety 6x10 m: Lp. Ocena Wynik w sekundach Punkty 1 negatywna powyżej 24,5 0 2 przeciętna 24,5 1 3 dostateczna 22,9 − 24,4 2 4 dobra 21,3 − 22,8 3 5 bardzo dobra 19,7−21,2 4 6 wysoka 17,1−19,6 5 7 bardzo wysoka 17,0 i mniej 6
-c) funkcjonariusze działu ochrony 6x10 m − grupa wiekowa od 50 roku życia: - mężczyźni: Lp. Ocena Wynik w sekundach Punkty 1 negatywna powyżej 26,0 0 2 przeciętna 26,0 1 3 dostateczna 24,4−25,9 2 4 dobra 22,8−24,3 3 5 bardzo dobra 21,2−22,7 4 6 wysoka 18,6−21,1 5 7 bardzo wysoka 18,5 i mniej 6 - kobiety: Lp. Ocena Wynik w sekundach Punkty 1 negatywna powyżej 27,5 0 2 przeciętna 27,5 1 3 dostateczna 25,9−27,4 2 4 dobra 24,3−25,8 3 5 bardzo dobra 22,7−24,2 4 6 wysoka 20,1−22,6 5 7 bardzo wysoka 20,0 i mniej 6 III. NORMY I OCENY DLA POSZCZEGÓLNYCH KATEGORII WIEKU KOBIET I MĘŻCZYZN Punkty uzyskane w poszczególnych próbach sprawnościowych należy zsumować i odczytać uzyskany wynik w poniższych tabelach, uwzględniając wiek, płeć oraz przynależność do działu służby.
-1) specjalizacja pozaochronna: PUNKTY WIEK/OCENA do 29 lat 30−−39 lat 40−−−−49 lat 50 lat i więcej negatywna poniżej 7 poniżej 6 poniżej 5 poniżej 4 przeciętna 7−10 6−9 5−8 4−7 dostateczna 11−14 10−13 9−12 8−11 dobra 15−18 14−17 13−16 12−15 bardzo dobra 19−22 18−21 17−20 16−19 wysoka 23−28 22−27 21−26 20−25 bardzo wysoka 29−30 28−30 27−30 26−30
-2) specjalizacja ochronna: PUNKTY WIEK/OCENA do 29 lat 30−−39 lat 40−−49 lat 50 lat i więcej negatywna poniżej 9 poniżej 8 poniżej 7 poniżej 6 przeciętna 9−12 8−11 7−10 6−9 dostateczna 13−16 12−15 11−14 10−13 dobra 17−20 16−19 15−18 14−17 bardzo dobra 21−24 20−23 19−22 18−21 wysoka 25−28 24−28 23−28 22−27 bardzo wysoka 29−30 29−30 29−30 28−30
+c) funkcjonariusze działu ochrony 6x10 m −−−− grupa wiekowa od 50 roku życia: - mężczyźni: Lp. Ocena Wynik w sekundach Punkty 1 negatywna powyżej 26,0 0 2 przeciętna 26,0 1 3 dostateczna 24,4−25,9 2 4 dobra 22,8−24,3 3 5 bardzo dobra 21,2−22,7 4 6 wysoka 18,6−21,1 5 7 bardzo wysoka 18,5 i mniej 6 - kobiety: Lp. Ocena Wynik w sekundach Punkty 1 negatywna powyżej 27,5 0 2 przeciętna 27,5 1 3 dostateczna 25,9−27,4 2 4 dobra 24,3−25,8 3 5 bardzo dobra 22,7−24,2 4 6 wysoka 20,1−22,6 5 7 bardzo wysoka 20,0 i mniej 6 III. NORMY I OCENY DLA POSZCZEGÓLNYCH KATEGORII WIEKU KOBIET I MĘŻCZYZN Punkty uzyskane w poszczególnych próbach sprawnościowych należy zsumować i odczytać uzyskany wynik w poniższych tabelach, uwzględniając wiek, płeć oraz przynależność do działu służby.
+1) specjalizacja pozaochronna: PUNKTY WIEK/OCENA do 29 lat 30−−−−39 lat 40−−−−49 lat 50 lat i więcej negatywna poniżej 7 poniżej 6 poniżej 5 poniżej 4 przeciętna 7−10 6−9 5−8 4−7 dostateczna 11−14 10−13 9−12 8−11 dobra 15−18 14−17 13−16 12−15 bardzo dobra 19−22 18−21 17−20 16−19 wysoka 23−28 22−27 21−26 20−25 bardzo wysoka 29−30 28−30 27−30 26−30
+2) specjalizacja ochronna: PUNKTY WIEK/OCENA do 29 lat 30−−−−39 lat 40−−−−49 lat 50 lat i więcej negatywna poniżej 9 poniżej 8 poniżej 7 poniżej 6 przeciętna 9−12 8−11 7−10 6−9 dostateczna 13−16 12−15 11−14 10−13 dobra 17−20 16−19 15−18 14−17 bardzo dobra 21−24 20−23 19−22 18−21 wysoka 25−28 24−28 23−28 22−27 bardzo wysoka 29−30 29−30 29−30 28−30
 

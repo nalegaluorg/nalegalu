@@ -27,9 +27,11 @@ source: pdf
 
 w sprawie ustalenia liczby sędziów w sądach dyscyplinarnych przy wojskowych sądach okręgowych Na podstawie art. 39d ustawy z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. z 2017 r.
 poz. 2243 i 2265 oraz z 2018 r. poz. 3 i 5) zarządza się, co następuje:
-§ 1. Ustala się liczbę sędziów w sądach dyscyplinarnych przy:
-1) Wojskowym Sądzie Okręgowym w Poznaniu – 5;
-2) Wojskowym Sądzie Okręgowym w Warszawie – 5.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 3 kwietnia 2018 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** Ustala się liczbę sędziów w sądach dyscyplinarnych przy:
+
+- **1)** Wojskowym Sądzie Okręgowym w Poznaniu – 5;
+- **2)** Wojskowym Sądzie Okręgowym w Warszawie – 5.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 3 kwietnia 2018 r. Minister Sprawiedliwości: Z. Ziobro
 

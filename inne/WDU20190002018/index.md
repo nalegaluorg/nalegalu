@@ -26,11 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002018) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2018/text.pdf) |
 
 zmieniające rozporządzenie w sprawie urządzenia do symulowania jazdy w warunkach specjalnych Na podstawie art. 39g ust. 12 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2019 r. poz. 58, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 8 kwietnia 2011 r. w sprawie urządzenia do symulowania jazdy w warunkach specjalnych (Dz. U. poz. 444), w załączniku w części I. „Ogólne wymagania techniczno-organizacyjne symulatora” wprowadza się następujące zmiany:
-1) w § 1 pkt 3 otrzymuje brzmienie: „3) rozporządzeniu Ministra Rozwoju z dnia 2 czerwca 2016 r. w sprawie wymagań dla sprzętu elektrycznego (Dz. U. poz. 806).”;
-2) w § 2 pkt 1 i 2 otrzymują brzmienie: „1) przenoszącej normę EN 61010-1:2011;
-2) przenoszącej normę ISO 7000:2012.”.
-§ 2. Urządzenia do symulowania jazdy w warunkach specjalnych, spełniające wymagania określone w § 1 pkt 3 oraz w § 2 pkt 1 i 2 w części I. „Ogólne wymagania techniczno-organizacyjne symulatora” w załączniku do rozporządzenia w brzmieniu dotychczasowym, użytkowane lub wprowadzone do obrotu przed dniem wejścia w życie niniejszego rozporządzenia, uznaje się za urządzenia spełniające wymagania określone w niniejszym rozporządzeniu.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Infrastruktury: wz. A. Bittel
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury z dnia 8 kwietnia 2011 r. w sprawie urządzenia do symulowania jazdy w warunkach specjalnych (Dz. U. poz. 444), w załączniku w części I. „Ogólne wymagania techniczno-organizacyjne symulatora” wprowadza się następujące zmiany:
+
+- **1)** w § 1 pkt 3 otrzymuje brzmienie: „3) rozporządzeniu Ministra Rozwoju z dnia 2 czerwca 2016 r. w sprawie wymagań dla sprzętu elektrycznego (Dz. U. poz. 806).”;
+- **2)** w § 2 pkt 1 i 2 otrzymują brzmienie: „1) przenoszącej normę EN 61010-1:2011; 2) przenoszącej normę ISO 7000:2012.”.
+
+**§ 2.** Urządzenia do symulowania jazdy w warunkach specjalnych, spełniające wymagania określone w § 1 pkt 3 oraz w § 2 pkt 1 i 2 w części I. „Ogólne wymagania techniczno-organizacyjne symulatora” w załączniku do rozporządzenia w brzmieniu dotychczasowym, użytkowane lub wprowadzone do obrotu przed dniem wejścia w życie niniejszego rozporządzenia, uznaje się za urządzenia spełniające wymagania określone w niniejszym rozporządzeniu.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Infrastruktury: wz. A. Bittel
 

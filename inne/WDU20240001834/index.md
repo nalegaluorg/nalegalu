@@ -31,20 +31,7 @@ source: pdf
 
 **Art. 2.** W ustawie z dnia 17 listopada 2021 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw (Dz. U. poz. 2151 oraz z 2022 r. poz. 2687) w art. 1:
 
-- **1)** pkt 35 otrzymuje brzmienie: „35) w dziale VII po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „Rozdział 6a Odpady budowlane i rozbiórkowe
-
-**Art. 101a.**
-
-1. Wytwórca odpadów budowlanych i rozbiórkowych jest obowiązany do zapewnienia wysegregowania z wytworzonych przez siebie odpadów budowlanych i rozbiórkowych, których powstaniu nie mógł zapobiec zgodnie z art. 18 ust. 1, co najmniej: drewna, metali, szkła, tworzyw sztucznych, gipsu i odpadów mineralnych, w tym betonu, cegły, płytek i materiałów ceramicznych oraz kamieni w celu zapewnienia przydatności do przygotowania do ponownego użycia, recyklingu lub innego odzysku, chyba że wysegregowanie nie jest technologicznie możliwe lub brak wysegregowania pozwala na przygotowanie do ponownego użycia, recykling lub inny odzysk.
-
-2. W przypadku gdy wytwórcą odpadów budowlanych i rozbiórkowych jest osoba fizyczna niebędąca przedsiębiorcą, obowiązek określony w ust. 1 wykonuje następny posiadacz odpadów, któremu ten wytwórca przekazał te odpady budowlane i rozbiórkowe.
-
-3. Wytwórca odpadów budowlanych i rozbiórkowych oraz następny posiadacz odpadów, o którym mowa w ust. 2, mogą zlecić wykonanie obowiązku określonego w ust. 1 podmiotowi, o którym mowa w art. 27 ust. 2, w drodze umowy określającej dalsze zagospodarowanie wysegregowanych odpadów, zawartej w formie pisemnej pod rygorem nieważności.
-
-4. Odpowiedzialność za wykonanie obowiązku, o którym mowa w ust. 1, ponoszą solidarnie wytwórca odpadów budowlanych i rozbiórkowych, następny posiadacz odpadów, o którym mowa w ust. 2, oraz podmiot, o którym mowa w art. 27 ust. 2.
-
-5. Posiadacz odpadów wysegregowanych zgodnie z ust. 1 jest obowiązany do zapewnienia dalszego zagospodarowania tych odpadów zgodnie z art. 18 ust. 2–7.”;”;
-
+- **1)** pkt 35 otrzymuje brzmienie: „35) w dziale VII po rozdziale 6 dodaje się rozdział 6a w brzmieniu: „Rozdział 6a Odpady budowlane i rozbiórkowe Art. 101a. 1. Wytwórca odpadów budowlanych i rozbiórkowych jest obowiązany do zapewnienia wysegregowania z wytworzonych przez siebie odpadów budowlanych i rozbiórkowych, których powstaniu nie mógł zapobiec zgodnie z art. 18 ust. 1, co najmniej: drewna, metali, szkła, tworzyw sztucznych, gipsu i odpadów mineralnych, w tym betonu, cegły, płytek i materiałów ceramicznych oraz kamieni w celu zapewnienia przydatności do przygotowania do ponownego użycia, recyklingu lub innego odzysku, chyba że wysegregowanie nie jest technologicznie możliwe lub brak wysegregowania pozwala na przygotowanie do ponownego użycia, recykling lub inny odzysk. 2. W przypadku gdy wytwórcą odpadów budowlanych i rozbiórkowych jest osoba fizyczna niebędąca przedsiębiorcą, obowiązek określony w ust. 1 wykonuje następny posiadacz odpadów, któremu ten wytwórca przekazał te odpady budowlane i rozbiórkowe. 3. Wytwórca odpadów budowlanych i rozbiórkowych oraz następny posiadacz odpadów, o którym mowa w ust. 2, mogą zlecić wykonanie obowiązku określonego w ust. 1 podmiotowi, o którym mowa w art. 27 ust. 2, w drodze umowy określającej dalsze zagospodarowanie wysegregowanych odpadów, zawartej w formie pisemnej pod rygorem nieważności. 4. Odpowiedzialność za wykonanie obowiązku, o którym mowa w ust. 1, ponoszą solidarnie wytwórca odpadów budowlanych i rozbiórkowych, następny posiadacz odpadów, o którym mowa w ust. 2, oraz podmiot, o którym mowa w art. 27 ust. 2. 5. Posiadacz odpadów wysegregowanych zgodnie z ust. 1 jest obowiązany do zapewnienia dalszego zagospodarowania tych odpadów zgodnie z art. 18 ust. 2–7.”;”;
 - **2)** w pkt 40 lit. a otrzymuje brzmienie: „a) po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) niezapewnienie wysegregowania odpadów budowlanych i rozbiórkowych wbrew przepisom art. 101a ust. 1–3;”,”.
 
 **Art. 3.**

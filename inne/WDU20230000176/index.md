@@ -27,15 +27,19 @@ source: pdf
 
 w sprawie wzorów upoważnień do wykonywania kontroli celno-skarbowej Na podstawie art. 62 ust. 16 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2022 r.
 poz. 813, z późn. zm. ) zarządza się, co następuje:
-§ 1. Określa się wzór:
-1) upoważnienia do przeprowadzenia kontroli celno-skarbowej, o której mowa w art. 62 ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, stanowiący załącznik nr 1 do rozporządzenia;
-2) stałego upoważnienia do wykonywania kontroli celno-skarbowej, o której mowa w art. 62 ust. 5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, stanowiący załącznik nr 2 do rozporządzenia.
-§ 2. 1. Stałe upoważnienie do wykonywania kontroli celno-skarbowej wydane według wzoru określonego w rozporządzeniu Ministra Finansów z dnia 29 czerwca 2020 r. w sprawie wzorów upoważnień do wykonywania kontroli celno-skarbowej (Dz. U. z 2022 r. poz. 2486) przed dniem wejścia w życie niniejszego rozporządzenia zachowuje ważność nie dłużej niż do dnia 31 grudnia 2023 r.
+
+**§ 1.** Określa się wzór:
+
+- **1)** upoważnienia do przeprowadzenia kontroli celno-skarbowej, o której mowa w art. 62 ust. 1 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, stanowiący załącznik nr 1 do rozporządzenia;
+- **2)** stałego upoważnienia do wykonywania kontroli celno-skarbowej, o której mowa w art. 62 ust. 5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, stanowiący załącznik nr 2 do rozporządzenia.
+
+**§ 2.**
+
+1. Stałe upoważnienie do wykonywania kontroli celno-skarbowej wydane według wzoru określonego w rozporządzeniu Ministra Finansów z dnia 29 czerwca 2020 r. w sprawie wzorów upoważnień do wykonywania kontroli celno-skarbowej (Dz. U. z 2022 r. poz. 2486) przed dniem wejścia w życie niniejszego rozporządzenia zachowuje ważność nie dłużej niż do dnia 31 grudnia 2023 r.
+
 2. Do dnia 31 grudnia 2023 r. stałe upoważnienie do wykonywania kontroli celno-skarbowej może być udzielone według wzoru stałego upoważnienia określonego w rozporządzeniu Ministra Finansów z dnia 29 czerwca 2020 r. w sprawie wzorów upoważnień do wykonywania kontroli celno-skarbowej.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: M. Rzeczkowska Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
-Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 835, 1079, 1301, 1488, 1713, 1730, 1933, 2015 i 2707.
-Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 29 czerwca 2020 r. w sprawie wzorów upoważnień do wykonywania kontroli celno-skarbowej (Dz. U. z 2022 r. poz. 2486), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 24 pkt 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. z 2023 r. poz. 129).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: M. Rzeczkowska Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 835, 1079, 1301, 1488, 1713, 1730, 1933, 2015 i 2707. Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 29 czerwca 2020 r. w sprawie wzorów upoważnień do wykonywania kontroli celno-skarbowej (Dz. U. z 2022 r. poz. 2486), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 24 pkt 1 ustawy z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. z 2023 r. poz. 129).
 
 ## Załącznik nr 1 — WZÓR WZÓR UPOWAŻNIENIE DO PRZEPROWADZENIA KONTROLI CELNO-SKARBOWEJ A. DANE KONTROLUJĄCYCH
 

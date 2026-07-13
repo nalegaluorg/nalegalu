@@ -8,10 +8,10 @@ pos: 108
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 stycznia 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Pozycja 108 RozpoRządzenie MinistRa spRaw wewnętRznych z dnia 23 stycznia 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,18 +25,23 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000108) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/108/text.pdf) |
 
-Pozycja 108 RozpoRządzenie MinistRa spRaw wewnętRznych z dnia 23 stycznia 2012 r.
-w sprawie minimalnych wymagań dotyczących liczby ratowników wodnych zapewniających stałą kontrolę wyznaczonego obszaru wodnego Na podstawie art. 9 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. Nr 208, poz. 1240) zarządza się, co następuje: § 1. Rozporządzenie określa minimalne wymagania dotyczące liczby ratowników wodnych zapewniających stałą kontrolę wyznaczonego obszaru wodnego.
-§ 2. Ustala się minimalne wymagania dotyczące liczby ratowników wodnych zapewniających stałą kontrolę wyznaczonego obszaru wodnego:
-1) w przypadku kąpielisk:
-a) śródlądowych na każde 100 m linii brzegowej – jeden ratownik wodny od strony lądu i jeden ratownik wodny od strony lustra wody, przebywający na łodzi lub platformie umożliwiającej obserwację i umieszczonej poza strefą dla umiejących pływać,
-b) nadmorskich na każde 100 m linii brzegowej – trzyosobowe zespoły ratowników wodnych, w tym co najmniej jeden ratownik wodny od strony lustra wody;
-2) w miejscach przeznaczonych do kąpieli – dwóch ratowników wodnych;
-3) w przypadku pływalni:
-a) dysponującej nieckami basenowymi o długości do 25 m – jeden ratownik wodny,
-b) dysponującej nieckami basenowymi o długości 25–50 m – dwóch ratowników wodnych,
-c) dysponującej nieckami basenowymi o długości powyżej 50 m – trzech ratowników wodnych;
-4) w przypadku innych obiektów dysponujących nieckami basenowymi o łącznej powierzchni powyżej 100 m i głębokości ponad 0,4 m w najgłębszym miejscu lub głębokości powyżej 1,2 m – co najmniej jeden ratownik wodny.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych: J. Cichocki
+w sprawie minimalnych wymagań dotyczących liczby ratowników wodnych zapewniających stałą kontrolę wyznaczonego obszaru wodnego Na podstawie art. 9 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. Nr 208, poz. 1240) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa minimalne wymagania dotyczące liczby ratowników wodnych zapewniających stałą kontrolę wyznaczonego obszaru wodnego.
+
+**§ 2.** Ustala się minimalne wymagania dotyczące liczby ratowników wodnych zapewniających stałą kontrolę wyznaczonego obszaru wodnego:
+
+- **1)** w przypadku kąpielisk:
+    - **a)** śródlądowych na każde 100 m linii brzegowej – jeden ratownik wodny od strony lądu i jeden ratownik wodny od strony lustra wody, przebywający na łodzi lub platformie umożliwiającej obserwację i umieszczonej poza strefą dla umiejących pływać,
+    - **b)** nadmorskich na każde 100 m linii brzegowej – trzyosobowe zespoły ratowników wodnych, w tym co najmniej jeden ratownik wodny od strony lustra wody;
+
+- **2)** w miejscach przeznaczonych do kąpieli – dwóch ratowników wodnych;
+- **3)** w przypadku pływalni:
+    - **a)** dysponującej nieckami basenowymi o długości do 25 m – jeden ratownik wodny,
+    - **b)** dysponującej nieckami basenowymi o długości 25–50 m – dwóch ratowników wodnych,
+    - **c)** dysponującej nieckami basenowymi o długości powyżej 50 m – trzech ratowników wodnych;
+
+- **4)** w przypadku innych obiektów dysponujących nieckami basenowymi o łącznej powierzchni powyżej 100 m i głębokości ponad 0,4 m w najgłębszym miejscu lub głębokości powyżej 1,2 m – co najmniej jeden ratownik wodny.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych: J. Cichocki
 

@@ -30,9 +30,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu z dnia 14 maja 2020 r. zmieniającego rozporządzenie w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej (Dz. U. poz. 890), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Klimatu i Środowiska: P. Henning-Kloska
 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 7 grudnia 2010 r.
 w sprawie nadania statutu Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej Na podstawie art. 400o ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54) zarządza się, co następuje:
-§ 1. Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2011 r.
-STATUT NARODOWEGO FUNDUSZU OCHRONY ŚRODOWISKA I GOSPODARKI WODNEJ Postanowienia ogólne
+
+**§ 1.** Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2011 r. STATUT NARODOWEGO FUNDUSZU OCHRONY ŚRODOWISKA I GOSPODARKI WODNEJ Postanowienia ogólne
+
+## Załącznik
+
 § 1. 1. Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej, zwany dalej „Narodowym Funduszem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U.
 z 2024 r. poz. 54), zwanej dalej „ustawą”, oraz niniejszego statutu.
 2. Siedzibą Narodowego Funduszu jest miasto stołeczne Warszawa.

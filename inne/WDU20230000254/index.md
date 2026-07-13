@@ -27,10 +27,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przeprowadzania konkursu na stanowisko asystenta sędziego Na podstawie art. 155a § 7 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r.
 poz. 217 oraz z 2022 r. poz. 2642) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 14 października 2013 r. w sprawie przeprowadzania konkursu na stanowisko asystenta sędziego (Dz. U. poz. 1228) w § 12:
-1) w ust. 1 dodaje się zdanie drugie w brzmieniu: „Informacja o wynikach konkursu jest dostępna przez okres 3 miesięcy od dnia jej umieszczenia.”;
-2) ust. 3 otrzymuje brzmienie: „3. Kandydatowi, po okazaniu dokumentu tożsamości, udostępnia się do wglądu w siedzibie sądu jego pracę konkursową oraz protokół przebiegu konkursu.”.
-§ 2. Do konkursów ogłoszonych i nierozstrzygniętych przed dniem wejścia w życie rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 14 października 2013 r. w sprawie przeprowadzania konkursu na stanowisko asystenta sędziego (Dz. U. poz. 1228) w § 12:
+
+- **1)** w ust. 1 dodaje się zdanie drugie w brzmieniu: „Informacja o wynikach konkursu jest dostępna przez okres 3 miesięcy od dnia jej umieszczenia.”;
+- **2)** ust. 3 otrzymuje brzmienie: „3. Kandydatowi, po okazaniu dokumentu tożsamości, udostępnia się do wglądu w siedzibie sądu jego pracę konkursową oraz protokół przebiegu konkursu.”.
+
+**§ 2.** Do konkursów ogłoszonych i nierozstrzygniętych przed dniem wejścia w życie rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

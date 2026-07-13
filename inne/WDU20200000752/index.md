@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000752) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/752/text.pdf) |
 
 zmieniające rozporządzenie w sprawie postępowania w zakresie formularzy mandatu karnego, mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego, grzywien nakładanych w drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego Na podstawie art. 100 § 14 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 26 stycznia 2016 r. w sprawie postępowania w zakresie formularzy mandatu karnego, mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego, grzywien nakładanych w drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego (Dz. U. z 2019 r.
-poz. 1754) w § 7 w ust. 2 wyrazy „podpisem potwierdzonym profilem zaufanym ePUAPˮ zastępuje się wyrazami „kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 26 stycznia 2016 r. w sprawie postępowania w zakresie formularzy mandatu karnego, mandatów karnych generowanych przy wykorzystaniu systemu teleinformatycznego, grzywien nakładanych w drodze mandatu karnego oraz podmiotów nabywających odpłatnie formularze mandatu karnego (Dz. U. z 2019 r. poz. 1754) w § 7 w ust. 2 wyrazy „podpisem potwierdzonym profilem zaufanym ePUAPˮ zastępuje się wyrazami „kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

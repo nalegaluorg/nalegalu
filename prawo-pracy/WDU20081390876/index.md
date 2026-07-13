@@ -8,10 +8,10 @@ pos: 876
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Ustawa z dnia 12 czerwca 2008 r. o zmianie ustawy o społeczno-zawodowych organizacjach rolników, ustawy o związkach zawodowych rolników indywidualnych oraz ustawy o izbach rolniczych
+# Dziennik Ustaw Nr 139 — 7562 — Poz. 876
 
 | Pole | Wartość |
 |---|---|
@@ -25,15 +25,13 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081390876) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/876/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolników (Dz. U. Nr 32, poz. 217, z 1997 r. Nr 121, poz. 769, z 1998 r. Nr 106, poz. 668 oraz z 2006 r. Nr 200, poz. 1472) w art. 14a ust. 2 otrzymuje brzmienie: „ 2. Koszty związane z uczestnictwem organizacji rolników w organizacjach, o których mowa w ust. 1 pkt 2, są w latach 2008–2013 dofinansowywane na zasadach określonych w przepisach o izbach rolniczych. ” .
+USTAWA z dnia 12 czerwca 2008 r.
+o zmianie ustawy o społeczno-zawodowych organizacjach rolników, ustawy o związkach zawodowych rolników indywidualnych oraz ustawy o izbach rolniczych
 
-**Art. 2.** W ustawie z dnia 7 kwietnia 1989 r. o związkach zawodowych rolników indywidualnych (Dz. U. Nr 20, poz. 106 i Nr 21, poz. 115, z 1997 r. Nr 121, poz. 769 oraz z 2006 r. Nr 200, poz. 1472) w art. 8a ust. 2 otrzymuje brzmienie: „ 2. Koszty związane z uczestnictwem związków zawodowych rolników indywidualnych w organizacjach, o których mowa w ust. 1 pkt 2, są w latach 2008–2013 dofinansowywane na zasadach określonych w przepisach o izbach rolniczych. ” .
+**Art. 1.** W ustawie z dnia 8 paêdziernika 1982 r. 2) po ust. 4 dodaje się ust. 4a w brzmieniu: o społeczno-zawodowych organizacjach rolników (Dz. U. Nr 32, poz. 217, z 1997 r. Nr 121, poz. 769, Ń4a. Krajowa Rada Izb Rolniczych przedstawia z 1998 r. Nr 106, poz. 668 oraz z 2006 r. Nr 200, ministrowi właściwemu do spraw rolnictwa, poz. 1472) w art. 14a ust. 2 otrzymuje brzmienie: corocznie do dnia 15 stycznia, informację z uczestnictwa izb rolniczych, związków Ń2. Koszty związane z uczestnictwem organizacji rol- zawodowych rolników indywidualnych oraz ników w organizacjach, o których mowa w ust. 1 społeczno-zawodowych organizacji rolników pkt 2, są w latach 2008—2013 dofinansowywane w ponadnarodowych organizacjach rolnina zasadach określonych w przepisach o izbach czych reprezentujących interesy zawodowe rolniczych.”. rolników indywidualnych wobec instytucji Unii Europejskiej.”;
 
-**Art. 3.** W ustawie z dnia 14 grudnia 1995 r. o izbach rolniczych (Dz. U. z 2002 r. Nr 101, poz. 927, z późn. zm.) w art. 35b wprowadza się następujące zmiany:
+**Art. 2.** Wustawie zdnia 7 kwietnia 1989 r. ozwiązkach zawodowych rolników indywidualnych (Dz. U. 3) wust. 5 wpkt 2 na końcu dodaje się przecinek oraz Nr 20, poz. 106 i Nr 21, poz. 115, z 1997 r. Nr 121, pkt 3 w brzmieniu: poz. 769 oraz z 2006 r. Nr 200, poz. 1472) w art. 8a Ń3) konieczne elementy informacji, októrej mowa ust. 2 otrzymuje brzmienie: w ust. 4a”. Ń2. Koszty związane zuczestnictwem związków zawodowych rolników indywidualnych w organiza- Art. 4. W2008 r. środki na dotację celową przeznacjach, o których mowa w ust. 1 pkt 2, są w latach czone na pokrycie kosztów związanych z uczestnic2008—2013 dofinansowywane na zasadach okreś- twem społeczno-zawodowych organizacji rolników, lonych wprzepisach oizbach rolniczych.”. związków zawodowych rolników indywidualnych oraz izb rolniczych wponadnarodowych organizacjach rolArt. 3.Wustawie zdnia 14 grudnia 1995 r. oizbach niczych reprezentujących interesy zawodowe rolnirolniczych (Dz. U. z 2002 r. Nr 101, poz. 927, z póên. ków indywidualnych wobec instytucji Unii Europejzm. ) w art. 35b wprowadza się następujące zmiany: skiej są ustalone w budżecie państwa w części, którą dysponuje minister właściwy do spraw rolnictwa.
 
-**Art. 4.** W 2008 r. środki na dotację celową przeznaczone na pokrycie kosztów związanych z uczestnictwem społeczno-zawodowych organizacji rolników, związków zawodowych rolników indywidualnych oraz izb rolniczych w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej są ustalone w budżecie państwa w części, którą dysponuje minister właściwy do spraw rolnictwa.
+- **1)** ust. 1 otrzymuje brzmienie: Ń1. Koszty związane z uczestnictwem izb rolni- Art. 5.W2008 r. zdotacji celowej dofinansowywaczych, związków zawodowych rolników indy- ne są koszty związane z uczestnictwem społecznowidualnych oraz społeczno-zawodowych or- -zawodowych organizacji rolników, związków zawodoganizacji rolników w ponadnarodowych orga- wych rolników indywidualnych oraz izb rolniczych nizacjach rolniczych reprezentujących interesy w ponadnarodowych organizacjach rolniczych reprezawodowe rolników indywidualnych wobec zentujących interesy zawodowe rolników indywidualinstytucji Unii Europejskiej są w latach nych wobec instytucji Unii Europejskiej, poniesione 2008—2013 ponoszone przez Krajową Radę od dnia 1 stycznia 2008 r. Izb Rolniczych i dofinansowywane z budżetu państwa w formie dotacji celowej.”; Art. 6. Ustawa wchodzi w życie po upływie 14 dni ——————— od dnia ogłoszenia.
 
-**Art. 5.** W 2008 r. z dotacji celowej dofinansowywane są koszty związane z uczestnictwem społeczno-zawodowych organizacji rolników, związków zawodowych rolników indywidualnych oraz izb rolniczych w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej, poniesione od dnia 1 stycznia 2008 r.
-
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

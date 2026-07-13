@@ -27,9 +27,12 @@ source: pdf
 
 w sprawie przekazywania przez agencję płatniczą ministrowi właściwemu do spraw rozwoju wsi informacji niezbędnych do publikacji wykazu beneficjentów Na podstawie art. 9 ust. 5 ustawy z dnia 27 maja 2015 r. o finansowaniu wspólnej polityki rolnej (Dz. U. z 2018 r.
 poz. 719) zarządza się, co następuje:
-§ 1. Rozporządzenie określa tryb, formę i terminy przekazywania przez agencję płatniczą ministrowi właściwemu do spraw rozwoju wsi informacji określonych w art. 9 ust. 4 ustawy z dnia 27 maja 2015 r. o finansowaniu wspólnej polityki rolnej.
-§ 2. Agencja płatnicza przekazuje ministrowi właściwemu do spraw rozwoju wsi informacje określone w art. 9 ust. 4 ustawy, o której mowa w § 1, na formularzu opracowanym i udostępnionym przez ministra właściwego do spraw rozwoju wsi.
-§ 3. Informacje określone w art. 9 ust. 4 ustawy, o której mowa w § 1, są przekazywane ministrowi właściwemu do spraw rozwoju wsi w formie dokumentów elektronicznych w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne, do dnia 30 kwietnia roku następującego po roku, którego dotyczą te informacje.
-§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: J. Ardanowski
+
+**§ 1.** Rozporządzenie określa tryb, formę i terminy przekazywania przez agencję płatniczą ministrowi właściwemu do spraw rozwoju wsi informacji określonych w art. 9 ust. 4 ustawy z dnia 27 maja 2015 r. o finansowaniu wspólnej polityki rolnej.
+
+**§ 2.** Agencja płatnicza przekazuje ministrowi właściwemu do spraw rozwoju wsi informacje określone w art. 9 ust. 4 ustawy, o której mowa w § 1, na formularzu opracowanym i udostępnionym przez ministra właściwego do spraw rozwoju wsi.
+
+**§ 3.** Informacje określone w art. 9 ust. 4 ustawy, o której mowa w § 1, są przekazywane ministrowi właściwemu do spraw rozwoju wsi w formie dokumentów elektronicznych w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne, do dnia 30 kwietnia roku następującego po roku, którego dotyczą te informacje.
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: J. Ardanowski
 

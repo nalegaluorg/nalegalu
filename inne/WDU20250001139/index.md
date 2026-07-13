@@ -27,9 +27,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001139) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1139/text.pdf) |
 
 w sprawie statutu Krajowej Rady Kardiologicznej Na podstawie art. 33 ustawy z dnia 4 czerwca 2025 r. o Krajowej Sieci Kardiologicznej (Dz. U. poz. 779) zarządza się, co następuje:
-§ 1. Określa się statut Krajowej Rady Kardiologicznej, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie czternastu dni od dnia ogłoszenia.
-Minister Zdrowia: J. Sobierańska-Grenda STATUT KRAJOWEJ RADY KARDIOLOGICZNEJ
+
+**§ 1.** Określa się statut Krajowej Rady Kardiologicznej, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie czternastu dni od dnia ogłoszenia. Minister Zdrowia: J. Sobierańska-Grenda STATUT KRAJOWEJ RADY KARDIOLOGICZNEJ
+
+## Załącznik
+
 § 1. Pracami Krajowej Rady Kardiologicznej, zwanej dalej „Radą”, kieruje przewodniczący Rady, a w przypadku jego nieobecności – wiceprzewodniczący Rady.
 § 2. Rada wybiera spośród swoich członków wiceprzewodniczącego Rady w głosowaniu jawnym, większością głosów i w obecności co najmniej połowy członków Rady.
 § 3. 1. Rada obraduje na posiedzeniach.

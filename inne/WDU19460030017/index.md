@@ -8,10 +8,10 @@ pos: 17
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Ustawa z dnia 3 stycznia 1946 r. o przejęciu na własność Państwa podstawowych gałęzi gospodarki narodowej
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 lutego 1946 r. Nr 3 u W u 17
 
 | Pole | Wartość |
 |---|---|
@@ -25,124 +25,65 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19460030017) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1946/17/text.pdf) |
 
-**Art. 1.** Dla planowego odbudowania gospodarki narodowej, zapewnienia Państwu suwerenności gospodarczej i podniesienia ogólnego dobrobytu przejmuje Państwo na własność przedsiębiorstwa na zasadach niniejszej ustawy.
+USTAWA z dnia 3 stycznia 1946 r.
+o na gospodarki narodowej.
+
+**Art. 1.** Dla planowego odbudowania gospo d) kontrolowanych przez obywateli· darki narodowej, zapewnienia suwe niemieckich lub albo przez gospodarczej i podniesienia ogólnego lub dobrobytu przejmuje na e) osób, które do nieprzyjaciela. na zasadach niniejszej ustawy. 2. Minister w porozumie
 
 **Art. 2.**
 
-1. Bez odszkodowania przechodzą na własność Państwa przedsiębiorstwa: przemysłowe, górnicze, komunikacyjne, bankowe, ubezpieczeniowe oraz handlowe: Rzeszy Niemieckiej i byłego Wolnego Miasta Gdańska, obywateli Rzeszy Niemieckiej i byłego Wolnego Miasta Gdańska z wyjątkiem osób narodowości polskiej lub innej przez Niemców prześladowanej, niemieckich i gdańskich osób prawnych z wyłączeniem osób prawnych prawa publicznego, spółek kontrolowanych przez obywateli niemieckich lub gdańskich albo przez administrację niemiecką lub gdańską, osób, które zbiegły do nieprzyjaciela.
+1. Bez odszkodowania niu z zainteresowanymi ministrami ustali na prze w jakie osoby i oraz górnicze, komunikacyjne, bankowe, w jakim trybie uznane za ubezpieczeniowe oraz handlowe: przepisowi ust. 1. lit. b), c), d), e). Wolnego Miasta Gdailska z lit. c) na odpo'wiednich osób polskiej lub innej polskich osób p rawnych. W braku takich osób przez Niemców lub w razie zbiegu ' kilku osób
 
-- **a)**
-- **b)**
-- **c)**
-- **d)**
-- **e)**
+- **a)** Rzeszy Niemieckiej i Wolnego Miasta 3. niemieckich i gdai!skich
+- **b)** obywateli Rzeszy Niemieckiej i osób prawnych prawa publicznego (ust.
+- **c)** niemieckich i osób prawnych prawnych, Rady Ministrów oznaczy z osób prawnych prawa na której ma publicznego, Poz. 11 22 Dziennik U&taw Nr 3
 
-2. Minister Sprawiedliwości w porozumieniu z zainteresowanymi ministrami ustali w rozporządzeniu, jakie osoby i spółki oraz w jakim trybie będą, uznane za podlegające przepisowi ust. 1 lit. b), c), d), e).
+4. Z mocy prz2pisu lllllleJszego lania publicznych komunikacji, nie przechodzi na lub osób z silnego, . prawnych prawa publicznego do wytwa w ust. 1: rzania,przetwarzania, lub
 
-3. Przedsiębiorstwa niemieckich i gdańskich osób prawnych prawa publicznego (ust. 1. lit. c) przechodzą na własność odpowiednich polskich osób prawnych. W braku takich osób lub w razie zbiegu zainteresowań kilku osób prawnych, uchwała Rady Ministrów oznaczy osobę prawną, na własność której ma przejść przedsiębiorstwo.
+- **a)** które lub skonfiskowane rozdzielania gazu dla celów przez b. okupacyjne, chyba wych i domowych, ono przedtem Skar 5) bu lub wspomnianych osób cej, teren jednej gminy prawnych albo lub konfiskata gowe osób lub 6) huty oraz huty metali koloro wskazanych w ust. 1 i 3, wych,
+- **7)** zbrojenio
+    - **b)** którego wyzbycie na rzecz osób wego, lotniczego oraz wy i wymienionych w ust. 1 i 3 na buchowych, po dniu 1 1939 r. pod 8) koksownie,
 
-4. Z mocy przepisu niniejszego artykułu nie przechodzi na własność Państwa lub osób prawnych prawa publicznego przedsiębiorstwo, określone w ust. 1: które zostało zajęte lub skonfiskowane przez b. władze okupacyjne, chyba że stanowiło ono przedtem własność Skarbu Państwa lub wspomnianych osób prawnych albo zajęcie lub konfiskata dotyczyły przedsiębiorstwa osób lub spółek, wskazanych w ust. 1 i 3, którego wyzbycie się na rzecz osób i spółek, wymienionych w ust. 1 i 3 nastąpiło po dniu 1 września 1939 r. pod wpływem groźby, uprawniającej właściciela zbywającego przedsiębiorstwo do uchylenia się od skutków prawnych oświadczenia woli.
+- **9)** cukrownie i rafinerie cukru, ciciela do 10) gorzelnie destylarnie, ra uchylenia od skutków prawnych finerie spirytusu oraz fabryki wódek, woli. 11) browary o produkcyjnej po
 
-- **a)**
-- **b)**
+5. Minister w porozumie 15.000 hl. rocznie, niu z zainteresowanymi ministrami fabryki tryb ujawnienia w hipotecznych 13) o (gruntowych), w rejestrach handlowych i in wej 15 ton na nych rejestrach publicznych na obliczonej na podstawie wal lub osób prawnych prawa pub ców lub powierzchni kamieni licznego do nich skich, oraz praw na ich rzecz zahipote olejarnie o produkcyjnej po kowanych. 500 ton rocznie oraz wszelkie
 
-5. Minister Sprawiedliwości w porozumieniu z zainteresowanymi ministrami określi tryb ujawnienia w księgach hipotecznych (gruntowych), w rejestrach handlowych i innych rejestrach publicznych przejścia na własność Państwa lub osób prawnych prawa publicznego przedsiębiorstw, nieruchomości do nich należących oraz praw na ich rzecz zahipotekowanych.
+6. wszelkie czynnosCl lub rafinerie jadalnych, akty prawne, po dniu 1 15) 1939 r. eo do wymienionych 16) wielki i w ust. 1, celem ich na 17) poligraficzny i drukarnie. lub polskich osób prawnych Rady Ministrów co prawa publicznego. do wymienionych w pkt 16
 
-6. Nieważne są wszelkie czynności lub akty prawne, zdziałane po dniu 1 września 1939 r. co do przedsiębiorstw, wymienionych w ust. 1, celem zapobieżenia ich przejściu na własność Państwa lub polskich osób prawnych prawa publicznego.
-
-7. O przejściu przedsiębiorstwa na własność Państwa lub polskich osób prawnych prawa publicznego (ust. 3 zd. 1) orzeka właściwy ze względu na rodzaj przedsiębiorstwa minister, którego orzeczenie jest ostateczne i nie ulega zaskarżeniu do Najwyższego Trybunału Administracyjnego. Rozporządzenie Rady Ministrów określi tryb postępowania, w którym nastąpi przejście przedsiębiorstwa na własność Państwa.
+7. O na i 17, które kategorie z nich na lub polskich osób prawnych a co do które z nich :prawa publicznego (ust. 3 zd. 1) orzeka przekazane na organiza ze na rodzaj cjom politycznym lub stowarzy minister, którego orzeczenie jest ostateczne szeniom lub i nie ulega do Try B. nie wy Administracyjnego. mienione pod A, zdolne Rady Ministrów tryb przy produkcji na którym 50 pracowników. na Spod tego przepisu
 
 **Art. 3.**
 
-1. Za odszkodowaniem przejmuje Państwo na własność: A. Przedsiębiorstwa górnicze i przemysłowe w następujących gałęziach gospodarki narodowej:
+1. Za odszkodowaniem przejmuje robót budowlanych oraz na stalacyjnych bez na praeowni ków, zdolne A. górnicze i nie Rady Ministrów we w gospodarki na 50-ciu pracowników w wyro rodowej: bów niepowszechnego zme
 
-- **1)** kopalnie oraz nadania górnicze, podlegające przepisom prawa górniczego,
-- **2)** przemysł naftowy i gazu ziemnego z kopalniami, rafineriami, gazoliniarniami i innymi zakładami przetwórczymi, gazociągami oraz przemysł paliw syntetycznych,
-- **3)** przedsiębiorstwa, służące do wytwarzania, przetwarzania, przesyłania lub rozdzielania energii elektrycznej w celu zarobkowego zbytu albo w celu zasilania publicznych środków komunikacji, korzystających z prądu silnego,
-- **4)** przedsiębiorstwa, służące do wytwarzania, przetwarzania, przesyłania lub rozdzielania gazu dla celów przemysłowych i domowych,
-- **5)** zakłady wodociągowe, obejmujące więcej, aniżeli teren jednej gminy (okręgowe zakłady wodociągowe),
-- **6)** huty żelaza oraz huty metali kolorowych,
-- **7)** przedsiębiorstwa przemysłu zbrojeniowego, lotniczego oraz materiałów wybuchowych,
-- **8)** koksownie,
-- **9)** cukrownie i rafinerie cukru,
-- **10)** gorzelnie przemysłowe, destylarnie, rafinerie spirytusu oraz fabryki wódek,
-- **11)** browary o zdolności produkcyjnej powyżej 15.000 hl rocznie,
-- **12)** fabryki drożdży,
-- **13)** młyny zbożowe o zdolności przemiałowej powyżej 16 ton zboża na dobę, obliczonej na podstawie długości walców lub powierzchni kamieni młyńskich,
-- **14)** olejarnie o zdolności produkcyjnej powyżej 500 ton rocznie oraz wszelkie rafinerie tłuszczów jadalnych,
-- **15)** chłodnie składowe,
-- **16)** wielki i średni przemysł włókienniczy,
-- **17)** przemysł poligraficzny i drukarnie. Rozporządzenie Rady Ministrów określi co do przedsiębiorstw, wymienionych w pkt 16 i 17, które kategorie z nich przechodzą na własność Państwa, a co do drukarń, które z nich mają być przekazane na własność organizacjom politycznym lub społecznym, stowarzyszeniom lub spółdzielniom. B. Przedsiębiorstwa przemysłowe nie wymienione pod A, jeżeli zdolne są zatrudnić przy produkcji na jedną zmianę więcej, niż 50 pracowników. Spod działania tego przepisu wyłącza się przedsiębiorstwa robót budowlanych oraz instalacyjnych bez względu na ilość pracowników, którą zdolne są zatrudnić. Rozporządzenie Rady Ministrów może podwyższyć dolną granicę 50-ciu pracowników w przemyśle wyrobów niepowszechnego użytku, bądź mało zmechanizowanym, bądź o charakterze pionierskim lub sezonowym. C.
-- **1)** Przedsiębiorstwa komunikacyjne (kolei żelaznych normalnych i wąskotorowych, kolei elektrycznych, komunikacji powietrznej),
-- **2)** przedsiębiorstwa telekomunikacyjne (telefoniczne, telegraficzne, radiowe,).
+- **1)** kopalnie oraz nadania górnicze, podle chanizowanym, o charakterze pionierskim przepisom prawa górniczego, lub sezonowym. naftowy i gazu ziemnego C. 1) komunikacyjne (ko z kopalniami, rafineriami, gazoliniar lei normalnych i niami i innymi przetwór wych, kolei elektrycznych, komunikacji czymi, oraz pa powietrznej) , liw syntetycznych, telekomunikacyjne (te
+- **3)** do wytwa lefoniczne, telegraficzne, radiowe,). rzania, przetwarzania, lub 2. przez na rozdzielania energii elektrycznej w ce nie wymienione w lu zarobkowego zbytu albo w celu zasi- ust. l, saDziennik Ustaw Nr 3 23 Poz. strów wniosków w przedmiocie przekazywania . albo J wy organiza mienionych lub dotyczy cjom i terytorial tylko lub tylko nemu. w nim, natenczas prze 3. Rada Ministrów w pierwszym na przez podlega tylko na wniosek ministra lub wymienionego komitetu
 
-2. Przejęciu przez Państwo na własność nie podlegają przedsiębiorstwa, wymienione w ust. 1, jeżeli stanowią własność związków samorządowych, międzykomunalnych, spółdzielni albo związków spółdzielni. Jeżeli własność wymienionych związków lub spółdzielni dotyczy tylko części przedsiębiorstwa lub tylko części udziału majątkowego w nim, natenczas przejęciu na własność przez Państwo podlega tylko pozostała część.
+3. Rady na lub ich wniosek zainteresowanego Ministra, wy we, które: spod przepisu ust. 1 poszcze a) oparte lub o miej 'gólne albo ich kategorie lub scowy surowiec i dla grupy. potrzeb lokalnych,
 
-3. Uchwała Rady Ministrów, powzięta na wniosek zainteresowanego Ministra, może wyłączyć spod działania przepisu ust. 1 poszczególne przedsiębiorstwa albo ich kategorie lub grupy.
+4. Poszczególne b) lokalnego interesu producentów ce w dniu w niniejszej ustawy, surowca lub konsumentów, a nie pod przepis ust. 1, c) integralnie z funkcjami go na przez na zasa spodarczymi, lub dzie Rady Ministrów, na przez wniosek zainteresowanego ministra, posia 4. Rada Ministrów we wszystkich innych one produkcji przypadkach przyjmie istotne inte w gospodarki narodowej; resy ?:<trówno kr;ool1mpntów, jak w tym samym trybie i producentów. na przez Art. 6. 1. na bankowych oraz szczególnych ma zasadzie przepisu art. 2 lub art. gazynowych, lub na rzecz lub polskich osób prawnych w portach lub przy drogach kolejo prawa publicznego w wraz z nierucho wych i wodnych. mym ruchomym i wszelkimi pra
 
-4. Poszczególne przedsiębiorstwa, istniejące w dniu wejścia w życie niniejszej ustawy, a nie podpadające pod przepis ust. 1, mogą być przejęte na własność przez Państwo na zasadzie uchwały Rady Ministrów, powziętej na wniosek zainteresowanego ministra, jeśli posiadają one faktyczną wyłączność produkcji w ważnych gałęziach gospodarki narodowej; w tym samym trybie może nastąpić przejęcie na własność przez Państwo przedsiębiorstw bankowych oraz szczególnych urządzeń magazynowych, składowych lub przeładunkowych, zwłaszcza w portach lub przy drogach kolejowych i wodnych.
+5. Przepis art. 2 ust. 7 stosuje odpo wami (prawo do firmy, patenty, licencje, zna wiednio do na za ki towarowe, itp.), wolne jednak od sadzie niniejszego i z
 
-5. Przepis art. 2 ust. 7 stosuje się odpowiednio do przedsiębiorstw przejętych na zasadzie niniejszego artykułu.
+6. Orzeczenie o przez o charakterze publiczno-prawnym,. zobo na w trybie niniejszego mo na rzecz polskich osób prawnych pra tylko do dnia 31 grudnia 1946 r. wa publicznego, na rzecz osób
 
-6. Orzeczenie o przejęciu przez Państwo na własność w trybie niniejszego artykułu może nastąpić tylko do dnia 31 grudnia 1946 r.
-
-**Art. 4.** Założenie nowych przedsiębiorstw w gałęziach przemysłu i komunikacji, objętych przepisami art. 3 ust. 1 lit. A i C, wymaga uprzedniego uzyskania koncesji, udzielonej przez właściwego ministra w porozumieniu z Prezesem Centralnego Urzędu Planowania.
+**Art. 4.** Założenie nowych prawnych, polskich w i komunikacji, osób prawnych prawa publicznego, przepisami art. 3 ust. 1 A i C, wymaga gruntowych oraz swe uprzedniego uzyskania koncesji, udzielonej w stosunku najmu pracy lub odpowie przez ministra w porozumieniu za czyny niedozwolone. z Prezesem Centralnego Planowania. 2. Do odszkodowania za i zobo
 
 **Art. 5.**
 
-1. Państwo może przedsiębiorstwa przejęte na własność prowadzić we własnym zarządzie albo przekazywać je samorządowi terytorialnemu lub spółdzielniom albo ich związkom na zasadzie uchwały Rady Ministrów, powziętej na wniosek właściwego ministra lub komitetu, powołanego w trybie ust. 2 niniejszego artykułu. Przedsiębiorstwa z zakresu art. 3 ust. 1 A pkt 9)-15) przekaże Państwo samorządowi terytorialnemu lub spółdzielniom albo ich związkom uchwałą Rady Ministrów, powziętą na wniosek właściwego ministra lub komitetu powołanego w trybie ust. 2 niniejszego artykułu.
+1. które z mocy przepisu ust. 1 nie na we stosuje odpowiednio prze albo je pis art. 7. terytorialnemu lub albo ich 3. i które w na zasadzie Rady Ministrów, chwili ich powstania gospodarczo nieuza na wniosek ministra lub sadnione, umorzeniu w lub w komitetu, w trybie ust. 2 niniej lub polskiej osoby szego z zakresu prawnej prawa publicznego. art. 3 ust. 1 A pkt 9)-15) 4. Rady Ministrów ustali terytorialnemu lub zasady i tryb w sprawach ozna albo ich Rady Ministrów, czonych w przepisie ust. 3. na wniosek ministra lub 5. Przepis art. 2 ust. 5 stosuje Ddpo komitetu w trybie ust. 2 niniejsze wiednio do 1,a za go sadzie przepisu art. 3.
 
-2. Uchwała Rady Ministrów powoła komitet złożony z przedstawicieli Ministerstwa Skarbu, Ministerstwa Przemysłu, Ministerstwa Administracji Publicznej, Ministerstwa Aprowizacji i Handlu, Ministerstwa Rolnictwa i Reform Rolnych, Ministerstwa Pracy i Opieki Społecznej i Centralnego Urzędu Planowania oraz przedstawicieli: spółdzielczości, Związku Samopomocy Chłopskiej, związków zawodowych i samorządu terytorialnego. Zadaniem komitetu będzie przedstawianie Radzie Ministrów wniosków w przedmiocie przekazywania przedsiębiorstw upaństwowionych organizacjom spółdzielczym i samorządowi terytorialnemu.
+2. Rady Ministrów komi tet z przedstawicieli Ministerstwa Art. 7. 1. Za Skarbu, Ministerstwa Ministerstwa przez na (art. 3) otrzyma Administracji Publicznej, Ministerstwa Apro jego od Skarbu odszkod? wizacji i Handlu, Ministerstwa Rolnictwa i Re wanie w terminie jednego roku, od dma form Rolnych, Ministerstwa Pracy Opieki mu zawiadomienia w przedmiocie i Centralnego Planowania prawomocnego ustalenia przypada oraz przedstawicieli: odszkodowania. Samopomocy zawodo 2. Odszkodowanie to w zasadzie wych i terytorialnego. Zadaniem w papierach komitetu przedstawianie Radzie Mini- w gospodarczo uzasadmonych Poz. 17 Dziennik Us,taw Nr 3 przypadkach 6. Rady Ministrów ustali w gotówce lub innych zasady obliczania odszkodowania,
 
-3. Rada Ministrów przekaże w pierwszym rzędzie na wniosek właściwego ministra lub wymienionego wyżej komitetu spółdzielniom lub ich związkom przedsiębiorstwa przemysłowe, które: oparte są wyłącznie lub głównie o miejscowy surowiec i produkują głównie dla potrzeb lokalnych, dotyczą lokalnego interesu producentów surowca lub konsumentów, są integralnie związane z funkcjami gospodarczymi, spełnianymi wyłącznie lub głównie przez spółdzielczość.
+3. odszkodowania wymienionych specjalne komisje. W w ust. 5 oraz sposób odszkodowa niu przed tymi komisjami prawo nia (ust. 2) i tryb amortyzacji papierów war osoby zainteresowane. W razie potrzeby, a w razie na osób zainteresowanych, komisja odpowied Art. 8. Przedsiębiorstwa, które w dniu nich w niniejszej ustawy
 
-- **a)**
-- **b)**
-- **c)**
+4. komisji, sposób jej pod a nie do na przez w tryb komisji oraz przepisów niniejszej ustawy, naj dalej do od jej rozpo dnia 31 grudnia 1946 r. zwolnione od Rady Ministrów. a ich posiadanie przywrócone
 
-4. Rada Ministrów we wszystkich innych przypadkach przyjmie pod uwagę istotne interesy spółdzielczości zarówno konsumentów, jak i producentów.
+5. przy ustalaniu odszkodowania osobom, w trybie przewidzianym przez przepisy. sionych w z i przez w okresie od dnia 2. Ponadto orzeknie przed 1 1939 r. do chwili miotu przez Art. 10. Wykonanie niniejszej ustawy dokonanych po dniu rucza Prezesowi Rady Ministrów i 1 1939 r., ministrom.
 
-**Art. 6.**
+- **a)** ogólne na Art. 9. 1. Kto usuwa, ukrywa lub uszka rodowego, dza przez
+- **b)** stwo (art. 2 i 3) albo inne czyn stwa w dniu go przez w celu udaremnienia stwo, przez podlega karze do lat
+- **e)** na 5-ciu i grzywnie do 10.000.000 albo jednej skutek strat wojennych oraz strat, ponie z tych kar.
+- **e)** szczególne na (czas trwania Art. 11. Ustawa niniejsza wchodzi w koncesji, licencje itp.). z dniem Prezydent Krajowej Rady Narodowej: Minister i Handlu Zagraniczn.: Bierut Stefan Prezes Rady Ministrów: Minister Komunikacji: Edwa,rd Osóbka-Morawski Jan Rabanowski Minister Obrony Narodowej: Minister Zdrowia: Franciszek Litwin Minister Informacji i Propagandy: Minister Publicznego: Stefan Matuszewski RadJC'ieuncz Minister Skarbu: w/z Minister Kultury i Sztuki: Konstanty Leon K ruczkoUJski Minister Minister Administracji Publicznej: Tka,czow Kiernik Minister Spraw Zagranicznych: Minister Aprowizacji Handlu: Wincenty Rzymowski Jerzy Sztachelski Minister Minister Odbudowy: Henryk Kaczorowski w/z Minister w/z Minister Pracy i Opieki Biedow1:Cz Edmund Giebartowski Minister Rolnictwa i Reform Rolnych: Minister Poczt i Telegrafów: Tadeusz Minister Minister Ziem Odzyskanych: Hilary Minc
 
-1. Przedsiębiorstwa przejęte na zasadzie przepisu art. 2 lub art. 3 przechodzą na rzecz Państwa lub polskich osób prawnych prawa publicznego w całości wraz z nieruchomym i ruchomym majątkiem i wszelkimi prawami (prawo do firmy, patenty, licencje, znaki towarowe, użytkowe itp.), wolne jednak od obciążeń i zobowiązań z wyjątkiem zobowiązań o charakterze publiczno-prawnym, zobowiązań na rzecz polskich osób prawnych prawa publicznego, zobowiązań na rzecz osób prawnych, stanowiących własność polskich osób prawnych prawa publicznego, służebności gruntowych oraz zobowiązań, mających swe źródło w stosunku najmu pracy lub odpowiedzialności za czyny niedozwolone.
-
-2. Do odszkodowania za obciążenia i zobowiązania, które z mocy przepisu ust. 1 nie podlegają przejęciu stosuje się odpowiednio przepis art. 7.
-
-3. Obciążenia i zobowiązania, które w chwili ich powstania były gospodarczo nieuzasadnione, ulegają umorzeniu w całości lub w części względem Państwa lub polskiej osoby prawnej prawa publicznego.
-
-4. Rozporządzenie Rady Ministrów ustali zasady i tryb postępowania w sprawach oznaczonych w przepisie ust. 3.
-
-5. Przepis art. 2 ust. 5 stosuje się odpowiednio do przedsiębiorstw przejętych na zasadzie przepisu art. 3.
-
-**Art. 7.**
-
-1. Za przedsiębiorstwo przejęte przez Państwo na własność (art. 3) otrzyma jego właściciel od Skarbu Państwa odszkodowanie w terminie jednego roku, licząc od dnia doręczenia mu zawiadomienia w przedmiocie prawomocnego ustalenia wysokości przypadającego odszkodowania.
-
-2. Odszkodowanie to będzie w zasadzie wypłacane w papierach wartościowych, zaś w wyjątkowych gospodarczo uzasadnionych przypadkach może być wypłacane również w gotówce lub innych wartościach.
-
-3. Wysokość należnego odszkodowania będą ustalały specjalne komisje. W postępowaniu przed tymi komisjami będą miały prawo uczestniczyć osoby zainteresowane. W razie potrzeby, a w każdym razie na żądanie osób zainteresowanych, komisja powoła odpowiednich biegłych.
-
-4. Skład komisji, sposób powoływania jej członków, liczbę członków konieczną do ważności uchwał, tryb postępowania komisji oraz odwoływania się od jej orzeczeń określi rozporządzenie Rady Ministrów.
-
-5. Przy ustalaniu odszkodowania należy uwzględnić: ogólne obniżenie wartości majątku narodowego, czystą wartość majątku przedsiębiorstwa w dniu przejęcia go przez Państwo, obniżenie wartości przedsiębiorstwa na skutek strat wojennych oraz strat, poniesionych w związku z wojną i okupacją przez przedsiębiorstwo w okresie od dnia 1 września 1939 r. do chwili przejęcia przedsiębiorstwa przez Państwo, wysokość nakładów, dokonanych po dniu 1 września 1939 r., szczególne okoliczności wpływające na wartość przedsiębiorstwa (czas trwania koncesji, licencje itp.).
-
-- **a)**
-- **b)**
-- **c)**
-- **d)**
-- **e)**
-
-6. Rozporządzenie Rady Ministrów ustali szczegółowe zasady obliczania odszkodowania, uwzględniania okoliczności wymienionych w ust. 5 oraz sposób wypłacania odszkodowania (ust. 2) i tryb amortyzacji papierów wartościowych.
-
-**Art. 8.** Przedsiębiorstwa, które w dniu wejścia w życie niniejszej ustawy znajdują się pod zarządem państwowym, a nie podlegają przejęciu na własność przez Państwo w myśl przepisów niniejszej ustawy, będą najdalej do dnia 31 grudnia 1946 r. zwolnione od zarządu państwowego, a ich posiadanie przywrócone osobom, uprawnionym w trybie przewidzianym przez obowiązujące przepisy.
-
-**Art. 9.**
-
-1. Kto usuwa, ukrywa lub uszkadza majątek, podlegający przejęciu przez Państwo (art. 2 i 3) albo przedsiębierze inne czynności w celu udaremnienia przejęcia majątku przez Państwo, podlega karze więzienia do lat 5-ciu i grzywnie do 10.000.000 zł albo jednej z tych kar.
-
-2. Ponadto sąd orzeknie konfiskatę przedmiotu przestępstwa.
-
-**Art. 10.** Wykonanie niniejszej ustawy porucza się Prezesowi Rady Ministrów i właściwym ministrom.
-
-**Art. 11.** Ustawa niniejsza wchodzi w życie z dniem ogłoszenia.
 

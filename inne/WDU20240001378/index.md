@@ -34,14 +34,19 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Sprawiedliwoś
 2) § 2 rozporządzenia Ministra Sprawiedliwości z dnia 6 grudnia 2022 r. zmieniającego rozporządzenie w sprawie utworzenia, ustalenia siedzib i obszarów właściwości ośrodków zamiejscowych prokuratur regionalnych, okręgowych i rejonowych poza siedzibą prokuratury (Dz. U. poz. 2584), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.”. Minister Sprawiedliwości: A. Bodnar
 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 19 lutego 2016 r.
 w sprawie utworzenia, ustalenia siedzib i obszarów właściwości ośrodków zamiejscowych prokuratur regionalnych, okręgowych i rejonowych poza siedzibą prokuratury Na podstawie art. 35 § 4 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2024 r. poz. 390) zarządza się, co następuje:
-§ 1. Ustala się siedziby i obszary właściwości ośrodków zamiejscowych prokuratur okręgowych:
-1) Ośrodka Zamiejscowego Prokuratury Okręgowej w Lublinie z siedzibą w Białej Podlaskiej, obejmującego obszar właściwości Prokuratur Rejonowych w: Białej Podlaskiej, Parczewie i Radzyniu Podlaskim;
-2) Ośrodka Zamiejscowego Prokuratury Okręgowej w Lublinie z siedzibą w Chełmie, obejmującego obszar właściwości Prokuratur Rejonowych w Chełmie i Włodawie.
-§ 2. Ustala się siedziby i obszary właściwości ośrodków zamiejscowych prokuratur rejonowych:
-1) w obszarze właściwości Prokuratury Okręgowej w Bydgoszczy: Ośrodka Zamiejscowego Prokuratury Rejonowej w Szubinie z siedzibą w Żninie, któremu powierza się załatwianie spraw z terenu gmin: Gąsawa, Janowiec Wielkopolski, Rogowo i Żnin;
-2) w obszarze właściwości Prokuratury Okręgowej w Elblągu: Ośrodka Zamiejscowego Prokuratury Rejonowej w Ostródzie z siedzibą w Morągu, któremu powierza się załatwianie spraw z terenu gmin: Małdyty, Miłakowo i Morąg;
-3) (uchylony);
-4) (uchylony);
-5) w obszarze właściwości Prokuratury Okręgowej w Radomiu: Ośrodka Zamiejscowego Prokuratury Rejonowej w Przysusze z siedzibą w Szydłowcu, któremu powierza się załatwianie spraw z terenu gmin: Chlewiska, Jastrząb, Mirów, Orońsko, Szydłowiec i Wierzbica.
-§ 3. Rozporządzenie wchodzi w życie z dniem 4 marca 2016 r.
+
+**§ 1.** Ustala się siedziby i obszary właściwości ośrodków zamiejscowych prokuratur okręgowych:
+
+- **1)** Ośrodka Zamiejscowego Prokuratury Okręgowej w Lublinie z siedzibą w Białej Podlaskiej, obejmującego obszar właściwości Prokuratur Rejonowych w: Białej Podlaskiej, Parczewie i Radzyniu Podlaskim;
+- **2)** Ośrodka Zamiejscowego Prokuratury Okręgowej w Lublinie z siedzibą w Chełmie, obejmującego obszar właściwości Prokuratur Rejonowych w Chełmie i Włodawie.
+
+**§ 2.** Ustala się siedziby i obszary właściwości ośrodków zamiejscowych prokuratur rejonowych:
+
+- **1)** w obszarze właściwości Prokuratury Okręgowej w Bydgoszczy: Ośrodka Zamiejscowego Prokuratury Rejonowej w Szubinie z siedzibą w Żninie, któremu powierza się załatwianie spraw z terenu gmin: Gąsawa, Janowiec Wielkopolski, Rogowo i Żnin;
+- **2)** w obszarze właściwości Prokuratury Okręgowej w Elblągu: Ośrodka Zamiejscowego Prokuratury Rejonowej w Ostródzie z siedzibą w Morągu, któremu powierza się załatwianie spraw z terenu gmin: Małdyty, Miłakowo i Morąg;
+- **3)** (uchylony);
+- **4)** (uchylony);
+- **5)** w obszarze właściwości Prokuratury Okręgowej w Radomiu: Ośrodka Zamiejscowego Prokuratury Rejonowej w Przysusze z siedzibą w Szydłowcu, któremu powierza się załatwianie spraw z terenu gmin: Chlewiska, Jastrząb, Mirów, Orońsko, Szydłowiec i Wierzbica.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 4 marca 2016 r.
 

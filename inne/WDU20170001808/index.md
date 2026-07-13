@@ -8,10 +8,10 @@ pos: 1808
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# Warszawa, 29 września 2017 Poz.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1808 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 27 września 2017 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,75 +25,157 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-11-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001808) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1808/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO 27 września 2017 szczegółowych warunków uzyskiwania dofinansowania realizacji zadań zakresu trybu składania wniosków przekazywania środków Funduszu Promocji Kultury Na podstawie 7 19 listopada 2009 grach hazardowych U. 2016 471, 1948 2260 2017 88, 379 1089) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe warunki uzyskiwania dofinansowania realizacji 4 19 listopada 2009 grach hazardowych, zwanej dalej „ustawą”, tryb składania wniosków przekazywania środków Funduszu Promocji Kultury, zwanych dalej „środkami Funduszu”.
-§ 2. 1. Udzielenie dofinansowania realizację 4 ustawy, odbywa podstawie wniosków składanych do ministra właściwego do spraw kultury ochrony dziedzictwa narodowego, zwanego dalej „ministrem”.
-2. Minister może upoważnić dyrektora instytucji której jest organizatorem, zwanego dalej „podmiotem upoważnionym”, do przyjmowania wniosków udzielenie przez ministra dofinansowania realizację 4 1–3 6 ustawy, do zawierania umów rozliczania.
-3. Instytucja której dyrektor jest podmiotem upoważnionym, nie może być wnioskodawcą ubiegającym dofinansowanie realizacji zadania objętego upoważnieniem.
-4. Minister może powoływać komisje lub zespoły sterujące celu zaopiniowania lub oceny wniosków, zakres wymaga doświadczenia lub wiedzy eksperckiej.
-§ 3. Warunkiem udzielenia dofinansowania realizacji 4 1–3 6 ustawy, jest zgodność wniosku priorytetowym zakresem działań celami przeznaczenia środków Funduszu ramach limitu wydatków dofinansowanie określonych przez ministra dany rok kalendarzowy ogłoszonych formie programów Biuletynie Informacji Publicznej stronie podmiotowej ministra.
-§ 4. 1. Minister podstawie programów, § 3, co najmniej raz roku ogłasza nabór wniosków dofinansowanie realizacji 4 1–3 6 ustawy.
-2. Ogłoszenie naborze wniosków zawiera informację o:
-1) prognozowanym limicie wydatków przeznaczonych dofinansowanie działań określonych programie;
-2) celach rodzajach działań objętych dofinansowaniem;
-3) podmiotach uprawnionych do złożenia wniosku;
-4) podmiocie upoważnionym do przyjmowania wniosków;
-§ 5. 1. Wniosek udzielenie dofinansowania podstawie programów, § 3, zawiera:
-1) imię, nazwisko, miejsce zamieszkania adres wnioskodawcy albo nazwę, siedzibę adres jednostki organizacyjnej, będącej wnioskodawcą;
-2) nazwę, rodzaj opis działania;
-3) wskazanie programu;
-4) wysokość wnioskowanego dofinansowania;
-5) harmonogram realizacji działania;
-6) oświadczenia wnioskodawcy posiadaniu zasobów rzeczowych kadrowych spełnieniu wymagań zapewniających prawidłowe wykonanie działania;
-7) preliminarz całkowitych kosztów działania;
-8) inne źródła finansowania działania.
-2. Do wniosku, którym 1, dołącza dokumenty wymagane ogłoszeniu naborze wniosków.
-§ 6. 1. Przed przekazaniem środków Funduszu dofinansowanie działań określonych we wniosku, którym § 5, minister zawiera wnioskodawcą umowę udzieleniu dotacji celowej zgodnie wymogami określonymi 150 27 sierpnia 2009 finansach publicznych U. 2016 1870, późn. zm. ).
-2. Umowa, której 1, określa także obowiązki wnioskodawcy dotyczące zakresu informowania dofinansowaniu zadania ze środków Funduszu.
-§ 7. Przekazywanie środków Funduszu dofinansowanie działań określonych we wniosku, którym § 5, odbywa wskazany rachunek bankowy wnioskodawcy terminach zapewniających finansowanie zobowiązań wynikających harmonogramu działań objętych dofinansowaniem lub jako refundacja poniesionych wydatków te działania.
-§ 8. W terminie do 31 grudnia każdego roku minister publikuje Biuletynie Informacji Publicznej stronie podmiotowej ministra wykaz działań dofinansowanych ze środków Funduszu.
-§ 9. 1. W przypadku wnioskodawców będących przedsiębiorstwami, rozumieniu 1 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 17 czerwca 2014 uznającego niektóre rodzaje pomocy za zgodne rynkiem wewnętrznym zastosowaniu 107 108 Traktatu Urz. UE L 187 26.06.2014, późn. zm. ), zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”, dofinasowanie działań objętych wnioskiem, którym § 5, jest udzielane jako pomoc publiczna zgodnie 53 rozporządzenia Komisji (UE) nr 651/2014, zastrzeżeniem §10.
-2. Pomoc publiczna, której 1, nie może przekraczać progów wskazanych 4 1 lit. rozporządzenia Komisji (UE) nr 651/2014.
-3. Wnioskodawca może otrzymać pomoc publiczną, której 1, pod warunkiem, że zagwarantuje zgodność realizacji projektu przepisami pomocy publicznej całym okresie, którym będzie rozliczana udzielona pomoc publiczna przez co najmniej 10 lat od zawarcia umowy dofinansowanie projektu.
-4. Pomoc publiczna, której 1, podlega kumulacji inną pomocą zasadach określonych 8 rozporządzenia Komisji (UE) nr 651/2014.
-8. Pomoc publiczna, której 1, może być udzielona wysokości do 100% kosztów kwalifikowalnych projektu, 7.
-9. Wysokość pomocy publicznej, której 1, ustala zgodnie 53 6–9 rozporządzenia Komisji (UE) nr 651/2014.
-10. Dofinansowanie, którym 1, nie może być udzielone przedsiębiorcy do czasu złożenia przez przedsiębiorcę dokumentów, 37 5 30 kwietnia 2004 postępowaniu sprawach dotyczących pomocy publicznej U. 2016 1948).
-§ 10. 1. W przypadku przedsiębiorstw ubiegających dofinasowanie zadania zakresu wspierania czasopism kulturalnych dofinasowanie jest udzielane zasadach określonych rozporządzeniu Komisji (UE) nr 1407/2013 18 grudnia 2013 stosowania 107 108 Traktatu funkcjonowaniu Unii Europejskiej do pomocy de minimis Urz. UE L 352 24.12.2013).
-2. Dofinansowanie, którym 1, nie może być udzielone przedsiębiorcy do czasu złożenia przez przedsiębiorcę dokumentów, 37 1 2 1 2 30 kwietnia 2004 postępowaniu sprawach dotyczących pomocy publicznej.
-§ 11. 1. Warunkiem udzielenia dofinansowania realizację 4 4 ustawy, jest posiadanie przez twórcę lub artystę dorobku zakresie działalności kulturalnej, rozumieniu 1 1 25 października 1991 organizowaniu prowadzeniu działalności kulturalnej U. 2017 862), osiągnięć twórczych lub artystycznych albo znajdowanie trudnej sytuacji materialnej.
-2. Wnioskodawca może wystąpić przyznanie nagrody indywidualnej lub zbiorowej, tym dla zespołu twórców lub artystów będących osobami fizycznymi albo dla zespołu twórców lub artystów działającego przy jednostce organizacyjnej, albo udzielenie pomocy socjalnej.
-3. Wniosek przyznanie nagrody indywidualnej lub zbiorowej dla zespołu twórców lub artystów będących osobami fizycznymi zawiera:
-1) dane osobowe kandydatów do nagrody:
-a) datę urodzenia,
-b) imię nazwisko,
-c) adres korespondencyjny,
-d) identyfikator podatkowy, którym 3 1 13 października 1995 zasadach ewidencji identyfikacji podatników płatników U. 2017 869), a przypadku braku identyfikatora podatkowego numer paszportu;
-2) nazwę urzędu skarbowego właściwego ze względu miejsce zamieszkania kandydatów do nagrody;
-3) informacje dorobku twórczym lub artystycznym kandydatów do nagrody;
-4) uzasadnienie wniosku zawierające informacje osiągnięciu, za które nagroda ma być przyznana, jego znaczeniu dla kultury lub ochrony dziedzictwa kulturowego.
-4. Wniosek przyznanie nagrody zbiorowej dla zespołu twórców lub artystów działającego przy jednostce organizacyjnej zawiera:
-1) nazwę zespołu nazwę, siedzibę adres jednostki organizacyjnej;
-1) dane osoby, której wniosek dotyczy:
-a) datę urodzenia,
-b) imię nazwisko,
-c) adres korespondencyjny,
-d) identyfikator podatkowy, którym 3 1 13 października 1995 zasadach ewidencji identyfikacji podatników płatników, a przypadku braku identyfikatora podatkowego numer paszportu;
-2) nazwę urzędu skarbowego właściwego ze względu miejsce zamieszkania osoby, której wniosek dotyczy;
-3) informacje dorobku twórczym lub artystycznym osoby, której wniosek dotyczy;
-4) informacje sytuacji materialnej osoby, której wniosek dotyczy, wraz ze wskazaniem okoliczności wpływających tę sytuację uzasadniających przyznanie pomocy socjalnej;
-5) oświadczenie osoby, której wniosek dotyczy, dochodach uzyskanych okresie ostatnich dwunastu miesięcy.
-8. Do wniosku dołącza dokumenty potwierdzające zaistnienie okoliczności, 7 3 4, okoliczności uprawniających do zwolnienia przyznanej pomocy socjalnej podatku dochodowego, którym 21 1 26 26 lipca 1991 podatku dochodowym od osób fizycznych U. 2016 2032, późn. zm. ).
-9. Środki Funduszu udzielone pomoc socjalną przekazuje wskazany rachunek bankowy osoby, której przyznano pomoc socjalną, lub inny uzgodniony tą osobą sposób.
-§ 12. 1. Warunkiem udzielenia dofinansowania realizację 4 8 ustawy, jest zaciągnięcie wieloletnich zobowiązań finansowych związanych nimi dodatkowych obciążeń przez instytucję dla której organizatorem jest minister, związek realizacją inwestycji zakresu promowania wspierania 4 1–6 ustawy, zgoda ministra wyrażona przed zaciągnięciem.
-2. Wniosek dofinansowanie zawiera:
-1) nazwę, siedzibę adres instytucji kultury będącej wnioskodawcą;
-2) podstawę, rodzaj, wysokość opis zobowiązań związanych nimi dodatkowych obciążeń;
-3) wysokość wnioskowanego dofinansowania;
-4) wskazanie inwestycji, której realizacją są związane zobowiązania;
-5) harmonogram spłaty zobowiązań;
-6) inne źródła finansowania inwestycji, której realizacją jest związane zobowiązanie.
-3. Do wniosku dołącza dokumenty potwierdzające zobowiązania finansowe związane nimi dodatkowe obciążenia zaciągnięte przez wnioskodawcę oświadczenie wnioskodawcy możliwości przeznaczenia określonych środków własnych lub środków pochodzących innych źródeł spłatę zobowiązań objętych wnioskiem.
-4. Przed przekazaniem środków Funduszu spłatę zobowiązań określonych we wniosku, którym 2, minister zawiera wnioskodawcą umowę udzielenie dotacji celowej zgodnie wymogami określonymi 150 27 sierpnia 2009 finansach publicznych.
-5. Przekazywanie środków Funduszu odbywa wskazany rachunek bankowy wnioskodawcy czasie zapewniającym terminową spłatę zobowiązań objętych dofinansowaniem lub jako refundacja poniesionych wydatków zgodnie harmonogramem spłat wynikającym zaciągniętego zobowiązania.
-§ 15. Rozporządzenie wchodzi życie dniem 1 października 2017 Minister Kultury Dziedzictwa Narodowego: P. Gliński
+w sprawie szczegółowych warunków uzyskiwania dofinansowania realizacji zadań z zakresu kultury, trybu składania wniosków oraz przekazywania środków z Funduszu Promocji Kultury Na podstawie art. 87 ust. 7 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2016 r. poz. 471, 1948 i 2260 oraz z 2017 r. poz. 88, 379 i 1089) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa szczegółowe warunki uzyskiwania dofinansowania realizacji zadań, o których mowa w art. 87 ust. 4 ustawy z dnia 19 listopada 2009 r. o grach hazardowych, zwanej dalej „ustawą”, tryb składania wniosków oraz przekazywania środków z Funduszu Promocji Kultury, zwanych dalej „środkami Funduszu”.
+
+**§ 2.**
+
+1. Udzielenie dofinansowania na realizację zadań, o których mowa w art. 87 ust. 4 ustawy, odbywa się na podstawie wniosków składanych do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, zwanego dalej „ministrem”.
+
+2. Minister może upoważnić dyrektora instytucji kultury, której jest organizatorem, zwanego dalej „podmiotem upoważnionym”, do przyjmowania wniosków o udzielenie przez ministra dofinansowania na realizację zadań, o których mowa w art. 87 ust. 4 pkt 1–3 i 6 ustawy, oraz do zawierania umów i ich rozliczania.
+
+3. Instytucja kultury, której dyrektor jest podmiotem upoważnionym, nie może być wnioskodawcą ubiegającym się o dofinansowanie realizacji zadania objętego upoważnieniem.
+
+4. Minister może powoływać komisje lub zespoły sterujące w celu zaopiniowania lub oceny wniosków, których zakres wymaga doświadczenia lub wiedzy eksperckiej.
+
+**§ 3.** Warunkiem udzielenia dofinansowania realizacji zadań, o których mowa w art. 87 ust. 4 pkt 1–3 i 6 ustawy, jest zgodność wniosku z priorytetowym zakresem działań i celami przeznaczenia środków Funduszu w ramach limitu wydatków na ich dofinansowanie określonych przez ministra na dany rok kalendarzowy i ogłoszonych w formie programów w Biuletynie Informacji Publicznej na stronie podmiotowej ministra.
+
+**§ 4.**
+
+1. Minister na podstawie programów, o których mowa w § 3, co najmniej raz w roku ogłasza nabór wniosków o dofinansowanie realizacji zadań, o których mowa w art. 87 ust. 4 pkt 1–3 i 6 ustawy.
+
+2. Ogłoszenie o naborze wniosków zawiera informację o:
+
+- **1)** prognozowanym limicie wydatków przeznaczonych na dofinansowanie działań określonych w programie;
+- **2)** celach i rodzajach działań objętych dofinansowaniem;
+- **3)** podmiotach uprawnionych do złożenia wniosku;
+- **4)** podmiocie upoważnionym do przyjmowania wniosków;
+- **5)** terminie, miejscu i sposobie składania wniosków;
+- **6)** terminie i wymaganiach odnośnie do realizacji działań;
+- **7)** kryteriach wyboru wniosków;
+- **8)** dokumentach dołączanych do wniosków, które potwierdzają informacje objęte wnioskiem o posiadaniu zasobów rzeczowych i kadrowych oraz spełnieniu wymagań zapewniających prawidłowe wykonanie działania, a także formalny status i sposób reprezentacji wnioskodawcy.
+
+**§ 5.**
+
+1. Wniosek o udzielenie dofinansowania na podstawie programów, o których mowa w § 3, zawiera:
+
+- **1)** imię, nazwisko, miejsce zamieszkania i adres wnioskodawcy albo nazwę, siedzibę i adres jednostki organizacyjnej, będącej wnioskodawcą;
+- **2)** nazwę, rodzaj i opis działania;
+- **3)** wskazanie programu;
+- **4)** wysokość wnioskowanego dofinansowania;
+- **5)** harmonogram realizacji działania;
+- **6)** oświadczenia wnioskodawcy o posiadaniu zasobów rzeczowych i kadrowych oraz spełnieniu wymagań zapewniających prawidłowe wykonanie działania;
+- **7)** preliminarz całkowitych kosztów działania;
+- **8)** inne źródła finansowania działania.
+
+2. Do wniosku, o którym mowa w ust. 1, dołącza się dokumenty wymagane w ogłoszeniu o naborze wniosków.
+
+**§ 6.**
+
+1. Przed przekazaniem środków Funduszu na dofinansowanie działań określonych we wniosku, o którym mowa w § 5, minister zawiera z wnioskodawcą umowę o udzieleniu dotacji celowej zgodnie z wymogami określonymi w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2016 r. poz. 1870, z późn. zm. ).
+
+2. Umowa, o której mowa w ust. 1, określa także obowiązki wnioskodawcy dotyczące zakresu informowania o dofinansowaniu zadania ze środków Funduszu.
+
+**§ 7.** Przekazywanie środków Funduszu na dofinansowanie działań określonych we wniosku, o którym mowa w § 5, odbywa się na wskazany rachunek bankowy wnioskodawcy w terminach zapewniających finansowanie zobowiązań wynikających z harmonogramu działań objętych dofinansowaniem lub jako refundacja poniesionych wydatków na te działania.
+
+**§ 8.** W terminie do dnia 31 grudnia każdego roku minister publikuje w Biuletynie Informacji Publicznej na stronie podmiotowej ministra wykaz działań dofinansowanych ze środków Funduszu.
+
+**§ 9.**
+
+1. W przypadku wnioskodawców będących przedsiębiorstwami, w rozumieniu art. 1 załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, z późn. zm. ), zwanego dalej „rozporządzeniem Komisji (UE) nr 651/2014”, dofinasowanie działań objętych wnioskiem, o którym mowa w § 5, jest udzielane jako pomoc publiczna zgodnie z art. 53 rozporządzenia Komisji (UE) nr 651/2014, z zastrzeżeniem §10.
+
+2. Pomoc publiczna, o której mowa w ust. 1, nie może przekraczać progów wskazanych w art. 4 ust. 1 lit. z rozporządzenia Komisji (UE) nr 651/2014.
+
+3. Wnioskodawca może otrzymać pomoc publiczną, o której mowa w ust. 1, pod warunkiem, że zagwarantuje zgodność realizacji projektu z przepisami o pomocy publicznej w całym okresie, w którym będzie rozliczana udzielona pomoc publiczna – przez co najmniej 10 lat od dnia zawarcia umowy o dofinansowanie projektu.
+
+4. Pomoc publiczna, o której mowa w ust. 1, podlega kumulacji z inną pomocą na zasadach określonych w art. 8 rozporządzenia Komisji (UE) nr 651/2014.
+
+5. Pomocy publicznej, o której mowa w ust. 1, nie udziela się na rzecz przedsiębiorstwa, na którym ciąży obowiązek zwrotu pomocy, w rozumieniu art. 1 ust. 4 lit. a rozporządzenia Komisji (UE) nr 651/2014, oraz przedsiębiorstwa znajdującego się w trudnej sytuacji, w rozumieniu art. 2 pkt 18 rozporządzenia Komisji (UE) nr 651/2014.
+
+6. Pomocy publicznej, o której mowa w ust. 1, udziela się na koszty kwalifikowalne, o których mowa w art. 53 ust. 4, 5 i 9 rozporządzenia Komisji (UE) nr 651/2014, w zakresie określonym w ogłoszeniu programu.
+
+7. Za wydatek kwalifikowalny uznaje się wydatek poniesiony w okresie od dnia 1 stycznia 2015 r. do końca okresu stosowania rozporządzenia Komisji (UE) nr 651/2014.
+
+8. Pomoc publiczna, o której mowa w ust. 1, może być udzielona w wysokości do 100% kosztów kwalifikowalnych projektu, o których mowa w ust. 7.
+
+9. Wysokość pomocy publicznej, o której mowa w ust. 1, ustala się zgodnie z art. 53 ust. 6–9 rozporządzenia Komisji (UE) nr 651/2014.
+
+10. Dofinansowanie, o którym mowa w ust. 1, nie może być udzielone przedsiębiorcy do czasu złożenia przez przedsiębiorcę dokumentów, o których mowa w art. 37 ust. 5 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2016 r. poz. 1808 i 1948).
+
+**§ 10.**
+
+1. W przypadku przedsiębiorstw ubiegających się o dofinasowanie na zadania z zakresu wspierania czasopism kulturalnych dofinasowanie jest udzielane na zasadach określonych w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013).
+
+2. Dofinansowanie, o którym mowa w ust. 1, nie może być udzielone przedsiębiorcy do czasu złożenia przez przedsiębiorcę dokumentów, o których mowa w art. 37 ust. 1 i ust. 2 pkt 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
+
+**§ 11.**
+
+1. Warunkiem udzielenia dofinansowania na realizację zadań, o których mowa w art. 87 ust. 4 pkt 4 ustawy, jest posiadanie przez twórcę lub artystę dorobku w zakresie działalności kulturalnej, w rozumieniu art. 1 ust. 1 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2017 r. poz. 862), oraz osiągnięć twórczych lub artystycznych albo znajdowanie się w trudnej sytuacji materialnej.
+
+2. Wnioskodawca może wystąpić o przyznanie nagrody indywidualnej lub zbiorowej, w tym dla zespołu twórców lub artystów będących osobami fizycznymi albo dla zespołu twórców lub artystów działającego przy jednostce organizacyjnej, albo o udzielenie pomocy socjalnej.
+
+3. Wniosek o przyznanie nagrody indywidualnej lub zbiorowej dla zespołu twórców lub artystów będących osobami fizycznymi zawiera:
+
+- **1)** dane osobowe kandydatów do nagrody:
+    - **a)** datę urodzenia,
+    - **b)** imię i nazwisko,
+    - **c)** adres korespondencyjny,
+    - **d)** identyfikator podatkowy, o którym mowa w art. 3 ust. 1 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2017 r. poz. 869), a w przypadku braku identyfikatora podatkowego – numer paszportu;
+
+- **2)** nazwę urzędu skarbowego właściwego ze względu na miejsce zamieszkania kandydatów do nagrody;
+- **3)** informacje o dorobku twórczym lub artystycznym kandydatów do nagrody;
+- **4)** uzasadnienie wniosku zawierające informacje o osiągnięciu, za które nagroda ma być przyznana, i jego znaczeniu dla kultury lub ochrony dziedzictwa kulturowego.
+
+4. Wniosek o przyznanie nagrody zbiorowej dla zespołu twórców lub artystów działającego przy jednostce organizacyjnej zawiera:
+
+- **1)** nazwę zespołu oraz nazwę, siedzibę i adres jednostki organizacyjnej;
+- **2)** informacje o dorobku twórczym lub artystycznym zespołu kandydującego do nagrody;
+- **3)** uzasadnienie wniosku zawierające informacje o osiągnięciu, za które nagroda ma być przyznana, i jego znaczeniu dla kultury lub ochrony dziedzictwa kulturowego.
+
+5. Do wniosku dołącza się dokumenty potwierdzające okoliczności, o których mowa w ust. 3 pkt 3 i 4 oraz ust. 4 pkt 2 i 3.
+
+6. Środki Funduszu na nagrody indywidualne lub zbiorowe przekazuje się na wskazany rachunek bankowy lub w formie wypłat gotówkowych w kasie urzędu obsługującego ministra. W przypadku nagrody zbiorowej dla zespołu działającego przy jednostce organizacyjnej przekazanie środków Funduszu może nastąpić na wskazany rachunek bankowy tej jednostki.
+
+7. Wniosek o udzielenie pomocy socjalnej zawiera:
+
+- **1)** dane osoby, której wniosek dotyczy:
+    - **a)** datę urodzenia,
+    - **b)** imię i nazwisko,
+    - **c)** adres korespondencyjny,
+    - **d)** identyfikator podatkowy, o którym mowa w art. 3 ust. 1 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, a w przypadku braku identyfikatora podatkowego – numer paszportu;
+
+- **2)** nazwę urzędu skarbowego właściwego ze względu na miejsce zamieszkania osoby, której wniosek dotyczy;
+- **3)** informacje o dorobku twórczym lub artystycznym osoby, której wniosek dotyczy;
+- **4)** informacje o sytuacji materialnej osoby, której wniosek dotyczy, wraz ze wskazaniem okoliczności wpływających na tę sytuację uzasadniających przyznanie pomocy socjalnej;
+- **5)** oświadczenie osoby, której wniosek dotyczy, o dochodach uzyskanych w okresie ostatnich dwunastu miesięcy.
+
+8. Do wniosku dołącza się dokumenty potwierdzające zaistnienie okoliczności, o których mowa w ust. 7 pkt 3 i 4, oraz okoliczności uprawniających do zwolnienia przyznanej pomocy socjalnej z podatku dochodowego, o którym mowa w art. 21 ust. 1 pkt 26 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032, z późn. zm. ).
+
+9. Środki Funduszu udzielone na pomoc socjalną przekazuje się na wskazany rachunek bankowy osoby, której przyznano pomoc socjalną, lub w inny uzgodniony z tą osobą sposób.
+
+**§ 12.**
+
+1. Warunkiem udzielenia dofinansowania na realizację zadań, o których mowa w art. 87 ust. 4 pkt 8 ustawy, jest zaciągnięcie wieloletnich zobowiązań finansowych i związanych z nimi dodatkowych obciążeń przez instytucję kultury, dla której organizatorem jest minister, ich związek z realizacją inwestycji z zakresu promowania i wspierania zadań, o których mowa w art. 87 ust. 4 pkt 1–6 ustawy, oraz zgoda ministra wyrażona przed ich zaciągnięciem.
+
+2. Wniosek o dofinansowanie zawiera:
+
+- **1)** nazwę, siedzibę i adres instytucji kultury będącej wnioskodawcą;
+- **2)** podstawę, rodzaj, wysokość oraz opis zobowiązań i związanych z nimi dodatkowych obciążeń;
+- **3)** wysokość wnioskowanego dofinansowania;
+- **4)** wskazanie inwestycji, z której realizacją są związane zobowiązania;
+- **5)** harmonogram spłaty zobowiązań;
+- **6)** inne źródła finansowania inwestycji, z której realizacją jest związane zobowiązanie.
+
+3. Do wniosku dołącza się dokumenty potwierdzające zobowiązania finansowe i związane z nimi dodatkowe obciążenia zaciągnięte przez wnioskodawcę oraz oświadczenie wnioskodawcy o możliwości przeznaczenia określonych środków własnych lub środków pochodzących z innych źródeł na spłatę zobowiązań objętych wnioskiem.
+
+4. Przed przekazaniem środków Funduszu na spłatę zobowiązań określonych we wniosku, o którym mowa w ust. 2, minister zawiera z wnioskodawcą umowę o udzielenie dotacji celowej zgodnie z wymogami określonymi w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+5. Przekazywanie środków Funduszu odbywa się na wskazany rachunek bankowy wnioskodawcy w czasie zapewniającym terminową spłatę zobowiązań objętych dofinansowaniem lub jako refundacja poniesionych wydatków zgodnie z harmonogramem spłat wynikającym z zaciągniętego zobowiązania.
+
+**§ 13.** Do wniosków o udzielenie dofinansowania złożonych przed dniem wejścia w życie rozporządzenia oraz do umów o dofinansowanie realizacji zadań zawartych przed tym dniem stosuje się przepisy rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 30 czerwca 2010 r. w sprawie szczegółowych warunków uzyskiwania dofinansowania realizacji zadań z zakresu kultury, trybu składania wniosków oraz przekazywania środków z Funduszu Promocji Kultury (Dz. U. poz. 797 oraz z 2016 r. poz. 2156).
+
+**§ 14.** Dofinansowanie stanowiące pomoc de minimis może być udzielane do dnia 30 czerwca 2021 r.
+
+**§ 15.** Rozporządzenie wchodzi w życie z dniem 1 października 2017 r. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych Na podstawie art. 20 pkt 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r.
 poz. 23, 3, 5, 106 i 138) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych (Dz. U. poz. 1396 i 1681, z 2015 r. poz. 1592 i 2248, z 2016 r. poz. 1149 oraz z 2017 r. poz. 704) w § 1 w pkt 27:
-1) lit. e otrzymuje brzmienie: „e) Sądowi Rejonowemu Poznań-Grunwald i Jeżyce w Poznaniu sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych: w Obornikach, Poznań-Nowe Miasto i Wilda w Poznaniu, Poznań-Stare Miasto w Poznaniu, w Szamotułach, Śremie, Środzie Wielkopolskiej i we Wrześni oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: w Chodzieży, Gnieźnie, Grodzisku Wielkopolskim, Nowym Tomyślu, Obornikach, Pile, Poznań-Nowe Miasto i Wilda w Poznaniu, Poznań-Stare Miasto w Poznaniu, w Szamotułach, Śremie, Środzie Wielkopolskiej, Trzciance, Wągrowcu, Wolsztynie, we Wrześni i w Złotowie,”;
-2) uchyla się lit. g.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2018 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 7 października 2014 r. w sprawie przekazania niektórym sądom rejonowym rozpoznawania spraw z zakresu prawa pracy lub ubezpieczeń społecznych z obszarów właściwości innych sądów rejonowych (Dz. U. poz. 1396 i 1681, z 2015 r. poz. 1592 i 2248, z 2016 r. poz. 1149 oraz z 2017 r. poz. 704) w § 1 w pkt 27:
+
+- **1)** lit. e otrzymuje brzmienie: „e) Sądowi Rejonowemu Poznań-Grunwald i Jeżyce w Poznaniu sprawy z zakresu prawa pracy z obszaru właściwości sądów rejonowych: w Obornikach, Poznań-Nowe Miasto i Wilda w Poznaniu, Poznań-Stare Miasto w Poznaniu, w Szamotułach, Śremie, Środzie Wielkopolskiej i we Wrześni oraz sprawy z zakresu ubezpieczeń społecznych z obszaru właściwości sądów rejonowych: w Chodzieży, Gnieźnie, Grodzisku Wielkopolskim, Nowym Tomyślu, Obornikach, Pile, Poznań-Nowe Miasto i Wilda w Poznaniu, Poznań-Stare Miasto w Poznaniu, w Szamotułach, Śremie, Środzie Wielkopolskiej, Trzciance, Wągrowcu, Wolsztynie, we Wrześni i w Złotowie,”;
+- **2)** uchyla się lit. g.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2018 r. Minister Sprawiedliwości: Z. Ziobro
 

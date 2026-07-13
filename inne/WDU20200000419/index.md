@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej Na podstawie art. 4 ust. 1 ustawy z dnia 27 maja 2015 r. o finansowaniu wspólnej polityki rolnej (Dz. U. z 2018 r.
 poz. 719) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. z 2020 r. poz. 315) wprowadza się następujące zmiany:
-1) w § 2 w pkt 14 w lit. c kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu: „15) Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 w zakresie działania „Dobrostan zwierząt” – w odniesieniu do obsługi wniosku o przyznanie pomocy, od jego złożenia do kontroli kompletności włącznie.”;
-2) w § 3 dodaje się ust. 9 w brzmieniu: „9. Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 15, udziela się od dnia 15 marca 2020 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 15 marca 2020 r.
-Minister Finansów: T. Kościński
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej (Dz. U. z 2020 r. poz. 315) wprowadza się następujące zmiany:
+
+- **1)** w § 2 w pkt 14 w lit. c kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu: „15) Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 w zakresie działania „Dobrostan zwierząt” – w odniesieniu do obsługi wniosku o przyznanie pomocy, od jego złożenia do kontroli kompletności włącznie.”;
+- **2)** w § 3 dodaje się ust. 9 w brzmieniu: „9. Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 15, udziela się od dnia 15 marca 2020 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 15 marca 2020 r. Minister Finansów: T. Kościński
 

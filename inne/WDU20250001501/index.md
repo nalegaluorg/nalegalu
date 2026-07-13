@@ -27,8 +27,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001501) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1501/text.pdf) |
 
 w sprawie podwyższenia kwoty limitu wydatków komitetów wyborczych w wyborach Prezydenta Rzeczypospolitej Polskiej Na podstawie art. 327 § 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2025 r. poz. 365) zarządza się, co następuje:
-§ 1. Kwotę, o której mowa w art. 327 § 1 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy, podwyższa się do kwoty 90 groszy.
-§ 2. Traci moc rozporządzenie Ministra Finansów z dnia 15 kwietnia 2024 r. w sprawie podwyższenia kwoty limitu wydatków komitetów wyborczych w wyborach Prezydenta Rzeczypospolitej Polskiej (Dz. U. poz. 590).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów i Gospodarki: wz. J. Drop
+
+**§ 1.** Kwotę, o której mowa w art. 327 § 1 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy, podwyższa się do kwoty 90 groszy.
+
+**§ 2.** Traci moc rozporządzenie Ministra Finansów z dnia 15 kwietnia 2024 r. w sprawie podwyższenia kwoty limitu wydatków komitetów wyborczych w wyborach Prezydenta Rzeczypospolitej Polskiej (Dz. U. poz. 590).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów i Gospodarki: wz. J. Drop
 

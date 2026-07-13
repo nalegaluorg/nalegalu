@@ -26,10 +26,16 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000363) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/363/text.pdf) |
 
 w sprawie szczegółowego zakresu działania Ministra do Spraw Unii Europejskiej Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171) zarządza się, co następuje:
-§ 1. 1. Rozporządzenie określa szczegółowy zakres działania Ministra do Spraw Unii Europejskiej, zwanego dalej „ministrem”.
+
+**§ 1.**
+
+1. Rozporządzenie określa szczegółowy zakres działania Ministra do Spraw Unii Europejskiej, zwanego dalej „ministrem”.
+
 2. Minister kieruje działem administracji rządowej – członkostwo Rzeczypospolitej Polskiej w Unii Europejskiej.
+
 3. Minister jest dysponentem części 23 budżetu państwa.
+
 4. Obsługę ministra zapewnia Kancelaria Prezesa Rady Ministrów.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 5 marca 2020 r.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 5 marca 2020 r.
 

@@ -27,64 +27,91 @@ source: pdf
 
 w sprawie bazy danych obiektów topograficznych oraz bazy danych obiektów ogólnogeograficznych, a także standardowych opracowań kartograficznych Na podstawie art. 19 ust. 1 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r.
 poz. 2052 oraz z 2021 r. poz. 922) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) zakres informacji gromadzonych w bazie danych obiektów topograficznych, zwanej dalej „bazą BDOT10k”, oraz bazie danych obiektów ogólnogeograficznych, zwanej dalej „bazą BDOO”, o których mowa w art. 4 ust. 1a pkt 8 i 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, zwanej dalej „ustawą”;
-2) organizację, tryb i standardy techniczne tworzenia baz, o których mowa w pkt 1, oraz ich aktualizacji i udostępniania;
-3) organizację, tryb i standardy techniczne tworzenia standardowych opracowań kartograficznych, o których mowa w art. 4 ust. 1e pkt 3 i 4 ustawy.
-§ 2. W bazie BDOT10k oraz w bazie BDOO gromadzi się informacje obejmujące:
-1) lokalizację przestrzenną obiektów topograficznych w obowiązującym państwowym systemie odniesień przestrzennych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy;
-2) charakterystykę obiektów topograficznych przez określenie ich wybranych atrybutów.
-§ 3. W bazie BDOT10k informacje gromadzi się w podziale na następujące kategorie obiektów:
-1) sieć wodna;
-2) sieć komunikacyjna;
-3) sieć uzbrojenia terenu;
-4) pokrycie terenu;
-5) budynki, budowle i urządzenia;
-Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718).
-6) kompleksy użytkowania terenu;
-7) jednostki podziału terytorialnego;
-8) tereny chronione;
-9) obiekty inne;
-10) rzeźba terenu.
-§ 4. W bazie BDOO gromadzi się zgeneralizowane informacje z bazy BDOT10k o szczegółowości zapewniającej tworzenie standardowych opracowań kartograficznych w skalach 1:250 000 i mniejszych.
-§ 5. 1. Zakres informacji gromadzonych w bazie BDOT10k oraz w bazie BDOO określa załącznik nr 1 do rozporządzenia.
-2. Specyfikację pojęciowego modelu bazy BDOT10k oraz bazy BDOO określa załącznik nr 2 do rozporządzenia.
-§ 6. Bazę BDOT10k aktualizuje się w wyniku realizacji prac geodezyjnych lub działań własnych organów odpowiedzialnych za ich prowadzenie na podstawie:
-1) danych zawartych w bazach danych, o których mowa w art. 4 ust. 1a pkt 2–6 oraz 11 i 12 ustawy;
-2) danych zawartych w rejestrach prowadzonych przez organy administracji publicznej lub inne podmioty, upoważnione z mocy prawa do wykonywania zadań publicznych;
-3) innych materiałów źródłowych istotnych dla zakresu informacyjnego bazy BDOT10k;
-4) informacji pozyskanych w terenie.
-§ 7. Standardy techniczne tworzenia bazy BDOT10k oraz jej aktualizacji określa załącznik nr 3 do rozporządzenia.
-§ 8. Bazę BDOO aktualizuje się automatycznie na podstawie danych bazy BDOT10k.
-§ 9. Standardy techniczne tworzenia bazy BDOO oraz jej aktualizacji określa załącznik nr 4 do rozporządzenia.
-§ 10. 1. Informacje zawarte w bazie BDOT10k oraz bazie BDOO udostępnia się w postaci elektronicznej za pomocą usług przeglądania i pobierania, o których mowa w art. 9 ust. 1 pkt 2 i 3 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej (Dz. U. z 2021 r. poz. 214), z uwzględnieniem przepisów wydanych na podstawie art. 40 ust. 8 ustawy.
-2. Schemat aplikacyjny GML dotyczący udostępniania danych z bazy BDOT10k oraz bazy BDOO, zgodny ze specyfikacją pojęciowego modelu bazy BDOT10k oraz bazy BDOO, określoną w załączniku nr 2 do rozporządzenia, Główny Geodeta Kraju publikuje w repozytorium interoperacyjności, o którym mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r.
-poz. 670, 952 i 1005).
-§ 11. Mapy topograficzne i mapy ogólnogeograficzne tworzy się w postaci cyfrowej w obowiązującym państwowym systemie odniesień przestrzennych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy.
-§ 12. 1. Mapy, o których mowa w § 11, tworzy się w procesie generalizacji i redakcji kartograficznej odpowiednio na podstawie:
-1) danych bazy BDOT10k;
-2) danych bazy BDOO;
-3) innych danych istotnych dla przedstawienia treści mapy w odpowiedniej skali.
-2. Standardy techniczne tworzenia cyfrowych map topograficznych i map ogólnogeograficznych określa załącznik nr 5 do rozporządzenia.
-§ 13. Mapy topograficzne i mapy ogólnogeograficzne opracowuje się w podziale na arkusze, zgodnie z przepisami wydanymi na podstawie art. 3 ust. 5 ustawy.
-§ 14. Baza BDOT10k i baza BDOO utworzone i prowadzone na podstawie dotychczasowych przepisów stają się odpowiednio bazą BDOT10k i bazą BDOO w rozumieniu przepisów niniejszego rozporządzenia.
-§ 15. Baza BDOT10k oraz baza BDOO utworzone i prowadzone przed dniem wejścia w życie niniejszego rozporządzenia zostaną dostosowane do przepisów niniejszego rozporządzenia nie później niż do dnia 31 grudnia 2023 r.
-§ 16. Do prac związanych z aktualizacją bazy BDOT10k dopuszcza się stosowanie przepisów dotychczasowych, nie dłużej jednak niż do dnia dostosowania baz, o którym mowa w § 15.
-§ 17. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rozwoju, Pracy i Technologii: J. Gowin Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 17 listopada 2011 r. w sprawie bazy danych obiektów topograficznych oraz bazy danych obiektów ogólnogeograficznych, a także standardowych opracowań kartograficznych (Dz. U. poz. 1642 oraz z 2013 r. poz. 1031), które utraciło moc z dniem 31 lipca 2021 r. zgodnie z art. 19 ustawy z dnia 16 kwietnia 2020 r. o zmianie ustawy – Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw (Dz. U.
-poz. 782).
 
 #### Rozdział 1 przepisy ogólne
 
+**§ 1.** Rozporządzenie określa:
+
+- **1)** zakres informacji gromadzonych w bazie danych obiektów topograficznych, zwanej dalej „bazą BDOT10k”, oraz bazie danych obiektów ogólnogeograficznych, zwanej dalej „bazą BDOO”, o których mowa w art. 4 ust. 1a pkt 8 i 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, zwanej dalej „ustawą”;
+- **2)** organizację, tryb i standardy techniczne tworzenia baz, o których mowa w pkt 1, oraz ich aktualizacji i udostępniania;
+- **3)** organizację, tryb i standardy techniczne tworzenia standardowych opracowań kartograficznych, o których mowa w art. 4 ust. 1e pkt 3 i 4 ustawy.
+
 #### Rozdział 2 zakres informacji gromadzonych w bazie BdoT10k oraz w bazie Bdoo
+
+**§ 2.** W bazie BDOT10k oraz w bazie BDOO gromadzi się informacje obejmujące:
+
+- **1)** lokalizację przestrzenną obiektów topograficznych w obowiązującym państwowym systemie odniesień przestrzennych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy;
+- **2)** charakterystykę obiektów topograficznych przez określenie ich wybranych atrybutów.
+
+**§ 3.** W bazie BDOT10k informacje gromadzi się w podziale na następujące kategorie obiektów:
+
+- **1)** sieć wodna;
+- **2)** sieć komunikacyjna;
+- **3)** sieć uzbrojenia terenu;
+- **4)** pokrycie terenu;
+- **5)** budynki, budowle i urządzenia; Minister Rozwoju, Pracy i Technologii kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju, Pracy i Technologii (Dz. U. poz. 1718).
+- **6)** kompleksy użytkowania terenu;
+- **7)** jednostki podziału terytorialnego;
+- **8)** tereny chronione;
+- **9)** obiekty inne;
+- **10)** rzeźba terenu.
+
+**§ 4.** W bazie BDOO gromadzi się zgeneralizowane informacje z bazy BDOT10k o szczegółowości zapewniającej tworzenie standardowych opracowań kartograficznych w skalach 1:250 000 i mniejszych.
+
+**§ 5.**
+
+1. Zakres informacji gromadzonych w bazie BDOT10k oraz w bazie BDOO określa załącznik nr 1 do rozporządzenia.
+
+2. Specyfikację pojęciowego modelu bazy BDOT10k oraz bazy BDOO określa załącznik nr 2 do rozporządzenia.
 
 #### Rozdział 3 organizacja, tryb i standardy techniczne tworzenia bazy BdoT10k oraz bazy Bdoo oraz ich aktualizacji
 
+**§ 6.** Bazę BDOT10k aktualizuje się w wyniku realizacji prac geodezyjnych lub działań własnych organów odpowiedzialnych za ich prowadzenie na podstawie:
+
+- **1)** danych zawartych w bazach danych, o których mowa w art. 4 ust. 1a pkt 2–6 oraz 11 i 12 ustawy;
+- **2)** danych zawartych w rejestrach prowadzonych przez organy administracji publicznej lub inne podmioty, upoważnione z mocy prawa do wykonywania zadań publicznych;
+- **3)** innych materiałów źródłowych istotnych dla zakresu informacyjnego bazy BDOT10k;
+- **4)** informacji pozyskanych w terenie.
+
+**§ 7.** Standardy techniczne tworzenia bazy BDOT10k oraz jej aktualizacji określa załącznik nr 3 do rozporządzenia.
+
+**§ 8.** Bazę BDOO aktualizuje się automatycznie na podstawie danych bazy BDOT10k.
+
+**§ 9.** Standardy techniczne tworzenia bazy BDOO oraz jej aktualizacji określa załącznik nr 4 do rozporządzenia.
+
 #### Rozdział 4 Udostępnianie bazy BdoT10k oraz bazy Bdoo
+
+**§ 10.**
+
+1. Informacje zawarte w bazie BDOT10k oraz bazie BDOO udostępnia się w postaci elektronicznej za pomocą usług przeglądania i pobierania, o których mowa w art. 9 ust. 1 pkt 2 i 3 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej (Dz. U. z 2021 r. poz. 214), z uwzględnieniem przepisów wydanych na podstawie art. 40 ust. 8 ustawy.
+
+2. Schemat aplikacyjny GML dotyczący udostępniania danych z bazy BDOT10k oraz bazy BDOO, zgodny ze specyfikacją pojęciowego modelu bazy BDOT10k oraz bazy BDOO, określoną w załączniku nr 2 do rozporządzenia, Główny Geodeta Kraju publikuje w repozytorium interoperacyjności, o którym mowa w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 670, 952 i 1005).
 
 #### Rozdział 5 organizacja, tryb i standardy techniczne tworzenia map topograficznych i map ogólnogeograficznych
 
+**§ 11.** Mapy topograficzne i mapy ogólnogeograficzne tworzy się w postaci cyfrowej w obowiązującym państwowym systemie odniesień przestrzennych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy.
+
+**§ 12.**
+
+1. Mapy, o których mowa w § 11, tworzy się w procesie generalizacji i redakcji kartograficznej odpowiednio na podstawie:
+
+- **1)** danych bazy BDOT10k;
+- **2)** danych bazy BDOO;
+- **3)** innych danych istotnych dla przedstawienia treści mapy w odpowiedniej skali.
+
+2. Standardy techniczne tworzenia cyfrowych map topograficznych i map ogólnogeograficznych określa załącznik nr 5 do rozporządzenia.
+
+**§ 13.** Mapy topograficzne i mapy ogólnogeograficzne opracowuje się w podziale na arkusze, zgodnie z przepisami wydanymi na podstawie art. 3 ust. 5 ustawy.
+
 #### Rozdział 6 przepisy dostosowujące, przejściowe i końcowe
+
+**§ 14.** Baza BDOT10k i baza BDOO utworzone i prowadzone na podstawie dotychczasowych przepisów stają się odpowiednio bazą BDOT10k i bazą BDOO w rozumieniu przepisów niniejszego rozporządzenia.
+
+**§ 15.** Baza BDOT10k oraz baza BDOO utworzone i prowadzone przed dniem wejścia w życie niniejszego rozporządzenia zostaną dostosowane do przepisów niniejszego rozporządzenia nie później niż do dnia 31 grudnia 2023 r.
+
+**§ 16.** Do prac związanych z aktualizacją bazy BDOT10k dopuszcza się stosowanie przepisów dotychczasowych, nie dłużej jednak niż do dnia dostosowania baz, o którym mowa w § 15.
+
+**§ 17.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rozwoju, Pracy i Technologii: J. Gowin Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 17 listopada 2011 r. w sprawie bazy danych obiektów topograficznych oraz bazy danych obiektów ogólnogeograficznych, a także standardowych opracowań kartograficznych (Dz. U. poz. 1642 oraz z 2013 r. poz. 1031), które utraciło moc z dniem 31 lipca 2021 r. zgodnie z art. 19 ustawy z dnia 16 kwietnia 2020 r. o zmianie ustawy – Prawo geodezyjne i kartograficzne oraz niektórych innych ustaw (Dz. U. poz. 782).
 
 ## Załącznik nr 1 — ZAKRES INFORMACJI GROMADZONYCH W BAZIE BDOT10k ORAZ W BAZIE BDOO ZAKRES INFORMACJI GROMADZONYCH W BAZIE BDOT10k ORAZ W BAZIE BDOO Tabela: Zakres informacji gromadzonych w bazie BDOT10k oraz w bazie BDOO w podziale na kategorie obiektów, klasy obiektów oraz obiekty Nazwa Nazwa klasy Nazwa atrybutu Wartość atrybutu Nazwa obiektu kategorii Kod obiektów klasyfikującego klasyfikującego obiekty występującego w BDOO obiektów obiekty w BDOT10k rzeka OT_SWRS rzeka i strumień rodzaj rzeka i strumień strumień, potok lub struga sieć wodna OT_SWKN kanał – kanał kanał OT_SWRM rów melioracyjny – rów melioracyjny – autostrada – droga ekspresowa – droga główna ruchu – przyśpieszonego droga główna – OT_SKJZ jezdnia klasa drogi droga zbiorcza – droga lokalna – droga dojazdowa – droga inna – autostrada autostrada droga ekspresowa droga ekspresowa droga główna ruchu droga główna ruchu przyśpieszonego przyśpieszonego OT_SKDR droga klasa drogi droga główna droga główna sieć droga zbiorcza droga zbiorcza komunikacyjna droga lokalna – droga dojazdowa – droga inna – OT_SKRW rondo lub węzeł rodzaj rondo – drogowy węzeł drogowy – aleja lub pasaż – OT_SKRP ciąg ruchu pieszego rodzaj ścieżka – lub rowerowego droga dla rowerów – kolej kolej OT_SKTR tor lub zespół torów rodzaj pojazdu metro – szynowego tramwaj – bród – OT_SKPP przeprawa rodzaj łódź – prom prom linia elektroenergetyczna linia elektroenergetyczna najwyższego napięcia najwyższego napięcia OT_SULN linia rodzaj linia elektroenergetyczna linia elektroenergetyczna elektroenergetyczna wysokiego napięcia wysokiego napięcia linia elektroenergetyczna – średniego napięcia sieć uzbrojenia benzynowy – terenu ciepłowniczy – gazowy – OT_SUPR przewód rurowy rodzaj kanalizacyjny – naftowy – wodociągowy – inny – Nazwa Nazwa klasy Nazwa atrybutu Wartość atrybutu klasyfikującego Nazwa obiektu kategorii Kod obiektów klasyfikującego obiekty w BDOT10k występującego w BDOO obiektów obiekty woda morska woda morska OT_PTWP woda powierzchniowa rodzaj woda płynąca woda płynąca woda stojąca woda stojąca wielorodzinna jednorodzinna OT_PTZB zabudowa rodzaj przemysłowo-składowa zabudowa handlowo-usługowa pozostała zabudowa las OT_PTLZ teren leśny rodzaj zagajnik teren leśny lub zadrzewiony lub zadrzewiony zadrzewienie kosodrzewina OT_PTRK roślinność krzewiasta rodzaj roślinność krzewiasta krzewy ogródki działkowe plantacja OT_PTUT uprawa trwała rodzaj uprawa trwała sad pokrycie terenu szkółka roślin roślinność trawiasta roślinność trawiasta OT_PTTR roślinność trawiasta rodzaj i uprawa rolna uprawa na gruntach ornych uprawa na gruntach ornych OT_PTKM teren komunikacyjny – teren komunikacyjny – piarg, usypisko lub rumowisko skalne OT_PTGN grunt nieużytkowany rodzaj teren kamienisty grunt nieużytkowany teren piaszczysty lub żwirowy pozostałe grunty nieużytkowane OT_PTPL plac – plac – odpady komunalne OT_PTSO składowisko odpadów rodzaj odpady przemysłowe OT_PTWZ wyrobisko rodzaj wyrobisko inny teren i zwałowisko zwałowisko niezabudowany teren pod urządzeniami OT_PTNZ inny teren rodzaj technicznymi lub budowlami niezabudowany teren przemysłowo-składowy budynki przemysłowe – budynki transportu i łączności – budynki handlowo-usługowe – zbiorniki, silosy i budynki – magazynowe budynki biurowe – OT_BUBD budynek funkcja ogólna budynki szpitali i inne budynki budynku opieki zdrowotnej – budynki oświaty, nauki i kultury – oraz budynki sportowe budynki, budynki produkcyjne, usługowe budowle i gospodarcze dla rolnictwa – i urządzenia pozostałe budynki niemieszkalne – budynki mieszkalne – akwedukt – estakada – kładka – most – OT_BUIN budowla inżynierska rodzaj przejście dla zwierząt – przejście podziemne dla pieszych – tunel – wiadukt – Nazwa Nazwa klasy Nazwa atrybutu Wartość atrybutu klasyfikującego Nazwa obiektu kategorii Kod obiektów klasyfikującego obiekty w BDOT10k występującego w BDOO obiektów obiekty jaz – OT_BUHD budowla rodzaj śluza – hydrotechniczna zapora – basen – bieżnia – kort tenisowy – plac gier i zabaw – plac sportowy – OT_BUSP budowla sportowa rodzaj pole golfowe – skocznia narciarska – stadion – strzelnica – sztuczny stok – tor sportowy – chłodnia kominowa – komin – maszt – maszt lub wieża – telekomunikacyjna podpora kolei linowej – OT_BUWT wysoka budowla rodzaj słup energetyczny – techniczna turbina wiatrowa – wieża ciśnień – wieża obserwacyjna – wieża przeciwpożarowa – budynki, wieża szybu kopalnianego – budowle wieża widokowa – i urządzenia osadnik – OT_BUZT zbiornik techniczny rodzaj zbiornik – falochron falochron OT_BUUO umocnienie drogowe, rodzaj ostroga – kolejowe i wodne ściana oporowa – umocnienie brzegu – fosa sucha i wykop – OT_BUZM budowla ziemna rodzaj nasyp – wał przeciwpowodziowy – lub grobla kolej linowa – obrotnica kolejowa – OT_BUTR urządzenie rodzaj pochylnia – transportowe suwnica – taśmociąg – wyciąg narciarski – radar lub radiolatarnia – szyb naftowy lub gazowy – transformator – ujęcie wody – zespół dystrybutorów paliwa – OT_BUIT inne urządzenie rodzaj zespół transformatorów – techniczne zespół urządzeń stacji – meteorologicznej zespół urządzeń terminalu ropy naftowej lub materiałów – ropopochodnych myjnia samochodowa – Nazwa Nazwa klasy Nazwa atrybutu Wartość atrybutu klasyfikującego Nazwa obiektu kategorii Kod obiektów klasyfikującego obiekty w BDOT10k występującego w BDOO obiektów obiekty amfiteatr – budynki, peron kolejowy – budowle OT_BUIB inna budowla rodzaj platforma widokowa – i urządzenia rampa kolejowa – tężnia – OT_KUMN osiedle mieszkaniowe – osiedle mieszkaniowe – baza paliw baza paliw elektrociepłownia – elektrownia elektrownia gazownia – gospodarstwo hodowlane – huta huta kopalnia kopalnia kompleks oczyszczalnia ścieków – OT_KUPG przemysłowo - rodzaj podstacja elektroenergetyczna – -gospodarczy przepompownia – rafineria rafineria składowisko odpadów – teren ujęcia wody – zakład metalurgiczny – zakład produkcyjny, usługowy lub – remontowy zakład utylizacji – zakład wodociągowy – dworzec autobusowy – lotnisko lub lądowisko lotnisko lub lądowisko miejsce obsługi podróżnych – parking – OT_KUKO kompleks rodzaj port wodny lub przystań port wodny lub przystań kompleksy komunikacyjny stacja kolejowa – użytkowania terenu stacja paliw – teren kolejowy – zajezdnia lub baza transportowa – kompleks sportowo-rekreacyjny – ogród botaniczny – OT_KUSK kompleks sportowy rodzaj ogród zoologiczny – i rekreacyjny park lub skwer – zespół domów letniskowych – hotel lub motel – OT_KUHO kompleks usług rodzaj kemping – hotelarskich ośrodek wypoczynkowy – OT_KUHU bazar lub targowisko – bazar lub targowisko – ośrodek naukowo-badawczy – przedszkole – OT_KUOS kompleks oświatowy rodzaj szkoła lub zespół szkół – szkoła wyższa – zakład opieki socjalnej lub dom kompleks ochrony dziecka – OT_KUOZ zdrowia i opieki rodzaj zespół szpitalny lub sanatoryjny – społecznej żłobek – miejsce pamięci narodowej – skansen – OT_KUZA kompleks zabytkowo- rodzaj twierdza lub forteca – -historyczny zespół muzealny – zespół zabudowy historycznej – Nazwa Nazwa klasy Nazwa atrybutu Wartość atrybutu klasyfikującego Nazwa obiektu kategorii Kod obiektów klasyfikującego obiekty w BDOT10k występującego w BDOO obiektów obiekty cmentarz komunalny cmentarz wojenny kompleksy OT_KUSC kompleks sakralny rodzaj cmentarz wyznaniowy cmentarz użytkowania i cmentarz terenu cmentarz dla zwierząt zespół sakralny lub klasztorny – OT_KUPW poligon wojskowy – poligon wojskowy poligon wojskowy państwo państwo województwo województwo OT_ADJA jednostka podziału rodzaj powiat powiat administracyjnego gmina – miasto w gminie miejsko-wiejskiej – dzielnica lub delegatura – miasto miasto część miasta – jednostki wieś wieś podziału terytorialnego część wsi – kolonia – część kolonii – OT_ADMS miejscowość rodzaj osada – część osady – osiedle – przysiółek – osada leśna – inny obiekt – OT_TCON obszar Natura 2000 – obszar Natura 2000 – tereny OT_TCPK park krajobrazowy – park krajobrazowy park krajobrazowy chronione OT_TCPN park narodowy – park narodowy park narodowy OT_TCRZ rezerwat – rezerwat rezerwat drzewo lub grupa drzew – głaz narzutowy lub grupa głazów – kępa krzewów lub kosodrzewiny – linia oddziałowa – mały las – odosobniona skała – OT_OIPR obiekt przyrodniczy rodzaj pas krzewów lub żywopłot – próg skalny – rząd drzew – wejście do jaskini lub groty – wodospad – źródło – obiekty inne ekran akustyczny – miejsce poboru opłat – lądowisko dla helikopterów – pas startowy – przejście graniczne przejście graniczne przystanek autobusowy lub OT_OIKM obiekt związany rodzaj tramwajowy – z komunikacją przystanek promowy lub tramwaju wodnego – stacja lub przystanek kolejowy stacja lub przystanek kolejowy schody – sygnalizator świetlny – wejście do stacji metra – Nazwa Nazwa Nazwa obiektu kategorii Kod Nazwa klasy atrybutu Wartość atrybutu klasyfikującego występującego obiektów obiektów klasyfikujące obiekty w BDOT10k w BDOO go obiekty bunkier lub schron – figura, kapliczka lub krzyż – fontanna – mur historyczny – odosobniona mogiła – pomnik – obiekt pomost lub molo – OT_OIOR o znaczeniu rodzaj orientacyjnym ruina zabytkowa – obiekty inne studnia głębinowa – szklarnia niebędąca budynkiem – wapiennik – wiata lub altana – wiatrak niebędący budynkiem – wodowskaz – bagno OT_OIMK mokradło rodzaj mokradło teren podmokły OT_OISZ szuwary – szuwary – poziomica poziomica OT_RTLW linia wysokościowa – skarpa – wąwóz – rzeźba terenu dół – OT_RTPW punkt wysokościowy – kopiec lub hałda – punkt wysokościowy w terenie punkt wysokościowy w terenie oo d Y A AR o O D Y A U D O M M OG W W O C O A CA K YC m ii. Diagram: sieć komunikacyjna m m V. diagram: budynki, budowle i urządzenia Vi. diagram: kompleksy użytkowania terenu Vii. diagram: tereny chronione Viii. diagram: jednostki podziału terytorialnego m X. Diagram: rzeźba terenu Xi. diagram: obiekty kartograficzne Xii. diagram: słowniki budynków budowli i urządzeń Xiii. diagram: słowniki obiektów innych XiV. diagram: słowniki ogólne XV. diagram: słowniki jednostek podziału terytorialnego XVi. diagram: słowniki pokrycia terenu XVii. diagram: słowniki sieci komunikacyjnej XViii. Diagram: słowniki sieci uzbrojenia terenu «enumeration» «enumeration» OT_RodzajLiniiElektroenergetycznej OT_RodzajPrzewoduRurowego linia elektroenergetyczna najwyższego napięcia benzynowy linia elektroenergetyczna wysokiego napięcia ciepłowniczy linia elektroenergetyczna średniego napięcia gazowy kanalizacji naftowy wodociągowy inny XiX. Diagram: słowniki sieci wodnej «enumeration» «enumeration» «enumeration» «enumeration» OT_RodzajRzeki OT_StatusEksploatacji OT_PrzebiegCieku OT_PolozenieCieku rzeka nieżeglowny ciek główny nad powierzchnią strumień, potok lub struga żeglowny ramię boczne na powierzchni pod powierzchnią XX. Diagram: słowniki kompleksów użytkowania terenu XXi. Diagram: słowniki rzeźby terenu XXii. Ograniczenia nałożone na atrybuty Klasa abstrakcyjna: OT_SiecWodna Atrybut: polozenie Ograniczenie: Atrybut obligatoryjny dla bazy BDOT10k.
 

@@ -356,23 +356,10 @@ source: pdf
     - **b)** w ust. 2 skreśla się pkt 3;
 
 - **2)** w art. 19b:
-    - **a)** w ust. 1 w pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3–5 w brzmieniu: „3) śródlądowe wody powierzchniowe, które powinny spełniać wymagania przewidywane dla wód przeznaczonych do wykorzystania do zaopatrzenia ludności w wodę do picia wraz z ich podziałem na kategorie w zależności od stosowanych sposobów uzdatniania wody,
-
-- **4)** wody powierzchniowe, które powinny spełniać wymagania dla wód będących środowiskiem życia ryb łososiowatych lub innych niż łososiowate wraz ze wskazaniem zasobów tych wód, których wymaganą jakość ocenia się z uwzględnieniem marginesu tolerancji,
-- **5)** wody przybrzeżne, które powinny spełniać wymagania dla wód będących środowiskiem życia skorupiaków i mięczaków, wraz ze wskazaniem zasobów tych wód, których wymaganą jakość ocenia się z uwzględnieniem marginesu tolerancji.”,
+    - **a)** w ust. 1 w pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3–5 w brzmieniu: „3) śródlądowe wody powierzchniowe, które powinny spełniać wymagania przewidywane dla wód przeznaczonych do wykorzystania do zaopatrzenia ludności w wodę do picia wraz z ich podziałem na kategorie w zależności od stosowanych sposobów uzdatniania wody, 4) wody powierzchniowe, które powinny spełniać wymagania dla wód będących środowiskiem życia ryb łososiowatych lub innych niż łososiowate wraz ze wskazaniem zasobów tych wód, których wymaganą jakość ocenia się z uwzględnieniem marginesu tolerancji, 5) wody przybrzeżne, które powinny spełniać wymagania dla wód będących środowiskiem życia skorupiaków i mięczaków, wraz ze wskazaniem zasobów tych wód, których wymaganą jakość ocenia się z uwzględnieniem marginesu tolerancji.”,
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Przez margines tolerancji rozumie się wartości parametrów jakości wód, które nie muszą być czasowo zachowane, jeżeli możliwe do podjęcia działania nie mogą doprowadzić do spełnienia wymagań w okresie krótszym niż 10 lat.”;
 
-- **3)** art. 19c otrzymuje brzmienie: „Art. 19c. 1. Dla obszarów, na których nie są osiągnięte wymagane poziomy jakości wód, tworzone są programy ochrony wód w rozumieniu przepisów o ochronie środowiska.
-
-2. Programy, o których mowa w ust. 1, stanowią integralną część warunków korzystania z wód dorzecza.
-
-3. Minister właściwy do spraw środowiska może określić, w drodze rozporządzenia, szczegółowe wymagania, jakim powinny odpowiadać programy ochrony wód.
-
-4. W rozporządzeniu, o którym mowa w ust. 3, mogą zostać ustalone:
-
-- **1)** forma sporządzania programu,
-- **2)** niezbędne części składowe programu,
-- **3)** zakres zagadnień, które powinny zostać określone i ocenione w programie.”;
+- **3)** art. 19c otrzymuje brzmienie: „Art. 19c. 1. Dla obszarów, na których nie są osiągnięte wymagane poziomy jakości wód, tworzone są programy ochrony wód w rozumieniu przepisów o ochronie środowiska. 2. Programy, o których mowa w ust. 1, stanowią integralną część warunków korzystania z wód dorzecza. 3. Minister właściwy do spraw środowiska może określić, w drodze rozporządzenia, szczegółowe wymagania, jakim powinny odpowiadać programy ochrony wód. 4. W rozporządzeniu, o którym mowa w ust. 3, mogą zostać ustalone: 1) forma sporządzania programu, 2) niezbędne części składowe programu, 3) zakres zagadnień, które powinny zostać określone i ocenione w programie.”;
 - **4)** w art. 25 w ust. 2 skreśla się wyrazy „wykonanej przez biegłego z listy wojewody”;
 - **5)** w art. 26 pkt 1 otrzymuje brzmienie: „1) wykonania ekspertyzy wykraczającej swym przedmiotem poza zakres przeglądu ekologicznego w rozumieniu przepisów o ochronie środowiska,”;
 - **6)** w art. 28:
@@ -397,9 +384,7 @@ source: pdf
 - **13)** w art. 56d w ust. 1 wyrazy „art. 56” zastępuje się wyrazami „art. 56 ust. 8”;
 - **14)** w art. 59:
     - **a)** w ust. 1 skreśla się wyrazy „Źródła oraz”, a wyraz “ujęcia” zastępuje się wyrazem „Ujęcia”,
-    - **b)** ust. 3 i 4 otrzymuje brzmienie: „3. Strefy ochronne ujęć wody ustanawia rada powiatu w drodze uchwały, gdy organem właściwym do wydania pozwolenia wodnoprawnego na pobór wody jest starosta, lub wojewoda w drodze rozporządzenia, gdy jest on właściwy do wydania decyzji w tym przedmiocie.
-
-4. Strefy ochronne ujęć wody ustanawia się z urzędu na koszt zakładu.”;
+    - **b)** ust. 3 i 4 otrzymuje brzmienie: „3. Strefy ochronne ujęć wody ustanawia rada powiatu w drodze uchwały, gdy organem właściwym do wydania pozwolenia wodnoprawnego na pobór wody jest starosta, lub wojewoda w drodze rozporządzenia, gdy jest on właściwy do wydania decyzji w tym przedmiocie. 4. Strefy ochronne ujęć wody ustanawia się z urzędu na koszt zakładu.”;
 
 - **15)** w art. 60:
     - **a)** w ust. 1 w pkt 4 skreśla się wyrazy „oraz źródeł”,
@@ -407,46 +392,13 @@ source: pdf
     - **c)** po ust. 3 dodaje się ust. 4 w brzmieniu: „4. Minister właściwy do spraw środowiska, w porozumieniu z ministrem właściwym do spraw gospodarki wodnej, określi, w drodze rozporządzenia, warunki ustanawiania stref ochronnych ujęć wody, kierując się potrzebą zabezpieczenia odpowiedniej jakości wód dla celów zaopatrzenia w wodę ludności.”;
 
 - **16)** w art. 60a skreśla się ust. 3 i 4;
-- **17)** art. 61 otrzymuje brzmienie: „Art. 61. 1. Starosta przyzna właścicielowi nieruchomości odszkodowanie za szkodę poniesioną w związku z ustanowieniem strefy ochronnej ujęcia wody.
-
-2. Odszkodowanie wypłaca zakład, na którego rzecz ustanowiono strefę.”;
-
+- **17)** art. 61 otrzymuje brzmienie: „Art. 61. 1. Starosta przyzna właścicielowi nieruchomości odszkodowanie za szkodę poniesioną w związku z ustanowieniem strefy ochronnej ujęcia wody. 2. Odszkodowanie wypłaca zakład, na którego rzecz ustanowiono strefę.”;
 - **18)** po art. 61 dodaje się art. 61a w brzmieniu: „Art. 61a. Zasady wypłaty odszkodowań w wyniku ograniczenia sposobu korzystania z nieruchomości w związku z ustanowieniem obszarów ochronnych zbiorników wód podziemnych określają przepisy o ochronie środowiska.”;
 - **19)** w art. 62:
     - **a)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki wodnej oraz ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia, wymagania, jakim powinny odpowiadać wody wykorzystywane do zaopatrzenia ludności w wodę do picia, z uwzględnieniem podziału wód na kategorie w zależności od stosowanych sposobów uzdatniania wody, a także częstotliwość pobierania próbek wody, referencyjne metody pomiarów w rozumieniu przepisów o ochronie środowiska oraz sposób oceny czy wody odpowiadają wymaganym warunkom, kierując się wymaganiami, jakim powinna odpowiadać woda do picia.”,
-    - **b)** po ust. 3 dodaje się ust. 3a–3c w brzmieniu: „3a. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki wodnej oraz ministrem właściwym do spraw rolnictwa, określi, w drodze rozporządzenia, wymagania, jakim powinny odpowiadać wody będące środowiskiem życia ryb łososiowatych lub innych niż łososiowate oraz skorupiaków i mięczaków, a także częstotliwość pobierania próbek wody, referencyjne metody pomiarów w rozumieniu przepisów o ochronie środowiska oraz sposób oceny czy wody odpowiadają wymaganym warunkom, kierując się koniecznością ochrony ryb lub innych organizmów wodnych przed skutkami wpływu zanieczyszczenia wód na ich rozwój i rozrodczość; minister określi wymagane wartości poszczególnych wskaźników zanieczyszczeń oraz marginesy tolerancji, o których mowa w art. 19b ust. 1 pkt 4 i 5, uwzględniając potrzebę stopniowego, systematycznego uzyskiwania wymaganego poziomu jakości wody.
+    - **b)** po ust. 3 dodaje się ust. 3a–3c w brzmieniu: „3a. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki wodnej oraz ministrem właściwym do spraw rolnictwa, określi, w drodze rozporządzenia, wymagania, jakim powinny odpowiadać wody będące środowiskiem życia ryb łososiowatych lub innych niż łososiowate oraz skorupiaków i mięczaków, a także częstotliwość pobierania próbek wody, referencyjne metody pomiarów w rozumieniu przepisów o ochronie środowiska oraz sposób oceny czy wody odpowiadają wymaganym warunkom, kierując się koniecznością ochrony ryb lub innych organizmów wodnych przed skutkami wpływu zanieczyszczenia wód na ich rozwój i rozrodczość; minister określi wymagane wartości poszczególnych wskaźników zanieczyszczeń oraz marginesy tolerancji, o których mowa w art. 19b ust. 1 pkt 4 i 5, uwzględniając potrzebę stopniowego, systematycznego uzyskiwania wymaganego poziomu jakości wody. 3b. Minister właściwy do spraw środowiska, w porozumieniu z ministrem właściwym do spraw gospodarki wodnej, określi, w drodze rozporządzenia, substancje mogące negatywnie oddziaływać na środowisko, których wprowadzanie do wód powinno być eliminowane oraz ograniczane, metody badania stopnia biodegradacji substancji powierzchniowoczynnych zawartych w produktach, których stosowanie może mieć wpływ na jakość wód, warunki, jakim powinny odpowiadać ścieki wprowadzane do wód lub do ziemi, a także częstotliwość pobierania próbek ścieków, referencyjne metody pomiarów w rozumieniu przepisów o ochronie środowiska oraz sposób oceny czy ścieki odpowiadają wymaganym warunkom, uwzględniając właściwości substancji mogących negatywnie oddziaływać na środowisko, a zwłaszcza ich toksyczność, trwałość w środowisku, zdolność do bioakumulacji oraz zagrożenie, jakie mogą one powodować dla życia lub zdrowia ludzi lub środowiska. 3c. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki może określić, w drodze rozporządzenia, dopuszczalne masy substancji, które mogą być odprowadzane w ściekach przemysłowych w jednym lub więcej okresach, przypadające na jednostkę masy wykorzystywanego surowca, materiału, paliwa lub powstającego produktu.”;
 
-3b. Minister właściwy do spraw środowiska, w porozumieniu z ministrem właściwym do spraw gospodarki wodnej, określi, w drodze rozporządzenia, substancje mogące negatywnie oddziaływać na środowisko, których wprowadzanie do wód powinno być eliminowane oraz ograniczane, metody badania stopnia biodegradacji substancji powierzchniowoczynnych zawartych w produktach, których stosowanie może mieć wpływ na jakość wód, warunki, jakim powinny odpowiadać ścieki wprowadzane do wód lub do ziemi, a także częstotliwość pobierania próbek ścieków, referencyjne metody pomiarów w rozumieniu przepisów o ochronie środowiska oraz sposób oceny czy ścieki odpowiadają wymaganym warunkom, uwzględniając właściwości substancji mogących negatywnie oddziaływać na środowisko, a zwłaszcza ich toksyczność, trwałość w środowisku, zdolność do bioakumulacji oraz zagrożenie, jakie mogą one powodować dla życia lub zdrowia ludzi lub środowiska.
-
-3c. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki może określić, w drodze rozporządzenia, dopuszczalne masy substancji, które mogą być odprowadzane w ściekach przemysłowych w jednym lub więcej okresach, przypadające na jednostkę masy wykorzystywanego surowca, materiału, paliwa lub powstającego produktu.”;
-
-- **20)** po art. 62 dodaje się art. 62a i 62b w brzmieniu: „Art. 62a. 1. Oceny jakości wód powierzchniowych i podziemnych dokonuje się w ramach państwowego monitoringu środowiska.
-
-2. Wojewódzki inspektor ochrony środowiska prowadzi okresowe badania kontrolne jakości wód powierzchniowych i podziemnych.
-
-3. Jeżeli jest to uzasadnione specyfiką badań, obowiązki dotyczące prowadzenia badań jakości wód powierzchniowych i podziemnych wykonuje Główny Inspektor Ochrony Środowiska.
-
-**Art. 62b.**
-
-1. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki wodnej określi, w drodze rozporządzenia:
-
-- **1)** klasyfikację dla prezentowania stanu:
-    - **a)** wód powierzchniowych, biorąc w szczególności za podstawę elementy: biologiczne, hydrologiczne, morfologiczne, chemiczne, fizyczno-chemiczne, ogólne i szczególne zanieczyszczenia,
-    - **b)** wód podziemnych, biorąc za podstawę elementy ilościowe i chemiczne,
-
-- **2)** sposób prowadzenia monitoringu stanu wód powierzchniowych i podziemnych, uwzględniający:
-    - **a)** kryteria wyznaczania punktów poboru próbek do badań,
-    - **b)** zakres i częstotliwość badań,
-    - **c)** wybór elementów jakości,
-    - **d)** dodatkowe wymogi monitoringu dla obszarów chronionych,
-    - **e)** referencyjne metody badań w rozumieniu przepisów o ochronie środowiska oraz warunki zapewnienia jakości danych,
-    - **f)** sposób oceny wyników badań,
-    - **g)** zakres badań, o których mowa w art. 62a ust. 3,
-
-- **3)** sposób interpretacji wyników i prezentacji stanu wód powierzchniowych i podziemnych.
-
-2. Minister, wydając rozporządzenie, o którym mowa w ust. 1, kierować się będzie istniejącymi metodami badań oraz oceny jakości wód, a także potrzebą zapewnienia wiarygodności prezentowanych informacji o stanie jakości wód.”;
-
+- **20)** po art. 62 dodaje się art. 62a i 62b w brzmieniu: „Art. 62a. 1. Oceny jakości wód powierzchniowych i podziemnych dokonuje się w ramach państwowego monitoringu środowiska. 2. Wojewódzki inspektor ochrony środowiska prowadzi okresowe badania kontrolne jakości wód powierzchniowych i podziemnych. 3. Jeżeli jest to uzasadnione specyfiką badań, obowiązki dotyczące prowadzenia badań jakości wód powierzchniowych i podziemnych wykonuje Główny Inspektor Ochrony Środowiska. Art. 62b. 1. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki wodnej określi, w drodze rozporządzenia: 1) klasyfikację dla prezentowania stanu: a) wód powierzchniowych, biorąc w szczególności za podstawę elementy: biologiczne, hydrologiczne, morfologiczne, chemiczne, fizyczno-chemiczne, ogólne i szczególne zanieczyszczenia, b) wód podziemnych, biorąc za podstawę elementy ilościowe i chemiczne, 2) sposób prowadzenia monitoringu stanu wód powierzchniowych i podziemnych, uwzględniający: a) kryteria wyznaczania punktów poboru próbek do badań, b) zakres i częstotliwość badań, c) wybór elementów jakości, d) dodatkowe wymogi monitoringu dla obszarów chronionych, e) referencyjne metody badań w rozumieniu przepisów o ochronie środowiska oraz warunki zapewnienia jakości danych, f) sposób oceny wyników badań, g) zakres badań, o których mowa w art. 62a ust. 3, 3) sposób interpretacji wyników i prezentacji stanu wód powierzchniowych i podziemnych. 2. Minister, wydając rozporządzenie, o którym mowa w ust. 1, kierować się będzie istniejącymi metodami badań oraz oceny jakości wód, a także potrzebą zapewnienia wiarygodności prezentowanych informacji o stanie jakości wód.”;
 - **21)** w art. 80 po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Utrzymanie wód podziemnych znajdujących się w zanieczyszczonej glebie lub ziemi należy do obowiązanego do rekultywacji na podstawie przepisów o ochronie środowiska.”;
 - **22)** w art. 120 ust. 3 otrzymuje brzmienie: „3. Przepisy o ochronie środowiska wskazują przypadki, gdy pozwolenia wodnoprawne zamieszcza się w publicznie dostępnych wykazach.”;
 - **23)** w art. 126 po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Przepisów ust. 1 i 2 nie stosuje się jeżeli korzystanie z wód dotyczy wprowadzania ścieków do wód lub do ziemi.”;
@@ -464,115 +416,27 @@ source: pdf
 - **3)** w art. 8a w ust. 1 wyrazy „nadzwyczajnego zagrożenia środowiska” zastępuje się wyrazami „poważnej awarii”;
 - **4)** po art. 8b dodaje się art. 8c w brzmieniu: „Art. 8c. Wojewódzki inspektor ochrony środowiska przedkłada Głównemu Inspektorowi Ochrony Środowiska informacje o realizacji zadań Inspekcji za dany rok w terminie do 15 lutego roku następnego.”;
 - **5)** w art. 9:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Przy wykonywaniu kontroli przestrzegania wymagań ochrony środowiska inspektor uprawniony jest do:
-
-- **1)** wstępu wraz z pracownikami pomocniczymi, rzeczoznawcami i z niezbędnym sprzętem:
-    - **a)** przez całą dobę: – na teren nieruchomości, obiektu lub ich części, na którym prowadzona jest działalność gospodarcza, – do środków transportu,
-    - **b)** w godzinach od 6 do 22 na pozostały teren,
-
-- **2)** pobierania próbek, przeprowadzania niezbędnych badań lub wykonywania innych czynności kontrolnych w celu ustalenia na terenie kontrolowanej nieruchomości, w obiekcie lub jego części, stanu środowiska oraz oceny tego stanu w świetle przepisów o ochronie środowiska, a także indywidualnie określonych w decyzjach administracyjnych warunków wykonywania działalności wpływającej na środowisko,
-- **3)** żądania wstrzymania ruchu instalacji lub urządzeń oraz powstrzymania się od wykonywania innych czynności w zakresie w jakim jest to niezbędne dla pobrania próbek oraz przeprowadzenia badań i pomiarów,
-- **4)** oceny sposobu eksploatacji instalacji lub urządzeń, w tym środków transportu,
-- **5)** oceny stosowanych technologii i rozwiązań technicznych,
-- **6)** żądania pisemnych lub ustnych informacji oraz wzywania i przesłuchiwania osób w zakresie niezbędnym dla ustalenia stanu faktycznego,
-- **7)** żądania okazania dokumentów i udostępnienia wszelkich danych mających związek z problematyką kontroli.”,
+    - **a)** ust. 2 otrzymuje brzmienie: „2. Przy wykonywaniu kontroli przestrzegania wymagań ochrony środowiska inspektor uprawniony jest do: 1) wstępu wraz z pracownikami pomocniczymi, rzeczoznawcami i z niezbędnym sprzętem: a) przez całą dobę: – na teren nieruchomości, obiektu lub ich części, na którym prowadzona jest działalność gospodarcza, – do środków transportu, b) w godzinach od 6 do 22 na pozostały teren, 2) pobierania próbek, przeprowadzania niezbędnych badań lub wykonywania innych czynności kontrolnych w celu ustalenia na terenie kontrolowanej nieruchomości, w obiekcie lub jego części, stanu środowiska oraz oceny tego stanu w świetle przepisów o ochronie środowiska, a także indywidualnie określonych w decyzjach administracyjnych warunków wykonywania działalności wpływającej na środowisko, 3) żądania wstrzymania ruchu instalacji lub urządzeń oraz powstrzymania się od wykonywania innych czynności w zakresie w jakim jest to niezbędne dla pobrania próbek oraz przeprowadzenia badań i pomiarów, 4) oceny sposobu eksploatacji instalacji lub urządzeń, w tym środków transportu, 5) oceny stosowanych technologii i rozwiązań technicznych, 6) żądania pisemnych lub ustnych informacji oraz wzywania i przesłuchiwania osób w zakresie niezbędnym dla ustalenia stanu faktycznego, 7) żądania okazania dokumentów i udostępnienia wszelkich danych mających związek z problematyką kontroli.”,
     - **b)** po ust. 2 dodaje się ust 3 w brzmieniu: „3. Upoważniony do kontroli inspektor jest uprawniony do poruszania się po terenie nieruchomości, obiektu lub ich części oraz środków transportu, bez potrzeby uzyskiwania przepustki oraz nie podlega rewizji osobistej przewidzianej w regulaminie wewnętrznym kontrolowanej jednostki organizacyjnej; podlega on przepisom bezpieczeństwa i higieny pracy obowiązującym w kontrolowanej jednostce organizacyjnej.”;
 
-- **6)** po art. 10 dodaje się art. 10a w brzmieniu: „Art. 10a. 1. Wojewódzki inspektor ochrony środowiska może wystąpić z wnioskiem do właściwego miejscowo komendanta Policji o pomoc, jeżeli jest to niezbędne do przeprowadzenia czynności kontrolnych.
-
-2. Na wniosek wojewódzkiego inspektora ochrony środowiska właściwy miejscowo komendant Policji jest obowiązany do zapewnienia inspektorowi pomocy Policji w toku wykonywania czynności kontrolnych.”;
-
-- **7)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Na podstawie ustaleń kontroli wojewódzki inspektor ochrony środowiska może:
-- **1)** wydać zarządzenie pokontrolne do kierownika kontrolowanej jednostki organizacyjnej lub osoby fizycznej,
-- **2)** wydać na podstawie odrębnych przepisów decyzję administracyjną,
-- **3)** wszcząć egzekucję, jeżeli obowiązek wynika z mocy prawa lub decyzji administracyjnej.
-
-2. Kierownik kontrolowanej jednostki organizacyjnej lub kontrolowana osoba fizyczna, w terminie wyznaczonym w zarządzeniu pokontrolnym, mają obowiązek poinformowania wojewódzkiego inspektora ochrony środowiska o zakresie podjętych i zrealizowanych działań służących wyeliminowaniu wskazanych naruszeń.
-
-3. Wojewódzki inspektor ochrony środowiska może zażądać od kierownika kontrolowanej jednostki organizacyjnej przeprowadzenia postępowania służbowego lub innego przewidzianego prawem postępowania przeciwko osobom winnym dopuszczenia do uchybień i poinformowania go, w określonym terminie, o wynikach tego postępowania i o podjętych działaniach.
-
-4. Wojewódzki inspektor ochrony środowiska może upoważnić inspektora do wydania w trakcie kontroli decyzji w przedmiocie wstrzymania:
-
-- **1)** działalności powodującej naruszenie wymagań ochrony środowiska, jeżeli zachodzi bezpośrednie zagrożenie zdrowia lub życia ludzi albo bezpośrednie zagrożenie zniszczenia środowiska w znacznych rozmiarach,
-- **2)** oddania do użytku obiektu budowlanego, zespołu obiektów lub instalacji niespełniających wymagań ochrony środowiska.”;
+- **6)** po art. 10 dodaje się art. 10a w brzmieniu: „Art. 10a. 1. Wojewódzki inspektor ochrony środowiska może wystąpić z wnioskiem do właściwego miejscowo komendanta Policji o pomoc, jeżeli jest to niezbędne do przeprowadzenia czynności kontrolnych. 2. Na wniosek wojewódzkiego inspektora ochrony środowiska właściwy miejscowo komendant Policji jest obowiązany do zapewnienia inspektorowi pomocy Policji w toku wykonywania czynności kontrolnych.”;
+- **7)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Na podstawie ustaleń kontroli wojewódzki inspektor ochrony środowiska może: 1) wydać zarządzenie pokontrolne do kierownika kontrolowanej jednostki organizacyjnej lub osoby fizycznej, 2) wydać na podstawie odrębnych przepisów decyzję administracyjną, 3) wszcząć egzekucję, jeżeli obowiązek wynika z mocy prawa lub decyzji administracyjnej. 2. Kierownik kontrolowanej jednostki organizacyjnej lub kontrolowana osoba fizyczna, w terminie wyznaczonym w zarządzeniu pokontrolnym, mają obowiązek poinformowania wojewódzkiego inspektora ochrony środowiska o zakresie podjętych i zrealizowanych działań służących wyeliminowaniu wskazanych naruszeń. 3. Wojewódzki inspektor ochrony środowiska może zażądać od kierownika kontrolowanej jednostki organizacyjnej przeprowadzenia postępowania służbowego lub innego przewidzianego prawem postępowania przeciwko osobom winnym dopuszczenia do uchybień i poinformowania go, w określonym terminie, o wynikach tego postępowania i o podjętych działaniach. 4. Wojewódzki inspektor ochrony środowiska może upoważnić inspektora do wydania w trakcie kontroli decyzji w przedmiocie wstrzymania: 1) działalności powodującej naruszenie wymagań ochrony środowiska, jeżeli zachodzi bezpośrednie zagrożenie zdrowia lub życia ludzi albo bezpośrednie zagrożenie zniszczenia środowiska w znacznych rozmiarach, 2) oddania do użytku obiektu budowlanego, zespołu obiektów lub instalacji niespełniających wymagań ochrony środowiska.”;
 - **8)** skreśla się art. 13;
 - **9)** w art. 17 w ust. 2 w pkt 5 kropkę zastępuje się przecinkiem i dodaje się pkt 6 w brzmieniu: „6) współpracę z organami Państwowej Straży Pożarnej w zakresie przeciwdziałania poważnym awariom.”;
 - **10)** w art. 18a ust. 1 otrzymuje brzmienie: „1. Środki finansowe w wysokości 20% pobranych kar pieniężnych wymierzonych w wyniku kontroli przestrzegania wymogów ochrony środowiska oraz środki, o których mowa w art. 18 ust. 1, przeznacza się na usprawnienie funkcjonowania Inspekcji Ochrony Środowiska i na premie dla jej pracowników, a w szczególności dla tych, którzy przyczynili się do skutecznej realizacji zadań, o których mowa w art. 2.”;
-- **11)** po art. 18a dodaje się art. 18b w brzmieniu: „Art. 18b. 1. Główny Inspektor Ochrony Środowiska oraz wojewódzcy inspektorzy ochrony środowiska mogą gromadzić środki pieniężne na wyodrębnionych rachunkach bankowych, w formie środków specjalnych w rozumieniu przepisów o finansach publicznych.
-
-2. Źródłem dochodów środków specjalnych wymienionych w ust. 1 są:
-
-- **1)** środki, o których mowa w art. 18a ust. 1,
-- **2)** wpływy uzyskane z realizacji badań i pomiarów środowiskowych.
-
-3. Środki pieniężne gromadzone w formie środków specjalnych przeznaczane są na:
-
-- **1)** cele określone w art. 18a ust. 1,
-- **2)** sfinansowanie kosztów badań i pomiarów środowiskowych.”;
+- **11)** po art. 18a dodaje się art. 18b w brzmieniu: „Art. 18b. 1. Główny Inspektor Ochrony Środowiska oraz wojewódzcy inspektorzy ochrony środowiska mogą gromadzić środki pieniężne na wyodrębnionych rachunkach bankowych, w formie środków specjalnych w rozumieniu przepisów o finansach publicznych. 2. Źródłem dochodów środków specjalnych wymienionych w ust. 1 są: 1) środki, o których mowa w art. 18a ust. 1, 2) wpływy uzyskane z realizacji badań i pomiarów środowiskowych. 3. Środki pieniężne gromadzone w formie środków specjalnych przeznaczane są na: 1) cele określone w art. 18a ust. 1, 2) sfinansowanie kosztów badań i pomiarów środowiskowych.”;
 - **12)** art. 19 otrzymuje brzmienie: „Art. 19. W postępowaniu o ustalenie warunków zabudowy i zagospodarowania terenu dotyczącym przedsięwzięcia mogącego znacząco oddziaływać na środowisko, o którym mowa w przepisach o ochronie środowiska, oraz w sprawie ustalenia lokalizacji autostrad oraz dróg ekspresowych, jeżeli przepisy ustawy o autostradach płatnych mają zastosowanie do tych dróg, wojewódzkiemu inspektorowi ochrony środowiska przysługują prawa strony w postępowaniu administracyjnym i postępowaniu przed Naczelnym Sądem Administracyjnym, jeżeli zgłosi swój udział w postępowaniu.”;
 - **13)** skreśla się art. 20 i 21;
 - **14)** w art. 23:
-    - **a)** ust. 2–4 otrzymują brzmienie: „2. Państwowy monitoring środowiska obejmuje zadania wynikające z odrębnych ustaw, zobowiązań międzynarodowych Rzeczypospolitej Polskiej oraz innych potrzeb wynikających z polityki ekologicznej państwa.
+    - **a)** ust. 2–4 otrzymują brzmienie: „2. Państwowy monitoring środowiska obejmuje zadania wynikające z odrębnych ustaw, zobowiązań międzynarodowych Rzeczypospolitej Polskiej oraz innych potrzeb wynikających z polityki ekologicznej państwa. 3. Państwowy monitoring środowiska realizowany jest na podstawie: 1) wieloletnich programów państwowego monitoringu środowiska opracowanych przez Głównego Inspektora Ochrony Środowiska i zatwierdzanych przez ministra właściwego do spraw środowiska, 2) wojewódzkich programów monitoringu opracowanych przez wojewódzkiego inspektora ochrony środowiska i zatwierdzonych przez Głównego Inspektora Ochrony Środowiska. 4. Wojewódzkie programy monitoringu zawierają zadania określone w wieloletnich programach państwowego monitoringu środowiska.”,
+    - **b)** po ust. 4 dodaje się ust. 5–9 w brzmieniu: „5. Programy państwowego monitoringu środowiska obejmują, dla poszczególnych elementów środowiska, zadania realizowane w sieciach: 1) krajowych, 2) regionalnych (wojewódzkich i międzywojewódzkich). 6. W programach państwowego monitoringu środowiska można uwzględnić zadania realizowane w sieciach lokalnych. 7. Celem sieci krajowych jest monitorowanie głównych elementów środowiska, z uwzględnieniem zobowiązań międzynarodowych wynikających z umów i konwencji wiążących Rzeczpospolitą Polską, dla potrzeb oceny skuteczności działań podejmowanych w skali kraju na rzecz ochrony środowiska. 8. Celem sieci regionalnych jest monitorowanie głównych elementów środowiska na obszarze województwa (sieci wojewódzkie) lub kilku województw (sieci międzywojewódzkie), dla oceny wojewódzkich i międzywojewódzkich działań podejmowanych na rzecz ochrony środowiska. 9. Celem sieci lokalnych jest monitorowanie wybranych elementów środowiska istotnych z uwagi na lokalne uwarunkowania.”;
 
-3. Państwowy monitoring środowiska realizowany jest na podstawie:
-
-- **1)** wieloletnich programów państwowego monitoringu środowiska opracowanych przez Głównego Inspektora Ochrony Środowiska i zatwierdzanych przez ministra właściwego do spraw środowiska,
-- **2)** wojewódzkich programów monitoringu opracowanych przez wojewódzkiego inspektora ochrony środowiska i zatwierdzonych przez Głównego Inspektora Ochrony Środowiska.
-
-4. Wojewódzkie programy monitoringu zawierają zadania określone w wieloletnich programach państwowego monitoringu środowiska.”,
-
-- **b)** po ust. 4 dodaje się ust. 5–9 w brzmieniu: „5. Programy państwowego monitoringu środowiska obejmują, dla poszczególnych elementów środowiska, zadania realizowane w sieciach:
-- **1)** krajowych,
-- **2)** regionalnych (wojewódzkich i międzywojewódzkich).
-
-6. W programach państwowego monitoringu środowiska można uwzględnić zadania realizowane w sieciach lokalnych.
-
-7. Celem sieci krajowych jest monitorowanie głównych elementów środowiska, z uwzględnieniem zobowiązań międzynarodowych wynikających z umów i konwencji wiążących Rzeczpospolitą Polską, dla potrzeb oceny skuteczności działań podejmowanych w skali kraju na rzecz ochrony środowiska.
-
-8. Celem sieci regionalnych jest monitorowanie głównych elementów środowiska na obszarze województwa (sieci wojewódzkie) lub kilku województw (sieci międzywojewódzkie), dla oceny wojewódzkich i międzywojewódzkich działań podejmowanych na rzecz ochrony środowiska.
-
-9. Celem sieci lokalnych jest monitorowanie wybranych elementów środowiska istotnych z uwagi na lokalne uwarunkowania.”;
-
-- **15)** art. 25 otrzymuje brzmienie: „Art. 25. 1. Organy administracji rządowej oraz samorządowej, prowadzące rejestry, wykazy, pomiary, analizy i obserwacje stanu środowiska, są obowiązane do nieodpłatnego udostępniania danych o stanie środowiska uzyskanych w trakcie ich działalności dla potrzeb państwowego monitoringu środowiska.
-
-2. Informacje o środowisku i jego ochronie na obszarze województwa objęte państwowym monitoringiem środowiska są gromadzone przez wojewódzkich inspektorów ochrony środowiska i przekazywane Głównemu Inspektorowi Ochrony Środowiska.
-
-3. Laboratoria zajmujące się pomiarami stanu środowiska powinny posiadać wdrożony system jakości w rozumieniu przepisów o normalizacji i spełniać warunki określone w odrębnych przepisach.”;
-
+- **15)** art. 25 otrzymuje brzmienie: „Art. 25. 1. Organy administracji rządowej oraz samorządowej, prowadzące rejestry, wykazy, pomiary, analizy i obserwacje stanu środowiska, są obowiązane do nieodpłatnego udostępniania danych o stanie środowiska uzyskanych w trakcie ich działalności dla potrzeb państwowego monitoringu środowiska. 2. Informacje o środowisku i jego ochronie na obszarze województwa objęte państwowym monitoringiem środowiska są gromadzone przez wojewódzkich inspektorów ochrony środowiska i przekazywane Głównemu Inspektorowi Ochrony Środowiska. 3. Laboratoria zajmujące się pomiarami stanu środowiska powinny posiadać wdrożony system jakości w rozumieniu przepisów o normalizacji i spełniać warunki określone w odrębnych przepisach.”;
 - **16)** po art. 25 dodaje się art. 25a w brzmieniu: „Art. 25a. Główny Inspektor Ochrony Środowiska ustala sposób gromadzenia i przetwarzania danych oraz zakres i sposób przekazywania informacji, o których mowa w art. 25 ust. 2.”;
 - **17)** art. 27 otrzymuje brzmienie: „Art. 27. Minister właściwy do spraw środowiska może, dla celów kontroli i badań stanu środowiska, określić, w drodze rozporządzenia, warunki i metody prowadzenia pomiarów wielkości emisji oraz stężeń i poziomów substancji lub energii w środowisku, uwzględniając zobowiązania międzynarodowe Rzeczypospolitej Polskiej oraz postęp w zakresie technik pomiarowych.”;
 - **18)** w art. 28 ust. 2 otrzymuje brzmienie: „2. Właściwy organ Inspekcji Ochrony Środowiska udostępnia organom administracji rządowej oraz organom samorządu terytorialnego wyniki badań i obserwacji oraz oceny, o których mowa w art. 25 ust. 2.”;
-- **19)** rozdział 5 otrzymuje brzmienie: „Rozdział 5 Wykonywanie zadań w zakresie poważnych awarii
-
-**Art. 29.** W zakresie przeciwdziałania poważnym awariom do Inspekcji Ochrony Środowiska należy:
-
-- **1)** kontrola podmiotów, których działalność może stanowić przyczynę powstania poważnej awarii,
-- **2)** prowadzenie szkoleń dla organów administracji oraz podmiotów, o których mowa w pkt 1,
-- **3)** badanie przyczyn powstawania oraz sposobów likwidacji skutków poważnych awarii dla środowiska,
-- **4)** prowadzenie rejestru zakładów o zwiększonym i dużym ryzyku, w rozumieniu przepisów o ochronie środowiska.
-
-**Art. 30.** Inspekcja Ochrony Środowiska współdziała w akcji zwalczania poważnej awarii z organami właściwymi do jej prowadzenia oraz sprawuje nadzór nad usuwaniem skutków tej awarii.
-
-**Art. 31.**
-
-1. Inspekcja Ochrony Środowiska dokonuje co najmniej raz w roku kontroli w zakładach o dużym ryzyku, a co najmniej raz na 2 lata w zakładach o zwiększonym ryzyku.
-
-2. Główny Inspektor Ochrony Środowiska prowadzi rejestr poważnych awarii.
-
-3. Organy administracji właściwe do zwalczania poważnych awarii obowiązane są do informowania Głównego Inspektora Ochrony Środowiska o poważnych awariach, które miały miejsce w kraju oraz o ich ewentualnych skutkach transgranicznych.
-
-4. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, kryteria charakteryzujące poważne awarie, objęte obowiązkiem zgłoszenia, o którym mowa w ust. 3, oraz terminy tego zgłoszenia i zakres zawartych w nim informacji, kierując się rodzajem i wielkością zakładu lub środka transportu, rodzajem, kategorią i ilością substancji niebezpiecznej, która przedostała się do środowiska, rodzajem i zakresem szkody w środowisku oraz tym, aby nadsyłane informacje umożliwiały analizę przyczyn poważnych awarii oraz poszukiwanie najlepszych środków zapobiegawczych, jak również skutecznych metod likwidacji skutków poważnych awarii, a także najlepszych sposobów prowadzenia akcji ratowniczej.”;
-
-- **20)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „Rozdział 5a Przepisy karne
-
-**Art. 31a.**
-
-1. Kto:
-
-- **1)** w wyznaczonym terminie nie informuje organu Inspekcji Ochrony Środowiska o zakresie wykonania zarządzeń pokontrolnych albo o przeprowadzeniu postępowania służbowego lub innego przewidzianego prawem postępowania przeciw osobom winnym dopuszczenia do uchybień,
-- **2)** niezgodnie z prawdą informuje organ Inspekcji Ochrony Środowiska o wykonaniu zarządzeń pokontrolnych lub przeprowadzeniu postępowania służbowego lub innego przewidzianego prawem, podlega karze aresztu, ograniczenia wolności lub grzywny.
-
-2. Postępowanie w sprawach, o których mowa w ust. 1, prowadzi się na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.”.
+- **19)** rozdział 5 otrzymuje brzmienie: „Rozdział 5 Wykonywanie zadań w zakresie poważnych awarii Art. 29. W zakresie przeciwdziałania poważnym awariom do Inspekcji Ochrony Środowiska należy: 1) kontrola podmiotów, których działalność może stanowić przyczynę powstania poważnej awarii, 2) prowadzenie szkoleń dla organów administracji oraz podmiotów, o których mowa w pkt 1, 3) badanie przyczyn powstawania oraz sposobów likwidacji skutków poważnych awarii dla środowiska, 4) prowadzenie rejestru zakładów o zwiększonym i dużym ryzyku, w rozumieniu przepisów o ochronie środowiska. Art. 30. Inspekcja Ochrony Środowiska współdziała w akcji zwalczania poważnej awarii z organami właściwymi do jej prowadzenia oraz sprawuje nadzór nad usuwaniem skutków tej awarii. Art. 31. 1. Inspekcja Ochrony Środowiska dokonuje co najmniej raz w roku kontroli w zakładach o dużym ryzyku, a co najmniej raz na 2 lata w zakładach o zwiększonym ryzyku. 2. Główny Inspektor Ochrony Środowiska prowadzi rejestr poważnych awarii. 3. Organy administracji właściwe do zwalczania poważnych awarii obowiązane są do informowania Głównego Inspektora Ochrony Środowiska o poważnych awariach, które miały miejsce w kraju oraz o ich ewentualnych skutkach transgranicznych. 4. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, kryteria charakteryzujące poważne awarie, objęte obowiązkiem zgłoszenia, o którym mowa w ust. 3, oraz terminy tego zgłoszenia i zakres zawartych w nim informacji, kierując się rodzajem i wielkością zakładu lub środka transportu, rodzajem, kategorią i ilością substancji niebezpiecznej, która przedostała się do środowiska, rodzajem i zakresem szkody w środowisku oraz tym, aby nadsyłane informacje umożliwiały analizę przyczyn poważnych awarii oraz poszukiwanie najlepszych środków zapobiegawczych, jak również skutecznych metod likwidacji skutków poważnych awarii, a także najlepszych sposobów prowadzenia akcji ratowniczej.”;
+- **20)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „Rozdział 5a Przepisy karne Art. 31a. 1. Kto: 1) w wyznaczonym terminie nie informuje organu Inspekcji Ochrony Środowiska o zakresie wykonania zarządzeń pokontrolnych albo o przeprowadzeniu postępowania służbowego lub innego przewidzianego prawem postępowania przeciw osobom winnym dopuszczenia do uchybień, 2) niezgodnie z prawdą informuje organ Inspekcji Ochrony Środowiska o wykonaniu zarządzeń pokontrolnych lub przeprowadzeniu postępowania służbowego lub innego przewidzianego prawem, podlega karze aresztu, ograniczenia wolności lub grzywny. 2. Postępowanie w sprawach, o których mowa w ust. 1, prowadzi się na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.”.
 
 **Art. 47.** W ustawie z dnia 16 października 1991 r. o ochronie przyrody (Dz. U. z 2001 r. Nr 99, poz. 1079) wprowadza się następujące zmiany:
 
@@ -594,189 +458,17 @@ source: pdf
     - **c)** skreśla się pkt 12 i 13;
 
 - **7)** w art. 30 ust. 2 otrzymuje brzmienie: „2. Użytki ekologiczne wykazuje się w ewidencji gruntów.”;
-- **8)** po art. 34 dodaje się art. 34a w brzmieniu: „Art. 34a. 1. Teren pokryty drzewostanem o charakterze parkowym i niepodlegający przepisom o ochronie dóbr kultury, rada gminy może uznać za park gminny, jeżeli teren ten stanowi własność Skarbu Państwa lub własność jednostki samorządu terytorialnego.
-
-2. Teren, o którym mowa w ust. 1, stanowiący własność innego podmiotu, może być uznany za park gminny za zgodą jego właściciela.
-
-3. Uznanie za park gminny następuje w drodze uchwały rady gminy, w której określa się granice parku, sposób ochrony, podmiot sprawujący nadzór nad parkiem, którym może być także właściciel terenu, oraz niezbędne zakazy i ograniczenia, o których mowa w art. 31a.
-
-4. Przepisów ust. 1–3 nie stosuje się do terenów zadrzewionych drzewami owocowymi, terenów służących celom kultu religijnego oraz cmentarzy.”;
-
+- **8)** po art. 34 dodaje się art. 34a w brzmieniu: „Art. 34a. 1. Teren pokryty drzewostanem o charakterze parkowym i niepodlegający przepisom o ochronie dóbr kultury, rada gminy może uznać za park gminny, jeżeli teren ten stanowi własność Skarbu Państwa lub własność jednostki samorządu terytorialnego. 2. Teren, o którym mowa w ust. 1, stanowiący własność innego podmiotu, może być uznany za park gminny za zgodą jego właściciela. 3. Uznanie za park gminny następuje w drodze uchwały rady gminy, w której określa się granice parku, sposób ochrony, podmiot sprawujący nadzór nad parkiem, którym może być także właściciel terenu, oraz niezbędne zakazy i ograniczenia, o których mowa w art. 31a. 4. Przepisów ust. 1–3 nie stosuje się do terenów zadrzewionych drzewami owocowymi, terenów służących celom kultu religijnego oraz cmentarzy.”;
 - **9)** w art. 36a:
     - **a)** w ust. 1 skreśla się wyrazy „i sporządzenia oceny oddziaływania na środowisko”,
     - **b)** w ust. 2: – w pkt 1 skreśla się wyrazy „z oceny oddziaływania na środowisko wynika, że”, – w pkt 2 skreśla się wyrazy „z oceny oddziaływania na środowisko wynika, iż”;
 
 - **10)** skreśla się art. 40;
-- **11)** po art. 41 dodaje się art. 41a w brzmieniu: „Art. 41a. 1. Prowadzenie robót polegających na regulacji wód oraz budowie wałów przeciwpowodziowych, a także robót melioracyjnych, odwodnień budowlanych oraz innych robót ziemnych zmieniających stosunki wodne – na terenach o szczególnych wartościach przyrodniczych, zwłaszcza na terenach, na których znajdują się skupienia roślinności o szczególnej wartości z punktu widzenia przyrodniczego, terenach o walorach krajobrazowych i ekologicznych, terenach masowych lęgów ptactwa, występowania skupień gatunków chronionych oraz tarlisk, zimowisk, przepławek i miejsc masowej migracji ryb i innych organizmów wodnych, następuje na podstawie decyzji wojewody, który ustala warunki prowadzenia robót.
-
-2. Wydanie decyzji, o której mowa w ust. 1, następuje przed uzyskaniem pozwolenia budowlanego.”;
-
+- **11)** po art. 41 dodaje się art. 41a w brzmieniu: „Art. 41a. 1. Prowadzenie robót polegających na regulacji wód oraz budowie wałów przeciwpowodziowych, a także robót melioracyjnych, odwodnień budowlanych oraz innych robót ziemnych zmieniających stosunki wodne – na terenach o szczególnych wartościach przyrodniczych, zwłaszcza na terenach, na których znajdują się skupienia roślinności o szczególnej wartości z punktu widzenia przyrodniczego, terenach o walorach krajobrazowych i ekologicznych, terenach masowych lęgów ptactwa, występowania skupień gatunków chronionych oraz tarlisk, zimowisk, przepławek i miejsc masowej migracji ryb i innych organizmów wodnych, następuje na podstawie decyzji wojewody, który ustala warunki prowadzenia robót. 2. Wydanie decyzji, o której mowa w ust. 1, następuje przed uzyskaniem pozwolenia budowlanego.”;
 - **12)** po art. 45 dodaje się art. 45a w brzmieniu: „Art. 45a. Zabrania się niszczenia roślinności służącej wiązaniu gleby oraz niszczenia roślin i zwierząt przyczyniających się do oczyszczania środowiska, a zwłaszcza wód.”;
 - **13)** w art. 46 ust. 6 otrzymuje brzmienie: „6. Organy gminy w miejscowych planach zagospodarowania przestrzennego oraz w swojej działalności uwzględniają potrzeby funkcjonowania i rozwoju istniejących lub planowanych do utworzenia ogrodów botanicznych i zoologicznych oraz zapewniają ich ochronę.”;
-- **14)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „Rozdział 5a Ochrona walorów krajobrazowych, terenów zieleni, drzew i krzewów
-
-**Art. 47a.**
-
-1. Walory krajobrazowe podlegają ochronie bez względu na to, czy są objęte szczególnymi formami ochrony przyrody.
-
-2. Walory krajobrazowe uwzględnia się w miejscowych planach zagospodarowania przestrzennego.
-
-3. Zabrania się wznoszenia w pobliżu morza, jezior i innych zbiorników wodnych, rzek i kanałów, krajobrazowych punktów widokowych lub na terenach o szczególnych walorach krajobrazowych, obiektów budowlanych naruszających walory krajobrazowe, uniemożliwiających do nich dostęp albo uniemożliwiających lub utrudniających zwierzętom dziko żyjącym dostęp do wód.
-
-**Art. 47b.**
-
-1. Rada gminy jest obowiązana zapewnić mieszkańcom miast i wsi o zwartej zabudowie korzystanie z przyrody przede wszystkim przez tworzenie i utrzymywanie w należytym stanie terenów zieleni i zadrzewień, łączących się, w miarę możliwości, z terenami zalesionymi.
-
-2. Zmiana przeznaczenia terenów zieleni i zadrzewień może nastąpić tylko w następstwie uchwalenia miejscowego planu zagospodarowania przestrzennego lub jego zmiany.
-
-3. Przepisy ust. 2 dotyczą także terenów jeszcze niezagospodarowanych lecz przeznaczonych w studium uwarunkowań i kierunków zagospodarowania przestrzennego, oraz w decyzji o warunkach zabudowy i zagospodarowania terenu, na tereny zieleni i zadrzewień.
-
-**Art. 47c.**
-
-1. Roboty ziemne oraz inne roboty związane z wykorzystaniem sprzętu mechanicznego lub urządzeń technicznych, prowadzone w pobliżu drzew lub krzewów albo ich zespołów, mogą być wykonywane wyłącznie w sposób nieszkodzący drzewom lub krzewom.
-
-2. Na ulicach, placach oraz drogach publicznych środki chemiczne mogą być stosowane tylko w sposób nieszkodzący terenom zieleni oraz zadrzewieniom.
-
-3. Wojewoda określa, w drodze rozporządzenia, rodzaje środków, jakie mogą być używane w miejscach określonych w ust. 2 oraz warunki ich stosowania.
-
-**Art. 47d.**
-
-1. Tereny będące własnością Skarbu Państwa lub własnością jednostek samorządu terytorialnego, nieprzeznaczone pod zabudowę, oraz tereny przeznaczone do zagospodarowania w późniejszym terminie a niewykorzystane rolniczo, zagospodarowuje się przez zasadzenie na nich roślinności dostosowanej do otoczenia, z uwzględnieniem okresu zagospodarowania, jeżeli ma ono charakter czasowy.
-
-2. Wykonanie obowiązku, o którym mowa w ust. 1, należy odpowiednio do organów administracji rządowej lub organów samorządu terytorialnego.
-
-3. Przepisy ust. 2 nie naruszają przepisów dotyczących gospodarowania nieruchomościami Skarbu Państwa.
-
-**Art. 47e.**
-
-1. Władający nieruchomością obowiązani są do utrzymywania we właściwym stanie drzew oraz krzewów rosnących na nieruchomościach będących w ich władaniu.
-
-2. Usunięcie drzew lub krzewów z terenu nieruchomości może nastąpić za zezwoleniem wójta, burmistrza albo prezydenta miasta wydanym na wniosek władającego, z tym, że organ może uzależnić udzielenie zezwolenia od przeniesienia drzew lub krzewów we wskazane przez siebie miejsce albo zastąpienia drzew lub krzewów przewidzianych do usunięcia innymi drzewami lub krzewami.
-
-3. Zezwolenie na usunięcie drzew lub krzewów z terenu nieruchomości wpisanej do rejestru zabytków wydaje wojewódzki konserwator zabytków.
-
-4. Przepisów ust. 2 nie stosuje się do:
-
-- **1)** drzew i krzewów owocowych, z wyłączeniem nieruchomości wpisanych do rejestru zabytków,
-- **2)** drzew i krzewów sadzonych na plantacjach,
-- **3)** drzew i krzewów, których wiek nie przekracza 5 lat.
-
-**Art. 47f.**
-
-1. Władający nieruchomością ponosi opłaty za usunięcie drzew lub krzewów.
-
-2. Opłaty nalicza i pobiera organ właściwy do wydania zezwolenia na usunięcie drzew lub krzewów.
-
-3. Opłaty za usunięcie drzew ustala się w zależności od obwodu pnia, rodzaju lub gatunku (odmiany) drzewa, a za usunięcie krzewów – w zależności od powierzchni porośniętej krzewami.
-
-4. Opłatę ustala się przy udzielaniu zezwolenia.
-
-5. Wniosek o wydanie zezwolenia powinien zawierać dane dotyczące gatunku drzewa, obwodu jego pnia, przeznaczenia terenu, na którym rośnie drzewo, przyczynę i termin zamierzonego usunięcia drzewa lub przyczynę i termin zamierzonego usunięcia krzewów oraz wielkość powierzchni, z której zostaną usunięte krzewy.
-
-6. Organ gminy odracza na okres dwóch lat termin uiszczenia opłaty za usunięcie drzew lub krzewów, jeżeli zezwolenie przewiduje przesadzenie ich w inne miejsce.
-
-7. Jeżeli przesadzone drzewa lub krzewy zachowały żywotność po upływie dwóch lat od dnia ich przesadzenia lub nie zachowały żywotności na skutek siły wyższej lub klęski suszy, należność z tytułu ustalonej opłaty za usunięcie drzew lub krzewów podlega umorzeniu przez organ gminy.
-
-**Art. 47g.**
-
-1. Nie pobiera się opłat za usunięcie drzew:
-
-- **1)** na których usunięcie nie jest wymagane zezwolenie,
-- **2)** na których usunięcie uzyskała zezwolenie osoba fizyczna niebędąca przedsiębiorcą,
-- **3)** jeżeli usunięcie było związane z wykonywaniem i utrzymaniem urządzeń melioracji wodnych w zakresie niezbędnym do wykonania i utrzymania tych urządzeń, po uzgodnieniu z wojewodą,
-- **4)** jeżeli usunięcie jest związane z odnową i zabiegami pielęgnacyjnymi drzew znajdujących się na terenach nieruchomości wpisanych do rejestru zabytków,
-- **5)** które zagrażają bezpieczeństwu ludzi lub mienia w istniejących obiektach budowlanych albo bezpieczeństwu żeglugi,
-- **6)** które zagrażają bezpieczeństwu ruchu kolejowego oraz drogowego,
-- **7)** z obszarów narażonych na niebezpieczeństwo powodzi, wałów przeciwpowodziowych i terenów w odległości co najmniej 3 m od stopy wału oraz z koryt cieków – w związku z ochroną przed powodzią oraz utrzymywaniem wód,
-- **8)** które posadzono na terenach przeznaczonych w planach zagospodarowania przestrzennego na cele nieprzewidujące zadrzewień lub zakrzewień,
-- **9)** usuwanych z terenów zieleni miejskiej, z parków ustanowionych przez radę gminy, z ogrodów działkowych i z zadrzewień w związku z zabiegami pielęgnacyjnymi.
-
-2. Przepisy ust. 1 stosuje się odpowiednio do usuwania krzewów.
-
-**Art. 47h.**
-
-1. Podstawę jednostkowych stawek opłat stanowi najniższe miesięczne wynagrodzenie za pracę pracowników obowiązujące w dniu 30 września roku poprzedniego, określone na podstawie Kodeksu pracy.
-
-2. Jednostkowe stawki opłat zależą od rodzaju i gatunku (odmiany) drzewa i nie mogą przekroczyć za jeden centymetr obwodu pnia drzewa mierzonego na wysokości 130 cm:
-
-- **1)** przy obwodzie do 25 cm – 60% podstawy,
-- **2)** przy obwodzie od 26 do 50 cm – 90% podstawy,
-- **3)** przy obwodzie od 51 do 100 cm – 115% podstawy,
-- **4)** przy obwodzie od 101 do 200 cm – 175% podstawy,
-- **5)** przy obwodzie powyżej 200 cm – 235% podstawy.
-
-3. Stawkę opłat za usunięcie krzewów ustala się w wysokości nie wyższej niż 25% podstawy za jeden metr kwadratowy powierzchni porośniętej krzewami.
-
-4. Rada Ministrów określi, w drodze rozporządzenia, jednostkowe stawki opłat za usuwanie drzew lub krzewów uwzględniając:
-
-- **1)** rodzaje i gatunki (odmiany) drzew lub krzewów, za których usunięcie pobiera się opłaty oraz jednostkowe stawki tych opłat,
-- **2)** współczynniki różnicujące wysokość opłat.
-
-5. Za usuwanie drzew lub krzewów z terenów ochrony uzdrowiskowej, terenów nieruchomości wpisanych do rejestru zabytków oraz terenów zieleni miejskiej ustala się jednostkowe stawki opłat o 100% wyższe od stawek ustalonych na podstawie ust. 3 i 4.
-
-**Art. 47i.**
-
-1. Obowiązek uiszczenia opłaty przedawnia się z upływem 5 lat, licząc od końca roku, w którym upłynął termin wniesienia opłaty.
-
-2. Nie można wydać decyzji w sprawie ustalenia opłaty, jeżeli od końca roku kalendarzowego, w którym usunięto drzewa lub krzewy, upłynęło 5 lat.
-
-3. Uiszczenie opłaty następuje w terminie 14 dni od dnia, w którym decyzja ustalająca wysokość opłaty stała się ostateczna.
-
-4. W razie nieterminowego uiszczenia opłaty pobiera się odsetki za zwłokę w wysokości odsetek pobieranych za nieterminowe regulowanie zobowiązań podatkowych.
-
-5. Opłaty nieuiszczone w terminie, o którym mowa w ust. 1, podlegają wraz z odsetkami za zwłokę przymusowemu ściągnięciu w trybie określonym w przepisach o postępowaniu egzekucyjnym w administracji.
-
-**Art. 47j.** Wpływy uzyskane z tytułu opłat za usuwanie drzew i krzewów stanowią dochód gminnego funduszu ochrony środowiska i gospodarki wodnej.
-
-**Art. 47k.** Za zniszczenie terenów zieleni albo drzew lub krzewów, powodowane niewłaściwym wykonywaniem robót ziemnych lub wykorzystaniem sprzętu mechanicznego albo urządzeń technicznych oraz zastosowaniem środków chemicznych w sposób szkodliwy dla roślinności oraz za usuwanie drzew lub krzewów bez wymaganego zezwolenia, a także za zniszczenie spowodowane niewłaściwą pielęgnacją terenów zieleni, zadrzewień, drzew lub krzewów, wójt, burmistrz albo prezydent miasta wymierza administracyjną karę pieniężną.
-
-**Art. 47l.**
-
-1. Jednostkowe stawki kary nie mogą przekroczyć za jeden centymetr obwodu pnia drzewa mierzonego na wysokości 130 cm, trzykrotnej stawki jednostkowej opłaty przewidzianej dla danego rodzaju lub gatunku (odmiany) drzewa.
-
-2. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, tryb nakładania kar pieniężnych, o których mowa w ust. 1.
-
-3. W rozporządzeniu, o którym mowa w ust. 2, ustala się:
-
-- **1)** przypadki zawieszania obowiązku uiszczania kary,
-- **2)** współczynniki różnicujące wysokość kar nakładanych na osoby fizyczne.
-
-4. Rada Ministrów określi, w drodze rozporządzenia, jednostkowe stawki kar za usuwanie drzew.
-
-5. W rozporządzeniu, o którym mowa w ust. 4, ustala się:
-
-- **1)** rodzaje i gatunki (odmiany) drzew, za których usunięcie pobiera się kary, oraz jednostkowe stawki tych kar,
-- **2)** współczynniki różnicujące wysokość kar.
-
-6. Do stawek kar, o których mowa w ust. 7, stosuje się odpowiednio przepisy art. 47h ust. 1.
-
-7. Stawki kar za zniszczenie jednego metra kwadratowego wynoszą:
-
-- **1)** dla krzewów – 26% podstawy,
-- **2)** dla trawników – 6% podstawy,
-- **3)** dla kwietników – 52% podstawy.
-
-8. Kary ustalone, nieuiszczone w wyznaczonym terminie, podlegają z odsetkami za zwłokę przymusowemu ściągnięciu w trybie określonym w przepisach o postępowaniu egzekucyjnym w administracji.
-
-9. Nie można wydać decyzji o wymierzeniu kary, o której mowa w ust. 1, jeżeli od dnia, w którym stwierdzono naruszenie wymagań ochrony środowiska, upłynęło 5 lat.
-
-10. Wymierzonej kary nie pobiera się po upływie 5 lat od dnia, w którym decyzja ustalająca jej wysokość stała się ostateczna. Art. 47ł. Przepisów dotyczących usuwania drzew i krzewów, pobierania opłat i wymierzania kar nie stosuje się do:
-
-- **1)** drzew i krzewów w lasach i na gruntach leśnych,
-- **2)** drzew i krzewów poddanych pod ochronę na podstawie art. 13,
-- **3)** drzew i krzewów usuwanych na podstawie decyzji właściwego organu z obszarów narażonych na niebezpieczeństwo powodzi oraz z wałów przeciwpowodziowych i terenów w odległości co najmniej 3 m od stopy wału.”;
-- **15)** art. 59 otrzymuje brzmienie: „Art. 59. 1. Kto:
-- **1)** wypala roślinność na łąkach, pastwiskach, nieużytkach, rowach, pasach przydrożnych, szlakach kolejowych, w strefie oczeretów lub trzcin,
-- **2)** nie przestrzega ograniczeń, zakazów i nakazów określonych w przepisach wydanych na podstawie art. 34a ust. 3,
-- **3)** narusza warunki prowadzenia robót określone decyzją wydaną na podstawie art. 41a,
-- **4)** niszczy roślinność służącą wiązaniu gleby lub niszczy rośliny i zwierzęta przyczyniające się do oczyszczania środowiska,
-- **5)** wprowadza do środowiska przyrodniczego zwierzęta lub rośliny, a także ich formy rozwojowe obce rodzimej faunie i florze bez uzyskania wymaganego zezwolenia ministra właściwego do spraw środowiska,
-- **6)** przenosi z ogrodu botanicznego, zoologicznego lub banku genów do stanu naturalnego rośliny lub zwierzęta zagrożone wyginięciem bez uzyskania zgody ministra właściwego do spraw środowiska,
-- **7)** wykonuje roboty ziemne lub inne roboty związane z wykorzystaniem sprzętu mechanicznego lub urządzeń technicznych w pobliżu drzew lub krzewów albo ich zespołów w sposób powodujący uszkodzenie drzew lub krzewów,
-- **8)** stosuje na ulicach, placach i drogach publicznych środki chemiczne w sposób szkodzący terenom zieleni lub zadrzewieniom,
-- **9)** nie przestrzega ograniczeń zakazów i nakazów określonych w przepisach wydanych na podstawie art. 47c ust. 3, podlega karze aresztu albo grzywny.
-
-2. Postępowanie w sprawach, o których mowa w ust. 1, prowadzi się na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.”.
+- **14)** po rozdziale 5 dodaje się rozdział 5a w brzmieniu: „Rozdział 5a Ochrona walorów krajobrazowych, terenów zieleni, drzew i krzewów Art. 47a. 1. Walory krajobrazowe podlegają ochronie bez względu na to, czy są objęte szczególnymi formami ochrony przyrody. 2. Walory krajobrazowe uwzględnia się w miejscowych planach zagospodarowania przestrzennego. 3. Zabrania się wznoszenia w pobliżu morza, jezior i innych zbiorników wodnych, rzek i kanałów, krajobrazowych punktów widokowych lub na terenach o szczególnych walorach krajobrazowych, obiektów budowlanych naruszających walory krajobrazowe, uniemożliwiających do nich dostęp albo uniemożliwiających lub utrudniających zwierzętom dziko żyjącym dostęp do wód. Art. 47b. 1. Rada gminy jest obowiązana zapewnić mieszkańcom miast i wsi o zwartej zabudowie korzystanie z przyrody przede wszystkim przez tworzenie i utrzymywanie w należytym stanie terenów zieleni i zadrzewień, łączących się, w miarę możliwości, z terenami zalesionymi. 2. Zmiana przeznaczenia terenów zieleni i zadrzewień może nastąpić tylko w następstwie uchwalenia miejscowego planu zagospodarowania przestrzennego lub jego zmiany. 3. Przepisy ust. 2 dotyczą także terenów jeszcze niezagospodarowanych lecz przeznaczonych w studium uwarunkowań i kierunków zagospodarowania przestrzennego, oraz w decyzji o warunkach zabudowy i zagospodarowania terenu, na tereny zieleni i zadrzewień. Art. 47c. 1. Roboty ziemne oraz inne roboty związane z wykorzystaniem sprzętu mechanicznego lub urządzeń technicznych, prowadzone w pobliżu drzew lub krzewów albo ich zespołów, mogą być wykonywane wyłącznie w sposób nieszkodzący drzewom lub krzewom. 2. Na ulicach, placach oraz drogach publicznych środki chemiczne mogą być stosowane tylko w sposób nieszkodzący terenom zieleni oraz zadrzewieniom. 3. Wojewoda określa, w drodze rozporządzenia, rodzaje środków, jakie mogą być używane w miejscach określonych w ust. 2 oraz warunki ich stosowania. Art. 47d. 1. Tereny będące własnością Skarbu Państwa lub własnością jednostek samorządu terytorialnego, nieprzeznaczone pod zabudowę, oraz tereny przeznaczone do zagospodarowania w późniejszym terminie a niewykorzystane rolniczo, zagospodarowuje się przez zasadzenie na nich roślinności dostosowanej do otoczenia, z uwzględnieniem okresu zagospodarowania, jeżeli ma ono charakter czasowy. 2. Wykonanie obowiązku, o którym mowa w ust. 1, należy odpowiednio do organów administracji rządowej lub organów samorządu terytorialnego. 3. Przepisy ust. 2 nie naruszają przepisów dotyczących gospodarowania nieruchomościami Skarbu Państwa. Art. 47e. 1. Władający nieruchomością obowiązani są do utrzymywania we właściwym stanie drzew oraz krzewów rosnących na nieruchomościach będących w ich władaniu. 2. Usunięcie drzew lub krzewów z terenu nieruchomości może nastąpić za zezwoleniem wójta, burmistrza albo prezydenta miasta wydanym na wniosek władającego, z tym, że organ może uzależnić udzielenie zezwolenia od przeniesienia drzew lub krzewów we wskazane przez siebie miejsce albo zastąpienia drzew lub krzewów przewidzianych do usunięcia innymi drzewami lub krzewami. 3. Zezwolenie na usunięcie drzew lub krzewów z terenu nieruchomości wpisanej do rejestru zabytków wydaje wojewódzki konserwator zabytków. 4. Przepisów ust. 2 nie stosuje się do: 1) drzew i krzewów owocowych, z wyłączeniem nieruchomości wpisanych do rejestru zabytków, 2) drzew i krzewów sadzonych na plantacjach, 3) drzew i krzewów, których wiek nie przekracza 5 lat. Art. 47f. 1. Władający nieruchomością ponosi opłaty za usunięcie drzew lub krzewów. 2. Opłaty nalicza i pobiera organ właściwy do wydania zezwolenia na usunięcie drzew lub krzewów. 3. Opłaty za usunięcie drzew ustala się w zależności od obwodu pnia, rodzaju lub gatunku (odmiany) drzewa, a za usunięcie krzewów – w zależności od powierzchni porośniętej krzewami. 4. Opłatę ustala się przy udzielaniu zezwolenia. 5. Wniosek o wydanie zezwolenia powinien zawierać dane dotyczące gatunku drzewa, obwodu jego pnia, przeznaczenia terenu, na którym rośnie drzewo, przyczynę i termin zamierzonego usunięcia drzewa lub przyczynę i termin zamierzonego usunięcia krzewów oraz wielkość powierzchni, z której zostaną usunięte krzewy. 6. Organ gminy odracza na okres dwóch lat termin uiszczenia opłaty za usunięcie drzew lub krzewów, jeżeli zezwolenie przewiduje przesadzenie ich w inne miejsce. 7. Jeżeli przesadzone drzewa lub krzewy zachowały żywotność po upływie dwóch lat od dnia ich przesadzenia lub nie zachowały żywotności na skutek siły wyższej lub klęski suszy, należność z tytułu ustalonej opłaty za usunięcie drzew lub krzewów podlega umorzeniu przez organ gminy. Art. 47g. 1. Nie pobiera się opłat za usunięcie drzew: 1) na których usunięcie nie jest wymagane zezwolenie, 2) na których usunięcie uzyskała zezwolenie osoba fizyczna niebędąca przedsiębiorcą, 3) jeżeli usunięcie było związane z wykonywaniem i utrzymaniem urządzeń melioracji wodnych w zakresie niezbędnym do wykonania i utrzymania tych urządzeń, po uzgodnieniu z wojewodą, 4) jeżeli usunięcie jest związane z odnową i zabiegami pielęgnacyjnymi drzew znajdujących się na terenach nieruchomości wpisanych do rejestru zabytków, 5) które zagrażają bezpieczeństwu ludzi lub mienia w istniejących obiektach budowlanych albo bezpieczeństwu żeglugi, 6) które zagrażają bezpieczeństwu ruchu kolejowego oraz drogowego, 7) z obszarów narażonych na niebezpieczeństwo powodzi, wałów przeciwpowodziowych i terenów w odległości co najmniej 3 m od stopy wału oraz z koryt cieków – w związku z ochroną przed powodzią oraz utrzymywaniem wód, 8) które posadzono na terenach przeznaczonych w planach zagospodarowania przestrzennego na cele nieprzewidujące zadrzewień lub zakrzewień, 9) usuwanych z terenów zieleni miejskiej, z parków ustanowionych przez radę gminy, z ogrodów działkowych i z zadrzewień w związku z zabiegami pielęgnacyjnymi. 2. Przepisy ust. 1 stosuje się odpowiednio do usuwania krzewów. Art. 47h. 1. Podstawę jednostkowych stawek opłat stanowi najniższe miesięczne wynagrodzenie za pracę pracowników obowiązujące w dniu 30 września roku poprzedniego, określone na podstawie Kodeksu pracy. 2. Jednostkowe stawki opłat zależą od rodzaju i gatunku (odmiany) drzewa i nie mogą przekroczyć za jeden centymetr obwodu pnia drzewa mierzonego na wysokości 130 cm: 1) przy obwodzie do 25 cm – 60% podstawy, 2) przy obwodzie od 26 do 50 cm – 90% podstawy, 3) przy obwodzie od 51 do 100 cm – 115% podstawy, 4) przy obwodzie od 101 do 200 cm – 175% podstawy, 5) przy obwodzie powyżej 200 cm – 235% podstawy. 3. Stawkę opłat za usunięcie krzewów ustala się w wysokości nie wyższej niż 25% podstawy za jeden metr kwadratowy powierzchni porośniętej krzewami. 4. Rada Ministrów określi, w drodze rozporządzenia, jednostkowe stawki opłat za usuwanie drzew lub krzewów uwzględniając: 1) rodzaje i gatunki (odmiany) drzew lub krzewów, za których usunięcie pobiera się opłaty oraz jednostkowe stawki tych opłat, 2) współczynniki różnicujące wysokość opłat. 5. Za usuwanie drzew lub krzewów z terenów ochrony uzdrowiskowej, terenów nieruchomości wpisanych do rejestru zabytków oraz terenów zieleni miejskiej ustala się jednostkowe stawki opłat o 100% wyższe od stawek ustalonych na podstawie ust. 3 i 4. Art. 47i. 1. Obowiązek uiszczenia opłaty przedawnia się z upływem 5 lat, licząc od końca roku, w którym upłynął termin wniesienia opłaty. 2. Nie można wydać decyzji w sprawie ustalenia opłaty, jeżeli od końca roku kalendarzowego, w którym usunięto drzewa lub krzewy, upłynęło 5 lat. 3. Uiszczenie opłaty następuje w terminie 14 dni od dnia, w którym decyzja ustalająca wysokość opłaty stała się ostateczna. 4. W razie nieterminowego uiszczenia opłaty pobiera się odsetki za zwłokę w wysokości odsetek pobieranych za nieterminowe regulowanie zobowiązań podatkowych. 5. Opłaty nieuiszczone w terminie, o którym mowa w ust. 1, podlegają wraz z odsetkami za zwłokę przymusowemu ściągnięciu w trybie określonym w przepisach o postępowaniu egzekucyjnym w administracji. Art. 47j. Wpływy uzyskane z tytułu opłat za usuwanie drzew i krzewów stanowią dochód gminnego funduszu ochrony środowiska i gospodarki wodnej. Art. 47k. Za zniszczenie terenów zieleni albo drzew lub krzewów, powodowane niewłaściwym wykonywaniem robót ziemnych lub wykorzystaniem sprzętu mechanicznego albo urządzeń technicznych oraz zastosowaniem środków chemicznych w sposób szkodliwy dla roślinności oraz za usuwanie drzew lub krzewów bez wymaganego zezwolenia, a także za zniszczenie spowodowane niewłaściwą pielęgnacją terenów zieleni, zadrzewień, drzew lub krzewów, wójt, burmistrz albo prezydent miasta wymierza administracyjną karę pieniężną. Art. 47l. 1. Jednostkowe stawki kary nie mogą przekroczyć za jeden centymetr obwodu pnia drzewa mierzonego na wysokości 130 cm, trzykrotnej stawki jednostkowej opłaty przewidzianej dla danego rodzaju lub gatunku (odmiany) drzewa. 2. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, tryb nakładania kar pieniężnych, o których mowa w ust. 1. 3. W rozporządzeniu, o którym mowa w ust. 2, ustala się: 1) przypadki zawieszania obowiązku uiszczania kary, 2) współczynniki różnicujące wysokość kar nakładanych na osoby fizyczne. 4. Rada Ministrów określi, w drodze rozporządzenia, jednostkowe stawki kar za usuwanie drzew. 5. W rozporządzeniu, o którym mowa w ust. 4, ustala się: 1) rodzaje i gatunki (odmiany) drzew, za których usunięcie pobiera się kary, oraz jednostkowe stawki tych kar, 2) współczynniki różnicujące wysokość kar. 6. Do stawek kar, o których mowa w ust. 7, stosuje się odpowiednio przepisy art. 47h ust. 1. 7. Stawki kar za zniszczenie jednego metra kwadratowego wynoszą: 1) dla krzewów – 26% podstawy, 2) dla trawników – 6% podstawy, 3) dla kwietników – 52% podstawy. 8. Kary ustalone, nieuiszczone w wyznaczonym terminie, podlegają z odsetkami za zwłokę przymusowemu ściągnięciu w trybie określonym w przepisach o postępowaniu egzekucyjnym w administracji. 9. Nie można wydać decyzji o wymierzeniu kary, o której mowa w ust. 1, jeżeli od dnia, w którym stwierdzono naruszenie wymagań ochrony środowiska, upłynęło 5 lat. 10. Wymierzonej kary nie pobiera się po upływie 5 lat od dnia, w którym decyzja ustalająca jej wysokość stała się ostateczna. Art. 47ł. Przepisów dotyczących usuwania drzew i krzewów, pobierania opłat i wymierzania kar nie stosuje się do: 1) drzew i krzewów w lasach i na gruntach leśnych, 2) drzew i krzewów poddanych pod ochronę na podstawie art. 13, 3) drzew i krzewów usuwanych na podstawie decyzji właściwego organu z obszarów narażonych na niebezpieczeństwo powodzi oraz z wałów przeciwpowodziowych i terenów w odległości co najmniej 3 m od stopy wału.”;
+- **15)** art. 59 otrzymuje brzmienie: „Art. 59. 1. Kto: 1) wypala roślinność na łąkach, pastwiskach, nieużytkach, rowach, pasach przydrożnych, szlakach kolejowych, w strefie oczeretów lub trzcin, 2) nie przestrzega ograniczeń, zakazów i nakazów określonych w przepisach wydanych na podstawie art. 34a ust. 3, 3) narusza warunki prowadzenia robót określone decyzją wydaną na podstawie art. 41a, 4) niszczy roślinność służącą wiązaniu gleby lub niszczy rośliny i zwierzęta przyczyniające się do oczyszczania środowiska, 5) wprowadza do środowiska przyrodniczego zwierzęta lub rośliny, a także ich formy rozwojowe obce rodzimej faunie i florze bez uzyskania wymaganego zezwolenia ministra właściwego do spraw środowiska, 6) przenosi z ogrodu botanicznego, zoologicznego lub banku genów do stanu naturalnego rośliny lub zwierzęta zagrożone wyginięciem bez uzyskania zgody ministra właściwego do spraw środowiska, 7) wykonuje roboty ziemne lub inne roboty związane z wykorzystaniem sprzętu mechanicznego lub urządzeń technicznych w pobliżu drzew lub krzewów albo ich zespołów w sposób powodujący uszkodzenie drzew lub krzewów, 8) stosuje na ulicach, placach i drogach publicznych środki chemiczne w sposób szkodzący terenom zieleni lub zadrzewieniom, 9) nie przestrzega ograniczeń zakazów i nakazów określonych w przepisach wydanych na podstawie art. 47c ust. 3, podlega karze aresztu albo grzywny. 2. Postępowanie w sprawach, o których mowa w ust. 1, prowadzi się na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.”.
 
 **Art. 48.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2000 r. Nr 106, poz. 1126, Nr 109, poz. 1157 i Nr 120, poz. 1268 oraz z 2001 r. Nr 5, poz. 42) wprowadza się następujące zmiany:
 
@@ -797,10 +489,7 @@ source: pdf
 - **1)** w art. 7 w ust. 2 pkt 1 otrzymuje brzmienie: „1) prowadzenie prac studialnych dotyczących autostrad, przygotowywanie dokumentów wymaganych w postępowaniu w sprawie oceny oddziaływania na środowisko na etapie udzielenia wskazań lokalizacyjnych i wydania decyzji o ustaleniu lokalizacji autostrady, o którym mowa przepisach o ochronie środowiska,”;
 - **2)** w art. 20:
     - **a)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw transportu określi, w drodze rozporządzenia, wymagania, jakim powinna odpowiadać ocena, o której mowa w ust. 1 pkt 4.”,
-    - **b)** po ust. 4 dodaje się ust. 5 w brzmieniu: „5. W rozporządzeniu, o którym mowa w ust. 4, ustala się:
-
-- **1)** zakres zagadnień dotyczących warunków glebowo-rolniczych i lasów, które powinny zostać w ocenie zawarte, ocenione i ustalone, z uwzględnieniem danych umożliwiających dokonanie analizy wpływu realizacji autostrady na potencjał produkcyjny gruntów rolnych i leśnych,
-- **2)** formę opisową i graficzną oceny.”.
+    - **b)** po ust. 4 dodaje się ust. 5 w brzmieniu: „5. W rozporządzeniu, o którym mowa w ust. 4, ustala się: 1) zakres zagadnień dotyczących warunków glebowo-rolniczych i lasów, które powinny zostać w ocenie zawarte, ocenione i ustalone, z uwzględnieniem danych umożliwiających dokonanie analizy wpływu realizacji autostrady na potencjał produkcyjny gruntów rolnych i leśnych, 2) formę opisową i graficzną oceny.”.
 
 **Art. 51.** W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. Nr 16, poz. 78, z 1997 r. Nr 60, poz. 370, Nr 80, poz. 505 i Nr 160, poz. 1079, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268 oraz z 2001 r. Nr 81, poz. 875) wprowadza się następujące zmiany:
 
@@ -819,136 +508,29 @@ source: pdf
 
 - **1)** w art. 1 w ust. 2 wyraz „wykorzystywania” zastępuje się wyrazem „odzysku”;
 - **2)** w art. 2:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Ilekroć w ustawie jest mowa o:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Ilekroć w ustawie jest mowa o: 1) nieczystościach ciekłych – rozumie się przez to ścieki gromadzone przejściowo w zbiornikach bezodpływowych, 2) odpadach komunalnych – rozumie się przez to odpady komunalne w rozumieniu przepisów o odpadach, 3) stacjach zlewnych – rozumie się przez to instalacje i urządzenia zlokalizowane przy kolektorach sieci kanalizacyjnej lub przy oczyszczalniach ścieków służące do przyjmowania nieczystości ciekłych dowożonych pojazdami asenizacyjnymi z miejsc gromadzenia, 4) właścicielach nieruchomości – rozumie się przez to także współwłaścicieli, użytkowników wieczystych oraz jednostki organizacyjne i osoby posiadające nieruchomości w zarządzie lub użytkowaniu, a także inne podmioty władające nieruchomością, 5) zbiornikach bezodpływowych – rozumie się przez to instalacje i urządzenia przeznaczone do gromadzenia nieczystości ciekłych w miejscu ich powstawania.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw środowiska, określi, w drodze rozporządzenia, wymagania dla pojazdów asenizacyjnych, biorąc pod uwagę: 1) bezpieczeństwo i zdrowie osób korzystających i obsługujących pojazdy asenizacyjne, 2) wymagania ochrony środowiska i bezpieczeństwa ruchu drogowego.”,
+    - **c)** po ust. 3 dodaje się ust. 4 w brzmieniu: „4. Minister właściwy do spraw rozwoju regionalnego i budownictwa, w porozumieniu z ministrem właściwym do spraw środowiska, określi, w drodze rozporządzenia, warunki wprowadzania nieczystości ciekłych do stacji zlewnych, biorąc pod uwagę: 1) bezpieczeństwo i zdrowie osób obsługujących stacje zlewne, 2) ochronę wyposażenia technicznego stacji zlewnych, 3) wpływ mieszaniny nieczystości ciekłych na mechaniczno-biologiczne procesy oczyszczania, 4) ochronę wód przed zanieczyszczeniem.”;
 
-- **1)** nieczystościach ciekłych – rozumie się przez to ścieki gromadzone przejściowo w zbiornikach bezodpływowych,
-- **2)** odpadach komunalnych – rozumie się przez to odpady komunalne w rozumieniu przepisów o odpadach,
-- **3)** stacjach zlewnych – rozumie się przez to instalacje i urządzenia zlokalizowane przy kolektorach sieci kanalizacyjnej lub przy oczyszczalniach ścieków służące do przyjmowania nieczystości ciekłych dowożonych pojazdami asenizacyjnymi z miejsc gromadzenia,
-- **4)** właścicielach nieruchomości – rozumie się przez to także współwłaścicieli, użytkowników wieczystych oraz jednostki organizacyjne i osoby posiadające nieruchomości w zarządzie lub użytkowaniu, a także inne podmioty władające nieruchomością,
-- **5)** zbiornikach bezodpływowych – rozumie się przez to instalacje i urządzenia przeznaczone do gromadzenia nieczystości ciekłych w miejscu ich powstawania.”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw środowiska, określi, w drodze rozporządzenia, wymagania dla pojazdów asenizacyjnych, biorąc pod uwagę:
-
-- **1)** bezpieczeństwo i zdrowie osób korzystających i obsługujących pojazdy asenizacyjne,
-- **2)** wymagania ochrony środowiska i bezpieczeństwa ruchu drogowego.”,
-    - **c)** po ust. 3 dodaje się ust. 4 w brzmieniu: „4. Minister właściwy do spraw rozwoju regionalnego i budownictwa, w porozumieniu z ministrem właściwym do spraw środowiska, określi, w drodze rozporządzenia, warunki wprowadzania nieczystości ciekłych do stacji zlewnych, biorąc pod uwagę:
-
-- **1)** bezpieczeństwo i zdrowie osób obsługujących stacje zlewne,
-- **2)** ochronę wyposażenia technicznego stacji zlewnych,
-- **3)** wpływ mieszaniny nieczystości ciekłych na mechaniczno-biologiczne procesy oczyszczania,
-- **4)** ochronę wód przed zanieczyszczeniem.”;
 - **3)** w art. 3:
-    - **a)** w ust. 2: – pkt 2 i 3 otrzymują brzmienie: „2) zapewniają budowę, utrzymanie i eksploatację własnych lub wspólnych z innymi gminami:
-    - **a)** instalacji i urządzeń do odzysku lub unieszkodliwiania odpadów komunalnych,
-    - **b)** stacji zlewnych, w przypadku gdy podłączenie wszystkich nieruchomości do sieci kanalizacyjnej jest niemożliwe lub powoduje nadmierne koszty,
-    - **c)** instalacji i urządzeń do zbierania, transportu i unieszkodliwiania zwłok zwierzęcych lub ich części,
-    - **d)** szaletów publicznych,
+    - **a)** w ust. 2: – pkt 2 i 3 otrzymują brzmienie: „2) zapewniają budowę, utrzymanie i eksploatację własnych lub wspólnych z innymi gminami: a) instalacji i urządzeń do odzysku lub unieszkodliwiania odpadów komunalnych, b) stacji zlewnych, w przypadku gdy podłączenie wszystkich nieruchomości do sieci kanalizacyjnej jest niemożliwe lub powoduje nadmierne koszty, c) instalacji i urządzeń do zbierania, transportu i unieszkodliwiania zwłok zwierzęcych lub ich części, d) szaletów publicznych, 3) zapobiegają zanieczyszczaniu ulic, placów i terenów otwartych, w szczególności przez: zbieranie i pozbywanie się, z zastrzeżeniem art. 5 ust. 4, błota, śniegu, lodu oraz innych zanieczyszczeń uprzątniętych z chodników przez właścicieli nieruchomości oraz odpadów zgromadzonych w przeznaczonych do tego celu urządzeniach ustawionych na chodniku,”, – pkt 6 otrzymuje brzmienie: „6) organizują selektywną zbiórkę, segregację oraz magazynowanie odpadów komunalnych, w tym odpadów niebezpiecznych, przydatnych do odzysku oraz współdziałają z przedsiębiorcami podejmującymi działalność w zakresie gospodarowania tego rodzaju odpadami,”, – skreśla się pkt 7, – pkt 8 otrzymuje brzmienie: „8) zapewniają zbieranie, transport i unieszkodliwianie zwłok bezdomnych zwierząt lub ich części oraz współdziałają z przedsiębiorcami podejmującymi działalność w tym zakresie,”,
+    - **b)** po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Gminy prowadzą ewidencję: 1) zbiorników bezodpływowych w celu kontroli częstotliwości ich opróżniania oraz w celu opracowania planu rozwoju sieci kanalizacyjnej, 2) przydomowych oczyszczalni ścieków w celu kontroli częstotliwości i sposobu pozbywania się komunalnych osadów ściekowych oraz w celu opracowania planu rozwoju sieci kanalizacyjnej.”;
 
-- **3)** zapobiegają zanieczyszczaniu ulic, placów i terenów otwartych, w szczególności przez: zbieranie i pozbywanie się, z zastrzeżeniem art. 5 ust. 4, błota, śniegu, lodu oraz innych zanieczyszczeń uprzątniętych z chodników przez właścicieli nieruchomości oraz odpadów zgromadzonych w przeznaczonych do tego celu urządzeniach ustawionych na chodniku,”, – pkt 6 otrzymuje brzmienie: „6) organizują selektywną zbiórkę, segregację oraz magazynowanie odpadów komunalnych, w tym odpadów niebezpiecznych, przydatnych do odzysku oraz współdziałają z przedsiębiorcami podejmującymi działalność w zakresie gospodarowania tego rodzaju odpadami,”, – skreśla się pkt 7, – pkt 8 otrzymuje brzmienie: „8) zapewniają zbieranie, transport i unieszkodliwianie zwłok bezdomnych zwierząt lub ich części oraz współdziałają z przedsiębiorcami podejmującymi działalność w tym zakresie,”,
-    - **b)** po ust. 2 dodaje się ust. 3 w brzmieniu: „3. Gminy prowadzą ewidencję:
-
-- **1)** zbiorników bezodpływowych w celu kontroli częstotliwości ich opróżniania oraz w celu opracowania planu rozwoju sieci kanalizacyjnej,
-- **2)** przydomowych oczyszczalni ścieków w celu kontroli częstotliwości i sposobu pozbywania się komunalnych osadów ściekowych oraz w celu opracowania planu rozwoju sieci kanalizacyjnej.”;
 - **4)** w art. 4:
-    - **a)** pkt 1–3 otrzymują brzmienie: „1) wymagań w zakresie utrzymania czystości i porządku na terenie nieruchomości obejmujących:
-    - **a)** prowadzenie we wskazanym zakresie selektywnej zbiórki odpadów komunalnych,
-    - **b)** uprzątanie błota, śniegu, lodu i innych zanieczyszczeń z części nieruchomości służących do użytku publicznego,
-    - **c)** mycie i naprawy pojazdów samochodowych poza myjniami i warsztatami naprawczymi,
-
-- **2)** rodzaju urządzeń przeznaczonych do zbierania odpadów komunalnych na terenie nieruchomości oraz na drogach publicznych, a także wymagań dotyczących ich rozmieszczania oraz utrzymywania w odpowiednim stanie sanitarnym, porządkowym i technicznym,
-- **3)** częstotliwości i sposobu pozbywania się odpadów komunalnych lub nieczystości ciekłych z terenu nieruchomości oraz z terenów przeznaczonych do użytku publicznego,”,
+    - **a)** pkt 1–3 otrzymują brzmienie: „1) wymagań w zakresie utrzymania czystości i porządku na terenie nieruchomości obejmujących: a) prowadzenie we wskazanym zakresie selektywnej zbiórki odpadów komunalnych, b) uprzątanie błota, śniegu, lodu i innych zanieczyszczeń z części nieruchomości służących do użytku publicznego, c) mycie i naprawy pojazdów samochodowych poza myjniami i warsztatami naprawczymi, 2) rodzaju urządzeń przeznaczonych do zbierania odpadów komunalnych na terenie nieruchomości oraz na drogach publicznych, a także wymagań dotyczących ich rozmieszczania oraz utrzymywania w odpowiednim stanie sanitarnym, porządkowym i technicznym, 3) częstotliwości i sposobu pozbywania się odpadów komunalnych lub nieczystości ciekłych z terenu nieruchomości oraz z terenów przeznaczonych do użytku publicznego,”,
     - **b)** w pkt 5 wyraz „zasad” zastępuje się wyrazem „wymagań”;
 
-- **5)** art. 5 i 6 otrzymują brzmienie: „Art. 5. 1. Właściciele nieruchomości zapewniają utrzymanie czystości i porządku przez:
-- **1)** wyposażenie nieruchomości w urządzenia służące do zbierania odpadów komunalnych oraz utrzymywanie tych urządzeń w odpowiednim stanie sanitarnym, porządkowym i technicznym,
-- **2)** przyłączenie nieruchomości do istniejącej sieci kanalizacyjnej lub, w przypadku gdy budowa sieci kanalizacyjnej jest technicznie lub ekonomicznie nieuzasadniona, wyposażenie nieruchomości w zbiornik bezodpływowy nieczystości ciekłych lub w przydomową oczyszczalnię ścieków bytowych, spełniające wymagania określone w przepisach odrębnych; przyłączenie nieruchomości do sieci kanalizacyjnej nie jest obowiązkowe, jeżeli nieruchomość jest wyposażona w przydomową oczyszczalnię ścieków spełniającą wymagania określone w przepisach odrębnych,
-- **3)** zbieranie powstałych na terenie nieruchomości odpadów komunalnych zgodnie z wymaganiami określonymi w uchwale rady gminy, o której mowa w art. 4, oraz pozbywanie się tych odpadów w sposób zgodny z przepisami ustawy i przepisami odrębnymi; obowiązek ma odpowiednie zastosowanie także w przypadku gromadzenia nieczystości płynnych w zbiornikach bezodpływowych,
-- **4)** uprzątnięcie błota, śniegu, lodu i innych zanieczyszczeń z chodników położonych wzdłuż nieruchomości, przy czym za taki chodnik uznaje się wydzieloną część drogi publicznej służącą dla ruchu pieszego położoną bezpośrednio przy granicy nieruchomości; właściciel nieruchomości nie jest obowiązany do uprzątnięcia chodnika, na którym jest dopuszczony płatny postój lub parkowanie pojazdów samochodowych,
-- **5)** realizację innych obowiązków określonych w uchwale rady gminy, o której mowa w art. 4.
-
-2. Wykonywanie obowiązków, o których mowa w ust. 1, na terenie budowy należy do kierownika budowy.
-
-3. Uprzątnięcie i pozbycie się błota, śniegu, lodu i innych zanieczyszczeń z przystanków komunikacyjnych oraz z wydzielonych krawężnikiem lub oznakowaniem poziomym torowisk pojazdów szynowych należy do obowiązków przedsiębiorców użytkujących tereny służące komunikacji publicznej.
-
-4. Obowiązki utrzymania czystości i porządku na drogach publicznych należą do zarządu drogi. Do obowiązków zarządu drogi należy także:
-
-- **1)** zbieranie i pozbywanie się odpadów zgromadzonych w urządzeniach do tego przeznaczonych i utrzymanie tych urządzeń w odpowiednim stanie sanitarnym, porządkowym i technicznym,
-- **2)** pozbycie się błota, śniegu, lodu i innych zanieczyszczeń uprzątniętych z chodników przez właścicieli nieruchomości przyległych do drogi publicznej,
-- **3)** uprzątnięcie i pozbycie się błota, śniegu, lodu i innych zanieczyszczeń z chodników, jeżeli zarząd drogi pobiera opłaty z tytułu postoju lub parkowania pojazdów samochodowych na takim chodniku.
-
-5. Obowiązki utrzymania czystości i porządku na terenach innych niż wymienione w ust. 1 – 4 należą do gminy. Do obowiązków gminy należy także uprzątnięcie i pozbycie się błota, śniegu, lodu i innych zanieczyszczeń z chodników, jeżeli gmina pobiera opłaty z tytułu postoju lub parkowania pojazdów samochodowych na takim chodniku oraz zbieranie i pozbycie się odpadów zgromadzonych w urządzeniach do tego przeznaczonych umieszczonych na tym chodniku i utrzymanie tych urządzeń w odpowiednim stanie sanitarnym, porządkowym i technicznym.
-
-6. Nadzór nad realizacją obowiązków określonych w ust. 1–4 sprawuje wójt, burmistrz lub prezydent miasta. Wykonanie tych obowiązków podlega egzekucji administracyjnej.
-
-**Art. 6.**
-
-1. Właściciele nieruchomości przy wykonywaniu obowiązku określonego w art. 5 ust. 1 pkt 3 obowiązani są do udokumentowania korzystania z usług wykonywanych przez zakład będący gminną jednostką organizacyjną lub przedsiębiorcę posiadającego zezwolenie na prowadzenie działalności w zakresie zbierania, transportu, odzysku lub unieszkodliwiania odpadów komunalnych lub w zakresie opróżniania zbiorników bezodpływowych i transportu nieczystości ciekłych, przez okazanie umowy i dowodów płacenia za takie usługi.
-
-2. Rada gminy może ustalić, w drodze uchwały, górne stawki opłat ponoszonych przez właścicieli nieruchomości za usługi, o których mowa w ust. 1.
-
-3. W przypadku gdy właściciele nieruchomości nie udokumentują korzystania z usług, o których mowa w ust. 1, obowiązki określone w art. 5 ust. 1 przejmuje w trybie wykonania zastępczego gmina.
-
-4. Rada gminy ustalając stawki opłat, o których mowa w ust. 2, stosuje niższe stawki, jeżeli odpady komunalne są zbierane i transportowane w sposób selektywny.
-
-5. Przepisów ust. 1–4 nie stosuje się do obiektów wykorzystywanych do celów wojskowych oraz jednostek organizacyjnych Służby Więziennej, w zakresie zbierania, transportu, odzysku lub unieszkodliwiania odpadów komunalnych.”;
-
-- **6)** po art. 6 dodaje się art. 6a i 6b w brzmieniu: „Art. 6a. 1. Rada gminy może w drodze uchwały, na podstawie akceptacji mieszkańców wyrażonej w przeprowadzonym uprzednio referendum gminnym, przejąć od właścicieli nieruchomości wszystkie lub wskazane obowiązki, o których mowa w art. 5 ust. 1 pkt 1, 3 i
-
-4.
-
-2. Przejmując obowiązki rada gminy ustala opłatę ponoszoną przez właścicieli nieruchomości za wykonywanie przejętych obowiązków.
-
-3. Opłata, o której mowa w ust. 2, jest ustalana w sposób zryczałtowany za okresowe pozbywanie się określonej ilości wskazanego rodzaju odpadów komunalnych lub nieczystości ciekłych. Wysokość opłaty jest uzależniona od faktycznych kosztów ponoszonych przez gminę z tytułu zorganizowania i funkcjonowania systemu zbierania, transportu, odzysku i unieszkodliwiania odpadów komunalnych lub nieczystości ciekłych. Przy ustalaniu stawki opłat stosuje się art. 6 ust. 4.
-
-**Art. 6b.** Ustalając opłaty, o których mowa w art. 6a, rada gminy określa terminy ich uiszczania. Opłaty nieuiszczone w wyznaczonym terminie podlegają przymusowemu ściągnięciu w trybie określonym w przepisach o postępowaniu egzekucyjnym w administracji.”;
-
-- **7)** art. 7 otrzymuje brzmienie: „Art. 7. 1. Na prowadzenie przez przedsiębiorców działalności w zakresie:
-- **1)** zbierania i transportu, odzysku lub unieszkodliwiania odpadów komunalnych,
-- **2)** opróżniania zbiorników bezodpływowych i transportu nieczystości ciekłych,
-- **3)** ochrony przed bezdomnymi zwierzętami,
-- **4)** prowadzenia schronisk dla bezdomnych zwierząt, a także grzebowisk i spalarni zwłok zwierzęcych i ich części – wymagane jest uzyskanie zezwolenia.
-
-2. Zezwolenie może być wydane na wniosek przedsiębiorcy, który posiada środki techniczne odpowiednie do zakresu działalności, o której mowa w ust. 1.
-
-3. Zarząd gminy określa i podaje do publicznej wiadomości wymagania, jakie powinien spełniać przedsiębiorca ubiegający się o uzyskanie zezwolenia na świadczenie usług określonych w ust. 1. Zarząd gminy może określić obszar, na którym usługi te mają być świadczone.
-
-4. W przypadku określenia przez zarząd gminy, na której części gminy usługi mogą być świadczone, wybór podmiotu świadczącego te usługi na danym terenie następuje w drodze przetargu publicznego.
-
-5. Gminne jednostki organizacyjne prowadzące na obszarze własnej gminy działalność, o której mowa w ust. 1, na zasadach określonych w ustawie nie mają obowiązku uzyskania zezwoleń, o których mowa w ust. 1, ale muszą spełniać warunki wymagane przy udzielaniu takich zezwoleń. Gminną jednostką organizacyjną w rozumieniu przepisu jest także spółka prawa handlowego, w której gmina posiada przeważające udziały.
-
-6. Zezwolenia, o którym mowa w ust. 1, udziela, w drodze decyzji, wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce świadczenia usług.”;
-
+- **5)** art. 5 i 6 otrzymują brzmienie: „Art. 5. 1. Właściciele nieruchomości zapewniają utrzymanie czystości i porządku przez: 1) wyposażenie nieruchomości w urządzenia służące do zbierania odpadów komunalnych oraz utrzymywanie tych urządzeń w odpowiednim stanie sanitarnym, porządkowym i technicznym, 2) przyłączenie nieruchomości do istniejącej sieci kanalizacyjnej lub, w przypadku gdy budowa sieci kanalizacyjnej jest technicznie lub ekonomicznie nieuzasadniona, wyposażenie nieruchomości w zbiornik bezodpływowy nieczystości ciekłych lub w przydomową oczyszczalnię ścieków bytowych, spełniające wymagania określone w przepisach odrębnych; przyłączenie nieruchomości do sieci kanalizacyjnej nie jest obowiązkowe, jeżeli nieruchomość jest wyposażona w przydomową oczyszczalnię ścieków spełniającą wymagania określone w przepisach odrębnych, 3) zbieranie powstałych na terenie nieruchomości odpadów komunalnych zgodnie z wymaganiami określonymi w uchwale rady gminy, o której mowa w art. 4, oraz pozbywanie się tych odpadów w sposób zgodny z przepisami ustawy i przepisami odrębnymi; obowiązek ma odpowiednie zastosowanie także w przypadku gromadzenia nieczystości płynnych w zbiornikach bezodpływowych, 4) uprzątnięcie błota, śniegu, lodu i innych zanieczyszczeń z chodników położonych wzdłuż nieruchomości, przy czym za taki chodnik uznaje się wydzieloną część drogi publicznej służącą dla ruchu pieszego położoną bezpośrednio przy granicy nieruchomości; właściciel nieruchomości nie jest obowiązany do uprzątnięcia chodnika, na którym jest dopuszczony płatny postój lub parkowanie pojazdów samochodowych, 5) realizację innych obowiązków określonych w uchwale rady gminy, o której mowa w art. 4. 2. Wykonywanie obowiązków, o których mowa w ust. 1, na terenie budowy należy do kierownika budowy. 3. Uprzątnięcie i pozbycie się błota, śniegu, lodu i innych zanieczyszczeń z przystanków komunikacyjnych oraz z wydzielonych krawężnikiem lub oznakowaniem poziomym torowisk pojazdów szynowych należy do obowiązków przedsiębiorców użytkujących tereny służące komunikacji publicznej. 4. Obowiązki utrzymania czystości i porządku na drogach publicznych należą do zarządu drogi. Do obowiązków zarządu drogi należy także: 1) zbieranie i pozbywanie się odpadów zgromadzonych w urządzeniach do tego przeznaczonych i utrzymanie tych urządzeń w odpowiednim stanie sanitarnym, porządkowym i technicznym, 2) pozbycie się błota, śniegu, lodu i innych zanieczyszczeń uprzątniętych z chodników przez właścicieli nieruchomości przyległych do drogi publicznej, 3) uprzątnięcie i pozbycie się błota, śniegu, lodu i innych zanieczyszczeń z chodników, jeżeli zarząd drogi pobiera opłaty z tytułu postoju lub parkowania pojazdów samochodowych na takim chodniku. 5. Obowiązki utrzymania czystości i porządku na terenach innych niż wymienione w ust. 1 – 4 należą do gminy. Do obowiązków gminy należy także uprzątnięcie i pozbycie się błota, śniegu, lodu i innych zanieczyszczeń z chodników, jeżeli gmina pobiera opłaty z tytułu postoju lub parkowania pojazdów samochodowych na takim chodniku oraz zbieranie i pozbycie się odpadów zgromadzonych w urządzeniach do tego przeznaczonych umieszczonych na tym chodniku i utrzymanie tych urządzeń w odpowiednim stanie sanitarnym, porządkowym i technicznym. 6. Nadzór nad realizacją obowiązków określonych w ust. 1–4 sprawuje wójt, burmistrz lub prezydent miasta. Wykonanie tych obowiązków podlega egzekucji administracyjnej. Art. 6. 1. Właściciele nieruchomości przy wykonywaniu obowiązku określonego w art. 5 ust. 1 pkt 3 obowiązani są do udokumentowania korzystania z usług wykonywanych przez zakład będący gminną jednostką organizacyjną lub przedsiębiorcę posiadającego zezwolenie na prowadzenie działalności w zakresie zbierania, transportu, odzysku lub unieszkodliwiania odpadów komunalnych lub w zakresie opróżniania zbiorników bezodpływowych i transportu nieczystości ciekłych, przez okazanie umowy i dowodów płacenia za takie usługi. 2. Rada gminy może ustalić, w drodze uchwały, górne stawki opłat ponoszonych przez właścicieli nieruchomości za usługi, o których mowa w ust. 1. 3. W przypadku gdy właściciele nieruchomości nie udokumentują korzystania z usług, o których mowa w ust. 1, obowiązki określone w art. 5 ust. 1 przejmuje w trybie wykonania zastępczego gmina. 4. Rada gminy ustalając stawki opłat, o których mowa w ust. 2, stosuje niższe stawki, jeżeli odpady komunalne są zbierane i transportowane w sposób selektywny. 5. Przepisów ust. 1–4 nie stosuje się do obiektów wykorzystywanych do celów wojskowych oraz jednostek organizacyjnych Służby Więziennej, w zakresie zbierania, transportu, odzysku lub unieszkodliwiania odpadów komunalnych.”;
+- **6)** po art. 6 dodaje się art. 6a i 6b w brzmieniu: „Art. 6a. 1. Rada gminy może w drodze uchwały, na podstawie akceptacji mieszkańców wyrażonej w przeprowadzonym uprzednio referendum gminnym, przejąć od właścicieli nieruchomości wszystkie lub wskazane obowiązki, o których mowa w art. 5 ust. 1 pkt 1, 3 i 4. 2. Przejmując obowiązki rada gminy ustala opłatę ponoszoną przez właścicieli nieruchomości za wykonywanie przejętych obowiązków. 3. Opłata, o której mowa w ust. 2, jest ustalana w sposób zryczałtowany za okresowe pozbywanie się określonej ilości wskazanego rodzaju odpadów komunalnych lub nieczystości ciekłych. Wysokość opłaty jest uzależniona od faktycznych kosztów ponoszonych przez gminę z tytułu zorganizowania i funkcjonowania systemu zbierania, transportu, odzysku i unieszkodliwiania odpadów komunalnych lub nieczystości ciekłych. Przy ustalaniu stawki opłat stosuje się art. 6 ust. 4. Art. 6b. Ustalając opłaty, o których mowa w art. 6a, rada gminy określa terminy ich uiszczania. Opłaty nieuiszczone w wyznaczonym terminie podlegają przymusowemu ściągnięciu w trybie określonym w przepisach o postępowaniu egzekucyjnym w administracji.”;
+- **7)** art. 7 otrzymuje brzmienie: „Art. 7. 1. Na prowadzenie przez przedsiębiorców działalności w zakresie: 1) zbierania i transportu, odzysku lub unieszkodliwiania odpadów komunalnych, 2) opróżniania zbiorników bezodpływowych i transportu nieczystości ciekłych, 3) ochrony przed bezdomnymi zwierzętami, 4) prowadzenia schronisk dla bezdomnych zwierząt, a także grzebowisk i spalarni zwłok zwierzęcych i ich części – wymagane jest uzyskanie zezwolenia. 2. Zezwolenie może być wydane na wniosek przedsiębiorcy, który posiada środki techniczne odpowiednie do zakresu działalności, o której mowa w ust. 1. 3. Zarząd gminy określa i podaje do publicznej wiadomości wymagania, jakie powinien spełniać przedsiębiorca ubiegający się o uzyskanie zezwolenia na świadczenie usług określonych w ust. 1. Zarząd gminy może określić obszar, na którym usługi te mają być świadczone. 4. W przypadku określenia przez zarząd gminy, na której części gminy usługi mogą być świadczone, wybór podmiotu świadczącego te usługi na danym terenie następuje w drodze przetargu publicznego. 5. Gminne jednostki organizacyjne prowadzące na obszarze własnej gminy działalność, o której mowa w ust. 1, na zasadach określonych w ustawie nie mają obowiązku uzyskania zezwoleń, o których mowa w ust. 1, ale muszą spełniać warunki wymagane przy udzielaniu takich zezwoleń. Gminną jednostką organizacyjną w rozumieniu przepisu jest także spółka prawa handlowego, w której gmina posiada przeważające udziały. 6. Zezwolenia, o którym mowa w ust. 1, udziela, w drodze decyzji, wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce świadczenia usług.”;
 - **8)** w art. 8:
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Wniosek o udzielenie zezwolenia powinien zawierać:
+    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Wniosek o udzielenie zezwolenia powinien zawierać: 1) imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby przedsiębiorcy ubiegającego się o zezwolenie, 2) określenie przedmiotu i obszaru działalności, 3) określenie środków technicznych, jakimi dysponuje ubiegający się o zezwolenie na prowadzenie działalności objętej wnioskiem, 4) informacje o technologiach stosowanych lub przewidzianych do stosowania przy świadczeniu usług w zakresie działalności objętej wnioskiem, 5) proponowane zabiegi z zakresu ochrony środowiska i ochrony sanitarnej planowane po zakończeniu działalności, 6) określenie terminu podjęcia działalności objętej wnioskiem oraz zamierzonego czasu jej prowadzenia. 2. Przedsiębiorca ubiegający się wyłącznie o zezwolenie na zbieranie i transport odpadów komunalnych powinien udokumentować gotowość ich odbioru przez przedsiębiorcę prowadzącego działalność w zakresie odzysku lub unieszkodliwiania odpadów.”,
+    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Przedsiębiorca ubiegający się wyłącznie o zezwolenie na opróżnianie zbiorników bezodpływowych i transport nieczystości ciekłych powinien udokumentować gotowość ich odbioru przez stację zlewną.”,
+    - **c)** ust. 3 otrzymuje brzmienie: „3. Przedsiębiorca ubiegający się o zezwolenie na odzysk lub unieszkodliwianie odpadów komunalnych powinien dołączyć do wniosku informację o miejscu odzysku lub unieszkodliwiania odpadów oraz udokumentować prawo do terenu, na którym prowadzona ma być ta działalność.”;
 
-- **1)** imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby przedsiębiorcy ubiegającego się o zezwolenie,
-- **2)** określenie przedmiotu i obszaru działalności,
-- **3)** określenie środków technicznych, jakimi dysponuje ubiegający się o zezwolenie na prowadzenie działalności objętej wnioskiem,
-- **4)** informacje o technologiach stosowanych lub przewidzianych do stosowania przy świadczeniu usług w zakresie działalności objętej wnioskiem,
-- **5)** proponowane zabiegi z zakresu ochrony środowiska i ochrony sanitarnej planowane po zakończeniu działalności,
-- **6)** określenie terminu podjęcia działalności objętej wnioskiem oraz zamierzonego czasu jej prowadzenia.
-
-2. Przedsiębiorca ubiegający się wyłącznie o zezwolenie na zbieranie i transport odpadów komunalnych powinien udokumentować gotowość ich odbioru przez przedsiębiorcę prowadzącego działalność w zakresie odzysku lub unieszkodliwiania odpadów.”,
-
-- **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Przedsiębiorca ubiegający się wyłącznie o zezwolenie na opróżnianie zbiorników bezodpływowych i transport nieczystości ciekłych powinien udokumentować gotowość ich odbioru przez stację zlewną.”,
-- **c)** ust. 3 otrzymuje brzmienie: „3. Przedsiębiorca ubiegający się o zezwolenie na odzysk lub unieszkodliwianie odpadów komunalnych powinien dołączyć do wniosku informację o miejscu odzysku lub unieszkodliwiania odpadów oraz udokumentować prawo do terenu, na którym prowadzona ma być ta działalność.”;
 - **9)** w art. 9:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Zezwolenie powinno określać:
-
-- **1)** imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby przedsiębiorcy,
-- **2)** przedmiot i obszar działalności objętej zezwoleniem,
-- **3)** termin podjęcia działalności,
-- **4)** wymagania w zakresie jakości usług objętych zezwoleniem,
-- **5)** niezbędne zabiegi z zakresu ochrony środowiska i ochrony sanitarnej wymagane po zakończeniu działalności objętej zezwoleniem,
-- **6)** inne wymagania szczególne wynikające z odrębnych przepisów, w tym wymagania dotyczące standardu sanitarnego wykonywania usług, ochrony środowiska i obowiązku prowadzenia odpowiedniej dokumentacji działalności objętej zezwoleniem.”,
-    - **b)** po ust. 1 dodaje się ust. 1a–1c w brzmieniu: „1a. Zezwolenie na zbieranie i transport odpadów komunalnych lub opróżnianie zbiorników bezodpływowych i transport nieczystości ciekłych, powinno określać dodatkowo miejsca odzysku lub unieszkodliwiania odpadów komunalnych lub nieczystości ciekłych.
-
-1b. Zezwolenie wydaje się na czas oznaczony, nie dłuższy niż 10 lat.
-
-1c. Właściwy organ odmówi wydania zezwolenia, o którym mowa w art. 7 ust. 1, jeżeli zamierzony sposób gospodarowania odpadami lub nieczystościami płynnymi:
-
-- **1)** jest niezgodny z wymaganiami ustawy i przepisami odrębnymi,
-- **2)** mógłby powodować zagrożenie dla życia lub zdrowia ludzi lub środowiska,
-- **3)** jest niezgodny z gminnym planem gospodarki odpadami.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Zezwolenie powinno określać: 1) imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby przedsiębiorcy, 2) przedmiot i obszar działalności objętej zezwoleniem, 3) termin podjęcia działalności, 4) wymagania w zakresie jakości usług objętych zezwoleniem, 5) niezbędne zabiegi z zakresu ochrony środowiska i ochrony sanitarnej wymagane po zakończeniu działalności objętej zezwoleniem, 6) inne wymagania szczególne wynikające z odrębnych przepisów, w tym wymagania dotyczące standardu sanitarnego wykonywania usług, ochrony środowiska i obowiązku prowadzenia odpowiedniej dokumentacji działalności objętej zezwoleniem.”,
+    - **b)** po ust. 1 dodaje się ust. 1a–1c w brzmieniu: „1a. Zezwolenie na zbieranie i transport odpadów komunalnych lub opróżnianie zbiorników bezodpływowych i transport nieczystości ciekłych, powinno określać dodatkowo miejsca odzysku lub unieszkodliwiania odpadów komunalnych lub nieczystości ciekłych. 1b. Zezwolenie wydaje się na czas oznaczony, nie dłuższy niż 10 lat. 1c. Właściwy organ odmówi wydania zezwolenia, o którym mowa w art. 7 ust. 1, jeżeli zamierzony sposób gospodarowania odpadami lub nieczystościami płynnymi: 1) jest niezgodny z wymaganiami ustawy i przepisami odrębnymi, 2) mógłby powodować zagrożenie dla życia lub zdrowia ludzi lub środowiska, 3) jest niezgodny z gminnym planem gospodarki odpadami.”,
     - **c)** w ust. 2 użyty dwukrotnie wyraz „podmiot” zastępuje się wyrazem „przedsiębiorca”,
     - **d)** w ust. 3 wyraz „podmiotu” zastępuje się wyrazem „przedsiębiorcy”;
 
@@ -957,11 +539,7 @@ source: pdf
 **Art. 54.** W ustawie z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierających azbest (Dz. U. Nr 101, poz. 628, z 1998 r. Nr 156, poz. 1018 oraz z 2000 r. Nr 88, poz. 986) w art. 4:
 
 - **a)** ust. 1 otrzymuje brzmienie: „1. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw środowiska, określi, w drodze rozporządzenia, sposoby i warunki bezpiecznego usuwania wyrobów zawierających azbest.”;
-- **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W rozporządzeniu, o którym mowa w ust. 1, ustala się:
-- **1)** obowiązki wykonawcy prac polegających na usuwaniu wyrobów zawierających azbest,
-- **2)** sposoby i warunki usuwania wyrobów zawierających azbest z uwzględnieniem zabezpieczeń przed przenikaniem azbestu do środowiska,
-- **3)** warunki przygotowania do transportu i transportu wyrobów i odpadów zawierających azbest do miejsca ich składowania z uwzględnieniem zabezpieczeń przed przenikaniem azbestu do środowiska,
-- **4)** wymagania, jakim powinno odpowiadać oznakowanie wyrobów i odpadów zawierających azbest.”.
+- **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W rozporządzeniu, o którym mowa w ust. 1, ustala się: 1) obowiązki wykonawcy prac polegających na usuwaniu wyrobów zawierających azbest, 2) sposoby i warunki usuwania wyrobów zawierających azbest z uwzględnieniem zabezpieczeń przed przenikaniem azbestu do środowiska, 3) warunki przygotowania do transportu i transportu wyrobów i odpadów zawierających azbest do miejsca ich składowania z uwzględnieniem zabezpieczeń przed przenikaniem azbestu do środowiska, 4) wymagania, jakim powinno odpowiadać oznakowanie wyrobów i odpadów zawierających azbest.”.
 
 **Art. 55.** W ustawie z dnia 12 maja 2000 r. o zasadach wspierania rozwoju regionalnego (Dz. U. Nr 48, poz. 550, Nr 95, poz. 1041 i Nr 109, poz. 1158 oraz z 2001 r. Nr 45, poz.
 

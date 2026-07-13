@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001766) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1766/text.pdf) |
 
 zmieniające rozporządzenie w sprawie urzędów celno-skarbowych oraz podległych im oddziałów celnych, w których są dokonywane czynności przewidziane przepisami prawa celnego w zależności od rodzaju towarów lub procedur celnych, którymi mogą być obejmowane towary Na podstawie art. 17 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2024 r. poz. 1373) zarządza się, co stępuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. w sprawie urzędów celno-skarbowych oraz podległych im oddziałów celnych, w których są dokonywane czynności przewidziane przepisami prawa celnego w leżności od rodzaju towarów lub procedur celnych, którymi mogą być obejmowane towary (Dz. U. z 2024 r. poz. 898) w łączniku nr 1 do rozporządzenia w lp. XI po pkt 6a dodaje się pkt 6b w brzmieniu: 6b Oddział Celny 401091 1,2,5,7 towary przywożone i wywożone w Malhowicach wyłącznie przez podróżnych
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: A. Domański
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Finansów z dnia 21 lutego 2017 r. w sprawie urzędów celno-skarbowych oraz podległych im oddziałów celnych, w których są dokonywane czynności przewidziane przepisami prawa celnego w leżności od rodzaju towarów lub procedur celnych, którymi mogą być obejmowane towary (Dz. U. z 2024 r. poz. 898) w łączniku nr 1 do rozporządzenia w lp. XI po pkt 6a dodaje się pkt 6b w brzmieniu: 6b Oddział Celny 401091 1,2,5,7 towary przywożone i wywożone w Malhowicach wyłącznie przez podróżnych
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: A. Domański
 

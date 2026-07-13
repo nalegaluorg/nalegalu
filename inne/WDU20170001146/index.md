@@ -31,13 +31,18 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia ministra spraw wewnętr
 rOzpOrzĄdzenie ministra spraw wewnętrznych i administracji z dnia 9 lutego 2016 r.
 w sprawie wzorów tablic umieszczanych w pasie drogi granicznej oraz sposobu ich utrzymywania przez właściwych miejscowo komendantów oddziałów straży Granicznej Na podstawie art. 9 ust. 7 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2017 r.
 poz. 660) zarządza się, co następuje:
-§ 1. 1. Ustala się wzór tablicy umieszczanej w pasie drogi granicznej na granicy państwowej stanowiącej granicę wewnętrzną w rozumieniu przepisów rozporządzenia (WE) nr 562/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. ustanawiającego wspólnotowy kodeks zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 105 z 13.04.2006, str. 1, z późn. zm. ) , z napisem „Granica państwa”, który jest określony w załączniku nr 1 do rozporządzenia.
-2. Ustala się wzór tablicy umieszczanej w pasie drogi granicznej na granicy państwowej stanowiącej granicę zewnętrzną w rozumieniu przepisów rozporządzenia (WE) nr 562/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r.
-ustanawiającego wspólnotowy kodeks zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) , z napisem „Granica państwa przekraczanie zabronione”, który jest określony w załączniku nr 2 do rozporządzenia.
+
+**§ 1.**
+
+1. Ustala się wzór tablicy umieszczanej w pasie drogi granicznej na granicy państwowej stanowiącej granicę wewnętrzną w rozumieniu przepisów rozporządzenia (WE) nr 562/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. ustanawiającego wspólnotowy kodeks zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 105 z 13.04.2006, str. 1, z późn. zm. ) , z napisem „Granica państwa”, który jest określony w załączniku nr 1 do rozporządzenia.
+
+2. Ustala się wzór tablicy umieszczanej w pasie drogi granicznej na granicy państwowej stanowiącej granicę zewnętrzną w rozumieniu przepisów rozporządzenia (WE) nr 562/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. ustanawiającego wspólnotowy kodeks zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) , z napisem „Granica państwa przekraczanie zabronione”, który jest określony w załączniku nr 2 do rozporządzenia.
+
 3. Ustala się wzór tablicy umieszczanej w pasie drogi granicznej w miejscach, w których jest wprowadzony zakaz przebywania, z napisem „Pas drogi granicznej wejście zabronione”, który jest określony w załączniku nr 3 do rozporządzenia.
-§ 2. Utrzymywanie tablic, o których mowa w § 1, przez właściwych miejscowo komendantów oddziałów Straży Granicznej polega na ich ustawianiu w dobrze widocznych miejscach, wymianie w razie uszkodzenia lub zniszczenia oraz na bieżącej konserwacji.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Spraw Wewnętrznych i Administracji z dnia 9 lutego 2016 r.
+
+**§ 2.** Utrzymywanie tablic, o których mowa w § 1, przez właściwych miejscowo komendantów oddziałów Straży Granicznej polega na ich ustawianiu w dobrze widocznych miejscach, wymianie w razie uszkodzenia lub zniszczenia oraz na bieżącej konserwacji.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Spraw Wewnętrznych i Administracji z dnia 9 lutego 2016 r.
 
 ## Załącznik nr 1 — WZÓR TABLICY UMIESZCZANEJ W PASIE DROGI GRANICZNEJ NA GRANICY WZÓR TABLICY PAŃSTWOWEJ UMIESZCZANEJ STANOWIĄCEJ W PASIE GRANICĘ DROGI WEWNĘTRZNĄ GRANICZNEJ NA GRANICY PAŃSTWOWEJ STANOWIĄCEJ GRANICĘ WEWNĘTRZNĄ GRANICA PAŃSTWA Tablica w kształcie prostokąta o wymiarach 500 × 650 mm, koloru żółtego, z czerwonym paskiem przy krawędzi o szerokości 30 mm i napisem koloru czarnego. Grubość liter – 10 mm, wysokość liter – 70 mm.
 

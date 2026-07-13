@@ -35,14 +35,7 @@ source: pdf
     - **c)** w pkt 6 wyraz „2” zastępuje się wyrazem „3”;
 
 - **2)** w art. 16 w § 3 zdanie drugie otrzymuje brzmienie: „Odwołanie następuje po zasięgnięciu opinii rady właściwej izby notarialnej wydanej na wniosek Ministra Sprawiedliwości, w terminie miesięcznym od daty wpływu wniosku. Bezskuteczny upływ tego terminu nie wstrzymuje rozpatrzenia odwołania.”;
-- **3)** po art. 19 dodaje się art. 19a i 19b w brzmieniu: „Art. 19a. Notariusz podlega obowiązkowemu ubezpieczeniu od odpowiedzialności cywilnej za szkody wyrządzone przy wykonywaniu czynności, o których mowa w art. 1 § 1.
-
-**Art. 19b.** Minister właściwy do spraw finansów publicznych po zasięgnięciu opinii Krajowej Rady Notarialnej i Polskiej Izby Ubezpieczeń, określi w drodze rozporządzenia, ogólne warunki ubezpieczenia, o którym mowa w art. 19a:
-
-- **1)** datę powstania obowiązku zawarcia umowy ubezpieczenia,
-- **2)** podstawowy zakres odpowiedzialności zakładu ubezpieczeń,
-- **3)** minimalną sumę gwarancyjną ubezpieczenia określoną kwotowo,
-- **4)** zakres praw i obowiązków ubezpieczonego i zakładu ubezpieczeń, wynikających z umowy ubezpieczenia.”;
+- **3)** po art. 19 dodaje się art. 19a i 19b w brzmieniu: „Art. 19a. Notariusz podlega obowiązkowemu ubezpieczeniu od odpowiedzialności cywilnej za szkody wyrządzone przy wykonywaniu czynności, o których mowa w art. 1 § 1. Art. 19b. Minister właściwy do spraw finansów publicznych po zasięgnięciu opinii Krajowej Rady Notarialnej i Polskiej Izby Ubezpieczeń, określi w drodze rozporządzenia, ogólne warunki ubezpieczenia, o którym mowa w art. 19a: 1) datę powstania obowiązku zawarcia umowy ubezpieczenia, 2) podstawowy zakres odpowiedzialności zakładu ubezpieczeń, 3) minimalną sumę gwarancyjną ubezpieczenia określoną kwotowo, 4) zakres praw i obowiązków ubezpieczonego i zakładu ubezpieczeń, wynikających z umowy ubezpieczenia.”;
 - **4)** w art. 35 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) nadzór nad wykonaniem obowiązkowego ubezpieczenia, o którym mowa w art. 19a,”;
 - **5)** w art. 44:
     - **a)** w § 1 po wyrazie „rady” dodaje się wyrazy „albo emerytowanych notariuszy”,
@@ -55,24 +48,7 @@ source: pdf
     - **a)** dotychczasową treść oznacza się jako § 1,
     - **b)** dodaje się § 2 w brzmieniu: „§2. Orzeczenie wraz z uzasadnieniem wydane przez Wyższy Sąd Dyscyplinarny doręcza się rzecznikowi dyscyplinarnemu, obwinionemu, Ministrowi Sprawiedliwości oraz Krajowej Radzie Notarialnej.”;
 
-- **10)** po art. 63 dodaje się art. 63a-63e w brzmieniu: „Art. 63a. §1. Od orzeczenia wydanego przez Wyższy Sąd Dyscyplinarny przysługuje obwinionemu, rzecznikowi dyscyplinarnemu, Ministrowi Sprawiedliwości, Rzecznikowi Praw Obywatelskich oraz Krajowej Radzie Notarialnej kasacja do Sądu Najwyższego.
-
-§ 2. Orzeczenie, od którego służy kasacja podmiotom, o których mowa w § 1, nie podlega wykonaniu do czasu wniesienia kasacji lub bezskutecznego upływu terminu do jej wniesienia.
-
-**Art. 63b.** Kasacja może być wniesiona z powodu rażącego naruszenia prawa, jak również rażącej niewspółmierności kary dyscyplinarnej.
-
-**Art. 63c.** Kasację wnosi się do Sądu Najwyższego za pośrednictwem sądu dyscyplinarnego drugiej instancji w terminie 30 dni od dnia doręczenia orzeczenia z uzasadnieniem.
-
-**Art. 63d.**
-
-§ 1. Od kasacji, o której mowa w art. 63a § 1, nie uiszcza się opłaty sądowej.
-
-§ 2. Orzeczenie, od którego wniesiono kasację, nie podlega wykonaniu do czasu rozpoznania kasacji.
-
-§ 3. Sąd Najwyższy rozpoznaje kasację na rozprawie w składzie trzech sędziów.
-
-**Art. 63e.** Do rozpoznania kasacji, o której mowa w art. 63a § 1, stosuje się odpowiednio przepisy Kodeksu postępowania karnego o kasacji, z wyłączeniem art. 526 § 2 oraz art. 530 § 2 i 3.”;
-
+- **10)** po art. 63 dodaje się art. 63a-63e w brzmieniu: „Art. 63a. §1. Od orzeczenia wydanego przez Wyższy Sąd Dyscyplinarny przysługuje obwinionemu, rzecznikowi dyscyplinarnemu, Ministrowi Sprawiedliwości, Rzecznikowi Praw Obywatelskich oraz Krajowej Radzie Notarialnej kasacja do Sądu Najwyższego. §2. Orzeczenie, od którego służy kasacja podmiotom, o których mowa w § 1, nie podlega wykonaniu do czasu wniesienia kasacji lub bezskutecznego upływu terminu do jej wniesienia. Art. 63b. Kasacja może być wniesiona z powodu rażącego naruszenia prawa, jak również rażącej niewspółmierności kary dyscyplinarnej. Art. 63c. Kasację wnosi się do Sądu Najwyższego za pośrednictwem sądu dyscyplinarnego drugiej instancji w terminie 30 dni od dnia doręczenia orzeczenia z uzasadnieniem. Art. 63d. §1. Od kasacji, o której mowa w art. 63a § 1, nie uiszcza się opłaty sądowej. §2. Orzeczenie, od którego wniesiono kasację, nie podlega wykonaniu do czasu rozpoznania kasacji. §3. Sąd Najwyższy rozpoznaje kasację na rozprawie w składzie trzech sędziów. Art. 63e. Do rozpoznania kasacji, o której mowa w art. 63a § 1, stosuje się odpowiednio przepisy Kodeksu postępowania karnego o kasacji, z wyłączeniem art. 526 § 2 oraz art. 530 § 2 i 3.”;
 - **11)** w art. 65 w § 2 wyraz „wyroku” zastępuje się wyrazem „orzeczenia”;
 - **12)** skreśla się art. 66;
 - **13)** w art. 71:

@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo podatkowe**.
 
-Łącznie: **193** aktów
+Łącznie: **195** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -33,7 +33,9 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20250000894](WDU20250000894/index.md) | Ustawa z dnia 24 czerwca 2025 r. o zmianie ustawy o Krajowej Administracji  | Ustawa | obowiązujący |  |
 | [WDU20250000775](WDU20250000775/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 maja 2025 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000497](WDU20250000497/index.md) | Ustawa z dnia 4 kwietnia 2025 r. o zmianie ustawy - Ordynacja podatkowa ora | Ustawa | obowiązujący |  |
+| [WDU20250000231](WDU20250000231/index.md) | Rozporządzenie Ministra Finansów z dnia 21 lutego 2025 r. w sprawie wzorów  | Rozporządzenie | obowiązujący |  |
 | [WDU20250000222](WDU20250000222/index.md) | Ustawa z dnia 24 stycznia 2025 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący |  |
+| [WDU20250000131](WDU20250000131/index.md) | Rozporządzenie Ministra Finansów z dnia 27 stycznia 2025 r. w sprawie wzoró | Rozporządzenie | obowiązujący |  |
 | [WDU20240001861](WDU20240001861/index.md) | Rozporządzenie Ministra Finansów z dnia 13 grudnia 2024 r. w sprawie zwolni | Rozporządzenie | obowiązujący |  |
 | [WDU20240001721](WDU20240001721/index.md) | Ustawa z dnia 8 listopada 2024 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący |  |
 | [WDU20240001593](WDU20240001593/index.md) | Ustawa z dnia 27 września 2024 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
@@ -44,6 +46,7 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20230001598](WDU20230001598/index.md) | Ustawa z dnia 16 czerwca 2023 r. o zmianie ustawy o podatku od towarów i us | Ustawa | obowiązujący |  |
 | [WDU20230001414](WDU20230001414/index.md) | Ustawa z dnia 16 czerwca 2023 r. zmieniająca ustawę o zmianie ustawy o poda | Ustawa | obowiązujący |  |
 | [WDU20230001059](WDU20230001059/index.md) | Ustawa z dnia 26 maja 2023 r. o zmianie ustawy o podatku od towarów i usług | Ustawa | obowiązujący |  |
+| [WDU20230001009](WDU20230001009/index.md) | Rozporządzenie Ministra Finansów z dnia 10 maja 2023 r. w sprawie wzoru dek | Rozporządzenie | obowiązujący |  |
 | [WDU20230000996](WDU20230000996/index.md) | Ustawa z dnia 14 kwietnia 2023 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący |  |
 | [WDU20230000511](WDU20230000511/index.md) | Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o dostępności cyfrowej stron | Ustawa | obowiązujący |  |
 | [WDU20220002433](WDU20220002433/index.md) | Ustawa z dnia 4 listopada 2022 r. o zmianie ustawy o wspieraniu rozwoju obs | Ustawa | obowiązujący |  |
@@ -65,6 +68,7 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20200001188](WDU20200001188/index.md) | Rozporządzenie Ministra Finansów z dnia 1 lipca 2020 r. w sprawie wzoru zaw | Rozporządzenie | obowiązujący |  |
 | [WDU20200001106](WDU20200001106/index.md) | Ustawa z dnia 28 maja 2020 r. o zmianie ustawy o podatku dochodowym od osób | Ustawa | obowiązujący |  |
 | [WDU20200001065](WDU20200001065/index.md) | Ustawa z dnia 5 czerwca 2020 r. o zmianie ustawy o podatku dochodowym od os | Ustawa | obowiązujący |  |
+| [WDU20200000907](WDU20200000907/index.md) | Rozporządzenie Ministra Finansów z dnia 19 maja 2020 r. w sprawie deklaracj | Rozporządzenie | obowiązujący |  |
 | [WDU20200000183](WDU20200000183/index.md) | Ustawa z dnia 20 grudnia 2019 r. o zmianie ustawy o podatku dochodowym od o | Ustawa | obowiązujący |  |
 | [WDU20200000179](WDU20200000179/index.md) | Ustawa z dnia 9 stycznia 2020 r. o zmianie ustawy o podatku dochodowym od o | Ustawa | obowiązujący |  |
 | [WDU20190001835](WDU20190001835/index.md) | Ustawa z dnia 30 sierpnia 2019 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
@@ -119,7 +123,7 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20130001387](WDU20130001387/index.md) | Ustawa z dnia 8 listopada 2013 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
 | [WDU20130001145](WDU20130001145/index.md) | Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy - Ordynacja podatkowa or | Ustawa | obowiązujący |  |
 | [WDU20130001027](WDU20130001027/index.md) | Ustawa z dnia 26 lipca 2013 r. o zmianie ustawy o podatku od towarów i usłu | Ustawa | obowiązujący |  |
-| [WDU20130000035](WDU20130000035/index.md) | Ustawa z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku od towarów i usł | Ustawa | obowiązujący | [tak](WDU20130000035/orzecznictwo.md) |
+| [WDU20130000035](WDU20130000035/index.md) | Ustawa z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku od towarów i usł | Ustawa | obowiązujący |  |
 | [WDU20120001530](WDU20120001530/index.md) | Ustawa z dnia 12 grudnia 2012 r. o zmianie ustawy o finansach publicznych o | Ustawa | obowiązujący |  |
 | [WDU20120001278](WDU20120001278/index.md) | Ustawa z dnia 24 października 2012 r. o zmianie ustawy o podatku dochodowym | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU20112341389](WDU20112341389/index.md) | Ustawa z dnia 16 września 2011 r. o zmianie ustawy o funduszach inwestycyjn | Ustawa | obowiązujący |  |
@@ -172,7 +176,6 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20022001684](WDU20022001684/index.md) | Ustawa z dnia 30 października 2002 r. o zmianie ustawy o podatku dochodowym | Ustawa | obowiązujący |  |
 | [WDU20021811515](WDU20021811515/index.md) | Ustawa z dnia 11 października 2002 r. o zmianie ustawy o zaopatrzeniu inwal | Ustawa | obowiązujący | [tak](WDU20021811515/orzecznictwo.md) |
 | [WDU20021691387](WDU20021691387/index.md) | Ustawa z dnia 12 września 2002 r. o zmianie ustawy - Ordynacja podatkowa or | Ustawa | obowiązujący | [tak](WDU20021691387/orzecznictwo.md) |
-| [WDU20021691384](WDU20021691384/index.md) | Ustawa z dnia 30 sierpnia 2002 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
 | [WDU20021411182](WDU20021411182/index.md) | Ustawa z dnia 27 lipca 2002 r. o zmianie ustawy o podatku dochodowym od osó | Ustawa | obowiązujący | [tak](WDU20021411182/orzecznictwo.md) |
 | [WDU20021411179](WDU20021411179/index.md) | Ustawa z dnia 27 lipca 2002 r. o zmianie ustawy o podatku dochodowym od osó | Ustawa | obowiązujący |  |
 | [WDU20011341509](WDU20011341509/index.md) | Ustawa z dnia 21 listopada 2001 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący | [tak](WDU20011341509/orzecznictwo.md) |
@@ -196,8 +199,7 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU19961370638](WDU19961370638/index.md) | Ustawa z dnia 21 listopada 1996 r. o zmianie ustawy o podatku dochodowym od | Ustawa | akt objęty tekstem jednolitym | [tak](WDU19961370638/orzecznictwo.md) |
 | [WDU19951420704](WDU19951420704/index.md) | Ustawa z dnia 13 października 1995 r. o zmianie ustawy o podatku dochodowym | Ustawa | obowiązujący |  |
 | [WDU19941260626](WDU19941260626/index.md) | Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 19 listopada 1994 r. | Obwieszczenie | obowiązujący |  |
-| [WDU19940870406](WDU19940870406/index.md) | Ustawa z dnia 28 maja 1994 r. o zmianie ustawy o podatku dochodowym od osób | Ustawa | obowiązujący |  |
 | [WDU19920210086](WDU19920210086/index.md) | Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych | Ustawa | akt posiada tekst jednolity | [tak](WDU19920210086/orzecznictwo.md) |
 | [WDU19910800350](WDU19910800350/index.md) | Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. | Ustawa | akt posiada tekst jednolity | [tak](WDU19910800350/orzecznictwo.md) |
 
-*193 aktów • [← Powrót do spisu głównego](../README.md)*
+*195 aktów • [← Powrót do spisu głównego](../README.md)*

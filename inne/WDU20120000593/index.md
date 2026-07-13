@@ -28,10 +28,11 @@ source: pdf
 Warszawa, dnia 28 maja 2012 v r.
 Poz. 593 o ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 23 g maja 2012 r.
 zmieniające rozporządzenie w sprawie wynagrodzenia i ryczałtu członków Rady do Spraw Uchodźców Na podstawie art. 89za ust. 2 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2009 r. Nr 189, poz. . 1472, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów l z dnia 27 listopada 2008 r. w sprawie wynagrodzenia i ryczałtu członków Rady do Spraw Uchodźców (Dz. U. Nr 215, poz. 1360 oraz z 2009 r. Nr 33, poz. 257) wprowadza się następujące zmiany: c
-1) w § 2 pkt 3 otrzymuje brzmienie: „3) 700 zł – dla członka Rady.”;
-2) w § 4 ust. 1 otrzymuje brzmienie: r „1. Wynagrodzenie za udział w posiedzeniu składu orzekającego wynosi 250 zł.”.
-.
-§ 2. Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia.
-w Prezes Rady Ministrów: D. Tusk w w
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów l z dnia 27 listopada 2008 r. w sprawie wynagrodzenia i ryczałtu członków Rady do Spraw Uchodźców (Dz. U. Nr 215, poz. 1360 oraz z 2009 r. Nr 33, poz. 257) wprowadza się następujące zmiany: c
+
+- **1)** w § 2 pkt 3 otrzymuje brzmienie: „3) 700 zł – dla członka Rady.”;
+- **2)** w § 4 ust. 1 otrzymuje brzmienie: r „1. Wynagrodzenie za udział w posiedzeniu składu orzekającego wynosi 250 zł.”. .
+
+**§ 2.** Rozporządzenie wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. w Prezes Rady Ministrów: D. Tusk w w
 

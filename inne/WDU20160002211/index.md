@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie prowadzenia katalogu marek i typów pojazdów homologowanych oraz dopuszczonych do ruchu na terytorium Rzeczypospolitej Polskiej Na podstawie art. 80bh ust. 9 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2012 r.
 poz. 1137, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Cyfryzacji z dnia 7 kwietnia 2016 r. w sprawie prowadzenia katalogu marek i typów pojazdów homologowanych oraz dopuszczonych do ruchu na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 483) § 7 otrzymuje brzmienie: „§ 7. Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
-Minister Cyfryzacji: A. Streżyńska
+
+**§ 1.** W rozporządzeniu Ministra Cyfryzacji z dnia 7 kwietnia 2016 r. w sprawie prowadzenia katalogu marek i typów pojazdów homologowanych oraz dopuszczonych do ruchu na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 483) § 7 otrzymuje brzmienie: „§ 7. Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r. Minister Cyfryzacji: A. Streżyńska
 

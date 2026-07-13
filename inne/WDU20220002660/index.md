@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002660) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2660/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zaniechania poboru podatku dochodowego od niektórych dochodów spółek kapitałowych powstałych z przekształcenia samodzielnych publicznych zakładów opieki zdrowotnej Na podstawie art. 22 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 23 grudnia 2019 r. w sprawie zaniechania poboru podatku dochodowego od niektórych dochodów spółek kapitałowych powstałych z przekształcenia samodzielnych publicznych zakładów opieki zdrowotnej (Dz. U. z 2020 r. poz. 12) w § 3 wyrazy „do dnia 31 grudnia 2022 r.” zastępuje się wyrazami „do dnia 31 grudnia 2025 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: M. Rzeczkowska
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 23 grudnia 2019 r. w sprawie zaniechania poboru podatku dochodowego od niektórych dochodów spółek kapitałowych powstałych z przekształcenia samodzielnych publicznych zakładów opieki zdrowotnej (Dz. U. z 2020 r. poz. 12) w § 3 wyrazy „do dnia 31 grudnia 2022 r.” zastępuje się wyrazami „do dnia 31 grudnia 2025 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: M. Rzeczkowska
 

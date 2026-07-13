@@ -11,7 +11,7 @@ domain: null
 source: pdf
 ---
 
-# sygn. akt K. 34/98 Trybunał Konstytucyjny w składzie: Ferdynand Rymarz – przewodniczący, Lech Garlicki, Stefan J.Jaworski, Wiesław Johann, Marek Safjan – sprawozdawca, po rozpoznaniu w dniu 2 czerwca 1999 r. na rozprawie wniosku Rzecznika Praw Obywatelskich, z udziałem umocowanych przedstawicieli uczestników postępowania: wnioskodawcy, Sejmu Rzeczypospolitej Polskiej, Ministra Obrony Narodowej i Prokuratora Generalnego, w sprawie zgodności art. 42 ust. 4 ustawy z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz.U. Nr 86, poz. 433, z 1996 r.
+# Wyrok Trybunału Konstytucyjnego z dnia 2 czerwca 1999 r. sygn. akt K. 34/98.
 
 | Pole | Wartość |
 |---|---|

@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001899) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1899/text.pdf) |
 
 zmieniające rozporządzenie w sprawie trybu postępowania w sprawach nieodpłatnego przedstawiania w programach publicznych nadawców radiowych i telewizyjnych informacji, wyjaśnień i komunikatów Państwowej Komisji Wyborczej oraz komisarzy wyborczych związanych z zarządzonymi wyborami oraz obowiązującymi w danych wyborach przepisami prawnymi Na podstawie art. 122 § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2022 r. poz. 1277 i 2418 oraz z 2023 r. poz. 497) zarządza się, co następuje:
-§ 1. W rozporządzeniu Krajowej Rady Radiofonii i Telewizji z dnia 12 lipca 2011 r. w sprawie trybu postępowania w sprawach nieodpłatnego przedstawiania w programach publicznych nadawców radiowych i telewizyjnych informacji, wyjaśnień i komunikatów Państwowej Komisji Wyborczej oraz komisarzy wyborczych związanych z zarządzonymi wyborami oraz obowiązującymi w danych wyborach przepisami prawnymi (Dz. U. poz. 916) w § 6 uchyla się ust. 2.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Przewodniczący Krajowej Rady Radiofonii i Telewizji: M. Świrski
+
+**§ 1.** W rozporządzeniu Krajowej Rady Radiofonii i Telewizji z dnia 12 lipca 2011 r. w sprawie trybu postępowania w sprawach nieodpłatnego przedstawiania w programach publicznych nadawców radiowych i telewizyjnych informacji, wyjaśnień i komunikatów Państwowej Komisji Wyborczej oraz komisarzy wyborczych związanych z zarządzonymi wyborami oraz obowiązującymi w danych wyborach przepisami prawnymi (Dz. U. poz. 916) w § 6 uchyla się ust. 2.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia. Przewodniczący Krajowej Rady Radiofonii i Telewizji: M. Świrski
 

@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001949) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1949/text.pdf) |
 
 zmieniające rozporządzenie w sprawie kryteriów zaliczenia produktu leczniczego do poszczególnych kategorii dostępności Na podstawie art. 23 ust. 3 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 14 listopada 2008 r. w sprawie kryteriów zaliczenia produktu leczniczego do poszczególnych kategorii dostępności (Dz. U. Nr 206, poz. 1292) w § 1 uchyla się ust. 2.
-§ 2. Prezes Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych z urzędu dokonuje w pozwoleniu na dopuszczenie do obrotu produktu zmiany kategorii dostępności produktu leczniczego homeopatycznego, o którym mowa w art. 21 ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, zaliczonego przed dniem wejścia w życie niniejszego rozporządzenia do kategorii dostępności „wydawane z przepisu lekarza – Rp” na podstawie § 1 ust. 2 rozporządzenia, o którym mowa w § 1 niniejszego rozporządzenia, niespełniającego warunków, o których mowa w § 1 ust. 1 rozporządzenia, o którym mowa w § 1 niniejszego rozporządzenia, na kategorię dostępności „produkt leczniczy wydawany bez przepisu lekarza – OTC”.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: M. Zembala
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 14 listopada 2008 r. w sprawie kryteriów zaliczenia produktu leczniczego do poszczególnych kategorii dostępności (Dz. U. Nr 206, poz. 1292) w § 1 uchyla się ust. 2.
+
+**§ 2.** Prezes Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych z urzędu dokonuje w pozwoleniu na dopuszczenie do obrotu produktu zmiany kategorii dostępności produktu leczniczego homeopatycznego, o którym mowa w art. 21 ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, zaliczonego przed dniem wejścia w życie niniejszego rozporządzenia do kategorii dostępności „wydawane z przepisu lekarza – Rp” na podstawie § 1 ust. 2 rozporządzenia, o którym mowa w § 1 niniejszego rozporządzenia, niespełniającego warunków, o których mowa w § 1 ust. 1 rozporządzenia, o którym mowa w § 1 niniejszego rozporządzenia, na kategorię dostępności „produkt leczniczy wydawany bez przepisu lekarza – OTC”.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: M. Zembala
 

@@ -35,23 +35,33 @@ poz. 1773), z uwzględnieniem zmian wprowadzonych:
 2) § 2 i § 3 rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 24 października 2023 r. zmieniającego rozporządzenie w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 2346), które stanowią: „ § 2. Do spraw określonych w § 1 ust. 2 rozporządzenia zmienianego w § 1, w których skargi zostały wniesione przed dniem wejścia w życie niniejszego rozporządzenia i postępowanie nie zostało zakończone przed tym dniem, stosuje się przepisy rozporządzenia zmienianego § 1 w brzmieniu nadanym niniejszym rozporządzeniem, z wyjątkiem spraw, w których wyznaczono termin posiedzenia. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Prezydent Rzeczypospolitej Polskiej: A. Duda
 ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ z dnia 22 lutego 2017 r.
 w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania Szefa Krajowej Administracji Skarbowej, Dyrektora Krajowej Informacji Skarbowej, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego Na podstawie art. 13 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2023 r. poz. 1634, 1705 i 1860) zarządza się, co następuje:
-§ 1. 1. Rozpoznawanie spraw z zakresu działania:
-1) Dyrektora Krajowej Informacji Skarbowej dotyczących wydawania:
-a) w indywidualnych sprawach interpretacji przepisów prawa podatkowego (interpretacje indywidualne), o których mowa w art. 14b ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760),
-b) (uchylona),
-2) Prezesa Zakładu Ubezpieczeń Społecznych dotyczących:
-a) umorzenia, odroczenia terminu płatności lub rozłożenia na raty należności z tytułu składek, o których mowa w art. 28 i art. 29 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2024 r.
-poz. 497),
-b) zwolnienia z obowiązku opłacenia należności z tytułu składek, o których mowa w art. 31zo ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2024 r. poz. 340),
-3) Prezesa Kasy Rolniczego Ubezpieczenia Społecznego dotyczących umorzenia, odroczenia terminu płatności lub rozłożenia na raty należności z tytułu składek, o których mowa w art. 41a ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2024 r. poz. 90) – przekazuje się wojewódzkim sądom administracyjnym, na których obszarze właściwości strona skarżąca zamieszkuje lub ma siedzibę.
+
+**§ 1.**
+
+1. Rozpoznawanie spraw z zakresu działania:
+
+- **1)** Dyrektora Krajowej Informacji Skarbowej dotyczących wydawania:
+    - **a)** w indywidualnych sprawach interpretacji przepisów prawa podatkowego (interpretacje indywidualne), o których mowa w art. 14b ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760),
+    - **b)** (uchylona),
+
+- **2)** Prezesa Zakładu Ubezpieczeń Społecznych dotyczących: poz. 497),
+    - **a)** umorzenia, odroczenia terminu płatności lub rozłożenia na raty należności z tytułu składek, o których mowa w art. 28 i art. 29 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2024 r.
+    - **b)** zwolnienia z obowiązku opłacenia należności z tytułu składek, o których mowa w art. 31zo ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2024 r. poz. 340),
+
+- **3)** Prezesa Kasy Rolniczego Ubezpieczenia Społecznego dotyczących umorzenia, odroczenia terminu płatności lub rozłożenia na raty należności z tytułu składek, o których mowa w art. 41a ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2024 r. poz. 90) – przekazuje się wojewódzkim sądom administracyjnym, na których obszarze właściwości strona skarżąca zamieszkuje lub ma siedzibę.
+
 2. Rozpoznawanie spraw z zakresu działania:
-1) Dyrektora Krajowej Informacji Skarbowej dotyczących:
-a) wiążących informacji stawkowych, o których mowa w art. 42a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361),
-b) wiążących informacji akcyzowych, o których mowa w art. 7d ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2023 r. poz. 1542, 1598 i 1723),
-c) wiążących informacji taryfowych i wiążących informacji o pochodzeniu, o których mowa w art. 70 ust. 2a ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2023 r. poz. 1590 i 1598),
-2) Szefa Krajowej Administracji Skarbowej dotyczących:
-a) wiążących informacji stawkowych, o których mowa w art. 42a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług,
-b) wiążących informacji akcyzowych, o których mowa w art. 7d ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym – przekazuje się Wojewódzkiemu Sądowi Administracyjnemu w Opolu.
-§ 2. Traci moc rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 28 sierpnia 2008 r. w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania ministra właściwego do spraw finansów publicznych, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 1016).
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
+
+- **1)** Dyrektora Krajowej Informacji Skarbowej dotyczących:
+    - **a)** wiążących informacji stawkowych, o których mowa w art. 42a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361),
+    - **b)** wiążących informacji akcyzowych, o których mowa w art. 7d ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2023 r. poz. 1542, 1598 i 1723),
+    - **c)** wiążących informacji taryfowych i wiążących informacji o pochodzeniu, o których mowa w art. 70 ust. 2a ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2023 r. poz. 1590 i 1598),
+
+- **2)** Szefa Krajowej Administracji Skarbowej dotyczących:
+    - **a)** wiążących informacji stawkowych, o których mowa w art. 42a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług,
+    - **b)** wiążących informacji akcyzowych, o których mowa w art. 7d ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym – przekazuje się Wojewódzkiemu Sądowi Administracyjnemu w Opolu.
+
+**§ 2.** Traci moc rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 28 sierpnia 2008 r. w sprawie przekazania rozpoznawania innym wojewódzkim sądom administracyjnym niektórych spraw z zakresu działania ministra właściwego do spraw finansów publicznych, Prezesa Zakładu Ubezpieczeń Społecznych oraz Prezesa Kasy Rolniczego Ubezpieczenia Społecznego (Dz. U. poz. 1016).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 marca 2017 r.
 

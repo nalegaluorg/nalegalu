@@ -27,12 +27,15 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szpitalnego oddziału ratunkowego Na podstawie art. 34 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2022 r.
 poz. 1720, 1733, 2705 i 2770) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 27 czerwca 2019 r. w sprawie szpitalnego oddziału ratunkowego (Dz. U. z 2023 r. poz. 1225) wprowadza się następujące zmiany:
-1) w § 12:
-a) w ust. 1 pkt 1 otrzymuje brzmienie: „1) ordynator oddziału (lekarz kierujący oddziałem) będący lekarzem: – posiadającym tytuł specjalisty w dziedzinie medycyny ratunkowej albo – po drugim roku specjalizacji w dziedzinie medycyny ratunkowej, który kontynuuje szkolenie specjalizacyjne i posiada jednocześnie specjalizację lub tytuł specjalisty w dziedzinie anestezjologii i intensywnej terapii, chorób wewnętrznych, chirurgii ogólnej, chirurgii dziecięcej, ortopedii i traumatologii narządu ruchu, ortopedii i traumatologii, pediatrii, neurologii lub kardiologii;”,
-b) ust. 2 otrzymuje brzmienie: „2. Ordynator oddziału (lekarz kierujący oddziałem) lub wyznaczony przez niego spośród lekarzy systemu, o których mowa w ust. 1 pkt 3, lekarz posiadający tytuł specjalisty w dziedzinie medycyny ratunkowej albo lekarz po drugim roku specjalizacji w dziedzinie medycyny ratunkowej, który kontynuuje szkolenie specjalizacyjne i posiada jednocześnie specjalizację lub tytuł specjalisty w dziedzinie anestezjologii i intensywnej terapii, chorób wewnętrznych, chirurgii ogólnej, chirurgii dziecięcej, ortopedii i traumatologii narządu ruchu, ortopedii i traumatologii, pediatrii, neurologii lub kardiologii, zwani dalej „lekarzem dyżurnym oddziału”, koordynują pracę oddziału w systemie całodobowym.”;
-2) w § 15 w pkt 4a wyrazy „30 czerwca 2023 r.” zastępuje się wyrazami „31 grudnia 2023 r.”;
-3) w § 16 w pkt 1 wyrazy „30 czerwca 2023 r.” zastępuje się wyrazami „30 czerwca 2024 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 30 czerwca 2023 r.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 27 czerwca 2019 r. w sprawie szpitalnego oddziału ratunkowego (Dz. U. z 2023 r. poz. 1225) wprowadza się następujące zmiany:
+
+- **1)** w § 12:
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) ordynator oddziału (lekarz kierujący oddziałem) będący lekarzem: – posiadającym tytuł specjalisty w dziedzinie medycyny ratunkowej albo – po drugim roku specjalizacji w dziedzinie medycyny ratunkowej, który kontynuuje szkolenie specjalizacyjne i posiada jednocześnie specjalizację lub tytuł specjalisty w dziedzinie anestezjologii i intensywnej terapii, chorób wewnętrznych, chirurgii ogólnej, chirurgii dziecięcej, ortopedii i traumatologii narządu ruchu, ortopedii i traumatologii, pediatrii, neurologii lub kardiologii;”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Ordynator oddziału (lekarz kierujący oddziałem) lub wyznaczony przez niego spośród lekarzy systemu, o których mowa w ust. 1 pkt 3, lekarz posiadający tytuł specjalisty w dziedzinie medycyny ratunkowej albo lekarz po drugim roku specjalizacji w dziedzinie medycyny ratunkowej, który kontynuuje szkolenie specjalizacyjne i posiada jednocześnie specjalizację lub tytuł specjalisty w dziedzinie anestezjologii i intensywnej terapii, chorób wewnętrznych, chirurgii ogólnej, chirurgii dziecięcej, ortopedii i traumatologii narządu ruchu, ortopedii i traumatologii, pediatrii, neurologii lub kardiologii, zwani dalej „lekarzem dyżurnym oddziału”, koordynują pracę oddziału w systemie całodobowym.”;
+
+- **2)** w § 15 w pkt 4a wyrazy „30 czerwca 2023 r.” zastępuje się wyrazami „31 grudnia 2023 r.”;
+- **3)** w § 16 w pkt 1 wyrazy „30 czerwca 2023 r.” zastępuje się wyrazami „30 czerwca 2024 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 30 czerwca 2023 r. Minister Zdrowia: A. Niedzielski
 

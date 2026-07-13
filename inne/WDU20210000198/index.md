@@ -28,57 +28,10 @@ source: pdf
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej (Dz. U. z 2019 r.
 poz. 50), z uwzględnieniem zmian wprowadzonych ustawą z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568 i 695) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 stycznia 2021 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej (Dz. U. z 2019 r. poz. 50), który stanowi: „Art. 32. W ustawie z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2018 r. poz. 597) wprowadza się następujące zmiany:
-1) w art. 8 w ust. 1 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 i 11 w brzmieniu: „10) wspieranie produkcji audiowizualnej na zasadach określonych w ustawie z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej (Dz. U. z 2019 r. poz. 50);
-11) nadawanie każdemu filmowi wyświetlanemu w kinie indywidualnego identyfikatora publikowanego na stronie podmiotowej Instytutu w Biuletynie Informacji Publicznej.”;
-2) w art. 11 uchyla się ust. 3;
-3) w art. 18 w ust. 1:
-a) uchyla się pkt 7,
-b) dodaje się pkt 8 w brzmieniu: „8) wpływy z kar nałożonych na podstawie art. 19b.”;
-4) po art. 19 dodaje się art. 19a i art. 19b w brzmieniu: „Art. 19a. 1. Podmiot prowadzący kino przekazuje Instytutowi:
-1) dzienne dane o liczbie widzów, liczbie sprzedanych biletów i zaakceptowanych znakach legitymacyjnych oraz przychodach z tytułu sprzedaży biletów w odniesieniu do każdego filmu wyświetlanego w danym dniu;
-2) miesięczne dane o przychodach z tytułu wyświetlania filmów i reklam w kinie.
-2. Jeżeli podmiot prowadzi więcej niż jedno kino, przekazuje Instytutowi dane, o których mowa w ust. 1, odrębnie dla każdego kina.
-3. Dane, o których mowa w ust. 1:
-1) pkt 1, są przekazywane dwa razy w tygodniu: w pierwszym dniu, który nie jest dniem wolnym od pracy, następującym po każdej niedzieli – za piątek, sobotę i niedzielę, oraz w dniu, który nie jest dniem wolnym od pracy, poprzedzającym każdą sobotę – za poniedziałek, wtorek, środę i czwartek,
-2) pkt 2, są przekazywane w pierwszym dniu miesiąca, który nie jest dniem wolnym od pracy, następującym po miesiącu, którego dotyczą – za pośrednictwem systemu teleinformatycznego przy użyciu dokumentów elektronicznych w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570 oraz z 2018 r. poz. 1000, 1544 i 1669) albo przez formularz elektroniczny udostępniony na stronie podmiotowej Instytutu w Biuletynie Informacji Publicznej.
-4. Minister określi, w drodze rozporządzenia:
-1) elektroniczny format przekazywania danych, o których mowa w ust. 1,
-2) wzór formularzy służących do przekazywania Instytutowi danych, o których mowa w ust. 1, wraz z objaśnieniami co do sposobu ich wypełniania – uwzględniając konieczność uproszczenia, usprawnienia i ujednolicenia procesu przekazywania danych.
-
-**Art. 19b.**
-
-1. Podmiot prowadzący kino, który nie przekaże danych, o których mowa w art. 19a, albo nie przekaże ich w terminie – podlega karze pieniężnej w wysokości od 1000 do 100 000 zł.
-
-2. Karę pieniężną, o której mowa w ust. 1, nakłada w drodze decyzji Dyrektor.
-
-3. Przy ustalaniu wysokości kar pieniężnych Dyrektor uwzględnia wcześniejsze naruszenia obowiązków przekazywania danych przez podmiot prowadzący kino, zakres i rodzaj danych nieprzekazanych albo nieprzekazanych w terminie oraz rozmiar działalności prowadzonej przez podmiot.
-
-4. Karę pieniężną wnosi się na rachunek bankowy Instytutu.
-
-5. Karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja o jej nałożeniu stała się ostateczna.
-
-6. Do kar pieniężnych stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096).
-
-7. Wierzycielem należności z tytułu kar pieniężnych, o których mowa w ust. 1, w rozumieniu przepisów o postępowaniu egzekucyjnym w administracji jest Instytut.
-
-8. Organem wyższego stopnia właściwym do rozpatrzenia zażalenia na postanowienie wierzyciela należności z tytułu kar pieniężnych, o których mowa w ust. 1, jest minister.”.”;
-
-- **2)** art. 101 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568 i 695), który stanowi: „Art. 101. Ustawa wchodzi w życie z dniem ogłoszenia:
-- **1)** z wyjątkiem:
-    - **a)** art. 31, który wchodzi w życie z dniem 7 lipca 2020 r.,
-    - **b)** art. 8 pkt 4 w zakresie dodawanego art. 6 ust. 4 oraz art. 22 pkt 1–3, które wchodzą w życie z dniem 1 stycznia 2021 r.,
-    - **c)** art. 27 pkt 7 w zakresie zmienianego art. 406 § 5–7, który wchodzi w życie z dniem 3 września 2020 r.;
-
-- **2)** z tym że: Marszałek Sejmu: E. Witek USTAWA z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej
-    - **a)** art. 1 pkt 14 w zakresie dodawanego art. 15h ust. 1 pkt 1 – z mocą od dnia 9 grudnia 2019 r.,
-    - **b)** art. 1 pkt 14 w zakresie dodawanego art. 15zb – z mocą od dnia 7 lutego 2020 r.,
-    - **c)** art. 1 pkt 17 w zakresie dodawanego art. 31x – z mocą od dnia 1 marca 2020 r.,
-    - **d)** art. 1 pkt 11, pkt 14 w zakresie dodawanych art. 15a–15d, art. 15h ust. 1 pkt 2, art. 15l i art. 15zc oraz pkt 17 w zakresie dodawanych art. 31e, art. 31f, art. 31j, art. 31m i art. 31zm – z mocą od dnia 8 marca 2020 r.,
-    - **e)** art. 1 pkt 14 w zakresie dodawanego art. 15f – z mocą od dnia 12 marca 2020 r.,
-    - **f)** art. 1 pkt 14 w zakresie dodawanego art. 15k – z mocą od dnia 13 marca 2020 r.,
-    - **g)** art. 89 – z mocą od dnia 15 marca 2020 r.,
-    - **h)** art. 1 pkt 3 lit. a–c oraz art. 66 – z mocą od dnia 26 marca 2020 r.”.
+1) art. 32 ustawy z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej (Dz. U. z 2019 r. poz. 50), który stanowi: „ Art. 32. W ustawie z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2018 r. poz. 597) wprowadza się następujące zmiany: 1) w art. 8 w ust. 1 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 i 11 w brzmieniu: „10) wspieranie produkcji audiowizualnej na zasadach określonych w ustawie z dnia 9 listopada 2018 r. o finansowym wspieraniu produkcji audiowizualnej (Dz. U. z 2019 r. poz. 50); 11) nadawanie każdemu filmowi wyświetlanemu w kinie indywidualnego identyfikatora publikowanego na stronie podmiotowej Instytutu w Biuletynie Informacji Publicznej.”; 2) w art. 11 uchyla się ust. 3; 3) w art. 18 w ust. 1: a) uchyla się pkt 7, b) dodaje się pkt 8 w brzmieniu: „8) wpływy z kar nałożonych na podstawie art. 19b.”; 4) po art. 19 dodaje się art. 19a i art. 19b w brzmieniu: „Art. 19a. 1. Podmiot prowadzący kino przekazuje Instytutowi: 1) dzienne dane o liczbie widzów, liczbie sprzedanych biletów i zaakceptowanych znakach legitymacyjnych oraz przychodach z tytułu sprzedaży biletów w odniesieniu do każdego filmu wyświetlanego w danym dniu; 2) miesięczne dane o przychodach z tytułu wyświetlania filmów i reklam w kinie. 2. Jeżeli podmiot prowadzi więcej niż jedno kino, przekazuje Instytutowi dane, o których mowa w ust. 1, odrębnie dla każdego kina. 3. Dane, o których mowa w ust. 1: 1) pkt 1, są przekazywane dwa razy w tygodniu: w pierwszym dniu, który nie jest dniem wolnym od pracy, następującym po każdej niedzieli – za piątek, sobotę i niedzielę, oraz w dniu, który nie jest dniem wolnym od pracy, poprzedzającym każdą sobotę – za poniedziałek, wtorek, środę i czwartek, 2) pkt 2, są przekazywane w pierwszym dniu miesiąca, który nie jest dniem wolnym od pracy, następującym po miesiącu, którego dotyczą – za pośrednictwem systemu teleinformatycznego przy użyciu dokumentów elektronicznych w rozumieniu art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570 oraz z 2018 r. poz. 1000, 1544 i 1669) albo przez formularz elektroniczny udostępniony na stronie podmiotowej Instytutu w Biuletynie Informacji Publicznej. 4. Minister określi, w drodze rozporządzenia: 1) elektroniczny format przekazywania danych, o których mowa w ust. 1, 2) wzór formularzy służących do przekazywania Instytutowi danych, o których mowa w ust. 1, wraz z objaśnieniami co do sposobu ich wypełniania – uwzględniając konieczność uproszczenia, usprawnienia i ujednolicenia procesu przekazywania danych. Art. 19b. 1. Podmiot prowadzący kino, który nie przekaże danych, o których mowa w art. 19a, albo nie przekaże ich w terminie – podlega karze pieniężnej w wysokości od 1000 do 100 000 zł. 2. Karę pieniężną, o której mowa w ust. 1, nakłada w drodze decyzji Dyrektor. 3. Przy ustalaniu wysokości kar pieniężnych Dyrektor uwzględnia wcześniejsze naruszenia obowiązków przekazywania danych przez podmiot prowadzący kino, zakres i rodzaj danych nieprzekazanych albo nieprzekazanych w terminie oraz rozmiar działalności prowadzonej przez podmiot. 4. Karę pieniężną wnosi się na rachunek bankowy Instytutu. 5. Karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja o jej nałożeniu stała się ostateczna. 6. Do kar pieniężnych stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096). 7. Wierzycielem należności z tytułu kar pieniężnych, o których mowa w ust. 1, w rozumieniu przepisów o postępowaniu egzekucyjnym w administracji jest Instytut. 8. Organem wyższego stopnia właściwym do rozpatrzenia zażalenia na postanowienie wierzyciela należności z tytułu kar pieniężnych, o których mowa w ust. 1, jest minister.”.”;
+2) art. 101 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568 i 695), który stanowi: „ Art. 101. Ustawa wchodzi w życie z dniem ogłoszenia: 1) z wyjątkiem: a) art. 31, który wchodzi w życie z dniem 7 lipca 2020 r., b) art. 8 pkt 4 w zakresie dodawanego art. 6 ust. 4 oraz art. 22 pkt 1–3, które wchodzą w życie z dniem 1 stycznia 2021 r., c) art. 27 pkt 7 w zakresie zmienianego art. 406 § 5–7, który wchodzi w życie z dniem 3 września 2020 r.; 2) z tym że: a) art. 1 pkt 14 w zakresie dodawanego art. 15h ust. 1 pkt 1 – z mocą od dnia 9 grudnia 2019 r., b) art. 1 pkt 14 w zakresie dodawanego art. 15zb – z mocą od dnia 7 lutego 2020 r., c) art. 1 pkt 17 w zakresie dodawanego art. 31x – z mocą od dnia 1 marca 2020 r., d) art. 1 pkt 11, pkt 14 w zakresie dodawanych art. 15a–15d, art. 15h ust. 1 pkt 2, art. 15l i art. 15zc oraz pkt 17 w zakresie dodawanych art. 31e, art. 31f, art. 31j, art. 31m i art. 31zm – z mocą od dnia 8 marca 2020 r., e) art. 1 pkt 14 w zakresie dodawanego art. 15f – z mocą od dnia 12 marca 2020 r., f) art. 1 pkt 14 w zakresie dodawanego art. 15k – z mocą od dnia 13 marca 2020 r., g) art. 89 – z mocą od dnia 15 marca 2020 r., h) art. 1 pkt 3 lit. a–c oraz art. 66 – z mocą od dnia 26 marca 2020 r.”. Marszałek Sejmu: E. Witek
+USTAWA z dnia 9 listopada 2018 r.
+o finansowym wspieraniu produkcji audiowizualnej
 
 #### Rozdział 1 Przepisy ogólne
 

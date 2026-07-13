@@ -8,10 +8,10 @@ pos: 1656
 act_type: Umowa międzynarodowa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Układsporządzony w Luksemburgu dnia 16 czerwca 2008 r. o stabilizacji i stowarzyszeniu między Wspólnotami Europejskimi i ich państwami członkowskimi, z jednej strony, a Bośnią i Hercegowiną, z drugiej strony
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1656 Układ o stabilizacji i stowarzyszeniu między Wspólnotami Europejskimi i ich państwami członkowskimi, z jednej strony, a Bośnią i Hercegowiną, z drugiej strony, sporządzony w Luksemburgu dnia 16 czerwca 2008 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,10 +25,5 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001656) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1656/text.pdf) |
 
-Treść układu
-Dodatek – Tekst Układu w języki angielskim
-Treść układu
-W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 16 czerwca 2008 r. w Luksemburgu został sporządzony Układ o stabilizacji i stowarzyszeniu między Wspólnotami Europejskimi i ich państwami członkowskimi, z jednej strony, a Bośnią i Hercegowiną, z drugiej strony, w następującym brzmieniu: patrz oryginał
-Dodatek – Tekst Układu w języki angielskim
-patrz oryginał
+W imieniu Rzeczypospolitej Polskiej PRezydent RzeczyPosPoLitej PoLskiej podaje do powszechnej wiadomości: dnia 16 czerwca 2008 r. w Luksemburgu został sporządzony Układ o stabilizacji i stowarzyszeniu między Wspólnotami europejskimi i ich państwami członkowskimi, z jednej strony, a Bośnią i Hercegowiną, z drugiej strony, w następującym brzmieniu:
 

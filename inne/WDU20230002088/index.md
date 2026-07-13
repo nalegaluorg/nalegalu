@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002088) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2088/text.pdf) |
 
 zmieniające rozporządzenie w sprawie specjalnego obszaru ochrony siedlisk Mamerki (PLH280004) Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Klimatu i Środowiska z dnia 12 stycznia 2022 r. w sprawie specjalnego obszaru ochrony siedlisk Mamerki (PLH280004) (Dz. U. poz. 287) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa SIEDLISKA PRZYRODNICZE BĘDĄCE PRZEDMIOTEM OCHRONY NA SPECJALNYM OBSZARZE OCHRONY SIEDLISK MAMERKI (PLH280004) Lp. Kod Nazwa 1 9170 Grąd środkowoeuropejski i subkontynentalny (Galio-Carpinetum, Tilio-Carpinetum) 2 91D0 Bory i lasy bagienne (Vaccinio uliginosi Betuletum pubescentis, Vaccinio uliginosi Pinetum, Pino mugo-Sphagnetum, Sphagno girgensohnii-Piceetum) i brzozowo-sosnowe bagienne lasy borealne 3 91F0 Łęgowe lasy dębowo-wiązowo-jesionowe (Ficario-Ulmetum)
+
+**§ 1.** W rozporządzeniu Ministra Klimatu i Środowiska z dnia 12 stycznia 2022 r. w sprawie specjalnego obszaru ochrony siedlisk Mamerki (PLH280004) (Dz. U. poz. 287) załącznik nr 3 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa SIEDLISKA PRZYRODNICZE BĘDĄCE PRZEDMIOTEM OCHRONY NA SPECJALNYM OBSZARZE OCHRONY SIEDLISK MAMERKI (PLH280004) Lp. Kod Nazwa 1 9170 Grąd środkowoeuropejski i subkontynentalny (Galio-Carpinetum, Tilio-Carpinetum) 2 91D0 Bory i lasy bagienne (Vaccinio uliginosi Betuletum pubescentis, Vaccinio uliginosi Pinetum, Pino mugo-Sphagnetum, Sphagno girgensohnii-Piceetum) i brzozowo-sosnowe bagienne lasy borealne 3 91F0 Łęgowe lasy dębowo-wiązowo-jesionowe (Ficario-Ulmetum)
 

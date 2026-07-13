@@ -27,34 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz.
 z 2023 r. poz. 1199) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2024 r. poz. 298) w załączniku do rozporządzenia:
-1) w § 3 ust. 1 otrzymuje brzmienie: „1. W skład Centrali Agencji wchodzą:
-1) Biuro Prasowe;
-2) Biuro Prezesa;
-3) Departament Administracyjno-Gospodarczy;
-4) Departament Analiz i Sprawozdawczości;
-5) Departament Audytu Wewnętrznego;
-6) Departament Baz Referencyjnych i Kontroli Terenowych;
-7) Departament Bezpieczeństwa;
-8) Departament Działań Delegowanych;
-9) Departament Działań Inwestycyjnych;
-10) Departament Działań Premiowych;
-11) Departament Ewidencji Producentów i Rejestracji Zwierząt;
-12) Departament Finansowy;
-13) Departament Kontroli Wewnętrznej;
-14) Departament Księgowości;
-15) Departament Oceny Projektów Inwestycyjnych;
-16) Departament Płatności Bezpośrednich;
-17) Departament Pomocy Technicznej;
-18) Departament Prawny;
-19) Departament Rynków Rolnych;
-20) Departament Wsparcia Krajowego;
-21) Departament Wsparcia Rybactwa;
-22) Departament Zamówień Publicznych;
-23) Departament Zarządzania Informatyką;
-24) Departament Zarządzania Należnościami;
-25) Departament Zarządzania Zasobami Ludzkimi.”;
-2) w § 8 w pkt 6 lit. a otrzymuje brzmienie: „a) bocheńskiego – Proszówki,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: C. Siekierski
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2024 r. poz. 298) w załączniku do rozporządzenia:
+
+- **1)** w § 3 ust. 1 otrzymuje brzmienie: „1. W skład Centrali Agencji wchodzą: 1) Biuro Prasowe; 2) Biuro Prezesa; 3) Departament Administracyjno-Gospodarczy; 4) Departament Analiz i Sprawozdawczości; 5) Departament Audytu Wewnętrznego; 6) Departament Baz Referencyjnych i Kontroli Terenowych; 7) Departament Bezpieczeństwa; 8) Departament Działań Delegowanych; 9) Departament Działań Inwestycyjnych; 10) Departament Działań Premiowych; 11) Departament Ewidencji Producentów i Rejestracji Zwierząt; 12) Departament Finansowy; 13) Departament Kontroli Wewnętrznej; 14) Departament Księgowości; 15) Departament Oceny Projektów Inwestycyjnych; 16) Departament Płatności Bezpośrednich; 17) Departament Pomocy Technicznej; 18) Departament Prawny; 19) Departament Rynków Rolnych; 20) Departament Wsparcia Krajowego; 21) Departament Wsparcia Rybactwa; 22) Departament Zamówień Publicznych; 23) Departament Zarządzania Informatyką; 24) Departament Zarządzania Należnościami; 25) Departament Zarządzania Zasobami Ludzkimi.”;
+- **2)** w § 8 w pkt 6 lit. a otrzymuje brzmienie: „a) bocheńskiego – Proszówki,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: C. Siekierski
 

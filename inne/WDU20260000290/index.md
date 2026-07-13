@@ -27,13 +27,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000290) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/290/text.pdf) |
 
 w sprawie wysokości i sposobu podziału ryczałtu za wykonanie odstrzału sanitarnego dzików Na podstawie art. 31 ust. 8 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) wysokość zryczałtowanego zwrotu kosztów za każdą sztukę odstrzelonego dzika, zwanego dalej „ryczałtem”;
-2) sposób podziału ryczałtu między Polski Związek Łowiecki – w przypadkach, o których mowa w art. 31 ust. 1 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt, albo dzierżawcę albo zarządcę obwodu łowieckiego, na którego obszarze wykonano odstrzał sanitarny dzików, a myśliwego wykonującego ten odstrzał.
-§ 2. Wysokość ryczałtu wynosi 350 zł.
-§ 3. Ryczałt dzieli się w taki sposób, że:
-1) 40 % tego ryczałtu przysługuje myśliwemu wykonującemu odstrzał sanitarny dzików;
-2) 60 % tego ryczałtu przysługuje Polskiemu Związkowi Łowieckiemu – w przypadkach, o których mowa w art. 31 ust. 1 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt, albo dzierżawcy albo zarządcy obwodu łowieckiego, na którego obszarze wykonano odstrzał sanitarny dzików.
-§ 4. Rozporządzenie wchodzi w życie z dniem 18 marca 2026 r.
-Minister Rolnictwa i Rozwoju Wsi: wz. J. Czerniak
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** wysokość zryczałtowanego zwrotu kosztów za każdą sztukę odstrzelonego dzika, zwanego dalej „ryczałtem”;
+- **2)** sposób podziału ryczałtu między Polski Związek Łowiecki – w przypadkach, o których mowa w art. 31 ust. 1 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt, albo dzierżawcę albo zarządcę obwodu łowieckiego, na którego obszarze wykonano odstrzał sanitarny dzików, a myśliwego wykonującego ten odstrzał.
+
+**§ 2.** Wysokość ryczałtu wynosi 350 zł.
+
+**§ 3.** Ryczałt dzieli się w taki sposób, że:
+
+- **1)** 40 % tego ryczałtu przysługuje myśliwemu wykonującemu odstrzał sanitarny dzików;
+- **2)** 60 % tego ryczałtu przysługuje Polskiemu Związkowi Łowieckiemu – w przypadkach, o których mowa w art. 31 ust. 1 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt, albo dzierżawcy albo zarządcy obwodu łowieckiego, na którego obszarze wykonano odstrzał sanitarny dzików.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem 18 marca 2026 r. Minister Rolnictwa i Rozwoju Wsi: wz. J. Czerniak
 

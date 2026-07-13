@@ -27,9 +27,11 @@ source: pdf
 
 w sprawie zwolnienia z obowiązku przesyłania części ksiąg rachunkowych na podstawie ustawy o podatku dochodowym od osób prawnych Na podstawie art. 9 ust. 5 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r.
 poz. 2805, z późn. zm. ) zarządza się, co następuje:
-§ 1. Zwalnia się z obowiązku przesyłania właściwemu naczelnikowi urzędu skarbowego za pomocą środków komunikacji elektronicznej danych z ewidencji środków trwałych oraz wartości niematerialnych i prawnych:
-1) podatników innych niż określeni w art. 9 ust. 1d ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych – za rok podatkowy, który rozpoczyna się po dniu 31 grudnia 2024 r., a przed dniem 1 stycznia 2026 r.;
-2) spółki niebędące osobami prawnymi – za rok obrotowy, który rozpoczyna się po dniu 31 grudnia 2024 r., a przed dniem 1 stycznia 2026 r.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r.
-Minister Finansów: A. Domański
+
+**§ 1.** Zwalnia się z obowiązku przesyłania właściwemu naczelnikowi urzędu skarbowego za pomocą środków komunikacji elektronicznej danych z ewidencji środków trwałych oraz wartości niematerialnych i prawnych:
+
+- **1)** podatników innych niż określeni w art. 9 ust. 1d ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych – za rok podatkowy, który rozpoczyna się po dniu 31 grudnia 2024 r., a przed dniem 1 stycznia 2026 r.;
+- **2)** spółki niebędące osobami prawnymi – za rok obrotowy, który rozpoczyna się po dniu 31 grudnia 2024 r., a przed dniem 1 stycznia 2026 r.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2025 r. Minister Finansów: A. Domański
 

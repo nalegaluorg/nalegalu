@@ -31,26 +31,25 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sp
 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 12 czerwca 2019 r.
 w sprawie deklaracji o rezygnacji z dokonywania wpłat do pracowniczych planów kapitałowych Na podstawie art. 23 ust. 12 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U.
 z 2023 r. poz. 46, 1723 i 1941) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wzór deklaracji o rezygnacji z dokonywania wpłat do pracowniczych planów kapitałowych, zwanych dalej „PPK”, oraz szczegółowy zakres zawartych w niej danych.
-§ 2. Deklaracja o rezygnacji z dokonywania wpłat do PPK zawiera:
-1) dane dotyczące uczestnika PPK:
-a) imię (imiona) i nazwisko,
-b) numer PESEL, a w przypadku osób nieposiadających numeru PESEL datę urodzenia,
-c) serię i numer dowodu osobistego lub numer paszportu albo innego dokumentu potwierdzającego tożsamość w przypadku osób nieposiadających obywatelstwa polskiego;
-2) nazwę podmiotu zatrudniającego;
-3) oświadczenie uczestnika PPK o posiadaniu przez niego wiedzy o konsekwencjach złożenia deklaracji.
-§ 3. Wzór deklaracji o rezygnacji z dokonywania wpłat do PPK określa załącznik do rozporządzenia.
-§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-Załącznik do rozporządzenia Ministra Finansów z dnia 12 czerwca 2019 r.
-(Dz. U. z 2023 r. poz. …) WZÓR WZÓR DEKLARACJA DEKLARACJA O REZYGNACJI O REZYGNACJI Z Z DOKONYWANIA DOKONYWANIA WPŁAT WPŁAT DO PRACOWNICZYCH DO PRACOWNICZYCH PLANÓW PLANÓW KAPITAŁOWYCH KAPITAŁOWYCH (PPK) (PPK) Deklarację należy wypełnić wielkimi literami.
-Deklarację składa się podmiotowi zatrudniającemu .
-1. Dane dotyczące uczestnika PPK Imię (imiona) Nazwisko Numer PESEL, a w przypadku osób nieposiadających numeru PESEL data urodzenia Seria i numer dowodu osobistego lub numer paszportu albo innego dokumentu potwierdzającego tożsamość w przypadku osób nieposiadających obywatelstwa polskiego
-2. Nazwa podmiotu zatrudniającego
-3. Oświadczenie uczestnika PPK Oświadczam, że rezygnuję z dokonywania wpłat do PPK oraz posiadam wiedzę o konsekwencjach złożenia niniejszej deklaracji, w tym:
-1) nieotrzymania wpłaty powitalnej w wysokości 250 zł, należnej uczestnikom PPK (dotyczy uczestnika PPK, który nie nabył uprawnienia do wpłaty powitalnej przed złożeniem deklaracji);
-2) nieotrzymywania dopłat rocznych do PPK w wysokości 240 zł, należnych uczestnikom PPK po spełnieniu warunków określonych w art. 32 ustawy z dnia 4 października 2018 r.
-o pracowniczych planach kapitałowych (Dz. U. z 2023 r. poz. 46, z późn. zm.);
-3) nieotrzymywania wpłat podstawowych finansowanych przez podmiot zatrudniający w wysokości 1,5% wynagrodzenia.
-…………………………………..
-…………………………………………………………
+
+**§ 1.** Rozporządzenie określa wzór deklaracji o rezygnacji z dokonywania wpłat do pracowniczych planów kapitałowych, zwanych dalej „PPK”, oraz szczegółowy zakres zawartych w niej danych.
+
+**§ 2.** Deklaracja o rezygnacji z dokonywania wpłat do PPK zawiera:
+
+- **1)** dane dotyczące uczestnika PPK:
+    - **a)** imię (imiona) i nazwisko,
+    - **b)** numer PESEL, a w przypadku osób nieposiadających numeru PESEL datę urodzenia,
+    - **c)** serię i numer dowodu osobistego lub numer paszportu albo innego dokumentu potwierdzającego tożsamość w przypadku osób nieposiadających obywatelstwa polskiego;
+
+- **2)** nazwę podmiotu zatrudniającego;
+- **3)** oświadczenie uczestnika PPK o posiadaniu przez niego wiedzy o konsekwencjach złożenia deklaracji.
+
+**§ 3.** Wzór deklaracji o rezygnacji z dokonywania wpłat do PPK określa załącznik do rozporządzenia.
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik do rozporządzenia Ministra Finansów z dnia 12 czerwca 2019 r. (Dz. U. z 2023 r. poz. …) WZÓR WZÓR DEKLARACJA DEKLARACJA O REZYGNACJI O REZYGNACJI Z Z DOKONYWANIA DOKONYWANIA WPŁAT WPŁAT DO PRACOWNICZYCH DO PRACOWNICZYCH PLANÓW PLANÓW KAPITAŁOWYCH KAPITAŁOWYCH (PPK) (PPK) Deklarację należy wypełnić wielkimi literami. Deklarację składa się podmiotowi zatrudniającemu . 1. Dane dotyczące uczestnika PPK Imię (imiona) Nazwisko Numer PESEL, a w przypadku osób nieposiadających numeru PESEL data urodzenia Seria i numer dowodu osobistego lub numer paszportu albo innego dokumentu potwierdzającego tożsamość w przypadku osób nieposiadających obywatelstwa polskiego 2. Nazwa podmiotu zatrudniającego 3. Oświadczenie uczestnika PPK Oświadczam, że rezygnuję z dokonywania wpłat do PPK oraz posiadam wiedzę o konsekwencjach złożenia niniejszej deklaracji, w tym:
+
+- **1)** nieotrzymania wpłaty powitalnej w wysokości 250 zł, należnej uczestnikom PPK (dotyczy uczestnika PPK, który nie nabył uprawnienia do wpłaty powitalnej przed złożeniem deklaracji);
+- **2)** nieotrzymywania dopłat rocznych do PPK w wysokości 240 zł, należnych uczestnikom PPK po spełnieniu warunków określonych w art. 32 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2023 r. poz. 46, z późn. zm.);
+- **3)** nieotrzymywania wpłat podstawowych finansowanych przez podmiot zatrudniający w wysokości 1,5% wynagrodzenia. ………………………………….. …………………………………………………………
+
 

@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie wyznaczenia naczelnika urzędu celno-skarbowego właściwego do prowadzenia czynności audytowych w celu ustalenia wykonywania określonych obowiązków przez przedsiębiorców telekomunikacyjnych oraz dostawców usług płatniczych Na podstawie art. 100b ust. 6 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U.
 z 2018 r. poz. 508, z późn. zm. ) zarządza się, co następuje:
-§ 1. Wyznacza się Naczelnika Opolskiego Urzędu Celno-Skarbowego w Opolu jako organ właściwy do prowadzenia czynności audytowych w celu ustalenia, czy przedsiębiorca telekomunikacyjny oraz dostawca usług płatniczych wykonują obowiązki, o których mowa odpowiednio w art. 15f ust. 5 i art. 15g ust. 2 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2018 r. poz. 165, 650, 723, 1629 i 2354).
-§ 2. Rozporządzenie wchodzi w życie z dniem 2 stycznia 2019 r.
-Minister Finansów: wz. P. Nowak
+
+**§ 1.** Wyznacza się Naczelnika Opolskiego Urzędu Celno-Skarbowego w Opolu jako organ właściwy do prowadzenia czynności audytowych w celu ustalenia, czy przedsiębiorca telekomunikacyjny oraz dostawca usług płatniczych wykonują obowiązki, o których mowa odpowiednio w art. 15f ust. 5 i art. 15g ust. 2 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2018 r. poz. 165, 650, 723, 1629 i 2354).
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 2 stycznia 2019 r. Minister Finansów: wz. P. Nowak
 

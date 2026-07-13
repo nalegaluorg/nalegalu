@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001686) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1686/text.pdf) |
 
 zmieniające rozporządzenie w sprawie kosztów, których wysokość nie jest zależna od parametrów wskazanych w art. 118 ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych Na podstawie art. 118 ust. 7 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461 i 1537) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 7 września 2020 r. w sprawie kosztów, których wysokość nie jest zależna od parametrów wskazanych w art. 118 ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2023 r. poz. 1976 oraz z 2025 r. poz. 455) w § 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) koszty świadczeń opieki zdrowotnej udzielonych na podstawie umów o udzielanie świadczeń opieki zdrowotnej w zakresie świadczeń opieki zdrowotnej w ramach profilu świadczeń realizowanego w trybie hospitalizacji planowej albo trybie leczenia jednego dnia, o których mowa w art. 159a ust. 5 pkt 1 ustawy o świadczeniach.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. T. Maciejewski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 7 września 2020 r. w sprawie kosztów, których wysokość nie jest zależna od parametrów wskazanych w art. 118 ust. 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2023 r. poz. 1976 oraz z 2025 r. poz. 455) w § 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) koszty świadczeń opieki zdrowotnej udzielonych na podstawie umów o udzielanie świadczeń opieki zdrowotnej w zakresie świadczeń opieki zdrowotnej w ramach profilu świadczeń realizowanego w trybie hospitalizacji planowej albo trybie leczenia jednego dnia, o których mowa w art. 159a ust. 5 pkt 1 ustawy o świadczeniach.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: wz. T. Maciejewski
 

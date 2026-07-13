@@ -33,11 +33,14 @@ poz. 1701), z uwzględnieniem zmian wprowadzonych:
 3) rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 20 sierpnia 2021 r. zmieniającym rozporządzenie w sprawie wymiarów i okresów ochronnych organizmów morskich oraz szczegółowych warunków wykonywania rybołówstwa komercyjnego (Dz. U. poz. 1546).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 i § 3 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 lutego 2021 r. zmieniającego rozporządzenie w sprawie wymiarów i okresów ochronnych organizmów morskich oraz szczegółowych warunków wykonywania rybołówstwa komercyjnego (Dz. U. poz. 310), które stanowią: ,,§ 2. W terminie 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia dopuszcza się stosowanie wontonów, o których mowa w części I ust. 5 pkt 1 lit. a załącznika nr 2 do rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 lipca 2021 r. zmieniającego rozporządzenie w sprawie wymiarów i okresów ochronnych organizmów morskich oraz szczegółowych warunków wykonywania rybołówstwa komercyjnego (Dz. U. poz. 1417), który stanowi: ,,§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 20 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie wymiarów i okresów ochronnych organizmów morskich oraz szczegółowych warunków wykonywania rybołówstwa komercyjnego (Dz. U. poz. 1546), który stanowi: ,,§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
-Minister Rolnictwa i Rozwoju Wsi: wz. R. Romanowski ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 21 sierpnia 2019 r.
-w sprawie wymiarów i okresów ochronnych organizmów morskich oraz szczegółowych warunków wykonywania rybołówstwa komercyjnego Na podstawie art. 10 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2022 r. poz. 540) zarządza się, co następuje:
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+
+- **2)** § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 26 lipca 2021 r. zmieniającego rozporządzenie w sprawie wymiarów i okresów ochronnych organizmów morskich oraz szczegółowych warunków wykonywania rybołówstwa komercyjnego (Dz. U. poz. 1417), który stanowi: ,,§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+- **3)** § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 20 sierpnia 2021 r. zmieniającego rozporządzenie w sprawie wymiarów i okresów ochronnych organizmów morskich oraz szczegółowych warunków wykonywania rybołówstwa komercyjnego (Dz. U. poz. 1546), który stanowi: ,,§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Rolnictwa i Rozwoju Wsi: wz. R. Romanowski ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 21 sierpnia 2019 r. w sprawie wymiarów i okresów ochronnych organizmów morskich oraz szczegółowych warunków wykonywania rybołówstwa komercyjnego Na podstawie art. 10 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2022 r. poz. 540) zarządza się, co następuje:
+
+## Załącznik
+
 § 1. Rozporządzenie określa w odniesieniu do wykonywania rybołówstwa komercyjnego na obszarach, o których mowa w art. 9 ust. 1 pkt 1 i 2 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim, zwanej dalej „ustawą”:
 1) wymiary i okresy ochronne organizmów morskich,
 2) obszary wyłączone z wykonywania tego rybołówstwa na stałe lub na czas określony,

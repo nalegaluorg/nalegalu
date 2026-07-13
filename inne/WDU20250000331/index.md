@@ -27,11 +27,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000331) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/331/text.pdf) |
 
 zmieniające rozporządzenie w sprawie ponoszenia przez Skarb Państwa albo jednostki samorządu terytorialnego kosztów pomocy prawnej udzielonej przez radcę prawnego z urzędu Na podstawie art. 22 ust. 2 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2024 r. poz. 499) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 14 maja 2024 r. w sprawie ponoszenia przez Skarb Państwa albo jednostki samorządu terytorialnego kosztów pomocy prawnej udzielonej przez radcę prawnego z urzędu (Dz. U.
-poz. 764 i 1948) w § 16 ust. 1 otrzymuje brzmienie: „1. Opłaty wynoszą za prowadzenie sprawy w postępowaniu apelacyjnym:
-1) przed sądem okręgowym – 50 % opłaty, a jeżeli w pierwszej instancji sprawy nie prowadził ten sam radca prawny – 75 % opłaty, w obu przypadkach nie mniej niż 120 zł;
-2) przed sądem apelacyjnym – 75 % opłaty, a jeżeli w pierwszej instancji sprawy nie prowadził ten sam radca prawny – 100 % opłaty, w obu przypadkach nie mniej niż 240 zł.”.
-§ 2. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: A. Bodnar
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 14 maja 2024 r. w sprawie ponoszenia przez Skarb Państwa albo jednostki samorządu terytorialnego kosztów pomocy prawnej udzielonej przez radcę prawnego z urzędu (Dz. U. poz. 764 i 1948) w § 16 ust. 1 otrzymuje brzmienie: „1. Opłaty wynoszą za prowadzenie sprawy w postępowaniu apelacyjnym: 1) przed sądem okręgowym – 50 % opłaty, a jeżeli w pierwszej instancji sprawy nie prowadził ten sam radca prawny – 75 % opłaty, w obu przypadkach nie mniej niż 120 zł; 2) przed sądem apelacyjnym – 75 % opłaty, a jeżeli w pierwszej instancji sprawy nie prowadził ten sam radca prawny – 100 % opłaty, w obu przypadkach nie mniej niż 240 zł.”.
+
+**§ 2.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: A. Bodnar
 

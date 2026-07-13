@@ -27,14 +27,19 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie pomocy de minimis w ramach programu „Wsparcie dla czasopism naukowych” Na podstawie art. 401 ust. 6 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r.
 poz. 85, 374, 695, 875 i 1086) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 20 września 2018 r. w sprawie pomocy de minimis w ramach programu „Wsparcie dla czasopism naukowych” (Dz. U. z 2020 r. poz. 94) wprowadza się następujące zmiany:
-1) po § 16a dodaje się § 16b w brzmieniu: „§ 16b. W konkursie w ramach programu ogłoszonym w 2018 r.:
-1) wniosek o zmianę warunków umowy, o którym mowa w § 11 ust. 1, w 2020 r. przedsiębiorca może złożyć nie później niż 21 dni przed dniem zakończenia realizacji projektu, na który pomoc została przyznana;
-2) niewykorzystane środki finansowe przyznane na 2020 r. nie podlegają zwrotowi, o którym mowa w § 15 ust. 1 pkt 1, pozostają w dyspozycji przedsiębiorcy, któremu zostały przyznane, i mogą zostać wykorzystane w 2021 r. na cel, na jaki zostały przyznane – w przypadku zmiany warunków umowy polegającej na przedłużeniu terminu realizacji projektu.”;
-2) § 17 otrzymuje brzmienie: „§ 17. Pomoc może być przyznawana do końca okresu dostosowawczego, o którym mowa w art. 7 ust. 4 rozporządzenia Komisji nr 1407/2013, w związku z art. 8 zdanie drugie tego rozporządzenia.”.
-§ 2. 1. Do wniosków o zmianę warunków umowy złożonych przed dniem wejścia w życie niniejszego rozporządzenia bez zachowania terminu, o którym mowa w § 11 ust. 1 rozporządzenia zmienianego w § 1, nie stosuje się przepisu § 16b pkt 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 1.** W rozporządzeniu Ministra Nauki i Szkolnictwa Wyższego z dnia 20 września 2018 r. w sprawie pomocy de minimis w ramach programu „Wsparcie dla czasopism naukowych” (Dz. U. z 2020 r. poz. 94) wprowadza się następujące zmiany:
+
+- **1)** po § 16a dodaje się § 16b w brzmieniu: „§ 16b. W konkursie w ramach programu ogłoszonym w 2018 r.: 1) wniosek o zmianę warunków umowy, o którym mowa w § 11 ust. 1, w 2020 r. przedsiębiorca może złożyć nie później niż 21 dni przed dniem zakończenia realizacji projektu, na który pomoc została przyznana; 2) niewykorzystane środki finansowe przyznane na 2020 r. nie podlegają zwrotowi, o którym mowa w § 15 ust. 1 pkt 1, pozostają w dyspozycji przedsiębiorcy, któremu zostały przyznane, i mogą zostać wykorzystane w 2021 r. na cel, na jaki zostały przyznane – w przypadku zmiany warunków umowy polegającej na przedłużeniu terminu realizacji projektu.”;
+- **2)** § 17 otrzymuje brzmienie: „§ 17. Pomoc może być przyznawana do końca okresu dostosowawczego, o którym mowa w art. 7 ust. 4 rozporządzenia Komisji nr 1407/2013, w związku z art. 8 zdanie drugie tego rozporządzenia.”.
+
+**§ 2.**
+
+1. Do wniosków o zmianę warunków umowy złożonych przed dniem wejścia w życie niniejszego rozporządzenia bez zachowania terminu, o którym mowa w § 11 ust. 1 rozporządzenia zmienianego w § 1, nie stosuje się przepisu § 16b pkt 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+
 2. Wnioski, o których mowa w ust. 1, uważa się za złożone w terminie.
-§ 3. Do środków finansowych przyznanych na 2020 r. przedsiębiorcom, którzy przed dniem wejścia w życie niniejszego rozporządzenia złożyli wnioski o zmianę warunków umowy polegającą na przedłużeniu terminu realizacji projektu, stosuje się przepis § 16b pkt 2 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Edukacji i Nauki: P. Czarnek
+
+**§ 3.** Do środków finansowych przyznanych na 2020 r. przedsiębiorcom, którzy przed dniem wejścia w życie niniejszego rozporządzenia złożyli wnioski o zmianę warunków umowy polegającą na przedłużeniu terminu realizacji projektu, stosuje się przepis § 16b pkt 2 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Edukacji i Nauki: P. Czarnek
 

@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002756) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2756/text.pdf) |
 
 zmieniające rozporządzenie w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy publicznej w formie gwarancji spłaty kredytów w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 Na podstawie art. 34a ust. 4 pkt 1 ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2023 r. poz. 926 i 1114) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 19 sierpnia 2019 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy publicznej w formie gwarancji spłaty kredytów w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1623) w § 8 wyrazy „31 grudnia 2023 r.” zastępuje się wyrazami „31 grudnia 2025 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: A. Domański
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 19 sierpnia 2019 r. w sprawie udzielania przez Bank Gospodarstwa Krajowego pomocy publicznej w formie gwarancji spłaty kredytów w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1623) w § 8 wyrazy „31 grudnia 2023 r.” zastępuje się wyrazami „31 grudnia 2025 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: A. Domański
 

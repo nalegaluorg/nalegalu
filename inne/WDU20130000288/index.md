@@ -8,10 +8,10 @@ pos: 288
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 marca 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 288 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,16 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000288) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/288/text.pdf) |
 
-Poz. 288 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn.
-zm. ) zarządza się, co następuje: § 1. Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju nadaje się statut, który stanowi załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-Minister Środowiska: M. Korolec STATUT PARKU NARODOWEGO GÓR STOŁOWYCH Z SIEDZIBĄ W KUDOWIE-ZDROJU § 1. Park Narodowy Gór Stołowych z siedzibą w Kudowie-Zdroju, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) oraz niniejszego statutu.
+zm. ) zarządza się, co następuje:
+
+**§ 1.** Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju nadaje się statut, który stanowi załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia. Minister Środowiska: M. Korolec STATUT PARKU NARODOWEGO GÓR STOŁOWYCH Z SIEDZIBĄ W KUDOWIE-ZDROJU
+
+## Załącznik
+
+§ 1. Park Narodowy Gór Stołowych z siedzibą w Kudowie-Zdroju, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) oraz niniejszego statutu.
 § 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
 1) Zespół do spraw Administracyjnych;
 2) Zespół do spraw Edukacji i Systemu Informacji Geograficznej (GIS);

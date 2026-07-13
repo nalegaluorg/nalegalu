@@ -26,12 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000153) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/153/text.pdf) |
 
 zmieniające rozporządzenie w sprawie sposobu oznakowania i zabezpieczania obszarów wodnych oraz wzorów znaków zakazu, nakazu oraz znaków informacyjnych i flag Na podstawie art. 8 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. z 2016 r. poz. 656 oraz z 2017 r. poz. 1566) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 6 marca 2012 r. w sprawie sposobu oznakowania i zabezpieczania obszarów wodnych oraz wzorów znaków zakazu, nakazu oraz znaków informacyjnych i flag (Dz. U.
-poz. 286) w § 2:
-1) w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Strefy dla umiejących i nieumiejących pływać oraz brodzik w kąpieliskach i miejscach okazjonalnie wykorzystywanych do kąpieli oznacza się bojami (pławami), z tym że:”;
-2) w ust. 3:
-a) wprowadzenie do wyliczenia otrzymuje brzmienie: „W kąpieliskach, miejscach okazjonalnie wykorzystywanych do kąpieli, pływalniach oraz innych obiektach dysponujących nieckami basenowymi o łącznej powierzchni powyżej 100 m i głębokości ponad 0,4 m w najgłębszym miejscu lub głębokości powyżej 1,2 m należy oznaczyć głębokość wody poprzez:”,
-b) pkt 2 otrzymuje brzmienie: „2) zamieszczenie tabliczek informujących o głębokości wody na pomostach lub bojach – w kąpieliskach i miejscach okazjonalnie wykorzystywanych do kąpieli.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: wz. S. Chwałek
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 6 marca 2012 r. w sprawie sposobu oznakowania i zabezpieczania obszarów wodnych oraz wzorów znaków zakazu, nakazu oraz znaków informacyjnych i flag (Dz. U. poz. 286) w § 2:
+
+- **1)** w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Strefy dla umiejących i nieumiejących pływać oraz brodzik w kąpieliskach i miejscach okazjonalnie wykorzystywanych do kąpieli oznacza się bojami (pławami), z tym że:”;
+- **2)** w ust. 3:
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „W kąpieliskach, miejscach okazjonalnie wykorzystywanych do kąpieli, pływalniach oraz innych obiektach dysponujących nieckami basenowymi o łącznej powierzchni powyżej 100 m i głębokości ponad 0,4 m w najgłębszym miejscu lub głębokości powyżej 1,2 m należy oznaczyć głębokość wody poprzez:”,
+    - **b)** pkt 2 otrzymuje brzmienie: „2) zamieszczenie tabliczek informujących o głębokości wody na pomostach lub bojach – w kąpieliskach i miejscach okazjonalnie wykorzystywanych do kąpieli.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: wz. S. Chwałek
 

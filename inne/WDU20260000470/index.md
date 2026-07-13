@@ -28,7 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wykazu spółek, w których prawa z akcji Skarbu Państwa wykonuje Prezes Rady Ministrów lub inni członkowie Rady Ministrów, pełnomocnicy Rządu lub państwowe osoby prawne, w tym jednoosobowe spółki Skarbu Państwa Na podstawie art. 8 ust. 2 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U.
 z 2026 r. poz. 373) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 17 stycznia 2025 r. w sprawie wykazu spółek, w których prawa z akcji Skarbu Państwa wykonuje Prezes Rady Ministrów lub inni członkowie Rady Ministrów, pełnomocnicy Rządu lub państwowe osoby prawne, w tym jednoosobowe spółki Skarbu Państwa (Dz. U. poz. 134 i 1554) w załączniku po lp. 82 dodaje się lp. 82a w brzmieniu: 82a Wojskowe Zakłady Agencja Rozwoju Przemysłu 0000295452 art. 8 ust. 1 pkt 1–2 Kartograficzne spółka Spółka Akcyjna z siedzibą z ograniczoną w Warszawie odpowiedzialnością z siedzibą w Warszawie
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 17 stycznia 2025 r. w sprawie wykazu spółek, w których prawa z akcji Skarbu Państwa wykonuje Prezes Rady Ministrów lub inni członkowie Rady Ministrów, pełnomocnicy Rządu lub państwowe osoby prawne, w tym jednoosobowe spółki Skarbu Państwa (Dz. U. poz. 134 i 1554) w załączniku po lp. 82 dodaje się lp. 82a w brzmieniu: 82a Wojskowe Zakłady Agencja Rozwoju Przemysłu 0000295452 art. 8 ust. 1 pkt 1–2 Kartograficzne spółka Spółka Akcyjna z siedzibą z ograniczoną w Warszawie odpowiedzialnością z siedzibą w Warszawie
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

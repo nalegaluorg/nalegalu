@@ -30,11 +30,10 @@ source: pdf
 2) ustawą z dnia 27 listopada 2024 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U.
 poz. 1940) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 września 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 3 i art. 4 ustawy z dnia 8 listopada 2024 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o kołach gospodyń wiejskich (Dz. U. poz. 1761), które stanowią: „Art. 3. W roku 2025 wysokość limitu przychodów, o których mowa w art. 10a ust. 1 pkt 5 ustawy zmienianej w art. 1 oraz art. 24 ust. 1 pkt 3 ustawy zmienianej w art. 2, wynosi 1 000 000 zł.
-
-**Art. 4.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r., z wyjątkiem art. 3, który wchodzi w życie z dniem 1 stycznia 2025 r.”;
-
-- **2)** art. 34 ustawy z dnia 27 listopada 2024 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1940), który stanowi: „Art. 34. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 w zakresie art. 18b ust. 2, który wchodzi w życie z dniem 1 lipca 2025 r.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie
+1) art. 3 i art. 4 ustawy z dnia 8 listopada 2024 r. o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o kołach gospodyń wiejskich (Dz. U. poz. 1761), które stanowią: „ Art. 3. W roku 2025 wysokość limitu przychodów, o których mowa w art. 10a ust. 1 pkt 5 ustawy zmienianej w art. 1 oraz art. 24 ust. 1 pkt 3 ustawy zmienianej w art. 2, wynosi 1 000 000 zł. Art. 4. Ustawa wchodzi w życie z dniem 1 stycznia 2026 r., z wyjątkiem art. 3, który wchodzi w życie z dniem 1 stycznia 2025 r.”;
+2) art. 34 ustawy z dnia 27 listopada 2024 r. o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw (Dz. U. poz. 1940), który stanowi: „ Art. 34. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 w zakresie art. 18b ust. 2, który wchodzi w życie z dniem 1 lipca 2025 r.”. Marszałek Sejmu: S. Hołownia
+USTAWA z dnia 24 kwietnia 2003 r.
+o działalności pożytku publicznego i o wolontariacie
 
 ### DZIAŁ I Przepisy ogólne
 

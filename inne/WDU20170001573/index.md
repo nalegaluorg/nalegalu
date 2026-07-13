@@ -8,10 +8,10 @@ pos: 1573
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 sierpnia 2017 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1573 Załączniki do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 21 lipca..2017 r. (poz. ) Załącznik nr 1 WYMAGANIA W ZAKRESIE WYTWARZANIA I JAKOŚCI MATERIAŁU ROZMNOŻENIOWEGO I MATERIAŁU NASADZENIOWEGO ROŚLIN WARZYWNYCH
 
 | Pole | Wartość |
 |---|---|
@@ -26,13 +26,13 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001573) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1573/text.pdf) |
 
 1. Wymagania dotyczące wytwarzania materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych:
-1) w trakcie wytwarzania materiał rozmnożeniowy i materiał nasadzeniowy wykazujący widoczne oznaki lub objawy występowania organizmów szkodliwych lub chorób wymienionych w ust. 2 pkt 6 poddaje się zabiegom chemicznym mającym na celu usunięcie tych organizmów lub chorób, a jeżeli zabiegi te okażą się nieskuteczne usuwa się ten materiał;
+1) w trakcie wytwarzania materiał rozmnożeniowy i materiał nasadzeniowy wykazujący widoczne oznaki lub objawy występowania organizmów szkodliwych lub chorób wymienionych w ust. 2 pkt 6 poddaje się zabiegom chemicznym mającym na celu usunięcie tych organizmów lub chorób, a jeżeli zabiegi te okażą się nieskuteczne – usuwa się ten materiał;
 2) podczas uprawy materiał rozmnożeniowy i materiał nasadzeniowy utrzymuje się w oddzielnych partiach stanowiących zbiór jednostek materiału rozmnożeniowego lub materiału nasadzeniowego, który można zidentyfikować na podstawie ich jednorodnych cech;
 3) partię, o której mowa w pkt 2, można utworzyć z materiału rozmnożeniowego i materiału nasadzeniowego pochodzącego z różnych plantacji, jeżeli dostawca posiada dokumentację dotyczącą składu tej partii oraz pochodzenia poszczególnych jej składników;
 4) materiał rozmnożeniowy i materiał nasadzeniowy może być oferowany do sprzedaży i sprzedawany jako pojedyncze rośliny, w wiązkach, doniczkach, na paletach i multiplatach lub w pojemnikach z produkcji in vitro.
 2. Wymagania dotyczące jakości materiału rozmnożeniowego i materiału nasadzeniowego roślin warzywnych: Materiał rozmnożeniowy i materiał nasadzeniowy powinien:
 1) być praktycznie wolny od wad mogących obniżyć jego jakość;
-2) charakteryzować się odpowiednią użytecznością, żywotnością oraz mieć właściwe rozmiary i znajdować się w takiej fazie rozwoju, która zapewnia jego przydatność jako materiału rozmnożeniowego i materiału nasadzeniowego;
+2) charakteryzować się odpowiednią użytecznością, żywotnością oraz mieć 3 właściwe rozmiary i znajdować się w takiej fazie rozwoju, która zapewnia jego przydatność jako materiału rozmnożeniowego i materiału nasadzeniowego;
 3) zachowywać odpowiednią proporcję między korzeniami, łodygami i liśćmi;
 4) mieć odpowiednią tożsamość, czystość rodzajową, gatunkową lub odmianową;
 5) być wolny od organizmów kwarantannowych;
@@ -55,7 +55,7 @@ grzyby: − Alternaria porri − Fusarium culmorum − Phytophthora porri − Sc
 − Rhizoctonia solani wirusy i organizmy wirusopodobne: − wszystkie, w szczególności wirus mozaiki kalafiora — Brassica owady, roztocza i nicienie we wszystkich stadiach rozwoju: pekinensis − mszycowate − łuskoskrzydłe, w szczególności Pieris brassicae bakterie: − Erwinia carotovora − Xanthomonas campestris pv. campestris grzyby: − Alternaria brassicae − Botrytis cinerea − Mycosphaerella spp.
 − Phoma lingam − Plasmodiophora brassicae − Sclerotinia spp.
 wirusy i organizmy wirusopodobne: − wszystkie, w szczególności tospowirusy — Capsicum owady, roztocza i nicienie we wszystkich stadiach rozwoju: annuum − mącznikowate − Leptinotarsa decemlineata − Ostrinia nubilalis − Phthorimaea operculella − przędziorki − przylżeńce, w szczególności Frankliniella occidentalis grzyby: − Leveillula taurica − Pyrenochaeta lycopersici − Pythium spp.
-− Phytophthora capsici − Verticillium albo atrum − Verticillium dahlia wirusy i organizmy wirusopodobne: − wszystkie, w szczególności wirus mozaiki ogórka, wirus mozaiki pomidora, wirus łagodnej pstrości papryki i wirus mozaiki tytoniu — Cichorium endiva owady, roztocza i nicienie we wszystkich stadiach rozwoju: − Aphididae − przylżeńce, w szczególności Frankliniella occidentalis grzyby: − Botrytis cinerea − Erysiphe cichoriacearum − Sclerotinia spp.
+− Phytophthora capsici − Verticillium albo atrum − Verticillium dahlia wirusy i organizmy wirusopodobne: − wszystkie, w szczególności wirus mozaiki ogórka, wirus mozaiki pomidora, wirus łagodnej pstrości papryki i wirus mozaiki tytoniu — Cichorium owady, roztocza i nicienie we wszystkich stadiach rozwoju: endiva − Aphididae − przylżeńce, w szczególności Frankliniella occidentalis grzyby: − Botrytis cinerea − Erysiphe cichoriacearum − Sclerotinia spp.
 wirusy i organizmy wirusopodobne: − wszystkie, w szczególności wirus zachodniej żółtaczki buraka i wirus mozaiki sałaty — Cichorium owady, roztocza i nicienie we wszystkich stadiach rozwoju: intybus − mszycowate − Napomyza cichorii − Apion assimile bakterie: − Erwinia carotovora − Erwinia chrysanthemi − Pseudomonas marginalis grzyby: − Phoma exigua − Phytophthora erythroseptica − Pythium spp.
 − Sclerotinia sclerotiorum — Citrullus lanatus owady, roztocza i nicienie we wszystkich stadiach rozwoju: − mącznikowate − mszycowate − Meloidogyne spp.
 − Polyphagotarsonemus latus − Tetranychus spp.
@@ -77,7 +77,7 @@ wirusy i organizmy wirusopodobne: − wszystkie — Cucurbita owady, roztocza i 
 − Polyphagotarsonemus latus − Tetranychus spp.
 − przylżeńce, w szczególności Frankliniella occidentalis bakterie: − Pseudomonas syringae pv. lachrymans grzyby: − Fusarium spp.
 − Sphaerotheca fuliginea − Verticillium spp.
-wirusy i organizmy wirusopodobne: − wszystkie, w szczególności wirus mozaiki ogórka, wirus mozaiki dyni olbrzymiej, wirus żółtej mozaiki cukinii i tospowirusy — Cynara cardunculus i Cynara scolymus owady, roztocza i nicienie we wszystkich stadiach rozwoju: − mącznikowate − mszycowate − przylżeńce grzyby: − Bremia lactucae − Leveillula taurica f. sp. cynara − Pythium spp.
+wirusy i organizmy wirusopodobne: − wszystkie, w szczególności wirus mozaiki ogórka, wirus mozaiki dyni olbrzymiej, wirus żółtej mozaiki cukinii i tospowirusy — Cynara owady, roztocza i nicienie we wszystkich stadiach rozwoju: cardunculus i Cynara scolymus − mącznikowate − mszycowate − przylżeńce grzyby: − Bremia lactucae − Leveillula taurica f. sp. cynara − Pythium spp.
 − Rhizoctonia solani − Sclerotium rolfsii − Sclerotinia sclerotiorum − Verticillium dahliae wirusy i organizmy wirusopodobne: − wszystkie — Foeniculum owady, roztocza i nicienie we wszystkich stadiach rozwoju: vulgare − mącznikowate − mszycowate − przylżeńce bakterie: − Erwinia carotovora subsp. carotovora − Pseudomonas marginalis pv. marginalis grzyby: − Cercospora foeniculi − Phytophthora syringae − Sclerotinia spp.
 wirusy i organizmy wirusopodobne: − wirus mozaiki selera — Lactuca sativa owady, roztocza i nicienie we wszystkich stadiach rozwoju: − mszycowate − Meloidogyne spp.
 − przylżeńce, w szczególności Frankliniella occidentalis grzyby: − Botrytis cinerea − Bremia lactucae − Pythium spp.
@@ -102,6 +102,9 @@ organizmów szkodliwych lub chorób (% wagowy) partii I. Czosnek 1 Cebulki niety
 a) wytworzoną na terytorium Rzeczypospolitej Polskiej partię cebuli producent przed wprowadzeniem do obrotu sortuje na frakcje w przedziale od 5 mm do 25 mm,
 b) w jednym opakowaniu może znajdować się tylko jedna frakcja,
 c) na opakowaniu umieszcza się informację dotyczącą wielkości cebulek.
+
+## Załącznik nr 2 — WYMAGANIA W ZAKRESIE WYTWARZANIA I JAKOŚCI MATERIAŁU ROZMNOŻENIOWEGO I MATERIAŁU NASADZENIOWEGO ROŚLIN OZDOBNYCH
+
 1. Wytwarzany materiał rozmnożeniowy i materiał nasadzeniowy powinien mieć:
 1) odpowiednią tożsamość i czystość rodzajową lub gatunkową;
 2) odpowiednią jednolitość i tożsamość odmianową zgodną z opisem odmiany sporządzonym przez dostawcę zgodnie z przepisami wydanymi na podstawie art. 94 ust. 4 ustawy z dnia 9 listopada 2012 r. o nasiennictwie.
@@ -150,7 +153,7 @@ wirusy i organizmy wirusopodobne: − wszystkie — Rosa owady, roztocza i nicie
 − Tetranychus urticae bakterie: − Agrobacterium tumefaciens grzyby: − Chondrostereum purpureum − Choristoneura spp.
 − Diplocarpon rosae − Peronospora sparsa − Phragmidium spp.
 − Rosellinia necatrix − Sphaeroteca pannosa − Verticillium spp.
-wirusy i organizmy wirusopodobne, w szczególności: − wirus mozaiki jabłka − wirus mozaiki gęsiówki − wirus nekrotycznej pierścieniowej plamistości śliwy I. Wytwarzanie
+wirusy i organizmy wirusopodobne, w szczególności: − wirus mozaiki jabłka − wirus mozaiki gęsiówki − wirus nekrotycznej pierścieniowej plamistości śliwy Załącznik nr 3 WYMAGANIA W ZAKRESIE WYTWARZANIA I JAKOŚCI SADZONEK WINOROŚLI I. Wytwarzanie
 1. Izolacja przestrzenna: mateczniki i szkółki winorośli powinny być położone w odległości nie mniejszej niż 10 m od roślin dziko rosnących lub uprawnych z rodzaju Vitis.
 2. Czystość gatunkowa i odmianowa:
 1) wymagana jest pełna czystość gatunkowa i odmianowa sadzonek winorośli;

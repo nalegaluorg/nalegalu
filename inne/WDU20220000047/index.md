@@ -26,17 +26,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000047) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/47/text.pdf) |
 
 zmieniające rozporządzenie w sprawie opiniowania służbowego policjantów Na podstawie art. 35 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, 2333, 2447 i 2448) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2010 r. w sprawie opiniowania służbowego policjantów (Dz. U. z 2020 r. poz. 1102 i 1686) wprowadza się następujące zmiany:
-1) w § 5:
-a) w pkt 2 po lit. a dodaje się lit. aa w brzmieniu: „aa) Komendanta Centralnego Biura Zwalczania Cyberprzestępczości,”,
-b) po pkt 7 dodaje się pkt 7a i 7b w brzmieniu: „7a) Komendant Centralnego Biura Zwalczania Cyberprzestępczości w stosunku do:
-a) kierownika komórki organizacyjnej bezpośrednio mu podległej,
-b) policjanta na stanowisku bezpośrednio mu podległym lub pozostającego w jego dyspozycji;
-7b) kierownik komórki organizacyjnej, o którym mowa w pkt 7a lit. a, w stosunku do podległych mu policjantów;”;
-2) w § 7 w ust. 2:
-a) w pkt 2 po lit. b dodaje się lit. ba w brzmieniu: „ba) Komendanta Centralnego Biura Zwalczania Cyberprzestępczości,”,
-b) po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) Komendant Centralnego Biura Zwalczania Cyberprzestępczości w stosunku do opinii wydanej przez kierownika komórki organizacyjnej bezpośrednio mu podległej;”.
-§ 2. W sprawach odwołań od opinii służbowych oraz wniosków o ponowne rozpatrzenie sprawy w zakresie opinii służbowych, wniesionych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
-§ 3. Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r.
-Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2010 r. w sprawie opiniowania służbowego policjantów (Dz. U. z 2020 r. poz. 1102 i 1686) wprowadza się następujące zmiany:
+
+- **1)** w § 5:
+    - **a)** w pkt 2 po lit. a dodaje się lit. aa w brzmieniu: „aa) Komendanta Centralnego Biura Zwalczania Cyberprzestępczości,”,
+    - **b)** po pkt 7 dodaje się pkt 7a i 7b w brzmieniu: „7a) Komendant Centralnego Biura Zwalczania Cyberprzestępczości w stosunku do: a) kierownika komórki organizacyjnej bezpośrednio mu podległej, b) policjanta na stanowisku bezpośrednio mu podległym lub pozostającego w jego dyspozycji; 7b) kierownik komórki organizacyjnej, o którym mowa w pkt 7a lit. a, w stosunku do podległych mu policjantów;”;
+
+- **2)** w § 7 w ust. 2:
+    - **a)** w pkt 2 po lit. b dodaje się lit. ba w brzmieniu: „ba) Komendanta Centralnego Biura Zwalczania Cyberprzestępczości,”,
+    - **b)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) Komendant Centralnego Biura Zwalczania Cyberprzestępczości w stosunku do opinii wydanej przez kierownika komórki organizacyjnej bezpośrednio mu podległej;”.
+
+**§ 2.** W sprawach odwołań od opinii służbowych oraz wniosków o ponowne rozpatrzenie sprawy w zakresie opinii służbowych, wniesionych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r. Minister Spraw Wewnętrznych i Administracji: wz. B. Poboży
 

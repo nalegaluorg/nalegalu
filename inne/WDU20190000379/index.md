@@ -27,8 +27,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie ustalenia wysokości wynagrodzenia za świadczeń związanych z pracą dla pracowników Polskiego Komitetu Na podstawie art. 17 ust. 3 ustawy z dnia 12 września 2002 r. o normalizacji (Dz.
 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn.
-§ 1. W rozporządzeniu Ministra Rodziny, Pracy i Polityki Społecznej z dnia 3 wysokości wynagrodzenia za pracę i przyznawania innych świadczeń związanych Komitetu Normalizacyjnego (Dz. U. poz. 336) załącznik nr 1 do rozporządzenia otrzymuje niku do niniejszego rozporządzenia.
-§ 2. Miesięczne stawki wynagrodzenia zasadniczego określone w załączniku do zastosowanie do wynagrodzeń należnych od dnia 1 stycznia 2019 r.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rodziny, Pracy TABELA MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO Kategoria zaszeregowania Kwota w złotych 1 2 I 2 000–3500 II 2 200–3 700 III 2 300–4 000 IV 2 400–4 300 V 2 500–4 600 VI 2 600–4 900 VII 2 800–5 500 VIII 3 000–5 900 IX 3 300–6 300 X 3 500–6 900 XI 3 900–7 500 XII 4 500–8 700
+
+**§ 1.** W rozporządzeniu Ministra Rodziny, Pracy i Polityki Społecznej z dnia 3 wysokości wynagrodzenia za pracę i przyznawania innych świadczeń związanych Komitetu Normalizacyjnego (Dz. U. poz. 336) załącznik nr 1 do rozporządzenia otrzymuje niku do niniejszego rozporządzenia.
+
+**§ 2.** Miesięczne stawki wynagrodzenia zasadniczego określone w załączniku do zastosowanie do wynagrodzeń należnych od dnia 1 stycznia 2019 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rodziny, Pracy TABELA MIESIĘCZNYCH STAWEK WYNAGRODZENIA ZASADNICZEGO Kategoria zaszeregowania Kwota w złotych 1 2 I 2 000–3500 II 2 200–3 700 III 2 300–4 000 IV 2 400–4 300 V 2 500–4 600 VI 2 600–4 900 VII 2 800–5 500 VIII 3 000–5 900 IX 3 300–6 300 X 3 500–6 900 XI 3 900–7 500 XII 4 500–8 700
 

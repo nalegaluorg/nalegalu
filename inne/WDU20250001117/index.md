@@ -30,46 +30,76 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sp
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 20 lutego 2024 r. zmieniającego rozporządzenie w sprawie wymogów dla systemów wyliczania utrzymywanych w podmiotach objętych systemem gwarantowania (Dz. U. poz. 250), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.”. Minister Finansów i Gospodarki: wz. J. Drop Minister Finansów i Gospodarki kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997). Załącznik do obwieszczenia Ministra Finansów i Gospodarki z dnia 1 sierpnia 2025 r. (Dz. U. poz. 1117)
 ROZPORZĄDZENIE MINISTRA FINANSÓW z dnia 26 września 2016 r.
 w sprawie wymogów dla systemów wyliczania utrzymywanych w podmiotach objętych systemem gwarantowania Na podstawie art. 30 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2025 r. poz. 643 i 1069) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) minimalne wymogi, jakie powinien spełniać system wyliczania, o którym mowa w art. 28 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, zwanej dalej „ustawą”;
-2) szczegółowy zakres i strukturę danych zawartych w systemie wyliczania, a także standard techniczny ich przygotowania i zapisu;
-3) format i tryb przekazywania danych do Bankowego Funduszu Gwarancyjnego;
-4) sposób oznaczenia środków gwarantowanych, których dotyczy postępowanie w sprawach określonych w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383);
-5) tryb i sposób kontroli prawidłowości danych zawartych w systemie wyliczania.
-§ 2. 1. Minimalne wymogi, jakie powinien spełniać system wyliczania, określa załącznik nr 1 do rozporządzenia.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** minimalne wymogi, jakie powinien spełniać system wyliczania, o którym mowa w art. 28 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, zwanej dalej „ustawą”;
+- **2)** szczegółowy zakres i strukturę danych zawartych w systemie wyliczania, a także standard techniczny ich przygotowania i zapisu;
+- **3)** format i tryb przekazywania danych do Bankowego Funduszu Gwarancyjnego;
+- **4)** sposób oznaczenia środków gwarantowanych, których dotyczy postępowanie w sprawach określonych w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383);
+- **5)** tryb i sposób kontroli prawidłowości danych zawartych w systemie wyliczania.
+
+**§ 2.**
+
+1. Minimalne wymogi, jakie powinien spełniać system wyliczania, określa załącznik nr 1 do rozporządzenia.
+
 2. Szczegółowy zakres i strukturę danych zawartych w systemie wyliczania podmiotu objętego systemem gwarantowania, zwanego dalej „podmiotem”, o którym mowa w:
-1) art. 2 pkt 41 lit. a i b ustawy, określa załącznik nr 2 do rozporządzenia;
-2) art. 2 pkt 41 lit. c ustawy, określa załącznik nr 3 do rozporządzenia.
-§ 3. 1. Dane przygotowane w systemie wyliczania są zapisywane w dokumencie elektronicznym w formacie XML w wersji 1.0. Kodowania pliku dokonuje się w standardzie UTF-8.
+
+- **1)** art. 2 pkt 41 lit. a i b ustawy, określa załącznik nr 2 do rozporządzenia;
+- **2)** art. 2 pkt 41 lit. c ustawy, określa załącznik nr 3 do rozporządzenia.
+
+**§ 3.**
+
+1. Dane przygotowane w systemie wyliczania są zapisywane w dokumencie elektronicznym w formacie XML w wersji 1.0. Kodowania pliku dokonuje się w standardzie UTF-8.
+
 2. Dokument elektroniczny, o którym mowa w ust. 1, jest zgodny ze schematem XSD, który Bankowy Fundusz Gwarancyjny udostępnia podmiotowi w wersji elektronicznej na stronie internetowej Bankowego Funduszu Gwarancyjnego.
+
 3. Wartości danych słownikowych oraz ich aktualizację Bankowy Fundusz Gwarancyjny udostępnia w wersji elektronicznej na stronie internetowej Bankowego Funduszu Gwarancyjnego.
-§ 4. 1. Dokumenty elektroniczne zawierające dane przygotowane w systemie wyliczania są opatrzone kwalifikowanym podpisem elektronicznym, przez osoby uprawnione do reprezentowania podmiotu.
-2. Podpisy osób uprawnionych, o których mowa w ust. 1, stanowią również potwierdzenie rzetelności i prawidłowości przekazywanych danych.
-Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – instytucje finansowe kieruje Minister Finansów i Gospodarki, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997).
+
+**§ 4.**
+
+1. Dokumenty elektroniczne zawierające dane przygotowane w systemie wyliczania są opatrzone kwalifikowanym podpisem elektronicznym, przez osoby uprawnione do reprezentowania podmiotu.
+
+2. Podpisy osób uprawnionych, o których mowa w ust. 1, stanowią również potwierdzenie rzetelności i prawidłowości przekazywanych danych. Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – instytucje finansowe kieruje Minister Finansów i Gospodarki, na podstawie § 1 ust. 2 pkt 5 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997).
+
 3. W celu przekazywania dokumentów elektronicznych Bankowy Fundusz Gwarancyjny udostępnia w sieci Internet aplikację, zwaną dalej „portalem internetowym”, umożliwiającą przesyłanie plików kanałem wykorzystującym protokół TLS.
+
 4. (uchylony).
+
 5. Dokumenty elektroniczne, przed wysłaniem, kompresuje się do formatu archiwum RAR lub ZIP oraz szyfruje się udostępnionym w tym celu kluczem publicznym Bankowego Funduszu Gwarancyjnego.
-§ 5. 1. Dane zawarte w systemie wyliczania są przekazywane na żądanie, o którym mowa w art. 32 ust. 2 ustawy, do Bankowego Funduszu Gwarancyjnego w terminie określonym w żądaniu.
+
+**§ 5.**
+
+1. Dane zawarte w systemie wyliczania są przekazywane na żądanie, o którym mowa w art. 32 ust. 2 ustawy, do Bankowego Funduszu Gwarancyjnego w terminie określonym w żądaniu.
+
 2. Przekazywanie danych następuje za pośrednictwem portalu internetowego. Szczegółowe informacje umożliwiające przekazywanie danych są publikowane na stronie internetowej Bankowego Funduszu Gwarancyjnego.
+
 3. W uzasadnionych przypadkach, za zgodą Bankowego Funduszu Gwarancyjnego, dane mogą być przekazywane na informatycznym nośniku danych jednokrotnego zapisu.
-§ 6. 1. Kontrola, o której mowa w art. 32 ust. 1 pkt 1 ustawy, jest przeprowadzana w siedzibie Bankowego Funduszu Gwarancyjnego i obejmuje dokonywaną przez Bankowy Fundusz Gwarancyjny ocenę poprawności i kompletności danych niezbędnych do identyfikacji deponentów oraz należnych im kwot środków gwarantowanych.
+
+**§ 6.**
+
+1. Kontrola, o której mowa w art. 32 ust. 1 pkt 1 ustawy, jest przeprowadzana w siedzibie Bankowego Funduszu Gwarancyjnego i obejmuje dokonywaną przez Bankowy Fundusz Gwarancyjny ocenę poprawności i kompletności danych niezbędnych do identyfikacji deponentów oraz należnych im kwot środków gwarantowanych.
+
 2. Podmiot udziela niezwłocznie Bankowemu Funduszowi Gwarancyjnemu wyjaśnień na temat przekazanych danych.
+
 3. Bankowy Fundusz Gwarancyjny przekazuje niezwłocznie podmiotowi pisemną informację o wynikach z przeprowadzonej kontroli.
-§ 7. Kontrola, o której mowa w art. 32 ust. 1 pkt 2 ustawy, jest przeprowadzana w siedzibie podmiotu i obejmuje w szczególności sprawdzenie poprawności:
-1) danych zawartych w systemie wyliczania na podstawie dokumentów źródłowych znajdujących się w posiadaniu tego podmiotu;
-2) stosowania przez ten podmiot definicji deponenta i środków gwarantowanych, określonych w ustawie.
-§ 8. 1. Z przeprowadzonej przez Bankowy Fundusz Gwarancyjny kontroli określonej w § 7 jest sporządzany protokół.
+
+**§ 7.** Kontrola, o której mowa w art. 32 ust. 1 pkt 2 ustawy, jest przeprowadzana w siedzibie podmiotu i obejmuje w szczególności sprawdzenie poprawności:
+
+- **1)** danych zawartych w systemie wyliczania na podstawie dokumentów źródłowych znajdujących się w posiadaniu tego podmiotu;
+- **2)** stosowania przez ten podmiot definicji deponenta i środków gwarantowanych, określonych w ustawie.
+
+**§ 8.**
+
+1. Z przeprowadzonej przez Bankowy Fundusz Gwarancyjny kontroli określonej w § 7 jest sporządzany protokół.
+
 2. Protokół podpisują osoby uprawnione do reprezentowania podmiotu w terminie 7 dni od dnia przedstawienia go do podpisu.
-§ 8a. W przypadku gdy podczas przeprowadzania kontroli, o której mowa w art. 32 ust. 1 ustawy, nastąpiło spełnienie warunku gwarancji albo została wydana decyzja o wszczęciu przymusowej restrukturyzacji, o której mowa w art. 101 ust. 7 ustawy, Bankowy Fundusz Gwarancyjny przekazuje niezwłocznie podmiotowi pisemną informację o zakończeniu kontroli.
-Przepisów § 6 ust. 3 i § 8 nie stosuje się.
-§ 9. Podmiot, w terminie 14 dni od dnia otrzymania informacji, o której mowa w § 6 ust. 3, albo od dnia podpisania protokołu, o którym mowa w § 8 ust. 1, informuje w formie pisemnej Bankowy Fundusz Gwarancyjny o podjętych działaniach mających na celu usunięcie nieprawidłowości wskazanych przez Bankowy Fundusz Gwarancyjny.
-§ 10. Rozporządzenie wchodzi w życie z dniem 9 października 2016 r.
-Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 20 lutego 2024 r. zmieniającego rozporządzenie w sprawie wymogów dla systemów wyliczania utrzymywanych w podmiotach objętych systemem gwarantowania (Dz. U.
-poz. 250), które weszło w życie z dniem 24 sierpnia 2024 r.
-Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.
-Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.
-Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 stycznia 2011 r. w sprawie wymogów dla systemów wyliczania utrzymywanych w podmiotach objętych obowiązkowym systemem gwarantowania (Dz. U. z 2013 r.
-poz. 1469) oraz rozporządzeniem Ministra Finansów z dnia 26 września 2013 r. w sprawie wymogów dla systemów wyliczania utrzymywanych w spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. poz. 1198), które utraciły moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 386 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996).
+
+**§ 8a.** W przypadku gdy podczas przeprowadzania kontroli, o której mowa w art. 32 ust. 1 ustawy, nastąpiło spełnienie warunku gwarancji albo została wydana decyzja o wszczęciu przymusowej restrukturyzacji, o której mowa w art. 101 ust. 7 ustawy, Bankowy Fundusz Gwarancyjny przekazuje niezwłocznie podmiotowi pisemną informację o zakończeniu kontroli. Przepisów § 6 ust. 3 i § 8 nie stosuje się.
+
+**§ 9.** Podmiot, w terminie 14 dni od dnia otrzymania informacji, o której mowa w § 6 ust. 3, albo od dnia podpisania protokołu, o którym mowa w § 8 ust. 1, informuje w formie pisemnej Bankowy Fundusz Gwarancyjny o podjętych działaniach mających na celu usunięcie nieprawidłowości wskazanych przez Bankowy Fundusz Gwarancyjny.
+
+**§ 10.** Rozporządzenie wchodzi w życie z dniem 9 października 2016 r. Ze zmianą wprowadzoną przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 20 lutego 2024 r. zmieniającego rozporządzenie w sprawie wymogów dla systemów wyliczania utrzymywanych w podmiotach objętych systemem gwarantowania (Dz. U. poz. 250), które weszło w życie z dniem 24 sierpnia 2024 r. Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 27 stycznia 2011 r. w sprawie wymogów dla systemów wyliczania utrzymywanych w podmiotach objętych obowiązkowym systemem gwarantowania (Dz. U. z 2013 r. poz. 1469) oraz rozporządzeniem Ministra Finansów z dnia 26 września 2013 r. w sprawie wymogów dla systemów wyliczania utrzymywanych w spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. poz. 1198), które utraciły moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 386 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996).
 
 ## Załącznik nr 1 — nr 1 MINIMALNE MINIMALNE WYMOGI, WYMOGI, JAKIE JAKIE POWINIEN POWINIEN SPEŁNIAĆ SPEŁNIAĆ SYSTEM SYSTEM WYLICZANIA WYLICZANIA
 

@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania strażaków na zwolnieniach lekarskich Na podstawie art. 105i ust. 3 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 r.
 poz. 1340, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 29 maja 2014 r. w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania strażaków na zwolnieniach lekarskich (Dz. U. poz. 718) w załączniku w tabeli nr 2:
-1) po wierszu oznaczonym lp. 10 dodaje się wiersz oznaczony lp. 10a w brzmieniu: 10a przebywanie na obserwacji w podmiocie leczniczym w wyniku skierowania przez komisję lekarską – art. 105b ust. 5 pkt 7 ustawy o Państwowej Straży Pożarnej
-2) wiersze po lp. 10 „RAZEM (wiersze 1–10)” i „ŚREDNIA (wiersze 1–10)” otrzymują brzmienie: RAZEM (wiersze 1–10a) ŚREDNIA (wiersze 1–10a)
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
-Minister Spraw Wewnętrznych: wz. G. Karpiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 29 maja 2014 r. w sprawie wzoru rocznego zestawienia zbiorczego przyczyn przebywania strażaków na zwolnieniach lekarskich (Dz. U. poz. 718) w załączniku w tabeli nr 2:
+
+- **1)** po wierszu oznaczonym lp. 10 dodaje się wiersz oznaczony lp. 10a w brzmieniu: 10a przebywanie na obserwacji w podmiocie leczniczym w wyniku skierowania przez komisję lekarską – art. 105b ust. 5 pkt 7 ustawy o Państwowej Straży Pożarnej
+- **2)** wiersze po lp. 10 „RAZEM (wiersze 1–10)” i „ŚREDNIA (wiersze 1–10)” otrzymują brzmienie: RAZEM (wiersze 1–10a) ŚREDNIA (wiersze 1–10a)
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. Minister Spraw Wewnętrznych: wz. G. Karpiński
 

@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej Na podstawie art. 8a ust. 2 pkt 2 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2019 r.
 poz. 59 oraz z 2020 r. poz. 322, 374, 567, 1337 i 2112) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 17 października 2014 r. w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 1474 oraz z 2019 r. poz. 2230) w § 2 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) System Ewidencji Państwowej Inspekcji Sanitarnej (SEPIS);”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 17 października 2014 r. w sprawie systemów wymiany informacji w zakresie dotyczącym zadań Państwowej Inspekcji Sanitarnej (Dz. U. poz. 1474 oraz z 2019 r. poz. 2230) w § 2 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) System Ewidencji Państwowej Inspekcji Sanitarnej (SEPIS);”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: A. Niedzielski
 

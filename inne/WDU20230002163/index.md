@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002163) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2163/text.pdf) |
 
 zmieniające rozporządzenie w sprawie specjalnego obszaru ochrony siedlisk Ostoja Szaniecko-Solecka (PLH260034) Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 18 czerwca 2018 r. w sprawie specjalnego obszaru ochrony siedlisk Ostoja Szaniecko-Solecka (PLH260034) (Dz. U. poz. 1545) załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: A. Moskwa GATUNKI ROŚLIN BĘDĄCE PRZEDMIOTEM OCHRONY NA SPECJALNYM OBSZARZE OCHRONY SIEDLISK OSTOJA SZANIECKO-SOLECKA (PLH260034) Lp. Nazwa polska Nazwa naukowa 1 języczka syberyjska Ligularia sibirica 2 lipiennik Loesela Liparis loeselii 3 obuwik pospolity Cypripedium calceolus 4 sasanka otwarta Pulsatilla patens 5 starodub łąkowy Angelica palustris (= Ostericum palustre)
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 18 czerwca 2018 r. w sprawie specjalnego obszaru ochrony siedlisk Ostoja Szaniecko-Solecka (PLH260034) (Dz. U. poz. 1545) załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: A. Moskwa GATUNKI ROŚLIN BĘDĄCE PRZEDMIOTEM OCHRONY NA SPECJALNYM OBSZARZE OCHRONY SIEDLISK OSTOJA SZANIECKO-SOLECKA (PLH260034) Lp. Nazwa polska Nazwa naukowa 1 języczka syberyjska Ligularia sibirica 2 lipiennik Loesela Liparis loeselii 3 obuwik pospolity Cypripedium calceolus 4 sasanka otwarta Pulsatilla patens 5 starodub łąkowy Angelica palustris (= Ostericum palustre)
 

@@ -25,7 +25,16 @@ source: pdf
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000652) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/652/text.pdf) |
 
-§ 1. 1. W części A sprawozdania Rb-Z należy wykazać wartość nominalną zobowiązań
+#### Rozdział 1. Sprawozdanie Rb-Z kwartalne o stanie zobowiązań według tytułów dłużnych
+
+#### Rozdział 1. Sprawozdanie Rb-Z kwartalne o stanie zobowiązań według tytułów dłużnych oraz poręczeń i gwarancji oraz poręczeń i gwarancji
+
+**§ 1.**
+
+1. W części A sprawozdania Rb-Z należy wykazać wartość nominalną zobowiązań
+
+## Załącznik
+
 § 1. 1. W części A sprawozdania Rb-Z należy wykazać wartość nominalną zobowiązań jednostki sektora finansów publicznych, zwanej dalej „jednostką”, na koniec danego okresu jednostki sektora finansów publicznych, zwanej dalej „jednostką”, na koniec danego okresu sprawozdawczego według tytułów dłużnych (układ przedmiotowy) oraz wobec grup sprawozdawczego według tytułów dłużnych (układ przedmiotowy) oraz wobec grup wierzycieli (układ podmiotowy), z zastrzeżeniem ust. 2.
 wierzycieli (układ podmiotowy), z zastrzeżeniem ust. 2.
 2. W przypadku braku informacji co do obrotu papierami wartościowymi na rynku
@@ -143,6 +152,7 @@ leasing finansowy;
 1.1 jako jednostki objętej sprawozdaniem łącznym, natomiast pod liczbami początkowymi 2, 3 itd. wykazuje się numer REGON jednostki, która sporządziła i przekazała sprawozdania jednostkowe lub łączne do odbiorcy sprawozdania łącznego. Następnie w pozycjach 2.1, 2.2,
 2.3,..., 3.1, 3.2, 3.3 itd. wykazuje się numery identyfikacyjne REGON jednostek, których sprawozdania jednostkowe obejmuje sprawozdanie łączne, złożone przez jednostkę, której numer identyfikacyjny REGON wykazano odpowiednio pod liczbą początkową 2, 3 itd.;
 postanowienia ust. 3 stosuje się odpowiednio.
+Rozdział 2. Sprawozdanie Rb-N kwartalne o stanie należności oraz wybranych aktywów finansowych
 § 12. 1. W części A sprawozdania Rb-N należy wykazać wartość nominalną należności oraz wybranych aktywów finansowych, zwanych dalej „należnościami”, jednostki na koniec danego okresu sprawozdawczego według poszczególnych tytułów (układ przedmiotowy) oraz wobec grup dłużników (układ podmiotowy).
 2. W sprawozdaniu Rb-N, w pozycjach odnoszących się do należności według poszczególnych tytułów, wykazuje się kwoty należności ogółem, w tym należności długoterminowe, przy czym przez pojęcie „należności długoterminowe” rozumie się należności, których pierwotny termin spłaty czy też wykupu jest dłuższy niż rok. Przez pierwotny termin zapadalności, tj. spłaty lub wykupu, należy rozumieć termin, wynikający z umowy, do końca którego dłużnik zobowiązał się spłacić dane zobowiązanie, niezależnie od harmonogramu spłat. W przypadku zmiany umowy za pierwotny termin zapłaty należności uznaje się nowy termin wynikający ze zmiany umowy liczony względem terminu powstania zobowiązania do płatności.
 3. Według pierwotnego terminu zapadalności klasyfikuje się należności na podstawie terminu ostatecznej zapłaty względem terminu powstania zobowiązania. Jeżeli należność jest spłacana w ratach, do ustalenia zapadalności jest brana pod uwagę data spłaty ostatniej raty.
@@ -229,6 +239,7 @@ Nierezydentami są również znajdujące się poza terytorium Rzeczypospolitej P
 10) w kolumnie 7 – grupa IV – wartość należności z tytułu udzielonych poręczeń i gwarancji od jednostek zaliczonych do grupy IV, o których mowa w § 13 ust. 2 pkt 1 lit.
 d;
 11) w kolumnie 8 – pozostałe podmioty – wartość należności z tytułu udzielonych poręczeń i gwarancji od podmiotów innych niż wskazane w kolumnach od 4 do 7.
+Rozdział 3. Sprawozdanie Rb-UZ roczne uzupełniające o stanie zobowiązań według tytułów dłużnych
 § 16. 1. W części A sprawozdania Rb-UZ Struktura walutowa tytułów dłużnych według wartości nominalnej należy wykazać wartość nominalną zobowiązań jednostki na koniec danego okresu sprawozdawczego z tytułu wyemitowanych papierów wartościowych, zaciągniętych kredytów i pożyczek, przyjętych depozytów oraz zobowiązań wymagalnych, o których mowa w § 2 ust. 1, w podziale na waluty, w których zaciągnięto dane zobowiązania (układ kolumn).
 2. Wartość zobowiązań w części A w walutach innych niż złoty polski należy wykazać w walucie polskiej, przeliczając zobowiązania według średniego kursu NBP dla poszczególnych walut obcych, zgodnie z rozporządzeniem wydanym na podstawie art. 73 ust.
 5 ustawy, z wyjątkiem zobowiązań wykazywanych w kolumnie 8 – Pozostałe waluty wg średniej arytmetycznej, które przelicza się według średniej arytmetycznej średnich kursów danej waluty ogłaszanych przez NBP i obowiązujących w dni robocze danego roku budżetowego; średnie arytmetyczne walut obcych za dany rok budżetowy dostępne będą na stronach internetowych Ministerstwa Finansów.
@@ -338,12 +349,4 @@ Ponadto wartości wykazane w tej kolumnie powinny być tożsame z wartościami w
 2) w kolumnie 3 – (0,1> – wartość nominalną zaciągniętych kredytów i pożyczek, według stanu na koniec okresu sprawozdawczego, których pozostały termin zapadalności jest równy rokowi bądź krótszy od jednego roku;
 3) w kolumnie 4 – (1,5> – wartość nominalną zaciągniętych kredytów i pożyczek, według stanu na koniec okresu sprawozdawczego, których pozostały termin zapadalności jest dłuższy niż rok, ale nie dłuższy niż pięć lat;
 4) w kolumnie 5 – powyżej 5 – wartość nominalną zaciągniętych kredytów i pożyczek, według stanu na koniec okresu sprawozdawczego, których pozostały termin zapadalności jest dłuższy niż pięć lat.
-
-#### Rozdział 1. Sprawozdanie Rb-Z kwartalne o stanie zobowiązań według tytułów dłużnych
-
-#### Rozdział 1. Sprawozdanie Rb-Z kwartalne o stanie zobowiązań według tytułów dłużnych oraz poręczeń i gwarancji oraz poręczeń i gwarancji
-
-#### Rozdział 2. Sprawozdanie Rb-N kwartalne o stanie należności oraz wybranych aktywów finansowych
-
-#### Rozdział 3. Sprawozdanie Rb-UZ roczne uzupełniające o stanie zobowiązań według tytułów dłużnych
 

@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wymagań dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych Na podstawie art. 12 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U.
 z 2017 r. poz. 1398) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju z dnia 11 lipca 2016 r. w sprawie wymagań dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych (Dz. U. poz. 1036) w załączniku nr 1 do rozporządzenia:
-1) w części A „KATEGORIE URZĄDZEŃ CIŚNIENIOWYCH” w tablicy 5 „Urządzenia ciśnieniowe, o których mowa w § 8 pkt 1 rozporządzenia” ostatni wiersz otrzymuje brzmienie: „Szybkowary ciśnieniowe poddaje się procedurze oceny zgodności równoważnej przynajmniej jednemu modułowi kategorii III.”;
-2) w części B „GRAFICZNE ODWZOROWANIE TABLIC 1–9” w wykresie 5 „Urządzenia ciśnieniowe, o których mowa w § 8 pkt 1 rozporządzenia” opis otrzymuje brzmienie: „Szybkowary ciśnieniowe poddaje się procedurze oceny zgodności równoważnej przynajmniej jednemu modułowi kategorii III.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rozwoju i Finansów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju z dnia 11 lipca 2016 r. w sprawie wymagań dla urządzeń ciśnieniowych i zespołów urządzeń ciśnieniowych (Dz. U. poz. 1036) w załączniku nr 1 do rozporządzenia:
+
+- **1)** w części A „KATEGORIE URZĄDZEŃ CIŚNIENIOWYCH” w tablicy 5 „Urządzenia ciśnieniowe, o których mowa w § 8 pkt 1 rozporządzenia” ostatni wiersz otrzymuje brzmienie: „Szybkowary ciśnieniowe poddaje się procedurze oceny zgodności równoważnej przynajmniej jednemu modułowi kategorii III.”;
+- **2)** w części B „GRAFICZNE ODWZOROWANIE TABLIC 1–9” w wykresie 5 „Urządzenia ciśnieniowe, o których mowa w § 8 pkt 1 rozporządzenia” opis otrzymuje brzmienie: „Szybkowary ciśnieniowe poddaje się procedurze oceny zgodności równoważnej przynajmniej jednemu modułowi kategorii III.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rozwoju i Finansów: M. Morawiecki
 

@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000210) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/210/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wykazu instytucji powołanych do kontroli jakości surowców używanych do produkcji produktów leczniczych Na podstawie art. 48 ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. Nr 68, poz. 622, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 16 lutego 2011 r. w sprawie wykazu instytucji powołanych do kontroli jakości surowców używanych do produkcji produktów leczniczych (Dz. U. Nr 37, poz. 194) w § 1 uchyla się pkt 9.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: B.A. Arłukowicz
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 16 lutego 2011 r. w sprawie wykazu instytucji powołanych do kontroli jakości surowców używanych do produkcji produktów leczniczych (Dz. U. Nr 37, poz. 194) w § 1 uchyla się pkt 9.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: B.A. Arłukowicz
 

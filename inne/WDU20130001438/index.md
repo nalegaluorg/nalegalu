@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie udzielania pomocy publicznej w ramach programów Europejskiej Współpracy Terytorialnej, 2007–2013 Na podstawie art. 21 ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r.
 Nr 84, poz. 712, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju Regionalnego z dnia 8 marca 2013 r. w sprawie udzielania pomocy publicznej w ramach programów Europejskiej Współpracy Terytorialnej, 2007–2013 (Dz. U. poz. 365) § 28 otrzymuje brzmienie: „§ 28. 1. Regionalnej pomocy inwestycyjnej udziela się do dnia określonego w art. 44 ust. 3 zdanie drugie rozporządzenia nr 800/2008.
-2. Pomocy de minimis udziela się do dnia 30 czerwca 2014 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rozwoju Regionalnego: E. Bieńkowska
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju Regionalnego z dnia 8 marca 2013 r. w sprawie udzielania pomocy publicznej w ramach programów Europejskiej Współpracy Terytorialnej, 2007–2013 (Dz. U. poz. 365) § 28 otrzymuje brzmienie: „§ 28. 1. Regionalnej pomocy inwestycyjnej udziela się do dnia określonego w art. 44 ust. 3 zdanie drugie rozporządzenia nr 800/2008. 2. Pomocy de minimis udziela się do dnia 30 czerwca 2014 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rozwoju Regionalnego: E. Bieńkowska
 

@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001073) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1073/text.pdf) |
 
 w sprawie określenia dyrektora urzędu morskiego właściwego do rozpatrywania skarg w sprawie naruszeń praw pasażerów podróżujących drogą morską Na podstawie art. 43a ust. 5 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2013 r. poz. 934 i 1014) zarządza się, co następuje:
-§ 1. Dyrektorem urzędu morskiego właściwym do rozpatrywania skarg w sprawie naruszeń praw pasażerów podróżujących drogą morską jest dyrektor Urzędu Morskiego w Gdyni oraz dyrektor Urzędu Morskiego w Szczecinie. Dyrektor Urzędu Morskiego w Szczecinie jest właściwy do rozpatrywania skarg z terytorialnego zakresu działania dyrektora Urzędu Morskiego w Słupsku.
-§ 2. Rozporządzenie wchodzi w życie z dniem 19 września 2013 r.
-Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak
+
+**§ 1.** Dyrektorem urzędu morskiego właściwym do rozpatrywania skarg w sprawie naruszeń praw pasażerów podróżujących drogą morską jest dyrektor Urzędu Morskiego w Gdyni oraz dyrektor Urzędu Morskiego w Szczecinie. Dyrektor Urzędu Morskiego w Szczecinie jest właściwy do rozpatrywania skarg z terytorialnego zakresu działania dyrektora Urzędu Morskiego w Słupsku.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 19 września 2013 r. Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak
 

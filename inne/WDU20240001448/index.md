@@ -26,18 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001448) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1448/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Sanitarnemu Na podstawie art. 7 ust. 4 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 13 sierpnia 2021 r. w sprawie nadania statutu Głównemu Inspektoratowi Sanitarnemu (Dz. U. z 2023 r. poz. 2086) w załączniku do rozporządzenia § 3 otrzymuje brzmienie: „§ 3. W skład Głównego Inspektoratu wchodzą:
-1) Departament Bezpieczeństwa Zdrowotnego Człowieka w Środowisku;
-2) Departament Bezpieczeństwa Żywności i Żywienia;
-3) Departament Budżetu i Finansów;
-4) Departament Jakości i Nadzoru;
-5) Departament Nadzoru nad Chemikaliami;
-6) Departament Prawny;
-7) Departament Promocji Zdrowia i Komunikacji Społecznej;
-8) Departament Usług Cyfrowych;
-9) Departament Zapobiegania i Kontroli Chorób Zakaźnych;
-10) Biuro Dyrektora Generalnego;
-11) Biuro Głównego Inspektora.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: I. Leszczyna
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 13 sierpnia 2021 r. w sprawie nadania statutu Głównemu Inspektoratowi Sanitarnemu (Dz. U. z 2023 r. poz. 2086) w załączniku do rozporządzenia § 3 otrzymuje brzmienie: „§ 3. W skład Głównego Inspektoratu wchodzą: 1) Departament Bezpieczeństwa Zdrowotnego Człowieka w Środowisku; 2) Departament Bezpieczeństwa Żywności i Żywienia; 3) Departament Budżetu i Finansów; 4) Departament Jakości i Nadzoru; 5) Departament Nadzoru nad Chemikaliami; 6) Departament Prawny; 7) Departament Promocji Zdrowia i Komunikacji Społecznej; 8) Departament Usług Cyfrowych; 9) Departament Zapobiegania i Kontroli Chorób Zakaźnych; 10) Biuro Dyrektora Generalnego; 11) Biuro Głównego Inspektora.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: I. Leszczyna
 

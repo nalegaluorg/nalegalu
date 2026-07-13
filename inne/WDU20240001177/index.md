@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001177) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1177/text.pdf) |
 
 zmieniające rozporządzenie w sprawie dodatków do uposażenia funkcjonariuszy Służby Wywiadu Wojskowego Na podstawie art. 79 ust. 3 i 4 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. z 2023 r. poz. 2098) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie dodatków do uposażenia funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. z 2018 r. poz. 1501 oraz z 2024 r. poz. 554) w § 4 w ust. 1 część wspólna otrzymuje brzmienie: „– może być przyznany dodatek kontrolerski w wysokości do 25 % najniższej stawki uposażenia zasadniczego według 07 grupy zaszeregowania.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: z up. P. Bejda
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie dodatków do uposażenia funkcjonariuszy Służby Wywiadu Wojskowego (Dz. U. z 2018 r. poz. 1501 oraz z 2024 r. poz. 554) w § 4 w ust. 1 część wspólna otrzymuje brzmienie: „– może być przyznany dodatek kontrolerski w wysokości do 25 % najniższej stawki uposażenia zasadniczego według 07 grupy zaszeregowania.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: z up. P. Bejda
 

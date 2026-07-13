@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002029) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/2029/text.pdf) |
 
 zmieniające rozporządzenie w sprawie rodzajów elektronicznej dokumentacji medycznej Na podstawie art. 13a ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2019 poz. 408, 730, 1590 i 1905) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 8 maja 2018 r. w sprawie rodzajów elektronicznej dokumentacji medycznej (Dz. U. poz. 941) w § 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „4) wyniki badań laboratoryjnych wraz z opisem;
-5) opis badań diagnostycznych, innych niż wskazane w pkt 4.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem § 1 w zakresie § pkt 4, który wchodzi w życie po upływie 18 miesięcy od dnia ogłoszenia.
-Minister Zdrowia: wz. J. Szczurek-Żelazko
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 8 maja 2018 r. w sprawie rodzajów elektronicznej dokumentacji medycznej (Dz. U. poz. 941) w § 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „4) wyniki badań laboratoryjnych wraz z opisem; 5) opis badań diagnostycznych, innych niż wskazane w pkt 4.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem § 1 w zakresie § pkt 4, który wchodzi w życie po upływie 18 miesięcy od dnia ogłoszenia. Minister Zdrowia: wz. J. Szczurek-Żelazko
 

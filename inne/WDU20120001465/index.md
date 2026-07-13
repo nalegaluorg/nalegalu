@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie określenia wzorów wniosków o udostępnienie danych z Rejestru Dowodów Osobistych oraz dokumentacji związanej z dowodami osobistymi Na podstawie art. 78 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych (Dz. U. Nr 167, poz. 1131, z 2011 r.
 Nr 133, poz. 768 oraz z 2012 r. poz. 1407) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 października 2011 r. w sprawie określenia wzorów wniosków o udostępnienie danych z Rejestru Dowodów Osobistych oraz dokumentacji związanej z dowodami osobistymi (Dz. U. Nr 243, poz. 1452) § 2 otrzymuje brzmienie: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych: J. Cichocki
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 października 2011 r. w sprawie określenia wzorów wniosków o udostępnienie danych z Rejestru Dowodów Osobistych oraz dokumentacji związanej z dowodami osobistymi (Dz. U. Nr 243, poz. 1452) § 2 otrzymuje brzmienie: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych: J. Cichocki
 

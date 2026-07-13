@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych Na podstawie art. 16 ust. 3 pkt 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2022 r.
 poz. 295) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r. w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych (Dz. U. poz. 435, z późn. zm. ) § 2 otrzymuje brzmienie: „§ 2. Ogranicza się od dnia 15 marca 2020 r. od godz. 0.00 do odwołania ruch graniczny na przejściach granicznych z Federacją Rosyjską oraz Republiką Białorusi, których wykaz, wraz z rodzajem ruchu granicznego dozwolonego przez te przejścia, określony jest w załączniku nr 2 do rozporządzenia, oraz w lotniczych przejściach granicznych w zakresie połączeń lotniczych z Federacją Rosyjską i Republiką Białorusi.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2022 r.
-Minister Spraw Wewnętrznych i Administracji: M. Kamiński
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 marca 2020 r. w sprawie czasowego zawieszenia lub ograniczenia ruchu granicznego na określonych przejściach granicznych (Dz. U. poz. 435, z późn. zm. ) § 2 otrzymuje brzmienie: „§ 2. Ogranicza się od dnia 15 marca 2020 r. od godz. 0.00 do odwołania ruch graniczny na przejściach granicznych z Federacją Rosyjską oraz Republiką Białorusi, których wykaz, wraz z rodzajem ruchu granicznego dozwolonego przez te przejścia, określony jest w załączniku nr 2 do rozporządzenia, oraz w lotniczych przejściach granicznych w zakresie połączeń lotniczych z Federacją Rosyjską i Republiką Białorusi.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 30 kwietnia 2022 r. Minister Spraw Wewnętrznych i Administracji: M. Kamiński
 

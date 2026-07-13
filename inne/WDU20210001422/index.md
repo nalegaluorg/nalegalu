@@ -27,58 +27,6 @@ source: pdf
 
 w sprawie Dobrej Praktyki Laboratoryjnej i wykonywania badań zgodnie z zasadami Dobrej Praktyki Laboratoryjnej Na podstawie art. 16 ust. 15 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U.
 z 2020 r. poz. 2289) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) zasady Dobrej Praktyki Laboratoryjnej;
-2) sposób dokonywania kontroli i weryfikacji spełniania przez jednostki badawcze, o których mowa w art. 16 ust. 2 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach, zwanej dalej „ustawą”, lub przez certyfikowane jednostki badawcze, o których mowa w art. 16 ust. 1 ustawy, zasad Dobrej Praktyki Laboratoryjnej;
-3) procedurę uzyskiwania i cofania certyfikatu, o którym mowa w art. 16 ust. 4 ustawy, oraz wykreślania z wykazu jednostek badawczych certyfikowanych w zakresie Dobrej Praktyki Laboratoryjnej, zwanego dalej „wykazem”.
-§ 2. Zasady Dobrej Praktyki Laboratoryjnej określa załącznik nr 1 do rozporządzenia.
-§ 3. 1. Kontrolę i weryfikację spełniania zasad Dobrej Praktyki Laboratoryjnej, o których mowa w art. 16 ust. 2 ustawy, przeprowadza się na wniosek jednostki badawczej, który zawiera:
-1) nazwę i adres siedziby jednostki badawczej oraz numer telefonu i adres poczty elektronicznej;
-2) informacje dotyczące struktury organizacyjnej jednostki badawczej;
-3) rodzaj produktów objętych badaniami;
-4) zakres wykonywanych badań;
-5) imię (imiona) i nazwisko, stanowisko służbowe oraz numer telefonu osoby lub osób odpowiedzialnych za program zapewnienia jakości w jednostce badawczej;
-6) liczbę osób zatrudnionych w jednostce badawczej, w tym osób zaangażowanych bezpośrednio w wykonywanie badań wymagających spełniania zasad Dobrej Praktyki Laboratoryjnej;
-7) informacje dotyczące wdrożenia w jednostce badawczej innych systemów jakości.
-2. Określając we wniosku zakres wykonywanych badań, wskazuje się badania prowadzone w jednostce badawczej, którymi mogą być:
-1) badania właściwości fizykochemicznych;
-2) badania właściwości toksycznych;
-3) badania właściwości mutagennych;
-4) badania toksyczności środowiskowej w odniesieniu do organizmów wodnych i lądowych;
-5) badania zachowania się badanej substancji w wodzie, glebie i powietrzu, badania bioakumulacji;
-6) badania pozostałości;
-7) badania wpływu na układy typu mezokosm i ekosystemy naturalne;
-8) badania biochemiczne i analityczne;
-9) inne rodzaje badań.
-§ 4. 1. Kontrola i weryfikacja spełniania przez jednostki badawcze, o których mowa w art. 16 ust. 2 ustawy, lub przez certyfikowane jednostki badawcze, o których mowa w art. 16 ust. 1 ustawy, zasad Dobrej Praktyki Laboratoryjnej, zwana dalej „kontrolą i weryfikacją”, obejmuje kontrolę jednostki badawczej lub certyfikowanej jednostki badawczej i rewizję badań.
-2. Kontrolę jednostki badawczej lub certyfikowanej jednostki badawczej przeprowadza się w siedzibie jednostki lub w miejscu przeprowadzania badania, a weryfikację można przeprowadzić również poza tymi miejscami.
-3. W ramach kontroli i weryfikacji:
-1) sprawdza się strukturę zarządzania oraz procedury operacyjne;
-2) przeprowadza się wywiady z personelem;
-3) ocenia się integralność danych otrzymanych w jednostce badawczej;
-4) ocenia się stopień zgodności z zasadami Dobrej Praktyki Laboratoryjnej.
-4. Rewizję badań przeprowadza się przez porównanie danych źródłowych i towarzyszących zapisów ze sprawozdaniem końcowym lub sprawozdaniem z etapu badania w celu ustalenia, czy te dane zostały prawidłowo opracowane i czy badanie przeprowadzono zgodnie z jego planem i standardowymi procedurami operacyjnymi, oraz w celu uzyskania dodatkowych informacji niezamieszczonych w sprawozdaniu, a także stwierdzenia, czy postępowanie stosowane do uzyskania danych nie wpływa ujemnie na wiarygodność wyników badań.
-5. Kontrola jednostki badawczej i certyfikowanej jednostki badawczej oraz rewizja badań nie dotyczą:
-1) oceny naukowej strony badań;
-2) interpretacji uzyskanych wyników pod względem bezpieczeństwa dla ludzi i środowiska.
-§ 5. 1. Kontrolę i weryfikację prowadzi się w następujący sposób:
-1) w przypadku jednostek badawczych ubiegających się o przeprowadzenie kontroli i weryfikacji przeprowadza się kontrolę wstępną, mającą na celu zapoznanie się zespołu kontrolującego ze strukturą organizacyjną jednostki badawczej, personelem, infrastrukturą, wyposażeniem i zakresem wykonywanych w niej badań oraz potwierdzenie informacji zawartych we wniosku jednostki badawczej, a następnie – w zakresie określonym w § 4;
-2) w przypadku certyfikowanych jednostek badawczych przeprowadza się okresowo kontrolę i weryfikację, w tym w szczególności rewizję badań wykonywanych lub zakończonych; kontrolę i weryfikację tego rodzaju przeprowadza się co najmniej raz na dwa lata;
-3) w przypadku kontroli i weryfikacji zarządzanej doraźnie przez Prezesa Biura do spraw Substancji Chemicznych, zwanego dalej „Prezesem Biura”, z własnej inicjatywy lub na wniosek jednostek właściwych do spraw kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej w państwach Organizacji Współpracy Gospodarczej i Rozwoju (OECD), w innych państwach, w których ustanowiono w porozumieniu z OECD takie jednostki, na wniosek Komisji Europejskiej, Europejskiej Agencji Chemikaliów lub OECD, przeprowadza się rewizję konkretnych badań i, jeżeli to uzasadnione, przeprowadza się również kontrolę certyfikowanej jednostki badawczej; w przypadku tej kontroli i weryfikacji nie stosuje się terminu określonego w § 6;
-4) w przypadku gdy w wyniku kontroli i weryfikacji okresowej stwierdzono odstępstwa od spełniania zasad Dobrej Praktyki Laboratoryjnej mogące mieć wpływ na wiarygodność wyników badań, po przeprowadzeniu przez certyfikowaną jednostkę badawczą właściwych działań korygujących przeprowadza się kontrolę sprawdzającą, czy odstępstwa od spełniania zasad Dobrej Praktyki Laboratoryjnej zostały usunięte.
-2. Jeżeli kontrola, o której mowa w ust. 1 pkt 3, została przeprowadzona na wniosek, Prezes Biura przekazuje wnioskodawcy szczegółowe sprawozdanie z kontroli i weryfikacji.
-3. Szczegółowy sposób dokonywania kontroli i weryfikacji określa załącznik nr 2 do rozporządzenia.
-§ 6. Wstęp inspektorów Dobrej Praktyki Laboratoryjnej oraz innych osób biorących udział w kontroli i weryfikacji, o których mowa w art. 16 ust. 3 ustawy, na teren jednostki badawczej lub certyfikowanej jednostki badawczej, jak również na teren, gdzie są przeprowadzane badania, odbywa się po uprzednim pisemnym zawiadomieniu jednostki badawczej lub certyfikowanej jednostki badawczej przez Prezesa Biura, najpóźniej na 7 dni przed planowaną kontrolą i weryfikacją.
-§ 7. 1. W terminie 14 dni od dnia zakończenia kontroli i weryfikacji jednostka badawcza lub certyfikowana jednostka badawcza otrzymuje protokół, o którym mowa w art. 16 ust. 12 ustawy.
-2. W przypadku gdy w protokole stwierdza się odstępstwa od zasad Dobrej Praktyki Laboratoryjnej, jednostka badawcza lub certyfikowana jednostka badawcza w terminie określonym w protokole przesyła Prezesowi Biura harmonogram realizacji zaleceń pokontrolnych.
-3. W przypadku stwierdzenia występowania odstępstw od zasad Dobrej Praktyki Laboratoryjnej, w szczególności ujemnie wpływających na wiarygodność wyników badań w jednostce badawczej lub w certyfikowanej jednostce badawczej, do której przesłano protokół z zaleceniami pokontrolnymi wskazującymi na konieczność podjęcia działań korygujących – przeprowadza się kontrolę sprawdzającą.
-4. Jeżeli w wyniku kontroli sprawdzającej stwierdzono, że działania prowadzące do wyeliminowania odstępstw, o których mowa w ust. 3, nie zostały podjęte lub jeżeli są one niewystarczające, Prezes Biura stwierdza niespełnianie zasad Dobrej Praktyki Laboratoryjnej i nie wydaje certyfikatu, o którym mowa w art. 16 ust. 4 ustawy. W przypadku certyfikowanej jednostki badawczej Prezes Biura cofa nadany certyfikat i wykreśla tę jednostkę z wykazu.
-5. Na wniosek inspektora Dobrej Praktyki Laboratoryjnej Prezes Biura może podjąć działania, o których mowa w ust. 4, także w przypadku nienadesłania w określonym terminie harmonogramu realizacji zaleceń pokontrolnych, o którym mowa w ust. 2.
-§ 8. 1. Cofnięcie certyfikatu, o którym mowa w art. 16 ust. 4 ustawy, i wykreślenie certyfikowanej jednostki badawczej z wykazu może nastąpić na jej wniosek.
-2. W przypadku cofnięcia certyfikatu, o którym mowa w art. 16 ust. 4 ustawy, i wykreślenia certyfikowanej jednostki badawczej z wykazu informację o tym zamieszcza się w wykazie.
-3. O cofnięciu certyfikatu, o którym mowa w art. 16 ust. 4 ustawy, i wykreśleniu jednostki z wykazu Prezes Biura powiadamia ministra właściwego do spraw rolnictwa oraz Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, jednostki właściwe do spraw kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej – w państwach członkowskich Unii Europejskiej, państwach OECD, innych państwach, w których ustanowiono w porozumieniu z OECD takie jednostki, a także Komisję Europejską, Europejską Agencję Chemikaliów i OECD.
-§ 9. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: A. Niedzielski ZASADY DOBREJ PRAKTYKI LABORATORYJNEJ
 1. Użyte w załączniku określenia oznaczają:
 1) badanie krótkoterminowe – badanie trwające przez krótki okres, z zastosowaniem powszechnie stosowanych, rutynowych metod badań;
 2) data rozpoczęcia badania – dzień, w którym kierownik badania podpisał plan badania;
@@ -472,6 +420,95 @@ e) w przypadku badania prowadzonego na zwierzętach – zapisów dotyczących lo
 2) omawia odnotowane odstępstwa od zasad Dobrej Praktyki Laboratoryjnej oraz określa termin przesłania harmonogramu realizacji zaleceń pokontrolnych;
 3) przedstawia sposób postępowania w przypadku braku realizacji zaleceń pokontrolnych;
 4) jeżeli to konieczne, informuje o konieczności przeprowadzenia kontroli sprawdzającej w celu sprawdzenia, czy odstępstwa od spełniania zasad Dobrej Praktyki Laboratoryjnej zostały usunięte.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** zasady Dobrej Praktyki Laboratoryjnej;
+- **2)** sposób dokonywania kontroli i weryfikacji spełniania przez jednostki badawcze, o których mowa w art. 16 ust. 2 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach, zwanej dalej „ustawą”, lub przez certyfikowane jednostki badawcze, o których mowa w art. 16 ust. 1 ustawy, zasad Dobrej Praktyki Laboratoryjnej;
+- **3)** procedurę uzyskiwania i cofania certyfikatu, o którym mowa w art. 16 ust. 4 ustawy, oraz wykreślania z wykazu jednostek badawczych certyfikowanych w zakresie Dobrej Praktyki Laboratoryjnej, zwanego dalej „wykazem”.
+
+**§ 2.** Zasady Dobrej Praktyki Laboratoryjnej określa załącznik nr 1 do rozporządzenia.
+
+**§ 3.**
+
+1. Kontrolę i weryfikację spełniania zasad Dobrej Praktyki Laboratoryjnej, o których mowa w art. 16 ust. 2 ustawy, przeprowadza się na wniosek jednostki badawczej, który zawiera:
+
+- **1)** nazwę i adres siedziby jednostki badawczej oraz numer telefonu i adres poczty elektronicznej;
+- **2)** informacje dotyczące struktury organizacyjnej jednostki badawczej;
+- **3)** rodzaj produktów objętych badaniami;
+- **4)** zakres wykonywanych badań;
+- **5)** imię (imiona) i nazwisko, stanowisko służbowe oraz numer telefonu osoby lub osób odpowiedzialnych za program zapewnienia jakości w jednostce badawczej;
+- **6)** liczbę osób zatrudnionych w jednostce badawczej, w tym osób zaangażowanych bezpośrednio w wykonywanie badań wymagających spełniania zasad Dobrej Praktyki Laboratoryjnej;
+- **7)** informacje dotyczące wdrożenia w jednostce badawczej innych systemów jakości.
+
+2. Określając we wniosku zakres wykonywanych badań, wskazuje się badania prowadzone w jednostce badawczej, którymi mogą być:
+
+- **1)** badania właściwości fizykochemicznych;
+- **2)** badania właściwości toksycznych;
+- **3)** badania właściwości mutagennych;
+- **4)** badania toksyczności środowiskowej w odniesieniu do organizmów wodnych i lądowych;
+- **5)** badania zachowania się badanej substancji w wodzie, glebie i powietrzu, badania bioakumulacji;
+- **6)** badania pozostałości;
+- **7)** badania wpływu na układy typu mezokosm i ekosystemy naturalne;
+- **8)** badania biochemiczne i analityczne;
+- **9)** inne rodzaje badań.
+
+**§ 4.**
+
+1. Kontrola i weryfikacja spełniania przez jednostki badawcze, o których mowa w art. 16 ust. 2 ustawy, lub przez certyfikowane jednostki badawcze, o których mowa w art. 16 ust. 1 ustawy, zasad Dobrej Praktyki Laboratoryjnej, zwana dalej „kontrolą i weryfikacją”, obejmuje kontrolę jednostki badawczej lub certyfikowanej jednostki badawczej i rewizję badań.
+
+2. Kontrolę jednostki badawczej lub certyfikowanej jednostki badawczej przeprowadza się w siedzibie jednostki lub w miejscu przeprowadzania badania, a weryfikację można przeprowadzić również poza tymi miejscami.
+
+3. W ramach kontroli i weryfikacji:
+
+- **1)** sprawdza się strukturę zarządzania oraz procedury operacyjne;
+- **2)** przeprowadza się wywiady z personelem;
+- **3)** ocenia się integralność danych otrzymanych w jednostce badawczej;
+- **4)** ocenia się stopień zgodności z zasadami Dobrej Praktyki Laboratoryjnej.
+
+4. Rewizję badań przeprowadza się przez porównanie danych źródłowych i towarzyszących zapisów ze sprawozdaniem końcowym lub sprawozdaniem z etapu badania w celu ustalenia, czy te dane zostały prawidłowo opracowane i czy badanie przeprowadzono zgodnie z jego planem i standardowymi procedurami operacyjnymi, oraz w celu uzyskania dodatkowych informacji niezamieszczonych w sprawozdaniu, a także stwierdzenia, czy postępowanie stosowane do uzyskania danych nie wpływa ujemnie na wiarygodność wyników badań.
+
+5. Kontrola jednostki badawczej i certyfikowanej jednostki badawczej oraz rewizja badań nie dotyczą:
+
+- **1)** oceny naukowej strony badań;
+- **2)** interpretacji uzyskanych wyników pod względem bezpieczeństwa dla ludzi i środowiska.
+
+**§ 5.**
+
+1. Kontrolę i weryfikację prowadzi się w następujący sposób:
+
+- **1)** w przypadku jednostek badawczych ubiegających się o przeprowadzenie kontroli i weryfikacji przeprowadza się kontrolę wstępną, mającą na celu zapoznanie się zespołu kontrolującego ze strukturą organizacyjną jednostki badawczej, personelem, infrastrukturą, wyposażeniem i zakresem wykonywanych w niej badań oraz potwierdzenie informacji zawartych we wniosku jednostki badawczej, a następnie – w zakresie określonym w § 4;
+- **2)** w przypadku certyfikowanych jednostek badawczych przeprowadza się okresowo kontrolę i weryfikację, w tym w szczególności rewizję badań wykonywanych lub zakończonych; kontrolę i weryfikację tego rodzaju przeprowadza się co najmniej raz na dwa lata;
+- **3)** w przypadku kontroli i weryfikacji zarządzanej doraźnie przez Prezesa Biura do spraw Substancji Chemicznych, zwanego dalej „Prezesem Biura”, z własnej inicjatywy lub na wniosek jednostek właściwych do spraw kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej w państwach Organizacji Współpracy Gospodarczej i Rozwoju (OECD), w innych państwach, w których ustanowiono w porozumieniu z OECD takie jednostki, na wniosek Komisji Europejskiej, Europejskiej Agencji Chemikaliów lub OECD, przeprowadza się rewizję konkretnych badań i, jeżeli to uzasadnione, przeprowadza się również kontrolę certyfikowanej jednostki badawczej; w przypadku tej kontroli i weryfikacji nie stosuje się terminu określonego w § 6;
+- **4)** w przypadku gdy w wyniku kontroli i weryfikacji okresowej stwierdzono odstępstwa od spełniania zasad Dobrej Praktyki Laboratoryjnej mogące mieć wpływ na wiarygodność wyników badań, po przeprowadzeniu przez certyfikowaną jednostkę badawczą właściwych działań korygujących przeprowadza się kontrolę sprawdzającą, czy odstępstwa od spełniania zasad Dobrej Praktyki Laboratoryjnej zostały usunięte.
+
+2. Jeżeli kontrola, o której mowa w ust. 1 pkt 3, została przeprowadzona na wniosek, Prezes Biura przekazuje wnioskodawcy szczegółowe sprawozdanie z kontroli i weryfikacji.
+
+3. Szczegółowy sposób dokonywania kontroli i weryfikacji określa załącznik nr 2 do rozporządzenia.
+
+**§ 6.** Wstęp inspektorów Dobrej Praktyki Laboratoryjnej oraz innych osób biorących udział w kontroli i weryfikacji, o których mowa w art. 16 ust. 3 ustawy, na teren jednostki badawczej lub certyfikowanej jednostki badawczej, jak również na teren, gdzie są przeprowadzane badania, odbywa się po uprzednim pisemnym zawiadomieniu jednostki badawczej lub certyfikowanej jednostki badawczej przez Prezesa Biura, najpóźniej na 7 dni przed planowaną kontrolą i weryfikacją.
+
+**§ 7.**
+
+1. W terminie 14 dni od dnia zakończenia kontroli i weryfikacji jednostka badawcza lub certyfikowana jednostka badawcza otrzymuje protokół, o którym mowa w art. 16 ust. 12 ustawy.
+
+2. W przypadku gdy w protokole stwierdza się odstępstwa od zasad Dobrej Praktyki Laboratoryjnej, jednostka badawcza lub certyfikowana jednostka badawcza w terminie określonym w protokole przesyła Prezesowi Biura harmonogram realizacji zaleceń pokontrolnych.
+
+3. W przypadku stwierdzenia występowania odstępstw od zasad Dobrej Praktyki Laboratoryjnej, w szczególności ujemnie wpływających na wiarygodność wyników badań w jednostce badawczej lub w certyfikowanej jednostce badawczej, do której przesłano protokół z zaleceniami pokontrolnymi wskazującymi na konieczność podjęcia działań korygujących – przeprowadza się kontrolę sprawdzającą.
+
+4. Jeżeli w wyniku kontroli sprawdzającej stwierdzono, że działania prowadzące do wyeliminowania odstępstw, o których mowa w ust. 3, nie zostały podjęte lub jeżeli są one niewystarczające, Prezes Biura stwierdza niespełnianie zasad Dobrej Praktyki Laboratoryjnej i nie wydaje certyfikatu, o którym mowa w art. 16 ust. 4 ustawy. W przypadku certyfikowanej jednostki badawczej Prezes Biura cofa nadany certyfikat i wykreśla tę jednostkę z wykazu.
+
+5. Na wniosek inspektora Dobrej Praktyki Laboratoryjnej Prezes Biura może podjąć działania, o których mowa w ust. 4, także w przypadku nienadesłania w określonym terminie harmonogramu realizacji zaleceń pokontrolnych, o którym mowa w ust. 2.
+
+**§ 8.**
+
+1. Cofnięcie certyfikatu, o którym mowa w art. 16 ust. 4 ustawy, i wykreślenie certyfikowanej jednostki badawczej z wykazu może nastąpić na jej wniosek.
+
+2. W przypadku cofnięcia certyfikatu, o którym mowa w art. 16 ust. 4 ustawy, i wykreślenia certyfikowanej jednostki badawczej z wykazu informację o tym zamieszcza się w wykazie.
+
+3. O cofnięciu certyfikatu, o którym mowa w art. 16 ust. 4 ustawy, i wykreśleniu jednostki z wykazu Prezes Biura powiadamia ministra właściwego do spraw rolnictwa oraz Prezesa Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, jednostki właściwe do spraw kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej – w państwach członkowskich Unii Europejskiej, państwach OECD, innych państwach, w których ustanowiono w porozumieniu z OECD takie jednostki, a także Komisję Europejską, Europejską Agencję Chemikaliów i OECD.
+
+**§ 9.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: A. Niedzielski ZASADY DOBREJ PRAKTYKI LABORATORYJNEJ
 
 #### Rozdział 1 Terminologia stosowana w zasadach Dobrej Praktyki Laboratoryjnej
 

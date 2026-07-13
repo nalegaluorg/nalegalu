@@ -27,10 +27,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000352) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/352/text.pdf) |
 
 zmieniające rozporządzenie w sprawie dodatków o charakterze stałym do uposażenia zasadniczego funkcjonariuszy Służby Więziennej Na podstawie art. 58 ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2025 r. poz. 1750 i 1823) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 15 marca 2022 r. w sprawie dodatków o charakterze stałym do uposażenia zasadniczego funkcjonariuszy Służby Więziennej (Dz. U. z 2024 r. poz. 153 i 670 oraz z 2025 r. poz. 715) w § 4:
-1) w ust. 1 wyrazy „ust. 2–4” zastępuje się wyrazami „ust. 2, 3, 3b i 4”;
-2) uchyla się ust. 3a;
-3) w ust. 4 skreśla się wyrazy „oraz Szefowi Inspektoratu Wewnętrznego Służby Więziennej”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: W. Żurek
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 15 marca 2022 r. w sprawie dodatków o charakterze stałym do uposażenia zasadniczego funkcjonariuszy Służby Więziennej (Dz. U. z 2024 r. poz. 153 i 670 oraz z 2025 r. poz. 715) w § 4:
+
+- **1)** w ust. 1 wyrazy „ust. 2–4” zastępuje się wyrazami „ust. 2, 3, 3b i 4”;
+- **2)** uchyla się ust. 3a;
+- **3)** w ust. 4 skreśla się wyrazy „oraz Szefowi Inspektoratu Wewnętrznego Służby Więziennej”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: W. Żurek
 

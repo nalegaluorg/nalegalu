@@ -8,10 +8,10 @@ pos: 924
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 sierpnia 2012 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 924 ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 30 lipca 2012 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,40 +25,375 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000924) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/924/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA GOSPODARKI z dnia 30 lipca 2012 r.
-w sprawie wzorów wniosków oraz zezwoleń na obrót towarami o znaczeniu strategicznym Na podstawie art. 9 ust. 8 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2004 r. Nr 229, poz. 2315, z 2009 r. Nr 18, poz. 97 oraz z 2012 r. poz. 707) zarządza się, co następuje: § 1. Określa się wzór wniosku o:
-1) wydanie zezwolenia indywidualnego lub globalnego na wywóz towarów o znaczeniu strategicznym,
-2) wydanie zezwolenia indywidualnego lub globalnego na transfer wewnątrzunijny towarów o znaczeniu strategicznym,
-3) wydanie zezwolenia indywidualnego lub globalnego na usługę pośrednictwa w zakresie towarów o znaczeniu strategicznym,
-4) wydanie zezwolenia indywidualnego lub globalnego na pomoc techniczną w zakresie towarów o znaczeniu strategicznym,
-5) wydanie zezwolenia indywidualnego lub globalnego na tranzyt uzbrojenia,
-6) wydanie zezwolenia indywidualnego lub globalnego na przywóz uzbrojenia,
-7) wydanie certyfikatu importowego,
-8) poświadczenie oświadczenia końcowego użytkownika stanowiący załącznik nr 1 do rozporządzenia.
-§ 2. Określa się wzór zezwolenia indywidualnego na:
-1) wywóz uzbrojenia, stanowiący załącznik nr 2 do rozporządzenia;
-2) transfer wewnątrzunijny uzbrojenia, stanowiący załącznik nr 3 do rozporządzenia;
-3) transfer wewnątrzunijny produktów podwójnego zastosowania, stanowiący załącznik nr 4 do rozporządzenia;
-4) usługę pośrednictwa w zakresie uzbrojenia, stanowiący załącznik nr 5 do rozporządzenia;
-5) pomoc techniczną w zakresie uzbrojenia, stanowiący załącznik nr 6 do rozporządzenia;
-6) pomoc techniczną w zakresie produktów podwójnego zastosowania, stanowiący załącznik nr 7 do rozporządzenia;
-7) tranzyt uzbrojenia, stanowiący załącznik nr 8 do rozporządzenia;
-8) przywóz uzbrojenia, stanowiący załącznik nr 9 do rozporządzenia.
-Minister Gospodarki kieruje działem administracji rządowej gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady § 3. Określa się wzór zezwolenia globalnego na:
-1) transfer wewnątrzunijny uzbrojenia, stanowiący załącznik nr 10 do rozporządzenia;
-2) transfer wewnątrzunijny produktów podwójnego zastosowania, stanowiący załącznik nr 11 do rozporządzenia;
-3) usługę pośrednictwa w zakresie uzbrojenia, stanowiący załącznik nr 12 do rozporządzenia;
-4) pomoc techniczną w zakresie uzbrojenia, stanowiący załącznik nr 13 do rozporządzenia;
-5) pomoc techniczną w zakresie produktów podwójnego zastosowania, stanowiący załącznik nr 14 do rozporządzenia.
-§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Gospodarki: wz. M. Haładyj Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki i Pracy z dnia 28 września 2004 r. w sprawie wzorów zezwoleń indywidualnych lub globalnych na obrót towarami o znaczeniu strategicznym oraz wzoru certyfikatu importowego (Dz. U. Nr 220, poz. 2234), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 11 ustawy z dnia 25 maja 2012 r. o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeńMINISTER GOSPODARKI CZĘŚĆ A Data złożenia wniosku Numer sprawy Numer wniosku WNIOSEK O WYDANIE (dotyczy: obrotu z zagranicą towarami o znaczeniu strategicznym) - ZEZWOLENIA: INDYWIDUALNEGO , GLOBALNEGO na WYWÓZ , TRANSFER WEWNĄTRZUNIJNY , USŁUGĘ POŚREDNICTWA , POMOC TECHNICZNĄ , TRANZYT , PRZYWÓZ , - CERTYFIKATU IMPORTOWEGO , POŚWIADCZENIA OŚWIADCZENIA KOŃCOWEGO UŻYTKOWNIKA 1Oznaczenie wnioskodawcy Nazwa (firma) NIP Ulica, numer Miejscowość, kod pocztowy Numer telefonu Numer faksu Adres poczty elektronicznej 2Rodzaj i zakres wykonywanej przez wnioskodawcę działalności gospodarczej 3Wniosek dotyczy towarów o znaczeniu strategicznym: z wykazu z wykazu produktów innych uzbrojenia podwójnego zastosowania 4Informacja o sposobie wykorzystania towarów o znaczeniu strategicznym przez końcowego użytkownika 5 Kraj/kraje* końcowego przeznaczenia 6 Kraj/kraje* wysyłki towarów 7 Państwo/państwa*, w którym/których* znajdują się lub będą umiejscowione produkty podwójnego zastosowania 8 Państwo/państwa*, w którym/których* zostanie nadane przeznaczenie celne produktom podwójnego zastosowania 9 Numer poświadczenia oświadczenia końcowego użytkownika 10 Nazwa (firma) NIP Ulica, numer Miejscowość, kod pocztowy Państwo Numer telefonu Numer faksu Adres poczty elektronicznej Załączniki do rozporządzenia Ministra Gospodarki z dnia 30 lipca 2012 r. (poz. 924) Załącznik nr 1 WZÓR
+w sprawie wzorów wniosków oraz zezwoleń na obrót towarami o znaczeniu strategicznym Na podstawie art. 9 ust. 8 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2004 r. Nr 229, poz. 2315, z 2009 r. Nr 18, poz. 97 oraz z 2012 r. poz. 707) zarządza się, co następuje:
+
+**§ 1.** Określa się wzór wniosku o:
+
+- **1)** wydanie zezwolenia indywidualnego lub globalnego na wywóz towarów o znaczeniu strategicznym,
+- **2)** wydanie zezwolenia indywidualnego lub globalnego na transfer wewnątrzunijny towarów o znaczeniu strategicznym,
+- **3)** wydanie zezwolenia indywidualnego lub globalnego na usługę pośrednictwa w zakresie towarów o znaczeniu strategicznym,
+- **4)** wydanie zezwolenia indywidualnego lub globalnego na pomoc techniczną w zakresie towarów o znaczeniu strategicznym,
+- **5)** wydanie zezwolenia indywidualnego lub globalnego na tranzyt uzbrojenia,
+- **6)** wydanie zezwolenia indywidualnego lub globalnego na przywóz uzbrojenia,
+- **7)** wydanie certyfikatu importowego,
+- **8)** poświadczenie oświadczenia końcowego użytkownika – stanowiący załącznik nr 1 do rozporządzenia.
+
+**§ 2.** Określa się wzór zezwolenia indywidualnego na:
+
+- **1)** wywóz uzbrojenia, stanowiący załącznik nr 2 do rozporządzenia;
+- **2)** transfer wewnątrzunijny uzbrojenia, stanowiący załącznik nr 3 do rozporządzenia;
+- **3)** transfer wewnątrzunijny produktów podwójnego zastosowania, stanowiący załącznik nr 4 do rozporządzenia;
+- **4)** usługę pośrednictwa w zakresie uzbrojenia, stanowiący załącznik nr 5 do rozporządzenia;
+- **5)** pomoc techniczną w zakresie uzbrojenia, stanowiący załącznik nr 6 do rozporządzenia;
+- **6)** pomoc techniczną w zakresie produktów podwójnego zastosowania, stanowiący załącznik nr 7 do rozporządzenia;
+- **7)** tranzyt uzbrojenia, stanowiący załącznik nr 8 do rozporządzenia;
+- **8)** przywóz uzbrojenia, stanowiący załącznik nr 9 do rozporządzenia. Minister Gospodarki kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki (Dz. U. Nr 248, poz. 1478).
+
+**§ 3.** Określa się wzór zezwolenia globalnego na:
+
+- **1)** transfer wewnątrzunijny uzbrojenia, stanowiący załącznik nr 10 do rozporządzenia;
+- **2)** transfer wewnątrzunijny produktów podwójnego zastosowania, stanowiący załącznik nr 11 do rozporządzenia;
+- **3)** usługę pośrednictwa w zakresie uzbrojenia, stanowiący załącznik nr 12 do rozporządzenia;
+- **4)** pomoc techniczną w zakresie uzbrojenia, stanowiący załącznik nr 13 do rozporządzenia;
+- **5)** pomoc techniczną w zakresie produktów podwójnego zastosowania, stanowiący załącznik nr 14 do rozporządzenia.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Gospodarki: wz. M. Haładyj Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki i Pracy z dnia 28 września 2004 r. w sprawie wzorów zezwoleń indywidualnych lub globalnych na obrót towarami o znaczeniu strategicznym oraz wzoru certyfikatu importowego (Dz. U. Nr 220, poz. 2234), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 11 ustawy z dnia 25 maja 2012 r. o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz niektórych innych ustaw (Dz. U. poz. 707).
+
+## Załącznik nr 1 — WZÓR MINISTER GOSPODARKI CZĘŚĆ A Data złożenia wniosku Numer sprawy Numer wniosku WNIOSEK O WYDANIE (dotyczy: obrotu z zagranicą towarami o znaczeniu strategicznym) - ZEZWOLENIA: INDYWIDUALNEGO , GLOBALNEGO na WYWÓZ , TRANSFER WEWNĄTRZUNIJNY , USŁUGĘ POŚREDNICTWA , POMOC TECHNICZNĄ , TRANZYT , PRZYWÓZ , - CERTYFIKATU IMPORTOWEGO , POŚWIADCZENIA OŚWIADCZENIA KOŃCOWEGO UŻYTKOWNIKA 1Oznaczenie wnioskodawcy NIP Nazwa (firma) Ulica, numer Miejscowość, kod pocztowy Numer telefonu Numer Adres poczty faksu elektronicznej 2Rodzaj i zakres wykonywanej przez wnioskodawcę działalności gospodarczej 3Wniosek dotyczy towarów z wykazu z wykazu produktów o znaczeniu strategicznym: uzbrojenia podwójnego zastosowania innych 4Informacja o sposobie wykorzystania towarów o znaczeniu strategicznym przez końcowego użytkownika 5 Kraj/kraje* końcowego przeznaczenia 6 Kraj/kraje* wysyłki towarów 7 Państwo/państwa*, w którym/których* znajdują się lub będą umiejscowione produkty podwójnego zastosowania 8 Państwo/państwa*, w którym/których* zostanie nadane przeznaczenie celne produktom podwójnego zastosowania 9 Numer poświadczenia oświadczenia końcowego użytkownika 10 NIP Nazwa (firma) Ulica, numer Miejscowość, kod pocztowy Państwo Numer Adres poczty Numer telefonu faksu elektronicznej
+
+CZĘŚĆ A 11 NIP 4 Nazwa (firma) Ulica, numer Miejscowość, kod pocztowy Państwo m Numer Numer Adres poczty telefonu faksu elektronicznej 12 NIP : Nazwa (firma) Ulica, numer Miejscowość, kod pocztowy Państwo Numer Adres poczty Numer telefonu faksu elektronicznej 13 NIP Nazwa (firma) Ulica, numer Miejscowość, kod pocztowy Państwo Numer Adres poczty Numer telefonu faksu elektronicznej 14 NIP Nazwa (firma) Ulica, numer Miejscowość, kod pocztowy Państwo Numer Adres poczty Numer telefonu faksu elektronicznej Charakter czynności realizowanych na rzecz transakcji 15 Opis usługi pośrednictwa/pomocy technicznej* Wartość i waluta
+CZĘŚĆ A 16 Dodatkowe informacje 17 Osoba odpowiedzialna Imię i nazwisko u wnioskodawcy Stanowisko za koordynację kontroli obrotu towarami Numer Numer Adres poczty o znaczeniu strategicznym telefonu faksu elektronicznej 18 Oświadczenie Ja, niżej podpisany, oświadczam, że podejmę niezbędne działania, żeby towary o znaczeniu strategicznym, o których mowa we wniosku, dotarły do końcowego użytkownika.
 19 Imię, nazwisko, stanowisko Podpis Pieczęć firmowa Data
-
-## CZĘŚĆ A 11 m Nazwa (firma) NIP Ulica, numer Miejscowość, kod pocztowy Państwo Numer telefonu Numer faksu Adres poczty elektronicznej 12 Nazwa (firma) NIP : Ulica, numer Miejscowość, kod pocztowy Państwo Numer telefonu Numer faksu Adres poczty elektronicznej 13 Nazwa (firma) NIP Ulica, numer Miejscowość, kod pocztowy Państwo Numer telefonu Numer faksu Adres poczty elektronicznej 14 Nazwa (firma) NIP Ulica, numer Miejscowość, kod pocztowy Państwo Numer telefonu Numer faksu Adres poczty elektronicznej Charakter czynności realizowanych na rzecz transakcji 15 Opis usługi pośrednictwa/pomocy technicznej* Wartość i waluta
-
-## CZĘŚĆ A 16 Dodatkowe informacje 17 Osoba odpowiedzialna u wnioskodawcy za koordynację kontroli obrotu towarami o znaczeniu strategicznym Imię i nazwisko Stanowisko Numer telefonu Numer Adres poczty faksu elektronicznej 18 Oświadczenie Ja, niżej podpisany, oświadczam, że podejmę niezbędne działania, żeby towary o znaczeniu strategicznym, o których mowa we wniosku, dotarły do końcowego użytkownika.
-
-## CZĘŚĆ B Data złożenia wniosku: (wypełnia Ministerstwo Gospodarki) Numer sprawy (wypełnia Ministerstwo Gospodarki) Numer wniosku wnioskodawcy (wypełnia wnioskodawca) WNIOSEK O WYDANIE ZEZWOLENIA INDYWIDUALNEGO/GLOBALNEGO, CERTYFIKATU IMPORTOWEGO, POŚWIADCZENIA OŚWIADCZENIA KOŃCOWEGO UŻYTKOWNIKA* (dotyczy towarów o znaczeniu strategicznym) Lp Nazwa i szczegółowy opis towarów o znaczeniu strategicznym Producent (typ, marka, rodzaj, nr fabryczny, CAS) Numer Kraj kontrolny pochodzenia towaru Ilość Wartość Wartość i jednostka (kategoria), miary jednostkowa i waluta podpunkt Wartość ogółem i waluta Nr ostatniej pozycji na tej stronie: Strona: Kart:
-
-## CZĘŚĆ C Data złożenia wniosku (wypełnia Ministerstwo Gospodarki) Numer sprawy (wypełnia Ministerstwo Gospodarki) Numer wniosku (wypełnia wnioskodawca) WNIOSEK O WYDANIE ZEZWOLENIA INDYWIDUALNEGO/GLOBALNEGO, CERTYFIKATU IMPORTOWEGO, POŚWIADCZENIA OŚWIADCZENIA KOŃCOWEGO UŻYTKOWNIKA* (dotyczy towarów o znaczeniu strategicznym) Lp. NIP Nazwa(firma) Ulica, numer Miejscowość, kod pocztowy Państwo Numer telefonu Numer faksu Adres poczty elektronicznej Charakter czynności realizowanych na rzecz transakcji Lp. Nazwa NIP (firma) Ulica, numer Miejscowość, kod pocztowy Państwo Numer telefonu Numer faksu Adres poczty elektronicznej Charakter czynności realizowanych na rzecz transakcji Lp. Nazwa NIP (firma) Ulica, numer Miejscowość, kod pocztowy Państwo Numer telefonu Numer faksu Adres poczty elektronicznej Charakter czynności realizowanych na rzecz transakcji Lp. Nazwa NIP (firma) Ulica, numer Miejscowość, kod pocztowy Państwo Numer telefonu Numer faksu Adres poczty elektronicznej Charakter czynności realizowanych na rzecz transakcji Nr ostatniej pozycji na tej stronie Strona Kart 1 1 Eksporter 2 Numer zezwolenia 3 Data ważności zezwolenia W O W W W Ó O 4 Osoba prowadząca sprawę 5 Importer 6 Organ wydający zezwolenie 7 Podmiot (wnioskodawca) 8 Kraj pochodzenia uzbrojenia Kod 9 Kraj wysyłki uzbrojenia Kod 10 Końcowy użytkownik 11 Państwo członkowskie, w którym obecnie jest lub Kod w przyszłości będzie umiejscowione uzbrojenie 12 Państwo członkowskie planowanego objęcia uzbrojenia Kod celną procedurą wywozu 13 Kraj końcowego przeznaczenia uzbrojenia Kod 141 Opis uzbrojenia 151 Numer kontrolny 161 Ilość 171 Waluta 181 Wartość 19 Informacja o sposobie wykorzystania uzbrojenia przez końcowego użytkownika 20 Data kontraktu 21 Celna procedura wywozu 22 Dodatkowe informacje Do wypełnienia przez organ wydający zezwolenie Podpis Organ wydający zezwolenie Data Pieczęć Załącznik nr 2 WZÓR 2 1 Eksporter 2 Numer zezwolenia W O W W W Ó O 142 Opis uzbrojenia 152 Numer kontrolny 162 Ilość 172 Waluta 182 Wartość 143 Opis uzbrojenia 153 Numer kontrolny 163 Ilość 173 Waluta 183 Wartość 144 Opis uzbrojenia 154 Numer kontrolny 164 Ilość 174 Waluta 184 Wartość 145 Opis uzbrojenia 155 Numer kontrolny 165 Ilość 175 Waluta 185 Wartość 146 Opis uzbrojenia 156 Numer kontrolny 166 Ilość 176 Waluta 186 Wartość 147 Opis uzbrojenia 157 Numer kontrolny 167 Ilość 177 Waluta 187 Wartość 148 Opis uzbrojenia 158 Numer kontrolny 168 Ilość 178 Waluta 188 Wartość 149 Opis uzbrojenia 159 Numer kontrolny 169 Ilość 179 Waluta 189 Wartość 1410 Opis uzbrojenia 1510 Numer kontrolny 1610 Ilość 1710 Waluta 1810 Wartość 1411 Opis uzbrojenia 1511 Numer kontrolny 1611 Ilość 1711 Waluta 1811 Wartość Uwaga: w polach nr 1 kolumny 24 wpisać ilość nadal dostępną, a w polach nr 2 kolumny 24 wpisać ilość, o jaką pomniejszył się zasób 23 Ilość/wartość netto (masa netto/inna jednostka 26 Dokument celny 27 Państwo członkowskie, ze wskazaniem jednostki) (rodzaj i numer) lub nazwisko i podpis funkcjonariusza odpis (nr) oraz data celnego, pieczęć, potwierdzające Nr pozycji i opis uzbrojenia odpisania bądź pozycja pomniejszenie zasobu 24 Liczbowo 25 Ilość/wartość rejestru elektronicznego pomniejszenia zasobu słownie 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 1 Dostawca 2 Numer zezwolenia 3 Data ważności zezwolenia W W W W 4 Osoba prowadząca sprawę 5 Odbiorca 6 Organ wydający zezwolenie 7 Podmiot (wnioskodawca) 8 Kraj pochodzenia uzbrojenia Kod 9 Kraj wysyłki uzbrojenia Kod 10 Końcowy użytkownik 11 Państwo członkowskie, w którym obecnie jest lub Kod w przyszłości będzie umiejscowione uzbrojenie 12 Kraj końcowego przeznaczenia uzbrojenia Kod 131 Opis uzbrojenia 141 Numer kontrolny 151 Ilość 161 Waluta 171 Wartość 18 Informacja o sposobie wykorzystania uzbrojenia przez końcowego użytkownika 19 Data kontraktu 20 Dodatkowe informacje Do wypełnienia przez organ wydający zezwolenie Podpis Pieczęć Organ wydający zezwolenie Data Załącznik nr 3 WZÓR 2 1 Dostawca 2 Numer zezwolenia W O W W W O 132 Opis uzbrojenia 142 Numer kontrolny 152 Ilość 162 Waluta 172 Wartość 133 Opis uzbrojenia 143 Numer kontrolny 153 Ilość 163 Waluta 173 Wartość 134 Opis uzbrojenia 144 Numer kontrolny 154 Ilość 164 Waluta 174 Wartość 135 Opis uzbrojenia 145 Numer kontrolny 155 Ilość 165 Waluta 175 Wartość 136 Opis uzbrojenia 146 Numer kontrolny 156 Ilość 166 Waluta 176 Wartość 137 Opis uzbrojenia 147 Numer kontrolny 157 Ilość 167 Waluta 177 Wartość 138 Opis uzbrojenia 148 Numer kontrolny 158 Ilość 168 Waluta 178 Wartość 139 Opis uzbrojenia 149 Numer kontrolny 159 Ilość 16 Waluta 17 Wartość 1310 Opis uzbrojenia 1410 Numer kontrolny 1510 Ilość 1610 Waluta 1710 Wartość 1311 Opis uzbrojenia 1411 Numer kontrolny 1511 Ilość 1611 Waluta 1711 Wartość Uwaga: w polach nr 1 kolumny 24 wpisać ilość nadal dostępną, a w polach nr 2 kolumny 24 wpisać ilość, o jaką pomniejszył się zasób 23 Ilość/wartość netto (masa netto/inna jednostka 26 Dokument celny 27 Państwo członkowskie, ze wskazaniem jednostki) (rodzaj i numer) lub nazwisko i podpis odpis (nr) oraz data funkcjonariusza celnego, Nr pozycji i opis uzbrojenia odpisania bądź pozycja pieczęć, potwierdzające 24 Liczbowo 25 Ilość/wartość rejestru elektronicznego pomniejszenie zasobu pomniejszenia zasobu słownie 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 1 Eksporter/Dostawca * 2 Numer zezwolenia 3 Data ważności zezwolenia W W W W W W W 4 Osoba prowadząca sprawę 5 Importer/Odbiorca * 6 Organ wydający zezwolenie 7 Podmiot (wnioskodawca) 8 Kraj pochodzenia produktów podwójnego zastosowania Kod 9 Kraj wysyłki produktów podwójnego zastosowania Kod 10 Końcowy użytkownik 11 Państwo członkowskie obecnego lub przyszłego Kod umiejscowienia produktów podwójnego zastosowania 12 Państwo członkowskie planowanego objęcia produktów Kod podwójnego zastosowania celną procedurą wywozu 13 Kraj końcowego przeznaczenia Kod 141 Opis produktów podwójnego zastosowania 151 Numer kontrolny/CAS 161 Numer wykazu kontrolnego 171 Wartość i waluta 181 Ilość 19 Informacja o sposobie wykorzystania produktów podwójnego zastosowania 20 Data zawarcia umowy 21 Celna procedura wywozu przez końcowego użytkownika 22 Dodatkowe informacje Do wypełnienia przez organ wydający zezwolenie Podpis Organ wydający zezwolenie Data Pieczęć Załącznik nr 4 WZÓR 2 1 Eksporter/Dostawca * 2 Numer zezwolenia W O W W W O K Ó W O W Ó OG O O W 142 Opis produktów podwójnego zastosowania 152 Numer kontrolny/CAS 162 Numer wykazu kontrolnego 172 Wartość i waluta 182 Ilość 143 Opis produktów podwójnego zastosowania 153 Numer kontrolny/CAS 163 Numer wykazu kontrolnego 173 Wartość i waluta 183 Ilość 144 Opis produktów podwójnego zastosowania 154 Numer kontrolny/CAS 164 Numer wykazu kontrolnego 174 Wartość i waluta 184 Ilość 145 Opis produktów podwójnego zastosowania 155 Numer kontrolny/CAS 165 Numer wykazu kontrolnego 175 Wartość i waluta 185 Ilość 146 Opis produktów podwójnego zastosowania 156 Numer kontrolny/CAS 166 Numer wykazu kontrolnego 176 Wartość i waluta 186 Ilość 147 Opis produktów podwójnego zastosowania 157 Numer kontrolny/CAS 167 Numer wykazu kontrolnego 177 Wartość i waluta 187 Ilość 148 Opis produktów podwójnego zastosowania 158 Numer kontrolny/CAS 168 Numer wykazu kontrolnego 178 Wartość i waluta 188 Ilość 149 Opis produktów podwójnego zastosowania 159 Numer kontrolny/CAS 169 Numer wykazu kontrolnego 179 Wartość i waluta 189 Ilość 1410 Opis produktów podwójnego zastosowania 1510 Numer kontrolny/CAS 1610 Numer wykazu kontrolnego 1710 Wartość i waluta 1810 Ilość 1411 Opis produktów podwójnego zastosowania 1511 Numer kontrolny/CAS 1611 Numer wykazu kontrolnego 1711 Wartość i waluta 1811 Ilość Uwaga: w polach nr 1 kolumny 24 wpisać ilość nadal dostępną, a w polach nr 2 kolumny 24 wpisać ilość, o jaką pomniejszył się zasób 23 Ilość/wartość netto (masa netto/inna jednostka 26 Dokument celny 27 Państwo członkowskie, ze wskazaniem jednostki) (rodzaj i numer) lub nazwisko i podpis funkcjonariusza Nr pozycji i opis produktu odpis (nr) oraz data celnego, pieczęć, potwierdzające podwójnego zastosowania 24 Liczbowo 25 Ilość/wartość odpisania bądź pozycja pomniejszenie zasobu pomniejszenia zasobu rejestru elektronicznego słownie 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 1 Pośrednik (wnioskodawca) 2 Numer zezwolenia 3 Data ważności zezwolenia W W W W 4 Osoba prowadząca sprawę 5 Eksporter/Dostawca * 6 Organ wydający zezwolenie 7 Odbiorca/Importer * 8 Końcowy użytkownik 9 Opis usługi pośrednictwa 10 Informacja o sposobie wykorzystania uzbrojenia przez końcowego użytkownika 11 Wartość usługi i waluta 12 Dodatkowe informacje Do wypełnienia przez organ wydający zezwolenie Podpis Organ wydający zezwolenie Data Pieczęć Załącznik nr 5 WZÓR 2 7 Pośrednik (wnioskodawca) 2 Numer zezwolenia W O W G O W W K O 131 Opis uzbrojenia objętego usługą 141 Numer kontrolny 151 Ilość 161 Waluta 171 Wartość 132 Opis uzbrojenia objętego usługą 142 Numer kontrolny 152 Ilość 162 Waluta 172 Wartość 133 Opis uzbrojenia objętego usługą 143 Numer kontrolny 153 Ilość 163 Waluta 173 Wartość 134 Opis uzbrojenia objętego usługą 144 Numer kontrolny 154 Ilość 164 Waluta 174 Wartość 135 Opis uzbrojenia objętego usługą 145 Numer kontrolny 155 Ilość 165 Waluta 175 Wartość 136 Opis uzbrojenia objętego usługą 146 Numer kontrolny 156 Ilość 166 Waluta 176 Wartość 137 Opis uzbrojenia objętego usługą 147 Numer kontrolny 157 Ilość 167 Waluta 177 Wartość 138 Opis uzbrojenia objętego usługą 148 Numer kontrolny 158 Ilość 168 Waluta 178 Wartość 139 Opis uzbrojenia objętego usługą 149 Numer kontrolny 159 Ilość 16 9 Waluta 179 Wartość 1310 Opis uzbrojenia objętego usługą 1410 Numer kontrolny 1510 Ilość 1610 Waluta 1710 Wartość 1 1 Eksporter/Dostawca* (wykonawca pomocy technicznej) 2 Numer zezwolenia 3 Data ważności zezwolenia W W M W 4 Osoba prowadząca sprawę 5 Importer/Odbiorca* 6 Organ wydający zezwolenie 7 Podmiot (wnioskodawca) 8 Końcowy użytkownik 9 Opis pomocy technicznej 10 Dodatkowe informacje 11 Wartość i waluta Do wypełnienia przez organ wydający zezwolenie Podpis Pieczęć Organ wydający zezwolenie Data Załącznik nr 6 WZÓR 1 1 Wykonawca pomocy technicznej 2 Numer zezwolenia 3 Data ważności zezwolenia W W M W W W W 4 Osoba prowadząca sprawę 5 Importer/Odbiorca * 6 Organ wydający zezwolenie 7 Podmiot (wnioskodawca) 8 Końcowy użytkownik 9 Opis pomocy technicznej 10 Dodatkowe informacje 11 Wartość i waluta Do wypełnienia przez organ wydający zezwolenie Podpis Pieczęć Organ wydający zezwolenie Data Załącznik nr 7 WZÓR 1 1 Eksporter/Dostawca* 2 Numer zezwolenia 3 Data ważności zezwolenia W O W O 4 Osoba prowadząca sprawę 5 Importer/Odbiorca* 6 Organ wydający zezwolenie 7 Podmiot (wnioskodawca) 8 Kraj pochodzenia uzbrojenia Kod 9 Kraj wysyłki uzbrojenia Kod 10 Końcowy użytkownik 11 Państwo, w którym obecnie jest lub w przyszłości będzie Kod umiejscowione uzbrojenie 12 Państwo planowanego objęcia uzbrojenia celną procedurą Kod wywozu 13 Kraj końcowego przeznaczenia uzbrojenia Kod 141 Opis uzbrojenia 151 Numer kontrolny 161 Ilość 171 Waluta 181 Wartość 19 Informacja o sposobie wykorzystania uzbrojenia przez końcowego użytkownika 20 Data kontraktu 21 Celna procedura wywozu 22 Dodatkowe informacje Do wypełnienia przez organ wydający zezwolenie Podpis Organ wydający zezwolenie Data Pieczęć Załącznik nr 8 WZÓR 2 7 Podmiot (wnioskodawca) 2 Numer zezwolenia W O W O 142 Opis uzbrojenia 152 Numer kontrolny 162 Ilość 172 Waluta 182 Wartość 143 Opis uzbrojenia 153 Numer kontrolny 163 Ilość 173 Waluta 183 Wartość 144 Opis uzbrojenia 154 Numer kontrolny 164 Ilość 174 Waluta 184 Wartość 145 Opis uzbrojenia 155 Numer kontrolny 165 Ilość 175 Waluta 185 Wartość 146 Opis uzbrojenia 156 Numer kontrolny 166 Ilość 176 Waluta 186 Wartość 147 Opis uzbrojenia 157 Numer kontrolny 167 Ilość 177 Waluta 187 Wartość 148 Opis uzbrojenia 158 Numer kontrolny 168 Ilość 178 Waluta 188 Wartość 149 Opis uzbrojenia 159 Numer kontrolny 169 Ilość 179 Waluta 189 Wartość 1410 Opis uzbrojenia 1510 Numer kontrolny 1610 Ilość 1710 Waluta 1810 Wartość 1411 Opis uzbrojenia 1511 Numer kontrolny 1611 Ilość 1711 Waluta 1811 Wartość Uwaga: w polach nr 1 kolumny 24 wpisać ilość nadal dostępną, a w polach nr 2 kolumny 24 wpisać ilość, o jaką pomniejszył się zasób 23 Ilość/wartość netto (masa netto/inna jednostka 26 Dokument celny 27 Państwo członkowskie, ze wskazaniem jednostki) (rodzaj i numer) lub nazwisko i podpis funkcjonariusza odpis (nr) oraz data celnego, pieczęć, potwierdzające Nr pozycji i opis uzbrojenia odpisania bądź pozycja pomniejszenie zasobu 24 Liczbowo 25 Ilość/wartość rejestru elektronicznego pomniejszenia zasobu słownie 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 1 Eksporter/Dostawca* 2 Numer zezwolenia 3 Data ważności zezwolenia W W W 4 Osoba prowadząca sprawę 5 Importer/Odbiorca* 6 Organ wydający zezwolenie 7 Podmiot (wnioskodawca) 8 Kraj pochodzenia uzbrojenia Kod 9 Kraj wysyłki uzbrojenia Kod 10 Końcowy użytkownik 11 Państwo członkowskie, w którym obecnie jest lub Kod w przyszłości będzie umiejscowione uzbrojenie 12 Państwo planowanego objęcia uzbrojenia celną procedurą Kod wywozu 13 Kraj końcowego przeznaczenia uzbrojenia Kod 141 Opis uzbrojenia 151 Numer kontrolny 161 Ilość 171 Waluta 181 Wartość 19 Informacja o sposobie wykorzystania uzbrojenia przez końcowego użytkownika 20 Data kontraktu 21 Celna procedura przywozu 22 Dodatkowe informacje Do wypełnienia przez organ wydający zezwolenie Podpis Organ wydający zezwolenie Data Pieczęć Załącznik nr 9 WZÓR 2 5 Importer/Odbiorca * 2 Numer zezwolenia W O W W Ó O 142 Opis uzbrojenia 152 Numer kontrolny 162 Ilość 172 Waluta 182 Wartość 143 Opis uzbrojenia 153 Numer kontrolny 163 Ilość 173 Waluta 183 Wartość 144 Opis uzbrojenia 154 Numer kontrolny 164 Ilość 174 Waluta 184 Wartość 145 Opis uzbrojenia 155 Numer kontrolny 165 Ilość 175 Waluta 185 Wartość 146 Opis uzbrojenia 156 Numer kontrolny 166 Ilość 176 Waluta 186 Wartość 147 Opis uzbrojenia 157 Numer kontrolny 167 Ilość 177 Waluta 187 Wartość 148 Opis uzbrojenia 158 Numer kontrolny 168 Ilość 178 Waluta 188 Wartość 149 Opis uzbrojenia 159 Numer kontrolny 169 Ilość 179 Waluta 189 Wartość 1410 Opis uzbrojenia 1510 Numer kontrolny 1610 Ilość 1710 Waluta 1810 Wartość 1411 Opis uzbrojenia 1511 Numer kontrolny 1611 Ilość 1711 Waluta 1811 Wartość Uwaga: w polach nr 1 kolumny 24 wpisać ilość nadal dostępną, a w polach nr 2 kolumny 24 wpisać ilość, o jaką pomniejszył się zasób 23 Ilość/wartość netto (masa netto/inna jednostka 26 Dokument celny 27 Państwo członkowskie, ze wskazaniem jednostki) (rodzaj i numer) lub odpis nazwisko i podpis (nr) oraz data odpisania funkcjonariusza celnego, pieczęć, Nr pozycji i opis uzbrojenia bądź pozycja rejestru potwierdzające pomniejszenie 24 Liczbowo 25 Ilość/wartość elektronicznego zasobu pomniejszenia zasobu słownie 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 1 Dostawca 2 Numer zezwolenia 3 Data ważności zezwolenia W W W 4 Osoba prowadząca sprawę 51 Odbiorca 6 Organ wydający zezwolenie 7 Podmiot (wnioskodawca) 8 Kraj pochodzenia uzbrojenia Kod 9 Kraj wysyłki uzbrojenia Kod 101 Końcowy użytkownik 11 Państwo członkowskie, w którym obecnie jest lub Kod w przyszłości będzie umiejscowione uzbrojenie 12 Państwo członkowskie planowanego objęcia uzbrojenia celną Kod procedurą wywozu 13 Kraj końcowego przeznaczenia uzbrojenia Kod 141 Opis uzbrojenia 151 Numer kontrolny 161 Ilość 171 Waluta 181 Wartość 19 Informacja o sposobie wykorzystania uzbrojenia przez końcowego użytkownika 20 Data kontraktu 21 Celna procedura wywozu 22 Dodatkowe informacje Do wypełnienia przez organ wydający zezwolenie Podpis Pieczęć Organ wydający zezwolenie Data Załącznik nr 10 WZÓR 2 1 Dostawca 2 Numer zezwolenia W O G O W W O 52 Odbiorca 102 Końcowy użytkownik 53 Odbiorca 103 Końcowy użytkownik 5 4 Odbiorca 104 Końcowy użytkownik 55 Odbiorca 105 Końcowy użytkownik 56 Odbiorca 106 Końcowy użytkownik 57 Odbiorca 107 Końcowy użytkownik 58 Odbiorca 108 Końcowy użytkownik 59 Odbiorca 109 Końcowy użytkownik 510 Odbiorca 1010 Końcowy użytkownik 511 Odbiorca 1011 Końcowy użytkownik 3 1 Dostawca 2 Numer zezwolenia W O G O W W O 142 Opis uzbrojenia 152 Numer kontrolny 162 Ilość 172 Waluta 182 Wartość 143 Opis uzbrojenia 153 Numer kontrolny 163 Ilość 173 Waluta 183 Wartość 144 Opis uzbrojenia 154 Numer kontrolny 164 Ilość 174 Waluta 184 Wartość 145 Opis uzbrojenia 155 Numer kontrolny 165 Ilość 175 Waluta 185 Wartość 146 Opis uzbrojenia 156 Numer kontrolny 166 Ilość 176 Waluta 186 Wartość 147 Opis uzbrojenia 157 Numer kontrolny 167 Ilość 177 Waluta 187 Wartość 148 Opis uzbrojenia 158 Numer kontrolny 168 Ilość 178 Waluta 188 Wartość 149 Opis uzbrojenia 159 Numer kontrolny 169 Ilość 179 Waluta 189 Wartość 1410 Opis uzbrojenia 1510 Numer kontrolny 1610 Ilość 1710 Waluta 1810 Wartość 1411 Opis uzbrojenia 1511 Numer kontrolny 1611 Ilość 1711 Waluta 1811 Wartość Uwaga: w polach nr 1 kolumny 24 wpisać ilość nadal dostępną, a w polach nr 2 kolumny 24 wpisać ilość, o jaką pomniejszył się zasób 23 Ilość/wartość netto (masa netto/inna jednostka 26 Dokument celny 27 Państwo członkowskie, ze wskazaniem jednostki) (rodzaj i numer) lub nazwisko i podpis odpis (nr) oraz data funkcjonariusza celnego, Nr pozycji i opis uzbrojenia odpisania bądź pozycja pieczęć, potwierdzające 24 Liczbowo 25 Ilość/wartość rejestru elektronicznego pomniejszenie zasobu pomniejszenia zasobu słownie 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 1 Eksporter/Dostawca* 2 Numer zezwolenia 3 Data ważności zezwolenia W W W W W W 4 Osoba prowadząca sprawę 51 Importer/Odbiorca* 6 Organ wydający zezwolenie 7 Podmiot (wnioskodawca) 8 Kraj pochodzenia produktów podwójnego zastosowania Kod 9 Kraj wysyłki produktów podwójnego zastosowania Kod 101 Końcowy użytkownik 11 Państwo członkowskie obecnego lub przyszłego Kod umiejscowienia produktów podwójnego zastosowania 12 Państwo członkowskie planowanego objęcia produktów Kod podwójnego zastosowania celną procedurą wywozu 13 Kraj końcowego przeznaczenia produktów podwójnego Kod zastosowania 141 Opis produktów podwójnego zastosowania 151 Numer kontrolny/CAS 161 Numer wykazu kontrolnego 171 Wartość i waluta 181 Ilość 19 Informacja o sposobie wykorzystania produktów podwójnego zastosowania 20 Data zawarcia umowy 21 Celna procedura wywozu przez końcowego użytkownika 22 Dodatkowe informacje Załącznik nr 11 WZÓR 2 1 Eksporter/Dostawca* 2 Numer zezwolenia W O G O W W O K Ó W O W Ó OG O O W 52 Odbiorca 102 Końcowy użytkownik 53 Odbiorca 103 Końcowy użytkownik 54 Odbiorca 104 Końcowy użytkownik 55 Odbiorca 105 Końcowy użytkownik 56 Odbiorca 106 Końcowy użytkownik 57 Odbiorca 107 Końcowy użytkownik 58 Odbiorca 108 Końcowy użytkownik 59 Odbiorca 109 Końcowy użytkownik 510 Odbiorca 1010 Końcowy użytkownik 3 1 Eksporter/Dostawca * 2 Numer zezwolenia W O G O W W O K Ó W O W Ó OG O O W 142 Opis produktów podwójnego zastosowania 152 Numer kontrolny/CAS 162 Numer wykazu kontrolnego 172 Wartość i waluta 182 Ilość 143 Opis produktów podwójnego zastosowania 153 Numer kontrolny/CAS 163 Numer wykazu kontrolnego 173 Wartość i waluta 183 Ilość 144 Opis produktów podwójnego zastosowania 154 Numer kontrolny/CAS 164 Numer wykazu kontrolnego 174 Wartość i waluta 184 Ilość 145 Opis produktów podwójnego zastosowania 155 Numer kontrolny/CAS 165 Numer wykazu kontrolnego 175 Wartość i waluta 185 Ilość 146 Opis produktów podwójnego zastosowania 156 Numer kontrolny/CAS 166 Numer wykazu kontrolnego 176 Wartość i waluta 186 Ilość 147 Opis produktów podwójnego zastosowania 157 Numer kontrolny/CAS 167 Numer wykazu kontrolnego 177 Wartość i waluta 187 Ilość 148 Opis produktów podwójnego zastosowania 158 Numer kontrolny/CAS 168 Numer wykazu kontrolnego 178 Wartość i waluta 188 Ilość 149 Opis produktów podwójnego zastosowania 159 Numer kontrolny/CAS 169 Numer wykazu kontrolnego 179 Wartość i waluta 189 Ilość 1410 Opis produktów podwójnego zastosowania 1510 Numer kontrolny/CAS 1610 Numer wykazu kontrolnego 1710 Wartość i waluta 1810 Ilość 1411 Opis produktów podwójnego zastosowania 1511 Numer kontrolny/CAS 1611 Numer wykazu kontrolnego 1711 Wartość i waluta 1811 Ilość Uwaga: w polach nr 1 kolumny 24 wpisać ilość nadal dostępną, a w polach nr 2 kolumny 24 wpisać ilość, o jaką pomniejszył się zasób 23 Ilość/wartość netto (masa netto/inna jednostka 26 Dokument celny 27 Państwo członkowskie, ze wskazaniem jednostki) (rodzaj i numer) lub nazwisko i podpis Nr pozycji i opis produktu odpis (nr) oraz data funkcjonariusza celnego, podwójnego zastosowania 24 Liczbowo 25 Ilość/wartość odpisania bądź pozycja pieczęć, potwierdzające pomniejszenia zasobu rejestru elektronicznego pomniejszenie zasobu słownie 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 1 Eksporter/Dostawca* 2 Numer zezwolenia 3 Data ważności zezwolenia W W W 4 Osoba prowadząca sprawę 51 Importer/Odbiorca* 6 Organ wydający zezwolenie 7 Pośrednik (wnioskodawca) 81 Końcowy użytkownik 9 Opis usługi pośrednictwa 10 Informacja o sposobie wykorzystania uzbrojenia przez końcowego użytkownika 11 Wartość usługi i waluta 12 Dodatkowe informacje Do wypełnienia przez organ wydający zezwolenie Podpis Organ wydający zezwolenie Data Pieczęć Załącznik nr 12 WZÓR 2 7 Pośrednik (wnioskodawca) 2 Numer zezwolenia W O G O G O W W K O 52 Importer/Odbiorca * 82 Końcowy użytkownik 53 Importer/Odbiorca* 83 Końcowy użytkownik 54 Importer/Odbiorca* 84 Końcowy użytkownik 55 Importer/Odbiorca* 85 Końcowy użytkownik 56 Importer/Odbiorca* 86 Końcowy użytkownik 57 Importer/Odbiorca* 87 Końcowy użytkownik 58 Importer/Odbiorca* 88 Końcowy użytkownik 59 Importer/Odbiorca* 89 Końcowy użytkownik 510 Importer/Odbiorca* 810 Końcowy użytkownik 511 Importer/Odbiorca* 811 Końcowy użytkownik 3 7 Pośrednik (wnioskodawca) 2 Numer zezwolenia W O G O G O W W K O 131 Opis uzbrojenia 141 Numer kontrolny 151 Ilość 161 Waluta 171 Wartość 132 Opis uzbrojenia 142 Numer kontrolny 152 Ilość 162 Waluta 172 Wartość 133 Opis uzbrojenia 143 Numer kontrolny 153 Ilość 163 Waluta 173 Wartość 134 Opis uzbrojenia 144 Numer kontrolny 154 Ilość 164 Waluta 174 Wartość 135 Opis uzbrojenia 145 Numer kontrolny 155 Ilość 165 Waluta 175 Wartość 136 Opis uzbrojenia 146 Numer kontrolny 156 Ilość 166 Waluta 176 Wartość 137 Opis uzbrojenia 147 Numer kontrolny 157 Ilość 167 Waluta 177 Wartość 138 Opis uzbrojenia 148 Numer kontrolny 158 Ilość 168 Waluta 178 Wartość 139 Opis uzbrojenia 149 Numer kontrolny 159 Ilość 16 9 Waluta 179 Wartość 1310 Opis uzbrojenia 1410 Numer kontrolny 1510 Ilość 1610 Waluta 1710 Wartość 1 W M W Załącznik nr 13 WZÓR 2 7 Podmiot (wnioskodawca) 2 Numer zezwolenia W O G O O M O H W K O 52 Importer/Odbiorca * 82 Końcowy użytkownik 53 Importer/Odbiorca* 83 Końcowy użytkownik 54 Importer/Odbiorca* 84 Końcowy użytkownik 55 Importer/Odbiorca* 85 Końcowy użytkownik 56 Importer/Odbiorca* 86 Końcowy użytkownik 57 Importer/Odbiorca* 87 Końcowy użytkownik 58 Importer/Odbiorca* 88 Końcowy użytkownik 59 Importer/Odbiorca* 89 Końcowy użytkownik 510 Importer/Odbiorca* 810 Końcowy użytkownik 1 1 Eksporter/Dostawca* (wykonawca pomocy technicznej) 2 Numer zezwolenia 3 Data ważności zezwolenia W M W W W W 4 Osoba prowadząca sprawę 51 Importer/Odbiorca* 6 Organ wydający zezwolenie 7 Podmiot (wnioskodawca) 81 Końcowy użytkownik 9 Opis pomocy technicznej 10 Dodatkowe informacje 11 Wartość i waluta Do wypełnienia przez organ wydający zezwolenie Podpis Pieczęć Organ wydający zezwolenie Data Załącznik nr 14 WZÓR 2 7 Podmiot (wnioskodawca) 2 Numer zezwolenia W O G O O M O H W K O K Ó W O W Ó OG O O W 52 Importer/Odbiorca* 82 Końcowy użytkownik 53 Importer/Odbiorca* 83 Końcowy użytkownik 54 Importer/Odbiorca* 84 Końcowy użytkownik 55 Importer/Odbiorca* 85 Końcowy użytkownik 56 Importer/Odbiorca* 86 Końcowy użytkownik 57 Importer/Odbiorca* 87 Końcowy użytkownik 58 Importer/Odbiorca* 88 Końcowy użytkownik 59 Importer/Odbiorca* 89 Końcowy użytkownik 510 Importer/Odbiorca* 810 Końcowy użytkownik
+CZĘŚĆ B Data złożenia wniosku: Numer sprawy Numer wniosku wnioskodawcy (wypełnia Ministerstwo Gospodarki) (wypełnia Ministerstwo Gospodarki) (wypełnia wnioskodawca) WNIOSEK O WYDANIE ZEZWOLENIA INDYWIDUALNEGO/GLOBALNEGO, CERTYFIKATU IMPORTOWEGO, POŚWIADCZENIA OŚWIADCZENIA KOŃCOWEGO UŻYTKOWNIKA* (dotyczy towarów o znaczeniu strategicznym) Nazwa i szczegółowy opis towarów Numer Kraj kontrolny Ilość Wartość Wartość Lp. o znaczeniu strategicznym Producent pochodzenia i jednostka (kategoria), jednostkowa i waluta (typ, marka, rodzaj, nr fabryczny, CAS) towaru podpunkt miary Wartość ogółem i waluta Nr ostatniej pozycji na tej stronie: Strona: Kart:
+CZĘŚĆ C Data złożenia wniosku Numer sprawy Numer wniosku (wypełnia Ministerstwo Gospodarki) (wypełnia Ministerstwo Gospodarki) (wypełnia wnioskodawca) WNIOSEK O WYDANIE ZEZWOLENIA INDYWIDUALNEGO/GLOBALNEGO, CERTYFIKATU IMPORTOWEGO, POŚWIADCZENIA OŚWIADCZENIA KOŃCOWEGO UŻYTKOWNIKA* (dotyczy towarów o znaczeniu strategicznym) Lp. NIP Nazwa(firma) Ulica, numer Miejscowość, kod pocztowy Państwo Numer telefonu Numer Adres poczty faksu elektronicznej Charakter czynności realizowanych na rzecz transakcji Lp. Nazwa NIP (firma) Ulica, numer Miejscowość, kod pocztowy Państwo Numer telefonu Numer Adres poczty faksu elektronicznej Charakter czynności realizowanych na rzecz transakcji Lp. Nazwa NIP (firma) Ulica, numer Miejscowość, kod pocztowy Państwo Numer telefonu Numer Adres poczty faksu elektronicznej Charakter czynności realizowanych na rzecz transakcji Lp. Nazwa NIP (firma) Ulica, numer Miejscowość, kod pocztowy Państwo Numer telefonu Numer Adres poczty faksu elektronicznej Charakter czynności realizowanych na rzecz transakcji Nr ostatniej pozycji na tej stronie Strona Kart Załącznik nr 2 WZÓR Załącznik nr 2
+1. Eksporter 2. Numer zezwolenia 3. Data ważności zezwolenia 1
+4. Osoba prowadząca sprawę O
+5. Importer 6. Organ wydający zezwolenie Ó W W
+7. Podmiot (wnioskodawca) 8. Kraj pochodzenia uzbrojenia Kod W 9 Kraj wysyłki uzbrojenia Kod
+10. Końcowy użytkownik 11. Państwo członkowskie, w którym obecnie jest lub Kod w przyszłości będzie umiejscowione uzbrojenie O W
+12. Państwo członkowskie planowanego objęcia uzbrojenia Kod celną procedurą wywozu
+13. Kraj końcowego przeznaczenia uzbrojenia Kod
+14.1 Opis uzbrojenia 15.1 Numer kontrolny 16.1 Ilość
+17.1 Waluta 18.1 Wartość
+19. Informacja o sposobie wykorzystania uzbrojenia przez końcowego użytkownika 20. Data kontraktu 21. Celna procedura wywozu
+22. Dodatkowe informacje Do wypełnienia przez organ wydający zezwolenie Podpis Pieczęć Organ wydający zezwolenie Data
+1. Eksporter 2. Numer zezwolenia 2
+14.2 Opis uzbrojenia 15.2 Numer kontrolny 16.2 Ilość O
+17.2 Waluta 18.2 Wartość Ó W W 14.3 Opis uzbrojenia 15.3 Numer kontrolny 16.3 Ilość
+17.3 Waluta 18.3 Wartość
+14.4 Opis uzbrojenia 15.4 Numer kontrolny 16.4 Ilość W
+17.4 Waluta 18.4 Wartość O 14.5 Opis uzbrojenia 15.5 Numer kontrolny 16.5 Ilość W
+17.5 Waluta 18.5 Wartość
+14.6 Opis uzbrojenia 15.6 Numer kontrolny 16.6 Ilość
+17.6 Waluta 18.6 Wartość
+14.7 Opis uzbrojenia 15.7 Numer kontrolny 16.7 Ilość
+17.7 Waluta 18.7 Wartość
+14.8 Opis uzbrojenia 15.8 Numer kontrolny 16.8 Ilość
+17.8 Waluta 18.8 Wartość
+14.9 Opis uzbrojenia 15.9 Numer kontrolny 16.9 Ilość
+17.9 Waluta 18.9 Wartość
+14.10 Opis uzbrojenia 15.10 Numer kontrolny 16.10 Ilość
+17.10 Waluta 18.10 Wartość
+14.11 Opis uzbrojenia 15.11 Numer kontrolny 16.11 Ilość
+17.11 Waluta 18.11 Wartość Uwaga: w polach nr 1 kolumny 24 wpisać ilość nadal dostępną, a w polach nr 2 kolumny 24 wpisać ilość, o jaką pomniejszył się zasób
+23. Ilość/wartość netto (masa netto/inna jednostka – 26. Dokument celny 27. Państwo członkowskie, ze wskazaniem jednostki) (rodzaj i numer) lub nazwisko i podpis funkcjonariusza odpis (nr) oraz data celnego, pieczęć, potwierdzające Nr pozycji i opis uzbrojenia odpisania bądź pozycja pomniejszenie zasobu
+24. Liczbowo 25. Ilość/wartość rejestru elektronicznego pomniejszenia zasobu słownie 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 Załącznik nr 3 WZÓR Załącznik nr 3
+1. Dostawca 2. Numer zezwolenia 3. Data ważności zezwolenia 1
+4. Osoba prowadząca sprawę
+5. Odbiorca 6. Organ wydający zezwolenie W W
+7. Podmiot (wnioskodawca) 8. Kraj pochodzenia uzbrojenia Kod
+9. Kraj wysyłki uzbrojenia Kod W
+10. Końcowy użytkownik 11. Państwo członkowskie, w którym obecnie jest lub Kod w przyszłości będzie umiejscowione uzbrojenie
+12. Kraj końcowego przeznaczenia uzbrojenia Kod W
+13.1 Opis uzbrojenia 14.1 Numer kontrolny 15.1 Ilość
+16.1 Waluta 17.1 Wartość
+18. Informacja o sposobie wykorzystania uzbrojenia przez końcowego użytkownika 19. Data kontraktu
+20. Dodatkowe informacje Do wypełnienia przez organ wydający zezwolenie Podpis Pieczęć Organ wydający zezwolenie Data
+1. Dostawca 2. Numer zezwolenia 2
+13.2 Opis uzbrojenia 14.2 Numer kontrolny 15.2 Ilość
+16.2 Waluta 17.2 Wartość O 13.3 Opis uzbrojenia 14.3 Numer kontrolny 15.3 Ilość
+16.3 Waluta 17.3 Wartość
+13.4 Opis uzbrojenia 14.4 Numer kontrolny 15.4 Ilość W 16.4 Waluta 17.4 Wartość W
+13.5 Opis uzbrojenia 14.5 Numer kontrolny 15.5 Ilość
+16.5 Waluta 17.5 Wartość
+13.6 Opis uzbrojenia 14.6 Numer kontrolny 15.6 Ilość W 16.6 Waluta 17.6 Wartość
+13.7 Opis uzbrojenia 14.7 Numer kontrolny 15.7 Ilość O 16.7 Waluta 17.7 Wartość W
+13.8 Opis uzbrojenia 14.8 Numer kontrolny 15.8 Ilość
+16.8 Waluta 17.8 Wartość
+13.9 Opis uzbrojenia 14.9 Numer kontrolny 15.9 Ilość
+16. Waluta 17. Wartość
+13.10 Opis uzbrojenia 14.10 Numer kontrolny 15.10 Ilość
+16.10 Waluta 17.10 Wartość
+13.11 Opis uzbrojenia 14.11 Numer kontrolny 15.11 Ilość
+16.11 Waluta 17.11 Wartość Uwaga: w polach nr 1 kolumny 24 wpisać ilość nadal dostępną, a w polach nr 2 kolumny 24 wpisać ilość, o jaką pomniejszył się zasób
+23. Ilość/wartość netto (masa netto/inna jednostka – 26. Dokument celny 27. Państwo członkowskie, ze wskazaniem jednostki) (rodzaj i numer) lub nazwisko i podpis odpis (nr) oraz data funkcjonariusza celnego, Nr pozycji i opis uzbrojenia odpisania bądź pozycja pieczęć, potwierdzające
+24. Liczbowo 25. Ilość/wartość rejestru elektronicznego pomniejszenie zasobu pomniejszenia zasobu słownie 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 Załącznik nr 4 WZÓR Załącznik nr 4
+1. Eksporter/Dostawca * 2. Numer zezwolenia 3. Data ważności zezwolenia 1
+4. Osoba prowadząca sprawę W
+5. Importer/Odbiorca * 6. Organ wydający zezwolenie W W 7. Podmiot (wnioskodawca) 8. Kraj pochodzenia produktów podwójnego zastosowania Kod
+9. Kraj wysyłki produktów podwójnego zastosowania Kod
+10. Końcowy użytkownik 11. Państwo członkowskie obecnego lub przyszłego Kod umiejscowienia produktów podwójnego zastosowania
+12. Państwo członkowskie planowanego objęcia produktów Kod W podwójnego zastosowania celną procedurą wywozu W
+13. Kraj końcowego przeznaczenia Kod
+14.1 Opis produktów podwójnego zastosowania 15.1 Numer kontrolny/CAS 16.1 Numer wykazu kontrolnego
+17.1 Wartość i waluta 18.1 Ilość W
+19. Informacja o sposobie wykorzystania produktów podwójnego zastosowania 20. Data zawarcia umowy 21. Celna procedura wywozu przez końcowego użytkownika
+22. Dodatkowe informacje W Do wypełnienia przez organ wydający zezwolenie Podpis Pieczęć Organ wydający zezwolenie Data
+1. Eksporter/Dostawca * 2. Numer zezwolenia 2 W 14.2 Opis produktów podwójnego zastosowania 15.2 Numer kontrolny/CAS 16.2 Numer wykazu kontrolnego O O
+17.2 Wartość i waluta 18.2 Ilość OG
+14.3 Opis produktów podwójnego zastosowania 15.3 Numer kontrolny/CAS 16.3 Numer wykazu kontrolnego Ó W
+17.3 Wartość i waluta 18.3 Ilość O W Ó 14.4 Opis produktów podwójnego zastosowania 15.4 Numer kontrolny/CAS 16.4 Numer wykazu kontrolnego K O 17.4 Wartość i waluta 18.4 Ilość
+14.5 Opis produktów podwójnego zastosowania 15.5 Numer kontrolny/CAS 16.5 Numer wykazu kontrolnego
+17.5 Wartość i waluta 18.5 Ilość W
+14.6 Opis produktów podwójnego zastosowania 15.6 Numer kontrolny/CAS 16.6 Numer wykazu kontrolnego W
+17.6 Wartość i waluta 18.6 Ilość
+14.7 Opis produktów podwójnego zastosowania 15.7 Numer kontrolny/CAS 16.7 Numer wykazu kontrolnego
+17.7 Wartość i waluta 18.7 Ilość W
+14.8 Opis produktów podwójnego zastosowania 15.8 Numer kontrolny/CAS 16.8 Numer wykazu kontrolnego
+17.8 Wartość i waluta 18.8 Ilość O W 14.9 Opis produktów podwójnego zastosowania 15.9 Numer kontrolny/CAS 16.9 Numer wykazu kontrolnego
+17.9 Wartość i waluta 18.9 Ilość
+14.10 Opis produktów podwójnego zastosowania 15.10 Numer kontrolny/CAS 16.10 Numer wykazu kontrolnego
+17.10 Wartość i waluta 18.10 Ilość
+14.11 Opis produktów podwójnego zastosowania 15.11 Numer kontrolny/CAS 16.11 Numer wykazu kontrolnego
+17.11 Wartość i waluta 18.11 Ilość Uwaga: w polach nr 1 kolumny 24 wpisać ilość nadal dostępną, a w polach nr 2 kolumny 24 wpisać ilość, o jaką pomniejszył się zasób
+23. Ilość/wartość netto (masa netto/inna jednostka – 26. Dokument celny 27. Państwo członkowskie, ze wskazaniem jednostki) (rodzaj i numer) lub nazwisko i podpis funkcjonariusza Nr pozycji i opis produktu odpis (nr) oraz data celnego, pieczęć, potwierdzające podwójnego zastosowania 24. Liczbowo 25. Ilość/wartość odpisania bądź pozycja pomniejszenie zasobu pomniejszenia zasobu rejestru elektronicznego słownie 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 Załącznik nr 5 WZÓR Załącznik nr 5
+1. Pośrednik (wnioskodawca) 2. Numer zezwolenia 3. Data ważności zezwolenia 1
+4. Osoba prowadząca sprawę
+5. Eksporter/Dostawca * 6. Organ wydający zezwolenie W W
+7. Odbiorca/Importer * 8. Końcowy użytkownik
+9. Opis usługi pośrednictwa W W
+10. Informacja o sposobie wykorzystania uzbrojenia przez końcowego użytkownika 11. Wartość usługi i waluta
+12. Dodatkowe informacje Do wypełnienia przez organ wydający zezwolenie Podpis Pieczęć Organ wydający zezwolenie Data
+7. Pośrednik (wnioskodawca) 2. Numer zezwolenia 2
+13.1 Opis uzbrojenia objętego usługą 14.1 Numer kontrolny 15.1 Ilość
+16.1 Waluta 17.1 Wartość O
+13.2 Opis uzbrojenia objętego usługą 14.2 Numer kontrolny 15.2 Ilość K 16.2 Waluta 17.2 Wartość W
+13.3 Opis uzbrojenia objętego usługą 14.3 Numer kontrolny 15.3 Ilość W
+16.3 Waluta 17.3 Wartość O 13.4 Opis uzbrojenia objętego usługą 14.4 Numer kontrolny 15.4 Ilość G
+16.4 Waluta 17.4 Wartość
+13.5 Opis uzbrojenia objętego usługą 14.5 Numer kontrolny 15.5 Ilość
+16.5 Waluta 17.5 Wartość W
+13.6 Opis uzbrojenia objętego usługą 14.6 Numer kontrolny 15.6 Ilość
+16.6 Waluta 17.6 Wartość O W
+13.7 Opis uzbrojenia objętego usługą 14.7 Numer kontrolny 15.7 Ilość
+16.7 Waluta 17.7 Wartość
+13.8 Opis uzbrojenia objętego usługą 14.8 Numer kontrolny 15.8 Ilość
+16.8 Waluta 17.8 Wartość
+13.9 Opis uzbrojenia objętego usługą 14.9 Numer kontrolny 15.9 Ilość
+16. 9 Waluta 17.9 Wartość
+13.10 Opis uzbrojenia objętego usługą 14.10 Numer kontrolny 15.10 Ilość
+16.10 Waluta 17.10 Wartość Załącznik nr 6 WZÓR Załącznik nr 6
+1. Eksporter/Dostawca* (wykonawca pomocy technicznej) 2. Numer zezwolenia 3. Data ważności zezwolenia 1
+4. Osoba prowadząca sprawę
+5. Importer/Odbiorca* 6. Organ wydający zezwolenie W
+7. Podmiot (wnioskodawca) 8. Końcowy użytkownik M
+9. Opis pomocy technicznej W W
+10. Dodatkowe informacje 11. Wartość i waluta Do wypełnienia przez organ wydający zezwolenie Podpis Pieczęć Organ wydający zezwolenie Data Załącznik nr 7 WZÓR Załącznik nr 7
+1. Wykonawca pomocy technicznej 2. Numer zezwolenia 3. Data ważności zezwolenia 1
+4. Osoba prowadząca sprawę W
+5. Importer/Odbiorca * 6. Organ wydający zezwolenie W W
+7. Podmiot (wnioskodawca) 8. Końcowy użytkownik W
+9. Opis pomocy technicznej M W
+10. Dodatkowe informacje 11. Wartość i waluta W Do wypełnienia przez organ wydający zezwolenie Podpis Pieczęć Organ wydający zezwolenie Data Załącznik nr 8 WZÓR Załącznik nr 8
+1. Eksporter/Dostawca* 2. Numer zezwolenia 3. Data ważności zezwolenia 1
+4. Osoba prowadząca sprawę O 5. Importer/Odbiorca* 6. Organ wydający zezwolenie
+7. Podmiot (wnioskodawca) 8. Kraj pochodzenia uzbrojenia Kod W
+9. Kraj wysyłki uzbrojenia Kod
+10. Końcowy użytkownik 11. Państwo, w którym obecnie jest lub w przyszłości będzie Kod umiejscowione uzbrojenie O W
+12. Państwo planowanego objęcia uzbrojenia celną procedurą Kod wywozu
+13. Kraj końcowego przeznaczenia uzbrojenia Kod
+14.1 Opis uzbrojenia 15.1 Numer kontrolny 16.1 Ilość
+17.1 Waluta 18.1 Wartość
+19. Informacja o sposobie wykorzystania uzbrojenia przez końcowego 20. Data kontraktu 21. Celna procedura wywozu użytkownika
+22. Dodatkowe informacje Do wypełnienia przez organ wydający zezwolenie Podpis Pieczęć Organ wydający zezwolenie Data
+7. Podmiot (wnioskodawca) 2. Numer zezwolenia 2
+14.2 Opis uzbrojenia 15.2 Numer kontrolny 16.2 Ilość O
+17.2 Waluta 18.2 Wartość
+14.3 Opis uzbrojenia 15.3 Numer kontrolny 16.3 Ilość
+17.3 Waluta 18.3 Wartość
+14.4 Opis uzbrojenia 15.4 Numer kontrolny 16.4 Ilość W
+17.4 Waluta 18.4 Wartość
+14.5 Opis uzbrojenia 15.5 Numer kontrolny 16.5 Ilość O W
+17.5 Waluta 18.5 Wartość
+14.6 Opis uzbrojenia 15.6 Numer kontrolny 16.6 Ilość
+17.6 Waluta 18.6 Wartość
+14.7 Opis uzbrojenia 15.7 Numer kontrolny 16.7 Ilość
+17.7 Waluta 18.7 Wartość
+14.8 Opis uzbrojenia 15.8 Numer kontrolny 16.8 Ilość
+17.8 Waluta 18.8 Wartość
+14.9 Opis uzbrojenia 15.9 Numer kontrolny 16.9 Ilość
+17.9 Waluta 18.9 Wartość
+14.10 Opis uzbrojenia 15.10 Numer kontrolny 16.10 Ilość
+17.10 Waluta 18.10 Wartość
+14.11 Opis uzbrojenia 15.11 Numer kontrolny 16.11 Ilość
+17.11 Waluta 18.11 Wartość Uwaga: w polach nr 1 kolumny 24 wpisać ilość nadal dostępną, a w polach nr 2 kolumny 24 wpisać ilość, o jaką pomniejszył się zasób
+23. Ilość/wartość netto (masa netto/inna jednostka – 26. Dokument celny 27. Państwo członkowskie, ze wskazaniem jednostki) (rodzaj i numer) lub nazwisko i podpis funkcjonariusza odpis (nr) oraz data celnego, pieczęć, potwierdzające Nr pozycji i opis uzbrojenia odpisania bądź pozycja pomniejszenie zasobu
+24. Liczbowo 25. Ilość/wartość rejestru elektronicznego pomniejszenia zasobu słownie 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 Załącznik nr 9 WZÓR Załącznik nr 9
+1. Eksporter/Dostawca* 2. Numer zezwolenia 3. Data ważności zezwolenia 1
+4. Osoba prowadząca sprawę
+5. Importer/Odbiorca* 6. Organ wydający zezwolenie W
+7. Podmiot (wnioskodawca) 8. Kraj pochodzenia uzbrojenia Kod W 9. Kraj wysyłki uzbrojenia Kod
+10. Końcowy użytkownik 11. Państwo członkowskie, w którym obecnie jest lub Kod w przyszłości będzie umiejscowione uzbrojenie W
+12. Państwo planowanego objęcia uzbrojenia celną procedurą Kod wywozu
+13. Kraj końcowego przeznaczenia uzbrojenia Kod
+14.1 Opis uzbrojenia 15.1 Numer kontrolny 16.1 Ilość
+17.1 Waluta 18.1 Wartość
+19. Informacja o sposobie wykorzystania uzbrojenia przez końcowego użytkownika 20. Data kontraktu 21. Celna procedura przywozu
+22. Dodatkowe informacje Do wypełnienia przez organ wydający zezwolenie Podpis Pieczęć Organ wydający zezwolenie Data
+5. Importer/Odbiorca * 2. Numer zezwolenia 2
+14.2 Opis uzbrojenia 15.2 Numer kontrolny 16.2 Ilość O
+17.2 Waluta 18.2 Wartość Ó W
+14.3 Opis uzbrojenia 15.3 Numer kontrolny 16.3 Ilość
+17.3 Waluta 18.3 Wartość
+14.4 Opis uzbrojenia 15.4 Numer kontrolny 16.4 Ilość W
+17.4 Waluta 18.4 Wartość
+14.5 Opis uzbrojenia 15.5 Numer kontrolny 16.5 Ilość O W
+17.5 Waluta 18.5 Wartość
+14.6 Opis uzbrojenia 15.6 Numer kontrolny 16.6 Ilość
+17.6 Waluta 18.6 Wartość
+14.7 Opis uzbrojenia 15.7 Numer kontrolny 16.7 Ilość
+17.7 Waluta 18.7 Wartość
+14.8 Opis uzbrojenia 15.8 Numer kontrolny 16.8 Ilość
+17.8 Waluta 18.8 Wartość
+14.9 Opis uzbrojenia 15.9 Numer kontrolny 16.9 Ilość
+17.9 Waluta 18.9 Wartość
+14.10 Opis uzbrojenia 15.10 Numer kontrolny 16.10 Ilość
+17.10 Waluta 18.10 Wartość
+14.11 Opis uzbrojenia 15.11 Numer kontrolny 16.11 Ilość
+17.11 Waluta 18.11 Wartość Uwaga: w polach nr 1 kolumny 24 wpisać ilość nadal dostępną, a w polach nr 2 kolumny 24 wpisać ilość, o jaką pomniejszył się zasób
+23. Ilość/wartość netto (masa netto/inna jednostka – 26. Dokument celny 27. Państwo członkowskie, ze wskazaniem jednostki) (rodzaj i numer) lub odpis nazwisko i podpis (nr) oraz data odpisania funkcjonariusza celnego, pieczęć, Nr pozycji i opis uzbrojenia bądź pozycja rejestru potwierdzające pomniejszenie
+24. Liczbowo 25. Ilość/wartość elektronicznego zasobu pomniejszenia zasobu słownie 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 Załącznik nr 10 WZÓR Załącznik nr 10
+1. Dostawca 2. Numer zezwolenia 3. Data ważności 1 zezwolenia
+4. Osoba prowadząca sprawę
+5.1 Odbiorca 6. Organ wydający zezwolenie W
+7. Podmiot (wnioskodawca) 8. Kraj pochodzenia uzbrojenia Kod W
+9. Kraj wysyłki uzbrojenia Kod
+10.1 Końcowy użytkownik 11. Państwo członkowskie, w którym obecnie jest lub Kod w przyszłości będzie umiejscowione uzbrojenie
+12. Państwo członkowskie planowanego objęcia uzbrojenia celną Kod procedurą wywozu
+13. Kraj końcowego przeznaczenia uzbrojenia Kod W
+14.1 Opis uzbrojenia 15.1 Numer kontrolny 16.1 Ilość
+17.1 Waluta 18.1 Wartość
+19. Informacja o sposobie wykorzystania uzbrojenia przez końcowego użytkownika 20. Data kontraktu 21. Celna procedura wywozu
+22. Dodatkowe informacje Do wypełnienia przez organ wydający zezwolenie Podpis Pieczęć Organ wydający zezwolenie Data
+1. Dostawca 2. Numer zezwolenia 2
+5.2 Odbiorca 10.2 Końcowy użytkownik O
+5.3 Odbiorca 10.3 Końcowy użytkownik W 5. 4 Odbiorca 10.4 Końcowy użytkownik W
+5.5 Odbiorca 10.5 Końcowy użytkownik O
+5.6 Odbiorca 10.6 Końcowy użytkownik G O W
+5.7 Odbiorca 10.7 Końcowy użytkownik
+5.8 Odbiorca 10.8 Końcowy użytkownik
+5.9 Odbiorca 10.9 Końcowy użytkownik
+5.10 Odbiorca 10.10 Końcowy użytkownik
+5.11 Odbiorca 10.11 Końcowy użytkownik
+1. Dostawca 2. Numer zezwolenia 3
+14.2 Opis uzbrojenia 15.2 Numer kontrolny 16.2 Ilość O
+17.2 Waluta 18.2 Wartość
+14.3 Opis uzbrojenia 15.3 Numer kontrolny 16.3 Ilość
+17.3 Waluta 18.3 Wartość W W 14.4 Opis uzbrojenia 15.4 Numer kontrolny 16.4 Ilość
+17.4 Waluta 18.4 Wartość
+14.5 Opis uzbrojenia 15.5 Numer kontrolny 16.5 Ilość
+17.5 Waluta 18.5 Wartość O G
+14.6 Opis uzbrojenia 15.6 Numer kontrolny 16.6 Ilość O W 17.6 Waluta 18.6 Wartość
+14.7 Opis uzbrojenia 15.7 Numer kontrolny 16.7 Ilość
+17.7 Waluta 18.7 Wartość
+14.8 Opis uzbrojenia 15.8 Numer kontrolny 16.8 Ilość
+17.8 Waluta 18.8 Wartość
+14.9 Opis uzbrojenia 15.9 Numer kontrolny 16.9 Ilość
+17.9 Waluta 18.9 Wartość
+14.10 Opis uzbrojenia 15.10 Numer kontrolny 16.10 Ilość
+17.10 Waluta 18.10 Wartość
+14.11 Opis uzbrojenia 15.11 Numer kontrolny 16.11 Ilość
+17.11 Waluta 18.11 Wartość Uwaga: w polach nr 1 kolumny 24 wpisać ilość nadal dostępną, a w polach nr 2 kolumny 24 wpisać ilość, o jaką pomniejszył się zasób
+23. Ilość/wartość netto (masa netto/inna jednostka – 26. Dokument celny 27. Państwo członkowskie, ze wskazaniem jednostki) (rodzaj i numer) lub nazwisko i podpis odpis (nr) oraz data funkcjonariusza celnego, Nr pozycji i opis uzbrojenia odpisania bądź pozycja pieczęć, potwierdzające
+24. Liczbowo 25. Ilość/wartość rejestru elektronicznego pomniejszenie zasobu pomniejszenia zasobu słownie 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 Załącznik nr 11 WZÓR Załącznik nr 11
+1. Eksporter/Dostawca* 2. Numer zezwolenia 3. Data ważności zezwolenia 1
+4. Osoba prowadząca sprawę W
+5.1 Importer/Odbiorca* 6. Organ wydający zezwolenie W W 7. Podmiot (wnioskodawca) 8. Kraj pochodzenia produktów podwójnego zastosowania Kod
+9. Kraj wysyłki produktów podwójnego zastosowania Kod
+10.1 Końcowy użytkownik 11. Państwo członkowskie obecnego lub przyszłego Kod umiejscowienia produktów podwójnego zastosowania
+12. Państwo członkowskie planowanego objęcia produktów Kod W podwójnego zastosowania celną procedurą wywozu W
+13. Kraj końcowego przeznaczenia produktów podwójnego Kod zastosowania
+14.1 Opis produktów podwójnego zastosowania 15.1 Numer kontrolny/CAS 16.1 Numer wykazu kontrolnego
+17.1 Wartość i waluta 18.1 Ilość
+19. Informacja o sposobie wykorzystania produktów podwójnego zastosowania 20. Data zawarcia umowy 21. Celna procedura wywozu przez końcowego użytkownika
+22. Dodatkowe informacje W
+1. Eksporter/Dostawca* 2. Numer zezwolenia 2 W O 5.2 Odbiorca 10.2 Końcowy użytkownik O OG
+5.3 Odbiorca 10.3 Końcowy użytkownik Ó W O W Ó K 5.4 Odbiorca 10.4 Końcowy użytkownik O
+5.5 Odbiorca 10.5 Końcowy użytkownik W W
+5.6 Odbiorca 10.6 Końcowy użytkownik
+5.7 Odbiorca 10.7 Końcowy użytkownik O G
+5.8 Odbiorca 10.8 Końcowy użytkownik O W
+5.9 Odbiorca 10.9 Końcowy użytkownik
+5.10 Odbiorca 10.10 Końcowy użytkownik
+1. Eksporter/Dostawca * 2. Numer zezwolenia 3
+14.2 Opis produktów podwójnego zastosowania 15.2 Numer kontrolny/CAS 16.2 Numer wykazu W kontrolnego O O 17.2 Wartość i waluta 18.2 Ilość OG 14.3 Opis produktów podwójnego zastosowania 15.3 Numer kontrolny/CAS 16.3 Numer wykazu kontrolnego Ó 17.3 Wartość i waluta 18.3 Ilość W O W 14.4 Opis produktów podwójnego zastosowania 15.4 Numer kontrolny/CAS 16.4 Numer wykazu Ó kontrolnego K
+17.4 Wartość i waluta 18.4 Ilość O
+14.5 Opis produktów podwójnego zastosowania 15.5 Numer kontrolny/CAS 16.5 Numer wykazu kontrolnego
+17.5 Wartość i waluta 18.5 Ilość W 14.6 Opis produktów podwójnego zastosowania 15.6 Numer kontrolny/CAS 16.6 Numer wykazu kontrolnego W
+17.6 Wartość i waluta 18.6 Ilość
+14.7 Opis produktów podwójnego zastosowania 15.7 Numer kontrolny/CAS 16.7 Numer wykazu kontrolnego
+17.7 Wartość i waluta 18.7 Ilość O
+14.8 Opis produktów podwójnego zastosowania 15.8 Numer kontrolny/CAS 16.8 Numer wykazu G kontrolnego
+17.8 Wartość i waluta 18.8 Ilość O W
+14.9 Opis produktów podwójnego zastosowania 15.9 Numer kontrolny/CAS 16.9 Numer wykazu kontrolnego
+17.9 Wartość i waluta 18.9 Ilość
+14.10 Opis produktów podwójnego zastosowania 15.10 Numer kontrolny/CAS 16.10 Numer wykazu kontrolnego
+17.10 Wartość i waluta 18.10 Ilość
+14.11 Opis produktów podwójnego zastosowania 15.11 Numer kontrolny/CAS 16.11 Numer wykazu kontrolnego
+17.11 Wartość i waluta 18.11 Ilość Uwaga: w polach nr 1 kolumny 24 wpisać ilość nadal dostępną, a w polach nr 2 kolumny 24 wpisać ilość, o jaką pomniejszył się zasób
+23. Ilość/wartość netto (masa netto/inna jednostka – 26. Dokument celny 27. Państwo członkowskie, ze wskazaniem jednostki) (rodzaj i numer) lub nazwisko i podpis Nr pozycji i opis produktu odpis (nr) oraz data funkcjonariusza celnego, podwójnego zastosowania 24. Liczbowo 25. Ilość/wartość odpisania bądź pozycja pieczęć, potwierdzające pomniejszenia zasobu rejestru elektronicznego pomniejszenie zasobu słownie 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 Załącznik nr 12 WZÓR Załącznik nr 12
+1. Eksporter/Dostawca* 2. Numer zezwolenia 3. Data ważności zezwolenia 1
+4. Osoba prowadząca sprawę
+5.1 Importer/Odbiorca* 6. Organ wydający zezwolenie W W 7. Pośrednik (wnioskodawca) 8.1 Końcowy użytkownik
+9. Opis usługi pośrednictwa W
+10. Informacja o sposobie wykorzystania uzbrojenia przez końcowego użytkownika 11. Wartość usługi i waluta
+12. Dodatkowe informacje Do wypełnienia przez organ wydający zezwolenie Podpis Pieczęć Organ wydający zezwolenie Data
+7. Pośrednik (wnioskodawca) 2. Numer zezwolenia 2
+5.2 Importer/Odbiorca * 8.2 Końcowy użytkownik O
+5.3 Importer/Odbiorca* 8.3 Końcowy użytkownik K W W 5.4 Importer/Odbiorca* 8.4 Końcowy użytkownik O
+5.5 Importer/Odbiorca* 8.5 Końcowy użytkownik G
+5.6 Importer/Odbiorca* 8.6 Końcowy użytkownik O G
+5.7 Importer/Odbiorca* 8.7 Końcowy użytkownik O W
+5.8 Importer/Odbiorca* 8.8 Końcowy użytkownik
+5.9 Importer/Odbiorca* 8.9 Końcowy użytkownik
+5.10 Importer/Odbiorca* 8.10 Końcowy użytkownik
+5.11 Importer/Odbiorca* 8.11 Końcowy użytkownik
+7. Pośrednik (wnioskodawca) 2. Numer zezwolenia 3
+13.1 Opis uzbrojenia 14.1 Numer kontrolny 15.1 Ilość
+16.1 Waluta 17.1 Wartość O
+13.2 Opis uzbrojenia 14.2 Numer kontrolny 15.2 Ilość
+16.2 Waluta 17.2 Wartość K W 13.3 Opis uzbrojenia 14.3 Numer kontrolny 15.3 Ilość W
+16.3 Waluta 17.3 Wartość
+13.4 Opis uzbrojenia 14.4 Numer kontrolny 15.4 Ilość O G 16.4 Waluta 17.4 Wartość
+13.5 Opis uzbrojenia 14.5 Numer kontrolny 15.5 Ilość
+16.5 Waluta 17.5 Wartość O G
+13.6 Opis uzbrojenia 14.6 Numer kontrolny 15.6 Ilość O W 16.6 Waluta 17.6 Wartość
+13.7 Opis uzbrojenia 14.7 Numer kontrolny 15.7 Ilość
+16.7 Waluta 17.7 Wartość
+13.8 Opis uzbrojenia 14.8 Numer kontrolny 15.8 Ilość
+16.8 Waluta 17.8 Wartość
+13.9 Opis uzbrojenia 14.9 Numer kontrolny 15.9 Ilość
+16. 9 Waluta 17.9 Wartość
+13.10 Opis uzbrojenia 14.10 Numer kontrolny 15.10 Ilość
+16.10 Waluta 17.10 Wartość Załącznik nr 13 WZÓR Załącznik nr 13 1 W M W
+7. Podmiot (wnioskodawca) 2. Numer zezwolenia 2
+5.2 Importer/Odbiorca * 8.2 Końcowy użytkownik O
+5.3 Importer/Odbiorca* 8.3 Końcowy użytkownik K W
+5.4 Importer/Odbiorca* 8.4 Końcowy użytkownik H O M 5.5 Importer/Odbiorca* 8.5 Końcowy użytkownik O O 5.6 Importer/Odbiorca* 8.6 Końcowy użytkownik G O W
+5.7 Importer/Odbiorca* 8.7 Końcowy użytkownik
+5.8 Importer/Odbiorca* 8.8 Końcowy użytkownik
+5.9 Importer/Odbiorca* 8.9 Końcowy użytkownik
+5.10 Importer/Odbiorca* 8.10 Końcowy użytkownik Załącznik nr 14 WZÓR Załącznik nr 14
+1. Eksporter/Dostawca* (wykonawca pomocy technicznej) 2. Numer zezwolenia 3. Data ważności zezwolenia 1
+4. Osoba prowadząca sprawę W
+5.1 Importer/Odbiorca* 6. Organ wydający zezwolenie W W
+7. Podmiot (wnioskodawca) 8.1 Końcowy użytkownik W
+9. Opis pomocy technicznej M
+10. Dodatkowe informacje 11. Wartość i waluta W Do wypełnienia przez organ wydający zezwolenie Podpis Pieczęć Organ wydający zezwolenie Data
+7. Podmiot (wnioskodawca) 2. Numer zezwolenia 2
+5.2 Importer/Odbiorca* 8.2 Końcowy użytkownik W O O OG 5.3 Importer/Odbiorca* 8.3 Końcowy użytkownik Ó W O W 5.4 Importer/Odbiorca* 8.4 Końcowy użytkownik Ó K O
+5.5 Importer/Odbiorca* 8.5 Końcowy użytkownik K W
+5.6 Importer/Odbiorca* 8.6 Końcowy użytkownik H O 5.7 Importer/Odbiorca* 8.7 Końcowy użytkownik M O
+5.8 Importer/Odbiorca* 8.8 Końcowy użytkownik O G O W 5.9 Importer/Odbiorca* 8.9 Końcowy użytkownik
+5.10 Importer/Odbiorca* 8.10 Końcowy użytkownik
 

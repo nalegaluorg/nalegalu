@@ -26,8 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000608) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/608/text.pdf) |
 
 w sprawie zaniechania poboru podatku dochodowego od osób fizycznych od niektórych przychodów uzyskanych przez osoby fizyczne z tytułu otrzymania komputerów przenośnych typu laptop albo bonów na ich zakup Na podstawie art. 22 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760) zarządza się, co następuje:
-§ 1. Zarządza się zaniechanie poboru podatku dochodowego od osób fizycznych od przychodów uzyskanych przez osoby fizyczne z tytułu świadczeń w postaci otrzymanych na własność komputerów przenośnych typu laptop, zwanych dalej „laptopami”, albo bonów na zakup laptopów lub laptopów przeglądarkowych w ramach wsparcia, o którym mowa w ustawie z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli (Dz. U. poz. 1369).
-§ 2. Zaniechanie, o którym mowa w § 1, ma zastosowanie do przychodów uzyskanych od dnia 2 sierpnia 2023 r. do dnia 31 grudnia 2023 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Finansów: wz. J. Drop
+
+**§ 1.** Zarządza się zaniechanie poboru podatku dochodowego od osób fizycznych od przychodów uzyskanych przez osoby fizyczne z tytułu świadczeń w postaci otrzymanych na własność komputerów przenośnych typu laptop, zwanych dalej „laptopami”, albo bonów na zakup laptopów lub laptopów przeglądarkowych w ramach wsparcia, o którym mowa w ustawie z dnia 7 lipca 2023 r. o wsparciu rozwoju kompetencji cyfrowych uczniów i nauczycieli (Dz. U. poz. 1369).
+
+**§ 2.** Zaniechanie, o którym mowa w § 1, ma zastosowanie do przychodów uzyskanych od dnia 2 sierpnia 2023 r. do dnia 31 grudnia 2023 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Finansów: wz. J. Drop
 

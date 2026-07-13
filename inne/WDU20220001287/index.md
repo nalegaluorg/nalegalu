@@ -32,39 +32,6 @@ zmieniającym rozporządzenie w sprawie wymagań Dobrej Praktyki Dystrybucyjnej 
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 14 kwietnia 2021 r. zmieniającego rozporządzenie w sprawie wymagań Dobrej Praktyki Dystrybucyjnej (Dz. U. poz. 714), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”. Minister Zdrowia: wz. W. Kraska
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 13 marca 2015 r.
 w sprawie wymagań Dobrej Praktyki Dystrybucyjnej Na podstawie art. 79 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977 i 2120 oraz z 2022 r. poz. 830, 974 i 1095) zarządza się, co następuje:
-§ 1. Wymagania Dobrej Praktyki Dystrybucyjnej dotyczące przedsiębiorców prowadzących obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, oraz pośredników w obrocie takimi produktami leczniczymi, określa załącznik do rozporządzenia.
-§ 2. Przedsiębiorcy prowadzący w dniu wejścia w życie rozporządzenia obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, dostosują się do wymagań określonych w rozporządzeniu w terminie 18 miesięcy od dnia wejścia w życie rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
-WYMAGANIA DOBREJ PRAKTYKI DYSTRYBUCYJNEJ DOTYCZĄCE PRZEDSIĘBIORCÓW PROWADZĄCYCH OBRÓT HURTOWY PRODUKTAMI LECZNICZYMI, Z WYŁĄCZENIEM PRODUKTÓW LECZNICZYCH WETERYNARYJNYCH, ORAZ POŚREDNIKÓW W OBROCIE PRODUKTAMI LECZNICZYMI ROZDZIAŁ 1 – ZARZĄDZANIE JAKOŚCIĄ
-1.1 Warunki ogólne Przedsiębiorcy prowadzący obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, zwani dalej „przedsiębiorcami”, stosują system jakości określający obowiązki, procesy i zasady zarządzania ryzykiem związane z ich działalnością. Działania podejmowane w zakresie dystrybucji są jasno zdefiniowane i podlegają systematycznemu przeglądowi. Należy udokumentować, a w uzasadnionych przypadkach zwalidować, kluczowe dla jakości produktów leczniczych etapy procesów dystrybucji i ich istotne zmiany. Za system jakości odpowiedzialne są osoby kierujące przedsiębiorstwem.
-1.2 System jakości
-1) system jakości obejmuje strukturę organizacyjną, procedury, procesy i zasoby, a także działania niezbędne do zapewnienia, że dostarczony produkt leczniczy utrzymuje jakość oraz pochodzi z legalnego źródła dostaw i pozostaje w legalnym łańcuchu dostaw podczas przechowywania i transportu;
-2) system jakości jest udokumentowany, monitoruje się jego skuteczność, a działania z nim związane są zdefiniowane i udokumentowane w księdze jakości w postaci papierowej lub elektronicznej;
-3) przedsiębiorca wyznacza osobę odpowiedzialną za wprowadzenie i stosowanie systemu jakości i nadaje tej osobie wystarczające i jasno określone kompetencje;
-4) przedsiębiorca zapewnia kompetentny personel do obsługi wszystkich elementów systemu jakości, a także przeznacza na jego potrzeby odpowiednie pomieszczenia i wyposażenie;
-5) przy tworzeniu lub zmianach systemu jakości należy brać pod uwagę skalę, strukturę i złożoność działalności przedsiębiorcy;
-6) przedsiębiorca wprowadza skuteczny system kontroli zmian, zgodny z procedurami zarządzania ryzykiem w zakresie jakości;
-7) system jakości zapewnia:
-a) zamawianie, dostawę, przyjmowanie, przechowywanie, wydawanie lub wysyłkę produktów leczniczych w sposób zgodny z wymogami Dobrej Praktyki Dystrybucyjnej, zwanej dalej „GDP”,
-b) jasne określenie zakresu obowiązków i uprawnień kierownictwa,
-c) dostarczanie produktów leczniczych uprawnionym odbiorcom w odpowiednim terminie,
-d) bieżące dokumentowanie działań,
-e) dokumentowanie i badanie odstępstw od ustalonych procedur,
-f) podejmowanie działań naprawczych i zapobiegawczych w celu usunięcia odstępstw i zapobiegania im zgodnie z procedurami zarządzania ryzykiem w zakresie jakości.
-1.3 Zarządzanie działaniami zlecanymi podmiotom zewnętrznym System jakości obejmuje kontrolę i przegląd działań zlecanych podmiotom zewnętrznym, związanych z zamawianiem, zakupem, sprzedażą, przyjmowaniem, przechowywaniem, wydawaniem, dostawą, eksportem i transportem produktów leczniczych. Procesy te są zgodne z zarządzaniem ryzykiem w zakresie jakości i obejmują:
-1) ocenę kompetencji zleceniobiorcy do przeprowadzenia danego działania, a także sprawdzenie, czy posiada stosowne zezwolenie, jeżeli jest ono wymagane;
-2) określenie obowiązków i sposobu wymiany informacji w odniesieniu do związanych z jakością działań zaangażowanych podmiotów;
-3) monitorowanie i przegląd realizacji zlecenia przez zleceniobiorcę, regularne wprowadzanie niezbędnych usprawnień.
-1.4 Przegląd zarządczy i monitorowanie
-1) przedsiębiorca ustanowi formalny proces okresowego przeglądu systemu jakości, który obejmuje:
-a) pomiar realizacji celów systemu jakości,
-b) ocenę wskaźników wykonania, które mogą być wykorzystane do monitorowania efektywności procesów w ramach systemu jakości, takich jak reklamacje, odstępstwa, działania naprawcze i zapobiegawcze,
-c) zmiany procesów, informacje zwrotne dotyczące działań zlecanych podmiotom zewnętrznym; procesy samooceny, w tym ocenę ryzyka i audyty, oraz oceny zewnętrzne, takie jak inspekcje, niezgodności zaobserwowane w ich trakcie i audyty przeprowadzane przez zleceniodawców,
-d) nowe przepisy, wytyczne i kwestie związane z jakością, które mogą wpływać na system zarządzania jakością,
-e) innowacje, które mogą usprawniać system jakości,
-f) zmiany otoczenia biznesowego i zmiany celów;
-2) wyniki przeglądu zarządczego systemu jakości są udokumentowane niezwłocznie po jego zakończeniu, w postaci papierowej lub elektronicznej, a następnie wyniki przeglądu są przekazywane odpowiedniemu personelowi.
-1.5 Zarządzanie ryzykiem w zakresie jakości Zarządzanie ryzykiem w zakresie jakości jest systematycznym procesem oceny, kontroli, wymiany informacji i przeglądu ryzyka związanego z jakością produktów leczniczych. Można go stosować zarówno prospektywnie, jak i retrospektywnie. Zarządzanie ryzykiem w zakresie jakości zapewnia, aby ocena ryzyka związanego z jakością była oparta na wiedzy naukowej, doświadczeniach w stosowaniu danego procesu, a także by ocena ta w ostatecznym wyniku była związana z ochroną pacjenta. Nakład pracy, stopień sformalizowania i zakres dokumentowania danego procesu jest współmierny do poziomu ryzyka.
 2.1 Warunki ogólne Konieczne jest zapewnienie wystarczającej liczby kompetentnego personelu legitymującego się odpowiednim doświadczeniem i przeszkolonego do wykonania zadań związanych z obrotem produktami leczniczymi, za które odpowiedzialny jest przedsiębiorca. Personel przechodzi szkolenie wstępne, stanowiskowe oraz szkolenia przypominające, które wynikają z przeglądu ryzyka związanego z jakością produktów leczniczych. Szkolenia i zakres zadań poszczególnych członków personelu podlegają udokumentowaniu.
 2.2 Osoba Odpowiedzialna
 1) przedsiębiorca wyznacza Osobę Odpowiedzialną;
@@ -396,6 +363,46 @@ i) imię i nazwisko wykonawcy procesu dzielenia;
 9) datę i godzinę załadunku;
 10) numer rejestracyjny pojazdu;
 11) imię i nazwisko kierowcy.
+
+**§ 1.** Wymagania Dobrej Praktyki Dystrybucyjnej dotyczące przedsiębiorców prowadzących obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, oraz pośredników w obrocie takimi produktami leczniczymi, określa załącznik do rozporządzenia.
+
+**§ 2.** Przedsiębiorcy prowadzący w dniu wejścia w życie rozporządzenia obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, dostosują się do wymagań określonych w rozporządzeniu w terminie 18 miesięcy od dnia wejścia w życie rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia . WYMAGANIA DOBREJ PRAKTYKI DYSTRYBUCYJNEJ DOTYCZĄCE PRZEDSIĘBIORCÓW PROWADZĄCYCH OBRÓT HURTOWY PRODUKTAMI LECZNICZYMI, Z WYŁĄCZENIEM PRODUKTÓW LECZNICZYCH WETERYNARYJNYCH, ORAZ POŚREDNIKÓW W OBROCIE PRODUKTAMI LECZNICZYMI ROZDZIAŁ 1 – ZARZĄDZANIE JAKOŚCIĄ 1.1 Warunki ogólne Przedsiębiorcy prowadzący obrót hurtowy produktami leczniczymi, z wyłączeniem produktów leczniczych weterynaryjnych, zwani dalej „przedsiębiorcami”, stosują system jakości określający obowiązki, procesy i zasady zarządzania ryzykiem związane z ich działalnością. Działania podejmowane w zakresie dystrybucji są jasno zdefiniowane i podlegają systematycznemu przeglądowi. Należy udokumentować, a w uzasadnionych przypadkach zwalidować, kluczowe dla jakości produktów leczniczych etapy procesów dystrybucji i ich istotne zmiany. Za system jakości odpowiedzialne są osoby kierujące przedsiębiorstwem. 1.2 System jakości
+
+- **1)** system jakości obejmuje strukturę organizacyjną, procedury, procesy i zasoby, a także działania niezbędne do zapewnienia, że dostarczony produkt leczniczy utrzymuje jakość oraz pochodzi z legalnego źródła dostaw i pozostaje w legalnym łańcuchu dostaw podczas przechowywania i transportu;
+- **2)** system jakości jest udokumentowany, monitoruje się jego skuteczność, a działania z nim związane są zdefiniowane i udokumentowane w księdze jakości w postaci papierowej lub elektronicznej;
+- **3)** przedsiębiorca wyznacza osobę odpowiedzialną za wprowadzenie i stosowanie systemu jakości i nadaje tej osobie wystarczające i jasno określone kompetencje;
+- **4)** przedsiębiorca zapewnia kompetentny personel do obsługi wszystkich elementów systemu jakości, a także przeznacza na jego potrzeby odpowiednie pomieszczenia i wyposażenie;
+- **5)** przy tworzeniu lub zmianach systemu jakości należy brać pod uwagę skalę, strukturę i złożoność działalności przedsiębiorcy;
+- **6)** przedsiębiorca wprowadza skuteczny system kontroli zmian, zgodny z procedurami zarządzania ryzykiem w zakresie jakości;
+- **7)** system jakości zapewnia:
+    - **a)** zamawianie, dostawę, przyjmowanie, przechowywanie, wydawanie lub wysyłkę produktów leczniczych w sposób zgodny z wymogami Dobrej Praktyki Dystrybucyjnej, zwanej dalej „GDP”,
+    - **b)** jasne określenie zakresu obowiązków i uprawnień kierownictwa,
+    - **c)** dostarczanie produktów leczniczych uprawnionym odbiorcom w odpowiednim terminie,
+    - **d)** bieżące dokumentowanie działań,
+    - **e)** dokumentowanie i badanie odstępstw od ustalonych procedur,
+    - **f)** podejmowanie działań naprawczych i zapobiegawczych w celu usunięcia odstępstw i zapobiegania im zgodnie z procedurami zarządzania ryzykiem w zakresie jakości.
+
+1. 3 Zarządzanie działaniami zlecanymi podmiotom zewnętrznym System jakości obejmuje kontrolę i przegląd działań zlecanych podmiotom zewnętrznym, związanych z zamawianiem, zakupem, sprzedażą, przyjmowaniem, przechowywaniem, wydawaniem, dostawą, eksportem i transportem produktów leczniczych. Procesy te są zgodne z zarządzaniem ryzykiem w zakresie jakości i obejmują:
+
+- **1)** ocenę kompetencji zleceniobiorcy do przeprowadzenia danego działania, a także sprawdzenie, czy posiada stosowne zezwolenie, jeżeli jest ono wymagane;
+- **2)** określenie obowiązków i sposobu wymiany informacji w odniesieniu do związanych z jakością działań zaangażowanych podmiotów;
+- **3)** monitorowanie i przegląd realizacji zlecenia przez zleceniobiorcę, regularne wprowadzanie niezbędnych usprawnień.
+
+1. 4 Przegląd zarządczy i monitorowanie
+
+- **1)** przedsiębiorca ustanowi formalny proces okresowego przeglądu systemu jakości, który obejmuje:
+    - **a)** pomiar realizacji celów systemu jakości,
+    - **b)** ocenę wskaźników wykonania, które mogą być wykorzystane do monitorowania efektywności procesów w ramach systemu jakości, takich jak reklamacje, odstępstwa, działania naprawcze i zapobiegawcze,
+    - **c)** zmiany procesów, informacje zwrotne dotyczące działań zlecanych podmiotom zewnętrznym; procesy samooceny, w tym ocenę ryzyka i audyty, oraz oceny zewnętrzne, takie jak inspekcje, niezgodności zaobserwowane w ich trakcie i audyty przeprowadzane przez zleceniodawców,
+    - **d)** nowe przepisy, wytyczne i kwestie związane z jakością, które mogą wpływać na system zarządzania jakością,
+    - **e)** innowacje, które mogą usprawniać system jakości,
+    - **f)** zmiany otoczenia biznesowego i zmiany celów;
+
+- **2)** wyniki przeglądu zarządczego systemu jakości są udokumentowane niezwłocznie po jego zakończeniu, w postaci papierowej lub elektronicznej, a następnie wyniki przeglądu są przekazywane odpowiedniemu personelowi.
+
+1. 5 Zarządzanie ryzykiem w zakresie jakości Zarządzanie ryzykiem w zakresie jakości jest systematycznym procesem oceny, kontroli, wymiany informacji i przeglądu ryzyka związanego z jakością produktów leczniczych. Można go stosować zarówno prospektywnie, jak i retrospektywnie. Zarządzanie ryzykiem w zakresie jakości zapewnia, aby ocena ryzyka związanego z jakością była oparta na wiedzy naukowej, doświadczeniach w stosowaniu danego procesu, a także by ocena ta w ostatecznym wyniku była związana z ochroną pacjenta. Nakład pracy, stopień sformalizowania i zakres dokumentowania danego procesu jest współmierny do poziomu ryzyka.
 
 #### ROZDZIAŁ 2 – PERSONEL
 

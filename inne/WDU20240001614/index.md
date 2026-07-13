@@ -27,11 +27,14 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie udzielania pomocy de minimis lub pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji B2.2.2 „Instalacje OZE realizowane przez społeczności energetyczne” objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r.
 poz. 324 i 862) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Technologii z dnia 16 grudnia 2022 r. w sprawie udzielania pomocy de minimis lub pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji B2.2.2 „Instalacje OZE realizowane przez społeczności energetyczne” objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności (Dz. U. poz. 2863, z 2023 r. poz. 1627 i 2781 oraz z 2024 r. poz. 948) wprowadza się następujące zmiany:
-1) tytuł rozporządzenia otrzymuje brzmienie: „w sprawie udzielania pomocy de minimis lub pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji G1.1.2 „Instalacje OZE realizowane przez społeczności energetyczne” objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności”;
-2) w § 1 wyrazy „inwestycji B2.2.2” zastępuje się wyrazami „inwestycji G1.1.2”;
-3) w § 15 wyrazy „minister właściwy do spraw gospodarki” zastępuje się wyrazami „minister właściwy do spraw klimatu”.
-§ 2. Wnioski, o których mowa w § 17 rozporządzenia zmienianego w § 1, złożone i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia podlegają rozpatrzeniu.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Klimatu i Środowiska: P. Hennig-Kloska
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Technologii z dnia 16 grudnia 2022 r. w sprawie udzielania pomocy de minimis lub pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji B2.2.2 „Instalacje OZE realizowane przez społeczności energetyczne” objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności (Dz. U. poz. 2863, z 2023 r. poz. 1627 i 2781 oraz z 2024 r. poz. 948) wprowadza się następujące zmiany:
+
+- **1)** tytuł rozporządzenia otrzymuje brzmienie: „w sprawie udzielania pomocy de minimis lub pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji G1.1.2 „Instalacje OZE realizowane przez społeczności energetyczne” objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności”;
+- **2)** w § 1 wyrazy „inwestycji B2.2.2” zastępuje się wyrazami „inwestycji G1.1.2”;
+- **3)** w § 15 wyrazy „minister właściwy do spraw gospodarki” zastępuje się wyrazami „minister właściwy do spraw klimatu”.
+
+**§ 2.** Wnioski, o których mowa w § 17 rozporządzenia zmienianego w § 1, złożone i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia podlegają rozpatrzeniu.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Klimatu i Środowiska: P. Hennig-Kloska
 

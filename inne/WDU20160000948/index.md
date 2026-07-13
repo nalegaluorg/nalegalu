@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie sposobu uiszczania opłat sądowych w sprawach cywilnych Na podstawie art. 9 pkt 1 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2016 r.
 poz. 623) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 21 marca 2016 r. w sprawie sposobu uiszczania opłat sądowych w sprawach cywilnych (Dz. U. poz. 408) wprowadza się następujące zmiany:
-1) w § 12 w ust. 1 wyrazy „30 czerwca 2016 r.” zastępuje się wyrazami „31 grudnia 2016 r.”, a wyrazy „31 grudnia 2017 r.” zastępuje się wyrazami „30 czerwca 2018 r.”;
-2) w § 14 wyrazy „1 lipca 2016 r.” zastępuje się wyrazami „1 stycznia 2017 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 21 marca 2016 r. w sprawie sposobu uiszczania opłat sądowych w sprawach cywilnych (Dz. U. poz. 408) wprowadza się następujące zmiany:
+
+- **1)** w § 12 w ust. 1 wyrazy „30 czerwca 2016 r.” zastępuje się wyrazami „31 grudnia 2016 r.”, a wyrazy „31 grudnia 2017 r.” zastępuje się wyrazami „30 czerwca 2018 r.”;
+- **2)** w § 14 wyrazy „1 lipca 2016 r.” zastępuje się wyrazami „1 stycznia 2017 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r. Minister Sprawiedliwości: Z. Ziobro
 

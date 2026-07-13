@@ -8,10 +8,10 @@ pos: 70
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 stycznia 2015 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 70 Załączniki do rozporządzenia Ministra Sprawiedliwości z dnia stycznia 2015 r. (poz. ) Załącznik nr 1 WZORZEC UMOWY SPÓŁKI KOMANDYTOWEJ Umowa spółki komandytowej z dnia …….
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +24,6 @@ source: "isap-pdf"
 | Data wydania | 2015-01-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000070) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/70/text.pdf) |
-
-## Załącznik nr 1 — WZORZEC UMOWY SPÓŁKI KOMANDYTOWEJ Umowa spółki komandytowej z dnia …….
 
 § 1 Stawający:
 1) ………………………………………………………………………………………………………,
@@ -186,7 +184,9 @@ Podpisy wspólników:
 1) …………………..
 2) …………………..
 3) …………………..
-WZORZEC UCHWAŁY O POWOŁANIU PEŁNOMOCNIKA SPÓŁKI Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ DO ZAWARCIA Z CZŁONKIEM ZARZĄDU UMOWY SPÓŁKI KOMANDYTOWEJ PRZY WYKORZYSTANIU WZORCA UMOWY Uchwała nr………. z dnia……….
+
+## Załącznik nr 3 — WZORZEC UCHWAŁY O POWOŁANIU PEŁNOMOCNIKA SPÓŁKI Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ DO ZAWARCIA Z CZŁONKIEM ZARZĄDU UMOWY SPÓŁKI KOMANDYTOWEJ PRZY WYKORZYSTANIU WZORCA UMOWY Uchwała nr………. z dnia……….
+
 § 1 Zgromadzenie wspólników spółki ………………………………………………………, zwanej dalej „Spółką”, działając na podstawie art. 210 § 1 Kodeksu spółek handlowych, postanawia ustanowić
 1)………………………………………………………………………………………………...
 2)………………………………………………………………………………………………...
@@ -196,7 +196,7 @@ pełnomocnikiem / pełnomocnikami Spółki do zawarcia umowy spółki ………�
 § 2 Pełnomocnik jest uprawniony do samodzielnego kształtowania treści umowy, kierując się interesem Spółki / Pełnomocnicy są uprawnieni do samodzielnego kształtowania treści umowy, kierując się interesem Spółki.
 § 3 Uchwała wchodzi w życie z dniem podjęcia.
 Uchwała została podjęta jednogłośnie / za uchwałą oddano … głosów za, … głosów przeciw.
-Podpis Przewodniczącego Zgromadzenia wspólników: WZORZEC UCHWAŁY O POWOŁANIU PEŁNOMOCNIKA SPÓŁKI AKCYJNEJ DO ZAWARCIA Z CZŁONKIEM ZARZĄDU UMOWY SPÓŁKI KOMANDYTOWEJ PRZY WYKORZYSTANIU WZORCA UMOWY Uchwała nr………. z dnia……….
+Podpis Przewodniczącego Zgromadzenia wspólników: Załącznik nr 4 WZORZEC UCHWAŁY O POWOŁANIU PEŁNOMOCNIKA SPÓŁKI AKCYJNEJ DO ZAWARCIA Z CZŁONKIEM ZARZĄDU UMOWY SPÓŁKI KOMANDYTOWEJ PRZY WYKORZYSTANIU WZORCA UMOWY Uchwała nr………. z dnia……….
 § 1 Walne Zgromadzenie spółki……………………………………………………………., zwanej dalej „Spółką”, działając na podstawie art. 379 § 1 Kodeksu spółek handlowych, postanawia ustanowić
 1)………………………………………………………………………………………………...
 2)………………………………………………………………………………………………...
@@ -206,7 +206,7 @@ z członkiem / członkami) zarządu Spółki
 2)………………………………………………………………………………………………...
 § 2 Pełnomocnik jest uprawniony do samodzielnego kształtowania treści umowy, kierując się interesem Spółki / Pełnomocnicy są uprawnieni do samodzielnego kształtowania treści umowy, kierując się interesem Spółki § 3 Uchwała wchodzi w życie z dniem podjęcia.
 Uchwała została podjęta jednogłośnie / za uchwała oddano… głosów za, … głosów przeciw.
-Podpis Przewodniczącego Walnego Zgromadzenia WZORZEC UCHWAŁY O USTANOWIENIU PROKURY PRZEZ SPÓŁKĘ KOMANDYTOWĄ Uchwała nr……….z dnia……….
+Podpis Przewodniczącego Walnego Zgromadzenia załącznik nr 5 WZORZEC UCHWAŁY O USTANOWIENIU PROKURY PRZEZ SPÓŁKĘ KOMANDYTOWĄ Uchwała nr……….z dnia……….
 Wspólnicy prowadzący sprawy spółki …………………………………………………………..
 ustanawiają prokurentem spółki następujące osoby:
 1) ………………………………………………, rodzaj prokury: (oddzielna / łączna / oddziałowa)

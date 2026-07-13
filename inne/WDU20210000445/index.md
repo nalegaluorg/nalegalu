@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000445) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/445/text.pdf) |
 
 zmieniające rozporządzenie w sprawie sposobu podziału środków finansowych dla uczelni artystycznych na utrzymanie i rozwój potencjału dydaktycznego, potencjału badawczego oraz na zadania związane z działalnością kulturalną Na podstawie art. 462 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 poz. 85, 374, 695, 875 i 1086 oraz z 2021 r. poz. 159) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 28 grudnia 2018 r. w sprawie sposobu podziału środków finansowych dla uczelni artystycznych na utrzymanie i rozwój potencjału dydaktycznego, potencjału badawczego oraz na zadania związane z działalnością kulturalną (Dz. U. z 2019 r. poz. 91) w § 4 w ust. 1 w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „w latach 2019–2022:”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury, Dziedzictwa Narodowego i Sportu: P. Gliński
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 28 grudnia 2018 r. w sprawie sposobu podziału środków finansowych dla uczelni artystycznych na utrzymanie i rozwój potencjału dydaktycznego, potencjału badawczego oraz na zadania związane z działalnością kulturalną (Dz. U. z 2019 r. poz. 91) w § 4 w ust. 1 w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „w latach 2019–2022:”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury, Dziedzictwa Narodowego i Sportu: P. Gliński
 

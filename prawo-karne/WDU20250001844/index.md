@@ -29,87 +29,9 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 14 października 2021 r. o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw (Dz. U. poz. 2054, z 2022 r. poz. 1265 oraz z 2023 r. poz. 1723) wprowadza się następujące zmiany:
 
-- **1)** art. 6 otrzymuje brzmienie: „Art. 6. W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483) wprowadza się następujące zmiany:
-- **1)** w art. 34 w ust. 1 w pkt 5 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „d) umowy, o której mowa w art. 34a ust. 1;”;
-- **2)** po art. 34 dodaje się art. 34a i art. 34b w brzmieniu: „Art. 34a. 1. Kierownik jednostki sektora finansów publicznych, zwany dalej „kierownikiem jednostki”, udostępnia i aktualizuje w Centralnym Rejestrze Umów Jednostek Sektora Finansów Publicznych, zwanym dalej „Centralnym Rejestrem Umów JSFP”, informacje o umowie zawartej przez jednostkę sektora finansów publicznych lub na jej rzecz, jeżeli umowa ta spełnia łącznie następujące warunki:
-- **1)** stanowi zamówienie w rozumieniu art. 7 pkt 32 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. );
-- **2)** została zawarta w formie pisemnej, dokumentowej, elektronicznej albo innej formie szczególnej.
-
-2. W przypadku gdy umowa została zawarta na rzecz jednostki sektora finansów publicznych, obowiązki, o których mowa w ust. 1, wykonuje kierownik jednostki, na rzecz której zawarto tę umowę.
-
-3. W przypadku gdy umowa została zawarta na rzecz wielu jednostek sektora finansów publicznych, obowiązki, o których mowa w ust. 1, wykonują kierownicy jednostek, na rzecz których zawarto umowę, w zakresie, w jakim informacje o umowie odnoszą się do poszczególnych jednostek, których są kierownikami.
-
-4. W przypadku umowy zawartej przez organ władzy publicznej lub na jego rzecz obowiązki, o których mowa w ust. 1, wykonuje kierownik jednostki obsługującej ten organ, przy czym przepisy ust. 2 i 3 stosuje się odpowiednio.
-
-5. W Centralnym Rejestrze Umów JSFP nie zamieszcza się informacji o umowie:
-
-- **1)** zawartej przez:
-    - **a)** Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego lub Centralne Biuro Antykorupcyjne, lub na ich rzecz,
-    - **b)** placówkę zagraniczną Rzeczypospolitej Polskiej w rozumieniu art. 7 pkt 7 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691 i 1840) lub na jej rzecz,
-    - **c)** jednostkę organizacyjną podległą Ministrowi Obrony Narodowej lub na jej rzecz;
-
-- **2)** o której mowa w art. 11 ust. 2 pkt 1 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych;
-- **3)** dotyczącej zamówień, o których mowa w art. 14 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych;
-- **4)** dotyczącej czynności operacyjno-rozpoznawczych finansowanych z funduszu operacyjnego i podejmowanych przez jednostki uprawnione na podstawie odrębnych ustaw;
-- **5)** w dziedzinie obronności i bezpieczeństwa lub której udostępnienie, uwzględniając w szczególności możliwość agregacji tych informacji, może zagrażać interesom państwa albo wywrzeć niekorzystny wpływ w zakresie bezpieczeństwa lub obronności, w tym w zakresie:
-    - **a)** zabezpieczenia granicy państwowej,
-    - **b)** zapewnienia bezpieczeństwa paliwowego państwa i bezpieczeństwa gazowego państwa w rozumieniu odpowiednio art. 2 ust. 1 pkt 1 i 1a ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2024 r. poz. 1281 oraz z 2025 r. poz. 1168 i 1303),
-    - **c)** bezpieczeństwa infrastruktury krytycznej w rozumieniu art. 3 pkt 2 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122, z późn. zm. );
-
-- **6)** o udzielanie świadczeń opieki zdrowotnej, zamieszczanej na stronie internetowej Narodowego Funduszu Zdrowia na podstawie art. 135 ust. 2 pkt 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739).
-
-6. Kierownik jednostki może udostępniać i aktualizować w Centralnym Rejestrze Umów JSFP również informacje o umowie, o której mowa w ust. 1 pkt 1, niespełniającej warunku określonego w ust. 1 pkt 2.
-
-7. W Centralnym Rejestrze Umów JSFP udostępnia się i aktualizuje następujące informacje o umowie:
-
-- **1)** numer umowy – o ile taki numer nadano;
-- **2)** datę zawarcia umowy;
-- **3)** okres, na jaki umowa została zawarta;
-- **4)** oznaczenie stron umowy;
-- **5)** wskazanie przedmiotu umowy;
-- **6)** wartość umowy;
-- **7)** wskazanie, czy umowa jest finansowana ze środków, o których mowa w art. 5 ust. 1 pkt 2–3;
-- **8)** status umowy i dzień zakończenia obowiązywania umowy;
-- **9)** podstawę prawną nieudostępnienia informacji o umowie oraz organ lub osobę, które dokonały wyłączenia jawności danej informacji – w przypadku, o którym mowa w ust. 8;
-- **10)** podstawę dokonania aktualizacji informacji określonych w pkt 1–9, o ile dokonano takiej aktualizacji.
-
-8. W Centralnym Rejestrze Umów JSFP nie udostępnia się informacji o umowie, co do których prawo do informacji publicznej podlega ograniczeniu na podstawie art. 5 ust. 1 i 2–2b ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902).
-
-9. W Centralnym Rejestrze Umów JSFP mogą być udostępniane i aktualizowane informacje o umowie inne niż określone w ust. 7, niestanowiące danych osobowych.
-
-10. Informacje o umowie udostępnia się i aktualizuje w Centralnym Rejestrze Umów JSFP bez zbędnej zwłoki, nie później jednak niż w terminie 30 dni odpowiednio od dnia zawarcia umowy lub zaistnienia zmiany informacji o umowie, przy czym do tego terminu nie wlicza się dni, w których wystąpiła awaria, o której mowa w art. 34b ust. 2.
-
-11. Centralny Rejestr Umów JSFP jest jawny.
-
-**Art. 34b.**
-
-1. Minister Finansów zapewnia funkcjonowanie systemu teleinformatycznego, w którym jest prowadzony Centralny Rejestr Umów JSFP.
-
-2. W przypadku awarii systemu, o którym mowa w ust. 1, Minister Finansów informuje o jej wystąpieniu i usunięciu w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Finansów.
-
-3. Konta w systemie, o którym mowa w ust. 1, są zakładane na wniosek zawierający dane wnioskodawcy upoważnionego do działania w imieniu jednostki sektora finansów publicznych oraz dane tej jednostki, do którego dołącza się dokumenty potwierdzające zawarte w nim dane, w przypadku gdy są one niezbędne do potwierdzenia upoważnienia do działania w imieniu tej jednostki.
-
-4. Kierownik jednostki wyznacza użytkowników konta w systemie, o którym mowa w ust. 1, upoważnionych do zarządzania tym kontem.
-
-5. System, o którym mowa w ust. 1, umożliwia wyszukiwanie informacji o umowie udostępnionych w Centralnym Rejestrze Umów JSFP oraz wgląd do tych informacji.
-
-6. Informacje o umowie są usuwane z Centralnego Rejestru Umów JSFP po upływie pięciu lat, licząc od końca roku, w którym umowa przestała obowiązywać.
-
-7. Udostępnienie informacji o umowach w Centralnym Rejestrze Umów JSFP uważa się za udostępnianie informacji sektora publicznego w celu ponownego wykorzystywania nieodpłatnie i na warunkach określonych przez Ministra Finansów w systemie, o którym mowa w ust. 1.
-
-8. Minister Finansów jest administratorem danych użytkowników kont w systemie, o którym mowa w ust. 1, oraz innych danych w zakresie, w jakim jest to niezbędne do zapewnienia funkcjonowania tego systemu.
-
-9. Kierownik jednostki jest administratorem danych w systemie, o którym mowa w ust. 1, w zakresie informacji o umowie zamieszczonych przez tego kierownika jednostki w Centralnym Rejestrze Umów JSFP.
-
-10. Obowiązki administratora danych określone w przepisach o ochronie danych osobowych w zakresie informacji o umowie zamieszczonych w Centralnym Rejestrze Umów JSFP wykonuje wyłącznie kierownik jednostki, o którym mowa w ust. 9.”;
-
-- **3)** po art. 34c dodaje się art. 34d w brzmieniu: „Art. 34d. Minister Finansów określi, w drodze rozporządzenia:
-- **1)** szczegółowy sposób określania wartości umowy, o której mowa w art. 34a ust. 7 pkt 6,
-- **2)** szczegółowy zakres informacji o umowie, o których mowa w art. 34a ust. 7 pkt 3–10,
-- **3)** szczegółowy zakres danych zawartych we wniosku, o którym mowa w art. 34b ust. 3, przypadki, w jakich do tego wniosku dołącza się dokumenty, oraz rodzaj tych dokumentów, a także sposób i tryb jego składania,
-- **4)** warunki korzystania z kont w systemie, o którym mowa w art. 34b ust. 1, w tym sposób uwierzytelniania użytkowników tych kont,
-- **5)** zakres korzystania z kont w systemie, o którym mowa w art. 34b ust. 1, w tym rodzaje tych kont, i uprawnienia użytkowników tych kont,
-- **6)** sposób wyszukiwania informacji o umowie i wglądu do tych informacji udostępnionych w Centralnym Rejestrze Umów JSFP – mając na uwadze konieczność zapewnienia kompletności, jednolitości i przejrzystości informacji udostępnianych w Centralnym Rejestrze Umów JSFP, sprawną obsługę wniosków, o których mowa w art. 34b ust. 3, zapewnienie bezpieczeństwa, wiarygodności i niezaprzeczalności przekazywanych danych oraz potrzebę ich ochrony przed nieuprawnionym dostępem, efektywność zarządzania kontem w systemie, o którym mowa w art. 34b ust. 1, oraz łatwość wyszukiwania informacji w Centralnym Rejestrze Umów JSFP.”;
+- **1)** art. 6 otrzymuje brzmienie: „Art. 6. W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483) wprowadza się następujące zmiany: 1) w art. 34 w ust. 1 w pkt 5 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „d) umowy, o której mowa w art. 34a ust. 1;”;
+- **2)** po art. 34 dodaje się art. 34a i art. 34b w brzmieniu: „Art. 34a. 1. Kierownik jednostki sektora finansów publicznych, zwany dalej „kierownikiem jednostki”, udostępnia i aktualizuje w Centralnym Rejestrze Umów Jednostek Sektora Finansów Publicznych, zwanym dalej „Centralnym Rejestrem Umów JSFP”, informacje o umowie zawartej przez jednostkę sektora finansów publicznych lub na jej rzecz, jeżeli umowa ta spełnia łącznie następujące warunki: 1) stanowi zamówienie w rozumieniu art. 7 pkt 32 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ); 2) została zawarta w formie pisemnej, dokumentowej, elektronicznej albo innej formie szczególnej. 2. W przypadku gdy umowa została zawarta na rzecz jednostki sektora finansów publicznych, obowiązki, o których mowa w ust. 1, wykonuje kierownik jednostki, na rzecz której zawarto tę umowę. 3. W przypadku gdy umowa została zawarta na rzecz wielu jednostek sektora finansów publicznych, obowiązki, o których mowa w ust. 1, wykonują kierownicy jednostek, na rzecz których zawarto umowę, w zakresie, w jakim informacje o umowie odnoszą się do poszczególnych jednostek, których są kierownikami. 4. W przypadku umowy zawartej przez organ władzy publicznej lub na jego rzecz obowiązki, o których mowa w ust. 1, wykonuje kierownik jednostki obsługującej ten organ, przy czym przepisy ust. 2 i 3 stosuje się odpowiednio. 5. W Centralnym Rejestrze Umów JSFP nie zamieszcza się informacji o umowie: 1) zawartej przez: a) Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego lub Centralne Biuro Antykorupcyjne, lub na ich rzecz, b) placówkę zagraniczną Rzeczypospolitej Polskiej w rozumieniu art. 7 pkt 7 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691 i 1840) lub na jej rzecz, c) jednostkę organizacyjną podległą Ministrowi Obrony Narodowej lub na jej rzecz; 2) o której mowa w art. 11 ust. 2 pkt 1 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych; 3) dotyczącej zamówień, o których mowa w art. 14 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych; 4) dotyczącej czynności operacyjno-rozpoznawczych finansowanych z funduszu operacyjnego i podejmowanych przez jednostki uprawnione na podstawie odrębnych ustaw; 5) w dziedzinie obronności i bezpieczeństwa lub której udostępnienie, uwzględniając w szczególności możliwość agregacji tych informacji, może zagrażać interesom państwa albo wywrzeć niekorzystny wpływ w zakresie bezpieczeństwa lub obronności, w tym w zakresie: a) zabezpieczenia granicy państwowej, b) zapewnienia bezpieczeństwa paliwowego państwa i bezpieczeństwa gazowego państwa w rozumieniu odpowiednio art. 2 ust. 1 pkt 1 i 1a ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2024 r. poz. 1281 oraz z 2025 r. poz. 1168 i 1303), c) bezpieczeństwa infrastruktury krytycznej w rozumieniu art. 3 pkt 2 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122, z późn. zm. ); 6) o udzielanie świadczeń opieki zdrowotnej, zamieszczanej na stronie internetowej Narodowego Funduszu Zdrowia na podstawie art. 135 ust. 2 pkt 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739). 6. Kierownik jednostki może udostępniać i aktualizować w Centralnym Rejestrze Umów JSFP również informacje o umowie, o której mowa w ust. 1 pkt 1, niespełniającej warunku określonego w ust. 1 pkt 2. 7. W Centralnym Rejestrze Umów JSFP udostępnia się i aktualizuje następujące informacje o umowie: 1) numer umowy – o ile taki numer nadano; 2) datę zawarcia umowy; 3) okres, na jaki umowa została zawarta; 4) oznaczenie stron umowy; 5) wskazanie przedmiotu umowy; 6) wartość umowy; 7) wskazanie, czy umowa jest finansowana ze środków, o których mowa w art. 5 ust. 1 pkt 2–3; 8) status umowy i dzień zakończenia obowiązywania umowy; 9) podstawę prawną nieudostępnienia informacji o umowie oraz organ lub osobę, które dokonały wyłączenia jawności danej informacji – w przypadku, o którym mowa w ust. 8; 10) podstawę dokonania aktualizacji informacji określonych w pkt 1–9, o ile dokonano takiej aktualizacji. 8. W Centralnym Rejestrze Umów JSFP nie udostępnia się informacji o umowie, co do których prawo do informacji publicznej podlega ograniczeniu na podstawie art. 5 ust. 1 i 2–2b ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902). 9. W Centralnym Rejestrze Umów JSFP mogą być udostępniane i aktualizowane informacje o umowie inne niż określone w ust. 7, niestanowiące danych osobowych. 10. Informacje o umowie udostępnia się i aktualizuje w Centralnym Rejestrze Umów JSFP bez zbędnej zwłoki, nie później jednak niż w terminie 30 dni odpowiednio od dnia zawarcia umowy lub zaistnienia zmiany informacji o umowie, przy czym do tego terminu nie wlicza się dni, w których wystąpiła awaria, o której mowa w art. 34b ust. 2. 11. Centralny Rejestr Umów JSFP jest jawny. Art. 34b. 1. Minister Finansów zapewnia funkcjonowanie systemu teleinformatycznego, w którym jest prowadzony Centralny Rejestr Umów JSFP. 2. W przypadku awarii systemu, o którym mowa w ust. 1, Minister Finansów informuje o jej wystąpieniu i usunięciu w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Finansów. 3. Konta w systemie, o którym mowa w ust. 1, są zakładane na wniosek zawierający dane wnioskodawcy upoważnionego do działania w imieniu jednostki sektora finansów publicznych oraz dane tej jednostki, do którego dołącza się dokumenty potwierdzające zawarte w nim dane, w przypadku gdy są one niezbędne do potwierdzenia upoważnienia do działania w imieniu tej jednostki. 4. Kierownik jednostki wyznacza użytkowników konta w systemie, o którym mowa w ust. 1, upoważnionych do zarządzania tym kontem. 5. System, o którym mowa w ust. 1, umożliwia wyszukiwanie informacji o umowie udostępnionych w Centralnym Rejestrze Umów JSFP oraz wgląd do tych informacji. 6. Informacje o umowie są usuwane z Centralnego Rejestru Umów JSFP po upływie pięciu lat, licząc od końca roku, w którym umowa przestała obowiązywać. 7. Udostępnienie informacji o umowach w Centralnym Rejestrze Umów JSFP uważa się za udostępnianie informacji sektora publicznego w celu ponownego wykorzystywania nieodpłatnie i na warunkach określonych przez Ministra Finansów w systemie, o którym mowa w ust. 1. 8. Minister Finansów jest administratorem danych użytkowników kont w systemie, o którym mowa w ust. 1, oraz innych danych w zakresie, w jakim jest to niezbędne do zapewnienia funkcjonowania tego systemu. 9. Kierownik jednostki jest administratorem danych w systemie, o którym mowa w ust. 1, w zakresie informacji o umowie zamieszczonych przez tego kierownika jednostki w Centralnym Rejestrze Umów JSFP. 10. Obowiązki administratora danych określone w przepisach o ochronie danych osobowych w zakresie informacji o umowie zamieszczonych w Centralnym Rejestrze Umów JSFP wykonuje wyłącznie kierownik jednostki, o którym mowa w ust. 9.”;
+- **3)** po art. 34c dodaje się art. 34d w brzmieniu: „Art. 34d. Minister Finansów określi, w drodze rozporządzenia: 1) szczegółowy sposób określania wartości umowy, o której mowa w art. 34a ust. 7 pkt 6, 2) szczegółowy zakres informacji o umowie, o których mowa w art. 34a ust. 7 pkt 3–10, 3) szczegółowy zakres danych zawartych we wniosku, o którym mowa w art. 34b ust. 3, przypadki, w jakich do tego wniosku dołącza się dokumenty, oraz rodzaj tych dokumentów, a także sposób i tryb jego składania, 4) warunki korzystania z kont w systemie, o którym mowa w art. 34b ust. 1, w tym sposób uwierzytelniania użytkowników tych kont, 5) zakres korzystania z kont w systemie, o którym mowa w art. 34b ust. 1, w tym rodzaje tych kont, i uprawnienia użytkowników tych kont, 6) sposób wyszukiwania informacji o umowie i wglądu do tych informacji udostępnionych w Centralnym Rejestrze Umów JSFP – mając na uwadze konieczność zapewnienia kompletności, jednolitości i przejrzystości informacji udostępnianych w Centralnym Rejestrze Umów JSFP, sprawną obsługę wniosków, o których mowa w art. 34b ust. 3, zapewnienie bezpieczeństwa, wiarygodności i niezaprzeczalności przekazywanych danych oraz potrzebę ich ochrony przed nieuprawnionym dostępem, efektywność zarządzania kontem w systemie, o którym mowa w art. 34b ust. 1, oraz łatwość wyszukiwania informacji w Centralnym Rejestrze Umów JSFP.”;
 - **4)** w art. 53 w ust. 1 wyrazy „Kierownik jednostki sektora finansów publicznych, zwany dalej „kierownikiem jednostki”,” zastępuje się wyrazami „Kierownik jednostki”.”;
 - **2)** art. 14a otrzymuje brzmienie: „Art. 14a. Przepisy art. 34a oraz art. 34b ust. 5–7, 9 i 10 ustawy zmienianej w art. 6 stosuje się do umów zawartych od dnia 1 lipca 2026 r.”;
 - **3)** po art. 14a dodaje się art. 14b w brzmieniu: „Art. 14b. Przepisy art. 34b ust. 1–4 i 8 ustawy zmienianej w art. 6 stosuje się do wniosków o założenie konta w systemie, o którym mowa w art. 34b ust. 1 ustawy zmienianej w art. 6, składanych od dnia 1 kwietnia 2026 r.”;
@@ -117,26 +39,14 @@ source: pdf
     - **a)** pkt 2 otrzymuje brzmienie: „2) art. 6 pkt 1, pkt 2 w zakresie art. 34a i art. 34b ust. 5–7, 9 i 10 i pkt 4 oraz art. 14a, które wchodzą w życie z dniem 1 lipca 2026 r.;”,
     - **b)** dodaje się pkt 3 w brzmieniu: „3) art. 6 pkt 2 w zakresie art. 34b ust. 1–4 i 8 i pkt 3 oraz art. 14b, które wchodzą w życie z dniem 1 kwietnia 2026 r.”.
 
-**Art. 2.** W ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902) w art. 10 ust. 1 otrzymuje brzmienie: „1. Informacja publiczna, która nie została udostępniona w:
-
-- **1)** Biuletynie Informacji Publicznej,
-- **2)** portalu danych,
-- **3)** Centralnym Rejestrze Umów Jednostek Sektora Finansów Publicznych – jest udostępniana na wniosek.”.
+**Art. 2.** W ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902) w art. 10 ust. 1 otrzymuje brzmienie: „1. Informacja publiczna, która nie została udostępniona w: 1) Biuletynie Informacji Publicznej, 2) portalu danych, 3) Centralnym Rejestrze Umów Jednostek Sektora Finansów Publicznych – jest udostępniana na wniosek.”.
 
 **Art. 3.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483 i 1844) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 34c;
 - **2)** w art. 84 po wyrazach „nie stosuje się przepisów” dodaje się wyrazy „art. 34a, art. 34b,”.
 
-**Art. 4.** W ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2025 r. poz. 643 i 1069) w art. 3a po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Do umów:
-
-- **1)** mających na celu realizację przez Fundusz ustawowych zadań związanych z:
-    - **a)** procesem wypłat środków gwarantowanych,
-    - **b)** planowaniem i prowadzeniem przymusowej restrukturyzacji lub restrukturyzacji i uporządkowanej likwidacji CCP,
-    - **c)** umorzeniem lub konwersją instrumentów kapitałowych lub zobowiązań kwalifikowalnych,
-    - **d)** zastosowaniem rządowych instrumentów stabilizacji finansowej, o których mowa w rozdziale 3a ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2024 r. poz. 505),
-
-- **2)** zawieranych przez Fundusz na rynku finansowym w zakresie obrotu instrumentami finansowymi i lokowania środków w Narodowym Banku Polskim lub w bankach – nie stosuje się przepisów art. 34a i art. 34b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.”.
+**Art. 4.** W ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2025 r. poz. 643 i 1069) w art. 3a po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Do umów: 1) mających na celu realizację przez Fundusz ustawowych zadań związanych z: a) procesem wypłat środków gwarantowanych, b) planowaniem i prowadzeniem przymusowej restrukturyzacji lub restrukturyzacji i uporządkowanej likwidacji CCP, c) umorzeniem lub konwersją instrumentów kapitałowych lub zobowiązań kwalifikowalnych, d) zastosowaniem rządowych instrumentów stabilizacji finansowej, o których mowa w rozdziale 3a ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2024 r. poz. 505), 2) zawieranych przez Fundusz na rynku finansowym w zakresie obrotu instrumentami finansowymi i lokowania środków w Narodowym Banku Polskim lub w bankach – nie stosuje się przepisów art. 34a i art. 34b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.”.
 
 **Art. 5.** W ustawie z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. z 2025 r. poz. 1733) uchyla się art. 84.
 

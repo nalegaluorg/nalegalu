@@ -31,8 +31,10 @@ poz. 1293).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 26 czerwca 2023 r. zmieniającego rozporządzenie w sprawie wymagań jakościowych dla gazu skroplonego (LPG) (Dz. U. poz. 1293), które stanowią: „ N iniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 14 marca 2023 r. pod numerem 2023/0106/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).” „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska: P. Hennig-Kloska
 ROZPORZĄDZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 28 maja 2021 r.
 w sprawie wymagań jakościowych dla gazu skroplonego (LPG) Na podstawie art. 3 ust. 2 pkt 3 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2023 r. poz. 846 i 1681) zarządza się, co następuje:
-§ 1. Wymagania jakościowe dla gazu skroplonego (LPG) określa załącznik do rozporządzenia.
-§ 2. Traci moc rozporządzenie Ministra Energii z dnia 14 kwietnia 2016 r. w sprawie wymagań jakościowych dla gazu skroplonego (LPG) (Dz. U. poz. 540).
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-W W M W M W
+
+**§ 1.** Wymagania jakościowe dla gazu skroplonego (LPG) określa załącznik do rozporządzenia.
+
+**§ 2.** Traci moc rozporządzenie Ministra Energii z dnia 14 kwietnia 2016 r. w sprawie wymagań jakościowych dla gazu skroplonego (LPG) (Dz. U. poz. 540).
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. W W M W M W
 

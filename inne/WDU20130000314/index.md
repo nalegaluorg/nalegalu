@@ -8,10 +8,10 @@ pos: 314
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 marca 2013 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 314 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,11 +25,16 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-07-24 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000314) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/314/text.pdf) |
 
-Poz. 314 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 w sprawie nadania statutu Roztoczańskiemu Parkowi Narodowemu z siedzibą w Zwierzyńcu Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn.
-zm. ) zarządza się, co następuje: § 1. Roztoczańskiemu Parkowi Narodowemu z siedzibą w Zwierzyńcu nadaje się statut, który stanowi załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-Minister Środowiska: M. Korolec STATUT ROZTOCZAŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W ZWIERZYŃCU § 1. Roztoczański Park Narodowy z siedzibą w Zwierzyńcu, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) oraz niniejszego statutu.
+zm. ) zarządza się, co następuje:
+
+**§ 1.** Roztoczańskiemu Parkowi Narodowemu z siedzibą w Zwierzyńcu nadaje się statut, który stanowi załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia. Minister Środowiska: M. Korolec STATUT ROZTOCZAŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W ZWIERZYŃCU
+
+## Załącznik
+
+§ 1. Roztoczański Park Narodowy z siedzibą w Zwierzyńcu, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm.) oraz niniejszego statutu.
 § 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
 1) Dział Administracyjno-Organizacyjny;
 2) Dział Ochrony Przyrody;

@@ -8,10 +8,10 @@ pos: 125
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Ustawa z dnia 26 maja 1982 r. o zmianie niektórych przepisów prawa karnego i prawa o wykroczeniach
+# :Dziennik Ustaw Nr 16 Poz.
 
 | Pole | Wartość |
 |---|---|
@@ -25,30 +25,30 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-11-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820160125) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1982/125/text.pdf) |
 
-**Art. 1.** W Kodeksie karnym wprowadza się następujące zmiany:
+nionego - jego krewny w linii prostej, brat a IX siostra. . Zmiany w przepisach
 
-**Art. 2.**
+**Art. 91.**
 
-§ 1. W Kodeksie wykroczeń wprowadza się następujące zmiany:
+1. od prawomocnego orazprzt'plsy i orzeczenia dyscyplinarnego Minister Spra. Art. 96. W ustawie z dnia kwietnia Prokurator Generalny PRL lub Prezes Na deks kdfnego (Dz. U. Nr poz. 96) czelneJ Rady Adwokackiej z powodu skresla ,istotnych przepisów prawa lub oczywistej orzeczenia. • Art: 97. Adw'okaci i aplikallCl adwokaccy. Rewizja nadzwyczajna na obwinionego na w dniu w ustawy, adwokatami wniesiona . w od- daty aplikantami w- rozumieniIJ prawa o adwokaturze. . uprawomocnienia orzeczenia dyscyplinarnego. . 2. Aplikanci adwokaccy. wpisani na aplikantów
 
-- **1)** w art. 1 wyrazy „do 5.000 złotych” zastępuje się wyrazami „do 20.000 złotych”,
-- **2)** w art. 10 § 2 wyrazy „od 50 do 150 złotych” zastępuje się wyrazami „od 200 do 600 złotych”,
-- **3)** w art. 23 wyrazy „od 500 do 1.000 złotych” zastępuje się wyrazami „od 2.000 do 4.000 złotych”,
-- **4)** w art. 24 § 1 wyrazy „od 100 do 5.000 złotych” zastępuje się wyrazami „od 400 do 20.000 złotych”,
-- **5)** w art. 25 § 1 wyrazy „1.000 złotych” zastępuje się wyrazami „4.000 złotych”, a wyrazy „od 50 do 150 złotych” – wyrazami „od 200 do 600 złotych”,
-- **6)** w art. 37 wyrazy „2.000 złotych” zastępuje się wyrazami „8.000 złotych”.
+3. rozpoznaje przed dniem w ustawy .
 
-§ 2. Ilekroć ustawy przewidują za wykroczenie inne dolne lub górne granice grzywny niż wynikające z przepisów części ogólnej Kodeksu wykroczeń, ustala się je w poczwórnej wysokości.
+**Art. 92.**
 
-§ 3. Ilekroć ustawy przewidują za wykroczenie dolną lub górną granicę nawiązki oraz określają wartość kwotową mienia, towaru oraz wyrządzonej szkody, ustala się ją w poczwórnej wysokości.
+1. Nie dyscy Art. 98. plinarnego. od chwili przewinienia Członek zespolu adwokackiego. trzy lata, a w wypadkach przew.idzianych wart. 8 dniu w ustawy w wieku. ust. w zespole ·adwokackim. pra,wo do dnia grudnia r. jednak czyn zawiera znamióna -przedawnienie dyscyplinarne nie Art. 99. Wymagań odbycia aplikacji adwokackiej przedawnienie karne. nie stosuje do osób,-c które po ukonczeniu
 
-**Art. 3.** W ustawie z dnia 25 września 1981 r. o zwalczaniu spekulacji (Dz. U. Nr 24, poz. 124) art. 6 skreśla się.
+3. Przedawnienie dyscyplinarne przerywa czyn studiów prawniczych przez okres organu do przewinienia. stanowisko radcy prawnego w wymiarze nienia. -t. przewinienia dyscyplinarnego ustaje, je tell od czasu jego trzy lata, a w Naczelna Rada Adwokacka w porozumieniu . radcowskim w regulaminie wypadkach wymienionych w 8 ust. dwa lata. i tryb egzaminu adwokackie
 
-**Art. 4.** W Kodeksie postępowania w sprawach o wykroczenia wprowadza się następujące zmiany:
+**Art. 93.** Oskarżycielem w' jest rzecznik go osoby wymienione w ust. _d yscyplinarny. Art. Wybory organów izb adwokackich 94. wzmianki o ukaraniu dyscy legatów na Krajowy Zjazd Ad wokatury plinarnym z po od dnia w niniejszej
 
-**Art. 5.** W Kodeksie karnym wykonawczym w art. 53 § 1 wyrazy „300 zł” zastępuje się wyrazami „25% najniższego wynagrodzenia miesięcznego pracowników zatrudnionych w uspołecznionych zakładach pracy”.
+lat od odbycia kary zawieszenia w czyn Art. 101. Traci moc ustawa z dnia zawodowych lub wykonania kary przenie r. o ustroju adwokatury (Dz. Nr sienia. siedziby, z r. Nr poz. adwokat lub aplikant adwokacki nie zostanie w Dotychczasowe przepisy wykonawcze wydane tym czasie ukarany lub nie zostanie przeciwko podstawie ustawy wymienionej w ust. 1 w zakresie. niemu dyscyplinarne. jair.im nie sprzeczne z Nie usuwa wzmianki o karze wydalenia moc ,do czasu w przepisów wydanych a adwokatury. podstawie niniejszej ustawy.
 
-**Art. 6.** W prawie o ustroju sądów powszechnych (Dz. U. z 1964 r. Nr 6, poz. 40, z 1967 r. Nr 13, poz. 55, z 1969 r. Nr 13, poz. 98, z 1974 r. Nr 50, poz. 316 oraz z 1975 r. Nr 16, poz. 91 i Nr 34, poz. 183) wprowadza się następujące zmiany:
+- **l)** trzech 'lat· od daty uprawomocnienia orzeczenia Dotychczasowe organy adwokatury oraz organy dyscyplinarnego. upomnienia, adwokackich do cZasu ukonstytuowania nagany lub wo wybranych organów.
 
-**Art. 7.** Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 95.** Minister po Art. Ustawa wchodzi z dniem opinii Naczelnej Rady Adwokackiej. w drodze dziern*a r. dzenia. wyda przepisy o Rady H. plinarnym. . Sekretarz Rady 125 UST A WA . z dnia maja r. o niektórych przepisów prawa l prawa o wykroczeniach.
+
+**Art. 1.** W Kodeksie karnym wprowadza . 6) wart, wyrazy .. od do zmiany: wyrazami "od do wart. 5 3 wyrazy' ,,5.000 wart. wyrazy "od do wyrazami . . wyrazami "od do w art. 1 wyrazy "od do wart. zlotych" wyrazami "od do wyrazami a wyrazy
+
+- **3)** wart. 36 wyrazy "od do ych" wyrazam( wyrazami "od do '--o tych", , . Art. W Kodeksie wprowadza wart. 1 wyrazy zmiany: . wyrazami a' wyrazy "od do l) wart. 1 wyrazy "do - wyrazami "od do zlotyeh" , wyrazaini' .. do 'wart. 59 § 3 wyrazy ,;do ;2) . w . art. wyrazy "od do wyrazami "do wyrazami, "od do DzIennIk = 3M ----------------------------------r. r. ziotyc-h", z r. na ' z z r. i na z r. r.
+
 

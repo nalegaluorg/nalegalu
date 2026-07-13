@@ -27,9 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
 z 2014 r. poz. 1438) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2013 r. poz. 936, z późn. zm. ) w załączniku w § 8:
-1) w pkt 6 lit. k otrzymuje brzmienie: „k) nowotarskiego – Nowy Targ,”;
-2) w pkt 13 lit. c otrzymuje brzmienie: „c) kazimierskiego – Kazimierza Wielka,”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. Z. Szalczyk
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2013 r. poz. 936, z późn. zm. ) w załączniku w § 8:
+
+- **1)** w pkt 6 lit. k otrzymuje brzmienie: „k) nowotarskiego – Nowy Targ,”;
+- **2)** w pkt 13 lit. c otrzymuje brzmienie: „c) kazimierskiego – Kazimierza Wielka,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: wz. Z. Szalczyk
 

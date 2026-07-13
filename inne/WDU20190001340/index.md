@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie uznania za pomnik historii „Stary Sącz – zespół staromiejski wraz z klasztorem Sióstr Klarysek” Na podstawie art. 15 ust. 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U.
 z 2018 r. poz. 2067 i 2245 oraz z 2019 r. poz. 730) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 10 grudnia 2018 r. w sprawie uznania za pomnik historii „Stary Sącz – zespół staromiejski wraz z klasztorem Sióstr Klarysek” (Dz. U. poz. 2415) § 2 otrzymuje brzmienie: „§ 2. Celem ochrony pomnika historii wymienionego w § 1 jest zachowanie, ze względu na wartości historyczne, artystyczne, naukowe, przestrzenne i krajobrazowe oraz autentyczność, jednego z najstarszych zespołów staromiejskich w Polsce, o wyraźnie zachowanej średniowiecznej strukturze przestrzennej, i silnie związanego z nim klasztoru Sióstr Klarysek, obecnego od wieków w sferze religijnej, kulturowej i gospodarczej Sądecczyzny, o ciągłości historycznej nieprzerwanej od czasów piastowskich, związanego z ważnymi postaciami z historii Polski, będącego skarbnicą zabytków architektury i sztuki.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 28 grudnia 2018 r.
-Prezydent Rzeczypospolitej Polskiej: A. Duda Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 10 grudnia 2018 r. w sprawie uznania za pomnik historii „Stary Sącz – zespół staromiejski wraz z klasztorem Sióstr Klarysek” (Dz. U. poz. 2415) § 2 otrzymuje brzmienie: „§ 2. Celem ochrony pomnika historii wymienionego w § 1 jest zachowanie, ze względu na wartości historyczne, artystyczne, naukowe, przestrzenne i krajobrazowe oraz autentyczność, jednego z najstarszych zespołów staromiejskich w Polsce, o wyraźnie zachowanej średniowiecznej strukturze przestrzennej, i silnie związanego z nim klasztoru Sióstr Klarysek, obecnego od wieków w sferze religijnej, kulturowej i gospodarczej Sądecczyzny, o ciągłości historycznej nieprzerwanej od czasów piastowskich, związanego z ważnymi postaciami z historii Polski, będącego skarbnicą zabytków architektury i sztuki.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 28 grudnia 2018 r.
 

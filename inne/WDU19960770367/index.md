@@ -29,26 +29,8 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz.U. z 1994 r. Nr 19, poz. 70 i Nr 105, poz. 509 oraz z 1995 r. Nr 34, poz. 163) wprowadza się następujące zmiany:
 
-- **1)** art. 6 otrzymuje brzmienie: "Art. 6. 1. Prokuratorami powszechnych jednostek organizacyjnych prokuratury są prokuratorzy Prokuratury Krajowej, prokuratur apelacyjnych, wojewódzkich i rejonowych.
-
-2. Prokuratorami wojskowych jednostek organizacyjnych prokuratury są prokuratorzy Naczelnej Prokuratury Wojskowej, wojskowych prokuratur okręgowych i wojskowych prokuratur garnizonowych.";
-
-- **2)** art. 8 otrzymuje brzmienie: "Art. 8. 1. Prokurator przy wykonywaniu czynności określonych w ustawach jest niezależny, z zastrzeżeniem przepisów ust. 2-5.
-
-2. Prokurator jest obowiązany wykonywać zarządzenia, wytyczne i polecenia przełożonego prokuratora. Polecenie dotyczące treści czynności procesowej prokurator przełożony wydaje na piśmie, a na żądanie prokuratora - wraz z uzasadnieniem. W razie przeszkody w doręczeniu polecenia w formie pisemnej dopuszczalne jest przekazanie polecenia ustnie, z tym że przełożony jest obowiązany niezwłocznie potwierdzić je na piśmie.
-
-3. Jeżeli prokurator nie zgadza się z poleceniem, może żądać zmiany polecenia lub wyłączenia go od wykonania czynności albo od udziału w sprawie. O wyłączeniu rozstrzyga ostatecznie prokurator bezpośrednio przełożony nad prokuratorem, który wydał polecenie, chyba że wydał je Prokurator Generalny.
-
-4. Żądanie, o którym mowa w ust. 2 i 3, prokurator zgłasza na piśmie wraz z uzasadnieniem przełożonemu, który wydał polecenie.
-
-5. Polecenie dotyczące treści czynności procesowej, wydane przez prokuratora przełożonego innego niż prokurator bezpośrednio przełożony, nie może obejmować sposobu zakończenia postępowania przygotowawczego i postępowania przed sądem.
-
-6. W przypadku gdy w postępowaniu sądowym ujawnią się nowe okoliczności, prokurator samodzielnie podejmuje decyzje związane z dalszym tokiem tego postępowania.
-
-7. Prokurator przełożony w razie stwierdzenia oczywistej obrazy prawa przy prowadzeniu sprawy wytyka, niezależnie od innych uprawnień, właściwemu prokuratorowi uchybienie, po uprzednim zażądaniu - w razie potrzeby - wyjaśnień. Stwierdzenie i wytknięcie uchybienia nie wpływa na rozstrzygnięcie sprawy.
-
-8. W razie stwierdzenia oczywistej i rażącej obrazy przepisów prawa, prokurator przełożony jest obowiązany żądać wszczęcia postępowania dyscyplinarnego przeciwko prokuratorowi, który obrazy się dopuścił.";
-
+- **1)** art. 6 otrzymuje brzmienie: "Art. 6. 1. Prokuratorami powszechnych jednostek organizacyjnych prokuratury są prokuratorzy Prokuratury Krajowej, prokuratur apelacyjnych, wojewódzkich i rejonowych. 2. Prokuratorami wojskowych jednostek organizacyjnych prokuratury są prokuratorzy Naczelnej Prokuratury Wojskowej, wojskowych prokuratur okręgowych i wojskowych prokuratur garnizonowych.";
+- **2)** art. 8 otrzymuje brzmienie: "Art. 8. 1. Prokurator przy wykonywaniu czynności określonych w ustawach jest niezależny, z zastrzeżeniem przepisów ust. 2-5. 2. Prokurator jest obowiązany wykonywać zarządzenia, wytyczne i polecenia przełożonego prokuratora. Polecenie dotyczące treści czynności procesowej prokurator przełożony wydaje na piśmie, a na żądanie prokuratora - wraz z uzasadnieniem. W razie przeszkody w doręczeniu polecenia w formie pisemnej dopuszczalne jest przekazanie polecenia ustnie, z tym że przełożony jest obowiązany niezwłocznie potwierdzić je na piśmie. 3. Jeżeli prokurator nie zgadza się z poleceniem, może żądać zmiany polecenia lub wyłączenia go od wykonania czynności albo od udziału w sprawie. O wyłączeniu rozstrzyga ostatecznie prokurator bezpośrednio przełożony nad prokuratorem, który wydał polecenie, chyba że wydał je Prokurator Generalny. 4. Żądanie, o którym mowa w ust. 2 i 3, prokurator zgłasza na piśmie wraz z uzasadnieniem przełożonemu, który wydał polecenie. 5. Polecenie dotyczące treści czynności procesowej, wydane przez prokuratora przełożonego innego niż prokurator bezpośrednio przełożony, nie może obejmować sposobu zakończenia postępowania przygotowawczego i postępowania przed sądem. 6. W przypadku gdy w postępowaniu sądowym ujawnią się nowe okoliczności, prokurator samodzielnie podejmuje decyzje związane z dalszym tokiem tego postępowania. 7. Prokurator przełożony w razie stwierdzenia oczywistej obrazy prawa przy prowadzeniu sprawy wytyka, niezależnie od innych uprawnień, właściwemu prokuratorowi uchybienie, po uprzednim zażądaniu - w razie potrzeby - wyjaśnień. Stwierdzenie i wytknięcie uchybienia nie wpływa na rozstrzygnięcie sprawy. 8. W razie stwierdzenia oczywistej i rażącej obrazy przepisów prawa, prokurator przełożony jest obowiązany żądać wszczęcia postępowania dyscyplinarnego przeciwko prokuratorowi, który obrazy się dopuścił.";
 - **3)** art. 11 otrzymuje brzmienie: "Art. 11. Prokuratorów powszechnych jednostek organizacyjnych prokuratury powołuje Prokurator Generalny, a prokuratorów wojskowych jednostek organizacyjnych prokuratury - Prokurator Generalny na wniosek Ministra Obrony Narodowej.";
 - **4)** w art. 12 ust. 1 otrzymuje brzmienie: "1. Prokuratora Krajowego jako zastępcę Prokuratora Generalnego oraz innych zastępców Prokuratora Generalnego powołuje, spośród prokuratorów Prokuratury Krajowej, i odwołuje z tych stanowisk - Prezes Rady Ministrów na wniosek Prokuratora Generalnego.";
 - **5)** w art. 13 ust. 3 otrzymuje brzmienie: "3. Zastępców Naczelnego Prokuratora Wojskowego i wojskowych prokuratorów okręgowych powołuje i odwołuje Prokurator Generalny w porozumieniu z Ministrem Obrony Narodowej. Do pełnienia pozostałych funkcji w wojskowych jednostkach organizacyjnych prokuratury powołuje, spośród prokuratorów, i odwołuje z pełnienia tych funkcji Prokurator Generalny w porozumieniu z Ministrem Obrony Narodowej.";
@@ -57,22 +39,8 @@ source: pdf
     - **a)** ust. 1 otrzymuje brzmienie: "1. Powszechnymi jednostkami organizacyjnymi prokuratury są: Prokuratura Krajowa oraz prokuratury apelacyjne, wojewódzkie i rejonowe. Prokuratura Krajowa wchodzi w skład Ministerstwa Sprawiedliwości. Prokuraturą Krajową, w zakresie określonym przez Prokuratora Generalnego, kieruje Prokurator Krajowy.",
     - **b)** w ust. 8 wyrazy "prokuratury okręgów wojskowych, prokuratury rodzajów sił zbrojnych" zastępuje się wyrazami "wojskowe prokuratury okręgowe";
 
-- **8)** w art. 22 pkt 2 i 3 otrzymują brzmienie: "2) wyraża opinię o kandydatach na prokuratorów prokuratury apelacyjnej i wojewódzkiej,
-- **3)** wyraża opinię w przedmiocie odwołania prokuratora prokuratury apelacyjnej i wojewódzkiej,";
-- **9)** po art. 22 dodaje się art. 22a i 22b w brzmieniu: "Art. 22a. 1. Kolegium prokuratury wojewódzkiej składa się z czterech do dziesięciu członków wybieranych w dwóch trzecich przez zebranie prokuratorów prokuratury wojewódzkiej oraz delegatów prokuratorów prokuratur rejonowych, a w jednej trzeciej powołanych przez prokuratora wojewódzkiego spośród podległych mu prokuratorów. Przewodniczącym kolegium prokuratury wojewódzkiej jest prokurator wojewódzki.
-
-2. Prokurator Generalny ustala regulamin wyboru delegatów, o których mowa w ust. 1.
-
-3. Kadencja kolegium prokuratury wojewódzkiej trwa dwa lata.
-
-4. Posiedzenie kolegium prokuratury wojewódzkiej zwołuje prokurator wojewódzki z własnej inicjatywy lub na wniosek jednej trzeciej liczby członków kolegium.
-
-**Art. 22b.** Kolegium prokuratury wojewódzkiej:
-
-- **1)** rozpatruje wnioski wynikające z wizytacji i lustracji prokuratur,
-- **2)** wyraża opinię o kandydatach na asesorów prokuratorskich oraz prokuratorów prokuratur rejonowych,
-- **3)** wyraża opinię w przedmiocie odwołania prokuratora prokuratury rejonowej,
-- **4)** wyraża opinię w innych sprawach przedstawionych przez prokuratora wojewódzkiego.";
+- **8)** w art. 22 pkt 2 i 3 otrzymują brzmienie: "2) wyraża opinię o kandydatach na prokuratorów prokuratury apelacyjnej i wojewódzkiej, 3) wyraża opinię w przedmiocie odwołania prokuratora prokuratury apelacyjnej i wojewódzkiej,";
+- **9)** po art. 22 dodaje się art. 22a i 22b w brzmieniu: "Art. 22a. 1. Kolegium prokuratury wojewódzkiej składa się z czterech do dziesięciu członków wybieranych w dwóch trzecich przez zebranie prokuratorów prokuratury wojewódzkiej oraz delegatów prokuratorów prokuratur rejonowych, a w jednej trzeciej powołanych przez prokuratora wojewódzkiego spośród podległych mu prokuratorów. Przewodniczącym kolegium prokuratury wojewódzkiej jest prokurator wojewódzki. 2. Prokurator Generalny ustala regulamin wyboru delegatów, o których mowa w ust. 1. 3. Kadencja kolegium prokuratury wojewódzkiej trwa dwa lata. 4. Posiedzenie kolegium prokuratury wojewódzkiej zwołuje prokurator wojewódzki z własnej inicjatywy lub na wniosek jednej trzeciej liczby członków kolegium. Art. 22b. Kolegium prokuratury wojewódzkiej: 1) rozpatruje wnioski wynikające z wizytacji i lustracji prokuratur, 2) wyraża opinię o kandydatach na asesorów prokuratorskich oraz prokuratorów prokuratur rejonowych, 3) wyraża opinię w przedmiocie odwołania prokuratora prokuratury rejonowej, 4) wyraża opinię w innych sprawach przedstawionych przez prokuratora wojewódzkiego.";
 - **10)** w art. 23 ust. 1 otrzymuje brzmienie: "1. Rada Prokuratorów przy Prokuratorze Generalnym składa się z: trzech przedstawicieli wybranych przez zebranie prokuratorów Prokuratury Krajowej, przedstawiciela wybranego przez zebranie prokuratorów Naczelnej Prokuratury Wojskowej, przedstawiciela wybranego przez zebranie prokuratorów delegowanych do Głównej Komisji Badania Zbrodni przeciwko Narodowi Polskiemu - Instytutu Pamięci Narodowej, przedstawicieli wybranych przez zgromadzenia prokuratorów w prokuraturach apelacyjnych - po jednym z każdej prokuratury apelacyjnej - oraz trzech prokuratorów powołanych przez Prokuratora Generalnego. Wybory prokuratorów na zebraniach odbywają się według regulaminów uchwalonych przez te zebrania. Przewodniczącym Rady jest Prokurator Generalny.";
 - **11)** w art. 24 w ust. 2 po wyrazach "wybieranych przez" dodaje się wyrazy "zebranie prokuratorów Prokuratury Krajowej i";
 - **12)** w art. 25 skreśla się ust. 3;

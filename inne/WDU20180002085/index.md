@@ -26,25 +26,38 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002085) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2085/text.pdf) |
 
 w sprawie szczegółowych zasad ustalania czynszu dzierżawnego oraz udziału dzierżawców obwodów łowieckich w kosztach ochrony lasu przed zwierzyną Na podstawie art. 30 ust. 3 ustawy z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2018 r. poz. 2033) zarządza się, co następuje:
-§ 1. Rozporządzenie określa szczegółowe zasady:
-1) ustalenia czynszu dzierżawnego;
-2) ustalania udziału dzierżawców obwodów łowieckich w kosztach ochrony lasu przed zwierzyną w przypadku nieusprawiedliwionego niezrealizowania rocznego planu łowieckiego.
-§ 2. 1. Równowartość pieniężną żyta, o której mowa w art. 30 ust. 2a ustawy z dnia 13 października 1995 r. – Prawo łowieckie, zwanej dalej „ustawą”, oblicza się, mnożąc średnią cenę skupu żyta przez wskaźnik przeliczeniowy zależny od kategorii obwodu łowieckiego.
-2. Średnią cenę skupu żyta stanowi średnia cena skupu żyta za okres 11 kwartałów będąca podstawą do ustalenia podatku rolnego ustalana, na podstawie art. 6 ust. 2 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2017 r.
-poz. 1892 oraz z 2018 r. poz. 1588 i 1669), w komunikacie Prezesa Głównego Urzędu Statystycznego ogłaszanym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+**§ 1.** Rozporządzenie określa szczegółowe zasady:
+
+- **1)** ustalenia czynszu dzierżawnego;
+- **2)** ustalania udziału dzierżawców obwodów łowieckich w kosztach ochrony lasu przed zwierzyną w przypadku nieusprawiedliwionego niezrealizowania rocznego planu łowieckiego.
+
+**§ 2.**
+
+1. Równowartość pieniężną żyta, o której mowa w art. 30 ust. 2a ustawy z dnia 13 października 1995 r. – Prawo łowieckie, zwanej dalej „ustawą”, oblicza się, mnożąc średnią cenę skupu żyta przez wskaźnik przeliczeniowy zależny od kategorii obwodu łowieckiego.
+
+2. Średnią cenę skupu żyta stanowi średnia cena skupu żyta za okres 11 kwartałów będąca podstawą do ustalenia podatku rolnego ustalana, na podstawie art. 6 ust. 2 ustawy z dnia 15 listopada 1984 r. o podatku rolnym (Dz. U. z 2017 r. poz. 1892 oraz z 2018 r. poz. 1588 i 1669), w komunikacie Prezesa Głównego Urzędu Statystycznego ogłaszanym w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
 3. Wskaźniki przeliczeniowe wynoszą:
-1) 0,07 q/ha – dla obwodu łowieckiego bardzo dobrego;
-2) 0,04 q/ha – dla obwodu łowieckiego dobrego;
-3) 0,02 q/ha – dla obwodu łowieckiego średniego;
-4) 0,01 q/ha – dla obwodu łowieckiego słabego;
-5) 0,004 q/ha – dla obwodu łowieckiego bardzo słabego.
+
+- **1)** 0,07 q/ha – dla obwodu łowieckiego bardzo dobrego;
+- **2)** 0,04 q/ha – dla obwodu łowieckiego dobrego;
+- **3)** 0,02 q/ha – dla obwodu łowieckiego średniego;
+- **4)** 0,01 q/ha – dla obwodu łowieckiego słabego;
+- **5)** 0,004 q/ha – dla obwodu łowieckiego bardzo słabego.
+
 4. Ilość hektarów obszaru dzierżawionego obwodu łowieckiego, o której mowa w art. 30 ust. 2a ustawy, stanowi powierzchnia dzierżawionego obwodu łowieckiego po uwzględnieniu wyłączeń, określona w uchwale, o której mowa w art. 27 ust. 1 ustawy.
-§ 3. 1. Wysokość udziału dzierżawców obwodów łowieckich w kosztach ochrony lasu przed zwierzyną w przypadku nieusprawiedliwionego niezrealizowania rocznego planu łowieckiego ustala się, przyjmując, że za każdy 1% nieusprawiedliwionego niezrealizowania minimalnej liczby łosi, jeleni, danieli i saren zaplanowanych do pozyskania w łowieckim roku gospodarczym, na który jest sporządzony roczny plan łowiecki, o której mowa w art. 8a ust. 6 pkt 4 lit. i tiret pierwsze ustawy, udział wynosi 1% poniesionych przez nadleśnictwo na terenie obwodu łowieckiego kosztów ochrony lasu przed zwierzyną w łowieckim roku gospodarczym poprzedzającym łowiecki rok gospodarczy, na który jest naliczany czynsz dzierżawny, przy czym jeden jeleń = 0,3 łosia = 2 daniele = 5 saren.
+
+**§ 3.**
+
+1. Wysokość udziału dzierżawców obwodów łowieckich w kosztach ochrony lasu przed zwierzyną w przypadku nieusprawiedliwionego niezrealizowania rocznego planu łowieckiego ustala się, przyjmując, że za każdy 1% nieusprawiedliwionego niezrealizowania minimalnej liczby łosi, jeleni, danieli i saren zaplanowanych do pozyskania w łowieckim roku gospodarczym, na który jest sporządzony roczny plan łowiecki, o której mowa w art. 8a ust. 6 pkt 4 lit. i tiret pierwsze ustawy, udział wynosi 1% poniesionych przez nadleśnictwo na terenie obwodu łowieckiego kosztów ochrony lasu przed zwierzyną w łowieckim roku gospodarczym poprzedzającym łowiecki rok gospodarczy, na który jest naliczany czynsz dzierżawny, przy czym jeden jeleń = 0,3 łosia = 2 daniele = 5 saren.
+
 2. W przypadku zwiększenia czynszu dzierżawnego o udział w kosztach ochrony lasu przed zwierzyną wydzierżawiający przedstawia dzierżawcy zestawienie poniesionych kosztów.
-§ 4. Do ustalenia wysokości:
-1) czynszu dzierżawnego dotyczącego łowieckiego roku gospodarczego, który rozpoczął się 1 kwietnia 2018 r.,
-2) udziału dzierżawców obwodów łowieckich w kosztach ochrony lasu przed zwierzyną dotyczącego łowieckiego roku gospodarczego, który zakończył się 31 marca 2018 r.
-– stosuje się przepisy niniejszego rozporządzenia.
-§ 5. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Środowiska: H. Kowalczyk
+
+**§ 4.** Do ustalenia wysokości:
+
+- **1)** czynszu dzierżawnego dotyczącego łowieckiego roku gospodarczego, który rozpoczął się 1 kwietnia 2018 r.,
+- **2)** udziału dzierżawców obwodów łowieckich w kosztach ochrony lasu przed zwierzyną dotyczącego łowieckiego roku gospodarczego, który zakończył się 31 marca 2018 r. – stosuje się przepisy niniejszego rozporządzenia.
+
+**§ 5.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Środowiska: H. Kowalczyk
 

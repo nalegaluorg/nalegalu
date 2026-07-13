@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000418) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/418/text.pdf) |
 
 w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie obniżonych stawek podatku od towarów i usług Na podstawie art. 146ej ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, 894, 896, 1203, 1541 i 1811) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów i Gospodarki z dnia 28 marca 2026 r. zmieniającym rozporządzenie w sprawie obniżonych stawek podatku od towarów i usług (Dz. U. poz. 417) w § 1 w dodawanym § 11a w pkt 2 wyrazy „CN 2710 19 43” zastępuje się wyrazami „CN 2710 19 42, 2710 19 44”.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Minister Finansów i Gospodarki: wz. J. Neneman
+
+**§ 1.** W rozporządzeniu Ministra Finansów i Gospodarki z dnia 28 marca 2026 r. zmieniającym rozporządzenie w sprawie obniżonych stawek podatku od towarów i usług (Dz. U. poz. 417) w § 1 w dodawanym § 11a w pkt 2 wyrazy „CN 2710 19 43” zastępuje się wyrazami „CN 2710 19 42, 2710 19 44”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia. Minister Finansów i Gospodarki: wz. J. Neneman
 

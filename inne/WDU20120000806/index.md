@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia Na podstawie art. 16 ust. 2 ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2009 r.
 Nr 12, poz. 67, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 18 czerwca 2001 r. w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. Nr 62, poz. 632, z późn. zm. ) w § 1 w pkt kropkę zastępuje się przecinkiem i dodaje się lit. m w brzmieniu: „m) Warszawa/Modlin – ruch osobowy i towarowy.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 18 czerwca 2001 r. w sprawie ustalenia morskich i stałych lotniczych przejść granicznych oraz rodzaju ruchu dozwolonego przez te przejścia (Dz. U. Nr 62, poz. 632, z późn. zm. ) w § 1 w pkt kropkę zastępuje się przecinkiem i dodaje się lit. m w brzmieniu: „m) Warszawa/Modlin – ruch osobowy i towarowy.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
 

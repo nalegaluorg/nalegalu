@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001974) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1974/text.pdf) |
 
 zmieniające rozporządzenie w sprawie określenia organów administracji rządowej, które utworzą centra zarządzania kryzysowego, oraz sposobu ich funkcjonowania Na podstawie art. 13 ust. 3 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2018 r. poz. 1401 i 1560) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2009 r. w sprawie określenia organów administracji rządowej, które utworzą centra zarządzania kryzysowego, oraz sposobu ich funkcjonowania (Dz. U. poz. 1810) w § 2 w ust. 1 po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) Komendant Służby Ochrony Państwa;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2009 r. w sprawie określenia organów administracji rządowej, które utworzą centra zarządzania kryzysowego, oraz sposobu ich funkcjonowania (Dz. U. poz. 1810) w § 2 w ust. 1 po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) Komendant Służby Ochrony Państwa;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

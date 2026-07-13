@@ -28,25 +28,6 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie stypendiów ministra właściwego do spraw zdrowia dla studentów Na podstawie art. 458 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U.
 z 2024 r. poz. 1571, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 13 sierpnia 2019 r. w sprawie stypendiów ministra właściwego do spraw zdrowia dla studentów (Dz. U. z 2022 r. poz. 1271) wprowadza się następujące zmiany:
-1) w § 2:
-a) w pkt 3 po wyrazach „student odbywa” dodaje się wyrazy „lub odbywał”,
-b) uchyla się pkt 4,
-c) pkt 5 i 6 otrzymują brzmienie: „5) samodzielne wygłoszenie referatu naukowego dotyczącego badań naukowych o wysokim poziomie innowacyjności, którego student jest autorem lub współautorem, na ogólnopolskiej lub międzynarodowej konferencji naukowej o wysokim prestiżu zorganizowanej lub współorganizowanej przez podmiot, o którym mowa w art. 7 ust. 1 ustawy, zagraniczną uczelnię lub przez zagraniczną instytucję naukową;
-6) uzyskanie nagrody indywidualnej lub znaczący udział w powstaniu osiągnięcia, za które uzyskano nagrodę zespołową w konkursie naukowym o zasięgu międzynarodowym i o wysokim prestiżu, w którym uczestniczyli studenci uczelni co najmniej z pięciu państw, lub w konkursie o zasięgu krajowym o bardzo wysokim prestiżu, z wyłączeniem konkursów organizowanych w ramach konferencji naukowej.”;
-2) w § 4 w pkt 1:
-a) lit. b otrzymuje brzmienie: „b) oświadczenia studenta o procentowym wkładzie autorskim wraz z opisem tego wkładu oraz oświadczenia potwierdzającego ten wkład, złożonego przez: – współautora wiodącego, autora korespondencyjnego lub kierownika projektu badawczego, którego dotyczyła publikacja, albo – innego współautora publikacji, jeżeli student jest jednocześnie współautorem wiodącym, autorem korespondencyjnym i kierownikiem projektu badawczego, którego dotyczyła publikacja – w przypadku współautorstwa monografii naukowej, rozdziału w monografii naukowej lub artykułu naukowego,”,
-b) w lit. g przecinek zastępuje się średnikiem i uchyla się lit. h;
-3) w § 8:
-a) w ust. 2 w pkt 1: – w lit. a uchyla się tiret trzecie, – w lit. b tiret trzecie otrzymuje brzmienie: „– liczbę referatów naukowych, monografii naukowych, rozdziałów w monografii naukowej lub artykułów naukowych, będących wynikiem udziału w projekcie,”, – w lit. c uchyla się tiret trzecie,
-b) dodaje się ust. 3 i 4 w brzmieniu: „3. Ocena merytoryczna wniosków o przyznanie stypendiów obejmuje wnioski, w których wykazano nie więcej niż po 5 osiągnieć w każdej kategorii.
-4. Przy ocenie merytorycznej osiągnięć, o których mowa w § 2 pkt 5, uwzględnia się wyłącznie pierwsze wygłoszenie referatu spośród referatów kilkukrotnie wygłaszanych o tym samym tytule i o tej samej treści.”;
-4) w § 11 liczbę „50” zastępuje się liczbą „40”;
-5) w § 12 liczbę „17 000” zastępuje się liczbą „22 000”;
-6) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Postępowania w sprawie przyznania stypendiów ministra właściwego do spraw zdrowia, wszczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia, są prowadzone do czasu ich zakończenia na podstawie przepisów dotychczasowych.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: I. Leszczyna Ministra Zdrowia z dnia 30 czerwca 2025 r. (Dz. U. poz. ...) WZÓR WZÓR Wniosek o przyznanie stypendium dla studenta za znaczące osiągnięcia naukowe/sportowe na rok akademicki …
 Należy wpisać w przypadku, jeżeli student wyraża zgodę na udostępnienie.
 W przypadku studenta studiów drugiego stopnia należy wpisać datę rozpoczęcia studiów pierwszego stopnia.
 Należy wypełnić, jeżeli jest inny niż kierunek studiów, na którym studentowi został zaliczony rok studiów w poprzednim roku akademickim.
@@ -61,6 +42,29 @@ Załączniki:
 4. Samodzielne wygłoszenie referatu naukowego dotyczącego badań naukowych o wysokim poziomie innowacyjności, którego student jest autorem lub współautorem, na ogólnopolskiej lub międzynarodowej konferencji naukowej o wysokim prestiżu zorganizowanej lub współorganizowanej przez podmiot, o którym mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, zagraniczną uczelnię lub przez zagraniczną instytucję naukową: ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… Data i miejsce konferencji, nazwa konferencji, zasięg konferencji (ogólnopolska/międzynarodowa), tytuł referatu, wkład autorski (w procentach), imiona i nazwiska współautorów.
 5. Uzyskanie nagrody indywidualnej lub znaczący udział w powstaniu osiągnięcia, za które uzyskano nagrodę zespołową w konkursie naukowym o zasięgu międzynarodowym i o wysokim prestiżu, w którym uczestniczyli studenci uczelni co najmniej z pięciu państw, lub w konkursie o zasięgu krajowym o bardzo wysokim prestiżu, z wyłączeniem konkursów organizowanych w ramach konferencji naukowej: ………………………………………………………………………………………………………… ………………………………………………………………………………………………………… Data i miejsce uzyskania nagrody, nazwa i zasięg konkursu, uzyskane miejsce, forma uzyskanej nagrody, rodzaj nagrody (indywidualna/zespołowa), udział w powstaniu osiągnięcia, za które uzyskano nagrodę zespołową (w procentach).
 Objaśnienie: W przypadku braku osiągnięć naukowych części C.1 nie wypełnia się.
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 13 sierpnia 2019 r. w sprawie stypendiów ministra właściwego do spraw zdrowia dla studentów (Dz. U. z 2022 r. poz. 1271) wprowadza się następujące zmiany:
+
+- **1)** w § 2:
+    - **a)** w pkt 3 po wyrazach „student odbywa” dodaje się wyrazy „lub odbywał”,
+    - **b)** uchyla się pkt 4,
+    - **c)** pkt 5 i 6 otrzymują brzmienie: „5) samodzielne wygłoszenie referatu naukowego dotyczącego badań naukowych o wysokim poziomie innowacyjności, którego student jest autorem lub współautorem, na ogólnopolskiej lub międzynarodowej konferencji naukowej o wysokim prestiżu zorganizowanej lub współorganizowanej przez podmiot, o którym mowa w art. 7 ust. 1 ustawy, zagraniczną uczelnię lub przez zagraniczną instytucję naukową; 6) uzyskanie nagrody indywidualnej lub znaczący udział w powstaniu osiągnięcia, za które uzyskano nagrodę zespołową w konkursie naukowym o zasięgu międzynarodowym i o wysokim prestiżu, w którym uczestniczyli studenci uczelni co najmniej z pięciu państw, lub w konkursie o zasięgu krajowym o bardzo wysokim prestiżu, z wyłączeniem konkursów organizowanych w ramach konferencji naukowej.”;
+
+- **2)** w § 4 w pkt 1:
+    - **a)** lit. b otrzymuje brzmienie: „b) oświadczenia studenta o procentowym wkładzie autorskim wraz z opisem tego wkładu oraz oświadczenia potwierdzającego ten wkład, złożonego przez: – współautora wiodącego, autora korespondencyjnego lub kierownika projektu badawczego, którego dotyczyła publikacja, albo – innego współautora publikacji, jeżeli student jest jednocześnie współautorem wiodącym, autorem korespondencyjnym i kierownikiem projektu badawczego, którego dotyczyła publikacja – w przypadku współautorstwa monografii naukowej, rozdziału w monografii naukowej lub artykułu naukowego,”,
+    - **b)** w lit. g przecinek zastępuje się średnikiem i uchyla się lit. h;
+
+- **3)** w § 8:
+    - **a)** w ust. 2 w pkt 1: – w lit. a uchyla się tiret trzecie, – w lit. b tiret trzecie otrzymuje brzmienie: „– liczbę referatów naukowych, monografii naukowych, rozdziałów w monografii naukowej lub artykułów naukowych, będących wynikiem udziału w projekcie,”, – w lit. c uchyla się tiret trzecie,
+    - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. Ocena merytoryczna wniosków o przyznanie stypendiów obejmuje wnioski, w których wykazano nie więcej niż po 5 osiągnieć w każdej kategorii. 4. Przy ocenie merytorycznej osiągnięć, o których mowa w § 2 pkt 5, uwzględnia się wyłącznie pierwsze wygłoszenie referatu spośród referatów kilkukrotnie wygłaszanych o tym samym tytule i o tej samej treści.”;
+
+- **4)** w § 11 liczbę „50” zastępuje się liczbą „40”;
+- **5)** w § 12 liczbę „17 000” zastępuje się liczbą „22 000”;
+- **6)** załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Postępowania w sprawie przyznania stypendiów ministra właściwego do spraw zdrowia, wszczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia, są prowadzone do czasu ich zakończenia na podstawie przepisów dotychczasowych.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: I. Leszczyna Ministra Zdrowia z dnia 30 czerwca 2025 r. (Dz. U. poz. ...) WZÓR WZÓR Wniosek o przyznanie stypendium dla studenta za znaczące osiągnięcia naukowe/sportowe na rok akademicki …
 
 ## CZĘŚĆ A – DANE WNIOSKODAWCY Nazwa uczelni medycznej Adres Adres elektronicznej skrzynki podawczej (ePUAP) Numer telefonu Adres strony internetowej Numer identyfikacji podatkowej (NIP) Numer identyfikacyjny REGON Rektor (imię i nazwisko, adres poczty elektronicznej)
 

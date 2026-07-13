@@ -30,20 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** art. 410d otrzymuje brzmienie: „Art. 410d. Środki Narodowego Funduszu można przeznaczać za zgodą ministra właściwego do spraw środowiska na wspieranie projektów i inwestycji z zakresu ochrony środowiska i gospodarki wodnej poza granicami kraju, jeżeli ma to związek z bezpieczeństwem ekologicznym Rzeczypospolitej Polskiej, z zastrzeżeniem art. 410e.”;
-- **2)** po art. 410d dodaje się art. 410e i art. 410f w brzmieniu: „Art. 410e. 1. Środki Narodowego Funduszu inne niż przychody, o których mowa w art. 401 ust. 7 oraz art. 401d ust. 1, można także przeznaczać za zgodą ministra właściwego do spraw środowiska na:
-- **1)** udzielanie pomocy w ramach międzynarodowej współpracy na rzecz rozwoju państwom niewymienionym w załączniku I do Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu sporządzonej w Nowym Jorku dnia 9 maja 1992 r. (Dz. U. z 1996 r. Nr 53, poz. 238), zwanej dalej „Konwencją Klimatyczną”;
-- **2)** dokonywanie wpłat na rzecz międzynarodowych organizacji, instytucji, programów i funduszy, zapewniających funkcjonowanie mechanizmów finansowych służących realizacji celów Konwencji Klimatycznej.
-
-2. Pomoc, o której mowa w ust. 1 pkt 1, jest udzielana na wspieranie projektów i inwestycji z zakresu:
-
-- **1)** ograniczania lub unikania emisji gazów cieplarnianych;
-- **2)** pochłaniania lub sekwestracji dwutlenku węgla (CO );
-- **3)** adaptacji do zmian klimatu;
-- **4)** wzmocnienia instytucjonalnego.
-
-3. Środki Narodowego Funduszu inne niż przychody, o których mowa w art. 401 ust. 7 oraz art. 401d ust. 1, przeznaczone na zadania, o których mowa w ust. 1, realizowane przez państwową jednostkę budżetową, są przekazywane tej jednostce zgodnie z art. 410c ust. 2.
-
-**Art. 410f.** Środki Narodowego Funduszu przeznacza się także na odszkodowania wynikające z niewykonania lub nienależytego wykonania umów sprzedaży jednostek przyznanej emisji, zawieranych na podstawie ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji.”.
+- **2)** po art. 410d dodaje się art. 410e i art. 410f w brzmieniu: „Art. 410e. 1. Środki Narodowego Funduszu inne niż przychody, o których mowa w art. 401 ust. 7 oraz art. 401d ust. 1, można także przeznaczać za zgodą ministra właściwego do spraw środowiska na: 1) udzielanie pomocy w ramach międzynarodowej współpracy na rzecz rozwoju państwom niewymienionym w załączniku I do Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu sporządzonej w Nowym Jorku dnia 9 maja 1992 r. (Dz. U. z 1996 r. Nr 53, poz. 238), zwanej dalej „Konwencją Klimatyczną”; 2) dokonywanie wpłat na rzecz międzynarodowych organizacji, instytucji, programów i funduszy, zapewniających funkcjonowanie mechanizmów finansowych służących realizacji celów Konwencji Klimatycznej. 2. Pomoc, o której mowa w ust. 1 pkt 1, jest udzielana na wspieranie projektów i inwestycji z zakresu: 1) ograniczania lub unikania emisji gazów cieplarnianych; 2) pochłaniania lub sekwestracji dwutlenku węgla (CO ); 3) adaptacji do zmian klimatu; 4) wzmocnienia instytucjonalnego. 3. Środki Narodowego Funduszu inne niż przychody, o których mowa w art. 401 ust. 7 oraz art. 401d ust. 1, przeznaczone na zadania, o których mowa w ust. 1, realizowane przez państwową jednostkę budżetową, są przekazywane tej jednostce zgodnie z art. 410c ust. 2. Art. 410f. Środki Narodowego Funduszu przeznacza się także na odszkodowania wynikające z niewykonania lub nienależytego wykonania umów sprzedaży jednostek przyznanej emisji, zawieranych na podstawie ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji.”.
 
 **Art. 2.**
 

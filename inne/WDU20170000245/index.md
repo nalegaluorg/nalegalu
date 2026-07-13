@@ -31,9 +31,7 @@ source: pdf
 
 - **1)** w art. 1a:
     - **a)** pkt 3 otrzymuje brzmienie: „3) karta płatnicza – kartę płatniczą w rozumieniu art. 2 pkt 15a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2016 r. poz. 1572 i 1997);”,
-    - **b)** w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) mała kasa – kasę, która spełnia następujące warunki:
-    - **a)** suma aktywów bilansu kasy na koniec roku obrotowego nie przekraczała 20 mln zł,
-    - **b)** średnioroczna liczba członków kasy w ostatnim roku obrotowym nie przekraczała 10 tys. osób.”;
+    - **b)** w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) mała kasa – kasę, która spełnia następujące warunki: a) suma aktywów bilansu kasy na koniec roku obrotowego nie przekraczała 20 mln zł, b) średnioroczna liczba członków kasy w ostatnim roku obrotowym nie przekraczała 10 tys. osób.”;
 
 - **2)** w art. 3 ust. 3 otrzymuje brzmienie: „3. Kasy, z wyłączeniem małych kas, oraz Kasa Krajowa są uprawnione do wydawania pieniądza elektronicznego na rzecz członków kas, na zasadach określonych w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych.”;
 - **3)** w art. 9f w ust. 1 po pkt 19 dodaje się pkt 19a w brzmieniu: „19a) na żądanie Rzecznika Finansowego, w zakresie niezbędnym do realizacji przez niego zadań określonych w ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym (Dz. U. z 2016 r. poz. 892 i 1823);”;
@@ -42,26 +40,13 @@ source: pdf
 - **6)** w art. 60 kropkę zastępuje się przecinkiem i dodaje się wyrazy: „adekwatnie do stopnia skomplikowania prowadzonej przez kasy działalności oraz skali ryzyka występującego w działalności kas.”;
 - **7)** po art. 60 dodaje się art. 60a w brzmieniu: „Art. 60a. Nadzór nad kasami i Kasą Krajową sprawowany jest przy uwzględnieniu zasady stosowania środków nadzorczych i naprawczych przez Komisję Nadzoru Finansowego uwzględniających skalę działalności kas oraz stosowanie środków łagodniejszych, jeżeli nie ma konieczności zastosowania środków dalej idących. Powyższa zasada dotyczy także czynności nadzorczych.”;
 - **8)** w art. 62c ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji Nadzoru Finansowego, określi, w drodze rozporządzenia, szczegółowy zakres, formę, sposób i częstotliwość sporządzania sprawozdań z danymi, o których mowa w ust. 1 i 2, oraz terminy i sposób ich przekazywania Komisji Nadzoru Finansowego, mając na względzie zapewnienie Komisji Nadzoru Finansowego dostępu do danych niezbędnych do sprawowania efektywnego nadzoru nad kasami i Kasą Krajową, z uwzględnieniem stopnia skomplikowania prowadzonej przez małe kasy działalności oraz skali ryzyka występującego w działalności małych kas.”;
-- **9)** po art. 62f dodaje się art. 62g i art. 62h w brzmieniu: „Art. 62g. 1. Kasa, która spełnia warunki określone w art. 1a pkt 5, jest obowiązana niezwłocznie pisemnie poinformować o tym Komisję Nadzoru Finansowego oraz Kasę Krajową.
-
-2. Kasa jest obowiązana corocznie, nie później niż do ostatniego dnia miesiąca następującego po zakończeniu roku obrotowego, pisemnie informować podmioty, o których mowa w ust. 1, o spełnianiu warunków uznania za małą kasę. Jednocześnie kasa informuje o zamiarze rozszerzenia zakresu prowadzonej działalności, które będzie skutkowało niespełnianiem tych warunków.
-
-3. Kasa traci status małej kasy, jeżeli nie spełnia warunków, o których mowa w art. 1a pkt 5 lit. a lub b, przez 2 kolejne lata obrotowe. W takim przypadku kasa dostosowuje swoją działalność do wymogów określonych w ustawie, począwszy od kolejnego roku obrotowego.
-
-4. Kasa traci status małej kasy, począwszy od kolejnego roku obrotowego, jeżeli przekroczenie limitów, o których mowa w art. 1a pkt 5 lit. a lub b, wyniosło co najmniej 10%. Kasa jest obowiązana niezwłocznie pisemnie poinformować o tym Komisję Nadzoru Finansowego oraz Kasę Krajową w terminie określonym w ust. 2.
-
-5. Kasa spełniająca wymogi określone w art. 1a pkt 5, która nie wyraża woli posiadania statusu małej kasy w kolejnym roku obrotowym, jest obowiązana pisemnie poinformować o tym Komisję Nadzoru Finansowego oraz Kasę Krajową.
-
-**Art. 62h.** Kasa Krajowa może żądać informacji, w tym informacji o charakterze sprawozdawczym lub cyklicznym, od kasy oraz wyjaśnień od członków organów i pracowników kasy w zakresie niezbędnym do wykonywania jej zadań.”;
-
+- **9)** po art. 62f dodaje się art. 62g i art. 62h w brzmieniu: „Art. 62g. 1. Kasa, która spełnia warunki określone w art. 1a pkt 5, jest obowiązana niezwłocznie pisemnie poinformować o tym Komisję Nadzoru Finansowego oraz Kasę Krajową. 2. Kasa jest obowiązana corocznie, nie później niż do ostatniego dnia miesiąca następującego po zakończeniu roku obrotowego, pisemnie informować podmioty, o których mowa w ust. 1, o spełnianiu warunków uznania za małą kasę. Jednocześnie kasa informuje o zamiarze rozszerzenia zakresu prowadzonej działalności, które będzie skutkowało niespełnianiem tych warunków. 3. Kasa traci status małej kasy, jeżeli nie spełnia warunków, o których mowa w art. 1a pkt 5 lit. a lub b, przez 2 kolejne lata obrotowe. W takim przypadku kasa dostosowuje swoją działalność do wymogów określonych w ustawie, począwszy od kolejnego roku obrotowego. 4. Kasa traci status małej kasy, począwszy od kolejnego roku obrotowego, jeżeli przekroczenie limitów, o których mowa w art. 1a pkt 5 lit. a lub b, wyniosło co najmniej 10%. Kasa jest obowiązana niezwłocznie pisemnie poinformować o tym Komisję Nadzoru Finansowego oraz Kasę Krajową w terminie określonym w ust. 2. 5. Kasa spełniająca wymogi określone w art. 1a pkt 5, która nie wyraża woli posiadania statusu małej kasy w kolejnym roku obrotowym, jest obowiązana pisemnie poinformować o tym Komisję Nadzoru Finansowego oraz Kasę Krajową. Art. 62h. Kasa Krajowa może żądać informacji, w tym informacji o charakterze sprawozdawczym lub cyklicznym, od kasy oraz wyjaśnień od członków organów i pracowników kasy w zakresie niezbędnym do wykonywania jej zadań.”;
 - **10)** w art. 63 po ust. 2b dodaje się ust. 2c w brzmieniu: „2c. Kasa Krajowa niezwłocznie zawiadamia Komisję Nadzoru Finansowego o wynikach czynności kontrolnych w kasach.”.
 
 **Art. 2.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2016 r. poz. 1047 i 2255 oraz z 2017 r. poz. 61) w art. 81 w ust. 2:
 
 - **1)** w pkt 8 uchyla się lit. d;
-- **2)** po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) po zasięgnięciu opinii Komisji Nadzoru Finansowego oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej szczególne zasady rachunkowości spółdzielczych kas oszczędnościowo-kredytowych, w tym:
-    - **a)** zakres informacji wykazywanych w sprawozdaniu finansowym,
-    - **b)** zasady wyceny aktywów i pasywów, w tym tworzenia odpisów aktualizujących – uwzględniając specyfikę działalności spółdzielczych kas oszczędnościowo-kredytowych, w tym małych kas;”.
+- **2)** po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) po zasięgnięciu opinii Komisji Nadzoru Finansowego oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej szczególne zasady rachunkowości spółdzielczych kas oszczędnościowo-kredytowych, w tym: a) zakres informacji wykazywanych w sprawozdaniu finansowym, b) zasady wyceny aktywów i pasywów, w tym tworzenia odpisów aktualizujących – uwzględniając specyfikę działalności spółdzielczych kas oszczędnościowo-kredytowych, w tym małych kas;”.
 
 **Art. 3.** W ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym (Dz. U. z 2016 r. poz. 892 i 1823) w art. 20 w ust. 1 pkt 6 otrzymuje brzmienie: „6) spółdzielcze kasy oszczędnościowo-kredytowe – do wysokości stanowiącej iloczyn sumy aktywów bilansowych spółdzielczych kas oszczędnościowo-kredytowych i stawki nieprzekraczającej 0,0011%;”.
 

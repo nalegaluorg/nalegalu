@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego Na podstawie art. 14 ust. 1 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2017 r.
 poz. 246 i 1139) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U.
-poz. 485 i 1173) w załączniku nr 4 do rozporządzenia w tabeli po wierszu „Funkcje zastępców kierowników: sekretariatu, sekretariatu wydziału lub sekcji wydziału, oddziału, biura, sekcji, zespołu, działu” dodaje się wiersz w brzmieniu: Funkcja punktu kontaktowego Europejskiej Sieci Sądowej w sprawach cywilnych do 901 i handlowych
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. poz. 485 i 1173) w załączniku nr 4 do rozporządzenia w tabeli po wierszu „Funkcje zastępców kierowników: sekretariatu, sekretariatu wydziału lub sekcji wydziału, oddziału, biura, sekcji, zespołu, działu” dodaje się wiersz w brzmieniu: Funkcja punktu kontaktowego Europejskiej Sieci Sądowej w sprawach cywilnych do 901 i handlowych
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

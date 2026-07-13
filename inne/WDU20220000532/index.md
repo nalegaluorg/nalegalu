@@ -27,13 +27,13 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Polskiemu Instytutowi Spraw Międzynarodowych Na podstawie art. 3 ustawy z dnia 20 grudnia 1996 r. o Polskim Instytucie Spraw Międzynarodowych (Dz. U. z 2020 r.
 poz. 720) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 1 grudnia 2016 r. w sprawie nadania statutu Polskiemu Instytutowi Spraw Międzynarodowych (Dz. U. z 2021 r. poz. 414) w załączniku do rozporządzenia wprowadza się następujące zmiany:
-1) w § 3:
-a) w ust. 1 po pkt 1a dodaje się pkt 1b w brzmieniu: „1b) komórka organizacyjna – oddział zamiejscowy – Biuro Instytutu w Berlinie (Republika Federalna Niemiec);”,
-b) ust. 3 otrzymuje brzmienie: „3. Dyrektor oddziału zamiejscowego – Biura Instytutu w Brukseli (Królestwo Belgii), dyrektor oddziału zamiejscowego – Biura Instytutu w Berlinie (Republika Federalna Niemiec) oraz pracownicy Instytutu zajmujący samodzielne stanowiska podlegają bezpośrednio Dyrektorowi Instytutu.ˮ;
-2) w § 4:
-a) w ust. 3 w pkt 3 wyrazy „oddziału zamiejscowego, o którym mowa w § 3 ust. 1 pkt 1a” zastępuje się wyrazami „oddziałów zamiejscowych, o których mowa w § 3 ust. 1 pkt 1a i 1b”,
-b) ust. 8 otrzymuje brzmienie: „8. W posiedzeniu Rady może wziąć udział, na zaproszenie przewodniczącego Rady, zastępca Dyrektora Instytutu, główny księgowy, kierownik komórki organizacyjnej, dyrektorzy oddziałów zamiejscowych, o których mowa w § 3 ust. 1 pkt 1a i 1b, oraz inne osoby, których wiedza i doświadczenie mogą być wykorzystane w realizacji zadań Rady.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 1 grudnia 2016 r. w sprawie nadania statutu Polskiemu Instytutowi Spraw Międzynarodowych (Dz. U. z 2021 r. poz. 414) w załączniku do rozporządzenia wprowadza się następujące zmiany:
+
+- **1)** w § 3:
+    - **a)** w ust. 1 po pkt 1a dodaje się pkt 1b w brzmieniu: „1b) komórka organizacyjna – oddział zamiejscowy – Biuro Instytutu w Berlinie (Republika Federalna Niemiec);”,
+    - **b)** ust. 3 otrzymuje brzmienie: „3. Dyrektor oddziału zamiejscowego – Biura Instytutu w Brukseli (Królestwo Belgii), dyrektor oddziału zamiejscowego – Biura Instytutu w Berlinie (Republika Federalna Niemiec) oraz pracownicy Instytutu zajmujący samodzielne stanowiska podlegają bezpośrednio Dyrektorowi Instytutu.ˮ; 2) w § 4: a) w ust. 3 w pkt 3 wyrazy „oddziału zamiejscowego, o którym mowa w § 3 ust. 1 pkt 1a” zastępuje się wyrazami „oddziałów zamiejscowych, o których mowa w § 3 ust. 1 pkt 1a i 1b”,
+    - **b)** ust. 8 otrzymuje brzmienie: „8. W posiedzeniu Rady może wziąć udział, na zaproszenie przewodniczącego Rady, zastępca Dyrektora Instytutu, główny księgowy, kierownik komórki organizacyjnej, dyrektorzy oddziałów zamiejscowych, o których mowa w § 3 ust. 1 pkt 1a i 1b, oraz inne osoby, których wiedza i doświadczenie mogą być wykorzystane w realizacji zadań Rady.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

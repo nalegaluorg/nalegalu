@@ -28,10 +28,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa Na podstawie art. 7 ust. 2 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U.
 z 2025 r. poz. 1363 i 1795) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2026 r. poz. 458) w załączniku do rozporządzenia w § 3 w ust. 1:
-1) uchyla się pkt 13;
-2) pkt 21 otrzymuje brzmienie: „21) Departament Rejestracji Zwierząt;”;
-3) po pkt 23 dodaje się pkt 23a w brzmieniu: „23a) Departament Wsparcia Społecznego i Ewidencji Podmiotów;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 15 czerwca 2009 r. w sprawie nadania statutu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 2026 r. poz. 458) w załączniku do rozporządzenia w § 3 w ust. 1:
+
+- **1)** uchyla się pkt 13;
+- **2)** pkt 21 otrzymuje brzmienie: „21) Departament Rejestracji Zwierząt;”;
+- **3)** po pkt 23 dodaje się pkt 23a w brzmieniu: „23a) Departament Wsparcia Społecznego i Ewidencji Podmiotów;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: S. Krajewski
 

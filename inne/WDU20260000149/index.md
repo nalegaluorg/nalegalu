@@ -29,11 +29,10 @@ source: pdf
 1) ustawą z dnia 20 lutego 2025 r. o zmianie ustawy o podatku akcyzowym, ustawy o zdrowiu publicznym oraz niektórych innych ustaw (Dz. U. poz. 340),
 2) ustawą z dnia 17 października 2025 r. o zmianie ustawy o zdrowiu publicznym (Dz. U. poz. 1698) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 lutego 2026 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 8 i art. 9 ustawy z dnia 20 lutego 2025 r. o zmianie ustawy o podatku akcyzowym, ustawy o zdrowiu publicznym oraz niektórych innych ustaw (Dz. U. poz. 340), które stanowią: „Art. 8. Do postępowań w sprawie ustalenia dodatkowej opłaty od środków spożywczych, wszczętych i niezakończonych przed dniem wejścia w życie art. 2, stosuje się przepisy ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, jednakże stosuje się przepisy ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, jeżeli są one względniejsze dla podmiotu obowiązanego do zapłaty opłaty od środków spożywczych.
-
-**Art. 9.** Ustawa wchodzi w życie z dniem 1 kwietnia 2025 r., z wyjątkiem art. 2–4 i art. 8, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”;
-
-- **2)** art. 2 ustawy z dnia 17 października 2025 r. o zmianie ustawy o zdrowiu publicznym (Dz. U. poz. 1698), który stanowi: „Art. 2. Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 11 września 2015 r. o zdrowiu publicznym
+1) art. 8 i art. 9 ustawy z dnia 20 lutego 2025 r. o zmianie ustawy o podatku akcyzowym, ustawy o zdrowiu publicznym oraz niektórych innych ustaw (Dz. U. poz. 340), które stanowią: „ Art. 8. Do postępowań w sprawie ustalenia dodatkowej opłaty od środków spożywczych, wszczętych i niezakończonych przed dniem wejścia w życie art. 2, stosuje się przepisy ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, jednakże stosuje się przepisy ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, jeżeli są one względniejsze dla podmiotu obowiązanego do zapłaty opłaty od środków spożywczych. Art. 9. Ustawa wchodzi w życie z dniem 1 kwietnia 2025 r., z wyjątkiem art. 2–4 i art. 8, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”;
+2) art. 2 ustawy z dnia 17 października 2025 r. o zmianie ustawy o zdrowiu publicznym (Dz. U. poz. 1698), który stanowi: „ Art. 2. Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”. Marszałek Sejmu: W. Czarzasty
+USTAWA z dnia 11 września 2015 r.
+o zdrowiu publicznym
 
 #### Rozdział 1 Przepisy ogólne
 

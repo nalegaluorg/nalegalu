@@ -11,7 +11,9 @@ domain: null
 source: pdf
 ---
 
-# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia 2026 r. w sprawie ogłoszenia jednolitego tekstu ustawy - Prawo farmaceutyczne
+# Prawo farmaceutyczne
+
+*USTAWA z dnia 6 września 2001 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -22,27 +24,8 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2026-04-17 |
 | Data wydania | 2026-05-07 |
-| Ostatnia zmiana | 2026-06-16 |
+| Ostatnia zmiana | 2026-07-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000612) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/612/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750), z uwzględnieniem stanu prawnego na dzień 8 kwietnia 2026 r. oraz zmian wprowadzonych:
-1) ustawą z dnia 4 czerwca 2025 r. o zmianie ustawy – Prawo farmaceutyczne (Dz. U. poz. 905);
-2) ustawą z dnia 24 czerwca 2025 r. o zmianie ustawy – Prawo farmaceutyczne (Dz. U. poz. 924);
-3) ustawą z dnia 12 września 2025 r. o zmianie ustawy – Prawo farmaceutyczne (Dz. U. poz. 1416);
-4) ustawą z dnia 26 września 2025 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1537);
-5) ustawą z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 2 ustawy z dnia 4 czerwca 2025 r. o zmianie ustawy – Prawo farmaceutyczne (Dz. U. poz. 905), który stanowi: „Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-2) art. 2 ustawy z dnia 24 czerwca 2025 r. o zmianie ustawy – Prawo farmaceutyczne (Dz. U. poz. 924), który stanowi: „Art. 2. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-3) art. 2 i art. 3 ustawy z dnia 12 września 2025 r. o zmianie ustawy – Prawo farmaceutyczne (Dz. U. poz. 1416), które stanowią: „Art. 2. Osoby pełniące obowiązki Osoby Kompetentnej lub Osoby Wykwalifikowanej w dniu wejścia w życie niniejszej ustawy, spełniające odpowiednio wymagania, o których mowa w art. 38a ust. 13 pkt 1 lub art. 48 ust. 1 pkt 1 i 2 oraz ust. 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, mogą nadal, po tym dniu, pełnić obowiązki odpowiednio Osoby Kompetentnej lub Osoby Wykwalifikowanej.
-
-**Art. 3.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia.”;
-
-- **4)** art. 7 i art. 8 ustawy z dnia 26 września 2025 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw (Dz. U. poz. 1537), które stanowią: „Art. 7. Recepty wystawione przed dniem wejścia w życie niniejszej ustawy realizuje się zgodnie z przepisami dotychczasowymi.
-
-**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2026 r., z wyjątkiem art. 1 pkt 2 lit. c, pkt 3 i pkt 4 w zakresie art. 23f, które wchodzą w życie z dniem 1 lipca 2026 r.”;
-
-- **5)** art. 147 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795), który stanowi: „Art. 147. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 126 pkt 11, który wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 6 września 2001 r. Prawo farmaceutyczne
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -84,7 +67,7 @@ source: pdf
 - **5)** (uchylony)
 - **6)** Dobrą Praktyką Kliniczną – jest dobra praktyka kliniczna w rozumieniu art. 2 ust. 2 pkt 30 rozporządzenia 536/2014;
 - **6a)** Dobrą Praktyką Kliniczną Weterynaryjną – jest zespół uznawanych przez społeczność międzynarodową wymagań dotyczących etyki i jakości badań klinicznych weterynaryjnych, mających na celu zapewnienie dobrostanu zwierząt i bezpieczeństwa personelu, biorących udział w badaniu klinicznym weterynaryjnym oraz ochrony środowiska i zdrowia konsumenta żywności pochodzenia zwierzęcego;
-- **7)** Dobrą Praktyką Wytwarzania – jest praktyka, która gwarantuje, że produkt leczniczy oraz substancja czynna są wytwarzane i kontrolowane odpowiednio do ich zamierzonego zastosowania oraz zgodnie z wymaganiami zawartymi w ich specyfikacjach i dokumentach stanowiących podstawę wydania pozwolenia na dopuszczenie do obrotu produktu leczniczego; 7 ) Dobrą Praktyką Wytwarzania substancji pomocniczych – jest praktyka, która gwarantuje, że substancje pomocnicze są wytwarzane i kontrolowane odpowiednio do ich zamierzonego zastosowania; 7 ) dystrybucją substancji czynnej – jest każde działanie obejmujące nabywanie, przechowywanie, dostarczanie lub eksport substancji czynnej prowadzone przez wytwórców, importerów lub dystrybutorów substancji czynnej, prowadzących działalność na terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym; 7 ) dyżurem w dzień wolny od pracy – jest dyżur pełniony przez aptekę ogólnodostępną w dniach, o których mowa w art. 1 lub art. 1a ust. 1 ustawy z dnia 18 stycznia 1951 r. o dniach wolnych od pracy (Dz. U. z 2025 r. poz. 296), bez przerwy przez kolejne 4 godziny zegarowe w przedziale czasowym między godzinami 10.00 a 18.00; 7 ) dyżurem w porze nocnej – jest dyżur pełniony przez aptekę ogólnodostępną bez przerwy przez kolejne 2 godziny zegarowe w przedziale czasowym między godzinami 19.00 a 23.00;
+- **7)** Dobrą Praktyką Wytwarzania – jest praktyka, która gwarantuje, że produkt leczniczy oraz substancja czynna są wytwarzane i kontrolowane odpowiednio do ich zamierzonego zastosowania oraz zgodnie z wymaganiami zawartymi w ich specyfikacjach i dokumentach stanowiących podstawę wydania pozwolenia na dopuszczenie do obrotu produktu leczniczego; 7 Dobrą Praktyką Wytwarzania substancji pomocniczych – jest praktyka, która gwarantuje, że substancje pomocnicze są wytwarzane i kontrolowane odpowiednio do ich zamierzonego zastosowania; 7 dystrybucją substancji czynnej – jest każde działanie obejmujące nabywanie, przechowywanie, dostarczanie lub eksport substancji czynnej prowadzone przez wytwórców, importerów lub dystrybutorów substancji czynnej, prowadzących działalność na terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym; 7 ) dyżurem w dzień wolny od pracy – jest dyżur pełniony przez aptekę ogólnodostępną w dniach, o których mowa w art. 1 lub art. 1a ust. 1 ustawy z dnia 18 stycznia 1951 r. o dniach wolnych od pracy (Dz. U. z 2025 r. poz. 296), bez przerwy przez kolejne 4 godziny zegarowe w przedziale czasowym między godzinami 10.00 a 18.00; 7 ) dyżurem w porze nocnej – jest dyżur pełniony przez aptekę ogólnodostępną bez przerwy przez kolejne 2 godziny zegarowe w przedziale czasowym między godzinami 19.00 a 23.00;
 - **7a)** importem produktu leczniczego – jest każde działanie polegające na sprowadzaniu produktu leczniczego spoza terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w tym ich magazynowanie, kontrola jakości przy zwalnianiu serii i dystrybucja;
 - **7b)** importem równoległym – jest każde działanie w rozumieniu art. 72 ust. 4 polegające na przywozie z państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym produktu leczniczego zawierającego tę samą substancję czynną lub to samo połączenie substancji czynnych, co najmniej te same wskazania do 3 poziomu kodu ATC/ATCvet (kod międzynarodowej klasyfikacji anatomiczno-terapeutyczno-chemicznej produktów leczniczych/kod międzynarodowej klasyfikacji anatomiczno-terapeutyczno-chemicznej produktów leczniczych weterynaryjnych), tę samą moc, tę samą drogę podania oraz tę samą postać jak produkt leczniczy dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej lub postać zbliżoną, która nie powoduje powstania różnic terapeutycznych w stosunku do produktu leczniczego dopuszczonego do obrotu na terytorium Rzeczypospolitej Polskiej; 7ba) importem substancji czynnej – jest każde działanie polegające na sprowadzaniu substancji czynnej spoza terytorium państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w tym magazynowanie i dystrybucja;
 - **7c)** inspekcją – są czynności związane ze sprawowanym nadzorem nad warunkami wytwarzania i importu produktów leczniczych, substancji czynnych i pomocniczych oraz nad obrotem hurtowym i pośrednictwem w obrocie produktami leczniczymi;
@@ -138,8 +121,8 @@ source: pdf
 
 - **31)** produktem krwiopochodnym – jest produkt leczniczy wytwarzany przemysłowo z krwi lub jej składników, a w szczególności albuminy, czynniki krzepnięcia, immunoglobuliny;
 - **32)** produktem leczniczym – jest substancja lub mieszanina substancji, przedstawiana jako posiadająca właściwości zapobiegania lub leczenia chorób występujących u ludzi lub zwierząt lub podawana w celu postawienia diagnozy lub w celu przywrócenia, poprawienia lub modyfikacji fizjologicznych funkcji organizmu poprzez działanie farmakologiczne, immunologiczne lub metaboliczne;
-- **33)** (uchylony) 33a) produktem leczniczym roślinnym – jest produkt leczniczy zawierający jako składniki czynne jedną lub więcej substancji roślinnych albo jeden lub więcej przetworów roślinnych albo jedną lub więcej substancji roślinnych w połączeniu z jednym lub więcej przetworem roślinnym, przy czym:
-    - **a)** substancją roślinną – są wszystkie, głównie całe, podzielone na części lub pocięte rośliny, części roślin, glony, grzyby, porosty nieprzetworzone, zazwyczaj ususzone lub świeże; niektóre wydzieliny, które nie zostały poddane określonemu procesowi, mogą być uznane za substancje roślinne; substancje roślinne są szczegółowo definiowane przez użytą część rośliny i nazwę botaniczną,
+- **33)** (uchylony) 33a) produktem leczniczym roślinnym – jest produkt leczniczy zawierający jako składniki czynne jedną lub więcej substancji roślinnych albo jeden lub więcej przetworów roślinnych albo jedną lub więcej substancji roślinnych w połączeniu z jednym lub więcej przetworem roślinnym, przy czym: substancje roślinne są szczegółowo definiowane przez użytą część rośliny i nazwę botaniczną,
+    - **a)** substancją roślinną – są wszystkie, głównie całe, podzielone na części lub pocięte rośliny, części roślin, glony, grzyby, porosty nieprzetworzone, zazwyczaj ususzone lub świeże; niektóre wydzieliny, które nie zostały poddane określonemu procesowi, mogą być uznane za substancje roślinne;
     - **b)** przetworem roślinnym – jest przetwór otrzymany przez poddanie substancji roślinnych procesom takim, jak: ekstrakcja, destylacja, wyciskanie, frakcjonowanie, oczyszczanie, zagęszczanie i fermentacja; przetworami są w szczególności rozdrobnione lub sproszkowane substancje roślinne, nalewki, wyciągi, olejki i wyciśnięte soki;
 
 - **33b)** produktem leczniczym terapii zaawansowanej – wyjątkiem szpitalnym – jest produkt leczniczy terapii zaawansowanej w rozumieniu art. 2 ust. 1 lit. a rozporządzenia (WE) nr 1394/2007 Parlamentu Europejskiego i Rady z dnia 13 listopada 2007 r. w sprawie produktów leczniczych terapii zaawansowanej i zmieniającego dyrektywę 2001/83/WE oraz rozporządzenie (WE) nr 726/2004 (Dz. Urz. UE L 324 z 10.12.2007, str. 121, z późn. zm. ), zwanego dalej „rozporządzeniem 1394/2007”, który jest przygotowywany na terytorium Rzeczypospolitej Polskiej w sposób niesystematyczny zgodnie ze standardami jakości i zastosowany w ramach świadczeń szpitalnych w rozumieniu art. 2 ust. 1 pkt 11 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2026 r. poz. 156) na terytorium Rzeczypospolitej Polskiej na wyłączną odpowiedzialność lekarza w celu wykonania indywidualnie przepisanego produktu leczniczego dla danego pacjenta;
@@ -696,8 +679,8 @@ source: pdf
     - **b)** nieklinicznych: farmakologicznych i toksykologicznych,
     - **c)** klinicznych – wraz z ogólnym podsumowaniem jakości, przeglądem nieklinicznym i streszczeniem danych nieklinicznych oraz przeglądem klinicznym i podsumowaniem klinicznym;
 
-- **5)** streszczenie opisu systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych wykorzystywanego przez podmiot odpowiedzialny, obejmujące:
-    - **a)** oświadczenie podmiotu odpowiedzialnego złożone pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, przewidzianej w art. 233 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872), że podmiot odpowiedzialny dysponuje usługami osoby wykwalifikowanej odpowiedzialnej za nadzór nad bezpieczeństwem stosowania produktów leczniczych, opatrzone klauzulą o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań,
+- **5)** streszczenie opisu systemu nadzoru nad bezpieczeństwem stosowania produktów leczniczych wykorzystywanego przez podmiot odpowiedzialny, obejmujące: z 2025 r. poz. 383, 1818 i 1872), że podmiot odpowiedzialny dysponuje usługami osoby wykwalifikowanej odpowiedzialnej za nadzór nad bezpieczeństwem stosowania produktów leczniczych, opatrzone klauzulą o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań,
+    - **a)** oświadczenie podmiotu odpowiedzialnego złożone pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań, przewidzianej w art. 233 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U.
     - **b)** listę państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, w których osoba, o której mowa w lit. a, posiada miejsce zamieszkania i wykonuje swoje obowiązki,
     - **c)** oświadczenie podmiotu odpowiedzialnego stwierdzające, że dysponuje on niezbędnymi środkami służącymi wypełnieniu obowiązków wymienionych w rozdziale 2 ,
     - **d)** dane kontaktowe osoby, o której mowa w lit. a,
@@ -1216,7 +1199,7 @@ source: pdf
 
 4. Do pozwoleń na import równoległy wydanych dla produktów leczniczych innych niż określone w ust. 4a oraz do cofnięcia tych pozwoleń stosuje się odpowiednio przepisy art. 23 ust. 1 pkt 1–14, ust. 1a i 2, art. 29 ust. 3, art. 33 ust. 1 pkt 1–3 i 6 oraz ust. 2 i 5, art. 35a oraz art. 36g ust. 1 pkt 1–4, 6 i 10 oraz ust. 2.
 
-4a. Do pozwoleń na import równoległy produktów leczniczych weterynaryjnych oraz do cofnięcia tych pozwoleń stosuje się odpowiednio przepisy art. 23 ust. 1 pkt 1–14, ust. 1a i 2, art. 24 ust. 1 pkt 1 i 2, pkt 4 lit. a i ust. 3 pkt 1, art. 29 ust. 3, art. 33 ust. 1 pkt 1–4 i 8 oraz ust. 2 i 5 i art. 35a.
+4a. Do pozwoleń na import równoległy produktów leczniczych weterynaryjnych oraz do cofnięcia tych pozwoleń stosuje się odpowiednio przepisy art. 23 ust. 1 pkt 1– 14, ust. 1a i 2, art. 24 ust. 1 pkt 1 i 2, pkt 4 lit. a i ust. 3 pkt 1, art. 29 ust. 3, art. 33 ust. 1 pkt 1–4 i 8 oraz ust. 2 i 5 i art. 35a.
 
 5. W przypadku gdy Prezes Urzędu nie jest w stanie, na podstawie posiadanej dokumentacji, rozstrzygnąć, czy różnice pomiędzy produktem leczniczym z importu równoległego a produktem leczniczym posiadającym pozwolenie na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej mogłyby być uznane za istotne z punktu widzenia bezpieczeństwa lub skuteczności tego produktu, występuje do odpowiednich władz państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, z którego produkt leczniczy jest sprowadzany, o dodatkową dokumentację, inną niż określoną w ust. 7 i 8.
 
@@ -1349,7 +1332,7 @@ source: pdf
 
 7. Po złożeniu wniosku, o którym mowa w ust. 6, Prezes Urzędu zmienia pozwolenie na dopuszczenie do obrotu w zakresie określonym w decyzji, o której mowa w ust. 5.
 
-**Art. 23e.** Prezes Urzędu przekazuje Europejskiej Agencji Leków informacje o decyzjach wydanych w ramach postępowania prowadzonego na podstawie art. 23b–23d.
+**Art. 23e.** Prezes Urzędu przekazuje Europejskiej Agencji Leków informacje o decyzjach wydanych w ramach postępowania prowadzonego na podstawie art. 23b– 23d.
 
 **Art. 23f.**
 
@@ -1497,9 +1480,9 @@ source: pdf
 
 2a. Wniosek:
 
-- **1)** dla produktu leczniczego, o którym mowa w ust. 2 pkt 1, zawiera:
+- **1)** dla produktu leczniczego, o którym mowa w ust. 2 pkt 1, zawiera: w sprawie działań związanych z nadzorem nad bezpieczeństwem farmakoterapii, o których mowa w rozporządzeniu (WE) nr 726/2004 Parlamentu Europejskiego i Rady i w dyrektywie 2001/83/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 159 z 20.06.2012, str. 5), wraz z ich oceną;
     - **a)** ujednoliconą dokumentację dotyczącą jakości, bezpieczeństwa i skuteczności, w tym danych zawartych w zgłoszeniach o działaniach niepożądanych oraz raportach okresowych o bezpieczeństwie stosowania produktu leczniczego, jeżeli ma zastosowanie, a także informację o wszystkich zmianach wprowadzonych w okresie ważności tego pozwolenia,
-    - **b)** dane dotyczące monitorowania bezpieczeństwa stosowania zebrane przez podmiot odpowiedzialny w sposób określony w rozporządzeniu wykonawczym Komisji (UE) nr 520/2012 z dnia 19 czerwca 2012 r. w sprawie działań związanych z nadzorem nad bezpieczeństwem farmakoterapii, o których mowa w rozporządzeniu (WE) nr 726/2004 Parlamentu Europejskiego i Rady i w dyrektywie 2001/83/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 159 z 20.06.2012, str. 5), wraz z ich oceną;
+    - **b)** dane dotyczące monitorowania bezpieczeństwa stosowania zebrane przez podmiot odpowiedzialny w sposób określony w rozporządzeniu wykonawczym Komisji (UE) nr 520/2012 z dnia 19 czerwca 2012 r.
 
 - **2)** dla produktu leczniczego weterynaryjnego, o którym mowa w ust. 2 pkt 2, zawiera:
     - **a)** ujednoliconą dokumentację dotyczącą jakości, bezpieczeństwa i skuteczności w odniesieniu do wszystkich zmian wprowadzonych w okresie ważności tego pozwolenia,
@@ -1746,7 +1729,7 @@ source: pdf
 - **6)** prowadzenia regularnego audytu systemu, o którym mowa w pkt 2;
 - **7)** przedłożenia, w wyznaczonym przez Prezesa Urzędu terminie, dokumentów potwierdzających, że stosunek korzyści do ryzyka użycia danego produktu leczniczego objętego pozwoleniem jest korzystny;
 - **8)** przedstawiania opracowań dotyczących stosunku korzyści do ryzyka użycia produktu leczniczego;
-- **9)** uwzględnienia we wdrażanym i stosowanym przez siebie systemie zarządzania ryzykiem użycia produktu leczniczego warunków, o których mowa w art. 23b–23d;
+- **9)** uwzględnienia we wdrażanym i stosowanym przez siebie systemie zarządzania ryzykiem użycia produktu leczniczego warunków, o których mowa w art. 23b– 23d;
 - **10)** zawiadamiania Prezesa Urzędu o konieczności dokonania niezwłocznych zmian w Charakterystyce Produktu Leczniczego;
 - **11)** niezwłocznego przekazywania Prezesowi Urzędu wszelkich nieznanych dotychczas informacji mogących powodować konieczność zmiany dokumentacji objętej wnioskiem o dopuszczenie do obrotu produktu leczniczego, o której mowa w art. 10, art. 11, art. 15 i art. 16, lub w załączniku nr I do dyrektywy 2001/83/WE, w tym o każdym zakazie lub ograniczeniu nałożonym przez właściwe władze jakiegokolwiek państwa, w którym produkt leczniczy jest wprowadzany do obrotu, oraz o każdej innej nowej informacji, która może mieć wpływ na ocenę stosunku korzyści do ryzyka użycia danego produktu leczniczego; informacje te obejmują zarówno pozytywne, jak i negatywne wyniki badań klinicznych lub innych badań w odniesieniu do wszystkich wskazań i populacji, niezależnie od tego, czy zostały one uwzględnione w pozwoleniu, jak również dane dotyczące przypadków stosowania produktu leczniczego poza warunkami określonymi w pozwoleniu;
 - **12)** monitorowania bezpieczeństwa stosowania produktów leczniczych w odniesieniu do:
@@ -1974,7 +1957,7 @@ source: pdf
 
 3. Podmiot odpowiedzialny jest obowiązany do przedstawienia innych informacji dotyczących dostępności produktu leczniczego związanych z informacjami określonymi w ust. 2 na żądanie ministra właściwego do spraw zdrowia lub organów Państwowej Inspekcji Farmaceutycznej, w terminie 2 dni roboczych od momentu otrzymania żądania, w zakresie w nim określonym.
 
-4. Podmioty uprawnione do obrotu detalicznego produktami leczniczymi, przedsiębiorcy zajmujący się obrotem hurtowym produktami leczniczymi i podmioty prowadzące jednostki, o których mowa w art. 36g ust. 1 pkt 18 lit. b, składają zamówienie na zapotrzebowanie, o którym mowa w ust. 1, w odniesieniu do produktów leczniczych o kategorii dostępności, o której mowa w art. 23a ust. 1 pkt 2–5, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych objętych wykazem określonym w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, w formie pisemnej albo w formie dokumentu elektronicznego doręczanego środkami komunikacji elektronicznej.
+4. Podmioty uprawnione do obrotu detalicznego produktami leczniczymi, przedsiębiorcy zajmujący się obrotem hurtowym produktami leczniczymi i podmioty prowadzące jednostki, o których mowa w art. 36g ust. 1 pkt 18 lit. b, składają zamówienie na zapotrzebowanie, o którym mowa w ust. 1, w odniesieniu do produktów leczniczych o kategorii dostępności, o której mowa w art. 23a ust. 1 pkt 2– 5, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych objętych wykazem określonym w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, w formie pisemnej albo w formie dokumentu elektronicznego doręczanego środkami komunikacji elektronicznej.
 
 5. Odmowa realizacji zamówienia, o którym mowa w ust. 4, następuje niezwłocznie, w formie pisemnej lub w formie dokumentu elektronicznego doręczanego środkami komunikacji elektronicznej.
 
@@ -2075,7 +2058,9 @@ source: pdf
 - **4)** wysokość opłat, o których mowa w art. 37ah ust. 3, oraz sposób ich uiszczania, uwzględniając nakład pracy związany z daną czynnością;
 - **5)** szczegółowe wymagania Dobrej Praktyki Klinicznej Weterynaryjnej, w tym w szczególności sposób planowania, prowadzenia, monitorowania, dokumentowania i raportowania badań klinicznych weterynaryjnych oraz wymagania dla podmiotów uczestniczących lub ubiegających się o przeprowadzenie badań klinicznych weterynaryjnych, mając na względzie konieczność zapewnienia właściwego przeprowadzania badań klinicznych weterynaryjnych oraz ochronę zdrowia zwierząt.
 
-**Art. 37ak.** W zakresie spraw nieuregulowanych w ustawie do przeprowadzania badań klinicznych weterynaryjnych stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580 oraz z 2025 r. poz. 1696 i 1795).
+**Art. 37ak.** W zakresie spraw nieuregulowanych w ustawie do przeprowadzania badań klinicznych weterynaryjnych stosuje się przepisy ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580 oraz z 2025 r. poz. 1696 i
+
+- **1795)** .
 
 **Art. 37al.** (uchylony)
 
@@ -2308,7 +2293,9 @@ source: pdf
 
 4. Koszty zniszczenia w wysokości odpowiadającej rzeczywistym wydatkom poniesionym na to zniszczenie ustala, w drodze postanowienia, naczelnik urzędu skarbowego. Przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) stosuje się odpowiednio.
 
-5. Do spraw o przepadek towaru przepisy art. 610 –610 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i 473) stosuje się odpowiednio.
+5. Do spraw o przepadek towaru przepisy art. 610 –610 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i
+
+- **473)** stosuje się odpowiednio.
 
 **Art. 37aze.**
 
@@ -2326,7 +2313,9 @@ source: pdf
 
 7. Środki pieniężne uzyskane ze sprzedaży, o której mowa w ust. 6, wpłaca się na rachunek depozytowy naczelnika urzędu skarbowego.
 
-**Art. 37azf.** Do zniszczenia produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych stosuje się odpowiednio przepisy wydane na podstawie art. 179a § 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2025 r. poz. 633 oraz z 2026 r. poz. 347 i 421).
+**Art. 37azf.** Do zniszczenia produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych stosuje się odpowiednio przepisy wydane na podstawie art. 179a § 2 ustawy z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2025 r. poz. 633 oraz z 2026 r. poz. 347 i
+
+- **421)** .
 
 **Art. 37azg.**
 
@@ -2416,7 +2405,7 @@ source: pdf
 
 10. Opłaty, o której mowa w ust. 9, nie wnoszą podmioty posiadające pozwolenie na wykonywanie czynności, o których mowa w art. 25 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów, podejmujące wytwarzanie produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego.
 
-11. Zgoda, o której mowa w ust. 1, zawiera dane, wymienione w ust. 3 pkt 1 i 4–7, oraz:
+11. Zgoda, o której mowa w ust. 1, zawiera dane, wymienione w ust. 3 pkt 1 i 4– 7, oraz:
 
 - **1)** szczegółowy zakres wytwarzania produktu leczniczego terapii zaawansowanej – wyjątku szpitalnego;
 - **2)** numer zgody i datę jej wydania.
@@ -3629,7 +3618,7 @@ source: pdf
 - **4)** określenie zakresu prowadzenia działalności hurtowej, w tym rodzajów produktów leczniczych albo produktów leczniczych weterynaryjnych mających stanowić przedmiot obrotu w przypadku ograniczenia asortymentu;
 - **5)** datę podjęcia zamierzonej działalności;
 - **6)** datę sporządzenia wniosku i podpis osoby składającej wniosek;
-- **7)** imię i nazwisko osoby odpowiedzialnej za prowadzenie hurtowni oraz numer prawa wykonywania zawodu w przypadku osób będących farmaceutami albo numer PESEL w przypadku pozostałych osób, a w przypadku osób, którym nie nadano numeru PESEL, identyfikator nadawany zgodnie z przepisami wydanymi na podstawie art. 18 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+- **7)** imię i nazwisko Osoby Odpowiedzialnej oraz identyfikator pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, numer PESEL w przypadku osoby niebędącej pracownikiem medycznym w rozumieniu art. 2 pkt 11 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, a w przypadku jego braku – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, z późn. zm.), zwanym dalej „rozporządzeniem wykonawczym Komisji (UE) 2015/1501”.
 
 1a. Wniosek o udzielenie zezwolenia na prowadzenie hurtowni farmaceutycznej składa się w postaci papierowej albo elektronicznej.
 
@@ -3771,11 +3760,11 @@ source: pdf
 
 - **4)** przestrzeganie Dobrej Praktyki Dystrybucyjnej;
 - **5)** zapewnienie stałych dostaw odpowiedniego asortymentu;
-- **6)** (uchylony) 6a) przekazywanie do Zintegrowanego Systemu Monitorowania Obrotu Produktami Leczniczymi informacji o przeprowadzonych transakcjach, stanach magazynowych i przesunięciach magazynowych do innych hurtowni farmaceutycznych:
+- **6)** (uchylony) 6a) przekazywanie do Zintegrowanego Systemu Monitorowania Obrotu Produktami Leczniczymi informacji o przeprowadzonych transakcjach, stanach magazynowych i przesunięciach magazynowych do innych hurtowni farmaceutycznych: o bezpieczeństwie żywności i żywienia – w zakresie danych określonych w art. 72a ust. 2;
     - **a)** produktów leczniczych,
     - **b)** produktów leczniczych sprowadzonych w trybie art. 4,
     - **c)** środków spożywczych specjalnego przeznaczenia żywieniowego lub wyrobów medycznych, dla których wydana została decyzja o objęciu refundacją i ustaleniu urzędowej ceny zbytu,
-    - **d)** środków spożywczych specjalnego przeznaczenia żywieniowego sprowadzonych w trybie art. 29a ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia – w zakresie danych określonych w art. 72a ust. 2;
+    - **d)** środków spożywczych specjalnego przeznaczenia żywieniowego sprowadzonych w trybie art. 29a ustawy z dnia 25 sierpnia 2006 r.
 
 - **6b)** przekazywanie ministrowi właściwemu do spraw rolnictwa kwartalnych raportów dotyczących wielkości obrotu produktami leczniczymi weterynaryjnymi wraz ze strukturą tego obrotu;
 - **6c)** zgłaszanie do Głównego Inspektora Farmaceutycznego zamiaru, o którym mowa w art. 37av;
@@ -3881,7 +3870,7 @@ source: pdf
 
 - **1)** dane wymienione w art. 76 ust. 1 pkt 1–6 i 8;
 - **2)** unikalny identyfikator hurtowni farmaceutycznej;
-- **3)** imię i nazwisko osoby odpowiedzialnej za prowadzenie hurtowni oraz numer prawa wykonywania zawodu, a w przypadku jego braku – numer PESEL; w przypadku osób, którym nie nadano numeru PESEL – identyfikator nadawany zgodnie z przepisami wydanymi na podstawie art. 18 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+- **3)** imię i nazwisko Osoby Odpowiedzialnej oraz identyfikator pracownika medycznego, o którym mowa w art. 17c ust. 5 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, numer PESEL w przypadku osoby niebędącej pracownikiem medycznym w rozumieniu art. 2 pkt 11 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, a w przypadku jego braku – serię i numer paszportu albo innego dokumentu stwierdzającego tożsamość albo niepowtarzalny identyfikator nadany przez państwo członkowskie Unii Europejskiej dla celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501.
 
 3. Wydanie zezwolenia, jego zmiana, cofnięcie lub wygaśnięcie wymaga wprowadzenia zmian w rejestrze, o którym mowa w ust. 1 albo 1a.
 
@@ -4043,9 +4032,9 @@ source: pdf
 
 1. Zapewnia się minimalną normę zatrudnienia w:
 
-- **1)** aptece szpitalnej:
+- **1)** aptece szpitalnej: o działalności leczniczej, zakładu leczniczego zaopatrywanego przez tę aptekę;
     - **a)** równoważnik co najmniej 1 etatu w pełnym wymiarze godzin kierownika tej apteki,
-    - **b)** równoważnik co najmniej 1 etatu w pełnym wymiarze godzin co najmniej jednego farmaceuty na każde 100 łóżek lub stanowisk dializacyjnych zgłoszonych w rejestrze podmiotów wykonujących działalność leczniczą, o którym mowa w art. 106 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, zakładu leczniczego zaopatrywanego przez tę aptekę;
+    - **b)** równoważnik co najmniej 1 etatu w pełnym wymiarze godzin co najmniej jednego farmaceuty na każde 100 łóżek lub stanowisk dializacyjnych zgłoszonych w rejestrze podmiotów wykonujących działalność leczniczą, o którym mowa w art. 106 ust. 1 ustawy z dnia 15 kwietnia 2011 r.
 
 - **2)** dziale farmacji szpitalnej:
     - **a)** równoważnik co najmniej 1 etatu w pełnym wymiarze godzin kierownika tego działu,
@@ -4524,9 +4513,9 @@ source: pdf
 
 1. Recepta zawiera następujące informacje:
 
-- **1)** dane dotyczące pacjenta:
+- **1)** dane dotyczące pacjenta: o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. z 2026 r. poz. 165) – centrum usług społecznych – w przypadku świadczeniobiorcy, wobec którego wydano decyzję, o której mowa w art. 54 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, albo świadczeniodawcy, który udzielił świadczenia opieki zdrowotnej – w przypadku osoby bezdomnej, o której mowa w art. 6 pkt 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, albo – „NMZ”, w przypadku osób o nieustalonym miejscu zamieszkania,
     - **a)** imię albo imiona i nazwisko albo oznaczenie „NN”, w przypadku osób o nieustalonej tożsamości,
-    - **b)** adres (nazwa miejscowości, ulica, numer domu, kod pocztowy, numer lokalu, jeżeli nadano): – miejsca zamieszkania albo – miejsca pełnienia służby wojskowej, jeżeli dotyczy, albo – urzędu gminy, gminnego ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. z 2026 r. poz. 165) – centrum usług społecznych – w przypadku świadczeniobiorcy, wobec którego wydano decyzję, o której mowa w art. 54 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, albo świadczeniodawcy, który udzielił świadczenia opieki zdrowotnej – w przypadku osoby bezdomnej, o której mowa w art. 6 pkt 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, albo – „NMZ”, w przypadku osób o nieustalonym miejscu zamieszkania,
+    - **b)** adres (nazwa miejscowości, ulica, numer domu, kod pocztowy, numer lokalu, jeżeli nadano): – miejsca zamieszkania albo – miejsca pełnienia służby wojskowej, jeżeli dotyczy, albo – urzędu gminy, gminnego ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r.
     - **c)** identyfikator usługobiorcy, o którym mowa w art. 17c ust. 2 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia,
     - **d)** datę urodzenia pacjenta, w przypadku gdy nie można jej ustalić na podstawie innych danych zamieszczonych na recepcie,
     - **e)** kod uprawnień dodatkowych pacjenta, jeżeli dotyczy;
@@ -4636,17 +4625,17 @@ source: pdf
 - **1b)** numer paszportu albo innego dokumentu ze zdjęciem potwierdzającego tożsamość – w przypadku cudzoziemca niebędącego osobą uprawnioną do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, a w przypadku osoby posiadającej Kartę Polaka – jej numer;
 - **2)** (uchylony)
 - **3)** kod uprawnień dodatkowych pacjenta, jeżeli dotyczy;
-- **4)** w przypadku osób nieubezpieczonych posiadających prawo do świadczeń opieki zdrowotnej finansowanych ze środków publicznych na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych odpowiedni identyfikator: o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych,
+- **4)** w przypadku osób nieubezpieczonych posiadających prawo do świadczeń opieki zdrowotnej finansowanych ze środków publicznych na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych odpowiedni identyfikator:
     - **a)** „BW” – dla pacjenta posiadającego uprawnienia określone w art. 2 ust. 1 pkt 2 i art. 54 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych,
-    - **b)** „DN” – dla pacjenta posiadającego uprawnienia określone w art. 2 ust. 1 pkt 3 ustawy z dnia 27 sierpnia 2004 r.
-    - **c)** „CN” – dla pacjenta posiadającego uprawnienia określone w art. 2 ust. 1 pkt 4 ustawy z dnia 27 sierpnia 2004 r.
+    - **b)** „DN” – dla pacjenta posiadającego uprawnienia określone w art. 2 ust. 1 pkt 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych,
+    - **c)** „CN” – dla pacjenta posiadającego uprawnienia określone w art. 2 ust. 1 pkt 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych,
     - **d)** „IN” – dla pacjenta innego niż ubezpieczony, posiadającego uprawnienia do bezpłatnych świadczeń opieki zdrowotnej zgodnie z przepisami wymienionymi w art. 12 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
 
 - **5)** symbol państwa odpowiedniego dla instytucji właściwej dla osoby uprawnionej do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji;
 - **6)** unikalny numer identyfikujący receptę nadawany przez dyrektora oddziału wojewódzkiego Narodowego Funduszu Zdrowia – w przypadku recepty w postaci papierowej;
-- **7)** odpłatność produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, określoną w następujący sposób: o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, w przypadkach innych niż wskazane w tiret pierwsze i drugie;
+- **7)** odpłatność produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego, określoną w następujący sposób:
     - **a)** jeżeli produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego, wyrób medyczny występuje w wykazie, o którym mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, w jednej odpłatności, osoba wystawiająca receptę może nie wpisać tej odpłatności,
-    - **b)** jeżeli produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego, wyrób medyczny występuje w wykazie, o którym mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, w więcej niż jednej odpłatności, osoba wystawiająca receptę: – wpisuje symbol „P” w przypadku przepisywania tego produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego za najniższą odpłatnością wynikającą z wykazu, o którym mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, – może nie wpisać poziomu odpłatności w przypadku przepisywania tego produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego za najwyższą odpłatnością wynikającą z wykazu, o którym mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, – wpisuje odpłatność określoną w wykazie, o którym mowa w art. 37 ust. 1 i 4 ustawy z dnia 12 maja 2011 r.
+    - **b)** jeżeli produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego, wyrób medyczny występuje w wykazie, o którym mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, w więcej niż jednej odpłatności, osoba wystawiająca receptę: – wpisuje symbol „P” w przypadku przepisywania tego produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego, wyrobu medycznego za najniższą odpłatnością wynikającą z wykazu, o którym mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, – może nie wpisać poziomu odpłatności w przypadku przepisywania tego produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego za najwyższą odpłatnością wynikającą z wykazu, o którym mowa w art. 37 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, – wpisuje odpłatność określoną w wykazie, o którym mowa w art. 37 ust. 1 i 4 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, w przypadkach innych niż wskazane w tiret pierwsze i drugie;
 
 - **8)** jeżeli produkt leczniczy, środek spożywczy specjalnego przeznaczenia żywieniowego lub wyrób medyczny jest przepisywany poza zakresem refundacji, osoba wystawiająca receptę wpisuje symbol „X” albo 100 %;
 - **9)** odpłatność, o której mowa w pkt 7, może także być określona w następujący sposób:
@@ -5163,7 +5152,7 @@ source: pdf
 - **12)** wydawanie opinii dotyczącej aptek, w których może być odbywany staż;
 - **13)** kontrolowanie działów farmacji szpitalnej w zakresie świadczenia usług farmaceutycznych;
 - **14)** przygotowywanie rocznych planów kontroli aptek i hurtowni farmaceutycznych oraz udostępnianie ich w ramach współpracy z Europejską Agencją Leków;
-- **15)** nadzór nad przestrzeganiem obowiązków określonych w art. 4–30 oraz art. 35–42 rozporządzenia nr 2016/161;
+- **15)** nadzór nad przestrzeganiem obowiązków określonych w art. 4–30 oraz art. 35– 42 rozporządzenia nr 2016/161;
 - **16)** współpraca z zarządami powiatów w sprawach, o których mowa w art. 94 ust. 11.
 
 **Art. 110.**
@@ -5810,7 +5799,7 @@ source: pdf
 
 2. Wytwórca lub importer produktów leczniczych, który nie realizuje obowiązków, o których mowa w art. 4–7, art. 9–11 i art. 13–19 rozporządzenia nr 2016/161, podlega karze pieniężnej w wysokości do 500 000 zł.
 
-3. Przedsiębiorca prowadzący działalność polegającą na prowadzeniu hurtowni farmaceutycznej, który nie wykonuje obowiązków, o których mowa w art. 78 ust. 1 pkt 3a, lub nie realizuje obowiązków, o których mowa w art. 10–13, art. 20 i art. 22–24 rozporządzenia nr 2016/161, podlega karze pieniężnej w wysokości do 500 000 zł.
+3. Przedsiębiorca prowadzący działalność polegającą na prowadzeniu hurtowni farmaceutycznej, który nie wykonuje obowiązków, o których mowa w art. 78 ust. 1 pkt 3a, lub nie realizuje obowiązków, o których mowa w art. 10–13, art. 20 i art. 22– 24 rozporządzenia nr 2016/161, podlega karze pieniężnej w wysokości do 500 000 zł.
 
 4. Podmiot prowadzący aptekę ogólnodostępną, aptekę szpitalną, punkt apteczny lub dział farmacji szpitalnej, który nie realizuje obowiązków, o których mowa w art. 10–13 i art. 27–30 rozporządzenia nr 2016/161, podlega karze pieniężnej w wysokości do 20 000 zł.
 

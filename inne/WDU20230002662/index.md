@@ -27,10 +27,11 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie sposobu pobierania próbek paliw stałych Na podstawie art. 19b ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U.
 z 2023 r. poz. 846 i 1681) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Energii z dnia 27 września 2018 r. w sprawie sposobu pobierania próbek paliw stałych (Dz. U. poz. 1891) wprowadza się następujące zmiany:
-1) w § 1 po wyrazach „paliw stałych” dodaje się wyrazy „ , o których mowa w art. 2 ust. 1 pkt 4a lit. a i b ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw,”;
-2) w załączniku do rozporządzenia pkt 3.3 otrzymuje brzmienie: „3.3. Ustalając minimalną masę próbki pierwotnej, przyjmuje się jako wielkość największego ziarna w badanej partii paliwa stałego oraz wartość maksymalną wymiaru ziarna określoną dla danego sortymentu paliwa stałego zgodnie z poniższą tabelą.
-Rodzaj paliwa stałego* Górny wymiar ziarna mm Kęsy, kostka, kostka I, kostka II 200,00 Orzech, orzech I, orzech II 80,00 Groszek, groszek I, groszek II 40,00 Ekogroszek – nazwa handlowa, groszek plus, groszek premium 31,50 Ekomiał – nazwa handlowa, miał plus 31,50 Antracyt 200,00 Paliwa stałe otrzymywane w procesie przeróbki termicznej węgla kamiennego 200,00 i brunatnego ”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Klimatu i Środowiska: A. Łukaszewska-Trzeciakowska
+
+**§ 1.** W rozporządzeniu Ministra Energii z dnia 27 września 2018 r. w sprawie sposobu pobierania próbek paliw stałych (Dz. U. poz. 1891) wprowadza się następujące zmiany:
+
+- **1)** w § 1 po wyrazach „paliw stałych” dodaje się wyrazy „ , o których mowa w art. 2 ust. 1 pkt 4a lit. a i b ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw,”;
+- **2)** w załączniku do rozporządzenia pkt 3.3 otrzymuje brzmienie: „3.3. Ustalając minimalną masę próbki pierwotnej, przyjmuje się jako wielkość największego ziarna w badanej partii paliwa stałego oraz wartość maksymalną wymiaru ziarna określoną dla danego sortymentu paliwa stałego zgodnie z poniższą tabelą. Rodzaj paliwa stałego* Górny wymiar ziarna mm Kęsy, kostka, kostka I, kostka II 200,00 Orzech, orzech I, orzech II 80,00 Groszek, groszek I, groszek II 40,00 Ekogroszek – nazwa handlowa, groszek plus, groszek premium 31,50 Ekomiał – nazwa handlowa, miał plus 31,50 Antracyt 200,00 Paliwa stałe otrzymywane w procesie przeróbki termicznej węgla kamiennego 200,00 i brunatnego ”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Klimatu i Środowiska: A. Łukaszewska-Trzeciakowska
 

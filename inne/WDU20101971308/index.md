@@ -29,23 +29,7 @@ source: pdf
 
 **Art. 1.** W ustawie z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. Nr 49, poz. 509, z późn. zm. ) wprowadza się następujące zmiany:
 
-- **1)** art. 2 otrzymuje brzmienie: „Art. 2. 1. Ilekroć w ustawie jest mowa o:
-- **1)** sprawach własności przemysłowej – rozumie się przez to:
-    - **a)** uzyskiwanie, zachowywanie, wykonywanie oraz dochodzenie praw odnoszących się do przedmiotów własności przemysłowej, w szczególności wynalazków, wzorów użytkowych, wzorów przemysłowych oraz topografii układów scalonych, a także znaków towarowych, nazw handlowych i oznaczeń geograficznych,
-    - **b)** zwalczanie nieuczciwej konkurencji,
-
-- **2)** państwach członkowskich – rozumie się przez to państwa członkowskie Unii Europejskiej, Konfederację Szwajcarską oraz państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym,
-- **3)** obywatelach państw członkowskich – rozumie się przez to: 1694, z późn. zm. ),
-    - **a)** obywateli państw członkowskich oraz członków ich rodzin w rozumieniu przepisów ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. Nr 144, poz. 1043, z 2007 r. Nr 120, poz. 818, z 2008 r. Nr 216, poz. 1367 oraz z 2010 r. Nr 81, poz. 531),
-    - **b)** obywateli państw trzecich posiadających zezwolenie na pobyt rezydenta długoterminowego Wspólnot Europejskich w rozumieniu przepisów ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz.
-
-- **4)** usługach transgranicznych – rozumie się przez to tymczasowe i okazjonalne wykonywanie czynności z zakresu pomocy w sprawach własności przemysłowej przez osoby, o których mowa w pkt 3, uprawnione do wykonywania tych czynności w państwie członkowskim,
-- **5)** państwie macierzystym – rozumie się przez to państwo członkowskie, w którym osoba wykonująca czynności z zakresu pomocy w sprawach własności przemysłowej uzyskała uprawnienia do wykonywania tych czynności.
-
-2. Ilekroć w ustawie jest mowa o:
-
-- **1)** Urzędzie Patentowym – rozumie się przez to Urząd Patentowy Rzeczypospolitej Polskiej,
-- **2)** samorządzie – rozumie się przez to Polską Izbę Rzeczników Patentowych.”;
+- **1)** art. 2 otrzymuje brzmienie: „Art. 2. 1. Ilekroć w ustawie jest mowa o: 1) sprawach własności przemysłowej – rozumie się przez to: a) uzyskiwanie, zachowywanie, wykonywanie oraz dochodzenie praw odnoszących się do przedmiotów własności przemysłowej, w szczególności wynalazków, wzorów użytkowych, wzorów przemysłowych oraz topografii układów scalonych, a także znaków towarowych, nazw handlowych i oznaczeń geograficznych, b) zwalczanie nieuczciwej konkurencji, 2) państwach członkowskich – rozumie się przez to państwa członkowskie Unii Europejskiej, Konfederację Szwajcarską oraz państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, 3) obywatelach państw członkowskich – rozumie się przez to: a) obywateli państw członkowskich oraz członków ich rodzin w rozumieniu przepisów ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. Nr 144, poz. 1043, z 2007 r. Nr 120, poz. 818, z 2008 r. Nr 216, poz. 1367 oraz z 2010 r. Nr 81, poz. 531), b) obywateli państw trzecich posiadających zezwolenie na pobyt rezydenta długoterminowego Wspólnot Europejskich w rozumieniu przepisów ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z późn. zm. ), 4) usługach transgranicznych – rozumie się przez to tymczasowe i okazjonalne wykonywanie czynności z zakresu pomocy w sprawach własności przemysłowej przez osoby, o których mowa w pkt 3, uprawnione do wykonywania tych czynności w państwie członkowskim, 5) państwie macierzystym – rozumie się przez to państwo członkowskie, w którym osoba wykonująca czynności z zakresu pomocy w sprawach własności przemysłowej uzyskała uprawnienia do wykonywania tych czynności. 2. Ilekroć w ustawie jest mowa o: 1) Urzędzie Patentowym – rozumie się przez to Urząd Patentowy Rzeczypospolitej Polskiej, 2) samorządzie – rozumie się przez to Polską Izbę Rzeczników Patentowych.”;
 - **2)** w art. 3:
     - **a)** ust. 3 otrzymuje brzmienie: „3. Rzecznik patentowy ma obowiązek wykonywać zawód zgodnie z zasadami etyki rzecznika patentowego i z należytą starannością.”,
     - **b)** uchyla się ust. 4;
@@ -56,156 +40,30 @@ source: pdf
 
 - **4)** w art. 7 uchyla się ust. 4;
 - **5)** tytuł rozdziału 2 otrzymuje brzmienie: „Prawa i obowiązki rzecznika patentowego”;
-- **6)** art. 8 otrzymuje brzmienie: „Art. 8. 1. Rzecznik patentowy świadczy pomoc prawną i techniczną.
-
-2. Pomoc prawna polega w szczególności na udzielaniu porad i konsultacji prawnych, sporządzaniu opinii prawnych, badaniu stanu prawnego przedmiotów własności przemysłowej, zastępstwie prawnym i procesowym.
-
-3. Pomoc techniczna polega w szczególności na opracowywaniu opisów technicznych zgłoszeń do ochrony przedmiotów działalności twórczej przeznaczonych do przemysłowego wykorzystywania, badaniu zakresu ich ochrony, prowadzeniu poszukiwań dotyczących stanu techniki.”;
-
+- **6)** art. 8 otrzymuje brzmienie: „Art. 8. 1. Rzecznik patentowy świadczy pomoc prawną i techniczną. 2. Pomoc prawna polega w szczególności na udzielaniu porad i konsultacji prawnych, sporządzaniu opinii prawnych, badaniu stanu prawnego przedmiotów własności przemysłowej, zastępstwie prawnym i procesowym. 3. Pomoc techniczna polega w szczególności na opracowywaniu opisów technicznych zgłoszeń do ochrony przedmiotów działalności twórczej przeznaczonych do przemysłowego wykorzystywania, badaniu zakresu ich ochrony, prowadzeniu poszukiwań dotyczących stanu techniki.”;
 - **7)** w art. 9 ust. 1 otrzymuje brzmienie: „1. Rzecznik patentowy występuje w charakterze pełnomocnika w postępowaniu przed Urzędem Patentowym, sądami i organami orzekającymi w sprawach własności przemysłowej, z wyjątkiem występowania w charakterze pełnomocnika w postępowaniu karnym i postępowaniu karnym skarbowym.”;
-- **8)** art. 14 otrzymuje brzmienie: „Art. 14. 1. Rzecznik patentowy jest obowiązany zachować w tajemnicy wszelkie informacje, które uzyskał w związku z wykonywaniem czynności zawodowych. Rzecznika patentowego nie można zwolnić z obowiązku zachowania tajemnicy zawodowej co do faktów, o których dowiedział się, udzielając pomocy w sprawach własności przemysłowej.
-
-2. Obowiązek zachowania tajemnicy zawodowej nie dotyczy informacji udostępnianych na podstawie przepisów ustawy z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2010 r. Nr 46, poz. 276 i Nr 182, poz. 1228) – w zakresie określonym tymi przepisami.”;
-
-- **9)** po art. 14 dodaje się art. 14a w brzmieniu: „Art. 14a. 1. Rzecznik patentowy ma obowiązek doskonalenia zawodowego.
-
-2. Krajowa Rada Rzeczników Patentowych określa, w drodze uchwały, sposób realizacji obowiązku, o którym mowa w ust. 1, w szczególności częstotliwość, zakres i formy doskonalenia zawodowego.”;
-
+- **8)** art. 14 otrzymuje brzmienie: „Art. 14. 1. Rzecznik patentowy jest obowiązany zachować w tajemnicy wszelkie informacje, które uzyskał w związku z wykonywaniem czynności zawodowych. Rzecznika patentowego nie można zwolnić z obowiązku zachowania tajemnicy zawodowej co do faktów, o których dowiedział się, udzielając pomocy w sprawach własności przemysłowej. 2. Obowiązek zachowania tajemnicy zawodowej nie dotyczy informacji udostępnianych na podstawie przepisów ustawy z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2010 r. Nr 46, poz. 276 i Nr 182, poz. 1228) – w zakresie określonym tymi przepisami.”;
+- **9)** po art. 14 dodaje się art. 14a w brzmieniu: „Art. 14a. 1. Rzecznik patentowy ma obowiązek doskonalenia zawodowego. 2. Krajowa Rada Rzeczników Patentowych określa, w drodze uchwały, sposób realizacji obowiązku, o którym mowa w ust. 1, w szczególności częstotliwość, zakres i formy doskonalenia zawodowego.”;
 - **10)** w art. 15 ust. 2 otrzymuje brzmienie: „2. Rzecznicy patentowi, w stosunku do których, zgodnie z art. 23a ust. 3, została podjęta uchwała o zawieszeniu prawa do wykonywania zawodu opłacają składkę na potrzeby samorządu w wysokości 30 % składki, o której mowa w ust. 1.”;
 - **11)** po art. 15 dodaje się art. 15a w brzmieniu: „Art. 15a. Krajowy Zjazd Rzeczników Patentowych określa, w drodze uchwały, szczegółowe zasady prowadzenia reklamy przez rzeczników patentowych, mając na uwadze specyfikę wykonywania zawodu i konieczność zachowania niezależności oraz tajemnicy zawodowej.”;
 - **12)** w art. 19:
     - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) posiada obywatelstwo państwa członkowskiego,”, – pkt 5 otrzymuje brzmienie: „5) odbył aplikację rzecznikowską na warunkach określonych w ustawie,”, – dodaje się pkt 6 w brzmieniu: „6) złożył z wynikiem pozytywnym egzamin kwalifikacyjny, o którym mowa w art. 31.”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Na listę rzeczników patentowych może być wpisany także obywatel państwa członkowskiego, który:
-
-- **1)** spełnia wymogi określone w ust. 1 pkt 2 i 3,
-- **2)** nabył kwalifikacje do wykonywania zawodu rzecznika patentowego uznane zgodnie z ustawą z dnia 18 marca 2008 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. Nr 63, poz. 394),
-- **3)** posługuje się językiem polskim w stopniu niezbędnym do wykonywania zawodu na terytorium Rzeczypospolitej Polskiej, w szczególności umożliwiającym w ramach wykonywania zawodu występowanie w charakterze pełnomocnika w postępowaniach przed Urzędem Patentowym, a także w postępowaniu sądowym i sądowoadministracyjnym.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. Na listę rzeczników patentowych może być wpisany także obywatel państwa członkowskiego, który: 1) spełnia wymogi określone w ust. 1 pkt 2 i 3, 2) nabył kwalifikacje do wykonywania zawodu rzecznika patentowego uznane zgodnie z ustawą z dnia 18 marca 2008 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. Nr 63, poz. 394), 3) posługuje się językiem polskim w stopniu niezbędnym do wykonywania zawodu na terytorium Rzeczypospolitej Polskiej, w szczególności umożliwiającym w ramach wykonywania zawodu występowanie w charakterze pełnomocnika w postępowaniach przed Urzędem Patentowym, a także w postępowaniu sądowym i sądowoadministracyjnym.”,
     - **c)** uchyla się ust. 3;
 
-- **13)** po art. 19 dodaje się art. 19a – 19d w brzmieniu: „Art. 19a. 1. Osoba, która po raz pierwszy podejmuje świadczenie usług transgranicznych na terytorium Rzeczypospolitej Polskiej, jest obowiązana złożyć Krajowej Radzie Rzeczników Patentowych pisemne oświadczenie o podjęciu świadczenia takich usług. Do oświadczenia osoba ta dołącza:
-- **1)** sporządzony w języku polskim lub przetłumaczony na język polski dokument potwierdzający, że jest uprawniona w państwie macierzystym do wykonywania czynności z zakresu pomocy w sprawach własności przemysłowej,
-- **2)** dokument potwierdzający jej obywatelstwo,
-- **3)** kopię dowodu ubezpieczenia od odpowiedzialności cywilnej, o którym mowa w art. 16.
-
-2. Osoba świadcząca w Rzeczypospolitej Polskiej usługi transgraniczne w przypadku istotnej zmiany sytuacji potwierdzonej dokumentami, o których mowa w ust. 1, jest obowiązana do przedstawienia nowych dokumentów.
-
-**Art. 19b.** Osoba, o której mowa w art. 19a ust. 1, zamierzająca świadczyć usługi transgraniczne na terytorium Rzeczypospolitej Polskiej w kolejnych latach, jest obowiązana poinformować Krajową Radę Rzeczników Patentowych o zamiarze ich świadczenia w każdym kolejnym roku działalności. Do informacji tej osoba ta dołącza kopię dowodu ubezpieczenia od odpowiedzialności cywilnej, o którym mowa w art. 16.
-
-**Art. 19c.** W zakresie nieuregulowanym niniejszą ustawą do świadczenia usług transgranicznych stosuje się odpowiednio przepisy ustawy z dnia 18 marca 2008 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej.
-
-**Art. 19d.** Osoba świadcząca na terytorium Rzeczypospolitej Polskiej usługi transgraniczne, reprezentująca klienta w postępowaniu przed organami administracji lub przed sądami, jest obowiązana wskazać organowi prowadzącemu postępowanie osobę upoważnioną do odbioru pism w Rzeczypospolitej Polskiej. W razie niewskazania takiej osoby, pismo doręcza się reprezentowanej stronie, jeżeli ma ona miejsce zamieszkania lub siedzibę w Rzeczypospolitej Polskiej. W pozostałych przypadkach pismo pozostawia się w aktach sprawy ze skutkiem doręczenia, o czym organ ten poucza przy pierwszym doręczeniu.”;
-
-- **14)** art. 20 otrzymuje brzmienie: „Art. 20. 1. Wniosek o wpis na listę rzeczników patentowych, o którym mowa w art. 18 ust. 4, składa się w terminie sześciu miesięcy od dnia złożenia egzaminu kwalifikacyjnego.
-
-2. Wniosek o wpis na listę rzeczników patentowych, składany przez osoby, o których mowa w art. 19 ust. 2, składa się w terminie sześciu miesięcy od dnia wydania decyzji w sprawie uznania kwalifikacji do wykonywania na terytorium Rzeczypospolitej Polskiej zawodu rzecznika patentowego.
-
-3. Osoby, o których mowa w art. 19 ust. 2, do wniosku o wpis na listę rzeczników patentowych dołączają decyzję o uznaniu kwalifikacji do wykonywania na terytorium Rzeczypospolitej Polskiej zawodu rzecznika patentowego.
-
-4. Prezes Urzędu Patentowego wydaje decyzję o odmowie wpisu na listę rzeczników patentowych w przypadku:
-
-- **1)** złożenia wniosku o wpis po upływie terminów, o których mowa w ust. 1 albo 2,
-- **2)** wystąpienia w stosunku do osoby składającej wniosek o wpis okoliczności, o których mowa w art. 23a ust. 1.
-
-5. Osoba, której zgodnie z ust. 4 pkt 2 wydano decyzję o odmowie wpisu na listę rzeczników patentowych, może ponownie złożyć wniosek o wpis w terminie sześciu miesięcy od dnia ustania okoliczności, o których mowa w art. 23a ust. 1. Przepis ust. 4 pkt 1 stosuje się odpowiednio.”;
-
-- **15)** po art. 23 dodaje się art. 23a w brzmieniu: „Art. 23a. 1. Zawieszenie prawa wykonywania zawodu rzecznika patentowego następuje w przypadku:
-- **1)** zatrudnienia w Urzędzie Patentowym, w sądzie administracyjnym, w Europejskim Urzędzie Patentowym lub w Urzędzie Harmonizacji Rynku Wewnętrznego,
-- **2)** sprawowania urzędu sędziego, wykonywania zawodu notariusza, komornika, zajmowania stanowiska prokuratora, asesora prokuratorskiego lub notarialnego, albo odbywania aplikacji ogólnej, sędziowskiej, prokuratorskiej, notarialnej lub komorniczej, oraz w razie podjęcia pracy w organach wymiaru sprawiedliwości lub w organach ścigania.
-
-2. Rzecznik patentowy jest obowiązany zawiadomić Krajową Radę Rzeczników Patentowych, w terminie miesiąca, o zaistnieniu oraz o ustaniu w stosunku do niego okoliczności, o których mowa w ust. 1.
-
-3. Krajowa Rada Rzeczników Patentowych w terminie trzech miesięcy od dnia otrzymania zawiadomienia, o którym mowa w ust. 2, podejmuje uchwałę odpowiednio o zawieszeniu albo o przywróceniu prawa do wykonywania zawodu rzecznika patentowego.
-
-4. Na uchwałę, o której mowa w ust. 3, zainteresowanemu służy skarga do sądu administracyjnego w terminie 30 dni od dnia doręczenia uchwały.”;
-
+- **13)** po art. 19 dodaje się art. 19a – 19d w brzmieniu: „Art. 19a. 1. Osoba, która po raz pierwszy podejmuje świadczenie usług transgranicznych na terytorium Rzeczypospolitej Polskiej, jest obowiązana złożyć Krajowej Radzie Rzeczników Patentowych pisemne oświadczenie o podjęciu świadczenia takich usług. Do oświadczenia osoba ta dołącza: 1) sporządzony w języku polskim lub przetłumaczony na język polski dokument potwierdzający, że jest uprawniona w państwie macierzystym do wykonywania czynności z zakresu pomocy w sprawach własności przemysłowej, 2) dokument potwierdzający jej obywatelstwo, 3) kopię dowodu ubezpieczenia od odpowiedzialności cywilnej, o którym mowa w art. 16. 2. Osoba świadcząca w Rzeczypospolitej Polskiej usługi transgraniczne w przypadku istotnej zmiany sytuacji potwierdzonej dokumentami, o których mowa w ust. 1, jest obowiązana do przedstawienia nowych dokumentów. Art. 19b. Osoba, o której mowa w art. 19a ust. 1, zamierzająca świadczyć usługi transgraniczne na terytorium Rzeczypospolitej Polskiej w kolejnych latach, jest obowiązana poinformować Krajową Radę Rzeczników Patentowych o zamiarze ich świadczenia w każdym kolejnym roku działalności. Do informacji tej osoba ta dołącza kopię dowodu ubezpieczenia od odpowiedzialności cywilnej, o którym mowa w art. 16. Art. 19c. W zakresie nieuregulowanym niniejszą ustawą do świadczenia usług transgranicznych stosuje się odpowiednio przepisy ustawy z dnia 18 marca 2008 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej. Art. 19d. Osoba świadcząca na terytorium Rzeczypospolitej Polskiej usługi transgraniczne, reprezentująca klienta w postępowaniu przed organami administracji lub przed sądami, jest obowiązana wskazać organowi prowadzącemu postępowanie osobę upoważnioną do odbioru pism w Rzeczypospolitej Polskiej. W razie niewskazania takiej osoby, pismo doręcza się reprezentowanej stronie, jeżeli ma ona miejsce zamieszkania lub siedzibę w Rzeczypospolitej Polskiej. W pozostałych przypadkach pismo pozostawia się w aktach sprawy ze skutkiem doręczenia, o czym organ ten poucza przy pierwszym doręczeniu.”;
+- **14)** art. 20 otrzymuje brzmienie: „Art. 20. 1. Wniosek o wpis na listę rzeczników patentowych, o którym mowa w art. 18 ust. 4, składa się w terminie sześciu miesięcy od dnia złożenia egzaminu kwalifikacyjnego. 2. Wniosek o wpis na listę rzeczników patentowych, składany przez osoby, o których mowa w art. 19 ust. 2, składa się w terminie sześciu miesięcy od dnia wydania decyzji w sprawie uznania kwalifikacji do wykonywania na terytorium Rzeczypospolitej Polskiej zawodu rzecznika patentowego. 3. Osoby, o których mowa w art. 19 ust. 2, do wniosku o wpis na listę rzeczników patentowych dołączają decyzję o uznaniu kwalifikacji do wykonywania na terytorium Rzeczypospolitej Polskiej zawodu rzecznika patentowego. 4. Prezes Urzędu Patentowego wydaje decyzję o odmowie wpisu na listę rzeczników patentowych w przypadku: 1) złożenia wniosku o wpis po upływie terminów, o których mowa w ust. 1 albo 2, 2) wystąpienia w stosunku do osoby składającej wniosek o wpis okoliczności, o których mowa w art. 23a ust. 1. 5. Osoba, której zgodnie z ust. 4 pkt 2 wydano decyzję o odmowie wpisu na listę rzeczników patentowych, może ponownie złożyć wniosek o wpis w terminie sześciu miesięcy od dnia ustania okoliczności, o których mowa w art. 23a ust. 1. Przepis ust. 4 pkt 1 stosuje się odpowiednio.”;
+- **15)** po art. 23 dodaje się art. 23a w brzmieniu: „Art. 23a. 1. Zawieszenie prawa wykonywania zawodu rzecznika patentowego następuje w przypadku: 1) zatrudnienia w Urzędzie Patentowym, w sądzie administracyjnym, w Europejskim Urzędzie Patentowym lub w Urzędzie Harmonizacji Rynku Wewnętrznego, 2) sprawowania urzędu sędziego, wykonywania zawodu notariusza, komornika, zajmowania stanowiska prokuratora, asesora prokuratorskiego lub notarialnego, albo odbywania aplikacji ogólnej, sędziowskiej, prokuratorskiej, notarialnej lub komorniczej, oraz w razie podjęcia pracy w organach wymiaru sprawiedliwości lub w organach ścigania. 2. Rzecznik patentowy jest obowiązany zawiadomić Krajową Radę Rzeczników Patentowych, w terminie miesiąca, o zaistnieniu oraz o ustaniu w stosunku do niego okoliczności, o których mowa w ust. 1. 3. Krajowa Rada Rzeczników Patentowych w terminie trzech miesięcy od dnia otrzymania zawiadomienia, o którym mowa w ust. 2, podejmuje uchwałę odpowiednio o zawieszeniu albo o przywróceniu prawa do wykonywania zawodu rzecznika patentowego. 4. Na uchwałę, o której mowa w ust. 3, zainteresowanemu służy skarga do sądu administracyjnego w terminie 30 dni od dnia doręczenia uchwały.”;
 - **16)** w art. 24 w ust. 2 po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) nieuiszczania składek członkowskich za okres dłuższy niż rok,”;
 - **17)** tytuł rozdziału 4 otrzymuje brzmienie: „Aplikacja rzecznikowska i egzamin kwalifikacyjny”;
 - **18)** w art. 27 ust. 2 otrzymuje brzmienie: „2. Aplikacja trwa trzy lata.”;
-- **19)** po art. 28 dodaje się art. 28a i art. 28b w brzmieniu: „Art. 28a. 1. Aplikacja jest prowadzona jako odpłatna działalność samorządu rzeczników patentowych na zasadach samofinansowania.
-
-2. Koszty aplikacji pokrywane są z opłat wnoszonych przez aplikantów.
-
-3. Prezes Rady Ministrów, po zasięgnięciu opinii Krajowej Rady Rzeczników Patentowych, określi, w drodze rozporządzenia, wysokość opłaty rocznej za aplikację, kierując się koniecznością zapewnienia aplikantom właściwego poziomu wykształcenia, przy czym wysokość opłaty rocznej nie może być wyższa niż trzykrotność przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227 oraz z 2010 r. Nr 40, poz. 224 i Nr 134, poz. 903).
-
-4. Krajowa Rada Rzeczników Patentowych może, na uzasadniony wniosek aplikanta, zwolnić go w części od ponoszenia opłaty, o której mowa w ust. 3, a także odroczyć jej płatność lub rozłożyć ją na raty.
-
-**Art. 28b.**
-
-1. Wpis na listę aplikantów następuje po przeprowadzeniu egzaminu konkursowego, którego termin wyznacza Krajowa Rada Rzeczników Patentowych.
-
-2. Celem egzaminu konkursowego jest sprawdzenie wiedzy kandydatów z zakresu:
-
-- **1)** zadań rzecznika patentowego i zasad wykonywania tego zawodu,
-- **2)** podstaw prawa własności przemysłowej,
-- **3)** elementów wiedzy technicznej,
-- **4)** elementów prawa konstytucyjnego,
-- **5)** stopnia znajomości jednego języka obcego, według wyboru kandydata, angielskiego, francuskiego lub niemieckiego.
-
-3. Egzamin konkursowy składa się z części pisemnej i ustnej.
-
-4. Za przeprowadzenie egzaminu konkursowego pobierana jest od kandydatów opłata.
-
-5. Prezes Rady Ministrów, po zasięgnięciu opinii Krajowej Rady Rzeczników Patentowych, określi, w drodze rozporządzenia, wysokość opłaty za egzamin konkursowy, przy czym wysokość tej opłaty nie może być wyższa niż 0,3 przeciętnego wynagrodzenia w gospodarce narodowej, o którym mowa w art. 28a ust. 3.”;
-
-- **20)** art. 29 otrzymuje brzmienie: „Art. 29. 1. Na listę aplikantów może być wpisana osoba, która uzyskała pozytywną ocenę z egzaminu konkursowego, spełnia warunki określone w art. 19 ust. 1 pkt 1 – 4, złoży oświadczenie o pokryciu kosztów aplikacji oraz oświadczenie, iż nie występują w stosunku do niej okoliczności, o których mowa w art. 23a ust. 1.
-
-2. Krajowa Rada Rzeczników Patentowych, co najmniej na trzy miesiące przed terminem egzaminu konkursowego, ogłasza o możliwości składania przez zainteresowane osoby wniosków o wpis na listę aplikantów oraz podaje do wiadomości zakres tematyczny egzaminu.
-
-3. Ogłoszenie, o którym mowa w ust. 2, na wniosek Krajowej Rady Rzeczników Patentowych, Prezes Urzędu Patentowego zamieszcza w organie urzędowym Urzędu Patentowego „Wiadomości Urzędu Patentowego”.
-
-4. Podstawą wpisu kandydata na listę aplikantów jest uchwała Komisji Egzaminacyjnej stwierdzająca pozytywny wynik egzaminu konkursowego.
-
-5. Aplikantowi wpisanemu na listę aplikantów Krajowa Rada Rzeczników Patentowych wydaje legitymację, ważną na czas określony.
-
-6. Po podjęciu uchwały, o której mowa w ust. 4, Krajowa Rada Rzeczników Patentowych przekazuje Prezesowi Urzędu Patentowego wykaz osób wpisanych na listę, obejmujący następujące dane tych osób:
-
-- **1)** imię i nazwisko,
-- **2)** data urodzenia,
-- **3)** adres miejsca zamieszkania.”;
+- **19)** po art. 28 dodaje się art. 28a i art. 28b w brzmieniu: „Art. 28a. 1. Aplikacja jest prowadzona jako odpłatna działalność samorządu rzeczników patentowych na zasadach samofinansowania. 2. Koszty aplikacji pokrywane są z opłat wnoszonych przez aplikantów. 3. Prezes Rady Ministrów, po zasięgnięciu opinii Krajowej Rady Rzeczników Patentowych, określi, w drodze rozporządzenia, wysokość opłaty rocznej za aplikację, kierując się koniecznością zapewnienia aplikantom właściwego poziomu wykształcenia, przy czym wysokość opłaty rocznej nie może być wyższa niż trzykrotność przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227 oraz z 2010 r. Nr 40, poz. 224 i Nr 134, poz. 903). 4. Krajowa Rada Rzeczników Patentowych może, na uzasadniony wniosek aplikanta, zwolnić go w części od ponoszenia opłaty, o której mowa w ust. 3, a także odroczyć jej płatność lub rozłożyć ją na raty. Art. 28b. 1. Wpis na listę aplikantów następuje po przeprowadzeniu egzaminu konkursowego, którego termin wyznacza Krajowa Rada Rzeczników Patentowych. 2. Celem egzaminu konkursowego jest sprawdzenie wiedzy kandydatów z zakresu: 1) zadań rzecznika patentowego i zasad wykonywania tego zawodu, 2) podstaw prawa własności przemysłowej, 3) elementów wiedzy technicznej, 4) elementów prawa konstytucyjnego, 5) stopnia znajomości jednego języka obcego, według wyboru kandydata, angielskiego, francuskiego lub niemieckiego. 3. Egzamin konkursowy składa się z części pisemnej i ustnej. 4. Za przeprowadzenie egzaminu konkursowego pobierana jest od kandydatów opłata. 5. Prezes Rady Ministrów, po zasięgnięciu opinii Krajowej Rady Rzeczników Patentowych, określi, w drodze rozporządzenia, wysokość opłaty za egzamin konkursowy, przy czym wysokość tej opłaty nie może być wyższa niż 0,3 przeciętnego wynagrodzenia w gospodarce narodowej, o którym mowa w art. 28a ust. 3.”;
+- **20)** art. 29 otrzymuje brzmienie: „Art. 29. 1. Na listę aplikantów może być wpisana osoba, która uzyskała pozytywną ocenę z egzaminu konkursowego, spełnia warunki określone w art. 19 ust. 1 pkt 1 – 4, złoży oświadczenie o pokryciu kosztów aplikacji oraz oświadczenie, iż nie występują w stosunku do niej okoliczności, o których mowa w art. 23a ust. 1. 2. Krajowa Rada Rzeczników Patentowych, co najmniej na trzy miesiące przed terminem egzaminu konkursowego, ogłasza o możliwości składania przez zainteresowane osoby wniosków o wpis na listę aplikantów oraz podaje do wiadomości zakres tematyczny egzaminu. 3. Ogłoszenie, o którym mowa w ust. 2, na wniosek Krajowej Rady Rzeczników Patentowych, Prezes Urzędu Patentowego zamieszcza w organie urzędowym Urzędu Patentowego „Wiadomości Urzędu Patentowego”. 4. Podstawą wpisu kandydata na listę aplikantów jest uchwała Komisji Egzaminacyjnej stwierdzająca pozytywny wynik egzaminu konkursowego. 5. Aplikantowi wpisanemu na listę aplikantów Krajowa Rada Rzeczników Patentowych wydaje legitymację, ważną na czas określony. 6. Po podjęciu uchwały, o której mowa w ust. 4, Krajowa Rada Rzeczników Patentowych przekazuje Prezesowi Urzędu Patentowego wykaz osób wpisanych na listę, obejmujący następujące dane tych osób: 1) imię i nazwisko, 2) data urodzenia, 3) adres miejsca zamieszkania.”;
 - **21)** w art. 30 ust. 2 otrzymuje brzmienie: „2. Obowiązek przystąpienia do egzaminu kwalifikacyjnego dotyczy również osób zwolnionych w całości od odbycia aplikacji.”;
-- **22)** art. 31 otrzymuje brzmienie: „Art. 31. 1. Celem egzaminu kwalifikacyjnego, którego termin wyznacza Krajowa Rada Rzeczników Patentowych, jest sprawdzenie przygotowania osoby przystępującej do tego egzaminu do samodzielnego i prawidłowego wykonywania zawodu, w tym posiadanej przez nią wiedzy oraz umiejętności jej praktycznego zastosowania z zakresu:
-- **1)** prawa własności przemysłowej, w tym prawa europejskiego i międzynarodowego,
-- **2)** prawa autorskiego,
-- **3)** prawa cywilnego, gospodarczego i administracyjnego,
-- **4)** postępowania administracyjnego, postępowania sądowoadministracyjnego, postępowania cywilnego, w tym postępowania w sprawach gospodarczych,
-- **5)** postępowania międzynarodowego w sprawach własności przemysłowej,
-- **6)** metodyki wykonywania zawodu, w szczególności uzyskiwania, utrzymywania, wykonywania oraz dochodzenia praw odnoszących się do przedmiotów własności przemysłowej,
-- **7)** zasad wykonywania zawodu rzecznika patentowego i zasad etyki rzecznika patentowego.
-
-2. Egzamin kwalifikacyjny składa się z dwóch części pisemnych i jednej części ustnej.
-
-3. W częściach pisemnych egzaminu kwalifikacyjnego zdający opracowuje trzy tematy. Opracowanie tematu następuje przez sporządzenie:
-
-- **1)** dokumentacji zgłoszenia wynalazku do ochrony,
-- **2)** pisma procesowego w postępowaniu administracyjnym, sądowoadministracyjnym lub cywilnym oraz opinii na podstawie przedstawionego stanu faktycznego lub rozstrzygnięcia problemu prawnego na podstawie opisanego przypadku (kazusu).
-
-4. Część ustna egzaminu polega na odpowiedzi na pytania zamieszczone w wylosowanym zestawie pytań. Każdy z zestawów składa się z dziesięciu pytań.”;
-
-- **23)** art. 32 otrzymuje brzmienie: „Art. 32. 1. Do egzaminu kwalifikacyjnego dopuszcza się osobę, która ukończyła aplikację.
-
-2. W przypadku niezaliczenia określonej części egzaminu kwalifikacyjnego egzamin może być powtarzany w tej części. Terminy, w których egzamin może być powtarzany, wyznacza Krajowa Rada Rzeczników Patentowych, na dzień przypadający nie wcześniej niż sześć miesięcy i nie później niż rok od dnia poprzedniego egzaminu. Na wniosek osoby przystępującej do egzaminu termin sześciu miesięcy może być skrócony.”;
-
-- **24)** art. 33 otrzymuje brzmienie: „Art. 33. 1. Egzamin konkursowy oraz egzamin kwalifikacyjny przeprowadza Komisja Egzaminacyjna, powołana przez Krajową Radę Rzeczników Patentowych. Komisja Egzaminacyjna działa w zespołach egzaminacyjnych, których liczba zależy od liczby kandydatów.
-
-2. Krajowa Rada Rzeczników Patentowych powołuje Przewodniczącego Komisji Egzaminacyjnej, który organizuje i nadzoruje pracę zespołów egzaminacyjnych.
-
-3. W skład zespołu egzaminacyjnego wchodzą:
-
-- **1)** przedstawiciel Krajowej Rady Rzeczników Patentowych jako przewodniczący,
-- **2)** trzej eksperci Urzędu Patentowego wskazani przez Prezesa Urzędu Patentowego i trzej rzecznicy patentowi wybrani przez Krajową Radę Rzeczników Patentowych.
-
-4. Członkiem zespołu egzaminacyjnego nie może być osoba, która pozostaje z którymkolwiek ze zdających w stosunku osobistym lub służbowym tego rodzaju, że mogłoby to wywołać wątpliwości co do jej bezstronności.
-
-5. Pytania będące przedmiotem egzaminu kwalifikacyjnego oraz egzaminu konkursowego ustala Komisja Egzaminacyjna. Członkowie Komisji Egzaminacyjnej są obowiązani do zachowania w tajemnicy ustalonych pytań.
-
-6. Od uchwały Komisji Egzaminacyjnej stwierdzającej wynik egzaminu konkursowego i egzaminu kwalifikacyjnego przysługuje odwołanie do Krajowej Rady Rzeczników Patentowych w terminie 14 dni od dnia ogłoszenia wyników egzaminu.
-
-7. Opłatę za egzamin konkursowy i egzamin kwalifikacyjny przeznacza się na pokrycie kosztów odpowiednio egzaminu konkursowego albo egzaminu kwalifikacyjnego, w tym na wynagrodzenia dla członków Komisji Egzaminacyjnej. Wysokość tego wynagrodzenia jest ustalana w drodze uchwały Krajowej Rady Rzeczników Patentowych.”;
-
-- **25)** art. 34 otrzymuje brzmienie: „Art. 34. 1. Za przeprowadzenie egzaminu kwalifikacyjnego od osoby przystępującej do egzaminu pobierana jest opłata.
-
-2. Prezes Rady Ministrów, po zasięgnięciu opinii Krajowej Rady Rzeczników Patentowych, określi, w drodze rozporządzenia, wysokość opłaty za przeprowadzenie egzaminu kwalifikacyjnego, przy czym wysokość tej opłaty nie może być wyższa niż 0,4 przeciętnego wynagrodzenia w gospodarce narodowej, o którym mowa w art. 28a ust. 3.”;
-
+- **22)** art. 31 otrzymuje brzmienie: „Art. 31. 1. Celem egzaminu kwalifikacyjnego, którego termin wyznacza Krajowa Rada Rzeczników Patentowych, jest sprawdzenie przygotowania osoby przystępującej do tego egzaminu do samodzielnego i prawidłowego wykonywania zawodu, w tym posiadanej przez nią wiedzy oraz umiejętności jej praktycznego zastosowania z zakresu: 1) prawa własności przemysłowej, w tym prawa europejskiego i międzynarodowego, 2) prawa autorskiego, 3) prawa cywilnego, gospodarczego i administracyjnego, 4) postępowania administracyjnego, postępowania sądowoadministracyjnego, postępowania cywilnego, w tym postępowania w sprawach gospodarczych, 5) postępowania międzynarodowego w sprawach własności przemysłowej, 6) metodyki wykonywania zawodu, w szczególności uzyskiwania, utrzymywania, wykonywania oraz dochodzenia praw odnoszących się do przedmiotów własności przemysłowej, 7) zasad wykonywania zawodu rzecznika patentowego i zasad etyki rzecznika patentowego. 2. Egzamin kwalifikacyjny składa się z dwóch części pisemnych i jednej części ustnej. 3. W częściach pisemnych egzaminu kwalifikacyjnego zdający opracowuje trzy tematy. Opracowanie tematu następuje przez sporządzenie: 1) dokumentacji zgłoszenia wynalazku do ochrony, 2) pisma procesowego w postępowaniu administracyjnym, sądowoadministracyjnym lub cywilnym oraz opinii na podstawie przedstawionego stanu faktycznego lub rozstrzygnięcia problemu prawnego na podstawie opisanego przypadku (kazusu). 4. Część ustna egzaminu polega na odpowiedzi na pytania zamieszczone w wylosowanym zestawie pytań. Każdy z zestawów składa się z dziesięciu pytań.”;
+- **23)** art. 32 otrzymuje brzmienie: „Art. 32. 1. Do egzaminu kwalifikacyjnego dopuszcza się osobę, która ukończyła aplikację. 2. W przypadku niezaliczenia określonej części egzaminu kwalifikacyjnego egzamin może być powtarzany w tej części. Terminy, w których egzamin może być powtarzany, wyznacza Krajowa Rada Rzeczników Patentowych, na dzień przypadający nie wcześniej niż sześć miesięcy i nie później niż rok od dnia poprzedniego egzaminu. Na wniosek osoby przystępującej do egzaminu termin sześciu miesięcy może być skrócony.”;
+- **24)** art. 33 otrzymuje brzmienie: „Art. 33. 1. Egzamin konkursowy oraz egzamin kwalifikacyjny przeprowadza Komisja Egzaminacyjna, powołana przez Krajową Radę Rzeczników Patentowych. Komisja Egzaminacyjna działa w zespołach egzaminacyjnych, których liczba zależy od liczby kandydatów. 2. Krajowa Rada Rzeczników Patentowych powołuje Przewodniczącego Komisji Egzaminacyjnej, który organizuje i nadzoruje pracę zespołów egzaminacyjnych. 3. W skład zespołu egzaminacyjnego wchodzą: 1) przedstawiciel Krajowej Rady Rzeczników Patentowych jako przewodniczący, 2) trzej eksperci Urzędu Patentowego wskazani przez Prezesa Urzędu Patentowego i trzej rzecznicy patentowi wybrani przez Krajową Radę Rzeczników Patentowych. 4. Członkiem zespołu egzaminacyjnego nie może być osoba, która pozostaje z którymkolwiek ze zdających w stosunku osobistym lub służbowym tego rodzaju, że mogłoby to wywołać wątpliwości co do jej bezstronności. 5. Pytania będące przedmiotem egzaminu kwalifikacyjnego oraz egzaminu konkursowego ustala Komisja Egzaminacyjna. Członkowie Komisji Egzaminacyjnej są obowiązani do zachowania w tajemnicy ustalonych pytań. 6. Od uchwały Komisji Egzaminacyjnej stwierdzającej wynik egzaminu konkursowego i egzaminu kwalifikacyjnego przysługuje odwołanie do Krajowej Rady Rzeczników Patentowych w terminie 14 dni od dnia ogłoszenia wyników egzaminu. 7. Opłatę za egzamin konkursowy i egzamin kwalifikacyjny przeznacza się na pokrycie kosztów odpowiednio egzaminu konkursowego albo egzaminu kwalifikacyjnego, w tym na wynagrodzenia dla członków Komisji Egzaminacyjnej. Wysokość tego wynagrodzenia jest ustalana w drodze uchwały Krajowej Rady Rzeczników Patentowych.”;
+- **25)** art. 34 otrzymuje brzmienie: „Art. 34. 1. Za przeprowadzenie egzaminu kwalifikacyjnego od osoby przystępującej do egzaminu pobierana jest opłata. 2. Prezes Rady Ministrów, po zasięgnięciu opinii Krajowej Rady Rzeczników Patentowych, określi, w drodze rozporządzenia, wysokość opłaty za przeprowadzenie egzaminu kwalifikacyjnego, przy czym wysokość tej opłaty nie może być wyższa niż 0,4 przeciętnego wynagrodzenia w gospodarce narodowej, o którym mowa w art. 28a ust. 3.”;
 - **26)** art. 35 otrzymuje brzmienie: „Art. 35. Osoba, która złożyła egzamin kwalifikacyjny z wynikiem pozytywnym otrzymuje świadectwo.”;
 - **27)** w art. 37:
     - **a)** pkt 1 otrzymuje brzmienie: „1) w przypadku ukończenia przez niego aplikacji,”,
@@ -217,120 +75,38 @@ source: pdf
 - **29)** art. 40 otrzymuje brzmienie: „Art. 40. Krajowa Rada Rzeczników Patentowych określa, w drodze uchwały, program, regulamin i szczegółowe zasady odbywania aplikacji z uwzględnieniem organizacji i formy szkolenia, a także wzór świadectwa złożenia egzaminu kwalifikacyjnego. Program aplikacji oraz organizacja szkolenia powinny uwzględniać zakres czynności praktycznych, jakie może podejmować aplikant w toku aplikacji.”;
 - **30)** w art. 41 ust. 1 otrzymuje brzmienie: „1. Do aplikanta stosuje się odpowiednio przepisy art. 18 ust. 1, art. 20 ust. 4 pkt 2 i ust. 5, art. 23a, art. 24 ust. 1, 3 i 4.”;
 - **31)** w art. 44:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Organami samorządu są:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Organami samorządu są: 1) Krajowy Zjazd Rzeczników Patentowych, 2) Krajowa Rada Rzeczników Patentowych, 3) Prezes Polskiej Izby Rzeczników Patentowych, 4) Komisja Rewizyjna, 5) Odwoławczy Sąd Dyscyplinarny, 6) Sąd Dyscyplinarny, 7) Rzecznik Dyscyplinarny, 8) okręgowe zgromadzenia rzeczników patentowych, 9) okręgowe rady rzeczników patentowych.”,
+    - **b)** dodaje się ust. 7 w brzmieniu: „7. Mandat członka organu samorządu wygasa wskutek: 1) zrzeczenia się mandatu, 2) skreślenia z listy rzeczników patentowych, 3) prawomocnego orzeczenia kary dyscyplinarnej wymienionej w art. 58 ust. 1 pkt 2 – 4, 4) odwołania przez organ, który dokonał wyboru, 5) wystąpienia okoliczności wymienionych w art. 23a ust. 1 lub niespełnienia warunku określonego w art. 44 ust. 2.”;
 
-- **1)** Krajowy Zjazd Rzeczników Patentowych,
-- **2)** Krajowa Rada Rzeczników Patentowych,
-- **3)** Prezes Polskiej Izby Rzeczników Patentowych,
-- **4)** Komisja Rewizyjna,
-- **5)** Odwoławczy Sąd Dyscyplinarny,
-- **6)** Sąd Dyscyplinarny,
-- **7)** Rzecznik Dyscyplinarny,
-- **8)** okręgowe zgromadzenia rzeczników patentowych,
-- **9)** okręgowe rady rzeczników patentowych.”,
-    - **b)** dodaje się ust. 7 w brzmieniu: „7. Mandat członka organu samorządu wygasa wskutek:
-
-- **1)** zrzeczenia się mandatu,
-- **2)** skreślenia z listy rzeczników patentowych,
-- **3)** prawomocnego orzeczenia kary dyscyplinarnej wymienionej w art. 58 ust. 1 pkt 2 – 4,
-- **4)** odwołania przez organ, który dokonał wyboru,
-- **5)** wystąpienia okoliczności wymienionych w art. 23a ust. 1 lub niespełnienia warunku określonego w art. 44 ust. 2.”;
 - **32)** w art. 48 w ust. 2:
     - **a)** pkt 5 otrzymuje brzmienie: „5) wybór Prezesa Polskiej Izby Rzeczników Patentowych,”,
     - **b)** po pkt 8 dodaje się pkt 8a w brzmieniu: „8a) udzielanie absolutorium ustępującym organom samorządu,”;
 
-- **33)** art. 50 otrzymuje brzmienie: „Art. 50. 1. Krajową Radę Rzeczników Patentowych stanowią Prezes Polskiej Izby Rzeczników Patentowych, członkowie wybrani przez Krajowy Zjazd oraz dziekani.
-
-2. Prezydium Krajowej Rady Rzeczników Patentowych stanowią Prezes Polskiej Izby Rzeczników Patentowych oraz wybrani przez Krajową Radę Rzeczników Patentowych ze swego grona wiceprezesi Polskiej Izby Rzeczników Patentowych, sekretarz, skarbnik i członkowie.
-
-3. Prezydium Krajowej Rady Rzeczników Patentowych jest organem wykonawczym tej Rady i składa jej sprawozdanie ze swojej działalności.
-
-4. Prezydium wykonuje czynności należące do kompetencji Krajowej Rady Rzeczników Patentowych w zakresie określonym przez Krajową Radę Rzeczników Patentowych, z wyjątkiem czynności, o których mowa w art. 51 pkt 3, 4a i 6.”;
-
+- **33)** art. 50 otrzymuje brzmienie: „Art. 50. 1. Krajową Radę Rzeczników Patentowych stanowią Prezes Polskiej Izby Rzeczników Patentowych, członkowie wybrani przez Krajowy Zjazd oraz dziekani. 2. Prezydium Krajowej Rady Rzeczników Patentowych stanowią Prezes Polskiej Izby Rzeczników Patentowych oraz wybrani przez Krajową Radę Rzeczników Patentowych ze swego grona wiceprezesi Polskiej Izby Rzeczników Patentowych, sekretarz, skarbnik i członkowie. 3. Prezydium Krajowej Rady Rzeczników Patentowych jest organem wykonawczym tej Rady i składa jej sprawozdanie ze swojej działalności. 4. Prezydium wykonuje czynności należące do kompetencji Krajowej Rady Rzeczników Patentowych w zakresie określonym przez Krajową Radę Rzeczników Patentowych, z wyjątkiem czynności, o których mowa w art. 51 pkt 3, 4a i 6.”;
 - **34)** w art. 51:
     - **a)** uchyla się pkt 1,
     - **b)** po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) zatwierdzanie sprawozdań finansowych,”,
     - **c)** pkt 7 otrzymuje brzmienie: „7) organizowanie aplikacji, w tym uchwalanie programu oraz regulaminu aplikacji i egzaminu kwalifikacyjnego,”,
     - **d)** pkt 10 otrzymuje brzmienie: „10) wybór Prezesa Polskiej Izby Rzeczników Patentowych oraz Rzecznika Dyscyplinarnego – w razie wygaśnięcia ich mandatów w okresie pomiędzy Krajowymi Zjazdami,”;
 
-- **35)** po art. 51 dodaje się art. 51a w brzmieniu: „Art. 51a. 1. Prezes Polskiej Izby Rzeczników Patentowych:
-- **1)** reprezentuje samorząd,
-- **2)** przewodniczy Krajowej Radzie Rzeczników Patentowych,
-- **3)** prowadzi listę aplikantów,
-- **4)** podpisuje uchwały Krajowej Rady Rzeczników Patentowych,
-- **5)** wykonuje inne czynności określone w przepisach prawa i statucie.
-
-2. Wiceprezesi Polskiej Izby Rzeczników Patentowych działają w granicach upoważnienia udzielonego przez Prezesa Polskiej Izby Rzeczników Patentowych.”;
-
+- **35)** po art. 51 dodaje się art. 51a w brzmieniu: „Art. 51a. 1. Prezes Polskiej Izby Rzeczników Patentowych: 1) reprezentuje samorząd, 2) przewodniczy Krajowej Radzie Rzeczników Patentowych, 3) prowadzi listę aplikantów, 4) podpisuje uchwały Krajowej Rady Rzeczników Patentowych, 5) wykonuje inne czynności określone w przepisach prawa i statucie. 2. Wiceprezesi Polskiej Izby Rzeczników Patentowych działają w granicach upoważnienia udzielonego przez Prezesa Polskiej Izby Rzeczników Patentowych.”;
 - **36)** w art. 53:
     - **a)** ust. 3 otrzymuje brzmienie: „3. Rzecznik Dyscyplinarny prowadzi postępowanie wyjaśniające oraz składa wnioski o wszczęcie postępowania przed Sądem Dyscyplinarnym.”,
     - **b)** dodaje się ust. 4 w brzmieniu: „4. Zastępcy Rzecznika Dyscyplinarnego działają w granicach upoważnienia udzielonego przez Rzecznika Dyscyplinarnego.”;
 
 - **37)** w art. 54:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Rzecznicy patentowi i aplikanci zamieszkali w danym okręgu tworz ą okręgowe zgromadzenie rzeczników patentowych.”,
-    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Do okręgowego zgromadzenia rzeczników patentowych należy:
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Do okręgowego zgromadzenia rzeczników patentowych należy: 1) wybór dziekana, 2) wybór członków okręgowej rady rzeczników patentowych, 3) udzielanie absolutorium okręgowej radzie rzeczników patentowych, 4) uchwalanie wniosków do przedłożenia Krajowemu Zjazdowi, 5) wybór delegatów na Krajowy Zjazd w przypadku, o którym mowa w art. 47 ust. 2 i 3, 6) rozpatrywanie i zatwierdzanie sprawozdań okręgowej rady rzeczników patentowych, 7) wykonywanie innych zadań przewidzianych w statucie. 4. Okręgowe zgromadzenie rzeczników patentowych zwołuje dziekan z własnej inicjatywy, a ponadto na dzień przypadający nie później niż dwa miesiące przed upływem kadencji organów samorządu – na podstawie uchwały Krajowej Rady Rzeczników Patentowych.”,
+    - **c)** dodaje się ust. 5 i 6 w brzmieniu: „5. Okręgową radę rzeczników patentowych stanowią dziekan, który przewodniczy radzie, i członkowie, spośród których okręgowa rada rzeczników patentowych może wybrać wicedziekanów i sekretarza. 6. Do okręgowej rady rzeczników patentowych należy: 1) reprezentowanie samorządu na terenie okręgu i kierowanie jego działalnością, 2) promowanie ochrony własności przemysłowej i działalność edukacyjną w tym zakresie, 3) doskonalenie umiejętności i kształcenie zawodowe rzeczników patentowych, 4) wykonywanie zadań zleconych przez Krajową Radę Rzeczników Patentowych, 5) wykonywanie innych zadań przewidzianych w statucie.”;
 
-- **1)** wybór dziekana,
-- **2)** wybór członków okręgowej rady rzeczników patentowych,
-- **3)** udzielanie absolutorium okręgowej radzie rzeczników patentowych,
-- **4)** uchwalanie wniosków do przedłożenia Krajowemu Zjazdowi,
-- **5)** wybór delegatów na Krajowy Zjazd w przypadku, o którym mowa w art. 47 ust. 2 i 3,
-- **6)** rozpatrywanie i zatwierdzanie sprawozdań okręgowej rady rzeczników patentowych,
-- **7)** wykonywanie innych zadań przewidzianych w statucie.
-
-4. Okręgowe zgromadzenie rzeczników patentowych zwołuje dziekan z własnej inicjatywy, a ponadto na dzień przypadający nie później niż dwa miesiące przed upływem kadencji organów samorządu – na podstawie uchwały Krajowej Rady Rzeczników Patentowych.”,
-
-- **c)** dodaje się ust. 5 i 6 w brzmieniu: „5. Okręgową radę rzeczników patentowych stanowią dziekan, który przewodniczy radzie, i członkowie, spośród których okręgowa rada rzeczników patentowych może wybrać wicedziekanów i sekretarza.
-
-6. Do okręgowej rady rzeczników patentowych należy:
-
-- **1)** reprezentowanie samorządu na terenie okręgu i kierowanie jego działalnością,
-- **2)** promowanie ochrony własności przemysłowej i działalność edukacyjną w tym zakresie,
-- **3)** doskonalenie umiejętności i kształcenie zawodowe rzeczników patentowych,
-- **4)** wykonywanie zadań zleconych przez Krajową Radę Rzeczników Patentowych,
-- **5)** wykonywanie innych zadań przewidzianych w statucie.”;
 - **38)** w art. 57 ust. 1 otrzymuje brzmienie: „1. Rzecznik patentowy i aplikant podlegają odpowiedzialności dyscyplinarnej za zawinione, nienależyte wykonywanie zawodu rzecznika patentowego i innych obowiązków określonych w ustawie, w szczególności za czyny sprzeczne ze ślubowaniem lub z zasadami etyki rzecznika patentowego.”;
 - **39)** w art. 58 ust. 9 otrzymuje brzmienie: „9. W razie orzeczenia wobec aplikanta kary dyscyplinarnej wydalenia z aplikacji, ponowne przystąpienie do egzaminu konkursowego może nastąpić po upływie trzech lat od dnia uprawomocnienia się orzeczenia dyscyplinarnego, chyba że orzeczenie to przewiduje jednocześnie zakaz ponownego ubiegania się o wpis na listę aplikantów.”;
-- **40)** po art. 59 dodaje się art. 59a w brzmieniu: „Art. 59a. Postępowanie dyscyplinarne obejmuje:
-- **1)** postępowanie wyjaśniające,
-- **2)** postępowanie przed Sądem Dyscyplinarnym,
-- **3)** postępowanie przed Odwoławczym Sądem Dyscyplinarnym,
-- **4)** postępowanie wykonawcze.”;
-- **41)** po art. 61 dodaje się art. 61a w brzmieniu: „Art. 61a. 1. Stronami w postępowaniu dyscyplinarnym są Rzecznik Dyscyplinarny, obwiniony i poszkodowany.
-
-2. Obwinionym jest rzecznik patentowy lub aplikant, przeciwko któremu toczy się postępowanie dyscyplinarne.
-
-3. Poszkodowanym jest osoba, której dobro prawne zostało bezpośrednio naruszone postępowaniem rzecznika patentowego lub aplikanta, określonym w art. 57 ust. 1.
-
-4. O wyłączeniu Rzecznika Dyscyplinarnego i wyznaczeniu na jego miejsce zastępcy, w toku postępowania wyjaśniającego orzeka Sąd Dyscyplinarny, a w pozostałych przypadkach Sąd Dyscyplinarny albo Odwoławczy Sąd Dyscyplinarny – w zależności od tego, przed którym z nich toczy się postępowanie.”;
-
+- **40)** po art. 59 dodaje się art. 59a w brzmieniu: „Art. 59a. Postępowanie dyscyplinarne obejmuje: 1) postępowanie wyjaśniające, 2) postępowanie przed Sądem Dyscyplinarnym, 3) postępowanie przed Odwoławczym Sądem Dyscyplinarnym, 4) postępowanie wykonawcze.”;
+- **41)** po art. 61 dodaje się art. 61a w brzmieniu: „Art. 61a. 1. Stronami w postępowaniu dyscyplinarnym są Rzecznik Dyscyplinarny, obwiniony i poszkodowany. 2. Obwinionym jest rzecznik patentowy lub aplikant, przeciwko któremu toczy się postępowanie dyscyplinarne. 3. Poszkodowanym jest osoba, której dobro prawne zostało bezpośrednio naruszone postępowaniem rzecznika patentowego lub aplikanta, określonym w art. 57 ust. 1. 4. O wyłączeniu Rzecznika Dyscyplinarnego i wyznaczeniu na jego miejsce zastępcy, w toku postępowania wyjaśniającego orzeka Sąd Dyscyplinarny, a w pozostałych przypadkach Sąd Dyscyplinarny albo Odwoławczy Sąd Dyscyplinarny – w zależności od tego, przed którym z nich toczy się postępowanie.”;
 - **42)** w art. 62 ust. 2 otrzymuje brzmienie: „2. W postępowaniu dyscyplinarnym obwiniony ma prawo korzystać z wybranego przez siebie obrońcy, którym może być adwokat, radca prawny lub rzecznik patentowy.”;
 - **43)** w art. 63 ust. 1 otrzymuje brzmienie: „1. Od orzeczenia Sądu Dyscyplinarnego stronie przysługuje odwołanie do Odwoławczego Sądu Dyscyplinarnego, w terminie miesiąca od dnia doręczenia odpisu orzeczenia.”;
-- **44)** art. 66 otrzymuje brzmienie: „Art. 66. 1. Od orzeczenia wydanego przez Odwoławczy Sąd Dyscyplinarny przysługuje kasacja do Sądu Najwyższego stronom, Prezesowi Polskiej Izby Rzeczników Patentowych, Prezesowi Urzędu Patentowego oraz Rzecznikowi Praw Obywatelskich.
-
-2. Orzeczenie, od którego służy kasacja podmiotom wymienionym w ust. 1, nie podlega wykonaniu do czasu wniesienia kasacji lub bezskutecznego upływu terminu do jej wniesienia, nie podlega również wykonaniu orzeczenie, od którego wniesiono kasację, do czasu jej rozpoznania.
-
-3. Kasację wnosi się do Sądu Najwyższego za pośrednictwem Odwoławczego Sądu Dyscyplinarnego, w terminie 30 dni od dnia doręczenia orzeczenia z uzasadnieniem.
-
-4. Kasacja może być wniesiona z powodu rażącego naruszenia prawa, jak również rażącej niewspółmierności kary dyscyplinarnej.
-
-5. Od kasacji nie uiszcza się opłaty sądowej.
-
-6. Sąd Najwyższy rozpoznaje kasację na rozprawie w składzie trzech sędziów.”;
-
-- **45)** po art. 67 dodaje się art. 67a i art. 67b w brzmieniu: „Art. 67a. 1. Za zawinione naruszenie warunków wykonywania zawodu i zasad etyki rzecznika patentowego, osoba świadcząca na terytorium Rzeczypospolitej Polskiej usługi transgraniczne podlega odpowiedzialności dyscyplinarnej według przepisów o odpowiedzialności dyscyplinarnej rzeczników patentowych.
-
-2. W miejsce kary zawieszenia prawa wykonywania zawodu stosuje się karę zawieszenia prawa do świadczenia usług transgranicznych na okres od trzech miesięcy do pięciu lat. Zamiast kary pozbawienia prawa wykonywania zawodu stosuje się karę zakazu świadczenia usług transgranicznych.
-
-3. Sąd dyscyplinarny doręcza niezwłocznie właściwemu organowi w państwie macierzystym osoby świadczącej usługi transgraniczne odpisy:
-
-- **1)** wniosku Rzecznika Dyscyplinarnego o ukaranie, wraz z powiadomieniem o uprawnieniach wynikających z ust. 4,
-- **2)** orzeczeń wydanych w toku postępowania dyscyplinarnego,
-- **3)** środków odwoławczych.
-
-4. Organ, o którym mowa w ust. 3, na każdym etapie postępowania dyscyplinarnego może przedstawić sądowi dyscyplinarnemu swoje stanowisko w sprawie, a jego przedstawiciel może brać udział w rozprawie, także gdy prowadzona jest z wyłączeniem jawności.
-
-**Art. 67b.** W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy Kodeksu postępowania karnego.”.
+- **44)** art. 66 otrzymuje brzmienie: „Art. 66. 1. Od orzeczenia wydanego przez Odwoławczy Sąd Dyscyplinarny przysługuje kasacja do Sądu Najwyższego stronom, Prezesowi Polskiej Izby Rzeczników Patentowych, Prezesowi Urzędu Patentowego oraz Rzecznikowi Praw Obywatelskich. 2. Orzeczenie, od którego służy kasacja podmiotom wymienionym w ust. 1, nie podlega wykonaniu do czasu wniesienia kasacji lub bezskutecznego upływu terminu do jej wniesienia, nie podlega również wykonaniu orzeczenie, od którego wniesiono kasację, do czasu jej rozpoznania. 3. Kasację wnosi się do Sądu Najwyższego za pośrednictwem Odwoławczego Sądu Dyscyplinarnego, w terminie 30 dni od dnia doręczenia orzeczenia z uzasadnieniem. 4. Kasacja może być wniesiona z powodu rażącego naruszenia prawa, jak również rażącej niewspółmierności kary dyscyplinarnej. 5. Od kasacji nie uiszcza się opłaty sądowej. 6. Sąd Najwyższy rozpoznaje kasację na rozprawie w składzie trzech sędziów.”;
+- **45)** po art. 67 dodaje się art. 67a i art. 67b w brzmieniu: „Art. 67a. 1. Za zawinione naruszenie warunków wykonywania zawodu i zasad etyki rzecznika patentowego, osoba świadcząca na terytorium Rzeczypospolitej Polskiej usługi transgraniczne podlega odpowiedzialności dyscyplinarnej według przepisów o odpowiedzialności dyscyplinarnej rzeczników patentowych. 2. W miejsce kary zawieszenia prawa wykonywania zawodu stosuje się karę zawieszenia prawa do świadczenia usług transgranicznych na okres od trzech miesięcy do pięciu lat. Zamiast kary pozbawienia prawa wykonywania zawodu stosuje się karę zakazu świadczenia usług transgranicznych. 3. Sąd dyscyplinarny doręcza niezwłocznie właściwemu organowi w państwie macierzystym osoby świadczącej usługi transgraniczne odpisy: 1) wniosku Rzecznika Dyscyplinarnego o ukaranie, wraz z powiadomieniem o uprawnieniach wynikających z ust. 4, 2) orzeczeń wydanych w toku postępowania dyscyplinarnego, 3) środków odwoławczych. 4. Organ, o którym mowa w ust. 3, na każdym etapie postępowania dyscyplinarnego może przedstawić sądowi dyscyplinarnemu swoje stanowisko w sprawie, a jego przedstawiciel może brać udział w rozprawie, także gdy prowadzona jest z wyłączeniem jawności. Art. 67b. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy Kodeksu postępowania karnego.”.
 
 **Art. 2.**
 

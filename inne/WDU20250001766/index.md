@@ -30,119 +30,177 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju, Pracy
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 rozporządzenia Ministra Rozwoju i Technologii z dnia 7 sierpnia 2024 r. zmieniającego rozporządzenie w sprawie obiektów i pomieszczeń magazynowych do przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym (Dz. U. poz. 1282), które stanowią: „ Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 9 kwietnia 2024 r. pod numerem 2024/0199/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).” „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Finansów i Gospodarki: wz. M. Jaros
 ROZPORZĄDZENIE MINISTRA ROZWOJU, PRACY I TECHNOLOGII z dnia 5 sierpnia 2021 r.
 w sprawie obiektów i pomieszczeń magazynowych do przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym Na podstawie art. 33 ust. 4 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743) zarządza się, co następuje:
-§ 1. Rozporządzenie określa:
-1) klasyfikację rodzajów obiektów magazynowych, w których są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym;
-2) wymagania organizacyjne i techniczne obiektów magazynowych, w których są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, w tym szczegółowe wymogi prowadzenia kart kwalifikacyjnych takich obiektów;
-3) szczegółowe wymagania dla pomieszczeń, w których są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, w tym warunki lokalizacyjne i niezbędne zabezpieczenie techniczne tych pomieszczeń oraz ich zabezpieczenie przed dostępem osób nieuprawnionych wraz z zapewnieniem kontroli i ewidencjonowania dostępu do tych pomieszczeń.
-§ 2. Ilekroć w rozporządzeniu jest mowa o:
-1) załączniku A – należy przez to rozumieć załącznik A do Umowy dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzonej w Genewie dnia 30 września 1957 r. (Dz. U. z 2025 r. poz. 642 i 1575), zwanej dalej „Umową ADR”;
-2) klasach materiałów niebezpiecznych – należy przez to rozumieć grupy materiałów niebezpiecznych wydzielone na podstawie zagrożenia dla życia lub zdrowia ludzi, mienia oraz środowiska, określone w załączniku A; grupy materiałów niebezpiecznych, o których mowa w niniejszym rozporządzeniu, obejmują:
-a) w klasie 1 „Materiały wybuchowe i przedmioty zawierające materiały wybuchowe” – materiały wybuchowe oraz przedmioty zawierające materiały wybuchowe, zaklasyfikowane do podklas 1.1, 1.2, 1.3, 1.4, 1.5 i 1.6,
-b) w klasie 3 „Materiały zapalne ciekłe” – roztwory odczulone nitrogliceryny o stężeniu do 30 %,
-c) w klasie 4.1 „Materiały zapalne stałe, materiały samoreaktywne, materiały polimeryzujące i materiały wybuchowe odczulone stałe” – materiały wybuchowe w stanie niewybuchowym, zaklasyfikowane do klasy 4.1 materiałów niebezpiecznych, jeśli przez wysuszenie lub przemycie mogą być im przywrócone właściwości wybuchowe,
-d) w klasie 9 „Różne materiały i przedmioty niebezpieczne” – przedmioty ratownicze zaklasyfikowane do klasy 9 materiałów niebezpiecznych, jeżeli zawierają materiały wybuchowe;
-3) podklasach materiałów wybuchowych i przedmiotów zawierających materiały wybuchowe – należy przez to rozumieć wydzielone w klasie 1 „Materiały wybuchowe i przedmioty zawierające materiały wybuchowe” podklasy materiałów wybuchowych oraz przedmiotów zawierających materiały wybuchowe o podobnym zachowaniu przy spalaniu, deflagracji lub detonacji, określone w załączniku A;
-4) grupach zgodności – należy przez to rozumieć oznaczone literowo grupy zgodności materiałów wybuchowych i przedmiotów zawierających materiały wybuchowe, określone w załączniku A;
-5) obiekcie magazynowym – należy przez to rozumieć:
-a) budynek lub inny obiekt budowlany lub jego wydzieloną część, przeznaczone do przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym,
-b) wydzielone pomieszczenie magazynowe w budynku lub innym obiekcie budowlanym lub jego wydzielonej części, przeznaczone do przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym,
-c) wydzielony, oznaczony i chroniony teren, przeznaczony do przechowywania broni oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym.
-§ 3. Materiały wybuchowe, broń, amunicję oraz wyroby i technologię o przeznaczeniu wojskowym lub policyjnym przechowuje się w następujących rodzajach obiektów magazynowych:
-1) magazynie bazowym – stanowiącym budynek lub inny obiekt budowlany lub jego wydzieloną część, przeznaczone do przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, w szczególności takich, które z uwagi na ich rodzaj lub ilość mogą podczas przechowywania stworzyć zagrożenie dla życia lub zdrowia wielu ludzi, a także powstania szkody w wielkich rozmiarach w mieniu oraz środowisku, w przypadku wybuchu, pożaru, utraty określonych parametrów technicznych lub innych niepożądanych zdarzeń;
-2) magazynie podręcznym – stanowiącym każde pomieszczenie w budynku lub jego wydzieloną część, używane w celach przemysłowych, laboratoryjnych lub handlowych, lub pomieszczenie w rusznikarni, przeznaczone do przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym w ilościach niestwarzających istotnego zagrożenia dla życia lub zdrowia wielu ludzi, a także powstania szkody w wielkich rozmiarach w mieniu oraz środowisku, w przypadku wybuchu, pożaru, utraty określonych parametrów technicznych lub innych niepożądanych zdarzeń;
-3) magazynie polowym – stanowiącym wydzielony, zabezpieczony i chroniony teren, przeznaczony do przechowywania broni lub wyrobów o przeznaczeniu wojskowym lub policyjnym o rozmiarach uniemożliwiających lub znacząco utrudniających ich przechowywanie w zamkniętym obiekcie magazynowym.
-§ 4. 1. Wymagania organizacyjne w obiekcie magazynowym, w którym są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, spełnia się przez:
-1) dostosowanie ilości i rodzaju przechowywanych materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym do wielkości, konstrukcji i wyposażenia obiektu magazynowego, zgodnie z wymaganiami określonymi w karcie kwalifikacyjnej obiektu magazynowego, o której mowa w § 9 ust. 1;
-2) przechowywanie materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, według rodzajów i typów, w sposób umożliwiający dokładną kontrolę stanu ilościowego tych wyrobów;
-3) zapewnienie warunków przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym uwzględniających wymagania w tym zakresie, określone przez wytwórców tych wyrobów;
-4) przestrzeganie terminów dopuszczalnego okresu używania przechowywanych materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym zgodnie z ich przeznaczeniem, ustalonych przez wytwórców tych wyrobów lub uprawnione instytucje na podstawie odrębnych przepisów;
-5) zapewnienie w obiekcie magazynowym transportu wewnątrzmagazynowego umożliwiającego bezpieczne przemieszczanie przechowywanych materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym oraz opakowań z tymi wyrobami;
-6) przechowywanie i używanie w obiekcie magazynowym wyłącznie wyposażenia i narzędzi określonych w instrukcjach technicznych przechowywania oraz stanowiskowych instrukcjach bezpieczeństwa i higieny pracy w tym obiekcie;
-7) wykonywanie w obiekcie magazynowym prac remontowych oraz prac związanych z używaniem otwartego ognia lub mogących doprowadzić do pożaru lub wybuchu przechowywanych materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym dopiero po uprzednim usunięciu przechowywanych wyrobów z obiektu magazynowego i uzyskaniu pisemnej zgody przedsiębiorcy przechowującego te wyroby na podjęcie wskazanych wyżej prac;
-8) zabezpieczenie obiektu magazynowego wraz z przechowywanymi materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym przed kradzieżą i dostępem osób nieuprawnionych, poprzez zapewnienie bezpośredniej ochrony fizycznej stałej lub doraźnej, zgodnie z przepisami ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2025 r. poz. 532);
-9) umieszczenie w widocznym miejscu na granicy strefy ochrony obiektu magazynowego, o której mowa w przepisach wykonawczych wydanych przez ministra właściwego do spraw gospodarki na podstawie art. 237 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661), lub na drzwiach wejściowych do obiektu magazynowego czytelnego napisu o zakazie palenia i używania otwartego ognia w tym obiekcie, a także związanego z tym zakazem oznakowania w formie graficznej;
-10) utrzymywanie obiektu magazynowego w czystości i porządku.
+
+**§ 1.** Rozporządzenie określa:
+
+- **1)** klasyfikację rodzajów obiektów magazynowych, w których są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym;
+- **2)** wymagania organizacyjne i techniczne obiektów magazynowych, w których są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, w tym szczegółowe wymogi prowadzenia kart kwalifikacyjnych takich obiektów;
+- **3)** szczegółowe wymagania dla pomieszczeń, w których są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, w tym warunki lokalizacyjne i niezbędne zabezpieczenie techniczne tych pomieszczeń oraz ich zabezpieczenie przed dostępem osób nieuprawnionych wraz z zapewnieniem kontroli i ewidencjonowania dostępu do tych pomieszczeń.
+
+**§ 2.** Ilekroć w rozporządzeniu jest mowa o:
+
+- **1)** załączniku A – należy przez to rozumieć załącznik A do Umowy dotyczącej międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzonej w Genewie dnia 30 września 1957 r. (Dz. U. z 2025 r. poz. 642 i 1575), zwanej dalej „Umową ADR”;
+- **2)** klasach materiałów niebezpiecznych – należy przez to rozumieć grupy materiałów niebezpiecznych wydzielone na podstawie zagrożenia dla życia lub zdrowia ludzi, mienia oraz środowiska, określone w załączniku A; grupy materiałów niebezpiecznych, o których mowa w niniejszym rozporządzeniu, obejmują:
+    - **a)** w klasie 1 „Materiały wybuchowe i przedmioty zawierające materiały wybuchowe” – materiały wybuchowe oraz przedmioty zawierające materiały wybuchowe, zaklasyfikowane do podklas 1.1, 1.2, 1.3, 1.4, 1.5 i 1.6,
+    - **b)** w klasie 3 „Materiały zapalne ciekłe” – roztwory odczulone nitrogliceryny o stężeniu do 30 %,
+    - **c)** w klasie 4.1 „Materiały zapalne stałe, materiały samoreaktywne, materiały polimeryzujące i materiały wybuchowe odczulone stałe” – materiały wybuchowe w stanie niewybuchowym, zaklasyfikowane do klasy 4.1 materiałów niebezpiecznych, jeśli przez wysuszenie lub przemycie mogą być im przywrócone właściwości wybuchowe,
+    - **d)** w klasie 9 „Różne materiały i przedmioty niebezpieczne” – przedmioty ratownicze zaklasyfikowane do klasy 9 materiałów niebezpiecznych, jeżeli zawierają materiały wybuchowe;
+
+- **3)** podklasach materiałów wybuchowych i przedmiotów zawierających materiały wybuchowe – należy przez to rozumieć wydzielone w klasie 1 „Materiały wybuchowe i przedmioty zawierające materiały wybuchowe” podklasy materiałów wybuchowych oraz przedmiotów zawierających materiały wybuchowe o podobnym zachowaniu przy spalaniu, deflagracji lub detonacji, określone w załączniku A;
+- **4)** grupach zgodności – należy przez to rozumieć oznaczone literowo grupy zgodności materiałów wybuchowych i przedmiotów zawierających materiały wybuchowe, określone w załączniku A;
+- **5)** obiekcie magazynowym – należy przez to rozumieć:
+    - **a)** budynek lub inny obiekt budowlany lub jego wydzieloną część, przeznaczone do przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym,
+    - **b)** wydzielone pomieszczenie magazynowe w budynku lub innym obiekcie budowlanym lub jego wydzielonej części, przeznaczone do przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym,
+    - **c)** wydzielony, oznaczony i chroniony teren, przeznaczony do przechowywania broni oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym.
+
+**§ 3.** Materiały wybuchowe, broń, amunicję oraz wyroby i technologię o przeznaczeniu wojskowym lub policyjnym przechowuje się w następujących rodzajach obiektów magazynowych:
+
+- **1)** magazynie bazowym – stanowiącym budynek lub inny obiekt budowlany lub jego wydzieloną część, przeznaczone do przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, w szczególności takich, które z uwagi na ich rodzaj lub ilość mogą podczas przechowywania stworzyć zagrożenie dla życia lub zdrowia wielu ludzi, a także powstania szkody w wielkich rozmiarach w mieniu oraz środowisku, w przypadku wybuchu, pożaru, utraty określonych parametrów technicznych lub innych niepożądanych zdarzeń;
+- **2)** magazynie podręcznym – stanowiącym każde pomieszczenie w budynku lub jego wydzieloną część, używane w celach przemysłowych, laboratoryjnych lub handlowych, lub pomieszczenie w rusznikarni, przeznaczone do przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym w ilościach niestwarzających istotnego zagrożenia dla życia lub zdrowia wielu ludzi, a także powstania szkody w wielkich rozmiarach w mieniu oraz środowisku, w przypadku wybuchu, pożaru, utraty określonych parametrów technicznych lub innych niepożądanych zdarzeń;
+- **3)** magazynie polowym – stanowiącym wydzielony, zabezpieczony i chroniony teren, przeznaczony do przechowywania broni lub wyrobów o przeznaczeniu wojskowym lub policyjnym o rozmiarach uniemożliwiających lub znacząco utrudniających ich przechowywanie w zamkniętym obiekcie magazynowym.
+
+**§ 4.**
+
+1. Wymagania organizacyjne w obiekcie magazynowym, w którym są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, spełnia się przez:
+
+- **1)** dostosowanie ilości i rodzaju przechowywanych materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym do wielkości, konstrukcji i wyposażenia obiektu magazynowego, zgodnie z wymaganiami określonymi w karcie kwalifikacyjnej obiektu magazynowego, o której mowa w § 9 ust. 1;
+- **2)** przechowywanie materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, według rodzajów i typów, w sposób umożliwiający dokładną kontrolę stanu ilościowego tych wyrobów;
+- **3)** zapewnienie warunków przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym uwzględniających wymagania w tym zakresie, określone przez wytwórców tych wyrobów;
+- **4)** przestrzeganie terminów dopuszczalnego okresu używania przechowywanych materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym zgodnie z ich przeznaczeniem, ustalonych przez wytwórców tych wyrobów lub uprawnione instytucje na podstawie odrębnych przepisów;
+- **5)** zapewnienie w obiekcie magazynowym transportu wewnątrzmagazynowego umożliwiającego bezpieczne przemieszczanie przechowywanych materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym oraz opakowań z tymi wyrobami;
+- **6)** przechowywanie i używanie w obiekcie magazynowym wyłącznie wyposażenia i narzędzi określonych w instrukcjach technicznych przechowywania oraz stanowiskowych instrukcjach bezpieczeństwa i higieny pracy w tym obiekcie;
+- **7)** wykonywanie w obiekcie magazynowym prac remontowych oraz prac związanych z używaniem otwartego ognia lub mogących doprowadzić do pożaru lub wybuchu przechowywanych materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym dopiero po uprzednim usunięciu przechowywanych wyrobów z obiektu magazynowego i uzyskaniu pisemnej zgody przedsiębiorcy przechowującego te wyroby na podjęcie wskazanych wyżej prac;
+- **8)** zabezpieczenie obiektu magazynowego wraz z przechowywanymi materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym przed kradzieżą i dostępem osób nieuprawnionych, poprzez zapewnienie bezpośredniej ochrony fizycznej stałej lub doraźnej, zgodnie z przepisami ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2025 r. poz. 532);
+- **9)** umieszczenie w widocznym miejscu na granicy strefy ochrony obiektu magazynowego, o której mowa w przepisach wykonawczych wydanych przez ministra właściwego do spraw gospodarki na podstawie art. 237 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661), lub na drzwiach wejściowych do obiektu magazynowego czytelnego napisu o zakazie palenia i używania otwartego ognia w tym obiekcie, a także związanego z tym zakazem oznakowania w formie graficznej;
+- **10)** utrzymywanie obiektu magazynowego w czystości i porządku.
+
 2. Przepisu ust. 1 pkt 4 nie stosuje się w przypadku przechowywania amunicji i przedmiotów zawierających materiał wybuchowy w celu ich deelaboracji lub utylizacji w sytuacji, gdy ta amunicja i przedmioty są pozbawione własnych środków inicjujących (zapalników i zapłonników) lub są przechowywane przez okres nie dłuższy niż 12 miesięcy.
-§ 5. 1. Wymagania techniczne w obiekcie magazynowym, w którym są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, spełnia się przez:
-1) zastosowanie odpowiedniej konstrukcji i wyposażenia obiektu magazynowego w celu zabezpieczenia przechowywanych materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym przed:
-a) oddziaływaniem czynników, które mogłyby doprowadzić przechowywane materiały wybuchowe, broń, amunicję oraz wyroby i technologię o przeznaczeniu wojskowym lub policyjnym do wybuchu, pożaru, utraty określonych parametrów technicznych lub innych niepożądanych zdarzeń,
-b) zachodzeniem w przechowywanych materiałach wybuchowych, broni, amunicji oraz wyrobach i technologii o przeznaczeniu wojskowym lub policyjnym niekorzystnych przemian chemicznych lub fizycznych mogących mieć wpływ na bezpieczeństwo przechowywania i używania tych wyrobów,
-c) dostawaniem się wód gruntowych,
-d) opadami lub innymi niebezpiecznymi zjawiskami atmosferycznymi,
-e) przekroczeniem podczas przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym dopuszczalnego zakresu temperatur i wilgotności powietrza określonych w instrukcji przechowywania tych wyrobów;
-2) wyposażenie obiektu magazynowego w urządzenia elektryczne, sygnalizacyjne, chroniące od wyładowań atmosferycznych oraz inne instalacje spełniające wymagania właściwej Polskiej Normy zharmonizowanej; stan techniczny tych urządzeń i instalacji podlega kontroli przed dopuszczeniem obiektu magazynowego do eksploatacji, a następnie co najmniej raz w roku; wyniki kontroli są dokumentowane w formie protokołu przechowywanego u przedsiębiorcy;
-3) zastosowanie w obiekcie magazynowym zabezpieczeń technicznych, o których mowa w art. 3 pkt 2 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, służących zabezpieczeniu tego obiektu magazynowego wraz z przechowywanymi materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym przed kradzieżą i dostępem osób nieuprawnionych;
-4) utrzymywanie obiektu magazynowego w dobrym stanie technicznym.
+
+**§ 5.**
+
+1. Wymagania techniczne w obiekcie magazynowym, w którym są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, spełnia się przez:
+
+- **1)** zastosowanie odpowiedniej konstrukcji i wyposażenia obiektu magazynowego w celu zabezpieczenia przechowywanych materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym przed:
+    - **a)** oddziaływaniem czynników, które mogłyby doprowadzić przechowywane materiały wybuchowe, broń, amunicję oraz wyroby i technologię o przeznaczeniu wojskowym lub policyjnym do wybuchu, pożaru, utraty określonych parametrów technicznych lub innych niepożądanych zdarzeń,
+    - **b)** zachodzeniem w przechowywanych materiałach wybuchowych, broni, amunicji oraz wyrobach i technologii o przeznaczeniu wojskowym lub policyjnym niekorzystnych przemian chemicznych lub fizycznych mogących mieć wpływ na bezpieczeństwo przechowywania i używania tych wyrobów,
+    - **c)** dostawaniem się wód gruntowych,
+    - **d)** opadami lub innymi niebezpiecznymi zjawiskami atmosferycznymi,
+    - **e)** przekroczeniem podczas przechowywania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym dopuszczalnego zakresu temperatur i wilgotności powietrza określonych w instrukcji przechowywania tych wyrobów;
+
+- **2)** wyposażenie obiektu magazynowego w urządzenia elektryczne, sygnalizacyjne, chroniące od wyładowań atmosferycznych oraz inne instalacje spełniające wymagania właściwej Polskiej Normy zharmonizowanej; stan techniczny tych urządzeń i instalacji podlega kontroli przed dopuszczeniem obiektu magazynowego do eksploatacji, a następnie co najmniej raz w roku; wyniki kontroli są dokumentowane w formie protokołu przechowywanego u przedsiębiorcy;
+- **3)** zastosowanie w obiekcie magazynowym zabezpieczeń technicznych, o których mowa w art. 3 pkt 2 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, służących zabezpieczeniu tego obiektu magazynowego wraz z przechowywanymi materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym przed kradzieżą i dostępem osób nieuprawnionych;
+- **4)** utrzymywanie obiektu magazynowego w dobrym stanie technicznym.
+
 2. Wymagania techniczne w obiekcie magazynowym, o którym mowa w ust. 1, w zakresie dotyczącym bezpieczeństwa pożarowego, w zakresie nieuregulowanym w rozporządzeniu, zapewnia się przez zastosowanie odpowiednich rozwiązań techniczno-budowlanych oraz wyposażenie w urządzenia przeciwpożarowe i gaśnice, według wymagań określonych odpowiednio w przepisach wydanych na podstawie art. 13 ust. 1 i ust. 3 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2025 r. poz. 188) oraz na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535 i 1673).
-§ 6. Wymagania organizacyjne w obiekcie magazynowym, w którym są przechowywane materiały wybuchowe oraz amunicja, spełnia się dodatkowo przez:
-1) przechowywanie materiałów wybuchowych oraz amunicji w opakowaniach i oznakowanych stosownie do wymagań określonych w Umowie ADR lub w Polskich Normach zharmonizowanych, o ile takie opakowanie i oznakowanie jest wymagane na podstawie Umowy ADR lub Polskich Norm zharmonizowanych;
-2) przechowywanie materiałów wybuchowych oraz amunicji posiadających certyfikaty klasyfikacyjne dla celów przewozu, o ile posiadanie takich certyfikatów jest wymagane na podstawie Umowy ADR;
-3) przestrzeganie zasad przechowywania razem materiałów wybuchowych oraz amunicji zaklasyfikowanych do różnych podklas i grup zgodności, określonych w Umowie ADR;
-4) wyznaczenie i oznaczenie wokół każdego obiektu magazynowego strefy ochrony, w której nie mogą występować czynniki zwiększające ryzyko wybuchu lub pożaru przechowywanych materiałów wybuchowych oraz amunicji.
-§ 7. 1. W jednym obiekcie magazynowym, z zastrzeżeniem ust. 2 i 3, nie przechowuje się jednocześnie:
-1) materiałów wybuchowych oraz amunicji zaklasyfikowanych do różnych grup zgodności w ramach klasy 1;
-2) materiałów wybuchowych oraz amunicji zaklasyfikowanych do klasy 1 z materiałami wybuchowymi zaklasyfikowanymi do klas 3, 4.1 i 9.
+
+**§ 6.** Wymagania organizacyjne w obiekcie magazynowym, w którym są przechowywane materiały wybuchowe oraz amunicja, spełnia się dodatkowo przez:
+
+- **1)** przechowywanie materiałów wybuchowych oraz amunicji w opakowaniach i oznakowanych stosownie do wymagań określonych w Umowie ADR lub w Polskich Normach zharmonizowanych, o ile takie opakowanie i oznakowanie jest wymagane na podstawie Umowy ADR lub Polskich Norm zharmonizowanych;
+- **2)** przechowywanie materiałów wybuchowych oraz amunicji posiadających certyfikaty klasyfikacyjne dla celów przewozu, o ile posiadanie takich certyfikatów jest wymagane na podstawie Umowy ADR;
+- **3)** przestrzeganie zasad przechowywania razem materiałów wybuchowych oraz amunicji zaklasyfikowanych do różnych podklas i grup zgodności, określonych w Umowie ADR;
+- **4)** wyznaczenie i oznaczenie wokół każdego obiektu magazynowego strefy ochrony, w której nie mogą występować czynniki zwiększające ryzyko wybuchu lub pożaru przechowywanych materiałów wybuchowych oraz amunicji.
+
+**§ 7.**
+
+1. W jednym obiekcie magazynowym, z zastrzeżeniem ust. 2 i 3, nie przechowuje się jednocześnie:
+
+- **1)** materiałów wybuchowych oraz amunicji zaklasyfikowanych do różnych grup zgodności w ramach klasy 1;
+- **2)** materiałów wybuchowych oraz amunicji zaklasyfikowanych do klasy 1 z materiałami wybuchowymi zaklasyfikowanymi do klas 3, 4.1 i 9.
+
 2. Materiały wybuchowe oraz amunicja zaklasyfikowane do grup zgodności C, D, E, G i S mogą być przechowywane razem.
+
 3. Dopuszcza się jednoczesne przechowywanie w tym samym obiekcie magazynowym materiałów wybuchowych oraz amunicji – zaklasyfikowanych do grup zgodności A lub B oraz materiałów wybuchowych i amunicji zaklasyfikowanych do pozostałych grup zgodności, pod warunkiem przechowywania materiałów wybuchowych oraz amunicji zaklasyfikowanych do grupy zgodności A lub B w oddzielnym pomieszczeniu zamkniętym i skonstruowanym w sposób uniemożliwiający przeniesienie detonacji z tego pomieszczenia na pozostałe pomieszczenia obiektu magazynowego.
+
 4. W magazynie podręcznym materiały wybuchowe oraz amunicja zaklasyfikowane do grupy zgodności A lub B mogą być jednocześnie przechowywane w tym samym pomieszczeniu magazynowym z materiałami wybuchowymi oraz amunicją, które zostały zaklasyfikowane do pozostałych grup zgodności, pod warunkiem umieszczenia ich w skrzyni, szafie lub specjalnym pojemniku, wykonanych z metalu, zamykanych oraz skonstruowanych w sposób uniemożliwiający przeniesienie detonacji z wnętrza skrzyni, szafy lub pojemnika na inne materiały wybuchowe oraz amunicję znajdujące się w pomieszczeniu magazynowym.
-§ 8. Wymagania techniczne w obiekcie magazynowym, w którym są przechowywane materiały wybuchowe oraz amunicja, spełnia się dodatkowo przez:
-1) konstrukcję i wyposażenie obiektu magazynowego, które zabezpieczają przechowywane materiały wybuchowe oraz amunicję przed ogrzaniem do temperatury powyżej 348 K (75 °C), chyba że przechowywanie tych wyrobów w wyższej temperaturze jest dopuszczone w instrukcji technicznej ich przechowywania;
-2) wykonanie obiektu magazynowego z wyrobów budowlanych o klasie reakcji na ogień co najmniej B oraz zapewnienie elementom budynku odpowiedniej klasy odporności ogniowej według wymagań dla budynków produkcyjno-magazynowych, określonych w przepisach wykonawczych wydanych na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
-3) zapewnienie, że:
-a) powierzchnie ścian, podłóg i sufitów w obiekcie magazynowym są trwałe i gładkie, bez szpar i pęknięć, w których gromadzić się mogą trudne do usunięcia drobiny materiałów wybuchowych,
-b) okładziny sufitów oraz sufity podwieszone są wykonane z wyrobów o klasie reakcji na ogień co najmniej B, d0,
-c) okładziny ścienne oraz stałe elementy wyposażenia obiektu magazynowego są wykonane z wyrobów o klasie reakcji na ogień co najmniej D-s1,
-d) posadzki, w tym wykładziny podłogowe, są wykonane z wyrobów o klasie reakcji na ogień co najmniej C -s2,
-e) podłogi i stałe elementy wyposażenia obiektu magazynowego są wykonane w sposób uniemożliwiający gromadzenie się ładunków elektrostatycznych, zgodnie z wymaganiami Polskiej Normy zharmonizowanej w zakresie ochrony przed elektrycznością statyczną;
-4) zainstalowanie w obiekcie magazynowym drzwi ewakuacyjnych, które otwierają się na zewnątrz obiektu lub rozsuwają się; w przypadku zainstalowania okien służących za dodatkowe wyjścia awaryjne otwierają się one na zewnątrz, a otwory okienne posiadają wymiary nie mniejsze niż 0,75 m × 0,75 m i umożliwiają ewakuację w sposób bezpieczny bezpośrednio na zewnątrz obiektu magazynowego; różnica wysokości pomiędzy dolną krawędzią okien służących za dodatkowe wyjścia awaryjne a poziomem powierzchni, na którą następować będzie ewakuacja, nie przekracza 0,9 m;
-5) wyposażenie obiektu magazynowego w:
-a) urządzenia gaśnicze określone w karcie kwalifikacyjnej obiektu magazynowego, o której mowa w § 9 ust. 1, jeżeli wynika to z właściwości i zagrożeń stwarzanych przez przechowywane materiały wybuchowe i amunicję,
-b) system wentylacji określony w karcie kwalifikacyjnej obiektu magazynowego, o której mowa w § 9 ust. 1,
-c) instalację chroniącą od wyładowań atmosferycznych spełniającą wymagania Polskich Norm zharmonizowanych dotyczących ochrony odgromowej dla obiektów zagrożonych wybuchem,
-d) urządzenia do pomiaru temperatury i wilgotności powietrza wewnątrz obiektu magazynowego, jeśli tego wymaga instrukcja techniczna przechowywania materiałów wybuchowych i amunicji,
-e) instalację grzewczą, w której temperatura elementów i przewodów grzewczych jest co najmniej o 50 °C niższa od temperatury rozkładu przechowywanego materiału wybuchowego, jednak nie wyższa niż 120 °C (393 K), jeżeli wyposażenie w taką instalację jest konieczne ze względu na właściwości przechowywanych materiałów wybuchowych i amunicji;
-6) doprowadzenie do obiektu magazynowego drogi o utwardzonej nawierzchni, przebiegającej od innej strony niż miejsca lokalizacji powierzchni odciążających, umożliwiającej dojazd pojazdów jednostek ochrony przeciwpożarowej, niezależnie od pory roku i warunków atmosferycznych, spełniającej wymagania określone w przepisach wykonawczych wydanych na podstawie art. 13 ust. 3 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej;
-7) zapewnienie przeciwpożarowego zaopatrzenia obiektu magazynowego w wodę do zewnętrznego gaszenia pożaru obiektu magazynowego w ilości co najmniej 10 dm /s, zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 13 ust. 3 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej.
-§ 9. 1. Dla każdego obiektu magazynowego, w którym są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, prowadzi się kartę kwalifikacyjną obiektu magazynowego.
+
+**§ 8.** Wymagania techniczne w obiekcie magazynowym, w którym są przechowywane materiały wybuchowe oraz amunicja, spełnia się dodatkowo przez:
+
+- **1)** konstrukcję i wyposażenie obiektu magazynowego, które zabezpieczają przechowywane materiały wybuchowe oraz amunicję przed ogrzaniem do temperatury powyżej 348 K (75 °C), chyba że przechowywanie tych wyrobów w wyższej temperaturze jest dopuszczone w instrukcji technicznej ich przechowywania;
+- **2)** wykonanie obiektu magazynowego z wyrobów budowlanych o klasie reakcji na ogień co najmniej B oraz zapewnienie elementom budynku odpowiedniej klasy odporności ogniowej według wymagań dla budynków produkcyjno-magazynowych, określonych w przepisach wykonawczych wydanych na podstawie art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
+- **3)** zapewnienie, że:
+    - **a)** powierzchnie ścian, podłóg i sufitów w obiekcie magazynowym są trwałe i gładkie, bez szpar i pęknięć, w których gromadzić się mogą trudne do usunięcia drobiny materiałów wybuchowych,
+    - **b)** okładziny sufitów oraz sufity podwieszone są wykonane z wyrobów o klasie reakcji na ogień co najmniej B, d0,
+    - **c)** okładziny ścienne oraz stałe elementy wyposażenia obiektu magazynowego są wykonane z wyrobów o klasie reakcji na ogień co najmniej D-s1,
+    - **d)** posadzki, w tym wykładziny podłogowe, są wykonane z wyrobów o klasie reakcji na ogień co najmniej C -s2,
+    - **e)** podłogi i stałe elementy wyposażenia obiektu magazynowego są wykonane w sposób uniemożliwiający gromadzenie się ładunków elektrostatycznych, zgodnie z wymaganiami Polskiej Normy zharmonizowanej w zakresie ochrony przed elektrycznością statyczną;
+
+- **4)** zainstalowanie w obiekcie magazynowym drzwi ewakuacyjnych, które otwierają się na zewnątrz obiektu lub rozsuwają się; w przypadku zainstalowania okien służących za dodatkowe wyjścia awaryjne otwierają się one na zewnątrz, a otwory okienne posiadają wymiary nie mniejsze niż 0,75 m × 0,75 m i umożliwiają ewakuację w sposób bezpieczny bezpośrednio na zewnątrz obiektu magazynowego; różnica wysokości pomiędzy dolną krawędzią okien służących za dodatkowe wyjścia awaryjne a poziomem powierzchni, na którą następować będzie ewakuacja, nie przekracza 0,9 m;
+- **5)** wyposażenie obiektu magazynowego w:
+    - **a)** urządzenia gaśnicze określone w karcie kwalifikacyjnej obiektu magazynowego, o której mowa w § 9 ust. 1, jeżeli wynika to z właściwości i zagrożeń stwarzanych przez przechowywane materiały wybuchowe i amunicję,
+    - **b)** system wentylacji określony w karcie kwalifikacyjnej obiektu magazynowego, o której mowa w § 9 ust. 1,
+    - **c)** instalację chroniącą od wyładowań atmosferycznych spełniającą wymagania Polskich Norm zharmonizowanych dotyczących ochrony odgromowej dla obiektów zagrożonych wybuchem,
+    - **d)** urządzenia do pomiaru temperatury i wilgotności powietrza wewnątrz obiektu magazynowego, jeśli tego wymaga instrukcja techniczna przechowywania materiałów wybuchowych i amunicji,
+    - **e)** instalację grzewczą, w której temperatura elementów i przewodów grzewczych jest co najmniej o 50 °C niższa od temperatury rozkładu przechowywanego materiału wybuchowego, jednak nie wyższa niż 120 °C (393 K), jeżeli wyposażenie w taką instalację jest konieczne ze względu na właściwości przechowywanych materiałów wybuchowych i amunicji;
+
+- **6)** doprowadzenie do obiektu magazynowego drogi o utwardzonej nawierzchni, przebiegającej od innej strony niż miejsca lokalizacji powierzchni odciążających, umożliwiającej dojazd pojazdów jednostek ochrony przeciwpożarowej, niezależnie od pory roku i warunków atmosferycznych, spełniającej wymagania określone w przepisach wykonawczych wydanych na podstawie art. 13 ust. 3 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej;
+- **7)** zapewnienie przeciwpożarowego zaopatrzenia obiektu magazynowego w wodę do zewnętrznego gaszenia pożaru obiektu magazynowego w ilości co najmniej 10 dm /s, zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 13 ust. 3 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej.
+
+**§ 9.**
+
+1. Dla każdego obiektu magazynowego, w którym są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, prowadzi się kartę kwalifikacyjną obiektu magazynowego.
+
 2. Szczegółowe wymogi prowadzenia karty kwalifikacyjnej, o której mowa w ust. 1, określa załącznik nr 1 do rozporządzenia.
+
 3. W przypadku gdy w obiekcie magazynowym są przechowywane materiały wybuchowe, do karty kwalifikacyjnej dołącza się aktualne karty oceny materiału wybuchowego pod względem bezpieczeństwa, określone w przepisach wykonawczych wydanych przez ministra właściwego do spraw gospodarki na podstawie art. 237 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, wystawione dla wszystkich przechowywanych w obiekcie magazynowym materiałów wybuchowych.
-§ 10. Wymagania w zakresie lokalizacji oraz warunków technicznych obiektu magazynowego, w którym są przechowywane materiały wybuchowe i amunicja, a także dopuszczalnej ilości materiałów wybuchowych przechowywanych w obiekcie magazynowym w przypadku:
-1) materiałów wybuchowych i amunicji zaklasyfikowanych do podklasy 1.1 i 1.5 oraz klas 3 i 4.1 – określa załącznik nr 2 do rozporządzenia;
-2) materiałów wybuchowych i amunicji zaklasyfikowanych do podklasy 1.2, 1.3, 1.4, 1.6 oraz klasy 9 – określa załącznik nr 3 do rozporządzenia.
-§ 11. Wymagania organizacyjne w pomieszczeniu magazynowym, w którym są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, spełnia się przez:
-1) przechowywanie materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym w sposób uporządkowany według rodzajów i typów, zapewniający łatwy dostęp do znajdujących się na tych wyrobach lub ich opakowaniach oznaczeń lub etykiet;
-2) układanie opakowań z materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, a także samych tych wyrobów – w przypadku gdy ich przechowywanie w opakowaniach nie jest wymagane, w sposób:
-a) uniemożliwiający przypadkowe przemieszczanie lub przewracanie wyrobów lub opakowań z wyrobami lub ich deformowanie pod wpływem nadmiernego ciężaru w przypadku umieszczenia jednego wyrobu lub opakowania z wyrobem na drugim wyrobie lub opakowaniu z wyrobem,
-b) umożliwiający łatwe manewrowanie wyrobami lub opakowaniami z wyrobami zgodnie z potrzebami oraz wymaganiami bezpieczeństwa i higieny pracy;
-3) przestrzeganie dopuszczalnego obciążenia regałów lub poszczególnych ich półek, na których są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, określonego przez wytwórców tych regałów;
-4) zapewnienie, że przestrzenie między ustawionymi na podłodze pomieszczenia magazynowego materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, a także opakowaniami z tymi wyrobami, jak również przestrzenie między regałami, na których umieszczone są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, umożliwiają swobodne poruszanie się pracowników oraz operowanie środkami transportu wewnątrzmagazynowego, jeżeli stosowanie takich środków jest konieczne;
-5) umieszczenie na ścianie lub drzwiach pomieszczenia magazynowego w sposób trwały napisów określających:
-a) podklasy i grupy zgodności przechowywanych materiałów wybuchowych i amunicji,
-b) dopuszczalną ilość materiałów wybuchowych i amunicji przechowywanych jednocześnie w pomieszczeniu magazynowym,
-c) dopuszczalną liczbę pracowników, którzy mogą jednocześnie przebywać w pomieszczeniu magazynowym.
-§ 12. 1. Pomieszczenie magazynowe wraz z przechowywanymi materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym skutecznie zabezpiecza się przed dostępem osób nieuprawnionych oraz zapewnia się kontrolę i ewidencjonowanie dostępu do tego pomieszczenia.
+
+**§ 10.** Wymagania w zakresie lokalizacji oraz warunków technicznych obiektu magazynowego, w którym są przechowywane materiały wybuchowe i amunicja, a także dopuszczalnej ilości materiałów wybuchowych przechowywanych w obiekcie magazynowym w przypadku:
+
+- **1)** materiałów wybuchowych i amunicji zaklasyfikowanych do podklasy 1.1 i 1.5 oraz klas 3 i 4.1 – określa załącznik nr 2 do rozporządzenia;
+- **2)** materiałów wybuchowych i amunicji zaklasyfikowanych do podklasy 1.2, 1.3, 1.4, 1.6 oraz klasy 9 – określa załącznik nr 3 do rozporządzenia.
+
+**§ 11.** Wymagania organizacyjne w pomieszczeniu magazynowym, w którym są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, spełnia się przez:
+
+- **1)** przechowywanie materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym w sposób uporządkowany według rodzajów i typów, zapewniający łatwy dostęp do znajdujących się na tych wyrobach lub ich opakowaniach oznaczeń lub etykiet;
+- **2)** układanie opakowań z materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, a także samych tych wyrobów – w przypadku gdy ich przechowywanie w opakowaniach nie jest wymagane, w sposób:
+    - **a)** uniemożliwiający przypadkowe przemieszczanie lub przewracanie wyrobów lub opakowań z wyrobami lub ich deformowanie pod wpływem nadmiernego ciężaru w przypadku umieszczenia jednego wyrobu lub opakowania z wyrobem na drugim wyrobie lub opakowaniu z wyrobem,
+    - **b)** umożliwiający łatwe manewrowanie wyrobami lub opakowaniami z wyrobami zgodnie z potrzebami oraz wymaganiami bezpieczeństwa i higieny pracy;
+
+- **3)** przestrzeganie dopuszczalnego obciążenia regałów lub poszczególnych ich półek, na których są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, określonego przez wytwórców tych regałów;
+- **4)** zapewnienie, że przestrzenie między ustawionymi na podłodze pomieszczenia magazynowego materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, a także opakowaniami z tymi wyrobami, jak również przestrzenie między regałami, na których umieszczone są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, umożliwiają swobodne poruszanie się pracowników oraz operowanie środkami transportu wewnątrzmagazynowego, jeżeli stosowanie takich środków jest konieczne;
+- **5)** umieszczenie na ścianie lub drzwiach pomieszczenia magazynowego w sposób trwały napisów określających:
+    - **a)** podklasy i grupy zgodności przechowywanych materiałów wybuchowych i amunicji,
+    - **b)** dopuszczalną ilość materiałów wybuchowych i amunicji przechowywanych jednocześnie w pomieszczeniu magazynowym,
+    - **c)** dopuszczalną liczbę pracowników, którzy mogą jednocześnie przebywać w pomieszczeniu magazynowym.
+
+**§ 12.**
+
+1. Pomieszczenie magazynowe wraz z przechowywanymi materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym skutecznie zabezpiecza się przed dostępem osób nieuprawnionych oraz zapewnia się kontrolę i ewidencjonowanie dostępu do tego pomieszczenia.
+
 2. Każdorazowe wejście osoby do pomieszczenia magazynowego, w którym przechowuje się materiały wybuchowe, broń, amunicję oraz wyroby i technologię o przeznaczeniu wojskowym lub policyjnym, bezzwłocznie odnotowuje się w ewidencji osób wchodzących do tego pomieszczenia, z zastrzeżeniem ust. 3.
+
 3. Ewidencji, o której mowa w ust. 2, nie prowadzi się w magazynie podręcznym, w którym prowadzi się sprzedaż materiałów wybuchowych, broni i amunicji, o którym mowa w załączniku nr 4 do rozporządzenia.
+
 4. Ewidencja, o której mowa w ust. 2, zawiera:
-1) oznaczenie przedsiębiorcy, do którego należy pomieszczenie magazynowe, oraz jego adres;
-2) przeznaczenie pomieszczenia magazynowego;
-3) numer, którym przedsiębiorca oznaczył pomieszczenie magazynowe, określony w karcie kwalifikacyjnej obiektu magazynowego, o której mowa w § 9 ust. 1;
-4) datę założenia ewidencji;
-5) datę zakończenia prowadzenia ewidencji;
-6) imiona i nazwiska osób upoważnionych do wchodzenia do pomieszczenia magazynowego oraz funkcje pełnione przez te osoby w przedsiębiorstwie;
-7) datę udzielenia przez przedsiębiorcę, o którym mowa w pkt 1, upoważnienia do wchodzenia do pomieszczenia magazynowego.
+
+- **1)** oznaczenie przedsiębiorcy, do którego należy pomieszczenie magazynowe, oraz jego adres;
+- **2)** przeznaczenie pomieszczenia magazynowego;
+- **3)** numer, którym przedsiębiorca oznaczył pomieszczenie magazynowe, określony w karcie kwalifikacyjnej obiektu magazynowego, o której mowa w § 9 ust. 1;
+- **4)** datę założenia ewidencji;
+- **5)** datę zakończenia prowadzenia ewidencji;
+- **6)** imiona i nazwiska osób upoważnionych do wchodzenia do pomieszczenia magazynowego oraz funkcje pełnione przez te osoby w przedsiębiorstwie;
+- **7)** datę udzielenia przez przedsiębiorcę, o którym mowa w pkt 1, upoważnienia do wchodzenia do pomieszczenia magazynowego.
+
 5. W ewidencji, o której mowa w ust. 2, zapisuje się każdorazowo:
-1) imię i nazwisko osoby upoważnionej wchodzącej do pomieszczenia magazynowego;
-2) datę i godzinę wejścia do pomieszczenia magazynowego osoby upoważnionej;
-3) datę i godzinę wyjścia z pomieszczenia magazynowego osoby upoważnionej;
-4) imię i nazwisko osoby nieposiadającej upoważnienia wchodzącej do pomieszczenia magazynowego z osobą upoważnioną.
+
+- **1)** imię i nazwisko osoby upoważnionej wchodzącej do pomieszczenia magazynowego;
+- **2)** datę i godzinę wejścia do pomieszczenia magazynowego osoby upoważnionej;
+- **3)** datę i godzinę wyjścia z pomieszczenia magazynowego osoby upoważnionej;
+- **4)** imię i nazwisko osoby nieposiadającej upoważnienia wchodzącej do pomieszczenia magazynowego z osobą upoważnioną.
+
 6. Ewidencję, o której mowa w ust. 2, prowadzi się w postaci papierowej lub elektronicznej.
+
 7. Przepisy ust. 2 oraz ust. 4–6 stosuje się odpowiednio do magazynu polowego, o którym mowa w § 3 pkt 3.
-§ 13. W zakresie warunków lokalizacyjnych, jakie muszą spełniać pomieszczenia magazynowe, w których są przechowywane materiały wybuchowe i amunicja, stosuje się odpowiednio przepisy załączników nr 2 i 3 do rozporządzenia.
-§ 14. Wymagania w zakresie lokalizacji, niezbędnych warunków technicznych oraz zabezpieczenia przed dostępem osób nieuprawnionych dotyczące magazynu podręcznego, w którym prowadzi się sprzedaż materiałów wybuchowych, broni i amunicji, określa załącznik nr 4 do rozporządzenia.
-§ 15. Obiekty magazynowe, w których są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, funkcjonujące w dniu wejścia w życie rozporządzenia, dostosowuje się do wymagań rozporządzenia do dnia 1 stycznia 2027 r.
-§ 16. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-SZCZEGÓŁOWE WYMOGI PROWADZENIA KARTY KWALIFIKACYJNEJ OBIEKTU MAGAZYNOWEGO, W KTÓRYM SĄ PRZECHOWYWANE MATERIAŁY WYBUCHOWE, BROŃ, AMUNICJA ORAZ WYROBY I TECHNOLOGIA O PRZEZNACZENIU WOJSKOWYM LUB POLICYJNYM
+
+**§ 13.** W zakresie warunków lokalizacyjnych, jakie muszą spełniać pomieszczenia magazynowe, w których są przechowywane materiały wybuchowe i amunicja, stosuje się odpowiednio przepisy załączników nr 2 i 3 do rozporządzenia.
+
+**§ 14.** Wymagania w zakresie lokalizacji, niezbędnych warunków technicznych oraz zabezpieczenia przed dostępem osób nieuprawnionych dotyczące magazynu podręcznego, w którym prowadzi się sprzedaż materiałów wybuchowych, broni i amunicji, określa załącznik nr 4 do rozporządzenia.
+
+**§ 15.** Obiekty magazynowe, w których są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, funkcjonujące w dniu wejścia w życie rozporządzenia, dostosowuje się do wymagań rozporządzenia do dnia 1 stycznia 2027 r.
+
+**§ 16.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . SZCZEGÓŁOWE WYMOGI PROWADZENIA KARTY KWALIFIKACYJNEJ OBIEKTU MAGAZYNOWEGO, W KTÓRYM SĄ PRZECHOWYWANE MATERIAŁY WYBUCHOWE, BROŃ, AMUNICJA ORAZ WYROBY I TECHNOLOGIA O PRZEZNACZENIU WOJSKOWYM LUB POLICYJNYM
+
+## Załącznik
+
 § 1. Kartę kwalifikacyjną, o której mowa w § 9 ust. 1 rozporządzenia, sporządza zespół specjalistów posiadających odpowiednie uprawnienia budowlane, kwalifikacje w dziedzinie bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej, powoływany przez przedsiębiorcę.
 § 2. Zatwierdzona przez przedsiębiorcę karta kwalifikacyjna stanowi załącznik do książki obiektu budowlanego, o której mowa w art. 64 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
 § 3. Karta kwalifikacyjna zawiera:
@@ -228,6 +286,7 @@ Obiekt użyteczności publicznej, w którym gromadzi się duża liczba lu5 dzi, 
 23. W przypadku gdy obiekty, o których mowa w ust. 18 w tabeli 1 w wierszach oznaczonych liczbami porządkowymi 1–3, są obwałowane, z uwzględnieniem ust. 17 pkt 1, obliczoną w stosunku do tych obiektów minimalną dopuszczalną odległość można zmniejszyć o 30 %.
 24. W przypadku przechowywania materiału wybuchowego w wydzielonych pomieszczeniach (komorach) magazynu bazowego, między którymi nie może nastąpić przeniesienie detonacji, minimalną dopuszczalną odległość oblicza się dla pomieszczenia, w którym przechowywany jest materiał wybuchowy o największym równoważniku heksogenowym (G).
 25. W przypadku gdy w wyniku wybuchu materiału wybuchowego lub amunicji przechowywanych w magazynie bazowym jest możliwy rozrzut odłamków o dużej masie, minimalna dopuszczalna odległość tego magazynu od obiektów wymienionych w ust. 18 w tabeli 1 w wierszach oznaczonych liczbami porządkowymi 1–3 wynosi co najmniej 180 m, w przypadku obiektów wymienionych w wierszu oznaczonym liczbą porządkową 4 – co najmniej 275 m, a w przypadku obiektów wymienionych w wierszu oznaczonym liczbą porządkową 5 – co najmniej 400 m. Za odłamek o dużej masie uznaje się odłamek o masie powyżej 1 kg, który uderzając w zagrożony obiekt, jest w stanie naruszyć jego konstrukcję.
+Część II. Wymagania dotyczące magazynu podręcznego
 § 2. 1. W magazynie podręcznym przechowuje się materiał wybuchowy oraz amunicję zaklasyfikowane do podklasy 1.1 i 1.5 oraz klas 3 i 4.1 w ilościach netto nieprzekraczających wielkości podanych w tabeli 2.
 Tabela 2. Ilość materiału wybuchowego netto dopuszczona do przechowywania w magazynie podręcznym Lp. Podklasa materiału Grupa Dopuszczalna masa netto przechowywanego materiału wybuchowego zgodności wybuchowego 1 1.1 A 1 kg 2 1.1 B 1 kg 3 1.1 C 25 kg 4 1.1 i 1.5 D 5 kg w ilościach uzasadnionych z punktu widzenia bezpieczeństwa 5 1.1 E, F, J, K, L ludzi, mienia i środowiska naturalnego w magazynie podręcznym oraz jego otoczeniu, stosownie do zapisu w karcie oceny materiału wybuchowego pod względem bezpieczeństwa 6 1.1 G 25 kg 7 3 i 4.1 25 kg
 2. W przypadku jednoczesnego przechowywania materiałów wybuchowych zaklasyfikowanych do różnych grup zgodności z zachowaniem zasad przechowywania razem materiałów wybuchowych i amunicji określonych w Umowie ADR, dopuszczalna ilość materiałów wybuchowych obliczona zgodnie z poniższym wzorem: 𝑔 ⁄ +⋯ 𝑔 ⁄ ….+ 𝑔 ⁄ ≤1 𝐺 𝐺 𝐺 gdzie poszczególne symbole oznaczają: g – masę równoważnika heksogenowego przechowywanego materiału wybuchowego danej grupy zgodności w kg, G – dopuszczalną masę równoważnika heksogenowego dla danej grupy zgodności, wyrażoną w kg, wyliczoną z dopuszczalnej masy netto przechowywanego materiału wybuchowego, podanej w ust. 1 w tabeli 2, – liczbę porządkową (lp.) w ust. 1 w tabeli 2.
@@ -255,6 +314,7 @@ Tabela 1. Kryteria lokalizacji magazynu bazowego nieobwałowanego w stosunku do 
 6. W przypadku gdy magazyn bazowy składa się z dwóch lub więcej wyodrębnionych wewnętrznych pomieszczeń lub komór, między którymi nie może nastąpić przeniesienie detonacji, przy obliczaniu minimalnej dopuszczalnej odległości, o której mowa w ust. 2, bierze się pod uwagę to pomieszczenie lub komorę, które wymaga największej odległości.
 7. Magazyn bazowy stanowi odrębną strefę pożarową, oddzieloną od innych budynków lub innych części budynku elementami oddzielenia przeciwpożarowego o klasie odporności ogniowej co najmniej REI 120 lub pasami wolnego terenu o szerokości nie mniejszej niż 20 m. Otwory w elementach oddzielenia przeciwpożarowego zamyka się drzwiami przeciwpożarowymi lub innymi zamknięciami przeciwpożarowymi o klasie odporności ogniowej co najmniej EI 60.
 8. W przypadku gdy w magazynie bazowym przechowuje się wyłącznie materiały wybuchowe i amunicję zaklasyfikowane do podklasy 1.4S lub 1.6 oraz klasy 9, o łącznej masie netto nieprzekraczającej 1000 kg, dopuszcza się jego zlokalizowanie w części obiektu wydzielonej przeciwpożarowo ścianami wewnętrznymi o klasie odporności ogniowej co najmniej EI 60 oraz stropami o klasie odporności ogniowej co najmniej REI 60, zamykanej drzwiami o klasie odporności ogniowej EI 30, bez konieczności wydzielania tego magazynu bazowego jako odrębnej strefy pożarowej.
+Część II. Wymagania dotyczące magazynu podręcznego
 § 2. 1. Materiały wybuchowe i amunicja zaklasyfikowane do podklasy 1.2, 1.3, 1.4 i 1.6 mogą być przechowywane w magazynie podręcznym w ilości podanej w tabeli 2.
 Tabela 2. Ilości materiałów wybuchowych zaklasyfikowanych do podklasy 1.2, 1.3, 1.4 i 1.6 dopuszczone do przechowywania w magazynie podręcznym Podklasa Grupa materiału zgodności Dopuszczalna masa przechowywanych materiałów wybuchowych wybuchowego
 1.2 B 1 kg netto
@@ -297,8 +357,4 @@ WYMAGANIA W ZAKRESIE LOKALIZACJI, NIEZBĘDNYCH WARUNKÓW TECHNICZNYCH ORAZ ZABEZ
 4. Szafy metalowe i gabloty szklane, o których mowa w ust. 1–3, posiadają certyfikaty zgodności identyfikujące odpowiednio dany wyrób z certyfikatem.
 § 7. W przypadku przechowywania amunicji w pomieszczeniu sklepowym znajdującym się w magazynie podręcznym, o którym mowa w § 1, przechowywana amunicja zawiera wyłącznie materiał wybuchowy zaklasyfikowany do podklasy 1.4S o łącznej masie nieprzekraczającej 100 kg brutto.
 § 8. W celu skutecznego zabezpieczenia przechowywanych materiałów wybuchowych, broni i amunicji przed osobami nieuprawnionymi zabrania się stosowania w magazynie podręcznym, o którym mowa w § 1, systemu samoobsługowego.
-
-## Część II. Wymagania dotyczące magazynu podręcznego
-
-## Część II. Wymagania dotyczące magazynu podręcznego
 

@@ -26,13 +26,16 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001811) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1811/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek Na podstawie art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2, art. 24 ust. 2 w związku z art. 43 ust. 1 i 2, art. 44, art. 46 i art. 53 ust. 3 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2017 r. poz. 2142 i 2203 oraz z 2018 r. poz. 106, 650 i 1000) zarządza się, co następuje:
-§ 1. W rozporządzeniu Rady Ministrów z dnia 2 lutego 2010 r. w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek (Dz. U. poz. 134, z późn. zm. ) wprowadza się następujące zmiany:
-1) w załączniku nr 1 do rozporządzenia:
-a) tytuł tabeli A otrzymuje brzmienie: „Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pracowników, o których mowa w tabeli I oraz II załącznika nr 3 do rozporządzenia”,
-b) tytuł tabeli B otrzymuje brzmienie: „Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pracowników, o których mowa w tabeli VIII, IX oraz X załącznika nr 3 do rozporządzenia”;
-2) w załączniku nr 3 do rozporządzenia w tabeli IX:
-a) lp. 3 i 4 otrzymują brzmienie: Wicedyrektor biura (zespołu), wyższe rzecznik prasowy 7 3 główny specjalista do spraw legislacji XVIII–XX 9 wyższe prawnicze główny księgowy według odrębnych przepisów Naczelnik działu (zespołu), naczelnik oddziału Polskiej Akademii Nauk, wyższe 7 4 radca Prezesa Polskiej Akademii Nauk XVII–XVIII 8 pełnomocnik do spraw ochrony informacji według odrębnych przepisów niejawnych, audytor wewnętrzny
-b) lp. 9 otrzymuje brzmienie: wyższe 3 9 Starszy inspektor XI–XIII – średnie 6
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Rady Ministrów z dnia 2 lutego 2010 r. w sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych w urzędach administracji rządowej i pracowników innych jednostek (Dz. U. poz. 134, z późn. zm. ) wprowadza się następujące zmiany:
+
+- **1)** w załączniku nr 1 do rozporządzenia:
+    - **a)** tytuł tabeli A otrzymuje brzmienie: „Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pracowników, o których mowa w tabeli I oraz II załącznika nr 3 do rozporządzenia”,
+    - **b)** tytuł tabeli B otrzymuje brzmienie: „Tabela miesięcznych stawek wynagrodzenia zasadniczego dla pracowników, o których mowa w tabeli VIII, IX oraz X załącznika nr 3 do rozporządzenia”;
+
+- **2)** w załączniku nr 3 do rozporządzenia w tabeli IX:
+    - **a)** lp. 3 i 4 otrzymują brzmienie: Wicedyrektor biura (zespołu), wyższe rzecznik prasowy 7 3 główny specjalista do spraw legislacji XVIII–XX 9 wyższe prawnicze główny księgowy według odrębnych przepisów Naczelnik działu (zespołu), naczelnik oddziału Polskiej Akademii Nauk, wyższe 7 4 radca Prezesa Polskiej Akademii Nauk XVII–XVIII 8 pełnomocnik do spraw ochrony informacji według odrębnych przepisów niejawnych, audytor wewnętrzny
+    - **b)** lp. 9 otrzymuje brzmienie: wyższe 3 9 Starszy inspektor XI–XIII – średnie 6
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

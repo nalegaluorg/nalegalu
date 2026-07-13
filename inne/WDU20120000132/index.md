@@ -29,10 +29,8 @@ Warszawa, dnia 7 lutego 2012 v r.
 Pozycja 132 o ROZPORZĄDZENIE MINISTRA PRACY I POLITYKI SPOŁECZNEJ z dnia 2 lutego g 2012 r.
 zmieniające rozporządzenie w sprawie określenia zakresu danych zawartych w dokumencie płatniczym przekazywanym przez zarządzającego do Zakładu Ubezpieczeń Społecznych Na podstawie art. 45 ust. 4 ustawy z dnia 20 kwietnia . 2004 r. o pracowniczych programach emerytalnych (Dz. U.
 Nr 116, poz. 1207, z późn. zm. ) zarządza się, co następuje: l
-§ 1. W rozporządzeniu Ministra Polityki Społecznej z dnia 28 maja 2004 r. w sprawie określenia zakresu danych zawartych w dokumencie płatniczym przekazywanym c przez zarządzającego do Zakładu Ubezpieczeń Społecznych (Dz. U.
-Nr 123, poz. 1299) w § 3 w ust. 1 w pkt 6 lit. a otrzymuje brzmienie: „a) imię i nazwisko, numer PESEL uczestnika, a jeżeli uczestnikowi nie nadano tego numeru, podaje się serię i numer dowodu osobistego lub paszportu,”.
-r
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-.
-Minister Pracy i Polityki Społecznej: W. Kosiniak-Kamysz w w w
+
+**§ 1.** W rozporządzeniu Ministra Polityki Społecznej z dnia 28 maja 2004 r. w sprawie określenia zakresu danych zawartych w dokumencie płatniczym przekazywanym c przez zarządzającego do Zakładu Ubezpieczeń Społecznych (Dz. U. Nr 123, poz. 1299) w § 3 w ust. 1 w pkt 6 lit. a otrzymuje brzmienie: „a) imię i nazwisko, numer PESEL uczestnika, a jeżeli uczestnikowi nie nadano tego numeru, podaje się serię i numer dowodu osobistego lub paszportu,”. r
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia. . Minister Pracy i Polityki Społecznej: W. Kosiniak-Kamysz w w w
 

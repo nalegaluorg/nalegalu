@@ -31,243 +31,22 @@ source: pdf
 
 - **1)** w art. 4 w pkt 20 kropkę zastępuje się średnikiem i dodaje się pkt 21 w brzmieniu: „21) osoba wykonująca samodzielny zawód medyczny – fizjoterapeutę, o którym mowa w ustawie z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. z 2023 r. poz. 1213 i 1234), oraz pielęgniarkę lub pielęgniarza, o których mowa w ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2026 r. poz. 15).”;
 - **2)** w art. 68:
-    - **a)** w ust. 1: – w pkt 1 uchyla się lit. f, – pkt 5 otrzymuje brzmienie: „5) orzekanie przez lekarzy orzeczników oraz osoby wykonujące samodzielny zawód medyczny dla potrzeb ustalania uprawnień do świadczeń z ubezpieczeń społecznych, innych świadczeń należących do właściwości Zakładu oraz dla celów realizacji zadań zleconych Zakładowi na podstawie innych ustaw, a także kontrola orzecznictwa o czasowej niezdolności do pracy;”, – pkt 7 i 8 otrzymują brzmienie: „7) informowanie o zadaniach wykonywanych przez Zakład;
+    - **a)** w ust. 1: – w pkt 1 uchyla się lit. f, – pkt 5 otrzymuje brzmienie: „5) orzekanie przez lekarzy orzeczników oraz osoby wykonujące samodzielny zawód medyczny dla potrzeb ustalania uprawnień do świadczeń z ubezpieczeń społecznych, innych świadczeń należących do właściwości Zakładu oraz dla celów realizacji zadań zleconych Zakładowi na podstawie innych ustaw, a także kontrola orzecznictwa o czasowej niezdolności do pracy;”, – pkt 7 i 8 otrzymują brzmienie: „7) informowanie o zadaniach wykonywanych przez Zakład; 8) popularyzacja wiedzy o zabezpieczeniu społecznym i innych zadaniach wykonywanych przez Zakład.”,
+    - **b)** ust. 2 otrzymuje brzmienie: „2. W ramach realizacji zadań określonych w ust. 1 pkt 5 Zakład: 1) udziela zamówień na opinie specjalistyczne lekarza konsultanta lub psychologa oraz wyniki obserwacji szpitalnej, 2) zawiera umowy, o których mowa w art. 85b ust. 1 – z wyłączeniem przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).”;
 
-- **8)** popularyzacja wiedzy o zabezpieczeniu społecznym i innych zadaniach wykonywanych przez Zakład.”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. W ramach realizacji zadań określonych w ust. 1 pkt 5 Zakład:
-
-- **1)** udziela zamówień na opinie specjalistyczne lekarza konsultanta lub psychologa oraz wyniki obserwacji szpitalnej,
-- **2)** zawiera umowy, o których mowa w art. 85b ust. 1 – z wyłączeniem przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).”;
 - **3)** w art. 68b:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Certyfikat umożliwiający podpisywanie dokumentów elektronicznych z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym Zakładu, o którym mowa w art. 54 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083 oraz z 2026 r. poz. 26), Zakład udostępnia:
-
-- **1)** pracownikom medycznym oraz osobom wykonującym:
-    - **a)** zawód medyczny, o których mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211),
-    - **b)** czynności pomocnicze przy udzielaniu świadczeń zdrowotnych, o których mowa w art. 24 ust. 2 pkt 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581) – upoważnionym do wykonywania czynności określonych w art. 41a ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty lub art. 54a ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa;
-
-- **2)** lekarzom konsultantom – dla celów wydawania opinii specjalistycznych w postępowaniach dotyczących realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Certyfikat umożliwiający podpisywanie dokumentów elektronicznych z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym Zakładu, o którym mowa w art. 54 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083 oraz z 2026 r. poz. 26), Zakład udostępnia: 1) pracownikom medycznym oraz osobom wykonującym: a) zawód medyczny, o których mowa w art. 2 ust. 1 pkt 2 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211), b) czynności pomocnicze przy udzielaniu świadczeń zdrowotnych, o których mowa w art. 24 ust. 2 pkt 2 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2024 r. poz. 581) – upoważnionym do wykonywania czynności określonych w art. 41a ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty lub art. 54a ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa; 2) lekarzom konsultantom – dla celów wydawania opinii specjalistycznych w postępowaniach dotyczących realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Informację o certyfikatach, o których mowa w ust. 1 pkt 1, Zakład udostępnia ministrowi właściwemu do spraw zdrowia w formie elektronicznej.”;
 
 - **4)** w art. 69 po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Skierowanie na rehabilitację leczniczą w ramach prewencji rentowej nie wymaga wydania decyzji.”;
 - **5)** w art. 73 w ust. 3:
-    - **a)** pkt 5 otrzymuje brzmienie: „5) zwierzchni nadzór nad:
-    - **a)** wydawaniem orzeczeń dla potrzeb ustalania uprawnień do świadczeń z ubezpieczeń społecznych, innych świadczeń należących do właściwości Zakładu oraz dla celów realizacji zadań zleconych Zakładowi na podstawie innych ustaw,
-    - **b)** kontrolą orzecznictwa o czasowej niezdolności do pracy;”,
+    - **a)** pkt 5 otrzymuje brzmienie: „5) zwierzchni nadzór nad: a) wydawaniem orzeczeń dla potrzeb ustalania uprawnień do świadczeń z ubezpieczeń społecznych, innych świadczeń należących do właściwości Zakładu oraz dla celów realizacji zadań zleconych Zakładowi na podstawie innych ustaw, b) kontrolą orzecznictwa o czasowej niezdolności do pracy;”,
     - **b)** po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) określanie właściwości terenowych jednostek organizacyjnych Zakładu w zakresie realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5, biorąc pod uwagę w szczególności względy ich dostępności dla osób zainteresowanych i potrzebę zapewnienia odpowiedniej obsady kadrowej;”;
 
 - **6)** w art. 77 uchyla się ust. 5;
 - **7)** w art. 80 pkt 5 otrzymuje brzmienie: „5) poddania się badaniom lekarskim, badaniom psychologicznym lub badaniom przeprowadzanym przez osoby wykonujące samodzielny zawód medyczny, a także leczeniu lub rehabilitacji, jeżeli oczekuje się, że leczenie lub rehabilitacja przywrócą zdolność do pracy lub spowodują, że zdolność do pracy zostanie zachowana.”;
 - **8)** w art. 83 w ust. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) odmowy skierowania na rehabilitację leczniczą w ramach prewencji rentowej.”;
-- **9)** po rozdziale 9 dodaje się rozdział 9a w brzmieniu: „Rozdział 9a Orzekanie dla celów świadczeń, zasady i tryb wydawania orzeczeń
-
-**Art. 85a.**
-
-1. Zadania, o których mowa w art. 68 ust. 1 pkt 5, są realizowane w terenowych jednostkach organizacyjnych Zakładu przez lekarzy orzeczników oraz przez osoby wykonujące samodzielny zawód medyczny.
-
-2. Fizjoterapeuta może wydawać orzeczenia w sprawach rehabilitacji leczniczej w ramach prewencji rentowej, o której mowa w art. 69 ust. 1 pkt 1, a pielęgniarka lub pielęgniarz w sprawach niezdolności do samodzielnej egzystencji, o której mowa w art. 13 ust. 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
-
-3. Naczelnym Lekarzem Zakładu oraz zastępcą Naczelnego Lekarza Zakładu może być osoba posiadająca:
-
-- **1)** prawo wykonywania zawodu lekarza;
-- **2)** tytuł specjalisty w zakresie jednej z dziedzin medycyny mającej zastosowanie w orzecznictwie lekarskim;
-- **3)** co najmniej trzyletnie doświadczenie w pracy w orzecznictwie lekarskim.
-
-4. Głównym lekarzem orzecznikiem, zastępcą głównego lekarza orzecznika oraz lekarzem inspektorem nadzoru orzecznictwa lekarskiego może być osoba posiadająca:
-
-- **1)** prawo wykonywania zawodu lekarza;
-- **2)** tytuł specjalisty w zakresie jednej z dziedzin medycyny mającej zastosowanie w orzecznictwie lekarskim;
-- **3)** co najmniej dziesięcioletni okres wykonywania zawodu lekarza w zakresie jednej z dziedzin medycyny mającej zastosowanie w orzecznictwie lekarskim.
-
-5. Lekarzem orzecznikiem może być osoba:
-
-- **1)** posiadająca prawo wykonywania zawodu lekarza;
-- **2)** posiadająca tytuł specjalisty, albo
-- **3)** odbywająca szkolenie specjalizacyjne w określonej dziedzinie medycyny, która ukończyła moduł podstawowy właściwy dla danego szkolenia specjalizacyjnego lub trzeci rok tego szkolenia – w przypadku specjalizacji, dla których przewidziany został moduł jednolity szkolenia, albo
-- **4)** posiadająca co najmniej pięcioletni okres wykonywania zawodu lekarza – z wyłączeniem okresów wykonywania zawodu w celu odbycia stażu podyplomowego, wykonywania zawodu na podstawie warunkowego prawa wykonywania zawodu, wykonywania zawodu na podstawie prawa wykonywania zawodu na określony zakres czynności zawodowych, okres i miejsce zatrudnienia w podmiocie leczniczym.
-
-6. Osobą wykonującą samodzielny zawód medyczny może być osoba posiadająca:
-
-- **1)** prawo wykonywania zawodu pielęgniarki albo pielęgniarza albo zawodu fizjoterapeuty;
-- **2)** tytuł specjalisty w dziedzinie pielęgniarstwa albo fizjoterapii;
-- **3)** co najmniej pięcioletni okres wykonywania zawodu pielęgniarki albo pielęgniarza albo zawodu fizjoterapeuty, z wyłączeniem okresu wykonywania zawodu pielęgniarki albo pielęgniarza na podstawie warunkowego prawa wykonywania zawodu, wykonywania zawodu przyznanego na określony zakres czynności zawodowych, okres i miejsce zatrudnienia w podmiocie wykonującym działalność leczniczą.
-
-**Art. 85b.**
-
-1. Lekarze orzecznicy oraz osoby wykonujące samodzielny zawód medyczny realizują zadania na podstawie umowy o pracę albo na podstawie umowy o świadczenie usług, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia.
-
-2. Naczelny Lekarz Zakładu, zastępca Naczelnego Lekarza Zakładu, lekarze inspektorzy nadzoru orzecznictwa lekarskiego, główni lekarze orzecznicy oraz zastępcy głównych lekarzy orzeczników realizują zadania określone w ustawie wyłącznie na podstawie umowy o pracę.
-
-3. Wynagrodzenie zasadnicze osób wymienionych w ust. 1 i 2, z którymi jest zawarta umowa o pracę, ustala się z zastosowaniem mnożników kwoty przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w roku poprzedzającym ustalenie, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
-
-4. Wynagrodzenie zasadnicze, o którym mowa w ust. 3, ustala się proporcjonalnie do wymiaru czasu pracy.
-
-5. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, mnożniki do ustalenia wynagrodzenia zasadniczego, o którym mowa w ust. 3, mając na względzie charakter pracy osób, o których mowa w ust. 1 i 2, potrzebę zapewnienia odpowiedniego poziomu realizacji zadań przez Zakład oraz konieczność zapewnienia warunków obsady kadrowej orzecznictwa lekarskiego w Zakładzie.
-
-**Art. 85c.**
-
-1. Osoba zainteresowana jest kierowana na badania przeprowadzane przez lekarza orzecznika, osobę wykonującą samodzielny zawód medyczny, lekarza konsultanta lub psychologa, na badania dodatkowe lub na obserwację szpitalną w terminie wyznaczonym przez Zakład.
-
-2. Zakład zawiadamia osobę zainteresowaną o terminie badania, badania dodatkowego lub obserwacji szpitalnej za potwierdzeniem odbioru i informuje o skutkach niestawiennictwa lub uniemożliwienia przeprowadzenia badania, badania dodatkowego lub obserwacji szpitalnej.
-
-3. Zawiadomienie, o którym mowa w ust. 2, Zakład doręcza:
-
-- **1)** w sposób wskazany w art. 71ab ust. 1 i 1a – w przypadku osoby zainteresowanej posiadającej jednocześnie profil informacyjny w systemie teleinformatycznym Zakładu oraz adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych, o której mowa w art. 25 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych albo
-- **2)** przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), albo
-- **3)** przez pracowników Zakładu lub przez inne upoważnione osoby.
-
-4. Zawiadomienie, o którym mowa w:
-
-- **1)** ust. 3 pkt 1, przekazuje się na piśmie w postaci elektronicznej;
-- **2)** ust. 3 pkt 2, przekazuje się na piśmie w postaci papierowej;
-- **3)** ust. 3 pkt 3, przekazuje się na piśmie w postaci papierowej, telefonicznie lub za pomocą środków komunikacji elektronicznej, o których mowa w art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513), w tym na adres do doręczeń elektronicznych albo na profil informacyjny w systemie teleinformatycznym Zakładu.
-
-5. Zawiadomienie przekazane:
-
-- **1)** telefonicznie – ma skutek doręczenia, jeżeli rozmowa była rejestrowana, a osoba zainteresowana wyraziła zgodę na nagranie;
-- **2)** za pomocą środków komunikacji elektronicznej – ma skutek doręczenia, jeżeli doręczający otrzymał potwierdzenie jego otrzymania przez osobę zainteresowaną.
-
-6. Jeżeli stan zdrowia stwierdzony w zaświadczeniu lekarskim wydanym przez lekarza, pod którego opieką lekarską znajduje się osoba zainteresowana, wystawione niewcześniej niż na miesiąc przed datą złożenia wniosku o świadczenie, uniemożliwia osobiste zgłoszenie się na badanie, może ono być przeprowadzone w miejscu pobytu osoby zainteresowanej, za jej zgodą.
-
-7. W przypadku gdy osoba zainteresowana w terminie 7 dni od dnia wyznaczonego terminu badania, badania dodatkowego lub obserwacji szpitalnej albo ustania przyczyny niestawiennictwa lub uniemożliwienia przeprowadzenia badania, badania dodatkowego lub obserwacji szpitalnej złoży wniosek, w którym uprawdopodobni, że niestawiennictwo lub uniemożliwienie przeprowadzenia badania, badania dodatkowego lub obserwacji szpitalnej nastąpiło bez jej winy, Zakład wyznacza nowy termin badania, badania dodatkowego lub obserwacji szpitalnej.
-
-8. W przypadku niezłożenia wniosku, o którym mowa w ust. 7, albo złożenia go po terminie, o którym mowa w ust. 7, Zakład umarza postępowanie w sprawie albo wstrzymuje wypłatę świadczenia.
-
-**Art. 85d.**
-
-1. W ramach realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5, lekarze orzecznicy oraz osoby wykonujące samodzielny zawód medyczny wydają orzeczenia.
-
-2. Lekarz orzecznik przy orzekaniu jest związany:
-
-- **1)** decyzją organu Państwowej Inspekcji Sanitarnej o stwierdzeniu choroby zawodowej albo o braku podstaw do stwierdzenia choroby zawodowej;
-- **2)** ustaleniami starosty o braku możliwości przekwalifikowania zawodowego.
-
-3. Orzeczenie jest wydawane:
-
-- **1)** po przeprowadzeniu bezpośredniego badania osoby zainteresowanej oraz po analizie dokumentacji dołączonej do wniosku lub uzupełnionej w prowadzonym postępowaniu albo
-- **2)** na podstawie dokumentacji dołączonej do wniosku lub uzupełnionej w prowadzonym postępowaniu – jeżeli umożliwia ona dokonanie prawidłowej i kompleksowej oceny okoliczności wynikających z celu, dla którego jest wydawane orzeczenie.
-
-4. Przed wydaniem orzeczenia dokumentacja dołączona do wniosku może zostać uzupełniona, w szczególności o dokumentację medyczną z przebiegu leczenia i rehabilitacji, opinię lekarza konsultanta lub psychologa, wyniki badań dodatkowych lub obserwacji szpitalnej.
-
-5. Lekarz konsultant i psycholog wydają opinie po przeprowadzeniu bezpośredniego badania osoby zainteresowanej oraz po analizie dokumentacji medycznej lub zawodowej.
-
-6. Badanie, o którym mowa w ust. 3 pkt 1 i ust. 5, może być przeprowadzone z wykorzystaniem systemów teleinformatycznych lub systemów łączności, jeżeli ten sposób badania umożliwi dokonanie prawidłowej i kompleksowej oceny okoliczności wynikających z celu, dla którego jest wydawane orzeczenie.
-
-**Art. 85e.**
-
-1. Orzeczenia, o których mowa w art. 85d ust. 1, zawierają:
-
-- **1)** datę wydania;
-- **2)** oznaczenie terenowej jednostki organizacyjnej, w której zostało wydane orzeczenie;
-- **3)** identyfikator orzeczenia, nadawany przez system teleinformatyczny Zakładu;
-- **4)** imię i nazwisko, numer PESEL osoby zainteresowanej, a w razie gdy nie nadano numeru PESEL – datę urodzenia, rodzaj, serię i numer dokumentu tożsamości;
-- **5)** ustalenia orzecznicze odnoszące się do celu wydania orzeczenia, wskazanego we wniosku o jego wydanie;
-- **6)** uzasadnienie;
-- **7)** pouczenie o prawie do wniesienia sprzeciwu albo braku tego prawa;
-- **8)** imię i nazwisko oraz stanowisko wydającego orzeczenie.
-
-2. Orzeczenia są wydawane przy wykorzystaniu systemu teleinformatycznego Zakładu, w postaci dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, kwalifikowaną pieczęcią elektroniczną, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład.
-
-3. W sprawach zadań zleconych Zakładowi na podstawie innych ustaw orzeczenie wydaje się w terminie 30 dni od dnia wpływu do Zakładu wniosku przekazanego przez podmiot uprawniony.
-
-4. W sprawach świadczeń z ubezpieczeń społecznych oraz innych świadczeń należących do właściwości Zakładu orzeczenie wydaje się w terminie 30 dni od dnia wszczęcia postępowania o wydanie orzeczenia.
-
-5. Do terminu, o którym mowa w ust. 3 i 4, nie wlicza się okresu:
-
-- **1)** uzupełnienia dokumentacji medycznej niezbędnej do wydania orzeczenia;
-- **2)** przeprowadzenia badania osoby zainteresowanej przez lekarza orzecznika, osobę wykonującą samodzielny zawód medyczny, lekarza konsultanta lub psychologa, o którym mowa w art. 68 ust. 2.
-
-6. O terminie, o którym mowa w ust. 3 i 4, oraz okolicznościach, o których mowa w ust. 5, Zakład zawiadamia osobę zainteresowaną.
-
-7. W przypadku przekroczenia terminu, o którym mowa w ust. 3 i 4, osoba zainteresowana może wnieść ponaglenie do Zakładu.
-
-8. Do rozpatrzenia ponaglenia, o którym mowa w ust. 7, nie stosuje się art. 37 Kodeksu postępowania administracyjnego.
-
-9. Ponaglenie, o którym mowa w ust. 7, rozpatruje się w terminie 7 dni od dnia jego wpływu do Zakładu.
-
-10. W razie uznania ponaglenia za zasadne, Zakład niezwłocznie wyznacza termin wydania orzeczenia oraz wyjaśnia przyczyny przekroczenia terminu, o którym mowa w ust. 3 i 4.
-
-11. Orzeczenie jest doręczane osobie zainteresowanej oraz podmiotom uprawnionym w przypadkach przewidzianych przepisami innych ustaw.
-
-12. Orzeczenie jest doręczane w postaci elektronicznej albo w postaci jego wydruku, jeżeli doręczenie orzeczenia w postaci elektronicznej nie jest możliwe lub żąda tego osoba zainteresowana.
-
-13. Wydruk orzeczenia zawiera informację, że orzeczenie zostało wydane w postaci elektronicznej przy wykorzystaniu systemu teleinformatycznego Zakładu i opatrzone kwalifikowanym podpisem elektronicznym, kwalifikowaną pieczęcią elektroniczną, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład.
-
-14. Wydruk orzeczenia stanowi dowód tego, co zostało stwierdzone w orzeczeniu wydanym w postaci elektronicznej przy wykorzystaniu systemu teleinformatycznego Zakładu.
-
-**Art. 85f.**
-
-1. Od orzeczenia osobie zainteresowanej przysługuje sprzeciw, w terminie 14 dni od dnia doręczenia tego orzeczenia, z wyłączeniem orzeczeń wydawanych w postępowaniach, o których mowa w art. 59 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
-
-2. Sprzeciw, o którym mowa w ust. 1, wnosi się do Zakładu.
-
-3. Zakład nie rozpatruje sprzeciwu wniesionego po terminie, o którym mowa w ust. 1. W uzasadnionych przypadkach Zakład, na wniosek osoby zainteresowanej, może przywrócić termin na złożenie sprzeciwu, w szczególności w razie odrzucenia przez sąd odwołania od decyzji w przypadku określonym w art. 477 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ).
-
-4. Główny lekarz orzecznik albo zastępca głównego lekarza orzecznika, w terminie 14 dni od dnia wydania orzeczenia, może zgłosić zarzut wadliwości orzeczenia i przekazać sprawę do ponownego rozpatrzenia, z wyłączeniem orzeczeń wydawanych w postępowaniach, o których mowa w art. 59 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa. O zgłoszeniu zarzutu wadliwości orzeczenia Zakład niezwłocznie zawiadamia osobę zainteresowaną lub podmiot uprawniony do otrzymania orzeczenia w przypadkach przewidzianych przepisami innych ustaw.
-
-5. W przypadku wniesienia sprzeciwu lub zgłoszenia zarzutu wadliwości orzeczenia wydanego przez lekarza orzecznika albo osobę wykonującą samodzielny zawód medyczny główny lekarz orzecznik albo zastępca głównego lekarza orzecznika kieruje sprawę do ponownego rozpatrzenia przez lekarza orzecznika.
-
-6. Lekarz orzecznik przy wydawaniu orzeczenia, w wyniku ponownego rozpatrzenia sprawy w związku z wniesieniem sprzeciwu lub zgłoszeniem zarzutu wadliwości, nie jest związany zakresem wniesionego sprzeciwu lub zgłoszonego zarzutu wadliwości.
-
-7. Przy wyznaczaniu lekarza orzecznika do ponownego rozpatrzenia sprawy uwzględnia się:
-
-- **1)** posiadaną przez lekarza specjalizację;
-- **2)** potrzebę dokonania prawidłowej i kompleksowej oceny okoliczności wynikających z celu, dla którego jest wydawane orzeczenie;
-- **3)** konieczność skierowania sprawy do innego lekarza orzecznika niż wydający orzeczenie – w przypadku gdy sprzeciw lub zarzut wadliwości dotyczy orzeczenia wydanego przez lekarza orzecznika.
-
-8. W przypadku, o którym mowa w ust. 5, w sprawach szczególnie skomplikowanych główny lekarz orzecznik albo zastępca głównego lekarza orzecznika może skierować sprawę do ponownego rozpatrzenia przez trzech lekarzy orzeczników orzekających łącznie. Przepisy ust. 6 i 7 stosuje się odpowiednio.
-
-9. Od orzeczenia wydanego w wyniku ponownego rozpatrzenia sprawy sprzeciw lub zarzut wadliwości orzeczenia nie przysługuje.
-
-10. Do orzeczeń wydawanych w wyniku ponownego rozpatrzenia sprawy stosuje się odpowiednio art. 85c–85e.
-
-11. Orzeczenie, wobec którego nie wniesiono sprzeciwu lub co do którego nie zgłoszono zarzutu wadliwości, albo orzeczenie wydane w wyniku ponownego rozpatrzenia sprawy stanowi podstawę do wydania decyzji w sprawie świadczenia albo do podjęcia rozstrzygnięcia w zakresie wskazanym przepisami innych ustaw.
-
-**Art. 85g.**
-
-1. Jeżeli w wyniku kontroli, o której mowa w art. 85h ust. 3 pkt 1, zostanie stwierdzony brak zgodności orzeczenia ze stanem faktycznym, z zasadami orzekania, z zebranymi dokumentami lub z przepisami dotyczącymi orzekania dla celów ustalania uprawnień do świadczeń z ubezpieczeń społecznych, innych świadczeń należących do właściwości Zakładu, realizacji zadań zleconych Zakładowi na podstawie innych ustaw, a także z przepisami dotyczącymi kontroli orzecznictwa o czasowej niezdolności do pracy, Prezes Zakładu uchyla orzeczenie i przekazuje sprawę do ponownego rozpatrzenia przez lekarza orzecznika.
-
-2. Do orzeczeń wydawanych w wyniku ponownego rozpatrzenia sprawy w przypadkach, o których mowa w ust. 1, stosuje się odpowiednio art. 85c–85e oraz art. 85f ust. 5–7.
-
-3. O uchyleniu orzeczenia poddanego kontroli lub o wydaniu orzeczenia w wyniku ponownego rozpatrzenia sprawy w przypadkach, o których mowa w ust. 1, Zakład informuje osobę zainteresowaną oraz podmiot uprawniony do otrzymania orzeczenia w przypadkach przewidzianych przepisami innych ustaw.
-
-4. Od orzeczenia wydanego przez lekarza orzecznika w wyniku ponownego rozpatrzenia sprawy, w przypadkach, o których mowa w ust. 1, nie przysługuje sprzeciw, o którym mowa w art. 85f ust. 1, oraz zarzut wadliwości, o którym mowa w art. 85f ust. 4. Orzeczenie to stanowi podstawę do wydania decyzji w sprawie świadczenia albo do podjęcia rozstrzygnięcia w zakresie wskazanym przepisami innych ustaw.
-
-**Art. 85h.**
-
-1. Zwierzchni nadzór, o którym mowa w art. 73 ust. 3 pkt 5, nad wydawaniem orzeczeń dla celów, o których mowa w art. 68 ust. 1 pkt 5, w imieniu Prezesa Zakładu sprawuje Naczelny Lekarz Zakładu.
-
-2. Zwierzchni nadzór Naczelny Lekarz Zakładu realizuje przy pomocy zastępcy Naczelnego Lekarza Zakładu oraz lekarzy inspektorów nadzoru orzecznictwa lekarskiego.
-
-3. Zwierzchni nadzór obejmuje:
-
-- **1)** kontrolę orzeczeń wydanych przez lekarzy orzeczników oraz osoby wykonujące samodzielny zawód medyczny co do ich zgodności ze stanem faktycznym, z zasadami orzekania, z zebranymi dokumentami oraz z przepisami dotyczącymi orzekania dla celów ustalania uprawnień do świadczeń z ubezpieczeń społecznych, innych świadczeń należących do właściwości Zakładu, realizacji zadań zleconych Zakładowi na podstawie innych ustaw, a także z przepisami dotyczącymi kontroli orzecznictwa o czasowej niezdolności do pracy;
-- **2)** prawo uchylenia orzeczenia i przekazania sprawy do ponownego rozpatrzenia przez lekarza orzecznika, w wyniku kontroli, o której mowa w pkt 1;
-- **3)** określanie dobrych praktyk orzeczniczych dla lekarzy orzeczników i osób wykonujących samodzielny zawód medyczny;
-- **4)** prawo zlecenia uzupełnienia dokumentacji zgromadzonej w postępowaniu związanym z wydaniem orzeczenia o dokumentację medyczną z przebiegu leczenia lub rehabilitacji, o opinie specjalistyczne wydawane przez konsultantów Zakładu, o wyniki badań dodatkowych lub obserwacji szpitalnej, w wyniku kontroli, o której mowa w pkt 1.
-
-4. Dobre praktyki orzecznicze, o których mowa w ust. 3 pkt 3, Prezes Zakładu ogłasza w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844).
-
-**Art. 85i.**
-
-1. W celu realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5, podmioty udzielające świadczeń zdrowotnych są obowiązane do nieodpłatnego udostępniania Zakładowi dokumentacji medycznej:
-
-- **1)** w postaci papierowej – przez sporządzenie jej wyciągu, odpisu, kopii lub wydruku – poświadczonych za zgodność z oryginałem;
-- **2)** w postaci elektronicznej – za pośrednictwem środków komunikacji elektronicznej albo na informatycznym nośniku danych.
-
-2. Podmiot udzielający świadczeń zdrowotnych udostępnia niezwłocznie dokumentację medyczną, o której mowa w ust. 1, niepóźniej niż w terminie 14 dni od dnia otrzymania wniosku o jej udostępnienie.
-
-**Art. 85j.**
-
-1. Zadania związane z wydawaniem orzeczeń oraz kontrolą orzecznictwa o czasowej niezdolności do pracy, o których mowa w art. 68 ust. 1 pkt 5, mogą być realizowane przy wsparciu osób upoważnionych, wykonujących czynności pomocnicze w postępowaniu związanym z wydaniem orzeczenia.
-
-2. Osoby upoważnione, o których mowa w ust. 1:
-
-- **1)** mogą być obecne, za zgodą osoby zainteresowanej, przy przeprowadzaniu badania lekarskiego;
-- **2)** są obowiązane do zachowania poufności wszelkich informacji i danych uzyskanych w związku z realizacją powierzonych zadań.
-
-3. Obowiązek zachowania poufności przez osoby upoważnione, o których mowa w ust. 1, obowiązuje również po śmierci osoby, wobec której zostało wydane orzeczenie.
-
-4. Osoby upoważnione, o których mowa w ust. 1, dopuszcza się do przetwarzania danych osobowych zawartych w dokumentacji związanej z wydaniem orzeczenia, na podstawie pisemnego upoważnienia udzielonego przez Zakład, po odbyciu przez te osoby przeszkolenia w zakresie ochrony danych osobowych organizowanego przez Zakład oraz po złożeniu pisemnego zobowiązania do zachowania w poufności przetwarzanych danych osobowych.”.
+- **9)** po rozdziale 9 dodaje się rozdział 9a w brzmieniu: „Rozdział 9a Orzekanie dla celów świadczeń, zasady i tryb wydawania orzeczeń Art. 85a. 1. Zadania, o których mowa w art. 68 ust. 1 pkt 5, są realizowane w terenowych jednostkach organizacyjnych Zakładu przez lekarzy orzeczników oraz przez osoby wykonujące samodzielny zawód medyczny. 2. Fizjoterapeuta może wydawać orzeczenia w sprawach rehabilitacji leczniczej w ramach prewencji rentowej, o której mowa w art. 69 ust. 1 pkt 1, a pielęgniarka lub pielęgniarz w sprawach niezdolności do samodzielnej egzystencji, o której mowa w art. 13 ust. 5 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. 3. Naczelnym Lekarzem Zakładu oraz zastępcą Naczelnego Lekarza Zakładu może być osoba posiadająca: 1) prawo wykonywania zawodu lekarza; 2) tytuł specjalisty w zakresie jednej z dziedzin medycyny mającej zastosowanie w orzecznictwie lekarskim; 3) co najmniej trzyletnie doświadczenie w pracy w orzecznictwie lekarskim. 4. Głównym lekarzem orzecznikiem, zastępcą głównego lekarza orzecznika oraz lekarzem inspektorem nadzoru orzecznictwa lekarskiego może być osoba posiadająca: 1) prawo wykonywania zawodu lekarza; 2) tytuł specjalisty w zakresie jednej z dziedzin medycyny mającej zastosowanie w orzecznictwie lekarskim; 3) co najmniej dziesięcioletni okres wykonywania zawodu lekarza w zakresie jednej z dziedzin medycyny mającej zastosowanie w orzecznictwie lekarskim. 5. Lekarzem orzecznikiem może być osoba: 1) posiadająca prawo wykonywania zawodu lekarza; 2) posiadająca tytuł specjalisty, albo 3) odbywająca szkolenie specjalizacyjne w określonej dziedzinie medycyny, która ukończyła moduł podstawowy właściwy dla danego szkolenia specjalizacyjnego lub trzeci rok tego szkolenia – w przypadku specjalizacji, dla których przewidziany został moduł jednolity szkolenia, albo 4) posiadająca co najmniej pięcioletni okres wykonywania zawodu lekarza – z wyłączeniem okresów wykonywania zawodu w celu odbycia stażu podyplomowego, wykonywania zawodu na podstawie warunkowego prawa wykonywania zawodu, wykonywania zawodu na podstawie prawa wykonywania zawodu na określony zakres czynności zawodowych, okres i miejsce zatrudnienia w podmiocie leczniczym. 6. Osobą wykonującą samodzielny zawód medyczny może być osoba posiadająca: 1) prawo wykonywania zawodu pielęgniarki albo pielęgniarza albo zawodu fizjoterapeuty; 2) tytuł specjalisty w dziedzinie pielęgniarstwa albo fizjoterapii; 3) co najmniej pięcioletni okres wykonywania zawodu pielęgniarki albo pielęgniarza albo zawodu fizjoterapeuty, z wyłączeniem okresu wykonywania zawodu pielęgniarki albo pielęgniarza na podstawie warunkowego prawa wykonywania zawodu, wykonywania zawodu przyznanego na określony zakres czynności zawodowych, okres i miejsce zatrudnienia w podmiocie wykonującym działalność leczniczą. Art. 85b. 1. Lekarze orzecznicy oraz osoby wykonujące samodzielny zawód medyczny realizują zadania na podstawie umowy o pracę albo na podstawie umowy o świadczenie usług, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia. 2. Naczelny Lekarz Zakładu, zastępca Naczelnego Lekarza Zakładu, lekarze inspektorzy nadzoru orzecznictwa lekarskiego, główni lekarze orzecznicy oraz zastępcy głównych lekarzy orzeczników realizują zadania określone w ustawie wyłącznie na podstawie umowy o pracę. 3. Wynagrodzenie zasadnicze osób wymienionych w ust. 1 i 2, z którymi jest zawarta umowa o pracę, ustala się z zastosowaniem mnożników kwoty przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w roku poprzedzającym ustalenie, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. 4. Wynagrodzenie zasadnicze, o którym mowa w ust. 3, ustala się proporcjonalnie do wymiaru czasu pracy. 5. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, mnożniki do ustalenia wynagrodzenia zasadniczego, o którym mowa w ust. 3, mając na względzie charakter pracy osób, o których mowa w ust. 1 i 2, potrzebę zapewnienia odpowiedniego poziomu realizacji zadań przez Zakład oraz konieczność zapewnienia warunków obsady kadrowej orzecznictwa lekarskiego w Zakładzie. Art. 85c. 1. Osoba zainteresowana jest kierowana na badania przeprowadzane przez lekarza orzecznika, osobę wykonującą samodzielny zawód medyczny, lekarza konsultanta lub psychologa, na badania dodatkowe lub na obserwację szpitalną w terminie wyznaczonym przez Zakład. 2. Zakład zawiadamia osobę zainteresowaną o terminie badania, badania dodatkowego lub obserwacji szpitalnej za potwierdzeniem odbioru i informuje o skutkach niestawiennictwa lub uniemożliwienia przeprowadzenia badania, badania dodatkowego lub obserwacji szpitalnej. 3. Zawiadomienie, o którym mowa w ust. 2, Zakład doręcza: 1) w sposób wskazany w art. 71ab ust. 1 i 1a – w przypadku osoby zainteresowanej posiadającej jednocześnie profil informacyjny w systemie teleinformatycznym Zakładu oraz adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych, o której mowa w art. 25 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych albo 2) przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), albo 3) przez pracowników Zakładu lub przez inne upoważnione osoby. 4. Zawiadomienie, o którym mowa w: 1) ust. 3 pkt 1, przekazuje się na piśmie w postaci elektronicznej; 2) ust. 3 pkt 2, przekazuje się na piśmie w postaci papierowej; 3) ust. 3 pkt 3, przekazuje się na piśmie w postaci papierowej, telefonicznie lub za pomocą środków komunikacji elektronicznej, o których mowa w art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513), w tym na adres do doręczeń elektronicznych albo na profil informacyjny w systemie teleinformatycznym Zakładu. 5. Zawiadomienie przekazane: 1) telefonicznie – ma skutek doręczenia, jeżeli rozmowa była rejestrowana, a osoba zainteresowana wyraziła zgodę na nagranie; 2) za pomocą środków komunikacji elektronicznej – ma skutek doręczenia, jeżeli doręczający otrzymał potwierdzenie jego otrzymania przez osobę zainteresowaną. 6. Jeżeli stan zdrowia stwierdzony w zaświadczeniu lekarskim wydanym przez lekarza, pod którego opieką lekarską znajduje się osoba zainteresowana, wystawione niewcześniej niż na miesiąc przed datą złożenia wniosku o świadczenie, uniemożliwia osobiste zgłoszenie się na badanie, może ono być przeprowadzone w miejscu pobytu osoby zainteresowanej, za jej zgodą. 7. W przypadku gdy osoba zainteresowana w terminie 7 dni od dnia wyznaczonego terminu badania, badania dodatkowego lub obserwacji szpitalnej albo ustania przyczyny niestawiennictwa lub uniemożliwienia przeprowadzenia badania, badania dodatkowego lub obserwacji szpitalnej złoży wniosek, w którym uprawdopodobni, że niestawiennictwo lub uniemożliwienie przeprowadzenia badania, badania dodatkowego lub obserwacji szpitalnej nastąpiło bez jej winy, Zakład wyznacza nowy termin badania, badania dodatkowego lub obserwacji szpitalnej. 8. W przypadku niezłożenia wniosku, o którym mowa w ust. 7, albo złożenia go po terminie, o którym mowa w ust. 7, Zakład umarza postępowanie w sprawie albo wstrzymuje wypłatę świadczenia. Art. 85d. 1. W ramach realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5, lekarze orzecznicy oraz osoby wykonujące samodzielny zawód medyczny wydają orzeczenia. 2. Lekarz orzecznik przy orzekaniu jest związany: 1) decyzją organu Państwowej Inspekcji Sanitarnej o stwierdzeniu choroby zawodowej albo o braku podstaw do stwierdzenia choroby zawodowej; 2) ustaleniami starosty o braku możliwości przekwalifikowania zawodowego. 3. Orzeczenie jest wydawane: 1) po przeprowadzeniu bezpośredniego badania osoby zainteresowanej oraz po analizie dokumentacji dołączonej do wniosku lub uzupełnionej w prowadzonym postępowaniu albo 2) na podstawie dokumentacji dołączonej do wniosku lub uzupełnionej w prowadzonym postępowaniu – jeżeli umożliwia ona dokonanie prawidłowej i kompleksowej oceny okoliczności wynikających z celu, dla którego jest wydawane orzeczenie. 4. Przed wydaniem orzeczenia dokumentacja dołączona do wniosku może zostać uzupełniona, w szczególności o dokumentację medyczną z przebiegu leczenia i rehabilitacji, opinię lekarza konsultanta lub psychologa, wyniki badań dodatkowych lub obserwacji szpitalnej. 5. Lekarz konsultant i psycholog wydają opinie po przeprowadzeniu bezpośredniego badania osoby zainteresowanej oraz po analizie dokumentacji medycznej lub zawodowej. 6. Badanie, o którym mowa w ust. 3 pkt 1 i ust. 5, może być przeprowadzone z wykorzystaniem systemów teleinformatycznych lub systemów łączności, jeżeli ten sposób badania umożliwi dokonanie prawidłowej i kompleksowej oceny okoliczności wynikających z celu, dla którego jest wydawane orzeczenie. Art. 85e. 1. Orzeczenia, o których mowa w art. 85d ust. 1, zawierają: 1) datę wydania; 2) oznaczenie terenowej jednostki organizacyjnej, w której zostało wydane orzeczenie; 3) identyfikator orzeczenia, nadawany przez system teleinformatyczny Zakładu; 4) imię i nazwisko, numer PESEL osoby zainteresowanej, a w razie gdy nie nadano numeru PESEL – datę urodzenia, rodzaj, serię i numer dokumentu tożsamości; 5) ustalenia orzecznicze odnoszące się do celu wydania orzeczenia, wskazanego we wniosku o jego wydanie; 6) uzasadnienie; 7) pouczenie o prawie do wniesienia sprzeciwu albo braku tego prawa; 8) imię i nazwisko oraz stanowisko wydającego orzeczenie. 2. Orzeczenia są wydawane przy wykorzystaniu systemu teleinformatycznego Zakładu, w postaci dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym, kwalifikowaną pieczęcią elektroniczną, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład. 3. W sprawach zadań zleconych Zakładowi na podstawie innych ustaw orzeczenie wydaje się w terminie 30 dni od dnia wpływu do Zakładu wniosku przekazanego przez podmiot uprawniony. 4. W sprawach świadczeń z ubezpieczeń społecznych oraz innych świadczeń należących do właściwości Zakładu orzeczenie wydaje się w terminie 30 dni od dnia wszczęcia postępowania o wydanie orzeczenia. 5. Do terminu, o którym mowa w ust. 3 i 4, nie wlicza się okresu: 1) uzupełnienia dokumentacji medycznej niezbędnej do wydania orzeczenia; 2) przeprowadzenia badania osoby zainteresowanej przez lekarza orzecznika, osobę wykonującą samodzielny zawód medyczny, lekarza konsultanta lub psychologa, o którym mowa w art. 68 ust. 2. 6. O terminie, o którym mowa w ust. 3 i 4, oraz okolicznościach, o których mowa w ust. 5, Zakład zawiadamia osobę zainteresowaną. 7. W przypadku przekroczenia terminu, o którym mowa w ust. 3 i 4, osoba zainteresowana może wnieść ponaglenie do Zakładu. 8. Do rozpatrzenia ponaglenia, o którym mowa w ust. 7, nie stosuje się art. 37 Kodeksu postępowania administracyjnego. 9. Ponaglenie, o którym mowa w ust. 7, rozpatruje się w terminie 7 dni od dnia jego wpływu do Zakładu. 10. W razie uznania ponaglenia za zasadne, Zakład niezwłocznie wyznacza termin wydania orzeczenia oraz wyjaśnia przyczyny przekroczenia terminu, o którym mowa w ust. 3 i 4. 11. Orzeczenie jest doręczane osobie zainteresowanej oraz podmiotom uprawnionym w przypadkach przewidzianych przepisami innych ustaw. 12. Orzeczenie jest doręczane w postaci elektronicznej albo w postaci jego wydruku, jeżeli doręczenie orzeczenia w postaci elektronicznej nie jest możliwe lub żąda tego osoba zainteresowana. 13. Wydruk orzeczenia zawiera informację, że orzeczenie zostało wydane w postaci elektronicznej przy wykorzystaniu systemu teleinformatycznego Zakładu i opatrzone kwalifikowanym podpisem elektronicznym, kwalifikowaną pieczęcią elektroniczną, podpisem zaufanym, podpisem osobistym albo z wykorzystaniem sposobu potwierdzania pochodzenia oraz integralności danych dostępnego w systemie teleinformatycznym udostępnionym bezpłatnie przez Zakład. 14. Wydruk orzeczenia stanowi dowód tego, co zostało stwierdzone w orzeczeniu wydanym w postaci elektronicznej przy wykorzystaniu systemu teleinformatycznego Zakładu. Art. 85f. 1. Od orzeczenia osobie zainteresowanej przysługuje sprzeciw, w terminie 14 dni od dnia doręczenia tego orzeczenia, z wyłączeniem orzeczeń wydawanych w postępowaniach, o których mowa w art. 59 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa. 2. Sprzeciw, o którym mowa w ust. 1, wnosi się do Zakładu. 3. Zakład nie rozpatruje sprzeciwu wniesionego po terminie, o którym mowa w ust. 1. W uzasadnionych przypadkach Zakład, na wniosek osoby zainteresowanej, może przywrócić termin na złożenie sprzeciwu, w szczególności w razie odrzucenia przez sąd odwołania od decyzji w przypadku określonym w art. 477 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ). 4. Główny lekarz orzecznik albo zastępca głównego lekarza orzecznika, w terminie 14 dni od dnia wydania orzeczenia, może zgłosić zarzut wadliwości orzeczenia i przekazać sprawę do ponownego rozpatrzenia, z wyłączeniem orzeczeń wydawanych w postępowaniach, o których mowa w art. 59 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa. O zgłoszeniu zarzutu wadliwości orzeczenia Zakład niezwłocznie zawiadamia osobę zainteresowaną lub podmiot uprawniony do otrzymania orzeczenia w przypadkach przewidzianych przepisami innych ustaw. 5. W przypadku wniesienia sprzeciwu lub zgłoszenia zarzutu wadliwości orzeczenia wydanego przez lekarza orzecznika albo osobę wykonującą samodzielny zawód medyczny główny lekarz orzecznik albo zastępca głównego lekarza orzecznika kieruje sprawę do ponownego rozpatrzenia przez lekarza orzecznika. 6. Lekarz orzecznik przy wydawaniu orzeczenia, w wyniku ponownego rozpatrzenia sprawy w związku z wniesieniem sprzeciwu lub zgłoszeniem zarzutu wadliwości, nie jest związany zakresem wniesionego sprzeciwu lub zgłoszonego zarzutu wadliwości. 7. Przy wyznaczaniu lekarza orzecznika do ponownego rozpatrzenia sprawy uwzględnia się: 1) posiadaną przez lekarza specjalizację; 2) potrzebę dokonania prawidłowej i kompleksowej oceny okoliczności wynikających z celu, dla którego jest wydawane orzeczenie; 3) konieczność skierowania sprawy do innego lekarza orzecznika niż wydający orzeczenie – w przypadku gdy sprzeciw lub zarzut wadliwości dotyczy orzeczenia wydanego przez lekarza orzecznika. 8. W przypadku, o którym mowa w ust. 5, w sprawach szczególnie skomplikowanych główny lekarz orzecznik albo zastępca głównego lekarza orzecznika może skierować sprawę do ponownego rozpatrzenia przez trzech lekarzy orzeczników orzekających łącznie. Przepisy ust. 6 i 7 stosuje się odpowiednio. 9. Od orzeczenia wydanego w wyniku ponownego rozpatrzenia sprawy sprzeciw lub zarzut wadliwości orzeczenia nie przysługuje. 10. Do orzeczeń wydawanych w wyniku ponownego rozpatrzenia sprawy stosuje się odpowiednio art. 85c–85e. 11. Orzeczenie, wobec którego nie wniesiono sprzeciwu lub co do którego nie zgłoszono zarzutu wadliwości, albo orzeczenie wydane w wyniku ponownego rozpatrzenia sprawy stanowi podstawę do wydania decyzji w sprawie świadczenia albo do podjęcia rozstrzygnięcia w zakresie wskazanym przepisami innych ustaw. Art. 85g. 1. Jeżeli w wyniku kontroli, o której mowa w art. 85h ust. 3 pkt 1, zostanie stwierdzony brak zgodności orzeczenia ze stanem faktycznym, z zasadami orzekania, z zebranymi dokumentami lub z przepisami dotyczącymi orzekania dla celów ustalania uprawnień do świadczeń z ubezpieczeń społecznych, innych świadczeń należących do właściwości Zakładu, realizacji zadań zleconych Zakładowi na podstawie innych ustaw, a także z przepisami dotyczącymi kontroli orzecznictwa o czasowej niezdolności do pracy, Prezes Zakładu uchyla orzeczenie i przekazuje sprawę do ponownego rozpatrzenia przez lekarza orzecznika. 2. Do orzeczeń wydawanych w wyniku ponownego rozpatrzenia sprawy w przypadkach, o których mowa w ust. 1, stosuje się odpowiednio art. 85c–85e oraz art. 85f ust. 5–7. 3. O uchyleniu orzeczenia poddanego kontroli lub o wydaniu orzeczenia w wyniku ponownego rozpatrzenia sprawy w przypadkach, o których mowa w ust. 1, Zakład informuje osobę zainteresowaną oraz podmiot uprawniony do otrzymania orzeczenia w przypadkach przewidzianych przepisami innych ustaw. 4. Od orzeczenia wydanego przez lekarza orzecznika w wyniku ponownego rozpatrzenia sprawy, w przypadkach, o których mowa w ust. 1, nie przysługuje sprzeciw, o którym mowa w art. 85f ust. 1, oraz zarzut wadliwości, o którym mowa w art. 85f ust. 4. Orzeczenie to stanowi podstawę do wydania decyzji w sprawie świadczenia albo do podjęcia rozstrzygnięcia w zakresie wskazanym przepisami innych ustaw. Art. 85h. 1. Zwierzchni nadzór, o którym mowa w art. 73 ust. 3 pkt 5, nad wydawaniem orzeczeń dla celów, o których mowa w art. 68 ust. 1 pkt 5, w imieniu Prezesa Zakładu sprawuje Naczelny Lekarz Zakładu. 2. Zwierzchni nadzór Naczelny Lekarz Zakładu realizuje przy pomocy zastępcy Naczelnego Lekarza Zakładu oraz lekarzy inspektorów nadzoru orzecznictwa lekarskiego. 3. Zwierzchni nadzór obejmuje: 1) kontrolę orzeczeń wydanych przez lekarzy orzeczników oraz osoby wykonujące samodzielny zawód medyczny co do ich zgodności ze stanem faktycznym, z zasadami orzekania, z zebranymi dokumentami oraz z przepisami dotyczącymi orzekania dla celów ustalania uprawnień do świadczeń z ubezpieczeń społecznych, innych świadczeń należących do właściwości Zakładu, realizacji zadań zleconych Zakładowi na podstawie innych ustaw, a także z przepisami dotyczącymi kontroli orzecznictwa o czasowej niezdolności do pracy; 2) prawo uchylenia orzeczenia i przekazania sprawy do ponownego rozpatrzenia przez lekarza orzecznika, w wyniku kontroli, o której mowa w pkt 1; 3) określanie dobrych praktyk orzeczniczych dla lekarzy orzeczników i osób wykonujących samodzielny zawód medyczny; 4) prawo zlecenia uzupełnienia dokumentacji zgromadzonej w postępowaniu związanym z wydaniem orzeczenia o dokumentację medyczną z przebiegu leczenia lub rehabilitacji, o opinie specjalistyczne wydawane przez konsultantów Zakładu, o wyniki badań dodatkowych lub obserwacji szpitalnej, w wyniku kontroli, o której mowa w pkt 1. 4. Dobre praktyki orzecznicze, o których mowa w ust. 3 pkt 3, Prezes Zakładu ogłasza w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844). Art. 85i. 1. W celu realizacji zadań, o których mowa w art. 68 ust. 1 pkt 5, podmioty udzielające świadczeń zdrowotnych są obowiązane do nieodpłatnego udostępniania Zakładowi dokumentacji medycznej: 1) w postaci papierowej – przez sporządzenie jej wyciągu, odpisu, kopii lub wydruku – poświadczonych za zgodność z oryginałem; 2) w postaci elektronicznej – za pośrednictwem środków komunikacji elektronicznej albo na informatycznym nośniku danych. 2. Podmiot udzielający świadczeń zdrowotnych udostępnia niezwłocznie dokumentację medyczną, o której mowa w ust. 1, niepóźniej niż w terminie 14 dni od dnia otrzymania wniosku o jej udostępnienie. Art. 85j. 1. Zadania związane z wydawaniem orzeczeń oraz kontrolą orzecznictwa o czasowej niezdolności do pracy, o których mowa w art. 68 ust. 1 pkt 5, mogą być realizowane przy wsparciu osób upoważnionych, wykonujących czynności pomocnicze w postępowaniu związanym z wydaniem orzeczenia. 2. Osoby upoważnione, o których mowa w ust. 1: 1) mogą być obecne, za zgodą osoby zainteresowanej, przy przeprowadzaniu badania lekarskiego; 2) są obowiązane do zachowania poufności wszelkich informacji i danych uzyskanych w związku z realizacją powierzonych zadań. 3. Obowiązek zachowania poufności przez osoby upoważnione, o których mowa w ust. 1, obowiązuje również po śmierci osoby, wobec której zostało wydane orzeczenie. 4. Osoby upoważnione, o których mowa w ust. 1, dopuszcza się do przetwarzania danych osobowych zawartych w dokumentacji związanej z wydaniem orzeczenia, na podstawie pisemnego upoważnienia udzielonego przez Zakład, po odbyciu przez te osoby przeszkolenia w zakresie ochrony danych osobowych organizowanego przez Zakład oraz po złożeniu pisemnego zobowiązania do zachowania w poufności przetwarzanych danych osobowych.”.
 
 **Art. 2.** W ustawie z dnia 20 lipca 1950 r. o zawodzie felczera (Dz. U. z 2022 r. poz. 1529) w art. 1c ust. 3 otrzymuje brzmienie: „3. Naczelna Rada Lekarska udostępnia informacje zawarte w rejestrze felczerów systemowi informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2025 r. poz. 302, 779, 1537 i 1705), oraz Zakładowi Ubezpieczeń Społecznych dla celów określonych w art. 56 ust. 5 pkt 3 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083 oraz z 2026 r. poz. 26).”.
 
@@ -304,21 +83,10 @@ source: pdf
 
 **Art. 12.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749) wprowadza się następujące zmiany:
 
-- **1)** po art. 5 dodaje się art. 5a w brzmieniu: „Art. 5a. 1. Przy obliczaniu okresu składkowego i nieskładkowego dodaje się, osobno dla każdego z tych okresów, poszczególne lata, miesiące i dni.
-
-2. Okresy niepełnych miesięcy oblicza się w dniach. Sumę dni zamienia się na miesiące, przyjmując za miesiąc 30 dni kalendarzowych, a sumę miesięcy zamienia się na lata, przyjmując pełne 12 miesięcy za jeden rok.
-
-3. Jeżeli w zaświadczeniu stwierdzającym okresy zatrudnienia są podane dniówki robocze, a nie okresy zatrudnienia, sumę dni zamienia się na miesiące, przyjmując za miesiąc 22 dni robocze, a za okresy przed dniem 1 stycznia 1981 r. – 25 dni roboczych.”;
-
+- **1)** po art. 5 dodaje się art. 5a w brzmieniu: „Art. 5a. 1. Przy obliczaniu okresu składkowego i nieskładkowego dodaje się, osobno dla każdego z tych okresów, poszczególne lata, miesiące i dni. 2. Okresy niepełnych miesięcy oblicza się w dniach. Sumę dni zamienia się na miesiące, przyjmując za miesiąc 30 dni kalendarzowych, a sumę miesięcy zamienia się na lata, przyjmując pełne 12 miesięcy za jeden rok. 3. Jeżeli w zaświadczeniu stwierdzającym okresy zatrudnienia są podane dniówki robocze, a nie okresy zatrudnienia, sumę dni zamienia się na miesiące, przyjmując za miesiąc 22 dni robocze, a za okresy przed dniem 1 stycznia 1981 r. – 25 dni roboczych.”;
 - **2)** w art. 13 dodaje się ust. 6 w brzmieniu: „6. Celowość przekwalifikowania zawodowego orzeka się, jeżeli osoba ubiegająca się o świadczenie trwale utraciła zdolność do pracy w dotychczasowym zawodzie i może odzyskać zdolność do pracy po przekwalifikowaniu.”;
 - **3)** w art. 14:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Ocena niezdolności do pracy, jej stopnia oraz ustalenie:
-
-- **1)** daty powstania niezdolności do pracy,
-- **2)** trwałości lub przewidywanego okresu niezdolności do pracy,
-- **3)** związku przyczynowego niezdolności do pracy lub śmierci z określonymi okolicznościami,
-- **4)** trwałości lub przewidywanego okresu niezdolności do samodzielnej egzystencji,
-- **5)** celowości przekwalifikowania zawodowego – jest dokonywana w formie orzeczenia wydanego na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.”,
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Ocena niezdolności do pracy, jej stopnia oraz ustalenie: 1) daty powstania niezdolności do pracy, 2) trwałości lub przewidywanego okresu niezdolności do pracy, 3) związku przyczynowego niezdolności do pracy lub śmierci z określonymi okolicznościami, 4) trwałości lub przewidywanego okresu niezdolności do samodzielnej egzystencji, 5) celowości przekwalifikowania zawodowego – jest dokonywana w formie orzeczenia wydanego na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.”,
     - **b)** uchyla się ust. 2a–6;
 
 - **4)** w art. 50c w ust. 1:
@@ -337,22 +105,11 @@ source: pdf
 
 - **1)** w art. 9 dodaje się ust. 4 w brzmieniu: „4. Niezależnie od liczby tytułów ubezpieczenia chorobowego ustala się jeden okres zasiłkowy. Dotyczy to również przypadku, o którym mowa w art. 17 ust. 1d.”;
 - **2)** w art. 17:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Ubezpieczony traci prawo do zasiłku chorobowego za cały okres zwolnienia od pracy, w przypadku gdy w okresie orzeczonej niezdolności do pracy:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Ubezpieczony traci prawo do zasiłku chorobowego za cały okres zwolnienia od pracy, w przypadku gdy w okresie orzeczonej niezdolności do pracy: 1) wykonuje pracę zarobkową lub 2) podejmuje aktywność niezgodną z celem tego zwolnienia.”,
+    - **b)** po ust. 1 dodaje się ust. 1a–1e w brzmieniu: „1a. Pracą zarobkową, o której mowa w ust. 1 pkt 1, jest każda czynność mająca charakter zarobkowy, niezależnie od stosunku prawnego będącego podstawą jej wykonania, z wyłączeniem czynności incydentalnych, których podjęcia w okresie zwolnienia od pracy wymagają istotne okoliczności. Istotną okolicznością nie może być polecenie pracodawcy. 1b. Aktywnością niezgodną z celem zwolnienia od pracy, o której mowa w ust. 1 pkt 2, są wszelkie działania utrudniające lub wydłużające proces leczenia lub rekonwalescencję, z wyłączeniem zwykłych czynności dnia codziennego lub czynności incydentalnych, których podjęcia w okresie zwolnienia od pracy wymagają istotne okoliczności. 1c. W przypadku spełniania warunków podlegania ubezpieczeniom społecznym z co najmniej dwóch tytułów do tych ubezpieczeń niezdolność do pracy z powodu choroby dotyczy każdego z tych tytułów, dla których odrębnie wystawia się zwolnienie od pracy. 1d. Jeżeli jednak praca zarobkowa w ramach określonego tytułu może być wykonywana z uwagi na rodzaj tej pracy, na żądanie ubezpieczonego można nie wystawić zwolnienia od pracy z tego tytułu. 1e. W przypadku, o którym mowa w ust. 1d, ubezpieczony jest obowiązany poinformować płatnika składek, o którym mowa w art. 61 ust. 1 pkt 1, o okresie, na który zostało mu wystawione zwolnienie od pracy z innego tytułu.”,
+    - **c)** uchyla się ust. 3,
+    - **d)** dodaje się ust. 4 w brzmieniu: „4. Zasady określone w ust. 1–2 stosuje się odpowiednio do osoby uprawnionej do zasiłku chorobowego za okres po ustaniu tytułu ubezpieczenia chorobowego.”;
 
-- **1)** wykonuje pracę zarobkową lub
-- **2)** podejmuje aktywność niezgodną z celem tego zwolnienia.”,
-    - **b)** po ust. 1 dodaje się ust. 1a–1e w brzmieniu: „1a. Pracą zarobkową, o której mowa w ust. 1 pkt 1, jest każda czynność mająca charakter zarobkowy, niezależnie od stosunku prawnego będącego podstawą jej wykonania, z wyłączeniem czynności incydentalnych, których podjęcia w okresie zwolnienia od pracy wymagają istotne okoliczności. Istotną okolicznością nie może być polecenie pracodawcy.
-
-1b. Aktywnością niezgodną z celem zwolnienia od pracy, o której mowa w ust. 1 pkt 2, są wszelkie działania utrudniające lub wydłużające proces leczenia lub rekonwalescencję, z wyłączeniem zwykłych czynności dnia codziennego lub czynności incydentalnych, których podjęcia w okresie zwolnienia od pracy wymagają istotne okoliczności.
-
-1c. W przypadku spełniania warunków podlegania ubezpieczeniom społecznym z co najmniej dwóch tytułów do tych ubezpieczeń niezdolność do pracy z powodu choroby dotyczy każdego z tych tytułów, dla których odrębnie wystawia się zwolnienie od pracy.
-
-1d. Jeżeli jednak praca zarobkowa w ramach określonego tytułu może być wykonywana z uwagi na rodzaj tej pracy, na żądanie ubezpieczonego można nie wystawić zwolnienia od pracy z tego tytułu.
-
-1e. W przypadku, o którym mowa w ust. 1d, ubezpieczony jest obowiązany poinformować płatnika składek, o którym mowa w art. 61 ust. 1 pkt 1, o okresie, na który zostało mu wystawione zwolnienie od pracy z innego tytułu.”,
-
-- **c)** uchyla się ust. 3,
-- **d)** dodaje się ust. 4 w brzmieniu: „4. Zasady określone w ust. 1–2 stosuje się odpowiednio do osoby uprawnionej do zasiłku chorobowego za okres po ustaniu tytułu ubezpieczenia chorobowego.”;
 - **3)** w art. 18:
     - **a)** ust. 3 otrzymuje brzmienie: „3. O okolicznościach, o których mowa w ust. 1 i 2, orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych. Orzeczenie lekarza orzecznika jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.”,
     - **b)** uchyla się ust. 4–6;
@@ -360,141 +117,23 @@ source: pdf
 - **4)** w art. 23 ust. 6 otrzymuje brzmienie: „6. Orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o których mowa w ust. 2 i 5, są wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.”;
 - **5)** w art. 56:
     - **a)** w ust. 2 pkt 7 otrzymuje brzmienie: „7) informacje o posiadaniu upoważnienia, o którym mowa w art. 54 ust. 1.”,
-    - **b)** ust. 5 otrzymuje brzmienie: „5. Zakład Ubezpieczeń Społecznych:
+    - **b)** ust. 5 otrzymuje brzmienie: „5. Zakład Ubezpieczeń Społecznych: 1) udostępnia właściwym jednostkom organizacyjnym samorządu zawodowego lekarzy i lekarzy dentystów oraz organom określonym w ustawie z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2021 r. poz. 1342 oraz z 2023 r. poz. 1234) dla celów postępowania w przedmiocie odpowiedzialności zawodowej lekarza i lekarza dentysty: a) informacje zgromadzone w rejestrze, o którym mowa w ust. 1, oraz w rejestrze, o którym mowa w art. 55b ust. 1, b) informacje dotyczące kontroli, o której mowa w art. 59 ust. 1, oraz dokumenty zgromadzone w postępowaniach związanych z kontrolą, c) informacje dotyczące cofnięcia upoważnienia do wystawiania zaświadczeń lekarskich, o którym mowa w art. 60 ust. 1–2, oraz dokumenty zgromadzone w tych postępowaniach; 2) udostępnia systemowi informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, informacje zgromadzone w rejestrze, o którym mowa w ust. 1; 3) jest uprawniony, w celu udzielenia upoważnienia, o którym mowa w art. 54 ust. 1, albo w celu weryfikacji danych zgromadzonych w rejestrze, o którym mowa w ust. 1, do korzystania z informacji zgromadzonych w Centralnym Rejestrze Lekarzy i Lekarzy Dentystów Rzeczypospolitej Polskiej, Centralnym Rejestrze Felczerów prowadzonym przez Naczelną Radę Lekarską oraz rejestrach lekarzy prowadzonych przez okręgowe rady lekarskie.”;
 
-- **1)** udostępnia właściwym jednostkom organizacyjnym samorządu zawodowego lekarzy i lekarzy dentystów oraz organom określonym w ustawie z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2021 r. poz. 1342 oraz z 2023 r. poz. 1234) dla celów postępowania w przedmiocie odpowiedzialności zawodowej lekarza i lekarza dentysty:
-    - **a)** informacje zgromadzone w rejestrze, o którym mowa w ust. 1, oraz w rejestrze, o którym mowa w art. 55b ust. 1,
-    - **b)** informacje dotyczące kontroli, o której mowa w art. 59 ust. 1, oraz dokumenty zgromadzone w postępowaniach związanych z kontrolą,
-    - **c)** informacje dotyczące cofnięcia upoważnienia do wystawiania zaświadczeń lekarskich, o którym mowa w art. 60 ust. 1–2, oraz dokumenty zgromadzone w tych postępowaniach;
-
-- **2)** udostępnia systemowi informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, informacje zgromadzone w rejestrze, o którym mowa w ust. 1;
-- **3)** jest uprawniony, w celu udzielenia upoważnienia, o którym mowa w art. 54 ust. 1, albo w celu weryfikacji danych zgromadzonych w rejestrze, o którym mowa w ust. 1, do korzystania z informacji zgromadzonych w Centralnym Rejestrze Lekarzy i Lekarzy Dentystów Rzeczypospolitej Polskiej, Centralnym Rejestrze Felczerów prowadzonym przez Naczelną Radę Lekarską oraz rejestrach lekarzy prowadzonych przez okręgowe rady lekarskie.”;
 - **6)** w art. 59:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Prawidłowość orzekania o czasowej niezdolności do pracy z powodu choroby albo orzekania o konieczności osobistego sprawowania przez ubezpieczonego opieki nad chorym członkiem rodziny oraz wystawiania zaświadczeń lekarskich podlega kontroli.”,
-    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. W celu kontroli Zakład Ubezpieczeń Społecznych może:
+    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. W celu kontroli Zakład Ubezpieczeń Społecznych może: 1) skierować ubezpieczonego na badanie do lekarza orzecznika Zakładu Ubezpieczeń Społecznych lub do lekarza konsultanta, o którym mowa w art. 68 ust. 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w wyznaczonym miejscu albo w miejscu jego pobytu; 2) skierować ubezpieczonego na badania pomocnicze; 3) zażądać od wystawiającego zaświadczenie lekarskie lub od podmiotu udzielającego świadczeń zdrowotnych, w którym wystawiono zaświadczenie lekarskie, udostępnienia dokumentacji medycznej dotyczącej ubezpieczonego lub chorego członka rodziny, stanowiącej podstawę wydania zaświadczenia lekarskiego lub udzielenia wyjaśnień i informacji w sprawie; 4) zażądać od ubezpieczonego udzielenia wyjaśnień i informacji w sprawie. 4. Ubezpieczony jest obowiązany udostępnić posiadaną dokumentację medyczną lekarzowi przeprowadzającemu badanie, o którym mowa w ust. 3 pkt 1.”,
+    - **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Do udostępniania dokumentacji medycznej, o której mowa w ust. 3 pkt 3, stosuje się odpowiednio art. 85i ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.”;
 
-- **1)** skierować ubezpieczonego na badanie do lekarza orzecznika Zakładu Ubezpieczeń Społecznych lub do lekarza konsultanta, o którym mowa w art. 68 ust. 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w wyznaczonym miejscu albo w miejscu jego pobytu;
-- **2)** skierować ubezpieczonego na badania pomocnicze;
-- **3)** zażądać od wystawiającego zaświadczenie lekarskie lub od podmiotu udzielającego świadczeń zdrowotnych, w którym wystawiono zaświadczenie lekarskie, udostępnienia dokumentacji medycznej dotyczącej ubezpieczonego lub chorego członka rodziny, stanowiącej podstawę wydania zaświadczenia lekarskiego lub udzielenia wyjaśnień i informacji w sprawie;
-- **4)** zażądać od ubezpieczonego udzielenia wyjaśnień i informacji w sprawie.
-
-4. Ubezpieczony jest obowiązany udostępnić posiadaną dokumentację medyczną lekarzowi przeprowadzającemu badanie, o którym mowa w ust. 3 pkt 1.”,
-
-- **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Do udostępniania dokumentacji medycznej, o której mowa w ust. 3 pkt 3, stosuje się odpowiednio art. 85i ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.”;
 - **7)** w art. 60:
     - **a)** ust. 2 otrzymuje brzmienie: „2. W przypadku powtarzającego się naruszania zasad określonych w art. 55 ust. 1–3, art. 55a ust. 6, 7 i 9, art. 57 oraz art. 59 ust. 3 pkt 3 Zakład Ubezpieczeń Społecznych może, w drodze decyzji, cofnąć upoważnienie, o którym mowa w art. 54 ust. 1, na okres nieprzekraczający 3 miesięcy od dnia, w którym decyzja stała się ostateczna.”,
-    - **b)** ust. 4 i 5 otrzymują brzmienie: „4. Od decyzji, o której mowa w ust. 1–2a, stronie przysługuje prawo do wniesienia wniosku do Prezesa Zakładu Ubezpieczeń Społecznych o ponowne rozpatrzenie sprawy, na zasadach dotyczących decyzji wydanej w pierwszej instancji przez ministra. Do wniosku stosuje się odpowiednio przepisy dotyczące odwołań od decyzji, określone w Kodeksie postępowania administracyjnego.
-
-5. Do decyzji, o których mowa w ust. 1–2a i art. 54, stosuje się przepisy Kodeksu postępowania administracyjnego.”;
+    - **b)** ust. 4 i 5 otrzymują brzmienie: „4. Od decyzji, o której mowa w ust. 1–2a, stronie przysługuje prawo do wniesienia wniosku do Prezesa Zakładu Ubezpieczeń Społecznych o ponowne rozpatrzenie sprawy, na zasadach dotyczących decyzji wydanej w pierwszej instancji przez ministra. Do wniosku stosuje się odpowiednio przepisy dotyczące odwołań od decyzji, określone w Kodeksie postępowania administracyjnego. 5. Do decyzji, o których mowa w ust. 1–2a i art. 54, stosuje się przepisy Kodeksu postępowania administracyjnego.”;
 
 - **8)** w art. 68:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Zakład Ubezpieczeń Społecznych jest uprawniony do przeprowadzania kontroli ubezpieczonych oraz osób po ustaniu tytułu ubezpieczenia chorobowego co do prawidłowości wykorzystywania zwolnień od pracy zgodnie z ich celem.”,
-    - **b)** po ust. 1 dodaje się ust. 1a–1e w brzmieniu: „1a. Płatnicy składek, o których mowa w art. 61 ust. 1 pkt 1, są uprawnieni do przeprowadzania kontroli ubezpieczonych, którym wypłacają zasiłki, co do prawidłowości wykorzystywania zwolnień od pracy zgodnie z ich celem.
+    - **b)** po ust. 1 dodaje się ust. 1a–1e w brzmieniu: „1a. Płatnicy składek, o których mowa w art. 61 ust. 1 pkt 1, są uprawnieni do przeprowadzania kontroli ubezpieczonych, którym wypłacają zasiłki, co do prawidłowości wykorzystywania zwolnień od pracy zgodnie z ich celem. 1b. Zakład Ubezpieczeń Społecznych przeprowadza kontrolę co do prawidłowości wykorzystywania zwolnień od pracy ubezpieczonych, którym zasiłki wypłacają płatnicy składek, o których mowa w art. 61 ust. 1 pkt 1, na wniosek tych płatników składek lub z urzędu. 1c. Kontrolą, o której mowa w ust. 1–1b, obejmuje się również ubezpieczonych oraz osoby po ustaniu tytułu ubezpieczenia chorobowego, które nie mogą wykonywać pracy z przyczyn określonych w art. 6 ust. 2 pkt 1 i 1a. 1d. Płatnicy składek są uprawnieni do przeprowadzania kontroli co do prawidłowości wykorzystywania zwolnień od pracy zgodnie z ich celem dla celów wypłaty wynagrodzenia za czas niezdolności do pracy, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. 1e. Wątpliwości, czy zwolnienie od pracy było wykorzystywane niezgodnie z jego celem, rozstrzyga właściwa jednostka organizacyjna Zakładu Ubezpieczeń Społecznych, uzyskując w miarę potrzeby opinię lekarza, który wystawił zwolnienie lekarskie, lub lekarza orzecznika.”,
+    - **c)** uchyla się ust. 2;
 
-1b. Zakład Ubezpieczeń Społecznych przeprowadza kontrolę co do prawidłowości wykorzystywania zwolnień od pracy ubezpieczonych, którym zasiłki wypłacają płatnicy składek, o których mowa w art. 61 ust. 1 pkt 1, na wniosek tych płatników składek lub z urzędu.
-
-1c. Kontrolą, o której mowa w ust. 1–1b, obejmuje się również ubezpieczonych oraz osoby po ustaniu tytułu ubezpieczenia chorobowego, które nie mogą wykonywać pracy z przyczyn określonych w art. 6 ust. 2 pkt 1 i 1a.
-
-1d. Płatnicy składek są uprawnieni do przeprowadzania kontroli co do prawidłowości wykorzystywania zwolnień od pracy zgodnie z ich celem dla celów wypłaty wynagrodzenia za czas niezdolności do pracy, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
-
-1e. Wątpliwości, czy zwolnienie od pracy było wykorzystywane niezgodnie z jego celem, rozstrzyga właściwa jednostka organizacyjna Zakładu Ubezpieczeń Społecznych, uzyskując w miarę potrzeby opinię lekarza, który wystawił zwolnienie lekarskie, lub lekarza orzecznika.”,
-
-- **c)** uchyla się ust. 2;
-- **9)** po art. 68 dodaje się art. 68a–68g w brzmieniu: „Art. 68a. 1. Kontrola, o której mowa w art. 68, obejmuje zwolnienia z powodu niezdolności do pracy, za które przysługuje zasiłek chorobowy, świadczenie rehabilitacyjne albo wynagrodzenie za czas niezdolności do pracy, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, oraz zwolnienia z powodu konieczności osobistego sprawowania opieki, za które przysługuje zasiłek opiekuńczy.
-
-2. Kontrola polega na ustaleniu, czy osoba kontrolowana nie podejmuje działań określonych w art. 17 ust. 1, a w przypadku zasiłku opiekuńczego również na ustaleniu, czy poza ubezpieczonym nie ma innych członków rodziny pozostających we wspólnym gospodarstwie domowym, mogących zapewnić opiekę, chyba że dotyczy to sprawowania opieki nad chorym dzieckiem w wieku do 2 lat.
-
-3. Kontrola jest dokonywana w miarę potrzeb, bez ustalania z góry stałych jej terminów, a nasilana szczególnie w okresach, w których występuje zwiększona absencja z powodu choroby lub sprawowania opieki.
-
-4. Kontrola jest dokonywana z wykorzystaniem środków adekwatnych i proporcjonalnych do celu kontroli, z poszanowaniem prywatności osoby kontrolowanej oraz innych osób przebywających w miejscu kontroli oraz w sposób wolny od ryzyka pogorszenia się stanu zdrowia osoby kontrolowanej i zakłócania procesu leczenia lub rekonwalescencji, a czas jej trwania jest ograniczony do okresu niezbędnego do dokonania ustaleń z tej kontroli.
-
-**Art. 68b.**
-
-1. Wszczęcie kontroli, o której mowa w art. 68, następuje z urzędu, na podstawie upoważnienia do przeprowadzenia kontroli udzielonego kontrolującemu.
-
-2. Wszczęcie kontroli następuje przez okazanie osobie kontrolowanej upoważnienia, o którym mowa w ust. 1.
-
-3. Upoważnienie, o którym mowa w ust. 1, zawiera:
-
-- **1)** wskazanie podstawy prawnej do przeprowadzenia kontroli;
-- **2)** oznaczenie jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych albo płatnika składek;
-- **3)** datę i miejsce wystawienia upoważnienia;
-- **4)** imię i nazwisko kontrolującego wraz z podaniem:
-    - **a)** numeru legitymacji służbowej – w przypadku kontroli dokonywanej przez Zakład Ubezpieczeń Społecznych,
-    - **b)** numeru legitymacji pracowniczej lub dokumentu tożsamości i daty wydania tego dokumentu – w przypadku kontroli dokonywanej przez płatnika składek;
-
-- **5)** wskazanie zakresu kontroli;
-- **6)** podpis osoby udzielającej upoważnienia.
-
-**Art. 68c.**
-
-1. Czynności kontrolne są prowadzone w miejscu zamieszkania, miejscu pobytu, miejscu pracy osoby kontrolowanej lub w miejscu wykonywania przez nią pozarolniczej działalności lub w innym miejscu, jeżeli jest to konieczne ze względu na cel kontroli.
-
-2. Kontrolującemu przysługuje uprawnienie do:
-
-- **1)** wstępu do miejsca przeprowadzania kontroli,
-- **2)** legitymowania osoby kontrolowanej wyłącznie w celu ustalenia tożsamości,
-- **3)** żądania oraz odbierania informacji od osoby kontrolowanej, jej płatnika składek lub lekarza leczącego,
-- **4)** dostępu do danych ubezpieczonego i płatnika składek gromadzonych przez Zakład Ubezpieczeń Społecznych na koncie ubezpieczonego i koncie płatnika składek – jeżeli jest to uzasadnione celem prowadzonej kontroli.
-
-3. Kontrolujący jest obowiązany do:
-
-- **1)** okazania osobie kontrolowanej lub osobie przebywającej w miejscu przeprowadzania kontroli legitymacji służbowej albo pracowniczej oraz upoważnienia do przeprowadzenia kontroli;
-- **2)** poinformowania osoby kontrolowanej o jej uprawnieniach, w tym o możliwości zgłoszenia zastrzeżeń do protokołu kontroli;
-- **3)** zachowania w tajemnicy wszelkich informacji dotyczących prywatności osoby kontrolowanej pozyskanych w czasie kontroli.
-
-**Art. 68d.** Osoba kontrolowana jest obowiązana do:
-
-- **1)** umożliwienia przeprowadzenia kontroli;
-- **2)** udostępnienia kontrolującemu na jego żądanie informacji w zakresie kontroli;
-- **3)** składania wyjaśnień w zakresie kontroli na żądanie kontrolującego.
-
-**Art. 68e.**
-
-1. Ustalenia kontroli opisuje się w protokole kontroli, który zawiera:
-
-- **1)** oznaczenie jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych albo płatnika składek;
-- **2)** datę, godzinę i miejsce przeprowadzenia kontroli;
-- **3)** dane osoby kontrolowanej:
-    - **a)** imię i nazwisko,
-    - **b)** numer PESEL, a w razie gdy nie nadano numeru PESEL – datę urodzenia, rodzaj, serię i numer dokumentu tożsamości,
-    - **c)** miejsce zamieszkania lub pobytu,
-    - **d)** miejsce pracy;
-
-- **4)** dane osób kontrolujących:
-    - **a)** imię i nazwisko,
-    - **b)** numer legitymacji służbowej – w przypadku kontroli dokonywanej przez Zakład Ubezpieczeń Społecznych,
-    - **c)** numer legitymacji pracowniczej lub dokumentu tożsamości i datę wydania tego dokumentu – w przypadku kontroli dokonywanej przez płatnika składek;
-
-- **5)** okres orzeczonej niezdolności do pracy albo okres konieczności sprawowania opieki;
-- **6)** numer zaświadczenia lekarskiego o czasowej niezdolności do pracy albo oznaczenie decyzji o przyznaniu świadczenia rehabilitacyjnego;
-- **7)** imię i nazwisko lekarza, który wydał zaświadczenie o czasowej niezdolności do pracy;
-- **8)** opis dokonanych ustaleń;
-- **9)** pouczenie o prawie złożenia zastrzeżeń;
-- **10)** podpis osoby kontrolowanej;
-- **11)** wzmiankę o odmowie podpisania protokołu przez osobę kontrolowaną – w przypadku odmowy podpisania protokołu;
-- **12)** podpis osoby kontrolującej.
-
-2. Protokół kontroli sporządza się w dwóch egzemplarzach, z których jeden doręcza się osobie kontrolowanej.
-
-3. Zmiany protokołu kontroli dokonuje się przez wydanie aneksu do protokołu kontroli.
-
-4. Osoba kontrolowana ma prawo w terminie 7 dni od dnia otrzymania protokołu kontroli lub aneksu do protokołu kontroli złożyć zastrzeżenia do ustaleń w nich zawartych, wskazując równocześnie stosowne środki dowodowe.
-
-5. Zakład Ubezpieczeń Społecznych rozpatruje zgłoszone zastrzeżenia. O sposobie rozpatrzenia zastrzeżeń osobę kontrolowaną informuje się na piśmie.
-
-6. Do aneksu do protokołu kontroli sporządzonego w wyniku rozpatrzenia zgłoszonych zastrzeżeń nie stosuje się ust. 4.
-
-7. Protokół kontroli stanowi podstawę do wszczęcia przez Zakład Ubezpieczeń Społecznych postępowania w sprawie ustania prawa do zasiłku chorobowego, zasiłku opiekuńczego lub świadczenia rehabilitacyjnego oraz stanowi dowód w tym postępowaniu, chyba że z protokołu lub z uwzględnionych do niego zastrzeżeń nie wynika, że zwolnienie od pracy było wykorzystywane niezgodnie z jego celem.
-
-**Art. 68f.**
-
-1. Zakład Ubezpieczeń Społecznych, z urzędu lub na wniosek płatnika składek, jest uprawniony do formalnej kontroli zaświadczeń lekarskich obejmującej zwolnienia z powodu niezdolności do pracy, za które przysługuje zasiłek chorobowy lub wynagrodzenie za czas niezdolności do pracy, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, oraz zwolnienia z powodu konieczności osobistego sprawowania opieki, za które przysługuje zasiłek opiekuńczy.
-
-2. Kontrola, o której mowa w ust. 1, polega na sprawdzeniu, czy zaświadczenie zostało wydane zgodnie z przepisami w sprawie zasad i trybu wystawiania zaświadczeń lekarskich.
-
-**Art. 68g.** Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzór upoważnienia do przeprowadzenia kontroli prawidłowości wykorzystywania zwolnień od pracy i wzór protokołu tej kontroli, uwzględniając elementy upoważnienia i protokołu kontroli określone odpowiednio w art. 68b ust. 3 i art. 68e ust. 1.”;
-
+- **9)** po art. 68 dodaje się art. 68a–68g w brzmieniu: „Art. 68a. 1. Kontrola, o której mowa w art. 68, obejmuje zwolnienia z powodu niezdolności do pracy, za które przysługuje zasiłek chorobowy, świadczenie rehabilitacyjne albo wynagrodzenie za czas niezdolności do pracy, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, oraz zwolnienia z powodu konieczności osobistego sprawowania opieki, za które przysługuje zasiłek opiekuńczy. 2. Kontrola polega na ustaleniu, czy osoba kontrolowana nie podejmuje działań określonych w art. 17 ust. 1, a w przypadku zasiłku opiekuńczego również na ustaleniu, czy poza ubezpieczonym nie ma innych członków rodziny pozostających we wspólnym gospodarstwie domowym, mogących zapewnić opiekę, chyba że dotyczy to sprawowania opieki nad chorym dzieckiem w wieku do 2 lat. 3. Kontrola jest dokonywana w miarę potrzeb, bez ustalania z góry stałych jej terminów, a nasilana szczególnie w okresach, w których występuje zwiększona absencja z powodu choroby lub sprawowania opieki. 4. Kontrola jest dokonywana z wykorzystaniem środków adekwatnych i proporcjonalnych do celu kontroli, z poszanowaniem prywatności osoby kontrolowanej oraz innych osób przebywających w miejscu kontroli oraz w sposób wolny od ryzyka pogorszenia się stanu zdrowia osoby kontrolowanej i zakłócania procesu leczenia lub rekonwalescencji, a czas jej trwania jest ograniczony do okresu niezbędnego do dokonania ustaleń z tej kontroli. Art. 68b. 1. Wszczęcie kontroli, o której mowa w art. 68, następuje z urzędu, na podstawie upoważnienia do przeprowadzenia kontroli udzielonego kontrolującemu. 2. Wszczęcie kontroli następuje przez okazanie osobie kontrolowanej upoważnienia, o którym mowa w ust. 1. 3. Upoważnienie, o którym mowa w ust. 1, zawiera: 1) wskazanie podstawy prawnej do przeprowadzenia kontroli; 2) oznaczenie jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych albo płatnika składek; 3) datę i miejsce wystawienia upoważnienia; 4) imię i nazwisko kontrolującego wraz z podaniem: a) numeru legitymacji służbowej – w przypadku kontroli dokonywanej przez Zakład Ubezpieczeń Społecznych, b) numeru legitymacji pracowniczej lub dokumentu tożsamości i daty wydania tego dokumentu – w przypadku kontroli dokonywanej przez płatnika składek; 5) wskazanie zakresu kontroli; 6) podpis osoby udzielającej upoważnienia. Art. 68c. 1. Czynności kontrolne są prowadzone w miejscu zamieszkania, miejscu pobytu, miejscu pracy osoby kontrolowanej lub w miejscu wykonywania przez nią pozarolniczej działalności lub w innym miejscu, jeżeli jest to konieczne ze względu na cel kontroli. 2. Kontrolującemu przysługuje uprawnienie do: 1) wstępu do miejsca przeprowadzania kontroli, 2) legitymowania osoby kontrolowanej wyłącznie w celu ustalenia tożsamości, 3) żądania oraz odbierania informacji od osoby kontrolowanej, jej płatnika składek lub lekarza leczącego, 4) dostępu do danych ubezpieczonego i płatnika składek gromadzonych przez Zakład Ubezpieczeń Społecznych na koncie ubezpieczonego i koncie płatnika składek – jeżeli jest to uzasadnione celem prowadzonej kontroli. 3. Kontrolujący jest obowiązany do: 1) okazania osobie kontrolowanej lub osobie przebywającej w miejscu przeprowadzania kontroli legitymacji służbowej albo pracowniczej oraz upoważnienia do przeprowadzenia kontroli; 2) poinformowania osoby kontrolowanej o jej uprawnieniach, w tym o możliwości zgłoszenia zastrzeżeń do protokołu kontroli; 3) zachowania w tajemnicy wszelkich informacji dotyczących prywatności osoby kontrolowanej pozyskanych w czasie kontroli. Art. 68d. Osoba kontrolowana jest obowiązana do: 1) umożliwienia przeprowadzenia kontroli; 2) udostępnienia kontrolującemu na jego żądanie informacji w zakresie kontroli; 3) składania wyjaśnień w zakresie kontroli na żądanie kontrolującego. Art. 68e. 1. Ustalenia kontroli opisuje się w protokole kontroli, który zawiera: 1) oznaczenie jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych albo płatnika składek; 2) datę, godzinę i miejsce przeprowadzenia kontroli; 3) dane osoby kontrolowanej: a) imię i nazwisko, b) numer PESEL, a w razie gdy nie nadano numeru PESEL – datę urodzenia, rodzaj, serię i numer dokumentu tożsamości, c) miejsce zamieszkania lub pobytu, d) miejsce pracy; 4) dane osób kontrolujących: a) imię i nazwisko, b) numer legitymacji służbowej – w przypadku kontroli dokonywanej przez Zakład Ubezpieczeń Społecznych, c) numer legitymacji pracowniczej lub dokumentu tożsamości i datę wydania tego dokumentu – w przypadku kontroli dokonywanej przez płatnika składek; 5) okres orzeczonej niezdolności do pracy albo okres konieczności sprawowania opieki; 6) numer zaświadczenia lekarskiego o czasowej niezdolności do pracy albo oznaczenie decyzji o przyznaniu świadczenia rehabilitacyjnego; 7) imię i nazwisko lekarza, który wydał zaświadczenie o czasowej niezdolności do pracy; 8) opis dokonanych ustaleń; 9) pouczenie o prawie złożenia zastrzeżeń; 10) podpis osoby kontrolowanej; 11) wzmiankę o odmowie podpisania protokołu przez osobę kontrolowaną – w przypadku odmowy podpisania protokołu; 12) podpis osoby kontrolującej. 2. Protokół kontroli sporządza się w dwóch egzemplarzach, z których jeden doręcza się osobie kontrolowanej. 3. Zmiany protokołu kontroli dokonuje się przez wydanie aneksu do protokołu kontroli. 4. Osoba kontrolowana ma prawo w terminie 7 dni od dnia otrzymania protokołu kontroli lub aneksu do protokołu kontroli złożyć zastrzeżenia do ustaleń w nich zawartych, wskazując równocześnie stosowne środki dowodowe. 5. Zakład Ubezpieczeń Społecznych rozpatruje zgłoszone zastrzeżenia. O sposobie rozpatrzenia zastrzeżeń osobę kontrolowaną informuje się na piśmie. 6. Do aneksu do protokołu kontroli sporządzonego w wyniku rozpatrzenia zgłoszonych zastrzeżeń nie stosuje się ust. 4. 7. Protokół kontroli stanowi podstawę do wszczęcia przez Zakład Ubezpieczeń Społecznych postępowania w sprawie ustania prawa do zasiłku chorobowego, zasiłku opiekuńczego lub świadczenia rehabilitacyjnego oraz stanowi dowód w tym postępowaniu, chyba że z protokołu lub z uwzględnionych do niego zastrzeżeń nie wynika, że zwolnienie od pracy było wykorzystywane niezgodnie z jego celem. Art. 68f. 1. Zakład Ubezpieczeń Społecznych, z urzędu lub na wniosek płatnika składek, jest uprawniony do formalnej kontroli zaświadczeń lekarskich obejmującej zwolnienia z powodu niezdolności do pracy, za które przysługuje zasiłek chorobowy lub wynagrodzenie za czas niezdolności do pracy, o którym mowa w art. 92 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, oraz zwolnienia z powodu konieczności osobistego sprawowania opieki, za które przysługuje zasiłek opiekuńczy. 2. Kontrola, o której mowa w ust. 1, polega na sprawdzeniu, czy zaświadczenie zostało wydane zgodnie z przepisami w sprawie zasad i trybu wystawiania zaświadczeń lekarskich. Art. 68g. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzór upoważnienia do przeprowadzenia kontroli prawidłowości wykorzystywania zwolnień od pracy i wzór protokołu tej kontroli, uwzględniając elementy upoważnienia i protokołu kontroli określone odpowiednio w art. 68b ust. 3 i art. 68e ust. 1.”;
 - **10)** w art. 69 wyrazy „art. 63–68” zastępuje się wyrazami „art. 63–68f” oraz po wyrazach „art. 61b ust. 6” dodaje się wyrazy „i art. 68g”.
 
 **Art. 14.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm. ) wprowadza się następujące zmiany:
@@ -505,9 +144,7 @@ source: pdf
     - **b)** § 1d otrzymuje brzmienie: „§ 1d. Koszty badania i wydania orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Ministra Sprawiedliwości.”;
 
 - **3)** w art. 94b § 1 otrzymuje brzmienie: „§ 1. Oceny uszczerbku na zdrowiu oraz jego związku z wypadkiem przy pracy lub chorobą zawodową, a także ustalenia związku śmierci sędziego lub sędziego w stanie spoczynku z takim wypadkiem lub chorobą dokonuje, w formie orzeczenia, lekarz orzecznik Zakładu Ubezpieczeń Społecznych. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. Koszty badania i wydania orzeczenia pokrywa Skarb Państwa ze środków pozostających w dyspozycji Ministra Sprawiedliwości.”;
-- **4)** w art. 94d § 6 i 7 otrzymują brzmienie: „§ 6. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o którym mowa w § 3 i 4, jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
-
-§ 7. Koszty badania i wydania orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o którym mowa w § 3 i 4, pokrywa Skarb Państwa ze środków pozostających w dyspozycji Ministra Sprawiedliwości.”.
+- **4)** w art. 94d § 6 i 7 otrzymują brzmienie: „§ 6. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o którym mowa w § 3 i 4, jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych. § 7. Koszty badania i wydania orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o którym mowa w § 3 i 4, pokrywa Skarb Państwa ze środków pozostających w dyspozycji Ministra Sprawiedliwości.”.
 
 **Art. 15.** W ustawie z dnia 27 lipca 2001 r. o kuratorach sądowych (Dz. U. z 2023 r. poz. 1095 oraz z 2025 r. poz. 620) wprowadza się następujące zmiany:
 
@@ -519,12 +156,8 @@ source: pdf
 **Art. 17.** W ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych (Dz. U. z 2025 r. poz. 1644) wprowadza się następujące zmiany:
 
 - **1)** w art. 2 uchyla się pkt 2a;
-- **2)** w art. 15 ust. 2 otrzymuje brzmienie: „2. Decyzję, o której mowa w ust. 1, z zastrzeżeniem art. 6 ust. 4, Zakład wydaje w terminie 14 dni od dnia:
-- **1)** otrzymania orzeczenia wydanego na zasadach i w trybie określonych przepisami o systemie ubezpieczeń społecznych przez lekarza orzecznika;
-- **2)** wyjaśnienia ostatniej okoliczności niezbędnej do wydania decyzji.”;
-- **3)** art. 16 otrzymuje brzmienie: „Art. 16. 1. Orzeczenie o stałym lub długotrwałym uszczerbku na zdrowiu oraz jego związku z wypadkiem przy pracy lub chorobą zawodową wydaje lekarz orzecznik na zasadach i w trybie określonych przepisami o systemie ubezpieczeń społecznych.
-
-2. W przypadku ustalania prawa do świadczeń, o których mowa w art. 6 ust. 1 pkt 2 i 5–8, lekarz orzecznik ustala również niezdolność do pracy oraz jej związek z wypadkiem przy pracy lub chorobą zawodową, a także związek śmierci ubezpieczonego lub rencisty z takim wypadkiem lub chorobą.”.
+- **2)** w art. 15 ust. 2 otrzymuje brzmienie: „2. Decyzję, o której mowa w ust. 1, z zastrzeżeniem art. 6 ust. 4, Zakład wydaje w terminie 14 dni od dnia: 1) otrzymania orzeczenia wydanego na zasadach i w trybie określonych przepisami o systemie ubezpieczeń społecznych przez lekarza orzecznika; 2) wyjaśnienia ostatniej okoliczności niezbędnej do wydania decyzji.”;
+- **3)** art. 16 otrzymuje brzmienie: „Art. 16. 1. Orzeczenie o stałym lub długotrwałym uszczerbku na zdrowiu oraz jego związku z wypadkiem przy pracy lub chorobą zawodową wydaje lekarz orzecznik na zasadach i w trybie określonych przepisami o systemie ubezpieczeń społecznych. 2. W przypadku ustalania prawa do świadczeń, o których mowa w art. 6 ust. 1 pkt 2 i 5–8, lekarz orzecznik ustala również niezdolność do pracy oraz jej związek z wypadkiem przy pracy lub chorobą zawodową, a także związek śmierci ubezpieczonego lub rencisty z takim wypadkiem lub chorobą.”.
 
 **Art. 18.** W ustawie z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach (Dz. U. z 2025 r. poz. 1565) art. 10 otrzymuje brzmienie: „Art. 10. Orzeczenie o niezdolności do pracy oraz jej związku z wypadkiem w szczególnych okolicznościach, o których mowa w art. 2 ust. 1, lub chorobą zawodową, o której mowa w art. 2 ust. 2, związku śmierci z takim wypadkiem lub chorobą wydaje lekarz orzecznik Zakładu Ubezpieczeń Społecznych na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ). Lekarz orzecznik Zakładu Ubezpieczeń Społecznych ustala również stały lub długotrwały uszczerbek na zdrowiu oraz jego związek z takim wypadkiem lub chorobą zawodową.”.
 
@@ -548,8 +181,8 @@ source: pdf
 
 **Art. 28.** W ustawie z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2024 r. poz. 390 oraz z 2025 r. poz. 304 i 1178) wprowadza się następujące zmiany:
 
-- **1)** w art. 115: poz. 350, z późn. zm. ).”,
-    - **a)** § 3 otrzymuje brzmienie: „§ 3. W razie ujawnienia u prokuratora choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności prokuratora, prokurator bezpośrednio przełożony kieruje prokuratora do lekarza orzecznika Zakładu Ubezpieczeń Społecznych z urzędu lub na wniosek prokuratora. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r.
+- **1)** w art. 115:
+    - **a)** § 3 otrzymuje brzmienie: „§ 3. W razie ujawnienia u prokuratora choroby, co do której zachodzi podejrzenie, że powstała w związku ze szczególnymi właściwościami lub warunkami wykonywania czynności prokuratora, prokurator bezpośrednio przełożony kieruje prokuratora do lekarza orzecznika Zakładu Ubezpieczeń Społecznych z urzędu lub na wniosek prokuratora. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).”,
     - **b)** § 5 otrzymuje brzmienie: „§ 5. Koszty badania i wydania orzeczenia przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych pokrywa Skarb Państwa ze środków pozostających w dyspozycji Prokuratora Generalnego.”;
 
 - **2)** w art. 127 § 1a otrzymuje brzmienie: „§ 1a. Przeniesienie prokuratora w stan spoczynku z powodu choroby lub utraty sił następuje z dniem uprawomocnienia się orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych stwierdzającego trwałą niezdolność do pełnienia obowiązków prokuratora albo orzeczenia lekarza orzecznika Zakładu Ubezpieczeń Społecznych wydanego w wyniku ponownego rozpatrzenia sprawy.”.

@@ -8,10 +8,10 @@ pos: 1738
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 września 2019 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 1738 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 2 września 2019 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,8 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001738) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1738/text.pdf) |
 
-Poz. 1738 ROZPORZĄDZENIE MINISTRA OBRONY NARODOWEJ z dnia 2 września 2019 r.
-sprawie limitu przyjęć na studia na określonym kierunku dla kandydatów na żołnierzy zawodowych poszczególnych uczelniach wojskowych Na podstawie art. 444 ust. 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym nauce (Dz. U. poz. 1668, z późn. zm. ) zarządza się, co następuje: § 1. Limit przyjęć na studia na określonym kierunku dla kandydatów na żołnierzy zawodowych poszczególnych uczelniach wojskowych roku akademickim 2020/2021 jest określony załączniku do rozporządzenia.
-§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: wz. T. Zdzikot
+w sprawie limitu przyjęć na studia na określonym kierunku dla kandydatów na żołnierzy zawodowych w poszczególnych uczelniach wojskowych Na podstawie art. 444 ust. 3 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm. ) zarządza się, co następuje:
+
+**§ 1.** Limit przyjęć na studia na określonym kierunku dla kandydatów na żołnierzy zawodowych w poszczególnych uczelniach wojskowych w roku akademickim 2020/2021 jest określony w załączniku do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: wz. T. Zdzikot
 

@@ -36,16 +36,27 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu i G
 3) § 2 i § 3 rozporządzenia Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 15 stycznia 2020 r. zmieniającego rozporządzenie w sprawie utworzenia urzędów morskich, określenia ich siedzib oraz terytorialnego zakresu działania dyrektorów urzędów morskich (Dz. U. poz. 92), które stanowią: „ § 2. Sprawy wszczęte i niezakończone przed dniem wejścia w życie niniejszego rozporządzenia przez dyrektora Urzędu Morskiego w Słupsku, prowadzone w zakresie działania tego dyrektora, są prowadzone przez dyrektora Urzędu Morskiego w Gdyni albo dyrektora Urzędu Morskiego w Szczecinie według przepisów określających właściwość tych dyrektorów. § 3. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2020 r.”. Minister Infrastruktury: A. Adamczyk
 ROZPORZĄDZENIE MINISTRA TRANSPORTU I GOSPODARKI MORSKIEJ z dnia 7 października 1991 r.
 w sprawie utworzenia urzędów morskich, określenia ich siedzib oraz terytorialnego zakresu działania dyrektorów urzędów morskich Na podstawie art. 40 ust. 1 i 2 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2020 r. poz. 2135 oraz z 2021 r. poz. 234) zarządza się, co następuje:
-§ 1. Tworzy się następujące urzędy morskie i ustala ich siedziby:
-1) Urząd Morski w Gdyni;
-2) (uchylony);
-3) Urząd Morski w Szczecinie.
-§ 2. 1. Terytorialny zakres działania:
-1) dyrektora Urzędu Morskiego w Gdyni – obejmuje morskie wody wewnętrzne, morze terytorialne, strefę przyległą, wyłączną strefę ekonomiczną, morskie porty i przystanie oraz pas nadbrzeżny od wschodniej granicy państwa do linii wyznaczonej, na obszarach morskich, przebiegiem południka 16°41′56,70″ długości geograficznej wschodniej, a następnie granicą województwa pomorskiego i zachodniopomorskiego;
-2) dyrektora Urzędu Morskiego w Szczecinie – obejmuje morskie wody wewnętrzne, morze terytorialne, strefę przyległą, wyłączną strefę ekonomiczną, morskie porty i przystanie oraz pas nadbrzeżny od linii wyznaczonej, na obszarach morskich, przebiegiem południka 16°41′56,70″ długości geograficznej wschodniej, a następnie granicą województwa pomorskiego i zachodniopomorskiego, do zachodniej granicy państwa.
+
+**§ 1.** Tworzy się następujące urzędy morskie i ustala ich siedziby:
+
+- **1)** Urząd Morski w Gdyni;
+- **2)** (uchylony);
+- **3)** Urząd Morski w Szczecinie.
+
+**§ 2.**
+
+1. Terytorialny zakres działania:
+
+- **1)** dyrektora Urzędu Morskiego w Gdyni – obejmuje morskie wody wewnętrzne, morze terytorialne, strefę przyległą, wyłączną strefę ekonomiczną, morskie porty i przystanie oraz pas nadbrzeżny od wschodniej granicy państwa do linii wyznaczonej, na obszarach morskich, przebiegiem południka 16°41′56,70″ długości geograficznej wschodniej, a następnie granicą województwa pomorskiego i zachodniopomorskiego;
+- **2)** dyrektora Urzędu Morskiego w Szczecinie – obejmuje morskie wody wewnętrzne, morze terytorialne, strefę przyległą, wyłączną strefę ekonomiczną, morskie porty i przystanie oraz pas nadbrzeżny od linii wyznaczonej, na obszarach morskich, przebiegiem południka 16°41′56,70″ długości geograficznej wschodniej, a następnie granicą województwa pomorskiego i zachodniopomorskiego, do zachodniej granicy państwa.
+
 2. Dyrektorzy urzędów morskich są właściwi do wykonywania zadań określonych umowami międzynarodowymi oraz odrębnymi przepisami prawnymi na obszarach morza pełnego poza terytorialnym zakresem działania określonym w ust. 1.
+
 3. (uchylony).
+
 4. Terytorialny zakres działania dyrektora Urzędu Morskiego w Gdyni w zakresie nadzoru nad ruchem statków obejmuje, niezależnie od zakresu określonego zgodnie z ust. 1, obszar działania Służby Kontroli Ruchu Statków VTS Ławica Słupska.
-§ 3. Traci moc zarządzenie Ministra Żeglugi z dnia 21 marca 1955 r. w sprawie utworzenia, organizacji i właściwości miejscowej urzędów morskich (M.P. poz. 749, z 1959 r. poz. 122, z 1970 r. poz. 320, z 1972 r. poz. 57, z 1975 r. poz. 167 i z 1982 r. poz. 217).
-§ 4. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
+
+**§ 3.** Traci moc zarządzenie Ministra Żeglugi z dnia 21 marca 1955 r. w sprawie utworzenia, organizacji i właściwości miejscowej urzędów morskich (M.P. poz. 749, z 1959 r. poz. 122, z 1970 r. poz. 320, z 1972 r. poz. 57, z 1975 r. poz. 167 i z 1982 r. poz. 217).
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem ogłoszenia .
 

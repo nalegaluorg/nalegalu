@@ -28,7 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie wydawania zezwoleń wojskowych na przejazd drogowy pojazdów przewożących towary niebezpieczne Na podstawie art. 18 ust. 2 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2024 r.
 poz. 643) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 28 września 2012 r. w sprawie wydawania zezwoleń wojskowych na przejazd drogowy pojazdów przewożących towary niebezpieczne (Dz. U. poz. 1257, z 2016 r. poz. 362 oraz z 2024 r. poz. 53) w § 11 pkt 2 otrzymuje brzmienie: „2) przewożących towary niebezpieczne w okresie stanu wyjątkowego, stanu klęski żywiołowej, a także w czasie prowadzenia akcji ratowniczej lub akcji związanej z przywracaniem bezpieczeństwa i porządku publicznego oraz w czasie prowadzenia działań antyterrorystycznych lub kontrterrorystycznych;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Obrony Narodowej: z up. P. Bejda
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 28 września 2012 r. w sprawie wydawania zezwoleń wojskowych na przejazd drogowy pojazdów przewożących towary niebezpieczne (Dz. U. poz. 1257, z 2016 r. poz. 362 oraz z 2024 r. poz. 53) w § 11 pkt 2 otrzymuje brzmienie: „2) przewożących towary niebezpieczne w okresie stanu wyjątkowego, stanu klęski żywiołowej, a także w czasie prowadzenia akcji ratowniczej lub akcji związanej z przywracaniem bezpieczeństwa i porządku publicznego oraz w czasie prowadzenia działań antyterrorystycznych lub kontrterrorystycznych;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Obrony Narodowej: z up. P. Bejda
 

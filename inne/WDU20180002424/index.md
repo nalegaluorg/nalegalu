@@ -8,10 +8,10 @@ pos: 2424
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: pdf
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 27 grudnia 2018 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Poz. 2424 ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 14 grudnia 2018 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,62 +25,117 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002424) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2424/text.pdf) |
 
-ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z 14 grudnia 2018 r.
-sprawie organizacji przebiegu Na podstawie art. 103 ustawy z 22 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 2244) zarządza się, co następuje: § 1. Rozporządzenie określa organizację przebieg komorniczej, zwanej dalej „aplikacją”, tym:
-1) zadania aplikanta komorniczego, zwanego dalej „aplikantem”, sposób ich wykonywania;
-2) termin rozpoczęcia zakończenia zajęć seminaryjnych oraz przerwy ich odbywaniu, a także tryb wyznaczenia dodatkowego terminu rozpoczęcia zajęć seminaryjnych;
-3) tryb sposób organizacji zajęć seminaryjnych praktyk oraz ich rodzaj;
-4) okres niemożności pełnienia przez aplikanta jego obowiązków wliczany okresu oraz tryb postępowania przypadku jego przekroczenia, a także tryb sposób usprawiedliwiania niemożności pełnienia przez aplikanta jego obowiązków.
-§ 2. Do zadań aplikanta należy:
-1) praktyczne zaznajomienie się z czynnościami należącymi zakresu obowiązków komornika sądowego, zwanego dalej „komornikiem”;
-2) przyswojenie zasad etyki zawodowej;
-3) zapoznanie się z zasadami prowadzenia indywidualnej kancelarii komorniczej, tym zasadami biurowości indywidualnej kancelarii komorniczej;
-4) uczestniczenie zajęciach seminaryjnych organizowanych prowadzonych przez radę oraz praktykach prowadzonych pod kierunkiem komornika zatrudniającego aplikanta, zwanego dalej „patronem”;
-5) dokonywanie innych czynności zleconych przez patrona, związanych z wykonywaniem zawodu komornika oraz prowadzeniem indywidualnej kancelarii komorniczej.
-§ 3. 1. Aplikant zatrudniony przez komornika podstawie umowy o pracę uczestniczy praktykach prowadzonych pod kierunkiem patrona, zwanych dalej „praktyką u komornika”.
-2. Patron zapoznaje aplikanta z zasadami funkcjonowania indywidualnej kancelarii jej organizacji oraz z czynnościami należącymi zakresu obowiązków komornika.
-3. Aplikant realizuje zadania, o których mowa § 2, przez:
-1) samodzielne wykonywanie czynności postępowaniu egzekucyjnym zabezpieczającym sprawach cywilnych;
-2) prawidłowe określanie ponoszenia wysokości wydatków oraz opłat za przeprowadzenie egzekucji lub innego postępowania albo za dokonanie czynności przez komornika;
-3) wykonywanie innych obowiązków komornika wynikających z przepisów odrębnych;
-5) przestrzeganie powagi, godności kultury pracy komornika oraz wykonywanie praw obowiązków wynikających z przynależności samorządu komorniczego;
-6) samodzielne prowadzenie indywidualnej kancelarii organizacji pracy zakresie biurowości indywidualnej kancelarii komorniczej.
-4. Patron okresie miesiąca przed zakończeniem każdego roku szkoleniowego sporządza opinię o aplikancie niezwłocznie przekazuje ją radzie komorniczej. Opinię tę dołącza się akt osobowych aplikanta, prowadzonych przez radę komorniczej. Patron zaznajamia aplikanta z treścią opinii.
-§ 4. 1. Zajęcia seminaryjne rozpoczynają się pierwszy poniedziałek, który przypada po dniu 1 stycznia, trwają 31 grudnia.
-2. Okres od 1 lipca 30 września jest przerwą odbywaniu zajęć seminaryjnych.
-3. Zajęcia seminaryjne odbywają się co najmniej raz tygodniu wymiarze ośmiu 45-minutowych jednostek szkoleniowych. Jeżeli usprawni to przebieg szkolenia, zajęcia seminaryjne mogą odbywać się innym cyklu, lecz nie rzadziej niż 4 dni miesiącu.
-4. W uzasadnionych przypadkach, które uniemożliwiają rozpoczęcie zajęć seminaryjnych terminie określonym ust. 1, Minister Sprawiedliwości, po zasięgnięciu opinii rady komorniczej, może wyznaczyć inne niż określone ust. 1 2 terminy rozpoczęcia zajęć seminaryjnych oraz rozpoczęcia zakończenia przerwy między tymi zajęciami. Termin rozpoczęcia zajęć seminaryjnych nie może być jednak późniejszy niż pierwszy poniedziałek, który przypada po dniu 1 lipca.
-5. Zajęcia seminaryjne rozpoczęte trybie, o którym mowa ust. 4, składają się z takiej samej liczby jednostek szkoleniowych jak zajęcia rozpoczęte terminie określonym ust. 1.
-§ 5. 1. Zajęcia seminaryjne prowadzą osoby wskazane przez radę komorniczej, szczególności: komornicy, komornicy emerytowani, adwokaci, radcowie prawni, prokuratorzy, prokuratorzy stanie spoczynku, sędziowie, sędziowie stanie spoczynku, referendarze starsi referendarze sądowi, a także pracownicy naukowi, naukowo-dydaktyczni lub dydaktyczni szkół wyższych Rzeczypospolitej Polskiej lub Polskiej Akademii Nauk oraz inne osoby szczególnie obeznane z problematyką działalności komorników egzekucji sądowej.
-2. Zajęcia seminaryjne są prowadzone obszarze komorniczej, szczególności jako konwersatoria, seminaria ćwiczenia, przy czym konwersatoria seminaria mogą być prowadzone przy użyciu urządzeń technicznych umożliwiających obustronną komunikację odległość między prowadzącym zajęcia a aplikantami.
-3. Rady właściwych izb komorniczych mogą zawierać porozumienia sprawie wspólnego prowadzenia zajęć seminaryjnych aplikantów. Rada komorniczej, obszarze której prowadzone będą zajęcia seminaryjne, przekazuje odpis porozumienia wiadomości Ministra Sprawiedliwości prezesów właściwych sądów apelacyjnych.
-§ 6. 1. Rada komorniczej, przed rozpoczęciem roku aplikacji, określa harmonogram zajęć seminaryjnych dla każdego roku oraz wyznacza kierownika odpowiedzialnego za ich realizację.
-2. Harmonogramy zajęć seminaryjnych zawierają szczególności:
-1) terminy zajęć seminaryjnych;
-2) liczbę jednostek szkoleniowych poszczególnych terminach;
-3) informację o formie zajęć;
-4) zakres tematyczny przedmiotów określonych ramowym programie ustalonym zgodnie z art. 94 ust. 1 2 ustawy z 22 2018 r. o komornikach sądowych, zwanej dalej „ustawą”;
-5) tematy zagadnień dla poszczególnych zakresów tematycznych;
-6) tytuły aktów prawnych danego tematu;
-7) informację o wykładowcach prowadzących poszczególne zajęcia seminaryjne.
-3. Rada przesyła projekt harmonogramu zajęć seminaryjnych dla każdego roku zatwierdzenia Krajowej Radzie Komorniczej najpóźniej 45 dni przed rozpoczęciem zajęć seminaryjnych. Krajowa Rada Komornicza zatwierdza projekt harmonogramu zajęć seminaryjnych, biorąc pod uwagę szczególności wykonanie ramowego programu terminie 14 dni od ich otrzymania.
-4. Rada umieszcza swojej stronie internetowej zatwierdzony harmonogram zajęć seminaryjnych dla każdego roku przesyła wiadomości Ministrowi Sprawiedliwości terminie nie później niż 14 dni przed dniem rozpoczęcia zajęć seminaryjnych.
-§ 7. 1. W każdym roku aplikant ma prawo nieobecności zajęciach praktycznych innej niż urlop wypoczynkowy obejmującej łącznie 10 dni, niezależnie od przyczyny tej nieobecności.
-2. W każdym roku aplikant ma prawo nieobecności zajęciach seminaryjnych obejmującej łącznie 32 jednostki szkoleniowe, niezależnie od przyczyny tej nieobecności.
-3. Jeżeli aplikant nie może uczestniczyć zajęciach seminaryjnych lub praktykach u komornika, zawiadamia o tym niezwłocznie formie pisemnej kierownika informuje o okresie przyczynie nieobecności. Do zawiadomienia można dołączyć dokument usprawiedliwiający nieobecność. W przypadku braku możliwości pisemnego zawiadomienia, aplikant składa zawiadomienie inny sposób umożliwiający kierownikowi zapoznanie się z jego treścią, jednakże pisemne zawiadomienie składa niezwłocznie po ustaniu przyczyny uniemożliwiającej jego złożenie, nie później niż siódmym dniu od jej ustania.
-4. Aplikant, którego nieobecności przekraczają liczbę jednostek szkoleniowych lub dni praktyki u komornika wskazanych ust. 1 2, po zakończeniu zajęć danym roku aplikacji, jednak nie później niż momentu ukończenia określonego art. 93 ust. 1 ustawy, może uzupełnić wymagane obecności. W przypadku gdy nieobecności były usprawiedliwione, aplikant może uzupełnić wymagane obecności nie później niż okresie roku od terminu ukończenia aplikacji, o którym mowa art. 93 ust. 1 ustawy.
-§ 8. 1. Po pierwszym roku rada przeprowadza kolokwium formie pisemnej dla sprawdzenia stopnia opanowania przez aplikantów materiału, z zakresu którego były prowadzone zajęcia seminaryjne.
-2. Rada wyznacza termin kolokwium podaje go wiadomości aplikantów sposób przyjęty danej izbie co najmniej 2 miesiące przed wyznaczonym terminem.
-3. W przypadku wspólnego prowadzenia zajęć seminaryjnych, o którym mowa § 5 ust. 3, kolokwium przeprowadza rada komorniczej, której obszarze odbywają się zajęcia seminaryjne.
-4. W przypadku uzyskania przez aplikanta negatywnego wyniku z kolokwium aplikant przystępuje kolokwium poprawkowego przeprowadzanego przez radę komorniczej.
-5. Kolokwium poprawkowe przeprowadza się formie pisemnej.
-6. Termin kolokwium poprawkowego wyznacza rada dzień przypadający nie wcześniej niż po upływie 14 dni od ogłoszenia wyników kolokwium podaje go wiadomości aplikantów sposób przyjęty danej izbie co najmniej 7 dni przed wyznaczonym terminem.
+w sprawie organizacji i przebiegu aplikacji komorniczej Na podstawie art. 103 ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771, 1443, 1669 i 2244) zarządza się, co następuje:
+
+**§ 1.** Rozporządzenie określa organizację i przebieg aplikacji komorniczej, zwanej dalej „aplikacją”, w tym:
+
+- **1)** zadania aplikanta komorniczego, zwanego dalej „aplikantem”, i sposób ich wykonywania;
+- **2)** termin rozpoczęcia i zakończenia zajęć seminaryjnych oraz przerwy w ich odbywaniu, a także tryb wyznaczenia dodatkowego terminu rozpoczęcia zajęć seminaryjnych;
+- **3)** tryb i sposób organizacji zajęć seminaryjnych i praktyk oraz ich rodzaj;
+- **4)** okres niemożności pełnienia przez aplikanta jego obowiązków wliczany do okresu aplikacji oraz tryb postępowania w przypadku jego przekroczenia, a także tryb i sposób usprawiedliwiania niemożności pełnienia przez aplikanta jego obowiązków.
+
+**§ 2.** Do zadań aplikanta należy:
+
+- **1)** praktyczne zaznajomienie się z czynnościami należącymi do zakresu obowiązków komornika sądowego, zwanego dalej „komornikiem”;
+- **2)** przyswojenie zasad etyki zawodowej;
+- **3)** zapoznanie się z zasadami prowadzenia indywidualnej kancelarii komorniczej, w tym zasadami biurowości w indywidualnej kancelarii komorniczej;
+- **4)** uczestniczenie w zajęciach seminaryjnych organizowanych i prowadzonych przez radę właściwej izby komorniczej oraz w praktykach prowadzonych pod kierunkiem komornika zatrudniającego aplikanta, zwanego dalej „patronem”;
+- **5)** dokonywanie innych czynności zleconych przez patrona, związanych z wykonywaniem zawodu komornika oraz prowadzeniem indywidualnej kancelarii komorniczej.
+
+**§ 3.**
+
+1. Aplikant zatrudniony przez komornika na podstawie umowy o pracę uczestniczy w praktykach prowadzonych pod kierunkiem patrona, zwanych dalej „praktyką u komornika”.
+
+2. Patron zapoznaje aplikanta z zasadami funkcjonowania indywidualnej kancelarii komorniczej i jej organizacji oraz z czynnościami należącymi do zakresu obowiązków komornika.
+
+3. Aplikant realizuje zadania, o których mowa w § 2, przez:
+
+- **1)** samodzielne wykonywanie czynności w postępowaniu egzekucyjnym i zabezpieczającym w sprawach cywilnych;
+- **2)** prawidłowe określanie ponoszenia i wysokości wydatków oraz opłat za przeprowadzenie egzekucji lub innego postępowania albo za dokonanie czynności przez komornika;
+- **3)** wykonywanie innych obowiązków komornika wynikających z przepisów odrębnych;
+- **4)** przestrzeganie zasad etyki zawodowej komornika;
+- **5)** przestrzeganie powagi, godności i kultury pracy komornika oraz wykonywanie praw i obowiązków wynikających z przynależności do samorządu komorniczego;
+- **6)** samodzielne prowadzenie indywidualnej kancelarii komorniczej i organizacji pracy w zakresie biurowości w indywidualnej kancelarii komorniczej.
+
+4. Patron w okresie miesiąca przed zakończeniem każdego roku szkoleniowego sporządza opinię o aplikancie i niezwłocznie przekazuje ją właściwej radzie izby komorniczej. Opinię tę dołącza się do akt osobowych aplikanta, prowadzonych przez radę właściwej izby komorniczej. Patron zaznajamia aplikanta z treścią opinii.
+
+**§ 4.**
+
+1. Zajęcia seminaryjne rozpoczynają się w pierwszy poniedziałek, który przypada po dniu 1 stycznia, i trwają do dnia 31 grudnia.
+
+2. Okres od dnia 1 lipca do dnia 30 września jest przerwą w odbywaniu zajęć seminaryjnych.
+
+3. Zajęcia seminaryjne odbywają się co najmniej raz w tygodniu w wymiarze ośmiu 45-minutowych jednostek szkoleniowych. Jeżeli usprawni to przebieg szkolenia, zajęcia seminaryjne mogą odbywać się w innym cyklu, lecz nie rzadziej niż 4 dni w miesiącu.
+
+4. W uzasadnionych przypadkach, które uniemożliwiają rozpoczęcie zajęć seminaryjnych w terminie określonym w ust. 1, Minister Sprawiedliwości, po zasięgnięciu opinii rady właściwej izby komorniczej, może wyznaczyć inne niż określone w ust. 1 i 2 terminy rozpoczęcia zajęć seminaryjnych oraz rozpoczęcia i zakończenia przerwy między tymi zajęciami. Termin rozpoczęcia zajęć seminaryjnych nie może być jednak późniejszy niż pierwszy poniedziałek, który przypada po dniu 1 lipca.
+
+5. Zajęcia seminaryjne rozpoczęte w trybie, o którym mowa w ust. 4, składają się z takiej samej liczby jednostek szkoleniowych jak zajęcia rozpoczęte w terminie określonym w ust. 1.
+
+**§ 5.**
+
+1. Zajęcia seminaryjne prowadzą osoby wskazane przez radę właściwej izby komorniczej, w szczególności: komornicy, komornicy emerytowani, adwokaci, radcowie prawni, prokuratorzy, prokuratorzy w stanie spoczynku, sędziowie, sędziowie w stanie spoczynku, referendarze i starsi referendarze sądowi, a także pracownicy naukowi, naukowo-dydaktyczni lub dydaktyczni szkół wyższych w Rzeczypospolitej Polskiej lub Polskiej Akademii Nauk oraz inne osoby szczególnie obeznane z problematyką działalności komorników i egzekucji sądowej.
+
+2. Zajęcia seminaryjne są prowadzone na obszarze właściwej izby komorniczej, w szczególności jako konwersatoria, seminaria i ćwiczenia, przy czym konwersatoria i seminaria mogą być prowadzone przy użyciu urządzeń technicznych umożliwiających obustronną komunikację na odległość między prowadzącym zajęcia a aplikantami.
+
+3. Rady właściwych izb komorniczych mogą zawierać porozumienia w sprawie wspólnego prowadzenia zajęć seminaryjnych aplikantów. Rada właściwej izby komorniczej, na obszarze której prowadzone będą zajęcia seminaryjne, przekazuje odpis porozumienia do wiadomości Ministra Sprawiedliwości i prezesów właściwych sądów apelacyjnych.
+
+**§ 6.**
+
+1. Rada właściwej izby komorniczej, przed rozpoczęciem roku aplikacji, określa harmonogram zajęć seminaryjnych dla każdego roku aplikacji oraz wyznacza kierownika aplikacji odpowiedzialnego za ich realizację.
+
+2. Harmonogramy zajęć seminaryjnych zawierają w szczególności:
+
+- **1)** terminy zajęć seminaryjnych;
+- **2)** liczbę jednostek szkoleniowych w poszczególnych terminach;
+- **3)** informację o formie zajęć;
+- **4)** zakres tematyczny przedmiotów określonych w ramowym programie aplikacji ustalonym zgodnie z art. 94 ust. 1 i 2 ustawy z dnia 22 marca 2018 r. o komornikach sądowych, zwanej dalej „ustawą”;
+- **5)** tematy zagadnień dla poszczególnych zakresów tematycznych;
+- **6)** tytuły aktów prawnych do danego tematu;
+- **7)** informację o wykładowcach prowadzących poszczególne zajęcia seminaryjne.
+
+3. Rada właściwej izby komorniczej przesyła projekt harmonogramu zajęć seminaryjnych dla każdego roku aplikacji do zatwierdzenia Krajowej Radzie Komorniczej najpóźniej na 45 dni przed rozpoczęciem zajęć seminaryjnych. Krajowa Rada Komornicza zatwierdza projekt harmonogramu zajęć seminaryjnych, biorąc pod uwagę w szczególności wykonanie ramowego programu aplikacji w terminie 14 dni od dnia ich otrzymania.
+
+4. Rada właściwej izby komorniczej umieszcza na swojej stronie internetowej zatwierdzony harmonogram zajęć seminaryjnych dla każdego roku aplikacji i przesyła do wiadomości Ministrowi Sprawiedliwości w terminie nie później niż na 14 dni przed dniem rozpoczęcia zajęć seminaryjnych.
+
+5. Do dnia 31 marca rada właściwej izby komorniczej sporządza wykaz wyznaczonych patronów i ogłasza go na swojej stronie internetowej oraz przesyła Ministrowi Sprawiedliwości i właściwemu prezesowi sądu apelacyjnego.
+
+**§ 7.**
+
+1. W każdym roku aplikacji aplikant ma prawo do nieobecności w zajęciach praktycznych innej niż urlop wypoczynkowy obejmującej łącznie 10 dni, niezależnie od przyczyny tej nieobecności.
+
+2. W każdym roku aplikacji aplikant ma prawo do nieobecności w zajęciach seminaryjnych obejmującej łącznie 32 jednostki szkoleniowe, niezależnie od przyczyny tej nieobecności.
+
+3. Jeżeli aplikant nie może uczestniczyć w zajęciach seminaryjnych lub w praktykach u komornika, zawiadamia o tym niezwłocznie w formie pisemnej kierownika aplikacji i informuje o okresie i przyczynie nieobecności. Do zawiadomienia można dołączyć dokument usprawiedliwiający nieobecność. W przypadku braku możliwości pisemnego zawiadomienia, aplikant składa zawiadomienie w inny sposób umożliwiający kierownikowi aplikacji zapoznanie się z jego treścią, jednakże pisemne zawiadomienie składa niezwłocznie po ustaniu przyczyny uniemożliwiającej jego złożenie, nie później niż w siódmym dniu od dnia jej ustania.
+
+4. Aplikant, którego nieobecności przekraczają liczbę jednostek szkoleniowych lub dni praktyki u komornika wskazanych w ust. 1 i 2, po zakończeniu zajęć w danym roku aplikacji, jednak nie później niż do momentu ukończenia aplikacji określonego w art. 93 ust. 1 ustawy, może uzupełnić wymagane obecności. W przypadku gdy nieobecności były usprawiedliwione, aplikant może uzupełnić wymagane obecności nie później niż w okresie roku od terminu ukończenia aplikacji, o którym mowa w art. 93 ust. 1 ustawy.
+
+**§ 8.**
+
+1. Po pierwszym roku aplikacji rada właściwej izby komorniczej przeprowadza kolokwium w formie pisemnej dla sprawdzenia stopnia opanowania przez aplikantów materiału, z zakresu którego były prowadzone zajęcia seminaryjne.
+
+2. Rada właściwej izby komorniczej wyznacza termin kolokwium i podaje go do wiadomości aplikantów w sposób przyjęty w danej izbie komorniczej co najmniej na 2 miesiące przed wyznaczonym terminem.
+
+3. W przypadku wspólnego prowadzenia zajęć seminaryjnych, o którym mowa w § 5 ust. 3, kolokwium przeprowadza rada właściwej izby komorniczej, na której obszarze odbywają się zajęcia seminaryjne.
+
+4. W przypadku uzyskania przez aplikanta negatywnego wyniku z kolokwium aplikant przystępuje do kolokwium poprawkowego przeprowadzanego przez radę właściwej izby komorniczej.
+
+5. Kolokwium poprawkowe przeprowadza się w formie pisemnej.
+
+6. Termin kolokwium poprawkowego wyznacza rada właściwej izby komorniczej na dzień przypadający nie wcześniej niż po upływie 14 dni od dnia ogłoszenia wyników kolokwium i podaje go do wiadomości aplikantów w sposób przyjęty w danej izbie komorniczej co najmniej na 7 dni przed wyznaczonym terminem.
+
 7. Do kolokwium poprawkowego przepis ust. 3 stosuje się odpowiednio.
-8. W czasie rady właściwych izb komorniczych przeprowadzają formie pisemnej co najmniej dwa sprawdziany wiedzy z zakresu, który był objęty prowadzonymi zajęciami seminaryjnymi.
-9. Termin sprawdzianu wiedzy wyznacza rada podaje go wiadomości aplikantów sposób przyjęty danej izbie co najmniej 14 dni przed wyznaczonym terminem. Przepis ust. 3 stosuje się odpowiednio.
-§ 9. Rada przedstawia walnemu zgromadzeniu projekt rocznego preliminarza wydatków przeznaczonych organizację prowadzenie aplikacji.
-§ 10. 1. W roku 2019 rada określi harmonogram zajęć seminaryjnych, o którym mowa § 6 ust. 1, dla pierwszego roku prowadzonej zasadach określonych ustawie z 22 2018 r. o komornikach sądowych, terminie 14 dni od zatwierdzenia ramowego programu przez Ministra Sprawiedliwości.
-2. W roku 2019 rada przesyła zatwierdzenia Krajowej Radzie Komorniczej projekt harmonogramu zajęć seminaryjnych, o którym mowa ust. 1, terminie 3 dni od jego uchwalenia. Krajowa Rada Komornicza zatwierdza projekt harmonogramu zajęć seminaryjnych, biorąc pod uwagę szczególności wykonanie ramowego programu terminie 7 dni od jego otrzymania. Zatwierdzony harmonogram zajęć seminaryjnych rada umieszcza swojej stronie internetowej przesyła wiadomości Ministrowi Sprawiedliwości terminie 3 dni od ich otrzymania.
-§ 11. Rozporządzenie wchodzi życie z dniem 1 stycznia 2019 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+8. W czasie aplikacji rady właściwych izb komorniczych przeprowadzają w formie pisemnej co najmniej dwa sprawdziany wiedzy z zakresu, który był objęty prowadzonymi zajęciami seminaryjnymi.
+
+9. Termin sprawdzianu wiedzy wyznacza rada właściwej izby komorniczej i podaje go do wiadomości aplikantów w sposób przyjęty w danej izbie komorniczej co najmniej na 14 dni przed wyznaczonym terminem. Przepis ust. 3 stosuje się odpowiednio.
+
+**§ 9.** Rada właściwej izby komorniczej przedstawia walnemu zgromadzeniu właściwej izby komorniczej projekt rocznego preliminarza wydatków przeznaczonych na organizację i prowadzenie aplikacji.
+
+**§ 10.**
+
+1. W roku 2019 rada właściwej izby komorniczej określi harmonogram zajęć seminaryjnych, o którym mowa w § 6 ust. 1, dla pierwszego roku aplikacji prowadzonej na zasadach określonych w ustawie z dnia 22 marca 2018 r. o komornikach sądowych, w terminie 14 dni od dnia zatwierdzenia ramowego programu aplikacji przez Ministra Sprawiedliwości.
+
+2. W roku 2019 rada właściwej izby komorniczej przesyła do zatwierdzenia Krajowej Radzie Komorniczej projekt harmonogramu zajęć seminaryjnych, o którym mowa w ust. 1, w terminie 3 dni od dnia jego uchwalenia. Krajowa Rada Komornicza zatwierdza projekt harmonogramu zajęć seminaryjnych, biorąc pod uwagę w szczególności wykonanie ramowego programu aplikacji w terminie 7 dni od dnia jego otrzymania. Zatwierdzony harmonogram zajęć seminaryjnych rada właściwej izby komorniczej umieszcza na swojej stronie internetowej i przesyła do wiadomości Ministrowi Sprawiedliwości w terminie 3 dni od dnia ich otrzymania.
+
+**§ 11.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r. Minister Sprawiedliwości: Z. Ziobro
 

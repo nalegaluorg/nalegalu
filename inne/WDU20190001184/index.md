@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001184) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1184/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zaniechania poboru podatku od czynności cywilnoprawnych od umowy sprzedaży lub zamiany waluty wirtualnej Na podstawie art. 22 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, 924 i 1018) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 11 lipca 2018 r. w sprawie zaniechania poboru podatku od czynności cywilnoprawnych od umowy sprzedaży lub zamiany waluty wirtualnej (Dz. U. poz. 1346) w § 2 wyrazy „do dnia 30 czerwca 2019 r.” zastępuje się wyrazami „do dnia 31 grudnia 2019 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 30 czerwca 2019 r.
-Minister Finansów: M. Banaś
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 11 lipca 2018 r. w sprawie zaniechania poboru podatku od czynności cywilnoprawnych od umowy sprzedaży lub zamiany waluty wirtualnej (Dz. U. poz. 1346) w § 2 wyrazy „do dnia 30 czerwca 2019 r.” zastępuje się wyrazami „do dnia 31 grudnia 2019 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 30 czerwca 2019 r. Minister Finansów: M. Banaś
 

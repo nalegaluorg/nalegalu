@@ -30,9 +30,15 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Aktywów Pańs
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Aktywów Państwowych z dnia 1 grudnia 2022 r. zmieniającego rozporządzenie w sprawie ilości paliwa stałego dostępnej dla jednego gospodarstwa domowego w ramach zakupu preferencyjnego (Dz. U. poz. 2493), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Aktywów Państwowych: J. Sasin
 ROZPORZĄDZENIE MINISTRA AKTYWÓW PAŃSTWOWYCH z dnia 2 listopada 2022 r.
 w sprawie ilości paliwa stałego dostępnej dla jednego gospodarstwa domowego w ramach zakupu preferencyjnego Na podstawie art. 8 ust. 2 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. poz. 2236 oraz z 2023 r. poz. 877 i 1234) zarządza się, co następuje:
-§ 1. 1. Ustala się, że ilość paliwa stałego dostępna dla jednego gospodarstwa domowego w ramach zakupu preferencyjnego wynosi:
-1) do dnia 31 grudnia 2022 r. – nie więcej niż 1500 kg;
-2) od dnia 1 stycznia 2023 r. – nie więcej niż 1500 kg.
+
+**§ 1.**
+
+1. Ustala się, że ilość paliwa stałego dostępna dla jednego gospodarstwa domowego w ramach zakupu preferencyjnego wynosi:
+
+- **1)** do dnia 31 grudnia 2022 r. – nie więcej niż 1500 kg;
+- **2)** od dnia 1 stycznia 2023 r. – nie więcej niż 1500 kg.
+
 2. W przypadku gdy do dnia 31 grudnia 2022 r. nie dokonano zakupu paliwa stałego w ramach zakupu preferencyjnego albo dokonano takiego zakupu w ilości mniejszej niż 1500 kg, to ilość paliwa stałego niezakupionego w ramach limitu określonego w ust. 1 pkt 1 powiększa limit określony w ust. 1 pkt 2.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 

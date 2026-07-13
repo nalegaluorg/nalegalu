@@ -32,8 +32,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 3) rozporządzeniem Ministra Zdrowia z dnia 9 stycznia 2025 r. zmieniającym rozporządzenie w sprawie sposobu ustalania ryczałtu systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej (Dz. U. poz. 36).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
 1) § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 24 maja 2024 r. zmieniającego rozporządzenie w sprawie sposobu ustalania ryczałtu systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej (Dz. U. poz. 792), które stanowią: Ń§ 2. W okresach planowania przypadających w latach 2024 i 2025 przepisu § 3 ust. 4 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, nie stosuje się do świadczeniodawców, którzy przekazali certyfikaty akredytacyjne zgodnie z częścią 1 tabeli nr 2 załącznika do rozporządzenia zmienianego w § 1 w dotychczasowym brzmieniu.
-§ 3. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”;
-2) § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 25 lipca 2024 r. zmieniającego rozporządzenie w sprawie sposobu ustalania ryczałtu systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej (Dz. U. poz. 1136), które stanowią: Ń§ 2. W okresie planowania obejmującym 2024 r. skorygowaną liczbę jednostek sprawozdawczych, obliczaną dla świadczeniodawcy l, o którym mowa w § 2 pkt 25 rozporządzenia zmienianego w § 1, na okres planowania, na dzień 30 czerwca 2024 r., koryguje się współczynnikiem 1,0109.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”;
+
+- **2)** § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 25 lipca 2024 r. zmieniającego rozporządzenie w sprawie sposobu ustalania ryczałtu systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej (Dz. U. poz. 1136), które stanowią: Ń§ 2. W okresie planowania obejmującym 2024 r. skorygowaną liczbę jednostek sprawozdawczych, obliczaną dla świadczeniodawcy l, o którym mowa w § 2 pkt 25 rozporządzenia zmienianego w § 1, na okres planowania, na dzień 30 czerwca 2024 r., koryguje się współczynnikiem 1,0109.
+
+## Załącznik
+
 § 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
 3) § 2 rozporządzenia Ministra Zdrowia z dnia 9 stycznia 2025 r. zmieniającego rozporządzenie w sprawie sposobu ustalania ryczałtu systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej (Dz. U. poz. 36), który stanowi: Ń§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.
 Minister Zdrowia: wz. W. Konieczny ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 22 września 2017 r.

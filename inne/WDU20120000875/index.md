@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000875) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/875/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wzoru zaświadczenia, wzoru legitymacji weterana-funkcjonariusza albo weterana poszkodowanego-funkcjonariusza Na podstawie art. 10 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. Nr 205, poz. 1203) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 29 marca 2012 r. w sprawie wzoru zaświadczenia, wzoru legitymacji weterana-funkcjonariusza albo weterana poszkodowanego-funkcjonariusza (Dz. U. poz. 378) wprowadza się następujące zmiany:
-1) w załączniku nr 2 do rozporządzenia zdanie pierwsze opisu wzoru legitymacji weterana-funkcjonariusza otrzymuje brzmienie: „Legitymacja w postaci karty wykonanej z PVC, w formacie według standardu ISO 7810 ID-1: 53,98 x 85,6 x 0,76 mm.”;
-2) w załączniku nr 3 do rozporządzenia zdanie pierwsze opisu wzoru legitymacji weterana poszkodowanego-funkcjonariusza otrzymuje brzmienie: „Legitymacja w postaci karty wykonanej z PVC, w formacie według standardu ISO 7810 ID-1: 53,98 x 85,6 x 0,76 mm.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych: J. Cichocki
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych z dnia 29 marca 2012 r. w sprawie wzoru zaświadczenia, wzoru legitymacji weterana-funkcjonariusza albo weterana poszkodowanego-funkcjonariusza (Dz. U. poz. 378) wprowadza się następujące zmiany:
+
+- **1)** w załączniku nr 2 do rozporządzenia zdanie pierwsze opisu wzoru legitymacji weterana-funkcjonariusza otrzymuje brzmienie: „Legitymacja w postaci karty wykonanej z PVC, w formacie według standardu ISO 7810 ID-1: 53,98 x 85,6 x 0,76 mm.”;
+- **2)** w załączniku nr 3 do rozporządzenia zdanie pierwsze opisu wzoru legitymacji weterana poszkodowanego-funkcjonariusza otrzymuje brzmienie: „Legitymacja w postaci karty wykonanej z PVC, w formacie według standardu ISO 7810 ID-1: 53,98 x 85,6 x 0,76 mm.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych: J. Cichocki
 

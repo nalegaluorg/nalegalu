@@ -30,18 +30,22 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 2 stycznia 2023 r. zmieniającego rozporządzenie w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej (Dz. U. poz. 398), które stanowią: „ § 2. Do dnia 30 czerwca 2023 r. skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową, o których mowa w art. 33 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, mogą być wystawiane na dotychczasowych zasadach. § 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: wz. W. Konieczny
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 15 kwietnia 2019 r.
 w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej Na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. ) zarządza się, co następuje:
-§ 1. Rozporządzenie określa wykaz świadczeń opieki zdrowotnej, dla których skierowania są wystawiane w postaci elektronicznej w Systemie Informacji Medycznej, o którym mowa w art. 5 ust. 1 pkt 1 ustawy z dnia 28 kwietnia 2011 r.
-o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465).
-§ 2. Skierowania, o których mowa w § 1, są wystawiane na:
-1) ambulatoryjne świadczenia specjalistyczne finansowane ze środków publicznych, o których mowa w art. 57 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, z wyłączeniem porady specjalistycznej – logopedia, o której mowa w przepisach wydanych na podstawie art. 31d tej ustawy;
-2) badania:
-a) echokardiograficzne płodu finansowane ze środków publicznych,
-b) endoskopowe przewodu pokarmowego finansowane ze środków publicznych,
-c) medycyny nuklearnej finansowane ze środków publicznych oraz ze środków innych niż środki publiczne,
-d) rezonansu magnetycznego finansowane ze środków publicznych,
-e) tomografii komputerowej finansowane ze środków publicznych oraz ze środków innych niż środki publiczne;
-3) leczenie szpitalne w szpitalu, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o którym mowa w art. 58 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
-4) rehabilitację leczniczą u świadczeniodawcy, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o której mowa w art. 59 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
-5) leczenie uzdrowiskowe albo rehabilitację uzdrowiskową, o których mowa w art. 33 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, z wyłączeniem przypadku, gdy świadczenie ma być zrealizowane przez podmioty udzielające świadczeń zdrowotnych z zakresu lecznictwa uzdrowiskowego poza granicami kraju.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
+
+**§ 1.** Rozporządzenie określa wykaz świadczeń opieki zdrowotnej, dla których skierowania są wystawiane w postaci elektronicznej w Systemie Informacji Medycznej, o którym mowa w art. 5 ust. 1 pkt 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465).
+
+**§ 2.** Skierowania, o których mowa w § 1, są wystawiane na:
+
+- **1)** ambulatoryjne świadczenia specjalistyczne finansowane ze środków publicznych, o których mowa w art. 57 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, z wyłączeniem porady specjalistycznej – logopedia, o której mowa w przepisach wydanych na podstawie art. 31d tej ustawy;
+- **2)** badania:
+    - **a)** echokardiograficzne płodu finansowane ze środków publicznych,
+    - **b)** endoskopowe przewodu pokarmowego finansowane ze środków publicznych,
+    - **c)** medycyny nuklearnej finansowane ze środków publicznych oraz ze środków innych niż środki publiczne,
+    - **d)** rezonansu magnetycznego finansowane ze środków publicznych,
+    - **e)** tomografii komputerowej finansowane ze środków publicznych oraz ze środków innych niż środki publiczne;
+
+- **3)** leczenie szpitalne w szpitalu, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o którym mowa w art. 58 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **4)** rehabilitację leczniczą u świadczeniodawcy, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o której mowa w art. 59 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+- **5)** leczenie uzdrowiskowe albo rehabilitację uzdrowiskową, o których mowa w art. 33 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, z wyłączeniem przypadku, gdy świadczenie ma być zrealizowane przez podmioty udzielające świadczeń zdrowotnych z zakresu lecznictwa uzdrowiskowego poza granicami kraju.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia .
 

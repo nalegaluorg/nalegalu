@@ -25,31 +25,40 @@ source: pdf
 | Ostatnia zmiana | 2024-05-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000756) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/756/text.pdf) |
 
-§ 1. Ustala się opłaty abonamentowe za używanie wym 2025 w wysokości:
-1) za używanie odbiornika radiofonicznego – 8,70
-2) za używanie odbiornika telewizyjnego albo radiofonicznego
-§ 2. Zniżki za uiszczenie opłat abonamentowych okres dłuższy niż jeden miesiąc w roku kalendarzowym
-1) za używanie odbiornika radiofonicznego:
-a) 3,0 % miesięcznej opłaty za uiszczenie opłaty
-b) 4,0 % miesięcznej opłaty za uiszczenie opłaty
-c) 5,0 % miesięcznej opłaty za uiszczenie opłaty
-d) 10,0 % miesięcznej opłaty za uiszczenie opłaty
-2) za używanie odbiornika telewizyjnego albo radiofonicznego
-a) 3,0 % miesięcznej opłaty za uiszczenie opłaty
-b) 4,0 % miesięcznej opłaty za uiszczenie opłaty
-c) 5,0 % miesięcznej opłaty za uiszczenie opłaty
-d) 10,0 % miesięcznej opłaty za uiszczenie opłaty
-§ 3. Wysokość opłat abonamentowych za używanie wym 2025, po uwzględnieniu zniżek, o których mowa
-1) za używanie odbiornika radiofonicznego:
-a) 16,90 zł za dwa miesiące,
-b) 25,10 zł za trzy miesiące,
-c) 49,60 zł za sześć miesięcy,
-d) 94,00 zł za rok kalendarzowy;
-2) za używanie odbiornika telewizyjnego albo radiofonicznego
-a) 53,00 zł za dwa miesiące,
-b) 78,70 zł za trzy miesiące,
-c) 155,70 zł za sześć miesięcy,
-d) 294,90 zł za rok kalendarzowy.
-§ 4. Opłaty wnoszone na poczet 2025 r. mogą 1 stycznia 2025 r.
-§ 5. Rozporządzenie wchodzi w życie po upływie
+**§ 1.** Ustala się opłaty abonamentowe za używanie wym 2025 w wysokości:
+
+- **1)** za używanie odbiornika radiofonicznego – 8,70
+- **2)** za używanie odbiornika telewizyjnego albo radiofonicznego
+
+**§ 2.** Zniżki za uiszczenie opłat abonamentowych okres dłuższy niż jeden miesiąc w roku kalendarzowym
+
+- **1)** za używanie odbiornika radiofonicznego:
+    - **a)** 3,0 % miesięcznej opłaty za uiszczenie opłaty
+    - **b)** 4,0 % miesięcznej opłaty za uiszczenie opłaty
+    - **c)** 5,0 % miesięcznej opłaty za uiszczenie opłaty
+    - **d)** 10,0 % miesięcznej opłaty za uiszczenie opłaty
+
+- **2)** za używanie odbiornika telewizyjnego albo radiofonicznego
+    - **a)** 3,0 % miesięcznej opłaty za uiszczenie opłaty
+    - **b)** 4,0 % miesięcznej opłaty za uiszczenie opłaty
+    - **c)** 5,0 % miesięcznej opłaty za uiszczenie opłaty
+    - **d)** 10,0 % miesięcznej opłaty za uiszczenie opłaty
+
+**§ 3.** Wysokość opłat abonamentowych za używanie wym 2025, po uwzględnieniu zniżek, o których mowa
+
+- **1)** za używanie odbiornika radiofonicznego:
+    - **a)** 16,90 zł za dwa miesiące,
+    - **b)** 25,10 zł za trzy miesiące,
+    - **c)** 49,60 zł za sześć miesięcy,
+    - **d)** 94,00 zł za rok kalendarzowy;
+
+- **2)** za używanie odbiornika telewizyjnego albo radiofonicznego
+    - **a)** 53,00 zł za dwa miesiące,
+    - **b)** 78,70 zł za trzy miesiące,
+    - **c)** 155,70 zł za sześć miesięcy,
+    - **d)** 294,90 zł za rok kalendarzowy.
+
+**§ 4.** Opłaty wnoszone na poczet 2025 r. mogą 1 stycznia 2025 r.
+
+**§ 5.** Rozporządzenie wchodzi w życie po upływie
 

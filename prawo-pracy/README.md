@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo pracy**.
 
-Łącznie: **64** aktów
+Łącznie: **63** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -68,7 +68,6 @@ Akty prawne z dziedziny: **Prawo pracy**.
 | [WDU19910550234](WDU19910550234/index.md) | Ustawa z dnia 23 maja 1991 r. o związkach zawodowych. | Ustawa | akt posiada tekst jednolity | [tak](WDU19910550234/orzecznictwo.md) |
 | [WDU19910530226](WDU19910530226/index.md) | Ustawa z dnia 23 marca 1991 r. o zmianie ustawy - Kodeks pracy. | Ustawa | akt objęty tekstem jednolitym |  |
 | [WDU19890200106](WDU19890200106/index.md) | Ustawa z dnia 7 kwietnia 1989 r. o związkach zawodowych rolników indywidual | Ustawa | akt posiada tekst jednolity | [tak](WDU19890200106/orzecznictwo.md) |
-| [WDU19740240142](WDU19740240142/index.md) | Ustawa z dnia 26 czerwca 1974 r. - Przepisy wprowadzające Kodeks pracy. | Ustawa | obowiązujący | [tak](WDU19740240142/orzecznictwo.md) |
 | [WDU19740240141](WDU19740240141/index.md) | Ustawa z dnia 26 czerwca 1974 r. Kodeks pracy. | Ustawa | akt posiada tekst jednolity | [tak](WDU19740240141/orzecznictwo.md) |
 
-*64 aktów • [← Powrót do spisu głównego](../README.md)*
+*63 aktów • [← Powrót do spisu głównego](../README.md)*

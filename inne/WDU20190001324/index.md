@@ -27,9 +27,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego Na podstawie art. 14 ust. 1 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2018 r.
 poz. 577) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U.
-poz. 485 i 1173 oraz z 2018 r. poz. 335, 985, 1001 i 1948) załącznik nr 3 otrzymuje brzmienie, które jest określone w załączniku do niniejszego rozporządzenia.
-§ 2. Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do wynagrodzenia zasadniczego przysługującego urzędnikom i innym pracownikom sądów i prokuratury, należnego od dnia 1 stycznia 2019 r.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro TABELA WYNAGRODZENIA ZASADNICZEGO PRZYSŁUGUJĄCEGO URZĘDNIKOM I INNYM PRACOWNIKOM SĄDÓW I PROKURATURY Stanowiska Kwota w zł Stanowiska samodzielne 2250–12400 Stanowiska wspomagające 2250–7400 Stażysta 2250–3400 Stanowiska pomocnicze, obsługi technicznej i gospodarczej 2250–4400
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. poz. 485 i 1173 oraz z 2018 r. poz. 335, 985, 1001 i 1948) załącznik nr 3 otrzymuje brzmienie, które jest określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do wynagrodzenia zasadniczego przysługującego urzędnikom i innym pracownikom sądów i prokuratury, należnego od dnia 1 stycznia 2019 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od ogłoszenia. Minister Sprawiedliwości: Z. Ziobro TABELA WYNAGRODZENIA ZASADNICZEGO PRZYSŁUGUJĄCEGO URZĘDNIKOM I INNYM PRACOWNIKOM SĄDÓW I PROKURATURY Stanowiska Kwota w zł Stanowiska samodzielne 2250–12400 Stanowiska wspomagające 2250–7400 Stażysta 2250–3400 Stanowiska pomocnicze, obsługi technicznej i gospodarczej 2250–4400
 

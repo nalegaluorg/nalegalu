@@ -28,8 +28,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie szpitalnego oddziału ratunkowego Na podstawie art. 34 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2026 r.
 poz. 141) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 27 czerwca 2019 r. w sprawie szpitalnego oddziału ratunkowego (Dz. U.
-z 2025 r. poz. 1646) w § 15 pkt 5 otrzymuje brzmienie: „5) § 3 ust. 7–10 – do dnia 31 grudnia 2028 r.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Zdrowia: wz. K. Kacperczyk
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 27 czerwca 2019 r. w sprawie szpitalnego oddziału ratunkowego (Dz. U. z 2025 r. poz. 1646) w § 15 pkt 5 otrzymuje brzmienie: „5) § 3 ust. 7–10 – do dnia 31 grudnia 2028 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Zdrowia: wz. K. Kacperczyk
 

@@ -26,10 +26,12 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001602) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1602/text.pdf) |
 
 zmieniające rozporządzenie w sprawie zakresu zadań objętych mecenatem państwa, udzielania dotacji celowej na zadania nim objęte oraz udzielania dofinansowań podmiotom prowadzącym działalność w dziedzinie kultury i ochrony dziedzictwa narodowego Na podstawie art. 9a ust. 1 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2020 r. poz. 194) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 18 grudnia 2018 r. w sprawie zakresu zadań objętych mecenatem państwa, udzielania dotacji celowej na zadania nim objęte oraz udzielania dofinansowań podmiotom prowadzącym działalność w dziedzinie kultury i ochrony dziedzictwa narodowego (Dz. U. poz. 2374) w § 7 wprowadza się następujące zmiany:
-1) ust. 5 otrzymuje brzmienie: „5. Pomocy publicznej nie udziela się na rzecz przedsiębiorstwa, na którym ciąży obowiązek zwrotu pomocy, w rozumieniu art. 1 ust. 4 lit. a rozporządzenia Komisji (UE) nr 651/2014, oraz przedsiębiorstwa znajdującego się w trudnej sytuacji, w rozumieniu art. 2 pkt 18 rozporządzenia Komisji (UE) nr 651/2014, z wyjątkiem przedsiębiorstwa, które nie znajdowało się w trudnej sytuacji w dniu 31 grudnia 2019 r., ale znalazło się w takiej sytuacji w okresie od dnia 1 stycznia 2020 r. do dnia 30 czerwca 2021 r.”;
-2) ust. 7 otrzymuje brzmienie: „7. W przypadku pomocy publicznej za wydatek kwalifikowalny uznaje się wydatek poniesiony w okresie od dnia 1 stycznia 2015 r. do końca okresu stosowania rozporządzenia Komisji (UE) nr 651/2014.”;
-3) ust. 14 otrzymuje brzmienie: „14. Dotacje i dofinansowanie, o których mowa w ust. 1, stanowiące pomoc de minimis, są udzielane do końca okresu stosowania rozporządzenia Komisji (UE) nr 1407/2013.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+
+**§ 1.** W rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 18 grudnia 2018 r. w sprawie zakresu zadań objętych mecenatem państwa, udzielania dotacji celowej na zadania nim objęte oraz udzielania dofinansowań podmiotom prowadzącym działalność w dziedzinie kultury i ochrony dziedzictwa narodowego (Dz. U. poz. 2374) w § 7 wprowadza się następujące zmiany:
+
+- **1)** ust. 5 otrzymuje brzmienie: „5. Pomocy publicznej nie udziela się na rzecz przedsiębiorstwa, na którym ciąży obowiązek zwrotu pomocy, w rozumieniu art. 1 ust. 4 lit. a rozporządzenia Komisji (UE) nr 651/2014, oraz przedsiębiorstwa znajdującego się w trudnej sytuacji, w rozumieniu art. 2 pkt 18 rozporządzenia Komisji (UE) nr 651/2014, z wyjątkiem przedsiębiorstwa, które nie znajdowało się w trudnej sytuacji w dniu 31 grudnia 2019 r., ale znalazło się w takiej sytuacji w okresie od dnia 1 stycznia 2020 r. do dnia 30 czerwca 2021 r.”;
+- **2)** ust. 7 otrzymuje brzmienie: „7. W przypadku pomocy publicznej za wydatek kwalifikowalny uznaje się wydatek poniesiony w okresie od dnia 1 stycznia 2015 r. do końca okresu stosowania rozporządzenia Komisji (UE) nr 651/2014.”;
+- **3)** ust. 14 otrzymuje brzmienie: „14. Dotacje i dofinansowanie, o których mowa w ust. 1, stanowiące pomoc de minimis, są udzielane do końca okresu stosowania rozporządzenia Komisji (UE) nr 1407/2013.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Kultury i Dziedzictwa Narodowego: P. Gliński
 

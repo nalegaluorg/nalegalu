@@ -26,13 +26,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001252) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1252/text.pdf) |
 
 w sprawie szczegółowego zakresu działania Ministra Gospodarki Na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje:
-§ 1. 1. Rozporządzenie określa szczegółowy zakres działania Ministra Gospodarki, zwanego dalej „ministrem”.
+
+**§ 1.**
+
+1. Rozporządzenie określa szczegółowy zakres działania Ministra Gospodarki, zwanego dalej „ministrem”.
+
 2. Minister kieruje działem administracji rządowej – gospodarka.
+
 3. Minister jest dysponentem części 20 budżetu państwa.
+
 4. Obsługę ministra zapewnia Ministerstwo Gospodarki.
+
 5. Organy podległe ministrowi lub przez niego nadzorowane określa załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.
-Prezes Rady Ministrów: E. Kopacz WykaZ ORGaNóW PODleGłych MiNistROWi GOsPODaRki lUb PRZeZ NieGO NaDZOROWaNych
-1) Prezes Głównego Urzędu Miar;
-2) Urząd Patentowy Rzeczypospolitej Polskiej.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem ogłoszenia.
 

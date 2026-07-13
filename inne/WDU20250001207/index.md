@@ -30,10 +30,17 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 22 sierpnia 2024 r. zmieniającego rozporządzenie w sprawie ogólnych warunków umów na realizację recept oraz ramowego wzoru umowy na realizację recept (Dz. U. poz. 1291), który stanowi: „ § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 listopada 2023 r., z wyjątkiem § 1 pkt 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia.”. Minister Zdrowia: wz. W. Konieczny
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 8 grudnia 2011 r.
 w sprawie ogólnych warunków umów na realizację recept oraz ramowego wzoru umowy na realizację recept Na podstawie art. 41 ust. 8 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2025 r. poz. 907 i 1192) zarządza się, co następuje:
-§ 1. Ustala się ogólne warunki umów na wydawanie refundowanego leku, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego na receptę, stanowiące załącznik nr 1 do rozporządzenia.
-§ 2. Ustala się ramowy wzór umowy na wydawanie refundowanego leku, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego na receptę, stanowiący załącznik nr 2 do rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie z dniem ogłoszenia .
-OGÓLNE WARUNKI UMÓW NA WYDAWANIE REFUNDOWANEGO LEKU, ŚRODKA SPOŻYWCZEGO SPECJALNEGO PRZEZNACZENIA ŻYWIENIOWEGO ORAZ WYROBU MEDYCZNEGO NA RECEPTĘ
+
+**§ 1.** Ustala się ogólne warunki umów na wydawanie refundowanego leku, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego na receptę, stanowiące załącznik nr 1 do rozporządzenia.
+
+**§ 2.** Ustala się ramowy wzór umowy na wydawanie refundowanego leku, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego na receptę, stanowiący załącznik nr 2 do rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem ogłoszenia . OGÓLNE WARUNKI UMÓW NA WYDAWANIE REFUNDOWANEGO LEKU, ŚRODKA SPOŻYWCZEGO SPECJALNEGO PRZEZNACZENIA ŻYWIENIOWEGO ORAZ WYROBU MEDYCZNEGO NA RECEPTĘ
+
+#### Rozdział 1 Postanowienia ogólne
+
+## Załącznik
+
 § 1. 1. Przedmiotem umowy na wydawanie refundowanego leku, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego na receptę, zwanej dalej „umową na realizację recept”, są:
 1) świadczenia stron związane z wydawaniem leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, w celu realizacji świadczeń gwarantowanych, w zakresie:
 a) leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, dostępnych w aptece na receptę,
@@ -44,11 +51,13 @@ a) limitów, cen oraz odpłatności i dopłat świadczeniobiorcy w wysokości ok
 b) marż detalicznych, o których mowa w art. 7 ustawy.
 2. Umowa na realizację recept jest zawierana na wniosek zainteresowanego podmiotu prowadzącego aptekę złożony do oddziału wojewódzkiego Funduszu właściwego dla adresu prowadzenia apteki.
 3. Umowę z podmiotem prowadzącym aptekę zawiera dyrektor oddziału wojewódzkiego Funduszu, o którym mowa w ust. 2, lub osoba przez niego upoważniona, niezwłocznie, nie później niż w terminie 14 dni od dnia złożenia kompletnego wniosku.
+Rozdział 2 Odpowiedzialność
 § 2. 1. Oddział wojewódzki Funduszu, o którym mowa w § 1 ust. 2, jest odpowiedzialny za terminowe dokonanie refundacji cen leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, wydanych na podstawie recept zrealizowanych zgodnie z obowiązującymi w tym zakresie przepisami prawa.
 2. Podmiot prowadzący aptekę jest odpowiedzialny za:
 1) prawidłowe wykonywanie umowy na realizację recept;
 2) zapewnienie odpowiednich warunków zabezpieczających recepty i dokumenty związane z ich otaksowaniem oraz inną dokumentację związaną z obrotem lekami, środkami spożywczymi specjalnego przeznaczenia żywieniowego oraz wyrobami medycznymi, wydanymi na podstawie recepty, przed zniszczeniem, utratą lub kradzieżą oraz dostępem osób nieupoważnionych, a także w sposób umożliwiający ich udostępnianie bez zbędnej zwłoki, zgodnie z przepisami o ochronie danych osobowych;
 3) zapewnienie realizacji przez kierownika apteki zadań obejmujących wydawanie refundowanych leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych, o których mowa w § 1 ust. 1, zgodnie z ustawą, ustawą z dnia 6 września 2001 r. – Prawo farmaceutyczne, ustawą z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, z późn. zm.), zwaną dalej „ustawą o świadczeniach”, ustawą z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2023 r. poz. 1939) oraz z aktualnym stanem wiedzy farmaceutycznej.
+Rozdział 3 Warunki wykonywania umowy na realizację recept oraz zasady rozliczania refundacji
 § 3. 1. Podmiot prowadzący aptekę zobowiązuje się, że apteka będzie:
 1) wykonywać umowę na realizację recept zgodnie z jej postanowieniami;
 2) prowadzić dokumentację związaną z wykonywaniem umowy na realizację recept zgodnie z przepisami prawa;
@@ -73,6 +82,7 @@ c) zastosowaniem sankcji, o których mowa w art. 61x ustawy o świadczeniach;
 2) ustalenia w wystąpieniu pokontrolnym, o którym mowa w art. 61s ustawy o świadczeniach, że nastąpiła nienależna refundacja, jeżeli nie zostały zgłoszone zastrzeżenia, o których mowa w art. 61t ust. 1 ustawy o świadczeniach, lub złożone zastrzeżenia zostały oddalone, lub
 3) bezskutecznego upływu terminu, o którym mowa w art. 43 ust. 1 pkt 6 ustawy – oddziałowi wojewódzkiemu Funduszu, o którym mowa w § 1 ust. 2, przysługuje prawo do dokonania potrącenia nienależnie przekazanych środków wraz z odsetkami ustawowymi z należności przysługującej od tego oddziału podmiotowi prowadzącemu aptekę.
 3. W przypadku, o którym mowa w ust. 2, odsetki ustawowe nie przysługują oddziałowi wojewódzkiemu Funduszu, o którym mowa w § 1 ust. 2, za okres od dnia, w którym upłynął termin określony w ustawie do rozpatrzenia zażalenia, o którym mowa w art. 42 ustawy, do dnia jego rozpatrzenia.
+Rozdział 4 Kary umowne
 § 8. 1. W przypadku stwierdzenia niewykonania lub nienależytego wykonania umowy na realizację recept, będącego następstwem okoliczności, za które podmiot prowadzący aptekę ponosi odpowiedzialność, Prezes Funduszu lub dyrektor oddziału wojewódzkiego Funduszu, o którym mowa w § 1 ust. 2, nakłada karę umowną.
 1a. Nie stanowi okoliczności, o której mowa w ust. 1, realizacja recepty skutkująca wydaniem produktu leczniczego, środka spożywczego specjalnego przeznaczenia żywieniowego lub wyrobu medycznego w sposób niezgodny z art. 96a ust. 7aa ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne.
 2. Wysokość kary umownej wynosi 200 zł – za każdy ujawniony i potwierdzony przypadek:
@@ -98,6 +108,7 @@ c) zastosowaniem sankcji, o których mowa w art. 61x ustawy o świadczeniach;
 2) ustalenia w wystąpieniu pokontrolnym, o którym mowa w art. 61s ustawy o świadczeniach, że nastąpiło niewykonanie lub nienależyte wykonanie umowy na realizację recept z przyczyn leżących po stronie podmiotu prowadzącego aptekę, i nałożenia kary umownej, jeżeli nie zostały zgłoszone zastrzeżenia, o których mowa w art. 61t ust. 1 tej ustawy, lub złożone zastrzeżenia zostały oddalone, lub
 3) bezskutecznego upływu terminu, o którym mowa w ust. 1 – oddziałowi wojewódzkiemu Funduszu, o którym mowa w § 1 ust. 2, przysługuje prawo do dokonania potrącenia nałożonej kary umownej, wraz z odsetkami ustawowymi z należności przysługującej od tego oddziału podmiotowi prowadzącemu aptekę.
 4. W przypadku, o którym mowa w ust. 3, odsetki ustawowe nie przysługują oddziałowi wojewódzkiemu Funduszu, o którym mowa w § 1 ust. 2, za okres od dnia, w którym upłynął termin określony w ustawie do rozpatrzenia zażalenia, o którym mowa w art. 42 ustawy, do dnia jego rozpatrzenia.
+Rozdział 5 Postanowienia końcowe
 § 10. 1. Umowa na realizację recept wygasa z dniem ostatecznego uchylenia, stwierdzenia nieważności, stwierdzenia wygaśnięcia lub cofnięcia zezwolenia na prowadzenie apteki.
 2. Podmiot prowadzący aptekę może rozwiązać umowę na realizację recept z zachowaniem miesięcznego okresu wypowiedzenia dokonanego na koniec miesiąca kalendarzowego.
 3. Podmiot prowadzący aptekę, którego umowa na realizację recept wygasła lub została rozwiązana, jest obowiązany:
@@ -108,16 +119,6 @@ c) zastosowaniem sankcji, o których mowa w art. 61x ustawy o świadczeniach;
 2. Doręczenie oświadczenia Prezesa Funduszu lub dyrektora oddziału wojewódzkiego Funduszu, o którym mowa w § 1 ust. 2, jest skuteczne również wtedy, gdy podmiot prowadzący aptekę nie poinformował tego oddziału Funduszu o zmianie adresu apteki.
 3. Do oświadczeń podmiotu prowadzącego aptekę wymagających doręczenia Prezesowi Funduszu lub dyrektorowi oddziału wojewódzkiego Funduszu, o którym mowa w § 1 ust. 2, na piśmie przepis ust. 1 stosuje się odpowiednio.
 4. Oświadczenia podmiotu prowadzącego aptekę mogą być również doręczone w centrali Funduszu lub w siedzibie oddziału wojewódzkiego Funduszu, o którym mowa w § 1 ust. 2.
-
-#### Rozdział 1 Postanowienia ogólne
-
-#### Rozdział 2 Odpowiedzialność
-
-#### Rozdział 3 Warunki wykonywania umowy na realizację recept oraz zasady rozliczania refundacji
-
-#### Rozdział 4 Kary umowne
-
-#### Rozdział 5 Postanowienia końcowe
 
 ## Załącznik nr 2 — WZÓR WZÓR UMOWA Nr ....................
 

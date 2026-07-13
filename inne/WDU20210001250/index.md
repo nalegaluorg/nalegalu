@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie oddelegowania do służby lub pracy w Agencji Bezpieczeństwa Wewnętrznego w celu realizacji zadań związanych z zapobieganiem zdarzeniom o charakterze terrorystycznym Na podstawie art. 14 ust. 3 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2019 r.
 poz. 796 oraz z 2021 r. poz. 464 i 815) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 20 lipca 2016 r. w sprawie oddelegowania do służby lub pracy w Agencji Bezpieczeństwa Wewnętrznego w celu realizacji zadań związanych z zapobieganiem zdarzeniom o charakterze terrorystycznym (Dz. U. poz. 1078 oraz z 2019 r. poz. 1561) w § 11 w ust. 1 w pkt 1 uchyla się lit. d.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 20 lipca 2016 r. w sprawie oddelegowania do służby lub pracy w Agencji Bezpieczeństwa Wewnętrznego w celu realizacji zadań związanych z zapobieganiem zdarzeniom o charakterze terrorystycznym (Dz. U. poz. 1078 oraz z 2019 r. poz. 1561) w § 11 w ust. 1 w pkt 1 uchyla się lit. d.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

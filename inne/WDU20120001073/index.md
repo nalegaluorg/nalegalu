@@ -26,14 +26,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001073) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1073/text.pdf) |
 
 zmieniające rozporządzenie w sprawie legitymacji służbowej oraz innych dokumentów Służby Kontrwywiadu Wojskowego Na podstawie art. 48 ust. 2 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. Nr 104, poz. 709, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie legitymacji służbowej oraz innych dokumentów Służby Kontrwywiadu Wojskowego (Dz. U. Nr 173, poz. 1243 oraz z 2009 r. Nr 186, poz. 1440) załącznik nr 1 otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r.
-Minister Obrony Narodowej: T. Siemoniak Załącznik do rozporządzenia Ministra Obrony Narodowej Dziennik Ustaw – 2 – z dnia 17.09. 2012 r. (poz. Poz. 1073 ) WZÓR LEGITYMACJI ŻOŁNIERZA I FUNKCJONARIUSZA SŁUŻBY KONTRWYWIADU WOJSKOWEGO WZÓR LEGITYMACJI ŻOŁNIERZA I FUNKCJONARIUSZA SŁUŻBY KONTRWYWIADU WOJSKOWEGO Legitymacja żołnierza i funkcjonariusza Służby Kontrwywiadu Wojskowego ma formę karty Legitymacja plastikowej żołnierza o i funkcjonariusza wymiarach 54 Służby mm Kontrwywiadu x 86 mm. Wojskowego ma formę karty plastikowej o wymiarach 54 mm x 86 mm.
-OKŁADKA OKŁADKA LEGITYMACJI LEGITYMACJI Okładka legitymacji jest wykonana z materiału skóropodobnego w kolorze czarnym z Okładka tłoczeniami: legitymacji jest wykonana z materiału skóropodobnego w kolorze czarnym z tłoczeniami:
-1. „RZECZPOSPOLITA 1. „RZECZPOSPOLITA POLSKA”. POLSKA”.
-2. Wizerunek 2. Wizerunek orła ustalony orła dla godła ustalony Rzeczypospolitej dla godła Polskiej Rzeczypospolitej według wzoru określonego Polskiej w przepisach według o godle, wzoru barwach i hymnie określonego Rzeczypospolitej w Polskiej. przepisach o godle, barwach i hymnie Rzeczypospolitej
-3. „SŁUŻBA Polskiej. KONTRWYWIADU WOJSKOWEGO”.
-3. „SŁUŻBA KONTRWYWIADU WOJSKOWEGO”.
 1. Tło giloszowe w kolorze szarozielonym.
 2. Mikrodruki 1. Tło pozytywowe giloszowe „SŁUŻBA w kolorze KONTRWYWIADU szarozielonym. WOJSKOWEGO”.
 2. Mikrodruki pozytywowe „SŁUŻBA KONTRWYWIADU WOJSKOWEGO”.
@@ -62,6 +54,10 @@ REWERS REWERS
 „(W przypadku znalezienia tej legitymacji należy niezwłocznie dostarczyć ją do najbliższej jednostki Policji. Nieuprawnione (art. posługiwanie 28 ust. się 1 legitymacją ustawy podlega z dnia odpowiedzialności 9 czerwca karnej).”. 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. Nr 104, poz. 709, z późn. zm.))”.
 „(W przypadku znalezienia tej legitymacji należy niezwłocznie dostarczyć ją do najbliższej jednostki Policji. Nieuprawnione posługiwanie się legitymacją podlega odpowiedzialności karnej).”.
 1
+
+**§ 1.** W rozporządzeniu Ministra Obrony Narodowej z dnia 25 września 2006 r. w sprawie legitymacji służbowej oraz innych dokumentów Służby Kontrwywiadu Wojskowego (Dz. U. Nr 173, poz. 1243 oraz z 2009 r. Nr 186, poz. 1440) załącznik nr 1 otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2013 r. Minister Obrony Narodowej: T. Siemoniak Załącznik do rozporządzenia Ministra Obrony Narodowej Dziennik Ustaw – 2 – z dnia 17.09. 2012 r. (poz. Poz. 1073 ) WZÓR LEGITYMACJI ŻOŁNIERZA I FUNKCJONARIUSZA SŁUŻBY KONTRWYWIADU WOJSKOWEGO WZÓR LEGITYMACJI ŻOŁNIERZA I FUNKCJONARIUSZA SŁUŻBY KONTRWYWIADU WOJSKOWEGO Legitymacja żołnierza i funkcjonariusza Służby Kontrwywiadu Wojskowego ma formę karty Legitymacja plastikowej żołnierza o i funkcjonariusza wymiarach 54 Służby mm Kontrwywiadu x 86 mm. Wojskowego ma formę karty plastikowej o wymiarach 54 mm x 86 mm. OKŁADKA OKŁADKA LEGITYMACJI LEGITYMACJI Okładka legitymacji jest wykonana z materiału skóropodobnego w kolorze czarnym z Okładka tłoczeniami: legitymacji jest wykonana z materiału skóropodobnego w kolorze czarnym z tłoczeniami: 1. „RZECZPOSPOLITA 1. „RZECZPOSPOLITA POLSKA”. POLSKA”. 2. Wizerunek 2. Wizerunek orła ustalony orła dla godła ustalony Rzeczypospolitej dla godła Polskiej Rzeczypospolitej według wzoru określonego Polskiej w przepisach według o godle, wzoru barwach i hymnie określonego Rzeczypospolitej w Polskiej. przepisach o godle, barwach i hymnie Rzeczypospolitej 3. „SŁUŻBA Polskiej. KONTRWYWIADU WOJSKOWEGO”. 3. „SŁUŻBA KONTRWYWIADU WOJSKOWEGO”.
 
 ## CZĘŚĆ WEWNĘTRZNA LEGITYMACJI AWERS
 

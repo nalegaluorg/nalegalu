@@ -26,11 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000564) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/564/text.pdf) |
 
 zmieniające rozporządzenie w sprawie postępowania o nadanie Medalu za Zasługi dla Straży Granicznej Na podstawie art. 10 ustawy z dnia 8 października 2004 r. o ustanowieniu Medalu za Zasługi dla Straży Granicznej (Dz. U. poz. 2662) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 11 marca 2005 r. w sprawie postępowania o nadanie Medalu za Zasługi dla Straży Granicznej (Dz. U. z 2013 r. poz. 1128) załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 kwietnia 2016 r. (poz. …) WZÓR LEGITYMACJI STWIERDZAJĄCEJ NADANIE MEDALU ZA ZASŁUGI DLA STRAŻY GRANICZNEJ WZÓR LEGITYMACJI STWIERDZAJĄCEJ NADANIE MEDALU ZA ZASŁUGI DLA STRAŻY GRANICZNEJ eeee RZECZPOSPOLITA POLSKA LEGITYMACJA Nr WARSZAWA dnia str. 1 str. 2 Decyzją nr Ministra Spraw Wewnętrznych i Administracji z dnia ..................................... r.
-n a d a j ę ....................................
-....................................
-............................
-str. 3 str. 4
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 11 marca 2005 r. w sprawie postępowania o nadanie Medalu za Zasługi dla Straży Granicznej (Dz. U. z 2013 r. poz. 1128) załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 kwietnia 2016 r. (poz. …) WZÓR LEGITYMACJI STWIERDZAJĄCEJ NADANIE MEDALU ZA ZASŁUGI DLA STRAŻY GRANICZNEJ WZÓR LEGITYMACJI STWIERDZAJĄCEJ NADANIE MEDALU ZA ZASŁUGI DLA STRAŻY GRANICZNEJ eeee RZECZPOSPOLITA POLSKA LEGITYMACJA Nr WARSZAWA dnia str. 1 str. 2 Decyzją nr Ministra Spraw Wewnętrznych i Administracji z dnia ..................................... r. n a d a j ę .................................... .................................... ............................ str. 3 str. 4
 

@@ -26,11 +26,10 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000478) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/478/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” Na podstawie art. 73 ust. 2 pkt 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2013 poz. 1340, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 listopada 2008 r. w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” (Dz. U. z 2014 r. poz. 787 i 887) załączniki nr 1, 2 i 4 otrzymują brzmienie określone odpowiednio w załącznikach nr 1–3 do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia.
-Minister Spraw Wewnętrznych i Administracji: M. Błaszczak Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust.
-pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088).
-Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351, z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 881, 1045, 1066, 1098, 1217, 1268, 1434, 1505 i 1890.
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 13 listopada 2008 r. w sprawie nadawania odznaki „Zasłużony dla ochrony przeciwpożarowej” (Dz. U. z 2014 r. poz. 787 i 887) załączniki nr 1, 2 i 4 otrzymują brzmienie określone odpowiednio w załącznikach nr 1–3 do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia. Minister Spraw Wewnętrznych i Administracji: M. Błaszczak Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 1897 i 2088). Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1351, z 2014 r. poz. 502, 616 i 1822 oraz z 2015 r. poz. 881, 1045, 1066, 1098, 1217, 1268, 1434, 1505 i 1890.
 
 ## Załącznik nr 1 — WZÓR WNIOSEK O NADANIE ............................. ODZNAKI (wpisać stopień odznaki) „ZASŁUŻONY DLA OCHRONY PRZECIWPOŻAROWEJ”
 

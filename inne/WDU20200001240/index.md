@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane Na podstawie art. 99 ust. 6 w związku z art. 94 ust. 3 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2019 r.
 poz. 1580 i 1495 oraz z 2020 r. poz. 284) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Infrastruktury z dnia 1 sierpnia 2018 r. w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane (Dz. U. poz. 1745 i 2091) w § 41 dodaje się ust. 6 w brzmieniu: „6. Egzaminy praktyczne na uprawnienia na typ statku powietrznego w zakresie licencji mechanika lotniczego obsługi technicznej (MML) przeprowadza się na warunkach określonych w pkt 5 w dodatku III do załącznika III (Część 66) do rozporządzenia nr 1321/2014.”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
-Minister Infrastruktury: A. Adamczyk
+
+**§ 1.** W rozporządzeniu Ministra Infrastruktury z dnia 1 sierpnia 2018 r. w sprawie egzaminów państwowych na licencje, świadectwa kwalifikacji oraz uprawnienia do nich wpisywane (Dz. U. poz. 1745 i 2091) w § 41 dodaje się ust. 6 w brzmieniu: „6. Egzaminy praktyczne na uprawnienia na typ statku powietrznego w zakresie licencji mechanika lotniczego obsługi technicznej (MML) przeprowadza się na warunkach określonych w pkt 5 w dodatku III do załącznika III (Część 66) do rozporządzenia nr 1321/2014.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Minister Infrastruktury: A. Adamczyk
 

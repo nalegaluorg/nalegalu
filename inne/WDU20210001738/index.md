@@ -26,26 +26,45 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001738) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1738/text.pdf) |
 
 w sprawie sposobu informowania o rodzaju paliwa ciekłego wykorzystywanego do napędu pojazdu samochodowego oraz oznakowania miejsc tankowania pojazdu samochodowego takim paliwem Na podstawie art. 9ca ust. 4 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2021 r. poz. 133, 694, 1093 i 1642) zarządza się, co następuje:
-§ 1. Rozporządzenie określa szczegółowy sposób:
-1) oznakowania pistoletów wydawczych i dystrybutorów, wskazujący na rodzaj wydawanego paliwa ciekłego;
-2) formułowania i udostępniania informacji o rodzaju paliwa ciekłego wykorzystywanego do napędu pojazdu samochodowego, umieszczanej:
-a) w instrukcji obsługi tego pojazdu,
-b) na korku lub klapce wlewu paliwa ciekłego lub w pobliżu tego korka lub tej klapki,
-c) na terenie placówki handlowej prowadzącej sprzedaż pojazdów silnikowych.
-§ 2. Do oznakowania dystrybutorów i pistoletów wydawczych używanych do paliw ciekłych oraz formułowania i udostępniania informacji o rodzaju paliwa ciekłego wykorzystywanego do napędu pojazdu samochodowego stosuje się co najmniej umieszczony w widocznym miejscu identyfikator, w środku którego zamieszcza się symbol w kolorze czarnym na białym albo srebrnym tle wewnętrznym.
-§ 3. 1. Paliwo ciekłe typu oleju napędowego oznacza się co najmniej identyfikatorem w kształcie kwadratu, w środku którego zamieszcza się symbol „BX”, gdzie X oznacza miejsce, w którym określa się liczbę wskazującą maksymalną zawartość estrów metylowych kwasów tłuszczowych (FAME) w procentach objętościowych.
+
+**§ 1.** Rozporządzenie określa szczegółowy sposób:
+
+- **1)** oznakowania pistoletów wydawczych i dystrybutorów, wskazujący na rodzaj wydawanego paliwa ciekłego;
+- **2)** formułowania i udostępniania informacji o rodzaju paliwa ciekłego wykorzystywanego do napędu pojazdu samochodowego, umieszczanej:
+    - **a)** w instrukcji obsługi tego pojazdu,
+    - **b)** na korku lub klapce wlewu paliwa ciekłego lub w pobliżu tego korka lub tej klapki,
+    - **c)** na terenie placówki handlowej prowadzącej sprzedaż pojazdów silnikowych.
+
+**§ 2.** Do oznakowania dystrybutorów i pistoletów wydawczych używanych do paliw ciekłych oraz formułowania i udostępniania informacji o rodzaju paliwa ciekłego wykorzystywanego do napędu pojazdu samochodowego stosuje się co najmniej umieszczony w widocznym miejscu identyfikator, w środku którego zamieszcza się symbol w kolorze czarnym na białym albo srebrnym tle wewnętrznym.
+
+**§ 3.**
+
+1. Paliwo ciekłe typu oleju napędowego oznacza się co najmniej identyfikatorem w kształcie kwadratu, w środku którego zamieszcza się symbol „BX”, gdzie X oznacza miejsce, w którym określa się liczbę wskazującą maksymalną zawartość estrów metylowych kwasów tłuszczowych (FAME) w procentach objętościowych.
+
 2. Długość boku identyfikatora, o którym mowa w ust. 1, umieszczonego:
-1) na pistolecie wydawczym, w instrukcji obsługi pojazdu oraz na korku lub klapce wlewu paliwa ciekłego lub w pobliżu tego korka lub tej klapki wynosi co najmniej 13 mm;
-2) na dystrybutorze oraz na terenie placówki handlowej prowadzącej sprzedaż pojazdów silnikowych wynosi co najmniej 30 mm.
-§ 4. 1. Paliwo ciekłe typu benzyny silnikowej oznacza się co najmniej identyfikatorem w kształcie okręgu, w środku którego zamieszcza się symbol „EX”, gdzie X oznacza miejsce, w którym określa się liczbę wskazującą maksymalną zawartość etanolu w procentach objętościowych.
+
+- **1)** na pistolecie wydawczym, w instrukcji obsługi pojazdu oraz na korku lub klapce wlewu paliwa ciekłego lub w pobliżu tego korka lub tej klapki wynosi co najmniej 13 mm;
+- **2)** na dystrybutorze oraz na terenie placówki handlowej prowadzącej sprzedaż pojazdów silnikowych wynosi co najmniej 30 mm.
+
+**§ 4.**
+
+1. Paliwo ciekłe typu benzyny silnikowej oznacza się co najmniej identyfikatorem w kształcie okręgu, w środku którego zamieszcza się symbol „EX”, gdzie X oznacza miejsce, w którym określa się liczbę wskazującą maksymalną zawartość etanolu w procentach objętościowych.
+
 2. Średnica identyfikatora, o którym mowa w ust. 1, umieszczonego:
-1) na pistolecie wydawczym, w instrukcji obsługi pojazdu oraz na korku lub na klapce wlewu paliwa ciekłego lub w pobliżu tego korka lub tej klapki wynosi co najmniej 13 mm;
-2) na dystrybutorze oraz na terenie placówki handlowej prowadzącej sprzedaż pojazdów silnikowych wynosi co najmniej 30 mm.
-§ 5. 1. Grubość linii zewnętrznej identyfikatora wynosi:
-1) 1,4 punktu w przypadkach, o których mowa w § 3 ust. 2 pkt 1 i § 4 ust. 2 pkt 1;
-2) 3,2 punktu w przypadkach, o których mowa w § 3 ust. 2 pkt 2 i § 4 ust. 2 pkt 2.
+
+- **1)** na pistolecie wydawczym, w instrukcji obsługi pojazdu oraz na korku lub na klapce wlewu paliwa ciekłego lub w pobliżu tego korka lub tej klapki wynosi co najmniej 13 mm;
+- **2)** na dystrybutorze oraz na terenie placówki handlowej prowadzącej sprzedaż pojazdów silnikowych wynosi co najmniej 30 mm.
+
+**§ 5.**
+
+1. Grubość linii zewnętrznej identyfikatora wynosi:
+
+- **1)** 1,4 punktu w przypadkach, o których mowa w § 3 ust. 2 pkt 1 i § 4 ust. 2 pkt 1;
+- **2)** 3,2 punktu w przypadkach, o których mowa w § 3 ust. 2 pkt 2 i § 4 ust. 2 pkt 2.
+
 2. Rozmiar czcionki danego symbolu dostosowuje się do wielkości identyfikatora i nie może być mniejszy niż 14 punktów.
-§ 6. Wzory identyfikatorów określa załącznik do rozporządzenia.
-§ 7. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
-Minister Klimatu i Środowiska: M. Kurtyka WZORY IDENTYFIKATORÓW Lp. RODZAJ PALIWA WZÓR IDENTYFIKATORA Olej napędowy, gdzie X oznacza miejsce, w którym 1 określa się liczbę wskazującą maksymalną zawartość estrów metylowych kwasów tłuszczowych (FAME) w procentach objętościowych Benzyna silnikowa, gdzie X oznacza miejsce, 2 w którym określa się liczbę wskazującą maksymalną zawartość etanolu w procentach objętościowych
+
+**§ 6.** Wzory identyfikatorów określa załącznik do rozporządzenia.
+
+**§ 7.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r. Minister Klimatu i Środowiska: M. Kurtyka WZORY IDENTYFIKATORÓW Lp. RODZAJ PALIWA WZÓR IDENTYFIKATORA Olej napędowy, gdzie X oznacza miejsce, w którym 1 określa się liczbę wskazującą maksymalną zawartość estrów metylowych kwasów tłuszczowych (FAME) w procentach objętościowych Benzyna silnikowa, gdzie X oznacza miejsce, 2 w którym określa się liczbę wskazującą maksymalną zawartość etanolu w procentach objętościowych
 

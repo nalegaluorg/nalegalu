@@ -30,48 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2015 r. poz. 184 i 1618) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 ust. 2 otrzymuje brzmienie: „2. Ustawa reguluje zasady i tryb przeciwdziałania praktykom ograniczającym konkurencję, praktykom naruszającym zbiorowe interesy konsumentów oraz stosowaniu niedozwolonych postanowień wzorców umów, a także przeciwdziałania antykonkurencyjnym koncentracjom przedsiębiorców i ich związków, jeżeli te praktyki, stosowanie niedozwolonych postanowień lub koncentracje wywołują lub mogą wywoływać skutki na terytorium Rzeczypospolitej Polskiej.”;
-- **2)** po dziale III dodaje się dział IIIa w brzmieniu: „Dział IIIa Zakaz stosowania niedozwolonych postanowień wzorców umów
-
-#### Rozdział 1 Niedozwolone postanowienia wzorców umów
-
-**Art. 23a.** Zakazane jest stosowanie we wzorcach umów zawieranych z konsumentami niedozwolonych postanowień umownych, o których mowa w art. 385 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
-
-#### Rozdział 2 Decyzje w sprawach o uznanie postanowień wzorca umowy za niedozwolone
-
-**Art. 23b.**
-
-1. Prezes Urzędu wydaje decyzję o uznaniu postanowienia wzorca umowy za niedozwolone i zakazującą jego wykorzystywania, jeżeli stwierdzi naruszenie zakazu określonego w art. 23a. W decyzji Prezes Urzędu przytacza treść postanowienia wzorca umowy uznanego za niedozwolone.
-
-2. W decyzji, o której mowa w ust. 1, Prezes Urzędu może określić środki usunięcia trwających skutków naruszenia zakazu, o którym mowa w art. 23a, w szczególności zobowiązać przedsiębiorcę do:
-
-- **1)** poinformowania konsumentów, będących stronami umów zawartych na podstawie wzorca, o którym mowa w ust. 1, o uznaniu za niedozwolone postanowienia tego wzorca – w sposób określony w decyzji;
-- **2)** złożenia jednokrotnego lub wielokrotnego oświadczenia o treści i w formie określonej w decyzji.
-
-3. W decyzji, o której mowa w ust. 1, Prezes Urzędu może nakazać publikację decyzji w całości lub w części, z zaznaczeniem, czy decyzja ta jest prawomocna, w określonej w niej formie, na koszt przedsiębiorcy.
-
-4. Środki, o których mowa w ust. 2, powinny być proporcjonalne do wagi i rodzaju naruszenia oraz konieczne do usunięcia jego skutków.
-
-**Art. 23c.**
-
-1. Jeżeli przedsiębiorca przed wydaniem decyzji, o której mowa w art. 23b ust. 1, zobowiąże się do podjęcia lub zaniechania określonych działań zmierzających do zakończenia naruszenia zakazu, o którym mowa w art. 23a, lub usunięcia skutków tego naruszenia, Prezes Urzędu może, wydając decyzję, o której mowa w art. 23b ust. 1, zobowiązać przedsiębiorcę do wykonania tych zobowiązań.
-
-2. W decyzji, o której mowa w ust. 1, Prezes Urzędu może określić termin wykonania zobowiązań.
-
-3. W decyzji, o której mowa w ust. 1, Prezes Urzędu nakłada na przedsiębiorcę obowiązek składania w wyznaczonym terminie informacji o stopniu realizacji zobowiązań.
-
-4. W przypadku wydania decyzji, o której mowa w ust. 1, przepisów art. 23b ust. 2 pkt 1 i art. 106 ust. 1 pkt 3a nie stosuje się.
-
-5. Prezes Urzędu może, z urzędu, uchylić decyzję, o której mowa w ust. 1, w części dotyczącej zobowiązań i nałożyć karę, o której mowa w art. 106 ust. 1 pkt 3a, w przypadku gdy:
-
-- **1)** decyzja ta została wydana w oparciu o nieprawdziwe, niekompletne lub wprowadzające w błąd informacje lub dokumenty;
-- **2)** przedsiębiorca nie wykonuje zobowiązań lub obowiązków, o których mowa w ust. 1–3.
-
-6. W przypadku, o którym mowa w ust. 5, Prezes Urzędu może określić środki usunięcia trwających skutków naruszenia zakazu, o których mowa w art. 23b ust. 2. Przepis art. 23b ust. 3 stosuje się.
-
-7. Prezes Urzędu może, za zgodą przedsiębiorcy, z urzędu uchylić decyzję, o której mowa w ust. 1, w części dotyczącej zobowiązań, w przypadku gdy nastąpiła zmiana okoliczności mających istotny wpływ na wydanie tej decyzji. Przepisy ust. 6 stosuje się odpowiednio.
-
-**Art. 23d.** Prawomocna decyzja o uznaniu postanowienia wzorca umowy za niedozwolone ma skutek wobec przedsiębiorcy, co do którego stwierdzono stosowanie niedozwolonego postanowienia umownego oraz wobec wszystkich konsumentów, którzy zawarli z nim umowę na podstawie wzorca wskazanego w decyzji.”;
-
+- **2)** po dziale III dodaje się dział IIIa w brzmieniu: „Dział IIIa Zakaz stosowania niedozwolonych postanowień wzorców umów Rozdział 1 Niedozwolone postanowienia wzorców umów Art. 23a. Zakazane jest stosowanie we wzorcach umów zawieranych z konsumentami niedozwolonych postanowień umownych, o których mowa w art. 385 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny. Rozdział 2 Decyzje w sprawach o uznanie postanowień wzorca umowy za niedozwolone Art. 23b. 1. Prezes Urzędu wydaje decyzję o uznaniu postanowienia wzorca umowy za niedozwolone i zakazującą jego wykorzystywania, jeżeli stwierdzi naruszenie zakazu określonego w art. 23a. W decyzji Prezes Urzędu przytacza treść postanowienia wzorca umowy uznanego za niedozwolone. 2. W decyzji, o której mowa w ust. 1, Prezes Urzędu może określić środki usunięcia trwających skutków naruszenia zakazu, o którym mowa w art. 23a, w szczególności zobowiązać przedsiębiorcę do: 1) poinformowania konsumentów, będących stronami umów zawartych na podstawie wzorca, o którym mowa w ust. 1, o uznaniu za niedozwolone postanowienia tego wzorca – w sposób określony w decyzji; 2) złożenia jednokrotnego lub wielokrotnego oświadczenia o treści i w formie określonej w decyzji. 3. W decyzji, o której mowa w ust. 1, Prezes Urzędu może nakazać publikację decyzji w całości lub w części, z zaznaczeniem, czy decyzja ta jest prawomocna, w określonej w niej formie, na koszt przedsiębiorcy. 4. Środki, o których mowa w ust. 2, powinny być proporcjonalne do wagi i rodzaju naruszenia oraz konieczne do usunięcia jego skutków. Art. 23c. 1. Jeżeli przedsiębiorca przed wydaniem decyzji, o której mowa w art. 23b ust. 1, zobowiąże się do podjęcia lub zaniechania określonych działań zmierzających do zakończenia naruszenia zakazu, o którym mowa w art. 23a, lub usunięcia skutków tego naruszenia, Prezes Urzędu może, wydając decyzję, o której mowa w art. 23b ust. 1, zobowiązać przedsiębiorcę do wykonania tych zobowiązań. 2. W decyzji, o której mowa w ust. 1, Prezes Urzędu może określić termin wykonania zobowiązań. 3. W decyzji, o której mowa w ust. 1, Prezes Urzędu nakłada na przedsiębiorcę obowiązek składania w wyznaczonym terminie informacji o stopniu realizacji zobowiązań. 4. W przypadku wydania decyzji, o której mowa w ust. 1, przepisów art. 23b ust. 2 pkt 1 i art. 106 ust. 1 pkt 3a nie stosuje się. 5. Prezes Urzędu może, z urzędu, uchylić decyzję, o której mowa w ust. 1, w części dotyczącej zobowiązań i nałożyć karę, o której mowa w art. 106 ust. 1 pkt 3a, w przypadku gdy: 1) decyzja ta została wydana w oparciu o nieprawdziwe, niekompletne lub wprowadzające w błąd informacje lub dokumenty; 2) przedsiębiorca nie wykonuje zobowiązań lub obowiązków, o których mowa w ust. 1–3. 6. W przypadku, o którym mowa w ust. 5, Prezes Urzędu może określić środki usunięcia trwających skutków naruszenia zakazu, o których mowa w art. 23b ust. 2. Przepis art. 23b ust. 3 stosuje się. 7. Prezes Urzędu może, za zgodą przedsiębiorcy, z urzędu uchylić decyzję, o której mowa w ust. 1, w części dotyczącej zobowiązań, w przypadku gdy nastąpiła zmiana okoliczności mających istotny wpływ na wydanie tej decyzji. Przepisy ust. 6 stosuje się odpowiednio. Art. 23d. Prawomocna decyzja o uznaniu postanowienia wzorca umowy za niedozwolone ma skutek wobec przedsiębiorcy, co do którego stwierdzono stosowanie niedozwolonego postanowienia umownego oraz wobec wszystkich konsumentów, którzy zawarli z nim umowę na podstawie wzorca wskazanego w decyzji.”;
 - **3)** w art. 24 w ust. 2:
     - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Przez praktykę naruszającą zbiorowe interesy konsumentów rozumie się godzące w nie sprzeczne z prawem lub dobrymi obyczajami zachowanie przedsiębiorcy, w szczególności:”,
     - **b)** uchyla się pkt 1,
@@ -80,9 +39,7 @@ source: pdf
 - **4)** art. 25 otrzymuje brzmienie: „Art. 25. Ochrona zbiorowych interesów konsumentów przewidziana w ustawie nie wyłącza ochrony wynikającej z innych ustaw, w szczególności z przepisów o przeciwdziałaniu nieuczciwym praktykom rynkowym i przepisów o zwalczaniu nieuczciwej konkurencji.”;
 - **5)** w art. 26:
     - **a)** ust. 2 otrzymuje brzmienie: „2. W decyzji, o której mowa w ust. 1, Prezes Urzędu może określić środki usunięcia trwających skutków naruszenia zbiorowych interesów konsumentów w celu zapewnienia wykonania nakazu, w szczególności zobowiązać przedsiębiorcę do złożenia jednokrotnego lub wielokrotnego oświadczenia o treści i w formie określonej w decyzji.”,
-    - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. W decyzji, o której mowa w ust. 1, Prezes Urzędu może nakazać publikację decyzji w całości lub w części, z zaznaczeniem, czy decyzja ta jest prawomocna, w określonej w niej formie, na koszt przedsiębiorcy.
-
-4. Środki, o których mowa w ust. 2, powinny być proporcjonalne do wagi i rodzaju naruszenia oraz konieczne do usunięcia jego skutków.”;
+    - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. W decyzji, o której mowa w ust. 1, Prezes Urzędu może nakazać publikację decyzji w całości lub w części, z zaznaczeniem, czy decyzja ta jest prawomocna, w określonej w niej formie, na koszt przedsiębiorcy. 4. Środki, o których mowa w ust. 2, powinny być proporcjonalne do wagi i rodzaju naruszenia oraz konieczne do usunięcia jego skutków.”;
 
 - **6)** w art. 27 ust. 4 otrzymuje brzmienie: „4. Przepisy art. 26 ust. 2–4 stosuje się odpowiednio.”;
 - **7)** w art. 28 ust. 2 otrzymuje brzmienie: „2. W decyzji, o której mowa w ust. 1, Prezes Urzędu może określić termin wykonania zobowiązań lub zobowiązać przedsiębiorcę do złożenia jednokrotnego lub wielokrotnego oświadczenia o treści i w formie określonej w decyzji lub do publikacji decyzji w całości lub w części na koszt przedsiębiorcy, z zaznaczeniem, czy decyzja ta jest prawomocna.”;
@@ -90,100 +47,21 @@ source: pdf
     - **a)** pkt 2 otrzymuje brzmienie: „2) wydawanie decyzji w sprawach praktyk ograniczających konkurencję, w sprawach koncentracji przedsiębiorców, w sprawach o uznanie postanowień wzorca umowy za niedozwolone oraz w sprawach praktyk naruszających zbiorowe interesy konsumentów, a także innych decyzji przewidzianych w ustawie;”,
     - **b)** pkt 13 otrzymuje brzmienie: „13) występowanie do przedsiębiorców w sprawach z zakresu ochrony konkurencji i konsumentów;”;
 
-- **9)** po art. 31a dodaje się art. 31b–31d w brzmieniu: „Art. 31b. Prezes Urzędu publikuje na stronie internetowej Urzędu w całości treść decyzji wydawanych na podstawie przepisów ustawy, z zastrzeżeniem, że publikacja uzasadnienia nie obejmuje tajemnicy przedsiębiorstwa, jak również innych informacji podlegających ochronie na podstawie odrębnych przepisów. Publikacja opatrzona jest informacją, czy decyzja jest prawomocna.
-
-**Art. 31c.** Prezes Urzędu może nieodpłatnie publikować w publicznej radiofonii i telewizji, w formie i czasie uzgodnionymi z właściwą jednostką publicznej radiofonii i telewizji:
-
-- **1)** komunikaty dotyczące zachowań lub zjawisk mogących stanowić istotne zagrożenie dla interesów konsumentów;
-- **2)** informacje, co do których zostało wydane postanowienie, o którym mowa w art. 73a ust. 2.
-
-**Art. 31d.** Prezes Urzędu, jeżeli uzna że przemawia za tym interes publiczny, przedstawia sądowi istotny dla sprawy pogląd w sprawach dotyczących ochrony konkurencji i konsumentów.”;
-
-- **10)** art. 47 otrzymuje brzmienie: „Art. 47. 1. Postępowanie przed Prezesem Urzędu jest prowadzone jako postępowanie wyjaśniające, postępowanie antymonopolowe, postępowanie w sprawie o uznanie postanowień wzorca umowy za niedozwolone lub postępowanie w sprawie praktyk naruszających zbiorowe interesy konsumentów.
-
-2. Postępowanie wyjaśniające może poprzedzać wszczęcie postępowania antymonopolowego, postępowania w sprawie o uznanie postanowień wzorca umowy za niedozwolone lub postępowania w sprawie praktyk naruszających zbiorowe interesy konsumentów.”;
-
+- **9)** po art. 31a dodaje się art. 31b–31d w brzmieniu: „Art. 31b. Prezes Urzędu publikuje na stronie internetowej Urzędu w całości treść decyzji wydawanych na podstawie przepisów ustawy, z zastrzeżeniem, że publikacja uzasadnienia nie obejmuje tajemnicy przedsiębiorstwa, jak również innych informacji podlegających ochronie na podstawie odrębnych przepisów. Publikacja opatrzona jest informacją, czy decyzja jest prawomocna. Art. 31c. Prezes Urzędu może nieodpłatnie publikować w publicznej radiofonii i telewizji, w formie i czasie uzgodnionymi z właściwą jednostką publicznej radiofonii i telewizji: 1) komunikaty dotyczące zachowań lub zjawisk mogących stanowić istotne zagrożenie dla interesów konsumentów; 2) informacje, co do których zostało wydane postanowienie, o którym mowa w art. 73a ust. 2. Art. 31d. Prezes Urzędu, jeżeli uzna że przemawia za tym interes publiczny, przedstawia sądowi istotny dla sprawy pogląd w sprawach dotyczących ochrony konkurencji i konsumentów.”;
+- **10)** art. 47 otrzymuje brzmienie: „Art. 47. 1. Postępowanie przed Prezesem Urzędu jest prowadzone jako postępowanie wyjaśniające, postępowanie antymonopolowe, postępowanie w sprawie o uznanie postanowień wzorca umowy za niedozwolone lub postępowanie w sprawie praktyk naruszających zbiorowe interesy konsumentów. 2. Postępowanie wyjaśniające może poprzedzać wszczęcie postępowania antymonopolowego, postępowania w sprawie o uznanie postanowień wzorca umowy za niedozwolone lub postępowania w sprawie praktyk naruszających zbiorowe interesy konsumentów.”;
 - **11)** w art. 48 w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) wstępne ustalenie, czy nastąpiło naruszenie uzasadniające wszczęcie postępowania w sprawie o uznanie postanowień wzorca umowy za niedozwolone;”;
 - **12)** w art. 49 ust. 1 otrzymuje brzmienie: „1. Postępowanie antymonopolowe w sprawach praktyk ograniczających konkurencję, postępowanie w sprawach praktyk naruszających zbiorowe interesy konsumentów, postępowanie w sprawach o uznanie postanowień wzorca umowy za niedozwolone oraz w sprawach nakładania kar pieniężnych wszczyna się z urzędu.”;
-- **13)** po art. 49 dodaje się art. 49a w brzmieniu: „Art. 49a. 1. Prezes Urzędu, bez wszczynania postępowania, może wystąpić do przedsiębiorcy w sprawach z zakresu ochrony konkurencji i konsumentów.
-
-2. Przedsiębiorca, do którego Prezes Urzędu skierował wystąpienie, może w terminie określonym przez Prezesa Urzędu przekazać stanowisko w sprawie, której dotyczy wystąpienie.
-
-3. Termin, o którym mowa w ust. 2, nie może być krótszy niż 14 dni, licząc od dnia otrzymania przez przedsiębiorcę wystąpienia.”;
-
+- **13)** po art. 49 dodaje się art. 49a w brzmieniu: „Art. 49a. 1. Prezes Urzędu, bez wszczynania postępowania, może wystąpić do przedsiębiorcy w sprawach z zakresu ochrony konkurencji i konsumentów. 2. Przedsiębiorca, do którego Prezes Urzędu skierował wystąpienie, może w terminie określonym przez Prezesa Urzędu przekazać stanowisko w sprawie, której dotyczy wystąpienie. 3. Termin, o którym mowa w ust. 2, nie może być krótszy niż 14 dni, licząc od dnia otrzymania przez przedsiębiorcę wystąpienia.”;
 - **14)** w art. 69 ust. 5 otrzymuje brzmienie: „5. Stronom oraz podmiotom zainteresowanym udostępnia się materiał dowodowy niezawierający informacji objętych ograniczeniem, o którym mowa w ust. 1, ze stosowną adnotacją.”;
 - **15)** w art. 76 wprowadzenie do wyliczenia otrzymuje brzmienie: „Nie wszczyna się, z zastrzeżeniem art. 93, art. 99f i art. 105, postępowania, jeżeli upłynęło 5 lat od końca roku, w którym:”;
 - **16)** w art. 89:
     - **a)** ust. 4 otrzymuje brzmienie: „4. W decyzji, o której mowa w ust. 1, nie nakłada się kar, o których mowa w art. 106 ust. 1 pkt 1 i 2.”;
-    - **b)** dodaje się ust. 5 i 6 w brzmieniu: „5. W przypadku wniesienia odwołania od decyzji, o której mowa w ust. 1, Prezes Urzędu przekazuje je wraz z aktami sprawy do sądu w terminie 10 dni od dnia otrzymania odwołania.
+    - **b)** dodaje się ust. 5 i 6 w brzmieniu: „5. W przypadku wniesienia odwołania od decyzji, o której mowa w ust. 1, Prezes Urzędu przekazuje je wraz z aktami sprawy do sądu w terminie 10 dni od dnia otrzymania odwołania. 6. Sąd ochrony konkurencji i konsumentów rozpoznaje odwołanie w terminie 2 miesięcy od dnia przekazania odwołania przez Prezesa Urzędu.”;
 
-6. Sąd ochrony konkurencji i konsumentów rozpoznaje odwołanie w terminie 2 miesięcy od dnia przekazania odwołania przez Prezesa Urzędu.”;
-
-- **17)** w dziale VI po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „Rozdział 3a Postępowanie w sprawach o uznanie postanowień wzorca umowy za niedozwolone
-
-**Art. 99a.**
-
-1. Konsument, rzecznik konsumentów, Rzecznik Ubezpieczonych, organizacja konsumencka lub zagraniczna organizacja wpisana na listę organizacji uprawnionych w państwach Unii Europejskiej do wszczęcia postępowania o uznanie postanowień wzorca umowy za niedozwolone, opublikowaną w Dzienniku Urzędowym Unii Europejskiej, jeżeli cel jej działania uzasadnia wystąpienie przez nią z takim zawiadomieniem dotyczącym wzorców umów stosowanych w Rzeczypospolitej Polskiej, zagrażających interesom konsumentów w państwie członkowskim, w którym organizacja ta ma swoją siedzibę, mogą zgłosić Prezesowi Urzędu na piśmie zawiadomienie dotyczące podejrzenia naruszenia zakazu, o którym mowa w art. 23a.
-
-2. Zawiadomienie, o którym mowa w ust. 1, zawiera:
-
-- **1)** wskazanie przedsiębiorcy, któremu zarzucane jest stosowanie niedozwolonych postanowień wzorca umowy;
-- **2)** opis stanu faktycznego będącego podstawą zawiadomienia;
-- **3)** wskazanie postanowienia wzorca umowy naruszającego zakaz, o którym mowa w art. 23a;
-- **4)** uprawdopodobnienie naruszenia zakazu określonego w art. 23a;
-- **5)** dane identyfikujące zgłaszającego zawiadomienie.
-
-3. Przepisy art. 86 ust. 3 i 4 stosuje się.
-
-**Art. 99b.**
-
-1. Stroną postępowania jest każdy, wobec kogo zostało wszczęte postępowanie w sprawie o uznanie postanowień wzorca umowy za niedozwolone.
-
-2. Prezes Urzędu wydaje postanowienie o wszczęciu postępowania w sprawie o uznanie postanowień wzorca umowy za niedozwolone i zawiadamia o tym strony.
-
-**Art. 99c.**
-
-1. Prezes Urzędu może dopuścić do udziału w postępowaniu w charakterze podmiotu zainteresowanego podmiot uprawniony do złożenia zawiadomienia, jeżeli uzna, że udział takiego podmiotu w postępowaniu może przyczynić się do wyjaśnienia sprawy.
-
-2. Dopuszczenie do udziału w postępowaniu w charakterze podmiotu zainteresowanego następuje na wniosek podmiotu uprawnionego do złożenia zawiadomienia.
-
-3. Dopuszczenie lub odmowa dopuszczenia do udziału w postępowaniu w charakterze podmiotu zainteresowanego następuje w drodze postanowienia, na które przysługuje zażalenie.
-
-4. Prezes Urzędu zawiadamia stronę o dopuszczeniu do udziału w postępowaniu podmiotu zainteresowanego.
-
-5. Podmiot zainteresowany ma prawo składania dokumentów i wyjaśnień co do okoliczności sprawy.
-
-6. Podmiot zainteresowany ma prawo wglądu do akt sprawy.
-
-7. Prezes Urzędu informuje podmiot zainteresowany o sposobie załatwienia sprawy. Podmiotowi temu nie przysługuje prawo do wniesienia odwołania od decyzji.
-
-**Art. 99d.** Prezes Urzędu może nadać decyzji w całości lub w części rygor natychmiastowej wykonalności, jeżeli wymaga tego ważny interes konsumentów.
-
-**Art. 99e.** Postępowanie w sprawie o uznanie postanowień wzorca umowy za niedozwolone powinno być zakończone w terminie 4 miesięcy, a w sprawie szczególnie skomplikowanej – nie później niż w terminie 5 miesięcy od dnia jego wszczęcia. Przepisy art. 35–38 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
-
-**Art. 99f.** Nie wszczyna się postępowania w sprawie o uznanie postanowień wzorca umowy za niedozwolone, jeżeli od końca roku, w którym zaprzestano ich stosowania, upłynęły 3 lata.”;
-
-- **18)** po art. 101 dodaje się art. 101a w brzmieniu: „Art. 101a. 1. Jeżeli w toku postępowania w sprawie praktyk naruszających zbiorowe interesy konsumentów zostanie uprawdopodobnione, że dalsze stosowanie zarzucanej praktyki może spowodować poważne i trudne do usunięcia zagrożenia dla zbiorowych interesów konsumentów, Prezes Urzędu przed zakończeniem postępowania w sprawie praktyk naruszających zbiorowe interesy konsumentów może, w drodze decyzji, zobowiązać przedsiębiorcę, któremu jest zarzucane stosowanie praktyki, do zaniechania określonych działań w celu zapobieżenia tym zagrożeniom. Wniesienie odwołania nie wstrzymuje wykonania decyzji. Przed wydaniem decyzji stronie nie przysługuje prawo do wypowiedzenia się co do zebranych dowodów i materiałów oraz zgłoszonych żądań, o którym mowa w art. 10 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
-
-2. W decyzji, o której mowa w ust. 1, Prezes Urzędu określa czas jej obowiązywania. Decyzja ta obowiązuje nie dłużej niż do czasu wydania decyzji kończącej postępowanie w sprawie.
-
-3. Prezes Urzędu może przedłużyć, w drodze decyzji, czas obowiązywania decyzji, o której mowa w ust. 1. Przepis ust. 2 zdanie drugie stosuje się odpowiednio.
-
-4. W decyzji, o której mowa w ust. 1, nie nakłada się kary, o której mowa w art. 106 ust. 1 pkt 4.
-
-5. Przepisy art. 89 ust. 5 i 6 stosuje się odpowiednio.”;
-
+- **17)** w dziale VI po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „Rozdział 3a Postępowanie w sprawach o uznanie postanowień wzorca umowy za niedozwolone Art. 99a. 1. Konsument, rzecznik konsumentów, Rzecznik Ubezpieczonych, organizacja konsumencka lub zagraniczna organizacja wpisana na listę organizacji uprawnionych w państwach Unii Europejskiej do wszczęcia postępowania o uznanie postanowień wzorca umowy za niedozwolone, opublikowaną w Dzienniku Urzędowym Unii Europejskiej, jeżeli cel jej działania uzasadnia wystąpienie przez nią z takim zawiadomieniem dotyczącym wzorców umów stosowanych w Rzeczypospolitej Polskiej, zagrażających interesom konsumentów w państwie członkowskim, w którym organizacja ta ma swoją siedzibę, mogą zgłosić Prezesowi Urzędu na piśmie zawiadomienie dotyczące podejrzenia naruszenia zakazu, o którym mowa w art. 23a. 2. Zawiadomienie, o którym mowa w ust. 1, zawiera: 1) wskazanie przedsiębiorcy, któremu zarzucane jest stosowanie niedozwolonych postanowień wzorca umowy; 2) opis stanu faktycznego będącego podstawą zawiadomienia; 3) wskazanie postanowienia wzorca umowy naruszającego zakaz, o którym mowa w art. 23a; 4) uprawdopodobnienie naruszenia zakazu określonego w art. 23a; 5) dane identyfikujące zgłaszającego zawiadomienie. 3. Przepisy art. 86 ust. 3 i 4 stosuje się. Art. 99b. 1. Stroną postępowania jest każdy, wobec kogo zostało wszczęte postępowanie w sprawie o uznanie postanowień wzorca umowy za niedozwolone. 2. Prezes Urzędu wydaje postanowienie o wszczęciu postępowania w sprawie o uznanie postanowień wzorca umowy za niedozwolone i zawiadamia o tym strony. Art. 99c. 1. Prezes Urzędu może dopuścić do udziału w postępowaniu w charakterze podmiotu zainteresowanego podmiot uprawniony do złożenia zawiadomienia, jeżeli uzna, że udział takiego podmiotu w postępowaniu może przyczynić się do wyjaśnienia sprawy. 2. Dopuszczenie do udziału w postępowaniu w charakterze podmiotu zainteresowanego następuje na wniosek podmiotu uprawnionego do złożenia zawiadomienia. 3. Dopuszczenie lub odmowa dopuszczenia do udziału w postępowaniu w charakterze podmiotu zainteresowanego następuje w drodze postanowienia, na które przysługuje zażalenie. 4. Prezes Urzędu zawiadamia stronę o dopuszczeniu do udziału w postępowaniu podmiotu zainteresowanego. 5. Podmiot zainteresowany ma prawo składania dokumentów i wyjaśnień co do okoliczności sprawy. 6. Podmiot zainteresowany ma prawo wglądu do akt sprawy. 7. Prezes Urzędu informuje podmiot zainteresowany o sposobie załatwienia sprawy. Podmiotowi temu nie przysługuje prawo do wniesienia odwołania od decyzji. Art. 99d. Prezes Urzędu może nadać decyzji w całości lub w części rygor natychmiastowej wykonalności, jeżeli wymaga tego ważny interes konsumentów. Art. 99e. Postępowanie w sprawie o uznanie postanowień wzorca umowy za niedozwolone powinno być zakończone w terminie 4 miesięcy, a w sprawie szczególnie skomplikowanej – nie później niż w terminie 5 miesięcy od dnia jego wszczęcia. Przepisy art. 35–38 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio. Art. 99f. Nie wszczyna się postępowania w sprawie o uznanie postanowień wzorca umowy za niedozwolone, jeżeli od końca roku, w którym zaprzestano ich stosowania, upłynęły 3 lata.”;
+- **18)** po art. 101 dodaje się art. 101a w brzmieniu: „Art. 101a. 1. Jeżeli w toku postępowania w sprawie praktyk naruszających zbiorowe interesy konsumentów zostanie uprawdopodobnione, że dalsze stosowanie zarzucanej praktyki może spowodować poważne i trudne do usunięcia zagrożenia dla zbiorowych interesów konsumentów, Prezes Urzędu przed zakończeniem postępowania w sprawie praktyk naruszających zbiorowe interesy konsumentów może, w drodze decyzji, zobowiązać przedsiębiorcę, któremu jest zarzucane stosowanie praktyki, do zaniechania określonych działań w celu zapobieżenia tym zagrożeniom. Wniesienie odwołania nie wstrzymuje wykonania decyzji. Przed wydaniem decyzji stronie nie przysługuje prawo do wypowiedzenia się co do zebranych dowodów i materiałów oraz zgłoszonych żądań, o którym mowa w art. 10 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego. 2. W decyzji, o której mowa w ust. 1, Prezes Urzędu określa czas jej obowiązywania. Decyzja ta obowiązuje nie dłużej niż do czasu wydania decyzji kończącej postępowanie w sprawie. 3. Prezes Urzędu może przedłużyć, w drodze decyzji, czas obowiązywania decyzji, o której mowa w ust. 1. Przepis ust. 2 zdanie drugie stosuje się odpowiednio. 4. W decyzji, o której mowa w ust. 1, nie nakłada się kary, o której mowa w art. 106 ust. 1 pkt 4. 5. Przepisy art. 89 ust. 5 i 6 stosuje się odpowiednio.”;
 - **19)** art. 105 otrzymuje brzmienie: „Art. 105. Nie wszczyna się postępowania w sprawie praktyk naruszających zbiorowe interesy konsumentów, jeżeli od końca roku, w którym zaprzestano ich stosowania, upłynęły 3 lata.”;
-- **20)** po art. 105i dodaje się art. 105ia w brzmieniu: „Art. 105ia. 1. W celu uzyskania informacji mogących stanowić dowód w sprawie praktyk naruszających zbiorowe interesy konsumentów kontrolujący ma prawo podjęcia czynności zmierzających do zakupu towaru.
-
-2. Okazanie kontrolowanemu albo osobie przez niego upoważnionej legitymacji służbowej upoważniającej do wykonywania czynności kontrolnych oraz doręczenie upoważnienia do przeprowadzenia kontroli i zgody sądu, o której mowa w ust. 4, następuje niezwłocznie po zakończeniu czynności, o których mowa w ust. 1.
-
-3. Przebieg czynności, o których mowa w ust. 1, może być utrwalany za pomocą urządzeń rejestrujących obraz lub dźwięk bez informowania kontrolowanego. Informatyczne nośniki danych w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne, na których zarejestrowano przebieg kontroli lub poszczególne czynności w jej toku, stanowią załącznik do protokołu kontroli. Poinformowanie kontrolowanego o utrwalaniu przebiegu czynności, o których mowa w ust. 1, następuje niezwłocznie po dokonaniu czynności, o których mowa w zdaniu 1.
-
-4. Podjęcie czynności, o których mowa w ust. 1 i 3, wymaga zgody sądu ochrony konkurencji i konsumentów, udzielonej na wniosek Prezesa Urzędu.
-
-5. Sąd ochrony konkurencji i konsumentów wydaje w ciągu 48 godzin postanowienie w sprawie, o której mowa w ust. 4. Na postanowienie to nie przysługuje zażalenie.”;
-
+- **20)** po art. 105i dodaje się art. 105ia w brzmieniu: „Art. 105ia. 1. W celu uzyskania informacji mogących stanowić dowód w sprawie praktyk naruszających zbiorowe interesy konsumentów kontrolujący ma prawo podjęcia czynności zmierzających do zakupu towaru. 2. Okazanie kontrolowanemu albo osobie przez niego upoważnionej legitymacji służbowej upoważniającej do wykonywania czynności kontrolnych oraz doręczenie upoważnienia do przeprowadzenia kontroli i zgody sądu, o której mowa w ust. 4, następuje niezwłocznie po zakończeniu czynności, o których mowa w ust. 1. 3. Przebieg czynności, o których mowa w ust. 1, może być utrwalany za pomocą urządzeń rejestrujących obraz lub dźwięk bez informowania kontrolowanego. Informatyczne nośniki danych w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne, na których zarejestrowano przebieg kontroli lub poszczególne czynności w jej toku, stanowią załącznik do protokołu kontroli. Poinformowanie kontrolowanego o utrwalaniu przebiegu czynności, o których mowa w ust. 1, następuje niezwłocznie po dokonaniu czynności, o których mowa w zdaniu 1. 4. Podjęcie czynności, o których mowa w ust. 1 i 3, wymaga zgody sądu ochrony konkurencji i konsumentów, udzielonej na wniosek Prezesa Urzędu. 5. Sąd ochrony konkurencji i konsumentów wydaje w ciągu 48 godzin postanowienie w sprawie, o której mowa w ust. 4. Na postanowienie to nie przysługuje zażalenie.”;
 - **21)** w art. 106:
     - **a)** w ust. 1 po pkt 3 dodaje się pkt 3a w brzmieniu: „3a) dopuścił się naruszenia zakazu określonego w art. 23a;”,
     - **b)** w ust. 2 pkt 2 otrzymuje brzmienie: „2) nie udzielił informacji żądanych przez Prezesa Urzędu na podstawie art. 10 ust. 9, art. 12 ust. 3, art. 19 ust. 3, art. 23c ust. 3, art. 28 ust. 3 lub art. 50 bądź udzielił nieprawdziwych lub wprowadzających w błąd informacji;”;

@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie sposobu prowadzenia gospodarki finansowej oraz sporządzania planu finansowego jednostek doradztwa rolniczego Na podstawie art. 12 ust. 2 ustawy z dnia 22 października 2004 r. o jednostkach doradztwa rolniczego (Dz. U. z 2013 r.
 poz. 474) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 22 grudnia 2009 r. w sprawie sposobu prowadzenia gospodarki finansowej oraz sporządzania planu finansowego jednostek doradztwa rolniczego (Dz. U. Nr 223, poz. 1780) w § 7 w ust. 1 i 3 oraz w § 8 w ust. 1 użyte w różnej liczbie i przypadku wyrazy „sejmik województwa” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „zarząd województwa”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Finansów: wz. J. Cichoń
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 22 grudnia 2009 r. w sprawie sposobu prowadzenia gospodarki finansowej oraz sporządzania planu finansowego jednostek doradztwa rolniczego (Dz. U. Nr 223, poz. 1780) w § 7 w ust. 1 i 3 oraz w § 8 w ust. 1 użyte w różnej liczbie i przypadku wyrazy „sejmik województwa” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „zarząd województwa”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Finansów: wz. J. Cichoń
 

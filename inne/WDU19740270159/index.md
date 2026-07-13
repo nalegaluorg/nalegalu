@@ -8,10 +8,10 @@ pos: 159
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: pdf
 ---
 
-# Ustawa z dnia 18 lipca 1974 r. o amnestii
+# Ustawa z dnia 18 lipca 1974 r. o amnestii.
 
 | Pole | Wartość |
 |---|---|
@@ -25,172 +25,83 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740270159) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1974/159/text.pdf) |
 
-Sejm Polskiej Rzeczypospolitej Ludowej, mając na względzie
-– pomyślną realizację programu socjalistycznych przemian naszego społeczeństwa oraz rozwoju społeczno-gospodarczego kraju,
-– stały wzrost dyscypliny społecznej oraz polepszenie stanu bezpieczeństwa i porządku publicznego, przy jednoczesnym podnoszeniu się poziomu świadomości i kultury prawnej obywateli Polskiej Rzeczypospolitej Ludowej,
-– warunki sprzyjające szybszemu powrotowi do normalnego życia i podjęcia społecznie użytecznej pracy przez osoby, które pomimo naruszenia prawa rokują nadzieję na przestrzeganie w przyszłości zasad porządku prawnego
-i biorąc pod uwagę doniosłość jubileuszu XXX-lecia Polski Ludowej stanowi, co następuje:
+Przepisy i r.
+r.
+, Przewodniczący Państwa: Jabłoński w Państwa: 159
+USTAWA o amnestil.
+--- - - - - - ......
+Dziennik Ustaw Nr 27 - 320
+1) pozbawienia w rozmiarze do 2. W razie umorzenia lat orzeka przepadek oraz pozbawienia w rozmiarze do przedmiotów, których posiadanie jest zakazane lul> wy lat 3: maga zezwolenia;
+a) kobietom, które do dnia w ustawy nad dzieckiem w wieku do lat 16 pie orzec "'- przepis. szczeg.ólnytak stano do której rodzice, wi - przepadek innych przedmiotów wart. 48 Kodeksu karnego,. w przepisach szczególnych
+b) osobom, które do dnia w ustawy oraz wart. l6 ustawy karnej skarbowej.
+kobiety - 50 lat, - 60 lat,
+c) osobom, które w chwili 3; w sprawie o nie 18.lat; z prywatnego zwraca wi prywatnemu przez nieg'o rów ograniczenia oraz za kosztów chyba w sprawie za wyrok, nieprawomocny.
+4) grzywny w rozmiarze do LOCO Art. 3. W sprawach o oraz o jako kara samoistna; .stwa skarbowe przed dniem 15 czerwca 1974 r., w których orzeczono w arL l
+5) aresztu wojskowego. ust.. I:
+2. W razie darowania kary zasadniczej daruje kary 1) o pozbawienia orze dodatkowe pozbaWienia pralA' publicznych oraz nie wyko w rozmiarze' lat 2 do lat 3;
+nane kary dodatkowe podania wyroku do publicznej wia w szczególny sposób. 2) o pozbawienia orze w rozmiarze lat 3 do lat 5, orze , 3. wykonaniu prawomocne orzeczenia o po czona za ; nie dotyczy ,to zbawieniu praw rodzicielskich lub zakazie kary pozbawienia orzeczonej za zajmowania stanowisk, wykonywania spowodowania . w nego zawodu lub prowadzenia za art. 152 I\odeksu karnego;
+kazie prowadzenia me,ehanieznych, konfiskacie mienia, przepadku rzeczy, degradacji, stopnia :;) o pozbawienia wojskowego, nadzorze ochronnym, umieszczeniu w w rozmiarze lat 3 dó lat 5: p.rzystosQwania spclecznego', wykonywania pra cy zarobkowej, w tym wymienionym w art. 34 3 a) kobietom, które do dnia w ustawy Kodeksu karnego, jak o powództwie cy sprawowafy nad dzieckiem w wieku do lat 16 pie wilnym i z odszkodowania. do której rodzice,
+4. Przepisy ust, 2 i 3 stbsuJe odpowiednio w wy h) osobom, które do dnia w ustawy padku, gdy darowanie kary nie z powodu jej kobiety '- 50 lat, - 60 lat, .
+wykonania. c} osobom, które w chwili nie ukończyły 18 lat;
 
-**Art. 1.**
+**Art. 2.** Postępowanie umarza w sprawach o po przed dniem 15 czerwca 1974 r.: 4) w innych wypadkach w pkt 1-3 pozbawienia w rozmiarze do lat 15
 
-1. W sprawach o przestępstwa oraz o przestępstwa skarbowe popełnione przed dniem 15 czerwca 1974 r. daruje się:
+- **1)** i skarbowe o 1/3. pozbawienia do lat 2, ograniczenia wol lub gn:ywny albo pozbawienia wolno do lat 2 i grzywny lub' Art. 4. Amnestii nie stosuje
+- **2)** skarbowe 1) do zbrodni wart. 1 pkt· 1 dekretu z dn'ia· pozbawienia do lat 3 lub .grzywny 'albo 31 sierpnia 1944 ,r. o wymiarze kary dla faszystowsk.o obiema tymi kaiami przez: hitlerowskich zbrodniarzy winnych zabójstw i nia nad i, oraz dla zdraj
+    - **a)** kobiety, które do dnia w ustawy c'ów Narodu Polskiego '(Dz. U.z 1946 r. Nr 69, poz. 377 nad dzieckiem w wieku do lat 16 pie z zmianami) oraz do inn-xch' zbrodni wo do której rodzice, jennych zbrodni przeciwko
+    - **b)** osoby, które do dnia w. ustawy kobiety - 50 lat, - 60 lat, 2} do zbrodni wart. 122, 124; 127. i 131 Ko deksu karn€go, do w wart. 128·
+    - **e)** osoby, które w yhwili nie l w z art. 122, 124 i 127 Kodeks'u karnego 18 lat; oraz do wart. 129 w z, tymi przeptsami;
 
-- **1)** karę pozbawienia wolności orzeczoną w rozmiarze do lat 2;
-- **2)** karę pozbawienia wolności orzeczoną w rozmiarze do lat 3: kobietom, które do dnia wejścia w życie ustawy sprawowały nad dzieckiem w wieku do lat 16 pieczę, do której zobowiązani są rodzice, osobom, które do dnia wejścia w życie ustawy ukończyły: kobiety – 50 lat, mężczyźni – 60 lat, osobom, które w chwili popełnienia przestępstwa nie ukończyły 18 lat;
-    - **a)**
-    - **b)**
-    - **c)**
+- **3)** i skarbowe, z oko . .spI'awy . wynika., za, nie' 3) do' zbrodni zabÓjstwa okre~lonej w art. 148- § 1 Ko-, , która darowaniu. deksu karnego; . , 'dO' wr karnego cH;aZ"@sae,y, 'z1'l'bitl W. eraz w arr. r 200 2 t!egOl lterele'l<sH, .. · ,: .. ;jJtzez ' 3. W wypadku, o którym ust. 2: od .' r€so 'by p o rrri;e'- powiednio przepisy ustawy: · nia w porozumi-eniu z innymi osobami','bez na " 1 kresie &bnotu tOlwar0wegO' z. za. kt&re orzeczono nie; darowaniu na-podsta- umarza karge, o'k . w-;e <vii':' L ust. 1. albo sprawy wynika, orzec ze, Jllr;zedmimtll pozbawienia nie lat; lub uszczuplonego wynika, :fe n,ie. . orz:ee,;, . 31 w razre olfZecze-rrita. kary po:zbawierua w;roz mi.a![ze po..wyiej lat. chm la:t do i protekcji o sIonych wart. 239, 249 i 241 .1,3 4 Kodeksu kar- a) łagodzi srę, połowę karę pozbawfenia ~~Iności neg0; ,w 242' w rymi prze-prsami ora;z oraz grzywny,. 1ezeIi zostafa obolt nfeJorze wart. 244 KOdej;{su ka.rne'go, ;z~ IUóre CM'Z~Ze[1l(i)- 'karę czona, pozbawienia w rozmiarze roku bez sz€ zeQjÓJnie· u,zasadnii€Hlychl wyparl,R::ach n·a wanmkowego Z'a'wieszen,ra Jej wykanan<i'a, atbl{! wniosek prokuratora nawet sp.ra.wey da , sPrawy' w'yni'ka., J}'1i'leiacJrab.Y2l'a' nie ust. 4 ma wówcz.as.,odpowl-ednie za , s toso 7f d0- !D'F'iesfęfJśl?w 6kf€Ś]'onych w a,it.r3~ .i 343 gr 2 Ko nie stos·uje ka,rll' / "· d1ełtSi(. 'karl'iego:, po.pełll'i10,wY€f1'. s,taili'e niet!'zeźW(1)ścil oraz do wart. 145. Z 'k,odeksu w sta-, )4. W razie umorzenia p0stę·p.uW'Cl'Illva.: nie hretiźeZw0Ś€;i Jil.oj:azd mec:hć3'ndczI1lY.j~eH wwniku . l) w-z·ek.a p-rzepa.d·.e,k oraz tycb p;r.zesl\:ę;pstw Jil'as,tąpJiła ś;mme..nd:: człewieka!r . m..t<lltÓlW. zak:itza.ne hub> ,zezwolenia, do zbrodni sp,,()wa-diZe-ni.a wart. 1381 § Kodeksu orzec - przepis szczeg,ó·lny s,[ano wi _ . przepadek. in'DYch w wart. t6'1J art. . 48 Kilrneg,Q,. w przep,i:sacl'! sztze:g.órnycn k1l'meg-,(J, oraz wart. 16 r ustawy karnej sk.arbowej: . do .. prze~tęp~fw rozboju wyrrrusze'nia fCl'zhójrrr6ego. 5.'Ptzepfsy ust. 3 i' 4 stosuje do w 2'fO r 2'1 r KOI!I'ek.su karnego'; nychprzed dniem 15 czerwca 1974 r. któr:e w art .. 4 pkot. 2-1.2 nie a,ronestH. a do , .1 O do przestępstw powrotnych ~p'opełhionych w warun trwalych, s.pxwwta. p-r,z:ea dniem ltadr. wart. 6D Kódeksu karrrego, które 15 czerwca 19i5 r pow,olanego do . . órzec:tono' l'<:cm:'pozbawienfa w razmia-rze po· i ujawni istotne czynu ' OIaz osóby, / wy·żej niK u' albo je'Ż'eti z Iilkalicmo:ści sprawy wy któ:re z nim w p0'pelnrenfu teg'o 'niką-, że naleiafobY 'za nie taką' k.arę afz'ec', Wył'<fc"le nie to nie dotyczy sprawców, którzy w chwili popel 6. W wypadkachokreślonych w usl'.' 3 i 5 w' poslępo niel'l'i>a Iils.ta,tniegQ) ni:-e' tFK:0IU:czyH "'8' la,t; w.aniu ni.e $to.suie t.ymcz!lsowego aresztowania. przes du.rFFgaij·sl,i'm, chyóa Ze sprawca w . chwili .rrre Arf.. 6. W spra.wa.ch. (); w)!'ktucze:nJ.a o' wylu'acz"enia ,18 lat" a ·or-zeczona kara 'pazoawienia lub skarbowe pr-zed dnLem 15 czerwca 1974.r . pp- / qlniue'n·i a nie prreeka:'9''€2a> 6, m.e-s Iu b umarza kary w l.ub.w nie '; \ . s'J!ll'lIlwy w Ila,l{ie wykoll'a'rre oraZ' nre daruie kilii:Y órzec.€ ./ ' llI'irFOWa'ITre' nie d0tyCZy jednak karglJ:z'YWllY f kar pi'e or2!e'czanych w rOZ'm'ra<ne F.OOO rlIDtych . Art. $. 1. Ptzeptst1w. a\l't 1-3 ITie stoS'rrje do pne.- Jako ]{'aTY 'saID'O'i;s'trre, ćl:ll\i' kifr .~Z:YW:lly, bez; W'Z'ględ:u nadel'r \ przed dr:Jiem. 15 cre:r-wca' r., je przeczoIT.ydt a,bok, kaTY: arres:zrJ.tt. " , te:ll spnrwcy i<;h n'ie byli w :dniu p'&wurCl\!il\ym' . . 2.P"rawom0cne oTZeczeni'a' o na wy-konywania pmcy zarobkowej w'tffii.€:nipnym. \ wart. 2f 2: Przepis ust. t nie' ma 1l'st aWcion icr, 3 Kode.ksu o zaplaEy r'Ównowar tym zgFosi' szkody iub mien\a' p'neddnbem:15' E9015 r. dO' cegio' przed!mrO'tem roczeni a', . przywrócenia ścigania przestępstw. i ujawni istotne okolicz»li0'ŚCf,icz,rr:rt;r do stanu poprzednie!1fO, o ' DzIennIk Ustaw Nr 21 ;;;:;: 322 Poz. . mechanicznych or.az o przepadku rzeczy 'Wyko '; 3, W razie od prananiu. . cy 'zarobkowej' wart. ust. 'wart.' 6 ust. 2 i wart. 7, poprzednio wydane orzeczenie zastosowaniu,
 
-- **3)** karę ograniczenia wolności oraz wykonywaną za nią karę zastępczą;
-- **4)** karę grzywny w rozmiarze do 1.000 złotych orzeczoną jako kara samoistna;
-- **5)** karę aresztu wojskowego.
+3. razie umorzenia amnestii ulega uchyleniu stosownie do ust.' l, chyba o'd daty uprawomocnienia tego orzeczenia okres ) orzeka przepadek w'ykroczeniaoraz przed 2 lat. ' , miotów, których posiadanie jest zakazane lub wymaga zezwolenia; 4. Na poczet kary zaliCza okres, przez który sprawca do chwHi iwolni.enijl. orzeC - przepis szczególny tak stano go z aresztil lub karnego na podstawie wi - przepadek innych przedmiotów w amnestii, pozbawiony w danejspiawie. art. 30 w przepisach szczegóJ nych oraz wart. w z att. ustawy 11. 1. slosuJe do rozpoznakamej skarbowej. nia danej sprawy. '
 
-2. W razie darowania kary zasadniczej daruje się kary dodatkowe pozbawienia praw publicznych oraz nie wykonane kary dodatkowe podania wyroku do publicznej wiadomości w szczególny sposób.
-
-3. Podlegają wykonaniu prawomocne orzeczenia o pozbawieniu praw rodzicielskich lub opiekuńczych, zakazie zajmowania określonych stanowisk, wykonywania określonego zawodu lub prowadzenia określonej działalności, zakazie prowadzenia pojazdów mechanicznych, konfiskacie mienia, przepadku rzeczy, degradacji, obniżeniu stopnia wojskowego, nadzorze ochronnym, umieszczeniu w ośrodku przystosowania społecznego, obowiązku wykonywania pracy zarobkowej, w tym także wymienionym w art. 34 § 3 Kodeksu karnego, jak również o nawiązce, powództwie cywilnym i zasądzeniu z urzędu odszkodowania.
-
-4. Przepisy ust. 2 i 3 stosuje się odpowiednio w wypadku, gdy darowanie kary nie następuje z powodu jej wykonania.
-
-**Art. 2.**
-
-1. Postępowanie umarza się w sprawach o popełnione przed dniem 15 czerwca 1974 r.:
-
-- **1)** przestępstwa i przestępstwa skarbowe zagrożone karą pozbawienia wolności do lat 2, karą ograniczenia wolności lub karą grzywny albo karą pozbawienia wolności do lat 2 i karą grzywny lub karą łagodniejszą;
-- **2)** przestępstwa i przestępstwa skarbowe zagrożone karą pozbawienia wolności do lat 3 lub karą grzywny albo obiema tymi karami łącznie, popełnione przez: kobiety, które do dnia wejścia w życie ustawy sprawowały nad dzieckiem w wieku do lat 16 pieczę, do której są obowiązani rodzice, osoby, które do dnia wejścia w życie ustawy ukończyły: kobiety – 50 lat, mężczyźni – 60 lat, osoby, które w chwili popełnienia przestępstwa nie ukończyły 18 lat;
-    - **a)**
-    - **b)**
-    - **c)**
-
-- **3)** przestępstwa i przestępstwa skarbowe, jeżeli z okoliczności sprawy wynika, że należałoby za nie orzec karę, która uległaby darowaniu.
-
-2. W razie umorzenia postępowania:
-
-- **1)** orzeka się przepadek narzędzi przestępstwa oraz przedmiotów, których posiadanie jest zakazane lub wymaga zezwolenia;
-- **2)** można orzec – jeżeli przepis szczególny tak stanowi – przepadek innych przedmiotów określonych w art. 48 Kodeksu karnego, w przepisach szczególnych oraz w art. 16 § 1 ustawy karnej skarbowej.
-
-3. Umarzając postępowanie w sprawie o przestępstwo ścigane z oskarżenia prywatnego zwraca się oskarżycielowi prywatnemu wpłaconą przez niego zryczałtowaną równowartość kosztów postępowania, chyba że w sprawie zapadł już wyrok, chociażby nieprawomocny.
-
-**Art. 3.** W sprawach o przestępstwa oraz o przestępstwa skarbowe popełnione przed dniem 15 czerwca 1974 r., w których orzeczono karę surowszą niż określona w art. 1 ust. 1:
-
-**Art. 4.** Amnestii nie stosuje się:
-
-**Art. 5.**
-
-1. Przepisów art. 1–3 nie stosuje się do przestępstw popełnionych przed dniem 15 czerwca 1974 r., jeżeli sprawcy ich nie byli w dniu wejścia w życie ustawy znani organom powołanym do ścigania przestępstw.
-
-2. Przepis ust. 1 nie ma zastosowania, jeżeli sprawca przestępstwa, o którym mowa w tym przepisie, zgłosi się przed dniem 15 czerwca 1975 r. do organu powołanego do ścigania przestępstw i ujawni istotne okoliczności czynu oraz osoby, które z nim współdziałały w popełnieniu tego przestępstwa.
-
-3. W wypadku, o którym mowa w ust. 2, stosując odpowiednio przepisy ustawy:
-
-- **1)** umarza się postępowanie karne, jeżeli przestępstwo zagrożone jest karą pozbawienia wolności do lat 5, karą pozbawienia wolności do lat 5 i karę grzywny lub karą łagodniejszą;
-- **2)** umarza się postępowanie karne, jeżeli z okoliczności sprawy wynika, że za przestępstwo należałoby orzec karę pozbawienia wolności nie przekraczającą 5 lat;
-- **3)** w razie orzeczenia kary pozbawienia wolności w rozmiarze powyżej lat 5 do lat 15: łagodzi się o połowę karę pozbawienia wolności oraz karę grzywny, jeżeli została obok niej orzeczona, w szczególnie uzasadnionych wypadkach sąd na wniosek prokuratora może nawet sprawcy karę darować; przepis ust. 4 ma wówczas odpowiednie zastosowanie;
-    - **a)**
-    - **b)**
-
-- **4)** nie stosuje się kary śmierci.
-
-4. W razie umorzenia postępowania:
-
-- **1)** orzeka się przepadek narzędzi przestępstwa oraz przedmiotów, których posiadanie jest zakazane lub wymaga zezwolenia,
-- **2)** można orzec – jeżeli przepis szczególny tak stanowi – przepadek innych przedmiotów określonych w art. 48 Kodeksu karnego, w przepisach szczególnych oraz w art. 16 § 1 ustawy karnej skarbowej.
-
-5. Przepisy ust. 3 i 4 stosuje się również do popełnionych przed dniem 15 czerwca 1974 r. przestępstw, które w myśl art. 4 pkt 2–12 nie podlegają amnestii, a także do przestępstw trwałych, jeżeli sprawca zgłosi się przed dniem 15 czerwca 1975 r. do organu powołanego do ścigania przestępstw i ujawni istotne okoliczności czynu oraz osoby, które z nim współdziałały w popełnieniu tego przestępstwa.
-
-6. W wypadkach określonych w ust. 3 i 5 w postępowaniu przygotowawczym nie stosuje się tymczasowego aresztowania.
-
-**Art. 6.**
-
-1. W sprawach o wykroczenia i o wykroczenia skarbowe popełnione przed dniem 15 czerwca 1974 r. postępowanie umarza się; kary w całości lub w części nie wykonane oraz nie ściągnięte koszty postępowania daruje się; darowanie nie dotyczy jednak kar grzywny i kar pieniężnych orzeczonych w rozmiarze powyżej 1.000 złotych jako kary samoistne, ani kar grzywny, bez względu na ich wysokość, orzeczonych obok kary aresztu.
-
-2. Prawomocne orzeczenia o nawiązce, o obowiązku wykonywania pracy zarobkowej wymienionym w art. 21 § 3 Kodeksu wykroczeń, o obowiązku zapłaty równowartości wyrządzonej szkody lub równowartości mienia będącego przedmiotem wykroczenia, o obowiązku przywrócenia do stanu poprzedniego, o zakazie prowadzenia pojazdów mechanicznych oraz o przepadku rzeczy podlegają wykonaniu.
-
-3. W razie umorzenia postępowania:
-
-- **1)** orzeka się przepadek narzędzi wykroczenia oraz przedmiotów, których posiadanie jest zakazane lub wymaga zezwolenia;
-- **2)** można orzec – jeżeli przepis szczególny tak stanowi – przepadek innych przedmiotów określonych w art. 30 Kodeksu wykroczeń, w przepisach szczególnych oraz w art. 16 § 1 w związku z art. 36 ustawy karnej skarbowej.
-
-4. Przepisów ust. 1–3 nie stosuje się do wykroczeń popełnionych przed dniem 15 czerwca 1974 r., jeżeli sprawcy ich nie byli w dniu wejścia w życie ustawy znani organom powołanym do ścigania, chyba że sprawca wykroczenia zgłosi się przed dniem 15 czerwca 1975 r. do organu powołanego do ścigania i ujawni istotne okoliczności czynu oraz osoby, które z nim współdziałały w popełnieniu tego wykroczenia.
+4. Przepisów ust. 1-3' nie 'stosuje dó' 2. 'przygotowawczym' _s to, przed dniem czerwca r.; spraw suje 'prokurato.f, or.zeka, na ,wniosek" proku- , , cy ich nie byli w dniu w znani orga ratora:' ,nom do chyba sprawca wykrocze nia przed dniem czerwca do organu o umorzeniu na podstawie art. .,.2 ,u,st, do i ujawni istotne ciy pkt 3 o.raz art. 5 ust. ,3 pkt 2,; n'u oraz osoby, które z nim w tego wykrocze/nia.· ,2) o przepadku przedmiotów,"o któryc~ znpy.ra ''if art.: 7 ust. 2 pkt 2 oraz w art. 5 ust. 4 pkt',2.
 
 **Art. 7.**
 
-1. Organ stosujący amnestię może zobowiązać osobę, wobec której orzeka darowanie kary lub umorzenie postępowania, do podjęcia – w wyznaczonym terminie, nie dłuższym niż 3 miesiące od daty zastosowania amnestii – stałej pracy zarobkowej.
+1. Organ wobec której darowanie. kary lub umorzenie 3. W sprawach o skarbowe do do - w wyznaczonym terminie, aqministr acyjnych organów oraz nie 3 od daty zastosowania amne w spr'awach o wykroczenia skarbowe - stosuje stii - pracy zarobkowej. ten organ. '
 
-2. Przepis ust. 1 stosuje się również do osób, które w wyniku złagodzenia kary podlegają zwolnieniu z zakładu karnego lub aresztu śledczego.
+2. Przepis ust. stosuje do osób, które 4. W o wykroczenia stosuje kole wyniku kary zwolnieniu z gium do spraw darowanie nie wy karnego lub aresztu konanych grzywien drodze mandatu karne go nie wymaga wydania postanowienia.
 
 **Art. 8.**
 
-1. W razie zbiegu przestępstw podlegających amnestii stosuje się amnestię do każdego ze zbiegających się przestępstw. W razie zbiegu przestępstwa podlegającego amnestii z przestępstwem nie podlegającym amnestii stosuje się amnestię do przestępstwa podlegającego amnestii.
+1. W razie zbiegu 5. amnestii stosuje' do ze W stosunku do osób pozbawie W razie zbiegu nia wojskowego i aresztu, je cego amnestii z nie amnestii nie zachodzi potr,zeba orzeczenia kary - amne stosuje do amne .stosuje wojewódzki, w którego skazany odbywa a w zakresie wojsko s tii. wych - wojskowy; orzeka na posiedzeniu w
 
-2. Po zastosowaniu amnestii w miarę potrzeby orzeka się karę łączną na ogólnych zasadach.
-
-**Art. 9.**
-
-1. Do kar już złagodzonych w drodze amnestii lub łaski stosuje się przepisy ustawy, biorąc za podstawę karę złagodzoną.
-
-2. Jeżeli w drodze amnestii lub łaski złagodzono jedynie karę łączną, uważa się, że kary wymierzone za poszczególne zbiegające się przestępstwa zostały złagodzone do wysokości złagodzonej kary łącznej.
-
-**Art. 10.**
-
-1. Jeżeli sprawca przestępstwa lub przestępstwa skarbowego, który skorzystał z amnestii, popełni w ciągu 2 lat od dnia wejścia w życie niniejszej ustawy nowe umyślne przestępstwo, za które orzeczono karę pozbawienia wolności, poprzednio wydane orzeczenie o zastosowaniu amnestii ulega uchyleniu, kary darowane lub złagodzone podlegają wykonaniu w wysokości, w jakiej były uprzednio orzeczone, zaś postępowanie, które było umorzone, zostaje podjęte na nowo.
-
-2. W szczególnie uzasadnionych wypadkach można odstąpić od zastosowania przepisu ust. 1.
-
-3. W razie uchylania się od wykonania obowiązku pracy zarobkowej określonego w art. 1 ust. 3, w art. 6 ust. 2 i w art. 7, poprzednio wydane orzeczenie o zastosowaniu amnestii ulega uchyleniu stosownie do ust. 1, chyba że od daty uprawomocnienia się tego orzeczenia upłynął okres 2 lat.
-
-4. Na poczet kary pozbawienia wolności zalicza się okres, przez który sprawca był już, do chwili zwolnienia go z aresztu śledczego lub zakładu karnego na podstawie amnestii, pozbawiony wolności w danej sprawie.
-
-**Art. 11.**
-
-1. Amnestię stosuje sąd właściwy do rozpoznania danej sprawy.
-
-2. W postępowaniu przygotowawczym amnestię stosuje prokurator, jednakże sąd orzeka na wniosek prokuratora:
-
-- **1)** o umorzeniu postępowania na podstawie art. 2 ust. 1 pkt 3 oraz art. 5 ust. 3 pkt 2;
-- **2)** o przepadku przedmiotów, o których mowa w art. 2 ust. 2 pkt 2 oraz w art. 5 ust. 4 pkt 2.
-
-3. W sprawach o przestępstwa skarbowe należące do właściwości administracyjnych organów orzekających oraz w sprawach o wykroczenia skarbowe – amnestię stosuje ten organ.
-
-4. W sprawach o wykroczenia amnestię stosuje kolegium do spraw wykroczeń, jednakże darowanie nie wykonanych grzywien nałożonych w drodze mandatu karnego nie wymaga wydania postanowienia.
-
-5. W stosunku do osób odbywających karę pozbawienia wolności, karę aresztu wojskowego i karę aresztu, jeżeli nie zachodzi potrzeba orzeczenia kary łącznej – amnestię stosuje sąd wojewódzki, w którego okręgu skazany odbywa karę, a w zakresie właściwości sądów wojskowych – sąd wojskowy; sąd orzeka na posiedzeniu w składzie jednego sędziego.
+2. Po zastosowaniu amnestii w potrzeby orzeka dzie jednego na ogólnych zasadach.
 
 **Art. 12.**
 
-1. Orzeczenia w przedmiocie amnestii zapadają w formie postanowień, chyba że amnestię zastosowano w wyroku; w sprawach rozpoznawanych na rozprawie o darowaniu lub złagodzeniu kary orzeka się w wyroku.
+1. Orzeczenia w przedmiocie amnestii w formie chyba zastosowano w
 
-2. Na postanowienie w przedmiocie amnestii służy zażalenie. W wypadkach, o których mowa w art. 11 ust. 5, zażalenie rozpoznaje sąd wojewódzki lub sąd wojskowy w składzie trzech sędziów.
+**Art. 9.**
+
+1. Do kar w drodze amnestii wyroku; w 'sprawach rozpoznawanych na rozprawie o da lub stosuje' przepisy ustawy, za rowaniu lub kary orzeka w wyroku.
+
+2. Na postanowienie w przedmiocie amnestii za
+
+2. w drodze amnestii lub jedy wypadkach, o których mowa wart. ust. 5, nie kary wymierzone za po rozpoznaje wojewódzki lub wojskowy szczególne w trzech do kary
 
 **Art. 13.**
 
-1. Oskarżony, podejrzany lub obwiniony, w stosunku do którego umorzono postępowanie na podstawie ustawy, może najdalej w ciągu 30 dni od daty doręczenia mu lub ogłoszenia postanowienia o umorzeniu postępowania złożyć organowi, który wydał postanowienie, wniosek o rozpoznanie sprawy.
+1. podejrzany lub obwiniony, w
 
-2. W razie złożenia wniosku o rozpoznanie sprawy postępowanie toczy się w dalszym ciągu na zasadach ogólnych; jeżeli w wyniku tego postępowania oskarżony lub obwiniony został uznany za winnego popełnienia zarzucanego mu czynu, to gdy czyn ten podlega amnestii, stosuje się amnestię.
+**Art. 10.** Jeżeli sprawca lub stosunku do którego umorzono postępowanie na podstawie stwa skarbowego, który z amnestii, ustawy, najdalej w 30 dni.od daty w 2 lat od dnia w niniejszej ustawy mu lub postanowienia o umorzeniu' ' nowe za które orzeczono po nia organowi, który postanowienie, wniosek zbawienia poprzednio wydane orzeczenie o za o rozpoznanie sprawy. stosowaniu amnestii ulega uchyleniu, kary darowane lub wykonaniu w w jakiej 2. W razie wniosku o rozpoznanie sprawy po uprzednio orzeczone, które toczy w dalszym na zasadach ogól umorzone, zostaje na nowo. , nych; w wyniku tego lub obwiniony uznany za winnego zarzuca 2. W szczególnie uzasadnionych wypadkach od nego mu czynu, to gdy czyn ten podlega amnestii, od zastosowa..J:lia przepisu ust. l. • Dziennik Ustaw Nr 27 323 Poz. 1-59 Przepisów ust. l i 2 nie stosuje się w wypadku 1) pozbawienia aresztu umórzenia na rozprawie po prze wojskowego oraz aresztu: . wcidu a) kobiety, które do uniCI wej5cia w IIstawy nad dzieckiem w wieku do lat 16 pie
 
-3. Przepisów ust. 1 i 2 nie stosuje się w wypadku umorzenia postępowania na rozprawie po zamknięciu przewodu sądowego.
+**Art. 14.** W wypQdkach, o których mowa wart.. 10, do której rodzice, orzeka organ do rozpoznania w której b) osoby. które do dnia w USlilWy na podstawie amnestii darowano a umorzono kobiety - 50 lat, -60 la.t, ppstęp9 w imie, o'rgu,n, ktÓrY je umorZył. ,
 
-**Art. 14.**
+- **c)** osoby, które w chwili nie
 
-1. W wypadkach, o których mowa w art. 10, orzeka organ właściwy do rozpoznania sprawy, w której na podstawie amnestii darowano karę, a jeśli umorzono postępowanie, organ, który je umorzył.
+2. orzeka na posiedzeniu, za 18 lat, stosowano w wyroku.
 
-2. Sąd orzeka na posiedzeniu, chociażby amnestię zastosowano w wyroku.
+- **2)** osoby tymczasowo 3ne. 3'.' Na postanowienie
 
-3. Na postanowienie służy zażalenie.
+2. Inne osoby wymienione w liSt. l nieniu organ amne Art.· 15. w sprawach amne3tii prowadzi stosownie do kary i warunków przystoso zgodnie z przepisami w, wania do na osoby zwalnianej, w przed organem, który je prowadzi, przepis niniejszej razie nie do. dnia 31 sierpnia 1974 r. ustawy inaczej nie stanowi.
 
-**Art. 15.** Postępowanie w sprawach amnestii prowadzi się zgodnie z przepisami obowiązującymi w postępowaniu przed organem, który je prowadzi, jeżeli przepis niniejszej ustawy inaczej nie stanowi.
+**Art. 17.** Ustawa wchodzi w z dniem 22 lipca
 
 **Art. 16.**
 
-1. Przy zwalnianiu z zakładów karnych i aresztów śledczych na podstawie amnestii w pierwszej kolejności podlegają zwolnieniu:
+1. Przy zwalnianiU z karnych 1974 r. aresztów na podstawie amnestii w pierwszej Rady H. zwolnieniu: Sekretarz Rady L. • ...•. z I. Zam. 1340. Cena 2.00 zł
 
-- **1)** odbywające karę pozbawienia wolności, karę aresztu wojskowego oraz karę aresztu: kobiety, które do dnia wejścia w życie ustawy sprawowały nad dzieckiem w wieku do lat 16 pieczę, do której obowiązani są rodzice, osoby, które do dnia wejścia w życie ustawy ukończyły: kobiety – 50 lat, mężczyźni – 60 lat, osoby, które w chwili popełnienia przestępstwa nie ukończyły 18 lat,
-    - **a)**
-    - **b)**
-    - **c)**
-
-- **2)** osoby tymczasowo aresztowane.
-
-2. Inne osoby niż wymienione w ust. 1 podlegają zwolnieniu w kolejności, którą określa organ stosujący amnestię stosownie do wysokości kary i warunków przystosowania do życia na wolności osoby zwalnianej, w każdym razie nie później niż do dnia 31 sierpnia 1974 r.
-
-**Art. 17.** Ustawa wchodzi w życie z dniem 22 lipca 1974 r.
 

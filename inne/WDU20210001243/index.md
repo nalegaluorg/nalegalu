@@ -30,73 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11 i 1177) wprowadza się następujące zmiany:
 
 - **1)** w art. 1 po wyrazie „mieszkalnych” dodaje się przecinek oraz wyrazy „zasady działania społecznych agencji najmu”;
-- **2)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „Rozdział 3a Społeczne agencje najmu
-
-**Art. 22a.**
-
-1. Społeczną agencją najmu jest podmiot prowadzący, w celu tworzenia warunków do zaspokajania potrzeb mieszkaniowych wspólnoty samorządowej, działalność polegającą na dzierżawie lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych od ich właścicieli oraz wynajmowaniu tych lokali lub tych budynków osobom fizycznym wskazanym przez gminę na zasadach określonych w niniejszym rozdziale.
-
-2. Społeczna agencja najmu, zwana dalej „SAN”, może działać w formie:
-
-- **1)** spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej, w których gmina lub gminy dysponują odpowiednio ponad 50% głosów na zgromadzeniu wspólników lub na walnym zgromadzeniu;
-- **2)** fundacji;
-- **3)** stowarzyszenia;
-- **4)** spółdzielni socjalnej.
-
-3. Dochody z działalności, o której mowa w ust. 1, SAN przeznacza w całości na tę działalność.
-
-**Art. 22b.**
-
-1. Warunkiem prowadzenia przez SAN działalności, o której mowa w art. 22a ust. 1, na terenie gminy jest zawarcie przez tę gminę umowy z SAN, zwanej dalej „umową o współpracy”, określającej co najmniej:
-
-- **1)** liczbę lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych przeznaczonych do wynajęcia przez SAN osobom fizycznym wskazanym przez gminę, w tym liczbę tych lokali lub tych budynków przeznaczonych do wynajęcia osobom o specjalnych potrzebach mieszkaniowych, w szczególności osobom niepełnosprawnym lub osobom wychowującym co najmniej troje dzieci;
-- **2)** zasady współfinansowania przez gminę działalności, o której mowa w art. 22a ust. 1;
-- **3)** zasady sprawozdawczości, z uwzględnieniem obowiązków gminy, o których mowa w art. 22h;
-- **4)** zasady podziału odpowiedzialności za nieuregulowane należności czynszowe najemcy względem SAN w przypadku zakończenia stosunku najmu.
-
-2. Umowa o współpracy jest zawierana na okres 5 lat.
-
-3. Umowa o współpracy zawarta z SAN działającą w formie, o której mowa w art. 22a ust. 2 pkt 1, może zostać przedłużona na okres kolejnych 5 lat na wniosek SAN złożony w ostatnim roku obowiązywania umowy o współpracy. Przedłużenie to można ponawiać na zasadach wskazanych w zdaniu pierwszym.
-
-4. W przypadku wygaśnięcia umowy o współpracy zawartej z SAN działającą w formie, o której mowa w art. 22a ust. 2 pkt 2–4, SAN może ubiegać się o zawarcie kolejnej umowy o współpracy z tą samą gminą w trybie określonym w dziale II rozdziale 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2020 r. poz. 1057 oraz z 2021 r. poz. 1038 i 1243).
-
-5. Wypowiedzenie umowy o współpracy następuje z zachowaniem co najmniej rocznego okresu wypowiedzenia.
-
-6. Umowa o współpracy z SAN działającą w formie, o której mowa w art. 22a ust. 2 pkt 2–4, jest zawierana w trybie określonym w dziale II rozdziale 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie jako umowa o wsparcie realizacji zadania publicznego lub jako umowa o powierzenie realizacji zadania publicznego.
-
-**Art. 22c.**
-
-1. Umowę dzierżawy pomiędzy właścicielem lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego a SAN, zwaną dalej „umową dzierżawy”, zawiera się na czas oznaczony.
-
-2. Umowa dzierżawy ulega rozwiązaniu najpóźniej z dniem zakończenia umowy o współpracy.
-
-3. W przypadku wypowiedzenia umowy o współpracy SAN wypowiada umowę dzierżawy.
-
-4. Wypowiedzenie umowy dzierżawy następuje, z uwzględnieniem ust. 2, z zachowaniem co najmniej:
-
-- **1)** sześciomiesięcznego okresu wypowiedzenia – w przypadku gdy umowę dzierżawy wypowiada SAN;
-- **2)** rocznego okresu wypowiedzenia – w przypadku gdy umowę dzierżawy wypowiada właściciel lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego.
-
-5. Wypowiedzenie umowy dzierżawy wymaga formy pisemnej pod rygorem nieważności.
-
-6. Do umowy dzierżawy dołącza się oświadczenie właściciela lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego, że znane są mu zasady dotyczące stosowania przepisów o pomocy publicznej, w tym wymogi spełnienia warunków udzielenia pomocy de minimis, określone w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1) oraz obowiązki wynikające z art. 37 ust. 1 oraz 5a ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743), powstające w związku ze wsparciem udzielonym w wyniku zawarcia umowy dzierżawy na podstawie:
-
-- **1)** art. 21 ust. 1 pkt 131a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, 1163 i 1243);
-- **2)** art. 17 ust. 1 pkt 61 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm. );
-- **3)** art. 10 ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2020 r. poz. 1905, 2123 i 2320 oraz z 2021 r. poz. 255, 1163 i 1243);
-- **4)** art. 43 ust. 1 pkt 36 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, 694, 802, 1163 i 1243).
-
-**Art. 22d.**
-
-1. W umowie dzierżawy SAN może zobowiązać się do przeprowadzania remontów dzierżawionego lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego.
-
-2. Remont dzierżawionego lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego może być przeprowadzony przez SAN w zamian za obniżenie albo czasowe zaniechanie poboru czynszu dzierżawy.
-
-**Art. 22e.**
-
-1. Rada gminy określa, w drodze uchwały stanowiącej akt prawa miejscowego:
-
-- **1)** kryteria uprawniające osobę fizyczną do zawarcia z SAN umowy najmu lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego, zwanej dalej „umową najmu”;
+- **2)** po rozdziale 3 dodaje się rozdział 3a w brzmieniu: „Rozdział 3a Społeczne agencje najmu Art. 22a. 1. Społeczną agencją najmu jest podmiot prowadzący, w celu tworzenia warunków do zaspokajania potrzeb mieszkaniowych wspólnoty samorządowej, działalność polegającą na dzierżawie lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych od ich właścicieli oraz wynajmowaniu tych lokali lub tych budynków osobom fizycznym wskazanym przez gminę na zasadach określonych w niniejszym rozdziale. 2. Społeczna agencja najmu, zwana dalej „SAN”, może działać w formie: 1) spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej, w których gmina lub gminy dysponują odpowiednio ponad 50% głosów na zgromadzeniu wspólników lub na walnym zgromadzeniu; 2) fundacji; 3) stowarzyszenia; 4) spółdzielni socjalnej. 3. Dochody z działalności, o której mowa w ust. 1, SAN przeznacza w całości na tę działalność. Art. 22b. 1. Warunkiem prowadzenia przez SAN działalności, o której mowa w art. 22a ust. 1, na terenie gminy jest zawarcie przez tę gminę umowy z SAN, zwanej dalej „umową o współpracy”, określającej co najmniej: 1) liczbę lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych przeznaczonych do wynajęcia przez SAN osobom fizycznym wskazanym przez gminę, w tym liczbę tych lokali lub tych budynków przeznaczonych do wynajęcia osobom o specjalnych potrzebach mieszkaniowych, w szczególności osobom niepełnosprawnym lub osobom wychowującym co najmniej troje dzieci; 2) zasady współfinansowania przez gminę działalności, o której mowa w art. 22a ust. 1; 3) zasady sprawozdawczości, z uwzględnieniem obowiązków gminy, o których mowa w art. 22h; 4) zasady podziału odpowiedzialności za nieuregulowane należności czynszowe najemcy względem SAN w przypadku zakończenia stosunku najmu. 2. Umowa o współpracy jest zawierana na okres 5 lat. 3. Umowa o współpracy zawarta z SAN działającą w formie, o której mowa w art. 22a ust. 2 pkt 1, może zostać przedłużona na okres kolejnych 5 lat na wniosek SAN złożony w ostatnim roku obowiązywania umowy o współpracy. Przedłużenie to można ponawiać na zasadach wskazanych w zdaniu pierwszym. 4. W przypadku wygaśnięcia umowy o współpracy zawartej z SAN działającą w formie, o której mowa w art. 22a ust. 2 pkt 2–4, SAN może ubiegać się o zawarcie kolejnej umowy o współpracy z tą samą gminą w trybie określonym w dziale II rozdziale 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2020 r. poz. 1057 oraz z 2021 r. poz. 1038 i 1243). 5. Wypowiedzenie umowy o współpracy następuje z zachowaniem co najmniej rocznego okresu wypowiedzenia. 6. Umowa o współpracy z SAN działającą w formie, o której mowa w art. 22a ust. 2 pkt 2–4, jest zawierana w trybie określonym w dziale II rozdziale 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie jako umowa o wsparcie realizacji zadania publicznego lub jako umowa o powierzenie realizacji zadania publicznego. Art. 22c. 1. Umowę dzierżawy pomiędzy właścicielem lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego a SAN, zwaną dalej „umową dzierżawy”, zawiera się na czas oznaczony. 2. Umowa dzierżawy ulega rozwiązaniu najpóźniej z dniem zakończenia umowy o współpracy. 3. W przypadku wypowiedzenia umowy o współpracy SAN wypowiada umowę dzierżawy. 4. Wypowiedzenie umowy dzierżawy następuje, z uwzględnieniem ust. 2, z zachowaniem co najmniej: 1) sześciomiesięcznego okresu wypowiedzenia – w przypadku gdy umowę dzierżawy wypowiada SAN; 2) rocznego okresu wypowiedzenia – w przypadku gdy umowę dzierżawy wypowiada właściciel lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego. 5. Wypowiedzenie umowy dzierżawy wymaga formy pisemnej pod rygorem nieważności. 6. Do umowy dzierżawy dołącza się oświadczenie właściciela lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego, że znane są mu zasady dotyczące stosowania przepisów o pomocy publicznej, w tym wymogi spełnienia warunków udzielenia pomocy de minimis, określone w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 352 z 24.12.2013, str. 1) oraz obowiązki wynikające z art. 37 ust. 1 oraz 5a ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2021 r. poz. 743), powstające w związku ze wsparciem udzielonym w wyniku zawarcia umowy dzierżawy na podstawie: 1) art. 21 ust. 1 pkt 131a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, 1163 i 1243); 2) art. 17 ust. 1 pkt 61 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm. ); 3) art. 10 ustawy z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2020 r. poz. 1905, 2123 i 2320 oraz z 2021 r. poz. 255, 1163 i 1243); 4) art. 43 ust. 1 pkt 36 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, 694, 802, 1163 i 1243). Art. 22d. 1. W umowie dzierżawy SAN może zobowiązać się do przeprowadzania remontów dzierżawionego lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego. 2. Remont dzierżawionego lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego może być przeprowadzony przez SAN w zamian za obniżenie albo czasowe zaniechanie poboru czynszu dzierżawy. Art. 22e. 1. Rada gminy określa, w drodze uchwały stanowiącej akt prawa miejscowego: 1) kryteria uprawniające osobę fizyczną do zawarcia z SAN umowy najmu lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego, zwanej dalej „umową najmu”;
 - **2)** zasady ubiegania się osób fizycznych o zawarcie umowy najmu;
 - **3)** kryteria, których spełnienie uprawnia dotychczasowego najemcę do zawarcia nowej umowy najmu;
 - **4)** sposób weryfikacji spełnienia kryteriów, o których mowa w pkt 1 i 3.
@@ -168,20 +102,17 @@ source: pdf
 
 **Art. 10.** W ustawie z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania (Dz. U. z 2020 r. poz. 551 oraz z 2021 r. poz. 11 i 223) wprowadza się następujące zmiany:
 
-- **1)** art. 7b otrzymuje brzmienie: „Art. 7b. Warunków, o których mowa w art. 6 ust. 1 pkt 2 i art. 7, nie stosuje się do najemców:
-- **1)** lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych wniesionych jako wkład niepieniężny do spółki zgodnie z art. 12 ust. 1 ustawy z dnia 16 grudnia 2020 r. o rozliczaniu ceny lokali lub budynków w cenie nieruchomości zbywanych z gminnego zasobu nieruchomości (Dz. U. z 2021 r. poz. 223), zwanej dalej „ustawą „lokal za grunt” ”;
+- **1)** art. 7b otrzymuje brzmienie: „Art. 7b. Warunków, o których mowa w art. 6 ust. 1 pkt 2 i art. 7, nie stosuje się do najemców: 1) lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych wniesionych jako wkład niepieniężny do spółki zgodnie z art. 12 ust. 1 ustawy z dnia 16 grudnia 2020 r. o rozliczaniu ceny lokali lub budynków w cenie nieruchomości zbywanych z gminnego zasobu nieruchomości (Dz. U. z 2021 r. poz. 223), zwanej dalej „ustawą „lokal za grunt” ”;
 - **2)** lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych wynajmowanych przez społeczną agencję najmu, o której mowa w art. 22a ust. 1 ustawy z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego, zwaną dalej „SAN”.”;
 - **2)** w art. 8 w ust. 2 w pkt 1 wyrazy „umowy najmu” zastępuje się wyrazami „umowy najmu mieszkania albo podnajmu mieszkania”;
 - **3)** w art. 9:
     - **a)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. W przypadku lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych wynajmowanych przez SAN okres, o którym mowa w ust. 1, liczy się od miesiąca, w którym została zawarta pierwsza umowa dzierżawy pomiędzy właścicielem lokalu mieszkalnego lub budynku mieszkalnego jednorodzinnego a SAN.”,
-    - **b)** w ust. 3 pkt 2 i 3 otrzymują brzmienie: „2) rozwiązania lub wygaśnięcia umowy najmu mieszkania albo podnajmu mieszkania w okresie stosowania dopłat, w tym z powodu zamiany mieszkania na inne i zawarcia nowej umowy najmu mieszkania albo podnajmu mieszkania,
+    - **b)** w ust. 3 pkt 2 i 3 otrzymują brzmienie: „2) rozwiązania lub wygaśnięcia umowy najmu mieszkania albo podnajmu mieszkania w okresie stosowania dopłat, w tym z powodu zamiany mieszkania na inne i zawarcia nowej umowy najmu mieszkania albo podnajmu mieszkania, 3) krótszego niż 15 lat okresu stosowania dopłat z uwagi na warunek, o którym mowa w ust. 1–1b, w tym w przypadku kolejnego najemcy mieszkania”;
 
-- **3)** krótszego niż 15 lat okresu stosowania dopłat z uwagi na warunek, o którym mowa w ust. 1–1b, w tym w przypadku kolejnego najemcy mieszkania”;
 - **4)** w art. 12 w ust. 2a wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadku lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych wniesionych jako wkład niepieniężny do spółki zgodnie z art. 12 ust. 1 ustawy „lokal za grunt” lub lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych wynajmowanych przez SAN we wniosku, o którym mowa w ust. 1, określa się:”;
 - **5)** w art. 13 w ust. 1a wyrazy „art. 13 ust. 1 pkt 2 lit. b” zastępuje się wyrazami „art. 13 ust. 1 pkt 3 lit. c”;
 - **6)** w art. 15 w ust. 11 oraz w art. 18 w ust. 1 wyrazy „najmu mieszkania” zastępuje się wyrazami „najmu mieszkania albo podnajmu mieszkania”;
-- **7)** w art. 24 ust. 2 otrzymuje brzmienie: „2. W przypadkach, o których mowa w art. 4 ust. 5 i 6, art. 15 ust. 4 i 8–10, art. 16 ust. 5 i 11, art. 17 ust. 2 oraz art. 19 ust. 5, przez inwestora rozumie się również:
-- **1)** wynajmującego lokale mieszkalne lub budynki mieszkalne jednorodzinne wniesione jako wkład niepieniężny do spółki zgodnie z art. 12 ust. 1 ustawy „lokal za grunt”;
+- **7)** w art. 24 ust. 2 otrzymuje brzmienie: „2. W przypadkach, o których mowa w art. 4 ust. 5 i 6, art. 15 ust. 4 i 8–10, art. 16 ust. 5 i 11, art. 17 ust. 2 oraz art. 19 ust. 5, przez inwestora rozumie się również: 1) wynajmującego lokale mieszkalne lub budynki mieszkalne jednorodzinne wniesione jako wkład niepieniężny do spółki zgodnie z art. 12 ust. 1 ustawy „lokal za grunt”;
 - **2)** SAN.”.
 
 **Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

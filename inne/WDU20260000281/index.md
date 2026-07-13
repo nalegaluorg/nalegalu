@@ -27,13 +27,17 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000281) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/281/text.pdf) |
 
 w sprawie wysokości opłat za wydanie opinii dotyczących wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej i za przeprowadzenie badań egzemplarza tego wyrobu Na podstawie art. 25h ust. 13 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2024 r. poz. 12 oraz z 2025 r. poz. 1795) zarządza się, co następuje:
-§ 1. Wysokość opłaty za wydanie opinii o:
-1) wyrobie do diagnostyki in vitro stosowanym w medycynie weterynaryjnej, który ma być wprowadzony do obrotu,
-2) przedłużeniu ważności wpisu wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej do wykazu wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej,
-3) zmianie parametrów wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej – wynosi 50 % minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu.
-§ 2. Wysokość opłaty za przeprowadzenie badań egzemplarza wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej, który służy do wykrycia:
-1) jednego czynnika – wynosi równowartość minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu;
-2) więcej niż jednego czynnika – stanowi iloczyn równowartości minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu i liczby czynników, do wykrywania których służy wyrób do diagnostyki in vitro stosowany w medycynie weterynaryjnej, jednak niewięcej niż siedmiokrotność tego minimalnego wynagrodzenia.
-§ 3. Rozporządzenie wchodzi w życie z dniem 18 marca 2026 r.
-Minister Rolnictwa i Rozwoju Wsi: wz. M. Gromadzka
+
+**§ 1.** Wysokość opłaty za wydanie opinii o:
+
+- **1)** wyrobie do diagnostyki in vitro stosowanym w medycynie weterynaryjnej, który ma być wprowadzony do obrotu,
+- **2)** przedłużeniu ważności wpisu wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej do wykazu wyrobów do diagnostyki in vitro stosowanych w medycynie weterynaryjnej,
+- **3)** zmianie parametrów wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej – wynosi 50 % minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu.
+
+**§ 2.** Wysokość opłaty za przeprowadzenie badań egzemplarza wyrobu do diagnostyki in vitro stosowanego w medycynie weterynaryjnej, który służy do wykrycia:
+
+- **1)** jednego czynnika – wynosi równowartość minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu;
+- **2)** więcej niż jednego czynnika – stanowi iloczyn równowartości minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu i liczby czynników, do wykrywania których służy wyrób do diagnostyki in vitro stosowany w medycynie weterynaryjnej, jednak niewięcej niż siedmiokrotność tego minimalnego wynagrodzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem 18 marca 2026 r. Minister Rolnictwa i Rozwoju Wsi: wz. M. Gromadzka
 

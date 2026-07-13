@@ -26,10 +26,16 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000286) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/286/text.pdf) |
 
 w sprawie znaku graficznego Służby Ochrony Państwa Na podstawie art. 2 ust. 3 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138) zarządza się, co następuje:
-§ 1. 1. Ustala się znak graficzny Służby Ochrony Państwa, zwany dalej „znakiem”.
+
+**§ 1.**
+
+1. Ustala się znak graficzny Służby Ochrony Państwa, zwany dalej „znakiem”.
+
 2. Znak stanowi skrót „SOP” ze stylizowaną literą „P”, w której górną część jest wpisany uproszczony wizerunek głowy orła. Znak posiada barwę granatową, a stosunek szerokości do długości znaku wynosi 1:1,5.
+
 3. Znak może być używany w różnych rozmiarach, z zachowaniem proporcji.
+
 4. Wzór znaku, o którym mowa w ust. 2, jest określony w załączniku do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 lutego 2018 r.
-Minister Spraw Wewnętrznych i Administracji: J. Brudziński Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 30 stycznia 2018 r. (poz. …) WZÓR ZNAKU GRAFICZNEGO „SŁUŻBY OCHRONY PAŃSTWA" WZÓR ZNAKU GRAFICZNEGO „SŁUŻBY OCHRONY PAŃSTWA”
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 lutego 2018 r. Minister Spraw Wewnętrznych i Administracji: J. Brudziński Załącznik do rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 30 stycznia 2018 r. (poz. …) WZÓR ZNAKU GRAFICZNEGO „SŁUŻBY OCHRONY PAŃSTWA" WZÓR ZNAKU GRAFICZNEGO „SŁUŻBY OCHRONY PAŃSTWA”
 

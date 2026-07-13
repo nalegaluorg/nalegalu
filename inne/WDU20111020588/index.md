@@ -34,44 +34,31 @@ source: pdf
 - **3)** w art. 17 § 2 otrzymuje brzmienie: „§ 2. Przepis § 1 stosuje się odpowiednio, jeżeli właściwy organ nie dokonał podziału gminy, powiatu lub województwa na okręgi wyborcze w terminie lub w sposób zgodny z prawem.”;
 - **4)** w art. 40 w § 3 zdanie drugie otrzymuje brzmienie: „Wielkość i rodzaj czcionek oraz wielkość kratek przeznaczonych na postawienie znaku „x” powinny być jednakowe dla oznaczeń wszystkich list i nazwisk kandydatów.”;
 - **5)** art. 41 otrzymuje brzmienie: „Art. 41. Dopisanie na karcie do głosowania dodatkowych numerów list i nazw lub nazwisk albo poczynienie innych dopisków poza kratką nie wpływa na ważność oddanego na niej głosu.”;
-- **6)** art. 45 otrzymuje brzmienie: „Art. 45. § 1. W siedzibach obwodowych komisji wyborczych, o których mowa w art. 14 § 2 zdanie drugie, stosuje się drugą urnę wyborczą.
-
-§ 2. Druga urna wyborcza, o której mowa w § 1, przeznaczona jest wyłącznie do wrzucania kopert na kartę do głosowania, o których mowa w art. 65 § 1 pkt 3.”;
-
+- **6)** art. 45 otrzymuje brzmienie: „Art. 45. § 1. W siedzibach obwodowych komisji wyborczych, o których mowa w art. 14 § 2 zdanie drugie, stosuje się drugą urnę wyborczą. § 2. Druga urna wyborcza, o której mowa w § 1, przeznaczona jest wyłącznie do wrzucania kopert na kartę do głosowania, o których mowa w art. 65 § 1 pkt 3.”;
 - **7)** w art. 48 uchyla się § 1;
 - **8)** w art. 52 w § 3 zdanie trzecie otrzymuje brzmienie: „Jeżeli w spisie wyborców jest zaznaczone, że do wyborcy został wysłany pakiet wyborczy, o którym mowa w art. 65 § 1, przepis art. 66b stosuje się .”;
 - **9)** w art. 62 zdanie pierwsze otrzymuje brzmienie : „Wyborca, o którym mowa w art. 35 § 1, może głosować korespondencyjnie.”;
 - **10)** w art. 63 po § 2 dodaje się § 2a w brzmieniu: „§ 2a. Na podstawie zgłoszenia , o którym mowa w § 2, konsul wpisuje wyborcę do spisu wyborców właściwego dla obwodowej komisji wyborczej, o której mowa w art. 14 § 2 zdanie drugie. W takim przypadku przepisu art. 35 § 2 nie stosuje się.”;
 - **11)** po art. 65 dodaje się art. 65a w brzmieniu: „Art. 65a. W przypadku, o którym mowa w art. 64, konsul wysyła do wyborcy odrębne pakiety wyborcze właściwe dla danych wyborów.”;
 - **12)** w art. 66 :
-    - **a)** § 2 i 3 otrzymują brzmienie: „§ 2. Konsul przekazuje właściwej obwodowej komisji wyborczej koperty zwrotne, które otrzymał do czasu zakończenia głosowania.
+    - **a)** § 2 i 3 otrzymują brzmienie: „§ 2. Konsul przekazuje właściwej obwodowej komisji wyborczej koperty zwrotne, które otrzymał do czasu zakończenia głosowania. § 3. Koperty na kartę do głosowania wyjęte z kopert zwrotnych przekazanych przez konsula są wrzucane do urny wyborczej, o której mowa w art. 45.”,
+    - **b)** uchyla się § 4;
 
-§ 3. Koperty na kartę do głosowania wyjęte z kopert zwrotnych przekazanych przez konsula są wrzucane do urny wyborczej, o której mowa w art. 45.”,
-
-- **b)** uchyla się § 4;
-- **13)** po art. 66 dodaje się art. 66a i art. 66b w brzmieniu: „Art. 66a. Koperty zwrotne, które konsul otrzymał po upływie terminu, o którym mowa w art. 66 § 2, a także pakiety wyborcze niedostarczone wyborcy na wskazany przez niego adres pozostają w depozycie konsula do czasu stwierdzenia ważności wyborów przez Sąd Najwyższy.
-
-**Art. 66b.** Wyborca, do którego został wysłany pakiet wyborczy może do czasu zakończenia głosowania osobiście dostarczyć kopertę zwrotną do właściwej obwodowej komisji wyborczej. Przepis art. 66 § 3 stosuje się.”;
-
+- **13)** po art. 66 dodaje się art. 66a i art. 66b w brzmieniu: „Art. 66a. Koperty zwrotne, które konsul otrzymał po upływie terminu, o którym mowa w art. 66 § 2, a także pakiety wyborcze niedostarczone wyborcy na wskazany przez niego adres pozostają w depozycie konsula do czasu stwierdzenia ważności wyborów przez Sąd Najwyższy. Art. 66b. Wyborca, do którego został wysłany pakiet wyborczy może do czasu zakończenia głosowania osobiście dostarczyć kopertę zwrotną do właściwej obwodowej komisji wyborczej. Przepis art. 66 § 3 stosuje się.”;
 - **14)** w art. 68 pkt 4 otrzymuje brzmienie: „4) sposób postępowania z kopertami zwrotnymi i pakietami wyborczymi, o których mowa w art. 66a”;
 - **15)** w art. 72 uchyla się § 4;
 - **16)** w art. 79 § 2 otrzymuje brzmienie: „§ 2. Dokumenty, o których mowa w § 1, są udostępniane właściwemu sądowi w związku z postępowaniami w sprawach protestów wyborczych oraz na żądanie sądów, prokuratury lub Policji, prowadzących postępowanie karne.”;
 - **17)** w art. 111 po § 5 dodaje się § 5a w brzmieniu: „§ 5a. Do sprostowania, odpowiedzi lub przeprosin publikowanych w programach nadawców radiowych lub telewizyjnych stosuje się przepisy ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji dotyczące działalności reklamowej w programach telewizyjnych i radiowych, z tym że czas przeznaczony na ich publikację nie jest wliczany do dopuszczalnego wymiaru czasu emisji reklam określonego w art. 16 tej ustawy.”;
 - **18)** w art. 112 zdanie pierwsze otrzymuje brzmienie: „Informacje, komunikaty, apele i hasła wyborcze, ogłaszane w prasie drukowanej na koszt komitetów wyborczych muszą zawierać wskazanie, przez kogo są opłacane i od kogo pochodzą.”;
-- **19)** w art. 117 § 6 otrzymuje brzmienie: „§ 6. Krajowa Rada Radiofonii i Telewizji po zasięgnięciu opinii Państwowej Komisji Wyborczej oraz właściwych zarządów publicznych nadawców radiowych i telewizyjnych oraz właściwych rad programowych, określi, w drodze rozporządzenia:
-- **1)** czas przeznaczony na rozpowszechnianie nieodpłatnie audycji wyborczych w każdym z programów ogólnokrajowych i programów regionalnych,
-- **2)** ramowy podział czasu rozpowszechniania nieodpłatnie audycji wyborczych w okresie od 15 dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej,
-- **3)** tryb postępowania w sprawach podziału czasu rozpowszechniania nieodpłatnie audycji wyborczych,
-- **4)** zakres rejestracji oraz sposób przygotowania i emisji audycji wyborczych, uwzględniając typ i rodzaj nośnika zapisu audycji wyborczej,
-- **5)** sposób rozpowszechniania informacji o terminach emisji audycji wyborczych – mając na względzie rodzaj przeprowadzanych wyborów oraz konieczność zapewnienia najwyższego standardu technicznego emitowanych audycji wyborczych, a także powszechnej dostępności audycji wyborczych i informacji o terminach ich emisji.”;
+- **19)** w art. 117 § 6 otrzymuje brzmienie: „§ 6. Krajowa Rada Radiofonii i Telewizji po zasięgnięciu opinii Państwowej Komisji Wyborczej oraz właściwych zarządów publicznych nadawców radiowych i telewizyjnych oraz właściwych rad programowych, określi, w drodze rozporządzenia: 1) czas przeznaczony na rozpowszechnianie nieodpłatnie audycji wyborczych w każdym z programów ogólnokrajowych i programów regionalnych, 2) ramowy podział czasu rozpowszechniania nieodpłatnie audycji wyborczych w okresie od 15 dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej, 3) tryb postępowania w sprawach podziału czasu rozpowszechniania nieodpłatnie audycji wyborczych, 4) zakres rejestracji oraz sposób przygotowania i emisji audycji wyborczych, uwzględniając typ i rodzaj nośnika zapisu audycji wyborczej, 5) sposób rozpowszechniania informacji o terminach emisji audycji wyborczych – mając na względzie rodzaj przeprowadzanych wyborów oraz konieczność zapewnienia najwyższego standardu technicznego emitowanych audycji wyborczych, a także powszechnej dostępności audycji wyborczych i informacji o terminach ich emisji.”;
 - **20)** uchyla się art. 137;
 - **21)** w art. 142 dodaje się § 7 w brzmieniu: „§ 7. Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Państwowej Komisji Wyborczej, określi, w drodze rozporządzenia, wzór sprawozdania finansowego oraz szczegółowy zakres zawartych w nim informacji, a także wykaz rodzajów dokumentów, jakie należy załączyć do sprawozdania, tak aby umożliwiały weryfikację podanych w sprawozdaniu informacji.”;
 - **22)** w art. 154 po § 3 dodaje się § 3a w brzmieniu: „§ 3a. Przepis § 1 pkt 1 stosuje się odpowiednio do członków Państwowej Komisji Wyborczej oraz komisarzy wyborczych.”;
 - **23)** w art. 195 w § 2 pkt 1 lit. d otrzymuje brzmienie: „d) w art. 210 § 3 oraz art. 211 § 1 – do 25 dnia przed dniem wyborów;”;
 - **24)** w art. 252 uchyla się § 3;
-- **25)** w art. 261: 195 § 1, informację o okręgu wyborczym podaje się do wiadomości wyborcom najpóźniej w 40 dniu przed dniem wyborów.”;
+- **25)** w art. 261:
     - **a)** w § 4 zdanie pierwsze otrzymuje brzmienie: „Informację o okręgu wyborczym podaje się do wiadomości wyborcom danego okręgu wyborczego w formie obwieszczenia Państwowej Komisji Wyborczej najpóźniej w 52 dniu przed dniem wyborów, z zastrzeżeniem § 4a.”,
-    - **b)** po § 4 dodaje się § 4a w brzmieniu: „§ 4a. W przypadku przeprowadzania wyborów, o których mowa w art.
+    - **b)** po § 4 dodaje się § 4a w brzmieniu: „§ 4a. W przypadku przeprowadzania wyborów, o których mowa w art. 195 § 1, informację o okręgu wyborczym podaje się do wiadomości wyborcom najpóźniej w 40 dniu przed dniem wyborów.”;
 
 - **26)** w art. 326 w § 5 zdanie pierwsze otrzymuje brzmienie: „W przypadku zarządzenia ponownego głosowania, o którym mowa w art. 292, w okresie od 9 dnia przed dniem głosowania do dnia zakończenia kampanii wyborczej przed dniem ponownego głosowania Telewizja Polska i Polskie Radio rozpowszechniają nieodpłatnie audycje wyborcze przygotowywane przez komitety obu kandydatów, z tym że łączny czas wynosi 6 godzin w Telewizji Polskiej i 8 godzin w Polskim Radiu.”;
 - **27)** w art. 371 § 3 otrzymuje brzmienie: „§ 3. Rozporządzenie, o którym mowa w § 2, podaje się niezwłocznie do publicznej wiadomości i ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej najpóźniej w 80 dniu przed dniem wyborów.”;
@@ -90,10 +77,7 @@ source: pdf
 
 **Art. 2.** W ustawie z dnia 5 stycznia 2011 r. – Przepisy wprowadzające ustawę — Kodeks wyborczy (Dz. U. Nr 21, poz. 113) wprowadza się następujące zmiany:
 
-- **1)** art. 13 otrzymuje brzmienie: „Art. 13. 1. Rada gminy dokona podziału gminy na okręgi wyborcze w wyborach do rady gminy w terminie 15 miesięcy od dnia wejścia w życie niniejszej ustawy.
-
-2. Przy ustalaniu podziału gminy na okręgi wyborcze uwzględnia się liczbę mieszkańców ujętych w stałym rejestrze wyborców danej gminy na koniec kwartału poprzedzającego kwartał, w którym rada gminy dokonuje podziału gminy na okręgi wyborcze.”;
-
+- **1)** art. 13 otrzymuje brzmienie: „Art. 13. 1. Rada gminy dokona podziału gminy na okręgi wyborcze w wyborach do rady gminy w terminie 15 miesięcy od dnia wejścia w życie niniejszej ustawy. 2. Przy ustalaniu podziału gminy na okręgi wyborcze uwzględnia się liczbę mieszkańców ujętych w stałym rejestrze wyborców danej gminy na koniec kwartału poprzedzającego kwartał, w którym rada gminy dokonuje podziału gminy na okręgi wyborcze.”;
 - **2)** w art. 14 ust. 1 otrzymuje brzmienie: „1. Rada gminy dokona podziału gminy na stałe obwody głosowania, o których mowa w art. 12 ustawy, o której mowa w art. 1, oraz ustali ich numery, granice oraz siedziby obwodowych komisji wyborczych w terminie 3 miesięcy od dnia podziału gminy na okręgi wyborcze, o których mowa w art. 13.”.
 
 **Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

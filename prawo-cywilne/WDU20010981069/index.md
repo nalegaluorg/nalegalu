@@ -31,61 +31,7 @@ source: pdf
 
 - **1)** w art. 579 skreśla się wyrazy „oraz odebranie dziecka”;
 - **2)** skreśla się art. 580;
-- **3)** w części pierwszej w księdze drugiej w tytule II w dziale II w rozdziale 2 po oddziale 4 dodaje się oddział 5 w brzmieniu: „Oddział 5 Sprawy o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką
-
-**Art. 598¹.**
-
-§ 1. W sprawach o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką prokuratorowi doręcza się odpis wniosku i zawiadamia się go o terminach rozprawy.
-
-§ 2. W sprawach, o których mowa w § 1, art. 472 stosuje się odpowiednio.
-
-§ 3. W sprawach, o których mowa w § 1, art. 570 nie stosuje się.
-
-**Art. 598².**
-
-§ 1. W czasie trwania postępowania o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką, toczącego się w trybie Konwencji dotyczącej cywilnych aspektów uprowadzenia dziecka za granicę (Dz.U. z 1995 r. Nr 108, poz. 528 oraz z 1999 r., Nr 93, poz. 1085), nie można rozstrzygać w przedmiocie władzy rodzicielskiej lub opieki nad tą osobą. Postępowanie w tych sprawach sąd zawiesza z urzędu z chwilą wszczęcia postępowania o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką.
-
-§ 2. Po zakończeniu postępowania o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką sąd podejmie zawieszone postępowanie.
-
-§ 3. W przypadku innym niż określony w § 1, jeżeli do rozstrzygnięcia wniosku o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką niezbędne jest jego łączne rozpoznanie ze sprawą dotyczącą władzy rodzicielskiej, postępowanie toczy się z zachowaniem przepisu art. 579.
-
-**Art. 598³.** Jeżeli miejsce pobytu osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką nie jest znane, sąd przeprowadzi stosowne dochodzenie w celu ustalenia jej miejsca pobytu. W szczególności sąd może zażądać ustalenia miejsca jej pobytu przez Policję.
-
-**Art. 598⁴.** Orzeczenie co do istoty sprawy może być wydane tylko po przeprowadzeniu rozprawy.
-
-**Art. 598⁵.** W postanowieniu o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką sąd określa termin, w jakim zobowiązany powinien oddać uprawnionemu osobę podlegającą władzy rodzicielskiej lub pozostającą pod opieką.
-
-**Art. 598⁶.** Jeżeli zobowiązany do oddania osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką nie zastosuje się do postanowienia, o którym mowa w art. 598 , sąd, na wniosek uprawnionego, zleci kuratorowi sądowemu przymusowe odebranie tej osoby.
-
-**Art. 598⁷.** W razie potrzeby sąd zwraca się o przymusowe odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką przez kuratora sądowego działającego w sądzie, w którego okręgu osoba ta faktycznie przebywa.
-
-**Art. 598⁸.** Kurator sądowy jest uprawniony do odebrania osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką od każdej osoby, u której ona się znajduje.
-
-**Art. 598⁹.** Przymusowe odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką i oddanie jej uprawnionemu może nastąpić tylko w obecności uprawnionego albo osoby lub przedstawiciela instytucji przez niego upoważnionej. Jeżeli żadna z tych osób nie stawi się w terminie wyznaczonym przez kuratora sądowego, czynność nie będzie dokonana.
-
-**Art. 598¹⁰.** Na żądanie kuratora sądowego Policja jest zobowiązana do udzielenia mu pomocy przy czynnościach związanych z przymusowym odebraniem osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką.
-
-**Art. 598¹¹.**
-
-§ 1. Jeżeli przymusowe odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką napotyka przeszkody na skutek ukrycia tej osoby lub na skutek innej czynności przedsięwziętej w celu udaremnienia wykonania orzeczenia, kurator sądowy zawiadomi prokuratora.
-
-§ 2. Jeżeli zobowiązany nie ujawnia miejsca pobytu osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką, która ma być odebrana, sąd na wniosek kuratora sądowego zarządzi jego przymusowe sprowadzenie celem złożenia oświadczenia o miejscu pobytu tej osoby. Pod względem skutków karnych oświadczenie jest równoznaczne ze złożeniem zeznań pod przyrzeczeniem, o czym sędzia powinien uprzedzić składającego oświadczenie.
-
-§ 3. Jeżeli zobowiązany lub inne osoby przeszkadzają w wykonaniu orzeczenia w miejscu pobytu osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką,, na żądanie kuratora sądowego Policja usunie te osoby z miejsca wykonywania orzeczenia.
-
-**Art. 598¹².**
-
-§ 1. Przy odbieraniu osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką kurator sądowy powinien zachować szczególną ostrożność i uczynić wszystko, aby dobro tej osoby nie zostało naruszone, a zwłaszcza aby nie doznała ona krzywdy fizycznej lub moralnej. W razie potrzeby kurator sądowy może zażądać pomocy organu opieki społecznej lub innej powołanej do tego instytucji.
-
-§ 2. Jeżeli wskutek wykonania orzeczenia miałoby doznać poważnego uszczerbku dobro osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką, kurator sądowy wstrzyma się z wykonaniem orzeczenia do czasu ustania zagrożenia, chyba że wstrzymanie wykonania orzeczenia stwarza poważniejsze zagrożenie dla tej osoby.
-
-**Art. 598¹³.** Przepisy art. 598 -598 stosuje się odpowiednio do wykonania orzeczeń wydanych na zasadzie art. 569 § 2, dotyczących odebrania osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką, a także orzeczeń o umieszczeniu małoletniego w placówce opiekuńczo-wychowawczej lub w rodzinie zastępczej.
-
-- **4)** w części drugiej w księdze drugiej:
-    - **a)** skreśla się art. 790,
-    - **b)** w tytule III skreśla się dział VI.
-
-**Art. 2.** W ustawie z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych (Dz.U. Nr 31, poz. 215, z 1991 r. Nr 22, poz. 93, z 1994 r. Nr 79 poz. 362, z 1996 r. Nr 34, poz. 146 i Nr 43, poz. 189, z 1997 r. Nr 41, poz. 255 i Nr 106, poz. 678, z 2000 r. Nr 12, poz. 136, Nr 48, poz. 554 i Nr 120, poz. 1268 oraz z 2001 r. Nr 63, poz. 635) w art. 10 w pkt 4 wyraz „oraz” zastępuje się przecinkiem i po wyrazach „o przysposobienie dziecka,” dodaje się wyrazy „o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką,”.
+- **3)** w części pierwszej w księdze drugiej w tytule II w dziale II w rozdziale 2 po oddziale 4 dodaje się oddział 5 w brzmieniu: „Oddział 5 Sprawy o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką Art. 598 1 .§1. W sprawach o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką prokuratorowi doręcza się odpis wniosku i zawiadamia się go o terminach rozprawy. §2. W sprawach, o których mowa w § 1, art. 472 stosuje się odpowiednio. §3. W sprawach, o których mowa w § 1, art. 570 nie stosuje się. Art. 598 2 .§1. W czasie trwania postępowania o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką, toczącego się w trybie Konwencji dotyczącej cywilnych aspektów uprowadzenia dziecka za granicę (Dz.U. z 1995 r. Nr 108, poz. 528 oraz z 1999 r., Nr 93, poz. 1085), nie można rozstrzygać w przedmiocie władzy rodzicielskiej lub opieki nad tą osobą. Postępowanie w tych sprawach sąd zawiesza z urzędu z chwilą wszczęcia postępowania o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką. §2. Po zakończeniu postępowania o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką sąd podejmie zawieszone postępowanie. §3. W przypadku innym niż określony w § 1, jeżeli do rozstrzygnięcia wniosku o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką niezbędne jest jego łączne rozpoznanie ze sprawą dotyczącą władzy rodzicielskiej, postępowanie toczy się z zachowaniem przepisu art. 579. Art. 598 3 . Jeżeli miejsce pobytu osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką nie jest znane, sąd przeprowadzi stosowne dochodzenie w celu ustalenia jej miejsca pobytu. W szczególności sąd może zażądać ustalenia miejsca jej pobytu przez Policję. Art. 598 4 . Orzeczenie co do istoty sprawy może być wydane tylko po przeprowadzeniu rozprawy. Art. 598 5 . W postanowieniu o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką sąd określa termin, w jakim zobowiązany powinien oddać uprawnionemu osobę podlegającą władzy rodzicielskiej lub pozostającą pod opieką. Art. 598 6 . Jeżeli zobowiązany do oddania osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką nie zastosuje się do postanowienia, o którym mowa w art. 598 5 , sąd, na wniosek uprawnionego, zleci kuratorowi sądowemu przymusowe odebranie tej osoby. Art. 598 7 . W razie potrzeby sąd zwraca się o przymusowe odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką przez kuratora sądowego działającego w sądzie, w którego okręgu osoba ta faktycznie przebywa. Art. 598 8 . Kurator sądowy jest uprawniony do odebrania osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką od każdej osoby, u której ona się znajduje. Art. 598 9 . Przymusowe odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką i oddanie jej uprawnionemu może nastąpić tylko w obecności uprawnionego albo osoby lub przedstawiciela instytucji przez niego upoważnionej. Jeżeli żadna z tych osób nie stawi się w terminie wyznaczonym przez kuratora sądowego, czynność nie będzie dokonana. Art. 598 10 . Na żądanie kuratora sądowego Policja jest zobowiązana do udzielenia mu pomocy przy czynnościach związanych z przymusowym odebraniem osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką. Art. 598 11 . §1. Jeżeli przymusowe odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką napotyka przeszkody na skutek ukrycia tej osoby lub na skutek innej czynności przedsięwziętej w celu udaremnienia wykonania orzeczenia, kurator sądowy zawiadomi prokuratora. §2. Jeżeli zobowiązany nie ujawnia miejsca pobytu osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką, która ma być odebrana, sąd na wniosek kuratora sądowego zarządzi jego przymusowe sprowadzenie celem złożenia oświadczenia o miejscu pobytu tej osoby. Pod względem skutków karnych oświadczenie jest równoznaczne ze złożeniem zeznań pod przyrzeczeniem, o czym sędzia powinien uprzedzić składającego oświadczenie. §3. Jeżeli zobowiązany lub inne osoby przeszkadzają w wykonaniu orzeczenia w miejscu pobytu osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką,, na żądanie kuratora sądowego Policja usunie te osoby z miejsca wykonywania orzeczenia. Art. 598 12 . §1. Przy odbieraniu osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką kurator sądowy powinien zachować szczególną ostrożność i uczynić wszystko, aby dobro tej osoby nie zostało naruszone, a zwłaszcza aby nie doznała ona krzywdy fizycznej lub moralnej. W razie potrzeby kurator sądowy może zażądać pomocy organu opieki społecznej lub innej powołanej do tego instytucji. §2. Jeżeli wskutek wykonania orzeczenia miałoby doznać poważnego uszczerbku dobro osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką, kurator sądowy wstrzyma się z wykonaniem orzeczenia do czasu ustania zagrożenia, chyba że wstrzymanie wykonania orzeczenia stwarza poważniejsze zagrożenie dla tej osoby. Art. 598 13 . Przepisy art. 598 6 -598 stosuje się odpowiednio do wykonania orzeczeń wydanych na zasadzie art. 569 § 2, dotyczących odebrania osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką, a także orzeczeń o umieszczeniu małoletniego w placówce opiekuńczo-wychowawczej lub w rodzinie zastępczej. 4) w części drugiej w księdze drugiej: a) skreśla się art. 790, b) w tytule III skreśla się dział VI. Art. 2. W ustawie z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych (Dz.U. Nr 31, poz. 215, z 1991 r. Nr 22, poz. 93, z 1994 r. Nr 79 poz. 362, z 1996 r. Nr 34, poz. 146 i Nr 43, poz. 189, z 1997 r. Nr 41, poz. 255 i Nr 106, poz. 678, z 2000 r. Nr 12, poz. 136, Nr 48, poz. 554 i Nr 120, poz. 1268 oraz z 2001 r. Nr 63, poz. 635) w art. 10 w pkt 4 wyraz „oraz” zastępuje się przecinkiem i po wyrazach „o przysposobienie dziecka,” dodaje się wyrazy „o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką,”.
 
 **Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz.U. Nr 133, poz. 882, z 1999 r. Nr 110, poz. 1255 oraz z 2000 r. Nr 48, poz. 554) skreśla się art. 52.
 
@@ -93,7 +39,7 @@ source: pdf
 
 1. Do postępowań wszczętych przed wejściem w życie ustawy stosuje się jej przepisy.
 
-2. Do wykonalnych orzeczeń o odebraniu osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką stosuje się przepisy art. 598 -598 Kodeksu postępowania cywilnego.
+2. Do wykonalnych orzeczeń o odebraniu osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką stosuje się przepisy art. 598 6 -598 Kodeksu postępowania cywilnego.
 
 **Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ
 

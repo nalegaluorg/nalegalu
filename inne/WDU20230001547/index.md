@@ -27,8 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie komisji egzaminacyjnej do spraw aplikacji notarialnej oraz przeprowadzania egzaminu wstępnego i notarialnego Na podstawie art. 71f § 12 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2022 r. poz. 1799 oraz z 2023 r.
 poz. 1394) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 19 września 2013 r. w sprawie komisji egzaminacyjnej do spraw aplikacji notarialnej oraz przeprowadzania egzaminu wstępnego i notarialnego (Dz. U. z 2016 r. poz. 1621 oraz z 2020 r.
-poz. 1391) w § 20 w ust. 6 oraz w ust. 8 w zdaniu pierwszym wyrazy „zaświadczenie lekarskie potwierdzające fakt karmienia dziecka piersią” zastępuje się wyrazami „pisemne oświadczenie o karmieniu dziecka piersią”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 19 września 2013 r. w sprawie komisji egzaminacyjnej do spraw aplikacji notarialnej oraz przeprowadzania egzaminu wstępnego i notarialnego (Dz. U. z 2016 r. poz. 1621 oraz z 2020 r. poz. 1391) w § 20 w ust. 6 oraz w ust. 8 w zdaniu pierwszym wyrazy „zaświadczenie lekarskie potwierdzające fakt karmienia dziecka piersią” zastępuje się wyrazami „pisemne oświadczenie o karmieniu dziecka piersią”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: Z. Ziobro
 

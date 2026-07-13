@@ -27,26 +27,9 @@ source: pdf
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. z 2022 r.
 poz. 147), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 marca 2023 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 221–226 i art. 234 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), które stanowią: „Art. 221. 1. Karty doskonalenia zawodowego ratownika medycznego wydane przed dniem wejścia w życie ustawy zachowują ważność przez okres, na jaki zostały wydane.
-2. Ratownicy medyczni, którzy przed dniem wejścia w życie ustawy rozpoczęli okres edukacyjny, kontynuują go na nowych zasadach z zachowaniem dotychczasowych punktów edukacyjnych.
-
-**Art. 222.**
-
-1. Kursy doskonalące rozpoczęte przed dniem wejścia w życie ustawy są realizowane na dotychczasowych zasadach.
-
-2. Program kursu doskonalącego opracowany i zatwierdzony przed dniem wejścia w życie ustawy zachowuje ważność do dnia zatwierdzenia nowego programu, o którym mowa w art. 94 ust. 2.
-
-**Art. 223.**
-
-1. Wnioski w sprawie uzyskania wpisu na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego złożone przed dniem wejścia w życie ustawy są rozpatrywane na dotychczasowych zasadach.
-
-2. Podmioty wpisane na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego są uprawnione do prowadzenia kursu doskonalącego przez okres, na jaki uzyskały wpis na tę listę.
-
-**Art. 224.** Kontrole działalności podmiotów prowadzących kursy doskonalące ratowników medycznych rozpoczęte i niezakończone przed dniem wejścia w życie ustawy są realizowane na dotychczasowych zasadach. Wojewoda przekazuje protokoły z kontroli dyrektorowi Centrum Medycznego Kształcenia Podyplomowego.
-
-**Art. 225.** Przeszkolenie, które jest realizowane w związku z przerwą w wykonywaniu zawodu ratownika medycznego, rozpoczęte i niezakończone przed dniem wejścia w życie ustawy jest realizowane na podstawie dotychczasowych przepisów.
-
-**Art. 226.** Do postępowań w sprawach uznawania kwalifikacji zawodowych wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.” „Art. 234. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 217 oraz art. 227–232, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek USTAWA z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 221–226 i art. 234 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), które stanowią: „ Art. 221. 1. Karty doskonalenia zawodowego ratownika medycznego wydane przed dniem wejścia w życie ustawy zachowują ważność przez okres, na jaki zostały wydane. 2. Ratownicy medyczni, którzy przed dniem wejścia w życie ustawy rozpoczęli okres edukacyjny, kontynuują go na nowych zasadach z zachowaniem dotychczasowych punktów edukacyjnych. Art. 222. 1. Kursy doskonalące rozpoczęte przed dniem wejścia w życie ustawy są realizowane na dotychczasowych zasadach. 2. Program kursu doskonalącego opracowany i zatwierdzony przed dniem wejścia w życie ustawy zachowuje ważność do dnia zatwierdzenia nowego programu, o którym mowa w art. 94 ust. 2. Art. 223. 1. Wnioski w sprawie uzyskania wpisu na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego złożone przed dniem wejścia w życie ustawy są rozpatrywane na dotychczasowych zasadach. 2. Podmioty wpisane na listę podmiotów uprawnionych do prowadzenia kursu doskonalącego są uprawnione do prowadzenia kursu doskonalącego przez okres, na jaki uzyskały wpis na tę listę. Art. 224. Kontrole działalności podmiotów prowadzących kursy doskonalące ratowników medycznych rozpoczęte i niezakończone przed dniem wejścia w życie ustawy są realizowane na dotychczasowych zasadach. Wojewoda przekazuje protokoły z kontroli dyrektorowi Centrum Medycznego Kształcenia Podyplomowego. Art. 225. Przeszkolenie, które jest realizowane w związku z przerwą w wykonywaniu zawodu ratownika medycznego, rozpoczęte i niezakończone przed dniem wejścia w życie ustawy jest realizowane na podstawie dotychczasowych przepisów. Art. 226. Do postępowań w sprawach uznawania kwalifikacji zawodowych wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.” „Art. 234. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 217 oraz art. 227–232, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek
+USTAWA z dnia 18 sierpnia 2011 r.
+o bezpieczeństwie osób przebywających na obszarach wodnych
 
 #### Rozdział 1 Przepisy ogólne
 

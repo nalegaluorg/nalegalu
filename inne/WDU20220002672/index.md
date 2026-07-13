@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Sanitarnemu Na podstawie art. 7 ust. 4 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2021 r.
 poz. 195 oraz z 2022 r. poz. 655 i 1700) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 13 sierpnia 2021 r. w sprawie nadania statutu Głównemu Inspektoratowi Sanitarnemu (Dz. U. poz. 1527) w załączniku do rozporządzenia w § 3 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „11) Biuro Zarządzania Projektami.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 13 sierpnia 2021 r. w sprawie nadania statutu Głównemu Inspektoratowi Sanitarnemu (Dz. U. poz. 1527) w załączniku do rozporządzenia w § 3 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „11) Biuro Zarządzania Projektami.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r. Minister Zdrowia: A. Niedzielski
 

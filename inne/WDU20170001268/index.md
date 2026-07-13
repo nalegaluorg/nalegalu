@@ -27,9 +27,12 @@ source: pdf
 
 w sprawie Sektorowej Ramy Kwalifikacji w sektorze sport Na podstawie art. 11 ust. 4 i 5 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U.
 z 2017 r. poz. 986) zarządza się, co następuje:
-§ 1. Do Zintegrowanego Systemu Kwalifikacji włącza się Sektorową Ramę Kwalifikacji w sektorze sport.
-§ 2. Kwalifikacje, do których odnosi się Sektorowa Rama Kwalifikacji w sektorze sport, przygotowują do wykonywania działalności usługowej, w tym zarządczej, koordynacyjnej, specjalistycznej, doradczej oraz pomocniczej w sektorze sport w ramach zawodów i specjalności wskazanych w przepisach wydanych na podstawie art. 36 ust. 8 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065).
-§ 3. Charakterystyki efektów uczenia się dla poziomów Sektorowej Ramy Kwalifikacji w sektorze sport ujęte w kategoriach wiedzy, umiejętności oraz kompetencji społecznych są określone w załączniku do rozporządzenia.
-§ 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Edukacji Narodowej: A. Zalewska
+
+**§ 1.** Do Zintegrowanego Systemu Kwalifikacji włącza się Sektorową Ramę Kwalifikacji w sektorze sport.
+
+**§ 2.** Kwalifikacje, do których odnosi się Sektorowa Rama Kwalifikacji w sektorze sport, przygotowują do wykonywania działalności usługowej, w tym zarządczej, koordynacyjnej, specjalistycznej, doradczej oraz pomocniczej w sektorze sport w ramach zawodów i specjalności wskazanych w przepisach wydanych na podstawie art. 36 ust. 8 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2017 r. poz. 1065).
+
+**§ 3.** Charakterystyki efektów uczenia się dla poziomów Sektorowej Ramy Kwalifikacji w sektorze sport ujęte w kategoriach wiedzy, umiejętności oraz kompetencji społecznych są określone w załączniku do rozporządzenia.
+
+**§ 4.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Edukacji Narodowej: A. Zalewska
 

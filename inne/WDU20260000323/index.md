@@ -27,12 +27,14 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000323) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/323/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wyróżnień funkcjonariuszy Służby Więziennej Na podstawie art. 169 ust. 2 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2025 r. poz. 1750 i 1823) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 5 października 2010 r. w sprawie wyróżnień funkcjonariuszy Służby Więziennej (Dz. U. z 2024 r. poz. 1445) w § 2:
-1) w ust. 2 skreśla się wyrazy „albo w Inspektoracie Wewnętrznym Służby Więziennej”;
-2) w ust. 4:
-a) w pkt 1 wyrazy „Dyrektora Generalnego, Rektora albo Szefa Inspektoratu Wewnętrznego Służby Więziennej” zastępuje się wyrazami „Dyrektora Generalnego albo Rektora”,
-b) w pkt 2 uchyla się lit. c,
-c) w pkt 3 uchyla się lit. d.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: W. Żurek
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 5 października 2010 r. w sprawie wyróżnień funkcjonariuszy Służby Więziennej (Dz. U. z 2024 r. poz. 1445) w § 2:
+
+- **1)** w ust. 2 skreśla się wyrazy „albo w Inspektoracie Wewnętrznym Służby Więziennej”;
+- **2)** w ust. 4:
+    - **a)** w pkt 1 wyrazy „Dyrektora Generalnego, Rektora albo Szefa Inspektoratu Wewnętrznego Służby Więziennej” zastępuje się wyrazami „Dyrektora Generalnego albo Rektora”,
+    - **b)** w pkt 2 uchyla się lit. c,
+    - **c)** w pkt 3 uchyla się lit. d.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: W. Żurek
 

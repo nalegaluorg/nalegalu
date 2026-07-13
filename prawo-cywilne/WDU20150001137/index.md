@@ -30,10 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** art. 39 otrzymuje brzmienie: „Art. 39. Powództwo z tytułu dziedziczenia, zachowku, jak również z tytułu zapisu, polecenia oraz innych rozrządzeń testamentowych wytacza się wyłącznie przed sąd ostatniego miejsca zwykłego pobytu spadkodawcy, a jeżeli miejsca jego zwykłego pobytu w Polsce nie da się ustalić, przed sąd miejsca, w którym znajduje się majątek spadkowy lub jego część.”;
-- **2)** art. 610 otrzymuje brzmienie: „Art. 610. § 1. W zakresie nieuregulowanym w niniejszym rozdziale do ogłoszenia i orzeczenia stosuje się odpowiednio przepisy o stwierdzeniu nabycia spadku i przedmiotu zapisu windykacyjnego.
-
-§ 2. Jeżeli w terminie wskazanym w ogłoszeniu nikt się nie zgłosi albo zgłaszający się nie wykaże własności, sąd stwierdzi zasiedzenie, jeżeli zostało ono udowodnione.”;
-
+- **2)** art. 610 otrzymuje brzmienie: „Art. 610. § 1. W zakresie nieuregulowanym w niniejszym rozdziale do ogłoszenia i orzeczenia stosuje się odpowiednio przepisy o stwierdzeniu nabycia spadku i przedmiotu zapisu windykacyjnego. § 2. Jeżeli w terminie wskazanym w ogłoszeniu nikt się nie zgłosi albo zgłaszający się nie wykaże własności, sąd stwierdzi zasiedzenie, jeżeli zostało ono udowodnione.”;
 - **3)** art. 628 otrzymuje brzmienie: „Art. 628. Do czynności w postępowaniu spadkowym, które należą do zakresu działania sądów, wyłącznie właściwy jest sąd ostatniego miejsca zwykłego pobytu spadkodawcy, a jeżeli jego miejsca zwykłego pobytu w Polsce nie da się ustalić, sąd miejsca, w którym znajduje się majątek spadkowy lub jego część (sąd spadku). W braku powyższych podstaw sądem spadku jest sąd rejonowy dla m.st. Warszawy.”;
 - **4)** art. 664 otrzymuje brzmienie: „Art. 664. Osoba powołana na wykonawcę testamentu, która odmawia przyjęcia tego obowiązku, oświadcza o tym w sądzie spadku ustnie do protokołu albo na piśmie z podpisem urzędowo poświadczonym albo przed notariuszem. Pełnomocnictwa do złożenia takiego oświadczenia udziela się na piśmie z podpisem urzędowo poświadczonym.”;
 - **5)** w art. 673:
@@ -41,33 +38,8 @@ source: pdf
     - **b)** pkt 4 otrzymuje brzmienie: „4) wezwanie, aby spadkobiercy w ciągu trzech miesięcy od dnia wskazanego w ogłoszeniu zgłosili i udowodnili nabycie spadku, gdyż w przeciwnym razie mogą być pominięci w postanowieniu o stwierdzeniu nabycia spadku.”;
 
 - **6)** w art. 674 § 1 otrzymuje brzmienie: „§ 1. Ogłoszenie umieszcza się w piśmie poczytnym na całym obszarze Państwa i podaje publicznie do wiadomości w ostatnim miejscu zwykłego pobytu spadkodawcy na tym obszarze, w sposób w miejscu tym przyjęty.”;
-- **7)** art. 675 i art. 676 otrzymują brzmienie: „Art. 675. Po upływie trzech miesięcy od dnia ogłoszenia sąd wyznaczy w celu rozpoznania zgłoszonych żądań rozprawę, na którą wezwie także osoby, które zgłosiły żądanie i podały miejsce zamieszkania.
-
-**Art. 676.** Jeżeli w ciągu trzech miesięcy od dnia ogłoszenia o wezwaniu spadkobierców nikt nie zgłosił nabycia spadku albo zgłaszający się nie udowodnił go na rozprawie, sąd wyda postanowienie stwierdzające nabycie spadku przez spadkobierców, których prawa zostały ustalone.”;
-
-- **8)** w części czwartej w księdze drugiej po tytule VII dodaje się tytuł VIIa w brzmieniu: „Tytuł VIIA Europejskie poświadczenie spadkowe
-
-**Art. 1142¹.** W zakresie nieuregulowanym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 650/2012 z dnia 4 lipca 2012 r. w sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń, przyjmowania i wykonywania dokumentów urzędowych dotyczących dziedziczenia oraz w sprawie ustanowienia europejskiego poświadczenia spadkowego (Dz. Urz. UE L 201 z 27.07.2012, str. 107, z późn. zm.) do postępowań dotyczących europejskiego poświadczenia spadkowego stosuje się odpowiednio przepisy o stwierdzeniu nabycia spadku i przedmiotu zapisu windykacyjnego, chyba że przepisy niniejszego tytułu stanowią inaczej.
-
-**Art. 1142².** W postępowaniach dotyczących europejskiego poświadczenia spadkowego sąd może orzekać na posiedzeniu niejawnym. Przepisu art. 509 § 3 nie stosuje się.
-
-**Art. 1142³.**
-
-§ 1. Sąd z urzędu doręcza postanowienie w przedmiocie wydania europejskiego poświadczenia spadkowego wraz z pouczeniem o przysługującym środku odwoławczym. Uzasadnienie postanowienia sporządza się tylko na żądanie uczestnika postępowania zgłoszone w terminie tygodnia od dnia jego doręczenia albo gdy uczestnik, który takiego żądania nie zgłosił, wniósł środek odwoławczy w ustawowym terminie.
-
-§ 2. Wnioskodawcy doręcza się postanowienie o wydaniu europejskiego poświadczenia spadkowego wraz z poświadczonym odpisem tego poświadczenia.
-
-**Art. 1142⁴.** W razie stwierdzenia, że istnieje określona w rozporządzeniu, o którym mowa w art. 1142 , podstawa do zmiany lub uchylenia europejskiego poświadczenia spadkowego, sąd może je zmienić lub uchylić także z urzędu.
-
-**Art. 1142⁵.** Sąd z urzędu doręcza postanowienie o sprostowaniu, zmianie lub uchyleniu europejskiego poświadczenia spadkowego albo zawieszeniu jego skutków wraz z pouczeniem o przysługującym środku odwoławczym. Przepis art. 1142 § 1 zdanie drugie stosuje się odpowiednio. Postanowienia w tym przedmiocie sąd doręcza z urzędu także wszystkim osobom, którym wydano poświadczone odpisy europejskiego poświadczenia spadkowego.
-
-**Art. 1142⁶.**
-
-§ 1. Na postanowienie sądu pierwszej instancji w przedmiocie wydania, sprostowania, zmiany lub uchylenia albo zawieszenia skutków europejskiego poświadczenia spadkowego przysługuje zażalenie.
-
-§ 2. Na postanowienie sądu drugiej instancji wydane w wyniku rozpoznania zażalenia skarga kasacyjna nie przysługuje.
-
-§ 3. W postępowaniach dotyczących europejskiego poświadczenia spadkowego skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia nie przysługuje.”.
+- **7)** art. 675 i art. 676 otrzymują brzmienie: „Art. 675. Po upływie trzech miesięcy od dnia ogłoszenia sąd wyznaczy w celu rozpoznania zgłoszonych żądań rozprawę, na którą wezwie także osoby, które zgłosiły żądanie i podały miejsce zamieszkania. Art. 676. Jeżeli w ciągu trzech miesięcy od dnia ogłoszenia o wezwaniu spadkobierców nikt nie zgłosił nabycia spadku albo zgłaszający się nie udowodnił go na rozprawie, sąd wyda postanowienie stwierdzające nabycie spadku przez spadkobierców, których prawa zostały ustalone.”;
+- **8)** w części czwartej w księdze drugiej po tytule VII dodaje się tytuł VIIa w brzmieniu: „Tytuł VIIA Europejskie poświadczenie spadkowe Art. 1142 1 . W zakresie nieuregulowanym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 650/2012 z dnia 4 lipca 2012 r. w sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń, przyjmowania i wykonywania dokumentów urzędowych dotyczących dziedziczenia oraz w sprawie ustanowienia europejskiego poświadczenia spadkowego (Dz. Urz. UE L 201 z 27.07.2012, str. 107, z późn. zm.) do postępowań dotyczących europejskiego poświadczenia spadkowego stosuje się odpowiednio przepisy o stwierdzeniu nabycia spadku i przedmiotu zapisu windykacyjnego, chyba że przepisy niniejszego tytułu stanowią inaczej. Art. 1142 2 . W postępowaniach dotyczących europejskiego poświadczenia spadkowego sąd może orzekać na posiedzeniu niejawnym. Przepisu art. 509 § 3 nie stosuje się. Art. 1142 3 . § 1. Sąd z urzędu doręcza postanowienie w przedmiocie wydania europejskiego poświadczenia spadkowego wraz z pouczeniem o przysługującym środku odwoławczym. Uzasadnienie postanowienia sporządza się tylko na żądanie uczestnika postępowania zgłoszone w terminie tygodnia od dnia jego doręczenia albo gdy uczestnik, który takiego żądania nie zgłosił, wniósł środek odwoławczy w ustawowym terminie. § 2. Wnioskodawcy doręcza się postanowienie o wydaniu europejskiego poświadczenia spadkowego wraz z poświadczonym odpisem tego poświadczenia. Art. 1142 4 . W razie stwierdzenia, że istnieje określona w rozporządzeniu, o którym mowa w art. 1142 1 , podstawa do zmiany lub uchylenia europejskiego poświadczenia spadkowego, sąd może je zmienić lub uchylić także z urzędu. Art. 1142 5 . Sąd z urzędu doręcza postanowienie o sprostowaniu, zmianie lub uchyleniu europejskiego poświadczenia spadkowego albo zawieszeniu jego skutków wraz z pouczeniem o przysługującym środku odwoławczym. Przepis art. 1142 § 1 zdanie drugie stosuje się odpowiednio. Postanowienia w tym przedmiocie sąd doręcza z urzędu także wszystkim osobom, którym wydano poświadczone odpisy europejskiego poświadczenia spadkowego. Art. 1142 6 . § 1. Na postanowienie sądu pierwszej instancji w przedmiocie wydania, sprostowania, zmiany lub uchylenia albo zawieszenia skutków europejskiego poświadczenia spadkowego przysługuje zażalenie. § 2. Na postanowienie sądu drugiej instancji wydane w wyniku rozpoznania zażalenia skarga kasacyjna nie przysługuje. § 3. W postępowaniach dotyczących europejskiego poświadczenia spadkowego skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia nie przysługuje.”.
 
 **Art. 2.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, z późn. zm. ) wprowadza się następujące zmiany:
 
@@ -76,35 +48,16 @@ source: pdf
 - **3)** art. 82 otrzymuje brzmienie: „Art. 82. Osobę, której odmówiono dokonania czynności notarialnej, poucza się o prawie i trybie zaskarżenia odmowy. Osoba ta w terminie tygodnia od dnia odmowy dokonania czynności notarialnej może żądać na piśmie sporządzenia i doręczenia uzasadnienia odmowy. Notariusz sporządza uzasadnienie w terminie tygodnia od dnia otrzymania żądania.”;
 - **4)** w art. 83:
     - **a)** § 1 otrzymuje brzmienie: „§ 1. Na odmowę dokonania czynności notarialnej osoba zainteresowana może wnieść, w terminie tygodnia od dnia doręczenia uzasadnienia odmowy, a gdy nie zażądała w przepisanym terminie doręczenia uzasadnienia odmowy – od dnia, w którym dowiedziała się o odmowie, zażalenie do sądu okręgowego właściwego ze względu na siedzibę kancelarii notariusza odmawiającego dokonania czynności notarialnej. Zażalenie wnosi się za pośrednictwem tego notariusza.”,
-    - **b)** po § 1 dodaje się § 1a i 1b w brzmieniu: „§ 1a. Notariusz, o którym mowa w § 1, jest obowiązany ustosunkować się do zażalenia w terminie tygodnia i wraz z zażaleniem przedstawić swoje stanowisko sądowi oraz doręczyć je osobie zainteresowanej, chyba że sporządził i doręczył już tej osobie uzasadnienie odmowy.
+    - **b)** po § 1 dodaje się § 1a i 1b w brzmieniu: „§ 1a. Notariusz, o którym mowa w § 1, jest obowiązany ustosunkować się do zażalenia w terminie tygodnia i wraz z zażaleniem przedstawić swoje stanowisko sądowi oraz doręczyć je osobie zainteresowanej, chyba że sporządził i doręczył już tej osobie uzasadnienie odmowy. § 1b. Sąd rozpoznaje zażalenie na rozprawie, stosując odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym.”;
 
-§ 1b. Sąd rozpoznaje zażalenie na rozprawie, stosując odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym.”;
-
-- **5)** po art. 95a dodaje się art. 95aa w brzmieniu: „Art. 95aa. § 1. Osobami zainteresowanymi w rozumieniu niniejszego rozdziału są osoby, które mogą wchodzić w rachubę jako spadkobiercy ustawowi i testamentowi, a także osoby, na których rzecz spadkodawca uczynił zapisy windykacyjne.
-
-§ 2. Odrzucenie spadku lub zapisu windykacyjnego oraz uznanie za niegodnego powoduje utratę statusu osoby zainteresowanej.”;
-
+- **5)** po art. 95a dodaje się art. 95aa w brzmieniu: „Art. 95aa. § 1. Osobami zainteresowanymi w rozumieniu niniejszego rozdziału są osoby, które mogą wchodzić w rachubę jako spadkobiercy ustawowi i testamentowi, a także osoby, na których rzecz spadkodawca uczynił zapisy windykacyjne. § 2. Odrzucenie spadku lub zapisu windykacyjnego oraz uznanie za niegodnego powoduje utratę statusu osoby zainteresowanej.”;
 - **6)** art. 95b otrzymuje brzmienie: „Art. 95b. Przed sporządzeniem aktu poświadczenia dziedziczenia notariusz spisuje protokół dziedziczenia przy udziale wszystkich osób zainteresowanych, z uwzględnieniem art. 95ca.”;
 - **7)** w art. 95c:
     - **a)** w § 2 pkt 6 otrzymuje brzmienie: „6) oświadczenia o obywatelstwie i miejscu zwykłego pobytu spadkodawcy w chwili śmierci;”,
     - **b)** w § 4 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) projekt protokołu dziedziczenia oraz protokoły obejmujące oświadczenia o wyrażeniu zgody na spisanie protokołu dziedziczenia zgodnie z jego projektem, o ile zostały sporządzone lub spisane;”;
 
-- **8)** po art. 95c dodaje się art. 95ca w brzmieniu: „Art. 95ca. § 1. Na wniosek osoby zainteresowanej przy jej udziale notariusz sporządza projekt protokołu dziedziczenia.
-
-§ 2. Do sporządzenia projektu protokołu dziedziczenia przepis art. 95c stosuje się odpowiednio.
-
-§ 3. Osoba zainteresowana może w oświadczeniu złożonym przed notariuszem, który sporządził projekt protokołu dziedziczenia, albo przed innym notariuszem potwierdzić dane zamieszczone w projekcie protokołu dziedziczenia i wyrazić zgodę na spisanie protokołu dziedziczenia zgodnie z jego projektem.
-
-§ 4. Do spisania protokołu obejmującego oświadczenie, o którym mowa w § 3, przepis art. 95c § 1 stosuje się odpowiednio. Wypis projektu protokołu dziedziczenia stanowi załącznik do protokołu obejmującego to oświadczenie.
-
-§ 5. Jeżeli wszystkie osoby zainteresowane złożą oświadczenie, o którym mowa w § 3, notariusz spisuje protokół dziedziczenia przy udziale co najmniej jednej osoby zainteresowanej.
-
-§ 6. Osoby zainteresowane, które nie złożyły wcześniej oświadczenia, o którym mowa w § 3, mogą złożyć takie oświadczenie, uczestnicząc w spisaniu protokołu dziedziczenia.”;
-
-- **9)** po art. 95d dodaje się art. 95da w brzmieniu: „Art. 95da. § 1. Notariusz może zwracać się do organów administracji publicznej oraz organów wykonujących zadania z zakresu administracji publicznej o udzielenie informacji lub wydanie dokumentów stanowiących dowód faktu istotnego dla sporządzenia aktu poświadczenia dziedziczenia.
-
-§ 2. Notariusz może zwrócić się do Ministra Sprawiedliwości o udzielenie tekstu właściwego prawa obcego. Celem ustalenia treści właściwego prawa obcego notariusz może zastosować także inne odpowiednie środki.”;
-
+- **8)** po art. 95c dodaje się art. 95ca w brzmieniu: „Art. 95ca. § 1. Na wniosek osoby zainteresowanej przy jej udziale notariusz sporządza projekt protokołu dziedziczenia. § 2. Do sporządzenia projektu protokołu dziedziczenia przepis art. 95c stosuje się odpowiednio. § 3. Osoba zainteresowana może w oświadczeniu złożonym przed notariuszem, który sporządził projekt protokołu dziedziczenia, albo przed innym notariuszem potwierdzić dane zamieszczone w projekcie protokołu dziedziczenia i wyrazić zgodę na spisanie protokołu dziedziczenia zgodnie z jego projektem. § 4. Do spisania protokołu obejmującego oświadczenie, o którym mowa w § 3, przepis art. 95c § 1 stosuje się odpowiednio. Wypis projektu protokołu dziedziczenia stanowi załącznik do protokołu obejmującego to oświadczenie. § 5. Jeżeli wszystkie osoby zainteresowane złożą oświadczenie, o którym mowa w § 3, notariusz spisuje protokół dziedziczenia przy udziale co najmniej jednej osoby zainteresowanej. § 6. Osoby zainteresowane, które nie złożyły wcześniej oświadczenia, o którym mowa w § 3, mogą złożyć takie oświadczenie, uczestnicząc w spisaniu protokołu dziedziczenia.”;
+- **9)** po art. 95d dodaje się art. 95da w brzmieniu: „Art. 95da. § 1. Notariusz może zwracać się do organów administracji publicznej oraz organów wykonujących zadania z zakresu administracji publicznej o udzielenie informacji lub wydanie dokumentów stanowiących dowód faktu istotnego dla sporządzenia aktu poświadczenia dziedziczenia. § 2. Notariusz może zwrócić się do Ministra Sprawiedliwości o udzielenie tekstu właściwego prawa obcego. Celem ustalenia treści właściwego prawa obcego notariusz może zastosować także inne odpowiednie środki.”;
 - **10)** w art. 95e:
     - **a)** § 1 otrzymuje brzmienie: „§ 1. Po spisaniu protokołu dziedziczenia notariusz sporządza akt poświadczenia dziedziczenia, jeżeli nie ma wątpliwości co do istnienia jurysdykcji krajowej, treści właściwego prawa obcego, osoby spadkobiercy i wysokości udziałów w spadku, a w przypadku, gdy spadkodawca uczynił zapis windykacyjny – także co do osoby, na której rzecz spadkodawca uczynił zapis windykacyjny, i przedmiotu zapisu.”,
     - **b)** w § 2: – uchyla się pkt 3, – pkt 4 otrzymuje brzmienie: „4) w sprawie brak jurysdykcji krajowej.”,
@@ -115,37 +68,7 @@ source: pdf
     - **b)** pkt 7a otrzymuje brzmienie: „7a) wskazanie osób, na których rzecz spadkodawca uczynił zapisy windykacyjne, oraz przedmiotów tych zapisów, chyba że osoby te nie chcą lub nie mogą być zapisobiercami albo zapisy windykacyjne okazały się bezskuteczne;”,
     - **c)** uchyla się pkt 9;
 
-- **12)** w dziale II po rozdziale 3a dodaje się rozdział 3b w brzmieniu: „Rozdział 3b Europejskie poświadczenia spadkowe
-
-**Art. 95q.** W zakresie nieuregulowanym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 650/2012 z dnia 4 lipca 2012 r. w sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń, przyjmowania i wykonywania dokumentów urzędowych dotyczących dziedziczenia oraz w sprawie ustanowienia europejskiego poświadczenia spadkowego (Dz. Urz. UE L 201 z 27.07.2012, str. 107, z późn. zm.) do czynności dotyczących europejskiego poświadczenia spadkowego stosuje się odpowiednio przepisy o sporządzaniu aktu poświadczenia dziedziczenia, chyba że przepisy niniejszego rozdziału stanowią inaczej.
-
-**Art. 95r.** Przy czynnościach dotyczących europejskiego poświadczenia spadkowego stosuje się odpowiednio przepisy art. 670, art. 672–674 i art. 676 Kodeksu postępowania cywilnego.
-
-**Art. 95s.**
-
-§ 1. Przy czynnościach dotyczących europejskiego poświadczenia spadkowego połączonych z wydatkami notariusz może odmówić dokonania czynności notarialnej, jeżeli strona nie złoży zaliczki na ich pokrycie w wysokości i terminie określonych przez notariusza.
-
-§ 2. Jeżeli strona nie jest w stanie bez uszczerbku utrzymania koniecznego dla siebie i rodziny ponieść żądanej przez notariusza zaliczki, może wystąpić z wnioskiem do sądu rejonowego właściwego ze względu na jej miejsce zamieszkania o zwolnienie w całości lub części od ponoszenia tych wydatków. Przepis art. 6 stosuje się odpowiednio.
-
-**Art. 95t.** Notariusz stwierdza w protokole wydanie, sprostowanie, zmianę lub uchylenie europejskiego poświadczenia spadkowego albo zawieszenie jego skutków, jak również odmowę dokonania tych czynności. Do protokołu nie stosuje się przepisów art. 92 § 1 pkt 7 i 8 oraz art. 94 § 1.
-
-**Art. 95u.**
-
-§ 1. Notariusz z urzędu doręcza wypis protokołu obejmującego wydanie lub odmowę wydania europejskiego poświadczenia spadkowego wraz z pouczeniem o przysługującym środku odwoławczym. Uzasadnienie tych czynności notariusz sporządza w terminie tygodnia na żądanie osoby biorącej udział w czynności notarialnej zgłoszone w terminie tygodnia od dnia doręczenia wypisu protokołu albo gdy osoba biorąca udział w czynności notarialnej, która takiego żądania nie zgłosiła, wniosła środek odwoławczy w ustawowym terminie.
-
-§ 2. Wnioskodawcy doręcza się wypis protokołu obejmującego wydanie europejskiego poświadczenia spadkowego wraz z poświadczonym odpisem tego poświadczenia.
-
-**Art. 95v.** W razie stwierdzenia, że istnieje określona w rozporządzeniu, o którym mowa w art. 95q, podstawa do zmiany lub uchylenia europejskiego poświadczenia spadkowego, notariusz może je zmienić lub uchylić także z urzędu.
-
-**Art. 95w.** Notariusz z urzędu doręcza wypis protokołu obejmującego sprostowanie, zmianę lub uchylenie europejskiego poświadczenia spadkowego albo zawieszenie jego skutków, jak również odmowę dokonania tych czynności, wraz z pouczeniem o przysługującym środku odwoławczym. Przepis art. 95u § 1 zdanie drugie stosuje się odpowiednio. Wypis protokołu obejmującego te czynności notariusz z urzędu doręcza także wszystkim osobom, którym wydano poświadczone odpisy europejskiego poświadczenia spadkowego.
-
-**Art. 95x.**
-
-§ 1. Na czynności notariusza w przedmiocie wydania, sprostowania, zmiany lub uchylenia albo zawieszenia skutków europejskiego poświadczenia spadkowego przysługuje zażalenie. Przepis art. 83 stosuje się odpowiednio.
-
-§ 2. Na postanowienie sądu drugiej instancji wydane w wyniku rozpoznania zażalenia skarga kasacyjna nie przysługuje.
-
-§ 3. W postępowaniach dotyczących europejskiego poświadczenia spadkowego skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia nie przysługuje.”.
+- **12)** w dziale II po rozdziale 3a dodaje się rozdział 3b w brzmieniu: „Rozdział 3b Europejskie poświadczenia spadkowe Art. 95q. W zakresie nieuregulowanym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 650/2012 z dnia 4 lipca 2012 r. w sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń, przyjmowania i wykonywania dokumentów urzędowych dotyczących dziedziczenia oraz w sprawie ustanowienia europejskiego poświadczenia spadkowego (Dz. Urz. UE L 201 z 27.07.2012, str. 107, z późn. zm.) do czynności dotyczących europejskiego poświadczenia spadkowego stosuje się odpowiednio przepisy o sporządzaniu aktu poświadczenia dziedziczenia, chyba że przepisy niniejszego rozdziału stanowią inaczej. Art. 95r. Przy czynnościach dotyczących europejskiego poświadczenia spadkowego stosuje się odpowiednio przepisy art. 670, art. 672–674 i art. 676 Kodeksu postępowania cywilnego. Art. 95s. § 1. Przy czynnościach dotyczących europejskiego poświadczenia spadkowego połączonych z wydatkami notariusz może odmówić dokonania czynności notarialnej, jeżeli strona nie złoży zaliczki na ich pokrycie w wysokości i terminie określonych przez notariusza. § 2. Jeżeli strona nie jest w stanie bez uszczerbku utrzymania koniecznego dla siebie i rodziny ponieść żądanej przez notariusza zaliczki, może wystąpić z wnioskiem do sądu rejonowego właściwego ze względu na jej miejsce zamieszkania o zwolnienie w całości lub części od ponoszenia tych wydatków. Przepis art. 6 stosuje się odpowiednio. Art. 95t. Notariusz stwierdza w protokole wydanie, sprostowanie, zmianę lub uchylenie europejskiego poświadczenia spadkowego albo zawieszenie jego skutków, jak również odmowę dokonania tych czynności. Do protokołu nie stosuje się przepisów art. 92 § 1 pkt 7 i 8 oraz art. 94 § 1. Art. 95u. § 1. Notariusz z urzędu doręcza wypis protokołu obejmującego wydanie lub odmowę wydania europejskiego poświadczenia spadkowego wraz z pouczeniem o przysługującym środku odwoławczym. Uzasadnienie tych czynności notariusz sporządza w terminie tygodnia na żądanie osoby biorącej udział w czynności notarialnej zgłoszone w terminie tygodnia od dnia doręczenia wypisu protokołu albo gdy osoba biorąca udział w czynności notarialnej, która takiego żądania nie zgłosiła, wniosła środek odwoławczy w ustawowym terminie. § 2. Wnioskodawcy doręcza się wypis protokołu obejmującego wydanie europejskiego poświadczenia spadkowego wraz z poświadczonym odpisem tego poświadczenia. Art. 95v. W razie stwierdzenia, że istnieje określona w rozporządzeniu, o którym mowa w art. 95q, podstawa do zmiany lub uchylenia europejskiego poświadczenia spadkowego, notariusz może je zmienić lub uchylić także z urzędu. Art. 95w. Notariusz z urzędu doręcza wypis protokołu obejmującego sprostowanie, zmianę lub uchylenie europejskiego poświadczenia spadkowego albo zawieszenie jego skutków, jak również odmowę dokonania tych czynności, wraz z pouczeniem o przysługującym środku odwoławczym. Przepis art. 95u § 1 zdanie drugie stosuje się odpowiednio. Wypis protokołu obejmującego te czynności notariusz z urzędu doręcza także wszystkim osobom, którym wydano poświadczone odpisy europejskiego poświadczenia spadkowego. Art. 95x. § 1. Na czynności notariusza w przedmiocie wydania, sprostowania, zmiany lub uchylenia albo zawieszenia skutków europejskiego poświadczenia spadkowego przysługuje zażalenie. Przepis art. 83 stosuje się odpowiednio. § 2. Na postanowienie sądu drugiej instancji wydane w wyniku rozpoznania zażalenia skarga kasacyjna nie przysługuje. § 3. W postępowaniach dotyczących europejskiego poświadczenia spadkowego skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia nie przysługuje.”.
 
 **Art. 3.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2014 r. poz. 121, z późn. zm. ) art. 987 otrzymuje brzmienie: „Art. 987. Jeżeli osoba powołana jako wykonawca testamentu nie chce tego obowiązku przyjąć, składa odpowiednie oświadczenie przed sądem albo notariuszem.”.
 
@@ -153,9 +76,7 @@ source: pdf
 
 - **1)** w art. 4a:
     - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Jeżeli dokumentem potwierdzającym nabycie własności rzeczy lub praw majątkowych jest akt poświadczenia dziedziczenia lub europejskie poświadczenie spadkowe, termin 6 miesięcy, o którym mowa w ust. 1 pkt 1, do zgłoszenia tego nabycia właściwemu naczelnikowi urzędu skarbowego liczy się od dnia zarejestrowania aktu poświadczenia dziedziczenia lub wydania europejskiego poświadczenia spadkowego, z zastrzeżeniem ust. 2 i 4.”,
-    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Jeżeli nabywca dowiedział się o nabyciu własności rzeczy lub praw majątkowych po upływie terminów, o których mowa w ust. 1 pkt 1 lub ust. 1a, zwolnienie, o którym mowa w ust. 1, stosuje się, gdy nabywca zgłosi te rzeczy lub prawa majątkowe naczelnikowi urzędu skarbowego nie później niż w terminie 6 miesięcy od dnia, w którym dowiedział się o ich nabyciu, oraz uprawdopodobni fakt późniejszego powzięcia wiadomości o ich nabyciu.
-
-3. W przypadku niespełnienia warunków, o których mowa w ust. 1–2, nabycie własności rzeczy lub praw majątkowych podlega opodatkowaniu na zasadach określonych dla nabywców zaliczonych do I grupy podatkowej.”;
+    - **b)** ust. 2 i 3 otrzymują brzmienie: „2. Jeżeli nabywca dowiedział się o nabyciu własności rzeczy lub praw majątkowych po upływie terminów, o których mowa w ust. 1 pkt 1 lub ust. 1a, zwolnienie, o którym mowa w ust. 1, stosuje się, gdy nabywca zgłosi te rzeczy lub prawa majątkowe naczelnikowi urzędu skarbowego nie później niż w terminie 6 miesięcy od dnia, w którym dowiedział się o ich nabyciu, oraz uprawdopodobni fakt późniejszego powzięcia wiadomości o ich nabyciu. 3. W przypadku niespełnienia warunków, o których mowa w ust. 1–2, nabycie własności rzeczy lub praw majątkowych podlega opodatkowaniu na zasadach określonych dla nabywców zaliczonych do I grupy podatkowej.”;
 
 - **2)** w art. 6 w ust. 1 pkt 2b otrzymuje brzmienie: „2b) przy nabyciu w drodze zapisu windykacyjnego – z chwilą uprawomocnienia się orzeczenia sądu stwierdzającego nabycie spadku, postanowienia częściowego stwierdzającego nabycie przedmiotu zapisu windykacyjnego, zarejestrowania aktu poświadczenia dziedziczenia lub wydania europejskiego poświadczenia spadkowego;”.
 
@@ -180,7 +101,7 @@ source: pdf
 
 **Art. 9.** Przepisów:
 
-- **1)** art. 1142 –1142 ustawy zmienianej w art. 1,
+- **1)** art. 1142 1 –1142 ustawy zmienianej w art. 1,
 - **2)** art. 79 pkt 1b i art. 95q–95x ustawy zmienianej w art. 2,
 - **3)** art. 19 ust. 4b ustawy zmienianej w art. 5,
 - **4)** art. 66a ustawy zmienianej w art. 8 – w brzmieniu nadanym niniejszą ustawą, nie stosuje się do spadków otwartych przed dniem 17 sierpnia 2015 r.

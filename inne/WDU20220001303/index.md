@@ -27,14 +27,18 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie sposobu podziału środków finansowych dla uczelni medycznych nadzorowanych przez ministra właściwego do spraw zdrowia Na podstawie art. 462 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2022 r.
 poz. 574, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 21 czerwca 2019 r. w sprawie sposobu podziału środków finansowych dla uczelni medycznych nadzorowanych przez ministra właściwego do spraw zdrowia (Dz. U. poz. 1201) wprowadza się następujące zmiany:
-1) w § 4 w ust. 1:
-a) w pkt 2 wyrazy „w latach 2019–2021” zastępuje się wyrazami „w latach 2019–2022”,
-b) w pkt 3 wyrazy „w latach 2020–2021” zastępuje się wyrazami „w latach 2020–2022”;
-2) w załączniku nr 1 do rozporządzenia w ust. 8:
-a) w opisie elementu wzoru Lkraj po wyrazach „o których mowa w art. 365 pkt 11 i 12 ustawy,” dodaje się wyrazy „oraz zadań finansowanych przez Agencję Badań Medycznych,”,
-b) w opisie elementu wzoru Lzagr po wyrazach „o których mowa w art. 365 pkt 11 i 12 ustawy,” dodaje się wyrazy „oraz zadań finansowanych przez Agencję Badań Medycznych,”.
-§ 2. Przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem stosuje się do podziału środków finansowych od dnia 1 stycznia 2022 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. W. Kraska
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 21 czerwca 2019 r. w sprawie sposobu podziału środków finansowych dla uczelni medycznych nadzorowanych przez ministra właściwego do spraw zdrowia (Dz. U. poz. 1201) wprowadza się następujące zmiany:
+
+- **1)** w § 4 w ust. 1:
+    - **a)** w pkt 2 wyrazy „w latach 2019–2021” zastępuje się wyrazami „w latach 2019–2022”,
+    - **b)** w pkt 3 wyrazy „w latach 2020–2021” zastępuje się wyrazami „w latach 2020–2022”;
+
+- **2)** w załączniku nr 1 do rozporządzenia w ust. 8:
+    - **a)** w opisie elementu wzoru Lkraj po wyrazach „o których mowa w art. 365 pkt 11 i 12 ustawy,” dodaje się wyrazy „oraz zadań finansowanych przez Agencję Badań Medycznych,”,
+    - **b)** w opisie elementu wzoru Lzagr po wyrazach „o których mowa w art. 365 pkt 11 i 12 ustawy,” dodaje się wyrazy „oraz zadań finansowanych przez Agencję Badań Medycznych,”.
+
+**§ 2.** Przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem stosuje się do podziału środków finansowych od dnia 1 stycznia 2022 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: wz. W. Kraska
 

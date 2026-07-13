@@ -26,9 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001719) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1719/text.pdf) |
 
 w sprawie wzoru karty ewidencyjnej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną Na podstawie art. 31e ust. 4 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2012 r. poz. 987 oraz z 2015 poz. 1505) zarządza się, co następuje:
-§ 1. Wzór karty ewidencyjnej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną określa załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 30 listopada 2015 r.
-Minister Kultury i Dziedzictwa Narodowego: M. Omilanowska Załącznik do rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 14października 2015 r.
-(poz. ….) WZÓR WZÓR Karta ewidencyjna rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną A.1. OKREŚLENIE RZECZY RUCHOMEJ A.2. WYPOŻYCZAJĄCY (właściciel lub posiadacz) A.3. DANE DOTYCZĄCE WYSTAWY A.4. Informacja o ustaniu ochrony prawnej rzeczy ruchomej z przyczyn określonych w art. 31a ust. 3 pkt 3 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2012 r. poz. 987 oraz z 2015 r.
-poz. 1505)
+
+**§ 1.** Wzór karty ewidencyjnej rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną określa załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 30 listopada 2015 r. Minister Kultury i Dziedzictwa Narodowego: M. Omilanowska Załącznik do rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 14października 2015 r. (poz. ….) WZÓR WZÓR Karta ewidencyjna rzeczy ruchomej o wartości historycznej, artystycznej lub naukowej, wypożyczanej z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, objętej ochroną prawną A.1. OKREŚLENIE RZECZY RUCHOMEJ A.2. WYPOŻYCZAJĄCY (właściciel lub posiadacz) A.3. DANE DOTYCZĄCE WYSTAWY A.4. Informacja o ustaniu ochrony prawnej rzeczy ruchomej z przyczyn określonych w art. 31a ust. 3 pkt 3 ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2012 r. poz. 987 oraz z 2015 r. poz. 1505)
 

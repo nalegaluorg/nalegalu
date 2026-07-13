@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie Krajowego Rejestru Pacjentów z COVID-19 Na podstawie art. 20 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2021 r.
 poz. 666 i 1292) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 7 kwietnia 2020 r. w sprawie Krajowego Rejestru Pacjentów z COVID-19 (Dz. U. z 2021 r. poz. 1837) w § 2 ust. 2 otrzymuje brzmienie: „2. Rejestr tworzy się do dnia 31 grudnia 2022 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 7 kwietnia 2020 r. w sprawie Krajowego Rejestru Pacjentów z COVID-19 (Dz. U. z 2021 r. poz. 1837) w § 2 ust. 2 otrzymuje brzmienie: „2. Rejestr tworzy się do dnia 31 grudnia 2022 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: A. Niedzielski
 

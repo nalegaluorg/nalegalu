@@ -27,11 +27,12 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego Na podstawie art. 14 ust. 1 ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. z 2018 r.
 poz. 577) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U.
-z 2022 r. poz. 2425) wprowadza się następujące zmiany:
-1) w § 5 dodaje się ust. 3 w brzmieniu: „3. Urzędnikowi zatrudnionemu w sądzie lub w powszechnej jednostce organizacyjnej prokuratury, których siedziba znajduje się na obszarze m.st. Warszawy, świadczącemu pracę na obszarze m.st. Warszawy, może, w ramach posiadanych środków na wynagrodzenia, zostać przyznany na czas określony również stołeczny dodatek specjalny w wysokości do 25% wynagrodzenia zasadniczego i dodatku z tytułu zajmowanego stanowiska lub pełnionej funkcji łącznie.”;
-2) w załączniku nr 1 do rozporządzenia w części „Powszechne jednostki organizacyjne prokuratury” w tabeli po wierszu „administrator systemu informatycznego administrator systemu teleinformatycznego inspektor bezpieczeństwa teleinformatycznego informatyk” dodaje się wiersz w brzmieniu: menedżer usługi wykształcenie wyższe: studia pierwszego stopnia lub studia drugiego stopnia, lub jednolite studia magisterskie, na kierunku związanym z kształceniem w zakresie informatyki, ekonomii, zarządzania lub studia prawnicze
-3) w załączniku nr 4 do rozporządzenia w części „Powszechne jednostki organizacyjne prokuratury” w tabeli po wierszu „ – informatyk” dodaje się wiersz w brzmieniu: – menedżer usługi do 2000
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 1, który wchodzi w życie z dniem 1 stycznia 2023 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie stanowisk i szczegółowych zasad wynagradzania urzędników i innych pracowników sądów i prokuratury oraz odbywania stażu urzędniczego (Dz. U. z 2022 r. poz. 2425) wprowadza się następujące zmiany:
+
+- **1)** w § 5 dodaje się ust. 3 w brzmieniu: „3. Urzędnikowi zatrudnionemu w sądzie lub w powszechnej jednostce organizacyjnej prokuratury, których siedziba znajduje się na obszarze m.st. Warszawy, świadczącemu pracę na obszarze m.st. Warszawy, może, w ramach posiadanych środków na wynagrodzenia, zostać przyznany na czas określony również stołeczny dodatek specjalny w wysokości do 25% wynagrodzenia zasadniczego i dodatku z tytułu zajmowanego stanowiska lub pełnionej funkcji łącznie.”;
+- **2)** w załączniku nr 1 do rozporządzenia w części „Powszechne jednostki organizacyjne prokuratury” w tabeli po wierszu „administrator systemu informatycznego administrator systemu teleinformatycznego inspektor bezpieczeństwa teleinformatycznego informatyk” dodaje się wiersz w brzmieniu: menedżer usługi wykształcenie wyższe: studia pierwszego stopnia lub studia drugiego stopnia, lub jednolite studia magisterskie, na kierunku związanym z kształceniem w zakresie informatyki, ekonomii, zarządzania lub studia prawnicze
+- **3)** w załączniku nr 4 do rozporządzenia w części „Powszechne jednostki organizacyjne prokuratury” w tabeli po wierszu „ – informatyk” dodaje się wiersz w brzmieniu: – menedżer usługi do 2000
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 1, który wchodzi w życie z dniem 1 stycznia 2023 r. Minister Sprawiedliwości: Z. Ziobro
 

@@ -27,7 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001865) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1865/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wynagrodzenia przysługującego lekarzowi sądowemu i trybu finansowania tego wynagrodzenia oraz zwrotu kosztów dojazdu, a także wzoru zestawienia wystawionych zaświadczeń Na podstawie art. 18 ust. 4 ustawy z dnia 15 czerwca 2007 r. o lekarzu sądowym (Dz. U. poz. 849, z 2008 r. poz. 293 oraz z 2011 r. poz. 622) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 14 stycznia 2008 r. w sprawie wynagrodzenia przysługującego lekarzowi sądowemu i trybu finansowania tego wynagrodzenia oraz zwrotu kosztów dojazdu, a także wzoru zestawienia wystawionych zaświadczeń (Dz. U. z 2013 r. poz. 467) § 2 otrzymuje brzmienie: „§ 2. Za wystawienie zaświadczenia, o którym mowa w art. 2 ust. 2 ustawy, lekarzowi sądowemu przysługuje wynagrodzenie w wysokości 250 zł.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r.
-Minister Sprawiedliwości: W. Żurek
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 14 stycznia 2008 r. w sprawie wynagrodzenia przysługującego lekarzowi sądowemu i trybu finansowania tego wynagrodzenia oraz zwrotu kosztów dojazdu, a także wzoru zestawienia wystawionych zaświadczeń (Dz. U. z 2013 r. poz. 467) § 2 otrzymuje brzmienie: „§ 2. Za wystawienie zaświadczenia, o którym mowa w art. 2 ust. 2 ustawy, lekarzowi sądowemu przysługuje wynagrodzenie w wysokości 250 zł.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2026 r. Minister Sprawiedliwości: W. Żurek
 

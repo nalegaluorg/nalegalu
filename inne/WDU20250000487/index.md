@@ -27,8 +27,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000487) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/487/text.pdf) |
 
 zmieniające rozporządzenie w sprawie należności przysługujących prokuratorom delegowanym do pełnienia obowiązków lub funkcji poza granicami państwa Na podstawie art. 113 § 6 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2024 r. poz. 390 oraz z 2025 r. poz. 304) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie należności przysługujących prokuratorom delegowanym do pełnienia obowiązków lub funkcji poza granicami państwa (Dz. U. poz. 484) w § 2 ust. 2 i 3 otrzymują brzmienie: „2. Dodatek zagraniczny określa się jako należność miesięczną w wysokości dodatku zagranicznego przysługującego członkowi służby zagranicznej wykonującemu obowiązki w placówce zagranicznej na najniższym stanowisku personelu dyplomatyczno-konsularnego.
-3. Dodatek zagraniczny za jeden dzień wynosi 1/30 część pełnej kwoty dodatku zagranicznego.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2025 r.
-Minister Sprawiedliwości: A. Bodnar
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 3 marca 2017 r. w sprawie należności przysługujących prokuratorom delegowanym do pełnienia obowiązków lub funkcji poza granicami państwa (Dz. U. poz. 484) w § 2 ust. 2 i 3 otrzymują brzmienie: „2. Dodatek zagraniczny określa się jako należność miesięczną w wysokości dodatku zagranicznego przysługującego członkowi służby zagranicznej wykonującemu obowiązki w placówce zagranicznej na najniższym stanowisku personelu dyplomatyczno-konsularnego. 3. Dodatek zagraniczny za jeden dzień wynosi 1/30 część pełnej kwoty dodatku zagranicznego.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2025 r. Minister Sprawiedliwości: A. Bodnar
 

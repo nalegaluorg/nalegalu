@@ -26,17 +26,28 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000013) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/13/text.pdf) |
 
 w sprawie obowiązkowego ubezpieczenia odpowiedzialności cywilnej kwalifikowanego dostawcy usług zaufania Na podstawie art. 13 ust. 4 ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. poz. 1579) zarządza się, co następuje:
-§ 1. Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej kwalifikowanego dostawcy usług zaufania za szkody wyrządzone odbiorcom usług zaufania powstałe w okresie świadczenia usług zaufania, zwanego dalej „ubezpieczeniem OC”, oraz minimalną sumę gwarancyjną tego ubezpieczenia.
-§ 2. 1. Ubezpieczeniem OC jest objęta odpowiedzialność cywilna kwalifikowanego dostawcy usług zaufania, zwanego dalej „dostawcą”, za szkody wyrządzone w następstwie działania lub zaniechania ubezpieczonego, w okresie ubezpieczenia, podczas świadczenia usług zaufania.
+
+**§ 1.** Rozporządzenie określa szczegółowy zakres obowiązkowego ubezpieczenia odpowiedzialności cywilnej kwalifikowanego dostawcy usług zaufania za szkody wyrządzone odbiorcom usług zaufania powstałe w okresie świadczenia usług zaufania, zwanego dalej „ubezpieczeniem OC”, oraz minimalną sumę gwarancyjną tego ubezpieczenia.
+
+**§ 2.**
+
+1. Ubezpieczeniem OC jest objęta odpowiedzialność cywilna kwalifikowanego dostawcy usług zaufania, zwanego dalej „dostawcą”, za szkody wyrządzone w następstwie działania lub zaniechania ubezpieczonego, w okresie ubezpieczenia, podczas świadczenia usług zaufania.
+
 2. Ubezpieczenie OC nie obejmuje szkód:
-1) wyrządzonych przez dostawcę będącego osobą fizyczną małżonkowi, wstępnemu, zstępnemu, rodzeństwu, a także powinowatemu w tej samej linii lub stopniu, osobie pozostającej w stosunku przysposobienia oraz jej małżonkowi, jak również osobie, z którą ubezpieczony pozostaje we wspólnym pożyciu, lub innemu ubezpieczonemu będącemu wspólnikiem dostawcy;
-2) wyrządzonych przez pracownika dostawcy lub osobę fizyczną działającą w imieniu i na rzecz dostawcy małżonkowi, wstępnemu, zstępnemu, rodzeństwu, a także powinowatemu w tej samej linii lub stopniu, osobie pozostającej w stosunku przysposobienia oraz jej małżonkowi, jak również osobie, z którą pracownik dostawcy lub osoba fizyczna działająca w imieniu i na rzecz dostawcy pozostaje we wspólnym pożyciu, lub innemu ubezpieczonemu będącemu wspólnikiem dostawcy;
-3) wyrządzonych przez ubezpieczonego po dniu wydania ostatecznej decyzji o wykreśleniu wpisu w rejestrze kwalifikowanej usługi zaufania;
-4) polegających na zapłacie kar umownych;
-5) powstałych wskutek działań wojennych, rozruchów i zamieszek, a także aktów terroru.
+
+- **1)** wyrządzonych przez dostawcę będącego osobą fizyczną małżonkowi, wstępnemu, zstępnemu, rodzeństwu, a także powinowatemu w tej samej linii lub stopniu, osobie pozostającej w stosunku przysposobienia oraz jej małżonkowi, jak również osobie, z którą ubezpieczony pozostaje we wspólnym pożyciu, lub innemu ubezpieczonemu będącemu wspólnikiem dostawcy;
+- **2)** wyrządzonych przez pracownika dostawcy lub osobę fizyczną działającą w imieniu i na rzecz dostawcy małżonkowi, wstępnemu, zstępnemu, rodzeństwu, a także powinowatemu w tej samej linii lub stopniu, osobie pozostającej w stosunku przysposobienia oraz jej małżonkowi, jak również osobie, z którą pracownik dostawcy lub osoba fizyczna działająca w imieniu i na rzecz dostawcy pozostaje we wspólnym pożyciu, lub innemu ubezpieczonemu będącemu wspólnikiem dostawcy;
+- **3)** wyrządzonych przez ubezpieczonego po dniu wydania ostatecznej decyzji o wykreśleniu wpisu w rejestrze kwalifikowanej usługi zaufania;
+- **4)** polegających na zapłacie kar umownych;
+- **5)** powstałych wskutek działań wojennych, rozruchów i zamieszek, a także aktów terroru.
+
 3. Ubezpieczenie OC obejmuje wszystkie szkody w zakresie, o którym mowa w ust. 1, z zastrzeżeniem ust. 2, bez możliwości umownego ograniczenia odpowiedzialności przez zakład ubezpieczeń.
-§ 3. 1. Minimalna suma gwarancyjna ubezpieczenia OC, w odniesieniu do jednego zdarzenia, którego skutki są objęte umową ubezpieczenia OC, wynosi równowartość w złotych 250 000 euro, jednak nie więcej niż 1 000 000 euro w odniesieniu do wszystkich zdarzeń.
+
+**§ 3.**
+
+1. Minimalna suma gwarancyjna ubezpieczenia OC, w odniesieniu do jednego zdarzenia, którego skutki są objęte umową ubezpieczenia OC, wynosi równowartość w złotych 250 000 euro, jednak nie więcej niż 1 000 000 euro w odniesieniu do wszystkich zdarzeń.
+
 2. Kwota, o której mowa w ust. 1, jest ustalana przy zastosowaniu kursu średniego euro ogłoszonego przez Narodowy Bank Polski po raz pierwszy w roku, w którym umowa ubezpieczenia OC została zawarta.
-§ 4. Rozporządzenie wchodzi w życie z dniem 8 stycznia 2017 r.
-Minister Rozwoju i Finansów: wz. W. Janczyk
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem 8 stycznia 2017 r. Minister Rozwoju i Finansów: wz. W. Janczyk
 

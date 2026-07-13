@@ -30,9 +30,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w 
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 5 listopada 2025 r. zmieniającego rozporządzenie w sprawie nadania statutu Roztoczańskiemu Parkowi Narodowemu z siedzibą w Zwierzyńcu (Dz. U. z 2024 r. poz. 1647), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Klimatu i Środowiska: wz. U. Zielińska
 ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 18 lutego 2013 r.
 w sprawie nadania statutu Roztoczańskiemu Parkowi Narodowemu z siedzibą w Zwierzyńcu Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478 i 1940 oraz z 2025 r. poz. 884) zarządza się, co następuje:
-§ 1. Roztoczańskiemu Parkowi Narodowemu z siedzibą w Zwierzyńcu nadaje się statut, który stanowi załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia .
-STATUT ROZTOCZAŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W ZWIERZYŃCU
+
+**§ 1.** Roztoczańskiemu Parkowi Narodowemu z siedzibą w Zwierzyńcu nadaje się statut, który stanowi załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia . STATUT ROZTOCZAŃSKIEGO PARKU NARODOWEGO Z SIEDZIBĄ W ZWIERZYŃCU
+
+## Załącznik
+
 § 1. Roztoczański Park Narodowy z siedzibą w Zwierzyńcu, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478 i 1940 oraz z 2025 r.
 poz. 884) oraz niniejszego statutu.
 § 2. Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:

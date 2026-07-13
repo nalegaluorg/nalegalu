@@ -27,7 +27,8 @@ source: pdf
 
 w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych Na podstawie art. 20 pkt 4 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2020 r.
 poz. 2072 oraz z 2021 r. poz. 1080 i 1236) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającym rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych (Dz. U. poz. 529) § 2 otrzymuje brzmienie: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 września 2021 r.
-Minister Sprawiedliwości: wz. M. Woś
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 16 marca 2021 r. zmieniającym rozporządzenie w sprawie przekazania niektórym sądom okręgowym rozpoznawania spraw zgodności z prawdą oświadczeń lustracyjnych z właściwości innych sądów okręgowych (Dz. U. poz. 529) § 2 otrzymuje brzmienie: „§ 2. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 2022 r.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 września 2021 r. Minister Sprawiedliwości: wz. M. Woś
 

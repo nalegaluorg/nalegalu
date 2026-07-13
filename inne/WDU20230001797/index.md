@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001797) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1797/text.pdf) |
 
 zmieniające rozporządzenie w sprawie warunków otrzymywania przez funkcjonariuszy Straży Granicznej dodatkowego wynagrodzenia za wykonywanie zadań zleconych wykraczających poza obowiązki służbowe Na podstawie art. 116 ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489 i 1723) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 27 maja 2002 r. w sprawie warunków otrzymywania przez funkcjonariuszy Straży Granicznej dodatkowego wynagrodzenia za wykonywanie zadań zleconych wykraczających poza obowiązki służbowe (Dz. U. z 2018 r. poz. 1723) w § 5c pkt 2 otrzymuje brzmienie: „2) dla funkcjonariuszy pełniących służbę w Wyższej Szkole Straży Granicznej, Biurze Spraw Wewnętrznych Straży Granicznej, oddziałach Straży Granicznej, ośrodkach szkolenia Straży Granicznej i ośrodkach Straży Granicznej – kierownik jednostki organizacyjnej Straży Granicznej lub upoważniona przez niego osoba.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
-Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
+
+**§ 1.** W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 27 maja 2002 r. w sprawie warunków otrzymywania przez funkcjonariuszy Straży Granicznej dodatkowego wynagrodzenia za wykonywanie zadań zleconych wykraczających poza obowiązki służbowe (Dz. U. z 2018 r. poz. 1723) w § 5c pkt 2 otrzymuje brzmienie: „2) dla funkcjonariuszy pełniących służbę w Wyższej Szkole Straży Granicznej, Biurze Spraw Wewnętrznych Straży Granicznej, oddziałach Straży Granicznej, ośrodkach szkolenia Straży Granicznej i ośrodkach Straży Granicznej – kierownik jednostki organizacyjnej Straży Granicznej lub upoważniona przez niego osoba.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2023 r. Minister Spraw Wewnętrznych i Administracji: wz. M. Wąsik
 

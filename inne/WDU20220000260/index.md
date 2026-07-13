@@ -26,16 +26,9 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000260) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/260/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. z 2019 r. poz. 1465), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 11 września 2019 r. ‒ Przepisy wprowadzające ustawę ‒ Prawo zamówień publicznych (Dz. U. poz. 2020) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 listopada 2021 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 89, art. 90 i art. 109 ustawy z dnia 11 września 2019 r. ‒ Przepisy wprowadzające ustawę ‒ Prawo zamówień publicznych (Dz. U. poz. 2020), które stanowią: „Art. 89. Traci moc ustawa z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843).
-
-**Art. 90.**
-
-1. Do postępowań o udzielenie zamówienia, o których mowa w ustawie uchylanej w art. 89, wszczętych i niezakończonych przed dniem 1 stycznia 2021 r. stosuje się przepisy dotychczasowe.
-
-2. Do konkursów, o których mowa w ustawie uchylanej w art. 89, rozpoczętych i niezakończonych przed dniem 1 stycznia 2021 r. stosuje się przepisy dotychczasowe.” „Art. 109. Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem:
-
-- **1)** art. 85 pkt 5, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
-- **2)** art. 88, który wchodzi w życie z dniem 1 marca 2020 r.”. Marszałek Sejmu: E. Witek USTAWA z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 89, art. 90 i art. 109 ustawy z dnia 11 września 2019 r. ‒ Przepisy wprowadzające ustawę ‒ Prawo zamówień publicznych (Dz. U. poz. 2020), które stanowią: „ Art. 89. Traci moc ustawa z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843). Art. 90. 1. Do postępowań o udzielenie zamówienia, o których mowa w ustawie uchylanej w art. 89, wszczętych i niezakończonych przed dniem 1 stycznia 2021 r. stosuje się przepisy dotychczasowe. 2. Do konkursów, o których mowa w ustawie uchylanej w art. 89, rozpoczętych i niezakończonych przed dniem 1 stycznia 2021 r. stosuje się przepisy dotychczasowe.” „Art. 109. Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem: 1) art. 85 pkt 5, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia; 2) art. 88, który wchodzi w życie z dniem 1 marca 2020 r.”. Marszałek Sejmu: E. Witek
+USTAWA z dnia 20 kwietnia 2004 r.
+o Narodowym Planie Rozwoju
 
 #### Rozdział 1 Przepisy ogólne
 

@@ -31,15 +31,19 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 24 czerwca 2013 r.
 w sprawie kwalifikacji osób prowadzących czynności kontrolne przestrzegania wymagań integrowanej produkcji roślin oraz wzoru certyfikatu poświadczającego stosowanie integrowanej produkcji roślin Na podstawie art. 63 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. z 2024 r. poz. 630 oraz z 2025 r.
 poz. 1168, 1697 i 1709) zarządza się, co następuje:
-§ 1. Osoby prowadzące czynności kontrolne przestrzegania wymagań integrowanej produkcji roślin powinny posiadać:
-1) wykształcenie:
-a) określone w § 6 ust. 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 maja 2013 r. w sprawie szkoleń w zakresie środków ochrony roślin (Dz. U. z 2022 r. poz. 824) lub
-b) wyższe, inne niż określone w § 6 ust. 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 maja 2013 r. w sprawie szkoleń w zakresie środków ochrony roślin oraz ukończone szkolenie określone w § 6 ust. 1 pkt 2 tego rozporządzenia, z uwzględnieniem jego § 6 ust. 2 i § 13;
-2) co najmniej:
-a) sześciomiesięczny staż pracy na stanowisku związanym z uprawą lub ochroną roślin, lub kontrolą żywności lub jej certyfikacją, lub
-b) sześciomiesięczne doświadczenie w prowadzeniu działalności gospodarczej związanej z uprawą lub ochroną roślin, lub kontrolą żywności lub jej certyfikacją, lub
-c) sześciomiesięczne doświadczenie w pracy związanej z uprawą lub ochroną roślin w gospodarstwie rolnym.
-§ 2. Wzór certyfikatu poświadczającego stosowanie integrowanej produkcji roślin określa załącznik do rozporządzenia.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem § 2, który wchodzi w życie z dniem 1 stycznia 2014 r.
-WZÓR WZÓR .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t
+
+**§ 1.** Osoby prowadzące czynności kontrolne przestrzegania wymagań integrowanej produkcji roślin powinny posiadać:
+
+- **1)** wykształcenie:
+    - **a)** określone w § 6 ust. 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 maja 2013 r. w sprawie szkoleń w zakresie środków ochrony roślin (Dz. U. z 2022 r. poz. 824) lub
+    - **b)** wyższe, inne niż określone w § 6 ust. 1 pkt 1 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 8 maja 2013 r. w sprawie szkoleń w zakresie środków ochrony roślin oraz ukończone szkolenie określone w § 6 ust. 1 pkt 2 tego rozporządzenia, z uwzględnieniem jego § 6 ust. 2 i § 13;
+
+- **2)** co najmniej:
+    - **a)** sześciomiesięczny staż pracy na stanowisku związanym z uprawą lub ochroną roślin, lub kontrolą żywności lub jej certyfikacją, lub
+    - **b)** sześciomiesięczne doświadczenie w prowadzeniu działalności gospodarczej związanej z uprawą lub ochroną roślin, lub kontrolą żywności lub jej certyfikacją, lub
+    - **c)** sześciomiesięczne doświadczenie w pracy związanej z uprawą lub ochroną roślin w gospodarstwie rolnym.
+
+**§ 2.** Wzór certyfikatu poświadczającego stosowanie integrowanej produkcji roślin określa załącznik do rozporządzenia.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem § 2, który wchodzi w życie z dniem 1 stycznia 2014 r. WZÓR WZÓR .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t .......................................... – ........ t
 

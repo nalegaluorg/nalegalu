@@ -31,10 +31,15 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezesa Rady Ministrów
 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 3 lutego 2021 r.
 w sprawie nadania statutu Urzędowi Patentowemu Rzeczypospolitej Polskiej Na podstawie art. 260 ust. 2 ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r.
 poz. 1170) zarządza się, co następuje:
-§ 1. Urzędowi Patentowemu Rzeczypospolitej Polskiej nadaje się statut stanowiący załącznik do rozporządzenia.
-§ 2. Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 7 czerwca 2004 r. w sprawie nadania statutu Urzędowi Patentowemu Rzeczypospolitej Polskiej (Dz. U. poz. 1484, z 2010 r. poz. 237 oraz z 2016 r. poz. 1450).
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
-STATUT URZĘDU PATENTOWEGO RZECZYPOSPOLITEJ POLSKIEJ
+
+**§ 1.** Urzędowi Patentowemu Rzeczypospolitej Polskiej nadaje się statut stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 7 czerwca 2004 r. w sprawie nadania statutu Urzędowi Patentowemu Rzeczypospolitej Polskiej (Dz. U. poz. 1484, z 2010 r. poz. 237 oraz z 2016 r. poz. 1450).
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia . STATUT URZĘDU PATENTOWEGO RZECZYPOSPOLITEJ POLSKIEJ
+
+## Załącznik
+
 § 1. Urząd Patentowy Rzeczypospolitej Polskiej, zwany dalej „Urzędem Patentowym”, działa na podstawie ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej, zwanej dalej „ustawą”, oraz niniejszego statutu.
 § 2. 1. W skład Urzędu Patentowego wchodzą następujące komórki organizacyjne:
 1) Departament Biotechnologii i Chemii;

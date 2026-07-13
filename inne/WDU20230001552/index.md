@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001552) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1552/text.pdf) |
 
 zmieniające rozporządzenie w sprawie określenia sądów rejonowych prowadzących księgi wieczyste oraz obszarów ich właściwości miejscowej Na podstawie art. 58 pkt 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2023 r. poz. 146 i 614) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 25 września 2014 r. w sprawie określenia sądów rejonowych prowadzących księgi wieczyste oraz obszarów ich właściwości miejscowej (Dz. U. z 2021 r. poz. 1375) w § 1 w pkt 33a lit. a otrzymuje brzmienie: „a) Sąd Rejonowy w Będzinie – dla obszaru właściwości tego Sądu i Sądu Rejonowego w Czeladzi,”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
-Minister Sprawiedliwości: Z. Ziobro
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 25 września 2014 r. w sprawie określenia sądów rejonowych prowadzących księgi wieczyste oraz obszarów ich właściwości miejscowej (Dz. U. z 2021 r. poz. 1375) w § 1 w pkt 33a lit. a otrzymuje brzmienie: „a) Sąd Rejonowy w Będzinie – dla obszaru właściwości tego Sądu i Sądu Rejonowego w Czeladzi,”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 października 2023 r. Minister Sprawiedliwości: Z. Ziobro
 

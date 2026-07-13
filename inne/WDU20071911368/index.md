@@ -30,40 +30,8 @@ source: pdf
 **Art. 1.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz.U. z 2004 r. Nr 39, poz. 353, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** w art. 20 w pkt 1 w zdaniu wstępnym wyrazy „do 9 roboczego dnia lutego” zastępuje się wyrazami „do 7 roboczego dnia lutego”;
-- **2)** art. 88 i 89 otrzymują brzmienie: „Art. 88. 1. Emerytury i renty podlegają corocznie waloryzacji od dnia 1 marca.
-
-2. Waloryzacja polega na pomnożeniu kwoty świadczenia i podstawy jego wymiaru przez wskaźnik waloryzacji.
-
-3. Waloryzacji podlega kwota świadczenia i podstawa jego wymiaru w wysokości przysługującej ostatniego dnia lutego roku kalendarzowego, w którym przeprowadza się waloryzację.
-
-4. Waloryzacja obejmuje emerytury i renty przyznane przed terminem waloryzacji.
-
-**Art. 89.**
-
-1. Wskaźnik waloryzacji to średnioroczny wskaźnik cen towarów i usług konsumpcyjnych w poprzednim roku kalendarzowym zwiększony o co najmniej 20% realnego wzrostu przeciętnego wynagrodzenia w poprzednim roku kalendarzowym.
-
-2. Wskaźnikiem cen towarów i usług konsumpcyjnych, o którym mowa w ust. 1, jest średnioroczny wskaźnik cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów albo średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem, jeżeli jest on wyższy od wskaźnika cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów.
-
-3. Zwiększenie o co najmniej 20% realnego wzrostu przeciętnego wynagrodzenia, o którym mowa w ust. 1, jest corocznie przedmiotem negocjacji w ramach Trójstronnej Komisji do Spraw Społeczno-Gospodarczych.
-
-4. Jeżeli Trójstronna Komisja do Spraw Społeczno-Gospodarczych w terminie 5 dni od dnia ogłoszenia przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikatu, o którym mowa w art. 94 ust. 1 pkt 1 i 2, uzgodni, w drodze uchwały, wysokość zwiększenia, o którym mowa w ust. 3, wskaźnik waloryzacji podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze komunikatu ministra właściwego do spraw zabezpieczenia społecznego.
-
-5. Jeżeli nie nastąpi uzgodnienie stanowiska Trójstronnej Komisji do Spraw Społeczno-Gospodarczych w trybie określonym w ust. 3 i 4, Rada Ministrów określi w terminie 2 dni od zakończenia negocjacji, w drodze rozporządzenia, wskaźnik waloryzacji, biorąc pod uwagę wskaźniki, o których mowa w ust. 1 i 2.”;
-
-- **3)** art. 94 otrzymuje brzmienie: „Art. 94. 1. Prezes Głównego Urzędu Statystycznego ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
-- **1)** w terminie do końca stycznia:
-    - **a)** średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem,
-    - **b)** średnioroczny wskaźnik cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów – w poprzednim roku kalendarzowym;
-
-- **2)** w terminie do 7 roboczego dnia lutego realny wzrost przeciętnego wynagrodzenia w poprzednim roku kalendarzowym.
-
-2. Prezes Zakładu ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji:
-
-- **1)** należne od terminu waloryzacji kwoty:
-    - **a)** najniższej emerytury i renty,
-    - **b)** dodatku pielęgnacyjnego i dodatku dla sierot zupełnych;
-
-- **2)** obowiązujące od terminu waloryzacji kwoty maksymalnych zmniejszeń, obliczonych zgodnie z art. 104 ust. 9.”;
+- **2)** art. 88 i 89 otrzymują brzmienie: „Art. 88. 1. Emerytury i renty podlegają corocznie waloryzacji od dnia 1 marca. 2. Waloryzacja polega na pomnożeniu kwoty świadczenia i podstawy jego wymiaru przez wskaźnik waloryzacji. 3. Waloryzacji podlega kwota świadczenia i podstawa jego wymiaru w wysokości przysługującej ostatniego dnia lutego roku kalendarzowego, w którym przeprowadza się waloryzację. 4. Waloryzacja obejmuje emerytury i renty przyznane przed terminem waloryzacji. Art. 89. 1. Wskaźnik waloryzacji to średnioroczny wskaźnik cen towarów i usług konsumpcyjnych w poprzednim roku kalendarzowym zwiększony o co najmniej 20% realnego wzrostu przeciętnego wynagrodzenia w poprzednim roku kalendarzowym. 2. Wskaźnikiem cen towarów i usług konsumpcyjnych, o którym mowa w ust. 1, jest średnioroczny wskaźnik cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów albo średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem, jeżeli jest on wyższy od wskaźnika cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów. 3. Zwiększenie o co najmniej 20% realnego wzrostu przeciętnego wynagrodzenia, o którym mowa w ust. 1, jest corocznie przedmiotem negocjacji w ramach Trójstronnej Komisji do Spraw Społeczno-Gospodarczych. 4. Jeżeli Trójstronna Komisja do Spraw Społeczno-Gospodarczych w terminie 5 dni od dnia ogłoszenia przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikatu, o którym mowa w art. 94 ust. 1 pkt 1 i 2, uzgodni, w drodze uchwały, wysokość zwiększenia, o którym mowa w ust. 3, wskaźnik waloryzacji podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze komunikatu ministra właściwego do spraw zabezpieczenia społecznego. 5. Jeżeli nie nastąpi uzgodnienie stanowiska Trójstronnej Komisji do Spraw Społeczno-Gospodarczych w trybie określonym w ust. 3 i 4, Rada Ministrów określi w terminie 2 dni od zakończenia negocjacji, w drodze rozporządzenia, wskaźnik waloryzacji, biorąc pod uwagę wskaźniki, o których mowa w ust. 1 i 2.”;
+- **3)** art. 94 otrzymuje brzmienie: „Art. 94. 1. Prezes Głównego Urzędu Statystycznego ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”: 1) w terminie do końca stycznia: a) średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem, b) średnioroczny wskaźnik cen towarów i usług konsumpcyjnych dla gospodarstw domowych emerytów i rencistów – w poprzednim roku kalendarzowym; 2) w terminie do 7 roboczego dnia lutego realny wzrost przeciętnego wynagrodzenia w poprzednim roku kalendarzowym. 2. Prezes Zakładu ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji: 1) należne od terminu waloryzacji kwoty: a) najniższej emerytury i renty, b) dodatku pielęgnacyjnego i dodatku dla sierot zupełnych; 2) obowiązujące od terminu waloryzacji kwoty maksymalnych zmniejszeń, obliczonych zgodnie z art. 104 ust. 9.”;
 - **4)** w art. 194a ust. 5 otrzymuje brzmienie: „5. Dla świadczeń przysługujących emerytom i rencistom urodzonym po dniu 31 grudnia 1929 r. podwyższa się kwotę bazową do 100% przeciętnego wynagrodzenia przyjętego do ustalenia wysokości świadczenia w dniu jego przyznania - od dnia 1 marca 2008 r.”.
 
 **Art. 2.**

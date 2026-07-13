@@ -30,11 +30,22 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Ro
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 25 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie określenia trybu i terminu powiadamiania o zamiarze nieprzeznaczania do sprzedaży owoców i warzyw oraz o planowanym sposobie ich zagospodarowania (Dz. U. poz. 1682), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”. Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel
 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 31 stycznia 2006 r.
 w sprawie określenia trybu i terminu powiadamiania o zamiarze nieprzeznaczania do sprzedaży owoców i warzyw oraz o planowanym sposobie ich zagospodarowania Na podstawie art. 19 ust. 2 pkt 12 ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2018 r. poz. 1131) zarządza się, co następuje:
-§ 1. 1. Organizacja producentów owoców i warzyw lub ich zrzeszenie powiadamia Prezesa Agencji Restrukturyzacji i Modernizacji Rolnictwa o zamiarze nieprzeznaczania do sprzedaży truskawek, malin, porzeczek czarnych i czerwonych lub białych, agrestu, wiśni, sałaty, kalafiorów, cykorii, korniszonów, fasoli szparagowej, karczochów lub szparagów oraz o planowanej masie i sposobie ich zagospodarowania, do godziny 10 dnia poprzedzającego dzień planowanego nieprzeznaczania do sprzedaży owoców i warzyw.
+
+**§ 1.**
+
+1. Organizacja producentów owoców i warzyw lub ich zrzeszenie powiadamia Prezesa Agencji Restrukturyzacji i Modernizacji Rolnictwa o zamiarze nieprzeznaczania do sprzedaży truskawek, malin, porzeczek czarnych i czerwonych lub białych, agrestu, wiśni, sałaty, kalafiorów, cykorii, korniszonów, fasoli szparagowej, karczochów lub szparagów oraz o planowanej masie i sposobie ich zagospodarowania, do godziny 10 dnia poprzedzającego dzień planowanego nieprzeznaczania do sprzedaży owoców i warzyw.
+
 2. Powiadomienia, o którym mowa w ust. 1, dokonuje się w formie pisemnej, za pomocą faksu lub pocztą elektroniczną.
+
 3. W przypadku owoców i warzyw objętych wspólną organizacją rynku owoców i warzyw i niewymienionych w ust. 1, powiadomienia, o którym mowa w ust. 1, dokonuje się do godziny 10 przedostatniego dnia poprzedzającego dzień planowanego nieprzeznaczania do sprzedaży owoców i warzyw.
-§ 2. 1. Jeżeli organizacja producentów owoców i warzyw lub ich zrzeszenie zamierza nie przeznaczyć do sprzedaży owoców i warzyw, o których mowa w § 1 ust. 1, w sobotę albo w dniu ustawowo wolnym od pracy, zwanych dalej „dniem wolnym od pracy”, lub w dniu następującym po dniu wolnym od pracy, powiadomienia dokonuje się do godziny 10 ostatniego dnia roboczego poprzedzającego dzień wolny od pracy.
+
+**§ 2.**
+
+1. Jeżeli organizacja producentów owoców i warzyw lub ich zrzeszenie zamierza nie przeznaczyć do sprzedaży owoców i warzyw, o których mowa w § 1 ust. 1, w sobotę albo w dniu ustawowo wolnym od pracy, zwanych dalej „dniem wolnym od pracy”, lub w dniu następującym po dniu wolnym od pracy, powiadomienia dokonuje się do godziny 10 ostatniego dnia roboczego poprzedzającego dzień wolny od pracy.
+
 2. Jeżeli organizacja producentów owoców i warzyw lub ich zrzeszenie zamierza nie przeznaczyć do sprzedaży owoców i warzyw, o których mowa w § 1 ust. 3, w dniu wolnym od pracy lub w dniu następującym po dniu wolnym od pracy, powiadomienia dokonuje się do godziny 10 przedostatniego dnia roboczego poprzedzającego dzień wolny od pracy.
+
 3. Jeżeli organizacja producentów owoców i warzyw lub ich zrzeszenie zamierza nie przeznaczyć do sprzedaży owoców i warzyw, o których mowa w § 1 ust. 1, drugiego dnia następującego po dniu wolnym od pracy, powiadomienia, o którym mowa w § 1, dokonuje się do godziny 10 ostatniego dnia roboczego poprzedzającego dzień wolny od pracy.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

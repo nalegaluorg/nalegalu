@@ -26,7 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000897) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/897/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania statutu Głównemu Inspektoratowi Ochrony Środowiska Na podstawie art. 4 ust. 7 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2021 r. poz. 1070) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 31 grudnia 2018 r. w sprawie nadania statutu Głównemu Inspektoratowi Ochrony Środowiska (Dz. U. poz. 2530 oraz z 2020 r. poz. 1621) w załączniku do rozporządzenia w § 4 w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) Departament Transgranicznego Przemieszczania Odpadów;”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 31 grudnia 2018 r. w sprawie nadania statutu Głównemu Inspektoratowi Ochrony Środowiska (Dz. U. poz. 2530 oraz z 2020 r. poz. 1621) w załączniku do rozporządzenia w § 4 w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) Departament Transgranicznego Przemieszczania Odpadów;”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

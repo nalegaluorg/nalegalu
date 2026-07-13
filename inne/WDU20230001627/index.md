@@ -27,7 +27,8 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie udzielania pomocy de minimis lub pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji B2.2.2 „Instalacje OZE realizowane przez społeczności energetyczne” objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2023 r.
 poz. 1259 i 1273) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rozwoju i Technologii z dnia 16 grudnia 2022 r. w sprawie udzielania pomocy de minimis lub pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji B2.2.2 „Instalacje OZE realizowane przez społeczności energetyczne” objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności (Dz. U. poz. 2863) w § 15 wyrazy „Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej” zastępuje się wyrazami „minister właściwy do spraw gospodarki”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rozwoju i Technologii: W. Buda
+
+**§ 1.** W rozporządzeniu Ministra Rozwoju i Technologii z dnia 16 grudnia 2022 r. w sprawie udzielania pomocy de minimis lub pomocy publicznej na przedsięwzięcia realizowane w ramach inwestycji B2.2.2 „Instalacje OZE realizowane przez społeczności energetyczne” objętej wsparciem ze środków Instrumentu na rzecz Odbudowy i Zwiększania Odporności (Dz. U. poz. 2863) w § 15 wyrazy „Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej” zastępuje się wyrazami „minister właściwy do spraw gospodarki”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rozwoju i Technologii: W. Buda
 

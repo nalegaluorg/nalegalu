@@ -26,15 +26,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000250) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/250/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wymogów dla systemów wyliczania utrzymywanych w podmiotach objętych systemem gwarantowania Na podstawie art. 30 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2022 r. poz. 2253 oraz z 2023 r. poz. 825, 1705, 1784 i 1843) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Finansów z dnia 26 września 2016 r. w sprawie wymogów dla systemów wyliczania utrzymywanych w podmiotach objętych systemem gwarantowania (Dz. U. poz. 1642) wprowadza się następujące zmiany:
-1) w § 4:
-a) w ust. 3 wyrazy „protokół SSL” zastępuje się wyrazami „protokół TLS”,
-b) uchyla się ust. 4;
-2) po § 8 dodaje się § 8a w brzmieniu: „§ 8a. W przypadku gdy podczas przeprowadzania kontroli, o której mowa w art. 32 ust. 1 ustawy, nastąpiło spełnienie warunku gwarancji albo została wydana decyzja o wszczęciu przymusowej restrukturyzacji, o której mowa w art. 101 ust. 7 ustawy, Bankowy Fundusz Gwarancyjny przekazuje niezwłocznie podmiotowi pisemną informację o zakończeniu kontroli. Przepisów § 6 ust. 3 i § 8 nie stosuje się.”;
-3) w załączniku nr 1 do rozporządzenia w pkt 1 skreśla się wyrazy „z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996)”;
-4) załączniki nr 2 i 3 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
-Minister Finansów: wz. J. Drop Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+
+**§ 1.** W rozporządzeniu Ministra Finansów z dnia 26 września 2016 r. w sprawie wymogów dla systemów wyliczania utrzymywanych w podmiotach objętych systemem gwarantowania (Dz. U. poz. 1642) wprowadza się następujące zmiany:
+
+- **1)** w § 4:
+    - **a)** w ust. 3 wyrazy „protokół SSL” zastępuje się wyrazami „protokół TLS”,
+    - **b)** uchyla się ust. 4;
+
+- **2)** po § 8 dodaje się § 8a w brzmieniu: „§ 8a. W przypadku gdy podczas przeprowadzania kontroli, o której mowa w art. 32 ust. 1 ustawy, nastąpiło spełnienie warunku gwarancji albo została wydana decyzja o wszczęciu przymusowej restrukturyzacji, o której mowa w art. 101 ust. 7 ustawy, Bankowy Fundusz Gwarancyjny przekazuje niezwłocznie podmiotowi pisemną informację o zakończeniu kontroli. Przepisów § 6 ust. 3 i § 8 nie stosuje się.”;
+- **3)** w załączniku nr 1 do rozporządzenia w pkt 1 skreśla się wyrazy „z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996)”;
+- **4)** załączniki nr 2 i 3 do rozporządzenia otrzymują brzmienie określone odpowiednio w załącznikach nr 1 i 2 do niniejszego rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. Minister Finansów: wz. J. Drop Minister Finansów kieruje działem administracji rządowej – instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
 
 ## Załączniki do rozporządzenia Ministra Finansów z dnia 20 lutego 2024 r.
 

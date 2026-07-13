@@ -27,13 +27,18 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000101) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/101/text.pdf) |
 
 zmieniające rozporządzenie w sprawie określenia wysokości jednorazowego odszkodowania z tytułu wypadku przy pracy rolniczej lub rolniczej choroby zawodowej oraz zasiłku chorobowego Na podstawie art. 13 ust. 4 i art. 14 ust. 8 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2024 r. poz. 90, 1243, 1674 i 1871) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 20 grudnia 2021 r. w sprawie określenia wysokości jednorazowego odszkodowania z tytułu wypadku przy pracy rolniczej lub rolniczej choroby zawodowej oraz zasiłku chorobowego (Dz. U. poz. 2396) wprowadza się następujące zmiany:
-1) w § 1 wyrazy „1033 zł” zastępuje się wyrazami „1431 zł”;
-2) w § 2 wyrazy „20 zł” zastępuje się wyrazami „25 zł”.
-§ 2. Do ustalenia wysokości jednorazowego odszkodowania z tytułu wypadku przy pracy rolniczej lub rolniczej choroby zawodowej i zasiłku chorobowego w sprawach objętych postępowaniami wszczętymi:
-1) przed dniem 1 stycznia 2025 r. i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym;
-2) po dniu 31 grudnia 2024 r. i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Do indywidualnego wymiaru jednorazowego odszkodowania z tytułu wypadku przy pracy rolniczej lub rolniczej choroby zawodowej i zasiłku chorobowego przyznanych w wyniku postępowań wszczętych po dniu 31 grudnia 2024 r. i zakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się wysokości tego odszkodowania i zasiłku określone w przepisach rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Rolnictwa i Rozwoju Wsi: wz. S. Krajewski
+
+**§ 1.** W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 20 grudnia 2021 r. w sprawie określenia wysokości jednorazowego odszkodowania z tytułu wypadku przy pracy rolniczej lub rolniczej choroby zawodowej oraz zasiłku chorobowego (Dz. U. poz. 2396) wprowadza się następujące zmiany:
+
+- **1)** w § 1 wyrazy „1033 zł” zastępuje się wyrazami „1431 zł”;
+- **2)** w § 2 wyrazy „20 zł” zastępuje się wyrazami „25 zł”.
+
+**§ 2.** Do ustalenia wysokości jednorazowego odszkodowania z tytułu wypadku przy pracy rolniczej lub rolniczej choroby zawodowej i zasiłku chorobowego w sprawach objętych postępowaniami wszczętymi:
+
+- **1)** przed dniem 1 stycznia 2025 r. i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym;
+- **2)** po dniu 31 grudnia 2024 r. i niezakończonymi przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 3.** Do indywidualnego wymiaru jednorazowego odszkodowania z tytułu wypadku przy pracy rolniczej lub rolniczej choroby zawodowej i zasiłku chorobowego przyznanych w wyniku postępowań wszczętych po dniu 31 grudnia 2024 r. i zakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się wysokości tego odszkodowania i zasiłku określone w przepisach rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 4.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Rolnictwa i Rozwoju Wsi: wz. S. Krajewski
 

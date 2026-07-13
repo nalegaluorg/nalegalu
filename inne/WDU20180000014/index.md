@@ -26,23 +26,16 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000014) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/14/text.pdf) |
 
 zmieniające rozporządzenie w sprawie Rady Zatrudnienia Socjalnego Na podstawie art. 18e ust. 7 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2016 r. poz. 1828) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Rodziny, Pracy i Polityki Społecznej z dnia 18 maja 2016 r. w sprawie Rady Zatrudnienia Socjalnego (Dz. U. poz. 733) wprowadza się następujące zmiany:
-1) w § 3 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku gdy kandydatem na członka Rady zgłoszonym przez podmiot zatrudnienia socjalnego jest osoba kierująca tym podmiotem, opinię sporządza instytucja tworząca podmiot zatrudnienia socjalnego.”;
-2) § 5 i 6 otrzymują brzmienie: „§ 5. Minister właściwy do spraw zabezpieczenia społecznego wybiera przewodniczącego Rady spośród członków Rady.
-§ 6. 1. Pierwsze posiedzenie Rady odbywa się w terminie wskazanym przez ministra właściwego do spraw zabezpieczenia społecznego.
-2. W trakcie pierwszego posiedzenia:
-1) minister właściwy do spraw zabezpieczenia społecznego lub jego upoważniony przedstawiciel wręcza akty powołania do Rady oraz akt wyboru przewodniczącego Rady;
-2) Rada wybiera spośród swoich członków wiceprzewodniczącego Rady i sekretarza Rady w głosowaniu jawnym, zwykłą większością głosów.
-3. W trakcie trwania kadencji Rady:
-1) zmiany przewodniczącego Rady dokonuje minister właściwy do spraw zabezpieczenia społecznego;
-2) zmiany wiceprzewodniczącego Rady lub sekretarza Rady, na wniosek członka Rady złożony wraz z uzasadnieniem, dokonują członkowie Rady w głosowaniu jawnym, zwykłą większością głosów.
-4. O zmianie, o której mowa w ust. 3 pkt 2, informuje się ministra właściwego do spraw zabezpieczenia społecznego.”;
-3) w § 7 w ust. 2:
-a) pkt 1 otrzymuje brzmienie: „1) inicjowanie prac Rady, w tym:
-a) określanie zagadnień merytorycznych stanowiących tematykę posiedzeń Rady, w uzgodnieniu z ministrem właściwym do spraw zabezpieczenia społecznego,
-b) formułowanie stanowisk i opinii w zakresie, o którym mowa w lit. a;”,
-b) pkt 5 otrzymuje brzmienie: „5) współpraca z Instytutem Pracy i Spraw Socjalnych;”.
-§ 2. Dotychczasowy przewodniczący Rady pełni swoje obowiązki do czasu zmiany przewodniczącego Rady, w trybie § 6 ust. 3 pkt 1 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Rodziny, Pracy i Polityki Społecznej: E. Rafalska
+
+**§ 1.** W rozporządzeniu Ministra Rodziny, Pracy i Polityki Społecznej z dnia 18 maja 2016 r. w sprawie Rady Zatrudnienia Socjalnego (Dz. U. poz. 733) wprowadza się następujące zmiany:
+
+- **1)** w § 3 po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku gdy kandydatem na członka Rady zgłoszonym przez podmiot zatrudnienia socjalnego jest osoba kierująca tym podmiotem, opinię sporządza instytucja tworząca podmiot zatrudnienia socjalnego.”;
+- **2)** § 5 i 6 otrzymują brzmienie: „§ 5. Minister właściwy do spraw zabezpieczenia społecznego wybiera przewodniczącego Rady spośród członków Rady. § 6. 1. Pierwsze posiedzenie Rady odbywa się w terminie wskazanym przez ministra właściwego do spraw zabezpieczenia społecznego. 2. W trakcie pierwszego posiedzenia: 1) minister właściwy do spraw zabezpieczenia społecznego lub jego upoważniony przedstawiciel wręcza akty powołania do Rady oraz akt wyboru przewodniczącego Rady; 2) Rada wybiera spośród swoich członków wiceprzewodniczącego Rady i sekretarza Rady w głosowaniu jawnym, zwykłą większością głosów. 3. W trakcie trwania kadencji Rady: 1) zmiany przewodniczącego Rady dokonuje minister właściwy do spraw zabezpieczenia społecznego; 2) zmiany wiceprzewodniczącego Rady lub sekretarza Rady, na wniosek członka Rady złożony wraz z uzasadnieniem, dokonują członkowie Rady w głosowaniu jawnym, zwykłą większością głosów. 4. O zmianie, o której mowa w ust. 3 pkt 2, informuje się ministra właściwego do spraw zabezpieczenia społecznego.”;
+- **3)** w § 7 w ust. 2:
+    - **a)** pkt 1 otrzymuje brzmienie: „1) inicjowanie prac Rady, w tym: a) określanie zagadnień merytorycznych stanowiących tematykę posiedzeń Rady, w uzgodnieniu z ministrem właściwym do spraw zabezpieczenia społecznego, b) formułowanie stanowisk i opinii w zakresie, o którym mowa w lit. a;”,
+    - **b)** pkt 5 otrzymuje brzmienie: „5) współpraca z Instytutem Pracy i Spraw Socjalnych;”.
+
+**§ 2.** Dotychczasowy przewodniczący Rady pełni swoje obowiązki do czasu zmiany przewodniczącego Rady, w trybie § 6 ust. 3 pkt 1 rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Rodziny, Pracy i Polityki Społecznej: E. Rafalska
 

@@ -13,6 +13,8 @@ source: pdf
 
 # Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 5 lutego 2025 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie przeciwpożarowej
 
+*USTAWA z dnia 24 sierpnia 1991 r.*
+
 | Pole | Wartość |
 |---|---|
 | Adres publikacyjny | Dz.U. 2025 poz. 188 |
@@ -22,32 +24,8 @@ source: pdf
 | W mocy | tak |
 | Data ogłoszenia | 2025-02-05 |
 | Data wydania | 2025-02-13 |
-| Ostatnia zmiana | 2025-02-14 |
+| Ostatnia zmiana | 2026-07-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000188) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/188/text.pdf) |
-
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2024 r. poz. 275), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222),
-2) ustawą z dnia 11 października 2024 r. o zmianie ustawy o ochronie przeciwpożarowej oraz ustawy o ochotniczych strażach pożarnych (Dz. U. poz. 1692),
-3) ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907) oraz zmian wynikających z przepisów ogłoszonych przed dniem 21 stycznia 2025 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 124 ustawy z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U.
-poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
-1) art. 1, art. 39 pkt 11 lit. b w zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 44 pkt 9 w zakresie art. 20 ust. 1 pkt 2 lit. b, który wchodzi w życie z dniem 1 grudnia 2024 r.;
-3) art. 39 pkt 24 i 27, które wchodzą w życie z dniem 1 stycznia 2025 r.;
-4) art. 39 pkt 31, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia;
-5) art. 49 i art. 106, które wchodzą w życie z dniem 18 października 2024 r.”;
-2) art. 3–5 ustawy z dnia 11 października 2024 r. o zmianie ustawy o ochronie przeciwpożarowej oraz ustawy o ochotniczych strażach pożarnych (Dz. U. poz. 1692), które stanowią: „Art. 3. Do środków finansowych uzyskanych, a nieprzekazanych przez zakłady ubezpieczeń do dnia wejścia w życie niniejszej ustawy z wpływów z tytułu obowiązkowego ubezpieczenia od ognia stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
-
-**Art. 4.** Pierwsze sprawozdanie, o którym mowa w art. 39 ust. 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, Zarząd Główny Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej przedkłada Sejmowi do dnia 30 czerwca 2026 r. za cały okres od dnia wejścia w życie niniejszej ustawy.
-
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
-
-- **3)** art. 209 i art. 212 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), które stanowią: „Art. 209. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 14 ust. 2 i art. 20 ustawy zmienianej w art. 170 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 14 ust. 2 i art. 20 ustawy zmienianej w art. 170 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 18 miesięcy od dnia wejścia w życie ustawy, i mogą być zmieniane na podstawie przepisów dotychczasowych.” „Art. 212. Ustawa wchodzi w życie z dniem 1 stycznia 2025 r., z wyjątkiem:
-- **1)** art. 16, art. 156, art. 198 i art. 199, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 76 ust. 5 i art. 78 ust. 2, które wchodzą w życie po upływie roku od dnia ogłoszenia;
-- **3)** art. 11 ust. 3 pkt 3, art. 45–48, art. 189 oraz art. 211, które wchodzą w życie z dniem 1 stycznia 2026 r.;
-- **4)** art. 187, który wchodzi w życie z dniem 1 stycznia 2027 r.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -710,7 +688,8 @@ poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 m
 
 **Art. 14fa.**
 
-- **7)** 1. W celu realizacji zadań krajowy system ratowniczo-gaśniczy na obszarze powiatu i województwa wykorzystuje systemy informacji geograficznej oraz powiatowe lub wojewódzkie plany ratownicze, zwane dalej „planami ratowniczymi”, zatwierdzane przez:
+1. W celu realizacji zadań krajowy system ratowniczo-gaśniczy na obszarze powiatu i województwa wykorzystuje systemy informacji geograficznej oraz powiatowe lub wojewódzkie plany ratownicze, zwane dalej „planami ratowniczymi”, zatwierdzane przez:
+
 - **1)** starostę (prezydenta miasta na prawach powiatu) – dla obszaru powiatu, po zasięgnięciu opinii właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej;
 - **2)** starostę i prezydenta miasta na prawach powiatu – wspólne dla obszaru miasta na prawach powiatu i powiatu mającego siedzibę władz w tym mieście, po zasięgnięciu opinii właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej;
 - **3)** wojewodę – dla obszaru województwa, po zasięgnięciu opinii Komendanta Głównego Państwowej Straży Pożarnej.
@@ -725,7 +704,7 @@ poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 m
 - **6)** wykaz ekspertów do spraw prognozowania zagrożeń oraz specjalistów do spraw ratownictwa zawierający imiona, nazwiska, informacje o ich dziedzinach oraz numery telefonów służbowych;
 - **7)** arkusze uzgodnień i aktualizacji planu ratowniczego.
 
-3. Plany ratownicze w zakresie zdarzeń z dużą liczbą poszkodowanych oraz działań ratowniczych i działań pomocowych podczas katastrof, klęsk żywiołowych i zdarzeń nadzwyczajnych są skorelowane z planami zarządzania kryzysowego, o których mowa w art. 5 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, oraz z planami postępowania awaryjnego, o których mowa w art. 84 ust. 1 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2024 r. poz. 1277, 1897 i 1907).
+3. Plany ratownicze w zakresie zdarzeń z dużą liczbą poszkodowanych oraz działań ratowniczych i działań pomocowych podczas katastrof, klęsk żywiołowych i zdarzeń nadzwyczajnych są skorelowane z planami reagowania kryzysowego, o których mowa w art. 6j ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, oraz z planami postępowania awaryjnego, o których mowa w art. 84 ust. 1 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2026 r. poz. 1).
 
 **Art. 14g.**
 
@@ -855,13 +834,10 @@ poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 m
 
 **Art. 19.** (uchylony)
 
-**Art. 19a.**
+**Art. 19a.** Do krajowego systemu ratowniczo-gaśniczego mogą być włączane i z niego wyłączane jednostki ochrony przeciwpożarowej uwzględnione w zbiorczym planie sieci podmiotów systemu, których siły i środki są przewidziane do użycia w planie ratowniczym.
 
-- **9)** Do krajowego systemu ratowniczo-gaśniczego mogą być włączane i z niego wyłączane jednostki ochrony przeciwpożarowej uwzględnione w zbiorczym planie sieci podmiotów systemu, których siły i środki są przewidziane do użycia w planie ratowniczym.
+**Art. 20.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
-**Art. 20.**
-
-- **10)** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 - **1)** zakres, szczegółowe warunki i tryb włączania jednostek ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a–6 i 8, do krajowego systemu ratowniczo-gaśniczego i wyłączania ich z krajowego systemu ratowniczo-gaśniczego,
 - **2)** warunki współpracy jednostek ochrony przeciwpożarowej niewłączonych do krajowego systemu ratowniczo-gaśniczego z krajowym systemem ratowniczo-gaśniczym – mając na uwadze konieczność zapewnienia skutecznego działania krajowego systemu ratowniczo-gaśniczego.
 
@@ -1023,13 +999,13 @@ poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi w życie po upływie 3 m
 
 **Art. 38.**
 
-- **11)** 1. Zakłady ubezpieczeń są obowiązane przekazywać 10 % sumy wpływów uzyskanych z tytułu obowiązkowego ubezpieczenia od ognia na określone cele ochrony przeciwpożarowej, w szczególności na zapewnienie gotowości bojowej jednostek ochrony przeciwpożarowej, budowę i modernizację obiektów strażnic, badania naukowe i działalność racjonalizatorską w zakresie bezpieczeństwa pożarowego i przeciwdziałania innym zagrożeniom, a także propagowanie bezpieczeństwa pożarowego.
+1. Zakłady ubezpieczeń są obowiązane przekazywać 10 % sumy wpływów uzyskanych z tytułu obowiązkowego ubezpieczenia od ognia na określone cele ochrony przeciwpożarowej, w szczególności na zapewnienie gotowości bojowej jednostek ochrony przeciwpożarowej, budowę i modernizację obiektów strażnic, badania naukowe i działalność racjonalizatorską w zakresie bezpieczeństwa pożarowego i przeciwdziałania innym zagrożeniom, a także propagowanie bezpieczeństwa pożarowego.
 
 2. Komendant Główny Państwowej Straży Pożarnej i Zarząd Główny Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej otrzymują po 50 % kwoty, o której mowa w ust. 1.
 
 **Art. 39.**
 
-- **11)** 1. Środki finansowe przekazane Komendantowi Głównemu Państwowej Straży Pożarnej i Zarządowi Głównemu Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej na podstawie przepisów art. 38 są przeznaczone wyłącznie na cele związane z ochroną przeciwpożarową.
+1. Środki finansowe przekazane Komendantowi Głównemu Państwowej Straży Pożarnej i Zarządowi Głównemu Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej na podstawie przepisów art. 38 są przeznaczone wyłącznie na cele związane z ochroną przeciwpożarową.
 
 2. Zarząd Główny Związku Ochotniczych Straży Pożarnych Rzeczypospolitej Polskiej przedkłada Sejmowi w terminie do dnia 30 czerwca każdego roku sprawozdanie z wydatkowania środków, o których mowa w art. 38 ust. 2, w roku poprzednim.
 

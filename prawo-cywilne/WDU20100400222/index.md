@@ -30,33 +30,7 @@ source: pdf
 **Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm. ) wprowadza się następujące zmiany:
 
 - **1)** uchyla się art. 80;
-- **2)** po art. 649 dodaje się art. 649 – 649 w brzmieniu: „Art. 649 . § 1. Gwarancji zapłaty za roboty budowlane, zwanej dalej „gwarancją zapłaty”, inwestor udziela wykonawcy (generalnemu wykonawcy) w celu zabezpieczenia terminowej zapłaty umówionego wynagrodzenia za wykonanie robót budowlanych.
-
-§ 2. Gwarancją zapłaty jest gwarancja bankowa lub ubezpieczeniowa, a także akredytywa bankowa lub poręczenie banku udzielone na zlecenie inwestora.
-
-§ 3. Strony ponoszą w równych częściach udokumentowane koszty zabezpieczenia wierzytelności.
-
-**Art. 649².**
-
-§ 1. Nie można przez czynność prawną wyłączyć ani ograniczyć prawa wykonawcy (generalnego wykonawcy) do żądania od inwestora gwarancji zapłaty.
-
-§ 2. Odstąpienie inwestora od umowy spowodowane żądaniem wykonawcy (generalnego wykonawcy) przedstawienia gwarancji zapłaty jest bezskuteczne.
-
-**Art. 649³.**
-
-§ 1. Wykonawca (generalny wykonawca) robót budowlanych może w każdym czasie żądać od inwestora gwarancji zapłaty do wysokości ewentualnego roszczenia z tytułu wynagrodzenia wynikającego z umowy oraz robót dodatkowych lub koniecznych do wykonania umowy, zaakceptowanych na piśmie przez inwestora.
-
-§ 2. Udzielenie gwarancji zapłaty nie stoi na przeszkodzie żądaniu gwarancji zapłaty do łącznej wysokości określonej w § 1.
-
-**Art. 649⁴.**
-
-§ 1. Jeżeli wykonawca (generalny wykonawca) nie uzyska żądanej gwarancji zapłaty w wyznaczonym przez siebie terminie, nie krótszym niż 45 dni, uprawniony jest do odstąpienia od umowy z winy inwestora ze skutkiem na dzień odstąpienia.
-
-§ 2. Brak żądanej gwarancji zapłaty stanowi przeszkodę w wykonaniu robót budowlanych z przyczyn dotyczących inwestora.
-
-§ 3. Inwestor nie może odmówić zapłaty wynagrodzenia mimo niewykonania robót budowlanych, jeżeli wykonawca (generalny wykonawca) był gotów je wykonać, lecz doznał przeszkody z przyczyn dotyczących inwestora. Jednakże w wypadku takim inwestor może odliczyć to, co wykonawca (generalny wykonawca) oszczędził z powodu niewykonania robót budowlanych.
-
-**Art. 649⁵.** Przepisy art. 649 – 649 stosuje się do umów zawartych między wykonawcą (generalnym wykonawcą) a dalszymi wykonawcami (podwykonawcami).”.
+- **2)** po art. 649 dodaje się art. 649 1 – 649 w brzmieniu: „Art. 649 . § 1. Gwarancji zapłaty za roboty budowlane, zwanej dalej „gwarancją zapłaty”, inwestor udziela wykonawcy (generalnemu wykonawcy) w celu zabezpieczenia terminowej zapłaty umówionego wynagrodzenia za wykonanie robót budowlanych. § 2. Gwarancją zapłaty jest gwarancja bankowa lub ubezpieczeniowa, a także akredytywa bankowa lub poręczenie banku udzielone na zlecenie inwestora. § 3. Strony ponoszą w równych częściach udokumentowane koszty zabezpieczenia wierzytelności. Art. 649 2 . § 1. Nie można przez czynność prawną wyłączyć ani ograniczyć prawa wykonawcy (generalnego wykonawcy) do żądania od inwestora gwarancji zapłaty. § 2. Odstąpienie inwestora od umowy spowodowane żądaniem wykonawcy (generalnego wykonawcy) przedstawienia gwarancji zapłaty jest bezskuteczne. Art. 649 3 . § 1. Wykonawca (generalny wykonawca) robót budowlanych może w każdym czasie żądać od inwestora gwarancji zapłaty do wysokości ewentualnego roszczenia z tytułu wynagrodzenia wynikającego z umowy oraz robót dodatkowych lub koniecznych do wykonania umowy, zaakceptowanych na piśmie przez inwestora. § 2. Udzielenie gwarancji zapłaty nie stoi na przeszkodzie żądaniu gwarancji zapłaty do łącznej wysokości określonej w § 1. Art. 649 4 . § 1. Jeżeli wykonawca (generalny wykonawca) nie uzyska żądanej gwarancji zapłaty w wyznaczonym przez siebie terminie, nie krótszym niż 45 dni, uprawniony jest do odstąpienia od umowy z winy inwestora ze skutkiem na dzień odstąpienia. § 2. Brak żądanej gwarancji zapłaty stanowi przeszkodę w wykonaniu robót budowlanych z przyczyn dotyczących inwestora. § 3. Inwestor nie może odmówić zapłaty wynagrodzenia mimo niewykonania robót budowlanych, jeżeli wykonawca (generalny wykonawca) był gotów je wykonać, lecz doznał przeszkody z przyczyn dotyczących inwestora. Jednakże w wypadku takim inwestor może odliczyć to, co wykonawca (generalny wykonawca) oszczędził z powodu niewykonania robót budowlanych. Art. 649 5 . Przepisy art. 649 – 649 stosuje się do umów zawartych między wykonawcą (generalnym wykonawcą) a dalszymi wykonawcami (podwykonawcami).”.
 
 **Art. 2.** Do umów o roboty budowlane zawartych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
 

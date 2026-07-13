@@ -26,9 +26,10 @@ source: pdf
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000170216) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/216/text.pdf) |
 
-§ 1. W Państwowej Wyższej Szkole Zawodowej w Lesznie, utworzonej na podstawie rozporządzenia Rady Ministrów z dnia 15 czerwca 1999 r. w sprawie utworzenia Państwowej Wyższej Szkoły Zawodowej w Lesznie (Dz.U. Nr 55, poz. 576), dokonuje się zmiany specjalności kształcenia polegającej na wprowadzeniu specjalności zawodowych:
-1) turystyka i rekreacja,
-2) pedagogika społeczna.
-§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
-.
+**§ 1.** W Państwowej Wyższej Szkole Zawodowej w Lesznie, utworzonej na podstawie rozporządzenia Rady Ministrów z dnia 15 czerwca 1999 r. w sprawie utworzenia Państwowej Wyższej Szkoły Zawodowej w Lesznie (Dz.U. Nr 55, poz. 576), dokonuje się zmiany specjalności kształcenia polegającej na wprowadzeniu specjalności zawodowych:
+
+- **1)** turystyka i rekreacja,
+- **2)** pedagogika społeczna.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia. .
 

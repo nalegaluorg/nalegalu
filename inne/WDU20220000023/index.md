@@ -26,11 +26,13 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000023) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/23/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wykazu pomieszczeń wchodzących w skład powierzchni podstawowej i pomocniczej apteki Na podstawie art. 97 ust. 5 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977 i 2120) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 26 września 2002 r. w sprawie wykazu pomieszczeń wchodzących w skład powierzchni podstawowej i pomocniczej apteki (Dz. U. poz. 1338) wprowadza się następujące zmiany:
-1) w § 1 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „2. W przypadku przeprowadzania w aptece ogólnodostępnej szczepienia ochronnego przeciw COVID-19 lub grypie, lub opieki farmaceutycznej w skład powierzchni podstawowej lokalu tej apteki wchodzi ponadto pokój opieki farmaceutycznej.
-3. Funkcję pokoju opieki farmaceutycznej może pełnić także pomieszczenie, o którym mowa w ust. 1 pkt 7.”;
-2) w § 3 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W skład powierzchni podstawowej lokalu apteki szpitalnej wchodzą pomieszczenia wymienione w § 1 ust. 1 pkt 1, i 4–8, a także:”.
-§ 2. Apteki ogólnodostępne, w których przeprowadza się szczepienia ochronne przeciw COVID-19 lub grypie, dostosują powierzchnię podstawową lokalu apteki do wymagań określonych w § 1 ust. 2 i 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, do dnia 1 września 2022 r.
-§ 3. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: A. Niedzielski
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 26 września 2002 r. w sprawie wykazu pomieszczeń wchodzących w skład powierzchni podstawowej i pomocniczej apteki (Dz. U. poz. 1338) wprowadza się następujące zmiany:
+
+- **1)** w § 1 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: „2. W przypadku przeprowadzania w aptece ogólnodostępnej szczepienia ochronnego przeciw COVID-19 lub grypie, lub opieki farmaceutycznej w skład powierzchni podstawowej lokalu tej apteki wchodzi ponadto pokój opieki farmaceutycznej. 3. Funkcję pokoju opieki farmaceutycznej może pełnić także pomieszczenie, o którym mowa w ust. 1 pkt 7.”;
+- **2)** w § 3 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W skład powierzchni podstawowej lokalu apteki szpitalnej wchodzą pomieszczenia wymienione w § 1 ust. 1 pkt 1, i 4–8, a także:”.
+
+**§ 2.** Apteki ogólnodostępne, w których przeprowadza się szczepienia ochronne przeciw COVID-19 lub grypie, dostosują powierzchnię podstawową lokalu apteki do wymagań określonych w § 1 ust. 2 i 3 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, do dnia 1 września 2022 r.
+
+**§ 3.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: A. Niedzielski
 

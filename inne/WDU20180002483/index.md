@@ -26,9 +26,11 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002483) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2483/text.pdf) |
 
 zmieniające rozporządzenie w sprawie sposobu przeprowadzania postępowania kwalifikacyjnego w służbie cywilnej Na podstawie art. 47 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2018 r. poz. 1559) zarządza się, co następuje:
-§ 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 16 grudnia 2009 r. w sprawie sposobu przeprowadzania postępowania kwalifikacyjnego w służbie cywilnej (Dz. U. poz. 1695) wprowadza się następujące zmiany:
-1) w § 3 ust. 1 otrzymuje brzmienie: „1. Krajowa Szkoła Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego, zwana dalej „KSAP”, upowszechnia informacje o postępowaniu kwalifikacyjnym.”;
-2) w § 20 ust. 1 otrzymuje brzmienie: „1. Wysokość opłaty za przystąpienie do postępowania kwalifikacyjnego w danym roku, o której mowa w art. 45 ustawy, wynosi 28% minimalnego wynagrodzenia za pracę przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
-Prezes Rady Ministrów: M. Morawiecki
+
+**§ 1.** W rozporządzeniu Prezesa Rady Ministrów z dnia 16 grudnia 2009 r. w sprawie sposobu przeprowadzania postępowania kwalifikacyjnego w służbie cywilnej (Dz. U. poz. 1695) wprowadza się następujące zmiany:
+
+- **1)** w § 3 ust. 1 otrzymuje brzmienie: „1. Krajowa Szkoła Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego, zwana dalej „KSAP”, upowszechnia informacje o postępowaniu kwalifikacyjnym.”;
+- **2)** w § 20 ust. 1 otrzymuje brzmienie: „1. Wysokość opłaty za przystąpienie do postępowania kwalifikacyjnego w danym roku, o której mowa w art. 45 ustawy, wynosi 28% minimalnego wynagrodzenia za pracę przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.
 

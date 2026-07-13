@@ -26,8 +26,8 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000074) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/74/text.pdf) |
 
 zmieniające rozporządzenie w sprawie programu pilotażowego w zakresie koordynowanej opieki medycznej nad chorymi z neurofibromatozami oraz pokrewnymi im rasopatiami Na podstawie art. 48e ust. 5 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. ) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Zdrowia z dnia 15 czerwca 2020 r. w sprawie programu pilotażowego w zakresie koordynowanej opieki medycznej nad chorymi z neurofibromatozami oraz pokrewnymi im rasopatiami (Dz. U. z 2023 r. poz. 1603 i 1780) w załączniku nr 3 do rozporządzenia w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) Uniwersytecki Szpital Dziecięcy w Krakowie;
-6) Wojewódzki Specjalistyczny Szpital Dziecięcy im. prof. dr Stanisława Popowskiego w Olsztynie.”.
-§ 2. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: wz. W. Konieczny
+
+**§ 1.** W rozporządzeniu Ministra Zdrowia z dnia 15 czerwca 2020 r. w sprawie programu pilotażowego w zakresie koordynowanej opieki medycznej nad chorymi z neurofibromatozami oraz pokrewnymi im rasopatiami (Dz. U. z 2023 r. poz. 1603 i 1780) w załączniku nr 3 do rozporządzenia w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu: „5) Uniwersytecki Szpital Dziecięcy w Krakowie; 6) Wojewódzki Specjalistyczny Szpital Dziecięcy im. prof. dr Stanisława Popowskiego w Olsztynie.”.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia. Minister Zdrowia: wz. W. Konieczny
 

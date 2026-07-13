@@ -34,9 +34,13 @@ w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w spra
 2) § 2 rozporządzenia Ministra Zdrowia z dnia 15 maja 2018 r. zmieniającego rozporządzenie w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji (Dz. U. poz. 953), który stanowi: „ § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”. Minister Zdrowia: wz. J. Szczurek-Żelazko
 ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 15 grudnia 2014 r.
 w sprawie nadania statutu Agencji Oceny Technologii Medycznych i Taryfikacji Na podstawie art. 31m ust. 4 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm. ) zarządza się, co następuje:
-§ 1. Agencji Oceny Technologii Medycznych i Taryfikacji nadaje się statut, stanowiący załącznik do rozporządzenia.
-§ 2. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r.
-STATUT AGENCJI OCENY TECHNOLOGII MEDYCZNYCH I TARYFIKACJI
+
+**§ 1.** Agencji Oceny Technologii Medycznych i Taryfikacji nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+**§ 2.** Rozporządzenie wchodzi w życie z dniem 1 stycznia 2015 r. STATUT AGENCJI OCENY TECHNOLOGII MEDYCZNYCH I TARYFIKACJI
+
+## Załącznik
+
 § 1. 1. Agencja Oceny Technologii Medycznych i Taryfikacji, zwana dalej „Agencją”, działa na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r.
 poz. 1938, z późn. zm.), zwanej dalej „ustawą”, oraz niniejszego statutu.
 2. Celem statutowym Agencji jest działalność w zakresie ochrony zdrowia.

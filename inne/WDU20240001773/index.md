@@ -26,13 +26,9 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001773) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1773/text.pdf) |
 
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 lipca 2023 r. o zmianie ustawy o emeryturach pomostowych oraz niektórych innych ustaw (Dz. U. poz. 1667) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 listopada 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 11 i art. 12 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy o emeryturach pomostowych oraz niektórych innych ustaw (Dz. U. poz. 1667), które stanowią: „Art. 11. 1. W razie ustalenia albo zmiany wysokości wynagrodzenia pracownika w związku z nieuwzględnieniem w kwocie minimalnego wynagrodzenia za pracę dodatku za szczególne warunki pracy, o którym mowa w art. 6 ust. 5 pkt 6 ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą, jeżeli będzie to miało wpływ na koszty realizacji umowy zawartej w trybie innym niż określony przepisami ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, przed dniem 1 września 2023 r., przepisy art. 9 ust. 1–5 i 7 stosuje się odpowiednio.
-2. Przepisy art. 9 ust. 1–5 i 7 stosuje się odpowiednio także w przypadku umowy, o której mowa w ust. 1, realizowanej wspólnie przez kilku wykonawców.
-
-**Art. 12.** Ustawa wchodzi w życie z dniem 1 stycznia 2024 r., z wyjątkiem:
-
-- **1)** art. 2 i 6, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia;
-- **2)** art. 8–11, które wchodzą w życie z dniem 1 września 2023 r.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 11 i art. 12 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy o emeryturach pomostowych oraz niektórych innych ustaw (Dz. U. poz. 1667), które stanowią: „ Art. 11. 1. W razie ustalenia albo zmiany wysokości wynagrodzenia pracownika w związku z nieuwzględnieniem w kwocie minimalnego wynagrodzenia za pracę dodatku za szczególne warunki pracy, o którym mowa w art. 6 ust. 5 pkt 6 ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą, jeżeli będzie to miało wpływ na koszty realizacji umowy zawartej w trybie innym niż określony przepisami ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, przed dniem 1 września 2023 r., przepisy art. 9 ust. 1–5 i 7 stosuje się odpowiednio. 2. Przepisy art. 9 ust. 1–5 i 7 stosuje się odpowiednio także w przypadku umowy, o której mowa w ust. 1, realizowanej wspólnie przez kilku wykonawców. Art. 12. Ustawa wchodzi w życie z dniem 1 stycznia 2024 r., z wyjątkiem: 1) art. 2 i 6, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia; 2) art. 8–11, które wchodzą w życie z dniem 1 września 2023 r.”. Marszałek Sejmu: S. Hołownia
+USTAWA z dnia 10 października 2002 r.
+o minimalnym wynagrodzeniu za pracę
 
 **Art. 1.** Użyte w ustawie określenia oznaczają:
 

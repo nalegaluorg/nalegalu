@@ -27,12 +27,15 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001098) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1098/text.pdf) |
 
 zmieniające rozporządzenie w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkopolskim Na podstawie art. 124 ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkopolskim (Dz. U. z 2023 r. poz. 945) w załączniku:
-1) w § 3 ust. 2 otrzymuje brzmienie: „2. Zastępcą Regionalnego Dyrektora jest regionalny konserwator przyrody, który sprawuje nadzór nad komórką organizacyjną, o której mowa w § 4 ust. 1 pkt 2.”;
-2) w § 4:
-a) w ust. 1: – pkt 1 otrzymuje brzmienie: „1) Wydział Ocen Oddziaływania na Środowisko;”, – w pkt 6 średnik zastępuje się kropką i uchyla się pkt 7,
-b) uchyla się ust. 4;
-3) w § 7 skreśla się wyrazy „i 7”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Klimatu i Środowiska: P. Hennig-Kloska
+
+**§ 1.** W rozporządzeniu Ministra Środowiska z dnia 10 listopada 2008 r. w sprawie nadania statutu Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkopolskim (Dz. U. z 2023 r. poz. 945) w załączniku:
+
+- **1)** w § 3 ust. 2 otrzymuje brzmienie: „2. Zastępcą Regionalnego Dyrektora jest regionalny konserwator przyrody, który sprawuje nadzór nad komórką organizacyjną, o której mowa w § 4 ust. 1 pkt 2.”;
+- **2)** w § 4:
+    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) Wydział Ocen Oddziaływania na Środowisko;”, – w pkt 6 średnik zastępuje się kropką i uchyla się pkt 7,
+    - **b)** uchyla się ust. 4;
+
+- **3)** w § 7 skreśla się wyrazy „i 7”.
+
+**§ 2.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Klimatu i Środowiska: P. Hennig-Kloska
 

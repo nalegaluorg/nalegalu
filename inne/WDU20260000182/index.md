@@ -27,15 +27,6 @@ source: pdf
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000182) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/182/text.pdf) |
 
 zmieniające rozporządzenie w sprawie wniosku o udzielenie informacji lub udostępnienie danych osobowych o osobie obecnie lub uprzednio pozbawionej wolności Na podstawie art. 24a ust. 6 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2025 r. poz. 1750 i 1823) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Sprawiedliwości z dnia 26 kwietnia 2023 r. w sprawie wniosku o udzielenie informacji lub udostępnienie danych osobowych o osobie obecnie lub uprzednio pozbawionej wolności (Dz. U. poz. 920) wprowadza się następujące zmiany:
-1) § 5 otrzymuje brzmienie: „§ 5. Wniosek złożony niezgodnie z § 2 pkt 1 przekazuje się do właściwego dyrektora zakładu karnego lub aresztu śledczego, a w przypadku, o którym mowa w § 2 pkt 2 lit. b, do Dyrektora Generalnego. Wniosku nie przekazuje się, jeżeli:
-1) wnioskodawca nie jest uprawniony do uzyskania żądanych informacji lub udostępnienia danych osobowych;
-2) dyrektor zakładu karnego lub aresztu śledczego, do którego wpłynął wniosek, posiada żądane informacje lub dane osobowe.”;
-2) w § 6 ust. 2 otrzymuje brzmienie: „2. Wniosek złożony w postaci elektronicznej załatwia się elektronicznie. Jeżeli nie ma możliwości załatwienia wniosku elektronicznie, należy uczynić odpowiednią adnotację urzędową na wniosku i załatwić wniosek w postaci papierowej.”;
-3) załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
-§ 2. Do wniosków o udzielenie informacji lub udostępnienie danych osobowych o osobie obecnie lub uprzednio pozbawionej wolności złożonych na podstawie § 2 rozporządzenia zmienianego w § 1, nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Sprawiedliwości: W. Żurek Załącznik do rozporządzenia Ministra Sprawiedliwości Załącznik z dnia do rozporządzenia 12 lutego 2026 Ministra r. Sprawiedliwości (Dz. U. poz. z dnia …) 12 lutego 2026 r. (Dz. U. poz. 182) WZÓR WZÓR WNIOSEK o udzielenie informacji lub udostępnienie danych osobowych o osobie obecnie lub uprzednio pozbawionej wolności w zakładzie karnym lub areszcie śledczym UWAGA! PRZED WYPEŁNIENIEM NALEŻY DOKŁADNIE ZAPOZNAĆ SIĘ Z POUCZENIEM
 1. DANE WNIOSKODAWCY I JEGO ADRES
 2. ZNAK SPRAWY WNIOSKODAWCY 3. ORGAN SŁUŻBY WIĘZIENNEJ 4. PODSTAWA PRAWNA DO UZYSKANIA INFORMACJI LUB UDOSTĘPNIENIA DANYCH OSOBOWYCH
 5. UZASADNIENIE WNIOSKU
@@ -79,6 +70,16 @@ z 2025 r. poz. 366, 820 i 1456) albo bezpośrednio w siedzibie dyrektora właśc
 2) w postaci elektronicznej, za pośrednictwem poczty elektronicznej lub elektronicznej skrzynki podawczej, jako dokument elektroniczny opatrzony kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym.
 10. Wnioski uniemożliwiające identyfikację wnioskodawcy lub jego adresu do korespondencji pozostawia się bez rozpoznania.
 Strona 2 z 2
+
+**§ 1.** W rozporządzeniu Ministra Sprawiedliwości z dnia 26 kwietnia 2023 r. w sprawie wniosku o udzielenie informacji lub udostępnienie danych osobowych o osobie obecnie lub uprzednio pozbawionej wolności (Dz. U. poz. 920) wprowadza się następujące zmiany:
+
+- **1)** § 5 otrzymuje brzmienie: „§ 5. Wniosek złożony niezgodnie z § 2 pkt 1 przekazuje się do właściwego dyrektora zakładu karnego lub aresztu śledczego, a w przypadku, o którym mowa w § 2 pkt 2 lit. b, do Dyrektora Generalnego. Wniosku nie przekazuje się, jeżeli: 1) wnioskodawca nie jest uprawniony do uzyskania żądanych informacji lub udostępnienia danych osobowych; 2) dyrektor zakładu karnego lub aresztu śledczego, do którego wpłynął wniosek, posiada żądane informacje lub dane osobowe.”;
+- **2)** w § 6 ust. 2 otrzymuje brzmienie: „2. Wniosek złożony w postaci elektronicznej załatwia się elektronicznie. Jeżeli nie ma możliwości załatwienia wniosku elektronicznie, należy uczynić odpowiednią adnotację urzędową na wniosku i załatwić wniosek w postaci papierowej.”;
+- **3)** załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+**§ 2.** Do wniosków o udzielenie informacji lub udostępnienie danych osobowych o osobie obecnie lub uprzednio pozbawionej wolności złożonych na podstawie § 2 rozporządzenia zmienianego w § 1, nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy dotychczasowe.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Sprawiedliwości: W. Żurek Załącznik do rozporządzenia Ministra Sprawiedliwości Załącznik z dnia do rozporządzenia 12 lutego 2026 Ministra r. Sprawiedliwości (Dz. U. poz. z dnia …) 12 lutego 2026 r. (Dz. U. poz. 182) WZÓR WZÓR WNIOSEK o udzielenie informacji lub udostępnienie danych osobowych o osobie obecnie lub uprzednio pozbawionej wolności w zakładzie karnym lub areszcie śledczym UWAGA! PRZED WYPEŁNIENIEM NALEŻY DOKŁADNIE ZAPOZNAĆ SIĘ Z POUCZENIEM
 
 ## CZĘŚĆ I
 

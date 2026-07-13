@@ -31,39 +31,14 @@ source: pdf
 
 - **853)** wprowadza się następujące zmiany:
 - **1)** w art. 7 ust. 2 otrzymuje brzmienie: „2. Minister Sprawiedliwości, w drodze rozporządzenia, określi strój urzędowy adwokatów biorących udział w rozprawach sądowych, uwzględniając uroczysty charakter stroju, odpowiedni do powagi sądu i utrwalonej tradycji.”;
-- **2)** po art. 8 dodaje się art. 8a i art. 8b w brzmieniu: „Art. 8a. 1. Adwokat podlega obowiązkowemu ubezpieczeniu od odpowiedzialności cywilnej za szkody wyrządzone przy wykonywaniu czynności, o których mowa w art. 4 ust. 1.
-
-2. Obowiązek określony w ust. 1 nie dotyczy adwokatów nie wykonujących zawodu.
-
-**Art. 8b.** Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Naczelnej Rady Adwokackiej i Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, ogólne warunki ubezpieczenia, o którym mowa w art. 8a:
-
-- **1)** datę powstania obowiązku zawarcia umowy ubezpieczenia,
-- **2)** podstawowy zakres odpowiedzialności zakładu ubezpieczeń,
-- **3)** minimalną sumę gwarancyjną ubezpieczenia określoną kwotowo,
-- **4)** zakres praw i obowiązków ubezpieczonego i zakładu ubezpieczeń, wynikających z umowy ubezpieczenia.”;
+- **2)** po art. 8 dodaje się art. 8a i art. 8b w brzmieniu: „Art. 8a. 1. Adwokat podlega obowiązkowemu ubezpieczeniu od odpowiedzialności cywilnej za szkody wyrządzone przy wykonywaniu czynności, o których mowa w art. 4 ust. 1. 2. Obowiązek określony w ust. 1 nie dotyczy adwokatów nie wykonujących zawodu. Art. 8b. Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Naczelnej Rady Adwokackiej i Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, ogólne warunki ubezpieczenia, o którym mowa w art. 8a: 1) datę powstania obowiązku zawarcia umowy ubezpieczenia, 2) podstawowy zakres odpowiedzialności zakładu ubezpieczeń, 3) minimalną sumę gwarancyjną ubezpieczenia określoną kwotowo, 4) zakres praw i obowiązków ubezpieczonego i zakładu ubezpieczeń, wynikających z umowy ubezpieczenia.”;
 - **3)** w art. 58 w pkt 12:
     - **a)** skreśla się lit. e),
     - **b)** w lit. g) skreśla się wyrazy „oraz uczestniczenia w dochodzie zespołów”;
 
 - **4)** w art. 91 po ust. 3 dodaje się ust. 4 w brzmieniu: „4. Orzeczenie z uzasadnieniem wydane przez Wyższy Sąd Dyscyplinarny w drugiej instancji doręcza się stronom, Ministrowi Sprawiedliwości oraz Naczelnej Radzie Adwokackiej.”;
-- **5)** art. 91a otrzymuje brzmienie: „Art. 91a. 1. Od orzeczenia wydanego przez Wyższy Sąd Dyscyplinarny w drugiej instancji przysługuje stronom, Ministrowi Sprawiedliwości, Rzecznikowi Praw Obywatelskich oraz Prezesowi Naczelnej Rady Adwokackiej kasacja do Sądu Najwyższego.
-
-2. Orzeczenie, od którego służy kasacja podmiotom wymienionym w ust. 1, nie podlega wykonaniu do czasu wniesienia kasacji lub bezskutecznego upływu terminu do jej wniesienia.”;
-
-- **6)** po art. 91a dodaje się art. 91b-91e w brzmieniu: „Art. 91b. Kasacja może być wniesiona z powodu rażącego naruszenia prawa, jak również rażącej niewspółmierności kary dyscyplinarnej.
-
-**Art. 91c.** Kasację wnosi się do Sądu Najwyższego za pośrednictwem Wyższego Sądu Dyscyplinarnego, w terminie 30 dni od dnia doręczenia orzeczenia z uzasadnieniem.
-
-**Art. 91d.**
-
-1. Od kasacji, o której mowa w art. 91a ust. 1, nie uiszcza się opłaty sądowej.
-
-2. Orzeczenie, od którego wniesiono kasację, nie podlega wykonaniu do czasu rozpoznania kasacji.
-
-3. Sąd Najwyższy rozpoznaje kasację na rozprawie w składzie trzech sędziów.
-
-**Art. 91e.** Do rozpoznania kasacji, o której mowa w art. 91a ust. 1, stosuje się odpowiednio przepisy Kodeksu postępowania karnego o kasacji, z wyłączeniem art. 526 § 2 oraz art. 530 § 2 i 3.”;
-
+- **5)** art. 91a otrzymuje brzmienie: „Art. 91a. 1. Od orzeczenia wydanego przez Wyższy Sąd Dyscyplinarny w drugiej instancji przysługuje stronom, Ministrowi Sprawiedliwości, Rzecznikowi Praw Obywatelskich oraz Prezesowi Naczelnej Rady Adwokackiej kasacja do Sądu Najwyższego. 2. Orzeczenie, od którego służy kasacja podmiotom wymienionym w ust. 1, nie podlega wykonaniu do czasu wniesienia kasacji lub bezskutecznego upływu terminu do jej wniesienia.”;
+- **6)** po art. 91a dodaje się art. 91b-91e w brzmieniu: „Art. 91b. Kasacja może być wniesiona z powodu rażącego naruszenia prawa, jak również rażącej niewspółmierności kary dyscyplinarnej. Art. 91c. Kasację wnosi się do Sądu Najwyższego za pośrednictwem Wyższego Sądu Dyscyplinarnego, w terminie 30 dni od dnia doręczenia orzeczenia z uzasadnieniem. Art. 91d. 1. Od kasacji, o której mowa w art. 91a ust. 1, nie uiszcza się opłaty sądowej. 2. Orzeczenie, od którego wniesiono kasację, nie podlega wykonaniu do czasu rozpoznania kasacji. 3. Sąd Najwyższy rozpoznaje kasację na rozprawie w składzie trzech sędziów. Art. 91e. Do rozpoznania kasacji, o której mowa w art. 91a ust. 1, stosuje się odpowiednio przepisy Kodeksu postępowania karnego o kasacji, z wyłączeniem art. 526 § 2 oraz art. 530 § 2 i 3.”;
 - **7)** skreśla się art. 95k.
 
 **Art. 2.** Przepisy ustawy stosuje się do spraw nie zakończonych w dniu wejścia ustawy w życie orzeczeniami Wyższego Sądu Dyscyplinarnego wydanymi w drugiej instancji.

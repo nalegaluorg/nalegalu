@@ -27,10 +27,10 @@ source: pdf
 
 zmieniające rozporządzenie w sprawie udzielania pomocy publicznej i pomocy de minimis w ramach Inwestycji A2.4.1 Krajowego Planu Odbudowy i Zwiększania Odporności – Inwestycje w rozbudowę potencjału badawczego Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2023 r.
 poz. 1259 i 1273) zarządza się, co następuje:
-§ 1. W rozporządzeniu Ministra Edukacji i Nauki z dnia 9 maja 2023 r. w sprawie udzielania pomocy publicznej i pomocy de minimis w ramach Inwestycji A2.4.1 Krajowego Planu Odbudowy i Zwiększania Odporności – Inwestycje w rozbudowę potencjału badawczego (Dz. U. poz. 1021) § 4 otrzymuje brzmienie: „§ 4. Pomoc publiczna na przedsięwzięcia w zakresie:
-1) infrastruktury badawczej – może zostać udzielona, jeżeli jej wielkość nie przekracza równowartości 35 000 000 euro na infrastrukturę badawczą;
-2) szkoleń – może zostać udzielona, jeżeli jej wielkość nie przekracza równowartości 3 000 000 euro na projekt szkoleniowy.”.
-§ 2. W przypadku pomocy publicznej udzielanej na podstawie wniosków o jej udzielenie złożonych w ramach naboru tych wniosków zakończonego przed dniem wejścia w życie niniejszego rozporządzenia stosuje się maksymalne wielkości tej pomocy, o których mowa w § 4 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
-§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Edukacji i Nauki: K. Szczucki
+
+**§ 1.** W rozporządzeniu Ministra Edukacji i Nauki z dnia 9 maja 2023 r. w sprawie udzielania pomocy publicznej i pomocy de minimis w ramach Inwestycji A2.4.1 Krajowego Planu Odbudowy i Zwiększania Odporności – Inwestycje w rozbudowę potencjału badawczego (Dz. U. poz. 1021) § 4 otrzymuje brzmienie: „§ 4. Pomoc publiczna na przedsięwzięcia w zakresie: 1) infrastruktury badawczej – może zostać udzielona, jeżeli jej wielkość nie przekracza równowartości 35 000 000 euro na infrastrukturę badawczą; 2) szkoleń – może zostać udzielona, jeżeli jej wielkość nie przekracza równowartości 3 000 000 euro na projekt szkoleniowy.”.
+
+**§ 2.** W przypadku pomocy publicznej udzielanej na podstawie wniosków o jej udzielenie złożonych w ramach naboru tych wniosków zakończonego przed dniem wejścia w życie niniejszego rozporządzenia stosuje się maksymalne wielkości tej pomocy, o których mowa w § 4 rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+
+**§ 3.** Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Minister Edukacji i Nauki: K. Szczucki
 
